@@ -17,6 +17,7 @@ export function loadState() {
     digest: s.digest ?? [],
     lastDigest: s.lastDigest ?? '',
     threadsCursor: s.threadsCursor ?? 0,
+    trending: s.trending ?? { on: true, last: '' },
     telegramOffset: s.telegramOffset ?? 0,
     errors: s.errors ?? {},
   };
@@ -27,5 +28,6 @@ export function saveState(state) {
   for (const [k, t] of Object.entries(state.seen)) if (t < cutoff) delete state.seen[k];
   state.digest = state.digest.slice(-DIGEST_MAX);
   delete state.digestNow;
+  delete state.trendingNow;
   writeFileSync(FILE, JSON.stringify(state, null, 2) + '\n');
 }

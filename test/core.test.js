@@ -4,6 +4,7 @@ import { matches, booleanQuery, queryCombos, hasExcluded, badges, isSpam } from 
 import { handleUpdates } from '../src/commands.js';
 import { parseChannelPage } from '../src/sources/telegramChannel.js';
 import { collectPosts, parseCookieString } from '../src/sources/threads.js';
+import { parseTrending } from '../src/sources/githubTrending.js';
 
 test('matches: spasi = semua wajib, | = salah satu, - = tolak', () => {
   assert.ok(matches('Bagi-bagi VPS GRATIS hari ini!', 'vps gratis'));
@@ -33,7 +34,7 @@ test('badges: 🔥 mendesak dan ⚠️ penipuan', () => {
 });
 
 const msg = (id, text, chat = 42) => ({ update_id: id, message: { chat: { id: chat }, text } });
-const blank = () => ({ topics: [], accounts: [], channels: [], digest: [], telegramOffset: 0 });
+const blank = () => ({ topics: [], accounts: [], channels: [], digest: [], trending: { on: true, last: '' }, telegramOffset: 0 });
 
 test('perintah: tanpa TELEGRAM_CHAT_ID, bot memberi tahu chat id', () => {
   const s = blank();
@@ -120,4 +121,28 @@ test('parseCookieString', () => {
   const c = parseCookieString('sessionid=abc; csrftoken=x=y');
   assert.equal(c.length, 4);
   assert.deepEqual([c[0].name, c[0].value, c[2].value], ['sessionid', 'abc', 'x=y']);
+});
+
+test('/trending: kirim sekarang, mati, hidup', () => {
+  const s = blank();
+  handleUpdates(s, [msg(1, '/trending')], '42');
+  assert.equal(s.trendingNow, true);
+  handleUpdates(s, [msg(2, '/trending mati')], '42');
+  assert.equal(s.trending.on, false);
+  handleUpdates(s, [msg(3, '/trending hidup')], '42');
+  assert.equal(s.trending.on, true);
+});
+
+test('parser GitHub Trending', () => {
+  const html = `<article class="Box-row">
+    <h2><a href="/owner/repo">owner / repo</a></h2>
+    <p class="col-9">  Alat keren
+      untuk agen  </p>
+    <span itemprop="programmingLanguage">Python</span>
+    <a href="/owner/repo/stargazers">1,234</a>
+    <span class="d-inline-block float-sm-right">567 stars today</span>
+  </article>`;
+  assert.deepEqual(parseTrending(html), [
+    { repo: 'owner/repo', url: 'https://github.com/owner/repo', desc: 'Alat keren untuk agen', lang: 'Python', stars: '1,234', today: '567' },
+  ]);
 });

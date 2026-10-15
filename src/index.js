@@ -6,6 +6,7 @@ import { searchGoogleNews } from './sources/googlenews.js';
 import { searchReddit } from './sources/reddit.js';
 import { fetchChannel } from './sources/telegramChannel.js';
 import { openThreads } from './sources/threads.js';
+import { fetchTrending } from './sources/githubTrending.js';
 
 const env = process.env;
 const MAX_PER_RUN = 15;
@@ -193,6 +194,24 @@ if (owner) {
     state.digest = [];
   }
   if (slotDue) state.lastDigest = slot;
+
+  // GitHub Trending: sekali sehari mulai jam 08.00 WIB, atau saat diminta lewat /trending.
+  const wibNow = new Date(now + 7 * 3600 * 1000);
+  const today = wibNow.toISOString().slice(0, 10);
+  const trendingDue = state.trending.on && wibNow.getUTCHours() >= 8 && state.trending.last !== today;
+  if (trendingDue || state.trendingNow) {
+    await attempt('github-trending', async () => {
+      const repos = (await fetchTrending()).slice(0, 12);
+      const lines = repos.map(
+        (r, i) =>
+          `${i + 1}. <a href="${escapeHtml(r.url)}">${escapeHtml(r.repo)}</a>` +
+          ` — ⭐ +${escapeHtml(r.today)} hari ini${r.lang ? ` · ${escapeHtml(r.lang)}` : ''}` +
+          (r.desc ? `\n<i>${escapeHtml(r.desc.length > 130 ? r.desc.slice(0, 130) + '…' : r.desc)}</i>` : ''),
+      );
+      await bot.send(owner, `🐙 <b>GitHub Trending hari ini</b>\n\n${lines.join('\n\n')}`);
+      if (trendingDue) state.trending.last = today;
+    });
+  }
 
   // Kabari error sumber, tapi jangan spam: paling sering sekali per 6 jam per sumber.
   for (const e of errors) {

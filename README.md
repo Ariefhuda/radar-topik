@@ -16,6 +16,7 @@ lalu mengirim postingan baru ke Telegram. Gratis, tanpa server — berjalan di G
 | `/hapuschannel namachannel` | Berhenti memantau channel |
 | `/list` | Lihat semua topik, akun, channel |
 | `/ringkasan` | Kirim ringkasan sekarang |
+| `/trending` | Kirim GitHub Trending sekarang (otomatis tiap 08.00 WIB; `/trending mati` / `/trending hidup`) |
 
 Cara menulis topik: spasi = semua kata wajib ada · `|` = salah satu cukup · `-kata` = abaikan postingan dengan kata itu.
 

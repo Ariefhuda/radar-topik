@@ -21,6 +21,9 @@ contoh: <code>/tambah vps|server|cloud gratis|free|giveaway -jual</code>
 <b>Channel Telegram publik</b> (disaring pakai topik)
 /channel &lt;nama&gt; · /hapuschannel &lt;nama&gt;
 
+<b>GitHub Trending</b> (repo populer, tiap pagi 08.00 WIB)
+/trending — kirim sekarang · /trending mati · /trending hidup
+
 /list — lihat semua · /ringkasan — kirim ringkasan sekarang
 
 Tanda: 🔥 = ada kata "terbatas/deadline/hari ini", ⚠️ = ciri penipuan (apk, OTP/PIN, biaya admin, transfer).
@@ -50,6 +53,7 @@ function listText(state) {
     : '(belum ada — pakai /channel)';
   return (
     `<b>Topik:</b>\n${topics}\n\n<b>Akun Threads:</b>\n${accounts}\n\n<b>Channel Telegram:</b>\n${channels}\n\n` +
+    `🐙 GitHub Trending harian: ${state.trending?.on ? 'hidup (08.00 WIB)' : 'mati'}\n` +
     `⚡ = langsung · 📋 = ringkasan (${state.digest.length} menunggu)`
   );
 }
@@ -142,6 +146,19 @@ export function handleUpdates(state, updates, ownerChatId, now = Date.now()) {
       case '/list':
         reply(listText(state));
         break;
+      case '/trending': {
+        const opt = arg.toLowerCase();
+        if (/^(mati|off|stop)$/.test(opt)) {
+          state.trending.on = false;
+          reply('🐙 GitHub Trending harian dimatikan. Ketik <code>/trending hidup</code> untuk menyalakan lagi.');
+        } else if (/^(hidup|on|nyala)$/.test(opt)) {
+          state.trending.on = true;
+          reply('🐙 GitHub Trending akan dikirim tiap pagi 08.00 WIB.');
+        } else {
+          state.trendingNow = true;
+        }
+        break;
+      }
       case '/ringkasan':
         if (state.digest.length) state.digestNow = true;
         else reply('Ringkasan masih kosong.');
