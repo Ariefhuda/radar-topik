@@ -1543,7 +1543,15 @@
     "threads:DdAQqnKE2i5": 1792092649441,
     "threads:Ded9VwOlWwJ": 1792092649441,
     "threads:DdUTeAAAfnb": 1792092649441,
-    "threads:Dehty86jKQi": 1792092649441
+    "threads:Dehty86jKQi": 1792092649441,
+    "threads:DdYqvB_GdAU": 1792092937739,
+    "threads:DeW9ZYMEl9n": 1792092937739,
+    "threads:DaXOSvFFPGO": 1792092937739,
+    "threads:DddNynEn3eO": 1792092937739,
+    "threads:DUSAnI7k_5N": 1792092937739,
+    "threads:DeYtchUkcIH": 1792092937739,
+    "threads:Dd447pwiofl": 1792092937739,
+    "news:CBMi4AFBVV95cUxQVl9ueFdNVmVQM1FQTS0wMlF0OFc5V1ExVzFHb0p5amhMWDRoVkVmYWIyd3JyOUhqRVB0bGtPd0NnQW5aVElTUUJRTUNRLXYtZno3bDl2ZHBqcGtDSjFpdUpkR1p4cEpXTWZXdzFoZ1d6ZFJhX0pfRUl2ME1DZnZMcGljUjg3Wjg4am1OZVF3d3lEZW1rVHZVTm9vdzNfcVhtY1M1Z1l4d2poS0RhMktqMDd5clhjVHNweGhWRXJuOHhYRWdQX1J6OEFSbTVxNDZ2U0xrNkxxdkNXNHBrdU02Sw": 1792092937739
   },
   "digest": [
     {
@@ -1925,10 +1933,20 @@
       "d": 1792083169000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Dampingi Gubernur Banten, Wali Kota Cilegon Pantau Sekolah Gratis, MBG dan SPMB di Kota Cilegon - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVl9ueFdNVmVQM1FQTS0wMlF0OFc5V1ExVzFHb0p5amhMWDRoVkVmYWIyd3JyOUhqRVB0bGtPd0NnQW5aVElTUUJRTUNRLXYtZno3bDl2ZHBqcGtDSjFpdUpkR1p4cEpXTWZXdzFoZ1d6ZFJhX0pfRUl2ME1DZnZMcGljUjg3Wjg4am1OZVF3d3lEZW1rVHZVTm9vdzNfcVhtY1M1Z1l4d2poS0RhMktqMDd5clhjVHNweGhWRXJuOHhYRWdQX1J6OEFSbTVxNDZ2U0xrNkxxdkNXNHBrdU02Sw?oc=5",
+      "d": 1792085843000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
