@@ -193,7 +193,7 @@ if (owner) {
   const slot = digestSlot(now);
   const slotDue = slot && slot !== state.lastDigest;
   if ((slotDue || state.digestNow) && state.digest.length) {
-    for (const m of formatDigest(state.digest)) await bot.send(owner, m);
+    for (const m of formatDigest(state.digest)) await bot.send(owner, m, { preview: false });
     state.digest = [];
   }
   if (slotDue) state.lastDigest = slot;
@@ -211,7 +211,7 @@ if (owner) {
           ` — ⭐ +${escapeHtml(r.today)} hari ini${r.lang ? ` · ${escapeHtml(r.lang)}` : ''}` +
           (r.desc ? `\n<i>${escapeHtml(r.desc.length > 130 ? r.desc.slice(0, 130) + '…' : r.desc)}</i>` : ''),
       );
-      await bot.send(owner, `🐙 <b>GitHub Trending hari ini</b>\n\n${lines.join('\n\n')}`);
+      await bot.send(owner, `🐙 <b>GitHub Trending hari ini</b>\n\n${lines.join('\n\n')}`, { preview: false });
       if (trendingDue) state.trending.last = today;
     });
   }

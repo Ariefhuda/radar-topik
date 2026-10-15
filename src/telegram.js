@@ -25,8 +25,8 @@ export function createBot(token) {
 
   return {
     getUpdates: (offset) => api('getUpdates', { offset, timeout: 0, allowed_updates: ['message'] }),
-    async send(chatId, html) {
-      await api('sendMessage', { chat_id: chatId, text: html, parse_mode: 'HTML' });
+    async send(chatId, html, { preview = true } = {}) {
+      await api('sendMessage', { chat_id: chatId, text: html, parse_mode: 'HTML', link_preview_options: { is_disabled: !preview } });
       await sleep(1100); // batas Telegram ±1 pesan/detik per chat
     },
   };
