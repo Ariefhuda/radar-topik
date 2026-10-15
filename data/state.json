@@ -2065,7 +2065,31 @@
     "threads:DaO7DgPHVvR": 1792104347473,
     "threads:DeiDnCHk38n": 1792104347473,
     "threads:DaaUbFgnVnn": 1792104347473,
-    "threads:DZ-XlH-H4w2": 1792104347473
+    "threads:DZ-XlH-H4w2": 1792104347473,
+    "threads:DeeBUGAk_rB": 1792104645227,
+    "threads:DeVi_34D14f": 1792104645227,
+    "threads:Db7Q9eQmHGH": 1792104645227,
+    "threads:DObNXNdkkHa": 1792104645227,
+    "threads:DehC_-2nUSr": 1792104645227,
+    "threads:Deezm9kk4EU": 1792104645227,
+    "threads:DdyWdVDGDXg": 1792104645227,
+    "threads:DYjaCBQE5GK": 1792104645227,
+    "threads:DWxi-Bgmv5K": 1792104645227,
+    "threads:DbqkImVk6c1": 1792104645227,
+    "threads:DXJQb9PFFaQ": 1792104645227,
+    "threads:Deda8g3if6R": 1792104645227,
+    "threads:Dd3_9w8FOf2": 1792104645227,
+    "threads:DQMGdxNgTrH": 1792104645227,
+    "threads:DegTIJUD2F6": 1792104645227,
+    "threads:DeA0YJUD28F": 1792104645227,
+    "threads:DdYNQoDEXMZ": 1792104645227,
+    "threads:DebvU6xk2Ub": 1792104645227,
+    "threads:DeiEo78GsUE": 1792104645227,
+    "threads:Ddnca-jk3OA": 1792104645227,
+    "threads:Deh_NJ-D2d1": 1792104645227,
+    "threads:DbUUke4iYBA": 1792104645227,
+    "threads:Dd52QHjEVg4": 1792104645227,
+    "news:CBMiqwFBVV95cUxQYmJhX1lhQXdDVEdwOG5iTDFXZXZ4dkp3b1RKMkNXSzQ1UnVQMDJ4VklFU3FlUWJBZDNiTGYzM2lEQl9pYkdKVWx2MUE5U2hMaG9uLTBNYnZQV0dMSkhTRGgzRGs0ajFpVHM3TmFDV1Z4Q0J3OFRyTUU3VHdFV1V4TlZjMTVENEZPc3lCVFNTa3BoUXh0NWg3WTZWSjJxMV8wc2dKYndfU3UyMDQ": 1792104645227
   },
   "digest": [
     {
@@ -2657,10 +2681,20 @@
       "d": 1792104134000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Peserta Pelatihan Kepemimpinan Belajar Sekolah Gratis di Banten - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmJhX1lhQXdDVEdwOG5iTDFXZXZ4dkp3b1RKMkNXSzQ1UnVQMDJ4VklFU3FlUWJBZDNiTGYzM2lEQl9pYkdKVWx2MUE5U2hMaG9uLTBNYnZQV0dMSkhTRGgzRGs0ajFpVHM3TmFDV1Z4Q0J3OFRyTUU3VHdFV1V4TlZjMTVENEZPc3lCVFNTa3BoUXh0NWg3WTZWSjJxMV8wc2dKYndfU3UyMDQ?oc=5",
+      "d": 1792104180000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
