@@ -46,10 +46,13 @@ if (owner && state.topics.length) {
   const queries = [...new Set(state.topics.map((t) => searchQuery(t.q)))].filter(Boolean);
   const byQuery = (q) => state.topics.filter((t) => searchQuery(t.q) === q);
 
-  // Sumber berbasis pencarian: hasil sudah cocok dengan kata kunci, cukup buang kata pengecualian.
-  const addSearchResults = (q, items) => {
+  // Sumber berbasis pencarian. Threads & Reddit hasilnya longgar (banyak yang nggak nyambung),
+  // jadi semua kata topik wajib ada. Berita cukup buang kata pengecualian (judul sering pakai sinonim).
+  const addSearchResults = (q, items, strict = true) => {
     for (const topic of byQuery(q)) {
-      for (const item of items) if (!hasExcluded(item.text, topic.q)) collected.push({ topic, item });
+      for (const item of items) {
+        if (strict ? matches(item.text, topic.q) : !hasExcluded(item.text, topic.q)) collected.push({ topic, item });
+      }
     }
   };
 
@@ -67,7 +70,7 @@ if (owner && state.topics.length) {
   });
 
   await attempt('news', async () => {
-    for (const q of queries) addSearchResults(q, await searchGoogleNews(q));
+    for (const q of queries) addSearchResults(q, await searchGoogleNews(q), false);
   });
 
   // Channel Telegram: ambil pesan terbaru, lalu saring sendiri per topik.
