@@ -1625,7 +1625,12 @@
     "threads:Dd-ruhqieSq": 1792095952100,
     "threads:DUml4Uklxyz": 1792095952100,
     "threads:DXwO9N3E9_9": 1792095952100,
-    "threads:DYxTbNWiWQW": 1792095952100
+    "threads:DYxTbNWiWQW": 1792095952100,
+    "threads:Db4tr3cIJsr": 1792096246633,
+    "threads:Dd23mDgCGfd": 1792096246633,
+    "threads:DbdL4tiET1K": 1792096246633,
+    "threads:Dbda4w1D8En": 1792096246633,
+    "news:CBMivgFBVV95cUxOYkhSSloydjN6SVgwbTFEamdRRlFMdjBURXd2QVFic3ZtSTBaMHJiLVZPTjFOVVh0QXpWLVdBN29fU21Ca1I5SGdiMEZsVmJHalRzTG43WGtvX2VmWDJERElRWEtKcElkN0g1dUFfR2IwUlF5UWNQeTJlNlh5ZENhOGRJNHhnX0hxakJLdUNwNnl3NjFoc2wyZTc3M242bFF2WmNkMjJ2ZDdEZ29QTjNhVFZuVXhka2tadTlrM1Z30gG-AUFVX3lxTE5iSFJKWjJ2M3pJWDBtMURqZ1FGUUx2MFRFd3ZBUWJzdm1JMFowcmItVk9OMU5VWHRBelYtV0E3b19TbUJrUjlIZ2IwRmxWYkdqVHNMbjdYa29fZWZYMkRESVFYS0pwSWQ3SDV1QV9HYjBSUXlRY1B5MmU2WHlkQ2E4ZEk0eGdfSHFqQkt1Q3A2eXc2MWhzbDJlNzczbjZsUXZaY2QyMnZkN0Rnb1BOM2FUVm5VeGRra1p1OWszVnc": 1792096246633
   },
   "digest": [
     {
@@ -2077,10 +2082,20 @@
       "d": 1792073318000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Koran Jakarta ®",
+      "x": "Gratis untuk 250 Pelaku UMK, Pemkab Muara Enim Bongkar Trik Sukses Bisnis Digital - Koran Jakarta ®",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkhSSloydjN6SVgwbTFEamdRRlFMdjBURXd2QVFic3ZtSTBaMHJiLVZPTjFOVVh0QXpWLVdBN29fU21Ca1I5SGdiMEZsVmJHalRzTG43WGtvX2VmWDJERElRWEtKcElkN0g1dUFfR2IwUlF5UWNQeTJlNlh5ZENhOGRJNHhnX0hxakJLdUNwNnl3NjFoc2wyZTc3M242bFF2WmNkMjJ2ZDdEZ29QTjNhVFZuVXhka2tadTlrM1Z30gG-AUFVX3lxTE5iSFJKWjJ2M3pJWDBtMURqZ1FGUUx2MFRFd3ZBUWJzdm1JMFowcmItVk9OMU5VWHRBelYtV0E3b19TbUJrUjlIZ2IwRmxWYkdqVHNMbjdYa29fZWZYMkRESVFYS0pwSWQ3SDV1QV9HYjBSUXlRY1B5MmU2WHlkQ2E4ZEk0eGdfSHFqQkt1Q3A2eXc2MWhzbDJlNzczbjZsUXZaY2QyMnZkN0Rnb1BOM2FUVm5VeGRra1p1OWszVnc?oc=5",
+      "d": 1792090680000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
