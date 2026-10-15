@@ -102,7 +102,10 @@ if (owner && (state.topics.length || state.accounts.length)) {
     });
 
     await attempt('news', async () => {
-      for (const t of state.topics) add([t], await searchGoogleNews(booleanQuery(t.q)), false);
+      for (const t of state.topics) {
+        add([t], await searchGoogleNews(booleanQuery(t.q)), false);
+        await new Promise((r) => setTimeout(r, 1500)); // jeda supaya tidak ditolak (HTTP 503)
+      }
     });
 
     // Channel Telegram: ambil pesan terbaru, lalu saring sendiri per topik.
