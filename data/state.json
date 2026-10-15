@@ -2245,7 +2245,17 @@
     "threads:DZ5dEfxko8L": 1792107642739,
     "threads:DeY8zfdEzjU": 1792107642739,
     "threads:Degg9ipE1wU": 1792107642739,
-    "news:CBMigwFBVV95cUxNZTFKSU5JNVFWUmJnSGNPcV9iSnR1MmJJbGNrTEpBU0pkUlJyM1N5VVBMSUw5MmdWZW41ckFkYUx3aTRLT3BFUWFrMXM0aHNST0hrLU5pZUJoRmFVOFpDOFFQSU9YamRqZFlyUFdwd3M3V2w0X2F4c29kN1lPaVZEYUp2QQ": 1792107642739
+    "news:CBMigwFBVV95cUxNZTFKSU5JNVFWUmJnSGNPcV9iSnR1MmJJbGNrTEpBU0pkUlJyM1N5VVBMSUw5MmdWZW41ckFkYUx3aTRLT3BFUWFrMXM0aHNST0hrLU5pZUJoRmFVOFpDOFFQSU9YamRqZFlyUFdwd3M3V2w0X2F4c29kN1lPaVZEYUp2QQ": 1792107642739,
+    "threads:DeiKZlLidN0": 1792107947469,
+    "threads:DegycpqFAgh": 1792107947469,
+    "threads:DdMNt9AEs5B": 1792107947469,
+    "threads:Dbp530vIG3O": 1792107947469,
+    "threads:DeiKbLNAf8t": 1792107947469,
+    "threads:DeA5jeMAfIN": 1792107947469,
+    "threads:DeOk1E1EvPp": 1792107947469,
+    "threads:Ddp0Dd-j6U3": 1792107947469,
+    "threads:C-UPrTNJmNH": 1792107947469,
+    "news:CBMisAFBVV95cUxOczBXSXYwdXlFQ0FNZUlaX2pCTThLVmFJZV9fbEVLSlV5Tm42Wm1ac1lpRmJST0VHSUlVRWhTSm5xaGdzdDhSQ2s3Zm8xZDNCd0hWZ1lPbnhFdjBKRm5TSmJvWkZSaDZzTWJXcF9vcF83aXdVZzc3d1ozTlR2eGhZcklScHhFMFNFYlBsRkJMTkdJS2oyQk1Hc0o4SFc0RmhkT003bEx3enhtZnVfdzhFctIBtgFBVV95cUxPQ052THB1Sk1GaW9zakhvWkZ3OUtFLTZTdGM4cXhyckZwWVV4Q3NWV2RmeVI5VHVMYjh4ak50SHZlLTNtUC1GQ1gtaHNQRTNOUEFRZEF6YkdkaEtJaVZ3LXJ4V0lFWWE3aUJTZmFtdV9DQWRuUUNjZDZud2tSbm55OFVSajQtZmNfWmhNSDN4N2t3Z200UHFkV1NUWDIwSkxoTHpwRjdsUnRTb0VhN09EcGRnWl9mQQ": 1792107947469
   },
   "digest": [
     {
@@ -2967,10 +2977,30 @@
       "d": 1792106639000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dheawiradien87",
+      "x": "Yuk ka mutualan yukkk, kita bisa bangkit sama sama di kondisi ekonomi yang lagi porak poranda ini… Kaka bisa tetep Olga kok di kelas kelas gratis atau murah, banyak sekarang ka… sa",
+      "u": "https://www.threads.com/@dheawiradien87/post/DeiKbLNAf8t",
+      "d": 1792107707000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Update Status di SIKS-NG: Periode Oktober-Desember Belum Muncul - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczBXSXYwdXlFQ0FNZUlaX2pCTThLVmFJZV9fbEVLSlV5Tm42Wm1ac1lpRmJST0VHSUlVRWhTSm5xaGdzdDhSQ2s3Zm8xZDNCd0hWZ1lPbnhFdjBKRm5TSmJvWkZSaDZzTWJXcF9vcF83aXdVZzc3d1ozTlR2eGhZcklScHhFMFNFYlBsRkJMTkdJS2oyQk1Hc0o4SFc0RmhkT003bEx3enhtZnVfdzhFctIBtgFBVV95cUxPQ052THB1Sk1GaW9zakhvWkZ3OUtFLTZTdGM4cXhyckZwWVV4Q3NWV2RmeVI5VHVMYjh4ak50SHZlLTNtUC1GQ1gtaHNQRTNOUEFRZEF6YkdkaEtJaVZ3LXJ4V0lFWWE3aUJTZmFtdV9DQWRuUUNjZDZud2tSbm55OFVSajQtZmNfWmhNSDN4N2t3Z200UHFkV1NUWDIwSkxoTHpwRjdsUnRTb0VhN09EcGRnWl9mQQ?oc=5",
+      "d": 1792101700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
