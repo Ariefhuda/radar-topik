@@ -1,18 +1,21 @@
 import { loadState, saveState } from './state.js';
 import { createBot, escapeHtml } from './telegram.js';
 import { handleUpdates } from './commands.js';
-import { matches, hasExcluded, searchQuery } from './match.js';
+import { matches, hasExcluded, booleanQuery, queryCombos, badges, isSpam } from './match.js';
 import { searchGoogleNews } from './sources/googlenews.js';
 import { searchReddit } from './sources/reddit.js';
 import { fetchChannel } from './sources/telegramChannel.js';
-import { searchThreads } from './sources/threads.js';
+import { openThreads } from './sources/threads.js';
 
 const env = process.env;
 const MAX_PER_RUN = 15;
 const MAX_AGE = 24 * 3600 * 1000;
 const GRACE = 1 * 3600 * 1000; // postingan sedikit sebelum topik ditambahkan masih dikirim
 const ERROR_NOTIFY_EVERY = 6 * 3600 * 1000;
+const THREADS_PAGES_PER_RUN = 10; // sisanya bergiliran di putaran berikutnya
+const DIGEST_HOURS_WIB = [8, 19];
 const LABEL = { threads: '🧵 Threads', telegram: '✈️ Telegram', reddit: '👽 Reddit', news: '📰 Berita' };
+const ICON = { threads: '🧵', telegram: '✈️', reddit: '👽', news: '📰' };
 
 if (!env.TELEGRAM_BOT_TOKEN) {
   console.error('TELEGRAM_BOT_TOKEN belum diisi.');
@@ -28,9 +31,9 @@ const now = Date.now();
 const updates = await bot.getUpdates(state.telegramOffset);
 for (const r of handleUpdates(state, updates, owner, now)) await bot.send(r.chatId, r.html);
 
-// 2. Kumpulkan postingan dari semua sumber.
+// 2. Kumpulkan postingan dari semua sumber. "target" = topik atau akun yang memicu postingan.
 const errors = [];
-const collected = []; // { topic, item }
+const collected = []; // { target, item }
 
 async function attempt(name, fn) {
   try {
@@ -42,80 +45,154 @@ async function attempt(name, fn) {
   }
 }
 
-if (owner && state.topics.length) {
-  const queries = [...new Set(state.topics.map((t) => searchQuery(t.q)))].filter(Boolean);
-  const byQuery = (q) => state.topics.filter((t) => searchQuery(t.q) === q);
-
-  // Sumber berbasis pencarian. Threads & Reddit hasilnya longgar (banyak yang nggak nyambung),
-  // jadi semua kata topik wajib ada. Berita cukup buang kata pengecualian (judul sering pakai sinonim).
-  const addSearchResults = (q, items, strict = true) => {
-    for (const topic of byQuery(q)) {
+if (owner && (state.topics.length || state.accounts.length)) {
+  // Threads & Reddit hasilnya longgar, jadi semua kata topik wajib ada.
+  // Berita cukup buang kata pengecualian (judul sering pakai sinonim, mis. "karhutla").
+  const add = (topics, items, strict = true) => {
+    for (const topic of topics) {
       for (const item of items) {
-        if (strict ? matches(item.text, topic.q) : !hasExcluded(item.text, topic.q)) collected.push({ topic, item });
+        if (strict ? matches(item.text, topic.q) : !hasExcluded(item.text, topic.q)) collected.push({ target: topic, item });
       }
     }
   };
 
   if (env.THREADS_COOKIES) {
+    const byQuery = new Map();
+    for (const t of state.topics) for (const q of queryCombos(t.q)) byQuery.set(q, [...(byQuery.get(q) ?? []), t]);
+    const jobs = [
+      ...[...byQuery].map(([q, topics]) => ({ name: `threads:"${q}"`, run: (th) => th.search(q), topics })),
+      ...state.accounts.map((a) => ({
+        name: `threads:@${a.u}`,
+        run: (th) => th.profile(a.u),
+        account: { q: `@${a.u}`, mode: a.mode, addedAt: a.addedAt },
+      })),
+    ];
+    const take = Math.min(THREADS_PAGES_PER_RUN, jobs.length);
+    const start = state.threadsCursor % Math.max(jobs.length, 1);
+    state.threadsCursor = start + take;
+
     await attempt('threads', async () => {
-      const res = await searchThreads(queries, env.THREADS_COOKIES);
-      for (const [q, items] of res) addSearchResults(q, items);
-    });
-  }
-
-  await attempt('reddit', async () => {
-    for (const q of queries) {
-      addSearchResults(q, await searchReddit(q, { clientId: env.REDDIT_CLIENT_ID, clientSecret: env.REDDIT_CLIENT_SECRET }));
-    }
-  });
-
-  await attempt('news', async () => {
-    for (const q of queries) addSearchResults(q, await searchGoogleNews(q), false);
-  });
-
-  // Channel Telegram: ambil pesan terbaru, lalu saring sendiri per topik.
-  for (const ch of state.channels) {
-    await attempt(`channel:${ch}`, async () => {
-      const items = await fetchChannel(ch);
-      for (const topic of state.topics) {
-        for (const item of items) if (matches(item.text, topic.q)) collected.push({ topic, item });
+      const th = await openThreads(env.THREADS_COOKIES);
+      try {
+        for (let i = 0; i < take; i++) {
+          const job = jobs[(start + i) % jobs.length];
+          try {
+            const items = await job.run(th);
+            if (job.account) for (const item of items) collected.push({ target: job.account, item });
+            else add(job.topics, items);
+            delete state.errors[job.name];
+          } catch (e) {
+            if (/cookie/i.test(e.message)) throw e; // percuma lanjut kalau belum login
+            console.error(`[${job.name}]`, e.message);
+            errors.push({ name: job.name, message: e.message });
+          }
+        }
+      } finally {
+        await th.close();
       }
     });
   }
+
+  if (state.topics.length) {
+    await attempt('reddit', async () => {
+      for (const t of state.topics) {
+        add([t], await searchReddit(booleanQuery(t.q), { clientId: env.REDDIT_CLIENT_ID, clientSecret: env.REDDIT_CLIENT_SECRET }));
+      }
+    });
+
+    await attempt('news', async () => {
+      for (const t of state.topics) add([t], await searchGoogleNews(booleanQuery(t.q)), false);
+    });
+
+    // Channel Telegram: ambil pesan terbaru, lalu saring sendiri per topik.
+    for (const ch of state.channels) {
+      await attempt(`channel:${ch}`, async () => add(state.topics, await fetchChannel(ch)));
+    }
+  }
 }
 
-// 3. Saring yang baru & kirim notifikasi.
+// 3. Saring yang baru, lalu bagi ke notif langsung atau ringkasan.
 const fresh = [];
 const queued = new Set();
-for (const { topic, item } of collected) {
+for (const { target, item } of collected) {
   const key = `${item.source}:${item.id}`;
   const isNew = !state.seen[key] && !queued.has(key);
   state.seen[key] ??= now;
   if (!isNew) continue;
-  if (item.date < now - MAX_AGE || item.date < topic.addedAt - GRACE) continue;
+  if (item.date < now - MAX_AGE || item.date < target.addedAt - GRACE || isSpam(item.text)) continue;
   queued.add(key);
-  fresh.push({ topic, item });
+  fresh.push({ target, item, ...badges(item.text) });
 }
-// Kalau kebanyakan, ambil yang paling baru, lalu kirim urut dari yang terlama.
-fresh.sort((a, b) => b.item.date - a.item.date);
-const toSend = fresh.slice(0, MAX_PER_RUN).reverse();
 
-function format({ topic, item }) {
-  const text = item.text.length > 600 ? item.text.slice(0, 600) + '…' : item.text;
-  const time = new Date(item.date).toLocaleString('id-ID', { timeZone: 'Asia/Jakarta', dateStyle: 'short', timeStyle: 'short' });
+const instant = fresh.filter((f) => f.target.mode !== 'digest');
+for (const f of fresh.filter((f) => f.target.mode === 'digest')) {
+  state.digest.push({
+    t: f.target.q, s: f.item.source, a: f.item.author, x: f.item.text.replace(/\s+/g, ' ').slice(0, 180),
+    u: f.item.url, d: f.item.date, urgent: f.urgent, warn: f.warnings.length > 0,
+  });
+}
+
+// Kalau kebanyakan, ambil yang paling baru, lalu kirim urut dari yang terlama.
+instant.sort((a, b) => b.item.date - a.item.date);
+const toSend = instant.slice(0, MAX_PER_RUN).reverse();
+
+const wib = (ms) => new Date(ms).toLocaleString('id-ID', { timeZone: 'Asia/Jakarta', dateStyle: 'short', timeStyle: 'short' });
+
+function formatInstant({ target, item, urgent, warnings }) {
+  const text = item.text.length > 700 ? item.text.slice(0, 700) + '…' : item.text;
+  const likes = item.likes ? ` · ❤️ ${item.likes}` : '';
   return (
-    `${LABEL[item.source] ?? item.source} · <b>${escapeHtml(topic.q)}</b>\n` +
-    `${escapeHtml(item.author)} · ${time} WIB\n\n` +
-    `${escapeHtml(text)}\n\n` +
-    `<a href="${escapeHtml(item.url)}">Buka postingan</a>`
+    `${urgent ? '🔥 ' : ''}${LABEL[item.source] ?? item.source} · <b>${escapeHtml(target.q)}</b>\n` +
+    `${escapeHtml(item.author)} · ${wib(item.date)} WIB${likes}\n` +
+    (warnings.length ? `⚠️ <b>Hati-hati:</b> ${escapeHtml(warnings.join(', '))}\n` : '') +
+    `\n${escapeHtml(text)}\n\n<a href="${escapeHtml(item.url)}">Buka postingan</a>`
   );
 }
 
-if (owner) {
-  for (const f of toSend) await bot.send(owner, format(f));
-  if (fresh.length > MAX_PER_RUN) {
-    await bot.send(owner, `…dan ${fresh.length - MAX_PER_RUN} postingan lama lain dilewati (terlalu banyak sekaligus). Coba perketat topiknya.`);
+// Ringkasan: dikelompokkan per topik, dipecah per ±3800 karakter (batas Telegram 4096).
+function formatDigest(entries) {
+  const groups = new Map();
+  for (const e of [...entries].sort((a, b) => b.d - a.d)) groups.set(e.t, [...(groups.get(e.t) ?? []), e]);
+  const blocks = [];
+  for (const [t, list] of groups) {
+    blocks.push(`\n<b>${escapeHtml(t)}</b> (${list.length})`);
+    for (const e of list) {
+      blocks.push(
+        `${e.urgent ? '🔥' : '•'}${e.warn ? '⚠️' : ''} ${ICON[e.s] ?? ''} ${escapeHtml(e.x)} — <a href="${escapeHtml(e.u)}">${escapeHtml(e.a || 'buka')}</a>`,
+      );
+    }
   }
+  const messages = [];
+  let cur = `📋 <b>Ringkasan</b> — ${entries.length} postingan`;
+  for (const b of blocks) {
+    if (cur.length + b.length > 3800) {
+      messages.push(cur);
+      cur = '📋 <i>(lanjutan)</i>';
+    }
+    cur += '\n' + b;
+  }
+  return [...messages, cur];
+}
+
+function digestSlot(ms) {
+  const d = new Date(ms + 7 * 3600 * 1000); // WIB = UTC+7
+  const passed = DIGEST_HOURS_WIB.filter((h) => d.getUTCHours() >= h);
+  return passed.length ? `${d.toISOString().slice(0, 10)}-${passed.at(-1)}` : null;
+}
+
+if (owner) {
+  for (const f of toSend) await bot.send(owner, formatInstant(f));
+  if (instant.length > MAX_PER_RUN) {
+    await bot.send(owner, `…dan ${instant.length - MAX_PER_RUN} postingan lama lain dilewati (terlalu banyak sekaligus). Coba perketat topiknya.`);
+  }
+
+  const slot = digestSlot(now);
+  const slotDue = slot && slot !== state.lastDigest;
+  if ((slotDue || state.digestNow) && state.digest.length) {
+    for (const m of formatDigest(state.digest)) await bot.send(owner, m);
+    state.digest = [];
+  }
+  if (slotDue) state.lastDigest = slot;
 
   // Kabari error sumber, tapi jangan spam: paling sering sekali per 6 jam per sumber.
   for (const e of errors) {
@@ -126,4 +203,7 @@ if (owner) {
 }
 
 saveState(state);
-console.log(`Selesai: ${collected.length} cocok, ${fresh.length} baru dikirim, ${errors.length} sumber error.`);
+console.log(
+  `Selesai: ${collected.length} cocok, ${toSend.length} dikirim langsung, ` +
+    `${fresh.length - instant.length} masuk ringkasan, ${errors.length} error.`,
+);

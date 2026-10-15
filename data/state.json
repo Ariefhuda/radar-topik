@@ -1,8 +1,44 @@
 {
   "topics": [
     {
-      "q": "vps gratis",
-      "addedAt": 1792073822003
+      "q": "vps|server gratis|giveaway|bagi -jual -sewa",
+      "mode": "instant",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "free vps",
+      "mode": "instant",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "kuota gratis|bagi",
+      "mode": "instant",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "free credit|tier",
+      "mode": "instant",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "mode": "digest",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "e-sertifikat|sertifikat gratis",
+      "mode": "digest",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "beasiswa dibuka|pendaftaran",
+      "mode": "digest",
+      "addedAt": 1792075038258
+    },
+    {
+      "q": "bansos cair|pencairan|cek",
+      "mode": "digest",
+      "addedAt": 1792075038258
     }
   ],
   "channels": [],
@@ -33,5 +69,22 @@
     "news:CBMi2AFBVV95cUxNTHZ4Um1aWFlUSVZxVmFLcE8ySUVmd2oxRDE4bnF1VFpHSnBaY0RPbW13VGNiS3RTVHRpR05OQlJlcnFkTWxKR1VxbnRlY21LdHhLdF9zLURJMUhBT3p4NGtTTHdISEVqV0FfY3diaGszTmdzSEhvWHFGMDNKcEM2Ujh3Q3lhOVlTYlk1bTcxVVJyT2RSbG5jQ3NFZkZxOVozQVFYaFZfQW1ValNIWjgtUURpOXlmdTRzOTNhMF9WMDdTaVZxbVZvTlNiaDZrdFdFRzd0a0UyQ1E": 1792073822003
   },
   "telegramOffset": 241862413,
-  "errors": {}
+  "errors": {},
+  "accounts": [
+    {
+      "u": "updatepelatihan",
+      "mode": "digest",
+      "addedAt": 1792075038258
+    },
+    {
+      "u": "sumopodcloud",
+      "mode": "instant",
+      "addedAt": 1792075038258
+    },
+    {
+      "u": "yanuar.code",
+      "mode": "instant",
+      "addedAt": 1792075038258
+    }
+  ]
 }

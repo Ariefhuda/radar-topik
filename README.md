@@ -7,13 +7,23 @@ lalu mengirim postingan baru ke Telegram. Gratis, tanpa server — berjalan di G
 
 | Perintah | Fungsi |
 |---|---|
-| `/tambah vps gratis -jual -sewa` | Pantau topik. Kata berawalan `-` = abaikan postingan yang memuat kata itu |
-| `/list` | Lihat topik & channel |
-| `/hapus 1` | Hapus topik nomor 1 |
-| `/channel namachannel` | Pantau channel Telegram publik (`t.me/s/namachannel` harus bisa dibuka) |
+| `/tambah vps\|server gratis\|giveaway -jual` | ⚡ Notif langsung tiap ada postingan baru |
+| `/ringkas webinar\|pelatihan gratis` | 📋 Dikumpulkan jadi ringkasan jam 08.00 & 19.00 WIB |
+| `/hapus 1` | Hapus topik nomor 1 (lihat `/list`) |
+| `/akun updatepelatihan` | Kirim semua postingan baru akun Threads ini (tambah `ringkas` di belakang untuk mode ringkasan) |
+| `/hapusakun updatepelatihan` | Berhenti memantau akun |
+| `/channel namachannel` | Pantau channel Telegram publik (`t.me/s/namachannel` harus bisa dibuka), disaring pakai topik |
 | `/hapuschannel namachannel` | Berhenti memantau channel |
+| `/list` | Lihat semua topik, akun, channel |
+| `/ringkasan` | Kirim ringkasan sekarang |
 
-Balasan perintah juga ikut jadwal pengecekan, jadi bisa telat beberapa menit.
+Cara menulis topik: spasi = semua kata wajib ada · `|` = salah satu cukup · `-kata` = abaikan postingan dengan kata itu.
+
+Tanda di notifikasi: 🔥 = menyebut "terbatas/deadline/hari ini", ⚠️ = ciri penipuan (file .apk, OTP/PIN, biaya admin, transfer).
+Spam judi online dibuang otomatis.
+
+Threads dicek bergiliran maksimal 10 halaman per putaran (supaya akun aman), jadi kalau topiknya banyak,
+tiap kata kunci dicek tiap beberapa putaran. Balasan perintah ikut jadwal pengecekan.
 
 ## Setup
 
