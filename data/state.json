@@ -1872,7 +1872,15 @@
     "threads:DZyvq8NGfGc": 1792100453580,
     "threads:Dbi8YLwEy6h": 1792100453580,
     "threads:DYRMPpJj6RU": 1792100453580,
-    "threads:DPTjvi7E5Ix": 1792100453580
+    "threads:DPTjvi7E5Ix": 1792100453580,
+    "threads:DcBbcNZkuhp": 1792100740776,
+    "threads:DcDx-A3FNZZ": 1792100740776,
+    "threads:DW-vx43jzZH": 1792100740776,
+    "threads:DeWsKY2D2R5": 1792100740776,
+    "news:CBMizgFBVV95cUxOVzdBYkNmaXlEalp0ZnNndGJibUVpa1QxNGV3QklIeXd4Z0R6YmFoTWZhamdqMDNzN0tOSEphc2wwdDVyWFozcVpxSWNzS29ZNnBiZ0psdllLOHJ5elE0bXJhbzczX1luYjhEelZwYkJLdHBDWjVTTm1tVkVEbEllTTNtdnlfdmtKbTFMOVZoN21TWnVMY1JLUloteERaMjlfT2tnOUFzdjAyUWFFUG1QVlYyUHlzWHZCQlNVR2RWSFAwMWFZRmdITHRfclJVd9IB0wFBVV95cUxPalkxS181LUR1XzdhTHh3VmZDWVNYdkphMHR5X2VSWVlHd0dzZlB2aGNGTjFvdHhUNUtsZWxqYmx2Q2RLemJFMzg1aVEteXlJOHRfV3NxVkZNVC1ndk84cVU3cjhJZGM1ajN4NXFoWHZjbms3cmc0VHl6UV9MS1BERElkXzBaRExwVkZFVGh6Sjh5bG1maWRPbjZ0bVF1S3V2dDdOZnhRNUo2V2ZsZEtxakRqTzNEZDJJcmpLSm1fRTNJSU9mYzBtVTkyTUtvRy1NS3NF": 1792100740776,
+    "news:CBMiqgFBVV95cUxOWWQtQ2k3S09QNnRER1ZJdDhtakJNb0dmcHR2NDV3R2Z1OHZuamVHa3U2NkFhWENpRElSblAzdk8tNU1KRTI1QTVFTTg4UmRqc0VUZDVKWkNYUVc2YWlWME5raHNRb2U1eXQxdmxQOFF3RFpKaWEwdEZaM1A2VHNtZ212RFdTbldWVW03bDl5R0t4ZURDdnd3TkFpSjlnOUJ0S0hoUEM2Qzl2QQ": 1792100740776,
+    "news:CBMitAFBVV95cUxQcTkwWC03MWo3emE5bmxjNDRoTmxfd3JiT3VLOHlZSXZ3MHdVSWN5SThlM0w1ZXl6ZWN4TDIzWGNEbTJBNXZzS2JfNzlfY3gyeFdEYmZPZGRtTTlTYTBjSUdyTmJFTHNnQm1LT2xWdTdwZFF5ZkYwNEprVlJ1aUFwSFRqdUdnLVJvR3NhdVlNcmpCZVVIY1JqUlp6ZlQ2QnhUWU5JX0NOWVBKTmNoNlQ5YmhWWUbSAbQBQVVfeXFMUHE5MFgtNzFqN3phOW5sYzQ0aE5sX3dyYk91Szh5WUl2dzB3VUljeUk4ZTNMNWV5emVjeEwyM1hjRG0yQTV2c0tiXzc5X2N4MnhXRGJmT2RkbU05U2EwY0lHck5iRUxzZ0JtS09sVnU3cGRReWZGMDRKa1ZSdWlBcEhUanVHZy1Sb0dzYXVZTXJqQmVVSGNSalJaemZUNkJ4VFlOSV9DTllQSk5jaDZUOWJoVllG": 1792100740776,
+    "news:CBMic0FVX3lxTFBDb3hEU2hJQmFnWk8wNkJkWDhEZENCN0VqZUtINUQ5cU9oWHpDczB0U1d6enRfWmFBd2VkdkNicUlOaWdqenNiWVRJbkpJQWdyX24zYkx0ZERac25iVmVFbHZpd0pqdFV4bmk0aFV2dUFVVEk": 1792100740776
   },
   "digest": [
     {
@@ -2364,10 +2372,20 @@
       "d": 1792098159000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "Cara Daftar Bansos Mandiri Lewat Aplikasi Cek Bansos 2026 - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDb3hEU2hJQmFnWk8wNkJkWDhEZENCN0VqZUtINUQ5cU9oWHpDczB0U1d6enRfWmFBd2VkdkNicUlOaWdqenNiWVRJbkpJQWdyX24zYkx0ZERac25iVmVFbHZpd0pqdFV4bmk0aFV2dUFVVEk?oc=5",
+      "d": 1792100400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
