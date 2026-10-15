@@ -1591,7 +1591,11 @@
     "threads:DcNjf0dGit1": 1792094464076,
     "threads:Ddk7q84mn1C": 1792094464076,
     "threads:Dd6ivWUkg0-": 1792094464076,
-    "news:CBMilwFBVV95cUxNRlc4M2xNZlhmUllxODZwcDR5RjFTOWZmZTBBclpTUmVmaFNtd2x5T2R3Um1wcTdqZnQ4UW1Wcjh1bEdtUE43WGJiVVgyZjJJV2xOdGtJYW9ydi13Qk1pdmRONWZRZjQxN21rUEFFRlJEWUwxTUdSRXFTclBKa3Y0NFktZ0dZcVNYYXZ1dTloUXB1Ty1WdVVB": 1792094464076
+    "news:CBMilwFBVV95cUxNRlc4M2xNZlhmUllxODZwcDR5RjFTOWZmZTBBclpTUmVmaFNtd2x5T2R3Um1wcTdqZnQ4UW1Wcjh1bEdtUE43WGJiVVgyZjJJV2xOdGtJYW9ydi13Qk1pdmRONWZRZjQxN21rUEFFRlJEWUwxTUdSRXFTclBKa3Y0NFktZ0dZcVNYYXZ1dTloUXB1Ty1WdVVB": 1792094464076,
+    "threads:DbdCOmQkfIN": 1792094736930,
+    "threads:DehxvUpk7w7": 1792094736930,
+    "threads:DeaPYsnk3l-": 1792094736930,
+    "news:CBMi2gFBVV95cUxOUVlfaUZKUHdzM2hxNVRlaWYwZ1l4UUlyZjhBbjdBS0lfRTNoS1I2S25IMGRFYV9jZXFCM00wTURXVGdheTE0VlJLTW52YlpKWDBZT2lFd1M5bExnQnItd0cya1kwUTB1MTUwR081Z3prQTl6Y2l6NTU4Q25ub0lVOFJRTklmRmt5OTh3anZwQWhIU1pIaExGOVBYaUN1OFpsdF9uVEJZQ1ZwUDNPaTlLSkdQdk93TkFOYzlkZXVfUkxnRlB6bXJxbGJzU2JaNlliaEwyNEtLSDZhUQ": 1792094736930
   },
   "digest": [
     {
@@ -2033,10 +2037,20 @@
       "d": 1792094401000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Teropong Indonesia News",
+      "x": "Cek Data Bansos Pedagang Kecil di Sampang, Slamet Ariyadi Temukan Status Penerima Belum Jelas - Teropong Indonesia News",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUVlfaUZKUHdzM2hxNVRlaWYwZ1l4UUlyZjhBbjdBS0lfRTNoS1I2S25IMGRFYV9jZXFCM00wTURXVGdheTE0VlJLTW52YlpKWDBZT2lFd1M5bExnQnItd0cya1kwUTB1MTUwR081Z3prQTl6Y2l6NTU4Q25ub0lVOFJRTklmRmt5OTh3anZwQWhIU1pIaExGOVBYaUN1OFpsdF9uVEJZQ1ZwUDNPaTlLSkdQdk93TkFOYzlkZXVfUkxnRlB6bXJxbGJzU2JaNlliaEwyNEtLSDZhUQ?oc=5",
+      "d": 1792073318000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
