@@ -1938,7 +1938,16 @@
     "threads:DTsEm4Pjdj6": 1792102846024,
     "threads:Db9jNCIiZKu": 1792102846024,
     "threads:DaTrqmICXW2": 1792102846024,
-    "threads:DbkWDlmG_lR": 1792102846024
+    "threads:DbkWDlmG_lR": 1792102846024,
+    "threads:DKrKKoLBcaf": 1792103143914,
+    "threads:Dd55rFcIM3W": 1792103143914,
+    "threads:DcIkQYAndvf": 1792103143914,
+    "threads:DecfE3vk-NF": 1792103143914,
+    "threads:DYIS42uk53G": 1792103143914,
+    "threads:DcfXKjtESvc": 1792103143914,
+    "threads:Dd7aTkQkzi7": 1792103143914,
+    "news:CBMiugFBVV95cUxPQ1JXR3JRYVFJa2hCN1JJYkNDUmFuUUpjd0k3cldGTnl6Z1gybm51dldpOW9XVGhMVkFXUmVZbkpjSjZxcHpVcldENk83dzZkNWlyNlBQTlBSQVNZempFNVhwZ2FvUV9YR1lCUWFWMXg5cVBmU1d5aEhJZXVDQzBncmw2eUp6bXNVNTNUd1F3cFQtYkRUZVpWdVl0UW5DNjJrd3loTHdNc3Y5bzJibzNQYnhNMnM2cVJZdEE": 1792103143914,
+    "news:CBMiX0FVX3lxTE1Id19UbW1QeUU2aVY3eXRxYXlaWWlsOEpTV0xDN1ZoNzZGdFAxSlQ2RmZTN2tIdm5NQkl5S25RdVUzOVlYWlB0bnFZUDVHbFpxd1ZjQzBPcFBka0FwOENz": 1792103143914
   },
   "digest": [
     {
@@ -2470,10 +2479,30 @@
       "d": 1792101611000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "INDODAILY.CO",
+      "x": "Wujudkan Pemasyarakatan Sehat, Lapas Prempuan Palembang Tuntaskan Hari Kedua Cek Kesehatan Gratis - INDODAILY.CO",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1JXR3JRYVFJa2hCN1JJYkNDUmFuUUpjd0k3cldGTnl6Z1gybm51dldpOW9XVGhMVkFXUmVZbkpjSjZxcHpVcldENk83dzZkNWlyNlBQTlBSQVNZempFNVhwZ2FvUV9YR1lCUWFWMXg5cVBmU1d5aEhJZXVDQzBncmw2eUp6bXNVNTNUd1F3cFQtYkRUZVpWdVl0UW5DNjJrd3loTHdNc3Y5bzJibzNQYnhNMnM2cVJZdEE?oc=5",
+      "d": 1792103075000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "Kementrans Siapkan Beasiswa Chongqing untuk Warga Transmigrasi - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Id19UbW1QeUU2aVY3eXRxYXlaWWlsOEpTV0xDN1ZoNzZGdFAxSlQ2RmZTN2tIdm5NQkl5S25RdVUzOVlYWlB0bnFZUDVHbFpxd1ZjQzBPcFBka0FwOENz?oc=5",
+      "d": 1792081111000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
