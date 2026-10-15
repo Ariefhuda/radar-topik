@@ -1379,7 +1379,13 @@
     "threads:Ded6I77GTgq": 1792087569146,
     "threads:DY3CH2ulD5A": 1792087569146,
     "threads:Deed9mAFStx": 1792087569146,
-    "reddit:t3_1x6srr4": 1792087569146
+    "reddit:t3_1x6srr4": 1792087569146,
+    "threads:DcmtlpQGAUk": 1792087849713,
+    "threads:DbTVUfIDxEG": 1792087849713,
+    "threads:DdDGrRdo-YM": 1792087849713,
+    "threads:Ddir-ZEFB_m": 1792087849713,
+    "threads:DehkqZKjqMV": 1792087849713,
+    "news:CBMi2wFBVV95cUxNcFI3bXYtNm5zaEtRZDhiTDR5djdxRllXcXludHQxamZucjI4LWlRbzBidkpYeEZRUm9DY0hwOFVXMEc1QTJDX0NRbTlmRVE0TjhDeTBHbGNwV1FxdktIOVdwQWZ0c1RacUpOWmV5MnNwTC1FLXlqMi1iZ3h0aWRreDNoQ2l3T3Zhd09mbUgzUDNGa3JBc2RUSW1sWXZVay1WWGJCMFV2NHMzY0NFUktEQnp1b3B2WHpmc0prYzZJdm1xS0Q0Rl9Ob0pRcjhYcXZ3MDZmYXAySkhFSXPSAeABQVVfeXFMTkx2UjZFX1oyZGFGb0ZlZll6Z3BqQ1p3RXNSRkVWM3MybTg4M2NsSTcwWTJmb05OMzdFemx0b2Q1Y1NLdEY1QUNvMGNOZmN4RGozbWhtUENtMkJ0Y1dYaVFVYmRuT21jTUlSOExwemhHWkItUjYyWEhWaTk5QzY2Z0FXTWRfMmhNTFhkcWo2N1dpekZ4X2Z4QWNDVDMzbzFVMWN6RVI5NnlRNE5XX2hEV0hQbnJzSWZjbnBnTVdBZy16ZUFaQlBFRGZ1V3FUTjhMVmd2RGlnWUVZWGV1b0lVMW0": 1792087849713
   },
   "digest": [
     {
@@ -1691,10 +1697,20 @@
       "d": 1792087061000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pojok Malioboro",
+      "x": "Tak Punya Sertifikat Halal, Apakah Produk Langsung Ditarik dari Pasaran? Ini Penjelasan BPJPH - Pojok Malioboro - Pojok Malioboro",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcFI3bXYtNm5zaEtRZDhiTDR5djdxRllXcXludHQxamZucjI4LWlRbzBidkpYeEZRUm9DY0hwOFVXMEc1QTJDX0NRbTlmRVE0TjhDeTBHbGNwV1FxdktIOVdwQWZ0c1RacUpOWmV5MnNwTC1FLXlqMi1iZ3h0aWRreDNoQ2l3T3Zhd09mbUgzUDNGa3JBc2RUSW1sWXZVay1WWGJCMFV2NHMzY0NFUktEQnp1b3B2WHpmc0prYzZJdm1xS0Q0Rl9Ob0pRcjhYcXZ3MDZmYXAySkhFSXPSAeABQVVfeXFMTkx2UjZFX1oyZGFGb0ZlZll6Z3BqQ1p3RXNSRkVWM3MybTg4M2NsSTcwWTJmb05OMzdFemx0b2Q1Y1NLdEY1QUNvMGNOZmN4RGozbWhtUENtMkJ0Y1dYaVFVYmRuT21jTUlSOExwemhHWkItUjYyWEhWaTk5QzY2Z0FXTWRfMmhNTFhkcWo2N1dpekZ4X2Z4QWNDVDMzbzFVMWN6RVI5NnlRNE5XX2hEV0hQbnJzSWZjbnBnTVdBZy16ZUFaQlBFRGZ1V3FUTjhMVmd2RGlnWUVZWGV1b0lVMW0?oc=5",
+      "d": 1792076593000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
