@@ -1651,7 +1651,13 @@
     "threads:DJ9BmfPByE_": 1792097145451,
     "threads:Deh2JGelRXs": 1792097145451,
     "news:CBMiYkFVX3lxTE9PZW5OSUl6bHFPOUdUZXdPS0xnaXo5XzJBQlVkVFpBRWY5UV9RLXR1VXdFN0tEaEJJTC1QVWctRHFVWThVN2xaYlZPdlFMcFBxem1Md1lnRVJTOTlraC1yMzR3": 1792097145451,
-    "news:CBMiYkFVX3lxTE5RN1h2MFYxbEJqczA3U01YUXIwMENBOFFSWUdMc2FmOVgzbWhyT0RqdXpBdmUxREtHZTV6blg4akZDOXZGcElvbGc5VFRwT3QtVzVJN2xKTTBDeFFSUHo4NEVB": 1792097145451
+    "news:CBMiYkFVX3lxTE5RN1h2MFYxbEJqczA3U01YUXIwMENBOFFSWUdMc2FmOVgzbWhyT0RqdXpBdmUxREtHZTV6blg4akZDOXZGcElvbGc5VFRwT3QtVzVJN2xKTTBDeFFSUHo4NEVB": 1792097145451,
+    "threads:Deh1uGpjkEX": 1792097441099,
+    "threads:Deh1FfoEx99": 1792097441099,
+    "threads:Deh1A2PE-s6": 1792097441099,
+    "threads:Dd0l6JakY6V": 1792097441099,
+    "threads:DKb3M7ghiD1": 1792097441099,
+    "threads:DeYFsSCmGGN": 1792097441099
   },
   "digest": [
     {
@@ -2113,10 +2119,30 @@
       "d": 1792090680000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@firdzone",
+      "x": "Kebanyakan orang gagal dapet income dari bisnis online bukan karena gak ada modal, tapi karena nekat jalan tanpa tau ilmu digital marketing-nya. Mumpung ada Webinar GRATIS + Belaja",
+      "u": "https://www.threads.com/@firdzone/post/Deh1FfoEx99",
+      "d": 1792096520000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@edeniquestore",
+      "x": "Kebanyakan orang gagal dapet income dari bisnis online bukan karena gak ada modal, tapi karena nekat jalan tanpa tau ilmu digital marketing-nya. Mumpung ada Webinar GRATIS + Belaja",
+      "u": "https://www.threads.com/@edeniquestore/post/Deh1A2PE-s6",
+      "d": 1792096482000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
