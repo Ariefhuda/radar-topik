@@ -2167,7 +2167,16 @@
     "threads:Dcx3Fx6lAPj": 1792105536841,
     "threads:DdxMLXlE52T": 1792105536841,
     "threads:Da9ZB3oGla6": 1792105536841,
-    "news:CBMiakFVX3lxTE1mUDNoUGE2RmlQMHZtYV83OGJ0SUszMXpmc2FrOWJyS2VUQ21HdGQ0ZVFxWWVSeVFFcFYycGRRTS1vbUpLSlBxZzFjaEZMR3RTSmE5MU9QNjVacjNzMGdJbGFPSEV5RHFqX1E": 1792105536841
+    "news:CBMiakFVX3lxTE1mUDNoUGE2RmlQMHZtYV83OGJ0SUszMXpmc2FrOWJyS2VUQ21HdGQ0ZVFxWWVSeVFFcFYycGRRTS1vbUpLSlBxZzFjaEZMR3RTSmE5MU9QNjVacjNzMGdJbGFPSEV5RHFqX1E": 1792105536841,
+    "threads:DeiCBXAEjXm": 1792105840229,
+    "threads:DeiB5S2E-ob": 1792105840229,
+    "threads:DeiB-nIEks1": 1792105840229,
+    "threads:DX_JpZwkQrt": 1792105840229,
+    "threads:DeiFsJfEr5x": 1792105840229,
+    "threads:DcYJbLtj50F": 1792105840229,
+    "threads:DMUx_AjSr-A": 1792105840229,
+    "threads:DdfdzlxHR22": 1792105840229,
+    "threads:DSOV07VEo0s": 1792105840229
   },
   "digest": [
     {
@@ -2779,10 +2788,50 @@
       "d": 1792104092000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@awsaiacademy",
+      "x": "​🚀 BEASISWA GRATIS AWS AI ACADEMY 2026! 🚀 ​Belajar Machine Learning, Generative AI, Python & Cloud dengan kurikulum resmi AWS. Terbuka untuk semua WNI! ​✅ 100% Gratis, Online & F",
+      "u": "https://www.threads.com/@awsaiacademy/post/DeiCBXAEjXm",
+      "d": 1792103301000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@rizkyfalzz",
+      "x": "​🚀 BEASISWA GRATIS AWS AI ACADEMY 2026! 🚀 ​Belajar Machine Learning, Generative AI, Python & Cloud dengan kurikulum resmi AWS. Terbuka untuk semua WNI! ​✅ 100% Gratis, Online & F",
+      "u": "https://www.threads.com/@rizkyfalzz/post/DeiB5S2E-ob",
+      "d": 1792103235000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@awsaiacademy",
+      "x": "​🚀 BEASISWA GRATIS AWS AI ACADEMY 2026! 🚀 ​Belajar Machine Learning, Generative AI, Python & Cloud dengan kurikulum resmi AWS. Terbuka untuk semua WNI! ​✅ 100% Gratis, Online & F",
+      "u": "https://www.threads.com/@awsaiacademy/post/DeiB-nIEks1",
+      "d": 1792103279000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@goodfriends_scholarship",
+      "x": "📌 Syarat lainnya: ✅ Ajukan di Australia sebagai pemegang utama 485 yang sesuai ✅ Umumnya maksimal 35 tahun saat pengajuan kedua (ada pengecualian) ✅ Kerja/studi selama 485 terkait",
+      "u": "https://www.threads.com/@goodfriends_scholarship/post/DeiFsJfEr5x",
+      "d": 1792105225000,
+      "urgent": false,
+      "warn": true
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
