@@ -1447,7 +1447,19 @@
     "threads:DSuO6ahkxXs": 1792090853330,
     "threads:Db__h4YHcU-": 1792090853330,
     "news:CBMivwFBVV95cUxQOTJKQ2s3RzVDaGpuRlhJSWVpUUlfZnlBZmwtUm15bnBCMjh2S3F3X1Awbm9vT2JVU2xGTWVkVmpDSVFnXzU0MXRFdi1BRWVKRHJSdFd5a09URmdmSHo3eTljM0hvU3ZLcGZXbnVRMkNQOXNUU2c0WDhzMzFSTUVjR0NWTGhBNVFiTkFlWXVCU1Rzd0NmeDlPa3J4VlFDcWVrQWpYWnhTVV9zUHZENE13cG5CM3d1VFJpNDhadEJWbw": 1792090853330,
-    "news:CBMisAFBVV95cUxOcl8yajRjSlBSd2ROcmtvTDhwbEdTOEhSLWZNQmxla0g3N0d6Q19UNUE2WUhVeEtKeWtWMENNeU5fTUV6bTdieFlWbE5GRDZaQWpRQllTb3l6ODBZdzhzSkhGWnNmRnlxMTZfREliMHUzcTBFdThYcUdSMDJnSl9DdGs3Y2ZXUzVjQ1ZPZkNFUkpFaS1mNlZnQXY5SkFFVF9lT0dxYzZzd3FpQ0Y4dlg1VQ": 1792090853330
+    "news:CBMisAFBVV95cUxOcl8yajRjSlBSd2ROcmtvTDhwbEdTOEhSLWZNQmxla0g3N0d6Q19UNUE2WUhVeEtKeWtWMENNeU5fTUV6bTdieFlWbE5GRDZaQWpRQllTb3l6ODBZdzhzSkhGWnNmRnlxMTZfREliMHUzcTBFdThYcUdSMDJnSl9DdGs3Y2ZXUzVjQ1ZPZkNFUkpFaS1mNlZnQXY5SkFFVF9lT0dxYzZzd3FpQ0Y4dlg1VQ": 1792090853330,
+    "threads:DYBoNcdk6f7": 1792091140766,
+    "threads:DXWcjVCjz8J": 1792091140766,
+    "threads:DU_JWvTgQ2r": 1792091140766,
+    "threads:DcbkhCoE_oD": 1792091140766,
+    "threads:DbXXhKxoM0t": 1792091140766,
+    "threads:Dbr2PG4kdu5": 1792091140766,
+    "threads:DehimlSEpx2": 1792091140766,
+    "threads:DehpwIiicr6": 1792091140766,
+    "threads:DehloPDCRDn": 1792091140766,
+    "threads:Defpgm3kaRu": 1792091140766,
+    "news:CBMikwFBVV95cUxNT2ZMNk5JVnpXeVpyLVJHWmVoODBKOS1VNGFfUW9nY1pvalpkdXNTdkFEZ2laanBqWHhJLWlqNzZzZ09SR3pzeWd5a3NuN2ZZbWZNajQ0OUd5OGhHMVh3cWhzM3dXNWZlNmVRQ3BfUGNodWpuQVpNYURJMkd6cmI2SnF0RlVTZW9Obl96cWU2dE1EMlE": 1792091140766,
+    "news:CBMiqwFBVV95cUxNV0hESWlydEdtYkNoWENzdy1MR2JkVDNLNlZTajJSYkFHSkd5Mk05ejhudzJCc0tnWFJaZ1Y1NFZ5Z1Rpb29BT1JKcjdiUmFWemZwOXVBR3hzTHkyNVpoSm1WbkNlZmhjcXZhb3k0Q0w0LVRIQVExY2F3UC1oMkczUk1jd3FPWlpETzdTbE9Zc25oVFl5a0NEN2trYllsV0hJalVWWWlrNnZYRVk": 1792091140766
   },
   "digest": [
     {
@@ -1789,10 +1801,20 @@
       "d": 1792089736000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Komputama Cilacap",
+      "x": "Tiba-Tiba Nama Hilang dari Daftar Bansos, Begini Cara Melapor dan Solusinya - Universitas Komputama Cilacap",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0hESWlydEdtYkNoWENzdy1MR2JkVDNLNlZTajJSYkFHSkd5Mk05ejhudzJCc0tnWFJaZ1Y1NFZ5Z1Rpb29BT1JKcjdiUmFWemZwOXVBR3hzTHkyNVpoSm1WbkNlZmhjcXZhb3k0Q0w0LVRIQVExY2F3UC1oMkczUk1jd3FPWlpETzdTbE9Zc25oVFl5a0NEN2trYllsV0hJalVWWWlrNnZYRVk?oc=5",
+      "d": 1792090952000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
