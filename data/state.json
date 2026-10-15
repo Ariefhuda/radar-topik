@@ -1614,7 +1614,11 @@
     "threads:DYOM-Z_n4zB": 1792095342990,
     "threads:DU0t6GtEx4z": 1792095342990,
     "threads:DS9RHz-GIs-": 1792095342990,
-    "threads:Dd5Z1pNCHbr": 1792095342990
+    "threads:Dd5Z1pNCHbr": 1792095342990,
+    "threads:Dd38UKgj-Lu": 1792095657283,
+    "threads:Db0wW6SoKNi": 1792095657283,
+    "threads:DTQAMV8kiSt": 1792095657283,
+    "threads:DYvlw3Rn-na": 1792095657283
   },
   "digest": [
     {
@@ -2069,7 +2073,7 @@
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
