@@ -2447,7 +2447,19 @@
     "threads:Ded9u6MmPQB": 1792111845381,
     "threads:DeCH1yNky5u": 1792111845381,
     "threads:DdvzOQik4R-": 1792111845381,
-    "threads:DYBdFH4ExLf": 1792111845381
+    "threads:DYBdFH4ExLf": 1792111845381,
+    "threads:DdD3fUdk7nA": 1792112140469,
+    "threads:DcKu-VPgbxp": 1792112140469,
+    "threads:Dc5btADE4LR": 1792112140469,
+    "threads:DaPaMxCn537": 1792112140469,
+    "threads:DXmxjPuE0s_": 1792112140469,
+    "threads:DSorzAbCRqi": 1792112140469,
+    "threads:DdC67vek7Ky": 1792112140469,
+    "threads:DZz4UCOmoSY": 1792112140469,
+    "threads:DcLlJTcjxEu": 1792112140469,
+    "threads:Da0fhpGEz1P": 1792112140469,
+    "news:CBMicEFVX3lxTFBWY2E3dzN1dXY0ZnV3S2xpMGUwZW80OWp6aF9obmhfSXVrZVhkZWdxM1c4V0xDa2FmSDY0OTlmRng2RjVOYkxmSm5mLUstTTNtYWJyamRjbmQ1aTUyZ0t5cDRWcG1ucE9iTG9uS2t6SUU": 1792112140469,
+    "news:CBMivgFBVV95cUxPYkVFb0xISjRIOHB5YzVuVndjb3M1MTB1eUx5UkNCaVl6QV9LdnlXdXV2YUZONzhMZ2ZmYTVQRjd5Nm1ieVVhNlgzZEg2bjlWZ25PTWtqcEV3alZ2MDZCeTM3NUh2U0FNTWJLc25vc2lwV2ZGZTFHRng5V3R3X0t6LVZ2YURkZmtVNEhpREliVFh5OHNXdUF0dEhiRktpSGlpMXB0QkRYUDUyU1gxQ3l6ZEVKNHNyYV9UQWRXMVln0gHDAUFVX3lxTFBvdVF3R0VwQ0JldVdGV1c1VnRQZzF2T0NaX0pvMVV5MWc5anE5U3gwVU95VnhhOE81dUZGQks4UjhoMTA3NUw0ZWlnamdzMzFIV3piOWd3VW9zOFpRZ29qbUFkX250Y3FjLWhSY1Ywc2ZvZjk3UHdIbFBSV1lMcjVycGlKR2w5UE10QVVRRkhTUHEwN2FpeEpCVVZDVFhSVi14VkhNYnZPcExIaEZ6UVU1dVFvN0JMaTBCZW9wc3owT2k0bw": 1792112140469
   },
   "digest": [
     {
@@ -3409,10 +3421,20 @@
       "d": 1792111784000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "G-news.id",
+      "x": "Cara Mengurus Sertifikat Halal Gratis 2026, Simak Syarat dan Tahap Pendaftarannya - G-news.id - G-news.id",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkVFb0xISjRIOHB5YzVuVndjb3M1MTB1eUx5UkNCaVl6QV9LdnlXdXV2YUZONzhMZ2ZmYTVQRjd5Nm1ieVVhNlgzZEg2bjlWZ25PTWtqcEV3alZ2MDZCeTM3NUh2U0FNTWJLc25vc2lwV2ZGZTFHRng5V3R3X0t6LVZ2YURkZmtVNEhpREliVFh5OHNXdUF0dEhiRktpSGlpMXB0QkRYUDUyU1gxQ3l6ZEVKNHNyYV9UQWRXMVln0gHDAUFVX3lxTFBvdVF3R0VwQ0JldVdGV1c1VnRQZzF2T0NaX0pvMVV5MWc5anE5U3gwVU95VnhhOE81dUZGQks4UjhoMTA3NUw0ZWlnamdzMzFIV3piOWd3VW9zOFpRZ29qbUFkX250Y3FjLWhSY1Ywc2ZvZjk3UHdIbFBSV1lMcjVycGlKR2w5UE10QVVRRkhTUHEwN2FpeEpCVVZDVFhSVi14VkhNYnZPcExIaEZ6UVU1dVFvN0JMaTBCZW9wc3owT2k0bw?oc=5",
+      "d": 1792101004000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
