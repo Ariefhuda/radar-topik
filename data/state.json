@@ -3794,7 +3794,11 @@
     "threads:Day4638jzqB": 1792153539360,
     "threads:DU8KpHpjUga": 1792153539360,
     "threads:DejhiuNk3Bg": 1792153539360,
-    "threads:Db4y8fEoJsL": 1792153539360
+    "threads:Db4y8fEoJsL": 1792153539360,
+    "threads:DejhunOj691": 1792153860913,
+    "threads:DeKlVBAiNvu": 1792153860913,
+    "news:CBMiugFBVV95cUxNMHE2NVRpbGR6WHNWM1BpR212RWRHRUw5cFN6SEpmdzJZdG5hNm91b01PRVZ4WFlqVE50YWFCVlpQQjZ5eWQ3MmczTk1UcUJfaEZPYkwyNlVMUmFWQmhaYTBzRjJVeUVVV015QURnLUtMcVNNeEFuNHlRaHQ4SVF0d0dtWGVGVUZlY193dWNMRl9tWjV3U2stTTA3MzRmd2NNVnJ1Y1h1TUljWTc4VjdkVHowWWU2aTZEOVHSAboBQVVfeXFMTTBxNjVUaWxkelhzVjNQaUdtdkVkR0VMOXBTekhKZncyWXRuYTZvdW9NT0VWeFhZalROdGFhQlZaUEI2eXlkNzJnM05NVHFCX2hGT2JMMjZVTFJhVkJoWmEwc0YyVXlFVVdNeUFEZy1LTHFTTXhBbjR5UWh0OElRdHdHbVhlRlVGZWNfd3VjTEZfbVo1d1NrLU0wNzM0ZndjTVZydWNYdU1JY1k3OFY3ZFR6MFllNmk2RDlR": 1792153860913,
+    "news:CBMikgFBVV95cUxObmFjQy1rU2ZHTlpmQkJWQWIzWUdCZGZVZHJkN0xWOGRIcFNlOUNlQjFQR3JOYV83bVZzNVB2a2ZvaGtvQUlxRUwzTFFOZXVjczhfRVFLcHRaWXI5aTNmTkNOZTFkVUQzZXJ4b202VUIyVU8tUUJUU2pUWDgtMXpwQ3VvUU9xSWo3VkJ0TFIyWnAyd9IBlwFBVV95cUxOSjhOUy1EV3IyY3VsRU1hQzRta3FqNmxDWG9rb2Vwdi1wTEFsbndzNnNtbGszN2djd2JVZkJOLWhzZEdUNldLd3UyREdUanMxUVpWY19jbkRwc09hcHpPQVZuU0YzZUdtQ1hkSndGekdCMHZGVEF5TmFnRnRqdE5sNmxHSTUwZzRkbUNVcVhsaTh4TTMyQ0lr": 1792153860913
   },
   "digest": [
     {
@@ -3986,10 +3990,20 @@
       "d": 1792153382000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "NU Online",
+      "x": "Tersedia 59 Kampus, Berikut Cara Daftar UM-PTKIN 2025 - NU Online",
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmFjQy1rU2ZHTlpmQkJWQWIzWUdCZGZVZHJkN0xWOGRIcFNlOUNlQjFQR3JOYV83bVZzNVB2a2ZvaGtvQUlxRUwzTFFOZXVjczhfRVFLcHRaWXI5aTNmTkNOZTFkVUQzZXJ4b202VUIyVU8tUUJUU2pUWDgtMXpwQ3VvUU9xSWo3VkJ0TFIyWnAyd9IBlwFBVV95cUxOSjhOUy1EV3IyY3VsRU1hQzRta3FqNmxDWG9rb2Vwdi1wTEFsbndzNnNtbGszN2djd2JVZkJOLWhzZEdUNldLd3UyREdUanMxUVpWY19jbkRwc09hcHpPQVZuU0YzZUdtQ1hkSndGekdCMHZGVEF5TmFnRnRqdE5sNmxHSTUwZzRkbUNVcVhsaTh4TTMyQ0lr?oc=5",
+      "d": 1792119018000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
