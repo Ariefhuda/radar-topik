@@ -4273,19 +4273,17 @@
     "threads:DctC2SUE672": 1792167936139,
     "threads:Dbb53hGEz8m": 1792167936139,
     "threads:DUo_kN_FYE2": 1792167936139,
-    "threads:Dd1anxBEr3X": 1792167936139
+    "threads:Dd1anxBEr3X": 1792167936139,
+    "threads:DO8y7L-DKQc": 1792168249526,
+    "threads:Dej9gLZj1EF": 1792168249526,
+    "threads:DX68PIwGLe5": 1792168249526,
+    "threads:DbStcyMj8tz": 1792168249526,
+    "threads:DebGkFWkbs1": 1792168249526,
+    "threads:DejusMlFA1A": 1792168249526,
+    "threads:DejpOqVIIUU": 1792168249526,
+    "news:CBMipAFBVV95cUxQMWtCbFA3d3FYakdMVU5YUGZKVWpnTlJxQkRFQXJfeHRGUDZvclhfTlRwYk1lSWVLb0V2RDdVUktQMXpkZWNLS1doTUcwRkpVek9yUWtBazV2UWs3Z0dPSURQVDlJbGVhME5ZQWtaTFV6RDQwUUpXUTA3cHpRXzBGNFJkdWtOaHdlSm03cnl3MTlzOXdBNzhBcXlJUWt5Rm5EOFl4aNIBowFBVV95cUxNWFNxMS1xNlNXN1h5enFxcnJnX1Q2ZmZuU1hUNDg1REduaENQY05iWXZUajlpajlxRXJuY2k3VVRzSEkxdzZZN1dLZlJsakxOeld1VVBkUWhzSFc0N3RUa3dLMDF4WDdqOEw5Y0I2UnhlTHdjWTdUSExuU1NpRURDM0hZb3lta1pSd25nMVR6NmNETGI5ZThtWnBmQ2RyUDhucUdv": 1792168249526
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@gayatripanca",
-      "x": "Ada yang punya info kelas online gratis nggak ya? Buat nambah-nambah skill dan ngisi waktu luang.",
-      "u": "https://www.threads.com/@gayatripanca/post/Dejf-0SEm8E",
-      "d": 1792152564000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -5775,10 +5773,20 @@
       "d": 1792159740000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Disway",
+      "x": "Cara Cek Status Penerima Bansos Oktober 2026, Bisa Lewat HP Modal NIK KTP - disway.id - Disway",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWtCbFA3d3FYakdMVU5YUGZKVWpnTlJxQkRFQXJfeHRGUDZvclhfTlRwYk1lSWVLb0V2RDdVUktQMXpkZWNLS1doTUcwRkpVek9yUWtBazV2UWs3Z0dPSURQVDlJbGVhME5ZQWtaTFV6RDQwUUpXUTA3cHpRXzBGNFJkdWtOaHdlSm03cnl3MTlzOXdBNzhBcXlJUWt5Rm5EOFl4aNIBowFBVV95cUxNWFNxMS1xNlNXN1h5enFxcnJnX1Q2ZmZuU1hUNDg1REduaENQY05iWXZUajlpajlxRXJuY2k3VVRzSEkxdzZZN1dLZlJsakxOeld1VVBkUWhzSFc0N3RUa3dLMDF4WDdqOEw5Y0I2UnhlTHdjWTdUSExuU1NpRURDM0hZb3lta1pSd25nMVR6NmNETGI5ZThtWnBmQ2RyUDhucUdv?oc=5",
+      "d": 1792164960000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
