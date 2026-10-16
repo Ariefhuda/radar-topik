@@ -2887,19 +2887,14 @@
     "threads:Deim7H7DlX3": 1792122935625,
     "news:CBMizgFBVV95cUxOR1JJVWpEUWRmdDFHSVlyUXA3eTVYcTdiaXlkYnFTYmJPNEtnYU96NVliUlZKRkQ4UGZYdU1iV01HUlY1eGdOcGxTR21WRUpaMnM3a1JvQTNDZ0dVaUc2X0dUS3VDVzA4OWNNakN2endQQm1VNTcweGJydF9ialJRem5JYU1PejVmMjN6MkhhQXFnNGxBSFZpRHJBTFZqYWhOMFEyM3RpNkpWNnl4T3NsRFdJTWdQYzhhek9VdGtlRXNfb3BXcFdkM1g0MFZYUQ": 1792122935625,
     "news:CBMikwFBVV95cUxNdGFjWXBUbUc1MVF5RXBxN2xKalhCMm5YRlctYVFsQnZsbHNGQ293R1puSm9zSDlBX3pRbkZzZGpqOUMxemJheDhBUkw5cEp1N2J3d20yNEFCOGwxdm1mYXVlTVNDaUtiaFVwV08zbVk3UERNTkdYcjEycXNjYkJpMHNQY1pOUUdScXRCSEw1ekYzajg": 1792122935625,
-    "news:CBMiVEFVX3lxTE5tekYwOUsybUJBT0dkeWliQ2t0c3k1UWtycjkyVi13LWhWeUJZdnRtOC1EUEFvekstc1djOTQ3bzRMTUh3UjlVaWF5RzRqNzdWcGh0cQ": 1792122935625
+    "news:CBMiVEFVX3lxTE5tekYwOUsybUJBT0dkeWliQ2t0c3k1UWtycjkyVi13LWhWeUJZdnRtOC1EUEFvekstc1djOTQ3bzRMTUh3UjlVaWF5RzRqNzdWcGh0cQ": 1792122935625,
+    "threads:Deim7a5lqye": 1792123257534,
+    "threads:DdiU0V1E99w": 1792123257534,
+    "threads:DeinXxLmclE": 1792123257534,
+    "threads:DLyCy4OzI52": 1792123257534,
+    "news:CBMipAFBVV95cUxOZ2JNcTYzQTFFcURnUGxhTHJFd3AtS0VpcVFtcEFCRkxKaUpDZFVMUE5NVXF6M3FXTnZpcTdKWVZESHp3T1MzRGFsdVZtY0l0QWI3MkJUOFc4amU5ZHZqdHVhYzNFSVFyUmlwMS1YU1VKMnVJdW80ZG5QYWtnLXJsaUZxYWJsczFwUEN1elNUYVhtYVFXWVpVZXJOR0hyaVdWM0pSMw": 1792123257534
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dausevolusi",
-      "x": "Mentorku ngadain kelas webinar GRATIS kk akhir bulan ini. Temanya seputar Digital Marketing & Bisnis Online. Ada sesi praktek beriklan fb/ig ads, riset produk laris di marketplace/",
-      "u": "https://www.threads.com/@dausevolusi/post/DeiT1PvE8cu",
-      "d": 1792112639000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -4389,10 +4384,20 @@
       "d": 1792122387000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@akbar_akbr",
+      "x": "DICARI TERAPIS HOME CARE SERVICE Khusus wanita usia di atas 40 tahun yang berniat kerja serius. Benefit & Fasilitas: Gaji Pokok Rp1.000.000 / bulan Bagi hasil 30% dari layanan Dise",
+      "u": "https://www.threads.com/@akbar_akbr/post/DeinXxLmclE",
+      "d": 1792122884000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
