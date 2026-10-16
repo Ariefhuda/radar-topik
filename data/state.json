@@ -3327,39 +3327,13 @@
     "news:CBMizAFBVV95cUxQTVp5MWVRcHpCWXFFYWtwSDhzY1dIM2Q5bjFCTDBLTmNJT2JOQnhTV3VJX1JfV1oyYlJzeWVCeklmOGFya0JOWGhaR1RHbGczVFdxU3hKTUlYS3BuR185ZGRqb0JzcEMtTDFQRjlmOVAxNVdtNmdUQzQ1QkpjdGpPVTkzSTl4eEd5d1JEZ082bmE0XzNWQ1ZRWUViVERhN2YyQkNYbUdIVkxzV0swTWVyMGNjd2RzU3ZwZk5GWk1yMnJha01nVGdhNWNTUDg": 1792137651419,
     "news:CBMixwFBVV95cUxNd1BTaUcwdjRiUG55dmI3WlJQVmJiYm5QTm95cVhDbm1PM0dndllvaVBERGxEX04yTDZDVlpiS1NMN1VJLU8xajIxRXhoRjJKVHZNT05NV3czU3UtMW1xdkdzQkVWT0VNYWFiRXpWZkJlSlF1ZEcxdFRCcVJTcTJfQ09OS1d3R1JyV0JMSzJKQkRWVEVlV0tHVXdWSkF0OGtyTm1yNzdWUjhPQ21veVR6dTBxMmlMOXR0Zkx0T2ZPcnY0bmk2X3lR0gHMAUFVX3lxTE50Z2NCamJfM20yYjB0Nmg1N0lsTUJrM010R1pMeEJILTJEV1RVUFBzLS1SZVNrRnd3Tm9QWTIzR21qZEpKTlF2cjIxTEoyUVRjWmt1SUkxWnJsTGM3d1dqNnlneGROaGlOUkJsaVFsdXNaRjdMQ2J2Z0FmSGtkZnhWQmxuYXpWaEFjdVhyRGxKLTZDTnJSTFc1WTZtUGo5LS1XQXNVbkNlNFRYMXRTTjFpaWVxd0FjcEtKeGJ0eUNrYjdsNWZpRzhKRDFOZQ": 1792137651419,
     "news:CBMitAFBVV95cUxNSS13dlpnYTJDWmVBVG1ncDBjZ1AxdlRlT3pfaTZ5YldDSDRDeXpSbUdNQUFOZmx3TEF5OHAybFV2RkZVN3ZDcmdhRmgwRkNJMUUxNV85WU5BX3JabWFCOWYybmNXdjdXd1piaWVCU1F0dEpoaS13ekFpVzh4VzF6VzR6aWZ6VUJHU3lPTDVQcWdrVG5Xb0JDdjBtVXBudEp2Z3E0TExKVHVyTGdFWVRUcEpVa1bSAbQBQVVfeXFMTUktd3ZaZ2EyQ1plQVRtZ3AwY2dQMXZUZU96X2k2eWJXQ0g0Q3l6Um1HTUFBTmZsd0xBeThwMmxVdkZGVTd2Q3JnYUZoMEZDSTFFMTVfOVlOQV9yWm1hQjlmMm5jV3Y3V3daYmllQlNRdHRKaGktd3pBaVc4eFcxelc0emlmelVCR1N5T0w1UHFna1RuV29CQ3YwbVVwbnRKdmdxNExMSlR1ckxnRVlUVHBKVWtW": 1792137651419,
-    "news:CBMirAFBVV95cUxQcEE3WDZ5NUV0RjVNZmZDRGQxSUdCSU0zNnkzbUM5U3NvdHVrZXB6Rk9weEdvTEpUS0JGYkMzX3YyTzJaUnhpeFNjV1ZqekNNZ19kS1VhTFZ0dVNkQTdnOGpiUDJWNndNSmNNUXppcklsQ0ttS1V6MWlMeVgxR25lYWpoYjROeDZzV1h5aWtqS0ZOX1Z3bWxuSTZZWDBPMFVwXzVkTXBOTU0wWTc50gGsAUFVX3lxTFBwQTdYNnk1RXRGNU1mZkNEZDFJR0JJTTM2eTNtQzlTc290dWtlcHpGT3B4R29MSlRLQkZiQzNfdjJPMlpSeGl4U2NXVmp6Q01nX2RLVWFMVnR1U2RBN2c4amJQMlY2d01KY01RemlySWxDS21LVXoxaUx5WDFHbmVhamhiNE54NnNXWHlpa2pLRk5fVndtbG5JNllYME8wVXBfNWRNcE5NTTBZNzk": 1792137651419
+    "news:CBMirAFBVV95cUxQcEE3WDZ5NUV0RjVNZmZDRGQxSUdCSU0zNnkzbUM5U3NvdHVrZXB6Rk9weEdvTEpUS0JGYkMzX3YyTzJaUnhpeFNjV1ZqekNNZ19kS1VhTFZ0dVNkQTdnOGpiUDJWNndNSmNNUXppcklsQ0ttS1V6MWlMeVgxR25lYWpoYjROeDZzV1h5aWtqS0ZOX1Z3bWxuSTZZWDBPMFVwXzVkTXBOTU0wWTc50gGsAUFVX3lxTFBwQTdYNnk1RXRGNU1mZkNEZDFJR0JJTTM2eTNtQzlTc290dWtlcHpGT3B4R29MSlRLQkZiQzNfdjJPMlpSeGl4U2NXVmp6Q01nX2RLVWFMVnR1U2RBN2c4amJQMlY2d01KY01RemlySWxDS21LVXoxaUx5WDFHbmVhamhiNE54NnNXWHlpa2pLRk5fVndtbG5JNllYME8wVXBfNWRNcE5NTTBZNzk": 1792137651419,
+    "threads:DYnmZBAAVSN": 1792137934585,
+    "threads:DejEF33o3wh": 1792137934585,
+    "threads:DejD6zxD0JO": 1792137934585,
+    "news:CBMiigFBVV95cUxPR2ZXMkR1U0IzTFl2ZEw3SHFrQW04ZTNKbzEzZjNtU0h0Y1BMamlfWlFpZmdrZS14eFUwS2xWa293a0g4RlRXelhXUHBFWWJzcllWRG1XajVieXc4aUpZSGR2WWhuT3R1eGt1SXFIajVBWGdFZXk3eWd5d2ZtbU5vM3dWSXktdW0welE": 1792137934585
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dausevolusi",
-      "x": "Mentorku ngadain webinar GRATIS akhir bulan ini. Seputar Digital Marketing & Bisnis Online. Ada sesi praktek bikin video iklan menggunakan AI, riset produk laris di marketplace, sa",
-      "u": "https://www.threads.com/@dausevolusi/post/Deisx1akxYs",
-      "d": 1792125719000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yesirahmayani",
-      "x": "Kebetulan kak aku ada info webinar gratis digital marketing, sapa tau kakak tertarik 😊",
-      "u": "https://www.threads.com/@yesirahmayani/post/DeisHZzEU6-",
-      "d": 1792125371000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@with.sachii",
-      "x": "Moms ada info kelas gratis nih, materi nya menarik bgt terutama buat new mom kyk aku. Infonya dapet goodiebag juga!",
-      "u": "https://www.threads.com/@with.sachii/post/DeitqlAj_m9",
-      "d": 1792126184000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -4829,10 +4803,40 @@
       "d": 1792072011000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@geisrahmaa",
+      "x": "Kak maaf setau aku data survey ekonomi yg kemarin belum di olah oleh BPS, jadi belum ada hasilnya. Kalo kakak penasaran dgn alasan knp bisa naik desil coba tanyakan ke operator SIK",
+      "u": "https://www.threads.com/@geisrahmaa/post/DejEF33o3wh",
+      "d": 1792137941000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kalau dari rekam kebijakan, yang paling jadi patokan itu program-program sejak dilantik 20 Oktober 2024. Fokus utamanya: Makan Bergizi Gratis dan Cek Kesehatan Gratis yang diklaim ",
+      "u": "https://www.threads.com/@meta.ai/post/DejD6zxD0JO",
+      "d": 1792137851000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "BPNT Tahap 4 2026 Rp 600.000 Tidak Cair Serentak, Ini Cara Cek Status Penerima - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2ZXMkR1U0IzTFl2ZEw3SHFrQW04ZTNKbzEzZjNtU0h0Y1BMamlfWlFpZmdrZS14eFUwS2xWa293a0g4RlRXelhXUHBFWWJzcllWRG1XajVieXc4aUpZSGR2WWhuT3R1eGt1SXFIajVBWGdFZXk3eWd5d2ZtbU5vM3dWSXktdW0welE?oc=5",
+      "d": 1792137780000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
