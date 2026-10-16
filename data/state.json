@@ -4913,19 +4913,16 @@
     "threads:DQ3zZtCgQhc": 1792187739947,
     "threads:DRtfXCYmIhs": 1792187739947,
     "threads:DRtkcEgEu1N": 1792187739947,
-    "threads:DebZ36mielH": 1792187739947
+    "threads:DebZ36mielH": 1792187739947,
+    "threads:DY3W8gej2B4": 1792188051473,
+    "threads:DXJy7WTmglb": 1792188051473,
+    "threads:Dejti5gDzyH": 1792188051473,
+    "threads:DekisCVk4oy": 1792188051473,
+    "threads:DekjnvHEwcG": 1792188051473,
+    "threads:DdzaZgGE2t_": 1792188051473,
+    "news:CBMif0FVX3lxTFB2c3g2Rkd4OTI3RDl2dnJNVXBHU05uM2RtRUU5anB6ZGowLU42MGFxVGRfTU52d25tT0ZwTVFhZHRpVDRpbXQ5ZTlUV2hXTThaRS0tRjNyRUpIc1o4TjFPNWtsYktsOEI0VEdSR0ZNNjBpZDFwRFpMTm4ybzN6NjQ": 1792188051473
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "Join yuk kak ke grup CPNS 2027. Isinya ada teman-teman seperjuangan CPNS, saling menyemangati, berbagi info terbaru seputar CPNS dan mendapatkan bank soal,tryout dan webinar gratis",
-      "u": "https://www.threads.com/@qyupit123/post/Dejq8HslNva",
-      "d": 1792158309000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -6415,10 +6412,20 @@
       "d": 1792186675000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "JournalArta",
+      "x": "Cek Penerima Bansos PKH &: Lengkap dari Awal - JournalArta",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2c3g2Rkd4OTI3RDl2dnJNVXBHU05uM2RtRUU5anB6ZGowLU42MGFxVGRfTU52d25tT0ZwTVFhZHRpVDRpbXQ5ZTlUV2hXTThaRS0tRjNyRUpIc1o4TjFPNWtsYktsOEI0VEdSR0ZNNjBpZDFwRFpMTm4ybzN6NjQ?oc=5",
+      "d": 1792188002000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
