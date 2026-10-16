@@ -3644,19 +3644,10 @@
     "threads:DdEJnq2El6m": 1792148138474,
     "threads:DejXSrumNyM": 1792148138474,
     "news:CBMitgFBVV95cUxORG9EUjl6NEtRdEdLLVZGS25mbVhCZFpIRzBtNGpZZkdOSzRzTnVCUmdES1Nuc24tUVZZVHA0QU5OVHQzSldaemd2MlFBVF9GQUtOV1JUSERCSnFWVng2dWtxR0ZJMk1aT2ZUUjJERHNVVUZpc0lUMkVXTWRWTVhTSmNNQnF3ZVgyRjJtMjNPbzVsSnAtbjFGVG5HbGRpRExxdFMzeTFKcVEtX0d0UnZCMUhoQmhTQdIBuwFBVV95cUxNUjlCRG1QMDVrejNFYThrVTJVcDN3bkl3cndERkNWUGVGT0JYeDh4XzF4Z0xxT2c5N1ZTVXhSenZMa3k4OWxNZ2h6NmVZaWpOMEdnSzJsN3FFVFRNcGJDUkRnR2RCZmp0YnhWOHloZDNMM3dhTlVWemQxd0ZodkxhWVVCN1ZaSm5MYU5aOERGV285R2hFM1d2MmRjVGF4eFJ3X1Q5cWROUnRxQ2hQejNIaVRzZ3BSOUdzSFY0": 1792148138474,
-    "news:CBMilAFBVV95cUxPNDd1V1JJOTA4eGNpV0o5bjRGWjFoUWJySXd5ZnR5YzFySzk1U2Foa1hRdkEtdkhqNWJYbjhtUmZRMGx6LVJkQUd2WG94MlpBTWZVbm5HMTBXSWc2R3hRRUVXX21UN1JiZGI2a3BmRFE5U0VyUjhGQ0xaRExsNTBBUjQySTFMRFljd1d3dEFrV2ZDc19E": 1792148138474
+    "news:CBMilAFBVV95cUxPNDd1V1JJOTA4eGNpV0o5bjRGWjFoUWJySXd5ZnR5YzFySzk1U2Foa1hRdkEtdkhqNWJYbjhtUmZRMGx6LVJkQUd2WG94MlpBTWZVbm5HMTBXSWc2R3hRRUVXX21UN1JiZGI2a3BmRFE5U0VyUjhGQ0xaRExsNTBBUjQySTFMRFljd1d3dEFrV2ZDc19E": 1792148138474,
+    "news:CBMixwFBVV95cUxNbFJFLXRGWDd0SDBvV0hYY2xyV2J4bHZxeDZqTTZENmdtTW1OUkh5aDAxcWRUdXc2ajhhT2FZSVlONEZQZFVLcTlMZzRBcUsxUXVLNXZxdVgySWQyVGloMW5kM1BQNm5LN1dLbU9DQUpsdHRJQjRrcjE0Y1hHS3dydVV0VU1VaFdmdXVBdW0zYkNwajVDUE92S01JZXgwU1JaVnVFUkEzTEthREZnR1JfdkNJeFNDdlMtN1VrbUVQV2tWbkhvWm1j0gHMAUFVX3lxTE9EZmZ2ZnRxU1RWSWhwVnBTcXdKZU0xV250NklCUlo1cXQ4VmtUQjRncFFZZkUwbUcxaUF6WEdVbVZhMXlkaXM3QzhYQ0htd3k0RFViQzZTVU8tUHJmaGFtTy1MM1BNb0txWmNlT0xZMkZ5R2x0anRFaDRHbXFUWkJxU21BaEVkTkxJQzhDQlVCRi1GZjdPMzlKQS1Cb3c2akhPSVZ6QlZfUkxadVh1OHhEZ0NGZlhpWm5sd1JpQlhma19RSWdFWF85VDFDNQ": 1792148458865
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "- NESIATIMES.COM",
-      "x": "Resmi Dibuka, Simak Alur Pendaftaran Beasiswa Bespro BAZNAS Kota Semarang 2027 - - NESIATIMES.COM",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzdwQV9yTGxGXzJTOG5qUF9BdkxHdlF1a2JrRHhkT2J1UEVvTDhzbHgzT0pHVW9aMmJJcDV5SUYxYzZtRDYwREhoc0xxeUNTU2dpdnBSazN0dnNfUWhtZXFWRHlULVNyVlkwSFd1amJxWFI5WEphcXFRTEJWdXlVX2ZxREwxNVlZMVBKdXlfaw?oc=5",
-      "d": 1792130724000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -5146,10 +5137,20 @@
       "d": 1792146115000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bantuan Beras 30 Kg Oktober–Desember 2026, Ini Syarat dan Cara Cek Penerima - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbFJFLXRGWDd0SDBvV0hYY2xyV2J4bHZxeDZqTTZENmdtTW1OUkh5aDAxcWRUdXc2ajhhT2FZSVlONEZQZFVLcTlMZzRBcUsxUXVLNXZxdVgySWQyVGloMW5kM1BQNm5LN1dLbU9DQUpsdHRJQjRrcjE0Y1hHS3dydVV0VU1VaFdmdXVBdW0zYkNwajVDUE92S01JZXgwU1JaVnVFUkEzTEthREZnR1JfdkNJeFNDdlMtN1VrbUVQV2tWbkhvWm1j0gHMAUFVX3lxTE9EZmZ2ZnRxU1RWSWhwVnBTcXdKZU0xV250NklCUlo1cXQ4VmtUQjRncFFZZkUwbUcxaUF6WEdVbVZhMXlkaXM3QzhYQ0htd3k0RFViQzZTVU8tUHJmaGFtTy1MM1BNb0txWmNlT0xZMkZ5R2x0anRFaDRHbXFUWkJxU21BaEVkTkxJQzhDQlVCRi1GZjdPMzlKQS1Cb3c2akhPSVZ6QlZfUkxadVh1OHhEZ0NGZlhpWm5sd1JpQlhma19RSWdFWF85VDFDNQ?oc=5",
+      "d": 1792130514000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
