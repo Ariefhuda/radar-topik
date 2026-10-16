@@ -4659,19 +4659,14 @@
     "threads:DDDA12kTqkE": 1792181138236,
     "threads:DSeG0bREiHj": 1792181138236,
     "threads:DXGmImHE2-J": 1792181138236,
-    "news:CBMiakFVX3lxTFBlT0ktQkRaM0RlWktGYnVhbXR3dzhwVXk2NXUya3FsVzV1V05SN3AwZmxtRG1JWE5vS0dpbzB0amU0UzFGVE13UGUweTVCam5NYVZ5b0xaWWJJaTZaakt5UllXQnItWVF0Wmc": 1792181138236
+    "news:CBMiakFVX3lxTFBlT0ktQkRaM0RlWktGYnVhbXR3dzhwVXk2NXUya3FsVzV1V05SN3AwZmxtRG1JWE5vS0dpbzB0amU0UzFGVE13UGUweTVCam5NYVZ5b0xaWWJJaTZaakt5UllXQnItWVF0Wmc": 1792181138236,
+    "threads:DVnLq5QCSQI": 1792181449249,
+    "threads:DekW9OJEltI": 1792181449249,
+    "threads:DekWSvqDC2E": 1792181449249,
+    "news:CBMizAFBVV95cUxOeWJhQXZpQ01TSjJnN2EtcXdFUXhmeV9oa2lmWjdNM3R5Y2ZIa1dYbzdsWE1FTGtGbTc2YktTQjJ5QUtUTmpRTnprcEN0MDFmYmpERklScW1EYWstQVlPdmh3Rlg1Y1RvT25OVEd6SDhXZkJuek40WW5yVk95djlvZmdOX1kxN3JWRDA4ZUpsSDk3c0NyZlQ5R3dsTWNWMV9tWEZHc2hteEFFRUtpbEFrdzllNzZrQXJ5Zjh6V2VpM2pjVUdQWF8xUkFfWmXSAdIBQVVfeXFMTTJTejlyLTRtTWlqc1FfV05TczB3WkRuSG90bG9PTTdvUGRROFBwU2JlRURvd1ZHQ2hpMzNtRVZqRDNiODk0MmxPbXp1VW9sREMwZWZnRF9Vd0NLMXR5M1YzVmdVaG5SNTFDVV8wQ3pGd1pYdGg2eXJVWkVFblJjVVFrdEtSdVBNY3ltU2t6UlFvMUk3enlaOGdmNzhaazZFRzFtS2owZDZRRUZXZ1UtMXBSUTVGWXdYYVc4bHc2TU1QRWVnY3BjRW5BeEhlRkwxTklR": 1792181449249,
+    "news:CBMiTEFVX3lxTFBXZ2N2VkppQ1RRZEQ5bmk1aFUxS2pVZ1Juc2tjbS0yVVFvMkR3SzhMckQwblJ5aWZFNmxPaTFpTXZxbl92SU9OV0hXUjc": 1792181449249
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Ingin Bansos Tahap 4 Cair Lancar? KPM Dilarang Keras Lakukan Empat Hal Ini - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb00tbTh6Qks0WFdjQnBMMXl2dGhvUjkwRWFhSkZVSkc5aGV6eXFDTzFpTEVnTi1MX0VPSC1DVHlKLWJRMXZySzdVb3VSaTF3RGtWSkItRDV3ZGR3Q2hqaWc5Y0lNRVEteTBpWFVSMFFWWC1pdEFQeVVlQ0hYcUFaOXktVEF0N1N6aExBcUNzYzdkOGg0aXM2RmVHQ2FwSDU5SEExd1htOGpQTG8yMERnRlpDVzBzdG44YVpxWk02b9IBxAFBVV95cUxOT0FLYndxQVFKSWNYUUdZX0FWbzJ0MTFJUkplTEIwbm5tTWpabS1CaUo0d2UxS1pDUVoxN21LaWExTXRyN18wOFYyaWY5aG1GM1h4aGVHbUFrRGRKNmNhQ1RndmZYa1pHbDViNmlKdWhqVXBuRDBKS3RENE5WTksyQ2hVbDI1Y3FHRE1qVHZxbzhQQ2xSTkFwTHVhUGpxaEl2MTFIRGU4Xy02Nk5SZ29BRVR2U2E5V25QUkpCb1VaVmRLcDNk?oc=5",
-      "d": 1792152068000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -6161,10 +6156,20 @@
       "d": 1792155256000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Headline.co.id",
+      "x": "Kemenag Gelar Pelatihan AI Gratis bagi Pendidik Pesantren - Headline.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXZ2N2VkppQ1RRZEQ5bmk1aFUxS2pVZ1Juc2tjbS0yVVFvMkR3SzhMckQwblJ5aWZFNmxPaTFpTXZxbl92SU9OV0hXUjc?oc=5",
+      "d": 1792159587000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
