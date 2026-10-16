@@ -4089,7 +4089,14 @@
     "news:CBMimwFBVV95cUxPa3oydnhoaFRBai1FU0RhTEZHT3pYdUY5V1pTMTRoVjhKQjBWbEd3NWdsV3BlVFRpMkRibngxTkh2WkYxbTE5dUh4ZFdGUVlBMzEyOGhzaVM1U0FabjBnVVN0a2o0Sk1zNTNTZDBNMjNHTFdPcV9jdldvNEt4d3NMZWFPWkdDTFBuUk1WSGd5VmNVMFp6cXhQTnNHQQ": 1792163145115,
     "threads:Deir6zRFI2g": 1792163441724,
     "threads:Dej0CqSAQ6D": 1792163441724,
-    "news:CBMingFBVV95cUxQVTJWTGtNN1l3a2Q4ZFdPamZDTGVGVmdBSzV6QlJKTWRjUzlrR3E3bFQ1N3BHV3pKTm92cUxIWUVZWU4yZFZsTWFZeE8zSlB1aUhhT0N3Y29NMHVWeDVybWR0eUYtVjFScTdjYmpTWjZoRmVGakxwdkFkU1R5cmkySERFLUJBZ1dMbUQtdndkSy1wLTRxbWJ4eUsxWUlnUdIBngFBVV95cUxQVTJWTGtNN1l3a2Q4ZFdPamZDTGVGVmdBSzV6QlJKTWRjUzlrR3E3bFQ1N3BHV3pKTm92cUxIWUVZWU4yZFZsTWFZeE8zSlB1aUhhT0N3Y29NMHVWeDVybWR0eUYtVjFScTdjYmpTWjZoRmVGakxwdkFkU1R5cmkySERFLUJBZ1dMbUQtdndkSy1wLTRxbWJ4eUsxWUlnUQ": 1792163441724
+    "news:CBMingFBVV95cUxQVTJWTGtNN1l3a2Q4ZFdPamZDTGVGVmdBSzV6QlJKTWRjUzlrR3E3bFQ1N3BHV3pKTm92cUxIWUVZWU4yZFZsTWFZeE8zSlB1aUhhT0N3Y29NMHVWeDVybWR0eUYtVjFScTdjYmpTWjZoRmVGakxwdkFkU1R5cmkySERFLUJBZ1dMbUQtdndkSy1wLTRxbWJ4eUsxWUlnUdIBngFBVV95cUxQVTJWTGtNN1l3a2Q4ZFdPamZDTGVGVmdBSzV6QlJKTWRjUzlrR3E3bFQ1N3BHV3pKTm92cUxIWUVZWU4yZFZsTWFZeE8zSlB1aUhhT0N3Y29NMHVWeDVybWR0eUYtVjFScTdjYmpTWjZoRmVGakxwdkFkU1R5cmkySERFLUJBZ1dMbUQtdndkSy1wLTRxbWJ4eUsxWUlnUQ": 1792163441724,
+    "threads:Dej1j3dmTMy": 1792164070238,
+    "threads:Dej1j5Nmbqr": 1792164070238,
+    "threads:Dej1YKKkeHg": 1792164070238,
+    "threads:Dej1c6pE8BX": 1792164070238,
+    "threads:Dej1J0vE-LC": 1792164070238,
+    "threads:DXld4VbjB6p": 1792164070238,
+    "threads:Db3DS6YgUSE": 1792164070238
   },
   "digest": [
     {
@@ -5451,10 +5458,30 @@
       "d": 1792154485000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jasaiklanproperti",
+      "x": "Dari partner hidup jadi partner sukses, kenapa nggak? 🤔 Membangun bisnis bersama pasangan bukan cuma soal kerja bareng, tapi juga saling mendukung untuk mencapai impian yang lebih",
+      "u": "https://www.threads.com/@jasaiklanproperti/post/Dej1c6pE8BX",
+      "d": 1792163820000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dausevolusi",
+      "x": "Mau belajar GRATIS gak.? Kebetulan mentorku ngadain kelas webinar GRATIS akhir bulan ini. Temanya seputar Digital Marketing dan Bisnis Online. Ada praktek riset produk laris di mar",
+      "u": "https://www.threads.com/@dausevolusi/post/Dej1J0vE-LC",
+      "d": 1792163664000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
