@@ -4241,59 +4241,24 @@
     "threads:Dejd9GDGo4s": 1792167052774,
     "threads:DeZTzMnibSj": 1792167052774,
     "threads:Db0d571FBTa": 1792167052774,
-    "threads:DTsf4VXgZIW": 1792167052774
+    "threads:DTsf4VXgZIW": 1792167052774,
+    "threads:DdTP9cKElJ7": 1792167347378,
+    "threads:DHiEnQ8RWVy": 1792167347378,
+    "threads:DZhekoDFBGq": 1792167347378,
+    "threads:DbNLUxSkXBf": 1792167347378,
+    "threads:CzEGoJTME6D": 1792167347378,
+    "threads:DYeoIUEkpAa": 1792167347378,
+    "threads:DPP8PrJiP-0": 1792167347378,
+    "threads:DPN1dFYCcM4": 1792167347378,
+    "threads:DCBuVt0BSlh": 1792167347378,
+    "news:CBMiywFBVV95cUxPV051MHFFMV9SRzA5SF9ucTNWeEZlWjhRelN4RUJ4b2pUUU9tRWlNMnNWbWx0anNJNGxjdzVBeFNnT3o2YWlHbDZpa1FEQldoSFdiMUtXRndRTTlOZ1VQNFNrV1NDVnJWVTlQbVppa0Y2YkZtV3lQel9zYWJkVHBTSGp0dkg4dWItQXBBdUl5RnBQU2xUM2JKS1pCbkM0YVo0eXpVQUp2T0NXX1lUUk5FemJzc3I1RHVZUVI5Y1dzc2hCdTJKRHA0Q2ZTRQ": 1792167347378,
+    "news:CBMikgFBVV95cUxQOUJVWUNsMkwzRnpPWk82TWhUTnBMZ3FNZmVPX1hwa2d4X1Y5UWs1TmdfR1c3ZTBfYm5CZWZuYUJQZHRfNVp0SGx0Z1l2eTBvX1JNQi1tLTdmYzRZRElZQzlJNmw0d1ZWWUZKZFBEV0d4cUN4bW1Wcy04RVFIU0VCTkNoOEJsOUlIQ1owZFlRWl9UZw": 1792167347378,
+    "news:CBMiugFBVV95cUxPckFCZW84YUwxQmtxOVpJeXVHVnR4d0xNOGJDTlZPX1Q2RUttNXVqTjBaaUVockNUM3JkUzlsWWxvQXl1Y3U2elp4OWNMOGpFM2ZfZXE5WE5xM05rMWFDN3dhaGJ6SUVsb01HVGpCMGRDek44SlBJUzdMVFJqQVYtZTUwNDZTTkZ6eXBYb2JROGdFZ0ttMmNDWG5Hb01FR2RGS2wyejUwalZESFdMWlVuU1NxdXZ2RnJKSUHSAboBQVVfeXFMT3JBQmVvOGFMMUJrcTlaSXl1R1Z0eHdMTThiQ05WT19UNkVLbTV1ak4wWmlFaHJDVDNyZFM5bFlsb0F5dWN1NnpaeDljTDhqRTNmX2VxOVhOcTNOazFhQzd3YWhieklFbG9NR1RqQjBkQ3pOOEpQSVM3TFRSakFWLWU1MDQ2U05GenlwWG9iUThnRWdLbTJjQ1huR29NRUdkRktsMno1MGpWREhXTFpVblNTcXV2dkZySklB": 1792167347378,
+    "news:CBMi2AFBVV95cUxNNTV1X093cjhOaDZsY0tDYUVsaVRjTGRGMjhrbDEzOVBDRXViY0RYSHdTOW13UWlueDg5RVFlYnMxcEhEa2NXSHpRc2FPSnJCU2ZoRkxSTUpzWHlKNFJpb0d5VUZhQVpHSFNkeU1HQ2lVYlRMRTVTVHdJblg4R2RNcXF2aWJha29DSFhyeENaY25QUEotNUtqWGcxWC1aWDVzVWZpM1BDV2c0Ym4tVm9tamtlc2hFVWJuZGpBUVB5UFVLVXNKNDFCaWEwRUhlOE9OT0R5Wkg0MDHSAdgBQVVfeXFMTTU1dV9Pd3I4Tmg2bGNLQ2FFbGlUY0xkRjI4a2wxMzlQQ0V1YmNEWEh3Uzltd1Fpbng4OUVRZWJzMXBIRGtjV0h6UXNhT0pyQlNmaEZMUk1Kc1h5SjRSaW9HeVVGYUFaR0hTZHlNR0NpVWJUTEU1U1R3SW5YOEdkTXFxdmliYWtvQ0hYcnhDWmNuUFBKLTVLalhnMVgtWlg1c1VmaTNQQ1dnNGJuLVZvbWprZXNoRVVibmRqQVFQeVBVS1VzSjQxQmlhMEVIZThPTk9EeVpINDAx": 1792167347378,
+    "news:CBMiugFBVV95cUxPT1NxTzF6UlVHOUxTOEJHV2g4UWg5dGwwQXpRclhYVU1FZ2hkNzlYTUJqejQyZi1QUWxMWDVZZndBSGNvT19yLXNhTzIzMlQ1YXBjYzhSRm9CSzF6WlVqUjJvWUZnblJnaXZOWjdwRzJQV2RQdERvNzUwSGJJS0FWc2xoMDN1bUpuRXlpZE5iSkJLNEZ6WDFrRUwzNW5ZUmE3ZklBaC1PcnJmcWZCSWViSUtlTzRMcEg5U2fSAb8BQVVfeXFMTkhZbFlFWUhFeEk2V1NiMEFoQzJRcktSa1RNYTVnR3R0YXVjUmxrZUd0Mjk4RnkwbUwyOWh2Q3hhY0xOUFpIYnF6aU84R3hBLTMwa0dNRFF3bVdwcWJJR0swY00xVUVmdElQeHFXb3BiZDZhRmNEbDFmWjJCdjF5TVlIdUo2QUtpOUc2QkdMSm1kWUtKMElsN29RdW9fN2s0V1hWOGpjdURwVW1nTDVEQ2lnVFBwaEItbS1XMDBXREE": 1792167347378,
+    "news:CBMizwFBVV95cUxPWEd2WmxxQUp6OHFKUlR5Q0IzMXJpc1BpVkJnLVpQTm9Cd2xGcFI4dEdXN21Sa3J5ZjdZcmU2R2xVanRLYXdNblFOc1pvUlJDdHVxNjJDSUZsa0ZyMGwtU3JvZEN4eC1DWGxVNmJ3ZExjMW0tbmpuSFpUMlV0cE00Qzhqd3FLbmlwQ0hZUlFvOGlWbXhTUmZ2VWVibTQwMjcyUkdFazdyMlJ3bklOSGlPVnBuUUpHRGV5MEh1ZnBxMkhQSWJmcXU4YnpFOVhPb0nSAdQBQVVfeXFMTmNiV0NBcFpJb1ltUmNpdWExOE9rMm5KeHVhM3cxWWo5U3MyRHZDUkFPQXNEV2pOS3VCYl9nWUZVcUhKTHNpdkhsb0NUd2x6SG9hQTlyNmxWLTR5eVdjcWowT2t4dlBGcGhGOHRrYzdRWWxwTXZub0U1V1BVM0dJUDhwQ3hnZExMTWU3ZndXVngtN2FGajhOUDdtU2dQYWVoemp6dW5sRXdUaDVRcUtjTDB4VHVZVjF2WjM1cmxlUHRSMHF5YVg0TmNWM0pDM2ptN3VteXA": 1792167347378
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Medcom.id",
-      "x": "Punya Sertifikat Pelatihan Belum Cukup untuk Cari Kerja, Kok Bisa? - Medcom.id",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFFKa0Z4SGNYLUtjblZoN2tjM1prZ3lObVQ0WGh4eDEwWjVDY2ZBdjZEWlNwZGhVWkcwZlNRQmNpQWlWbDRzQkhNeWRMdHExd0hmMUlBbk9NVEVpd2lxQ1ZiR2tnWjhES01YdG5SdVVkQWpYNGJFOG9CNXF4UFViTGVGOU9vVnRTVERPT3VEOVVIUnhJVlJzclVYZEF3ekdnMmVSN1AzLWx5bFlibUM0?oc=5",
-      "d": 1792152546000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "bsinews.id",
-      "x": "Sekolah Garuda Gelar Open House Serentak 17 Oktober 2026 - bsinews.id",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nX0tOekJZZERaT0lWNmpTd3ZxZG9RN245ak5nV2w2WlAzdTZUV3cwM1ljMmJPbXhiZWFfRlk5NGE4RHFVV1g5ck12cEtGeUdocFBWMlgzRjN1R3FMSThlOVFR?oc=5",
-      "d": 1792152557000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "www.publikamalut.com",
-      "x": "Sekda Kumpulkan Kampus se-Malut, Beasiswa Bangkit 2026 Segera Disalurkan - www.publikamalut.com",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUhTTzNsWWVOUFFFN2tYZEhUX1BhYUhVZ2pXVlB3dXVhTURqUFFaVmk2QmFfSFNoRTZBWThUd0l4Tk82NGNURUljamJnQkRXb0lpMU5ncE5TLTBleWdmSVRGTTd2SWQydVJkdEZNWnBsUFRQVmNEZENjRWZURW5NSkViblkxR1ZWbXBtbEhHVzBlSFZsb0pnTmhJZVpDR2FTUGwxUHIwVW5rVzNpNmc?oc=5",
-      "d": 1792153080000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "SINDOnews Edukasi",
-      "x": "Tes Kesehatan SPCP IPDN 2026 Tahap I, Simak Pedoman Lengkapnya - SINDOnews Edukasi",
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmV2WVRTWVFLLTRSRjBwdTNmdGdfYjQycGlwUko2TWhfb1hvT3E3bTJsTW1JWU50QWlzWDRJdWJzNHAtSHVINnRXeEc2Z0FQbWktTkhfQnVNNDh1dFJyRjItQWhnR2VMRldWaXgxeUFiRjNPZll6dkVMMlduY3c3QTQzZGJ0SFhHZVVqemNLSmxtUVVON2ZfWnNRWHNYWWNsbTBMaXRUUVEyTURKR2dGZXpFT2JNT0p5RjhFdlFpS1HSAcABQVVfeXFMUEJldllUU1lRSy00UkYwcHUzZnRnX2I0MnBpcFJKNk1oX29Yb09xN20ybE1tSVlOdEFpc1g0SXViczRwLUh1SDZ0V3hHNmdBUG1pLU5IX0J1TTQ4dXRSckYyLUFoZ0dlTEZXVml4MXlBYkYzT2ZZenZFTDJXbmN3N0E0M2RidEhYR2VVanpjS0psbVFVTjdmX1pzUVhzWFljbG0wTGl0VFFRMk1ESkdnRmV6RU9iTU9KeUY4RXZRaUtR?oc=5",
-      "d": 1792149668000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Metro Jambi",
-      "x": "Apakah BPNT dan PKH Tahap 4 Bakal Cair Serentak Lagi? Cek Penjelasannya di Sini - Metro Jambi - Metro Jambi",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnF0bGtGM2MxNGpRWEcta0tOR2hfb0hPWUJOUkJUdUFmWG0xRU85aVFaUExDa1Jta2lRNnNuRnF1OE42R1VSZ0huWEhEYzdxbzRPLVR5VElRUThnX1ZEVzZWLVgwTk10d3MzamZqam1ESVhaODFLRnpUMm1TdjBEVTNQY3VNMDludG4yRldHRVVFS1VZTDZHNmt6TkxhS1RPS0JZc0VvY0xpU2NCbGdVMDhfM2hjMXFPZ25Ma0ZaQkV0d9IBxwFBVV95cUxOc1MtNGhGck9iRkVvNFQwZGhvTnhvWkg4elhuZEVxbTdrMkFVTGVyeDBFZV9ZNnVEemJsVW03dnV1TjVDenBtbmJqLVZNWTFqbE9QdDRJTEdlbmg5V25SNDhLV01nRDlnVWU4clhoNm8xUm1FYnQwZTRobldZVWlmNTFBcjBXWEYzbmF1TXRQVzUtUl8wRGpfczBRQlhsSzF3V3Vock8wSHBkZ3MzamxLcTVfUEJxeG4wVHg3bTVFTWlsWFFVOUpB?oc=5",
-      "d": 1792141200000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -5743,10 +5708,60 @@
       "d": 1792151501000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Pemerintah Provinsi Banten",
+      "x": "Pemprov Banten Buka Pelatihan Kerja Gratis 2026 - Pemerintah Provinsi Banten",
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUJVWUNsMkwzRnpPWk82TWhUTnBMZ3FNZmVPX1hwa2d4X1Y5UWs1TmdfR1c3ZTBfYm5CZWZuYUJQZHRfNVp0SGx0Z1l2eTBvX1JNQi1tLTdmYzRZRElZQzlJNmw0d1ZWWUZKZFBEV0d4cUN4bW1Wcy04RVFIU0VCTkNoOEJsOUlIQ1owZFlRWl9UZw?oc=5",
+      "d": 1792160897000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "sumateraekspres",
+      "x": "GelarPelatihanLifeSkilluntuk20PesertaPascaRehabilitasiNarkoba - https://sumateraekspres.bacakoran.co/ - sumateraekspres",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckFCZW84YUwxQmtxOVpJeXVHVnR4d0xNOGJDTlZPX1Q2RUttNXVqTjBaaUVockNUM3JkUzlsWWxvQXl1Y3U2elp4OWNMOGpFM2ZfZXE5WE5xM05rMWFDN3dhaGJ6SUVsb01HVGpCMGRDek44SlBJUzdMVFJqQVYtZTUwNDZTTkZ6eXBYb2JROGdFZ0ttMmNDWG5Hb01FR2RGS2wyejUwalZESFdMWlVuU1NxdXZ2RnJKSUHSAboBQVVfeXFMT3JBQmVvOGFMMUJrcTlaSXl1R1Z0eHdMTThiQ05WT19UNkVLbTV1ak4wWmlFaHJDVDNyZFM5bFlsb0F5dWN1NnpaeDljTDhqRTNmX2VxOVhOcTNOazFhQzd3YWhieklFbG9NR1RqQjBkQ3pOOEpQSVM3TFRSakFWLWU1MDQ2U05GenlwWG9iUThnRWdLbTJjQ1huR29NRUdkRktsMno1MGpWREhXTFpVblNTcXV2dkZySklB?oc=5",
+      "d": 1792153680000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Baca Koran Linggau Pos",
+      "x": "HariiniWaliKotaLubukLinggauBagikanSeragamSekolahGratisMadrasahDibawahKemenagjugaDapat - https://linggaupos.bacakoran.co/ - Baca Koran Linggau Pos",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNTV1X093cjhOaDZsY0tDYUVsaVRjTGRGMjhrbDEzOVBDRXViY0RYSHdTOW13UWlueDg5RVFlYnMxcEhEa2NXSHpRc2FPSnJCU2ZoRkxSTUpzWHlKNFJpb0d5VUZhQVpHSFNkeU1HQ2lVYlRMRTVTVHdJblg4R2RNcXF2aWJha29DSFhyeENaY25QUEotNUtqWGcxWC1aWDVzVWZpM1BDV2c0Ym4tVm9tamtlc2hFVWJuZGpBUVB5UFVLVXNKNDFCaWEwRUhlOE9OT0R5Wkg0MDHSAdgBQVVfeXFMTTU1dV9Pd3I4Tmg2bGNLQ2FFbGlUY0xkRjI4a2wxMzlQQ0V1YmNEWEh3Uzltd1Fpbng4OUVRZWJzMXBIRGtjV0h6UXNhT0pyQlNmaEZMUk1Kc1h5SjRSaW9HeVVGYUFaR0hTZHlNR0NpVWJUTEU1U1R3SW5YOEdkTXFxdmliYWtvQ0hYcnhDWmNuUFBKLTVLalhnMVgtWlg1c1VmaTNQQ1dnNGJuLVZvbWprZXNoRVVibmRqQVFQeVBVS1VzSjQxQmlhMEVIZThPTk9EeVpINDAx?oc=5",
+      "d": 1792160160000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "KKS Baru Terima Rp1,2 Juta, Ini Penyebab Bansos Cair Dobel Oktober 2026 - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1NxTzF6UlVHOUxTOEJHV2g4UWg5dGwwQXpRclhYVU1FZ2hkNzlYTUJqejQyZi1QUWxMWDVZZndBSGNvT19yLXNhTzIzMlQ1YXBjYzhSRm9CSzF6WlVqUjJvWUZnblJnaXZOWjdwRzJQV2RQdERvNzUwSGJJS0FWc2xoMDN1bUpuRXlpZE5iSkJLNEZ6WDFrRUwzNW5ZUmE3ZklBaC1PcnJmcWZCSWViSUtlTzRMcEg5U2fSAb8BQVVfeXFMTkhZbFlFWUhFeEk2V1NiMEFoQzJRcktSa1RNYTVnR3R0YXVjUmxrZUd0Mjk4RnkwbUwyOWh2Q3hhY0xOUFpIYnF6aU84R3hBLTMwa0dNRFF3bVdwcWJJR0swY00xVUVmdElQeHFXb3BiZDZhRmNEbDFmWjJCdjF5TVlIdUo2QUtpOUc2QkdMSm1kWUtKMElsN29RdW9fN2s0V1hWOGpjdURwVW1nTDVEQ2lnVFBwaEItbS1XMDBXREE?oc=5",
+      "d": 1792158763000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Ubah Data KK Jelang Penyaluran Bansos Tahap 4 Bisa Hambat Pencairan? Ini Penjelasannya - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEd2WmxxQUp6OHFKUlR5Q0IzMXJpc1BpVkJnLVpQTm9Cd2xGcFI4dEdXN21Sa3J5ZjdZcmU2R2xVanRLYXdNblFOc1pvUlJDdHVxNjJDSUZsa0ZyMGwtU3JvZEN4eC1DWGxVNmJ3ZExjMW0tbmpuSFpUMlV0cE00Qzhqd3FLbmlwQ0hZUlFvOGlWbXhTUmZ2VWVibTQwMjcyUkdFazdyMlJ3bklOSGlPVnBuUUpHRGV5MEh1ZnBxMkhQSWJmcXU4YnpFOVhPb0nSAdQBQVVfeXFMTmNiV0NBcFpJb1ltUmNpdWExOE9rMm5KeHVhM3cxWWo5U3MyRHZDUkFPQXNEV2pOS3VCYl9nWUZVcUhKTHNpdkhsb0NUd2x6SG9hQTlyNmxWLTR5eVdjcWowT2t4dlBGcGhGOHRrYzdRWWxwTXZub0U1V1BVM0dJUDhwQ3hnZExMTWU3ZndXVngtN2FGajhOUDdtU2dQYWVoemp6dW5sRXdUaDVRcUtjTDB4VHVZVjF2WjM1cmxlUHRSMHF5YVg0TmNWM0pDM2ptN3VteXA?oc=5",
+      "d": 1792145417000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
