@@ -4850,19 +4850,25 @@
     "threads:DeTjQRvEvVA": 1792185642689,
     "threads:DM2-Hwjyba5": 1792185642689,
     "threads:DdG9zxUAdcS": 1792185642689,
-    "threads:DeZstuPCW7T": 1792185642689
+    "threads:DeZstuPCW7T": 1792185642689,
+    "threads:Dd5tAHFEaq9": 1792185937260,
+    "threads:DE2NI7SBsUJ": 1792185937260,
+    "threads:DeSTBzwk8uy": 1792185937260,
+    "threads:DeOQsE1E0cu": 1792185937260,
+    "threads:DeiMhcFiv5i": 1792185937260,
+    "threads:DeehcqUgl3q": 1792185937260,
+    "threads:DdNriDpD-vj": 1792185937260,
+    "threads:DekYBy6jGGk": 1792185937260,
+    "threads:DdSrUiimkBf": 1792185937260,
+    "threads:Ddq9Ul9mIlR": 1792185937260,
+    "threads:Dcf9WiHnQRU": 1792185937260,
+    "threads:DYMNg7VE5cG": 1792185937260,
+    "threads:Db8MLCelKW7": 1792185937260,
+    "threads:DdsfVvaGnbB": 1792185937260,
+    "threads:DeRnuHikhSv": 1792185937260,
+    "news:CBMijgFBVV95cUxNeGZuYy1UTXR1VGRhYldyZ3ZUd0ZRRnRlTFdNdjhIcDFWYmFnektnRl9KVjViV09OZlJrV1RqYjNhOE55dDdELTNrRGF0b0Y1WUc4NFFSZDVUakFnckVBVEpoS0l1MGVKb05GUXh4RjBaOHB1dENaZ0JYRC1hWXdVd2tfdUtZS2lSMDRUSEVB": 1792185937260
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dr.rahadianfaisal",
-      "x": "Yuk Gabung ke grup untuk ikut Webinar Gratis🤩",
-      "u": "https://www.threads.com/@dr.rahadianfaisal/post/DejrewoH0Bh",
-      "d": 1792158593000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -6352,10 +6358,20 @@
       "d": 1792184683000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "games.gg",
+      "x": "Tier List Class Chop a Forest: Peringkat Kelas Terbaik - games.gg",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGZuYy1UTXR1VGRhYldyZ3ZUd0ZRRnRlTFdNdjhIcDFWYmFnektnRl9KVjViV09OZlJrV1RqYjNhOE55dDdELTNrRGF0b0Y1WUc4NFFSZDVUakFnckVBVEpoS0l1MGVKb05GUXh4RjBaOHB1dENaZ0JYRC1hWXdVd2tfdUtZS2lSMDRUSEVB?oc=5",
+      "d": 1792183207000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
