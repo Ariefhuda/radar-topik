@@ -3355,19 +3355,13 @@
     "threads:DejD4MSgANC": 1792138538902,
     "threads:DejEiSbmGwq": 1792138538902,
     "threads:DdGCInSkbTH": 1792138538902,
-    "threads:Dakg6X4D1zo": 1792138538902
+    "threads:Dakg6X4D1zo": 1792138538902,
+    "threads:DRtMSuUDxW9": 1792138840278,
+    "threads:DeRd4snlOey": 1792138840278,
+    "threads:DZIlrRfk19K": 1792138840278,
+    "news:CBMioAFBVV95cUxPckE3bDJYampmTTBQcXVRUmYyYUhQN1JRTHFIdy1WaEFoWF9jWGFURlNMTTZWVHFVTVFQX01qRmZCWTFET3JGS2g4eUVzaW9YSndTSVNZRGREcFpONy1hUUtCQU4wWGw1V1JuRHBSQnlGem5HMEZ3UzJObllBdzZjY3JZNEgxZW5BajVyX1ZOY3Q1UHVrb3JSTHpNbnctcEls0gGgAUFVX3lxTE9yQTdsMlhqamZNMFBxdVFSZjJhSFA3UlFMcUh3LVZoQWhYX2NYYVRGU0xNNlZUcVVNUVBfTWpGZkJZMURPckZLaDh5RXNpb1hKd1NJU1lEZERwWk43LWFRS0JBTjBYbDVXUm5EcFJCeUZ6bkcwRndTMk5uWUF3NmNjclk0SDFlbkFqNXJfVk5jdDVQdWtvclJMek1udy1wSWw": 1792138840278
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "SINDOnews Edukasi",
-      "x": "Lolos SKD PKN STAN 2026? Ini Jadwal, Ketentuan Pakaian, dan Dokumen yang Wajib Dibawa - SINDOnews Edukasi",
-      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVXFZRERxdjhFOUgtQ1BFZ2o0azJFWjZaOHN1NmU3NnBiTzNPRXAybHNZV09hSFJQYXdGdTVpYUxWY1JjdkVKYzdNQ2s4eE5HNmZxbUJTam9VVV9XNndjdS1qZlREME1JU0JtR0oyLUxyUHhraS1lbTc3VUliejgwSkktQW5TWVcyQ2FabFpORmtPM2p0LXFRTG5YbkJsd2doS2pBb1dMUkx1SzBVZDVsR2Q5S1ktMXBWN21CUE5ITjc2UFdGZDBtazRmcWJlQU1pcDlHWmNxREdmZXg5alg40gHkAUFVX3lxTE5MdlhzOGlZSmlBQ1EwdW1hMWxtTWRBamFYdEIxZW1vVFpYTzBOQVlTRk9zM05ZZ2NQR0tuZmpZaDBzQjNZRlQzSzVWSklfU0pUZjA4eE5pZXBkeXlBdUtkcTNFVU5GY1RuX010a0NlSmZiRG9paUF2X1NVV21pRVdLT1FsX0lDREF6am5ZOGQ3aFdYRl96MDdSWEtwRWktTUd0Wm5vR21PQzktdHRsTFpLQ2xBVnR0OENQZXNhNEZXLVBoV2RsWm5kS1NVd0x2U3A5eFBFTHZ5OTU3enNNNUZSQmlhUw?oc=5",
-      "d": 1792126593000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -4857,10 +4851,20 @@
       "d": 1792138174000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nova.grid.id",
+      "x": "Update Nominal Bansos Oktober 2026 dan Cara Cek di Website Resmi - nova.grid.id",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckE3bDJYampmTTBQcXVRUmYyYUhQN1JRTHFIdy1WaEFoWF9jWGFURlNMTTZWVHFVTVFQX01qRmZCWTFET3JGS2g4eUVzaW9YSndTSVNZRGREcFpONy1hUUtCQU4wWGw1V1JuRHBSQnlGem5HMEZ3UzJObllBdzZjY3JZNEgxZW5BajVyX1ZOY3Q1UHVrb3JSTHpNbnctcEls0gGgAUFVX3lxTE9yQTdsMlhqamZNMFBxdVFSZjJhSFA3UlFMcUh3LVZoQWhYX2NYYVRGU0xNNlZUcVVNUVBfTWpGZkJZMURPckZLaDh5RXNpb1hKd1NJU1lEZERwWk43LWFRS0JBTjBYbDVXUm5EcFJCeUZ6bkcwRndTMk5uWUF3NmNjclk0SDFlbkFqNXJfVk5jdDVQdWtvclJMek1udy1wSWw?oc=5",
+      "d": 1792116000000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
