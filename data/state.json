@@ -4944,19 +4944,22 @@
     "threads:DeTf3BrIIYm": 1792189558345,
     "news:CBMiXEFVX3lxTFBweG1WdUMyRnQ1ZFh3TDQxQzBhcHF5OURiX0FzSml6RU90ak42NWdkdzF4anYxbVUteFFsNS1QelVCcE5MMFlCeGhHU2g4SG1OM0VJV25ERWNsT0Y1": 1792189558345,
     "threads:DeknGC_iQdD": 1792189844260,
-    "threads:DekmKUCDh6G": 1792189844260
+    "threads:DekmKUCDh6G": 1792189844260,
+    "threads:DXoFFbbkYGk": 1792190134172,
+    "threads:DdgHDOKiZRj": 1792190134172,
+    "threads:Deknhlnk42u": 1792190134172,
+    "threads:Dekl4gME7ZR": 1792190134172,
+    "threads:Dekl2DEkx1w": 1792190134172,
+    "threads:Deklz2vk87P": 1792190134172,
+    "threads:Dekls58k7k8": 1792190134172,
+    "threads:Dekln_aEydI": 1792190134172,
+    "threads:DekRL7FmuC5": 1792190134172,
+    "threads:DdjUXsOAUMo": 1792190134172,
+    "threads:DdtPMKHj-5r": 1792190134172,
+    "threads:DdzaZgGE2t_": 1792190134172,
+    "news:CBMisgFBVV95cUxPWFp2bmRRNUFoNGNkTTFwNGY4N2FQMUdjVjlYX3BXYXpjdmh1NmYya1dVWnY1UEx2TGpTcW9KVkZ4d0R3UDFpMU5aQW91TDBsZTdEVnZfVnF0ZVc1UzFQWGhHcGRKYzhNYWd4TjIxdkl2M1hHQkMwVkhEQXQwTW5lOW5Zd0ZXR2ZJZm9yMHk2cU5iNGRPWU5PQjVXanoyNDF3R0wwQ3ZxbmFWS1hsUTBramRR": 1792190134172
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Solo",
-      "x": "Cara Cek Desil Penerima Bansos PKH-BPNT Cair Oktober 2026 Pakai HP, Pastikan Masuk Kelompok Mana? - Radar Solo",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTkZlN0dlNG96S0dsaVN1Q09VWFFTc0RvY1VlQldGR0pfbllMMzBhekJCMTJWS0ZGZUhOZzF2Z2pPNVYyLXpVdmIxSzlMZ0d0VUlfX1NnODUyYUhzZTNJV3cxQy02bW1MYWllWXBKUHV5dU1pY25mM0tjZjEwcDN3TmhWZlVNM0k3cmpIRFNtbkVERTNhb1ROaHRGcUo4SXZaejFLZ2VQZWpVbDhJZm1zU3Fvd2dscy12ZWExYllNNVRFMlJ4LXBNNHg5NUVYYnZNbmxNcEswSGFOcm42bUp1RzNwTdIB4wFBVV95cUxNTkZlN0dlNG96S0dsaVN1Q09VWFFTc0RvY1VlQldGR0pfbllMMzBhekJCMTJWS0ZGZUhOZzF2Z2pPNVYyLXpVdmIxSzlMZ0d0VUlfX1NnODUyYUhzZTNJV3cxQy02bW1MYWllWXBKUHV5dU1pY25mM0tjZjEwcDN3TmhWZlVNM0k3cmpIRFNtbkVERTNhb1ROaHRGcUo4SXZaejFLZ2VQZWpVbDhJZm1zU3Fvd2dscy12ZWExYllNNVRFMlJ4LXBNNHg5NUVYYnZNbmxNcEswSGFOcm42bUp1RzNwTQ?oc=5",
-      "d": 1792155999000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -6446,10 +6449,20 @@
       "d": 1792189358000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Cek Bansos Kemensos PKH Tahap 4 Bulan Oktober 2026 Bisa Pakai KTP - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFp2bmRRNUFoNGNkTTFwNGY4N2FQMUdjVjlYX3BXYXpjdmh1NmYya1dVWnY1UEx2TGpTcW9KVkZ4d0R3UDFpMU5aQW91TDBsZTdEVnZfVnF0ZVc1UzFQWGhHcGRKYzhNYWd4TjIxdkl2M1hHQkMwVkhEQXQwTW5lOW5Zd0ZXR2ZJZm9yMHk2cU5iNGRPWU5PQjVXanoyNDF3R0wwQ3ZxbmFWS1hsUTBramRR?oc=5",
+      "d": 1792189898000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
