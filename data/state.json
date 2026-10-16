@@ -4930,19 +4930,13 @@
     "threads:DUiLCCEjcGw": 1792188673484,
     "news:CBMiZkFVX3lxTFBhdGV0ZF9sS191T25ldE01TXc2MDFYSHNKRDN6bkRGbFVLV0kwOERQaF9vMzZOV2VOR2s4Unh5bGRqR0EzMkk2TmJocXd0alRXcWgzQW5tek12Z0dYWmgtQzA0Q1ZMZw": 1792188673484,
     "news:CBMiZkFVX3lxTFBxNXdWMmFnNUFNUGlDNFBYQ2h1WXpSRUowLXhibDVaTmxqeVZIbVB5T1F3SW9GMDdYVTZWTTBmMVNZd1E3YzA1UzBUMVBzT3NzVWdUTWY3T3ZqcjhqcGFQNUZERXR2UQ": 1792188673484,
-    "news:CBMia0FVX3lxTFB4bWZXRVN6YmJvV2Z3RTNkMkM2Z3NNYkl2V2hORXNmbmc2dmU0U3dNeUJEUUR5SnZWM0FhQTdZTlRSd3ppWjB4UWlGZGFMNUpDQkw0djZUU004R3E2cVRqaDFqekpLNXNINkFB": 1792188673484
+    "news:CBMia0FVX3lxTFB4bWZXRVN6YmJvV2Z3RTNkMkM2Z3NNYkl2V2hORXNmbmc2dmU0U3dNeUJEUUR5SnZWM0FhQTdZTlRSd3ppWjB4UWlGZGFMNUpDQkw0djZUU004R3E2cVRqaDFqekpLNXNINkFB": 1792188673484,
+    "threads:DVnj9NljUic": 1792188943415,
+    "threads:DeV8Bv4jsTm": 1792188943415,
+    "threads:DeklEUPE-3N": 1792188943415,
+    "news:CBMihwFBVV95cUxOcS1oTXNWWmdadW9DMWx5bHdEVGwxNWtGNnpjckdaWWlZRjNhRHpEQUFOYTNvQXpXT1dNTEUyc3FMbDhVZGtZR254UWtNNTM3RVhFM3JyQ19IbG40Tjd0SDN5WWhYcmxhcTR1dHlXOFFWSG1kc1FxTnYzZjlmRWEtalJDQVdHRm8": 1792188943415
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunjatim.com",
-      "x": "Berapa Nominal Bansos PKH Tahap 4 2026? Ini Rincian Bantuan Ibu Hamil, Anak Sekolah hingga Lansia - Tribunjatim.com",
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREtJSERGdy15TFVXd2s4SDkyZEpjd2dfMzcxYmhVUUp3bUY1bkhKSTVPNjNoTmFodzV6VEdVYXhfd29OSFlTbjVaTlp1Z2JCRVpudV9sc0JJeDRBeWFQZkhpVlJfckM5ZkZlRjZValNmR25rLUFlRm9TWm1xTzJmclVvYkV0N1JWZUNWVURhTm1yclVDVWxBaHJCcTI1aXdUM1l0dkZRMVRCV2tDOUpldkI0Ql9Ocmx2bThBaWt2YS10WVRybl9LSnRpQnRiTDBKT0E?oc=5",
-      "d": 1792158360000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -6432,10 +6426,20 @@
       "d": 1792188123000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "Cara Cek Penerima Bansos PKH dan BPNT Oktober 2026 - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcS1oTXNWWmdadW9DMWx5bHdEVGwxNWtGNnpjckdaWWlZRjNhRHpEQUFOYTNvQXpXT1dNTEUyc3FMbDhVZGtZR254UWtNNTM3RVhFM3JyQ19IbG40Tjd0SDN5WWhYcmxhcTR1dHlXOFFWSG1kc1FxTnYzZjlmRWEtalJDQVdHRm8?oc=5",
+      "d": 1792188660000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
