@@ -4875,19 +4875,13 @@
     "news:CBMixAFBVV95cUxNT2ZFZG9LcWRKaU9BTEF1R0wzSXgxYnNObjRQeUQxLTI0UHZNa09ZSk5mMWp3VmRtclBGdkVGaTREOHRfTDZSeGRFSWRTXy1MWE5ZbmM3Z1RQWnMyX21tcXBKLWx3eHZOSks1T2t5bW1vR0NETXBCOWpVMlRFYVZoU0lkbmZhVmJzWjJMXzhvRndEemh5MVczeG1lRG4zSFptbHRaTXRMaTJhbnVaUFRoX0JPS1c2WGt0WGFPZy0tTVBEY0dr0gHHAUFVX3lxTE8zYklZTUhoZnluSlNIWUk3enVmSW51RUNLQktUVk1KRTMwcVlZY0VxQlhXdmMzZmpiSkJQY3BGVklXNE1WV295cEtvRjBwbXJSVEQwN2lBc0FjeEdkTzh1Zm5mWmFFLTZDcWdKR210eUNNM2V1bmdUTHJhTUxOejdhUFdjR2pobXJlZzBkZEs4eklzREJqYU5OellzVWl6djFUeU1Fd3JfZmEwbnlwb09pWjl3QkZJRjc0MGh5RFk0SzBDcS1qYms": 1792186244623,
     "threads:DekguDHE3Rh": 1792186540343,
     "threads:DcBGBL0GCk6": 1792186540343,
-    "threads:DeiCYsyCGek": 1792186540343
+    "threads:DeiCYsyCGek": 1792186540343,
+    "threads:DaeVveJCRfg": 1792186843888,
+    "threads:Da1cpITARc9": 1792186843888,
+    "threads:DZrA68OE5eP": 1792186843888,
+    "news:CBMitAFBVV95cUxPZEtNU1FzY2VYX3BCdG54blhGLWtuR2xPUzYyNjROSUVmNVVSX21RamlLc1M3bmxSNnV5U0loZ3VTYU8tdjlfVWxhYkpEQl9KVnkzcFc3MFNzWHdRM204Y0RPLTR3cjlkYktnX212WjlMQ19qTWtDVXFGcUJIUmUwNmt4V0FWM2xjdTE4NzJRcldtdG9Sa1ExR2h0bDNuUW5scVhONExIVnVocHdybjVpVlV1R2c": 1792186843888
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "Join yuk kak ke grup CPNS 2027. Isinya ada teman-teman seperjuangan CPNS, saling menyemangati, berbagi info terbaru seputar CPNS dan mendapatkan bank soal,tryout dan webinar gratis",
-      "u": "https://www.threads.com/@qyupit123/post/DejrAdsFDzE",
-      "d": 1792158344000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -6377,10 +6371,20 @@
       "d": 1792149540000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Banggai Kece",
+      "x": "BEM FISIP Untika Gelar Mimbar Bebas, Desak Pemda Banggai Benahi Program Beasiswa - Banggai Kece",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEtNU1FzY2VYX3BCdG54blhGLWtuR2xPUzYyNjROSUVmNVVSX21RamlLc1M3bmxSNnV5U0loZ3VTYU8tdjlfVWxhYkpEQl9KVnkzcFc3MFNzWHdRM204Y0RPLTR3cjlkYktnX212WjlMQ19qTWtDVXFGcUJIUmUwNmt4V0FWM2xjdTE4NzJRcldtdG9Sa1ExR2h0bDNuUW5scVhONExIVnVocHdybjVpVlV1R2c?oc=5",
+      "d": 1792186675000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
