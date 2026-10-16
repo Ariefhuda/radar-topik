@@ -5031,29 +5031,12 @@
     "threads:DeksGQqkd4y": 1792192545891,
     "threads:DekrTxoE0iS": 1792192545891,
     "threads:DekgqiWDY4G": 1792192545891,
-    "threads:Dc3d_oQkhOT": 1792192545891
+    "threads:Dc3d_oQkhOT": 1792192545891,
+    "threads:Dekm3Ikk__c": 1792192841185,
+    "threads:DeksNoXjyUx": 1792192841185,
+    "threads:DeGVOgMGD6b": 1792192841185
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Lensa Hukum",
-      "x": "Kemenag Gelar Pelatihan AI bagi Pendidik Pesantren - Lensa Hukum",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVBpQmRsdVZydFMxZlFFYUNnU0JHSEx3THROYUVsQ1ZYSlFaeUhxOXNWZWNqYVcyOVB1WXJCY1BZRDhnUnJaSHJPLXZycFFFZEpzZURIelRMTXZOQnNMNW1oY04xT3B4QzBEUGt2M2lGemI0aHlsR05ZalltbmxOdQ?oc=5",
-      "d": 1792160297000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "NNC Netralnews",
-      "x": "Cara Cek Penerima BPNT 2026 Online dan Syarat Terbaru - NNC Netralnews",
-      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkxSeXh3STBNTS1MbXFncjRHQmlrN1dFSThkX0phMEx5LUFtR3dCYmNRd3BFR1VhSjRwZ0ZzaVZjNUZIZXFRNGQ0bjd2Qkx3N2FBUGoxYkNycG5jMk1VZEJGMk45WURzVFptYURGU2pWbmtrS3NtOUhBcDNKZFdTR3FIUXFDS1Q4d1J0RHBzYV9iYzByaUtVYQ?oc=5",
-      "d": 1792160520000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -6533,10 +6516,30 @@
       "d": 1792186479000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@basis.arabic",
+      "x": "Belajar Bahasa Arab nggak harus mahal! Ada program online dari dasar, gratis 100%, dan bersertifikat. Tertarik bergabung?",
+      "u": "https://www.threads.com/@basis.arabic/post/Dekm3Ikk__c",
+      "d": 1792189725000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kompastv",
+      "x": "Cek Bansos di cekbansos.kemensos.go.id Dapat Desil 4, Ini Bantuan yang Diterima http://dlvr.it/TVxpGk",
+      "u": "https://www.threads.com/@kompastv/post/DeksNoXjyUx",
+      "d": 1792192590000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
