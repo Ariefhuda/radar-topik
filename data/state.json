@@ -2683,7 +2683,11 @@
     "threads:DegQD8jCa3H": 1792117849479,
     "threads:DegERL7Cbpl": 1792117849479,
     "threads:DeidgC0jRcI": 1792117849479,
-    "threads:Def5CwPgZ_r": 1792117849479
+    "threads:Def5CwPgZ_r": 1792117849479,
+    "threads:Dai91rPk9lz": 1792118145213,
+    "threads:DeidXrLE0RF": 1792118145213,
+    "threads:DeN6_HOGlVR": 1792118145213,
+    "threads:DeieZN5lPIW": 1792118145213
   },
   "digest": [
     {
@@ -3315,10 +3319,20 @@
       "d": 1792117834000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@penerjemahtersumpah.me",
+      "x": "Beasiswa Erasmus Mundus 2027 🇪🇺 Mau S2 di Eropa tahun 2027? Jangan nunggu pengumuman beasiswa viral dulu baru siap-siap. Pendaftaran Erasmus Mundus biasanya berlangsung Oktober–J",
+      "u": "https://www.threads.com/@penerjemahtersumpah.me/post/DeidXrLE0RF",
+      "d": 1792117640000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
