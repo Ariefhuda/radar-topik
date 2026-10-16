@@ -2971,19 +2971,12 @@
     "threads:DXWeOnlFMb_": 1792125652359,
     "threads:DXEVIbOkkQc": 1792125652359,
     "threads:DcFmHZqkgGf": 1792125652359,
-    "threads:DcH7X9Dk1sP": 1792125652359
+    "threads:DcH7X9Dk1sP": 1792125652359,
+    "threads:DbRtwnImLSi": 1792125947108,
+    "threads:DeisVikjCAT": 1792125947108,
+    "news:CBMi1AFBVV95cUxOUnRZMmlZN0Y4bW5mMTVqc2NnVVBsbVgzR3ltMDVsMUpmWUN5bUVXcEw2bmNqRHVNWVhKR1BQamgxdDdEV1ZyNWFjeEc2Mmx4N3FPS25UR2hFdmJ1QWtPTTkyUkFxS0p0Z2pmZTFqU1FxOV82eEFOd1JKSWZCOG5pY2VKblZBaGZnWmxyMHRMVnlBMG9tckN6amlhMFBzc3V4dWV5SHVDd3FYSTNVYkRPNnZhZmszYmhCNkJ4Zk5mckJ0ZG5rZWlHbkllcXh6cVl3Y0R1ONIB2gFBVV95cUxQYU1IblFSeUsyLWlGYzM2QUhzMG5qc3U2RmJlWHA4TzhfTU5YN214emxtdHYyNk5yZ2hEY1VCZVZKZ1ZOdXU4UEFjUmY4TDR6cmpqMkh0QjF3VDdScFZaOXJkZWZrOUtsWXhTMHR4bEVFZDkxTXdPOGx2RU1DYWQ5czVwc3A4SjU0LTRGSTZ5Y0l6OEloQmlzNi01UHVWMXp3X3BPcU4zT0lpbXBiUUxweTJILUZONUZfdm1LX294LVMzTUxEdEI5M1pqOWVxam5kNVZhSTNWS0NJdw": 1792125947108
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@omahtandang",
-      "x": "buat orang Nganjuk, sebentar lagi ada pelatihan gratis nih, fokus buat yang bengen belajar jadi freelancer. Pelatihannya 27-29 Oktober 2026. yang mau info lengkap, boleh banget DM.",
-      "u": "https://www.threads.com/@omahtandang/post/DeiWFXyE97g",
-      "d": 1792113820000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -4473,17 +4466,26 @@
       "d": 1792119600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Gagal Login Perlinsos Digital? Ini Cara Mengatasi Eror dan Daftar Bansos 2027 Lewat HP - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnRZMmlZN0Y4bW5mMTVqc2NnVVBsbVgzR3ltMDVsMUpmWUN5bUVXcEw2bmNqRHVNWVhKR1BQamgxdDdEV1ZyNWFjeEc2Mmx4N3FPS25UR2hFdmJ1QWtPTTkyUkFxS0p0Z2pmZTFqU1FxOV82eEFOd1JKSWZCOG5pY2VKblZBaGZnWmxyMHRMVnlBMG9tckN6amlhMFBzc3V4dWV5SHVDd3FYSTNVYkRPNnZhZmszYmhCNkJ4Zk5mckJ0ZG5rZWlHbkllcXh6cVl3Y0R1ONIB2gFBVV95cUxQYU1IblFSeUsyLWlGYzM2QUhzMG5qc3U2RmJlWHA4TzhfTU5YN214emxtdHYyNk5yZ2hEY1VCZVZKZ1ZOdXU4UEFjUmY4TDR6cmpqMkh0QjF3VDdScFZaOXJkZWZrOUtsWXhTMHR4bEVFZDkxTXdPOGx2RU1DYWQ5czVwc3A4SjU0LTRGSTZ5Y0l6OEloQmlzNi01UHVWMXp3X3BPcU4zT0lpbXBiUUxweTJILUZONUZfdm1LX294LVMzTUxEdEI5M1pqOWVxam5kNVZhSTNWS0NJdw?oc=5",
+      "d": 1792104345000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792118737769,
-    "news": 1792125652359
+    "reddit": 1792118737769
   }
 }
