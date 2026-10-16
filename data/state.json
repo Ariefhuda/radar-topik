@@ -4942,29 +4942,11 @@
     "threads:Dc735lVD6EZ": 1792189558345,
     "threads:DekmU9TAAaC": 1792189558345,
     "threads:DeTf3BrIIYm": 1792189558345,
-    "news:CBMiXEFVX3lxTFBweG1WdUMyRnQ1ZFh3TDQxQzBhcHF5OURiX0FzSml6RU90ak42NWdkdzF4anYxbVUteFFsNS1QelVCcE5MMFlCeGhHU2g4SG1OM0VJV25ERWNsT0Y1": 1792189558345
+    "news:CBMiXEFVX3lxTFBweG1WdUMyRnQ1ZFh3TDQxQzBhcHF5OURiX0FzSml6RU90ak42NWdkdzF4anYxbVUteFFsNS1QelVCcE5MMFlCeGhHU2g4SG1OM0VJV25ERWNsT0Y1": 1792189558345,
+    "threads:DeknGC_iQdD": 1792189844260,
+    "threads:DekmKUCDh6G": 1792189844260
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sahrulparawie",
-      "x": "Panduan cek bansos exclude lewat HP, cek desil Kemensos 2026, memahami penyebab status, dan mengajukan klarifikasi melalui jalur resmi. https://www.berbagitutorialonline.com/2026/1",
-      "u": "https://www.threads.com/@sahrulparawie/post/DejrmtjgR-Z",
-      "d": 1792158659000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Detik 60",
-      "x": "Daftar Produk Wajib Sertifikat Halal Mulai 18 Oktober: Obat, Pakaian, Alat Tulis Kena - Detik 60 - Detik 60",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXN4aUxubUwwa2JMcFFfR3NZLVpSTksxNEhaVFFJZUFPUXhzamJIdy10bzFWYWhYRklza3Bkd2RCbFE0bEYxb25NX09hbVU4ck1HN0hvd1UxMG5rYmx6RVpCTzMzckloZTk0RTZ6YXNualZwVE03azZzZUFKMFdLdHhDTldzRkdhREdUSFNESkRqQ2JoN1BvVzNxM05tZW95WlhkLUJ5dlNaM0k5b0pfcVo2UEZVR2EzeGtLS3VobHJiR1JqWE5ZUURB0gHKAUFVX3lxTE51c3hpTG5tTDBrYkxwUV9Hc1ktWlJOSzE0SFpUUUllQU9ReHNqYkh3LXRvMVZhaFhGSXNrcGR3ZEJsUTRsRjFvbk1fT2FtVThyTUc3SG93VTEwbmtibHpFWkJPMzNySWhlOTRFNnphc25qVnBUTTdrNnNlQUowV0t0eENOV3NGR2FER1RIU0RKRGpDYmg3UG9XM3EzTm1lb3laWGQtQnl2U1ozSTlvSl9xWjZQRlVHYTN4a0tLdWhscmJHUmpYTllRREE?oc=5",
-      "d": 1792150260000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -6444,10 +6426,30 @@
       "d": 1792188180000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@asepkomarudin80",
+      "x": "Awas Hati Hati Bansos Ga Cair Gara Gara Ini #cekbansos #ubahdesil #bpjspbigratis #semuaorang #usulbansos",
+      "u": "https://www.threads.com/@asepkomarudin80/post/DeknGC_iQdD",
+      "d": 1792189851000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Gak separah narasi Zimbabwe sih, tapi tekanannya memang nyata. IHSG beneran jadi yang terburuk - data OJK dan BEI catat koreksi 29,79% YTD per akhir September sampai 40% YTD di 16 ",
+      "u": "https://www.threads.com/@meta.ai/post/DekmKUCDh6G",
+      "d": 1792189358000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
