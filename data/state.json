@@ -4934,19 +4934,17 @@
     "threads:DVnj9NljUic": 1792188943415,
     "threads:DeV8Bv4jsTm": 1792188943415,
     "threads:DeklEUPE-3N": 1792188943415,
-    "news:CBMihwFBVV95cUxOcS1oTXNWWmdadW9DMWx5bHdEVGwxNWtGNnpjckdaWWlZRjNhRHpEQUFOYTNvQXpXT1dNTEUyc3FMbDhVZGtZR254UWtNNTM3RVhFM3JyQ19IbG40Tjd0SDN5WWhYcmxhcTR1dHlXOFFWSG1kc1FxTnYzZjlmRWEtalJDQVdHRm8": 1792188943415
+    "news:CBMihwFBVV95cUxOcS1oTXNWWmdadW9DMWx5bHdEVGwxNWtGNnpjckdaWWlZRjNhRHpEQUFOYTNvQXpXT1dNTEUyc3FMbDhVZGtZR254UWtNNTM3RVhFM3JyQ19IbG40Tjd0SDN5WWhYcmxhcTR1dHlXOFFWSG1kc1FxTnYzZjlmRWEtalJDQVdHRm8": 1792188943415,
+    "threads:DY3W8gej2B4": 1792189558345,
+    "threads:DXJy7WTmglb": 1792189558345,
+    "threads:DekisCVk4oy": 1792189558345,
+    "threads:DdBbUDbkxwo": 1792189558345,
+    "threads:Dc735lVD6EZ": 1792189558345,
+    "threads:DekmU9TAAaC": 1792189558345,
+    "threads:DeTf3BrIIYm": 1792189558345,
+    "news:CBMiXEFVX3lxTFBweG1WdUMyRnQ1ZFh3TDQxQzBhcHF5OURiX0FzSml6RU90ak42NWdkdzF4anYxbVUteFFsNS1QelVCcE5MMFlCeGhHU2g4SG1OM0VJV25ERWNsT0Y1": 1792189558345
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bantuan Beras 30 kg Masih Disalurkan, Begini Simulasi Nominal 3 Komponen - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFd4TVI3LU54ZHZSTi1SMzRma0EtM3FnTHo5SkhmOUM2WGpUZkx6NmtwLUx3aGRuME9hMklMVkJBWjlxeXBVbUVFcks4aGlnZW91OE5EYVE4bmZtWlhYR1BXaE5mdENzM2s5UzdnQW8tQjlQbmo1aW1feFlUSjdtMUg2aThtUi0zUnBUbW15d0Q2Q0NIV1JXMzF6aWh4d21GOEkyclRaWllhWHktYUhULWRRVHFLaFJ5VWEtZNIBwgFBVV95cUxPbTA1NXpxYjN6ZlV2Qk5wcnpvT1lrMTlPTVBLQnVJdmJJUTNsYU9FWDdGb2hYQXg5SUlIQ0lkN3dsc2xhdEEtSHgtNy1iVVVnSkRNb3lOcVQ1ZjJBYkRqUUlZWG9YVjhMV3p0UGtYZEhJVXZzelNUUEQyUXFud0wxRDRQekxrVlZuaEg1VWRvUkp6b1plTU1MYm5KeVdmUGxSREI4eHJqU21xcHZKZS1KQlFJNEpXMzhiVGktc2Y4YlJOQQ?oc=5",
-      "d": 1792154157000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -6436,10 +6434,20 @@
       "d": 1792188660000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ChatNews.id",
+      "x": "Cara Cek Penerima Bansos PKH dan BPNT Kemensos - ChatNews.id",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBweG1WdUMyRnQ1ZFh3TDQxQzBhcHF5OURiX0FzSml6RU90ak42NWdkdzF4anYxbVUteFFsNS1QelVCcE5MMFlCeGhHU2g4SG1OM0VJV25ERWNsT0Y1?oc=5",
+      "d": 1792188180000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
