@@ -3401,19 +3401,13 @@
     "threads:DejI9WzmSms": 1792140641814,
     "threads:DejIv7cEulA": 1792140641814,
     "threads:DejIn9gD0Gp": 1792140641814,
-    "news:CBMitgFBVV95cUxNdzQ5QzcxWTVKc2stcVBqd1piNjY2eFRZUXczNFVjaTRBYXVZVzhzTXI2MWZRdGcxdEJmM2xicE0zb0s3UXo4ZGtFMlI2RkNjSDRtb2RxN3NNX21QRkVZdnluUXVTX0VpYzJUV1ZySXlFS1F5MlR3TEZFM0xiQWtfSU5XZkdJb2JfLVNuNC04Wm9HcEZ0NWhVMFVxNFdTZVhTek5OMkFGNHp5YTl6X3p5dm4tODF6Z9IBuwFBVV95cUxNb19jd1EtbUxkY0gtY000Q3YxWEVNdmZqSFNHZWUtTW1oQmFpZnlvdkJickVFRE5FX3JzbExNckR3bmtjcGtCckNsRWhFWEtqOFNEYjR1N3BGSEF0Vlh0Q3hEaDZqQ2g1VHl5ZzMyN0Z2aEFjdWUxX0xpRkZhQVJsTnp0UHVUbGU2NXNHaFcyNnV1VnN0OFBKMFo1Y2diQjNObGdPbUg1eEcxMm81aW4yN3htSDBieTFDQ3FN": 1792140641814
+    "news:CBMitgFBVV95cUxNdzQ5QzcxWTVKc2stcVBqd1piNjY2eFRZUXczNFVjaTRBYXVZVzhzTXI2MWZRdGcxdEJmM2xicE0zb0s3UXo4ZGtFMlI2RkNjSDRtb2RxN3NNX21QRkVZdnluUXVTX0VpYzJUV1ZySXlFS1F5MlR3TEZFM0xiQWtfSU5XZkdJb2JfLVNuNC04Wm9HcEZ0NWhVMFVxNFdTZVhTek5OMkFGNHp5YTl6X3p5dm4tODF6Z9IBuwFBVV95cUxNb19jd1EtbUxkY0gtY000Q3YxWEVNdmZqSFNHZWUtTW1oQmFpZnlvdkJickVFRE5FX3JzbExNckR3bmtjcGtCckNsRWhFWEtqOFNEYjR1N3BGSEF0Vlh0Q3hEaDZqQ2g1VHl5ZzMyN0Z2aEFjdWUxX0xpRkZhQVJsTnp0UHVUbGU2NXNHaFcyNnV1VnN0OFBKMFo1Y2diQjNObGdPbUg1eEcxMm81aW4yN3htSDBieTFDQ3FN": 1792140641814,
+    "threads:DGZpzqBTV2U": 1792140940798,
+    "threads:DejJPFVEWbH": 1792140940798,
+    "threads:DUmQtfFlF_Z": 1792140940798,
+    "threads:DcAnCsyj0aZ": 1792140940798
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Salur Bansos Tahap 4 Sudah Final Closing? KPM Cek Infonya di Sini - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0hDSDVGbHdYaHJKSnNSNlplLWp3Wk9MLTBMTktPdDBRcWlMWlpCMUhYR2NRT1dZRU5jOVA4U3FTNjhlSVllUU5GcW55M3RyLWxHZGgyNlNKcGxVYjhBQjl1cHhqT0pxVlVHZGFoQ1hIMmRLdWNoWjhvLXBCRzI4d2FjcXNUMS1GbXZBTlJub2hCOTJpa3dtTVQtb1NpQzBPOFYtUXY2RTRGWC1iV1dwSEVFd9IBuAFBVV95cUxObENoQkttc2pIMFYyaWVIWVFKOFdVOHd2WWp6aVM2bXN3T09FWHdZQ0ZnUzRYa0REdDBkWHFlTm85ZjhwdnFKZXpzbGhRUlBYcVFBLXZqejc3T0UycUlSUkhMNzhuTGx6YkZ6dzVKUlBhdTI4OU9Edjd1TDVFSkQwd2JYOGFvVURER0otN3NOM1lFM2NXdmx2cG9rZlJlUXZRZnY0dlVmQkZadkVpRnRLMnBDTXdyT2U5?oc=5",
-      "d": 1792123348000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -4903,10 +4897,20 @@
       "d": 1792115080000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@shanum_theexplorer",
+      "x": "📱 HAPE GRATIS BANSOS: SOLUSI ATAU KOMEDI? 😂 Katanya 2027 ada bagi-bagi HP gratis + saldo Rp50 ribu. Asik sih! Tapi bayangin, pas bansos cair di aplikasi... eh kuotanya ludes, loa",
+      "u": "https://www.threads.com/@shanum_theexplorer/post/DejJPFVEWbH",
+      "d": 1792140640000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
