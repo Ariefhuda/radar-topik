@@ -2807,7 +2807,14 @@
     "threads:DaUDmtCne5x": 1792121137814,
     "threads:DeijZCTkmXM": 1792121137814,
     "threads:C_BGO8WP5n_": 1792121137814,
-    "threads:DUfwv5hEbwc": 1792121137814
+    "threads:DUfwv5hEbwc": 1792121137814,
+    "threads:Day4qwED6Z7": 1792121452492,
+    "threads:Deij9btgDNU": 1792121452492,
+    "threads:DeiklO1I_3Z": 1792121452492,
+    "threads:DdgyT3zk3go": 1792121452492,
+    "threads:DecHunYEuau": 1792121452492,
+    "threads:DeiNcZcCZtI": 1792121452492,
+    "news:CBMi2gFBVV95cUxOQUdsa2NseXdIRmJUVjhMakszZ3R1Q0JWdkFfV1ZEVzkzLW8xTXZVNGtFdTJ0SEVFMU5PNzNEZFcwb0FfcjFkQWREQ3hDMzE1dUlUU3ZDLUJCNHN2dllJSnZHNm1hWThoaVl1ejRJRHFLWkxPZXp4TmNfUjExc3FKOWZidzljZVVzaFVUNkd6OGFHWWpiZTRDdDB5UWlnaHRub3FpZ3FZNDJyQTctbUx5UzZtblFmVDE4WVg0NUEwLUdKTEFHWlN1dXdUTS01Y250THN0U056SmZZd9IB3wFBVV95cUxPM3ladFVXNEhwSTFxdXlaNXJwQ0pZUkVnd1Z1VHdzNjgxN3laX3BFWUR4YTI5RWh1RTNxejBkV2pfbzdSSDFnYTZ4Z2FrZnFfVkVtLWVEMkthVlVXVktNTTRhQWFodzdCdEM0eTc4MmNobXNlR080aVdXdmE0YVhyRzVXcmZCcE1QR2lNSm0tQmJoMjA0WkoyM3pNaWhxellaT2padUJBb3hsd3p1STBwai12aGNiMFpsMjNVc1d5QmgwM0xTbmVfbXVJWEJSYW5TdHVFcVBidW5COTBfdERn": 1792121452492
   },
   "digest": [
     {
@@ -3999,10 +4006,20 @@
       "d": 1792120797000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Bidik Tangsel",
+      "x": "Jelang 18 Oktober 2026, Pemkot Tangsel Buka Fasilitasi Sertifikasi Halal Gratis bagi UMKM - Bidik Tangsel - Bidik Tangsel",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUdsa2NseXdIRmJUVjhMakszZ3R1Q0JWdkFfV1ZEVzkzLW8xTXZVNGtFdTJ0SEVFMU5PNzNEZFcwb0FfcjFkQWREQ3hDMzE1dUlUU3ZDLUJCNHN2dllJSnZHNm1hWThoaVl1ejRJRHFLWkxPZXp4TmNfUjExc3FKOWZidzljZVVzaFVUNkd6OGFHWWpiZTRDdDB5UWlnaHRub3FpZ3FZNDJyQTctbUx5UzZtblFmVDE4WVg0NUEwLUdKTEFHWlN1dXdUTS01Y250THN0U056SmZZd9IB3wFBVV95cUxPM3ladFVXNEhwSTFxdXlaNXJwQ0pZUkVnd1Z1VHdzNjgxN3laX3BFWUR4YTI5RWh1RTNxejBkV2pfbzdSSDFnYTZ4Z2FrZnFfVkVtLWVEMkthVlVXVktNTTRhQWFodzdCdEM0eTc4MmNobXNlR080aVdXdmE0YVhyRzVXcmZCcE1QR2lNSm0tQmJoMjA0WkoyM3pNaWhxellaT2padUJBb3hsd3p1STBwai12aGNiMFpsMjNVc1d5QmgwM0xTbmVfbXVJWEJSYW5TdHVFcVBidW5COTBfdERn?oc=5",
+      "d": 1792113046000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
