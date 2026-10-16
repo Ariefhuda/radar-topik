@@ -3976,7 +3976,20 @@
     "threads:DejsG6LlC8_": 1792159253453,
     "threads:Dejsr-KCR6R": 1792159253453,
     "threads:DejsvTlDNAG": 1792159253453,
-    "threads:DejsQtnDzqC": 1792159253453
+    "threads:DejsQtnDzqC": 1792159253453,
+    "threads:Dejsy6XkwiR": 1792159538303,
+    "threads:Dejsr4wDoo3": 1792159538303,
+    "threads:DejsgYylIYu": 1792159538303,
+    "threads:DejsZvDlCjZ": 1792159538303,
+    "threads:DejsYoClPzU": 1792159538303,
+    "threads:Deje_-SDfwb": 1792159538303,
+    "threads:DdBhFzDCFZa": 1792159538303,
+    "threads:DeB_lAPmA2M": 1792159538303,
+    "threads:DeCPm_rkmmg": 1792159538303,
+    "threads:Dc0A9r9j6W5": 1792159538303,
+    "threads:Dc0BkC1oCJq": 1792159538303,
+    "news:CBMivAFBVV95cUxNbDFyNl9rUkJQQ01wcThUSEVseDRNUE51YWtLdE53dmRDN2RRRGFYNDNBbDNpU2xnZWpJNkE4U0F2TWM2TVBfbERlVElyb2IwWVo4T09nR1RveVZEUzcyY0F5TTVPOV9Wd0ctUFk3amZLd0xlWlVMZnFpWDZrc2ZUTzlwaUstQWFMS3ppMkQ0aHlNaXV0OFBGck53ZTItMF9sQkJxUFlPcXhTM09EMXhqblJEZG5XNWl5cFN6ZNIBvAFBVV95cUxNbDFyNl9rUkJQQ01wcThUSEVseDRNUE51YWtLdE53dmRDN2RRRGFYNDNBbDNpU2xnZWpJNkE4U0F2TWM2TVBfbERlVElyb2IwWVo4T09nR1RveVZEUzcyY0F5TTVPOV9Wd0ctUFk3amZLd0xlWlVMZnFpWDZrc2ZUTzlwaUstQWFMS3ppMkQ0aHlNaXV0OFBGck53ZTItMF9sQkJxUFlPcXhTM09EMXhqblJEZG5XNWl5cFN6ZA": 1792159538303,
+    "news:CBMivwFBVV95cUxQODhYalN1WndEZDc1Z25pa29uZFF0X0xqbWJDS1lqQ0hBdEpsVUVJRUZZNnk5MmhGSkdlTFRNNGNtSEM5OXRBUnM3OGpZSFdkRnpNQzVVUm44Skp4RE1FNjZJVG94MGlaYTN5UnhfcG80eEMyQmhpT2xQZE43Q2FLcXE3UlVfeTIzSl94Z25HR3ZSOWJQcWZYdWNtd2NWOVZqUS1fb1l3cm0yblRZU3hQZmxPalZsYWtFZm5GZUxlQQ": 1792159538303
   },
   "digest": [
     {
@@ -4888,10 +4901,30 @@
       "d": 1792155999000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@saifus_salam",
+      "x": "3. KESIAPAN BERTINDAK. Afirmasi dan visualisasi perlu diikuti tindakan nyata: meningkatkan kemampuan, menawarkan solusi, memperbaiki strategi, dan mengelola pemasukan dengan bijak.",
+      "u": "https://www.threads.com/@saifus_salam/post/Deje_-SDfwb",
+      "d": 1792152049000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Pencatatan Hak Cipta Lagu Gratis, Royalti Musisi Lampung Capai Rp800 Juta - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQODhYalN1WndEZDc1Z25pa29uZFF0X0xqbWJDS1lqQ0hBdEpsVUVJRUZZNnk5MmhGSkdlTFRNNGNtSEM5OXRBUnM3OGpZSFdkRnpNQzVVUm44Skp4RE1FNjZJVG94MGlaYTN5UnhfcG80eEMyQmhpT2xQZE43Q2FLcXE3UlVfeTIzSl94Z25HR3ZSOWJQcWZYdWNtd2NWOVZqUS1fb1l3cm0yblRZU3hQZmxPalZsYWtFZm5GZUxlQQ?oc=5",
+      "d": 1792158660000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
