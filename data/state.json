@@ -2376,7 +2376,33 @@
     "threads:DFUwsARS7Od": 1792110665932,
     "threads:DUm2qW-jmBp": 1792110665932,
     "threads:DZQ2xpdGK9Q": 1792110665932,
-    "threads:DXn6Dq7EhZY": 1792110665932
+    "threads:DXn6Dq7EhZY": 1792110665932,
+    "threads:DS-IZ8mEjSb": 1792110947621,
+    "threads:C_HrfYISmmA": 1792110947621,
+    "threads:DSB32njkuYr": 1792110947621,
+    "threads:DZm3UbmExTO": 1792110947621,
+    "threads:DdQU2wxmtDt": 1792110947621,
+    "threads:DdmlG6EE5et": 1792110947621,
+    "threads:Dcvx4SxkkEl": 1792110947621,
+    "threads:Ddh7l-fDouJ": 1792110947621,
+    "threads:Ddn9cA0lOK_": 1792110947621,
+    "threads:Dd1cmBukjGc": 1792110947621,
+    "threads:Dc-GKEwAAab": 1792110947621,
+    "threads:DeTiGbom2dt": 1792110947621,
+    "threads:DT5h9rQAb1U": 1792110947621,
+    "threads:Dae0PMjkpTo": 1792110947621,
+    "threads:DYCOURAjj0O": 1792110947621,
+    "threads:DbfRbo4DzFq": 1792110947621,
+    "threads:DeiP8mcgMiR": 1792110947621,
+    "threads:DWGzL-7k32k": 1792110947621,
+    "threads:Debm51jGnrm": 1792110947621,
+    "threads:DeW5t4xGSvd": 1792110947621,
+    "threads:DeiP8x6knXN": 1792110947621,
+    "threads:DegWOGCjOQo": 1792110947621,
+    "threads:Deg3hKgn6In": 1792110947621,
+    "threads:Ddl56ogAR8t": 1792110947621,
+    "news:CBMinwFBVV95cUxNVmRld1VER3BWWkZaWF9Wa1ZyN3JMQ3M4ZFBkU1VSVUZkSlVkMGpMYXJ3dUEwUWY3VVB0SUplQURJSDFIRERrVWdfQi1sdUM5bEVjeE9yaGo1TDh2ZDF2WnV5UGJxcHk5UzFtdGJ2NnphUHdMeTJFQjdqYlhxSlhEaXJveU1aSURieEEyTVFrdlk1a0d0bEdORjQwOHcxQUU": 1792110947621,
+    "news:CBMingFBVV95cUxNT0pGeFVIUWRvOEtKQTBybXpTQXJBTGE1S1JQcEp2UEkwa3VUS2MxOGtfUk5tTmIwdUEtY2VheXpkV2FCaDZNdTlqUWJvbjBCYkJXSm54V0ZEUXNMZHFreEJRY1ZmS0YzRVhjM0hIMHFHNDYzeVJ1LVJCbk4wM0JFVnRaZ3g4LXFtVEFuNkFlTUFnU3pwclo5T0o1SE5MUQ": 1792110947621
   },
   "digest": [
     {
@@ -3268,10 +3294,20 @@
       "d": 1792110416000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Cek Bansos BPNT Tahap 4 Oktober 2026: Cara Cek Status dan Jadwal Cair - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0pGeFVIUWRvOEtKQTBybXpTQXJBTGE1S1JQcEp2UEkwa3VUS2MxOGtfUk5tTmIwdUEtY2VheXpkV2FCaDZNdTlqUWJvbjBCYkJXSm54V0ZEUXNMZHFreEJRY1ZmS0YzRVhjM0hIMHFHNDYzeVJ1LVJCbk4wM0JFVnRaZ3g4LXFtVEFuNkFlTUFnU3pwclo5T0o1SE5MUQ?oc=5",
+      "d": 1792109683000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-15-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
