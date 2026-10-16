@@ -4312,19 +4312,15 @@
     "threads:DeThpVDmUdL": 1792169449692,
     "threads:DdTBIX8krjB": 1792169449692,
     "threads:DTboBKxDbAx": 1792169449692,
-    "threads:DT7vgrGjVhx": 1792169449692
+    "threads:DT7vgrGjVhx": 1792169449692,
+    "threads:Da-TA6WEdQi": 1792169734557,
+    "threads:DWvVWUNmHdn": 1792169734557,
+    "threads:DdQlRTxn_1F": 1792169734557,
+    "threads:DdQnnH8kbBH": 1792169734557,
+    "news:CBMiwAFBVV95cUxQMXVGOTlEWmY3bV9OMjR2b1Fsd0htdWM3dlR6Y1VnZ1VoMEtMUm0zd01vNWtobG4xN3BsODE5TVJZRjdQcVgxZW0taVM5Wm90bDNXVXhaa2lnRlFtMXRnQVI4TUNWUVJUcXlZMWlxcXRHLU50Q0pHcUFoVGs2QTg3QnZxUnBUSGpDSzY5bXRTMlJMbzNDV0dXTXRYRnNPRjBlQVcyamM4Y1FEd3VUMkxadGFNRUI5MlBMdDhiUDlUQkfSAcYBQVVfeXFMUHJUMXZWLXpfRy15Si1XWHgyVlo3YUttaEo4TU1RSWViS3R0dUxmSGk0V1I1QjhHcTR6eDNVWEFPa1owbVhURjdWSnpyYVY4M0h1cUFmakg1SFpIc2FCN0F1X3ByVWU1clY1TF8zd21OUVNxcXB0dzVHOHdEU2hPODJhcUlVWlFXR3B2dzltRklJODJXem1PamNMeTBYZmtmLU1KcTRiSF9hWUozYldUd1dUQThqVkFtajRwVnVHTDhVX1BhWjJR": 1792169734557,
+    "news:CBMinAFBVV95cUxQSzItMXFvNDRrZHczSElKbGYtQjQzSGFCVVR0YXFwZDl5bS12eUVTaWRyX2FPZEhyNmFpN1o3MFZxaHNOM2hIWGE4R2ZNU3psZXM1anlEMnI4Y2sya1R1NEZ3dVBHVURDTEFCYlVUNnNJdnFhdzFDZW5ld3F0MzZpV1dhd3lzSDZIRTF5Tm5yX0plS1JVb1l0cHRWa2TSAZwBQVVfeXFMUEsyLTFxbzQ0a2R3M0hJSmxmLUI0M0hhQlVUdGFxcGQ5eW0tdnlFU2lkcl9hT2RIcjZhaTdaNzBWcWhzTjNoSFhhOEdmTVN6bGVzNWp5RDJyOGNrMmtUdTRGd3VQR1VEQ0xBQmJVVDZzSXZxYXcxQ2VuZXdxdDM2aVdXYXd5c0g2SEUxeU5ucl9KZUtSVW9ZdHB0Vmtk": 1792169734557
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sonicoperr",
-      "x": "Buat lo para buzzer yg bilang “Jangan banyak bacot, lu udah ngasih apa ke negara ?” Gw jawab : ini gw makan soto ayam aja di pajakin, lu bilang ga ada kontribusi gw ? Setiap hari g",
-      "u": "https://www.threads.com/@sonicoperr/post/DejiYBBklQv",
-      "d": 1792153819000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -5814,10 +5810,20 @@
       "d": 1792168614000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Riau Pos",
+      "x": "80 Persen Susu MBG Wajib dari Peternak Lokal - Riau Pos",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzItMXFvNDRrZHczSElKbGYtQjQzSGFCVVR0YXFwZDl5bS12eUVTaWRyX2FPZEhyNmFpN1o3MFZxaHNOM2hIWGE4R2ZNU3psZXM1anlEMnI4Y2sya1R1NEZ3dVBHVURDTEFCYlVUNnNJdnFhdzFDZW5ld3F0MzZpV1dhd3lzSDZIRTF5Tm5yX0plS1JVb1l0cHRWa2TSAZwBQVVfeXFMUEsyLTFxbzQ0a2R3M0hJSmxmLUI0M0hhQlVUdGFxcGQ5eW0tdnlFU2lkcl9hT2RIcjZhaTdaNzBWcWhzTjNoSFhhOEdmTVN6bGVzNWp5RDJyOGNrMmtUdTRGd3VQR1VEQ0xBQmJVVDZzSXZxYXcxQ2VuZXdxdDM2aVdXYXd5c0g2SEUxeU5ucl9KZUtSVW9ZdHB0Vmtk?oc=5",
+      "d": 1792121564000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
