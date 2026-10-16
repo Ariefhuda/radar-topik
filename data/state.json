@@ -3183,19 +3183,12 @@
     "threads:Dei4oS4kxyA": 1792132558707,
     "threads:DdYpiVZGXMg": 1792132558707,
     "news:CBMibkFVX3lxTE5ncmtKWnFmSGxLRV9aemZjU19QTlVhb2VhN0V1NHk0bDQ3anRaLUhldzNDcnY1N0pKS1Y2dkgtcDNSUXJJSUV2Y0VjUS05V1QwZHV0aW5faVNWaVJTVU96bTZNeTd3Nk1pRFZ4elV3": 1792132558707,
-    "news:CBMizwFBVV95cUxOVmp2YmkyUjZhUzhBLV92cnl3NWVKTDBHcjVvZEZvSEdmT3gxOEJiSnFRVnFHTXNyRklONVowZTdEeVVUcVltUWhhTDhpX0k3VkZmMTczU3hITW5RNW8wdDZlaTNGeWhIbFdwUkxEUV9Ed01JYlY0eV82a0hFVy1HeXNwRkJpMDVsZHp6d0pHVFRzSWFLU2hGWnktajhBSEhkekRfNzhyanZNdkMzemdkOUJPQzliNUFSMUJOVk9QN3BfWV9DRmstUjc2dmt4UW8": 1792132558707
+    "news:CBMizwFBVV95cUxOVmp2YmkyUjZhUzhBLV92cnl3NWVKTDBHcjVvZEZvSEdmT3gxOEJiSnFRVnFHTXNyRklONVowZTdEeVVUcVltUWhhTDhpX0k3VkZmMTczU3hITW5RNW8wdDZlaTNGeWhIbFdwUkxEUV9Ed01JYlY0eV82a0hFVy1HeXNwRkJpMDVsZHp6d0pHVFRzSWFLU2hGWnktajhBSEhkekRfNzhyanZNdkMzemdkOUJPQzliNUFSMUJOVk9QN3BfWV9DRmstUjc2dmt4UW8": 1792132558707,
+    "threads:DYZdyCGHTRG": 1792132852416,
+    "news:CBMipgFBVV95cUxOd2dUQTBZb0lMOElCZUZ4RnJxSXVKSTkwT3NReHhKR2RiNlJsbVNCdkl3eDFsNXkyREJ4Z3ZGM2dDWWFJMWM5X0lQd2VfUDEwWFBXZHl1ZGd6U2dQdDdaZERseVgwck5fQlVLd3lyWDBWTlNGZXQ5MzZsbDVTWUk4ZmxkU1BPWTZWMXdNbGVkblI2X0xWMkVmNUNwaVdGeWhRUy1MMXFR": 1792132852416,
+    "news:CBMikAFBVV95cUxOcVotV201UE5kaDRFLXQzakgxWE81akh3YmhyMmN5ZDJNUTdlSW5zM2RpM0NUcEp4M21PTlZxemRmRWVMaUVINWNHVHUyZ3FMTnNJR3NhUUhYb1ppc09SSTBtT1RSVkM2T1FnUXdDX0NTd1p0SmY1RTlHcmNDOF9uTjByelQ5VFRBTjBvS0VxdWE": 1792132852416
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@justforpunx",
-      "x": "di cileungsi ada arumdalu house bang. suka ada acara musik,pameran sama kegiatan kelas gratis buat siapa aja boleh ikut biasa nya ada di postingan instagram nya",
-      "u": "https://www.threads.com/@justforpunx/post/Deijo6OElxU",
-      "d": 1792120927000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -4685,10 +4678,20 @@
       "d": 1792131932000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "jambiprima.com",
+      "x": "Sertifikat Halal Gratis 2026, UMKM Tebo Bisa Daftar Online - jambiprima.com",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2dUQTBZb0lMOElCZUZ4RnJxSXVKSTkwT3NReHhKR2RiNlJsbVNCdkl3eDFsNXkyREJ4Z3ZGM2dDWWFJMWM5X0lQd2VfUDEwWFBXZHl1ZGd6U2dQdDdaZERseVgwck5fQlVLd3lyWDBWTlNGZXQ5MzZsbDVTWUk4ZmxkU1BPWTZWMXdNbGVkblI2X0xWMkVmNUNwaVdGeWhRUy1MMXFR?oc=5",
+      "d": 1792132659000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
