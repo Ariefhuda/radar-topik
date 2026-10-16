@@ -4654,19 +4654,14 @@
     "threads:DcBHDhwGCui": 1792180537959,
     "threads:DYAwzClk4Tq": 1792180537959,
     "threads:DcRMHoCj8-7": 1792180856361,
-    "threads:DeJoFkLkgGK": 1792180856361
+    "threads:DeJoFkLkgGK": 1792180856361,
+    "threads:DK1WMy_uV-o": 1792181138236,
+    "threads:DDDA12kTqkE": 1792181138236,
+    "threads:DSeG0bREiHj": 1792181138236,
+    "threads:DXGmImHE2-J": 1792181138236,
+    "news:CBMiakFVX3lxTFBlT0ktQkRaM0RlWktGYnVhbXR3dzhwVXk2NXUya3FsVzV1V05SN3AwZmxtRG1JWE5vS0dpbzB0amU0UzFGVE13UGUweTVCam5NYVZ5b0xaWWJJaTZaakt5UllXQnItWVF0Wmc": 1792181138236
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "gadget.qoo10.co.id",
-      "x": "SMA Garuda Gelar Open House Serentak 17 Oktober di 51 Sekolah Bahas Seleksi dan Beasiswa - gadget.qoo10.co.id",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5RnhxUnVHcXpUS3RpYnVUVl83UVd4bnh0cEhjeWdwMnNoX0t0Wmc5czRhVEQ1THRISWEtaW9xM09DbWRTSnBWSGo0SmpSdTdVOGppQkhOaS0wOVJhSjVuN213enlVWlpLT0pwSWJLV3E2eEE?oc=5",
-      "d": 1792152840000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -6156,10 +6151,20 @@
       "d": 1792179555000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Peradaban.id",
+      "x": "Kemensos Tetapkan Kriteria Baru Penerima Bansos PKH 2026 - Peradaban.id",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlT0ktQkRaM0RlWktGYnVhbXR3dzhwVXk2NXUya3FsVzV1V05SN3AwZmxtRG1JWE5vS0dpbzB0amU0UzFGVE13UGUweTVCam5NYVZ5b0xaWWJJaTZaakt5UllXQnItWVF0Wmc?oc=5",
+      "d": 1792155256000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
