@@ -6105,19 +6105,11 @@
     "threads:DenRwEbgNve": 1792279537593,
     "threads:DenRfzyCEUi": 1792279537593,
     "threads:DenMFLwkxGk": 1792279537593,
-    "news:CBMiygFBVV95cUxNaWZ6QzAxdEs3eE1ad3RwQmp3VGVkdS1lZ1MzVUtqSTFhMXFJVVhQNkJNSm42dl94cHZmbG5NVjZrSndVOGt6UWs0TDZFRWUxdE8wTXdmaGZNS3NhNXppNVFaRHU5bDZ1bUtsSFpIOWU4NTJ5dWxjNjRBaHVoaVU4am14cVBacXdwRWF1QjNKWTAyTWI3eU56UEliX1l4SW1EdzVRYWlJN2t2SGFsZkFfeGF4WUdLaGMyNVlKS253a1VHUmpMemE2WjBn": 1792279537593
+    "news:CBMiygFBVV95cUxNaWZ6QzAxdEs3eE1ad3RwQmp3VGVkdS1lZ1MzVUtqSTFhMXFJVVhQNkJNSm42dl94cHZmbG5NVjZrSndVOGt6UWs0TDZFRWUxdE8wTXdmaGZNS3NhNXppNVFaRHU5bDZ1bUtsSFpIOWU4NTJ5dWxjNjRBaHVoaVU4am14cVBacXdwRWF1QjNKWTAyTWI3eU56UEliX1l4SW1EdzVRYWlJN2t2SGFsZkFfeGF4WUdLaGMyNVlKS253a1VHUmpMemE2WjBn": 1792279537593,
+    "threads:DZaRkYsnzIo": 1792279844944,
+    "news:CBMiuAFBVV95cUxPVlk4NUVRQUZUNk1jR3hBZGVUV3YtM21HT01DSWZWMjdkYi05ZkE4d05GTlZ4elBreVFOd0NUcTZjZ0tPVUxBNFFFSW5qOTl5amJoX09uZzRuZDNsRTZnX3piZnlObEl1WlR0YlpCSnFrbnQ3NjN5dnJ6TFQwbHFnOF9zNy1XQzVoblBlQkE5UGlEbWs4YjNEZDV2RFhCMTY5S0trdllrSUhFNW9XZzZPWlFMOElCSFVK0gG-AUFVX3lxTE82V1BqN0VyclRWLUJWdFlTcXlLUFREODNRYU1WSXhxLWtoaDJJU3lRMk80NjZ4dzFidHBEWkNpQWY3M2JwU21YbjZOMWxBVnM4dFR2MDJEOUxyZjJ0UzVCMUNfdTRBWmlaVjJ4ZVowaTVsaGw0WUppN2tObzVYZlllYllXR0w2b09OMlQ3RTEyUmN6SXlDNFBqdlZoN01zSFo0T2ZidGhtdTlnN0VkMWZYcllJOXNPMFNoOXRFWGc": 1792279844944
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@umimarifah_07",
-      "x": "Ada kak... ☺️ Dan kebetulan aku dapet akses untuk ngajak beberapa orang ikut webinar GRATIS tentang digital marketing tapi TERBATAS Aku rasa ini cocok untuk kakak yang tertarik di ",
-      "u": "https://www.threads.com/@umimarifah_07/post/DemJVHvEro4",
-      "d": 1792241351000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -7607,10 +7599,20 @@
       "d": 1792278900000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Aspirasiku",
+      "x": "Lowongan Kerja Surveyor di PT PAMA Dibuka, Penempatan di Sulawesi - Aspirasiku - Aspirasiku",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlk4NUVRQUZUNk1jR3hBZGVUV3YtM21HT01DSWZWMjdkYi05ZkE4d05GTlZ4elBreVFOd0NUcTZjZ0tPVUxBNFFFSW5qOTl5amJoX09uZzRuZDNsRTZnX3piZnlObEl1WlR0YlpCSnFrbnQ3NjN5dnJ6TFQwbHFnOF9zNy1XQzVoblBlQkE5UGlEbWs4YjNEZDV2RFhCMTY5S0trdllrSUhFNW9XZzZPWlFMOElCSFVK0gG-AUFVX3lxTE82V1BqN0VyclRWLUJWdFlTcXlLUFREODNRYU1WSXhxLWtoaDJJU3lRMk80NjZ4dzFidHBEWkNpQWY3M2JwU21YbjZOMWxBVnM4dFR2MDJEOUxyZjJ0UzVCMUNfdTRBWmlaVjJ4ZVowaTVsaGw0WUppN2tObzVYZlllYllXR0w2b09OMlQ3RTEyUmN6SXlDNFBqdlZoN01zSFo0T2ZidGhtdTlnN0VkMWZYcllJOXNPMFNoOXRFWGc?oc=5",
+      "d": 1792227600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
