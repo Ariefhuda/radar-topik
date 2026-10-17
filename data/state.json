@@ -5166,19 +5166,15 @@
     "threads:Dek00S5E40i": 1792197045666,
     "threads:Dek0irFE4IN": 1792197045666,
     "threads:Dek0hXvk1BA": 1792197045666,
-    "news:CBMiW0FVX3lxTE0zS2xCbnpUQVRvLXU4aE5NdTBNdjNESlhGVmplVW1qSWt0akxnTzNNaVVvelJKYUJ3WS1RTDlGUGgwcmtZQlJFcEU4OW5BY0hmNExqSHlSQkg0ems": 1792197045666
+    "news:CBMiW0FVX3lxTE0zS2xCbnpUQVRvLXU4aE5NdTBNdjNESlhGVmplVW1qSWt0akxnTzNNaVVvelJKYUJ3WS1RTDlGUGgwcmtZQlJFcEU4OW5BY0hmNExqSHlSQkg0ems": 1792197045666,
+    "threads:DXJOb8IGSih": 1792197334006,
+    "threads:Dek0Gmkozsm": 1792197334006,
+    "threads:DeSjKjqDbRf": 1792197334006,
+    "threads:Dek1MWzk6ea": 1792197334006,
+    "news:CBMixAFBVV95cUxOUTBfcTBySmdndVhPWkFkelplZUhlYTV2VW94Tnd3T3JkMUhBeFRVTFVvOGdaczNINXVaODlBMkh6ZUpPV2YteUJCVGJHZkdacXduVG1VTGxSQVdYTHIxV3FYMmJSU3NrNkRsZEhCSURVNDdDdW90M2VtMDBsSUhGQUdFUUh0Q0wtUlgwdjYwM3NZTkwxel9ZNGVBRWJYSW16VGlybzRMcmktMFR1ekFLRFVRT1JyenZRd0RCVk5sMXBXamZ60gHKAUFVX3lxTE41MEhaakpOOEVrV21KZ2hIOUdQRGZZOHdUUWhMWWREVFk5MHJLOVUyVlh6TVFEVEdQREozMEViSF9DYXp5TmxTNlNqelhncWU2TXZHNHVZU3JDd1d5dDVHcnRjS2dHRGdxc3ZqQjhGbUdyWnFPeDlYeDJyZXN4Tm5nWHVBMXdaak50UWZYam0xVk55dHNqbi1XaXdWTUFTbUFqUks0blFRSHIzQzZycUZ0UkYyQy1KTE0tTnNja3JvQl83Qk9sblBQaFE": 1792197334006,
+    "news:CBMi3wFBVV95cUxNX2tBTk5rRmRaOWhHWnJfdHdrcUNCUVNSR202ZjU3T0kzNzF2WmFZWDZ0V1pqbGRmVDRvQm9qdDNRYXh4d2lsNTZDTXVQXzlqV29IZVRfWE9peU1vWE5UUkdFM085R2Z0OUwxY1E0Qm03QWJFRW42MzVqWjBPaFQ4eVc2d01PWURsSzFGM1A4RHZuWDZsTkJjZENyMl9Yd0N2VE9xMVA5TldtSDZnQ1A2cTdMY3EyUFU1X1NXRkVfRk1WWHFlZEpleVM1QjR3U3lGRzgyd3E1c2lKOFNkeFU4": 1792197334006
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Beasiswa Garuda Siap Dibuka, Cek 3 Ketentuan Utamanya - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzRPRUNFcHVhWTNBSXExMnpSVXBQMGNfVXdyaHhPRi1jMEw1dElfM2tJRVYtNmZWajI0Q3IzeWdONm5icW5nbGE4dVN3T3lSUEx4aGJodG5EOWQ3V2VpYUVaMWVXdDltM2h0Y1RfNjdHOUpNYzRVZTdmdGdteVNzRDZ4Mko3b1djbVpaOUFzZEd4SnUxYjdKY1g1Z3lVTm51dHhsRlBFMmHSAa4BQVVfeXFMUHlZRkxOTUlPTU05enhoZHhoSXE0c1lVbXFrVjc0bWhRWWhkZnMwSG52S0VZZ0lrQnVST3k1VGxHNXRXNFQzS2lfMm9HaVJCYUppMWU4YUlGbVp0b2RsN29QQ3VndjcwdXhqQzZyeXAwTWtkelJUOXJLX0RVZkg1U2djQVB3a1Zod1RNRWtQcVBUNHh2M1dVdlN4UVBPS1dDTExSa1NVU2NEYndZRnZB?oc=5",
-      "d": 1792160127000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -6668,10 +6664,20 @@
       "d": 1792155251000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@infobeasiswa.official",
+      "x": "Lagi cari beasiswa kuliah, yuks sini merapat!⁣ ⁣ Program Bantuan Beasiswa Mahasiswa (BBM) 2026 resmi dibuka. Pendaftaran telah dibuka 15 Oktober kemarin. ⁣ ⁣ Yuks buruan, pendaftar",
+      "u": "https://www.threads.com/@infobeasiswa.official/post/Dek0Gmkozsm",
+      "d": 1792196668000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
