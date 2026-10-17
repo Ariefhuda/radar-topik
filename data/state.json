@@ -6060,19 +6060,14 @@
     "threads:DXDwf6aDS3P": 1792276532520,
     "threads:DIdByq6zuHW": 1792276532520,
     "threads:DbCRDZbj-uM": 1792276921776,
-    "news:CBMivgFBVV95cUxORHhYNW5uTjJud051UlNtUFd0cWsyWl9TWGxObXhkUm1fNmpFc1hEenIzT2NERUUyaXFVOHVEOVBfem1WTzdXRTZrZ0wyenI5SHAxSW5Kd0hJUG1Hc2EyQUhXV2ZITDk3ejBVUkRmQlVVeG5qVERsYnhvXy05a3QwN1JGM1hVVXM4dmlXZXY3bHJNaU1hckdXX3NSSmpzclVZNjRfUlBqbWxuSVJHOTJnWGZGRGJmUVduVE04WjVR0gG-AUFVX3lxTE5EeFg1bm5OMm53TnVSU21QV3RxazJaX1NYbE5teGRSbV82akVzWER6cjNPY0RFRTJpcVU4dUQ5UF96bVZPN1dFNmtnTDJ6cjlIcDFJbkp3SElQbUdzYTJBSFdXZkhMOTd6MFVSRGZCVVV4bmpURGxieG9fLTlrdDA3UkYzWFVVczh2aVdldjdsck1pTWFyR1dfc1JKanNyVVk2NF9SUGptbG5JUkc5MmdYZkZEYmZRV25UTThaNVE": 1792276921776
+    "news:CBMivgFBVV95cUxORHhYNW5uTjJud051UlNtUFd0cWsyWl9TWGxObXhkUm1fNmpFc1hEenIzT2NERUUyaXFVOHVEOVBfem1WTzdXRTZrZ0wyenI5SHAxSW5Kd0hJUG1Hc2EyQUhXV2ZITDk3ejBVUkRmQlVVeG5qVERsYnhvXy05a3QwN1JGM1hVVXM4dmlXZXY3bHJNaU1hckdXX3NSSmpzclVZNjRfUlBqbWxuSVJHOTJnWGZGRGJmUVduVE04WjVR0gG-AUFVX3lxTE5EeFg1bm5OMm53TnVSU21QV3RxazJaX1NYbE5teGRSbV82akVzWER6cjNPY0RFRTJpcVU4dUQ5UF96bVZPN1dFNmtnTDJ6cjlIcDFJbkp3SElQbUdzYTJBSFdXZkhMOTd6MFVSRGZCVVV4bmpURGxieG9fLTlrdDA3UkYzWFVVczh2aVdldjdsck1pTWFyR1dfc1JKanNyVVk2NF9SUGptbG5JUkc5MmdYZkZEYmZRV25UTThaNVE": 1792276921776,
+    "threads:DbWsb85iI6p": 1792277149262,
+    "threads:DenKwAiASRd": 1792277149262,
+    "threads:DebDK5pku-C": 1792277149262,
+    "threads:DeRKMr0D7H9": 1792277149262,
+    "threads:DeEo4a5FPbb": 1792277149262
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "NU Online",
-      "x": "PBNU Buka Beasiswa ke Maroko 2023, Ini Ketentuan dan Cara Daftarnya - NU Online",
-      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXc4TVhkdmJGQ3c3UGdySGZ1SFlidmtCcjNUU0Q3ZnhVSWplVGZLTE01eE5adVhEbS1KMTFlcm5lekZUbFdXSTJVTjRUYmhXNVpuZVB2blFlU2w1WDZEd041LUZpZWVyUWRUSDMyX1BDVElTQktGNm5ubnJocm9zc2h0M0p1ODBHOXpQbXlTbnZqMnRQdm10bFozX01zZGtxRm9VNtIBqgFBVV95cUxNS24wZ1p5UkNVaHhHUklrN1lfVGNISG9WM1h0TzhwUHN6SDM2SGZSRjA3a19OZE9OeWgxNGpGTDNJZVZIY2x5U3hIdk5OUlZjdnBDVnluVUxCcjFKN1B3aXFNdjNkU3ZsT1hJNllNNlNZWHR5REp5OXVIbjdVaFdMamZIX3lGSkNZY3hVTkNQaXh4Vm96ZlFwTjNMVjMxX0FSX1BLYnVGVFNhdw?oc=5",
-      "d": 1792209346000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -7575,7 +7570,7 @@
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
