@@ -5890,19 +5890,10 @@
     "threads:DemwzeYkyOv": 1792263042118,
     "threads:Dc5cEBDESzf": 1792263042118,
     "news:CBMitwFBVV95cUxOX0hPSkstd00wb081R0NQRGNZODhRTWNzanhJRUxJQ2lZY3pqcFlEMGYwOUpGbHU4MG5SUlcyZ2xSZzdQc3dTZ2RONmpiVC1JeFpDLWozWnNBU3VsTl9wclNPNDdBbU5zWkJKYmtDUUxrU1AxLURlMndIUzdJZkgweUQ1dlZJcUZRNFVLeF9zQkt0SnFtdDkyWm1fM3Bmbl9wSm05U1hkZWxtQVBLLWltZ2xYVUh3Njg": 1792263042118,
-    "news:CBMiuAFBVV95cUxQWG5BUWxLWGl0emNDWXRjZGx6Rkc2UmY3WmN5R09sZGlwTzdDcGVfVjRLMEdMcnRJcUFMb18zRS03Vy1hVF9QNThJeU9wVV9Oa3VqdmNjaGd1aDJHNVF4Y0FfbW1nbTlhR3VVVDZNemtRbmFlZTRwSlV3LVpmbjBXaVEwNkIwb3VvajhaTmFDNm9XYWE5RFRYZl9mMGxyNHUzcE9ZOWp1X0dqb0FCV1NGbXlQZHNlWVVQ": 1792263042118
+    "news:CBMiuAFBVV95cUxQWG5BUWxLWGl0emNDWXRjZGx6Rkc2UmY3WmN5R09sZGlwTzdDcGVfVjRLMEdMcnRJcUFMb18zRS03Vy1hVF9QNThJeU9wVV9Oa3VqdmNjaGd1aDJHNVF4Y0FfbW1nbTlhR3VVVDZNemtRbmFlZTRwSlV3LVpmbjBXaVEwNkIwb3VvajhaTmFDNm9XYWE5RFRYZl9mMGxyNHUzcE9ZOWp1X0dqb0FCV1NGbXlQZHNlWVVQ": 1792263042118,
+    "news:CBMiswFBVV95cUxPQ2J5THY5cHY5VFdZMzR2QlNtSTliWnBNdFpUM3Z5Tm1UeDlqZ3ZDa3YzLVVUbXRXT2VYZFFqZkpSSFhjQ1JsOVhXMzNqOS1ra0hoaFNCbER3Mlo5aGtyTFF4WXNTV1hhWk41aTFONHV1OC1kNDVlcXRzYWNqZkF2ZHhxYkFtUzRkQnJBbUVhSHVFYTI5SWFMZVVTeFJMSnFEeExVbk01bVlSS21hX0RXcjVKSdIBswFBVV95cUxPQ2J5THY5cHY5VFdZMzR2QlNtSTliWnBNdFpUM3Z5Tm1UeDlqZ3ZDa3YzLVVUbXRXT2VYZFFqZkpSSFhjQ1JsOVhXMzNqOS1ra0hoaFNCbER3Mlo5aGtyTFF4WXNTV1hhWk41aTFONHV1OC1kNDVlcXRzYWNqZkF2ZHhxYkFtUzRkQnJBbUVhSHVFYTI5SWFMZVVTeFJMSnFEeExVbk01bVlSS21hX0RXcjVKSQ": 1792263345903
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Galamedia News",
-      "x": "Cek Bansos Oktober 2026 Pakai NIK: Cara Melihat Status PKH dan BPNT - Galamedia News",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFgtQTFzWXpjUW9TUXhmYTlKdmVHNkU1a1ZjdllYSDNHcU9mT3lKS28yRWFseFQtZVd4S0w1WXFBSURuTzdIVFJSSHE0aTJMa2d1UmpzeGJZMmdOUURQdG1zdC1UbUZWNk1ORUhGYUpwV0tVY3dnTGJLN2pGVVphSG0zdUxadzFLNjhWcHppZGUyQTdNbDNfTmxObS0yNWoxUEdTc2syczV2bG5oc0NVTWdlZlZtcEJpRWlJNDZ4NA?oc=5",
-      "d": 1792206334000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -7392,10 +7383,20 @@
       "d": 1792263095000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Linggaupos",
+      "x": "SD Negeri 53 Lubuk Linggau Mengucapkan Dirgahayu Kota Lubuk Linggau ke-25 - linggaupos.disway.id - Linggaupos",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ2J5THY5cHY5VFdZMzR2QlNtSTliWnBNdFpUM3Z5Tm1UeDlqZ3ZDa3YzLVVUbXRXT2VYZFFqZkpSSFhjQ1JsOVhXMzNqOS1ra0hoaFNCbER3Mlo5aGtyTFF4WXNTV1hhWk41aTFONHV1OC1kNDVlcXRzYWNqZkF2ZHhxYkFtUzRkQnJBbUVhSHVFYTI5SWFMZVVTeFJMSnFEeExVbk01bVlSS21hX0RXcjVKSdIBswFBVV95cUxPQ2J5THY5cHY5VFdZMzR2QlNtSTliWnBNdFpUM3Z5Tm1UeDlqZ3ZDa3YzLVVUbXRXT2VYZFFqZkpSSFhjQ1JsOVhXMzNqOS1ra0hoaFNCbER3Mlo5aGtyTFF4WXNTV1hhWk41aTFONHV1OC1kNDVlcXRzYWNqZkF2ZHhxYkFtUzRkQnJBbUVhSHVFYTI5SWFMZVVTeFJMSnFEeExVbk01bVlSS21hX0RXcjVKSQ?oc=5",
+      "d": 1792208820000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
