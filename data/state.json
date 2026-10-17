@@ -5177,29 +5177,19 @@
     "threads:Dcj3COcksnN": 1792197640149,
     "threads:Def81ifmDaw": 1792197640149,
     "threads:Dek0-Enkrp_": 1792197640149,
-    "threads:DdLNa06EVu4": 1792197640149
+    "threads:DdLNa06EVu4": 1792197640149,
+    "threads:Ded4JNxlN3g": 1792197939569,
+    "threads:DdF32FTGWEs": 1792197939569,
+    "threads:DcIAWvTEucC": 1792197939569,
+    "threads:DeerLOaEqjH": 1792197939569,
+    "threads:Dek1t95kiM1": 1792197939569,
+    "threads:DXUNMcUGZQO": 1792197939569,
+    "threads:DXRlt7_EaWd": 1792197939569,
+    "threads:DXxoVSVE-te": 1792197939569,
+    "threads:DTnF4P2ERrX": 1792197939569,
+    "news:CBMiwAFBVV95cUxNdlpISnd4MFFqWVc2aDhXR0RmV2tUY29qMHZhU2YwWkNRTEQ5VmlFNWhLeFNVdWlwWXJfeEJLbWtPYXlJYkhQVzRabTZsbDJfbzBDNVYyUmZlWldOdURSWDU0ZkdiZXFzZ05NTEdhc3kteHdNcjg4U0ZlcDZVbHMwVWJ2YmxnQ1dvTHNnUXRlMHlHYVRucWttZkhHcTFTLTZYUUJRS3BFeS1zR2xzT2M5MGtuWGg1SWZoYzc1QVFubms": 1792197939569
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Herald.ID",
-      "x": "5 Bansos yang Dinanti pada Oktober 2026: PKH, BPNT hingga PIP, Cek Syarat dan Jadwalnya - Herald.ID",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa2lzcklKc1hTSHdMV2xsaEcyWS1jcVRKNmUtR05rdGxScFV5OURLNVV0MDhwMl9uaEY3R3RzLTJFa1ZPYzJWY2o1alJ4bWFMd0owa0FhaEJXMTRNeWtMZ1Rvd05OQ2pERmYyQndVMkYwTEIzQ3lYLUZTMEFyZTRQTzJHV285c3ExaEdfR2xoQVZNUnZlM2hNM0xBcVItZ3BqNjFXby1jc21hVmRHb09qQkh2ZV8?oc=5",
-      "d": 1792165200000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@eyd.ra",
-      "x": "Contoh orang yang gk bisa berkembang: Ada klien butuh ilmu. Ditawarkan webinar gratis, gk bayar, gk perlu open cam, gk perlu open mic, tapi NOLAK. Katanya, \"Apa bisa kakak beri mat",
-      "u": "https://www.threads.com/@eyd.ra/post/Dej3kVwAenO",
-      "d": 1792164930000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -6679,10 +6669,30 @@
       "d": 1792196668000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@awsaiacademy",
+      "x": "​🚀 BEASISWA GRATIS AWS AI ACADEMY 2026! 🚀 ​Belajar Machine Learning, Generative AI, Python & Cloud dengan kurikulum resmi AWS. Terbuka untuk semua WNI! ​✅ 100% Gratis, Online & F",
+      "u": "https://www.threads.com/@awsaiacademy/post/Dek1t95kiM1",
+      "d": 1792197515000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "InfoPublik",
+      "x": "Pemprov Riau: 673 SPPG Miliki Sertifikat Laik Higiene Sanitasi - InfoPublik",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlpISnd4MFFqWVc2aDhXR0RmV2tUY29qMHZhU2YwWkNRTEQ5VmlFNWhLeFNVdWlwWXJfeEJLbWtPYXlJYkhQVzRabTZsbDJfbzBDNVYyUmZlWldOdURSWDU0ZkdiZXFzZ05NTEdhc3kteHdNcjg4U0ZlcDZVbHMwVWJ2YmxnQ1dvTHNnUXRlMHlHYVRucWttZkhHcTFTLTZYUUJRS3BFeS1zR2xzT2M5MGtuWGg1SWZoYzc1QVFubms?oc=5",
+      "d": 1792177944000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
