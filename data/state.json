@@ -5930,19 +5930,14 @@
     "threads:DX74AjOgdTO": 1792265456699,
     "threads:DGkkvghSDit": 1792265456699,
     "threads:DRgHoVQmKL4": 1792265456699,
-    "threads:DYAJoBwkzWM": 1792265456699
+    "threads:DYAJoBwkzWM": 1792265456699,
+    "threads:Dem2WGegZ8u": 1792265741064,
+    "threads:Dem3R9HE5P9": 1792265741064,
+    "threads:Dci38ClCZ6Z": 1792265741064,
+    "threads:DapCWT5Hxaz": 1792265741064,
+    "news:CBMi4AFBVV95cUxOaExYRFZiUG5FRzlMenM3WlhSX0dhZzFDV2NOMG5ReG9EWkNERC1ERHpFdS12MVIwc2wzR2ZMUnpIYjdZNjgxVzNUX3FBb2dEWHRfa19BRXFZeEdXRU9reVZBV3d2a0ozZ012ZUhYaTg2b1lRb0JfNldhMzFTVnVGSVhkcXE5QmtOenI5MGwtWWh6MFJoUlJNUEpnZGtPQ0RCMm85VTZnYmJSeUE4MXg4a3NybE9vRWpGd2g3SGUxcHZmUHJKUGFacEJWTkxoS3JIc0xNTm16ZW9DU2lMZEFNSw": 1792265741064
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Pikiran Rakyat NTT",
-      "x": "Merasa Layak Dapat Bansos tetapi Belum Terdaftar? Ini Link Resmi dan Cara Mengusulkannya - Pikiran Rakyat NTT",
-      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1BGdnNJc2VLczJRTmQ1dHFsUlh3VUdKRHNyQnNlOTFjSHFBVkc0eDVzV1o5MDRjUWpvNnRXRXRfbEVzMFcwMXg4ZmlVcGwwelg1dkw3Y3c5Q2VXZWlrc29IRWZqWXFMQ0s4eFF3cXNTck9UNmc2eUdVa3p5UDBrRGJvUWNCenh3ZGxYR21ic19MN0xhOHhyUWRERWtONXhIeW14X0JpcnJTR3NpVlNFdEVQaWJpbi1OTjdqaVM4ZWhFNUpUQllaQXNBNjFfWGpiN1ZObVJCTE15LTRMSE9aVzZPUGEwMVU?oc=5",
-      "d": 1792220296000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -7432,10 +7427,20 @@
       "d": 1792236083000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Dampingi Gubernur Banten, Wali Kota Cilegon Pantau Sekolah Gratis, MBG dan SPMB di Kota Cilegon - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaExYRFZiUG5FRzlMenM3WlhSX0dhZzFDV2NOMG5ReG9EWkNERC1ERHpFdS12MVIwc2wzR2ZMUnpIYjdZNjgxVzNUX3FBb2dEWHRfa19BRXFZeEdXRU9reVZBV3d2a0ozZ012ZUhYaTg2b1lRb0JfNldhMzFTVnVGSVhkcXE5QmtOenI5MGwtWWh6MFJoUlJNUEpnZGtPQ0RCMm85VTZnYmJSeUE4MXg4a3NybE9vRWpGd2g3SGUxcHZmUHJKUGFacEJWTkxoS3JIc0xNTm16ZW9DU2lMZEFNSw?oc=5",
+      "d": 1792265400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
