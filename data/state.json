@@ -6019,19 +6019,10 @@
     "threads:DHze5IaS6Ab": 1792273549438,
     "threads:Db-taZgkWnj": 1792273549438,
     "threads:DFKgnkxvOR3": 1792273549438,
-    "threads:DBH6jBJBgcg": 1792273549438
+    "threads:DBH6jBJBgcg": 1792273549438,
+    "news:CBMiwAFBVV95cUxPUzVsWWNSUzZrRXcwSmRaRnBQekpfaS1rd0dQQmo0Y3BybXIwcm5OdXlKRjROc2FITEVYZnNUTFdnUlVySTdMLTN4cGpPVXhtTGJHWEcyXzVDZXJGSi1td0hKbGVKNmRNZFVuM2dZYXNMX1JKSk1DVTFkWmt3WGpjYS01WFcwS2FpZXFBTWVPZ1J1RlpJWGhlY1prRVh1cDlFTVZtdmRJdTBNY3VTWUdfOTI4TEJyTkpIT1lIV1hTSFnSAcYBQVVfeXFMT3I5MGJXQ0xEZmctdHdveHBYend5bHNodUlDUll6WFAycG13WXdGb0FoNklyX1ZZWDNGVmExR3RLMEc4R3NRbDRyWDlLLU5XdDhXVGwxbDNGN05EZnJoTUViU2hzZVRFT01PdTBRd1pCUG5SNG5sc2x4TU0xdjV0a0J0N3FPS1ZFVlRVQ2VudURkRmFpREVobWRMMjNRV2w2el9Id3Q2RWFxblpqOEN5ekJLdmNnY1Z5TVF1enlnN2VXejVFMzl3": 1792273838587
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Okebajo.com",
-      "x": "HKI Jadi Benteng UMKM Manggarai Barat, Pemda Fasilitasi Pendaftaran Gratis - Okebajo.com",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQW5faGU2dVptazNZMkY2NmdCYXJQVXc1MG9zT0g0X0laQVVyYnJqR2x0MjYtZElZWGtMMFZ0bFQxQ3VhS2JZUUNVZjllRjl1cnJqY2hSVUplR01VT1RfejNPS2VoazZRMWQ2aFRFTl9XMENpUnZIS0M1Z21ib0hnZzY2NVJwYXMwQjZIOUVHMVZNNWkzY3laemFwbjgyVWQxYTUxdDl6YTI?oc=5",
-      "d": 1792211580000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -7521,10 +7512,20 @@
       "d": 1792229100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "VIVA.co.id",
+      "x": "Pemerintah Tunda Wajib Halal hingga Oktober 2028, UMK Dapat Tambahan Waktu - VIVA.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUzVsWWNSUzZrRXcwSmRaRnBQekpfaS1rd0dQQmo0Y3BybXIwcm5OdXlKRjROc2FITEVYZnNUTFdnUlVySTdMLTN4cGpPVXhtTGJHWEcyXzVDZXJGSi1td0hKbGVKNmRNZFVuM2dZYXNMX1JKSk1DVTFkWmt3WGpjYS01WFcwS2FpZXFBTWVPZ1J1RlpJWGhlY1prRVh1cDlFTVZtdmRJdTBNY3VTWUdfOTI4TEJyTkpIT1lIV1hTSFnSAcYBQVVfeXFMT3I5MGJXQ0xEZmctdHdveHBYend5bHNodUlDUll6WFAycG13WXdGb0FoNklyX1ZZWDNGVmExR3RLMEc4R3NRbDRyWDlLLU5XdDhXVGwxbDNGN05EZnJoTUViU2hzZVRFT01PdTBRd1pCUG5SNG5sc2x4TU0xdjV0a0J0N3FPS1ZFVlRVQ2VudURkRmFpREVobWRMMjNRV2w2el9Id3Q2RWFxblpqOEN5ekJLdmNnY1Z5TVF1enlnN2VXejVFMzl3?oc=5",
+      "d": 1792272600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
