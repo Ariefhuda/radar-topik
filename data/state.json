@@ -5827,19 +5827,11 @@
     "news:CBMi1AFBVV95cUxNektvZkFkT2wzWXVhcklYeXBZLWR3RWwxdlI3OEZUX01yUHhjZW5PdGs3N3g4d2xtcXZETGJZSU85dmJ2SXRuaEpzMnVmYU1XRll3TDFsalpndmM1Si1JTjBRZVU3S3U0cnBXVDJSRkUxZTlfYWVRWXU1b21UUUp5SVgtLWNUTVpiZC1PaUk0X1B0X2ZWdlIzaEFNRjhkV2hROVFTNHM5RWRoYXBEdFhtTjRpWlYzTVhEXzlXcExUNERXU2hnV0F2NG4tZXYyZ1M2b01zYdIB2gFBVV95cUxQWVRIN2xVQzZOX1UwU042ejFEazhMOUxxc2h4WHNvYXVyc0VPclpVZTVVdFo5b0FxZ2hCLWd3NzlTdUg3S0ZnWm5xZTBSX1ZUdXE3UVNiYXZiOFctRnJCbGFKTjJBYWFGVUh6SjE0LVFFa3VPRWRnMWl0ZHdqMGpFOG1ZNWJYVnFIWXlDbHNrUHZYRzVKVXRTTmV1RXo2WXd1YmNPdG1VVVdpbUtGM3FlazNNbklOSmpsZ1NvWlVZdVlZQ3lRSlM3cHhWM25HZFEtNWd3a3p1S3lLZw": 1792259748973,
     "threads:Demrve4EkfP": 1792260049310,
     "threads:Demrr2sGLkZ": 1792260049310,
-    "threads:DemrZ6oElFo": 1792260049310
+    "threads:DemrZ6oElFo": 1792260049310,
+    "threads:DcYbDvwAS3e": 1792260282196,
+    "news:CBMic0FVX3lxTFA4YnpvX2pVRVRONTZkWmNWb1l2RXZJRkNVNTB0SFg5ODN5UDJnV2pUam5XRXEzV3phVHliWjNUMm1EamRVYjhnZ3JBdmo0bDdwbDhSRE9fYnVBc1dQLXN6RFhtaEtxRHY4aklvLVZhNnN4MEU": 1792260282196
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribun Gorontalo",
-      "x": "Desil 4 Dapat Bansos Apa Saja? Cek PKH dan BPNT, Begini Cara Cek Status Pakai NIK KTP - Tribun Gorontalo",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1pFQjZUUy1fcmtYdWh1UG5UT1BYVW5XTDMzMERQN29ubkZNZmc2V1I5UWtPa2ZhX2RWZkdlN2NHbGE0RHJaNFZTdU1MVUNKY3ZUa1ZjVkNnS24ybGtWdVNtQzJPRjV4WlJMUDRzY1Z6cnphcUl1RmpuaUNPVDV5ZEVpcGExXzRmeklSajA5VFdCdXlYclZFczhiUzA3MzlKb1QzcEdaTmFfSFNUcTRLcnRsYkFiSk9VdGdlNW1tb05Vb1dYUGhvOXoyNA?oc=5",
-      "d": 1792215328000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -7329,10 +7321,20 @@
       "d": 1792253224000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "CentralBatam",
+      "x": "Kadin Soroti Kesiapan Usaha Hadapi Wajib Halal 18 Oktober 2026 - CentralBatam",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4YnpvX2pVRVRONTZkWmNWb1l2RXZJRkNVNTB0SFg5ODN5UDJnV2pUam5XRXEzV3phVHliWjNUMm1EamRVYjhnZ3JBdmo0bDdwbDhSRE9fYnVBc1dQLXN6RFhtaEtxRHY4aklvLVZhNnN4MEU?oc=5",
+      "d": 1792233320000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
