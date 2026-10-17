@@ -5867,19 +5867,12 @@
     "threads:DemvH1FllJh": 1792262141516,
     "threads:DemuxavDvlF": 1792262141516,
     "threads:Demut0RErcz": 1792262141516,
-    "news:CBMiyAFBVV95cUxQOTlncEtsTmgtYUNSeXhxZ0tIamtpY3ZLSHl4X2c0N1F4Q1pfSFZKbUNOM2IyaWdtUlZrd29EWVptdmVIS2VqbXVHUHVTdkItNkx6SzNjRU1xeUFhX0VQNDdNUC1SellaX3FxZW5QamhxWGd5X3lRYk1rMUlWMkM2RHFHbG4yWl9tZzFfUS1STlNoSmNXckJIUGRpX2M2Tnk1eGFJRW5pXzFVS2NmSlFHb1BIYUNGRTJ1VlZZZFNVTG50cHRlX1I0ag": 1792262141516
+    "news:CBMiyAFBVV95cUxQOTlncEtsTmgtYUNSeXhxZ0tIamtpY3ZLSHl4X2c0N1F4Q1pfSFZKbUNOM2IyaWdtUlZrd29EWVptdmVIS2VqbXVHUHVTdkItNkx6SzNjRU1xeUFhX0VQNDdNUC1SellaX3FxZW5QamhxWGd5X3lRYk1rMUlWMkM2RHFHbG4yWl9tZzFfUS1STlNoSmNXckJIUGRpX2M2Tnk1eGFJRW5pXzFVS2NmSlFHb1BIYUNGRTJ1VlZZZFNVTG50cHRlX1I0ag": 1792262141516,
+    "threads:DelQxveGcDT": 1792262451315,
+    "threads:DUZwtI2Dc44": 1792262451315,
+    "threads:DUsMexnmAc-": 1792262451315
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Media 24",
-      "x": "Panduan Cek Penerima Bantuan Beras 30 Kg, Langkah Mudah Melalui Situs Cek Bansos Kemensos - Media 24 - Media 24",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmFfT3pfVDJjeVMyYWxaeXJETmpwZTJSa3plUVFpTXNJZkdLWjFTZlhzenJKZ1ZrOUttLXU5U3ZfWjZWakJkSURWZzdBU21CWVZ6LVY5ekhBTjFTcW1PRjBDRGpkLUFnUGN2NFk3QXY3M2t1d3MycVlnc01lbG9Vd1ptaW0wcEJVMlFZQlRSekVWSnZNOE5hb3FCMEZrZ2JKaElGZy1IU1R1QjR2TlNUMTdZSzVFRDBmYkVuZnVFUDFUM0poZkHSAcsBQVVfeXFMTko3cXlXR1I5VWRwcGFhOEtrZy1NaEtrcVhlQlFwWm8yc3hxbTZod3lPSVpjUmpjRUdQNEotSWtIcHBHYkU5b0pjRTFfTjB2a1Zmcms1S01FNjhnMTlJSmstbEtPN2JoVlU4R1NxeVgtTmVmZXVqbmI0U1dTaXBFb25YdzBDS0k1QnFOR2dERUVWZlVGYVV6aFRTMldUSGtYWHNjWENSbmdBOVMtdEw3ZDJXeFVkWTNnWGEwVW5wcWx2b1BUWnByNUFfZE0?oc=5",
-      "d": 1792241133000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -7369,10 +7362,20 @@
       "d": 1792226905000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@anchiiato",
+      "x": "🔥 WORKSHOP BEF 2026: HARGA TURUN, BENEFIT MELIMPAH! 🔥 Workshop seru dengan harga lebih terjangkau! 👀✨ 💄 Make Over Beauty Class: 185K 🌸 Azarine Beauty Class: 99K (dari 155K!) \ud83d",
+      "u": "https://www.threads.com/@anchiiato/post/DelQxveGcDT",
+      "d": 1792211701000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
