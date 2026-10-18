@@ -6727,7 +6727,13 @@
     "threads:Deb6awtCQEf": 1792347052822,
     "threads:DShTDYNmAxK": 1792347052822,
     "threads:DWp50_hEmFe": 1792347052822,
-    "news:CBMisAFBVV95cUxPakhXVkRCakd4WmJJQzVoQ0JfQURRb05BOVN5MGZMV29ZbFk5c0RPa0VYQzRmdnVIUTRHVzhjVW1ZUmpYcG9NckhkNkxCV0tqSXV1THpUREJ1YmpmZ19adDFFNk1BVEllWXF0UVc5QVJKaGVKclg0WnhBaG4yd2hKWm5PTHhfc0RVZHZ4VllpMFpmNmpUTXhMRHNuc1c1TnJOMDNadndlR0t0LUo4cTVTcA": 1792347052822
+    "news:CBMisAFBVV95cUxPakhXVkRCakd4WmJJQzVoQ0JfQURRb05BOVN5MGZMV29ZbFk5c0RPa0VYQzRmdnVIUTRHVzhjVW1ZUmpYcG9NckhkNkxCV0tqSXV1THpUREJ1YmpmZ19adDFFNk1BVEllWXF0UVc5QVJKaGVKclg0WnhBaG4yd2hKWm5PTHhfc0RVZHZ4VllpMFpmNmpUTXhMRHNuc1c1TnJOMDNadndlR0t0LUo4cTVTcA": 1792347052822,
+    "threads:C-quAIhz3Lx": 1792347342175,
+    "threads:DQODxcnE1iB": 1792347342175,
+    "threads:DepSZEXAg15": 1792347342175,
+    "threads:DenUCcCEzVw": 1792347342175,
+    "threads:DcfEjUAFNpN": 1792347342175,
+    "threads:DdPtMWLk7xD": 1792347342175
   },
   "digest": [
     {
@@ -8232,7 +8238,7 @@
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
