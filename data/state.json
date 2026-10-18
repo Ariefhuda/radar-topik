@@ -6816,19 +6816,15 @@
     "threads:DeodXl9keW4": 1792352135537,
     "threads:DdqjZZ5D000": 1792352135537,
     "threads:DGmTG95vhxM": 1792352135537,
-    "news:CBMiakFVX3lxTE5fTTkzakEzTkgweGhUUDE3VmU3UkFZdmMybC1rMjRWX21qN0Z2b1RJNWZtWTVmOTdYdm84c3FLYzhjLUY4R3c3RzRrZXd5bkx5SHJFVnA5Qm8tall3R1RIQVNISHJkQmtQT3c": 1792352135537
+    "news:CBMiakFVX3lxTE5fTTkzakEzTkgweGhUUDE3VmU3UkFZdmMybC1rMjRWX21qN0Z2b1RJNWZtWTVmOTdYdm84c3FLYzhjLUY4R3c3RzRrZXd5bkx5SHJFVnA5Qm8tall3R1RIQVNISHJkQmtQT3c": 1792352135537,
+    "threads:DepcvZYoE39": 1792352440901,
+    "threads:DepdMCjDSBM": 1792352440901,
+    "threads:Depc1xWICjJ": 1792352440901,
+    "threads:DepcROqDVt1": 1792352440901,
+    "threads:DepcWCdCgFz": 1792352440901,
+    "threads:DcqebsxD1eQ": 1792352440901
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Harianjogja.com",
-      "x": "Cara Daftar Bansos BPNT dan PKH 2027 Lewat Perlinsos Digital - Harianjogja.com",
-      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVNpV3BlR0UyLVBWenVzVFRnZDhWVzlZeUYtRkR2bUNZODRfWlA1RWFwRVY5Wmh6R1RkY0JxMFV1bzZ0ZG9GYldSNWQ3Mzc5NFNyQkdfbVBYLW5kcjlkU0hYR0dhNGhQcUFRb2NLRmNqRmRyYUVxcmhwbzlJS1RHM3pIYlctRlNtNy1va2ZjUWZxcUl4ck95RldfNUMxNXd1?oc=5",
-      "d": 1792292872000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -8318,10 +8314,20 @@
       "d": 1792348620000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@raiolanetworks",
+      "x": "¿Y si pudieras crear una aplicación para resolver una tarea de tu negocio con ayuda de la IA? 🚀 Valentín Ayesa: \"Cómo crear y publicar tu primera aplicación con IA\" 📆 Martes, 27 ",
+      "u": "https://www.threads.com/@raiolanetworks/post/DepcWCdCgFz",
+      "d": 1792352022000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
