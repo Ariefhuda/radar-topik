@@ -6723,19 +6723,13 @@
     "threads:DZCxNKPDHbo": 1792346740541,
     "threads:DelB2Kskw6q": 1792346740541,
     "threads:DeoyAsJiboV": 1792346740541,
-    "news:CBMitwFBVV95cUxOR3VhZUhiQlBINzFkNnVOQ25lS1B4bHZmMVo4YXFYMlk2Rmx3UjJQeTFyMFRiLTlncHNWTXlFSmVsSkhKaFRIcUpIb3JxR3pTSWVmUG9pTU1pa2plZ09NVDdFU0VjZjFfbnY4NlVvR3pXSG1HNllVeUN5bU96dzV0dGtOVVBScE1hZG5PanNJRkFqTHN1bmlHaV9nNFRlaEdFQnZOaU5IUFZjUkxVM0REaGhIdkM0c3c": 1792346740541
+    "news:CBMitwFBVV95cUxOR3VhZUhiQlBINzFkNnVOQ25lS1B4bHZmMVo4YXFYMlk2Rmx3UjJQeTFyMFRiLTlncHNWTXlFSmVsSkhKaFRIcUpIb3JxR3pTSWVmUG9pTU1pa2plZ09NVDdFU0VjZjFfbnY4NlVvR3pXSG1HNllVeUN5bU96dzV0dGtOVVBScE1hZG5PanNJRkFqTHN1bmlHaV9nNFRlaEdFQnZOaU5IUFZjUkxVM0REaGhIdkM0c3c": 1792346740541,
+    "threads:Deb6awtCQEf": 1792347052822,
+    "threads:DShTDYNmAxK": 1792347052822,
+    "threads:DWp50_hEmFe": 1792347052822,
+    "news:CBMisAFBVV95cUxPakhXVkRCakd4WmJJQzVoQ0JfQURRb05BOVN5MGZMV29ZbFk5c0RPa0VYQzRmdnVIUTRHVzhjVW1ZUmpYcG9NckhkNkxCV0tqSXV1THpUREJ1YmpmZ19adDFFNk1BVEllWXF0UVc5QVJKaGVKclg0WnhBaG4yd2hKWm5PTHhfc0RVZHZ4VllpMFpmNmpUTXhMRHNuc1c1TnJOMDNadndlR0t0LUo4cTVTcA": 1792347052822
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "LPDP 2026 Berubah Besar-besaran, Kuota 80 Persen untuk STEM, Ini Strategi Lolosnya - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVotdEE2cFo3SEhsdFRZeFBDTndHNHNJUFFXd3FZT3BTNFZKMmtna3Z5aHRFVDFMWE1mbEM0bEhINWpBY0tMZ0R0UHdwZmFYZVA0ajl1cVZ5RGpJbF9Db0d3NzZxU09aNkNCOUJ6U0VseW5oQXVvSDZlWldfVjZJTHpDNUJncUtBZkptY2M0b3hBSTYwMVVweE9PYk1PVmNIRloxTVQ0RFFFTjd6dmZRTVVxS3ZON0VUMGlKTHI2V0xMYzNPUjcxc2haaG1sZi02QmdB0gHTAUFVX3lxTFBNWi10QTZwWjdISGx0VFl4UENOd0c0c0lQUVd3cVlPcFM0Vkoya2drdnlodEVUMUxYTWZsQzRsSEg1akFjS0xnRHRQd3BmYVhlUDRqOXVxVnlEaklsX0NvR3c3NnFTT1o2Q0I5QnpTRWx5bmhBdW9INmVaV19WNklMekM1QmdxS0FmSm1jYzRveEFJNjAxVXB4T09iTU9WY0hGWjFNVDREUUVON3p2ZlFNVXFLdk43RVQwaUpMcjZXTExjM09SNzFzaFpobWxmLTZCZ0E?oc=5",
-      "d": 1792315951000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -8225,10 +8219,20 @@
       "d": 1792329788000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "GoRiau.com",
+      "x": "Peringati HUT ke-76, IDI Kuansing Beri Layanan Kesehatan Gratis di Inuman - GoRiau.com",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakhXVkRCakd4WmJJQzVoQ0JfQURRb05BOVN5MGZMV29ZbFk5c0RPa0VYQzRmdnVIUTRHVzhjVW1ZUmpYcG9NckhkNkxCV0tqSXV1THpUREJ1YmpmZ19adDFFNk1BVEllWXF0UVc5QVJKaGVKclg0WnhBaG4yd2hKWm5PTHhfc0RVZHZ4VllpMFpmNmpUTXhMRHNuc1c1TnJOMDNadndlR0t0LUo4cTVTcA?oc=5",
+      "d": 1792337340000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
