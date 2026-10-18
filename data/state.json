@@ -7098,29 +7098,15 @@
     "threads:Dej1XdzHyC9": 1792365039332,
     "threads:Depz-UPEoY2": 1792365039332,
     "threads:Dep04grEwM2": 1792365039332,
-    "threads:Dep1cj3jxrx": 1792365039332
+    "threads:Dep1cj3jxrx": 1792365039332,
+    "threads:DcnWchAnfnW": 1792365340899,
+    "threads:Dda0nygkuOF": 1792365340899,
+    "threads:DTfD_u5CVFg": 1792365340899,
+    "threads:Db5zjMBCb-w": 1792365340899,
+    "news:CBMigAFBVV95cUxPZkFzQnRzRk1IaE9qUUFBaUZCTzBPMFNqdFBaWnVHdmZLQ2pVS3BlYXRQTkE0WUZaUmxuQlNmYUpVMERtR3MzeFZMWVpzTkZrQjBhQzRuU01PaHNRaTVBeUhFYmlBcGJJc3ZVQ05tT2JhTzIzY1RjeHhNV09HVDJjVw": 1792365340899,
+    "news:CBMijwFBVV95cUxPdHI0X2hObGNKWGFaVmlLdnY4SzlzQWJhMTV4Ulhzam9ZQUgtWmFsNklHUlN0aVlUQ2hUdmtrbFdoZEdnMVhLR0VRaUc4M0NZWUJINFZSMzIwRWVyekkzUWhibmt4dVFnV09VS2dzZUdOY0ppTTE4M09COW5YMzMxMFBiRUVlcmZ5bzAxRFhDMA": 1792365340899
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ceritainkamufakta",
-      "x": "4) yg paling penting buat ortu kita: jangan kasih NIK, foto KTP, PIN, atau kode OTP ke orang yg ngaku petugas, lewat chat atau telepon. ngecek cukup di situs yg ujungnya .go.id ata",
-      "u": "https://www.threads.com/@ceritainkamufakta/post/DenysyOGONI",
-      "d": 1792296601000,
-      "urgent": false,
-      "warn": true
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@alhaque2022",
-      "x": "Yang terindikasi judol gimana kabarnya? Mau cair lagi Ada tiga persyaratan Tanya di kolom komentar #kks #bansos #pkh #bpnt #kemensos #ppatk #pusdatinkesos",
-      "u": "https://www.threads.com/@alhaque2022/post/DentIj_Ezh3",
-      "d": 1792293678000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -8600,10 +8586,30 @@
       "d": 1792365183000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "jatimupdate.id",
+      "x": "20 Mahasiswa UWP Raih Beasiswa Bank Jatim - jatimupdate.id",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkFzQnRzRk1IaE9qUUFBaUZCTzBPMFNqdFBaWnVHdmZLQ2pVS3BlYXRQTkE0WUZaUmxuQlNmYUpVMERtR3MzeFZMWVpzTkZrQjBhQzRuU01PaHNRaTVBeUhFYmlBcGJJc3ZVQ05tT2JhTzIzY1RjeHhNV09HVDJjVw?oc=5",
+      "d": 1792354380000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ChatNews.id",
+      "x": "Kemensos Jelaskan Cara Cek Penerima Bansos PKH dan BPNT - ChatNews.id",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHI0X2hObGNKWGFaVmlLdnY4SzlzQWJhMTV4Ulhzam9ZQUgtWmFsNklHUlN0aVlUQ2hUdmtrbFdoZEdnMVhLR0VRaUc4M0NZWUJINFZSMzIwRWVyekkzUWhibmt4dVFnV09VS2dzZUdOY0ppTTE4M09COW5YMzMxMFBiRUVlcmZ5bzAxRFhDMA?oc=5",
+      "d": 1792361160000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
