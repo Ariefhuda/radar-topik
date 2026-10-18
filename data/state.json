@@ -6560,159 +6560,36 @@
     "news:CBMi3gFBVV95cUxNZGdQZHRkbTBxMHI0MzFYLWZGZjFCQnNabWdWclFIQkpGRXhJa1RZb0RlNFNEVDdRTW5nR2haLWpRZEllbHNYb2p2ZEJsWUY5ZWFsUmJVMlF6WDhFR1hNbTE2MEdnX0hpNFZMSEZtOGgwZHVPdDBNTDE3dU1zTng4VlF6cHhrSm9uUmdEVlpRSUtlYlV0a1lIWGZMNlN1dkp2bUszQ0lQUGJJckNZWHZxN2tudERvNVFCRFFnbjBfZzZtRkxuRE5tcThZUk15MktReVJraC1aWlFmRVJEYlE": 1792343139508,
     "news:CBMi3wFBVV95cUxQTjhCeG96bFVENDlxZmxtQmcwXzB5QU5KX2tLb0dibDBLc196R05FcFFnQ3dLN1VDMzNUQllXUnRLZFZVZFRuX1FPU0xyXzYzckdGMHZJVEtZZnA0N2pZWldDTkVvQ1I5M3RXZkR5cDBGSVNCN2hkbkRWUTFuX09EVm1lZGRDa1JXTUJFcnNBRDRheGc1Mm4wWnd6N2lGc0VOWHFfWW54SklQNjI0Y0ZCZmtJWGtLQVlVcU9VZFAtX284YkhxNVl1SDJmVEtxVjNRRmZ5M0k4LUw5MWkyZWNn0gHkAUFVX3lxTE1JU2MxdlU0amM0MFJJRVktaHlqVnZSOE84ak9ISXZMZVhUdTFlVWRyREVGbVlzTUktNjg0UUNrVGVJME5OYzF3NXZzMWxEcERQU21jZzd6N2NCa3hpRDJELXBTVjZBeHBjTVdWcXVrTnQtTXFHOVVpNEJqeDZKd2h1NlZKM3VFRWlBU1hYMC1fYkZZQThmUUE0RTJOZkZrb3lHMXhXcHNRVUJtTnl2ZXRLSFl0aEdkTlZMaEtTU0dZNmtTTVV4LThKY2RvQ0JzRWMwV0ZMZkx6blMyckg1bTM0N3g4QQ": 1792343139508,
     "news:CBMizwFBVV95cUxOajVwMF9LdzVWRWc5TkV4ODA3UmE4SXlXVVJzUmMzMzFja2xHLTBWWjZlRVdkXzYyRnVmMXpaX05pSW1pSEcwNUxCbEQxUWEzaF9DUVpad253TjJ2UEVxTU9Gb3BTYmVndkR2ZDRMQlZuR3V1NzFhR1pibHAyNlJTUC1HNHZqYW5uVE5XUWo5QTBRUU16d1RLUG13eTdrSXZrWm10M202YXZ2R053WGJnSk5jWmpMTXZFNTlTRk9rOEhZWG1KVHFwN29QaDF2WmfSAdQBQVVfeXFMT1hGbkpfa3VMU2pnS3B6dkpLNWNteWlrbHRjSE4xRDI2bjBiRWVxTVQ4NkxNOVVpYW1PWklzdm5qX2QyNlhqRzhJNFVMQzl6dmRsc0hLZmpPdkZjQUxPbmZwcUtJSlQ3R0wtNzJrZGZYenRuUWFVNFhfV0pLeHVHLVktZThqaGg2UmJVV2tJMDVjZ2hjNmRESkRIOHdWd2IyaXdJWkdaa0NlckZrMEphdXZZXzdvYTc3RVpVemZ6dVFKOXZiYkVYODk2SzdRRFRxRXVrRE8": 1792343139508,
-    "news:CBMiugFBVV95cUxOSlNSd0FENkdzbFZ1cUdabnVZazdWcjZEcXFyNDBaMkt4MmxOdmdxSHk1LUc3Ri04dm1PckFkbFEwbDgyalEzSXM5VGJqcTFGWERCZ1VhOGRoVUpLRFlwVkFtLXVtM1ZiMV9GUEdEV19aS3VNYnFwUmgxU3U0OXN5cWJaaUNuT3ozUHp1amd2X2JKZDRXUEZjcHhnZGlTZy1oTE9PQ1U1NXlzVHRDTnZsMk9UQ2t2UTAwbXfSAboBQVVfeXFMTzFpRThoWE10b0xNNVJ1dHozNzhjZVU0TDg4SzFlUFN1ZnZYWEFBdWFuVTRtM3k2YzRiTndLR3gyWjFZcXpVNUVRZ1lOWlhIek82VlZWZmhBNU1PZGRReWoxbUNaRmFkTk9wZEhfRGpzb01pWW1nNVpYWTVuSUlKakhQeDUzRFZiMGJfV1o4d3NMb21JNnlDX3Z2cHpKVWt3Sl95dmZuOXJIWkMyc24weVY5VVNLVlliRVdB": 1792343139508
+    "news:CBMiugFBVV95cUxOSlNSd0FENkdzbFZ1cUdabnVZazdWcjZEcXFyNDBaMkt4MmxOdmdxSHk1LUc3Ri04dm1PckFkbFEwbDgyalEzSXM5VGJqcTFGWERCZ1VhOGRoVUpLRFlwVkFtLXVtM1ZiMV9GUEdEV19aS3VNYnFwUmgxU3U0OXN5cWJaaUNuT3ozUHp1amd2X2JKZDRXUEZjcHhnZGlTZy1oTE9PQ1U1NXlzVHRDTnZsMk9UQ2t2UTAwbXfSAboBQVVfeXFMTzFpRThoWE10b0xNNVJ1dHozNzhjZVU0TDg4SzFlUFN1ZnZYWEFBdWFuVTRtM3k2YzRiTndLR3gyWjFZcXpVNUVRZ1lOWlhIek82VlZWZmhBNU1PZGRReWoxbUNaRmFkTk9wZEhfRGpzb01pWW1nNVpYWTVuSUlKakhQeDUzRFZiMGJfV1o4d3NMb21JNnlDX3Z2cHpKVWt3Sl95dmZuOXJIWkMyc24weVY5VVNLVlliRVdB": 1792343139508,
+    "threads:DTkP4XWiZDT": 1792343443900,
+    "threads:Dbiahq2m548": 1792343443900,
+    "threads:DepIGQwmEr0": 1792343443900,
+    "threads:Deo9_Mnjxp2": 1792343443900,
+    "threads:Deoip3BE9d8": 1792343443900,
+    "threads:DeoLVLjG1l2": 1792343443900,
+    "threads:DeoD8rNE_EG": 1792343443900,
+    "threads:Den8DP_CcXO": 1792343443900,
+    "threads:Denym8rmE3B": 1792343443900,
+    "threads:Denjq96E0yW": 1792343443900,
+    "threads:DbGZNjYGikd": 1792343443900,
+    "threads:DeohoZxkQC2": 1792343443900,
+    "threads:DepFwmCCSqq": 1792343443900,
+    "threads:DepE6a7E_aS": 1792343443900,
+    "threads:DNJUj-eIoV7": 1792343443900,
+    "threads:Dc-rYCQGWt3": 1792343443900,
+    "threads:DOc0Z49D39g": 1792343443900,
+    "threads:C3QhHwRPDNF": 1792343443900,
+    "news:CBMiqwFBVV95cUxPWU1fZlN3Sk9wQnBCbGhWWEloS2JhY2Zuc1VPekdfRWtWdHM4SjFQMkh1MjhUTzlnXzV5eFRWRlJOeG92VG80djF3UjVTbFhJUS1ha2I2X2RnUnlIbllCbUk0bjcxMGV5blpLQWdDWWNuTVl0UVBwbzE3aDFBXzIxWE51a1pfWlV0YlFkNHlzekcyNkQ5dURYTTRsRk82RjR3MVNMSjV3Qml2V00": 1792343443900,
+    "news:CBMi2gFBVV95cUxPdWhkcWhtZDI3bk1jUm1DYmFScDJMemN6bkxIV1BUTkxNdlk0ZDhmdm1sU2JNV3EzYlpRdVVubnFtcG5jXzJwMENwemRFWmxaclppQV9uU3oyODZCcEVUZHk0bnRUVzlEd0JqdV85MEdBNlFsQzM2VC1hRnlNZlkwWUNoUUZGU3NnMWVVNkFSUUdBOXQwdTJyd0ZPRUlQS0FkTTJyWDJONTVGOW9wZUE2SE9vemRxNHZnQlZFTWd1cDdwXzVKUUNQejlaWXY0NXEzWXk3UVk0QjFGQdIB3wFBVV95cUxQMXZ3RGN6aWpPOVJWZmt1R2NKdzRBUzFMcEJyeHhTWkhJWXdtVktqeVYzRUFISzhKRWRMM3VGY1BEMVJWelMzZ2JNVGMyOXdCS19QX2k5bHlzUk5EU0Z4ek8yN1ZkYkdlaWFxZ3ZWZE5XNFBmMXNJLW9mUmxzVTJmRDJUaHEwVXZXMUxvTzYyX2ZRUmFJR0YwQ0RnRU94NXZ3LTk4WTY3UDRYWkM1NW9DOHdXdFY5aFk4cUNqbGNQQ3hJMEtMYUNYeDFna2ptNHdkR3c3SlRNbE4zQVhQY05R": 1792343443900,
+    "news:CBMia0FVX3lxTE01WlNLSi04Qkd1bDVqUkZOWjZ4VWNKQjhDVC1rd01VUjZSWk5zaWdCaFVVRzhCUFNGVTBxdW9NaU1OTUlJZmF2ME9oUzV4OWxZd0E0X0pOck9nLUdaMTI5dzJBRlVTRUppczU0": 1792343443900,
+    "news:CBMiwwFBVV95cUxQWEFlUUk3cktqcURnYmJEc0d4bzlfNXZXc3J1dXBNeFhJRDdVTjNqQ3kyZEFHeDJFdUo5TDhoSXFWOGlzTndob3dtZTQ3YkFLWExQSlEtMzBIRktST0tIdWpLXzZlLWMtb1U3OWFIRWJTdVlURGRNUmp2c3ZLeG9CMnBPNW5tVi16WmtkWWQ1VDFKTW9TSUltcEl3aVVxWVZnWEdzRUVxSXdvZFZ5YVVJalZsOXBhVW5KUjY0SzdQaVpJeTg": 1792343443900,
+    "news:CBMi8wFBVV95cUxOc1hVcEZVdWFyd0gxWVlUdHJHOUF3VjJiUXdBc1BxZlFQclRtSlVFQWxXQkY4NnRFM004SzBmamM1THh4VU11RXBGamthcDM4MFY2ZUlDNVgwdVhJWE9VU1drZm1WaERWY1J0RVFpSGdybloyekktVVJfYnNkNWE4VldydlRXc09ZaFBodFBBVkZvT0NnXzR1QlAyUWI1TlV1NmI3Nk1KRzVTQTRWeTU0TkJsbHVJNHg1elYtTzdHdFZmc1oyajBlaGZ1YzlDNDYyT2RxWDhMcnRnRzBiMzZLNGNVbGc0d0p6YmQ4aDVZdlFLblU": 1792343443900,
+    "news:CBMi5AFBVV95cUxNSVNjMXZVNGpjNDBSSUVZLWh5alZ2UjhPOGpPSEl2TGVYVHUxZVVkckRFRm1Zc01JLTY4NFFDa1RlSTBOTmMxdzV2czFsRHBEUFNtY2c3ejdjQmt4aUQyRC1wU1Y2QXhwY01XVnF1a050LU1xRzlVaTRCang2SndodTZWSjN1RUVpQVNYWDAtX2JGWUE4ZlFBNEUyTmZGa295RzF4V3BzUVVCbU55dmV0S0hZdGhHZE5WTGhLU1NHWTZrU01VeC04SmNkb0NCc0VjMFdGTGZMem5TMnJINW0zNDd4OEHSAeQBQVVfeXFMTUlTYzF2VTRqYzQwUklFWS1oeWpWdlI4TzhqT0hJdkxlWFR1MWVVZHJERUZtWXNNSS02ODRRQ2tUZUkwTk5jMXc1dnMxbERwRFBTbWNnN3o3Y0JreGlEMkQtcFNWNkF4cGNNV1ZxdWtOdC1NcUc5VWk0Qmp4Nkp3aHU2VkozdUVFaUFTWFgwLV9iRllBOGZRQTRFMk5mRmtveUcxeFdwc1FVQm1OeXZldEtIWXRoR2ROVkxoS1NTR1k2a1NNVXgtOEpjZG9DQnNFYzBXRkxmTHpuUzJySDVtMzQ3eDhB": 1792343443900,
+    "news:CBMixwFBVV95cUxOMldqVzlVNnJ5eklnZ0hyX1pHUHdmVzloNXVkM3dPS3hJcXNtNFBJMEE1MF9TN0NyeFJ6S0xRRkswU3AwckdJNUNNYk1GZGVoUWZGalpxay1NbndQREN5bHZTS3FmMklsMnJqc1dTd1dmUS1BZG84dERxX09KeS1NamI4T3JYQjVzbkVLNHVvZHRoZmM4YlUwVWlTelhJeEZOZEdNSTByaWFPN0N2anRtVDExYUc3YjV1NHVoQktZazl5eWIxdlY0": 1792343443900,
+    "news:CBMi3gFBVV95cUxNMGZtQzhZanV6dU12emtSSkNoc1R2Q3QzNDlvc2tyanQwUUpWdFhDcGpkQzZBS0V5eWhCNmNNblZFYjQwVV8zQlRpSTZvWGZ0TWlDZjF4Q1hCRG4zaDdIQkV3RnFUeTdYQnUzRXY5VGQ3cG1sUzhoaWJnMHJuRWpvMGRVSzRTRzN0NV80VlR0OEt5Z3VaZDdkNGNfQ2FjN3hNVVVBV1VOc2xOdHdoRFduaWNyRE02SUs4Zm44N0lyQmRwNW93eG9qb2dLcERHNzZjYmFZcDB3djRLbWVUdkE": 1792343443900,
+    "news:CBMihAFBVV95cUxOUTd1TUtkRjA5UW5maThKQWlaZUNUUDNTNTl6Q2ZXeVphbnlFSTFLMU5kSEF2Y1ZLS3dxYlVjZ3RpTFVPSDdPZnVlT1g2QnRqeU1OWVc5YzhWNFRDUWJxNjdBTzFMQlREOUFYaTdKRzBJbXowbDBWNEhITk1fdE5GWHBlWVc": 1792343443900
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Jawa Pos",
-      "x": "Lahan di KIB Gratis, Erick Harap Perusahaan Cabut dari Tiongkok Masuk - Jawa Pos",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb25vVXlFSWRneFk3elRXeVVHanlYcDg2VXhYakZrTExTWDFNVnlkWVFQbVFOd2RZUWc0V1BTaV9wYWd2eEdBcFVSQ2hxSU9GdGQ4OUZpNENqcDdPZ1Q5SGJNMDNQYVRtWFJZQXgxVnNSd2liYmNmUng3TnJwakE0OGFaa0o4Zm9BcjlGdnJCVkUyOFhsdGk4WFFqQ0ZiTE85cDktb0RzYkx6TzBPV21EcQ?oc=5",
-      "d": 1792277100000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "KalderaNews",
-      "x": "Cegah Pemborosan Makanan, Begini Mekanisme MBG Saat PJJ - KalderaNews",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaks2Qmd1UWI5bzdHbGF4U2dpRGpOUm9kLWRKSlk0THFjMm9qVzVPcno0Y2FIMnBvNzZrcFM4elVFN1dWd01SYmxVc3pEOTRUWTFKS21fMmN2bkNPUGo4d0RZTjFOaVJsWGhyMTVDYW1jN3RhdEhRQnYxQTZHdThVbWJLVTIxMzlzdnMxQUI2MW9STzg1MEE?oc=5",
-      "d": 1792320055000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Era Baru Media",
-      "x": "BGN Izinkan Sekolah Terapkan MBG Prasmanan, Wajib Daftar dan Ikuti Pelatihan - Erabaru Media - Era Baru Media",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWRTQ2MxdXVsU2tCMmFuaTFaYzlfNEl4aWJNTkt0X3FQYWRJZll5UWo3VC1EQjAxVnlpYW9Qblhra21MampOdnlpS3k4TGJkTmRxa3U0Vm05UUhWTHVTVkdYcTBndnVQTEJRQm5SWTRQN1dtbF91WUhrN1QtZE5sbkFKcm9uazlCeTFFdHd4dmdFYjVjRk5hRHo4QlBVRjNTdVNwSm1oeGhuT0FXd0JfSEF6RTNXY2FpbG95atIBwgFBVV95cUxNX285emY4UVh5MHpsSUJhMG9Dd1o3LTZSckpXblEwc0trNndnYTlQQ002ZENyb0VMY3R0ajB1WjI2TlBEWVR3Q0ZndmtKMWZiNC1WM1QwQ2ZJMG5RZUNPbUQzWGtaSTRzZ1d6QVlSSjRYbS1pV0tKQ1NremRTX1h4enVpdmtzM2U2RVdjMVNhVEM0V001RFdqVXVYWnowQ001Njc5VTR4S0JkdXI0bVlYMVhNS2hiTXIxSnFwTWs0QVNYZw?oc=5",
-      "d": 1792294651000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Indonews Today",
-      "x": "Syarat dan Aturan Program Makan Bergizi Gratis Sistem Prasmanan dari Badan Gizi Nasional - Indonews Today - Indonews Today",
-      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSFpWT3VoTnJuT21tVmJ4RFBPazNtWFlUS1dRb2p1RXBzd1JsYUM0dXN6YTNNQndPU1ljMEFtQUZTX25VMVJfeU5iSm1iMkVZN2Y3enZYdmQ1Z1NxSTJmeHBTSEQyNEhrUWRSMWFxbmV0ekpNN3BjWVlWT2R6dkozRkQyT2lsQTlyX0tpbnhoV055WUxqeTJScFZnQlEwQ042LWtrMTBPX29CMm14cWgySVVGY3pBd0lnSkV1MzVUZnQ3Mm5hM3pSV0NrTlNkMDQ1cEJYaWNRZmJ0MnPSAdsBQVVfeXFMUEhaVk91aE5ybk9tbVZieERQT2szbVhZVEtXUW9qdUVwc3dSbGFDNHVzemEzTUJ3T1NZYzBBbUFGU19uVTFSX3lOYkptYjJFWTdmN3p2WHZkNWdTcUkyZnhwU0hEMjRIa1FkUjFhcW5ldHpKTTdwY1lZVk9kenZKM0ZEMk9pbEE5cl9LaW54aFdOeVlMankyUnBWZ0JRMENONi1razEwT19vQjJteHFoMklVRmN6QXdJZ0pFdTM1VGZ0NzJuYTN6UldDa05TZDA0NXBCWGljUWZidDJz?oc=5",
-      "d": 1792314900000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "Sepekan ekonomi, sertifikat halal UMKM sampai potensi benih lobster - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2dDbjBKU3JJQjEzWDExUEJfV09GVmpxY05GbklMNzBXZVZieWk1LWNzWjVlUW5fVXRjNE1KTkFaV0NLWk9iVi1UMW8tX0lIMjk3c1RJUUprV3gyU0xzd2VqZEhiY0tMaV9Xbmx2dDRwTlZMM3RPcUlDdHplRW0xMjhXQmZrTWtaYTg1SlNwNFQxYVNZcGh0SVVGb09VXzJtQU4yQl9rQzB6YUtp0gGvAUFVX3lxTE5yVnNtdnBJdENYQ1oxY3JWWlZqWWw2S05kRHVpRXdtX3h2dWpyMWtyc2JUdVVnbGl1UXNhNHRRZTBRQU52YlFuRzVVWVZNdUg5bTJlNXdUVlFsV0dVYWdSVzlJMEZ3NzNOY1l4Zmt1Z201UWYyam9aaHlQQks4ekxWZWFSSkpXNWlZVnptY203Z29QZVpfdmJTMHM2S3dxazc3aDNMNWNuWXFZVXpsSTQ?oc=5",
-      "d": 1792286224000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "TIMES Indonesia",
-      "x": "Terkait Penundaan Wajib Halal 2028, Begini Respons Pelaku UMKM - TIMES Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX253UVlNV2JZZFo0aHhCckF6Vi1DMGVYM3RrSWZTa2lVTjZlM05LbGgwdGV4TXprdmZLOGJkTDBhRGNSdGRsZUdyY3gtMFFEcHItZ29tSERWc3NNd09pSUd0blctM0NEVWl5LUxkd1RPemVyN3F1ZzZtSWI4czc3SHRQRkNCODNYdGFqckp5WlNoNFNlWDk1MFZ6M09KV3c1NzdMd1VjOUw?oc=5",
-      "d": 1792339380000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Penyaluran MBG di Lubuklinggau Dihentikan Selama PJJ - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHpXdm9yM1RjUGVkYTdJSS1tdzVqU1pKMU85UHZLanRkVUVOeHFQT2dkSDBLb2dMVVctYW0zdXVFajJ3bkRXUmtFOXJ6NjA4cGVjTTNpRlZzZ2ZMdzhMMzdYQ1ZaSG5TNXJzZGtMX19RSnd0RzZwQXBQODZEX1R4amk5MlBTZTlycjdzaF83T2lPWHNsekpUZUJZVE5qRXpLVHNn0gGoAUFVX3lxTE1NRGM3NVZQNXlCWWlVOXVtbUkzQTJnOGFRT0syVGNmOUZNXzVYRDFGUHZWdXMzX09qUEJ5TXhqMW1kemk2d2g4ajlLV0dHbld6bTdOalQweTlSZUJrNWp6UF9ldGJTTEFKQlVIcGF2RVdGQ1hOSDk3RUU1N1dFMGxBN09ZQndxUnRHRnZTYXJxMC1zZDhONVR2dWh2R0djWUdMcUowNUFacA?oc=5",
-      "d": 1792335600000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Mozaik Islam",
-      "x": "Sertifikat Halal Wajib 18 Oktober 2026, FKBI Desak tak Ada Relaksasi - Mozaik Islam",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2JXWEJRdWFjSVlYR1o3RE10dkotbTlUUmpySDgwd1lFWXJ3TXNkVFhPVktfd1Z3T1dLRTIwYWxyeGdNcjA5UlJLSHdpbzM2T0hxbWJ1b2FGa0NQdUszcUpjWEs3UUd1bXFHOGlXV0cxNkNqb2tQcmVtUm82bm5GUmhhVks3aWhDejdyeHFOMzJCS1hCTkpDcFRFc3hKTFRibXhZc1Q5b0t4Zw?oc=5",
-      "d": 1792317999000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "ZonaPasar.com",
-      "x": "Hadiah Jutaan Sambil Lestarikan Budaya, Festival Mendongeng Jateng Segera Digelar Berhadiah Rp 5 Juta - ZonaPasar.com",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR2UwakllQmMyWEZnRHk1ZUtocGpMSE1tb3pGSUtDeEpkLTFtMnlUSy15ZUhSWmNoZjJEQkprTWtuNnVXQTFUV3dkYXBiOFRTbDllWVZvZU43azQ4WjZ2U09xalVrWU9jUzJwYTFQYV9iekpuNzFiS0Rfc3d0V0hrVXJKQjhaTUF2NWNSa0hQbUpXNmFyOEVxODRYNnJxcndveVhRNVY3RlBOLUNDN2xnZVY4RUhLTzdUR0p2cFNkbGZLMEdKMzlj?oc=5",
-      "d": 1792328666000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "malang-post.com",
-      "x": "Apel Gratis Berbuah Penghargaan, Pemkot Batu Lindungi 10.600 Pekerja Rentan - malang-post.com",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHNudnp5bVZaX0RZUHRSbUdIc19qdE51X0FUM3hjQ29mc1g5all1X3MtNm9HVXRoVFVqUG1qaDBZVmFaaWFOUHRNa2dIMVdReTJ3SW9KS2lqNUM4Rjk1QnBab2x3SjBic0xsWl9JRjF5TzRkZTNBX3UtU195TzR4RXNOMTdYMG5xRWxDRGhrbFY1ZUVlQ2lrLWhwM3pLYWk4Q3ExamxJam1KdXdOa2ww?oc=5",
-      "d": 1792303817000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Harian Pelita News",
-      "x": "Rangkaian Hari Jadi Indramayu, 499 Pasangan Ikut Nikah Massal Gratis - Harian Pelita News",
-      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenNZZlhFZ1BxTVZBMV94b2NxUXYxdzk4d1hjRndVU2hLZnVWcFU3SnNLSnJJNHBZNGRsSTc3YWtQUjJSR3cwZXZraThqdDg3RVNybll2TmJyVl9QVUxJXzd4c19KLWQ3bmRab2xfQV92WlhhV0k2VHdnNUhGOWpfWGlZMkZpRUxWZExFa3EzZUM5aVpkajJvZzVrZHc?oc=5",
-      "d": 1792324380000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Radar Batu",
-      "x": "Pemkot Batu Lindungi 10.600 Pekerja Rentan dengan Anggaran Rp534 Juta, Raih Penghargaan Pendidikan - Radar Batu",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSk1hcXAzX3pBU2FyT1VHUm1xVEtodEZGNHpXdXo5N2F4TzRVaVY3QmZFYzI2MDRmamF5clNjQThGdU84XzRWLUhidTVfUUFDUmVQVWpwcE92QXpZb0dUMC1rcjg4UC1hRzZJczhSRTlzSUhWeFVHazYtVkZaRDltdjN1d08zMklkV0JXYzJqSktSVHUydXViZkpVT0o2ZFZTVVRhS3E2ZlR1dm5YWThyQW1DU1ZWdE4tbFlmSUpxc3hFRGtnRnJSWUY1bXVnLVUteUwxQTJnODI4NWNZNXkwRdIB5gFBVV95cUxOalBLTF9NR2wtWDlLaTRiLVRzbWVxaEVnU2p0NmRpRmgyb2RmdHFXS0dLc2wzd0w4c05rWmtsWDdFRG5vVTNsQVpVc2JOcTJUNzJTYlc4YkxaNU1HWVB0Ul9aOGxGOV9kUGxlV1p5OXdhZ1VVQW1ybVhRS1AyNW9hV3JSSkJxTnpyNXI2X3BVTmRZbG8zN0pJQnBlZ2Z2ZGNwSmllNkpPWGNSbUtqRXhUVlNESllIc21fU1VWRDk1YVpIVlFOZTNYRTlZbkN3dkFJMkNxSF9oV003cmktN0tzbmdmU2pPQQ?oc=5",
-      "d": 1792312019000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "jambiprima.com",
-      "x": "HUT Tebo ke-27, Bupati Tebo Serahkan Santunan BPJS untuk Alm Pemred Jambiprima.com! - jambiprima.com",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGZoaFRfX2hNaEhJWnhTanpMN2RyMUNBN2xnZlZ1Nm9ZeG1kVmsxbVJpd2VucUZtOGhNSzIzSGxfUU91SG9UQlJSdjZaYVQ3NnRBVTNGMUZ1UjdZRkJJWXA3Rjdjc0pBeWphdUpic2JUTUZGMl92MThmRXd4UlJPYy1oT0RSOFFpYUt4M1A5S3dBbVpGdjhxdDRZc1Nna05Kc2NnbjVBbElaRDZqalBPaGZ0eV9henFBVWphLU1fa3B1QQ?oc=5",
-      "d": 1792297878000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "MetroTVNews.com",
-      "x": "2 Tahun Prabowo-Gibran, Program MBG Jangkau 57 Juta Penerima Manfaat - MetroTVNews.com",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1FmT3FjZkhhanBvM19Qb0RFamxpMkJ0Zk42MFh0djhBbENuS1FORkY3Y1BSSVFFaGYzSjUzckpzaW54M2xsX1NfSEhDMFZqRUI0U25fOC10VUNDUXk5Ykpvd25yYWs4LVhFX0VYT2tXY3hRd25BbV9iOVJGbnpLeVZuY2FIb3BBRnloQVlhYVpWS1hWZURCaWprTDJZanBJdzFfaFB5WHNUTmlESmc?oc=5",
-      "d": 1792334394000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Bidik Tangsel",
-      "x": "Hiu Paus Terdampar di Pantai Parangkusumo Bantul, Upaya Kembali ke Laut Gagal - Bidik Tangsel - Bidik Tangsel",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2RtcjRKMUp2QVlMQ0NNX1A3THlsak9kM1ZpclBQMlVXLVp1bXY0VDlHOUhiZXVfN1VLYVlOeUw2SzJ5TDVYTjA1VUNPRWMtNmxKWGtEMU5Qb2V2M3N4WmJXUkRTY0QyN2RhTExpZm0yakVuTWNEdFI5Qk1ESXVXLVpiRjFVT2FKOEFnVkprT0lZWEhmWGdiQ1F0cFE5azIwMHpXSnZmb1E1QV81ZGYtRGl1WU5wS3pXZ2RHVW1WcmtaSm5m0gHKAUFVX3lxTE9EdC1zZVQ0Z3NtWWh5eXJzM0pIeGlld0xvV3lCQ0NFdjVNbkktY0NzMXdMLVR1TVdfMzVybUlFaTYyZ18xVFF0YVhVbElQcHFvYmg3T1JpaGFrWkl5anU3Wm9vTFBDWmdRVmRKbVYxbktYbnhnak95OTN1U1dndW0wSExyUXNNbGwwSTl2NW5CVXYwRTJMOWthcHc5Q0hMcHhPV0psTUZ3dGRtOHpDeXRlVmVybF9HbGQ3d3VNY0JoTGthMGZxZnB1bGc?oc=5",
-      "d": 1792293154000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -8062,10 +7939,160 @@
       "d": 1792306860000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "terus hoaksnya kayak gimana? cek fakta liputan6 (13 okt) nemu pola yg sama berulang di facebook: \"BSU periode oktober telah cair\" rp900rb (diposting 12 okt), sebelumnya \"periode se",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DepIGQwmEr0",
+      "d": 1792341374000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nickenazhari",
+      "x": "Berlebihan sekali Pak, anggaran di Jakarta tidak lebih dari 100T, saya cek data, bahkan sampai 10 tahun terakhir. Nyentuh 3 digit jg engga. Anggaran besar tidak otomatis = pembangu",
+      "u": "https://www.threads.com/@nickenazhari/post/Deo9_Mnjxp2",
+      "d": 1792336068000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bangkapos_",
+      "x": "Cek Nama Penerima Bansos PKH dan BPNT Kuartal IV 2026 Secara Online, Cukup Pakai KTP Penyaluran bansos tahap akhir untuk periode kuartal IV terus dipantau oleh masyarakat yang terd",
+      "u": "https://www.threads.com/@bangkapos_/post/Deoip3BE9d8",
+      "d": 1792321740000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kompastv",
+      "x": "Cara Cek Bansos PKH dan BPNT Kuartal IV Secara Online di cekbansos.kemensos.go.id http://dlvr.it/TVyT1t",
+      "u": "https://www.threads.com/@kompastv/post/DeoLVLjG1l2",
+      "d": 1792309572000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bangkapos_",
+      "x": "Penerima PKH Meninggal Apakah Bantuan Bisa Dicairkan Ahli Waris? Cek Prosedur Resminya Penyaluran bansos kerap memunculkan pertanyaan di tengah masyarakat, salah satunya terkait st",
+      "u": "https://www.threads.com/@bangkapos_/post/DeoD8rNE_EG",
+      "d": 1792305642000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@adrianthe_",
+      "x": "Kalau hasilnya: ortu lu hidupnya pas-pasan, tapi gak terdaftar. Daftar DTSEN gak bisa mandiri lewat situs. Jalurnya lewat pemerintah desa atau kelurahan. Bawa KTP dan KK ortu. Maka",
+      "u": "https://www.threads.com/@adrianthe_/post/Den8DP_CcXO",
+      "d": 1792301511000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "1) nominalnya dulu. kata detik, BPNT Rp200rb/bulan, cair sekaligus 3 bulan = Rp600rb per tahap. PKH beda2 tergantung komponen: - ibu hamil: Rp3 juta/thn (Rp750rb per tahap) - anak ",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/Denym8rmE3B",
+      "d": 1792296553000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@barrur_rhozi",
+      "x": "BANSOS APIKEY 50 Juta Tokens 9r_live_FHLsMxS-L8-MCt2h63qSG_TOJb8Q4Q9S endpoint : https://ai.tamandata.com/v1 / https://tamandata.cloud/v1 models : tamandata, cx/gpt-5.6-sol, cx/gpt",
+      "u": "https://www.threads.com/@barrur_rhozi/post/Denjq96E0yW",
+      "d": 1792288716000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "@updatepelatihan",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "📊 Pelatihan Gratis Microsoft Office: Excel 📊 💡 Daftar Pelatihan: 1. Rekonsiliasi Bank vs Buku (Excel + AI) - 19 Okt 2. Mahir Excel Admin Perkantoran - 20 Okt 3. Beasiswa Kelas E",
+      "u": "https://www.threads.com/@updatepelatihan/post/DeohoZxkQC2",
+      "d": 1792321201000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Bengkulutoday",
+      "x": "Rutan Manna Gelar Bakti Sosial, Berikan Layanan Kesehatan Gratis dan Bantuan Sembako untuk Warga Batu Ampar - Bengkulutoday",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEFlUUk3cktqcURnYmJEc0d4bzlfNXZXc3J1dXBNeFhJRDdVTjNqQ3kyZEFHeDJFdUo5TDhoSXFWOGlzTndob3dtZTQ3YkFLWExQSlEtMzBIRktST0tIdWpLXzZlLWMtb1U3OWFIRWJTdVlURGRNUmp2c3ZLeG9CMnBPNW5tVi16WmtkWWQ1VDFKTW9TSUltcEl3aVVxWVZnWEdzRUVxSXdvZFZ5YVVJalZsOXBhVW5KUjY0SzdQaVpJeTg?oc=5",
+      "d": 1792314264000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "TIMES Indonesia",
+      "x": "Pesantren Dar Et-Tauhid Bekasi Dibekukan Sementara, Ini Langkah Kemenag untuk Keberlanjutan Pendidikan Santri - TIMES Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc1hVcEZVdWFyd0gxWVlUdHJHOUF3VjJiUXdBc1BxZlFQclRtSlVFQWxXQkY4NnRFM004SzBmamM1THh4VU11RXBGamthcDM4MFY2ZUlDNVgwdVhJWE9VU1drZm1WaERWY1J0RVFpSGdybloyekktVVJfYnNkNWE4VldydlRXc09ZaFBodFBBVkZvT0NnXzR1QlAyUWI1TlV1NmI3Nk1KRzVTQTRWeTU0TkJsbHVJNHg1elYtTzdHdFZmc1oyajBlaGZ1YzlDNDYyT2RxWDhMcnRnRzBiMzZLNGNVbGc0d0p6YmQ4aDVZdlFLblU?oc=5",
+      "d": 1792328640000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "UMKM Pekalongan Diminta Baca Selera Pasar, Digitalisasi Jadi Kunci Mengembangkan Usaha Batik - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVNjMXZVNGpjNDBSSUVZLWh5alZ2UjhPOGpPSEl2TGVYVHUxZVVkckRFRm1Zc01JLTY4NFFDa1RlSTBOTmMxdzV2czFsRHBEUFNtY2c3ejdjQmt4aUQyRC1wU1Y2QXhwY01XVnF1a050LU1xRzlVaTRCang2SndodTZWSjN1RUVpQVNYWDAtX2JGWUE4ZlFBNEUyTmZGa295RzF4V3BzUVVCbU55dmV0S0hZdGhHZE5WTGhLU1NHWTZrU01VeC04SmNkb0NCc0VjMFdGTGZMem5TMnJINW0zNDd4OEHSAeQBQVVfeXFMTUlTYzF2VTRqYzQwUklFWS1oeWpWdlI4TzhqT0hJdkxlWFR1MWVVZHJERUZtWXNNSS02ODRRQ2tUZUkwTk5jMXc1dnMxbERwRFBTbWNnN3o3Y0JreGlEMkQtcFNWNkF4cGNNV1ZxdWtOdC1NcUc5VWk0Qmp4Nkp3aHU2VkozdUVFaUFTWFgwLV9iRllBOGZRQTRFMk5mRmtveUcxeFdwc1FVQm1OeXZldEtIWXRoR2ROVkxoS1NTR1k2a1NNVXgtOEpjZG9DQnNFYzBXRkxmTHpuUzJySDVtMzQ3eDhB?oc=5",
+      "d": 1792290300000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunpontianak.co.id",
+      "x": "Bansos BPNT Tahap 4 2026 Apakah Sudah Cair? Cek Jadwal Penyaluran di Sini - Tribunpontianak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMldqVzlVNnJ5eklnZ0hyX1pHUHdmVzloNXVkM3dPS3hJcXNtNFBJMEE1MF9TN0NyeFJ6S0xRRkswU3AwckdJNUNNYk1GZGVoUWZGalpxay1NbndQREN5bHZTS3FmMklsMnJqc1dTd1dmUS1BZG84dERxX09KeS1NamI4T3JYQjVzbkVLNHVvZHRoZmM4YlUwVWlTelhJeEZOZEdNSTByaWFPN0N2anRtVDExYUc3YjV1NHVoQktZazl5eWIxdlY0?oc=5",
+      "d": 1792343382000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Benarkah Tidak Terima Bansos di Bulan Juli, Resmi Dihapus dari DTSEN Penerima Agustus 2026? - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMGZtQzhZanV6dU12emtSSkNoc1R2Q3QzNDlvc2tyanQwUUpWdFhDcGpkQzZBS0V5eWhCNmNNblZFYjQwVV8zQlRpSTZvWGZ0TWlDZjF4Q1hCRG4zaDdIQkV3RnFUeTdYQnUzRXY5VGQ3cG1sUzhoaWJnMHJuRWpvMGRVSzRTRzN0NV80VlR0OEt5Z3VaZDdkNGNfQ2FjN3hNVVVBV1VOc2xOdHdoRFduaWNyRE02SUs4Zm44N0lyQmRwNW93eG9qb2dLcERHNzZjYmFZcDB3djRLbWVUdkE?oc=5",
+      "d": 1792300369000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Editor.id",
+      "x": "Bansos Beras 30 Kg Oktober 2026, Ini Cara Ambilnya di Kopdes - Editor.id",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUTd1TUtkRjA5UW5maThKQWlaZUNUUDNTNTl6Q2ZXeVphbnlFSTFLMU5kSEF2Y1ZLS3dxYlVjZ3RpTFVPSDdPZnVlT1g2QnRqeU1OWVc5YzhWNFRDUWJxNjdBTzFMQlREOUFYaTdKRzBJbXowbDBWNEhITk1fdE5GWHBlWVc?oc=5",
+      "d": 1792303629000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
