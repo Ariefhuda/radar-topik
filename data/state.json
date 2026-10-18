@@ -7131,19 +7131,26 @@
     "threads:DbzC082k2nX": 1792365933469,
     "threads:DcXkaHUkxZ2": 1792365933469,
     "news:CBMi1wFBVV95cUxPZjZQMWVtS2lVNjlZaWVkUGZ6QkZURDhNUTVaX1U0TE9kY1FCZzZiZFBfcWNJRHo0TloteGhndm1pNGwwZ2ZXV3Rla2RBT2FYT3dVeFRPVl94dEd4RHVWMEpTa0FkdFZwUjJqblB2OWlOZTc0cjVYb19GcUdrZ0dESEh5OEpFU043VHkwb2tmYXJWXzluSXBRN25ucGxxaEdCdDM4cDR0NUxRVm9hT1BKMVpncUNZVzR3NkRUcG9jMmRrT1J1VGNZSUd5eXU1TzVacVd2UHhNcw": 1792365933469,
-    "threads:DbAPvCWEmAv": 1792366246636
+    "threads:DbAPvCWEmAv": 1792366246636,
+    "threads:Dd23iEJEoJS": 1792366542433,
+    "threads:Dep3KDgAV6E": 1792366542433,
+    "threads:DegEGC1km7Q": 1792366542433,
+    "threads:DepY64HicDT": 1792366542433,
+    "threads:DeplS6cGCfQ": 1792366542433,
+    "threads:Dep3o7rDLyr": 1792366542433,
+    "threads:Dep29czk4d9": 1792366542433,
+    "threads:Dep2827H0e0": 1792366542433,
+    "threads:Dep28Cmk0T-": 1792366542433,
+    "threads:Dep27YTk_0R": 1792366542433,
+    "threads:Dep27a5k8XC": 1792366542433,
+    "threads:Dep25CPE2z4": 1792366542433,
+    "threads:Dep24iwklbC": 1792366542433,
+    "threads:DdtCRaTkuZi": 1792366542433,
+    "threads:DeI1GCskxUc": 1792366542433,
+    "threads:Dbzoy4wCl1i": 1792366542433,
+    "threads:Dep4UGJk6Nn": 1792366542433
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ceritainkamufakta",
-      "x": "terus hoaksnya kayak gimana? cek fakta liputan6 (13 okt) nemu pola yg sama berulang di facebook: \"BSU periode oktober telah cair\" rp900rb (diposting 12 okt), sebelumnya \"periode se",
-      "u": "https://www.threads.com/@ceritainkamufakta/post/DepIGQwmEr0",
-      "d": 1792341374000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -8633,16 +8640,27 @@
       "d": 1792365669000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mika_loa1971",
+      "x": "Komunitas (gratis ) online dimana banyak light workers memberikan webinar gratis pelatihan gratis dan healing gratis Hipno Meditasi Inner child Forgiveness dll cek tiktok Komunitas",
+      "u": "https://www.threads.com/@mika_loa1971/post/Dep4UGJk6Nn",
+      "d": 1792366648000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792364735415
+    "reddit": 1792364735415,
+    "news": 1792366542433
   }
 }
