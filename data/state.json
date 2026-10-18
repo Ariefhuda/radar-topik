@@ -7161,19 +7161,16 @@
     "news:CBMibEFVX3lxTE80aFEybkVwUkhVald1UTNUVlJYQ1ZsWFNSX29tWG9pQUJVaDJXZGt3ZVdSQndmZklVME11VHlPNld5UWZDQzlVcXFVanRZZm1XWFdBT2tCTWwyT3Jyek1weVRSZ2I3d1NkVEw1bA": 1792366850139,
     "threads:Dd1SKEdj-9X": 1792367139363,
     "threads:DZYBK-cFHQX": 1792367139363,
-    "news:CBMisAFBVV95cUxOQ29CNE1YeVh4cHRsRzktRDBCSzBEVUNUaTVXTUtDeHFUd3hsWlZZOFExZVJWdURaenRBeU9YeXZvOTE5N0JMbzdNZTc5dHZuUEJLUGRfMWVhUlR5VHc3UG1BaHpoYlB5emF0YW9PS3dwbldyZUdlM3JNM3NRV2gzaVkxZWJ1VHNXTHZ3dVlYQm9mdkU5cG5tWHZCU3NnUXhFMEwxVVJBYXBob3BrT2VYMw": 1792367139363
+    "news:CBMisAFBVV95cUxOQ29CNE1YeVh4cHRsRzktRDBCSzBEVUNUaTVXTUtDeHFUd3hsWlZZOFExZVJWdURaenRBeU9YeXZvOTE5N0JMbzdNZTc5dHZuUEJLUGRfMWVhUlR5VHc3UG1BaHpoYlB5emF0YW9PS3dwbldyZUdlM3JNM3NRV2gzaVkxZWJ1VHNXTHZ3dVlYQm9mdkU5cG5tWHZCU3NnUXhFMEwxVVJBYXBob3BrT2VYMw": 1792367139363,
+    "threads:Dep5XbwjeKk": 1792367443956,
+    "threads:Dep22cYEgyo": 1792367443956,
+    "threads:Dep3iUhiSxk": 1792367443956,
+    "threads:Dc5Pc6ZAVDA": 1792367443956,
+    "threads:DdwjrrRks5M": 1792367443956,
+    "threads:DV_CTYjk7TH": 1792367443956,
+    "threads:DeOE3eyEoRl": 1792367443956
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@adrianthe_",
-      "x": "Kalau hasilnya: ortu lu hidupnya pas-pasan, tapi gak terdaftar. Daftar DTSEN gak bisa mandiri lewat situs. Jalurnya lewat pemerintah desa atau kelurahan. Bawa KTP dan KK ortu. Maka",
-      "u": "https://www.threads.com/@adrianthe_/post/Den8DP_CcXO",
-      "d": 1792301511000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -8663,16 +8660,27 @@
       "d": 1792292400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@omslamet369",
+      "x": "Yang penting owner tahu tingkat ketergantungannya dan punya rencana kalau channel utama terganggu. Risiko konsentrasi bukan alasan panik. Tapi risiko yang tidak disadari sulit dipe",
+      "u": "https://www.threads.com/@omslamet369/post/Dep3iUhiSxk",
+      "d": 1792366243000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792364735415
+    "reddit": 1792364735415,
+    "news": 1792367443956
   }
 }
