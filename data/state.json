@@ -7030,19 +7030,13 @@
     "threads:DcdYAX4DOFT": 1792362934926,
     "threads:Da5GLfckq9z": 1792362934926,
     "threads:DJEBH6OooFD": 1792362934926,
-    "threads:DZtvfoNDB73": 1792362934926
+    "threads:DZtvfoNDB73": 1792362934926,
+    "threads:DeJorlZkwlW": 1792363244988,
+    "threads:Dc21hhLEgtX": 1792363244988,
+    "threads:DcAHBe7EwNy": 1792363244988,
+    "news:CBMi8wFBVV95cUxQb1VfSG83UFFsczkzcGl0VkNQYXlaUzRjTzRzeFMzb0dyOHhvZE11Tkh1N0dHdXBUbnMzR1NiSnh6T0ZJOVZZeVRDTU9zMnRwUzdPQ0VmbERxQ1RiVXZ2MzFIYTVoOTNHRXFxNmFzcVZiTVpERUlEUk5STFBvNVVrS25Lbmk2WW54ejBhYUpQU0lJeGxMZDNzWDRQRFNFTnhJbVpTVHNMRktCSXJ3UHBmT2VJaXZhcTNEaHdrWWR1Y0dEQ2tuR3ZQcmprTFZsY1JuMElibVV0bTFKSy1NY1NYaUNWc0lBU0p0VzlqOGVCUG1VaTTSAfgBQVVfeXFMTmZCbk5JekRpa1pOTy1DenB4ZENzOVc4a3NsT01lUXB5Tl9yZVloRm9mVmxfUDBkRzBXYlFCOUhPT2Y0WkdFZzVDSVlRZ0ZwaWk3bUE2QjcyRDlrdFdDSXZXZUY5VnBxTUVvWUR1TFZrSm9DS3hlaktTOWdZT3NIRGZ3VWIya0lZNExKUkFzbmZyVHV4Y0VuOWI0ekJ3bmJ5VnNSMjRDbUI0R3lsTi1YLVl0NW1yazdsbExBamx5bXNLQ01Pa09HN3RFYXBONDh0eHd0d2xvRS1fbkJmR1Q1em1qQmVqUGVzemtuRmxtamEtazd0RHVnbFo": 1792363244988
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@afifkemalr",
-      "x": "Samaa banget ka, dulu aku gitu, pas awal banget lynk.id muncul, aku udh bikin hehehe Tapi yah sama, karna nyerah gak ada hasil, tapi yah ternyata emang ada yang harus dibenerin, ma",
-      "u": "https://www.threads.com/@afifkemalr/post/DepKOnoD5sG",
-      "d": 1792342485000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -8532,10 +8526,20 @@
       "d": 1792285732000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Mata Bandung",
+      "x": "PERHUMAS BPC Bandung Hadiri KHI 2026, Indra Ardiyanto Soroti Tantangan Membangun Kepercayaan Publik - Mata Bandung",
+      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb1VfSG83UFFsczkzcGl0VkNQYXlaUzRjTzRzeFMzb0dyOHhvZE11Tkh1N0dHdXBUbnMzR1NiSnh6T0ZJOVZZeVRDTU9zMnRwUzdPQ0VmbERxQ1RiVXZ2MzFIYTVoOTNHRXFxNmFzcVZiTVpERUlEUk5STFBvNVVrS25Lbmk2WW54ejBhYUpQU0lJeGxMZDNzWDRQRFNFTnhJbVpTVHNMRktCSXJ3UHBmT2VJaXZhcTNEaHdrWWR1Y0dEQ2tuR3ZQcmprTFZsY1JuMElibVV0bTFKSy1NY1NYaUNWc0lBU0p0VzlqOGVCUG1VaTTSAfgBQVVfeXFMTmZCbk5JekRpa1pOTy1DenB4ZENzOVc4a3NsT01lUXB5Tl9yZVloRm9mVmxfUDBkRzBXYlFCOUhPT2Y0WkdFZzVDSVlRZ0ZwaWk3bUE2QjcyRDlrdFdDSXZXZUY5VnBxTUVvWUR1TFZrSm9DS3hlaktTOWdZT3NIRGZ3VWIya0lZNExKUkFzbmZyVHV4Y0VuOWI0ekJ3bmJ5VnNSMjRDbUI0R3lsTi1YLVl0NW1yazdsbExBamx5bXNLQ01Pa09HN3RFYXBONDh0eHd0d2xvRS1fbkJmR1Q1em1qQmVqUGVzemtuRmxtamEtazd0RHVnbFo?oc=5",
+      "d": 1792289100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
