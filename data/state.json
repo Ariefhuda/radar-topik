@@ -6899,22 +6899,14 @@
     "threads:DePL-cGFCxl": 1792356936154,
     "threads:DepmoUpicRp": 1792357540494,
     "threads:DeLeften492": 1792357540494,
-    "threads:DepndZxAqv6": 1792358038571,
-    "threads:Depm2IQDv4F": 1792358038571,
-    "threads:Depm0hoDjJN": 1792358038571,
-    "news:CBMixwFBVV95cUxNeWRZX2djcl9MRmtmZEx5REMwcHNxamRta050WHZtQmVZajRvVHY5c3ZoUmx2My02aThNY0pGM3lDOE1jd25PQlh5Sl8telZiRlMxSjMzNzM1S2RZUXB0Q2JHdDk4bzZob1pjX2pXUDYxZjU3QlZ5WUFqdi1lLW1fYVM4QW42TTVoZGR5MXBpbU4wV3RlOEtmS2VqYzZxRU9EUEZ5cUc0MU5vd0pPYU1pdnB0cVBaVlgwZWZLSXlwQXFUaEdwQjBF": 1792358038571
+    "threads:DaP9wlwmU-9": 1792357845865,
+    "threads:DepndZxAqv6": 1792357845865,
+    "threads:Depm2IQDv4F": 1792357845865,
+    "threads:Depm0hoDjJN": 1792357845865,
+    "news:CBMixwFBVV95cUxNeWRZX2djcl9MRmtmZEx5REMwcHNxamRta050WHZtQmVZajRvVHY5c3ZoUmx2My02aThNY0pGM3lDOE1jd25PQlh5Sl8telZiRlMxSjMzNzM1S2RZUXB0Q2JHdDk4bzZob1pjX2pXUDYxZjU3QlZ5WUFqdi1lLW1fYVM4QW42TTVoZGR5MXBpbU4wV3RlOEtmS2VqYzZxRU9EUEZ5cUc0MU5vd0pPYU1pdnB0cVBaVlgwZWZLSXlwQXFUaEdwQjBF": 1792358221219,
+    "news:CBMilgFBVV95cUxOYzhBM2RBZzFGT1lRTHpKTzZrOTVUQmhpdDNxbWJGZmZESGRxWnBQV3pMbGE0MFhLX3hBbEs1ZjdKb2JvdUF1aFFDVVdlbnZ6WVZPS3hVWDBxWTNiX3RJdkFJY3JlRGxJaUhhNjFQQ1V0MVRSQVhrY200ODlHdTNMNlVKQXNPRUFtdFpqcE1PakNiVjRsa1E": 1792358221219
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunpontianak.co.id",
-      "x": "Masyarakat Desil 1-4 Dapat Bansos Apa di Oktober 2026? - Tribunpontianak.co.id",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUozbUZ1QW1FcFN4ek83RHpMc1F6S0lpS2NlTDNwWHJHcm5tMExPMC15Z19RQVRGX01wY2laSzlDMzE3WWZlaTlhRjNKTTBfd1hIUlFHOGtZQ3labW9pMldYeFR1aDIzZ2h5VlNzWUd3NjA0Yy1Hb1Jnenk4VDR5MTRHTnU0QlRrT3lfRlRNU3NIUllEVzBPcGVRWl9JZXlEcUMteldSUXNpeld1V1E?oc=5",
-      "d": 1792289918000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -8404,10 +8396,20 @@
       "d": 1792357476000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "PWMU.CO",
+      "x": "Arin Setyowati, Anak Buruh yang Kini Memimpin Nasyiatul Aisyiyah Jawa Timur - PWMU.CO",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzhBM2RBZzFGT1lRTHpKTzZrOTVUQmhpdDNxbWJGZmZESGRxWnBQV3pMbGE0MFhLX3hBbEs1ZjdKb2JvdUF1aFFDVVdlbnZ6WVZPS3hVWDBxWTNiX3RJdkFJY3JlRGxJaUhhNjFQQ1V0MVRSQVhrY200ODlHdTNMNlVKQXNPRUFtdFpqcE1PakNiVjRsa1E?oc=5",
+      "d": 1792308492000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
