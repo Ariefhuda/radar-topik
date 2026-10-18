@@ -6945,19 +6945,14 @@
     "threads:DeptKatE0pN": 1792361439299,
     "threads:DXN5CxAgfWQ": 1792361439299,
     "threads:DczjGkVE2nM": 1792361439299,
-    "threads:DdoTIICkzYx": 1792361439299
+    "threads:DdoTIICkzYx": 1792361439299,
+    "threads:DVI2B9gCVsk": 1792361740917,
+    "threads:DQfs1RQkoIm": 1792361740917,
+    "threads:DOkMl2aiTa4": 1792361740917,
+    "news:CBMibEFVX3lxTE1OMGY3b3FNVU5YYmhZTTdxeEZyV1pJcXFlT2ZudDk5RmhBRS02aUFlRTRGTmx6NVdadXNfZGJWZGtKZHZEc3JNcFQ4eVdfRmRuSnpHVTV5ZVNieHF1T2N1VlVxazNtelVlc2p0RQ": 1792361740917,
+    "news:CBMihwFBVV95cUxORklrR1c3cDhybFVQbi1GVVcxQkdwblZCdHR2RUNhT1FCQlFpNjNaaE4zSXlLRHR0SUhiQTAwWFo4MHpIMG5nREQ0MkFFNFZoeFR5U1o2VlkySGhyaHllSWZJNUtFLWhyUTI1aFlqMFJ4TnNWcE9yRnBqRVc2QVUwQkdhbUgwd1U": 1792361740917
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Oke Flores",
-      "x": "Masuk Desil Tinggi Padahal Kurang Mampu? Ini Cara Mengajukan Sanggahan - Oke Flores",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkVnNVFEbmZNQmRfdDRhMDYzQVJkX3l6QTh5ajBDa0xMT1F1Z0R0YWxLa1AtWnJuWjk1S29qdkFRS2xjdmh2cVlURjBBM3Jodk5zM2hVYkJ0dG1KZ3hJUko0MXBTcFdaeXA1MUxsWWIxTUFUeFBjVFFaSlRKdm4yRmg4WHVGdmNLWEpnYjFZRFczZ09Wakd5OHhsMFNZTTFtNHFzeV9oTlpNQ1c3ZDc2NkZNMXNUYnFpakpFbjNoS1NUM19R?oc=5",
-      "d": 1792288800000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -8447,10 +8442,20 @@
       "d": 1792317333000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "Cara Cek Penerima Bansos PKH dan BPNT Oktober 2026 - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORklrR1c3cDhybFVQbi1GVVcxQkdwblZCdHR2RUNhT1FCQlFpNjNaaE4zSXlLRHR0SUhiQTAwWFo4MHpIMG5nREQ0MkFFNFZoeFR5U1o2VlkySGhyaHllSWZJNUtFLWhyUTI1aFlqMFJ4TnNWcE9yRnBqRVc2QVUwQkdhbUgwd1U?oc=5",
+      "d": 1792361220000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
