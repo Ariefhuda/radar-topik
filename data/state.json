@@ -6829,19 +6829,12 @@
     "threads:Deo5u61AIgw": 1792353040878,
     "threads:Depd1Q3CAAg": 1792353040878,
     "threads:Dc47ArMmBDL": 1792353040878,
-    "threads:DeHeqUAEhVz": 1792353341595
+    "threads:DeHeqUAEhVz": 1792353341595,
+    "threads:Depes64D2oj": 1792353659306,
+    "news:CBMid0FVX3lxTE5Xd1VlWGNhclFzbFBaUjNTMlpGX3djQmpiQmpya0pnTnVaN3lRS005emdBazFnNGYwNTRLOTV6X3J5Q3NWdTBzbHBGdHdmd2ZOTTR5V3I1SW5zbjUtQzhyaWtqay1oTXk1MGRJcHJITS10ZkpJSHE4": 1792353659306,
+    "news:CBMivwFBVV95cUxQN2F4QVdBTEkxNUtJZWtRc210Mm9hMlJOMEhCNWVvRVFUWElCeHkwbVdTLVdZNV9mQjd0OEVEcElJTVJndjd3dndETEpYX3Z0YkhJT0YzVXh5dmpWb0t3Ni1YbzR1aldOdEgxTXFvOFZ3MG4yR3dXemxfQUlzblpWZGdMV0FPNWJqMTFUa3RJVGozRjdFNGMxMEROQ2dkXzBHbFY4cm96TjBjWFVyckdtUGFDa2VRUFdJX2V4QVRJRdIBvwFBVV95cUxQN2F4QVdBTEkxNUtJZWtRc210Mm9hMlJOMEhCNWVvRVFUWElCeHkwbVdTLVdZNV9mQjd0OEVEcElJTVJndjd3dndETEpYX3Z0YkhJT0YzVXh5dmpWb0t3Ni1YbzR1aldOdEgxTXFvOFZ3MG4yR3dXemxfQUlzblpWZGdMV0FPNWJqMTFUa3RJVGozRjdFNGMxMEROQ2dkXzBHbFY4cm96TjBjWFVyckdtUGFDa2VRUFdJX2V4QVRJRQ": 1792353659306
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "bsinews.id",
-      "x": "Cara Cek Penerima Bansos PKH dan BPNT Oktober 2026 - bsinews.id",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVBvQ3VGT1BRMVhvSDNLSmg5THlHaWpMMUtwNUxJM3ZEbGJsdm1JMHdXZktkQUFqejVwdEl5c0NNNHZvSVVGZXp3anNlTXJIVkdMSy1NRzV6T0tQeDdCMkFBd3lzM2FvNUNLUWRZSFJvR2hRQ29wUUs0cGMtaHdRRXdaVjFGSFE?oc=5",
-      "d": 1792274880000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -8331,10 +8324,20 @@
       "d": 1792352022000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Bansos PKH BPNT Tahap 4 Belum Final, Cek Update Sanggahan dan PBI BPJS - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2F4QVdBTEkxNUtJZWtRc210Mm9hMlJOMEhCNWVvRVFUWElCeHkwbVdTLVdZNV9mQjd0OEVEcElJTVJndjd3dndETEpYX3Z0YkhJT0YzVXh5dmpWb0t3Ni1YbzR1aldOdEgxTXFvOFZ3MG4yR3dXemxfQUlzblpWZGdMV0FPNWJqMTFUa3RJVGozRjdFNGMxMEROQ2dkXzBHbFY4cm96TjBjWFVyckdtUGFDa2VRUFdJX2V4QVRJRdIBvwFBVV95cUxQN2F4QVdBTEkxNUtJZWtRc210Mm9hMlJOMEhCNWVvRVFUWElCeHkwbVdTLVdZNV9mQjd0OEVEcElJTVJndjd3dndETEpYX3Z0YkhJT0YzVXh5dmpWb0t3Ni1YbzR1aldOdEgxTXFvOFZ3MG4yR3dXemxfQUlzblpWZGdMV0FPNWJqMTFUa3RJVGozRjdFNGMxMEROQ2dkXzBHbFY4cm96TjBjWFVyckdtUGFDa2VRUFdJX2V4QVRJRQ?oc=5",
+      "d": 1792300504000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
