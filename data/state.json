@@ -6927,19 +6927,19 @@
     "threads:DemvbKtlP_q": 1792359642590,
     "threads:DcxbgaNkWeg": 1792359945786,
     "threads:DbkMQ9noJIu": 1792360242408,
-    "threads:DegdQPEHXHg": 1792360242408
+    "threads:DegdQPEHXHg": 1792360242408,
+    "threads:DepsnNJEspb": 1792360543963,
+    "threads:DeowZJvj5BW": 1792360543963,
+    "threads:DeouNy9E61e": 1792360543963,
+    "threads:Deoon_RDbZY": 1792360543963,
+    "threads:DeoofjQEw48": 1792360543963,
+    "threads:DeooYGWEja2": 1792360543963,
+    "threads:DeolJ1ilC7_": 1792360543963,
+    "threads:Deodwv4iQSE": 1792360543963,
+    "threads:Depsom9oAi8": 1792360543963,
+    "news:CBMi5wFBVV95cUxOY3c0Z3FKSmxnSEZnNjJNTnZBMFdyMFZTdGQ4a3IzNVk3c2xxU2tPdkZpLThOSk9Ta2t6Vzg0U204cUVodUM2Z0V5dHFoXzZkU25TX2F5SGRNUEVMZlJuTUR6NGJHYVI4al9OZ3pEMGZUenpzVnBzYjliSXlCWHFhS1dJY2FpZlBhMy0wdnpmMl9oaV9mRVIyYVRYcnlsbkM5ZkRhRFNLWml6NWpDZ0xSQ2lwRWg1bjNPZUEzTjhhUklRWkdCZ0ZlcENtcGlqLV9pcmtjNUdxS1E2TVVybzVEcWZWcjhwY2c": 1792360543963
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Jurnal News",
-      "x": "Pencairan TPG Guru Non-ASN Dimulai! Kemendikdasmen Targetkan Semua Tuntas Pekan Depan - Jurnal News - Jurnal News",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbFNya0RxVDhMUXg3MExyRVhKRTYxTkRXdl9MbXVXYzVzdzI3bFV4eDlPX3N6cWxDaEFRdHVzXzluSGtoTzhXYU1IM19OcVVVUGFjSmUwellSTzJ5VG93bTRCTi1vTTFNTTNRQl9IWTMtREY5QzRpa3ZlTEZkbmZMaEtrUkdoTE1JVFdsWGtZbTVpQ0hCbWJjQjRCMkpOWFY5NEcyWk8tN29yN1FWcWI5M29uT3Fid1lqUEtiY0ZIY2gyZlFub0psZDFzRXprTGfSAc8BQVVfeXFMT2xTcmtEcVQ4TFF4NzBMckVYSkU2MU5EV3ZfTG11V2M1c3cyN2xVeHg5T19zenFsQ2hBUXR1c185bkhraE84V2FNSDNfTnFVVVBhY0plMHpZUk8yeVRvd200Qk4tb00xTU0zUUJfSFkzLURGOUM0aWt2ZUxGZG5mTGhLa1JHaExNSVRXbFhrWW01aUNIQm1iY0I0QjJKTlhWOTRHMlpPLTdvcjdRVnFiOTNvbk9xYndZalBLYmNGSGNoMmZRbm9KbGQxc0V6a0xn?oc=5",
-      "d": 1792313880000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -8429,10 +8429,20 @@
       "d": 1792328718000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Malangkab",
+      "x": "Kampung Cempluk Festival ke-16: Sekda Kabupaten Malang Dorong UMKM Naik Kelas dan Pertanian Lokal Bernilai Tambah - Bagian Umum - Malangkab",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY3c0Z3FKSmxnSEZnNjJNTnZBMFdyMFZTdGQ4a3IzNVk3c2xxU2tPdkZpLThOSk9Ta2t6Vzg0U204cUVodUM2Z0V5dHFoXzZkU25TX2F5SGRNUEVMZlJuTUR6NGJHYVI4al9OZ3pEMGZUenpzVnBzYjliSXlCWHFhS1dJY2FpZlBhMy0wdnpmMl9oaV9mRVIyYVRYcnlsbkM5ZkRhRFNLWml6NWpDZ0xSQ2lwRWg1bjNPZUEzTjhhUklRWkdCZ0ZlcENtcGlqLV9pcmtjNUdxS1E2TVVybzVEcWZWcjhwY2c?oc=5",
+      "d": 1792317333000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
