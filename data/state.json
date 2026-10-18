@@ -6806,19 +6806,13 @@
     "threads:DepaO_GgdYA": 1792351539730,
     "threads:DepbBBln8iD": 1792351539730,
     "threads:DepaytBEZQi": 1792351539730,
-    "threads:Depavg3lH5f": 1792351539730
+    "threads:Depavg3lH5f": 1792351539730,
+    "threads:Ded47eKGaGK": 1792351846561,
+    "threads:DdjeMS_kqZX": 1792351846561,
+    "news:CBMipgFBVV95cUxOOC1BWXZhallNQnBZUXBSTDEtN1dEOUxZYVlNeFU1WjVlRjhlTUZuUkRyNEFVU0pjRFpGYTBsb2FIRnNBc3FXNnY5QUxpY1JObHVROUlyYldrMldWOXoxWWw0VTFWMTk0cTg1SF8xa2swZUZYYkpzMEVpOExaemhDSlpUeVZhYmprTVJEa0JlZEZ5Y1luUU5nYnEzazlZcUw3dmFGcDJ30gGmAUFVX3lxTE44LUFZdmFqWU1CcFlRcFJMMS03V0Q5TFlhWU14VTVaNWVGOGVNRm5SRHI0QVVTSmNEWkZhMGxvYUhGc0FzcVc2djlBTGljUk5sdVE5SXJiV2syV1Y5ejFZbDRVMVYxOTRxODVIXzFrazBlRlhiSnMwRWk4TFp6aENKWlR5VmFiamtNUkRrQmVkRnljWW5RTmdicTNrOVlxTDd2YUZwMnc": 1792351846561,
+    "news:CBMiZ0FVX3lxTE5ZdU0xMHM3OEJJNnphYkpKS3JwNzk3UW4wcm95d2p2b0E0YjRaZ1BhU0ZXN2p0VGZ1RV9Tdll5a3ZmTHU1enpiQXF5dExCRVpoYXFndVNWSDZOd0dTTGdNN2ZnMjhrQjQ": 1792351846561
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "RRI.co.id",
-      "x": "Gerakan Peduli Tetangga Jangkau Warga Rentan - RRI.co.id",
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUko0d2dJeHk4ZW9oT3NHUG9mX3BpYUl6TmRDRzFoYVplSWcxVU56dnM3cjNMOFBrTzlIeHRxaGR0RGdVOVYwNHNpeW5qa21DcklvSWpGQlJnQ3ptTU04VVdUVk5TM0tISGY0WHRnS01QZWNBTzc5YnVfdk5BdDZndFU4My1CdXVuNjVJcTNDZ21pd2lx?oc=5",
-      "d": 1792321740000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -8308,10 +8302,20 @@
       "d": 1792334600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "Andromeda Kembangkan Basket Usia Dini Usai Hornbills Juara IBL 2026 - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZdU0xMHM3OEJJNnphYkpKS3JwNzk3UW4wcm95d2p2b0E0YjRaZ1BhU0ZXN2p0VGZ1RV9Tdll5a3ZmTHU1enpiQXF5dExCRVpoYXFndVNWSDZOd0dTTGdNN2ZnMjhrQjQ?oc=5",
+      "d": 1792348500000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
