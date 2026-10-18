@@ -6695,19 +6695,16 @@
     "threads:DeRB74dDwaa": 1792346142500,
     "threads:DRn_E-_AU7J": 1792346142500,
     "news:CBMi1AFBVV95cUxPcGNhVmZFY3lXUFRLdmxpZFN0WWZDNnNyN1dibTVNdEFmYldLcXo3dVlMTTJ3N3dxZzVIay1BbGNnNWFOSmFXLVRWM0VNNGxBXzZOcFQxUGxfS19hemFBOWJkMmo0S2NYb0JGa1hIdTktRWZjbHF5YUFvdVY4UVBfQnhuS01jNmdxRkZVM3NYMTJram1KQ1N6NWZFdWJ6QmQtOHFfNmNCeW9wWE1CZVlQYWdjTUNoZVBQMU1tQk5qRTZGcHJOQ21lSFFseU9uMHBpNDRSWA": 1792346142500,
-    "news:CBMiqwFBVV95cUxQcFpiWUVyYjhuWGt0TDRwNF9NMWtHZ3RIWmkybFg3OVpqNTZJcDRsZUZNUG0tNlRYRVVBS3lpUkFPak5zWXktY2VNU0hXUF8zMmJybVc4dzVmR2xCWHFkUE1UZ09XcU9fZ0M4NnItcUNIeTE5TGNwdmRaQldPMWt1NnFCWnNWTnREbEVlYVQxZUtvemxiQ0lNX1AyZlBDVWxzRVdQcjJabkRYRVE": 1792346142500
+    "news:CBMiqwFBVV95cUxQcFpiWUVyYjhuWGt0TDRwNF9NMWtHZ3RIWmkybFg3OVpqNTZJcDRsZUZNUG0tNlRYRVVBS3lpUkFPak5zWXktY2VNU0hXUF8zMmJybVc4dzVmR2xCWHFkUE1UZ09XcU9fZ0M4NnItcUNIeTE5TGNwdmRaQldPMWt1NnFCWnNWTnREbEVlYVQxZUtvemxiQ0lNX1AyZlBDVWxzRVdQcjJabkRYRVE": 1792346142500,
+    "threads:DYI9qYlj1ur": 1792346454427,
+    "threads:DONd9-Pkg2R": 1792346454427,
+    "threads:DepJaoDmQ4J": 1792346454427,
+    "threads:DcSaF9tDkVf": 1792346454427,
+    "threads:DcQsrpIjgDI": 1792346454427,
+    "threads:DdsridjFCmn": 1792346454427,
+    "threads:DLWasI1zLs9": 1792346454427
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "radartvnews",
-      "x": "Dita Karang Gabung HIGHBREED, Siap Perluas Karier Solo ke Panggung Internasional - radartvnews",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVF83bGdBYmp0WnB4eW94ZFFOR1ZBeXI2cXpDcW01Yzg3RXYyYzdZTnJ4VHZ3M01PeFVSR1pkM2NKX2xYdERDbFpBUnVXTGxLMGhYM1A1N2M4Tnp1bVJha0thU0g0SXFpeUl6VGVEQUg0QkF3aGdCLVRpR2s4SHQ4S1JxcjZKU21ZUkRYR2JoWkt5OHhlWDN3Q0JOR1NMS19aR053eWhGRncwQnl2YUp0U01aaThBN2Zydko40gG7AUFVX3lxTE9UXzdsZ0FianRacHh5b3hkUU5HVkF5cjZxekNxbTVjODdFdjJjN1lOcnhUdnczTU94VVJHWmQzY0pfbFh0RENsWkFSdVdMbEswaFgzUDU3YzhOenVtUmFrS2FTSDRJcWl5SXpUZURBSDRCQXdoZ0ItVGlHazhIdDhLUnFyNkpTbVlSRFhHYmhaS3k4eGVYM3dDQk5HU0xLX1pHTnd5aEZGdzBCeXZhSnRTTVppOEE3ZnJ2Sjg?oc=5",
-      "d": 1792265310000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -8197,10 +8194,20 @@
       "d": 1792345994000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@adlptv",
+      "x": "guys, deepseek v4.1 flash lagi rame banget ya 😭 katanya mulai bisa ngelawan model kelas atas, jadi gue iseng cek statistik di bansosai... LAH KOK UDAH 21.576 REQUEST DALAM SEHARI ",
+      "u": "https://www.threads.com/@adlptv/post/DepJaoDmQ4J",
+      "d": 1792342060000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
