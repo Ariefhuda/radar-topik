@@ -6872,7 +6872,11 @@
     "threads:DZW7IQVmkKv": 1792355452027,
     "threads:DeoJmmtCUYe": 1792355452027,
     "threads:DeoeM3qiS3a": 1792355452027,
-    "threads:Deng-KVE_cR": 1792355452027
+    "threads:Deng-KVE_cR": 1792355452027,
+    "threads:Dc492ptj9zt": 1792355734521,
+    "threads:DeSn2gVkqDd": 1792355734521,
+    "threads:C_T-owFvgGN": 1792355734521,
+    "threads:DQsdjxXgrA9": 1792355734521
   },
   "digest": [
     {
@@ -8377,14 +8381,13 @@
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792342909594,
-    "news": 1792355452027
+    "reddit": 1792342909594
   }
 }
