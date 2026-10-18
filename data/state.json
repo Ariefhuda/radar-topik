@@ -6650,19 +6650,12 @@
     "threads:DcDBLxTjtSi": 1792344338449,
     "threads:DcDeTuDE3Q_": 1792344338449,
     "threads:DepEPdLjFK5": 1792344338449,
-    "news:CBMi0gFBVV95cUxOQ1F3dnhWRkdmSHczZ1dqTlh0Y1k4UDdKSTZ4ZV85djk3dnF3MF9CbERBVFJCNlZ2Y3ZPWFRQTFFTek1qRTlTYy0zQ25RWl9kOEZ3NVQxY2pVV01pVDhheExoSUlsSmxOSXpUYkJkbVhhdE9ySEM3UjUtNEpVbmJvZlhqZ2NPR1JhZzNHbzQ0cHZJQkFsMnlTUGU5ZjQ1MVBMbUF2LWNMUVZHdmx4UXlodWoxbHZ0Z2h5c2lNaDRzRExVY3lIeFRDT2ZkOGg1SlhaOGfSAcQBQVVfeXFMTVdudHlkRHhzaTNHQkFLdjFibjRkZFZrcEpUUWNrWmxQQ3FSTGQzSlN4bklCZmtyLUl3NzBSMGZVVENfV1c4X016bTFhS1JQSTdxS2lpQzRzSjM1YWFLX1JmMF9MaVl3M1hlczd3X0tMcU1DMVdRQzJ0UmNpSjBIX0hLSjRHN1RoTUdkQVFBUEJiOW1yUXRpaUttUDlmcXNxZVJnbHRPeFE5RTBEWjg0YnNwbW95QmVOLW1sVVItREFUMHJMdQ": 1792344338449
+    "news:CBMi0gFBVV95cUxOQ1F3dnhWRkdmSHczZ1dqTlh0Y1k4UDdKSTZ4ZV85djk3dnF3MF9CbERBVFJCNlZ2Y3ZPWFRQTFFTek1qRTlTYy0zQ25RWl9kOEZ3NVQxY2pVV01pVDhheExoSUlsSmxOSXpUYkJkbVhhdE9ySEM3UjUtNEpVbmJvZlhqZ2NPR1JhZzNHbzQ0cHZJQkFsMnlTUGU5ZjQ1MVBMbUF2LWNMUVZHdmx4UXlodWoxbHZ0Z2h5c2lNaDRzRExVY3lIeFRDT2ZkOGg1SlhaOGfSAcQBQVVfeXFMTVdudHlkRHhzaTNHQkFLdjFibjRkZFZrcEpUUWNrWmxQQ3FSTGQzSlN4bklCZmtyLUl3NzBSMGZVVENfV1c4X016bTFhS1JQSTdxS2lpQzRzSjM1YWFLX1JmMF9MaVl3M1hlczd3X0tMcU1DMVdRQzJ0UmNpSjBIX0hLSjRHN1RoTUdkQVFBUEJiOW1yUXRpaUttUDlmcXNxZVJnbHRPeFE5RTBEWjg0YnNwbW95QmVOLW1sVVItREFUMHJMdQ": 1792344338449,
+    "threads:DepN_xHicFe": 1792344649761,
+    "threads:DepN6_NGU5K": 1792344649761,
+    "threads:DeoLJVpER79": 1792344649761
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "detikNews",
-      "x": "Drum Band SMA KTB Meriahkan Sosialisasi SPMB di CFD Bundaran HI - detikNews",
-      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUFKMEpFWVR5V0wwTWFXMGZ5SE13ZTE0SXZzRXc5SFc3aTg2Q3ltazZjdHNSSW11dGd1SDVOVEx1eDhWczhZUFpMR3hVTW9RaGptUUo0VkwyN29mUjVvaHpLdWdKNFUwUlFESkY5YmNlSDl1TkNUM0lQNFZRVk9TMFRJSVFtMkpiTTlqb09ZWXVQLU42N1QyZmZRYTJ0XzVwZ1JMVG1n0gGrAUFVX3lxTE9ILS05cjVlaGVPUHdrSjJ4ZzJtNDN2ZmhaU0RqQmFqWmdpUHNlQy1rN0liVU9wWHV6WGZad3RQUzNJbWpURTB6QnZFVUtZQVFmRjRDOVd0TzJOWDB6elpsUEFaTXctTjlvU0FsbUhudVZzVDd2X01qLS0zQVhRR2o0MFlZc3RLV1dKSFEtelVnOGhCdzNyOHhLNVBqdkZIajdGcHNQUDFGSlh4aw?oc=5",
-      "d": 1792335088000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -8152,10 +8145,20 @@
       "d": 1792329780000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dhumaconsulting",
+      "x": "Buat owner bisnis yang bingung bikin SOP dan KPI mulai darimana, ada Kelas gratis KPI nanti malam minggu 18 oktober 2026 jam 19.00 wib. Jangan sampai kelewatan yaa, silahkan dm yan",
+      "u": "https://www.threads.com/@dhumaconsulting/post/DeoLJVpER79",
+      "d": 1792309412000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
