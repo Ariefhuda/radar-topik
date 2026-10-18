@@ -6653,19 +6653,12 @@
     "news:CBMi0gFBVV95cUxOQ1F3dnhWRkdmSHczZ1dqTlh0Y1k4UDdKSTZ4ZV85djk3dnF3MF9CbERBVFJCNlZ2Y3ZPWFRQTFFTek1qRTlTYy0zQ25RWl9kOEZ3NVQxY2pVV01pVDhheExoSUlsSmxOSXpUYkJkbVhhdE9ySEM3UjUtNEpVbmJvZlhqZ2NPR1JhZzNHbzQ0cHZJQkFsMnlTUGU5ZjQ1MVBMbUF2LWNMUVZHdmx4UXlodWoxbHZ0Z2h5c2lNaDRzRExVY3lIeFRDT2ZkOGg1SlhaOGfSAcQBQVVfeXFMTVdudHlkRHhzaTNHQkFLdjFibjRkZFZrcEpUUWNrWmxQQ3FSTGQzSlN4bklCZmtyLUl3NzBSMGZVVENfV1c4X016bTFhS1JQSTdxS2lpQzRzSjM1YWFLX1JmMF9MaVl3M1hlczd3X0tMcU1DMVdRQzJ0UmNpSjBIX0hLSjRHN1RoTUdkQVFBUEJiOW1yUXRpaUttUDlmcXNxZVJnbHRPeFE5RTBEWjg0YnNwbW95QmVOLW1sVVItREFUMHJMdQ": 1792344338449,
     "threads:DepN_xHicFe": 1792344649761,
     "threads:DepN6_NGU5K": 1792344649761,
-    "threads:DeoLJVpER79": 1792344649761
+    "threads:DeoLJVpER79": 1792344649761,
+    "threads:C3SFzl-x4o6": 1792344936178,
+    "news:CBMihgFBVV95cUxPNnQydnlzTnRVNW9BX3VfMVlEckpORFVTUlQzcndncFltM3daN1VRWnFGOE5YMXlpeDlwQTI3V0VwMkg5cHFuNVNCQVZKTnFCZnZCbVhSZ1R5U1U0eVZPeVp2MFAwNkp5QkpoS0h3enV2bkJMbnVJWC1XLUp2WGpSaXZNWGItQQ": 1792344936178,
+    "news:CBMiuAFBVV95cUxOZmh1YXRZcXEwWUN2Snk4LUtVcjBReFIxcXFxZ1pQb1k5U3JPLW1OZ2RrMmxmNERvM3lJblctV19yUUVxSHZ6b0RqclJVQzQ4Ry1wU3dNZEk3RmZUX3R0dTVnYzFfT1I3VDFCLUZnV0NOdWE4UU5SdFpOZG5UejhSdHJNN3BoLUNZdlUyeHZwbEl0ODBMa1F4MmpPb0h6aDFlZm04MTNSQlBiRzdpQl9OMTJsWUU2MDVO": 1792344936178
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "MetroTVNews.com",
-      "x": "Sandiaga Uno Luncurkan Beasiswa S1 untuk Wirausahawan - MetroTVNews.com",
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFBRQ1VtTDBlTlY4eFdYNU42eEVqOHhXMGVsWTdSVG9QZmlrRjNPR2dnSlhxWFluM2plLXJkQWI3VzFBM1RCM0tGR0dnT0FtM094T1NUNmRCemNWdlBjNmFGYjZrdloyRHNLa2dpUmdLQmV1b3k4dWZsVk52SE5sWjliMXBrZi1VVWtraFJDOTJjbDEwUDQ1aGJEUQ?oc=5",
-      "d": 1792322987000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -8155,10 +8148,20 @@
       "d": 1792309412000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmh1YXRZcXEwWUN2Snk4LUtVcjBReFIxcXFxZ1pQb1k5U3JPLW1OZ2RrMmxmNERvM3lJblctV19yUUVxSHZ6b0RqclJVQzQ4Ry1wU3dNZEk3RmZUX3R0dTVnYzFfT1I3VDFCLUZnV0NOdWE4UU5SdFpOZG5UejhSdHJNN3BoLUNZdlUyeHZwbEl0ODBMa1F4MmpPb0h6aDFlZm04MTNSQlBiRzdpQl9OMTJsWUU2MDVO?oc=5",
+      "d": 1792344904000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
