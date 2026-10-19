@@ -8931,59 +8931,21 @@
     "threads:Dc5gJezHyEQ": 1792428062600,
     "news:CBMi0AFBVV95cUxPYnJTbjlVNUtCYkxsNXV3RDZxZkUxd1FWYk9nRmJZSzQtanJXVU9qUGx6Q1M3VnFpWVlTOXA5SEMyN2o1Uy15R1FBb1VOMC1ITG53UWhRU3VrWWlTMjZPTmJzUTZNZzMzTk5XLUhHaEF0OERKamYwajBXSk5XTnhPWVVYUzV5T2hOUEhUdWs4Y2lLbVFoUVZUS2xvb1VMREh0NDg2Y2pqZ3VCeFVfRmVEblZNOFNwTmloYVVMaVNoMUJyUlE3YzNZYWtIMU9TSGFp0gHQAUFVX3lxTE9iclNuOVU1S0JiTGw1dXdENnFmRTF3UVZiT2dGYllLNC1qcldVT2pQbHpDUzdWcWlZWVM5cDlIQzI3ajVTLXlHUUFvVU4wLUhMbndRaFFTdWtZaVMyNk9OYnNRNk1nMzNOTlctSEdoQXQ4REpqZjBqMFdKTldOeE9ZVVhTNXlPaE5QSFR1azhjaUttUWhRVlRLbG9vVUxESHQ0ODZjampndUJ4VV9GZURuVk04U3BOaWhhVUxpU2gxQnJSUTdjM1lha0gxT1NIYWk": 1792428062600,
     "news:CBMiygFBVV95cUxOWUl6TTFlMk1IU2Y5QzgtdEl5QmRXbUxXckRCdVZqSF9kMlFlSFZuWWVYYUdvREh1TXlIcFRQbTF5SmJXcE8zbXk4amVFYlc3NEl1eWZOZl9HMTNGcTdCZWFpYXZRN2FaYTNaZG4wX2NOdllneFFGNzRfSUx2V2ZMdC1xczVhOGNZbWMxQWtmeng0a3pZc3RxQzJoVWhfMFN3XzNBU1p3OURfMzBJVW5mZHR4UHFOV3JkWXNHWDBONEtlLXFOczVpTVNB0gHKAUFVX3lxTE5ZSXpNMWUyTUhTZjlDOC10SXlCZFdtTFdyREJ1VmpIX2QyUWVIVm5ZZVhhR29ESHVNeUhwVFBtMXlKYldwTzNteThqZUViVzc0SXV5Zk5mX0cxM0ZxN0JlYWlhdlE3YVphM1pkbjBfY052WWd4UUY3NF9JTHZXZkx0LXFzNWE4Y1ltYzFBa2Z6eDRrellzdHFDMmhVaF8wU3dfM0FTWnc5RF8zMElVbmZkdHhQcU5XcmRZc0dYME40S2UtcU5zNWlNU0E": 1792428345818,
-    "news:CBMi1wFBVV95cUxOX3U3V1BfTFNOODlZWnJ4M3hyR3N3N0RXazc1SXhNTVV6Q0ZlWUxJaDVWZFpFazFMOVFuaTY3U3pEUk8tYkVpaFRLaHlhLXlXQVRrc1NqUGdaVFpVblFzcTIzU19ZNElreWNGQWVXN01TdGduc1FfTy1EOHRON213dkdqWF95d0hna2hveHl6YnBKamQ4TUl6c0ViSDAyeXFGZmU2OU5rNWtMLURJazVkM3Z3MmhKOWxJdjJGWjlSZDdGVmZ4Zml5T3JnbkdtbHB4aWVuczVSY9IB3AFBVV95cUxOblk2QVZNLXE4Q2VlT2tqV19KdDl4djVLVDRDTXRpQ0RpbXNkQUUyUGdwaDZ6ZnZ3WWZJWWRmc1dEMUlManliZFcwcHBjRnljMmNvbzZSWWRsVzJHNW84V05LZXBvaXhVYks5TzkwSzg2VFNHOEtQbEU3WmkxTkpjRk9ndTYyOWJDazFMSDBKblhEd09UWmxXejFiLVJRRk1NYWc5UVRuUHN5WWkyOVg4V0RRQ01xdUZxZjlvbVdtUU5PVW1jQkN5YlVkMk9qbERBODQ5TFR1VmhRZW9r": 1792428345818
+    "news:CBMi1wFBVV95cUxOX3U3V1BfTFNOODlZWnJ4M3hyR3N3N0RXazc1SXhNTVV6Q0ZlWUxJaDVWZFpFazFMOVFuaTY3U3pEUk8tYkVpaFRLaHlhLXlXQVRrc1NqUGdaVFpVblFzcTIzU19ZNElreWNGQWVXN01TdGduc1FfTy1EOHRON213dkdqWF95d0hna2hveHl6YnBKamQ4TUl6c0ViSDAyeXFGZmU2OU5rNWtMLURJazVkM3Z3MmhKOWxJdjJGWjlSZDdGVmZ4Zml5T3JnbkdtbHB4aWVuczVSY9IB3AFBVV95cUxOblk2QVZNLXE4Q2VlT2tqV19KdDl4djVLVDRDTXRpQ0RpbXNkQUUyUGdwaDZ6ZnZ3WWZJWWRmc1dEMUlManliZFcwcHBjRnljMmNvbzZSWWRsVzJHNW84V05LZXBvaXhVYks5TzkwSzg2VFNHOEtQbEU3WmkxTkpjRk9ndTYyOWJDazFMSDBKblhEd09UWmxXejFiLVJRRk1NYWc5UVRuUHN5WWkyOVg4V0RRQ01xdUZxZjlvbVdtUU5PVW1jQkN5YlVkMk9qbERBODQ5TFR1VmhRZW9r": 1792428345818,
+    "threads:DeruGHNAvf8": 1792428935914,
+    "threads:DertjaTDjM3": 1792428935914,
+    "threads:Def1kq3ln3G": 1792428935914,
+    "threads:Dert3xPEjiD": 1792428935914,
+    "threads:DEFJvOcTnma": 1792428935914,
+    "threads:DKE580hSswp": 1792428935914,
+    "threads:Dec6deRAddS": 1792428935914,
+    "threads:DcV0T6IDEfb": 1792428935914,
+    "threads:DerHJixn1Xi": 1792428935914,
+    "threads:Deq-rDVASNa": 1792428935914,
+    "news:CBMiqwFBVV95cUxOamMwOE9PRWpLMFgzekx2VGtHeG5iRlkwaUdxVWtCNEdESk9meGh2R28tWkUxWEozc2FwNUtRcktyOEpzZUhCVUExd0hWLTRmNGV6SklySDlBX3JvUUpKWGEwMnd1OWlqZmNSbk85Z0JscEdVMjUyYk9DMGJmS1lmS3RHbG51YTlKVXV3bGdmQ2JWYmRmMXhIMzFzQWhDLVQxZHU0Y1BnNXYyNkk": 1792428935914,
+    "news:CBMitgFBVV95cUxOd1pkY1NsejZIT3pZY0h0YnRZTTh1eWtnTTN5bUplZElKUmpnU0hqSHNvMFB6ZVc2c05wX1JqdzRDRk9LUi1YU3JHQ3FKdmFOOEFabkctbllCNnhsbXdFcEctY3NKRXBLSVY3dEdtZjFmbnl2YkxUNjRhdG4xcnJpeGc2dUlKWWFabGgwYUJ4eEZfcTdVNU9FQ1NzTW40V2lHbFdVTDFyRnNlQ2hjbGFUOTl3S2Z1UdIBuwFBVV95cUxOQTZGcURCd2o3djBWLWZ5NWpTR1FiaDVZMHZuQ3NsTlpncmN0Q05oX2JjNHJoTXV1cVI1dXNCR1U0Ukw1MTJzTkRqZkJ5bjJuVm5FeHhfZHdFWUNzMWZqUFZnVGt2akEwVmNtNUQ1SDN4enl1LV9WSDBWUlE3QnU0aTg3OTlNWGxGdkRlTUFJbmxLVGRFZGV3bXp4WDJOTHBTR1g1VTdTUS00NzZGb1FXbTVwYWxMeXlIa1FV": 1792428935914
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Suara Pantura",
-      "x": "Jelang Hari Santri, 482 Santri Jateng Terima Beasiswa Pesantren Obah - Suara Pantura",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTJRQU9NbVA4YVpKNzlqVVVDQWsxYjFyc21GdFBSemtuc0F2cFh1MDFNeUZPTUtqVmlLUjE0b0VZN3REWlg5STNDbkVmRGhWUDh2WGZHdVMyTDNLcXQwQzNuTlhFX2t5YTBDUEhiTjFQR05iOUZWLUZGcHJUN0FaMDhLay1NT1VfRW9xZjR3MzN4Tml5NVYwRmRMMlNBQVJJZ0R5OThCRUI3LXU5ZldZZHpPbw?oc=5",
-      "d": 1792414135000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@mu.hd1457",
-      "x": "Bansos tahap 4 kartu lama Banyak yang bilang udah cair Dari pada penasaran kita CEK",
-      "u": "https://www.threads.com/@mu.hd1457/post/DerTmBMjUq3",
-      "d": 1792414508000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "Join yuk kak ke grup CPNS 2027 GRATIS. Isinya ada teman-teman seperjuangan CPNS, saling menyemangati, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan",
-      "u": "https://www.threads.com/@qyupit123/post/DerUYQ6lMo5",
-      "d": 1792414916000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "Join yuk kak ke grup CPNS 2027 GRATIS. Isinya ada teman-teman seperjuangan CPNS, saling menyemangati, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan",
-      "u": "https://www.threads.com/@qyupit123/post/DerUVyPFJqQ",
-      "d": 1792414896000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "Join yuk kak ke grup CPNS 2027 GRATIS. Isinya ada teman-teman seperjuangan CPNS, saling menyemangati, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan",
-      "u": "https://www.threads.com/@qyupit123/post/DerUPXiFDxF",
-      "d": 1792414843000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -10433,10 +10395,60 @@
       "d": 1792423873000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ami_journey",
+      "x": "Bund, kakak tidak sekolah ya? Kalo disurabaya, berKK surabaya bisa gabung diRAP ada terapi gratis atau pelatihan lainnya. Semua GRATIS Anak saya juga ABK adhd awalnya speechdelay..",
+      "u": "https://www.threads.com/@ami_journey/post/Dert3xPEjiD",
+      "d": 1792428281000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@halozulfan",
+      "x": "Sabtu-minggu kemarin belajar & nambah kenalan di kelas sharing bareng @kopitempatkerja Bintaro Minggu besok ada yg mau join gaes? Gratis ya.. Atau boleh yang mau sharing juga 🙌",
+      "u": "https://www.threads.com/@halozulfan/post/DerHJixn1Xi",
+      "d": 1792407980000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@miss.tyas",
+      "x": "Bab 3 Bahasa Indonesia Kelas 5 Ekspresi melalui Hobi Bagi yang membutuhkan materi bisa DM gratis",
+      "u": "https://www.threads.com/@miss.tyas/post/Deq-rDVASNa",
+      "d": 1792403536000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "rmoljabar.id",
+      "x": "Mulai November, Pemprov Jabar Siapkan Pelatihan Bahasa Asing Gratis bagi Warga Desa - rmoljabar.id",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamMwOE9PRWpLMFgzekx2VGtHeG5iRlkwaUdxVWtCNEdESk9meGh2R28tWkUxWEozc2FwNUtRcktyOEpzZUhCVUExd0hWLTRmNGV6SklySDlBX3JvUUpKWGEwMnd1OWlqZmNSbk85Z0JscEdVMjUyYk9DMGJmS1lmS3RHbG51YTlKVXV3bGdmQ2JWYmRmMXhIMzFzQWhDLVQxZHU0Y1BnNXYyNkk?oc=5",
+      "d": 1792428912000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Benarkan Bansos Tahap Empat 2026 Sudah Cair? Cek Fakta Selengkapnya - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1pkY1NsejZIT3pZY0h0YnRZTTh1eWtnTTN5bUplZElKUmpnU0hqSHNvMFB6ZVc2c05wX1JqdzRDRk9LUi1YU3JHQ3FKdmFOOEFabkctbllCNnhsbXdFcEctY3NKRXBLSVY3dEdtZjFmbnl2YkxUNjRhdG4xcnJpeGc2dUlKWWFabGgwYUJ4eEZfcTdVNU9FQ1NzTW40V2lHbFdVTDFyRnNlQ2hjbGFUOTl3S2Z1UdIBuwFBVV95cUxOQTZGcURCd2o3djBWLWZ5NWpTR1FiaDVZMHZuQ3NsTlpncmN0Q05oX2JjNHJoTXV1cVI1dXNCR1U0Ukw1MTJzTkRqZkJ5bjJuVm5FeHhfZHdFWUNzMWZqUFZnVGt2akEwVmNtNUQ1SDN4enl1LV9WSDBWUlE3QnU0aTg3OTlNWGxGdkRlTUFJbmxLVGRFZGV3bXp4WDJOTHBTR1g1VTdTUS00NzZGb1FXbTVwYWxMeXlIa1FV?oc=5",
+      "d": 1792416471000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
