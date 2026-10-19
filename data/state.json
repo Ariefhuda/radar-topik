@@ -9101,29 +9101,12 @@
     "threads:DesNUkQkxEb": 1792445143820,
     "threads:DesOIzkioy3": 1792445737840,
     "threads:DesN6-YH6Nr": 1792445737840,
-    "threads:Deq2tfxj_LA": 1792445737840
+    "threads:Deq2tfxj_LA": 1792445737840,
+    "threads:DesOrlEk3q6": 1792446041217,
+    "threads:DaFEt3CFb0i": 1792446041217,
+    "news:CBMisgFBVV95cUxPM2kxb29KNkxCdnVyV2p1TmNNa21jbHNUUm0wcktWQXdWYkJUMG5LbGQyY0cyWXR5RXhFcGdueW1hTjd2U0I0a1V0R1pXUkxOS0JuUnM3MkFwS2lPNF9EWHBEejJwdl80Rl9WUXp4X3lxWTRzbG42VWZEMU9zeUI2SmdJRmZWWDl6U2t0VF9aNlczS1psNlBDRTRnMDY3MnQxUTJkVGZ6M2xrR3BHTFVoTE930gG3AUFVX3lxTE1GTFJNT1hZU1ZfTXN6dklsLUZnckhQdGZQa1FRY0dKcjI3T3FuODJMcXJJUUpWYTVQSVRHaGRYRG9VRjhBYXczbFphWW1NOVhLWmZiXzBkakxVdUgtMlY3a1U2Zm16MWd2WUozT05mWC1FREJyenJpRjVCN0F6ZTlQekZVYUdlRWxXZEtROTlCYkVwbW5HN1MzRkg3WHNrazlsRHNRQk5CSUFBNy1ZX2x5TFltdlkxaw": 1792446041217
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kids.pickss",
-      "x": "Belanja perlengkapan sekolah bisa jadi kelas finansial gratis buat anak. Cara: kasih dia budget, suruh dia yang pegang keputusan.",
-      "u": "https://www.threads.com/@kids.pickss/post/DerbCAEiWb-",
-      "d": 1792418412000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@mamak_koya",
-      "x": "Atau coba yg ini @gerakcepat.id ada tu info terbaru beasiswa SD, SMP, sma pendaftaran sampai november, lihat di ig nya",
-      "u": "https://www.threads.com/@mamak_koya/post/DerbZSwE9ou",
-      "d": 1792418595000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -10603,10 +10586,30 @@
       "d": 1792399361000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@iqbalary8",
+      "x": "coba cek coursera te pas bayar minta bansos aja, kayanya semua course disana ada",
+      "u": "https://www.threads.com/@iqbalary8/post/DesOrlEk3q6",
+      "d": 1792445483000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nusaperdana.com",
+      "x": "HUT Humas Polri 75,Polres Rokan Hulu Salurkan Bansos untuk 30 KK di Desa Koto Tinggi - nusaperdana.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2kxb29KNkxCdnVyV2p1TmNNa21jbHNUUm0wcktWQXdWYkJUMG5LbGQyY0cyWXR5RXhFcGdueW1hTjd2U0I0a1V0R1pXUkxOS0JuUnM3MkFwS2lPNF9EWHBEejJwdl80Rl9WUXp4X3lxWTRzbG42VWZEMU9zeUI2SmdJRmZWWDl6U2t0VF9aNlczS1psNlBDRTRnMDY3MnQxUTJkVGZ6M2xrR3BHTFVoTE930gG3AUFVX3lxTE1GTFJNT1hZU1ZfTXN6dklsLUZnckhQdGZQa1FRY0dKcjI3T3FuODJMcXJJUUpWYTVQSVRHaGRYRG9VRjhBYXczbFphWW1NOVhLWmZiXzBkakxVdUgtMlY3a1U2Zm16MWd2WUozT05mWC1FREJyenJpRjVCN0F6ZTlQekZVYUdlRWxXZEtROTlCYkVwbW5HN1MzRkg3WHNrazlsRHNRQk5CSUFBNy1ZX2x5TFltdlkxaw?oc=5",
+      "d": 1792390200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
