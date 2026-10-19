@@ -8722,7 +8722,8 @@
     "threads:DerbnaGo5KF": 1792419044556,
     "threads:DerbAGTEqGd": 1792419044556,
     "threads:DerbCAEiWb-": 1792419044556,
-    "threads:DerbZSwE9ou": 1792419044556
+    "threads:DerbZSwE9ou": 1792419044556,
+    "threads:DercU3mFIyj": 1792419349830
   },
   "digest": [
     {
@@ -9674,10 +9675,20 @@
       "d": 1792418595000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@dheadara97",
+      "x": "di aplikasi cek bansos bisa diweb ini juga bisa",
+      "u": "https://www.threads.com/@dheadara97/post/DercU3mFIyj",
+      "d": 1792419083000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
