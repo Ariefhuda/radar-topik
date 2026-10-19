@@ -9108,19 +9108,10 @@
     "threads:DesPmY0ATxN": 1792446339286,
     "threads:DesPkjvHXxT": 1792446339286,
     "threads:DesPWxOiOii": 1792446339286,
-    "threads:DesQcdTmxYV": 1792446339286
+    "threads:DesQcdTmxYV": 1792446339286,
+    "news:CBMiigFBVV95cUxOcUd5ZGllbzBhYS1QNTZmUmtWdWt5TmNlX3A5aW8zM3NHLVFOcjEtWkhIeE9KYWtiZndDNFoyTnhMbEo0OVBqYkZzSHhrUGxmUkRiY2NCa2RmbVdQc1cybDZIOUtlV2hiUzBKQXJySWFaTmVyWUYxOEF1QlVKV3prRlk1ckd2U19YRGc": 1792446640176
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@dheadara97",
-      "x": "di aplikasi cek bansos bisa diweb ini juga bisa",
-      "u": "https://www.threads.com/@dheadara97/post/DercU3mFIyj",
-      "d": 1792419083000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -10610,10 +10601,20 @@
       "d": 1792390200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "PingSunday",
+      "x": "Wang Chuqin vs Benedikt Duda: Rekor pertemuan langsung - PingSunday",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUd5ZGllbzBhYS1QNTZmUmtWdWt5TmNlX3A5aW8zM3NHLVFOcjEtWkhIeE9KYWtiZndDNFoyTnhMbEo0OVBqYkZzSHhrUGxmUkRiY2NCa2RmbVdQc1cybDZIOUtlV2hiUzBKQXJySWFaTmVyWUYxOEF1QlVKV3prRlk1ckd2U19YRGc?oc=5",
+      "d": 1792406426000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
