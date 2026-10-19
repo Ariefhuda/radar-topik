@@ -8913,19 +8913,10 @@
     "threads:Dely8dakwAO": 1792427457922,
     "threads:DejQp83AaKj": 1792427457922,
     "threads:DerMyrcFB4o": 1792427457922,
-    "threads:DS3jOXCk3xZ": 1792427457922
+    "threads:DS3jOXCk3xZ": 1792427457922,
+    "news:CBMifEFVX3lxTFBzLXAyRDZDOHVJcmd2cnRaR3pmRTRXS3ZIUktEMmwtOG1ubUZaSE9zMmRPeEhfemE2aE5kQlNBNzBmS3V0WmtxdXpUUHlmZG16YnNMa2VqSVJNdFI3cWk4RmdNaDRnT1RLMDVaNUx0NHhJdUpUTHhEMDE3eUE": 1792427743483
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Riau24.com",
-      "x": "Polsek Kandis Bersama Satresnarkoba Polres Siak Razia Tiga Tempat Hiburan Malam - Riau24.com",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVE5ObWV0RzU2am54dXFPZUhUajllMEJZUE45Rk1pWDNhb05tdDZHaWljUjRkNjh4WFhFaVJwZS1SdmNyb0NEMl9DdVRHSHp2N2paTzJqMTY1dTVwNkN2Y2loVE1wcjV1MFh5ZE9nMGh0UXVsWFR4M0R1TjZuQkRPMU16UVFkZ3c5aTR3bUhnaHQtNzRqa3hDQ3pjd1hYc2ljWGVpSnAzd1Iyekt6bjEyRVZwSDI1RXBtcENnT19ZQ1Nyc2M?oc=5",
-      "d": 1792413360000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -10415,10 +10406,20 @@
       "d": 1792410938000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Muhammadiyah Sumatera Utara",
+      "x": "Cara Cek Desil Bansos yang Cair Oktober 2026 – Artikel BLOG - Universitas Muhammadiyah Sumatera Utara",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzLXAyRDZDOHVJcmd2cnRaR3pmRTRXS3ZIUktEMmwtOG1ubUZaSE9zMmRPeEhfemE2aE5kQlNBNzBmS3V0WmtxdXpUUHlmZG16YnNMa2VqSVJNdFI3cWk4RmdNaDRnT1RLMDVaNUx0NHhJdUpUTHhEMDE3eUE?oc=5",
+      "d": 1792423656000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
