@@ -7412,7 +7412,11 @@
     "threads:DeqLhttkeYP": 1792377049659,
     "threads:DeqLEY6gd3Y": 1792377049659,
     "threads:DeqLarNk2pW": 1792377049659,
-    "threads:DeqFBaTkzjq": 1792377049659
+    "threads:DeqFBaTkzjq": 1792377049659,
+    "threads:DeqMiIhGAK_": 1792377338290,
+    "news:CBMixwFBVV95cUxPWnFSR1RoaE9PT1F4ZG9OVTJLUnd3TnZVb0Rpc0FvYkYzckJKYlRhZVRaajlPYTdQdS1XU0YwWHM4SjhmdWV0bjF0QklZQW5pbDJ5UGY5VGRiNndBMmtwd29rR1haTmJfQnBMMVBSZmQ5azRWUXp5dXEtZTZTQU5nQ1E4MFRSMEExS1ZadWdiaWJfbnRqNFpBZkhrVEhob3k1SWdudk5WRmR1UzJSM1JZN0N1ZFZHNUcxSHVUZmY3cmdtQnQxajk0": 1792377338290,
+    "news:CBMiswFBVV95cUxOUVZaNnZTNXJKczN1RXNvcGJkOFlPZW12Z00wdlJpcm1ua3lXOTJ1V0MwV05OUU9JM2VfOUdmRVlucFlWVnB4T1pfTks4RFdJODdZaTVQellEc1hYLWVuVld2T2xJaTU5VFlhRk9rOGVRT1JBYWF4T2JHYU11eGcxOUlidExsLXViQS1qVDZDRUFDZk5WeHpHVnlTdUZrN1d5NGxCZkRfVXlkT0Z1VTA0bzZHWQ": 1792377338290,
+    "news:CBMiwwFBVV95cUxNSzVvbVcySXRRLUxXV2V3emdBU0pKbEFBbnp1SUZvQ1BLUDlvNnV4UlJveEY4dURuaGhGeGswSnJVellBLVpCODF0b0hOdFRrcEJUV2VnRU8teGNQcmQ4WWN5Y1lVVVVSenVZNkpIOE9HWk5EVDNkLXg5Nl96YzBWeE9SMElnYndYMjVMbXRibl9USngwVXZsck10eEtFWlNtWXBwMTVqUEhzelIxTVJPc0ZiUFNuV0pOb2lNTVAwR20tYWfSAcgBQVVfeXFMUHdoZl93QUhCUmVNSjFJYlRJelpJaFlvT0VHTG1FQ1FHSzE1TG1SSUlKdlBPazNtLTk3OE9RYWlZWFhtUzhIbXlxVEFIOGJ4NGVvOEJtemN0LWdnWm9oR19LYlVGVGlDWFQyNi1EYTJhZzJGSzkyWm1sSGJLY3V0ZkZtQ0tfTHNpbUM3RkpuY1F0ZjcxNW1QdG9PcVVxSUIzb2R0LWJPR09ldHEzWnZTYnlOdGFPdDBNUE5Wbk1kdy1GdXpIWWpoUkU": 1792377338290
   },
   "digest": [
     {
@@ -8094,10 +8098,30 @@
       "d": 1792373310000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@graceful.cia",
+      "x": "Beasiswa ke US, untuk siswa SMA ✨ Deadline form dibuka hingga tgl 27 Oktober 2026. #beasiswa",
+      "u": "https://www.threads.com/@graceful.cia/post/DeqMiIhGAK_",
+      "d": 1792377248000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Bansos PKH dan BPNT Tahap 4 2026, Ini Aturan Penerima yang Perlu Diperhatikan - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzVvbVcySXRRLUxXV2V3emdBU0pKbEFBbnp1SUZvQ1BLUDlvNnV4UlJveEY4dURuaGhGeGswSnJVellBLVpCODF0b0hOdFRrcEJUV2VnRU8teGNQcmQ4WWN5Y1lVVVVSenVZNkpIOE9HWk5EVDNkLXg5Nl96YzBWeE9SMElnYndYMjVMbXRibl9USngwVXZsck10eEtFWlNtWXBwMTVqUEhzelIxTVJPc0ZiUFNuV0pOb2lNTVAwR20tYWfSAcgBQVVfeXFMUHdoZl93QUhCUmVNSjFJYlRJelpJaFlvT0VHTG1FQ1FHSzE1TG1SSUlKdlBPazNtLTk3OE9RYWlZWFhtUzhIbXlxVEFIOGJ4NGVvOEJtemN0LWdnWm9oR19LYlVGVGlDWFQyNi1EYTJhZzJGSzkyWm1sSGJLY3V0ZkZtQ0tfTHNpbUM3RkpuY1F0ZjcxNW1QdG9PcVVxSUIzb2R0LWJPR09ldHEzWnZTYnlOdGFPdDBNUE5Wbk1kdy1GdXpIWWpoUkU?oc=5",
+      "d": 1792377214000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
