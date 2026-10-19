@@ -8393,19 +8393,11 @@
     "threads:DerDq0ukvHZ": 1792406745799,
     "threads:DerDfjFkiMr": 1792406745799,
     "threads:DerDdG5koRj": 1792406745799,
-    "news:CBMipgFBVV95cUxNc3MxNU5zOTdhVWw0cktGb2R1MmxQaDBhTkh6RGxXTmJqdVN4UmFUSGpkT19VbzNlbTdGOXEwMTBQMnJRdzZHWjlNdWRDOUtIcGV4MDVud0V3MmYzUFNLMlBIdklxWExsVTVVT0NjV1ljeEd1TDVWN01qSzJtQnZVMGU0WVJ6RHlacnI3OFN0VkFRdW9tS1ZNR2dfeF9iNnE4clNTTkJB": 1792406745799
+    "news:CBMipgFBVV95cUxNc3MxNU5zOTdhVWw0cktGb2R1MmxQaDBhTkh6RGxXTmJqdVN4UmFUSGpkT19VbzNlbTdGOXEwMTBQMnJRdzZHWjlNdWRDOUtIcGV4MDVud0V3MmYzUFNLMlBIdklxWExsVTVVT0NjV1ljeEd1TDVWN01qSzJtQnZVMGU0WVJ6RHlacnI3OFN0VkFRdW9tS1ZNR2dfeF9iNnE4clNTTkJB": 1792406745799,
+    "threads:DcAD9zfk8P-": 1792407050013,
+    "news:CBMiswFBVV95cUxQSkVaencxTDZrd1NTb0J4cmpxTnlJZXFJRUZCdWJsWU41cUd6cmFFQkFrOFRMNzRvSlpRRmdEVTRHZ2dpY29uUk9IYU5BRFZaWDN2d1hEdjZHN1FxTlpnNXFtOE5yS1dHZ3BjeXM5YkV4eVpvdXRtZnlnSTRQTU4wSV8tVXc2b2dfSUNOcGpsUE1Tdy1LdjRYQlJsbFNaaExhYWVPRWdLV1czdnBqc2hSY3U4MNIBsgFBVV95cUxPNVBIMkRIRnJHRWIwQ2xjV0ZGVmpuMFBfay1hQ0NndEZnSlZ1M05HWG1WalRIa3dEOXhYWkx6NTFtRE5vaUdYS0RjRjA1al9qZkNWN1dDSmFSMXZLUjJmUGVhYnNGNGZVTm9PN2RJUVUxTHZVdHZ5RldmTjlfUFZDUGJOUDYzRHRmSWcyNDB1UGxHRjZReDBqaE82Ym1fX3hDQWNiNGMyZTBVVGxkWmxNQXRR": 1792407050013
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@stellar.prep",
-      "x": "Halo para kandidat yg tertarik ambil kelas saya, maaf ada sekitar 200an chat lebih yang menghubungi saya perihal kelas, Supaya jelas, malam ini pukul 20:00 saya buka Trial classs g",
-      "u": "https://www.threads.com/@stellar.prep/post/DeqwIdJlMMK",
-      "d": 1792395912000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -9895,10 +9887,20 @@
       "d": 1792406578000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "MerahPutih",
+      "x": "Bansos PKH-BPNT Dirapel 3 Bulan: KPM Terima Dana Hingga Rp 2,7 Juta Sekali Cair! - MerahPutih",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkVaencxTDZrd1NTb0J4cmpxTnlJZXFJRUZCdWJsWU41cUd6cmFFQkFrOFRMNzRvSlpRRmdEVTRHZ2dpY29uUk9IYU5BRFZaWDN2d1hEdjZHN1FxTlpnNXFtOE5yS1dHZ3BjeXM5YkV4eVpvdXRtZnlnSTRQTU4wSV8tVXc2b2dfSUNOcGpsUE1Tdy1LdjRYQlJsbFNaaExhYWVPRWdLV1czdnBqc2hSY3U4MNIBsgFBVV95cUxPNVBIMkRIRnJHRWIwQ2xjV0ZGVmpuMFBfay1hQ0NndEZnSlZ1M05HWG1WalRIa3dEOXhYWkx6NTFtRE5vaUdYS0RjRjA1al9qZkNWN1dDSmFSMXZLUjJmUGVhYnNGNGZVTm9PN2RJUVUxTHZVdHZ5RldmTjlfUFZDUGJOUDYzRHRmSWcyNDB1UGxHRjZReDBqaE82Ym1fX3hDQWNiNGMyZTBVVGxkWmxNQXRR?oc=5",
+      "d": 1792406818000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
