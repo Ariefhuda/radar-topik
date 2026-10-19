@@ -7186,19 +7186,15 @@
     "threads:DaQuXvrk5T4": 1792368342470,
     "threads:DeQTpc3EmmK": 1792368342470,
     "threads:Dep7cc1E4Io": 1792368342470,
-    "threads:DZ_mPuZkxZ4": 1792368342470
+    "threads:DZ_mPuZkxZ4": 1792368342470,
+    "threads:Dep37XHj5FX": 1792368646988,
+    "threads:Dep8M57k42f": 1792368646988,
+    "threads:Dep7MjfgSJG": 1792368646988,
+    "threads:Dep7SrloD72": 1792368646988,
+    "news:CBMic0FVX3lxTE5HMGlIZWstUk02clcxWmx2RHhrSXhFNS1zalRjTW5BYzQxc2xUbDdHRHhHY1lKTWVOLS1Seml2WF9ud2oyVk1kbXItOVh6SVEydDRBWG94STQ2WHBFLU96Mm1sX0hDQXczNFpJdk1TY3dRX1U": 1792368646988,
+    "news:CBMirgFBVV95cUxPeUZNYUxERkQ2bTI1dERJWms4X1NMZy1NaFVTV1ZfV0oxWERjek5LS3laUzdsc3I0VHBOdnJKdFo4SGpuaWFMTTVYUktJOUd6bDBwMGFKUldseWV6cWQ5dGV1RUFkcDNVbDBRR0ZhTVdfZWhIYzlZSEFXczZPcjdMbmJXWnlPUkJUcmYtbVhqQmlfUzlHdFpRaUFKRHlrT1ZTdkh2UVJoRkI5eVZrOVHSAa4BQVVfeXFMT3lGTWFMREZENm0yNXRESVprOF9TTGctTWhVU1dWX1dKMVhEY3pOS0t5WlM3bHNyNFRwTnZySnRaOEhqbmlhTE01WFJLSTlHemwwcDBhSlJXbHllenFkOXRldUVBZHAzVWwwUUdGYU1XX2VoSGM5WUhBV3M2T3I3TG5iV1p5T1JCVHJmLW1YakJpX1M5R3RaUWlBSkR5a09WU3ZIdlFSaEZCOXlWazlR": 1792368646988
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@benribrighton_property",
-      "x": "BISA JADI, INI MUTIARA YANG SEDANG KAMU CARI. Terkadang, yang kita butuhkan bukan pekerjaan baru, melainkan sudut pandang baru. Kenali Bisnis Properti Bersama Brighton SEMINAR GRAT",
-      "u": "https://www.threads.com/@benribrighton_property/post/DeoEv9Dmp6E",
-      "d": 1792306060000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -8688,10 +8684,20 @@
       "d": 1792368289000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Medialokal.co",
+      "x": "Bansos PKH dan BPNT Tahap 4 Oktober 2026 Mulai Disalurkan, Cek Status Penerima - Medialokal.co",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUZNYUxERkQ2bTI1dERJWms4X1NMZy1NaFVTV1ZfV0oxWERjek5LS3laUzdsc3I0VHBOdnJKdFo4SGpuaWFMTTVYUktJOUd6bDBwMGFKUldseWV6cWQ5dGV1RUFkcDNVbDBRR0ZhTVdfZWhIYzlZSEFXczZPcjdMbmJXWnlPUkJUcmYtbVhqQmlfUzlHdFpRaUFKRHlrT1ZTdkh2UVJoRkI5eVZrOVHSAa4BQVVfeXFMT3lGTWFMREZENm0yNXRESVprOF9TTGctTWhVU1dWX1dKMVhEY3pOS0t5WlM3bHNyNFRwTnZySnRaOEhqbmlhTE01WFJLSTlHemwwcDBhSlJXbHllenFkOXRldUVBZHAzVWwwUUdGYU1XX2VoSGM5WUhBV3M2T3I3TG5iV1p5T1JCVHJmLW1YakJpX1M5R3RaUWlBSkR5a09WU3ZIdlFSaEZCOXlWazlR?oc=5",
+      "d": 1792365661000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-16-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
