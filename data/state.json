@@ -7436,7 +7436,11 @@
     "news:CBMiZ0FVX3lxTE5uY29NXzJkeXlOYVpJT1gxSVdmTGppNzBobWg4WlV2VXRUTlZrMGRjemtlcGszN1VSQWlWYURETEFjQ05wbGdwODJjOGZ0WHhiWFpGaWs4TE00RTZ1b0VhbF9qQjlsdEU": 1792377944504,
     "news:CBMiywFBVV95cUxQR1RjZ0JIUUh2NUhCb0JOWXVDejhKZzFLTHBfSXVDZ2VWanlLZUNUcFJXbEpXQ002NTFoY2xWdFRVNXFDdzFfSnBfQ2tRLUlhcTNCdEpvVV9xckdhdV84ZjgtSlc0c0RTVUowa2pSVDJXQWJNdTNGSDc5cTZuVnVxQXROOE85R2kxZHlvdEg0MmVpY0FtZ3ZJMEs2Y0ZQMzBfcVA1b1VwRkFKNTBVbXdlMndtdERrcGUxeGh2U21PWm9UMk1heUFJNmxUWdIB0wFBVV95cUxQWFBVWURJLVVodGdWTm5FSnd1cUZPOFZzWTFoWlZOT2dfc0ktajVmck9VaTlhOWFhUU9GSnJKNHZYVUU0QzNVQXoxZDhuOEpUN0E2dVh5U05xbEkwSEo0RXp0MXpRN1I1bDNKM1N4b1NCVUtYaXk3cWJ1N0dpeWw4aUpMR214emVNdlhqZ3FRWW5WRmQtdVBsdWE0Y2EzYWVINDg3UWZFczVMUkMyMExZTFotSGplTjlpZTVnQl9GY3BJQXlacC1ERVhUWS1XY3llVjdV": 1792377944504,
     "news:CBMiakFVX3lxTE1SUWhVRWVGeW5aWTItbUNEbVR0aDBLdE1ZcUw3QlE2TU95RzlwTEhRZ1FoOE5RYXMtTlE1c1B6SWhxMzI3ZVlOSXBqRXZaekJiWndud3pWZ044Y0I2em9hejFBVHhuQm1pdHc": 1792377944504,
-    "news:CBMiuwFBVV95cUxQU2VSNDlTTFJJaUF1ZWM1VjNCUWpBRzhmSTBiVWhKZkRlSHd6a1RHMzM1UzFwbkplUkRSU2pEXzlUSkhoT1JsRHBYMjRob0VDVDZnam1KeXA0SVhxOXVGQ3d0eVJjYnduZEpaVXBSQXg2NVZqNEluRm5mNng2RzJqVE1fUVJfX2p1ZHJISTdNcElaMVhrcnQzcmYzMUFJaTJqdHZQdTBjMUp4UEZSRXZMT3RDdWxTZHhfSzVV": 1792377944504
+    "news:CBMiuwFBVV95cUxQU2VSNDlTTFJJaUF1ZWM1VjNCUWpBRzhmSTBiVWhKZkRlSHd6a1RHMzM1UzFwbkplUkRSU2pEXzlUSkhoT1JsRHBYMjRob0VDVDZnam1KeXA0SVhxOXVGQ3d0eVJjYnduZEpaVXBSQXg2NVZqNEluRm5mNng2RzJqVE1fUVJfX2p1ZHJISTdNcElaMVhrcnQzcmYzMUFJaTJqdHZQdTBjMUp4UEZSRXZMT3RDdWxTZHhfSzVV": 1792377944504,
+    "threads:DeqNtIIgdoz": 1792378248176,
+    "news:CBMickFVX3lxTE5VT0wxN0J1WmR3X2pHTDZ6VFc5LWNCTkhfd0RmSWlVMm1rMkNmOXg3X0dQbGltMGJ5M0ZTVlM0UlNRN0kxaGpJTU1ZOE94M3BSdldpaVcwYl96XzFXcTJqZEZuOXRHWnhXaWR3QjN2eGFYQQ": 1792378248176,
+    "news:CBMiU0FVX3lxTFBONjFtdlBaMW9KYnhGbHZxbTBYb3ppSVphYjgydjdHNDFXSmp4UVo3TDBPODNDVGg1NlRGWnlGS0tvNTVVbjFCbFQyakVsZjdXYldV": 1792378248176,
+    "news:CBMibkFVX3lxTE5SdkRPMWJFZkZTdXhDOUowMV9rRFZDVnlBQlZ3MERCQWNOZEhMWTEtNkRXTERETmJtV2MyRUVmTUxhcklhQTRxZV9ydGg0MWVMVFZJZGFpbk1xU1lPQ0lPTFhLcGEtektBQVVNM1ZR": 1792378248176
   },
   "digest": [
     {
@@ -8218,10 +8222,40 @@
       "d": 1792377845000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Andromeda Kembangkan Bakat Basket Muda Kabupaten Bogor - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VT0wxN0J1WmR3X2pHTDZ6VFc5LWNCTkhfd0RmSWlVMm1rMkNmOXg3X0dQbGltMGJ5M0ZTVlM0UlNRN0kxaGpJTU1ZOE94M3BSdldpaVcwYl96XzFXcTJqZEZuOXRHWnhXaWR3QjN2eGFYQQ?oc=5",
+      "d": 1792377924000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "شبكة تواصل الإخبارية",
+      "x": "Andromeda Kembangkan Pebasket Muda Bogor Terinspirasi Hornbills - شبكة تواصل الإخبارية",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBONjFtdlBaMW9KYnhGbHZxbTBYb3ppSVphYjgydjdHNDFXSmp4UVo3TDBPODNDVGg1NlRGWnlGS0tvNTVVbjFCbFQyakVsZjdXYldV?oc=5",
+      "d": 1792377775000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "Andromeda Kembangkan Bakat Basket Muda di Kabupaten Bogor - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SdkRPMWJFZkZTdXhDOUowMV9rRFZDVnlBQlZ3MERCQWNOZEhMWTEtNkRXTERETmJtV2MyRUVmTUxhcklhQTRxZV9ydGg0MWVMVFZJZGFpbk1xU1lPQ0lPTFhLcGEtektBQVVNM1ZR?oc=5",
+      "d": 1792377870000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
