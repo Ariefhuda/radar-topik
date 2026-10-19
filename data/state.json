@@ -9093,7 +9093,8 @@
     "threads:DerbCbwDKZ-": 1792443941247,
     "threads:DesLgltAcXt": 1792444241171,
     "threads:DcdX4eeDF_P": 1792444241171,
-    "threads:DQtk6ctkhCG": 1792444241171
+    "threads:DQtk6ctkhCG": 1792444241171,
+    "threads:DZgdJsOmGwc": 1792444541296
   },
   "digest": [
     {
@@ -10598,14 +10599,13 @@
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792429849937,
-    "news": 1792444241171
+    "reddit": 1792429849937
   }
 }
