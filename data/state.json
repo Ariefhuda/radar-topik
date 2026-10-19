@@ -8899,19 +8899,14 @@
     "threads:DeKFD-ZlElk": 1792426544010,
     "news:CBMirwFBVV95cUxONDdGbUtzX1FiNEdtb2J2bDBWNUxUZ0lkX3RtMElDV0lkOTB5YXJLbUhOeXlBMlJuV0xqTm5yNDBaZXJNT2hVVTJJWHJBaWxyZFRxTGFvSE9vdE5PV3V4dGRURUZMNFYtVnVtM3dfd21vRm54b3EzalFocEh0Z1JGUVozdmU2MnJkcE5BYzhPbTlhYXJOcjJpX0RjclV4TUE5ay12ZGNXYUMxY2J5Sjcw0gGvAUFVX3lxTE40N0ZtS3NfUWI0R21vYnZsMFY1TFRnSWRfdG0wSUNXSWQ5MHlhckttSE55eUEyUm5XTGpObnI0MFplck1PaFVVMklYckFpbHJkVHFMYW9IT290Tk9XdXh0ZFRFRkw0Vi1WdW0zd193bW9GbnhvcTNqUWhwSHRnUkZRWjN2ZTYycmRwTkFjOE9tOWFhck5yMmlfRGNyVXhNQTlrLXZkY1dhQzFjYnlKNzA": 1792426544010,
     "news:CBMiuwFBVV95cUxOc1R6clg3TmtBRkdWUWlkVnk3enAwWjhGT2R2ZzZpMjJ3TXFGUERNd3UyWlBsZk1Camt3clRiWFkwZWpGYVlfMWZLbmx5RVJRbXdTOFUyVW1OY2RrVl9mT243TEgzMk9rcEVUMHA3VUNlVW5RdTdvbVVyZ2Q3Z3JMYW5QSmFVaEVnQTMtRnFhVGxuRmlqazAtYnhMRFhSRlEyekduUTRuMm5NNGhJdmc1X0ZDdkRNV0tPOHhn": 1792426544010,
-    "threads:DdLU446k9q3": 1792426844557
+    "threads:DdLU446k9q3": 1792426844557,
+    "threads:DerrMJljwvj": 1792427159444,
+    "threads:DZZjjx8mCUC": 1792427159444,
+    "threads:DerrrBXDnMm": 1792427159444,
+    "threads:DerqzllIH0A": 1792427159444,
+    "news:CBMivgFBVV95cUxQRFduekNxYS1UNHV0UHluS0FpY3ZiVzItNk9BMzRhSlJVeVlBRzVLYjRndTRKQXlxY0MzcjJCM2NIckdPMGhVMDI1QU1hQXM4cnZJWWJHa2JlZFl6NGU0YmlTc0JQZEVFRGxMb1F4UF91N2lyU3UwbW5sQWNEVFZwUlpIUDRzX3dEZWpLZlZ0RnFBTjB6blE3MFBtcGFTNTh0azhSN2pMRHJtZkVQcjJxc1QydG5TZWF3WGVjdDFB0gG-AUFVX3lxTFBEV256Q3FhLVQ0dXRQeW5LQWljdmJXMi02T0EzNGFKUlV5WUFHNUtiNGd1NEpBeXFjQzNyMkIzY0hyR08waFUwMjVBTWFBczhydklZYkdrYmVkWXo0ZTRiaVNzQlBkRUVEbExvUXhQX3U3aXJTdTBtbmxBY0RUVnBSWkhQNHNfd0RlaktmVnRGcUFOMHpuUTcwUG1wYVM1OHRrOFI3akxEcm1mRVByMnFzVDJ0blNlYXdYZWN0MUE": 1792427159444
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Cek fakta: klaimnya mostly valid. - 9 menteri era Jokowi terjerat itu tercatat di media sampai akhir 2025 (Imam Nahrawi, Idrus Marham, Edhy Prabowo, Juliari, Johnny Plate, SYL, Nad",
-      "u": "https://www.threads.com/@meta.ai/post/DerR-sSDSTk",
-      "d": 1792413658000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -10401,10 +10396,20 @@
       "d": 1792379160000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Kemensos Minta KPM Bansos Lakukan Registrasi Ulang, Ini Penjelasannya - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFduekNxYS1UNHV0UHluS0FpY3ZiVzItNk9BMzRhSlJVeVlBRzVLYjRndTRKQXlxY0MzcjJCM2NIckdPMGhVMDI1QU1hQXM4cnZJWWJHa2JlZFl6NGU0YmlTc0JQZEVFRGxMb1F4UF91N2lyU3UwbW5sQWNEVFZwUlpIUDRzX3dEZWpLZlZ0RnFBTjB6blE3MFBtcGFTNTh0azhSN2pMRHJtZkVQcjJxc1QydG5TZWF3WGVjdDFB0gG-AUFVX3lxTFBEV256Q3FhLVQ0dXRQeW5LQWljdmJXMi02T0EzNGFKUlV5WUFHNUtiNGd1NEpBeXFjQzNyMkIzY0hyR08waFUwMjVBTWFBczhydklZYkdrYmVkWXo0ZTRiaVNzQlBkRUVEbExvUXhQX3U3aXJTdTBtbmxBY0RUVnBSWkhQNHNfd0RlaktmVnRGcUFOMHpuUTcwUG1wYVM1OHRrOFI3akxEcm1mRVByMnFzVDJ0blNlYXdYZWN0MUE?oc=5",
+      "d": 1792419868000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
