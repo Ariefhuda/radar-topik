@@ -7337,7 +7337,10 @@
     "threads:DeqFZNbjnf-": 1792374039724,
     "threads:DeqEa2RIylN": 1792374039724,
     "threads:DatpgedExUb": 1792374039724,
-    "threads:DeqFguOj-o9": 1792374039724
+    "threads:DeqFguOj-o9": 1792374039724,
+    "threads:DeqG5hvk249": 1792374338668,
+    "news:CBMiswFBVV95cUxORFdJWF9MVURfTzFVODAwUFoxODRnMEwzYjB1SjliMFVOVkg2cHdXYThiazhoZ2NfZnBwXzZ0YmZNUXFaakNVZm00YUF3bTAxWnJzeGE4X2NXc1FrUHZRM2I5NlBMQ3pkUlpkT1RyN1hJbGVtYmwyck5uaVFFTGlkT2hEZWhFYmVvRmV2S0VfdjdnRWo1NTFDc2NDYmR0WHVPTl9EOUpNUkxSVDBwNzd5bmZ3MNIBuAFBVV95cUxNOGJlTmtScXcwZFVodDVjck8xVDVUMmxqOWRsYzdNd3pXVk5sZXNQR09TcHhKeS1WSmctRm1lRXNyMWRKMlFfVk1GR0FGYmZMcUpxQUFOU3owaWYxS1JWbHBycXF3REd2WlBldWF6TVUzbGNoNERXUXViREJfRjBtN2NTYjRxR080REVvc1F0cUVhYkNYWEZONnJiMUs2S2hsa0hsazh0SWZJXzFvRzJNdkQ2QTIxSm5w": 1792374338668,
+    "news:CBMiogFBVV95cUxNSF8wal9vaFByT1ZRRGp6RklNT2lWVFpaMzhKZWJMZ25BZ0xXYUk5ZE94QUV3N3lyVFBFcy0tU01HMjhnQnNIcjkyT214X2tKdjdRclk0VG9JVUtCcGR5NWhCeVJTMGVGSnRmelE1a0dIZTgzcldETG9ucDcxQmFGNTBwbFRHR194Q1JZYVA0Q0pNUWJkLUpUT3lGVzUwd3JxRGc": 1792374338668
   },
   "digest": [
     {
@@ -7639,10 +7642,30 @@
       "d": 1792373567000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@desa_sugihwaras",
+      "x": "💙💛 Semoga informasi ini bermanfaat bagi seluruh masyarakat Desa Sugihwaras! Yuk, manfaatkan fitur Aplikasi Cek Bansos dengan bijak dan benar untuk mendukung kesejahteraan bersama",
+      "u": "https://www.threads.com/@desa_sugihwaras/post/DeqG5hvk249",
+      "d": 1792374294000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompas.id",
+      "x": "Kayuhan Lebih Ringan, Mencari Penumpang Tetap Berat - Kompas.id",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSF8wal9vaFByT1ZRRGp6RklNT2lWVFpaMzhKZWJMZ25BZ0xXYUk5ZE94QUV3N3lyVFBFcy0tU01HMjhnQnNIcjkyT214X2tKdjdRclk0VG9JVUtCcGR5NWhCeVJTMGVGSnRmelE1a0dIZTgzcldETG9ucDcxQmFGNTBwbFRHR194Q1JZYVA0Q0pNUWJkLUpUT3lGVzUwd3JxRGc?oc=5",
+      "d": 1792371606000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
