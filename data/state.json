@@ -7542,7 +7542,11 @@
     "threads:DeqUPL2E-AR": 1792381551349,
     "threads:DeqUEWEkx5C": 1792381551349,
     "threads:DeqT5B_Ezx6": 1792381551349,
-    "threads:DeqT0KqE2k5": 1792381551349
+    "threads:DeqT0KqE2k5": 1792381551349,
+    "threads:DaO5W9UmLso": 1792381844133,
+    "threads:DSeo62Lk9W_": 1792381844133,
+    "news:CBMivwFBVV95cUxPaXRiMW9TREtnZHh4OFVfUHVmNm1kaGpXcndlV29RUkRvMG5jYVVycWlHb2dtVHplQ0x5VXRhTXExeUtyNVJMQTlfMmhaMDAwUEFQd3JzbkNnWEpDVDNXOFB2SEF2MDFtbW1kTjhOVTRKWDZjLXZoNF9oWXduYjNmOW8tLWtOQS1Cb0NBaEptVHlFcmx1bGw4dkVrMzVaQ0ZTcDQ2Qnljakdfak1qbEd2SnI4WndQekh3Y2thLXpRWQ": 1792381844133,
+    "news:CBMi1gFBVV95cUxNRU1pRzdxQ3Bsc2JNWERVc3RNa2dDOG9TX04wYzJ4dVRmOTRETXR5Vkt3ZVp1U3Z3VTlHRGdGRUlwZkRzakZucTBZVmY5emJGaUZ0M1ZjWlhLbDVDR0xwVUNySGkxdG1KY1ZndmVoZmp3MWJLekhvVklMRDBHeHpBazU0M3VpT1VBNV9PQndzUEhVSE42T2FMb21Td0k1dmc1OUQ5M1ZXeUFQd0ppODRiMDlfWjhnc3pMS0tKU3VDdlVzaERHYkx3V0s1dzROclJlSmJDYW9n0gHbAUFVX3lxTE9oVzk4aDdERE82MkhZdVB1US1ZTmh2T0lyZlNhUlpYOTFDUTZQZ0JLUGRadHU2eks1UVphTVlDU0o3MWo4ZDFSdHpoVkJ0M1k4Vk1td1JNMmRIQU14RU0xcVNWQ0ZyWnpvdklzZ1NVSTRHQk91U2Z4TXpBTGNpWk5sN1FjdjdkdkcwVl9nQlNweU02WGlBaGt6aFA1X2hOLXNMblRhX1hTVWZNRjIzd0VjcnFmNWpIbV9fZi1QY3M4OVBWUV9BMlROYU4zRWh5Z2MwWlItWDdDaTRvZw": 1792381844133
   },
   "digest": [
     {
@@ -8944,10 +8948,20 @@
       "d": 1792381066000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Solo",
+      "x": "Bansos PKH dan BPNT Kuartal IV 2026 Segera Cair? Cukup Buka cekbansos.kemensos.go.id Lewat HP - Radar Solo",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRU1pRzdxQ3Bsc2JNWERVc3RNa2dDOG9TX04wYzJ4dVRmOTRETXR5Vkt3ZVp1U3Z3VTlHRGdGRUlwZkRzakZucTBZVmY5emJGaUZ0M1ZjWlhLbDVDR0xwVUNySGkxdG1KY1ZndmVoZmp3MWJLekhvVklMRDBHeHpBazU0M3VpT1VBNV9PQndzUEhVSE42T2FMb21Td0k1dmc1OUQ5M1ZXeUFQd0ppODRiMDlfWjhnc3pMS0tKU3VDdlVzaERHYkx3V0s1dzROclJlSmJDYW9n0gHbAUFVX3lxTE9oVzk4aDdERE82MkhZdVB1US1ZTmh2T0lyZlNhUlpYOTFDUTZQZ0JLUGRadHU2eks1UVphTVlDU0o3MWo4ZDFSdHpoVkJ0M1k4Vk1td1JNMmRIQU14RU0xcVNWQ0ZyWnpvdklzZ1NVSTRHQk91U2Z4TXpBTGNpWk5sN1FjdjdkdkcwVl9nQlNweU02WGlBaGt6aFA1X2hOLXNMblRhX1hTVWZNRjIzd0VjcnFmNWpIbV9fZi1QY3M4OVBWUV9BMlROYU4zRWh5Z2MwWlItWDdDaTRvZw?oc=5",
+      "d": 1792381477000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
