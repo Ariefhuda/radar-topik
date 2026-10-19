@@ -9045,19 +9045,13 @@
     "threads:DesAy1fmadk": 1792438860791,
     "threads:DesAXe5AS2R": 1792438860791,
     "news:CBMixAFBVV95cUxObXhuWW1jb1lvTlYtbmFuMDFFaS1iQVVNckxIWDNiVVc1OTVlUDJzNUFEdHFFNjN2TVkwVzI2cHNjdEZDMl9tYU1GZXZROVlDTEk3SnY5OFlyNlQxRUFhQllTWlpXTjJ1dlpJVGdTdzQyWDhDdG1aYmVPY1FCWklwTFp4NjZHX0hkZloxVTdLcklORkUxWjc1R2dvV21aajN6X0NGV3d6VHBLYUlENjVuTHVrNzNjZGVTc0VFbExjVlNNdU100gHEAUFVX3lxTE5teG5ZbWNvWW9OVi1uYW4wMUVpLWJBVU1yTEhYM2JVVzU5NWVQMnM1QUR0cUU2M3ZNWTBXMjZwc2N0RkMyX21hTUZldlE5WUNMSTdKdjk4WXI2VDFFQWFCWVNaWldOMnV2WklUZ1N3NDJYOEN0bVpiZU9jUUJaSXBMWng2NkdfSGRmWjFVN0tySU5GRTFaNzVHZ29XbVpqM3pfQ0ZXd3pUcEthSUQ2NW5MdWs3M2NkZVNzRUVsTGNWU011TXQ": 1792438860791,
-    "threads:Ddtf2VPmQAm": 1792439147476
+    "threads:Ddtf2VPmQAm": 1792439147476,
+    "threads:DYtED-YCW-E": 1792439446878,
+    "threads:DSU3JmGl2LD": 1792439446878,
+    "threads:DegPTReE223": 1792439446878,
+    "news:CBMiiwFBVV95cUxPWndWNEF6aG0wWDZoRExKZzB6YzQ2TzBiZE9rdU9RZ0VmWFpEd0x2dkctUjFSbVdiLW54WGdEU0NlZE9rd1R4U3dlb3ZBeHEtWDktWDBSRzdRd3pUUENCRHVLakZNWmZtUk1wM2h0emw2YVRUdUsyZWNYaWs3WXh0Q3hMdHZnSS1Gc0hj0gGLAUFVX3lxTE9ad1Y0QXpobTBYNmhETEpnMHpjNDZPMGJkT2t1T1FnRWZYWkR3THZ2Ry1SMVJtV2ItbnhYZ0RTQ2VkT2t3VHhTd2VvdkF4cS1YOS1YMFJHN1F3elRQQ0JEdUtqRk1aZm1STXAzaHR6bDZhVFR1SzJlY1hpazdZeHRDeEx0dmdJLUZzSGM": 1792439446878
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Riau24.com",
-      "x": "Wabup Bengkalis Hadiri Wisuda Mahasiswa Polbeng - Riau24.com",
-      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXNHa2xtNkcyMlA5d0VBZmt3ZE1hYnRITUFhMEdBNUNVZHZxZmFNWnpWN0dpc285WTBEdUVYT3Q1QWs2dmhiaDFuMXZuWEg3d1o4b2hOX1BOdzQ5VS1pYkdXZDkyYS1ySnNiWnZKZDdSVXc5Um9lUVE0dXgycHQ2a0dYU1dDNXduTnUxMXE0TElQNm1rbkRfbQ?oc=5",
-      "d": 1792395420000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -10547,10 +10541,20 @@
       "d": 1792433913000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Suarasulut.com",
+      "x": "Vonny Paat Sentil Dikda Beasiswa Bagi 2000 Siswa - Suarasulut.com",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWndWNEF6aG0wWDZoRExKZzB6YzQ2TzBiZE9rdU9RZ0VmWFpEd0x2dkctUjFSbVdiLW54WGdEU0NlZE9rd1R4U3dlb3ZBeHEtWDktWDBSRzdRd3pUUENCRHVLakZNWmZtUk1wM2h0emw2YVRUdUsyZWNYaWs3WXh0Q3hMdHZnSS1Gc0hj0gGLAUFVX3lxTE9ad1Y0QXpobTBYNmhETEpnMHpjNDZPMGJkT2t1T1FnRWZYWkR3THZ2Ry1SMVJtV2ItbnhYZ0RTQ2VkT2t3VHhTd2VvdkF4cS1YOS1YMFJHN1F3elRQQ0JEdUtqRk1aZm1STXAzaHR6bDZhVFR1SzJlY1hpazdZeHRDeEx0dmdJLUZzSGM?oc=5",
+      "d": 1792422016000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
