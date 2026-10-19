@@ -9026,19 +9026,11 @@
     "threads:Der9IVsiOm_": 1792436458510,
     "threads:DeLaEaKCYez": 1792436458510,
     "threads:Dend_2zE-Ps": 1792436458510,
-    "threads:Dab4xubAScx": 1792436458510
+    "threads:Dab4xubAScx": 1792436458510,
+    "threads:DeqJOYRE52B": 1792436741508,
+    "news:CBMi1gFBVV95cUxQTXBqTU5GNmh5ckEybVNoamUtdm1xcGJQSmU5T1g0dVJvVWlIQW4xMDRraE1kUnJDeDBVeGM5VzlyTURTVUtSTGtqaDJVT1pTUEVzV0FjaVU0Z1VLelZNYkZPN3I4RFZKejNrdS1BV211X2oyc3N4emRIbzkxdUxSOGNkVl81UDlCRzVSRmNKSGdZZVBWcGFSOGIxTDRqLVBsZUI2WnVQbVBCeHdlT2xKaDlkT0pLNXlHQU5GdmRwd0QxLXN1ZlI0aVdlOUhtS3pOdDJ1a0x3": 1792436741508
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mama_huma_dan_meisya",
-      "x": "Zaman sekarang emang harus punya penghasilan sendiri biar nggak gampang disepelein. Mau mulai tanpa modal besar? Aku share trik bikin konten AI dan cara punya penghasilan dari ruma",
-      "u": "https://www.threads.com/@mama_huma_dan_meisya/post/DerYe2RCUuy",
-      "d": 1792417067000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -10528,10 +10520,20 @@
       "d": 1792367100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "SURYAKABAR.com",
+      "x": "Jelang Hari Santri, Gubernur Jateng Ahmad Luthfi Salurkan Beasiswa 424 Mahasantri dan 58 Santri Penggerak - SURYAKABAR.com",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTXBqTU5GNmh5ckEybVNoamUtdm1xcGJQSmU5T1g0dVJvVWlIQW4xMDRraE1kUnJDeDBVeGM5VzlyTURTVUtSTGtqaDJVT1pTUEVzV0FjaVU0Z1VLelZNYkZPN3I4RFZKejNrdS1BV211X2oyc3N4emRIbzkxdUxSOGNkVl81UDlCRzVSRmNKSGdZZVBWcGFSOGIxTDRqLVBsZUI2WnVQbVBCeHdlT2xKaDlkT0pLNXlHQU5GdmRwd0QxLXN1ZlI0aVdlOUhtS3pOdDJ1a0x3?oc=5",
+      "d": 1792415263000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
