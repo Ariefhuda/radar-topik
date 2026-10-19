@@ -9062,19 +9062,12 @@
     "threads:DesGJpMDZiS": 1792441247176,
     "threads:DLgHmZHT54E": 1792441247176,
     "threads:DerqUjqgSSC": 1792441247176,
-    "threads:Dd1zpGOEv38": 1792441247176
+    "threads:Dd1zpGOEv38": 1792441247176,
+    "threads:DdpYYZhAKjh": 1792441540725,
+    "news:CBMi0wFBVV95cUxPa3kwaVNZZDNjQmpXNC1od19iNUNZTUhHMXVTQWxIaURtSVNnTUZ1YjMxNXMtUDQ2YkszU1hiREcxRzl5OTl4ejcweXhHbFRYdTFGWWVNZWhrTXlaM3BXcnNTOFRsQ2l6TEI4TGd6WTRrU0lvd0F6XzlBR0QtWGdjNXZzWE4tb0R6MTlaM0ViTFQydlR0ZEdSYm10LWdqa1ItcS1JVmxrckZrNDJibW1aLWZyUm9NblhZOUtMZzJjUFlZOGZhNkxMcjNITDZlTU1lRnFz0gHTAUFVX3lxTE9reTBpU1lkM2NCalc0LWh3X2I1Q1lNSEcxdVNBbEhpRG1JU2dNRnViMzE1cy1QNDZiSzNTWGJERzFHOXk5OXh6NzB5eEdsVFh1MUZZZU1laGtNeVozcFdyc1M4VGxDaXpMQjhMZ3pZNGtTSW93QXpfOUFHRC1YZ2M1dnNYTi1vRHoxOVozRWJMVDJ2VHRkR1JibXQtZ2prUi1xLUlWbGtyRms0MmJtbVotZnJSb01uWFk5S0xnMmNQWVk4ZmE2TExyM0hMNmVNTWVGcXM": 1792441540725,
+    "news:CBMiZkFVX3lxTFBDNkQySmZvR3gzNVFlaTVJYXpQM3Zzb3UxczZrVjZTaDVmdW1tYnNOaUxLUHdGOGNwRWNvZmNVV1FnVUxqRDBNajByQlVGX1ZJNW9tZVFENnhKTGdEZ05xVE9jQzhmQQ": 1792441540725
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kaltim Post",
-      "x": "Jadwal Pencairan Bansos Tahap 4 2026 & Digitalisasi 2027 - Kaltim Post",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVF3M1RhbDFzUFh0aEUyZE0tbDI0T3Jsb0NFY1J0N2YtcFg3TkNpVVhEb3hmVXZIZ2ZQTHhLY3NQQ0xMTDktOW1STFdxMk9IQzBnWkRkWDRaYWtJQ3ZDMExkaFlSWEtyVXV6YVR2WnFsZEhNVGV5bDZCSWpXRGhmdmxMaUFnWDhoZkxpMWpUMWhVa0VMdmlNeXA1eVdGN09US3YtR0p0SHDSAa4BQVVfeXFMUFN0aDJSb1ZrUkZQcDZjeUlaejBGSHhRYVhfOUk2U1BleDVkTS11TWp2VHlkeVBNXzl4OFBiUFItNEtzRzFCVmU3S0lMWkpVZXl1aTJoOGFETWdHY3N3TTZ0YV9EX0NJZ0tDQUJYZE1kM1FsV3NlNktRSENmbWtwMkpGbEd5RXBsNTNTUXVMYTJ6bzQ1c3BSdWQzUmFxZnZ6a20wc0R2Sk9mUkczSFFR?oc=5",
-      "d": 1792405361000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -10564,10 +10557,20 @@
       "d": 1792426420000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "CentralBatam",
+      "x": "Mahasiswa UI dan IPB Hadapi Biaya Kos dan Makan Berbeda - CentralBatam",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDNkQySmZvR3gzNVFlaTVJYXpQM3Zzb3UxczZrVjZTaDVmdW1tYnNOaUxLUHdGOGNwRWNvZmNVV1FnVUxqRDBNajByQlVGX1ZJNW9tZVFENnhKTGdEZ05xVE9jQzhmQQ?oc=5",
+      "d": 1792413607000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
