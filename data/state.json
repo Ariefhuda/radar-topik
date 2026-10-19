@@ -8983,29 +8983,13 @@
     "threads:Der1XhZHxFL": 1792432250164,
     "threads:Der1OVVHwxp": 1792432250164,
     "threads:Der0UNQn5BZ": 1792432250164,
-    "threads:DerzLP2H7Fn": 1792432250164
+    "threads:DerzLP2H7Fn": 1792432250164,
+    "threads:Der02D7AbPK": 1792432541063,
+    "threads:DelnEBxlMa9": 1792432541063,
+    "news:CBMiYEFVX3lxTE9wMU15NWlzRVdTWndCR0E5YnItX1RqdXVkNmlJUlBTVlVzTHg2SWdtSUdTblVvYkJ1VkxyaENZV3VaTTNYV00wSnh2RWVlb2FJa1BOd2VMQmZDd0Z3Q3hJTA": 1792432541063,
+    "news:CBMi1AFBVV95cUxNeDdVTnVjaVdqamtVTDRCODYtVE5Ba2hveHNydDFraVp1VXdwdnpVVnh4YjhyTFBvOHlNRExidnFlNXFxcVpCSDNqeWpDZ3Ffazl6czE2X0NuT0pPd2pxRmpoUjM5WTJzZHN2ZjRBa0gyNTE3V01YWFMzZVo3aVFGMUc0cDlQUXZDNDRYbTFlQkxQTmxxWEJ6S3R2ek9VeGZzTm9uQUZ3TFJPbk0tTEhySkdRU1BOZzl0NlVRN1lodGY0WE9LNVViRWlIdDlTMXFGQnJPbg": 1792432541063
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@crush_limes",
-      "x": "ga kak,percaya deh tuh pihak swasta ga berani macem2 main anggaran.dia cuma salah perhitungan saja(tempat dan kapasitas peserta).bukan pihak kedua,tp memamg ada program gratis dri ",
-      "u": "https://www.threads.com/@crush_limes/post/DerWfVeCaSM",
-      "d": 1792416023000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mama_huma_dan_meisya",
-      "x": "Rina selalu direndahkan mertuanya cuma karena nggak punya penghasilan sendiri. Selalu dibandingin sama Vanessa yang katanya mandiri dan serba bisa. Tapi pas hari H acara, katering ",
-      "u": "https://www.threads.com/@mama_huma_dan_meisya/post/DerXTckCP4e",
-      "d": 1792416455000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -10485,10 +10469,30 @@
       "d": 1792431063000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Lensa Hukum",
+      "x": "BGN Tutup Sementara 1.276 SPPG dalam Program MBG - Lensa Hukum",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMU15NWlzRVdTWndCR0E5YnItX1RqdXVkNmlJUlBTVlVzTHg2SWdtSUdTblVvYkJ1VkxyaENZV3VaTTNYV00wSnh2RWVlb2FJa1BOd2VMQmZDd0Z3Q3hJTA?oc=5",
+      "d": 1792432140000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Beasiswa Cilegon Juare 2026 Diperluas, Siswa SMA hingga MA Berkesempatan Kuliah Gratis - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDdVTnVjaVdqamtVTDRCODYtVE5Ba2hveHNydDFraVp1VXdwdnpVVnh4YjhyTFBvOHlNRExidnFlNXFxcVpCSDNqeWpDZ3Ffazl6czE2X0NuT0pPd2pxRmpoUjM5WTJzZHN2ZjRBa0gyNTE3V01YWFMzZVo3aVFGMUc0cDlQUXZDNDRYbTFlQkxQTmxxWEJ6S3R2ek9VeGZzTm9uQUZ3TFJPbk0tTEhySkdRU1BOZzl0NlVRN1lodGY0WE9LNVViRWlIdDlTMXFGQnJPbg?oc=5",
+      "d": 1792432649000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
