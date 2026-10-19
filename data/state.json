@@ -9058,19 +9058,13 @@
     "threads:DesEmfzFu06": 1792440342566,
     "threads:DesD-NbCC0_": 1792440342566,
     "threads:DeVYgIcEwVy": 1792440944123,
-    "threads:Derne2ZEYFg": 1792440944123
+    "threads:Derne2ZEYFg": 1792440944123,
+    "threads:DesGJpMDZiS": 1792441247176,
+    "threads:DLgHmZHT54E": 1792441247176,
+    "threads:DerqUjqgSSC": 1792441247176,
+    "threads:Dd1zpGOEv38": 1792441247176
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "iNews.ID",
-      "x": "Jelang Penerapan Wajib Halal, LPPOM Bantu Pengusaha Urus Sertifikasi - iNews.ID",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmM2Z1piMjVBQnFKZHk0YVl2R1hJcDRqU1R2el90aWhLaVljTmgwMk80M2FzVjVVY1dxQ0JSeGxxMGRJVEhfWjk3amdvbU1sTEtNYW9TSlNPLV9BamdWbkJuXzNRX0E1WVNyS1RqdG55dDFVQmxHcV9vcWRZbDF3Z0dVZ0FnWVRmSFpHWmhVZGRJdmQ2ejRFdnlKbjVWbzlOYlFOQXBxVdIBqgFBVV95cUxQTE5hYl8zMkJSNWJvWkdJVlMwZllEOHI4emVDUy1YNFd1X2dNZDFpd1EwTTRQNk0wSUJoY3ZIQVpFM21fRVRyQTNITzRQNmdZaGxJc1kzTnFWU3NFUnZCR0x3djNvSXhDeVNzLW9pUkRfa2dUWmNIQXJ2WDlfdkVSWW1qVlBFb3lSQUw2c1pkNndKUy1EaXg1Y3dTb2hWVm1XS2lJS3Uxc1dxUQ?oc=5",
-      "d": 1792408020000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -10560,10 +10554,20 @@
       "d": 1792422016000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cendekiaedu.unsika",
+      "x": "🎉 TRIAL CLASS JARIMATIKA GRATIS! 🧮💚 Yuk, ajak si kecil belajar berhitung lebih cepat, seru, dan percaya diri tanpa kalkulator! ✋✨ 📅 Minggu, 25 Oktober 2026 ⏰ 09.00 WIB – selesa",
+      "u": "https://www.threads.com/@cendekiaedu.unsika/post/DerqUjqgSSC",
+      "d": 1792426420000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
