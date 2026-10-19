@@ -9194,19 +9194,11 @@
     "threads:DesawNrk40s": 1792452050560,
     "threads:DesZtc9gZn7": 1792452050560,
     "threads:DenvUm2kY3o": 1792452050560,
-    "news:CBMimwFBVV95cUxOSFFuUHpXTEF4ZE1xa3BIaWdyN0htTjBxeERGYnU2N1BROGRrREZzZmN6MDBfX2d5UF9oaVJhQ1RiQTk2NGVGVXR4NmxUMWo2U0R3aW9zMEctcGdhei1DbGgxSFh0MUxxT2Jsb2NLc3pyd0pTUXVOWi1JcVFaM0pPZlo2eTFXOVJyYUs4YWxBNTB3TEhUc1hIc2pEWQ": 1792452050560
+    "news:CBMimwFBVV95cUxOSFFuUHpXTEF4ZE1xa3BIaWdyN0htTjBxeERGYnU2N1BROGRrREZzZmN6MDBfX2d5UF9oaVJhQ1RiQTk2NGVGVXR4NmxUMWo2U0R3aW9zMEctcGdhei1DbGgxSFh0MUxxT2Jsb2NLc3pyd0pTUXVOWi1JcVFaM0pPZlo2eTFXOVJyYUs4YWxBNTB3TEhUc1hIc2pEWQ": 1792452050560,
+    "threads:DesbjzmkgmO": 1792452335300,
+    "threads:DIN7_GABhye": 1792452335300
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Editor.id",
-      "x": "Usul Bansos Keluarga Pelaku Tawuran Disetop, Ini Alasannya - Editor.id",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMV9vZzFRVjVPLWl0LXBKSk5weFFmd3lST0o3T1cxTDk5T2NCTVRWZnpUTDdyZ3NoeEVPY0YybTJnR195VDhwS1V6MThLVmJldF85U2d0Y1RBMFQ5VEU1a1JpUnZkVVA5YWY0cGZaLVdmaVUwcWNQaEJCODB3NlZVd1RB?oc=5",
-      "d": 1792415095000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -10696,10 +10688,20 @@
       "d": 1792451929000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@lovealwaysmore_",
+      "x": "BOHONG.. baru kmrn Cek di web Dikdasmen ga ada .. itu akal akalan sekolah biar ga dpt 2 bansos 1 anak.. si sekolah anakku swasta aj boleh kok , selama desil 1-3 ttp diajuin maupun ",
+      "u": "https://www.threads.com/@lovealwaysmore_/post/DesbjzmkgmO",
+      "d": 1792452235000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
