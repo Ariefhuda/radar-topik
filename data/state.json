@@ -9075,19 +9075,11 @@
     "threads:DeLGag7k4A2": 1792442140357,
     "threads:DZkb6nyic0G": 1792442140357,
     "threads:DTSLHvokwZh": 1792442140357,
-    "threads:DesHt7XEuXu": 1792442140357
+    "threads:DesHt7XEuXu": 1792442140357,
+    "threads:DdMPmMek6LZ": 1792442445802,
+    "news:CBMiugFBVV95cUxNSkMwamFCUlA5R2x0aGhkTjNaRnVMZXlZMlhVdFU1cmhXT0xuSHdtY2NQQmtwenlUTVlPamhkZ25xSlhXTE1wejNlR216cVNPYjUwX1J0bjdtX05sY2MwWDdBZVdYVkx0R3dOaWdCQmhWc0g4MG5mSktaX0xuRkpTX2pCenBCNU16RVhoUjJrRUZ1bmZBNmlqWEgySzROMGZBWVFBVjFSOF9RcE5XV2poX1lKRTREZXBoMlHSAbQBQVVfeXFMT0p6UXNMWW9fUGhWOW1hclI0czFXSlpONmEzUXhxUjVqeEM4clF4aGhwUm1Mc2ZrQ3hkWEk1bUN1bXJRUHhxaVpObDY1TnJaamZoaHZaY3N3YlYza2FrQ1RrRmlEWE52YzctRmJHS3pFQnkyNFV1VF9ackV2QlI5SGg5V0xIdDBhbE55aGpjSlZTRjNJU19HUEJFVTdmMm5USmtlTVpOVjJoQ3lKclNyTXNkZUdj": 1792442445802
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "ChatNews.id",
-      "x": "Bursa Sediakan Les Renang Gratis bagi 12.800 Siswa SD - ChatNews.id",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YeHRudmxwWFg5TkJGbHJyTFBLTVNpd29Lb1BGWGZPLTN6dEFWbnByOEVBZ3JRVk5tbkJqazF2Wl92eUg2T0d3OWplMDFWNmVHcjRsUXQ2LWVGa01fLWc?oc=5",
-      "d": 1792408772000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -10577,10 +10569,20 @@
       "d": 1792441832000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "semaraknews.co.id",
+      "x": "Beasiswa BIB 2026 Resmi Dibuka: Kuliah Gratis S1–S3 ke Dalam dan Luar Negeri!! - semaraknews.co.id - semaraknews.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkMwamFCUlA5R2x0aGhkTjNaRnVMZXlZMlhVdFU1cmhXT0xuSHdtY2NQQmtwenlUTVlPamhkZ25xSlhXTE1wejNlR216cVNPYjUwX1J0bjdtX05sY2MwWDdBZVdYVkx0R3dOaWdCQmhWc0g4MG5mSktaX0xuRkpTX2pCenBCNU16RVhoUjJrRUZ1bmZBNmlqWEgySzROMGZBWVFBVjFSOF9RcE5XV2poX1lKRTREZXBoMlHSAbQBQVVfeXFMT0p6UXNMWW9fUGhWOW1hclI0czFXSlpONmEzUXhxUjVqeEM4clF4aGhwUm1Mc2ZrQ3hkWEk1bUN1bXJRUHhxaVpObDY1TnJaamZoaHZaY3N3YlYza2FrQ1RrRmlEWE52YzctRmJHS3pFQnkyNFV1VF9ackV2QlI5SGg5V0xIdDBhbE55aGpjSlZTRjNJU19HUEJFVTdmMm5USmtlTVpOVjJoQ3lKclNyTXNkZUdj?oc=5",
+      "d": 1792419925000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
