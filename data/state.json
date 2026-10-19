@@ -7446,7 +7446,13 @@
     "threads:DeqNPjVkhM4": 1792378542849,
     "threads:DTueKwLAV2G": 1792378542849,
     "threads:DeqOHyHGoJY": 1792378542849,
-    "news:CBMiswFBVV95cUxNdFBQemFaV1JiRmNNR1NSWE9VbE5DWGxMZEJLUXYzYkpCaGYtVHFLXzVoM3lqSFFFVUhmbVFnY2JhSGNILWF3NlQtZ0tOMGc0TmJnYWN5dnp5MW4wQVZuWUpoa0RlUl9XWUNvNXZfdjlFS3V5WUxTbEcwNDVIY0VvT3dwZGpuN3FMSjU4c21YUlVud0dnV2pKWkdhTlFfOC12TTNSWG45cFNqRjhwZ3MwdTVva9IBuAFBVV95cUxNOVBEMWdrNDFhMkFPZEl5Q2pnMEQxVWpqQjY2STZOdkRGYWN2N1VSNVZyN1d2TDZlNHNVSFJXUWtmeG9lLXpYUkJLZmFvZ3MxbHlobkh0aXRGTDRudTI4NWgzZkFPT2RjMHhOX1A2aUhFaU1CTW9IMEl4RWU3VFJiWUpyWmtHREJZTnZYRHFpcDh0RzFHRW9RWmpaTWw0SWhWZnFzUmdKV1c5Wm5pOHNzRURxRDU3OG16": 1792378542849
+    "news:CBMiswFBVV95cUxNdFBQemFaV1JiRmNNR1NSWE9VbE5DWGxMZEJLUXYzYkpCaGYtVHFLXzVoM3lqSFFFVUhmbVFnY2JhSGNILWF3NlQtZ0tOMGc0TmJnYWN5dnp5MW4wQVZuWUpoa0RlUl9XWUNvNXZfdjlFS3V5WUxTbEcwNDVIY0VvT3dwZGpuN3FMSjU4c21YUlVud0dnV2pKWkdhTlFfOC12TTNSWG45cFNqRjhwZ3MwdTVva9IBuAFBVV95cUxNOVBEMWdrNDFhMkFPZEl5Q2pnMEQxVWpqQjY2STZOdkRGYWN2N1VSNVZyN1d2TDZlNHNVSFJXUWtmeG9lLXpYUkJLZmFvZ3MxbHlobkh0aXRGTDRudTI4NWgzZkFPT2RjMHhOX1A2aUhFaU1CTW9IMEl4RWU3VFJiWUpyWmtHREJZTnZYRHFpcDh0RzFHRW9RWmpaTWw0SWhWZnFzUmdKV1c5Wm5pOHNzRURxRDU3OG16": 1792378542849,
+    "threads:DeqPq_HEwKd": 1792378856465,
+    "threads:DeqOt0cCJJ5": 1792378856465,
+    "threads:DcG4U1cifVP": 1792378856465,
+    "threads:DcHmR6bkwj3": 1792378856465,
+    "news:CBMizAFBVV95cUxPQnBnWWt5S1B5N2NkZndyeVBPT1d2RTUtcEhFdDZubzZtNS1HUGh5amNHeDRQZUtaUXoxSjJKX3dMUUs1bTd4MnVkTl81LVZhVVpDVjR2S1UtLVFZWnRoalBKc294SlhaV2JXSzRmdDZmZ2owWVNBOTdBQUFuWVc4V0IxRU14S2gyczAyU0h2WTZnRUd2TkV3dkYtWkxvam1FNWI1Rm9uQWg1OHBDeEpGNGVtQU5hdzM5M2tHdVNORGJGNXF2MGdOQlBfaE0": 1792378856465,
+    "news:CBMilwFBVV95cUxPYTNPdDhDTGhIV2pYaWFaS1pDZGJmZ3lnemh2anNDZHBCSHRVVllvbmZpdHk5Z0I0LVdmd2NfZmhoaGxucHZwN1YtTGVDS3BqcS1RVHJUdUhEaFFlWU1QSFRBSFN0NUh3YVpVeEhlclc2ZVRpS1VKMWFqcXUyS3BzMlBtWUk1M0loTUh0cGxrZ0JJZG1SMkUw": 1792378856465
   },
   "digest": [
     {
@@ -8278,10 +8284,50 @@
       "d": 1792377669000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@zhonggo_education",
+      "x": "Detail Program: 🏫 Kampus: Chongqing Normal University 📚 Program: Long Term Chinese Learning Scholarship (1 Tahun) 🗓️ Intake: Maret 2027 🚨 Pendaftaran Terakhir: 10 Desember 2026",
+      "u": "https://www.threads.com/@zhonggo_education/post/DeqPq_HEwKd",
+      "d": 1792378894000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@tv.serbainfo",
+      "x": "Era baru penyaluran bantuan sosial secara digital! Pemerintah berencana membagikan HP gratis dan membuka rekening digital agar masyarakat penerima bantuan sosial bisa menerima penc",
+      "u": "https://www.threads.com/@tv.serbainfo/post/DeqOt0cCJJ5",
+      "d": 1792378450000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "JPNN.com",
+      "x": "Kukuhkan Kepengurusan, Baja Jalin Kerja Sama Beasiswa Pendidikan dan Kursus Bahasa Inggris - JPNN.com",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnBnWWt5S1B5N2NkZndyeVBPT1d2RTUtcEhFdDZubzZtNS1HUGh5amNHeDRQZUtaUXoxSjJKX3dMUUs1bTd4MnVkTl81LVZhVVpDVjR2S1UtLVFZWnRoalBKc294SlhaV2JXSzRmdDZmZ2owWVNBOTdBQUFuWVc4V0IxRU14S2gyczAyU0h2WTZnRUd2TkV3dkYtWkxvam1FNWI1Rm9uQWg1OHBDeEpGNGVtQU5hdzM5M2tHdVNORGJGNXF2MGdOQlBfaE0?oc=5",
+      "d": 1792378800000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Joglo News",
+      "x": "Miliki Lebih Dari Satu Sertifikat? Bansos Terancam Tak Cair - Joglo News",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTNPdDhDTGhIV2pYaWFaS1pDZGJmZ3lnemh2anNDZHBCSHRVVllvbmZpdHk5Z0I0LVdmd2NfZmhoaGxucHZwN1YtTGVDS3BqcS1RVHJUdUhEaFFlWU1QSFRBSFN0NUh3YVpVeEhlclc2ZVRpS1VKMWFqcXUyS3BzMlBtWUk1M0loTUh0cGxrZ0JJZG1SMkUw?oc=5",
+      "d": 1792378857000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
