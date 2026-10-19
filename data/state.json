@@ -8531,7 +8531,11 @@
     "threads:DerOMGRmmsV": 1792411851951,
     "news:CBMikwFBVV95cUxOOTQwWjJFSEEtQXNxWFpZWUVDR2ZEOU5NcWtzVjV6WEJ1aGg1RldrT3ZPV0x1Y202UmFqUndxckVjcHZ4V0ppTWVGY1N4V1pGczNjcXRzR0VtdFB5SFhaMlBCazBRMk0wQnM3bkZ0UUVSS0xlUlVBZlJfMUFuOG1JdE5pT21Ha1FPWG1LUEFLUjhacFU": 1792411851951,
     "news:CBMia0FVX3lxTFBvSW9sS1FySklvMUhsMEpYVFYtRDFmUVJucDlWUUgwZXZFWmgxNG9jbUsxRDFjWWlRTWw5alpFbXhJOFRVdFd4eUMwbEMxNmx2dUtBZkw0N0hIM01aRU9JeGd5Q2VMczBHalN3": 1792411851951,
-    "news:CBMimAFBVV95cUxQRUVvaDE2eXlpa1VqVUtkTnNQcXhvZTBIbVJmdUplZGxreHVuZEZ3RF9NTE9iTzdnbWJlN05NUFhaajI2OHlxbkppUE5jcmRqUWxRcnp1eVNWWDhfMGlJSjRRamRIZ2Fzc2tWQjBmTGhwc24zbUx2VUQzX0JZTTNkY1RpWGw1QXpqSmd6ekRYV0NBaUxtOGk3Mw": 1792411851951
+    "news:CBMimAFBVV95cUxQRUVvaDE2eXlpa1VqVUtkTnNQcXhvZTBIbVJmdUplZGxreHVuZEZ3RF9NTE9iTzdnbWJlN05NUFhaajI2OHlxbkppUE5jcmRqUWxRcnp1eVNWWDhfMGlJSjRRamRIZ2Fzc2tWQjBmTGhwc24zbUx2VUQzX0JZTTNkY1RpWGw1QXpqSmd6ekRYV0NBaUxtOGk3Mw": 1792411851951,
+    "threads:DerOV45Es_D": 1792412140235,
+    "threads:Dd1Q33Zgcd7": 1792412140235,
+    "threads:DerNLA7gRML": 1792412140235,
+    "threads:DbK1HyNgb2g": 1792412140235
   },
   "digest": [
     {
@@ -8593,10 +8597,30 @@
       "d": 1792411924000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@ihsanbiantoro",
+      "x": "Mentoring untuk persiapan beasiswa dan studi ini 100% TIDAK DIPUNGUT BIAYA alias GRATIS, sehingga slot nya pun terbatas di tengah-tengah pekerjaan dan persiapan kontribusi. Maksimu",
+      "u": "https://www.threads.com/@ihsanbiantoro/post/DerOV45Es_D",
+      "d": 1792411751000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@oneapi.id",
+      "x": "Bansos Domain ai.id Gratis. Aku udah claim hehe 😁 Cek komen untuk tutorial. Jangan lupa lg ada promo topup 50% bonus di oneapi.id",
+      "u": "https://www.threads.com/@oneapi.id/post/DerNLA7gRML",
+      "d": 1792411138000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-19-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
