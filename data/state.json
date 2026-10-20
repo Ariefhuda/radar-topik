@@ -9544,7 +9544,11 @@
     "threads:DdixlVzCddI": 1792466445383,
     "threads:Des1quKExS5": 1792466445383,
     "threads:DcBwFQiCW8Z": 1792466445383,
-    "news:CBMiU0FVX3lxTE11RHh2UllrbFhDVkwwb3RMRTR5ZjZuV1FjVy1sWnJPM3Q1RkJpYkROMTkxYllwaWg2dlktVTBrXzNMaGM5dWRDUDZhLUgwU0FoYzYw": 1792466445383
+    "news:CBMiU0FVX3lxTE11RHh2UllrbFhDVkwwb3RMRTR5ZjZuV1FjVy1sWnJPM3Q1RkJpYkROMTkxYllwaWg2dlktVTBrXzNMaGM5dWRDUDZhLUgwU0FoYzYw": 1792466445383,
+    "threads:Des2cZSEuqs": 1792466733530,
+    "news:CBMivwFBVV95cUxQYmY5dmVFb1JYMEItMmVHTklFWHg1X0Y5cmJTdU9yUWZhZDhYUzg0d2QxRHE2VUVMY3ZUS3cwckdrLUxQakRVTTdPSlVUaVdMRU9yU1FiaktMQXBpRlhDejIweXMyQzlPbnZVRDdXN19sS3pHdjJ3TjVRRXdBbmtxWXM4ZjRmVGN6TkdWU28zNDJWak5vRXBoNFlEbklsM25NMmZNOGE3UFRyanRjX3VlRFVubE1QVmVTSXNWTjFzbw": 1792466733530,
+    "news:CBMiowFBVV95cUxQdWdLSTRuc2VtT0VJM2R6UC02RE51amE3djRnRHNRQVlUaHlEX0N2NnQ4aDgtMGxXbXZ4U2U4NWkzWFh1ZnJWV282S25PUzdQNkF1cEtNYkZjbnV3eGJ2c0VBMEFLdUQ3Uk8xLTh4U1FtZkJRbTdnWC1HWElteEJyTFNsOE5jMXI1MTdIV1ZrdlA4cUtoa0VsSVBMWTJTMmU0Ny1v": 1792466733530,
+    "news:CBMitwFBVV95cUxPZTBnZ2pqMHU5TUpycGFCbUxTWHQ2b3ktYzZJdklmM1ZlTjhsY2VuZW1GZi01VF9LYmotOVdxNlRrSlFPYmhYT0Foak9xeF9jWjFXTXNBNFlOUURMM3VpUEI5ZXpNbW5LN3E0RDhQeFZHYXd5QUk2RGJfUFl6V0F3Mjd0MWZUekFXZ1N1Y28zT2VqamloYzNFRlZLNjdxOFVUMkFQZ3RMVDhqX21KakNkTlB3VDdXUzjSAbwBQVVfeXFMUDRKYVJrSHFEbk9uZVphejhySmlPQmlxQUU1UFM3X0Q0U3E5N0tudTJHV0YtT2JUZDl1Zk9vcEhIblNLQW5rU1hJaWZxNjJ1ekRrVDlOajZ6ejc0Vnl6bmN0VTZSdTB6WHE1VnVqNXdnOUd1VTB0QzltRkpncXlUekpiWFZjclRwaUd4Zk1oYXZRSlY1b3IzR0RJNzNEZ2pzVnlxblUtb0tzR3BaSmREbl9TM2ttY2pTMkFUcnc": 1792466733530
   },
   "digest": [
     {
@@ -10666,10 +10670,40 @@
       "d": 1792466034000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Sawit Indonesia",
+      "x": "Latih Petani Swadaya Berau hingga Batch 109, Triputra Agro Persada Libatkan 40% Peserta Perempuan - Sawit Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYmY5dmVFb1JYMEItMmVHTklFWHg1X0Y5cmJTdU9yUWZhZDhYUzg0d2QxRHE2VUVMY3ZUS3cwckdrLUxQakRVTTdPSlVUaVdMRU9yU1FiaktMQXBpRlhDejIweXMyQzlPbnZVRDdXN19sS3pHdjJ3TjVRRXdBbmtxWXM4ZjRmVGN6TkdWU28zNDJWak5vRXBoNFlEbklsM25NMmZNOGE3UFRyanRjX3VlRFVubE1QVmVTSXNWTjFzbw?oc=5",
+      "d": 1792466709000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Cara Cek Penerima PKH-BPNT Tahap 4 2026, Kapan Cair? - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWdLSTRuc2VtT0VJM2R6UC02RE51amE3djRnRHNRQVlUaHlEX0N2NnQ4aDgtMGxXbXZ4U2U4NWkzWFh1ZnJWV282S25PUzdQNkF1cEtNYkZjbnV3eGJ2c0VBMEFLdUQ3Uk8xLTh4U1FtZkJRbTdnWC1HWElteEJyTFNsOE5jMXI1MTdIV1ZrdlA4cUtoa0VsSVBMWTJTMmU0Ny1v?oc=5",
+      "d": 1792465500000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Update Bansos Terbaru Oktober, PKH BPNT Susulan Cair di 5 Daerah Ini - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTBnZ2pqMHU5TUpycGFCbUxTWHQ2b3ktYzZJdklmM1ZlTjhsY2VuZW1GZi01VF9LYmotOVdxNlRrSlFPYmhYT0Foak9xeF9jWjFXTXNBNFlOUURMM3VpUEI5ZXpNbW5LN3E0RDhQeFZHYXd5QUk2RGJfUFl6V0F3Mjd0MWZUekFXZ1N1Y28zT2VqamloYzNFRlZLNjdxOFVUMkFQZ3RMVDhqX21KakNkTlB3VDdXUzjSAbwBQVVfeXFMUDRKYVJrSHFEbk9uZVphejhySmlPQmlxQUU1UFM3X0Q0U3E5N0tudTJHV0YtT2JUZDl1Zk9vcEhIblNLQW5rU1hJaWZxNjJ1ekRrVDlOajZ6ejc0Vnl6bmN0VTZSdTB6WHE1VnVqNXdnOUd1VTB0QzltRkpncXlUekpiWFZjclRwaUd4Zk1oYXZRSlY1b3IzR0RJNzNEZ2pzVnlxblUtb0tzR3BaSmREbl9TM2ttY2pTMkFUcnc?oc=5",
+      "d": 1792459101000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
