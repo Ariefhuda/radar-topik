@@ -10868,19 +10868,11 @@
     "news:CBMiwAFBVV95cUxPRG80c09oRGlaZmc2NURpem1FV0JTTEQwVlRsOExZVjhQV0tmai1RRW9kRFVFUi1yN1pPVjZhTzVFcktaWDhzX2JKR1ZOSmJJVW5KZnpTOGltWVF1Z2hXRE1UQlBhSTJsWUQ5Zk5GUWdrU01ob25mc1JsemZsOFZJc3NNLVdFNDY0M09vTGFPSXJETEUxNjM4clFQTXpsSXB0NzN2QVN2NFV2WnN1U05xdE5WSzhVdGN4VERNWTFzZTDSAcABQVVfeXFMT0RvNHNPaERpWmZnNjVEaXptRVdCU0xEMFZUbDhMWVY4UFdLZmotUUVvZERVRVItcjdaT1Y2YU81RXJLWlg4c19iSkdWTkpiSVVuSmZ6UzhpbVlRdWdoV0RNVEJQYUkybFlEOWZORlFna1NNaG9uZnNSbHpmbDhWSXNzTS1XRTQ2NDNPb0xhT0lyRExFMTYzOHJRUE16bElwdDczdkFTdjRVdlpzdVNOcXROVks4VXRjeFRETVkxc2Uw": 1792510251100,
     "threads:DeuKTrcIwOq": 1792510539774,
     "threads:DeuJ46EIwc3": 1792510539774,
-    "threads:DeuJmmFH7nl": 1792510539774
+    "threads:DeuJmmFH7nl": 1792510539774,
+    "threads:DeuLQIfkrtH": 1792510844346,
+    "news:CBMic0FVX3lxTE1mY2YxMlFONks2dnBRVUdGWmo4UWlIVFpTNVYydXJPR1dEUDAyN1hGLUR2ZFBBUDgzUXYtRDB4NFQtOTlKNkpISXlLS2EwTkh5dXdxYVU3RW1vR0NZdm4wTE9FbzlTMWtsTEVoOGNIRzFoYWM": 1792510844346
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Media Priangan",
-      "x": "Wajib Halal Diperpanjang hingga 2028, UMKM, Kosmetik hingga Obat Punya Tenggat Berbeda, Ini Jadwal Lengkapnya - Media Priangan - Media Priangan",
-      "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNzB0d1FkTWM1ZGtoQURvUWZTODhQbF9yNEtDSTd0ZVNnMVhhNWRtejc4Vk9UU1JublVKRmlYUlhPZ2t0ZWkyb2dRajExLWs3VzZDbFFMMHZvbVRrWmxKS0ZNeUlYWWpxdlZha3RvQlo4YVl0SmItWVZ6QzN4NVE3YjQxSS1jeWIzNE5OejRBT2MxRGJ3aHZVWUFHWUpBbHBDNGFlSWpRRDVKVHp2aHZjZkdxTDMybkJvb0x2MDQyNlNwcFhCdGc3bHIyUVNBNU9qbU5Yam5MNXJkU3NLLVFyUjlkUjN0Y3A0R3VjcTRB0gHzAUFVX3lxTE0zWWhic3lqcDhFOGszcjhzXzU0MFZRWW5aMEl3Y1JxRTYzRWRZZnJwSVNzbUhEUTJ3WU1nOVZoQUExZ1hPcTNPWUtLQ1lPbmJ1c3dIaWRsTXNDcTBSMHdxVW9JRkVsVEZNM0QwbG9jV21kS1g5aXZOSWN6WnlfNGFOZ1RFdlhIMnN2QUxtSHUtbl9rRFF6MFl0OFRuNFUyblEzaDBKdndLb3hmRlFBUkFSVlQ5aHNWeDhueGFRaGl5Nkg0NFI4b0RWLWVCWktHM0VicjNUSjZZbV85X3VvZWhiempzbjdlOWVaaHNSYWxvczdHWQ?oc=5",
-      "d": 1792484727000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -12370,10 +12362,20 @@
       "d": 1792509930000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "www.suaralandak.co.id",
+      "x": "Pemerintah Fasilitasi Sertifikasi Halal Gratis bagi 150 UMKM Jabar - www.suaralandak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mY2YxMlFONks2dnBRVUdGWmo4UWlIVFpTNVYydXJPR1dEUDAyN1hGLUR2ZFBBUDgzUXYtRDB4NFQtOTlKNkpISXlLS2EwTkh5dXdxYVU3RW1vR0NZdm4wTE9FbzlTMWtsTEVoOGNIRzFoYWM?oc=5",
+      "d": 1792509748000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
