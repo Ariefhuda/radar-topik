@@ -9399,7 +9399,17 @@
     "threads:Dess8HLk1Zt": 1792461945354,
     "threads:DestMVoGGy2": 1792461945354,
     "threads:DcGLlRnE48j": 1792461945354,
-    "news:CBMitAFBVV95cUxQdWR6TGt6SWxVYk9YamVyVjZxNWFrQzZRM0lETjVlaDNKaXdNSWlhSDJocHYtSmVjblducXhZOHNNUnBHZzFqWkZza2RnREFLeExxQ09tN1JPVFJRbEhQWHhsM29KeWF2ZzlYZVR0N0dtUG00ZF9JNnplOFBsLUhaanJSeDE2eDQyeURoUlNXOGhhNWZtbEN2X1ZtR1BhYWVoSHZBdWExX1JqVUhKRnZtaEEwcWM": 1792461945354
+    "news:CBMitAFBVV95cUxQdWR6TGt6SWxVYk9YamVyVjZxNWFrQzZRM0lETjVlaDNKaXdNSWlhSDJocHYtSmVjblducXhZOHNNUnBHZzFqWkZza2RnREFLeExxQ09tN1JPVFJRbEhQWHhsM29KeWF2ZzlYZVR0N0dtUG00ZF9JNnplOFBsLUhaanJSeDE2eDQyeURoUlNXOGhhNWZtbEN2X1ZtR1BhYWVoSHZBdWExX1JqVUhKRnZtaEEwcWM": 1792461945354,
+    "threads:DesuWEFAatm": 1792462246401,
+    "threads:Destc18k0Up": 1792462246401,
+    "threads:DJ02JO-ygbN": 1792462246401,
+    "threads:DeqsWDiE60Z": 1792462246401,
+    "threads:DesuqHCAP2K": 1792462246401,
+    "threads:DesuQH3jocE": 1792462246401,
+    "threads:DestypHINsP": 1792462246401,
+    "threads:Dd0RmS_j8q7": 1792462246401,
+    "news:CBMingFBVV95cUxPN0FBc3ktVDcxczI1UG9mcTN2NU9xRlJBaG5KVG4yTTFCSUNIb0RZcjBPZzNlWDNmQnBQazZYcDhjdVhpejM1bjlEN1dlTWNWVjY3WEJSUkJRYVNJVmxfaDBIOUxCV2VzbkFOQm1NS254WTl1VWVHQlhfOUVoc0tpTlpEMVcxaVpDZ3M2R2djSWYtVE5LVjdrRE4tYlQ1dw": 1792462246401,
+    "news:CBMioAFBVV95cUxPYW5YbDRwbS1GbjdubXlEVldPR2Uwcm4tOWE3eVhKY3g5VUxJSW4tSng3OTBvNUdEdk5tRGRQUHJvVjh0RWRQT0NtYmdLMzFfX2FxNlljbkR6Q2lMUVRVQ3Z0a0diRmhKWkhPU1RWS2lpdGt1RE1memNmUFhDS1pCV1FHUEh1UmVfWVFBSHhfZFlibEFqazA2VFhlWDRZY0RC": 1792462246401
   },
   "digest": [
     {
@@ -9811,10 +9821,20 @@
       "d": 1792459815000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "JurnalPost",
+      "x": "Penguatan Instruktur, PPSDM Migas Gelar Sosialisasi Pejabat Fungsional di Cepu - JurnalPost",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYW5YbDRwbS1GbjdubXlEVldPR2Uwcm4tOWE3eVhKY3g5VUxJSW4tSng3OTBvNUdEdk5tRGRQUHJvVjh0RWRQT0NtYmdLMzFfX2FxNlljbkR6Q2lMUVRVQ3Z0a0diRmhKWkhPU1RWS2lpdGt1RE1memNmUFhDS1pCV1FHUEh1UmVfWVFBSHhfZFlibEFqazA2VFhlWDRZY0RC?oc=5",
+      "d": 1792461877000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
