@@ -11201,19 +11201,14 @@
     "threads:Deu9sWWk8gj": 1792537536783,
     "threads:Deu-CwVCNkq": 1792537536783,
     "news:CBMiwwFBVV95cUxPY0lON2lzdWNrOWZEYUZzb0ZJVXpodlhwRVJOM0wyQ2FOOC1HcDNSVWFFWWhoYzBraWViTUNGc1hXcEZVeEJkeU9ENExaR19JSXl1LVdNaU94WkZ5UzJRYVljWU5TdHRKNF92Zk95S3RvUnZUOHQzZEFVT084bWoybUtpMktUT2R6M2VaeHk4UTdROWp4SmZjWXFKbFVmcWVlbjVVcG51SGZhRk83aEhOekVkMWwzdzk0RUN0WlVVdjdMNkk": 1792537536783,
-    "news:CBMi4wFBVV95cUxPdFQ2akNScFVUTnA5SFRjbXJkbWxCX1BWVjRITFFTWE13X1pqaTlwUE8tVThpUmV4X2JBUEZaMWRWSmhMMFg1aVhTQktfQnNoNGJmekZKX3hYeXl1NmlDMzNienZZUjYtTV9jY0dBU0VRMG1fb0tZMW5FZjduT0ExY0dJd0prRGZmRjF6ajRsMmdFUUo5OG1SQ1FmOWxFc3BQbHplTWlVMG91VlFNV0NucW5yZktBYmJfS1E4aklwYjd1RmI2RDJiS3VzbEVfN1pWLWpucnFTYUZIbFlzOWVQSE5BY9IB6AFBVV95cUxOT1NTMHZSOHZkSllfeFQzV2VMWWZEUGMxeS0yakhPVlRpdWloUUV6U0FfMjNuMmp0R3lqN0FDd3VxbURwYnlFVkRqeWo5UFczVnNQVDFUR0NZZ0ZCczA5N2lrQmJWOG9aa19zWDJCSWZSTEdhZzZKc1hsZGdsQlc5c3hxX0UxbE1XeWNHLWRSR1FENzRQck5Pc2puR1BMWEZ2b3lkVEk1OC1pZXd6cTVSVXREck9NYUZ5cWZTaWpDd3MyWHJiSXprcl9iaklvcjhYLUpya1M3UE9IbkR2cEdrSjZ1SWF5QTdG": 1792537536783
+    "news:CBMi4wFBVV95cUxPdFQ2akNScFVUTnA5SFRjbXJkbWxCX1BWVjRITFFTWE13X1pqaTlwUE8tVThpUmV4X2JBUEZaMWRWSmhMMFg1aVhTQktfQnNoNGJmekZKX3hYeXl1NmlDMzNienZZUjYtTV9jY0dBU0VRMG1fb0tZMW5FZjduT0ExY0dJd0prRGZmRjF6ajRsMmdFUUo5OG1SQ1FmOWxFc3BQbHplTWlVMG91VlFNV0NucW5yZktBYmJfS1E4aklwYjd1RmI2RDJiS3VzbEVfN1pWLWpucnFTYUZIbFlzOWVQSE5BY9IB6AFBVV95cUxOT1NTMHZSOHZkSllfeFQzV2VMWWZEUGMxeS0yakhPVlRpdWloUUV6U0FfMjNuMmp0R3lqN0FDd3VxbURwYnlFVkRqeWo5UFczVnNQVDFUR0NZZ0ZCczA5N2lrQmJWOG9aa19zWDJCSWZSTEdhZzZKc1hsZGdsQlc5c3hxX0UxbE1XeWNHLWRSR1FENzRQck5Pc2puR1BMWEZ2b3lkVEk1OC1pZXd6cTVSVXREck9NYUZ5cWZTaWpDd3MyWHJiSXprcl9iaklvcjhYLUpya1M3UE9IbkR2cEdrSjZ1SWF5QTdG": 1792537536783,
+    "threads:Deu-O7XDla6": 1792537843335,
+    "threads:Deu-oVJAgL_": 1792537843335,
+    "threads:Deu-jNWDAB6": 1792537843335,
+    "threads:Deu-DqxDk19": 1792537843335,
+    "threads:Deu-YEiEq9N": 1792537843335
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Pemerintah Provinsi Jawa Tengah",
-      "x": "Cek Data Bansos di Pemalang, Taj Yasin Minta Pemutakhiran DTSEN - Pemerintah Provinsi Jawa Tengah",
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT2hKTFRhS2habjI5VFdBUlg0ZlZpcTE2N0xNREEzYmpYMkJrR19DaG50ZjdSRkl2Y1V6eWRYQlpUYVFJV3NQLTByMHVYQVFuamtxYzJVRVV5Y1dPTlp0WENLRHhXTVhhSC1CdGFRNFNld2RCcVZJQ1E2dndLdTh1Ui1rZlgtYXZtS3JJeElIWi0zNUYyQXN3SGg2QQ?oc=5",
-      "d": 1792508301000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -12703,16 +12698,27 @@
       "d": 1792537200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "aku juga pemula yg baru jalanin meta ads udah 4x kali kak. kebetulan aku ikut komunitas digital marketing juga, jadi bisa sharing & diskusi disana. kalau kakak mau ikutan kebetulan",
+      "u": "https://www.threads.com/@thegrown.energy/post/Deu-YEiEq9N",
+      "d": 1792537598000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792516906868
+    "reddit": 1792516906868,
+    "news": 1792537843335
   }
 }
