@@ -11100,19 +11100,10 @@
     "threads:DeuraxOFI7m": 1792527941844,
     "threads:DeusBjTk2y4": 1792527941844,
     "threads:DeusciKDrQ8": 1792528243422,
-    "threads:DeurDr6FtrK": 1792528243422
+    "threads:DeurDr6FtrK": 1792528243422,
+    "threads:Deus2YBk7J3": 1792528542496
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@panggilpoaja",
-      "x": "Di BSU 2025, Kemnaker bilang: \"BSU 2025 akan langsung disalurkan ke rekening pekerja/buruh yang memenuhi syarat. Jadi enggak perlu daftar apa pun.\" Datanya diambil dari BPJS Ketena",
-      "u": "https://www.threads.com/@panggilpoaja/post/DeuAAuFFM1X",
-      "d": 1792504904000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -12602,10 +12593,20 @@
       "d": 1792526460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nisa_khnsa",
+      "x": "Ininyg desil 1 kan, Heh yg tetangganya ada GK,, tetangganya tolong instal aplikasi cek bansos aja dan bikin akun,, ntind aplikasi klik sanggah aja foto rumahnya,,,biar dia GK dapat",
+      "u": "https://www.threads.com/@nisa_khnsa/post/Deus2YBk7J3",
+      "d": 1792528409000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
