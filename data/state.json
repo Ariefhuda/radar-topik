@@ -9808,39 +9808,13 @@
     "news:CBMiwwFBVV95cUxPb2djenRzc0lHQ2hoQzZMVFJXYi1BZ1VPZWhZWERkdjB0aklWNEZBQUoyZnNLZF9pNnNzYkdNd2JtUXFFY1dqT05hUEFlOXlQSVZaWEJ1VWVqaXZiSHl4blgwS1ZLc3VxYjhiaHNTQkNpeEZFREduWE1ON0RJVkJmSEZtTGMwZnA3Qzh2R21FYVRMSEs1QjBpY0piZk9haFh6Uko4S1JUSlhfZ2FfajMwMWgtNkZ3cVRsclkyRkdRNmZZeWPSAcABQVVfeXFMTVJHSzc4UEtyVFlVZUw3UERqM2NYbTFlRFBlRmoycXktMXpYenIzc2JnQXVWY2FGNFlCelZJME5tQjlqdWVVanhTV3RhMFZfSWd3amdWUmV2SThReWlrMkZFdjd6dlZJdG1tVmpDbGNCR3NzS21IeElic1RPcGxyOXRDMjNnNW9GOVg2alZBVk5SM1psUHE4SDNHYmhTTFp0TmJseXlKM2drdGZxYWU1dDVodFhnUzJnMXE1RzZtN1Vi": 1792475138708,
     "news:CBMitgFBVV95cUxQNl9HYkQzb3RrckpUTjBlUTBNOEs2ZEFsbXZOcHplZGI5OW5YVEpQWGVJaTJYOTNBd2NFOHp4SHNmalJNRGVLdjZJS3cxRTRxYWJjeG5DSWVMazRqS0tEeEJBamNWdmE0a0Q0NWN6MEkxSFFnZVB0VEVxSlRFMVVyZ08temcwWVFFWnlQOElSQ2xqelI0Y2lCT2RKZkV6N1JicVhXV29iN2dzRGdGOVh4dTlxOXY3UQ": 1792475138708,
     "news:CBMi2gFBVV95cUxPTGdYRFFnd1lvbF9EMDVPOTZkSDRZME1wY0djcUtZR2ZYQVp3WFU1aWVWWWZsSU4xbUlDZ2pFOUktV0daRXpKcnE3aVBmaHRzU3VsZl9jNk1fMzhCUVhzSmpJV29iODlsQ1J5VnFkOUFPSndLdjlYek10R2VGckhyUmJTR09TeGpwQ1pkd3Z6Tjh0bVJ2RkpVNU5adl90V3cyei1IMjBrRWpnX0VDSjljWWZSVHhJVkJwLVBzVTh6ZWdTZEVlR19hMUtuZDc5Ml9TYUhNTm5PNWJrUdIB3wFBVV95cUxOMGN5bzQtblFVN1FnWjBITUtWQWh2cE4zb0wzdk5LZi1HWFU1YXlfd0RmSEdqVlZIRkk4RzhPb0xPUVV5SHQ0aVUtaHFVdjBzdThhaGxqbGhrVE9Panp3T0pZZ191YkhVWDhROGQzN3hTa2U1c1lFb24zdWlpYnlWcVBDU3lSMEp4a2N5OG5yUWlhaTB1TGFwMlRmcmlpNVRBd0RmdzhfV014YVVVQkxiSFVnM19Fb2tJdmNJeVE5Ukp0b25RN3lnbUViMnNHczQxalZKTVNQeTBwM1pyWmZj": 1792475138708,
-    "news:CBMiqwFBVV95cUxNUDFpZWdIU2g4WVJSa0xDWER3NTNHWWxlbFExNFlZQXdtRlhNQTJJV0JOVUtOWmxmZlNuOUtabkZaRlhscFNSNTlBNU92dWNabFBTLU13c190cVFtcVlZaUdCS0wtcVRra0hFeTM3UFVMNjVSeWVaZUNZT2pzbHJWbFhGckoyU09GZTFMS2stSUNvek16dVpleWhJTXRLazNtcGF6SEhDVHhYWXfSAbABQVVfeXFMTl9ETlItWFJ6MmJLSkZQdzJsc2FrZjNiRE12dFpIcU8tcHl4QzZ1NHFQUFFkZE5CN0ZFZTBZYUZTTU5naFFkVURUU3NzZjhZZ2FlWEVIeW1PSHBHUnh1dEZ6aFBlYjJKNHl3SjNZejJ3TVJ3aFBsZHJnWjlXODFHVjEtNi1IUHJOUDVSRWFDWjhzdmFOYWQ0bEk0Q18tN2xZY280YVNzazhRNkxFS3F4UW0": 1792475138708
+    "news:CBMiqwFBVV95cUxNUDFpZWdIU2g4WVJSa0xDWER3NTNHWWxlbFExNFlZQXdtRlhNQTJJV0JOVUtOWmxmZlNuOUtabkZaRlhscFNSNTlBNU92dWNabFBTLU13c190cVFtcVlZaUdCS0wtcVRra0hFeTM3UFVMNjVSeWVaZUNZT2pzbHJWbFhGckoyU09GZTFMS2stSUNvek16dVpleWhJTXRLazNtcGF6SEhDVHhYWXfSAbABQVVfeXFMTl9ETlItWFJ6MmJLSkZQdzJsc2FrZjNiRE12dFpIcU8tcHl4QzZ1NHFQUFFkZE5CN0ZFZTBZYUZTTU5naFFkVURUU3NzZjhZZ2FlWEVIeW1PSHBHUnh1dEZ6aFBlYjJKNHl3SjNZejJ3TVJ3aFBsZHJnWjlXODFHVjEtNi1IUHJOUDVSRWFDWjhzdmFOYWQ0bEk0Q18tN2xZY280YVNzazhRNkxFS3F4UW0": 1792475138708,
+    "threads:DetHb1SiX2k": 1792475460271,
+    "threads:DetHPuHIOuC": 1792475460271,
+    "news:CBMiqgFBVV95cUxOZDdaMVRNZVhsU1Fka3huQXBjcU8yMW1XLTl3M21VLTlSSkpHZmxMZjBiWldGclF4NWt6a1dzcXFmdk95MzRxQUFOYWFoN1hDUEliNjdhblNwZ3Q1OF9vYUV4Mi1hcGY0RWxxUklJMElFN0VDQ0dxM0Ribm1kSU1TcDZPWU4yNF9nSS02dEplN1JRODhFU1NyUFhKT1NkSFFRc1N1X0NrSDRnd9IBrwFBVV95cUxQbFByYzBTZGFZWEhoXy1HY18xcHNuQ3pVVVNYZnNlV1FjTm9YRFk3WVZvemFFcDN0WXpwOFd6cEw1N0hVZzFiTTNLeWgzVm1SZWYyMjNmQ3RTWDZ4RkRGLTR5T0x1TlQ5cVN1TFJ2VExHcERyRjI1eW5UTVRsQ1BqWWkwb2g1cWEtMzlHTkh1Sm1ReXBQVUJPU0E0V09ERmtJakhKX1hYM20wLTNGNy1Z": 1792475460271,
+    "news:CBMi7wFBVV95cUxPenFJWS0xLXd4OFhsTkF1TlUzYXlXSmJsaTV5dGx2ZHBtM3N3QTlXYnBxQjlHOUtoX1ZxT0ZGNjd6cFVrTnlsQkFmSURiTy1pS1BjRk5nc3ZHdDRCRGp0WFdvTzhNU0YxQWwzcmExVXU0XzRtUWpNRWdyU3hTbzZQN3pUTHdVWFYzMVo1RHJRQ0tSdGJlZ29Fb1FHTWRkRVU5RlNuVmgwNDlWOXVkYndXckphM0NPV3Y4ZXhNV09xeFJUOWhwV0ZMYnJLekpIY21SZjJOSC03Wk03UUJ4eHhhTExvSGdlOU1kLVlYVXNDMNIB7wFBVV95cUxPenFJWS0xLXd4OFhsTkF1TlUzYXlXSmJsaTV5dGx2ZHBtM3N3QTlXYnBxQjlHOUtoX1ZxT0ZGNjd6cFVrTnlsQkFmSURiTy1pS1BjRk5nc3ZHdDRCRGp0WFdvTzhNU0YxQWwzcmExVXU0XzRtUWpNRWdyU3hTbzZQN3pUTHdVWFYzMVo1RHJRQ0tSdGJlZ29Fb1FHTWRkRVU5RlNuVmgwNDlWOXVkYndXckphM0NPV3Y4ZXhNV09xeFJUOWhwV0ZMYnJLekpIY21SZjJOSC03Wk03UUJ4eHhhTExvSGdlOU1kLVlYVXNDMA": 1792475460271
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@cynthia_nova",
-      "x": "kak, kalau udah terdaftar di website cekbansos.kemensos.go id udah amankah?",
-      "u": "https://www.threads.com/@cynthia_nova/post/DesvLBUgUwO",
-      "d": 1792462518000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@dheadara97",
-      "x": "daftar nya di web perlinsos kak, yg terdaftar di website cek bansos bisa jadi tahun 2026 ? kalau yg daftar ulang ini untuk bantuan 2027",
-      "u": "https://www.threads.com/@dheadara97/post/Des3yGjFBcn",
-      "d": 1792467032000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@kabinetbijikegelapan",
-      "x": "Hasil survei Parameter Politik Indonesia (PPI) menunjukkan bahwa program-program sosial seperti Bansos, Sekolah Rakyat, Makan Bergizi Gratis (MBG), Pendidikan Gratis hingga Perguru",
-      "u": "https://www.threads.com/@kabinetbijikegelapan/post/Des3j1Nkipo",
-      "d": 1792466918000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -11310,10 +11284,40 @@
       "d": 1792401376000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@novn_",
+      "x": "Beasiswa dari Kementerian Luar Negeri Rumania ini mencakup jenjang S1, S2, hingga S3 di berbagai universitas negeri seluruh Rumania. Fasilitasnya mencakup pembebasan biaya kuliah, ",
+      "u": "https://www.threads.com/@novn_/post/DetHb1SiX2k",
+      "d": 1792475246000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@wahyoedoank",
+      "x": "Cara Cek Desil kamu mudah banget #bansos #desil #bantuan",
+      "u": "https://www.threads.com/@wahyoedoank/post/DetHPuHIOuC",
+      "d": 1792475144000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Portal Purwokerto",
+      "x": "Bansos PKH dan BPNT Tahap 4 Cair Oktober 2026, Begini Cara Cek Status Penerima Pakai KTP - Portal Purwokerto",
+      "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPenFJWS0xLXd4OFhsTkF1TlUzYXlXSmJsaTV5dGx2ZHBtM3N3QTlXYnBxQjlHOUtoX1ZxT0ZGNjd6cFVrTnlsQkFmSURiTy1pS1BjRk5nc3ZHdDRCRGp0WFdvTzhNU0YxQWwzcmExVXU0XzRtUWpNRWdyU3hTbzZQN3pUTHdVWFYzMVo1RHJRQ0tSdGJlZ29Fb1FHTWRkRVU5RlNuVmgwNDlWOXVkYndXckphM0NPV3Y4ZXhNV09xeFJUOWhwV0ZMYnJLekpIY21SZjJOSC03Wk03UUJ4eHhhTExvSGdlOU1kLVlYVXNDMNIB7wFBVV95cUxPenFJWS0xLXd4OFhsTkF1TlUzYXlXSmJsaTV5dGx2ZHBtM3N3QTlXYnBxQjlHOUtoX1ZxT0ZGNjd6cFVrTnlsQkFmSURiTy1pS1BjRk5nc3ZHdDRCRGp0WFdvTzhNU0YxQWwzcmExVXU0XzRtUWpNRWdyU3hTbzZQN3pUTHdVWFYzMVo1RHJRQ0tSdGJlZ29Fb1FHTWRkRVU5RlNuVmgwNDlWOXVkYndXckphM0NPV3Y4ZXhNV09xeFJUOWhwV0ZMYnJLekpIY21SZjJOSC03Wk03UUJ4eHhhTExvSGdlOU1kLVlYVXNDMA?oc=5",
+      "d": 1792472460000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
