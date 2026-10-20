@@ -10274,19 +10274,13 @@
     "threads:DetNQkIESil": 1792490456251,
     "threads:DetjxkJD_Ld": 1792490456251,
     "news:CBMiuAFBVV95cUxNVW45MklZM2gwNzlERmM0SnJBS0RtbEZ5dzBnay05Z1NiTlZZR19zbHQ2aVVaN0ZFR3RFUXl0SEhSS3ZLMFJFTEhNOE5pTllYaW1xZ3VWZkZhQktrek50cWtUTzRGMzd3al9lSTZ3ZDlyZm14YUZKVGdkckZrT3lwcXhCNHNrVU9GcnpEc0pLSjdORVM1Z25xUlowVkNnU3VrT3VTdExnWGhyLWpPVzA0SzJFSUJCaGNT0gG4AUFVX3lxTE1VbjkySVkzaDA3OURGYzRKckFLRG1sRnl3MGdrLTlnU2JOVllHX3NsdDZpVVo3RkVHdEVReXRISFJLdkswUkVMSE04TmlOWVhpbXFndVZmRmFCS2t6TnRxa1RPNEYzN3dqX2VJNndkOXJmbXhhRkpUZ2RyRmtPeXBxeEI0c2tVT0ZyekRzSktKN05FUzVnbnFSWjBWQ2dTdWtPdVN0TGdYaHItak9XMDRLMkVJQkJoY1M": 1792490456251,
-    "news:CBMisgFBVV95cUxOcXdLaGVRbERIUXp0LXVVdFdvc05WX29DN2VzSS1BT3Bnc1FfYklMc3RrWkRmLVV1TkdYTDg3UzVoUF9tdXBZWmJQSUJoX2l0UE5hTU9TTUZveW1tYWk3TnE3U3Z2Vm1DSW52aFhwVU1XblpJWU5NcUhkX182aFlud2VCVXd6YnFOczYzR1ZZX3NKVkpOejBvR19NVFhMdjRrenlJWllhTXVLRTdfMGV4VThB": 1792490456251
+    "news:CBMisgFBVV95cUxOcXdLaGVRbERIUXp0LXVVdFdvc05WX29DN2VzSS1BT3Bnc1FfYklMc3RrWkRmLVV1TkdYTDg3UzVoUF9tdXBZWmJQSUJoX2l0UE5hTU9TTUZveW1tYWk3TnE3U3Z2Vm1DSW52aFhwVU1XblpJWU5NcUhkX182aFlud2VCVXd6YnFOczYzR1ZZX3NKVkpOejBvR19NVFhMdjRrenlJWllhTXVLRTdfMGV4VThB": 1792490456251,
+    "threads:DciLqXQgagz": 1792490744584,
+    "threads:Detk1IXkxXo": 1792490744584,
+    "threads:DetkGkTk3f3": 1792490744584,
+    "news:CBMiqAFBVV95cUxPb3lFeGVaSUFaSzlKd3YzWXJVQkhDT3RBeFlTOTBiTnFxRWVpVTlXZmRnQjB0SnUxQ2dseGJtV1NqRFJjdXRON21hN1ltUi1PbERjdFUtbG0yaEs4aEhKWXF2ZlZiRXo4eVVsRlhZcE9yelVubDZONm5jblFkMUw5anYySWg3WS02NWd0QTNxOW5kN1VTYlIxdGNhX2xUeTdWZi1vQThEU0w": 1792490744584
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@andre_antiperfect",
-      "x": "Ada yang mau belajar bikin AI Affiliate yang nggak kelihatan AI banget? 🥹 Aku adain kelas GRATIS hari Jumat, yuk belajar bareng! Komen “MAU” kalau tertarik! 🙌",
-      "u": "https://www.threads.com/@andre_antiperfect/post/DetWRSbkojc",
-      "d": 1792483016000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -11776,10 +11770,20 @@
       "d": 1792490277000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Indoraya News",
+      "x": "Tertahan Sejak Era PIR Teh, 1.947 Sertifikat Tanah Petani Jateng Dikembalikan Gratis - Indoraya News",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3lFeGVaSUFaSzlKd3YzWXJVQkhDT3RBeFlTOTBiTnFxRWVpVTlXZmRnQjB0SnUxQ2dseGJtV1NqRFJjdXRON21hN1ltUi1PbERjdFUtbG0yaEs4aEhKWXF2ZlZiRXo4eVVsRlhZcE9yelVubDZONm5jblFkMUw5anYySWg3WS02NWd0QTNxOW5kN1VTYlIxdGNhX2xUeTdWZi1vQThEU0w?oc=5",
+      "d": 1792490478000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
