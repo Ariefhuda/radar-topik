@@ -10744,7 +10744,9 @@
     "threads:DeuBM6GmSXY": 1792505740650,
     "threads:Det8eyUAJVO": 1792505740650,
     "threads:DdxrmPxkxFb": 1792505740650,
-    "threads:DeuAOVdlBte": 1792505740650
+    "threads:DeuAOVdlBte": 1792505740650,
+    "threads:DeuAm8XGfxh": 1792506051326,
+    "threads:DeuB9dnk7Dx": 1792506051326
   },
   "digest": [
     {
@@ -12176,10 +12178,30 @@
       "d": 1792505016000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@dozlelz",
+      "x": "Pliss kak tolong gamparin kaum2 itu pakai kata2 mu lagi, terutama kaum2 yg males riset dan nyari info sendiri dan lebih milih bikin postingan di threads minta2 info beasiswa, yg ma",
+      "u": "https://www.threads.com/@dozlelz/post/DeuAm8XGfxh",
+      "d": 1792505214000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@adipati_pajaten",
+      "x": "Udh pd kumpul, tggl nunggu arahan burete @anova_novv 😆 asyik bansos cair",
+      "u": "https://www.threads.com/@adipati_pajaten/post/DeuB9dnk7Dx",
+      "d": 1792505923000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
