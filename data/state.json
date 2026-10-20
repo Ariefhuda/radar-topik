@@ -11189,19 +11189,10 @@
     "threads:Deu74jgms-Z": 1792536341978,
     "threads:Deu72dwGgGf": 1792536341978,
     "threads:Deu7Vk4jllu": 1792536341978,
-    "threads:DWdWxzxkpxd": 1792536640775
+    "threads:DWdWxzxkpxd": 1792536640775,
+    "news:CBMiqwFBVV95cUxNVzNQRXpFSDdZLUZ5RmNNbDhQeE1OaWk1YjBfUlNuZFlhcmhlQW1nRFV3U2RTYzdZTjRfcndTdHFibGo3M2psQXMtdmxIS0JLQ0ZkWmhnV2QxTU1nYjlXVGhJV3FIdHplX1JpR3hfQm4tVWtub25kTU43QUxxdlVUUWZDLWFEcF9DQkNHd3lOQ1hlNEstX2VfNUNBbVRTc1FmRlF3emxLcFZWeXM": 1792536941199
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@anisartika_snh",
-      "x": "webinar gratis @ebizmark.id @rahmawati_3697 rahma_karieem2 ftmtzzhro.01 https://whatsapp.com/channel/0029VbCfDv53mFXxG5QmDe1u/158",
-      "u": "https://www.threads.com/@anisartika_snh/post/DeuGQZXEtTy",
-      "d": 1792508176000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -12691,10 +12682,20 @@
       "d": 1792534979000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kaltimtoday.co",
+      "x": "Panduan Lengkap Cara Daftar Mandiri Bansos PKH dan BPNT 2026 Lewat Perlinsos Digital - Kaltimtoday.co",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzNQRXpFSDdZLUZ5RmNNbDhQeE1OaWk1YjBfUlNuZFlhcmhlQW1nRFV3U2RTYzdZTjRfcndTdHFibGo3M2psQXMtdmxIS0JLQ0ZkWmhnV2QxTU1nYjlXVGhJV3FIdHplX1JpR3hfQm4tVWtub25kTU43QUxxdlVUUWZDLWFEcF9DQkNHd3lOQ1hlNEstX2VfNUNBbVRTc1FmRlF3emxLcFZWeXM?oc=5",
+      "d": 1792531118000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
