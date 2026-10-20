@@ -10638,7 +10638,8 @@
     "threads:Det6fCGjx9t": 1792502449069,
     "threads:Det62GBiR9P": 1792502449069,
     "news:CBMimwFBVV95cUxQMnZOVGRxTkd6SnBCZFQwN2N5X2NzaHhUTGtzbndLb0NXUW85ZG5rX0xja05ESGVJVXRvb2I0MkJkTkppYWVienhXUnhIMzUzMXhBVU95QkFkU1JqbDYybkRQblQtckxlTDB0QnFLdUFxME5BNnpMV1ZtWk1XbndpcmhycFdNbld2dl9KU18wY2ZHMW1tUHNkMnpnUQ": 1792502449069,
-    "news:CBMiY0FVX3lxTFBjOXRudU9NeGNVLWVlay1WRkpQNWR0ek8xd2tCWVhPY2cxMUo1dlZyZHZWSUdsOVVZODVpNDJ2M1g0dmZzeWhiUXo2aEhhektIbHd2QVlIeEE3WTdVSUZ3SUZQWQ": 1792502449069
+    "news:CBMiY0FVX3lxTFBjOXRudU9NeGNVLWVlay1WRkpQNWR0ek8xd2tCWVhPY2cxMUo1dlZyZHZWSUdsOVVZODVpNDJ2M1g0dmZzeWhiUXo2aEhhektIbHd2QVlIeEE3WTdVSUZ3SUZQWQ": 1792502449069,
+    "threads:Det7bWfGmWQ": 1792502743655
   },
   "digest": [
     {
@@ -11590,10 +11591,20 @@
       "d": 1792502192000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@jamilatunshafa",
+      "x": "Buka cekbansos.kemensos.go.id. Masukkan wilayah (Provinsi sampai Desa), isi nama lengkap sesuai KTP, ketuk kode captcha, klik Cari Data. Lihat status yang keluar: Nama Penerima, Um",
+      "u": "https://www.threads.com/@jamilatunshafa/post/Det7bWfGmWQ",
+      "d": 1792502498000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
