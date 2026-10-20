@@ -9494,7 +9494,14 @@
     "reddit:t3_1xagsxt": 1792464939579,
     "reddit:t3_1xagslv": 1792464939579,
     "reddit:t3_1xagsg7": 1792464939579,
-    "reddit:t3_1xags2l": 1792464939579
+    "reddit:t3_1xags2l": 1792464939579,
+    "threads:Des0KDikqgo": 1792465255860,
+    "threads:Desz1TTAeZk": 1792465255860,
+    "threads:Deq3BFSn2_6": 1792465255860,
+    "threads:Des0iaLDJ51": 1792465255860,
+    "news:CBMiogFBVV95cUxPRWNBbkJTZ2VrS3VnTlNZN05lTi1nenBaSVFwbDlQSW1KU1ZocTdDNDlqbjlSUDJjQm9yQjREd19Bb0Rta2RvZ2hSTFB1VWhEUGo4ZGJBVl9HRTEwcXlGc3daR3M0M0dTU2N1V0xfUFB0U2JVQ3FRZnRPckF3dXpWaGRIUFBuRmtpZDIzMU1MdjUtT0kxd1MxSnRPblRpWWVOclE": 1792465255860,
+    "news:CBMiswFBVV95cUxNZU5aSHluN2hnMzRaNFFyczVBZkdJV2g1MjVlVVVtZm85WEwxQ2x4VVd2SnNkb3RqYWRIeWQxRFR2NWtpNE92TmZSM24ybDNkZkYwczdsZFRaMG5DRER2WG8tSHhzUEZRRnJEc0pTdHlES2dCM2tpSmRxOUlyWlNkblYyd3BRVFkzaU9odW16T2R1SFJGS1JRSHdxTnBPc3J0eWpNZ25YcHBUaTNOTk9PV2I0TdIBuAFBVV95cUxQanY0cmM0Q2VZbzBVODVhNWtMYUFMNmJidTVPZ2oxMzVZakJVRXNBQ3NOTUtLa2FQVXhSV252U1BYZVlXTGxaZ1Q5UXZsTVhTRGVXOUtmMkRkZkFlZzk2emtVcVJ1ZjExZHBVWGlaVGVCdWtmYXljNzVDQW42MzkycDRKTERCZ1FtOTVaSktyb2JoS2RNaHpSbXk0eGFUdlVMbFktejI5aFViNG91YXJQb1NlWjJ3REhn": 1792465255860,
+    "news:CBMivAFBVV95cUxQNEphUmtIcURuT25lWmF6OHJKaU9CaXFBRTVQUzdfRDRTcTk3S251MkdXRi1PYlRkOXVmT29wSEhuU0tBbmtTWElpZnE2MnV6RGtUOU5qNnp6NzRWeXpuY3RVNlJ1MHpYcTVWdWo1d2c5R3VVMHRDOW1GSmdxeVR6SmJYVmNyVHBpR3hmTWhhdlFKVjVvcjNHREk3M0RnanNWeXFuVS1vS3NHcFpKZERuX1Mza21jalMyQVRyd9IBvAFBVV95cUxQNEphUmtIcURuT25lWmF6OHJKaU9CaXFBRTVQUzdfRDRTcTk3S251MkdXRi1PYlRkOXVmT29wSEhuU0tBbmtTWElpZnE2MnV6RGtUOU5qNnp6NzRWeXpuY3RVNlJ1MHpYcTVWdWo1d2c5R3VVMHRDOW1GSmdxeVR6SmJYVmNyVHBpR3hmTWhhdlFKVjVvcjNHREk3M0RnanNWeXFuVS1vS3NHcFpKZERuX1Mza21jalMyQVRydw": 1792465255860
   },
   "digest": [
     {
@@ -10326,10 +10333,40 @@
       "d": 1792464275000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Atjeh Watch",
+      "x": "Alumni FEBI UIN Ar-Raniry Berbagi Strategi Sukses Meraih Beasiswa - Atjeh Watch",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWNBbkJTZ2VrS3VnTlNZN05lTi1nenBaSVFwbDlQSW1KU1ZocTdDNDlqbjlSUDJjQm9yQjREd19Bb0Rta2RvZ2hSTFB1VWhEUGo4ZGJBVl9HRTEwcXlGc3daR3M0M0dTU2N1V0xfUFB0U2JVQ3FRZnRPckF3dXpWaGRIUFBuRmtpZDIzMU1MdjUtT0kxd1MxSnRPblRpWWVOclE?oc=5",
+      "d": 1792465287000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Bansos PIP Termin 3 Mulai Cair, Bagaimana Status PKH BPNT Tahap 4? - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZU5aSHluN2hnMzRaNFFyczVBZkdJV2g1MjVlVVVtZm85WEwxQ2x4VVd2SnNkb3RqYWRIeWQxRFR2NWtpNE92TmZSM24ybDNkZkYwczdsZFRaMG5DRER2WG8tSHhzUEZRRnJEc0pTdHlES2dCM2tpSmRxOUlyWlNkblYyd3BRVFkzaU9odW16T2R1SFJGS1JRSHdxTnBPc3J0eWpNZ25YcHBUaTNOTk9PV2I0TdIBuAFBVV95cUxQanY0cmM0Q2VZbzBVODVhNWtMYUFMNmJidTVPZ2oxMzVZakJVRXNBQ3NOTUtLa2FQVXhSV252U1BYZVlXTGxaZ1Q5UXZsTVhTRGVXOUtmMkRkZkFlZzk2emtVcVJ1ZjExZHBVWGlaVGVCdWtmYXljNzVDQW42MzkycDRKTERCZ1FtOTVaSktyb2JoS2RNaHpSbXk0eGFUdlVMbFktejI5aFViNG91YXJQb1NlWjJ3REhn?oc=5",
+      "d": 1792460499000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Update Bansos Terbaru Oktober, PKH BPNT Susulan Cair di 5 Daerah Ini - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNEphUmtIcURuT25lWmF6OHJKaU9CaXFBRTVQUzdfRDRTcTk3S251MkdXRi1PYlRkOXVmT29wSEhuU0tBbmtTWElpZnE2MnV6RGtUOU5qNnp6NzRWeXpuY3RVNlJ1MHpYcTVWdWo1d2c5R3VVMHRDOW1GSmdxeVR6SmJYVmNyVHBpR3hmTWhhdlFKVjVvcjNHREk3M0RnanNWeXFuVS1vS3NHcFpKZERuX1Mza21jalMyQVRyd9IBvAFBVV95cUxQNEphUmtIcURuT25lWmF6OHJKaU9CaXFBRTVQUzdfRDRTcTk3S251MkdXRi1PYlRkOXVmT29wSEhuU0tBbmtTWElpZnE2MnV6RGtUOU5qNnp6NzRWeXpuY3RVNlJ1MHpYcTVWdWo1d2c5R3VVMHRDOW1GSmdxeVR6SmJYVmNyVHBpR3hmTWhhdlFKVjVvcjNHREk3M0RnanNWeXFuVS1vS3NHcFpKZERuX1Mza21jalMyQVRydw?oc=5",
+      "d": 1792459101000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
