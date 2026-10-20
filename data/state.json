@@ -9931,19 +9931,17 @@
     "threads:DetQUsCD27u": 1792479949127,
     "threads:DetQRCWjyiN": 1792479949127,
     "threads:DetPwaBj3Rb": 1792479949127,
-    "threads:DetPq3cmWVn": 1792479949127
+    "threads:DetPq3cmWVn": 1792479949127,
+    "threads:DetQ3MZmTQs": 1792480237242,
+    "threads:DetPzg7lZ9t": 1792480237242,
+    "threads:DetQ0ykkoHk": 1792480237242,
+    "threads:DetQXK6kvKz": 1792480237242,
+    "threads:DetQAt0AWfL": 1792480237242,
+    "threads:DetQ_QtE0WN": 1792480237242,
+    "news:CBMimgFBVV95cUxQLXdfUjgwUDhEcFJrZVNuWkxDSnU4d0VmSGRIRHVZb2lhei1LOUhnc0RDc1V2dDBscTFhbjBFa1QzSDJWVHdVY005VWJoZHpTZGQ1QlZBWkhYcmlqNzNmNVhrTGNpdkItVWtsTFhTeHBVVEY5a3dnS3lmUGNnYm1TMkNnWVluT2lsT05JMVcyTEp6ZmdnREJtWE1B": 1792480237242,
+    "news:CBMiygFBVV95cUxQR3FpaTRmRmVSbi1OT0NpcnlPRHVteEhRX3FlSzVtMVBDVFAyMWZUM0g5dWdRSThZalUxcWFoekNqS21fYlBRNjFqd0NtZ1pTWWl4MWdhbDktcnduRkNUTXREUHVYaFZzM1FmZ1lJUjN4LXR2RFZyZVlFaFpoRXpBbXNxdXNmU3pxcDF1Wms5ZE9NN0lpZ2lIWGt4Q2R4emhjdm9nSWhqX0dHS05YU012azFtTFZhSW8yWDByd3c4VGh4OUY5cXhuZEln0gHPAUFVX3lxTE40c1NhNzJVRENTZFZKMG5RUV9kZUV5RTlkcERnR0hBdEJqYXl5UWdhVFFuVjViR08yTW9xQlFlenMzX3ptTWxrbDFBLXAxak52dHJwVWpLOHJrb3g3R2JxczBqS010dHZZRkFiUzJpMUc2cEZBNzh3WWphZ0p6aUlITGJ5bEdCMUxNWnZUSUdQM0dJVUpBbGhxaloxUWM1UDc4ZGswbUZBaWp5UEM4clhsVGJPWmk0YVUtQUlLMXZuYjhXTXVETHRWU1dOU1FyOA": 1792480237242
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ddabelyu",
-      "x": "Banyak insight baru habis ikutan webinar Cyber Security bareng @dibimbing! Paling menarik pas ngebahas dinamika Red Team vs Blue Team, Red Team fokus ke pen-testing & nemuin celah.",
-      "u": "https://www.threads.com/@ddabelyu/post/Desz42rHTIe",
-      "d": 1792464991000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -11433,10 +11431,20 @@
       "d": 1792479556000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Citra Sumsel",
+      "x": "BGN Copot Korwil SPPG Purwakarta Usai Dugaan Pencambukan, Proses Etik Tetap Berjalan - Citra Sumsel - Citra Sumsel",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3FpaTRmRmVSbi1OT0NpcnlPRHVteEhRX3FlSzVtMVBDVFAyMWZUM0g5dWdRSThZalUxcWFoekNqS21fYlBRNjFqd0NtZ1pTWWl4MWdhbDktcnduRkNUTXREUHVYaFZzM1FmZ1lJUjN4LXR2RFZyZVlFaFpoRXpBbXNxdXNmU3pxcDF1Wms5ZE9NN0lpZ2lIWGt4Q2R4emhjdm9nSWhqX0dHS05YU012azFtTFZhSW8yWDByd3c4VGh4OUY5cXhuZEln0gHPAUFVX3lxTE40c1NhNzJVRENTZFZKMG5RUV9kZUV5RTlkcERnR0hBdEJqYXl5UWdhVFFuVjViR08yTW9xQlFlenMzX3ptTWxrbDFBLXAxak52dHJwVWpLOHJrb3g3R2JxczBqS010dHZZRkFiUzJpMUc2cEZBNzh3WWphZ0p6aUlITGJ5bEdCMUxNWnZUSUdQM0dJVUpBbGhxaloxUWM1UDc4ZGswbUZBaWp5UEM4clhsVGJPWmk0YVUtQUlLMXZuYjhXTXVETHRWU1dOU1FyOA?oc=5",
+      "d": 1792473489000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
