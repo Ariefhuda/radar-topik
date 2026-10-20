@@ -9939,19 +9939,11 @@
     "threads:DetQAt0AWfL": 1792480237242,
     "threads:DetQ_QtE0WN": 1792480237242,
     "news:CBMimgFBVV95cUxQLXdfUjgwUDhEcFJrZVNuWkxDSnU4d0VmSGRIRHVZb2lhei1LOUhnc0RDc1V2dDBscTFhbjBFa1QzSDJWVHdVY005VWJoZHpTZGQ1QlZBWkhYcmlqNzNmNVhrTGNpdkItVWtsTFhTeHBVVEY5a3dnS3lmUGNnYm1TMkNnWVluT2lsT05JMVcyTEp6ZmdnREJtWE1B": 1792480237242,
-    "news:CBMiygFBVV95cUxQR3FpaTRmRmVSbi1OT0NpcnlPRHVteEhRX3FlSzVtMVBDVFAyMWZUM0g5dWdRSThZalUxcWFoekNqS21fYlBRNjFqd0NtZ1pTWWl4MWdhbDktcnduRkNUTXREUHVYaFZzM1FmZ1lJUjN4LXR2RFZyZVlFaFpoRXpBbXNxdXNmU3pxcDF1Wms5ZE9NN0lpZ2lIWGt4Q2R4emhjdm9nSWhqX0dHS05YU012azFtTFZhSW8yWDByd3c4VGh4OUY5cXhuZEln0gHPAUFVX3lxTE40c1NhNzJVRENTZFZKMG5RUV9kZUV5RTlkcERnR0hBdEJqYXl5UWdhVFFuVjViR08yTW9xQlFlenMzX3ptTWxrbDFBLXAxak52dHJwVWpLOHJrb3g3R2JxczBqS010dHZZRkFiUzJpMUc2cEZBNzh3WWphZ0p6aUlITGJ5bEdCMUxNWnZUSUdQM0dJVUpBbGhxaloxUWM1UDc4ZGswbUZBaWp5UEM4clhsVGJPWmk0YVUtQUlLMXZuYjhXTXVETHRWU1dOU1FyOA": 1792480237242
+    "news:CBMiygFBVV95cUxQR3FpaTRmRmVSbi1OT0NpcnlPRHVteEhRX3FlSzVtMVBDVFAyMWZUM0g5dWdRSThZalUxcWFoekNqS21fYlBRNjFqd0NtZ1pTWWl4MWdhbDktcnduRkNUTXREUHVYaFZzM1FmZ1lJUjN4LXR2RFZyZVlFaFpoRXpBbXNxdXNmU3pxcDF1Wms5ZE9NN0lpZ2lIWGt4Q2R4emhjdm9nSWhqX0dHS05YU012azFtTFZhSW8yWDByd3c4VGh4OUY5cXhuZEln0gHPAUFVX3lxTE40c1NhNzJVRENTZFZKMG5RUV9kZUV5RTlkcERnR0hBdEJqYXl5UWdhVFFuVjViR08yTW9xQlFlenMzX3ptTWxrbDFBLXAxak52dHJwVWpLOHJrb3g3R2JxczBqS010dHZZRkFiUzJpMUc2cEZBNzh3WWphZ0p6aUlITGJ5bEdCMUxNWnZUSUdQM0dJVUpBbGhxaloxUWM1UDc4ZGswbUZBaWp5UEM4clhsVGJPWmk0YVUtQUlLMXZuYjhXTXVETHRWU1dOU1FyOA": 1792480237242,
+    "threads:DetQsrlDo-_": 1792480542170,
+    "threads:DetQnkyE47B": 1792480542170
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bintangjunior.purwokerto",
-      "x": "Salah satu hal yang menurutku underrated dari pendidikan anak usia dini itu bukan cuma saat anak akhirnya bisa calistung, Tapi saat anak yang tadinya malu-malu mulai berani menjawa",
-      "u": "https://www.threads.com/@bintangjunior.purwokerto/post/Des_FryD2PD",
-      "d": 1792470863000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -11441,10 +11433,20 @@
       "d": 1792473489000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@xvier024",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@xvier024/post/DetQnkyE47B",
+      "d": 1792480053000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
