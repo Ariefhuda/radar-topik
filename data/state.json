@@ -10555,7 +10555,9 @@
     "threads:DTEzW30gcJ5": 1792500343597,
     "reddit:t3_1xaqzdz": 1792500343597,
     "news:CBMi1gFBVV95cUxOZDUxd3RpQVZlRnpBU2t5TUt4dVR2dGk2WVdUM1AweHQ1OXRyQ1ZOeXo4aDhXZEc3Q09sNmUxVDY3UDhDbEllR2ZGa0FfT05XMnFMcWEzLXI2XzVQSWxzdFItWXVXT0ZnaEY1YVV4VFJyZVlENE1jazVHM2JfTjVjQTRoNVFCWjlQaHJfeDM1d3N4MGNjX3VXZ09WZWVuM0ViV2tuTkpDYTVQODE3NEdqelpYcVhSak84RjFocDdVZ3NkZ3NZa2xtOUtxNms4OVRHN1NENWZB": 1792500343597,
-    "news:CBMi0wFBVV95cUxQQlhaR0V2a3ZRQ2JHdkxqR2Q3VGM1ZkdpUzhaSXhBYTF1MW5ELW5nd1hLdEpDODdnSVEwR1ZRUnhEUExjMnI3dmxwM2VMNGRzcjB0Q0I3dXhFcFk5NVNUenJmLTdrT3J3UkxKZ19FUWlPR29HSFBWTFJ0MWM5bzlVZ0FNWFpHNTlOamZwcmZkWDVIWTAxUlBIU1NXeVdOS3NUS1RaZnNsOGk0OEgweVhWanlFbVMyeWNRLTFmR1g1dVlwNHNaMEdWQjY3TjdhUmRkZFpr": 1792500343597
+    "news:CBMi0wFBVV95cUxQQlhaR0V2a3ZRQ2JHdkxqR2Q3VGM1ZkdpUzhaSXhBYTF1MW5ELW5nd1hLdEpDODdnSVEwR1ZRUnhEUExjMnI3dmxwM2VMNGRzcjB0Q0I3dXhFcFk5NVNUenJmLTdrT3J3UkxKZ19FUWlPR29HSFBWTFJ0MWM5bzlVZ0FNWFpHNTlOamZwcmZkWDVIWTAxUlBIU1NXeVdOS3NUS1RaZnNsOGk0OEgweVhWanlFbVMyeWNRLTFmR1g1dVlwNHNaMEdWQjY3TjdhUmRkZFpr": 1792500343597,
+    "threads:Det3NxYDxma": 1792500639621,
+    "news:CBMiwwFBVV95cUxOaGRoOWZuMTFpR016V1Z0R01hdV9OZFZEQmJHM2lCa3NhYVZEMVFmSm9HQXduX3JiR3ZzNGRhSzBTM25yS0FLNTZuQnZSemxmTkJOLUlTYVE0aC1LUU5DRDJ5RWdOUG5iT05tY3dkZ2xPaXFVSS1DMndpY2s4eVhCNE1pRkoxSXcya0lCVW5ER2pFTFE3RW51QjFxNUNmekhzVF9uaGVUeUs1VzFTem5ZVWY1bXcxLVZpcFRpNzVXbHFRTlnSAcMBQVVfeXFMTmhkaDlmbjExaUdNeldWdEdNYXVfTmRWREJiRzNpQmtzYWFWRDFRZkpvR0F3bl9yYkd2czRkYUswUzNucktBSzU2bkJ2UnpsZk5CTi1JU2FRNGgtS1FOQ0QyeUVnTlBuYk9ObWN3ZGdsT2lxVUktQzJ3aWNrOHlYQjRNaUZKMUl3MmtJQlVuREdqRUxRN0VudUIxcTVDZnpIc1RfbmhlVHlLNVcxU3puWVVmNW13MS1WaXBUaTc1V2xxUU5Z": 1792500639621
   },
   "digest": [
     {
@@ -11107,10 +11109,30 @@
       "d": 1792500252000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@pencaribansosai",
+      "x": "📌📌SIMPEN DULU BANSOS AI LAGIHH📌📌 MiniMax M3.1 Flash lagi free di beberapa provider, estimasinya bisa sampe 23 Oktober (kemungkinan jika mengacu pada ollama). Gas cobain gaes, k",
+      "u": "https://www.threads.com/@pencaribansosai/post/Det3NxYDxma",
+      "d": 1792500289000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "SMOL.id",
+      "x": "40 Tahun Tertahan, Ahmad Luthfi Kembalikan 1.947 Sertifikat Petani Teh Pagilaran Gratis - Smol Id - SMOL.id",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGRoOWZuMTFpR016V1Z0R01hdV9OZFZEQmJHM2lCa3NhYVZEMVFmSm9HQXduX3JiR3ZzNGRhSzBTM25yS0FLNTZuQnZSemxmTkJOLUlTYVE0aC1LUU5DRDJ5RWdOUG5iT05tY3dkZ2xPaXFVSS1DMndpY2s4eVhCNE1pRkoxSXcya0lCVW5ER2pFTFE3RW51QjFxNUNmekhzVF9uaGVUeUs1VzFTem5ZVWY1bXcxLVZpcFRpNzVXbHFRTlnSAcMBQVVfeXFMTmhkaDlmbjExaUdNeldWdEdNYXVfTmRWREJiRzNpQmtzYWFWRDFRZkpvR0F3bl9yYkd2czRkYUswUzNucktBSzU2bkJ2UnpsZk5CTi1JU2FRNGgtS1FOQ0QyeUVnTlBuYk9ObWN3ZGdsT2lxVUktQzJ3aWNrOHlYQjRNaUZKMUl3MmtJQlVuREdqRUxRN0VudUIxcTVDZnpIc1RfbmhlVHlLNVcxU3puWVVmNW13MS1WaXBUaTc1V2xxUU5Z?oc=5",
+      "d": 1792477860000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
