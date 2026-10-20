@@ -11206,29 +11206,11 @@
     "threads:Deu-oVJAgL_": 1792537843335,
     "threads:Deu-jNWDAB6": 1792537843335,
     "threads:Deu-DqxDk19": 1792537843335,
-    "threads:Deu-YEiEq9N": 1792537843335
+    "threads:Deu-YEiEq9N": 1792537843335,
+    "threads:Deu-nsJH-Aw": 1792538137849,
+    "news:CBMidEFVX3lxTE5fX25tYm5TTkdxcXVuZlU3ejlTbjlmNDVoUnllcHRiWHdSVlp2Z1ByVm42UW9LZkR0R0llWTdOT1FYZlNpQVRPMFFCS05JcVRCYk9pVS1pNzBYbTY3VlpZRW13bkhJU1FuSG9OLXRJRGlYbWtf": 1792538137849
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Bekabar.id",
-      "x": "38 Kepala Sekolah SD-SMP di Sungai Penuh Dilantik, Ini Pesan Wawako - Bekabar.id",
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3h3VnhmSHFlRF9WWHlwQk9WR3NXX1RfQjZKU2swZEpCVHNuU3puTWpPNGZ4azBlVGs1UXhYZ0FmTWdHZkVJVEhtZ3FvMzhpRWxhdi1yaDAySWZhRWcwSkxiRXh1N09zcmpnOXl1OHRFWkZVQnhpM1A1Qy01NWVVZnJMRTZVRllEd2VaTC1PU25TMmtmNWxlT3dzU3ZCX1k?oc=5",
-      "d": 1792509790000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Riau Pos",
-      "x": "Ratusan Massa Aksi Minta Pemerintah Selesaikan Masalah Karhutla dan Beasiswa - Riau Pos",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTY2ZTBkVmtuU0lVd0J3ZXgzODlpNGtuUkFkWVJERE9YRFZkVEFzZmhreUZ0Y0l1NVA1LTdpSHZPbVcyR1J5dS1ZcXZLNmVDS0VaLVF2OWJnaFV5bXFvSGdQMkY2RmNFYTQ4VGlOM2h6b1FHMm1BNmkxTkc0VnRfNWNsekpCczRKbFJTUnV5TGQtMW4tMWU3dUxNNFo0V1dhcWpFWi1uNUp4aDBoSkFHVU5NbTZJVXF3WC1fQdIBwgFBVV95cUxOd2o3X2h1aUEwSExqVUROcjhscTNkbnRQNFowT2dTRGpYMC1DbV8xZXBieVBkU2d2NEEzOHFZNzZUUzg2X2duV1JaUjNHdEpyV1ZTRG93bGN2eFRfY3E4d1gwd0VTdGp5cVJ5Q3dhMFM2Qm9jZkV2VkkwNlZKYWdVYTBVT1dxc2E2eFZGczl4OVpRXzVucVdGNFFGSXJoeloxWUhRS2txZ1RybTFoVXkwY09UY3d5ZURob1FzZWRrYlZFdw?oc=5",
-      "d": 1792493142000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -12708,17 +12690,36 @@
       "d": 1792537598000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@4mazingindia",
+      "x": "Disini mlh ya cuma skdar di ambil mau nolak pada takut krn konon katanya yang nolak besok2 bansos ga cair (pkh, BPNT, BPJS PBI bisa stop)",
+      "u": "https://www.threads.com/@4mazingindia/post/Deu-nsJH-Aw",
+      "d": 1792537726000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "CentralBatam",
+      "x": "Roma Wajibkan Defibrillator di 1.800 Tempat Usaha Besar - CentralBatam",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fX25tYm5TTkdxcXVuZlU3ejlTbjlmNDVoUnllcHRiWHdSVlp2Z1ByVm42UW9LZkR0R0llWTdOT1FYZlNpQVRPMFFCS05JcVRCYk9pVS1pNzBYbTY3VlpZRW13bkhJU1FuSG9OLXRJRGlYbWtf?oc=5",
+      "d": 1792526220000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792516906868,
-    "news": 1792537843335
+    "reddit": 1792516906868
   }
 }
