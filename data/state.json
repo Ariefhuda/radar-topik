@@ -11301,13 +11301,14 @@
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792473341515
+    "reddit": 1792473341515,
+    "news": 1792474844802
   }
 }
