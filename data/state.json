@@ -9540,7 +9540,11 @@
     "news:CBMixAFBVV95cUxPNUJCZG5QWVliU1dDckItQWVpQnJocjZpZEFEQ1hlSWRJNE9uTnItRVhQYnpUTmFfUXAxUW5xYURJQWZ3TFduMENMMlJMb3doVTB5cHdkRWN6SWhld3pXVFI0VFV6MGtUMkFZb3BGSmMzZmJjMVQ4bENSZzlRVUxwMFNMSDh6bnNCellRdkd1cEU5ek12cVUtbkR3M3Y4VjRDOGZZOVhCQTF0S3JiWVlxZTZ5QUl0b0RyaE10dXpoTEFSS1NR": 1792466141542,
     "news:CBMiuwFBVV95cUxNUV9FejhkSFJmTURlLU5KcXA5azAwUlhMVTRCSC0tSEhxWFVSeDlTUVR1eDZJZDYyRmoxeVJaeFJWS2trWnRid1hnWW1NTklVSWdEbXZIWXNPMWV1U2Jzd3d2cktnOVdjcngxUkYxNWRvVmJ6eW5TQUFzekhYMkhhUlBlaU5QaTdtMnk1X29mejQ3MmE1NVNuUDk1b2w3WXBPcWN6TVNoaERKS1ItNmdaT1BNY01zYXZIbU1j": 1792466141542,
     "news:CBMiXEFVX3lxTE9ldDZEaFgwM0dzdUpoa2RwZUZBMG5oN1BUSjFvbE8tWnBVdm51bzVVVWNtQzU1RTN4RzFVbFhJSUoyS3JIV3lMd0VjZTVRdloyNXk4MUFqek92MUR5": 1792466141542,
-    "news:CBMiZEFVX3lxTE1UT2hKRG5GNmpZLVI0QWk3MDFlZUxiYkdnVk5fOVlhcXBVd2tJcEkzc1VFSVo4MFBUMm5yak01bXlLUl9vSHpJZmhkMmdFOVNGekc5eVRZNHJyaXlob3hTZl9TeHc": 1792466141542
+    "news:CBMiZEFVX3lxTE1UT2hKRG5GNmpZLVI0QWk3MDFlZUxiYkdnVk5fOVlhcXBVd2tJcEkzc1VFSVo4MFBUMm5yak01bXlLUl9vSHpJZmhkMmdFOVNGekc5eVRZNHJyaXlob3hTZl9TeHc": 1792466141542,
+    "threads:DdixlVzCddI": 1792466445383,
+    "threads:Des1quKExS5": 1792466445383,
+    "threads:DcBwFQiCW8Z": 1792466445383,
+    "news:CBMiU0FVX3lxTE11RHh2UllrbFhDVkwwb3RMRTR5ZjZuV1FjVy1sWnJPM3Q1RkJpYkROMTkxYllwaWg2dlktVTBrXzNMaGM5dWRDUDZhLUgwU0FoYzYw": 1792466445383
   },
   "digest": [
     {
@@ -10642,10 +10646,30 @@
       "d": 1792466004000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@bagindaoloan",
+      "x": "📢 OPEN PARTNERSHIP QUICK TEST SAMPLING! Kantor gue lgi cari partner nih, dari berbagai industri untuk kolaborasi Quick Test Sampling Anti Ribet di area indoor, simple aja kok part",
+      "u": "https://www.threads.com/@bagindaoloan/post/Des1quKExS5",
+      "d": 1792465923000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "شبكة تواصل الإخبارية",
+      "x": "Cara Cek Penerima PKH BPNT Oktober 2026 Lewat NIK KTP - شبكة تواصل الإخبارية",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RHh2UllrbFhDVkwwb3RMRTR5ZjZuV1FjVy1sWnJPM3Q1RkJpYkROMTkxYllwaWg2dlktVTBrXzNMaGM5dWRDUDZhLUgwU0FoYzYw?oc=5",
+      "d": 1792466034000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
