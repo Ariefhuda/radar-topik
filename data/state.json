@@ -10890,19 +10890,12 @@
     "threads:DeuL-4zDrbo": 1792511739150,
     "threads:DeuNMpEn3uy": 1792511739150,
     "threads:DeuMp8kjk2q": 1792511739150,
-    "threads:DeuMme1EuIN": 1792511739150
+    "threads:DeuMme1EuIN": 1792511739150,
+    "threads:DeuOJq1CTwC": 1792512354615,
+    "news:CBMi6gFBVV95cUxOR3M2V0VOcEl0TU9aQzRXeGthRF9xLUwzazBSUzBsX25nWVlnOC1leVdzcUloZVVYZ0xmYVo2TzJzZms2U1J6MGEybEFLWWYtZk5LUFhkY3h2SXVXQkp1aF9zZHJwQV9Kd19uZks1M1lycGZOS09UZnhZdEkwRGNkRVE2emRvdUNzT2hnLWdLZlJ1RnM4aF9kcWdoYzlNb1Y2eXowWl9Ha0dOTDFFVDFYLUkwbC1vd0JEOFFXXzV3dnpOT2IxczhqUnBrUUo3ZEdwdUlxbXF2VUtQR0ZIWFdab0VtUEFuQ0IxcVHSAdsBQVVfeXFMT0Y3S01VT3BjREFzcFlHU0RyY0JyWlN3a0lySEZHQ1NGU3ZIa1hQcWY5aVBjb2NrRGlTUzZhUnMwOEdUT0w1R0RRVnNIRDlQU09OZ0xpdlVLMjhNZ3VBWUt6Z0JJM3cza0JtZFpQN2RobWNJNkVoVUh0VC05T3I0amxwbnpMSE9MQVJyMzdKNDlYXzR4OHJCdFpqYURSbDhocHhPbE1oZ1BVWTVtUV9vVUhBNkIyYjc0VGFpd1VrSlVlSTBCOE9sajZSR0NESXNuNklmeGFfMkxmZVNZ": 1792512354615,
+    "news:CBMisgFBVV95cUxNM3ZLR2hpLWFwY1phQ0xHUE9GbkREU25McW9GSDA2alNYNDVHTDNMMEpfdWduZjhmZ1NoMDFFbjRfZXh1a0ZwSHR2b19TWW8wR3B3aHE0RVJDX3loekZTUXRzc2FyR3pPUy1PekNkRmI3d0RidUhxOFVvcGY4cVcyalBwOFhUcmJCR28yYnFReThOUnZVcTRVWHF4N0M2MkhiUTVGOU54RXJ4STRFTmhjNVR3": 1792512354615
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@maulanaalv_15",
-      "x": "Halo! Aku alvian masykur maulana, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketi",
-      "u": "https://www.threads.com/@maulanaalv_15/post/Det2XjHn0Z4",
-      "d": 1792499845000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -12392,10 +12385,20 @@
       "d": 1792511502000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Minangsatu",
+      "x": "Penyaluran Bansos Sumbar Fokus Desil 1-4: Dit. PSNK Tegaskan Bansos Tahap 4 Belum Cair - Minangsatu",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3ZLR2hpLWFwY1phQ0xHUE9GbkREU25McW9GSDA2alNYNDVHTDNMMEpfdWduZjhmZ1NoMDFFbjRfZXh1a0ZwSHR2b19TWW8wR3B3aHE0RVJDX3loekZTUXRzc2FyR3pPUy1PekNkRmI3d0RidUhxOFVvcGY4cVcyalBwOFhUcmJCR28yYnFReThOUnZVcTRVWHF4N0M2MkhiUTVGOU54RXJ4STRFTmhjNVR3?oc=5",
+      "d": 1792512288000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-20-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
