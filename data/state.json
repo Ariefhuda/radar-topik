@@ -13026,19 +13026,13 @@
     "threads:DbE1XhIDZkx": 1792621546388,
     "news:CBMilwFBVV95cUxNb1Z4S3kxZHhGMy1pVkw5RmJKVUJjS3Z4NVVmb053WnJqbXBuWmxtcm8xdXBCY0RrZldBUVlURlBpem1pc0lYT1VFMGR1cTZzT0tyNkFIMTB4bUFrRE16OUFMVkVUdG5hUWp2SWI2eDgxSEVic0tWd05kN2JxeEt2dV9OaHNjZG9IV0NsaTNHNXBGZEJsRmtj": 1792621546388,
     "threads:Ddi8hKCFCv4": 1792621852436,
-    "threads:Del30QAE8Ao": 1792622743994
+    "threads:Del30QAE8Ao": 1792622743994,
+    "threads:DeoLHe6Cawu": 1792623041827,
+    "threads:Dd9W7Pvo-y8": 1792623041827,
+    "news:CBMi7gFBVV95cUxPWV9KZWh0ck5MbS03TjVMMDd5a3dNWmNZbTltYzZTSHhyNEJkU1NGMFFvTFAtTlpkOFpqNllBRkgwTF9lYlAwSVJSb3lMQlRnOWIyWnFQeVJZMkdJeW1pOUZxUENVcHkydEJZbll4cG10Xzk5NW9UamxVLUdQODFHaGFDODVZNVJwN1d1TDZ1b2RlRWtFTDBzU0ZkV2cwSDJNVnY2VUx2c2pSSjRtWWtvVDNpNEJxSXFQbzFhUlJGMWtTTWZvazFGaTFxZFdKV05VQlFKUE40cTBUWVRkOGFYaHM0N1RLSk1EbzdsMkV30gHuAUFVX3lxTE9ZX0plaHRyTkxtLTdONUwwN3lrd01aY1ltOW1jNlNIeHI0QmRTU0YwUW9MUC1OWmQ4Wmo2WUFGSDBMX2ViUDBJUlJveUxCVGc5YjJacVB5UlkyR0l5bWk5RnFQQ1VweTJ0QlluWXhwbXRfOTk1b1RqbFUtR1A4MUdoYUM4NVk1UnA3V3VMNnVvZGVFa0VMMHNTRmRXZzBIMk1WdjZVTHZzalJKNG1Za29UM2k0QnFJcVBvMWFSUkYxa1NNZm9rMUZpMXFkV0pXTlVCUUpQTjRxMFRZVGQ4YVhoczQ3VEtKTURvN2wyRXc": 1792623041827,
+    "news:CBMif0FVX3lxTE81cVl5T0RvV1NmMExRaEJxNzRlcUFLSnFjaFFMd0o1cEdqVE9GMDB6OEc4RVpCVnctVkUxNHFxdWEzMEZRbzZxaW1ObmhhUXpCaTFEbDdLSEhLTG5mS1liTXd1M2pDOFVNTTNKZWFDbkItYkI3Vng1Q1ZCQ3VXRGc": 1792623041827
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@rafiealtamis",
-      "x": "Kita nggak cuma bahas teori, tetapi juga latihan speaking, menyusun jawaban interview, dan belajar menyampaikan pengalaman dengan lebih terstruktur. 6/ Aku juga ingin kelas ini tet",
-      "u": "https://www.threads.com/@rafiealtamis/post/DewmcJYgZwp",
-      "d": 1792592157000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -14528,10 +14522,20 @@
       "d": 1792614562000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "JournalArta",
+      "x": "Cek Penerima Bansos PKH & BPNT Kemensos 22 Oktober 2026: Cara Cek NIK KTP Online - JournalArta",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cVl5T0RvV1NmMExRaEJxNzRlcUFLSnFjaFFMd0o1cEdqVE9GMDB6OEc4RVpCVnctVkUxNHFxdWEzMEZRbzZxaW1ObmhhUXpCaTFEbDdLSEhLTG5mS1liTXd1M2pDOFVNTTNKZWFDbkItYkI3Vng1Q1ZCQ3VXRGc?oc=5",
+      "d": 1792620001000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
