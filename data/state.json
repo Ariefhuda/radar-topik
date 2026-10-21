@@ -12868,19 +12868,13 @@
     "threads:Dew0G4mkq-R": 1792599354222,
     "threads:DewzoarE9SV": 1792599354222,
     "news:CBMiqAFBVV95cUxPckF4RTEwaDVwbzR4cUJqY2xhTmlTOEJOV2Q1bG9ib2JmOEYwX1NDcWFDWGRIRkN6TUwzelBmUDBIbFpWZWhLdnhBVjl2Nm44ZXhuWDJTdkRTU015cTBYSmtBYmVBWEhYWTBmWkctb0xBdThMdVVOVDNPWlhhMGZjUEZmWlo2VUttaXVaT1VjRlRzb3BVeUJGMzhnb292UlhHLW9sUFJucUw": 1792599354222,
-    "news:CBMizwFBVV95cUxQQWVXSkpvcnRqR0JnZHZ1Y215TEYzUlVYMC01Tlo0MmJ6S0NFeURndTY5cEZFS3Q1MUh3dVB4NXpmdFctc0ZPZHowd2ZhZVJaVXBHOWtMY0RKX2hHdnZlZGR6d2NjczVqT1J2LTJ0QUoweXhKcmhrRXdwVjdnN0s2RDRiSWxLcXdYXzFheF9PZmYwTERYbE9CNndoR1hOVUxZZldDZV9nR2ZjcThkSjJMS2l4V0tUQ1I1OXRMMVZ2VThKWXhrdnZ2cmtFRGUzZXc": 1792599645214
+    "news:CBMizwFBVV95cUxQQWVXSkpvcnRqR0JnZHZ1Y215TEYzUlVYMC01Tlo0MmJ6S0NFeURndTY5cEZFS3Q1MUh3dVB4NXpmdFctc0ZPZHowd2ZhZVJaVXBHOWtMY0RKX2hHdnZlZGR6d2NjczVqT1J2LTJ0QUoweXhKcmhrRXdwVjdnN0s2RDRiSWxLcXdYXzFheF9PZmYwTERYbE9CNndoR1hOVUxZZldDZV9nR2ZjcThkSjJMS2l4V0tUQ1I1OXRMMVZ2VThKWXhrdnZ2cmtFRGUzZXc": 1792599645214,
+    "threads:Dew1LqwHdCt": 1792599938800,
+    "threads:Dew0r7_v7-h": 1792599938800,
+    "news:CBMilgFBVV95cUxOTmcwU2N3MXowOTh2WnM2UnJ6Z2NwaGczeFFwWUJhbkx1TG1JSmxHbW5WWWZYa1BmRUk3SHZmOE1YSkFnd0JSVVhSV1FaTEhZc2JPVnBENUtQdXdwRlpUbW5ra2hmT29xZ3dmeG5vZ3ktQzRrcUs0TEdsemN1akw0blNrUWFfNFdJY0JsZDk4WUhITGQ1cHc": 1792599938800,
+    "news:CBMixgFBVV95cUxOX0NCUnloam5HMzNnVHVjdUZEOHFlc21Ec2xYS3NQRDh0aVVxOEJCS3p0bkVyeVpjV0FNWVhnZkF5M1p4NXRPT1d6VEwwWEJmcTRXUjh6UnY4eVZHLUxpd3REZUo2d2UwMkJvZlJSOTkxenFGRW5XVU0xNWJTb2FYSExQOEVGejA0NFNIZjZIVE1QSUZNc1RKS3hmYjdfTWJ3NV8tSS1Pci1FaFgtV05FU1BvQUl4cmc1SWZYRjFIODJCSjRSOHc": 1792599938800
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@abdlrazak__",
-      "x": "Coba yh waktu nganggur nunggu iship di bekali. Sama kemenkes pelatihan gratis wkwk",
-      "u": "https://www.threads.com/@abdlrazak__/post/DewcZy1AcP2",
-      "d": 1792586895000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -14370,10 +14364,20 @@
       "d": 1792595220000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Foto : 2 Tahun Prabowo-Gibran: Ketidaktepatan Data Penerima Masih Jadi PR Program Bansos - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0NCUnloam5HMzNnVHVjdUZEOHFlc21Ec2xYS3NQRDh0aVVxOEJCS3p0bkVyeVpjV0FNWVhnZkF5M1p4NXRPT1d6VEwwWEJmcTRXUjh6UnY4eVZHLUxpd3REZUo2d2UwMkJvZlJSOTkxenFGRW5XVU0xNWJTb2FYSExQOEVGejA0NFNIZjZIVE1QSUZNc1RKS3hmYjdfTWJ3NV8tSS1Pci1FaFgtV05FU1BvQUl4cmc1SWZYRjFIODJCSjRSOHc?oc=5",
+      "d": 1792595884000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
