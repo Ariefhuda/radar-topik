@@ -12603,7 +12603,8 @@
     "threads:DewfJmmEn_I": 1792588248446,
     "threads:DewenIfiV9g": 1792588248446,
     "news:CBMisgFBVV95cUxQazBpTEJpMUllUGpxNUIyR2FwY21Obm5rcmRWRUdjd09oUXkzdFZEak1yZXdYaHc4WEc3cHR5cTVIaEtZTzBONUlKcmtORGZZNzVoSjh5X2xJWmZicUJKZzdiMmJGUlZTa1h2bThWRkN2WDBITk9rWlFLeGRBdjBRWS1oQVh4U1JfOHN4OGxOUlZsVEtwaXpnRm5oTV84eDNUcHFHeUJhVzJLbks4Tm8tLWNB": 1792588248446,
-    "news:CBMixwFBVV95cUxPNzk2WjUtZW93YlJCVldJT3lhci1iLXZuTzJ1YUJBbGN6XzBpVmlfOHVDM3k5X1dMcGR3UFU0b0VsTEpGMFdfNE1SeXRDN0FTbm9mb1lDSjJvSE5FRGU1RE5UaGJMVDljMWJMLVIxTHp5X3lpMzgxWGdDWlpqOGk0TllxaG5KZlVydFRaMklDaUpQVTZIZW9Uc2tLYnJsVnY2Ry1ycTdONjQxVWtESW9fSmN2WnJ3cEY1MTF5VVNWdWhEMVcyU2Nj0gHHAUFVX3lxTE83OTZaNS1lb3diUkJWV0lPeWFyLWItdm5PMnVhQkFsY3pfMGlWaV84dUMzeTlfV0xwZHdQVTRvRWxMSkYwV180TVJ5dEM3QVNub2ZvWUNKMm9ITkVEZTVETlRoYkxUOWMxYkwtUjFMenlfeWkzODFYZ0NaWmo4aTROWXFobkpmVXJ0VFoySUNpSlBVNkhlb1Rza0ticmxWdjZHLXJxN042NDFVa0RJb19KY3ZacndwRjUxMXlVU1Z1aEQxVzJTY2M": 1792588248446
+    "news:CBMixwFBVV95cUxPNzk2WjUtZW93YlJCVldJT3lhci1iLXZuTzJ1YUJBbGN6XzBpVmlfOHVDM3k5X1dMcGR3UFU0b0VsTEpGMFdfNE1SeXRDN0FTbm9mb1lDSjJvSE5FRGU1RE5UaGJMVDljMWJMLVIxTHp5X3lpMzgxWGdDWlpqOGk0TllxaG5KZlVydFRaMklDaUpQVTZIZW9Uc2tLYnJsVnY2Ry1ycTdONjQxVWtESW9fSmN2WnJ3cEY1MTF5VVNWdWhEMVcyU2Nj0gHHAUFVX3lxTE83OTZaNS1lb3diUkJWV0lPeWFyLWItdm5PMnVhQkFsY3pfMGlWaV84dUMzeTlfV0xwZHdQVTRvRWxMSkYwV180TVJ5dEM3QVNub2ZvWUNKMm9ITkVEZTVETlRoYkxUOWMxYkwtUjFMenlfeWkzODFYZ0NaWmo4aTROWXFobkpmVXJ0VFoySUNpSlBVNkhlb1Rza0ticmxWdjZHLXJxN042NDFVa0RJb19KY3ZacndwRjUxMXlVU1Z1aEQxVzJTY2M": 1792588248446,
+    "threads:DewfqpKAdvF": 1792588549580
   },
   "digest": [
     {
@@ -13365,10 +13366,20 @@
       "d": 1792568497000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Syarat BSU mengacu Permenaker No. 5 Tahun 2025: 1. WNI dengan NIK valid, 2. Peserta aktif BPJS Ketenagakerjaan kategori Pekerja Penerima Upah (PU) sampai cut-off April/Mei 2025, 3.",
+      "u": "https://www.threads.com/@meta.ai/post/DewfqpKAdvF",
+      "d": 1792588606000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
