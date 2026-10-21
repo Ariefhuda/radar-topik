@@ -12373,29 +12373,11 @@
     "threads:DewSsVDkuu5": 1792581938722,
     "threads:DewSLbsHzy4": 1792581938722,
     "threads:Db7HR7CE8oC": 1792581938722,
-    "news:CBMiswFBVV95cUxQUmM0VjdSczM2cUduTURESl9XbEZfT1lFVkZxc1hROEFYS0FjZFRFcGgyRE5ZQUN4SlNtX2xqZGNKT3lxMm5Idm1KUXhEYU40elNPeGloNl9UaGtLNEpIUFRHSEZHMXRIWXNDajdhbEZONGFiMVZ0YjVhdjAxOVE4ZWF3dEtUSXJUaXpXWEJOQWlfT2hsWGo1YXpYZ3U2SG1EUUlKODN0MVhJRHA5ZlNGVUJfUQ": 1792581938722
+    "news:CBMiswFBVV95cUxQUmM0VjdSczM2cUduTURESl9XbEZfT1lFVkZxc1hROEFYS0FjZFRFcGgyRE5ZQUN4SlNtX2xqZGNKT3lxMm5Idm1KUXhEYU40elNPeGloNl9UaGtLNEpIUFRHSEZHMXRIWXNDajdhbEZONGFiMVZ0YjVhdjAxOVE4ZWF3dEtUSXJUaXpXWEJOQWlfT2hsWGo1YXpYZ3U2SG1EUUlKODN0MVhJRHA5ZlNGVUJfUQ": 1792581938722,
+    "threads:DewShZCgZiX": 1792582259449,
+    "news:CBMilAFBVV95cUxQWkNscU5CN0RuSFVoTjhORGpHQ0gtN2d4NkN0blh6ZTNzbFVEQUZUWENKb2NJaXF1OERSc0ZlMzY1R2lfR25TbXhGZmFhU1F5NmxKYVVYbkswSGZtSnA2VTNhdXpmeHdmajIwQy1lOW1pRDdsbkNKWTFOcFhVTEN4WVdwZGN6aUk0N1haMWVUTEhnWV9u": 1792582259449
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dhimas_andrian",
-      "x": "Kuyy kak, kalau ngopi santai bisa kapan saja saya hehehe, kalau mau ikut pelatihan microstock bulan depan kak gratis",
-      "u": "https://www.threads.com/@dhimas_andrian/post/DewAaWnE84g",
-      "d": 1792572220000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@azorelsvitzer",
-      "x": "Ia kak sy juga pengen banget buka bimbel gratis buat anak2 ABK yg ekonominya disini memang menengah kebawah, minimal mereka mampu mandiri. Karena kehawatiran semua ibu pasti mikirn",
-      "u": "https://www.threads.com/@azorelsvitzer/post/DewAUwwnwDe",
-      "d": 1792572174000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -13875,16 +13857,36 @@
       "d": 1792581764000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@caramelmachitata",
+      "x": "Konoha oh konoha. Giliran disuruh lembur gak dibayar rajin, giliran minta HAK cuti 1 hari berasa kayak minta dana bansos. ​A thread: Pengalaman kerja di kantor toxic dengan jatah c",
+      "u": "https://www.threads.com/@caramelmachitata/post/DewShZCgZiX",
+      "d": 1792581715000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Bali Post",
+      "x": "KPU Karangasem Kukuhkan Puluhan SPD dan GPD - Bali Post",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkNscU5CN0RuSFVoTjhORGpHQ0gtN2d4NkN0blh6ZTNzbFVEQUZUWENKb2NJaXF1OERSc0ZlMzY1R2lfR25TbXhGZmFhU1F5NmxKYVVYbkswSGZtSnA2VTNhdXpmeHdmajIwQy1lOW1pRDdsbkNKWTFOcFhVTEN4WVdwZGN6aUk0N1haMWVUTEhnWV9u?oc=5",
+      "d": 1792581643000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792560645714
+    "reddit": 1792582259449
   }
 }
