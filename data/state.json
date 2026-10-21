@@ -12496,7 +12496,9 @@
     "threads:DewYVFgFFJs": 1792584938646,
     "threads:DewX2sEE41w": 1792584938646,
     "threads:DewYg9-lOKQ": 1792584938646,
-    "threads:DewXz3hAeMP": 1792584938646
+    "threads:DewXz3hAeMP": 1792584938646,
+    "news:CBMi6AFBVV95cUxON2xudnpIQm9vNEFuMnN3SmFnVHE0S0JqM0wyT3pwU04xVmJ4NjZsd2MxaUhRWUs3SzZvRzJKdWF6WVVlcWJoTXdGckI0ajJZUnpqQ244SlNuaWlCcFM0TmNvSlkzVkpFc3pWUGdvU0Q5MlBXTzVyZjI2S2preFZlLWJvaGRaOExXMUFHdTBXdjd0b0xMODhMaWItSEFaSmJHc2o0bGUzaFdKeXdyOG9sWkphbmhRek45cVpfZW40SDh2WlVyNnZEdFZfRlJEY0o4M0lmbmFiR0lQZWE1OGZCMVMzQ2lPU21V": 1792585247668,
+    "news:CBMi2AFBVV95cUxQVWJlbEhaY1Jpd1lQdVRLaWk4amZlejNOUnhHenN5TXlmUmMtcW10MUxUZFNJZnQwdGJaU1YzeGNNRGpUdld3Q2ZnM1doVTBzNnFrOFdnV0xIUnc0clotbmtkZk5rWlg5Q1BvdlRXMVhITmZXaWZ4YWZVSk1FdVF3cG1tSjU2d0dyRkx2VTk4X0w1MzE1dzNTRGxmTkk2WngwYkNJb1dWTmN6Wlhfb0puRUVYbGtaQU4zSERoeWxrdW1hMzRSQTBUQjRZTUdDS1NJT2w1ZlNNSm7SAdgBQVVfeXFMUFViZWxIWmNSaXdZUHVUS2lpOGpmZXozTlJ4R3pzeU15ZlJjLXFtdDFMVGRTSWZ0MHRiWlNWM3hjTURqVHZXd0NmZzNXaFUwczZxazhXZ1dMSFJ3NHJaLW5rZGZOa1pYOUNQb3ZUVzFYSE5mV2lmeGFmVUpNRXVRd3BtbUo1NndHckZMdlU5OF9MNTMxNXczU0RsZk5JNlp4MGJDSW9XVk5jelpYX29KbkVFWGxrWkFOM0hEaHlsa3VtYTM0UkEwVEI0WU1HQ0tTSU9sNWZTTUpu": 1792585247668
   },
   "digest": [
     {
@@ -12688,10 +12690,30 @@
       "d": 1792584487000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "IndoSatuNews.com",
+      "x": "Sinergi Pemenuhan Hak Kesehatan, Rutan Kelas I Cirebon Gelar Cek Kesehatan Gratis dan Skrining TBC Chest X-Ray bagi Warga Binaan - IndoSatuNews.com",
+      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2xudnpIQm9vNEFuMnN3SmFnVHE0S0JqM0wyT3pwU04xVmJ4NjZsd2MxaUhRWUs3SzZvRzJKdWF6WVVlcWJoTXdGckI0ajJZUnpqQ244SlNuaWlCcFM0TmNvSlkzVkpFc3pWUGdvU0Q5MlBXTzVyZjI2S2preFZlLWJvaGRaOExXMUFHdTBXdjd0b0xMODhMaWItSEFaSmJHc2o0bGUzaFdKeXdyOG9sWkphbmhRek45cVpfZW40SDh2WlVyNnZEdFZfRlJEY0o4M0lmbmFiR0lQZWE1OGZCMVMzQ2lPU21V?oc=5",
+      "d": 1792585177000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Blitar Kawentar",
+      "x": "Bansos PKH dan BPNT Oktober 2026, Segini Nominal Bantuan dan Cara Cek Lewat NIK KTP - Blitar Kawentar",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWJlbEhaY1Jpd1lQdVRLaWk4amZlejNOUnhHenN5TXlmUmMtcW10MUxUZFNJZnQwdGJaU1YzeGNNRGpUdld3Q2ZnM1doVTBzNnFrOFdnV0xIUnc0clotbmtkZk5rWlg5Q1BvdlRXMVhITmZXaWZ4YWZVSk1FdVF3cG1tSjU2d0dyRkx2VTk4X0w1MzE1dzNTRGxmTkk2WngwYkNJb1dWTmN6Wlhfb0puRUVYbGtaQU4zSERoeWxrdW1hMzRSQTBUQjRZTUdDS1NJT2w1ZlNNSm7SAdgBQVVfeXFMUFViZWxIWmNSaXdZUHVUS2lpOGpmZXozTlJ4R3pzeU15ZlJjLXFtdDFMVGRTSWZ0MHRiWlNWM3hjTURqVHZXd0NmZzNXaFUwczZxazhXZ1dMSFJ3NHJaLW5rZGZOa1pYOUNQb3ZUVzFYSE5mV2lmeGFmVUpNRXVRd3BtbUo1NndHckZMdlU5OF9MNTMxNXczU0RsZk5JNlp4MGJDSW9XVk5jelpYX29KbkVFWGxrWkFOM0hEaHlsa3VtYTM0UkEwVEI0WU1HQ0tTSU9sNWZTTUpu?oc=5",
+      "d": 1792577138000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
