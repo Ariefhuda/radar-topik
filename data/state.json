@@ -12306,19 +12306,10 @@
     "threads:DewNmn_D01U": 1792579863722,
     "threads:DewO2ZGk8_C": 1792579863722,
     "threads:Dev2hqomrpf": 1792579863722,
-    "threads:DewKHLTmEHI": 1792579863722
+    "threads:DewKHLTmEHI": 1792579863722,
+    "news:CBMiggFBVV95cUxPcktuNGVvWEJuVWFvTjRaaHFpSE5IRUd6NHl1VjFXTmJzV2ZteG93bzBBNEtVRXhOR1lfWWdaTG1jZ0l4TndQODU5bDhEdXVhc2I1SHBYNzd4Tk1TUmZqWUpnX0tldXg5VHV0NENtRmY2M0xBWkljN3hPY1RLZE44YlJn": 1792580142705
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rudysutedy6",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@rudysutedy6/post/Dev64D6lNcv",
-      "d": 1792569317000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -13808,10 +13799,20 @@
       "d": 1792577305000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Samudrafakta",
+      "x": "Pemerintah Rombak Tata Kelola Makan Bergizi Gratis ala Jepang - Samudrafakta",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcktuNGVvWEJuVWFvTjRaaHFpSE5IRUd6NHl1VjFXTmJzV2ZteG93bzBBNEtVRXhOR1lfWWdaTG1jZ0l4TndQODU5bDhEdXVhc2I1SHBYNzd4Tk1TUmZqWUpnX0tldXg5VHV0NENtRmY2M0xBWkljN3hPY1RLZE44YlJn?oc=5",
+      "d": 1792556103000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
