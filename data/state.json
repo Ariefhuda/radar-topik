@@ -11551,7 +11551,13 @@
     "threads:DevYHlGEjW_": 1792551653974,
     "threads:DevZWxokjkx": 1792551653974,
     "threads:DevZI6FiTPb": 1792551653974,
-    "news:CBMijwFBVV95cUxNTkhJWUZxaktpTl9jeldJVk84VU5pQ25Jb1VUYWRkZjJMRkxJMVMtaTdaWk52anc3cDdqQzRQZk15OFhMMHFnQkd3VWxOTHdVekYzUVJiREVkSGdFcl9Xa1BRREFscThIdktuT2FtUVI0anAtYXVKb3dHQ1NRX2k1a09EbkowM3RtZXRCd0dzcw": 1792551653974
+    "news:CBMijwFBVV95cUxNTkhJWUZxaktpTl9jeldJVk84VU5pQ25Jb1VUYWRkZjJMRkxJMVMtaTdaWk52anc3cDdqQzRQZk15OFhMMHFnQkd3VWxOTHdVekYzUVJiREVkSGdFcl9Xa1BRREFscThIdktuT2FtUVI0anAtYXVKb3dHQ1NRX2k1a09EbkowM3RtZXRCd0dzcw": 1792551653974,
+    "threads:DevYp1WGQWL": 1792551938670,
+    "threads:DQGHu1jkkev": 1792551938670,
+    "threads:DevZH0DgOBW": 1792551938670,
+    "threads:DevYt4fAXdO": 1792551938670,
+    "news:CBMiwwFBVV95cUxPMmx2QXN3QnlBYlVuRHdMTWxWVVcybnBwYlk1Z0prNjVTZlNCdlEyZm9ZYUpQWkdsYXk0R0VjSHBLTXp6NGJtMFQyLXd0WWkwWkRrQnhfWnBoUDFEV1R2UXA2dXZSQm9BOE5haFV3R2tpMldtaVBOWWVCTmw2YVp5dWdPbkZWXzhKYVNkczVDc01lYWV2YUJNUjloeWg1UkJ2R01zbXlJRkZ6YUNTNldWNk9jVkQyNWJjYmJFd2htbm1VQkk": 1792551938670,
+    "news:CBMickFVX3lxTFBKOGlrRkE2SWRXU1VOdmc5Umt5MlU4WTJjeU5kUWR3STV0QXRMQUhFdS11c1RYVFJESTEtVThXYzE5cFpramhmdExmY1RVanFvZGh0bG82dkhXSXhrZU9zdWdOZDFveUZwQXFmaXdjbzVXZw": 1792551938670
   },
   "digest": [
     {
@@ -12663,10 +12669,50 @@
       "d": 1792551648000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@pmb.usahidsolo",
+      "x": "Masih kelas XII atau udah lulus nunggu pendaftaran Maba Usahid Solo? Eits tenang aja, udah dibuka gelombang dini, yang ada spesial beasiswa loh. Kamu bisa mendapatkan Gratis uang g",
+      "u": "https://www.threads.com/@pmb.usahidsolo/post/DevYp1WGQWL",
+      "d": 1792551375000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Iya, 2 tahun terakhir memang padat — kalau untuk kerangka Sejarah & PPKn, ini poin-poin yang paling sering diminta guru masuk kurikulum: Ekonomi & tata kelola: Prabonomics identik ",
+      "u": "https://www.threads.com/@meta.ai/post/DevZH0DgOBW",
+      "d": 1792551621000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@dewilestari_111",
+      "x": "📌 temen-temen sahabat Bansos, Ada tidak yang mengalami ketika Cek Desil ternyata hasilnya tidak memiliki Desil - Nah... Temen-temen wajib lapor nih... Kependamping sosial atau ope",
+      "u": "https://www.threads.com/@dewilestari_111/post/DevYt4fAXdO",
+      "d": 1792551409000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Kemdiktisaintek Satukan Informasi Beasiswa Lewat SatuBeasiswa - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOGlrRkE2SWRXU1VOdmc5Umt5MlU4WTJjeU5kUWR3STV0QXRMQUhFdS11c1RYVFJESTEtVThXYzE5cFpramhmdExmY1RVanFvZGh0bG82dkhXSXhrZU9zdWdOZDFveUZwQXFmaXdjbzVXZw?oc=5",
+      "d": 1792551802000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
