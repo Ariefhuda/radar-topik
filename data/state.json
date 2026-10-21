@@ -12670,7 +12670,10 @@
     "threads:DewiC9fk9tN": 1792590644288,
     "threads:DewiEB3j7GL": 1792590644288,
     "news:CBMikAFBVV95cUxON2l5cTZSV19OY2NxZW5fMWcxLUZpdGlqcU5DUXprMnBFbDBGNUFGaU5ZRFg1ZHV6WVUxSTJESVluUnBSYU9VelRsSV9UOHJpcEt6WnMyWm1PYXBCNEYtM281V1BHWUgxSGtERFVxcUlVcVZtSDBDOWlub0hJaGV6QTJpLVh2TENVV1FqZ0g5dFg": 1792590644288,
-    "news:CBMiuwFBVV95cUxNWXIyV1NyQUExbjhnN0pYNG9SMjFJY0hFSDRpYkppdVdnMVh4cXczcXlCakp5S0tyZWhXVTFiVEtGOXFMcXFPcWRfU1Y4UThZbUtxdlNabG1mcEtlelVybEYwUEdEOFlYZHEwd1p5a1hGRkl2UjBFNzJsTTRQdkRJbk1Cd0JhOW14RzVxdU5oeDUyYzNlYmpZLThZWVVnRll2RC1rLVBDVTUyNTdWTEJWd3I5b1NCSjI5V3hN": 1792590644288
+    "news:CBMiuwFBVV95cUxNWXIyV1NyQUExbjhnN0pYNG9SMjFJY0hFSDRpYkppdVdnMVh4cXczcXlCakp5S0tyZWhXVTFiVEtGOXFMcXFPcWRfU1Y4UThZbUtxdlNabG1mcEtlelVybEYwUEdEOFlYZHEwd1p5a1hGRkl2UjBFNzJsTTRQdkRJbk1Cd0JhOW14RzVxdU5oeDUyYzNlYmpZLThZWVVnRll2RC1rLVBDVTUyNTdWTEJWd3I5b1NCSjI5V3hN": 1792590644288,
+    "threads:DewjdojDetV": 1792590954597,
+    "threads:DewjV_uAr0Y": 1792590954597,
+    "threads:DewjbVKD0Fg": 1792590954597
   },
   "digest": [
     {
@@ -13752,16 +13755,37 @@
       "d": 1792590479000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Nggak masuk akal kalau dari gaji pokoknya aja. Desil 1 itu 10% paling miskin di data Kemensos (DTKS/DTSEN) - indikatornya pendapatan sangat rendah, nggak punya aset, rumah tidak la",
+      "u": "https://www.threads.com/@meta.ai/post/DewjdojDetV",
+      "d": 1792590597000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Desil 1 itu 10% paling miskin di Data Tunggal Sosial Ekonomi Nasional (DTSEN) Kemensos, acuannya bukan gaji aja tapi hasil pendataan lapangan + padan NIK. Kok bisa pejabat / punya ",
+      "u": "https://www.threads.com/@meta.ai/post/DewjV_uAr0Y",
+      "d": 1792590534000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792582259449
+    "reddit": 1792582259449,
+    "news": 1792590954597
   }
 }
