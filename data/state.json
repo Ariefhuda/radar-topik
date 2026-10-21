@@ -12998,19 +12998,10 @@
     "threads:DemRnNqDzn9": 1792616478238,
     "threads:DefaY_pkf1U": 1792616478238,
     "threads:DevbXAyk-49": 1792616478238,
-    "news:CBMitAFBVV95cUxOUG9saDZVT0hyeHljT2pFZkEtTmFYS1U2UmkwT05Zd1U4RjY0X2ltaXZEUVZOclF0a0I1a2ZIQklleUhIZ201V2xPNVNRT2FFNzRvdzl1MnBubUxwM3RDd2F4QkFSazJ6REl5TmQxQ0MzTG1GZ1VXUVkxVXBXVEszdWd6QjU5bU1fVGpGbGptWklFRDZvSVU3am5jQ01CUHJtSFpUNk9RTEZoNkYySElWVmJPNXk": 1792616478238
+    "news:CBMitAFBVV95cUxOUG9saDZVT0hyeHljT2pFZkEtTmFYS1U2UmkwT05Zd1U4RjY0X2ltaXZEUVZOclF0a0I1a2ZIQklleUhIZ201V2xPNVNRT2FFNzRvdzl1MnBubUxwM3RDd2F4QkFSazJ6REl5TmQxQ0MzTG1GZ1VXUVkxVXBXVEszdWd6QjU5bU1fVGpGbGptWklFRDZvSVU3am5jQ01CUHJtSFpUNk9RTEZoNkYySElWVmJPNXk": 1792616478238,
+    "news:CBMinwFBVV95cUxPTFNoMlVxMFY1NmJSYlBvcDB6NEFrdTdRVzBNTEozRHdNc2lSa1pHRVJyU1o5emdkYW9Dd1RKU0E0Ym5KWndwSzVyMUh6YTFBaTJ3eExSMHAxQUxuTXQ0ZFFpLWJYcldjNnBVeWxjcDJ5SjZKQXJPNUk0OFJHZGlhdE1hdW84X1B0ek53OUhycTZZOVY4VTNpNFp5NU55Q0XSAZ4BQVVfeXFMTlJZVnJhWnhOcEFwODhOTWpYUG9teDVBRlpGbEtzSHI4NzVINjBVbml4VGZiN0tta0hIeTRIZFlWaVVyRGNNRDVhVXl5OWZHd1BiNWtHd3ZjcGE1X0gtUG5kd05ZMFU5RTY0VVFvTTZ1Y19nLW5SUHNLcEdRS1lSWjd2TEY1UUZDQjZGQVhQRmptWklXMjFkNTBydWg2M1E": 1792616742393
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Bansos Rp 600 Ribu untuk Desil 1-5 Prioritas, Cek Kriteria Penerimanya - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRU9wYlMzNGVLNlA5dm05amR6bWRRcl81YXh4TVluRTZpc09KSjdmdEJnOE1QYkFpWXRHQlNrN1M3ejM1ZHhsZmgzXzhKdUREMGJrLXdHdTVBVS1OdjhjT2pfOXBkRG9JaHN6OVhVRVI5MHdfTWdFNmdUQ2dkdjU5eUotTjdxVGV5dUtqUEZZc0VtYmFRZlV5MDRob25CTk53V05Kc2ZOUmtlYmhJUEZUU25yRnAtNTNyTUHSAb8BQVVfeXFMTnp0ZGdoa0loZ1dJd1hXdlJFNmlaSmtrcXFYLVowOEgzaWdNbzNUNTk5bnZXWF9zQTN4TjYwWWRmWVloemJxWnJCeGN2TVF0c2dwcF9CeEFLV2dwU1ZtYmtFbjJMMktmTkMxY1djajR2bG5xNFNkdnVLUUZYd2RVbDJ6YUlObWZWV2dRamRkV0NRU25WckMzVmVEVXdXVzVUR3BmZGo3Vk5YVXFGaFczUHkwRVpZUmlaZVdoUFZfTXc?oc=5",
-      "d": 1792586422000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -14500,10 +14491,20 @@
       "d": 1792552794000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nova.grid.id",
+      "x": "Segera Cair, Ini Cara Cek Status Bansos BPNT Tahap 4 2026 Resmi - nova.grid.id",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFNoMlVxMFY1NmJSYlBvcDB6NEFrdTdRVzBNTEozRHdNc2lSa1pHRVJyU1o5emdkYW9Dd1RKU0E0Ym5KWndwSzVyMUh6YTFBaTJ3eExSMHAxQUxuTXQ0ZFFpLWJYcldjNnBVeWxjcDJ5SjZKQXJPNUk0OFJHZGlhdE1hdW84X1B0ek53OUhycTZZOVY4VTNpNFp5NU55Q0XSAZ4BQVVfeXFMTlJZVnJhWnhOcEFwODhOTWpYUG9teDVBRlpGbEtzSHI4NzVINjBVbml4VGZiN0tta0hIeTRIZFlWaVVyRGNNRDVhVXl5OWZHd1BiNWtHd3ZjcGE1X0gtUG5kd05ZMFU5RTY0VVFvTTZ1Y19nLW5SUHNLcEdRS1lSWjd2TEY1UUZDQjZGQVhQRmptWklXMjFkNTBydWg2M1E?oc=5",
+      "d": 1792553638000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
