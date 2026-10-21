@@ -12556,7 +12556,9 @@
     "threads:DewcGdWgeAm": 1792586743906,
     "threads:DewcG9uEx78": 1792586743906,
     "threads:DewbaK6GbHt": 1792586743906,
-    "threads:DewbWRAGZax": 1792586743906
+    "threads:DewbWRAGZax": 1792586743906,
+    "news:CBMiswFBVV95cUxNSzd5LWlKZVBJNzBxTV9vOV9GbmRIQ0MyVThZSkVKa0RwS1FHU1ZiZGdPQlk2dFIwYmxMSkgzSTFhU1RSeENYN2Nzcl9rX1UzTk1wX2NqNF9mRjByd2ZRNGwwMGZhUWVDQkZFVUc3c2tuUEx5VjJuclVsUU5yRUdkcndUWFdfaUN1WFJNMGkxajYxLWFRZk5qRGN0aWJMSlRIeEt0VXp5LU9Cei1BNGQ4ck9hVQ": 1792587047864,
+    "news:CBMi0gFBVV95cUxORFhZSy1Dd0Q5UDJsV0xMZ2FHX3pnVTItcWZHczFwVmw0eUlheGtUZkxmRHFxaktoRHI2X0M1SzFoRVNOTnBrN1JSQ0lUS3NKVDlLeVZyblpOZ25YYWh5UHVSWVpVVzZWQi11cUZBdjBmVWtwVHBHcDRWUnFBNFV2WVMxeWlaNVdzX1pBbnFVcWtKN1g5aVRFaVpQdGpqbE03eU1wWkZONXlhWlVNRjhJdDFuUjRRQjQydzAzS3ZiVmIyOEhNOGhEZVN2MDl2NTRjd0HSAdcBQVVfeXFMTmlqTkMyc3QxcDcxN3ZnblFHUHJqandtRml3S2dmOTRhMU5EbXJYRmt2cXZ5ZzZ0eXczdDl2OXFxQ1R5VkMzdndMMEZubVRsa2JDdDROMEYyT2hlMG1LQnJoN2toWmx2Snhia1JVaVBGYk50ZXp3TVVaeVFjelpZNThlWXh5akQ4aTNPQlNvVk1QZlE0SllEN05oOVFZek1VRW44YXh2c1FuSERLSkxuWTJ6MkFkTlhIVHBTdERZcHhldzZfRTlKY3JHeW85LTB3VXgxUmh4b3M": 1792587047864
   },
   "digest": [
     {
@@ -13078,10 +13080,30 @@
       "d": 1792586342000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Banten Ekspres",
+      "x": "Disnaker Kabupaten Tangerang Buka Pelatihan Kerja Las Hingga Forklift - Banten Ekspres",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzd5LWlKZVBJNzBxTV9vOV9GbmRIQ0MyVThZSkVKa0RwS1FHU1ZiZGdPQlk2dFIwYmxMSkgzSTFhU1RSeENYN2Nzcl9rX1UzTk1wX2NqNF9mRjByd2ZRNGwwMGZhUWVDQkZFVUc3c2tuUEx5VjJuclVsUU5yRUdkcndUWFdfaUN1WFJNMGkxajYxLWFRZk5qRGN0aWJMSlRIeEt0VXp5LU9Cei1BNGQ4ck9hVQ?oc=5",
+      "d": 1792572931000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Portal Pekalongan",
+      "x": "Beasiswa Riset Baznas 2026 Segera Dibuka, Persiapkan Persyaratannya! - Portal Pekalongan",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORFhZSy1Dd0Q5UDJsV0xMZ2FHX3pnVTItcWZHczFwVmw0eUlheGtUZkxmRHFxaktoRHI2X0M1SzFoRVNOTnBrN1JSQ0lUS3NKVDlLeVZyblpOZ25YYWh5UHVSWVpVVzZWQi11cUZBdjBmVWtwVHBHcDRWUnFBNFV2WVMxeWlaNVdzX1pBbnFVcWtKN1g5aVRFaVpQdGpqbE03eU1wWkZONXlhWlVNRjhJdDFuUjRRQjQydzAzS3ZiVmIyOEhNOGhEZVN2MDl2NTRjd0HSAdcBQVVfeXFMTmlqTkMyc3QxcDcxN3ZnblFHUHJqandtRml3S2dmOTRhMU5EbXJYRmt2cXZ5ZzZ0eXczdDl2OXFxQ1R5VkMzdndMMEZubVRsa2JDdDROMEYyT2hlMG1LQnJoN2toWmx2Snhia1JVaVBGYk50ZXp3TVVaeVFjelpZNThlWXh5akQ4aTNPQlNvVk1QZlE0SllEN05oOVFZek1VRW44YXh2c1FuSERLSkxuWTJ6MkFkTlhIVHBTdERZcHhldzZfRTlKY3JHeW85LTB3VXgxUmh4b3M?oc=5",
+      "d": 1792584000000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
