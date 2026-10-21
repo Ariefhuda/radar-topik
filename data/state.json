@@ -13047,19 +13047,10 @@
     "threads:Dexa2EaEdIz": 1792625738601,
     "threads:DdmnZoMDAN0": 1792625738601,
     "news:CBMiZEFVX3lxTE9vNzlJWDdkU2ZSeFlqM2szUVZSUm1Bd2d6eU04dUI1UDVuTlBid09EYXFRRjZPWlhnWWVrZ2RyMWlvSmFoT2RNbENEVUdJSTF3MHY2U0kwSXY1ZXAzWWdNcmhPZ1I": 1792625738601,
-    "news:CBMieEFVX3lxTE9ULW9aVkN1SVlmbm5IRXBFTGtjSTlPUGhHbmJaYTVRMUZxYnIwajBRd25sZTJzUnlqZ2ZVWjhFQnBhdVV5eXRCUFJSd0ZnM3VJMUhXOGJsR3hCTlJqU21VYnBpMjh6WTU3Q1M2VE9UR1I0OHNwbXNwbg": 1792625738601
+    "news:CBMieEFVX3lxTE9ULW9aVkN1SVlmbm5IRXBFTGtjSTlPUGhHbmJaYTVRMUZxYnIwajBRd25sZTJzUnlqZ2ZVWjhFQnBhdVV5eXRCUFJSd0ZnM3VJMUhXOGJsR3hCTlJqU21VYnBpMjh6WTU3Q1M2VE9UR1I0OHNwbXNwbg": 1792625738601,
+    "threads:DexlZD6kzva": 1792626039761
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dausevolusi",
-      "x": "Minggu depan mentorku ngadain webinar GRATIS tentang Digital Marketing & Bisnis Online kk. Kk boleh ikut klo minat. Silahkan DM. Nanti sy kirim linknya",
-      "u": "https://www.threads.com/@dausevolusi/post/Dewm4EFk7bP",
-      "d": 1792592386000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -14549,16 +14540,26 @@
       "d": 1792625300000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@aldifahri_",
+      "x": "Sertif halal jangan ditunda. Buat temen2 khususnya daerah bekasi yang punya usaha makanan/minuman, udah kepikiran ngurus sertifikat halal belum? Walaupun deadline diundur kr Okt 20",
+      "u": "https://www.threads.com/@aldifahri_/post/DexlZD6kzva",
+      "d": 1792625162000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792604276485
+    "reddit": 1792626039761
   }
 }
