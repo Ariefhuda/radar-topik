@@ -12193,19 +12193,12 @@
     "threads:DewGU4wlPob": 1792575347714,
     "threads:DewFHHAkSW7": 1792575347714,
     "threads:DewGUJ6jHAE": 1792575347714,
-    "news:CBMi0gFBVV95cUxORWJpUTNzQVY1UHo4MTZiNnZZX0NlSnVIWkk3bVZXNThvYkNFZFpRU1pHdmNES056QjNCUzdvS3ZCWkpTR0FoS2YzcF94eGlhV0t1QVBCU1Nib2dDN09KVVpoM1VyZHY3UWhlZzVLVTlBWjhObzNBczhXUkRINWp5VmNKS0JnUDlVSnJKSW9UbG1VREkxV3lfNFlWdDFDRzhBVjVEQW45b2szMDQ3ZEJNNzdKaDhFZzNtMnYyekNNQkxJNVhneHllNTVwSzFPa2FXM2c": 1792575347714
+    "news:CBMi0gFBVV95cUxORWJpUTNzQVY1UHo4MTZiNnZZX0NlSnVIWkk3bVZXNThvYkNFZFpRU1pHdmNES056QjNCUzdvS3ZCWkpTR0FoS2YzcF94eGlhV0t1QVBCU1Nib2dDN09KVVpoM1VyZHY3UWhlZzVLVTlBWjhObzNBczhXUkRINWp5VmNKS0JnUDlVSnJKSW9UbG1VREkxV3lfNFlWdDFDRzhBVjVEQW45b2szMDQ3ZEJNNzdKaDhFZzNtMnYyekNNQkxJNVhneHllNTVwSzFPa2FXM2c": 1792575347714,
+    "threads:DewGoN8DyX1": 1792575638777,
+    "news:CBMilwFBVV95cUxOd1ZCR1B5ckR2TnNraXpERTg4WEt6blJwRUFWQWpmRlZpdTFBVDJSajNORDdPZ3ZUYkZ6WDJ0RUlscDluUVZDUzRVWDRJbVoyaDVhWkJMU0lqTWNkRXpNUktHODhRV0VRWG9NT1dOazhiMnJIcVpid2lVcjhfRW1WM01zd2wzQkhvRDExMnVRb3pCMDBUU1BR0gGcAUFVX3lxTFB6Y0p4bG05U1k5Z1oxaWExcWRHOFlDVlI0MEh5THowaUlQSDR2V1JKZGozRkw4Yjh4SExtZHBVQU94emhfNHpiaWFpM1R6RjVDaGFhVllnVTFJVmRFbG9hcDFqMGdZOHpQX1lxNV9YODFVT1hNQ2FMWlNZR0JXRHVBY0FGbW1UY1A1YU93RUkxd1FjLUNiRXl4aUM3MA": 1792575638777,
+    "news:CBMimgFBVV95cUxPbUhtZkd6WFBxMGJpRllyZEdtY2FRNHQ2LW41UndjQkhUTzFCZnUyT3I1LU5hbFpJZHUtLTZGRE9hYzAzbllhNW1wZi1SamtBYUlDcHluN0l3Q19aNnRKeDhpMlF5THo2RFdvcHRjU3pycXdRSWxkTHVFSjREYTF1My1JdXppSEljaHZGa0JtZHpTNmg0NVdicmV3": 1792575638777
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@isyfaa_",
-      "x": "Halo! Aku Hana, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Exce",
-      "u": "https://www.threads.com/@isyfaa_/post/DevxgvOkslU",
-      "d": 1792564408000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -13695,10 +13688,20 @@
       "d": 1792574783000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "www.acehglobalnews.com",
+      "x": "Pemkab Abdya Buka Pendaftaran Beasiswa S1, S2, dan S3 Tahun 2026, Cek Syarat Lengkap dan Jadwalnya! - www.acehglobalnews.com",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUhtZkd6WFBxMGJpRllyZEdtY2FRNHQ2LW41UndjQkhUTzFCZnUyT3I1LU5hbFpJZHUtLTZGRE9hYzAzbllhNW1wZi1SamtBYUlDcHluN0l3Q19aNnRKeDhpMlF5THo2RFdvcHRjU3pycXdRSWxkTHVFSjREYTF1My1JdXppSEljaHZGa0JtZHpTNmg0NVdicmV3?oc=5",
+      "d": 1792575300000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
