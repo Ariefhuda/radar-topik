@@ -12922,19 +12922,12 @@
     "news:CBMiZ0FVX3lxTE8zTDNzNldJVE5GRzhSbUNhMGNRRHpva1VRdk5jSWp2LUlvX3V3NGowVDdjNy1zUzhIejVVYnYzN21PVTZRVmpXcFphUFhBUW5ZTXhvbG5md3R6bjRsZk9DdGV4bFpCX3M": 1792602944979,
     "threads:Dew6yciE3UK": 1792603243008,
     "threads:Dew6fStiDYZ": 1792603243008,
-    "threads:Dew6MHCFWYT": 1792603243008
+    "threads:Dew6MHCFWYT": 1792603243008,
+    "threads:Dew7T5QgQR1": 1792603538728,
+    "news:CBMi1AFBVV95cUxPN29MZ1FXcG1MalhKOWlDRTFoWDdtMVRBNEVCUHFaQ3lXcnlIUHljSUg1R3JKR3R6cnRrSjNocGRpbWhNTng3UlVkYVp6OXdIUVZvLUtucjE1eG1EZkNvdjRZR3RZQ3BBVUxsdDR6bWtjeTJkMnZxU2pSdVRiUzJjT3VNSk1kVGtUX3Jsc05fbjlocTZyNkRhamZWaWJrbEpGNy15UndTN2dGQWRyYUFIVGhXOFFCdTFEbHQ3c09ubWtFSGJMUHdfWEFKOFZLQ2owaHBoVg": 1792603538728,
+    "news:CBMieEFVX3lxTE85aHhjdDQzQUxCTFpLOUtjcE5LMnUwZVZGS2FIb0xyQWViNF9MV0dRUGRWM3V5elVGZEJLNVcwN2M1NGtxUHBRcjhSdTZUeEZ5UldMbEwyWnN0amVFbWU3RkZOemkxM2pMUTRvYnh6Z1hDVWh6UjRHUA": 1792603538728
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Portal Pekalongan",
-      "x": "Beasiswa Riset Baznas 2026 Segera Dibuka, Persiapkan Persyaratannya! - Portal Pekalongan",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWpOQzJzdDFwNzE3dmduUUdQcmpqd21GaXdLZ2Y5NGExTkRtclhGa3ZxdnlnNnR5dzN0OXY5cXFDVHlWQzN2d0wwRm5tVGxrYkN0NE4wRjJPaGUwbUtCcmg3a2habHZKeGJrUlVpUEZiTnRlendNVVp5UWN6Wlk1OGVZeHlqRDhpM09CU29WTVBmUTRKWUQ3Tmg5UVl6TVVFbjhheHZzUW5IREtKTG5ZMnoyQWROWEhUcFN0RFlweGV3Nl9FOUpjckd5bzktMHdVeDFSaHhvc9IB1wFBVV95cUxOaWpOQzJzdDFwNzE3dmduUUdQcmpqd21GaXdLZ2Y5NGExTkRtclhGa3ZxdnlnNnR5dzN0OXY5cXFDVHlWQzN2d0wwRm5tVGxrYkN0NE4wRjJPaGUwbUtCcmg3a2habHZKeGJrUlVpUEZiTnRlendNVVp5UWN6Wlk1OGVZeHlqRDhpM09CU29WTVBmUTRKWUQ3Tmg5UVl6TVVFbjhheHZzUW5IREtKTG5ZMnoyQWROWEhUcFN0RFlweGV3Nl9FOUpjckd5bzktMHdVeDFSaHhvcw?oc=5",
-      "d": 1792584000000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -14424,10 +14417,20 @@
       "d": 1792602000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "5 Langkah Bansos Beras 30 Kg dari Syarat Pengambilan hingga Cek Status - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85aHhjdDQzQUxCTFpLOUtjcE5LMnUwZVZGS2FIb0xyQWViNF9MV0dRUGRWM3V5elVGZEJLNVcwN2M1NGtxUHBRcjhSdTZUeEZ5UldMbEwyWnN0amVFbWU3RkZOemkxM2pMUTRvYnh6Z1hDVWh6UjRHUA?oc=5",
+      "d": 1792603020000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-21-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
