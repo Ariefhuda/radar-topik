@@ -13471,59 +13471,14 @@
     "news:CBMiZ0FVX3lxTFA1VXhLMHpQM093SVBneXdGR21mblRHMnV0NlJqdDQxWlFzTk85Y0xIYmEzQldUdWtrbEhmeERxNnYzcEFUeXVoZ1pRMmZUOHRQVlVWc2l0a0ZkN2FnSkI1alBud3VDLVU": 1792650340310,
     "news:CBMisAFBVV95cUxNRjBETEhOWU5mNi1keUV5SmlHSmxKY09JQ0FJeXdqV0VxUWkzbmd0Mm1BdjZ5SkV5Wm1LYnJaWnN0enRyVUJQMzNFX1FDM2ZOd0JuNEtwR1lyTlRXNzdycS1aSk1xMWpNS2RKZ3BUUjR0X1pPRjdUa2VOcUlPWFFmOXNyVHhnLW0yM0Npc1FMdVlnVXM5UG5rWHRaRU0tb2Q3M0h3ZmFFSEVxbEhBbFRNSg": 1792650340310,
     "news:CBMijAJBVV95cUxPMXB0OGxpVEhFVXNuTkREelZGYUctZnVLbXl4RW9oU2Y3ODBoUVJjZ2g5WHBpN0o5Q2VXTERvd2pCOE1PYTlBNGNLd2NPT25lZTE4V3ExUksxSDd3WnptcmhqRHJ0M3VJTWx5aVg1U1pTRmFBMFFxYXBMSV9kb1pyMTdLRm0tTzUwSEpvREhvV2toeWZ3bUpOVjR1Z3p2ZGowa1ZkZ05Ick4xMnRGamNVZnRSdmlNZTFDeVQxYWpqWHJPbzNtb0ZVMXVYN3pOTVdPRGVaSnVlRFk3anRDc2dWTWYtVmtWZnllMUppeHdVREx0VE5MREUzMFpnQTV3aHVqdFlxS0NGd0RKMkwy0gGMAkFVX3lxTFBIN0s5MEVzc1h3ZENNRmtXT1J0eGNjVGJZNlBSWTQwOUhISmhrSi1FZ0NyamFjZ29iZVh5aDNLX3M5cEZfMHVnQXFQQW5Hc3BVRzh4bnlwYWZjQU9xekx1S2lmTkFuSHBkaVZCLXJiNUMtQi0teG9mem9QWk9aYXQ5MjRHbDRvU2stTm5lNVdwcm9hY1RDeUxQclhsWGloVUNpdUVFa3RYUEpqTTlQT3BMWXhSc3hUM2lXOGVsaXBlOHFfdzJBbU5kd3hBMlZkUDM3Sm1ZT0VBdnVTSXdEZGREVUMtYWQxSHF2dkpqbjdDRW1QOWRNYXc1UC1wSG55WXh0SGl1RlJnZHNUbkQ": 1792650340310,
-    "news:CBMi0gFBVV95cUxNVG1RNVc2blM0QXlEWlJFNWhyTWFsLVBPcHdMOWlaZFhzMFZVUEwwVVNCYTVudFJQeHdpSjdfeG5aa0pzcHRLX1lqNm5LRHBmVjcwbER1X2xXenNlMnNobHZBVERUUFJ0SUVKMzIxOWxEV0RjVWhKQzdZck5YZDNjV0RONmV4ekZDVzdRblhWVkVMS0dCNGdpMFNIbURjczZWaUVsX1A0V1hvcjVZcXhoLWZvLTJxOThSS1ZQZTJ0VkFVNDNxVHhHU3dfVGJmWnMtZlHSAdIBQVVfeXFMTVRtUTVXNm5TNEF5RFpSRTVock1hbC1QT3B3TDlpWmRYczBWVVBMMFVTQmE1bnRSUHh3aUo3X3huWmtKc3B0S19ZajZuS0RwZlY3MGxEdV9sV3pzZTJzaGx2QVREVFBSdElFSjMyMTlsRFdEY1VoSkM3WXJOWGQzY1dETjZleHpGQ1c3UW5YVlZFTEtHQjRnaTBTSG1EY3M2VmlFbF9QNFdYb3I1WXF4aC1mby0ycTk4UktWUGUydFZBVTQzcVR4R1N3X1RiZlpzLWZR": 1792650340310
+    "news:CBMi0gFBVV95cUxNVG1RNVc2blM0QXlEWlJFNWhyTWFsLVBPcHdMOWlaZFhzMFZVUEwwVVNCYTVudFJQeHdpSjdfeG5aa0pzcHRLX1lqNm5LRHBmVjcwbER1X2xXenNlMnNobHZBVERUUFJ0SUVKMzIxOWxEV0RjVWhKQzdZck5YZDNjV0RONmV4ekZDVzdRblhWVkVMS0dCNGdpMFNIbURjczZWaUVsX1A0V1hvcjVZcXhoLWZvLTJxOThSS1ZQZTJ0VkFVNDNxVHhHU3dfVGJmWnMtZlHSAdIBQVVfeXFMTVRtUTVXNm5TNEF5RFpSRTVock1hbC1QT3B3TDlpWmRYczBWVVBMMFVTQmE1bnRSUHh3aUo3X3huWmtKc3B0S19ZajZuS0RwZlY3MGxEdV9sV3pzZTJzaGx2QVREVFBSdElFSjMyMTlsRFdEY1VoSkM3WXJOWGQzY1dETjZleHpGQ1c3UW5YVlZFTEtHQjRnaTBTSG1EY3M2VmlFbF9QNFdYb3I1WXF4aC1mby0ycTk4UktWUGUydFZBVTQzcVR4R1N3X1RiZlpzLWZR": 1792650340310,
+    "news:CBMiuAFBVV95cUxPd2tlVEgzakYzcnFZa2FPNHNmZE1XLXF2emJQOUtpZ0k4b2JCRDdoLTltZGNJRnJ5OFR3TEM3M0Y2Sjl2akhxZUdOR1lVbktTUE1kVDBRRUZGZlU2aVlnNlNBSG9jMm9CTERvZDh3S1ExZXpBTTFVeDJMbDZnOUYyVmVVTWRMVFFTd0ZVWXZCLXJNMEVuakJRbXU4MmdNdmFMdGhQNU1ISFRiZ2VWNW1aTV92cVUzaFJz": 1792650650093,
+    "news:CBMizgFBVV95cUxNX1NiRHc1ZFlweFJzS1VGZ0p5TWRwRlVKbHRkVWlVZktzWEUxeVVTTnhJZ1F4WUZrZE9WcFJmRGtYRFE4SHdaX1BDR3M2aF9xVUxuTl9Db0llY1E3SWFfaVFUV3I0b0N6RUpVSXZZc05kejZKNlNrTE9QRDRjQ1FEa1VObHItdlp6VU9tcnZhRkZlNGdYTU55c0FJVzBGRnFSVUhSVnlqRWx3LV9pZ25sOXM1WEZMX2o5SmNGeW9LRVBWYkJqalFaTk0zdzFnUQ": 1792650650093,
+    "news:CBMixwFBVV95cUxNUEJZbkpGN2FlMklRYnhhVWx5dVBlUWlGQm9fZEtSRXhCdDl0OFl2TUItUVZUUEcyVzRURS00MUhmTWtxUlJ2ZG1PWnNFNURQNUNaTHczMmVEaHRfTEZjdWlZQngxS3JBU2MtNGhDb0otejQ4NnVqSk1EVGF3T1M0U1k3cjNUck9odXlVWVFyb2xQSGlYMUt2TUlzOThTNm5FYWZWdlBRZlN4Y1RNZXIxNktSQ1pkQjQ1TmNyMTNIcWZ1YUdldkM4": 1792650650093,
+    "news:CBMimwFBVV95cUxQYkptclItSUFXY2dtUWpIXzQ0b21EbWVhUXc3RjB3RUxjcm9YZlJfajFPaGV5ZVdiTkxpRi1ZbnVXSXJZVTFORXlnaFZqZmRxanRzbEhFTFEwMThBTU1IT3UxWFBkT2thREZ5TWhsbE5qMVVlZC1IN3BQN2NESGEyeWhfVDN4RkJSVC1jcjRnSXRZNnBhQnlpNkFkdw": 1792650650093,
+    "news:CBMi1AFBVV95cUxPRkFIRElnWHlEaFltZUxsd1Rad3RqeEtad3JTTFNnMjZtRk5nYm44SWJyOFlmdk42YldvYV9fUmFXNDlxRGxxUkFsZkxuMHZLSW13ZWxsSFE0TDZ1MExoMFh0OWRIN3N0TVJYWnp4dGNaLXdabl95YWJDbWx3OXlmM1FPamoyZkYwWFhGejdFZExkdFI2R01aVG1Za1k3Z09TU3ZkRkpFSzVPXzhGYl9wQkE3V1pqWVYtOU9hRzVwWWwtMmFvNmQ5QlJSYi15UlFoT0ZUcw": 1792650650093
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Cara Menghitung Biaya Balik Nama Sertifikat Tanah dari Orangtua ke Anak di BPN - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVi1vb3l0Y0c2QmpKdUg1SE84WEFuTV9STHc5V3pKSzlNMWJNX1Q0RnVVMDZ5STluREswV3Q0UVlBWUNUdjZ5NlZuQW04Sk9YVFJMT1QwVGpTdGFZQXhZby1Lc0ltVUJEcGp5X1lhNzh5d1p1RzN4Qnc5YlZIZjlhTGNOcDl5Ylh4dHlUZlB0MXdjRXR6XzZUYlJxcWZIQ05GNkpRanBfT2FQek4wRDgyOXpLRUx1VzFwWjlHazFIWi1MRVBqT2dIQ3hmZFBXQnlXdWF30gHHAUFVX3lxTE1Sd055Z21JQURvNnRpZko1XzNvUlAzT2NlUGQzcVV4MzVkVjdhQkw1VllRMldpa2tlM0RaUE02ZXpXcTV4UGJHRGozakZ4dU82YVd4RTloRTZmOVMta0kwd2xQaEtRSHJ3YThfVEpEM29XUVRPTllkd1VLZURNYXdqLUJWdUhFN1ZfSEZNRnR5cXlpd2JuUEREOWs0b2J3cE50NTR4cTdqNzlHNlQ5NllPb0FDZHdSUFdUaUwxOXRLS0hBSThrNXc?oc=5",
-      "d": 1792576800000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Universitas Negeri Malang (UM)",
-      "x": "Ada Golden Ticket UM 2027 di Ajang Ini, Plus Gratis IPI-UKT 2 Semester - Universitas Negeri Malang (UM)",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUR0ZzF0NElkQjRnaDJyVVBjNXJVZDNoQ2YyaU0wVW5La2xvSVZNa2ItT2FnamZEV3pDRlNxN2I5NFhxV2NYVnV0Mkxyc2FPYWNuX0ZObjBvWWx3MWw0cGlmMEdiSWQ4UGd6a3FyQV83c25MWnJPOHVxZ0ZtMU9GdUlybjB3aEdJS2Y4QzVIeHR4SzJoaTlPRUtiV1FwNk5lUUROVG9vMWc?oc=5",
-      "d": 1792635714000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Bojonegoro.com",
-      "x": "100 UMKM, Ribuan Kupon dan Kuliner Gratis Akan Ramaikan Bojonegoro Bahagia Car Free Night - Bojonegoro.com",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2dkTU9ndndHbHJFVFlyQUhvbVBkWHhXOWhOcVpibE1TUF85WEtPbFk5VEhhQ3ZuaXplSWw2WjZ1UDN2M2VVX1IzOUhGX3VwVEdSWHh2LU1WNVBpVFFJMmw5UGo2OFhJQ1VfaTIxcFAxLUV6NUNQMk83dm94UzU0alRtQmhXcm5zSEZCZFFoV28zeGxXOEdQenktaUtRMlhfV1RTTkc2N2FLV3FjZy1EeFJZS2xaNVk?oc=5",
-      "d": 1792633254000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Tribunkaltim.co",
-      "x": "Link Daftar Beasiswa DataPrint 2026, Pelajar dan Mahasiswa Bisa Dapat Rp500 Ribu! - Tribunkaltim.co",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmsyOHJ1TVJhNk1vbjNYam9ZZjF6alMxbHlsTTBpLTVEdmRZWXQyQXNQUVdLYUxZek00WVVWRHVHVTZZT2dUdU5veW1raG84WGIxZEVwc1Q4ZXRWQjVEWl91MEZEWkZRYTVQR1hXNmVUNFF1YTYzRDJEVU9xejQ1SFI0UWthaDBFZjRkczYya2pKLXhqN2VxeW9qN05Nc3RRX1U0MUtwakZOVm5CZko0aUkxcHdKU2dzUkV3SFk2NA?oc=5",
-      "d": 1792635410000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Gratis! Polytron Kudus Indonesia Masters 2026 Bisa Jadi Wisata Olahraga Keluarga - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0x5czVCeklQSl9ka1pfUVNVaXdKN1RXYjk3NmtMdldmSDBuems1MWI2X21nQ0Z1aThQM015R3A2czV6ekRsNEhFUWZuNFJ0YWkyM3BwektlSWx2TUZOSFBBNjM3V09JSk9IMEZvbURDXzd0NWRtWFNCX2xhNXFxZV91eHpPRFFiWWxxeUoybS04ZGUwenFOdzZ0RUpJY1lfbVFlZWxDVXJteEJzOTktUV84VExjcXpuYXRuTno2QjVRS2drb3YtctIBzgFBVV95cUxNWUNkMThVNElXUXFiVlpxLTVTYVdlRWktT2JkYnZMeDRpTFp4RU5oU0pQNHpjNVRfTHhtN2t3anRKSGpDcG9UQzU1b2N4amFRa1JySXdURXRJaUVQNU1WVFJWaXJLSjZQTmNqQXJ2M29aQnV1Sk1IUjUyN2xsdkRWMlUzb1BRTEZCd2ZrVWZyUWpqVzdMMktfZ1lKS0VwcWtVMzlRZEpIX2t0MnJnS1M4bWN5V20yaWo1Y0JwNzZQLWx6VHhaRm1ES0pCRm1vdw?oc=5",
-      "d": 1792636075000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -14973,10 +14928,60 @@
       "d": 1792645200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Republiknews.co.id",
+      "x": "Siapkan SDM Hadapi Dunia Kerja, Yamaha Gelar SMK Incoming dan Seminar Bengkel Umum di Bone - Republiknews.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd2tlVEgzakYzcnFZa2FPNHNmZE1XLXF2emJQOUtpZ0k4b2JCRDdoLTltZGNJRnJ5OFR3TEM3M0Y2Sjl2akhxZUdOR1lVbktTUE1kVDBRRUZGZlU2aVlnNlNBSG9jMm9CTERvZDh3S1ExZXpBTTFVeDJMbDZnOUYyVmVVTWRMVFFTd0ZVWXZCLXJNMEVuakJRbXU4MmdNdmFMdGhQNU1ISFRiZ2VWNW1aTV92cVUzaFJz?oc=5",
+      "d": 1792650608000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "mabes pkri",
+      "x": "Hari Kedua Pemeriksaan Kesehatan Gratis, Camat Medan Labuhan Tinjau Langsung Pelayanan di Rutan Labuhan Deli - mabes pkri",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1NiRHc1ZFlweFJzS1VGZ0p5TWRwRlVKbHRkVWlVZktzWEUxeVVTTnhJZ1F4WUZrZE9WcFJmRGtYRFE4SHdaX1BDR3M2aF9xVUxuTl9Db0llY1E3SWFfaVFUV3I0b0N6RUpVSXZZc05kejZKNlNrTE9QRDRjQ1FEa1VObHItdlp6VU9tcnZhRkZlNGdYTU55c0FJVzBGRnFSVUhSVnlqRWx3LV9pZ25sOXM1WEZMX2o5SmNGeW9LRVBWYkJqalFaTk0zdzFnUQ?oc=5",
+      "d": 1792648283000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "rmolsumut.id",
+      "x": "PWI Sumut Teken Kerjasama Dengan BPJS Ketenagakerjaan, Seluruh Anggota PWI Sumut Tercover Jaminan Sosial - rmolsumut.id",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUEJZbkpGN2FlMklRYnhhVWx5dVBlUWlGQm9fZEtSRXhCdDl0OFl2TUItUVZUUEcyVzRURS00MUhmTWtxUlJ2ZG1PWnNFNURQNUNaTHczMmVEaHRfTEZjdWlZQngxS3JBU2MtNGhDb0otejQ4NnVqSk1EVGF3T1M0U1k3cjNUck9odXlVWVFyb2xQSGlYMUt2TUlzOThTNm5FYWZWdlBRZlN4Y1RNZXIxNktSQ1pkQjQ1TmNyMTNIcWZ1YUdldkM4?oc=5",
+      "d": 1792650745000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "NTVNews.id",
+      "x": "Ada 12.000 Lowongan Kerja di Jakarta, Disabiitas Bisa Daftar! - NTVNews.id",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkptclItSUFXY2dtUWpIXzQ0b21EbWVhUXc3RjB3RUxjcm9YZlJfajFPaGV5ZVdiTkxpRi1ZbnVXSXJZVTFORXlnaFZqZmRxanRzbEhFTFEwMThBTU1IT3UxWFBkT2thREZ5TWhsbE5qMVVlZC1IN3BQN2NESGEyeWhfVDN4RkJSVC1jcjRnSXRZNnBhQnlpNkFkdw?oc=5",
+      "d": 1792650360000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Pro dan Kontra Program Makan Bergizi Gratis (MBG): Antara Tujuan Mulia dan Halaman 1 - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRkFIRElnWHlEaFltZUxsd1Rad3RqeEtad3JTTFNnMjZtRk5nYm44SWJyOFlmdk42YldvYV9fUmFXNDlxRGxxUkFsZkxuMHZLSW13ZWxsSFE0TDZ1MExoMFh0OWRIN3N0TVJYWnp4dGNaLXdabl95YWJDbWx3OXlmM1FPamoyZkYwWFhGejdFZExkdFI2R01aVG1Za1k3Z09TU3ZkRkpFSzVPXzhGYl9wQkE3V1pqWVYtOU9hRzVwWWwtMmFvNmQ5QlJSYi15UlFoT0ZUcw?oc=5",
+      "d": 1792650172000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-22-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
