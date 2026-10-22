@@ -13545,49 +13545,15 @@
     "threads:DKeRamMy-Mo": 1792656065483,
     "threads:DbCiEbriVrf": 1792656065483,
     "news:CBMipgFBVV95cUxOSm1BTXdKaVFOaUhpanN3Um9rV1dNZ0ppYnJlbTFINFJRa21wYTdtNmNIcEJFdEhXTTRHU1NZcUNCYUo0cl9MX1A0U09nUjF6dm1VWnMtalNsbVN6c0JBbTBqakR3akNWdUpiVVo4YkR4Qk1XcFp1dkJVMDQtZ2YzRXdfajJXWTlBR2dNT2tsVFYzZ21ZWnRrT1hyaENDUHdzd3N1MExR": 1792656065483,
-    "news:CBMiY0FVX3lxTE4tSTRSWm5xeFFVdWlxbUhNNXR6N21QNkpoeEVrNVVsMGdzb2dVRWktQ3k4dGpVb2RQYUhrbkJYbEVxbElHc29HZ1A2UWt6aTNlNWZjV0JtZFZtNnVsN0JhWVh1Zw": 1792656065483
+    "news:CBMiY0FVX3lxTE4tSTRSWm5xeFFVdWlxbUhNNXR6N21QNkpoeEVrNVVsMGdzb2dVRWktQ3k4dGpVb2RQYUhrbkJYbEVxbElHc29HZ1A2UWt6aTNlNWZjV0JtZFZtNnVsN0JhWVh1Zw": 1792656065483,
+    "news:CBMiugFBVV95cUxQaHFiYmJEeU5TcTctVDNJR1JaRlZza1R4QTFHdlZjSW5nVE03YnlMTjJqOTJ4Uzg4aXVEcl9ZY0xUUzR3ZzNrM2ZsZERSblp5V2M5RWt0T0R4VWtiNUp3OVhGa3BkZXpIRWlVRGRvc3hiR09EdkowS0ZMdjVHUGktd0dHSVV3X2hHejR6MklDWFlxdWViN2NKcXB0V3hYaGtzZ0JiMFM5ZWZsSXhwRDNSUjdyMUZieHczOEE": 1792656337965,
+    "news:CBMixgFBVV95cUxNNHNSTERiR3N1Z3lCdnhuZEFGUnRSU0x2Z1hsdTJ0UnZzVDJ6eTE4dF9xZ2cwZzNNeXdkelZTTy15MTlSelFqcFphcXliQ09SR0FQU2pIektzWDY5UllzdktaeFZ4ckFpdTBSN1gzZzI3Q19lSnU1a1JSek5NQjhFaUdMWGxLTUhWRUNhRFBpNnJDY2J2RW5uXzRFbXhQVV9yNXZ5cERxVkdXc2lkNlVxNV9JcWtSUnR1OWJkQlN5UXAxbkFxQ1HSAcYBQVVfeXFMTTRzUkxEYkdzdWd5QnZ4bmRBRlJ0UlNMdmdYbHUydFJ2c1QyenkxOHRfcWdnMGczTXl3ZHpWU08teTE5UnpRanBaYXF5YkNPUkdBUFNqSHpLc1g2OVJZc3ZLWnhWeHJBaXUwUjdYM2cyN0NfZUp1NWtSUnpOTUI4RWlHTFhsS01IVkVDYURQaTZyQ2NidkVubl80RW14UFVfcjV2eXBEcVZHV3NpZDZVcTVfSXFrUlJ0dTliZEJTeVFwMW5BcUNR": 1792656337965,
+    "news:CBMi0AFBVV95cUxNdFVsTVJaRE12TUJVMHdKdTlvb0t6bldwYU5hcWduaHFEWmRsTnJPU3RkelMtZWkta2FEUkVrMXlkcV93bjluZ0t6bXRMR3cwM2NHOENsOENVQ1QwdTRZakE1T3VncXVjWDFSS2JldUgtWUxudTdXVEN0S0NlM2JsSHYza1FhUGpsRWJHUjg2akNCX3REWkZVLTA2eU53UHc0MHVPSVI1YmZMSzk1RUo3SFlzazNhOTF4Y1pnT3Axek5PMjFVVW9JZndxOEhrSVQ30gHWAUFVX3lxTE03WktRZ1ZXejZNVE5CZnJnZF9tVmhRQkdFLU0yd1BsLV9hbUxpb1NCa21xOE5LSE1LWFFjaFZVUEEtS1FIeUxncXpPQ1RWN3lhOGpHdGx2ZTZEbmZuMEtJaTNqVUJHM1ZNRTluZDBSb2lNUmNpVU5UNHdEOU43RE90YzdSdUh2Qkhpa3F1TlplSXBvSndQcWlyd1UzTFNSb3hSZzdLTExqLUo1Ul9NdGdUUVdUZkNjeGgxS3ExaEdONjlKTWlVWDdzU09xZklKTkhFaWQtUUE": 1792656337965,
+    "news:CBMivwFBVV95cUxOc0xoZ3o3Z2M4bXgyaGNMNVZNYkJHcm1TeHVCYlBEN3VlT3M5VmVzNnF1REstd3JiaHhCdktyMkE5U05IZHRyV0V2VUk3WEF1eFRibDNTWnl1eUx1Qm1KZnJJUmV4bFVxWXUxdnIxVHByZ0JBNVlXTkdxVUtoRTkxRUNLV1VzSXhiS01zUXNTV2xSc05rTVZEQy14WmY0elZVNWxRZXNoeUtPU2NHWVlZRTNBZnZkMl9jT3d3dEcwSQ": 1792656337965,
+    "news:CBMi1AFBVV95cUxPX2lwZnJRUzBKemxJVDUwU1dDWnE0MHdqMzlQdXdBbF9qS2hlSk81UWowcGNoODd4U2ljUzlvRVVybk5DNmxhT3d3T09IajR4cEl1ZG9SbFdlZDcxR1g5TVYtMDRxU2xPRkZYeHBtMXJfdlNIWDVITUl2Q2dyT0N1amp4bnlmNkQySlJvTG1ZUGVfeEdWbHAzWVNoZ3pyQjhKLU1RaDZhZGtjSE9UdjhjcFdiMjJXN2VEdHJQaGduQ3lJN21rZVRfbEpPZzFZNkhrSWRWbw": 1792656337965,
+    "news:CBMirwFBVV95cUxNNlRDUFliTFNmUy1qZTFlb19CTm8xbzQwZTV5Unktd0M3MFZ3ODBPQUtnRTlUQWlGVzRBNUJEclItUTIwZl9qMGpiTi1mSUZoMVJrZm5FaEZWS0R1eVJNWXZUc2FmWjIzTy15WEhPeEFsWkVDcGhoOXl5b2dsTG1MekRoTnIwMzdwY0pCYmxKTjJLa0c2T2VKWXJUclRFdEVNY2hlbVVLempWbUIwNVBN": 1792656337965
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Bansos Oktober–Desember 2026: Cara Cek Penerima PKH, BPNT, dan Bantuan Lain Lewat HP - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnhwQ1Q5VjllbjRIMHRhZmlObXdjU0NEdE5jY1ZyVnByY0wxZldTdE9RXzFVaUZmWU5JRWo5VG5WWWVQSy1YMDJJRHIzS2lIMThxOW9NZDJ5dTVYNDRrUXdVNWkza0N0RXJfYW9qcXBCUjlwSkplLU5KMm82c1ZnWjBFZ0NOdVVQZkhockJRenlTRm80dWRpSFVLaTdpN2JKM3dVcm9qNHVGd1ZFVnBGZFFGMUxyU3dZNkRXS1o3d1ZmS2FtUjN3cFRR0gHPAUFVX3lxTE5hSE1EYXpCOEVWTElpb3ZROHFvNjBoNW5YYllNWUJzX1ZfR2x2X3VScUxFTy0yZEVTa28xSGlTbmxYcjM4WlJWWVpma3NIeGJNcnRYdEQxMmV2MXZHNWpqWVRwSmRYbG9RaFp5Q3g4VWRkN05YM1VzU1pBWEFrZ3U2OTNRZHo1MXBwNFlEY1g0THFXcWZHXzBTb2xDSjRLLWlfRVNhbGp6VEJpUVBBMkJ6OURYY1Z0MzVTemVlbjZ6Y2FrVFpVLS1VTzZiSGZRZw?oc=5",
-      "d": 1792634447000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Berita jejaring",
-      "x": "Kemensos Salurkan Bansos PKH dan BPNT Tahap 4 Oktober 2026 Melalui Situs Resmi - Berita jejaring",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmZzk2Uk5HcHZac3pGUTdodzRxT0h1X3FFVjlVR1Bta1dLd3dJU1JGWDlVOGhwYmk0R3VTZklVT3RWdzhyd2ZyS3V3blF3a1hVRmcybjZSQkZHY19jQ0ZwWkFVRExWWXZpbE1XMEhsWQ?oc=5",
-      "d": 1792639298000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Foto : Cara Cek Desil Oktober 2026 Lewat HP, Cukup Pakai NIK KTP - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTZ5bTdPeFI5MnVMMjF5ZmFPZzJjVHRyUmpPRFNtSnUzRzRBQWw4WkQ2R190OE1yZUwtbkJ0TV8wbHY2b2R0aVJvS3c2c1RYZ3FsWlNEa3VUMUFXQ1Q4b0xSUUl4NHo3LVhIQWNLV2JPVU1tTXJuTXRYcTh2SjdtNDhLNEdna1lhRmdkaHdpY2paYTV6amhvZkQ1WkI2TnNlcjR1eGpYeEg4aFVMOFpxVlE0N2VhUQ?oc=5",
-      "d": 1792634409000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Akurat.co",
-      "x": "Pemerintah Siapkan Rp31,8 Triliun untuk Bansos hingga Diskon Nataru, Yuk Cek! - Akurat.co",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW1VLVhrNFF4MmtrUm1ORXFxQ0MxcDN6MGFmT1BieXlHUE9CSmhieXgta1dDTDlxSkM2TG95a25lMjFYNWZJblllS0NtOG8wblBvaml3TjVQX3NhSHNaUnd6ZllxaXJEN3FQTWNjdGFhRTZxVHA0U3ZmR0FxTUpoMmdkZlFhQWp6b2ZsUXU1SnpJTUJqU3E0WkRZdXJIRmszTHpaMXFTaDVERmFhb2c?oc=5",
-      "d": 1792639200000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -15047,10 +15013,50 @@
       "d": 1792655719000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "KPFM Balikpapan",
+      "x": "GAK PERLU ANTRE DI KANTOR! BIKIN KARTU KUNING DI PPU KINI SERBA ONLINE, TANDA TANGAN PAKAI BARCODE - KPFM Balikpapan - KPFM Balikpapan",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdFVsTVJaRE12TUJVMHdKdTlvb0t6bldwYU5hcWduaHFEWmRsTnJPU3RkelMtZWkta2FEUkVrMXlkcV93bjluZ0t6bXRMR3cwM2NHOENsOENVQ1QwdTRZakE1T3VncXVjWDFSS2JldUgtWUxudTdXVEN0S0NlM2JsSHYza1FhUGpsRWJHUjg2akNCX3REWkZVLTA2eU53UHc0MHVPSVI1YmZMSzk1RUo3SFlzazNhOTF4Y1pnT3Axek5PMjFVVW9JZndxOEhrSVQ30gHWAUFVX3lxTE03WktRZ1ZXejZNVE5CZnJnZF9tVmhRQkdFLU0yd1BsLV9hbUxpb1NCa21xOE5LSE1LWFFjaFZVUEEtS1FIeUxncXpPQ1RWN3lhOGpHdGx2ZTZEbmZuMEtJaTNqVUJHM1ZNRTluZDBSb2lNUmNpVU5UNHdEOU43RE90YzdSdUh2Qkhpa3F1TlplSXBvSndQcWlyd1UzTFNSb3hSZzdLTExqLUo1Ul9NdGdUUVdUZkNjeGgxS3ExaEdONjlKTWlVWDdzU09xZklKTkhFaWQtUUE?oc=5",
+      "d": 1792649172000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Inforiau",
+      "x": "Pramono Bikin Haru: Pencari Kerja Bakal Naik Transportasi Umum Gratis Mulai 2027, Ini Alasannya - Inforiau",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0xoZ3o3Z2M4bXgyaGNMNVZNYkJHcm1TeHVCYlBEN3VlT3M5VmVzNnF1REstd3JiaHhCdktyMkE5U05IZHRyV0V2VUk3WEF1eFRibDNTWnl1eUx1Qm1KZnJJUmV4bFVxWXUxdnIxVHByZ0JBNVlXTkdxVUtoRTkxRUNLV1VzSXhiS01zUXNTV2xSc05rTVZEQy14WmY0elZVNWxRZXNoeUtPU2NHWVlZRTNBZnZkMl9jT3d3dEcwSQ?oc=5",
+      "d": 1792655910000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "The Conversation",
+      "x": "Kewajiban sertifikasi halal lebih baik ditunda daripada membuat kebingungan dan memberatkan usaha kecil - The Conversation",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2lwZnJRUzBKemxJVDUwU1dDWnE0MHdqMzlQdXdBbF9qS2hlSk81UWowcGNoODd4U2ljUzlvRVVybk5DNmxhT3d3T09IajR4cEl1ZG9SbFdlZDcxR1g5TVYtMDRxU2xPRkZYeHBtMXJfdlNIWDVITUl2Q2dyT0N1amp4bnlmNkQySlJvTG1ZUGVfeEdWbHAzWVNoZ3pyQjhKLU1RaDZhZGtjSE9UdjhjcFdiMjJXN2VEdHJQaGduQ3lJN21rZVRfbEpPZzFZNkhrSWRWbw?oc=5",
+      "d": 1792656097000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "Sertifikasi Halal 2026 Berlaku, Pengusaha Perlu Siapkan 4 Hal Ini - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlRDUFliTFNmUy1qZTFlb19CTm8xbzQwZTV5Unktd0M3MFZ3ODBPQUtnRTlUQWlGVzRBNUJEclItUTIwZl9qMGpiTi1mSUZoMVJrZm5FaEZWS0R1eVJNWXZUc2FmWjIzTy15WEhPeEFsWkVDcGhoOXl5b2dsTG1MekRoTnIwMzdwY0pCYmxKTjJLa0c2T2VKWXJUclRFdEVNY2hlbVVLempWbUIwNVBN?oc=5",
+      "d": 1792656265000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-22-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
