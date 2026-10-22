@@ -13103,13 +13103,14 @@
     }
   ],
   "lastDigest": "2026-10-22-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792626039761
+    "reddit": 1792626039761,
+    "news": 1792632339150
   }
 }
