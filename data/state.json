@@ -14212,19 +14212,14 @@
     "threads:DF5CRbNy5_-": 1792698714688,
     "threads:DezNeJmjn6y": 1792698714688,
     "news:CBMingFBVV95cUxPN3gwUExxdnhMY2IwUjNMeVRPSGpCQ001V1RKNTN2NGdfRzFybTBsMGZrTWtlRGVfQ3h3WEdkU2FNaVVoWm9PQVlXaTBpS01ZVGN3cVZaenMzMFJHRmVXUjZjOTltYjlrQVd5Nm4zM0lCbzVuSXBGbV93NEdHTXJTdjF1dlZxXzF3bDBCbVZ0VndVemJ5bEYtbXRQZ3I2dw": 1792698714688,
-    "news:CBMi2wFBVV95cUxNb1k4T2tLU1M2bkhjcFA0NVY0MUNpTC1VRDE3VWhOdW9NT3lJbU90LTdiTEt1SkJub1JfdFFaN1BIUl9oRENhdVJ6WE5UaTZwdkVkNThnaWNpMFhhZDcwWnNjME1rUUpBNFgyVlRvd2Q3eWpkMlNnb2tnazBDYmY1Q05CamptT0tYdlVaaENnUmR1YzEyMkhjdUFNeXlIYWxHOERGYnRBREVscS0zbjh1RFJNVzVhN3pWRU9veHhROHNDSUNZYnlGQ1B5SVAzcWxtbXJYX295dE1OZVE": 1792698714688
+    "news:CBMi2wFBVV95cUxNb1k4T2tLU1M2bkhjcFA0NVY0MUNpTC1VRDE3VWhOdW9NT3lJbU90LTdiTEt1SkJub1JfdFFaN1BIUl9oRENhdVJ6WE5UaTZwdkVkNThnaWNpMFhhZDcwWnNjME1rUUpBNFgyVlRvd2Q3eWpkMlNnb2tnazBDYmY1Q05CamptT0tYdlVaaENnUmR1YzEyMkhjdUFNeXlIYWxHOERGYnRBREVscS0zbjh1RFJNVzVhN3pWRU9veHhROHNDSUNZYnlGQ1B5SVAzcWxtbXJYX295dE1OZVE": 1792698714688,
+    "threads:DcQf3T8kR_e": 1792699580263,
+    "threads:DeXGiuomZc8": 1792699580263,
+    "threads:DdomGZdFKJK": 1792699580263,
+    "threads:DSrj9v5E0Gm": 1792699580263,
+    "news:CBMimwFBVV95cUxNdnYyTGppaUdyVUM5aHdXRHpKLW1OdjA2NFZWck5aLTgxMV8yUU84dFdwTUs5U1ItekZZRjUwUDM5dEdmNUFpdDZ2M05iNlJJYjlZM3hyVmVfenBYa1lhaGtLZDhlVHQxaTFVdlpRa3pDVlFyTlhJZldzaVF1cVhqT1RBaC01TGJGZDNUTGFxNU1qUV9nb3JyU3dSYw": 1792699580263
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "DPD PDI Perjuangan Jawa Timur",
-      "x": "16 Pelaku UMKM Fatayat NU Gresik Terima Rombong Gratis dari Nila Yani - DPD PDI Perjuangan Jawa Timur",
-      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMk9iVXV4MGwyeUVLcXFOUE1YSmYtV0xOVnF3czlMRjRGWVN5ZDhqckJPOEdVM1dHTm5aQWdIbUpDaGhlWTRmeHBwQkphWHg0eXZZTE55b1h1UURaUTU5NTRSdlJsaFIzRGIxWTVRTUxobzJpcllEQkFOLXV0Z2hZVmlROU4tc2pOTFVUbjVETzhhLUVxSmpSSzdFdGlORFhFUTh6eg?oc=5",
-      "d": 1792683840000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -15714,10 +15709,20 @@
       "d": 1792684744000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Komputama Cilacap",
+      "x": "Cara Cek Bansos PKH BPNT Lewat NIK, Pengambilan Bisa Diwakilkan - Universitas Komputama Cilacap",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdnYyTGppaUdyVUM5aHdXRHpKLW1OdjA2NFZWck5aLTgxMV8yUU84dFdwTUs5U1ItekZZRjUwUDM5dEdmNUFpdDZ2M05iNlJJYjlZM3hyVmVfenBYa1lhaGtLZDhlVHQxaTFVdlpRa3pDVlFyTlhJZldzaVF1cVhqT1RBaC01TGJGZDNUTGFxNU1qUV9nb3JyU3dSYw?oc=5",
+      "d": 1792699335000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-22-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
