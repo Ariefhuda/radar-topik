@@ -13476,19 +13476,10 @@
     "news:CBMizgFBVV95cUxNX1NiRHc1ZFlweFJzS1VGZ0p5TWRwRlVKbHRkVWlVZktzWEUxeVVTTnhJZ1F4WUZrZE9WcFJmRGtYRFE4SHdaX1BDR3M2aF9xVUxuTl9Db0llY1E3SWFfaVFUV3I0b0N6RUpVSXZZc05kejZKNlNrTE9QRDRjQ1FEa1VObHItdlp6VU9tcnZhRkZlNGdYTU55c0FJVzBGRnFSVUhSVnlqRWx3LV9pZ25sOXM1WEZMX2o5SmNGeW9LRVBWYkJqalFaTk0zdzFnUQ": 1792650650093,
     "news:CBMixwFBVV95cUxNUEJZbkpGN2FlMklRYnhhVWx5dVBlUWlGQm9fZEtSRXhCdDl0OFl2TUItUVZUUEcyVzRURS00MUhmTWtxUlJ2ZG1PWnNFNURQNUNaTHczMmVEaHRfTEZjdWlZQngxS3JBU2MtNGhDb0otejQ4NnVqSk1EVGF3T1M0U1k3cjNUck9odXlVWVFyb2xQSGlYMUt2TUlzOThTNm5FYWZWdlBRZlN4Y1RNZXIxNktSQ1pkQjQ1TmNyMTNIcWZ1YUdldkM4": 1792650650093,
     "news:CBMimwFBVV95cUxQYkptclItSUFXY2dtUWpIXzQ0b21EbWVhUXc3RjB3RUxjcm9YZlJfajFPaGV5ZVdiTkxpRi1ZbnVXSXJZVTFORXlnaFZqZmRxanRzbEhFTFEwMThBTU1IT3UxWFBkT2thREZ5TWhsbE5qMVVlZC1IN3BQN2NESGEyeWhfVDN4RkJSVC1jcjRnSXRZNnBhQnlpNkFkdw": 1792650650093,
-    "news:CBMi1AFBVV95cUxPRkFIRElnWHlEaFltZUxsd1Rad3RqeEtad3JTTFNnMjZtRk5nYm44SWJyOFlmdk42YldvYV9fUmFXNDlxRGxxUkFsZkxuMHZLSW13ZWxsSFE0TDZ1MExoMFh0OWRIN3N0TVJYWnp4dGNaLXdabl95YWJDbWx3OXlmM1FPamoyZkYwWFhGejdFZExkdFI2R01aVG1Za1k3Z09TU3ZkRkpFSzVPXzhGYl9wQkE3V1pqWVYtOU9hRzVwWWwtMmFvNmQ5QlJSYi15UlFoT0ZUcw": 1792650650093
+    "news:CBMi1AFBVV95cUxPRkFIRElnWHlEaFltZUxsd1Rad3RqeEtad3JTTFNnMjZtRk5nYm44SWJyOFlmdk42YldvYV9fUmFXNDlxRGxxUkFsZkxuMHZLSW13ZWxsSFE0TDZ1MExoMFh0OWRIN3N0TVJYWnp4dGNaLXdabl95YWJDbWx3OXlmM1FPamoyZkYwWFhGejdFZExkdFI2R01aVG1Za1k3Z09TU3ZkRkpFSzVPXzhGYl9wQkE3V1pqWVYtOU9hRzVwWWwtMmFvNmQ5QlJSYi15UlFoT0ZUcw": 1792650650093,
+    "news:CBMiwgFBVV95cUxNR3lVSElJaUh1bjEtdS1hMTE1amJ4Rm40NmNtcnBuYjFhYkRJbm12dmQ0dUJyMzZuOTFMUEZXMjQ2S0pPM1BqVnBaYklJQlluaWlRdFJWQS1XUHBrN3V3bnlWVklwXzhHdEcxcXBxbGN3aWpUZXZRRE9MWnJQNVNpQ2pucjI3QXJWWGR0RVNtNm52YlEyWWlSRFNJUEZHZ3V6VUtES0pLdGZGckUwQmFXR0xJcHhMNlZSYmY0WXU5Q1BBUQ": 1792650938346
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Bojonegoro.com",
-      "x": "100 UMKM, Ribuan Kupon dan Kuliner Gratis Akan Ramaikan Bojonegoro Bahagia Car Free Night - Bojonegoro.com",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2dkTU9ndndHbHJFVFlyQUhvbVBkWHhXOWhOcVpibE1TUF85WEtPbFk5VEhhQ3ZuaXplSWw2WjZ1UDN2M2VVX1IzOUhGX3VwVEdSWHh2LU1WNVBpVFFJMmw5UGo2OFhJQ1VfaTIxcFAxLUV6NUNQMk83dm94UzU0alRtQmhXcm5zSEZCZFFoV28zeGxXOEdQenktaUtRMlhfV1RTTkc2N2FLV3FjZy1EeFJZS2xaNVk?oc=5",
-      "d": 1792633254000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -14978,10 +14969,20 @@
       "d": 1792650172000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "rmolsumut.id",
+      "x": "PWI Sumut Teken Kerjasama Dengan BPJS Ketenagakerjaan, Seluruh Anggota PWI Sumut Tercover Jaminan Sosial - rmolsumut.id",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3lVSElJaUh1bjEtdS1hMTE1amJ4Rm40NmNtcnBuYjFhYkRJbm12dmQ0dUJyMzZuOTFMUEZXMjQ2S0pPM1BqVnBaYklJQlluaWlRdFJWQS1XUHBrN3V3bnlWVklwXzhHdEcxcXBxbGN3aWpUZXZRRE9MWnJQNVNpQ2pucjI3QXJWWGR0RVNtNm52YlEyWWlSRFNJUEZHZ3V6VUtES0pLdGZGckUwQmFXR0xJcHhMNlZSYmY0WXU5Q1BBUQ?oc=5",
+      "d": 1792650898000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-22-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
