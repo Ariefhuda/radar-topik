@@ -14176,19 +14176,12 @@
     "threads:DcgpkoamPJd": 1792693248159,
     "threads:Db0dYtvFGVr": 1792693248159,
     "threads:DZR6UHLmg_h": 1792693248159,
-    "news:CBMiqgFBVV95cUxOTGVrdWJtZ1B2RkFvcm84b19xRE55VjZJYXdLY0o4WkRrSDExeGh2TnF6SmQwYW5CaUdkTGx0eFdjOFlJc2dhX1cxR0wzc3l1bnhJaXpUdFB6aHI3OHdlYmIwdW8taUNEaUNwTEpqMnFyTGtnQWFnRWxqV1RNTFhnSy1MQVhlc2dxLTNtdDJPWnBCT2pFR3V5cjgzWkU1UU1peXdZdXVXcEJzQdIBqgFBVV95cUxOTGVrdWJtZ1B2RkFvcm84b19xRE55VjZJYXdLY0o4WkRrSDExeGh2TnF6SmQwYW5CaUdkTGx0eFdjOFlJc2dhX1cxR0wzc3l1bnhJaXpUdFB6aHI3OHdlYmIwdW8taUNEaUNwTEpqMnFyTGtnQWFnRWxqV1RNTFhnSy1MQVhlc2dxLTNtdDJPWnBCT2pFR3V5cjgzWkU1UU1peXdZdXVXcEJzQQ": 1792693248159
+    "news:CBMiqgFBVV95cUxOTGVrdWJtZ1B2RkFvcm84b19xRE55VjZJYXdLY0o4WkRrSDExeGh2TnF6SmQwYW5CaUdkTGx0eFdjOFlJc2dhX1cxR0wzc3l1bnhJaXpUdFB6aHI3OHdlYmIwdW8taUNEaUNwTEpqMnFyTGtnQWFnRWxqV1RNTFhnSy1MQVhlc2dxLTNtdDJPWnBCT2pFR3V5cjgzWkU1UU1peXdZdXVXcEJzQdIBqgFBVV95cUxOTGVrdWJtZ1B2RkFvcm84b19xRE55VjZJYXdLY0o4WkRrSDExeGh2TnF6SmQwYW5CaUdkTGx0eFdjOFlJc2dhX1cxR0wzc3l1bnhJaXpUdFB6aHI3OHdlYmIwdW8taUNEaUNwTEpqMnFyTGtnQWFnRWxqV1RNTFhnSy1MQVhlc2dxLTNtdDJPWnBCT2pFR3V5cjgzWkU1UU1peXdZdXVXcEJzQQ": 1792693248159,
+    "threads:DcoGFVRmL1z": 1792693560866,
+    "threads:DY8zYJ-CnTM": 1792693560866,
+    "news:CBMinAFBVV95cUxQdjItMVdmcW50aUlUaHVxNnI5X1JnU2VRVUh0T2VyaFMzSVIxM3VYVmRldFZjMXRuWjd0SG9hR0ZhWUJkWnY0MElSOFIxeEloNkdGM2lYd0tSNmRadHFLa0Z1OXFGS1Z1UmRBRER2VWlzZFdGeVlvN014Rm43NmRxLVB4cXhGamFTT2RsUEFTdll5Z0xLanJfd205c3c": 1792693560866
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "inilampung.com",
-      "x": "Gratis! Guru Bahasa Inggris Diundang Pelatihan Menulis Puisi Dwibahasa - inilampung.com",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjJINFZKQzlMdkpZVTFsQXNIQWlPLXdHWExXdXRNN0JOb3pTbGdLZDFadDZYbC1OT0llUUd5U1Q1WFpQeC1SdDk4a0xrY0YwZEdUNEtDb25ZSWdJa3ZEcUpkc2pFUk5yMXlVZ3RvWVoxYmxZZnh6d0Zpb1ZhQXNoNg?oc=5",
-      "d": 1792669125000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -15678,10 +15671,20 @@
       "d": 1792680240000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Komparatif.ID",
+      "x": "Dana Operasional Belum Cair, 2 SPPG di Bireuen Sempat Hentikan Program MBG - Komparatif.ID",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdjItMVdmcW50aUlUaHVxNnI5X1JnU2VRVUh0T2VyaFMzSVIxM3VYVmRldFZjMXRuWjd0SG9hR0ZhWUJkWnY0MElSOFIxeEloNkdGM2lYd0tSNmRadHFLa0Z1OXFGS1Z1UmRBRER2VWlzZFdGeVlvN014Rm43NmRxLVB4cXhGamFTT2RsUEFTdll5Z0xLanJfd205c3c?oc=5",
+      "d": 1792649978000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-22-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
