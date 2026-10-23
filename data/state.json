@@ -16244,7 +16244,8 @@
     "threads:De14cveG0-J": 1792769446760,
     "threads:De14Ej-nWo1": 1792769446760,
     "news:CBMinwFBVV95cUxPWlZoRjdEWUhVdjFCdUprWnZwNDRscExwbXUwcm5icWtibWk2QVdEb3BGSWc0T3BQd0JxMTViaFEtUnBvQU1FdmNVdzJXaFZyaGFrZFhTUjBhdWFDRFFUTGhGWUNWSm93b3VqU2hWV3FxRDJQLVJfalp4cHMxdHVnb2VwWjBTUEw5Ql9fYnFhcGVhZDc4eUxLbVRoNzItUFU": 1792769446760,
-    "news:CBMiogFBVV95cUxQNF9zUkpHODJCZ3lZVEZMUlRTOS04bUxxclZoUHBtREpybGg1N0JIdVRTLVpfVllQalN1dlVOUUY2NUlQVi1CTXp1Skc4emVNa3RWYy1CT2NjTDNRd21SSFB4QnhOSnk0aFVWWHRfdmNRZ3RuaXlFdWxjNkdqbVlQaVBrelVsUllNNnNhSHdCYlhtRzVicmNta19mRUdacTFnNlE": 1792769446760
+    "news:CBMiogFBVV95cUxQNF9zUkpHODJCZ3lZVEZMUlRTOS04bUxxclZoUHBtREpybGg1N0JIdVRTLVpfVllQalN1dlVOUUY2NUlQVi1CTXp1Skc4emVNa3RWYy1CT2NjTDNRd21SSFB4QnhOSnk0aFVWWHRfdmNRZ3RuaXlFdWxjNkdqbVlQaVBrelVsUllNNnNhSHdCYlhtRzVicmNta19mRUdacTFnNlE": 1792769446760,
+    "threads:De13_iIn6UG": 1792769743093
   },
   "digest": [
     {
@@ -17726,10 +17727,20 @@
       "d": 1792753200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@revitaasari12",
+      "x": "Anaknya maki\" Pemerintahan. Ortunya nungguin bansos cair",
+      "u": "https://www.threads.com/@revitaasari12/post/De13_iIn6UG",
+      "d": 1792769132000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
