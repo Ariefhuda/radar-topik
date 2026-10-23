@@ -16500,19 +16500,15 @@
     "threads:De1bShjkzUR": 1792788988088,
     "threads:De2dHa8GRB0": 1792788988088,
     "threads:De2dpOOmNB2": 1792788988088,
-    "threads:De2clLRmLmL": 1792788988088
+    "threads:De2clLRmLmL": 1792788988088,
+    "threads:De2eSLuCgzD": 1792789253650,
+    "threads:De2c6zYCeAM": 1792789253650,
+    "threads:De2csXUD2Ka": 1792789253650,
+    "threads:De2cjllDPBw": 1792789253650,
+    "threads:De2dUO0DuIT": 1792789253650,
+    "threads:Dey608Zj48Z": 1792789253650
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "fixsnews.co.id",
-      "x": "Kemnaker Dorong Daya Saing Tenaga Kerja Lewat Pelatihan Vokasi di Banyuwangi - fixsnews.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWU9sOUhQOUhjMVp0OHJxdWQtQmROZVlaX19XYzZ0eElLeTFDU25ibDUtVUhTQzZVeW9NM2RnZDdvZXdNYnFrZk1jTjFHZXZISFc3azZ3LVUyWGVWYm9vTExwUUJRMEIzcU9BSmJFb3d4SEEtQ2ZpdlYyN0ZwRUEyV3d1eGtoZ200UmhPU092UGpFdnVycGtCSFlpVXlfTVJiN1E?oc=5",
-      "d": 1792720347000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -18002,10 +17998,20 @@
       "d": 1792767990000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@esfhaner",
+      "x": "Webinar gratis Coordinación de instalaciones. Comenta Webinar te paso enlance",
+      "u": "https://www.threads.com/@esfhaner/post/De2dUO0DuIT",
+      "d": 1792788703000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
