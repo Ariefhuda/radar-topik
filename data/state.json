@@ -15195,29 +15195,18 @@
     "threads:De04dCGEsjW": 1792736747737,
     "threads:De05xuukuH_": 1792736747737,
     "threads:DcaZMbbiXfm": 1792736747737,
-    "threads:DaX_dw5E0Ph": 1792736747737
+    "threads:DaX_dw5E0Ph": 1792736747737,
+    "threads:De06YYUkT9K": 1792737048850,
+    "threads:De06WzFkbLi": 1792737048850,
+    "threads:De06qwPGI__": 1792737048850,
+    "threads:De057V0kxay": 1792737048850,
+    "threads:De062DkgHCU": 1792737048850,
+    "threads:De06OSBFqmo": 1792737048850,
+    "threads:De05x3-FRdi": 1792737048850,
+    "news:CBMiugFBVV95cUxONVB2clNMXzN0emplLXdLbkdnQVFtVmkwSU9vZDRWMnVKSDlJSmJNMGdKY0JRYjgySWJTSktONExBNVcyQXdjNXlfeDB4M1BaeUViQi1NeEV4UFJRYTIyUk9vd2FiXzdHSVFrYTNycGxYdE16V2JxUDctQmZCVVd2V09nSFZ0dFRwdGZKX3prbC1YTWNRMDkzX25uTDN6UTFMQk9KbWpMRmxsUndIc194eHdPajRtWm9jUFE": 1792737048850,
+    "news:CBMisgFBVV95cUxOd0ozNm8wMFBBR1lERGxjdXNadGlRVGdPb0R0b2E5ZDBrWG1PQUpMcjF6Z2MxTzF1YTZOTTJLVnNzdEdSemNJR2ZNNE5GWktwQkRnQVhKYUpPRFpabUdlbm9NY19OX3h5dWpkbFRwbXAzWU1RMjI2bDNkb0cyZDUwVFpDTkxtVzZrUm9CV205NHNiZm9OOXF6V0hiSXpxQmU5OGF3QXhOVnVqa3JBMHkxUVJ3": 1792737048850
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@nurafthika07",
-      "x": "Ada yang orang terisi Indramayu gk ? Dari bulan lalu katanya ada pemutihan sertifikat tanah gratis itu bner gak sih ? Kalau gratis kenapa aku balik nama sendiri bayar 150k itu buat",
-      "u": "https://www.threads.com/@nurafthika07/post/De0miTiH6fJ",
-      "d": 1792726426000,
-      "urgent": false,
-      "warn": true
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@ppid.by.suhu",
-      "x": "Pertemukan akun ini dengan ASN di seluruh Indonesia yang mau belajar bareng di webinar kita tiap bulan, gratis, dapat e-sertifikat Insyaallah bermanfaat dan barokah 🤲",
-      "u": "https://www.threads.com/@ppid.by.suhu/post/De0qrX_GdqR",
-      "d": 1792728597000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -16697,10 +16686,30 @@
       "d": 1792736513000,
       "urgent": false,
       "warn": true
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BSINews",
+      "x": "Bingung Pilih Kuliah atau Kerja Setelah Lulus SMK? UBSI Hadir di Edufair SMKN 11 Jakarta - BSINews",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVB2clNMXzN0emplLXdLbkdnQVFtVmkwSU9vZDRWMnVKSDlJSmJNMGdKY0JRYjgySWJTSktONExBNVcyQXdjNXlfeDB4M1BaeUViQi1NeEV4UFJRYTIyUk9vd2FiXzdHSVFrYTNycGxYdE16V2JxUDctQmZCVVd2V09nSFZ0dFRwdGZKX3prbC1YTWNRMDkzX25uTDN6UTFMQk9KbWpMRmxsUndIc194eHdPajRtWm9jUFE?oc=5",
+      "d": 1792737014000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "Cara Cek Bansos Pakai KTP secara Online, Ini Langkah-langkahnya - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0ozNm8wMFBBR1lERGxjdXNadGlRVGdPb0R0b2E5ZDBrWG1PQUpMcjF6Z2MxTzF1YTZOTTJLVnNzdEdSemNJR2ZNNE5GWktwQkRnQVhKYUpPRFpabUdlbm9NY19OX3h5dWpkbFRwbXAzWU1RMjI2bDNkb0cyZDUwVFpDTkxtVzZrUm9CV205NHNiZm9OOXF6V0hiSXpxQmU5OGF3QXhOVnVqa3JBMHkxUVJ3?oc=5",
+      "d": 1792731250000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
