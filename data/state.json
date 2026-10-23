@@ -15289,49 +15289,19 @@
     "news:CBMiygFBVV95cUxPSkVGRnF4SU50N09fX2ZoSWkyVVZBSkxVVHF6RHhXd3BidGU1VnlueGpkRjh4ZFY0WnMxYWtQdlowQWtWdEY3OVZxZkRfSkdkcEFwRV9wbDRWSksxN3ktMFVsNWJRbFctYXU5UjdCa0h6OGlpUHYxM21nSV8tak8zYUd6TTFwMzhOYkRaWmpYYlA5SVIyY2ZkWmlyaExtcUFWeWVrTUFNcHpIdkRtNm1SaU9hMllRTGhiZnFRTl9zWmVyWGtmR2NySHFn0gHKAUFVX3lxTE9KRUZGcXhJTnQ3T19fZmhJaTJVVkFKTFVUcXpEeFd3cGJ0ZTVWeW54amRGOHhkVjRaczFha1B2WjBBa1Z0Rjc5VnFmRF9KR2RwQXBFX3BsNFZKSzE3eS0wVWw1YlFsVy1hdTlSN0JrSHo4aWlQdjEzbWdJXy1qTzNhR3pNMXAzOE5iRFpaalhiUDlJUjJjZmRaaXJoTG1xQVZ5ZWtNQU1wekh2RG02bVJpT2EyWVFMaGJmcVFOX3NaZXJYa2ZHY3JIcWc": 1792739749111,
     "news:CBMinAFBVV95cUxNZkt5V1BPb1d4cjVwdW05SEd4QTNjMW1lM0RsOW0tTnNNQXlGb1ExTzF1Y0EwdmZwX3lPenpYRk5qS2hLalRFakdMX0dmTmJnLV82UlM0SlFkUGo5alA1clpaYS1YN3BSSDB4SnU3SU11ZDRWbzNNZkhQNmRubE9fTUNfRmZVUVRod2EteUZsTExyOS1ZcG91dlh1T3c": 1792739749111,
     "news:CBMi0AFBVV95cUxQR2owSjdWdDdDT1l6OWE2bEh2dnZPSHhjdWZ1SzZnUUhLVTR6NFRRVzZVQjViemZZaVFxVExLVFZmN1ZnWHBmczJFS2xXTXRmckhiZkl5WWpEbnhqM0FKbkhmZGFFNjZUcWpKR3Y2SFkzOF9yZV90RHMwaWtvRVlobXpIby1ESUZHWnFNeFhQcTFaR3NEZEJkbXMxcUtBRVhZM1YwR0QwQTc0NUFyanplN05idnRmcGZmc0t6cmpkTGkwVmpNQmotNEU1R01sWDJJ0gHQAUFVX3lxTFBHajBKN1Z0N0NPWXo5YTZsSHZ2dk9IeGN1ZnVLNmdRSEtVNHo0VFFXNlVCNWJ6ZllpUXFUTEtUVmY3VmdYcGZzMkVLbFdNdGZySGJmSXlZakRueGozQUpuSGZkYUU2NlRxakpHdjZIWTM4X3JlX3REczBpa29FWWhtekhvLURJRkdacU14WFBxMVpHc0RkQmRtczFxS0FFWFkzVjBHRDBBNzQ1QXJqemU3TmJ2dGZwZmZzS3pyamRMaTBWak1Cai00RTVHTWxYMkk": 1792739749111,
-    "news:CBMiuwFBVV95cUxQSEM3VHJlUkRhb2pLMHYwb0pUVlJacnVrVWlsN0ZYTGVsaVRSNUJKeGZNd19hMl96aC04RklheVd6N1RVNm5kTHVhNDdESHpPTDgzeGdNZzdjWDJac1NoOWFtbnNSSkMzWV9CTW1zcUlXUUpreWNkbk1ZeHJqZ01KMUZ2ZVJ6OF9pcWQ3dkdJVWt6SS11MVc4UC01U1dzN0M0RVl1NzlXeVhlQk9nQVJYQ2VZQkw4dHpxdm5z0gHAAUFVX3lxTE5Rc3dlZDBBcGxhaHQ3bTNkd1hsdGNhOUhaQ3ItR1JvcThHbmZLbkZvQlFnZUFmMnZOLWRhOGFLUk1BSWdRR280WDlJWTdDcUVYVjBaMWNxZTB5Y0hMVTRLUkVxVUtod3FObWtXX2JPUEtCS096Y2FJTm9aclpGc3BoS01wUkZkWC00V0g5UDR1VFdwM2FSV0U0OHRxNDB2MTdxQ1JNcHhiOWVVRF8wYS1MUDY1THMzeEkycXhsUk1lYQ": 1792739749111
+    "news:CBMiuwFBVV95cUxQSEM3VHJlUkRhb2pLMHYwb0pUVlJacnVrVWlsN0ZYTGVsaVRSNUJKeGZNd19hMl96aC04RklheVd6N1RVNm5kTHVhNDdESHpPTDgzeGdNZzdjWDJac1NoOWFtbnNSSkMzWV9CTW1zcUlXUUpreWNkbk1ZeHJqZ01KMUZ2ZVJ6OF9pcWQ3dkdJVWt6SS11MVc4UC01U1dzN0M0RVl1NzlXeVhlQk9nQVJYQ2VZQkw4dHpxdm5z0gHAAUFVX3lxTE5Rc3dlZDBBcGxhaHQ3bTNkd1hsdGNhOUhaQ3ItR1JvcThHbmZLbkZvQlFnZUFmMnZOLWRhOGFLUk1BSWdRR280WDlJWTdDcUVYVjBaMWNxZTB5Y0hMVTRLUkVxVUtod3FObWtXX2JPUEtCS096Y2FJTm9aclpGc3BoS01wUkZkWC00V0g5UDR1VFdwM2FSV0U0OHRxNDB2MTdxQ1JNcHhiOWVVRF8wYS1MUDY1THMzeEkycXhsUk1lYQ": 1792739749111,
+    "threads:De0_868Ezfk": 1792740047446,
+    "threads:De1Ab5qCfLN": 1792740047446,
+    "threads:De1AUBzG21W": 1792740047446,
+    "threads:De1ADPFCXbU": 1792740047446,
+    "threads:De0_gLKkihZ": 1792740047446,
+    "news:CBMisAFBVV95cUxOYWJncWlrY0Nid2Vfcl9PZjhmLWVWZDlhZ01QRnotYWtlaU0wa2pGd3R4U1l2OERGczM2dnpzcUlFLUQ1OFYyQ0gwQ2EzMjBqdkNoMVZ4cmNwbVRTczdvcHhEUXotemViTTNSanRfRFFFZGFHS2lRZXltTXA4SXViV0o5S1gzaWZmQzFEZUZ3b3BGa0IyUzBDdk5HNHg1NmM2dWo1NzdTY3VIbUtVVHpOOA": 1792740047446,
+    "news:CBMib0FVX3lxTE9ncm5ORVE3Nk5JVTNGek5QRkJfZVRVcmdyYzhrclJuVkRlTWpHMzlsVzFNdHYtNWlJOU40N2NsV25wMndvTXdkZUZuTGdKQUxaRjlWTGc1TFBYdkRwS18wTk85LTRXMWZHenBXY01SMA": 1792740047446,
+    "news:CBMiqwFBVV95cUxNbWwyXzdIaVc2S2FmVVZTTkdfYTMzUXNxNHFqYU9CZTJaSTc2MWJncDZ5MWdIeEtZU2RkeGU0eVp2bUFPYzBWSE5aSHRxNEM5azlKWmY4bXJUVndxQlRTdjM5cUhpNmN5alRicXpueEV1R3ZUYm05SWlZTFUxN2VnV05zMjAwZ1hGb3VVMVViM09RMnZ6elFCdURkSjRkUzNveE15MnZkLXF3b2M": 1792740047446,
+    "news:CBMixAFBVV95cUxQNUtHbGNSZndtaUFIN0hHZjBtR0NGNFdweHVtMHFpSE1lU0ZDTFhsLU1DWXBLLXRTRE5sLXhiOFA5a1BzS3kwNmZSWHZVU19BdXBsSVIyZWdfblYwbG5RR3pCY2lkSVFxWGIxbTc3ZXRPSXNQMThiTTVWYWJaY2dUSmhLQkh0VVBiN0xKa1FhTkxFVnZ0UDFlTC1SbFFmS0htQzJpTzVlTHZGSVNnRUlqUmk4SXpZWUUwZzNDc2FNN1B5aWJt0gHEAUFVX3lxTFA1S0dsY1Jmd21pQUg3SEdmMG1HQ0Y0V3B4dW0wcWlITWVTRkNMWGwtTUNZcEstdFNETmwteGI4UDlrUHNLeTA2ZlJYdlVTX0F1cGxJUjJlZ19uVjBsblFHekJjaWRJUXFYYjFtNzdldE9Jc1AxOGJNNVZhYlpjZ1RKaEtCSHRVUGI3TEprUWFOTEVWdnRQMWVMLVJsUWZLSG1DMmlPNWVMdkZJU2dFSWpSaThJellZRTBnM0NzYU03UHlpYm0": 1792740047446,
+    "news:CBMixwFBVV95cUxPQl9MajBFNlFuZmRjUlFmRmRBMDgxUGRNQ0RmVFRQVHkzTkoxekZNalc2bXdWbnp3QTZpOG9QR3p4eWxpTkxNTmktbDlPREYxbnV6OVNYMmczSkQ2bDVfNFRrczc0NUR6Q1BNQXMxbHBxQ0xsaklFQ0hsQl9fTE5mV251SXRGcWZOMmVTSXBNQ2tVU0J6anZMRFdmTWFvTnpnYS11dEpKbE00Qm01NHdXa19MS1RHT1llY1FrWGZ0eTRGdVZWczhr0gHHAUFVX3lxTE9CX0xqMEU2UW5mZGNSUWZGZEEwODFQZE1DRGZUVFBUeTNOSjF6Rk1qVzZtd1ZuendBNmk4b1BHenh5bGlOTE1OaS1sOU9ERjFudXo5U1gyZzNKRDZsNV80VGtzNzQ1RHpDUE1BczFscHFDTGxqSUVDSGxCX19MTmZXbnVJdEZxZk4yZVNJcE1Da1VTQnpqdkxEV2ZNYW9OemdhLXV0SkpsTTRCbTU0d1drX0xLVEdPWWVjUWtYZnR5NEZ1VlZzOGs": 1792740047446
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Versi ngayal Ganjar - Mahfud jadi presiden ya: Arahnya kemungkinan lebih ke kontinuitas pembangunan + penekanan kuat di reformasi hukum. Itu core brand mereka berdua — Ganjar denga",
-      "u": "https://www.threads.com/@meta.ai/post/De0uR3UAn-T",
-      "d": 1792730485000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Indragirione.com",
-      "x": "Cek Bansos Oktober 2026 Pakai KTP, Cek Status Penerima via HP - Indragirione.com",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBLR1FBamktb3B1QXl4a2RhRnUxQzJjNlh2NmhkZ2RwOG40bG9IWEM1QnVBTjVRYXJCTDZxcHJzNU1YdzEtbS1yc2pGUERJNTl3WkdleTNYaGNJZHVDcGFYaGM3dm1xQmJlVnFWNDRMOFJNck9XRWpnUldHSnd6Xy1NWFNXMU90ZUxSOHRXWHRWak1VaUoyM3VWeDN6UdIBowFBVV95cUxNTW5hWDZCR0pUNjAxME5ERDVUQlVkaHo3RkkwckxRZHIwQTVvdy1IWjhYWHdmVFVIQklZSHpNTEpza0JvRHBiOXR2SnVMWWtyUGg4OG4tbmtXS2lmQTZMOE5fQTR6TDdZUnFJRnAzbngwSDJ5UHJ5UWIwVTRfRGRvUU5NZVpDbWNQYTdISTM3TGkwQVJydGtaTkp3NXdDSUMtV0NJ?oc=5",
-      "d": 1792717267000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "PKH Tahap 4 2026 Kapan Cair? Ini Jadwal dan Cara Cek Penerimanya - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFB5ZkdPbnotVlZLTF9hSkZDbEFtdGxFSENTR3FkVTJIYVBDTjZvOWlxek9iU2UxTG00aW4xeGE2U2N3WmwwaGY0TnRHSnRHcXprcmR3eE1tbXRTdUxDV0NqUWVhNWhZd1hWa3ZaMTNVNkZrTU5iSF9md2QtbEV0aXlkanZ4Umt4RW9BdVpDeG5VbVdtMlZSZGtmTWNQalBrM3E1NF9uZTZzOWdNeThnZkozblU?oc=5",
-      "d": 1792730220000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bojonegoro",
-      "x": "Anggaran Bansos Dikepras Rp 2,7 Miliar, Sebagian Anak Yatim Masuk Desil 6-10 - Radar Bojonegoro",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUU4cGVocnNDT0czQldJOVliN1I4N2Q4TWZxWUZ3VktFUThKOWZlOGVIemF0eUUyUmZRTHF0X2I5LXI2d3V6UnY1bklVOUxSN3AxRi1EOUZFRGg5MDlQZEFIZ1g5Q1RseWpObWplbFNSR2xqOC0zOGlBeVZJOWRIcmJKdXQzRTZkSTdtbmJfQkxQTTZ0U1BnX0hrUmhuYmZfbDFhWWtZWWFNMlYyMVlqQWZvT3Z1aWgzSjh5VTUzRGlQNnR2MUJ4SFFiQWbSAdIBQVVfeXFMTThIOXlTdDdIby1yQkhuYnBCbkd5bjZneWdhZUJiTm9wTXdiNDJOMlBycXBQbGpTVDBpR0tSS3RjWU1xMnJMdUhTTnViUTJrODhqTU1lNlVvTVMyVEFZZHo3WWRpUTlkUHRickVtT3hueFAwYm51SW9YWDVVU21yeVgtUUxuX09kVkw0eXB3a29kWGo5UGZPNFpYSEd2RDZDWmRVZEZBMmhBcV9nOW1lWUhpZzJxUDQyMzlJT2JCS3U2NmRVYU5UNUsyVXUzSnc5elN3?oc=5",
-      "d": 1792717843000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -16791,10 +16761,50 @@
       "d": 1792730560000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "ATR BPN Catat Kontribusi Ekonomi Pertanahan Rp 1.834,8 Triliun - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncm5ORVE3Nk5JVTNGek5QRkJfZVRVcmdyYzhrclJuVkRlTWpHMzlsVzFNdHYtNWlJOU40N2NsV25wMndvTXdkZUZuTGdKQUxaRjlWTGc1TFBYdkRwS18wTk85LTRXMWZHenBXY01SMA?oc=5",
+      "d": 1792739177000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "Dua mahasiswa laki-laki asal Vietnam memenangkan beasiswa senilai hampir 1 miliar VND di Universitas Otago, Selandia Baru. - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbWwyXzdIaVc2S2FmVVZTTkdfYTMzUXNxNHFqYU9CZTJaSTc2MWJncDZ5MWdIeEtZU2RkeGU0eVp2bUFPYzBWSE5aSHRxNEM5azlKWmY4bXJUVndxQlRTdjM5cUhpNmN5alRicXpueEV1R3ZUYm05SWlZTFUxN2VnV05zMjAwZ1hGb3VVMVViM09RMnZ6elFCdURkSjRkUzNveE15MnZkLXF3b2M?oc=5",
+      "d": 1792663594000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Desil Bansos PKH BPNT Tiba-Tiba Hilang? Ini Penyebab dan Cara Mengatasinya - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUtHbGNSZndtaUFIN0hHZjBtR0NGNFdweHVtMHFpSE1lU0ZDTFhsLU1DWXBLLXRTRE5sLXhiOFA5a1BzS3kwNmZSWHZVU19BdXBsSVIyZWdfblYwbG5RR3pCY2lkSVFxWGIxbTc3ZXRPSXNQMThiTTVWYWJaY2dUSmhLQkh0VVBiN0xKa1FhTkxFVnZ0UDFlTC1SbFFmS0htQzJpTzVlTHZGSVNnRUlqUmk4SXpZWUUwZzNDc2FNN1B5aWJt0gHEAUFVX3lxTFA1S0dsY1Jmd21pQUg3SEdmMG1HQ0Y0V3B4dW0wcWlITWVTRkNMWGwtTUNZcEstdFNETmwteGI4UDlrUHNLeTA2ZlJYdlVTX0F1cGxJUjJlZ19uVjBsblFHekJjaWRJUXFYYjFtNzdldE9Jc1AxOGJNNVZhYlpjZ1RKaEtCSHRVUGI3TEprUWFOTEVWdnRQMWVMLVJsUWZLSG1DMmlPNWVMdkZJU2dFSWpSaThJellZRTBnM0NzYU03UHlpYm0?oc=5",
+      "d": 1792734546000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Pikiran Rakyat NTT",
+      "x": "NIK KTP Bisa untuk Cek Bansos PKH-BPNT? Simak Langkah-Langkahnya - Pikiran Rakyat NTT",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQl9MajBFNlFuZmRjUlFmRmRBMDgxUGRNQ0RmVFRQVHkzTkoxekZNalc2bXdWbnp3QTZpOG9QR3p4eWxpTkxNTmktbDlPREYxbnV6OVNYMmczSkQ2bDVfNFRrczc0NUR6Q1BNQXMxbHBxQ0xsaklFQ0hsQl9fTE5mV251SXRGcWZOMmVTSXBNQ2tVU0J6anZMRFdmTWFvTnpnYS11dEpKbE00Qm01NHdXa19MS1RHT1llY1FrWGZ0eTRGdVZWczhr0gHHAUFVX3lxTE9CX0xqMEU2UW5mZGNSUWZGZEEwODFQZE1DRGZUVFBUeTNOSjF6Rk1qVzZtd1ZuendBNmk4b1BHenh5bGlOTE1OaS1sOU9ERjFudXo5U1gyZzNKRDZsNV80VGtzNzQ1RHpDUE1BczFscHFDTGxqSUVDSGxCX19MTmZXbnVJdEZxZk4yZVNJcE1Da1VTQnpqdkxEV2ZNYW9OemdhLXV0SkpsTTRCbTU0d1drX0xLVEdPWWVjUWtYZnR5NEZ1VlZzOGs?oc=5",
+      "d": 1792733323000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
