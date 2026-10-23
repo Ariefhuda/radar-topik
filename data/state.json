@@ -16508,19 +16508,12 @@
     "threads:De2dUO0DuIT": 1792789253650,
     "threads:Dey608Zj48Z": 1792789253650,
     "threads:DavKjw4gR9m": 1792789552798,
-    "news:CBMiuwFBVV95cUxQZG1iZVgxZHBCLUhNcEtzYlk2NjlnMUhyQW1pdXpFc3EyMUhnQmF1OGVfUy1aZ2VTbG91TEVfUzRFUWJLdkgzNVBsM2U5bnBLMXo2OG5JMW03TU9pYXU1U1F5X3BJYU1HZDVwaUl0c1BDUjh6a0FWV0xyOEx2Y2d1WEpaWG1zeTBuMVlwNXlrcHVIbjdVNV8wdm5oeEppOHdZQ0V2OTJ6dkhTVXktX09KTlBjS0NqejI4VVlR0gG7AUFVX3lxTFBkbWJlWDFkcEItSE1wS3NiWTY2OWcxSHJBbWl1ekVzcTIxSGdCYXU4ZV9TLVpnZVNsb3VMRV9TNEVRYkt2SDM1UGwzZTlucEsxejY4bkkxbTdNT2lhdTVTUXlfcElhTUdkNXBpSXRzUENSOHprQVZXTHI4THZjZ3VYSlpYbXN5MG4xWXA1eWtwdUhuN1U1XzB2bmh4Smk4d1lDRXY5Mnp2SFNVeS1fT0pOUGNLQ2p6MjhVWVE": 1792789552798
+    "news:CBMiuwFBVV95cUxQZG1iZVgxZHBCLUhNcEtzYlk2NjlnMUhyQW1pdXpFc3EyMUhnQmF1OGVfUy1aZ2VTbG91TEVfUzRFUWJLdkgzNVBsM2U5bnBLMXo2OG5JMW03TU9pYXU1U1F5X3BJYU1HZDVwaUl0c1BDUjh6a0FWV0xyOEx2Y2d1WEpaWG1zeTBuMVlwNXlrcHVIbjdVNV8wdm5oeEppOHdZQ0V2OTJ6dkhTVXktX09KTlBjS0NqejI4VVlR0gG7AUFVX3lxTFBkbWJlWDFkcEItSE1wS3NiWTY2OWcxSHJBbWl1ekVzcTIxSGdCYXU4ZV9TLVpnZVNsb3VMRV9TNEVRYkt2SDM1UGwzZTlucEsxejY4bkkxbTdNT2lhdTVTUXlfcElhTUdkNXBpSXRzUENSOHprQVZXTHI4THZjZ3VYSlpYbXN5MG4xWXA1eWtwdUhuN1U1XzB2bmh4Smk4d1lDRXY5Mnp2SFNVeS1fT0pOUGNLQ2p6MjhVWVE": 1792789552798,
+    "threads:De2fY2CiZrw": 1792789837960,
+    "threads:De2eePaFSEi": 1792789837960,
+    "threads:De1uEFiFFuF": 1792789837960
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Cirebon Times",
-      "x": "DAAD Jelaskan Persaingan Beasiswa Jerman yang Capai 1 Banding 10 - Cirebon Times",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XZ0hUcFVqUTVZWjZGMnI5cHQ5MzdmMzhFSTlSa2VNVTU4UkFnN043OEpzYk1NdnZvZndvYzZqRmJwTkJJYkVod1V2OTF3UjJTb1hacmFhZk1Bd3Q4QUE2bTIzY2RjS2hhdjg4Rg?oc=5",
-      "d": 1792762582000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -18010,10 +18003,20 @@
       "d": 1792788703000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@evinialistiania",
+      "x": "In this economy, ada seminar yang gratis dan online, why not Tinggal join group whatsapp: tiny.cc/PreEventIntendedNov2026",
+      "u": "https://www.threads.com/@evinialistiania/post/De1uEFiFFuF",
+      "d": 1792763927000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
