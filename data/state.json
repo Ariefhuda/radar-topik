@@ -14629,7 +14629,10 @@
     "threads:DezUriQk5AC": 1792722651510,
     "threads:DR3qWK4kdwv": 1792722651510,
     "news:CBMivgFBVV95cUxOdk8zZklabDhHVHlOZThuV1lEaHZESEhLUHRnWXo5MFN1TVByZnR3bDBidmVOQXB1OVYxZ09mQ3pjWnFVQ2RsU3p0d1FRcjlfeWdoanhrUTA0aVcteVU0S3Z5RmNIbllVZ0c5MFJzS1FyT0I0c3dpRGg2SXFBTXRhYlp0ZUgtSGhfNHY5NWxBOGFKU2dFRnIxbmxOb1pVQUh1eEdaV1VQWVkwVF8tNVhEV0Z3Szlremg4dU4wTkhB": 1792722651510,
-    "news:CBMiygFBVV95cUxNYS1Sd2lvNGktcGx1ZXdwc21DN2lQVTBiOUpBSFAtNk84bUh1a2RhRVNkeUZwZWg0UDZSekVEbHNZUWVxYTI0V0tpUnRlc3NORjR1ZGlWTE83TUpMZFNvVFkyb3lzNXlaU1ZyNmdrWXAtOGNOekNmVng1cWlZcGJnTmUtN1ptemFEd2pXekZzTGVTREhyVFNRWjRVY1RKcHZVU1hpd0IxV0tpUkJBdFVVUTJMb29ZSVo0SFVrbjJhZHhiNUJPZmVKNmR30gHPAUFVX3lxTFBuZG16MkNiV3VPaGlwZ0kxVFhiLTB5X0ZXaTR5cWFxT1N0WXRwSjFrSExGMHJ4T3p4OS16RGFKRUhMMEtrNkc5TTd5N0lHMG1kak96cGdnS0hYWEpwY1ZnV0lhUlhqWHhvVTk2ZzFkY0c2TWctVGNfSG5rRGZMdHg4eVNUZEFoeEdJUkhud2dIN3hFNUJXd0cxQ21FRmNzRExRTHNPOUZFenhUbmhBSDNFV05JSnJiZTlUTEUxdzlISVhzYVNoR2Z1dnZfV0VfMA": 1792722651510
+    "news:CBMiygFBVV95cUxNYS1Sd2lvNGktcGx1ZXdwc21DN2lQVTBiOUpBSFAtNk84bUh1a2RhRVNkeUZwZWg0UDZSekVEbHNZUWVxYTI0V0tpUnRlc3NORjR1ZGlWTE83TUpMZFNvVFkyb3lzNXlaU1ZyNmdrWXAtOGNOekNmVng1cWlZcGJnTmUtN1ptemFEd2pXekZzTGVTREhyVFNRWjRVY1RKcHZVU1hpd0IxV0tpUkJBdFVVUTJMb29ZSVo0SFVrbjJhZHhiNUJPZmVKNmR30gHPAUFVX3lxTFBuZG16MkNiV3VPaGlwZ0kxVFhiLTB5X0ZXaTR5cWFxT1N0WXRwSjFrSExGMHJ4T3p4OS16RGFKRUhMMEtrNkc5TTd5N0lHMG1kak96cGdnS0hYWEpwY1ZnV0lhUlhqWHhvVTk2ZzFkY0c2TWctVGNfSG5rRGZMdHg4eVNUZEFoeEdJUkhud2dIN3hFNUJXd0cxQ21FRmNzRExRTHNPOUZFenhUbmhBSDNFV05JSnJiZTlUTEUxdzlISVhzYVNoR2Z1dnZfV0VfMA": 1792722651510,
+    "news:CBMiiwFBVV95cUxPQzZuU05ZTTJ2M2V1VTd2bi1xTTRJOUlFOE02Mk1hcnFSVUdPUUF2a2ZCaXBYMjJNMzRXMlYzSmNvMlFuRkUzX1ZzUWh1RnAzSXZfOXVtN2dLRE40SHh3X1RfWkNjdTNBTXk0c29oRGpvbmp0NFRJa3VPTEc0cTVEcjB5VFFBMmM3TmVF": 1792722954467,
+    "news:CBMiekFVX3lxTE9xZnl2OWxXOXNoVHlPVWNkNHNESnIyWHZvWXU5NmRjU19hdV9kV0JRb2YyaXJLTnJUNlJaWkxLVUw2T1o1RzdhOGNWSG1vaW9peFB3MXJzMTZ1a1JTbjB6V1pWT3RpUGttVW93UjREWDE1VTYzU1lwZUhB": 1792722954467,
+    "news:CBMi1AFBVV95cUxNdUwwX0VWdl9Hd0VtVmpGMUd0OE5QMzVXWGhfYkZ1QjVFQ2ZHVHE1S2F1aV9HNFRHdEYxSWdBN0s5a0x1T19wRC1iNDVUcTBrYlRPVVV4amJLcE02bnZQcjlMR0Q3eUtkbmtKU1dPQjBIYnlGWDJmU0xkY0lsaDMta2FrRzhVY1puUTROYkpmWEJhZjBWbmhKOVN3bTEwUXA0ME9qeXVnODh2djN0ZndramRnRldlcWRYUGprVHd5ZWZFUHFfcUVQeGtNdkVqOTJRMm5OOA": 1792722954467
   },
   "digest": [
     {
@@ -15361,10 +15364,40 @@
       "d": 1792722193000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "www.suaralandak.co.id",
+      "x": "Kemdiktisaintek Buka PPDB SMA Unggul Garuda Baru 2027 - www.suaralandak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzZuU05ZTTJ2M2V1VTd2bi1xTTRJOUlFOE02Mk1hcnFSVUdPUUF2a2ZCaXBYMjJNMzRXMlYzSmNvMlFuRkUzX1ZzUWh1RnAzSXZfOXVtN2dLRE40SHh3X1RfWkNjdTNBTXk0c29oRGpvbmp0NFRJa3VPTEc0cTVEcjB5VFFBMmM3TmVF?oc=5",
+      "d": 1792722747000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "9 Beasiswa Afirmasi Nakes Kemenkes 2026 Menanggung Kuliah Penuh dan Wajib Pengabdian Minimal 3 Tahun - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xZnl2OWxXOXNoVHlPVWNkNHNESnIyWHZvWXU5NmRjU19hdV9kV0JRb2YyaXJLTnJUNlJaWkxLVUw2T1o1RzdhOGNWSG1vaW9peFB3MXJzMTZ1a1JTbjB6V1pWT3RpUGttVW93UjREWDE1VTYzU1lwZUhB?oc=5",
+      "d": 1792721040000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Journalist Independent",
+      "x": "Anggaran Rp31,8 Triliun Disiapkan hingga Akhir 2026, Ini Rincian Bansos dan Program Pemerintah - Journalist Independent",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdUwwX0VWdl9Hd0VtVmpGMUd0OE5QMzVXWGhfYkZ1QjVFQ2ZHVHE1S2F1aV9HNFRHdEYxSWdBN0s5a0x1T19wRC1iNDVUcTBrYlRPVVV4amJLcE02bnZQcjlMR0Q3eUtkbmtKU1dPQjBIYnlGWDJmU0xkY0lsaDMta2FrRzhVY1puUTROYkpmWEJhZjBWbmhKOVN3bTEwUXA0ME9qeXVnODh2djN0ZndramRnRldlcWRYUGprVHd5ZWZFUHFfcUVQeGtNdkVqOTJRMm5OOA?oc=5",
+      "d": 1792679642000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
