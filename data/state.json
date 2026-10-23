@@ -16185,7 +16185,12 @@
     "threads:De1zv3yEskD": 1792767336279,
     "threads:De1zoDKk0rp": 1792767336279,
     "news:CBMihgFBVV95cUxNcG0zaXVLSGU5R2FNd1M5R2lnRWx0S25hVDZHLUVfQ19oWkgyMjJqLXNqMVcwRGpYYnVETnF6a1FDU080NHp6SGtGSldFSVRjZUZyOHlEQ0tuSXFBMk1NU0ZjQzY3UzI4TW1vQXRwYzczM29MWWtJdDVHSVR5alNMeVhLaGtWQQ": 1792767336279,
-    "news:CBMiU0FVX3lxTE03bUZjSDFzZ3BaUW1ZYXZpMW1ubVp4SXNpUlpNU1BvVnBFdHpsYmRYaUFDeHRIYU5YUUdmRlc3Vzg5MXVfSkJudlMycGtzTTFnMDJV": 1792767336279
+    "news:CBMiU0FVX3lxTE03bUZjSDFzZ3BaUW1ZYXZpMW1ubVp4SXNpUlpNU1BvVnBFdHpsYmRYaUFDeHRIYU5YUUdmRlc3Vzg5MXVfSkJudlMycGtzTTFnMDJV": 1792767336279,
+    "threads:DcOuZNsGYqU": 1792767653173,
+    "news:CBMiwgFBVV95cUxPV1A0VFZNZDdobmp4c243OFQwbzZhb2VJRTJBemxUTnEwdWl0SnF1cGgzLXVzckxTM09pbzdHSmlQT1RYWEtuSk9SLVJXcXdQdFJsVUs4ZE1uWnlZWjI2dVZybHdHTWxxbThWcnI2d0lObTJRUXdNQ1ZZRWxZZHBFRFhNMFNSQzJ0a2Uyb2k1bmI2ZnBkSTFBMVgtekZmb0xBOWJsTHRxdEgteGdOSGdYMk5FWlY0dzJ1M3dCNWI0ZDdXZw": 1792767653173,
+    "news:CBMiuwFBVV95cUxOOW5ycTBtXzdwal83SlBDOUprckM5dm9WeWtWa0hDR1E3MGJfdXFEaE1CVTNwM25NeHB6ckFCM2tqakhqS1NFZXlKdllyOEhQb0F3bVlsOF8zV1NWLVVLVWx5Nk1zdnZHMEhZYVlWZlQyVjJWbWFmRjFOUzVyeTV2c2IyZWNrTm1GUF9hWHd1NGUxTDhkb0V1S1RVTFdnZXNlNk1tWVhpS2R6ZllHcEpCZGx5bDZwcHJRcXJN": 1792767653173,
+    "news:CBMimwFBVV95cUxORWFIMVlhNXJFZ0o4N3lXN1hUbUlyTUlySDdFTng1eDRlVXpjM0tnS1NaZnViaUZQdEpwVE9GTmdXSWg4YmtzSWs2NU5oRC12RzU0MEl5SFBkNHBuNW1OVzM2SzMzdzdic01wdzVINHZMb3dzRGhJZElfOE92Ni1TWnJHaFdVU3FINWFLbEFqMndaTFJ0dmZUM3VHOA": 1792767653173,
+    "news:CBMihgFBVV95cUxObDdfMlpiSmhxSEE2NUQ5TEtMc01ZamJkc1BxbExQalJ2RmEyaWlaMVZ0cGppRS1BU3V4N204ZmR3dkVpaUxjdFZHQ3M2M1BhRHI1VjhhZXJYTVNndEVJTEFiWEFacjMxNG5SeDhURi1OQlRJY0NqOTZlUkJ3SkV2N25KLUphUQ": 1792767653173
   },
   "digest": [
     {
@@ -17497,10 +17502,40 @@
       "d": 1792762674000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Lapas Geser Hadirkan Pelayanan Kesehatan Gratis Bagi Petugas dan Warga Binaan - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOW5ycTBtXzdwal83SlBDOUprckM5dm9WeWtWa0hDR1E3MGJfdXFEaE1CVTNwM25NeHB6ckFCM2tqakhqS1NFZXlKdllyOEhQb0F3bVlsOF8zV1NWLVVLVWx5Nk1zdnZHMEhZYVlWZlQyVjJWbWFmRjFOUzVyeTV2c2IyZWNrTm1GUF9hWHd1NGUxTDhkb0V1S1RVTFdnZXNlNk1tWVhpS2R6ZllHcEpCZGx5bDZwcHJRcXJN?oc=5",
+      "d": 1792745700000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "Pemeriksaan skrining penyakit jantung bawaan gratis untuk lebih dari 3.470 anak di komune Duy Nghia. - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWFIMVlhNXJFZ0o4N3lXN1hUbUlyTUlySDdFTng1eDRlVXpjM0tnS1NaZnViaUZQdEpwVE9GTmdXSWg4YmtzSWs2NU5oRC12RzU0MEl5SFBkNHBuNW1OVzM2SzMzdzdic01wdzVINHZMb3dzRGhJZElfOE92Ni1TWnJHaFdVU3FINWFLbEFqMndaTFJ0dmZUM3VHOA?oc=5",
+      "d": 1792763656000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "SINYAL PONOROGO",
+      "x": "Tujuh Tahanan Baru Konsultasi Hukum Gratis di Rutan Ponorogo, Akses Pendampingan Dibuka Sejak Awal - SINYAL PONOROGO",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObDdfMlpiSmhxSEE2NUQ5TEtMc01ZamJkc1BxbExQalJ2RmEyaWlaMVZ0cGppRS1BU3V4N204ZmR3dkVpaUxjdFZHQ3M2M1BhRHI1VjhhZXJYTVNndEVJTEFiWEFacjMxNG5SeDhURi1OQlRJY0NqOTZlUkJ3SkV2N25KLUphUQ?oc=5",
+      "d": 1792745760000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
