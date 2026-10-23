@@ -14780,7 +14780,11 @@
     "threads:DetWfZfFJ9N": 1792726254986,
     "threads:DeWlzO1FKxb": 1792726254986,
     "threads:DSfDlPnk8U2": 1792726254986,
-    "news:CBMiYkFVX3lxTFBBeXYxeTVZRnotY1B4Ny1mblNXTkJMdWROcmRwdXFuU1FZYXF5WlJQMDRUdkQ3cEM1SDR4N2FvbnFUMDlYQXZycnZlbzV6TjVMR1pRQU11YWc4aHRiSFAyeUdn": 1792726254986
+    "news:CBMiYkFVX3lxTFBBeXYxeTVZRnotY1B4Ny1mblNXTkJMdWROcmRwdXFuU1FZYXF5WlJQMDRUdkQ3cEM1SDR4N2FvbnFUMDlYQXZycnZlbzV6TjVMR1pRQU11YWc4aHRiSFAyeUdn": 1792726254986,
+    "threads:De0l8XSktmO": 1792726539065,
+    "threads:DYe7EgTk5NP": 1792726539065,
+    "threads:De0lYFlkalu": 1792726539065,
+    "threads:DcU20UTI57T": 1792726539065
   },
   "digest": [
     {
@@ -16052,10 +16056,30 @@
       "d": 1792725899000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@radarkediri",
+      "x": "Cara Cek Bansos Rp600 Ribu Oktober 2026 Pakai KTP, Pahami Bedanya Status dan Pencairan https://radarkediri.jawapos.com/ekonomi/2610230008/cara-cek-bansos-rp600-ribu-oktober-2026-pa",
+      "u": "https://www.threads.com/@radarkediri/post/De0l8XSktmO",
+      "d": 1792726115000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@acyersam",
+      "x": "Betul, ketidaktepatan desil bisa terjadi karena yang melakukan pendataan dan verifikasi juga manusia. Bahkan, temuan pemeriksaan BPK sebelumnya menunjukkan masih ada masalah valida",
+      "u": "https://www.threads.com/@acyersam/post/De0lYFlkalu",
+      "d": 1792725818000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
