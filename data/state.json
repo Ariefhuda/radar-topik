@@ -16362,19 +16362,11 @@
     "threads:De2DImJkp6Q": 1792775146221,
     "threads:De2DGdYkhUR": 1792775146221,
     "threads:De2CnglAW_-": 1792775146221,
-    "news:CBMiigFBVV95cUxNQy1jWm40OGpYU3h4MzZNVXhjMWJwX0JPTEVHenppbEdRb2lhekJ2S0JkYnJyOGY5MklPNHRRZDh1THpUNGxJN3VLMzVuNkdrNUdadXlOeXczUDNHMWF2dVlEdGIxWmdiTWpzek1uVktiSXhKTXhCOUhLZDZOaElDNkdSZ3ZHVzd1bHc": 1792775146221
+    "news:CBMiigFBVV95cUxNQy1jWm40OGpYU3h4MzZNVXhjMWJwX0JPTEVHenppbEdRb2lhekJ2S0JkYnJyOGY5MklPNHRRZDh1THpUNGxJN3VLMzVuNkdrNUdadXlOeXczUDNHMWF2dVlEdGIxWmdiTWpzek1uVktiSXhKTXhCOUhLZDZOaElDNkdSZ3ZHVzd1bHc": 1792775146221,
+    "threads:DR9SOvhmNcC": 1792776004460,
+    "news:CBMiwwFBVV95cUxNMjN3WlNudVg4SElaNW9FaUVBUUdHZVBsOHVNNEZLUV9jdFNWaW1VTERWOFpqdVlQak44Rk11SWp6REl2b0NCNXYxTjY0eDZxUk9BS0p2U29RYzMwSVdaajlGNHRPMWktR2YxTU5qVi16ZXVVdTBzZGpDeEdzdm9rWEhhclZWTEpBMkd1NXdDN3lkSG84WWEwc1NBbzNhdHo1Zjl6NVUzRndCQ0k1TjZOTDFKclRxZXhDMGJjeVZEdUo5dUU": 1792776004460
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Desil DTSEN 3 Berpeluang Terima Bansos 2026? Ini Cara Cek BLT Kesra Rp 900 Ribu - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTdRVUUyRkdoQW1LOG9IdmItY05LbHczbjZmVEdYZHRXbVk1ZEZiYVFHX0NRSVdIMktpTkllbXRrd3NvOThUQzZ6Q0czaWE4VWp2cVJ0cVYxRlZFeGVFMk55TXlFdWhvUTVZZmVEY2RZdUNScEdpbWl4LXVfQUFJRF9GdU4yQjZQNEZnZllhaENHWjNRdWR0NVNvVlNJREhZUzVpWG9xa3puT0dzZy1mZFhtV3hnbmdON0dzZk9LSnR5TDVvVkHSAcsBQVVfeXFMTjkwZlk1MHNyVkpYbTVFTVM0TlJzM3pSM0paQlNIZmwxWm1ENTdzWE9Ob1hzTjVNU1lyUjhBazJLb0l1dmUtYnFJbDNZZng0NHdkYUdmNHZEU2RjVVVzYXZKek9ZQ0VSb0pERGl5OGlOZ0RpQ3UtVWM0YWlUMll2WV9xNVJ3NHJRYzhUNWhSeUdYU2tJdkhLZ1F3b2pVT014Tzl4emVQWGRHWGJUM25DYU9YV1U2ZmVCbV9lVGZUMUNsbFNlSldUa3ZjeVE?oc=5",
-      "d": 1792748265000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -17864,10 +17856,20 @@
       "d": 1792774703000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Kemnaker Akui Pelatihan Vokasi Disabilitas Masih Hadapi Sejumlah Tantangan - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjN3WlNudVg4SElaNW9FaUVBUUdHZVBsOHVNNEZLUV9jdFNWaW1VTERWOFpqdVlQak44Rk11SWp6REl2b0NCNXYxTjY0eDZxUk9BS0p2U29RYzMwSVdaajlGNHRPMWktR2YxTU5qVi16ZXVVdTBzZGpDeEdzdm9rWEhhclZWTEpBMkd1NXdDN3lkSG84WWEwc1NBbzNhdHo1Zjl6NVUzRndCQ0k1TjZOTDFKclRxZXhDMGJjeVZEdUo5dUU?oc=5",
+      "d": 1792753740000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
