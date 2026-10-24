@@ -16651,19 +16651,17 @@
     "news:CBMi0AFBVV95cUxOUVB6bzVBc2xESjZLWkVXY1VKaFQ2TVJvWUFKaHFrNkJ5NzR5MnEyNEpJcEdpN0JnRnFMX1FoSmxEY3NZalJKbGdMZTctdXc2cEZCZ1NhM2hiU2pFZzhtbEQtNHR1XzV4WnNhQ0J2QkVxWDVobWtIM0E3azFhQ0tSRFFrN0NRZl9lMzA4eTF0em9QaVEtN2lLTzU2V2MteE9ja24tX0NpWWltOFQ5aThuRmhZd1Z6eTV5Q2swaHUxVkdWcWtYbFMtLWlud3MzVE5Y": 1792801902149,
     "threads:De21dB9E0vU": 1792802137248,
     "threads:De21qgzD7iZ": 1792802137248,
-    "threads:DZpPVQLj-v0": 1792802137248
+    "threads:DZpPVQLj-v0": 1792802137248,
+    "threads:De21hj5E3X5": 1792802441644,
+    "threads:De22qGWCouT": 1792802441644,
+    "threads:De22WMBEfXN": 1792802441644,
+    "threads:De1hmu0kd3O": 1792802441644,
+    "threads:DZOyntuE30g": 1792802441644,
+    "threads:Dey7xlfGDpA": 1792802441644,
+    "threads:DeynQzZEyeE": 1792802441644,
+    "news:CBMivAFBVV95cUxPVDVuWmRoMFQ0Mmh5SDU2T0ZwX2NrcENZOGc4NnN2dXZtUWs1Mkh2ZU5aS0Iyb2p6SjVxVW5CSldMckxUYmZZeG9jaEtoQnZUbU1mSXI4aHBBY1kyUHJla2pvRllxd1NxX1NFUENjZFNqcTFhNXRNUk16ZkpkaFlfNmo3R2o2dXpIRWE5cV9JS0J0cEh6b1dKSUlrdmdEd054ak5xeUdnNnpBMk9Ba0ZockctS0dXU1pKdGVDNg": 1792802441644
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "News UMS",
-      "x": "Beasiswa IKA UMS Kembali Dibuka, Perkuat Sinergi Alumni untuk Dukung Pendidikan Mahasiswa - News UMS",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS052T3REZWlTcDFVVHVuNlc5YVVCQS1qWFRDQlhOZ0x0bjdqdFJaTWdTWnlsRUczX2dTa1lDZGppZ2dJVWczckd1d1U3dm91ZVdoSmkxa2dKTW4tUFg5Tl9DTDI3SDBPTlpwT3ZsMy1YeXZVRnBDSjdwdXRKOTBVSUhzLUY4MERWNF9HbEVmaGpvVnBrUlpLX3otQjdzNEtIa1VlWS02Ykx3emdSUW5KZnFVcy00MG5GQmlmQjFXZw?oc=5",
-      "d": 1792766760000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -18153,10 +18151,20 @@
       "d": 1792801356000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Imigrasi Gelar Bakti Sosial dan Pemeriksaan Kesehatan Gratis di Desa Belang Turi - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVDVuWmRoMFQ0Mmh5SDU2T0ZwX2NrcENZOGc4NnN2dXZtUWs1Mkh2ZU5aS0Iyb2p6SjVxVW5CSldMckxUYmZZeG9jaEtoQnZUbU1mSXI4aHBBY1kyUHJla2pvRllxd1NxX1NFUENjZFNqcTFhNXRNUk16ZkpkaFlfNmo3R2o2dXpIRWE5cV9JS0J0cEh6b1dKSUlrdmdEd054ak5xeUdnNnpBMk9Ba0ZockctS0dXU1pKdGVDNg?oc=5",
+      "d": 1792802220000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
