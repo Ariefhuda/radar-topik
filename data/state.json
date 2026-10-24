@@ -17945,7 +17945,8 @@
     "threads:De4U-icgVG5": 1792851944955,
     "threads:De4VUysE0dd": 1792851944955,
     "threads:De4WMNuH7rh": 1792851944955,
-    "news:CBMilAFBVV95cUxPRkt0alN2SjVpYllZRzVzQlFKZ1BfSjg1VXBPSkgwLXNjUDNXcTdCNDUyNW1YSVUxaG1BY0ZtZWZFN3pCalZsTng0ZW4yUFF1U28zUXRLNGlIVWgtV052VkZIVHNmYXhIQUFSRkczX2p5d3pSYkFVRHNnUnZTY1BGQ3IwSFZCZWQzZ012UVZDYmVIdXpy": 1792851944955
+    "news:CBMilAFBVV95cUxPRkt0alN2SjVpYllZRzVzQlFKZ1BfSjg1VXBPSkgwLXNjUDNXcTdCNDUyNW1YSVUxaG1BY0ZtZWZFN3pCalZsTng0ZW4yUFF1U28zUXRLNGlIVWgtV052VkZIVHNmYXhIQUFSRkczX2p5d3pSYkFVRHNnUnZTY1BGQ3IwSFZCZWQzZ012UVZDYmVIdXpy": 1792851944955,
+    "threads:De4WE35Eg-W": 1792852250268
   },
   "digest": [
     {
@@ -19387,10 +19388,20 @@
       "d": 1792852074000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bund.dean",
+      "x": "Wkwkk,,bansos kaga cair² gmna nih🤣🤣",
+      "u": "https://www.threads.com/@bund.dean/post/De4WE35Eg-W",
+      "d": 1792852014000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
