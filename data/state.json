@@ -18276,19 +18276,11 @@
     "threads:De5BajRjHJD": 1792875047656,
     "threads:De5DUT7DEdJ": 1792875664264,
     "threads:De5DS-EGnN4": 1792875664264,
-    "threads:De5C_-zExbM": 1792875664264
+    "threads:De5C_-zExbM": 1792875664264,
+    "news:CBMioAFBVV95cUxNWG43Vk16VGFzb3R3bEt5MTFNS2ZZdzNjNENjNkV1aW45MHB6bUt0SHE5U1hXRlpRUzN4V3VXcFhHT1lFdmNOYXlOR1RieTFOdTJ4dFlHQWtsa3pzZDFJa21sODdfcFJKZWI3UUVxQ1ZGTnRZME55eDRHdC1hRVhLRXBQQWM1c2lvZkJsZlFSeHBHRkFqZjhCaE01NTIzWnFQ": 1792875942874,
+    "news:CBMivgFBVV95cUxQOGpzWGlzVGRmS2ROLWQ5Mm5IQkRpbnBjT213NFUzbDNmNnRUTzVhOGVYVkl5MW5lTllQNmhTalJyaGF0T2VOenFNV3Z1NG4wVUswakpOT21tS2ppRzBlMHR5dnZYRzNMbXQzSzN3M3Zqb3NEMDJzU0t1OWJQSmtxSGZUbUEzclFWcnhfZ0FnVVNCUlpnaWhQRUZNWlZMS215ZXJsc0dnNlZvRjFzSGNQUXI5REswcENYWlc4MDB3": 1792875942874
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Prokal",
-      "x": "Tak Ada Pengurangan Kuota, Beasiswa Kukar Idaman Terbaik Dibuka Februari 2027 - Prokal",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDB2RUNJZFRBWXo0OFZkUGNaU25tV05xOG5Jay1rcGpaU1hUbmxHWERnYVB2YXM2WG9HUXBEQTRRTGlsRDZUUFBseXZOMVBqUG1HT0xicndfeF9FOGRYZko3a1JMYjd3SEZhN2RIX3pLUEhJc3NNbUxZdmUtWWV0R3dhdkJBMTJ6RnpaNkk4WGlrN2pQcC0tcHFtSEt6UDFMS2t6V2lYbEpFaUFYVnJYRFYtcXpsZWJWTzNlaWNwWllzUVM4bkVoN3lWNNIBywFBVV95cUxNeDB2RUNJZFRBWXo0OFZkUGNaU25tV05xOG5Jay1rcGpaU1hUbmxHWERnYVB2YXM2WG9HUXBEQTRRTGlsRDZUUFBseXZOMVBqUG1HT0xicndfeF9FOGRYZko3a1JMYjd3SEZhN2RIX3pLUEhJc3NNbUxZdmUtWWV0R3dhdkJBMTJ6RnpaNkk4WGlrN2pQcC0tcHFtSEt6UDFMS2t6V2lYbEpFaUFYVnJYRFYtcXpsZWJWTzNlaWNwWllzUVM4bkVoN3lWNA?oc=5",
-      "d": 1792843960000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -19778,10 +19770,20 @@
       "d": 1792872849000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunpontianak.co.id",
+      "x": "Penyebab BSU Oktober-Desember 2026 Belum Cair ke Rekening Pekerja - Tribunpontianak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGpzWGlzVGRmS2ROLWQ5Mm5IQkRpbnBjT213NFUzbDNmNnRUTzVhOGVYVkl5MW5lTllQNmhTalJyaGF0T2VOenFNV3Z1NG4wVUswakpOT21tS2ppRzBlMHR5dnZYRzNMbXQzSzN3M3Zqb3NEMDJzU0t1OWJQSmtxSGZUbUEzclFWcnhfZ0FnVVNCUlpnaWhQRUZNWlZMS215ZXJsc0dnNlZvRjFzSGNQUXI5REswcENYWlc4MDB3?oc=5",
+      "d": 1792875047000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
