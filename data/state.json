@@ -18220,19 +18220,17 @@
     "threads:De4yyBjjykR": 1792869652998,
     "news:CBMijAFBVV95cUxNTWpkY19qdThUT19HaFhMdWNkLTZRc2diOUw0MFY0Q2kwUXFJT011eGJDMGVfOWxzT1VXbERUNWZ5V3E3bUNmY2tEdF8tMjlicm9Qa1ZuLWZaOGZBdjRBV2Y2SGVxY2o4VFVFbVVUUHk4VXZaUGdBajBqZjZiZXVlLVVmaUFyazRKMWpRSw": 1792869652998,
     "threads:De43lOvk7u7": 1792869942311,
-    "threads:De37TvtjywB": 1792869942311
+    "threads:De37TvtjywB": 1792869942311,
+    "threads:De4R_cuGlXW": 1792870554545,
+    "threads:De45jmAGaQH": 1792870554545,
+    "threads:De45iNtiHBG": 1792870554545,
+    "threads:De45ODBFP9a": 1792870554545,
+    "threads:De45F8TFE6P": 1792870554545,
+    "threads:De4432Ij1HM": 1792870554545,
+    "threads:De44QkejSI7": 1792870554545,
+    "news:CBMirgFBVV95cUxPcTVhTGJGd3BhS21hOTFmbWNLdzhQZm9ORzdxV2d3LVJhaUozSXZ4X3VCNUZQUEJMeFpwNVd3dzdnWGRVX2hxaHVqOF9JcFM4OFhEV2Rmc0pEd0publYxb1F3NjRFOXhzcTNwa04xVU5lOTRNYWVHLXAxZXQ5Nmh0OFR6ZnBFT2QyZVpDajlWZnZrb1VxTmRIdGxsX195TXRXRXBRTlhWZ1JoaVdSbVE": 1792870554545
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@classai_id",
-      "x": "Jangan cuma scroll, ini 5 hal di Classai yang bisa kamu pakai hari ini: 1. Fondasi AI, gratis 13 lesson 2. Kelas per profesi, 1 lesson gratis tiap kelas 3. Classai Router, 1 saldo ",
-      "u": "https://www.threads.com/@classai_id/post/De4PlGvFHdd",
-      "d": 1792848659000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -19722,10 +19720,20 @@
       "d": 1792837980000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Pemkot Blitar Siapkan Kain Seragam Gratis untuk Siswa TK hingga SMP - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTVhTGJGd3BhS21hOTFmbWNLdzhQZm9ORzdxV2d3LVJhaUozSXZ4X3VCNUZQUEJMeFpwNVd3dzdnWGRVX2hxaHVqOF9JcFM4OFhEV2Rmc0pEd0publYxb1F3NjRFOXhzcTNwa04xVU5lOTRNYWVHLXAxZXQ5Nmh0OFR6ZnBFT2QyZVpDajlWZnZrb1VxTmRIdGxsX195TXRXRXBRTlhWZ1JoaVdSbVE?oc=5",
+      "d": 1792824900000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
