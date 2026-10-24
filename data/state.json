@@ -18209,19 +18209,12 @@
     "threads:De41bCRk1lD": 1792869078949,
     "threads:De42qVAkwvr": 1792869078949,
     "threads:De42d9PE9Ir": 1792869078949,
-    "news:CBMijwFBVV95cUxOb3lmN3hHUVlRVVRxczBRY0pncVJRaUZNOWZORkVaYV9oSEh0bDhnRTItaHFYN3BwMVdyZDVsSzNldHlsMkE5cGp3eXVDVi10WmJJa3E5dHpRV09uUHBhVHJ3RVk1dE9Wc3o2QXZJbDY5Nndlc09iZUJ0T0pCUldtTHA5T05lYTRaU21SeWNwbw": 1792869078949
+    "news:CBMijwFBVV95cUxOb3lmN3hHUVlRVVRxczBRY0pncVJRaUZNOWZORkVaYV9oSEh0bDhnRTItaHFYN3BwMVdyZDVsSzNldHlsMkE5cGp3eXVDVi10WmJJa3E5dHpRV09uUHBhVHJ3RVk1dE9Wc3o2QXZJbDY5Nndlc09iZUJ0T0pCUldtTHA5T05lYTRaU21SeWNwbw": 1792869078949,
+    "reddit:t3_1xegwqx": 1792869342317,
+    "news:CBMijgFBVV95cUxOcEVFa0dMSV9DZERvX0htN2xKbF93ZUpaNGo0VThublNVN0ZiV21yRzFsdmZXRmpEeUtQRzViZi1Demg1SGNtN1dZc2toa3FrVWdBS0hZa3RiM2cwNXNGSXpUWXZqTHdIMmQ4NlhDN0FROEtLREJfUFZvaE9ycmFocmVvdll2LVROaDJuTENn": 1792869342317,
+    "news:CBMiuAFBVV95cUxNaVNtajdQbUxBNmRDR3Ryamp3dWIxV2RJVldyMmhwQ0dXNGFTdjgtekRLbVZfZVhHekt4NlJkN2tPUW9tQWJzRTFhQlBqZ2JWUEVPUzNOME1OQ0NIWkRfOVNFSlM1aFhpUEFKcWxiOWduVXpOZ3FJSzFmdnJmZGJLbHR6MmxUaG5RRVdHdnFqb3hoWFpQakV1YklUVlNwUi1XRjg1RmF6YUFYOUQ5MVhOS2pyTEVIblVo": 1792869342317
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "kliksumut.com",
-      "x": "Kemnaker Perpanjang Masa Pendaftaran Mitra Penyelenggara MagangHub Batch 3 hingga 29 Oktober - kliksumut.com",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmowaWtza1JDUUJmdWptRUI3SGxiU3hUQkRUVTRmMTEzVlZzcHRKaVktYThiNzNkMWpHME5sZnNNN2lxMzhGZW5FQU1DSG95V2RKbUdKWFVyN21KRkxwdWJwQVAwbzdPX1Q4V0I4WlV2TUYxaFJ1SmJwMGNSOVFQSmVEZTNQa3pGUHE1TENhU3RfbVhRcDlMaXkwRm01MUktQkRHQkhYcW92RjFQekx2RmxQemJiZw?oc=5",
-      "d": 1792825256000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -19711,10 +19704,20 @@
       "d": 1792868996000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaVNtajdQbUxBNmRDR3Ryamp3dWIxV2RJVldyMmhwQ0dXNGFTdjgtekRLbVZfZVhHekt4NlJkN2tPUW9tQWJzRTFhQlBqZ2JWUEVPUzNOME1OQ0NIWkRfOVNFSlM1aFhpUEFKcWxiOWduVXpOZ3FJSzFmdnJmZGJLbHR6MmxUaG5RRVdHdnFqb3hoWFpQakV1YklUVlNwUi1XRjg1RmF6YUFYOUQ5MVhOS2pyTEVIblVo?oc=5",
+      "d": 1792866032000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
