@@ -18356,19 +18356,10 @@
     "threads:De5ThW4E7Yv": 1792884345467,
     "threads:De5TTAhAI7K": 1792884345467,
     "threads:De5TWzakjxI": 1792884345467,
-    "news:CBMizgFBVV95cUxOUzlVZmNuRjJzRjZYMnNKNHR4Vnd3RFNkLUlZR1I2d3ZWRGZDeWZDZE9ENTQ1TGxGMEVsTWttNXZhOXE1SGlXQWExdW0zUFlqcWNDcG1tN3BBNXJ1YW91X29jSWxfWFppVDFtUDYwU1NhZUdYbDhxd2U0NUFPeU12eHRVZXlWZVlTX0xzNU9Idm40M256bDlPSVpwbEZyRlpfTmM5a1dDaEgwc2FENGJ4Q2FzdENmU0lYRlAxVVA2ZEFXbTIweXpjYUMxbldQdw": 1792884345467
+    "news:CBMizgFBVV95cUxOUzlVZmNuRjJzRjZYMnNKNHR4Vnd3RFNkLUlZR1I2d3ZWRGZDeWZDZE9ENTQ1TGxGMEVsTWttNXZhOXE1SGlXQWExdW0zUFlqcWNDcG1tN3BBNXJ1YW91X29jSWxfWFppVDFtUDYwU1NhZUdYbDhxd2U0NUFPeU12eHRVZXlWZVlTX0xzNU9Idm40M256bDlPSVpwbEZyRlpfTmM5a1dDaEgwc2FENGJ4Q2FzdENmU0lYRlAxVVA2ZEFXbTIweXpjYUMxbldQdw": 1792884345467,
+    "threads:De5UNV8iquM": 1792884651845
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Disway Malang",
-      "x": "Beasiswa Mitsui Bussan 2026: Kuliah S1 Gratis di Jepang, Tunjangan Rp15,9 Juta per Bulan - malang.disway.id - Disway Malang",
-      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc2FUajZKM2drMTdzaU9Ea0Jqb0hwWWNNVlpQRzRTbXNRUzFJWTJtbzJTM1JlczM1RDJFOE1RcXpFUVAtVkJ3OWo5VzBRZE5Yem8tRmJPQmpnMnJSc1pIT05tQWVPZEtJNERTMkp5cUR5eGlDdy1yUzFycmZjU1dqWmFabFdHV1hpWFl6OUZNd1RuUHI5Y0hSWGVSWDFkWllXdmNGdlcwY0lRNndFVFdnYjlvVDVXZ0VBM2NTNGtJcFhTV1lrbDk1WVg1RXRzWEM4bDR2U2g2dTJsZ9IBvAFBVV95cUxOQkNKSGxBZnB6S2VIanQzS2tiRmhMT0gwamxNUmY1Y1pFb0FMcEpkdzVpQ1pKQnBCUTdyejRZb2M1WW1NaVZZc21mRTc4VzFuLVdDYUZ6Q09Ua0RPRzFFWTFGc25oMDFNWlcydHZLSEswVzNSRzR6VncxSkJUcGZBdTFvOWlUN0Q2d3k2R0hKcTlFdUt6bjAyV280OTh6SkQ5VkZ1Y3RacURpYUdtbWVzQ1I3X1podC01enpEdw?oc=5",
-      "d": 1792847400000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -19858,10 +19849,20 @@
       "d": 1792884159000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Tidak ada fakta resmi BPJS mau dihapus. Yang ada: 1. BPJS justru diperkuat, bukan dihapus. 28 September 2026 Presiden Prabowo rapat terbatas di Istana bahas BPJS, dan pemerintah me",
+      "u": "https://www.threads.com/@meta.ai/post/De5UNV8iquM",
+      "d": 1792884589000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
