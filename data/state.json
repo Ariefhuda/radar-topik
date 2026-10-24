@@ -18180,29 +18180,11 @@
     "threads:De4tv9kml_8": 1792864858762,
     "threads:De4vyMxgXr-": 1792865750676,
     "threads:De4vHM8DKP_": 1792865750676,
-    "threads:De4uHjhoB9L": 1792865750676
+    "threads:De4uHjhoB9L": 1792865750676,
+    "threads:De4wIbWH42e": 1792866050485,
+    "news:CBMipwFBVV95cUxQMWJJWmEyWEU1akg1a2E2dGJrVW96MlZqVlFaMi0zNzZxUFE2Wi04NnZncWZGNHFLT21WNkRHNXVsbWdEZE00VmN6Rk9YYmwzRkdsWkhrNVFIUUFKZk1TRGRYdXE1dkR1MnJKS0FJeUJrVHVoQ2d6aHM2NVNrSXpjRWtHb1U3azZDRjBicElhUm9MVF9VU01UTGUxQnhiOXNmd2VZaGREMNIBpwFBVV95cUxQMWJJWmEyWEU1akg1a2E2dGJrVW96MlZqVlFaMi0zNzZxUFE2Wi04NnZncWZGNHFLT21WNkRHNXVsbWdEZE00VmN6Rk9YYmwzRkdsWkhrNVFIUUFKZk1TRGRYdXE1dkR1MnJKS0FJeUJrVHVoQ2d6aHM2NVNrSXpjRWtHb1U3azZDRjBicElhUm9MVF9VU01UTGUxQnhiOXNmd2VZaGREMA": 1792866050485
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yesirahmayani",
-      "x": "Kalau menurut aku affiliate dan dropship bisa jadi salah satu buat tambahan penghasilan. Tapi bukan cuma pilih model nya melainkan cara mulai dan praktik nya kak. Kebetulan tgl 30 ",
-      "u": "https://www.threads.com/@yesirahmayani/post/De4QKBFmAfr",
-      "d": 1792848910000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kakak bisa coba bisnis online untuk menambah penghasilan. Misalnya lewat affiliate, dropship, atau menjual produk sendiri. Ini bisa dikerjakan dari rumah dengan waktu yang leb",
-      "u": "https://www.threads.com/@dinnie_ivone/post/De4Pv40kzDI",
-      "d": 1792848696000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -19682,17 +19664,36 @@
       "d": 1792834899000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kurir_nusantara.smg",
+      "x": "Mau usaha makin dipercaya dan operasional makin praktis? Saya, Ruli Yakub, hadir sebagai mitra resmi untuk membantu legalitas dan digitalisasi usaha Anda! *Layanan yang bisa saya b",
+      "u": "https://www.threads.com/@kurir_nusantara.smg/post/De4wIbWH42e",
+      "d": 1792865674000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "detikNews",
+      "x": "Mendagri: 30 Juta Keluarga di RI Belum Punya Rumah Layak Huni - detikNews",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWJJWmEyWEU1akg1a2E2dGJrVW96MlZqVlFaMi0zNzZxUFE2Wi04NnZncWZGNHFLT21WNkRHNXVsbWdEZE00VmN6Rk9YYmwzRkdsWkhrNVFIUUFKZk1TRGRYdXE1dkR1MnJKS0FJeUJrVHVoQ2d6aHM2NVNrSXpjRWtHb1U3azZDRjBicElhUm9MVF9VU01UTGUxQnhiOXNmd2VZaGREMNIBpwFBVV95cUxQMWJJWmEyWEU1akg1a2E2dGJrVW96MlZqVlFaMi0zNzZxUFE2Wi04NnZncWZGNHFLT21WNkRHNXVsbWdEZE00VmN6Rk9YYmwzRkdsWkhrNVFIUUFKZk1TRGRYdXE1dkR1MnJKS0FJeUJrVHVoQ2d6aHM2NVNrSXpjRWtHb1U3azZDRjBicElhUm9MVF9VU01UTGUxQnhiOXNmd2VZaGREMA?oc=5",
+      "d": 1792862114000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792845647161,
-    "news": 1792865750676
+    "reddit": 1792845647161
   }
 }
