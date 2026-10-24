@@ -16637,19 +16637,13 @@
     "threads:De2zk3EEqHL": 1792800665820,
     "threads:De20a4Pk1Wu": 1792800948698,
     "threads:De201Q3kyaX": 1792800948698,
-    "news:CBMiX0FVX3lxTE50Wm9uLVZlb0ZwQkU3ZzBtMWxKU09GX0JCVmJ4a1JmVnJDTzZDQ0V0Umh3b3ByTXZZUlZwcUNXcHd2ZWFYU2lPbUhqMDJIX0xwVTlCa1BzMzhtVFFJMHNJ": 1792800948698
+    "news:CBMiX0FVX3lxTE50Wm9uLVZlb0ZwQkU3ZzBtMWxKU09GX0JCVmJ4a1JmVnJDTzZDQ0V0Umh3b3ByTXZZUlZwcUNXcHd2ZWFYU2lPbUhqMDJIX0xwVTlCa1BzMzhtVFFJMHNJ": 1792800948698,
+    "threads:DeyeoPykyBD": 1792801253445,
+    "threads:De208ArIB18": 1792801253445,
+    "threads:De2zLbbESWW": 1792801253445,
+    "news:CBMifEFVX3lxTE15TXFjaVliNmlLQTBlNFk3SEJON1lraldlS2VwMW1EakNvd2dfMFl6TUNCVW85S0tQek02OF83bFpsRzFLcThScVB1bE5nazVxLVRsS01vYjVpenhSWFVrejRrZVplLVE1NzA2SXIwYTF2dFhCT1pDY0ZHWTM": 1792801253445
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Kompetitif! Begini Tingkat Persaingan Pendaftar Beasiswa DAAD Jerman - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1F3RXZYcnYtM29BM3R0UFh5TzRqOHpGVmRsWWlHTVFkZ2ZsMVl5SzJWMHN1TW1fc09rMGtmQV9kbGo3ZTlxaHYtaGZzcUlHQzBiWlNWdVkwNEtDQ1Bpck1XSzBvNE1rUTg5ZEZ2M0FCZXR5MWdXbVd5ZldJRFNjV0VCY2JKTDNLN2luRmlwQmNrQU5LRWxLRk8xR05pQVJPUXZxZkd4U0dYNk1XNzRlQmN30gG3AUFVX3lxTE1XUThFVksxenQ4Qk1TRWl4RXh3dmR2M0FERUxSeXM3YlJxeVltMTBJQWoxS1pCX2cxUmpZYmxORmcxUkNTejNsaXFNaUZrRV9WTGdLTFdUWlJpNzRLdERrWHRGMHZ3WHU4cXNtaGRCNzNReVlXSl9CYjZKSGhHcHQwejlBeWxUN0FHYU9PMHdzamZuTHBqeGR0NUFxa09abGlDWjBtazYxSlVINkJORi1zX2dTMnBoQQ?oc=5",
-      "d": 1792762200000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -18139,10 +18133,20 @@
       "d": 1792801030000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "MetroTVNews.com",
+      "x": "AI Menyulitkan atau Memudahkan? - MetroTVNews.com",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TXFjaVliNmlLQTBlNFk3SEJON1lraldlS2VwMW1EakNvd2dfMFl6TUNCVW85S0tQek02OF83bFpsRzFLcThScVB1bE5nazVxLVRsS01vYjVpenhSWFVrejRrZVplLVE1NzA2SXIwYTF2dFhCT1pDY0ZHWTM?oc=5",
+      "d": 1792770972000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-23-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
