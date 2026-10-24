@@ -18282,7 +18282,10 @@
     "threads:De5EVAVGewN": 1792876541880,
     "threads:De5EQxWmxhz": 1792876541880,
     "threads:De5EM3JGSU4": 1792876541880,
-    "threads:De5EQFGlDG8": 1792876541880
+    "threads:De5EQFGlDG8": 1792876541880,
+    "threads:De5GIDyiBPP": 1792877137174,
+    "threads:De5Fr4RFr-T": 1792877137174,
+    "threads:De5FRNoE-22": 1792877137174
   },
   "digest": [
     {
@@ -19787,7 +19790,7 @@
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
