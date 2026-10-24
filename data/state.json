@@ -17794,7 +17794,10 @@
     "threads:De4NWNmn_UG": 1792847443327,
     "threads:De4M5ccE6FW": 1792847443327,
     "threads:De4FceDCcsB": 1792847443327,
-    "news:CBMimgFBVV95cUxOTEphd2t1NUZtbVd0X3A4X2xIbl9qWDZmLTFEMU9kaFRSUW5fVnBneWJ2U0VPS3hzZW1iZkRDQlhNYjJ0NFVoYThyT2FveWFyWUpCRnpyV21keThrdTM0MEUwOEcyWlpHbDBIb2VLeDdfVTVDTXlrY0ZhWUtPQUVxcGc4MlN4bjJBWHloQVpUSXdFXzktbUlTcUN3": 1792847443327
+    "news:CBMimgFBVV95cUxOTEphd2t1NUZtbVd0X3A4X2xIbl9qWDZmLTFEMU9kaFRSUW5fVnBneWJ2U0VPS3hzZW1iZkRDQlhNYjJ0NFVoYThyT2FveWFyWUpCRnpyV21keThrdTM0MEUwOEcyWlpHbDBIb2VLeDdfVTVDTXlrY0ZhWUtPQUVxcGc4MlN4bjJBWHloQVpUSXdFXzktbUlTcUN3": 1792847443327,
+    "news:CBMixwFBVV95cUxORVVsTERMdVNlN2ZpQ2VGNWpFazJwT1Z3UHY2ejZhVHJVNmxjYUFWdjNyeTRvaW5OdGhONmFDbjFVR2dFblN6TVNudUhVUldxQWdaZ2JhcGpUT1FJSm5OeWhJbWpWc2hDb0pGNXNCSDNvcFVvamU2bXhXQUwwZVlfeE5mLXVjZzhZNGRfT1ZCRUxFQlZ2ZkY2RDNtdzFDa1VaUTkwTHVaWml0OVI5UkU3NXo3VmZwbGFlaGgtbTJ0RThIOEd5YkZB": 1792847711230,
+    "news:CBMiqgFBVV95cUxPdmZNS0RaT3JrU1dkZWFCVWYtUGJrTzFXOGJ0SmNZLTFoUXF4TXFYMFpUZWltUDNBNDdNeGU0OGxCTGRoN3NjSTA0VmxTck1HeGwwX3BIVUFSNFRuTnNaeWg5RjhlTnp1U2lMSlBhR0NuWXN0QjlLYkN2Vm5HMURjdjU0Mm5ZemZXWFVXMm00X1BZUWlTYm9LSnVTaElYWUZVLTNiSTgtVHoyZ9IBrwFBVV95cUxPNjk2UE1sU0JtaHRyQ3hxenphWVo0YnFkdDdFQlhZbmI5TGE0WlRYVkJ3X1IyQnp3V2l0VzFIczB0bWZnaHZpbHFCOUlva1hEOXFETmJmMGRpcEVjbU9nb0JlT2dodlNNZl9DMGhQZlgxR0pIeEtlTFNwX214UjEyVEZzUG9XcTRmNGdESEY4dkNLei1GYmlPUDV4Z1YxdlctTTJRR2M0blpiZ0IyTzFV": 1792847711230,
+    "news:CBMic0FVX3lxTE5ha202dUxGaTJhMW0taGdVQVU2RDFwTG5pRE95RWtibkFjRjg4VGtEVG4xOFVaQzVmYW9qbVZzRnhZRVdONXVSQmVFdlk0eGc5MTk1Mk9UdDM5Vm1Od1Z5eU94RjRpdFRvN2lKSHpNazVoUVk": 1792847711230
   },
   "digest": [
     {
@@ -18506,10 +18509,40 @@
       "d": 1792843308000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Jakarta Running Festival 2026 Naik Kelas, Le Minerale Official Mineral Water untuk 37.000 Pelari - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVVsTERMdVNlN2ZpQ2VGNWpFazJwT1Z3UHY2ejZhVHJVNmxjYUFWdjNyeTRvaW5OdGhONmFDbjFVR2dFblN6TVNudUhVUldxQWdaZ2JhcGpUT1FJSm5OeWhJbWpWc2hDb0pGNXNCSDNvcFVvamU2bXhXQUwwZVlfeE5mLXVjZzhZNGRfT1ZCRUxFQlZ2ZkY2RDNtdzFDa1VaUTkwTHVaWml0OVI5UkU3NXo3VmZwbGFlaGgtbTJ0RThIOEd5YkZB?oc=5",
+      "d": 1792837440000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "ANTARA News",
+      "x": "Kalsel kemarin dari potensi wisata hingga cek kesehatan gratis - ANTARA News",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmZNS0RaT3JrU1dkZWFCVWYtUGJrTzFXOGJ0SmNZLTFoUXF4TXFYMFpUZWltUDNBNDdNeGU0OGxCTGRoN3NjSTA0VmxTck1HeGwwX3BIVUFSNFRuTnNaeWg5RjhlTnp1U2lMSlBhR0NuWXN0QjlLYkN2Vm5HMURjdjU0Mm5ZemZXWFVXMm00X1BZUWlTYm9LSnVTaElYWUZVLTNiSTgtVHoyZ9IBrwFBVV95cUxPNjk2UE1sU0JtaHRyQ3hxenphWVo0YnFkdDdFQlhZbmI5TGE0WlRYVkJ3X1IyQnp3V2l0VzFIczB0bWZnaHZpbHFCOUlva1hEOXFETmJmMGRpcEVjbU9nb0JlT2dodlNNZl9DMGhQZlgxR0pIeEtlTFNwX214UjEyVEZzUG9XcTRmNGdESEY4dkNLei1GYmlPUDV4Z1YxdlctTTJRR2M0blpiZ0IyTzFV?oc=5",
+      "d": 1792802505000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Kemenaker Beri Uang Saku Rp 50.000 bagi Peserta Pelatihan Vokasi - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ha202dUxGaTJhMW0taGdVQVU2RDFwTG5pRE95RWtibkFjRjg4VGtEVG4xOFVaQzVmYW9qbVZzRnhZRVdONXVSQmVFdlk0eGc5MTk1Mk9UdDM5Vm1Od1Z5eU94RjRpdFRvN2lKSHpNazVoUVk?oc=5",
+      "d": 1792847483000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
