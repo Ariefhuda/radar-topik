@@ -18341,19 +18341,10 @@
     "threads:De5O3K-k1zo": 1792882881648,
     "threads:De5RFjzgMce": 1792882881648,
     "threads:De5Qy3PDoHa": 1792882881648,
-    "threads:De5QIS1E3X6": 1792882881648
+    "threads:De5QIS1E3X6": 1792882881648,
+    "news:CBMi0gFBVV95cUxPdjhYVWVWaGdLN2ZDam9nRUYyT20wcEcxQ1VnQThWU1I3OS1mTDZ5aTdvOTlhLUg0M3ZDQWVZVkNRNmc1QlJoaFRfc0lEUDVJR3BESjZmdXp3VFlnVjh5b0szelUyWWg2QnJqbi1lTWFna0dYVi1femFSVnhyUTF6cXVnY0YyWW52U2VvZ2twQ2pKWWVHN0JRUXRoRUdqSW5Wc3dJdTF4bGVhajlFTE1nOHhVZmowU3o5MXF6ZXhXcVFYSDZDN05LcUtHTThtSmZnOWfSAdcBQVVfeXFMUHljNW1EZzJzdDR2eGtGc0dNWVVGbGR3RW1YQTl0YjhCdHc5NHdUQlhScG9IWC1lWjRGdUlvdlVGR19SWG5wWmhudFdoMXlFRl8wcmdhalZDNXVuSVFSWk1DdDFJR2NubWIzSFc2VXVLRDM5TWxKOVZIVTY3MzdlZlRLaEpqbWw0andUUnFic0sydVE4T0lvUXFrX1B1a052V1VQQlRFY01zZ2Q1cFdaQkNqVjhtZDRtdHlGRjAxVTRmTGJ0VEkwVWtSQ25yQ0RmYWlZdkZBSzg": 1792883153823
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Tribunnews.com",
-      "x": "Kemnaker Buka Pelatihan Vokasi bagi Korban PHK, Ini Syarat dan Cara Daftarnya - Tribunnews.com",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmVTSUhNWnBrWHphcHFfQ2xQNWR5VlhDTEVzYkJVSUlyaS13R3NlSjhQLTNPT2MxSy1jQU5Pc0VhUjkzSl80ZjJiZDhzU0xGTHgxYmI3MWxzRlQyMnN4WlcxajUyaXFpY1V6d2szejNyWFRXZ0RvdjQ0dUJrTFhGVVlIQ253OG1NdWZCUzZUYU1vamRaZnNEYTVFVDVsQjhnMjZXUzNPQ1NaVktLdTNRZjVFUUR2ZDFTX04tWg?oc=5",
-      "d": 1792816620000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -19843,10 +19834,20 @@
       "d": 1792882463000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Mensos Tanggapi Data Desil 1 Ajudan Gubernur Kaltim, Pemutakhiran Bakal Dilakukan - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjhYVWVWaGdLN2ZDam9nRUYyT20wcEcxQ1VnQThWU1I3OS1mTDZ5aTdvOTlhLUg0M3ZDQWVZVkNRNmc1QlJoaFRfc0lEUDVJR3BESjZmdXp3VFlnVjh5b0szelUyWWg2QnJqbi1lTWFna0dYVi1femFSVnhyUTF6cXVnY0YyWW52U2VvZ2twQ2pKWWVHN0JRUXRoRUdqSW5Wc3dJdTF4bGVhajlFTE1nOHhVZmowU3o5MXF6ZXhXcVFYSDZDN05LcUtHTThtSmZnOWfSAdcBQVVfeXFMUHljNW1EZzJzdDR2eGtGc0dNWVVGbGR3RW1YQTl0YjhCdHc5NHdUQlhScG9IWC1lWjRGdUlvdlVGR19SWG5wWmhudFdoMXlFRl8wcmdhalZDNXVuSVFSWk1DdDFJR2NubWIzSFc2VXVLRDM5TWxKOVZIVTY3MzdlZlRLaEpqbWw0andUUnFic0sydVE4T0lvUXFrX1B1a052V1VQQlRFY01zZ2Q1cFdaQkNqVjhtZDRtdHlGRjAxVTRmTGJ0VEkwVWtSQ25yQ0RmYWlZdkZBSzg?oc=5",
+      "d": 1792804180000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
