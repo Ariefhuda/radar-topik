@@ -17730,7 +17730,9 @@
     "news:CBMiU0FVX3lxTE9PNGdoVHgtM3JldVg1WjdFUzU5d2wzLXNvaHZESy1WekpmdlctSVdNcjl2b1lXYXJSU1J3SW4tOXZDTnJKS2lOREk2WWdld01jNDVV": 1792845343729,
     "news:CBMibEFVX3lxTE01cm1xLURsRXI0RWJNYXJScWVaUWxPNjhrOE5Yd3JyNTRpU2VYYl8xOEhfbUpmWllrVDdMTW1EMHE3VHBfNW5OVEw3MXdadGJMVW1NSjlzZnhrSmlqSklLUDY1RURoYlBwNFA5WQ": 1792845343729,
     "news:CBMiZkFVX3lxTE1tdDFoaWFHUXZScUw4bUg5RjNxTS1lRU5tbHlCV1N2ZGs0dXpTRkJDRTZpaWdEY2lTZ0ZuWjlaN1hFLWNkdTlsUGgwT29RQ2dkcmNHUDFXSmlTZW5IbnlxVXhuQWpTUQ": 1792845343729,
-    "news:CBMiswFBVV95cUxORkw2SzJ1ZThleWZsQmRpTmFReWV3ZEZfdnoyWUpGY0RXdEZ5aFFFOUItZVJmMC0yTFloRkpfdkotejVEQVFoWlp5SHlFb0VnTVdMQlAwbmhrdDVGelVRY2pmRVBHTG5QSHpmNFRocmNvRURST3lsd3lhSWszZFdpX1VqM215VVRuTjRvMEZYSlFzYTVyTEZKS1dFZXRGRFdSaGpxaFRCX2NIWHFMR1prM0VoNNIBswFBVV95cUxORkw2SzJ1ZThleWZsQmRpTmFReWV3ZEZfdnoyWUpGY0RXdEZ5aFFFOUItZVJmMC0yTFloRkpfdkotejVEQVFoWlp5SHlFb0VnTVdMQlAwbmhrdDVGelVRY2pmRVBHTG5QSHpmNFRocmNvRURST3lsd3lhSWszZFdpX1VqM215VVRuTjRvMEZYSlFzYTVyTEZKS1dFZXRGRFdSaGpxaFRCX2NIWHFMR1prM0VoNA": 1792845343729
+    "news:CBMiswFBVV95cUxORkw2SzJ1ZThleWZsQmRpTmFReWV3ZEZfdnoyWUpGY0RXdEZ5aFFFOUItZVJmMC0yTFloRkpfdkotejVEQVFoWlp5SHlFb0VnTVdMQlAwbmhrdDVGelVRY2pmRVBHTG5QSHpmNFRocmNvRURST3lsd3lhSWszZFdpX1VqM215VVRuTjRvMEZYSlFzYTVyTEZKS1dFZXRGRFdSaGpxaFRCX2NIWHFMR1prM0VoNNIBswFBVV95cUxORkw2SzJ1ZThleWZsQmRpTmFReWV3ZEZfdnoyWUpGY0RXdEZ5aFFFOUItZVJmMC0yTFloRkpfdkotejVEQVFoWlp5SHlFb0VnTVdMQlAwbmhrdDVGelVRY2pmRVBHTG5QSHpmNFRocmNvRURST3lsd3lhSWszZFdpX1VqM215VVRuTjRvMEZYSlFzYTVyTEZKS1dFZXRGRFdSaGpxaFRCX2NIWHFMR1prM0VoNA": 1792845343729,
+    "threads:De4I9xLifAf": 1792845647161,
+    "news:CBMif0FVX3lxTE5qY0dCbDJKWjd2NjcxM2prNmxWVzhob3k5ZlRvTGtjSnFLalpOU0JTcnhsVjA1eGxTeDZITkkzdmJMWC1zMVZXLU5SZEFHUkwwa3BoaWh4bkxGSXA3aWFxckJUS1otZTF2V1lMSVQzdXI0d0l6ZFprYzBOSlFMSVE": 1792845647161
   },
   "digest": [
     {
@@ -18042,16 +18044,26 @@
       "d": 1792825052000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "JournalArta",
+      "x": "Cek Penerima Bansos PKH & BPNT Kemensos 24 Oktober 2026: Cara Cek NIK KTP Online - JournalArta",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qY0dCbDJKWjd2NjcxM2prNmxWVzhob3k5ZlRvTGtjSnFLalpOU0JTcnhsVjA1eGxTeDZITkkzdmJMWC1zMVZXLU5SZEFHUkwwa3BoaWh4bkxGSXA3aWFxckJUS1otZTF2V1lMSVQzdXI0d0l6ZFprYzBOSlFMSVE?oc=5",
+      "d": 1792793167000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792823744884
+    "reddit": 1792845647161
   }
 }
