@@ -18111,19 +18111,12 @@
     "threads:De4jU-HGZK5": 1792859736727,
     "threads:De4jTx6mcxj": 1792859736727,
     "threads:De4jP-jGT-4": 1792859736727,
-    "threads:De4jMSAmeJi": 1792859736727
+    "threads:De4jMSAmeJi": 1792859736727,
+    "threads:DR8_L4TgXuP": 1792860015287,
+    "news:CBMiygFBVV95cUxQbFBUVjhpLUtjMlFZaWZlY01qX25JSFdPRzU2M0dOb0daekNwaGMzemFyc01OZDE4YkZCaUQ0cTgyYzRQNG5Jc0h2czBvd21ZRF85bThTSFh0azMweXZkSU5rQ01HeWJGRkVaUEpaVmszdjRSR045TWk5eVpKeDBUMzR5VjVBLTVvaHJmcW1zWklXdHNrSUFNLTZQUm4walB1STc3bnA5YU1yVFdKMXJ0Qm42THVzeVpVbjNxaWhMbVdKVV9YRGdiNGpn0gHQAUFVX3lxTE9sTmNIdXgtOUtkb1F2NW9qZ21sUUhTUy1oV0JGMG9tN1hldXJmNnZJT29mZ1RaOFJ5N0FjQnNqQWRvVDNYRlRqWjhiZGdRRDBkQ2dCOUFTMmRKcmxNbmJXc2pCYWczbGJJUkQtTFpRNVRIOUlXZGJyY1dsX3RBQ3pkMnBKc0EwZWEyRTJ1cGUtdEZCUEdYcnR5WmVhWkFWSEJnV0M4RTJVMFRJYnh1UllhWVpHYzk3Z2NvNnhlb01vMVdZVWNzT21XdWtqUXFGNlo": 1792860015287,
+    "news:CBMisAFBVV95cUxNcFh2YTFHdjczVHkzNW9RNEFRLUlKbnRWUE81NVN3cXNkak9OS2xteS12UTdrYlYxaXRyeG9EbWNHUUZJZkNGdEk1VHVmaEZEV3hrYS1MZXVJTGFLOGJ4RDRrNEZ2ejRiQ3dFdkFZSGgwWkQzQkphaUhzbDFqR1ZwdVVycHRCOW56b09oYVdiY3ZaUE9zQ1FvQjVNbDhnZDZEVVozUDNwUTQ0bXBpcEEzWdIBtgFBVV95cUxQcUZhRXA2UTk2QWx3bWx6bnc3SXJLREsxbWNtbVQ1clRab1dQaW5zbHpMT05GN1pabzR1Q1d2YXJQTlltalItMHA5czN1MmV0YVNGWlBhLThtbDBfdzNqcFgwcUg2RDV1UzFRaVVwS3B6eDFOekhZT2JSS1JlZHJZVHNsZGhXUHJYMGJuWC0zTnFYTlJ2X19selprUVhrbURkRGg0cldna2dZZFdSQmkyYnMyWkcyQQ": 1792860015287
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@gunastudioid",
-      "x": "Kementerian Ekraf juga membuka pelatihan gratis soal jualan pakai teknologi AI. Jadi biaya bukan alasan utama — yang kurang biasanya waktu dan kemauan mulai. Simpan ini, lalu cek k",
-      "u": "https://www.threads.com/@gunastudioid/post/De4FceDCcsB",
-      "d": 1792843308000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -19613,10 +19606,20 @@
       "d": 1792858890000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Cek Besaran Bansos PKH 2026, Ada yang Dapat Rp 3 Juta per Tahun - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFh2YTFHdjczVHkzNW9RNEFRLUlKbnRWUE81NVN3cXNkak9OS2xteS12UTdrYlYxaXRyeG9EbWNHUUZJZkNGdEk1VHVmaEZEV3hrYS1MZXVJTGFLOGJ4RDRrNEZ2ejRiQ3dFdkFZSGgwWkQzQkphaUhzbDFqR1ZwdVVycHRCOW56b09oYVdiY3ZaUE9zQ1FvQjVNbDhnZDZEVVozUDNwUTQ0bXBpcEEzWdIBtgFBVV95cUxQcUZhRXA2UTk2QWx3bWx6bnc3SXJLREsxbWNtbVQ1clRab1dQaW5zbHpMT05GN1pabzR1Q1d2YXJQTlltalItMHA5czN1MmV0YVNGWlBhLThtbDBfdzNqcFgwcUg2RDV1UzFRaVVwS3B6eDFOekhZT2JSS1JlZHJZVHNsZGhXUHJYMGJuWC0zTnFYTlJ2X19selprUVhrbURkRGg0cldna2dZZFdSQmkyYnMyWkcyQQ?oc=5",
+      "d": 1792853972000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
