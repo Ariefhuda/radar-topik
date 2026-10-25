@@ -18611,7 +18611,12 @@
     "threads:De5p2NNGmTi": 1792896345778,
     "threads:De5pyAXmm2Q": 1792896345778,
     "threads:De5pbkoE3ng": 1792896345778,
-    "threads:De5qLQGiKd9": 1792896345778
+    "threads:De5qLQGiKd9": 1792896345778,
+    "threads:De4X_XsCLGF": 1792896646008,
+    "threads:De4XWkfkYSm": 1792896646008,
+    "threads:De5qFM-GhWP": 1792896646008,
+    "news:CBMipwFBVV95cUxPWk1wSXprZ20xWGlULVo5OUVmVldmUzV0RFpVY0hvbVN2SVhQR1hubUdUSkMtR19scHNFQm45SGdJczJURTNCZktmZE1zeVBvbzRTVFVKLWJGZjM5RnBqQ2ttVEVncmdHeVhRcnM5Sjh1MEJpNXZGamVObnQydmYweWprRHpnOWFaN3lQaDZPbS1UdzdBSktGV3hLRTJNNHhjMzdQOVZfQQ": 1792896646008,
+    "news:CBMizgFBVV95cUxPQ000U09WVmtJUWc5Q2RWWENZdnpEUllOS1B1ME5wZm9XVGY5RmtHVFJmc1BCSFJlR3RrZVlBbjI3MW9LVUdYV193TUpzWXlodjlodkIyczhyV1dLZmRaUWNUMXVMUl9TbjVDblVUYTJOWTZCSjBSeGN5T2p2TkdwRlJxSVpla2VZNWZNUkJqYXZqd3d3YzdHMDZXeEQ0enNnZmJ1eUpqbUNnd0g5LTdpSDBpTVkyVHZCRHJZTmpIdVJfN0dzVHZpbFlLYXk1QdIBzAFBVV95cUxNb0o3aXh2elo1eVQwRUZHbHI2SnVzYmRJeklYMEV6U1NGS0hBS1Fia3lXbnhNRTBVT2d1bW9XRElTQWl2S3A3REFwWVNnMWtIcHJsZ0JlMWIxMDlnUW5YMUF6bmdOMmZ6MTZwdUQwOGN5Zk85X04wV0Y0ZDMtQjduZnpXOG5zWl9xZXkyakZCNHZ0Nks2LUVxeWZPMXloeXpLQ1BwVms4ZnpXUmVkRTFEcU5ndHdFYTFGdjlrY1VLSG9hOF9rX0JxbTNhcmo": 1792896646008
   },
   "digest": [
     {
@@ -19363,10 +19368,40 @@
       "d": 1792896106000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Sudah kebaca konteksnya Bang dari thread sebelumnya, itu yang teori decoupling MBG warisan faksi lama bakal dirombak jadi ketahanan pangan / bansos via kopdes dan TNI-Polri setelah",
+      "u": "https://www.threads.com/@meta.ai/post/De4X_XsCLGF",
+      "d": 1792853017000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Menarik sebagai latihan skenario, tapi ini masih spekulasi yang jauh dari fakta hari ini. Analisis di gambar itu membangun cerita \"decoupling\" - MBG sebagai warisan faksi lama yang",
+      "u": "https://www.threads.com/@meta.ai/post/De4XWkfkYSm",
+      "d": 1792852683000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "iNews.ID",
+      "x": "Jaring Aspirasi, Nurul Arifin Ingatkan Warga Bandung Cek Data Desil agar Bansos Tepat Sasaran - iNews.ID",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ000U09WVmtJUWc5Q2RWWENZdnpEUllOS1B1ME5wZm9XVGY5RmtHVFJmc1BCSFJlR3RrZVlBbjI3MW9LVUdYV193TUpzWXlodjlodkIyczhyV1dLZmRaUWNUMXVMUl9TbjVDblVUYTJOWTZCSjBSeGN5T2p2TkdwRlJxSVpla2VZNWZNUkJqYXZqd3d3YzdHMDZXeEQ0enNnZmJ1eUpqbUNnd0g5LTdpSDBpTVkyVHZCRHJZTmpIdVJfN0dzVHZpbFlLYXk1QdIBzAFBVV95cUxNb0o3aXh2elo1eVQwRUZHbHI2SnVzYmRJeklYMEV6U1NGS0hBS1Fia3lXbnhNRTBVT2d1bW9XRElTQWl2S3A3REFwWVNnMWtIcHJsZ0JlMWIxMDlnUW5YMUF6bmdOMmZ6MTZwdUQwOGN5Zk85X04wV0Y0ZDMtQjduZnpXOG5zWl9xZXkyakZCNHZ0Nks2LUVxeWZPMXloeXpLQ1BwVms4ZnpXUmVkRTFEcU5ndHdFYTFGdjlrY1VLSG9hOF9rX0JxbTNhcmo?oc=5",
+      "d": 1792829802000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
