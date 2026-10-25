@@ -19275,19 +19275,10 @@
     "threads:De6f1QQkYOc": 1792924554594,
     "threads:De6gCF6EuwD": 1792924554594,
     "threads:De6fUMZj7I7": 1792924554594,
-    "threads:De6fWnYjzYl": 1792924554594
+    "threads:De6fWnYjzYl": 1792924554594,
+    "news:CBMiuAFBVV95cUxOY2wxVVJ6UXNqTmVxbEN3SVR0ZHVTVXE2RmZsRzNzV2tfcVNlLUJwbHFaTVVoRVJZY2xnUmhIMXZRcVNTbTR2ZFQ2RDVQQnJaa2tRVjBtallTRmRZRlEyVkY4V2s0ZTV5MEQxREw0bkoxRktzRVJwS01ZNGNEdHVPczdlbkItNC1tOWE4Nm13OG04WjcxYlVvdTMxNXVTTjlEb0tKTjhMdmp6MEU0SVEwU3BwMHJsRXM4": 1792924844322
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@saifus_salam",
-      "x": "Coba tanyakan kepada dirimu: “Kalau aku tidak lagi dikendalikan rasa takut, langkah apa yang berani aku ambil hari ini?” Itulah hal pentingnya. Bukan sekadar membuang pikiran negat",
-      "u": "https://www.threads.com/@saifus_salam/post/De56OH9CnU-",
-      "d": 1792904518000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -20777,10 +20768,20 @@
       "d": 1792923986000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "TVRI News",
+      "x": "Kementerian PKP Perkuat Bedah Rumah untuk Tingkatkan Kesejahteraan Warga - TVRI News",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2wxVVJ6UXNqTmVxbEN3SVR0ZHVTVXE2RmZsRzNzV2tfcVNlLUJwbHFaTVVoRVJZY2xnUmhIMXZRcVNTbTR2ZFQ2RDVQQnJaa2tRVjBtallTRmRZRlEyVkY4V2s0ZTV5MEQxREw0bkoxRktzRVJwS01ZNGNEdHVPczdlbkItNC1tOWE4Nm13OG04WjcxYlVvdTMxNXVTTjlEb0tKTjhMdmp6MEU0SVEwU3BwMHJsRXM4?oc=5",
+      "d": 1792902720000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
