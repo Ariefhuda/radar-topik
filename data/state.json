@@ -19985,19 +19985,10 @@
     "threads:De7Rt7sGSzl": 1792954859180,
     "threads:De7Yf2miBZB": 1792954859180,
     "threads:De7YZ0Vj5oK": 1792954859180,
-    "threads:De7aLR4CKFf": 1792954859180
+    "threads:De7aLR4CKFf": 1792954859180,
+    "news:CBMizAFBVV95cUxNS3poR2k2MldZbmJuaDV4MDc5ZmFjeTB0MFNHc3VSSHQxNW8zT1RBWnJodUZ5a2ZWeTNiNmd6RnhBVUJ1aUIxRndwcHBKbS1XMVMxaFptVXhyRGdZY0Q4czVWOElGZkhIQzlEWDhnYUlaTTY4Z1VzNnVwQUM4SlA1N05jQnBTTlFKZDlXbGtnRm44VmRDaWRnMk1wLVVxSVNwYXNnYjhjeDdEME9FVDd5WWQxVHhhTWtmMnVTUUgtcFcxV203X1pLX3NxTnk": 1792955136359
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bansos PKH BPNT Tahap 4, Ini 3 Penyebab Nama KPM Dicoret - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVlFdXZUVlRFemJBNXNBU19yN0FlZ0NIVE5vbWdPaUNvX2p3UXpuWTFhQlp6WUFvUjg3bXRHOU1IMFJraVhkNXFBbW1MaGVyN04yN3dJSWxSMXNsY1h5Zzd4ZzhNcUZtZTFYbHdrSXFtNk5oc3c4UHllM01RbkJMR3Bnc09tanRubW9iamxzN0lIWkg4NVZYYnNQSVBrdC1haHdOMGlLWVIxTGJB0gGsAUFVX3lxTE5xWUV1dlRWVEV6YkE1c0FTX3I3QWVnQ0hUTm9tZ09pQ29fandRem5ZMWFCWnpZQW9SODdtdEc5TUgwUmtpWGQ1cUFtbUxoZXI3TjI3d0lJbFIxc2xjWHlnN3hnOE1xRm1lMVhsd2tJcW02TmhzdzhQeWUzTVFuQkxHcGdzT21qdG5tb2JqbHM3SUhaSDg1Vlhic1BJUGt0LWFod04waUtZUjFMYkE?oc=5",
-      "d": 1792931512000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -21487,10 +21478,20 @@
       "d": 1792952175000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Tingkatkan Partisipasi Warga, DPMPTSP Kota Cilegon Gandeng Berbagai Instansi - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3poR2k2MldZbmJuaDV4MDc5ZmFjeTB0MFNHc3VSSHQxNW8zT1RBWnJodUZ5a2ZWeTNiNmd6RnhBVUJ1aUIxRndwcHBKbS1XMVMxaFptVXhyRGdZY0Q4czVWOElGZkhIQzlEWDhnYUlaTTY4Z1VzNnVwQUM4SlA1N05jQnBTTlFKZDlXbGtnRm44VmRDaWRnMk1wLVVxSVNwYXNnYjhjeDdEME9FVDd5WWQxVHhhTWtmMnVTUUgtcFcxV203X1pLX3NxTnk?oc=5",
+      "d": 1792952782000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
