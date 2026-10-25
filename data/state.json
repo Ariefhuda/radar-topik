@@ -18443,29 +18443,11 @@
     "threads:De5aJBrE0Dl": 1792889153359,
     "threads:Dei_pvlifH5": 1792889153359,
     "threads:De5csKyjAkE": 1792889153359,
-    "threads:DeyUWz9iBe_": 1792889153359
+    "threads:DeyUWz9iBe_": 1792889153359,
+    "threads:De5c6dYE6ZB": 1792889442503,
+    "news:CBMiugFBVV95cUxPcENlTXhDZENNRTVyUi01eUE4VGk4NnpjbldZcTg0Q2plVE1VUnVpcXNrQjFEQVFKR014b0VyTXgtd0g3ZzY3YTk1X1FpQXJER1pSVWlpeHZpcUh4U1pZeE9hQXp0aTdSOFpQMUlIM1FBbVk4aHpmdmtrNTFPenVFQkdORFBDTE9nRzFhalZpdWhuMnlWaXFrYU54bmJsRlA0Q2dnbDdaNC1jc1Ffb3YtdENJWjNoWVNfWlE": 1792889442503
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "infotren.id",
-      "x": "Program DAAD Buka Peluang Beasiswa di Jerman bagi Pelajar Indonesia - infotren.id",
-      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFVUVXhwWDZQMFJZZ2gyZ0NlcUM4RmFJMHdiRnpmbUQ1Ym12azQzeGwwSDhaYlU5ejBfNEU3WVBoRGs4OFZfYUJpTHMwY3g4WWdRWWh6NFRCYW41N202dVBELWZnUUtZeEUzcS0zSFQyZVkwVWZOQ19QcUFvbXoyc1NEZFZvaGtrcTVLSHNxREg?oc=5",
-      "d": 1792850340000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@aiaccelerator.rkp",
-      "x": "Warga suka bingung ga sih kalau belajar biar lebih siap dapat kerja ? Nih aku bantu ai sertifikat gratis untuk bantu kalian lebih Mateng dalam bekerja Yuk mulai yuk !!!",
-      "u": "https://www.threads.com/@aiaccelerator.rkp/post/De4ZzuKD2Xk",
-      "d": 1792853970000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -19945,10 +19927,30 @@
       "d": 1792889036000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@vanya.superstareducation",
+      "x": "Ada dong kak! Anyway salam kenal, aku Vanya dari Superstar Education! 👋🏻 Kalau kakak lagi cari public uni di Germany, aku bisa bantu mulai dari cari kampus, info beasiswa, sampai",
+      "u": "https://www.threads.com/@vanya.superstareducation/post/De5c6dYE6ZB",
+      "d": 1792889153000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "telisik.id",
+      "x": "NIK hingga Verifikasi Wajah, Ini Syarat Koreksi Data Bansos 2027 Lewat Portal Kemensos - telisik.id",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcENlTXhDZENNRTVyUi01eUE4VGk4NnpjbldZcTg0Q2plVE1VUnVpcXNrQjFEQVFKR014b0VyTXgtd0g3ZzY3YTk1X1FpQXJER1pSVWlpeHZpcUh4U1pZeE9hQXp0aTdSOFpQMUlIM1FBbVk4aHpmdmtrNTFPenVFQkdORFBDTE9nRzFhalZpdWhuMnlWaXFrYU54bmJsRlA0Q2dnbDdaNC1jc1Ffb3YtdENJWjNoWVNfWlE?oc=5",
+      "d": 1792889390000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
