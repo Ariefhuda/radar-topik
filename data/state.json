@@ -18768,7 +18768,10 @@
     "threads:De50ndtEq-y": 1792901743478,
     "news:CBMitwFBVV95cUxOTF91ZEpScHB5M0lYcVBwc1RiWEVseFctSXYtSTNpWnZPLU1qb01RU2R2STZxanpkZXpuaWhNbFNQcTFFUzVoNFlnalVaNExmT2huMVBXUnQ0SDV6bkZxUWRYSE9ZUkxmdW5oeFNiTVZTUzhCX1gzNF9kQk1XSWVXVjZuV3E5eDdOYzZpdEV1ekwwVTM2QnFva3JUM3E2QlgzaVFCd3FYZkNCT3Z4VnpoQWFXaXN5TEHSAbwBQVVfeXFMTUNDcmhnbktRZ0FqeWtjOGM2UUx3bnNOT3NZZGFOMDRmYTFuMHJoZ3ViUXdkSzRTR2x4bkx1YTE4eTgyRkxjZHlheUJoMVNORU82dmJuTjlTNUZkMHN5ZXNaSUR2ejJfYUlOTnJFQXFXazVwOUF6TkJMUHZwRDBYX0dLOS1mSERyX1FxUkljX2l4Uk0wbHU3ZEJWVmhUN2x4bmxCOW4tSk10RFR1TFZKLUZZa2hxSFZjUGNLeG8": 1792901743478,
     "news:CBMijAFBVV95cUxQNTVQNzVHdHRjbzl3cERpU3pKeEZKbDZ3SkFlRndKSGZoYjlnb1lKTDR1YURrYl9fYWVxRVJyZUVwNURsTFBkSWVZYlZzVXZOMEY1cnNpY0l5c0xSdFBGNm11NjI3SEc2U3Zqd1FSSTI4OU83ajZYMjFXNEw4MTFHY01YWW90VWNFZXVNcQ": 1792901743478,
-    "news:CBMixAFBVV95cUxNTTBKcUxwXzZHZzBib1JfWGFlemxfYzFMZ1F5VHNYTFlyVnZDQ0YwdkRYYmFtZkhVXzZEVFhwdmpsVWo0Z0dhUkN0LUlMcGFTT1hPSkM2X3Q0VGFXZk9UUHFLenpNbHFwa3drTHo2R21ral8wUFNWeE1Kc0xOeGFneDFHVDhrY1pqS0xyT2tKRUVsakJUbU5TOHM0dEJaTXZuUl81dHNPbU9YTk9BaEswU2NlaDE4b3poTkNYUUhMc041ZjdM": 1792901743478
+    "news:CBMixAFBVV95cUxNTTBKcUxwXzZHZzBib1JfWGFlemxfYzFMZ1F5VHNYTFlyVnZDQ0YwdkRYYmFtZkhVXzZEVFhwdmpsVWo0Z0dhUkN0LUlMcGFTT1hPSkM2X3Q0VGFXZk9UUHFLenpNbHFwa3drTHo2R21ral8wUFNWeE1Kc0xOeGFneDFHVDhrY1pqS0xyT2tKRUVsakJUbU5TOHM0dEJaTXZuUl81dHNPbU9YTk9BaEswU2NlaDE4b3poTkNYUUhMc041ZjdM": 1792901743478,
+    "news:CBMixAFBVV95cUxPNDZmRUpFYUROaUhXR0JRX2VMb1p2U2hfNllsWVpjMzVXaWN5WjhQVkhlLVNzSFljMmVNMnpjTHd6NXdFLTFvQXNDWWdoMGZJaTFweldCWTFXTUUyTll2andsTDZvWVdIckV2enczMW9fSEtySzB1cU5BdE43LUtCa3pwWkRSOUFwdTV6dEdHV21mY09yY2ZySU9Cb2RVVDNTRjR0UkZVTTIzM0lxdWN0Y2YwVGxQb0tmbzFoLWhOd2RTcFVu": 1792902053648,
+    "news:CBMi3AFBVV95cUxPVmlVUmJCVFQ1QlVDbnpGYkhua2d0bzdIaGRFUFBlNXR2RjdmanFCcm5RakZONjFLdVJvUk1JWEszbnlSSXVCZTRqRVRHY2FONnBVbHpYbUFldWFJUkJ4YkVnbkpjWEdPZHN5QlNHSk1PV0piSzJ6RUY0Uk1IN0JuM1VYMTI3MUNDVWNQMVptdzdxUGR3NWtndVZRMDc0bG9LTERIY191eDZBSGNjbUo1ZDFRTFNhaEtnZWNTcU12eVl3YjNDS0kzOUdOdm1nNjg3aUs2MjczSnNHWGl5": 1792902053648,
+    "news:CBMisgFBVV95cUxQakhQczRvWTVDa01fMk1VWjI5cUdwa3djTE1YTXlYRlBMckFFWDlsSG4zYnNDa19xcWYxdWRSOGVBbFBlSDlMY3NXTzBPUkQ5cDRZamZVV3hXUGNjWUFMSXp5TUpHeV9MSlJCbTFGbWJjS2xwajFqQ09UQXlzT1RUajFJZ2h2X045SG9TaFI0SGNIN3pGSGgyREotZlliQ2EweElzakNINXBGSDYyM0szbGtB": 1792902053648
   },
   "digest": [
     {
@@ -20240,10 +20243,40 @@
       "d": 1792897200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Infokini.id",
+      "x": "Kemnaker Buka Pelatihan Vokasi Gratis Korban PHK 2024–2026, Ini Syarat dan Panduan Mendaftarnya! - Infokini.id",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDZmRUpFYUROaUhXR0JRX2VMb1p2U2hfNllsWVpjMzVXaWN5WjhQVkhlLVNzSFljMmVNMnpjTHd6NXdFLTFvQXNDWWdoMGZJaTFweldCWTFXTUUyTll2andsTDZvWVdIckV2enczMW9fSEtySzB1cU5BdE43LUtCa3pwWkRSOUFwdTV6dEdHV21mY09yY2ZySU9Cb2RVVDNTRjR0UkZVTTIzM0lxdWN0Y2YwVGxQb0tmbzFoLWhOd2RTcFVu?oc=5",
+      "d": 1792901777000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "jamberita.com",
+      "x": "Kabar Baik di Wisuda UBR Jambi, Rektor Ungkap Peluang Kerja ke Luar Negeri Gratis, Target 1000 Orang - jamberita.com",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVmlVUmJCVFQ1QlVDbnpGYkhua2d0bzdIaGRFUFBlNXR2RjdmanFCcm5RakZONjFLdVJvUk1JWEszbnlSSXVCZTRqRVRHY2FONnBVbHpYbUFldWFJUkJ4YkVnbkpjWEdPZHN5QlNHSk1PV0piSzJ6RUY0Uk1IN0JuM1VYMTI3MUNDVWNQMVptdzdxUGR3NWtndVZRMDc0bG9LTERIY191eDZBSGNjbUo1ZDFRTFNhaEtnZWNTcU12eVl3YjNDS0kzOUdOdm1nNjg3aUs2MjczSnNHWGl5?oc=5",
+      "d": 1792901992000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "NU Online",
+      "x": "NU Online Institute Buka Pendaftaran Lokasi Dakwah dan Seleksi Dai Ramadhan 2027 - NU Online",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQakhQczRvWTVDa01fMk1VWjI5cUdwa3djTE1YTXlYRlBMckFFWDlsSG4zYnNDa19xcWYxdWRSOGVBbFBlSDlMY3NXTzBPUkQ5cDRZamZVV3hXUGNjWUFMSXp5TUpHeV9MSlJCbTFGbWJjS2xwajFqQ09UQXlzT1RUajFJZ2h2X045SG9TaFI0SGNIN3pGSGgyREotZlliQ2EweElzakNINXBGSDYyM0szbGtB?oc=5",
+      "d": 1792839657000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
