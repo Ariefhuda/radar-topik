@@ -19361,19 +19361,11 @@
     "threads:De6lo5Fj7EV": 1792927544471,
     "threads:De6kz3EFtL8": 1792927544471,
     "threads:De6l0aCkzt1": 1792927544471,
-    "threads:De6ixCjGbXo": 1792927544471
+    "threads:De6ixCjGbXo": 1792927544471,
+    "threads:De6la8HkoTp": 1792927850078,
+    "news:CBMimgFBVV95cUxNcXZKazdIVTEwQUZzbWJySDZxMmhKbEo2WnljZzZnbXlVbmV0MF9MMUNXSGtPN0dLbzZJQ2NiLWxxWFlpRGFxOURNTWdWZTNlZnUzX1c3Rzd1d2w1MzlNMEU0XzlqS1BKdjAxY29mMzBrWWdjTlpBdHQ1YndxQThDTjZEQ3RlTHVURkozXzRTeGRVLWw1RkwyNTZB": 1792927850078
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@alishacakecookies",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@alishacakecookies/post/De6EM10EtV0",
-      "d": 1792909752000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -20863,10 +20855,20 @@
       "d": 1792925776000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@justatajha_",
+      "x": "Ready to become a Change Maker? ✨ Di ITB Tuban kuliah cuma ±14rb/hari + Beasiswa Yayasan 50%! PMB 2027/2028 Gel. 1 udah dibuka dari 12 Okt 2026! Daftar sekarang sebelum 25 Feb 2027",
+      "u": "https://www.threads.com/@justatajha_/post/De6la8HkoTp",
+      "d": 1792927173000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
