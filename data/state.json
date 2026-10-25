@@ -19048,19 +19048,11 @@
     "threads:DeIs5xvD6uL": 1792913466772,
     "threads:De6J4S-EnSn": 1792913466772,
     "threads:DbxoxQaDWCZ": 1792913466772,
-    "threads:DRwrBL7ExXO": 1792913466772
+    "threads:DRwrBL7ExXO": 1792913466772,
+    "threads:De6KyRCk5PU": 1792913745480,
+    "news:CBMiigFBVV95cUxQRkMyRVpJZ3VVTTY1MmppemNCUlNHUS05c2JIWExHNEVVZkFGRUpvUUVDVlBVLWpULVFzSUhOTVZPR2VXclZJQ3BxYlVtRGtNeV8xRVV1SHc5UFJsNV9GSzU2U0FkdHFEZ3g5dkRudmxQOEVTS2NBcHRNN0o5aTBrcEg0YWZjbk45OVE": 1792913745480
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Prokal",
-      "x": "Pekerja Diingatkan Waspadai Penipuan Bantuan Subsidi Upah, Lindungi Data Diri Lakukan Langkah Ini - Prokal",
-      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFlMZzNTenE4b1oyRDNKRndsNFBwWnBmeWRIVFhOMTFkdmRyUnZtSUhIM3N0QUFhVENubG1Ed2RxZ0N3SzdmQnVucURvVkRWRFRmaWkwS0xJeGJMWlAyU0xCeVc1MUxFM0tudU9oVm5VdmQ0NEJQOExHdEtudGhnNW9sb0xMTHVBOVpUQzVpWThpd3FFSXI3bUphLTNEamtMLU54MDZ4ZTROVXlNQ2lqMGw0WjJ3U0tXODl5cGk5RXRydGtuYXoyd3dhTXdRaGxyQXVYNUlJaWNtUdIB2gFBVV95cUxPOFlMZzNTenE4b1oyRDNKRndsNFBwWnBmeWRIVFhOMTFkdmRyUnZtSUhIM3N0QUFhVENubG1Ed2RxZ0N3SzdmQnVucURvVkRWRFRmaWkwS0xJeGJMWlAyU0xCeVc1MUxFM0tudU9oVm5VdmQ0NEJQOExHdEtudGhnNW9sb0xMTHVBOVpUQzVpWThpd3FFSXI3bUphLTNEamtMLU54MDZ4ZTROVXlNQ2lqMGw0WjJ3U0tXODl5cGk5RXRydGtuYXoyd3dhTXdRaGxyQXVYNUlJaWNtUQ?oc=5",
-      "d": 1792892491000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -20550,10 +20542,20 @@
       "d": 1792912728000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Kemdiktisaintek Buka PPDB SMA Unggul Garuda Baru 2027 - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkMyRVpJZ3VVTTY1MmppemNCUlNHUS05c2JIWExHNEVVZkFGRUpvUUVDVlBVLWpULVFzSUhOTVZPR2VXclZJQ3BxYlVtRGtNeV8xRVV1SHc5UFJsNV9GSzU2U0FkdHFEZ3g5dkRudmxQOEVTS2NBcHRNN0o5aTBrcEg0YWZjbk45OVE?oc=5",
+      "d": 1792913478000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
