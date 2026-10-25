@@ -20054,19 +20054,11 @@
     "threads:De7l0t_iNHP": 1792961142787,
     "threads:DIx3Wj9RpCN": 1792961142787,
     "threads:De7lnL4EyDL": 1792961142787,
-    "news:CBMijwFBVV95cUxOSksydmNNckNfTUwtZHZPTkd0WFBfakp2TFladVV1dFo2enAtZTZpZGlFSGwxcVZGemd1SGg1YnVIQVc2eUowTFYtTlBlbndYWTB0SFhEdWNTZWQtanh5OGJDeWJuZGhVY0dsZVBHREs2TlZITUQ4XzNVZHhZVHNUVTJaTmdqZXV3djZMSV9nRQ": 1792961142787
+    "news:CBMijwFBVV95cUxOSksydmNNckNfTUwtZHZPTkd0WFBfakp2TFladVV1dFo2enAtZTZpZGlFSGwxcVZGemd1SGg1YnVIQVc2eUowTFYtTlBlbndYWTB0SFhEdWNTZWQtanh5OGJDeWJuZGhVY0dsZVBHREs2TlZITUQ4XzNVZHhZVHNUVTJaTmdqZXV3djZMSV9nRQ": 1792961142787,
+    "threads:De7VX-Emcy3": 1792961741788,
+    "news:CBMi4AFBVV95cUxPd0Nkd3RHcnJpM3hEWXJQME0yeWlEZDVlYUhDSk5EVUZ5YlhQRlhJV1ZnVWpkN3NDNHRxblVUNmRINmx3Q3VudElDZno2VXZsT2h6QTVrSnp3SDU0WkVZWE5qNVQtblFCa0xMdXJZU0dWU01NUHpxazViRHpHRFIweEx5NG9ldVlyalVkdUdYeDVyVmdEbks1Skl1OGhuT2QxM1dqOUUwb3dCeXhHUHJrUUdKNHE1dkpZUHhEb0xxNGNSRTBwa01EV2t5SV9UOHVlVWJBU3FEN29aUi1mT2ltdg": 1792961741788
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "https://www.suaralandak.co.id/",
-      "x": "Kemdiktisaintek Buka PPDB SMA Unggul Garuda Baru 2027 - https://www.suaralandak.co.id/",
-      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTlia1pVb3ZweFBHM3hDd0VYckZMUEtCYUFMWDJiX19SQ2pKdWNQc083S0FWZ1RxZ0QwSVBMam9wMDNLRTQ2WEc2QVRTZ19jZG1NZkpMd1U2YWl0RzFRU21NNkg3R0EwOHpGM2M1cWJWWEVVUVRTNmZrUVhENHZvVGVCTktXTEdNOEpvY2plSDRVYVlCZU1GTm9n?oc=5",
-      "d": 1792913485000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -21556,10 +21548,20 @@
       "d": 1792960844000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Pemkot Cilegon Kembali Realisasikan Program Beasiswa Juare, Sediakan 763 Kuota Penerima Manfaat - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd0Nkd3RHcnJpM3hEWXJQME0yeWlEZDVlYUhDSk5EVUZ5YlhQRlhJV1ZnVWpkN3NDNHRxblVUNmRINmx3Q3VudElDZno2VXZsT2h6QTVrSnp3SDU0WkVZWE5qNVQtblFCa0xMdXJZU0dWU01NUHpxazViRHpHRFIweEx5NG9ldVlyalVkdUdYeDVyVmdEbks1Skl1OGhuT2QxM1dqOUUwb3dCeXhHUHJrUUdKNHE1dkpZUHhEb0xxNGNSRTBwa01EV2t5SV9UOHVlVWJBU3FEN29aUi1mT2ltdg?oc=5",
+      "d": 1792961740000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
