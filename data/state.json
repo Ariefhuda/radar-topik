@@ -19248,19 +19248,14 @@
     "threads:De6dtePkmKT": 1792923049554,
     "threads:De6c4XPkqgg": 1792923049554,
     "news:CBMisAFBVV95cUxQVzlKYU5oTnhfSW9aVWlLTlg4TUFoVzF3S1NFZ3BtX215YkUzdjZGZDNzckhRckVPb2l0cWZtNFB5bmNXLUtaa051N3NCZEduTE9TZmJ6Y3Y3XzRFek1pbEpRVDI4RC0zYndRa3laZUtxV3Y2cmlpcVN3aC1WdzRhZW1NdFcxbXdWa2FIdFVOYTFLbjVLSnBINTRnVDdoR0dXMFM2WGpVRlJVV3lucFdvNg": 1792923049554,
-    "threads:De6cqJfk5lO": 1792923339364
+    "threads:De6cqJfk5lO": 1792923339364,
+    "threads:De6XyvkEreK": 1792923639207,
+    "threads:De6eQ84GCY7": 1792923639207,
+    "threads:De6eHDYiH8a": 1792923639207,
+    "threads:De6dtTgkvOA": 1792923639207,
+    "news:CBMiuwFBVV95cUxNbHktNEhqcUdqeUhDOC1BaVo0VlZ3OFBTbjRkWm9SSTBOdENMb2h5WTlILTN6RTBfaU5mSHlvZ2lCejA2aE1kNGFEZkNtRlpCMU95bVAwSFZsZnBqdXRYX3hEVGdRZl9IdDlkUG9DVm95d2Z4anR0eXEyU001LTNWbVg3VDREWlhzZG9SMEJOdFUwQkpQZ2x0MEJmb29YTy1lLTNRaTZmSTJBQTNmcmpqSEJ4bWtEV1pvb2tZ0gHAAUFVX3lxTFAtSVE3TFlxRlFyRWUwX3FOdFJab1Z2NEhyLTdZUVRsRVdVOWNvb05oZXl2a0Qxc1lWQnFmQkUtSHVxZ2oxblgzRnl4SlJlSkh4Z1RBNk83VXVNSkxvbTVQNW9SYzdiQ25vSFZxVmk1dEo5YWpnSXQzczhnajJKU2h0Q1JQaGtWZmFQem9HT1RNS3ptMlp1SVd0SzBBNG9OTXBBRUJHbGVkRmZiYVRLamdwVUxGZUlHZjR5S1dlYm02YQ": 1792923639207
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@skyandsea.id",
-      "x": "Aku nemu kelas n5 gratis di thread, kalau kelas bahasa Korea gratis ada ga sih?",
-      "u": "https://www.threads.com/@skyandsea.id/post/De5sCp1o3Lw",
-      "d": 1792897084000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -20750,10 +20745,20 @@
       "d": 1792922574000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Ingin Sekolah ke AS Lewat FLEX Global 2026? Pintar Bukan Satu-satunya Kunci - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHktNEhqcUdqeUhDOC1BaVo0VlZ3OFBTbjRkWm9SSTBOdENMb2h5WTlILTN6RTBfaU5mSHlvZ2lCejA2aE1kNGFEZkNtRlpCMU95bVAwSFZsZnBqdXRYX3hEVGdRZl9IdDlkUG9DVm95d2Z4anR0eXEyU001LTNWbVg3VDREWlhzZG9SMEJOdFUwQkpQZ2x0MEJmb29YTy1lLTNRaTZmSTJBQTNmcmpqSEJ4bWtEV1pvb2tZ0gHAAUFVX3lxTFAtSVE3TFlxRlFyRWUwX3FOdFJab1Z2NEhyLTdZUVRsRVdVOWNvb05oZXl2a0Qxc1lWQnFmQkUtSHVxZ2oxblgzRnl4SlJlSkh4Z1RBNk83VXVNSkxvbTVQNW9SYzdiQ25vSFZxVmk1dEo5YWpnSXQzczhnajJKU2h0Q1JQaGtWZmFQem9HT1RNS3ptMlp1SVd0SzBBNG9OTXBBRUJHbGVkRmZiYVRLamdwVUxGZUlHZjR5S1dlYm02YQ?oc=5",
+      "d": 1792918800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
