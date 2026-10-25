@@ -20049,19 +20049,14 @@
     "threads:De7kETgk8HN": 1792960551672,
     "news:CBMimgFBVV95cUxPNE1YQjVLaDlpLWJFZUR2RWVheFdOTFRFYS15dmZxaWdHY0JIVk51R1BuaENYRnlXZWJLbkUxdUgySk1aTEJtYUJ3NDg2cGNtVGU4Zm1CdTJoS3U0Z2VDTlZ1V1IwbEdNSGRjQ2poaVJ5aDlMQ2kyVzdzM21fOUI5N3VtTXdCMERNQlhNbThQT3RJRV8zTGNyX0J3": 1792960551672,
     "news:CBMiugFBVV95cUxNRlhYdG9hZXVMVDFiRTVMWFhwckhkOVRTc05Ldk41dHhnSVRWTGNMM01IMWlmSzFUNG5NWXZna3huS2ZoNmpkbUNXbTczclZLYUpFNkNSckhmZ2xwcHhnMUJSd25oaEJaR081enN5ZkdRdDJGZ1BnUlZFVjk3TzVSclRUclZ0R01TaF9LWHJRTF9XU1l5ckVTMWlpek5tSkV3cExMVW82Qms1N0M0RGY2bks0cFpfVW1sQnfSAboBQVVfeXFMTUZYWHRvYWV1TFQxYkU1TFhYcHJIZDlUU3NOS3ZONXR4Z0lUVkxjTDNNSDFpZksxVDRuTVl2Z2t4bktmaDZqZG1DV203M3JWS2FKRTZDUnJIZmdscHB4ZzFCUnduaGhCWkdPNXpzeWZHUXQyRmdQZ1JWRVY5N081UnJUVHJWdEdNU2hfS1hyUUxfV1NZeXJFUzFpaXpObUpFd3BMTFVvNkJrNTdDNERmNm5LNHBaX1VtbEJ3": 1792960551672,
-    "news:CBMi4gFBVV95cUxOcEhFRVVkMEJQZF9jcm1kTnkweURfQV9aT3VPMTBYdEszS3NRaUJEcVNIYlpfV1h1cFVIOWljVFVvQ1hFdV9RYmVwNnRmU0VMUXNWNlVlWFRlV1FqZkNLTUlhNjl0M2MyaDJQa29EZU5EWFVCZ1N0VUdBRGcxS0hDWnRiQmF4eVlWcER1bS1NeVNxS1I3UnhuOGY0TzZvdnpJbVZkZE5BVk9vMVJ0OUhucVUycGttLWd1MHhJclRSVW9UWkJmYU9lWkw0Ukk5d1ZLQjRzbWtTNEE1TXlsUy1PODFn": 1792960849104
+    "news:CBMi4gFBVV95cUxOcEhFRVVkMEJQZF9jcm1kTnkweURfQV9aT3VPMTBYdEszS3NRaUJEcVNIYlpfV1h1cFVIOWljVFVvQ1hFdV9RYmVwNnRmU0VMUXNWNlVlWFRlV1FqZkNLTUlhNjl0M2MyaDJQa29EZU5EWFVCZ1N0VUdBRGcxS0hDWnRiQmF4eVlWcER1bS1NeVNxS1I3UnhuOGY0TzZvdnpJbVZkZE5BVk9vMVJ0OUhucVUycGttLWd1MHhJclRSVW9UWkJmYU9lWkw0Ukk5d1ZLQjRzbWtTNEE1TXlsUy1PODFn": 1792960849104,
+    "threads:De7mBYqH_nD": 1792961142787,
+    "threads:De7l0t_iNHP": 1792961142787,
+    "threads:DIx3Wj9RpCN": 1792961142787,
+    "threads:De7lnL4EyDL": 1792961142787,
+    "news:CBMijwFBVV95cUxOSksydmNNckNfTUwtZHZPTkd0WFBfakp2TFladVV1dFo2enAtZTZpZGlFSGwxcVZGemd1SGg1YnVIQVc2eUowTFYtTlBlbndYWTB0SFhEdWNTZWQtanh5OGJDeWJuZGhVY0dsZVBHREs2TlZITUQ4XzNVZHhZVHNUVTJaTmdqZXV3djZMSV9nRQ": 1792961142787
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Kabarpas",
-      "x": "Modifikator Jatim Raih Prestasi Nasional di Honda Modif Contest 2026 - Kabarpas",
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDVDclpEQlVlZEgxUFF6bVgxWjlOUUNueDRBd05qRVlzN1Z4bTVlQUlJcU1ZSmZNdWllWjRHc05BeS1FVnh5RndCTy1FRDRFQ1F3RHNxeldqYzRRS2xzVUN4Q1o5THo2R0M0aVo5QVJ1SFZoQVVhb1hjdUZleEVaUFVsT2JxZi1TbVE1QkdtN2Q5bHdH?oc=5",
-      "d": 1792922214000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -21551,10 +21546,20 @@
       "d": 1792960582000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ummarendra",
+      "x": "Jumat ini aku mau adain kelas GRATIS bikin animasi kaya gini modal ngetik doang loh... Bonus aku kasih Akses Canva Pro, FREE. Komen “MAU” + Follow yaa",
+      "u": "https://www.threads.com/@ummarendra/post/De7lnL4EyDL",
+      "d": 1792960844000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
