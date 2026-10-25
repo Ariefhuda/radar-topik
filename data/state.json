@@ -19923,29 +19923,12 @@
     "threads:De7Rb17k-9B": 1792950340629,
     "threads:De7RMB7k_3L": 1792950340629,
     "threads:De7Q1phEwd7": 1792950340629,
-    "news:CBMirwJBVV95cUxPRDFPVFBNam5hNXlPR21zdUlfcFhaZVNZbnh5LWV5Y01hcFhYZGhsSndlc2hWT1B3aUxmQzBaWjg3Qmo1b3NLa1BHRmVsbTAxTUhpZXVXN1lMelRkMmJ1SE40eTBfb2F1ZGJEZUtha2M2ZC1VT1MyRU5tMWVvRjRZMkhmTmN5WGJTS2oyUGRHUndITGE0bjZmRzBDRlk2d1A5ZE9KR2RfbWdEOFl0ZGhyX0g5Zy1sTzJDdVNIblNSNFZKeE4tWi1xNHh0WTFwdnBoOFBYTW5WOGlqTk9IOEp0YVVuNG1NbHdhZC1rOG1UcUw5Vmx0TTJyb01GVGs3YnFndmpXeVJENUk1ZDdGU2VXUnpwTmFKbVI0MDJWa05EREZ2VVBRX1c2NXNTRGxvVGM": 1792950340629
+    "news:CBMirwJBVV95cUxPRDFPVFBNam5hNXlPR21zdUlfcFhaZVNZbnh5LWV5Y01hcFhYZGhsSndlc2hWT1B3aUxmQzBaWjg3Qmo1b3NLa1BHRmVsbTAxTUhpZXVXN1lMelRkMmJ1SE40eTBfb2F1ZGJEZUtha2M2ZC1VT1MyRU5tMWVvRjRZMkhmTmN5WGJTS2oyUGRHUndITGE0bjZmRzBDRlk2d1A5ZE9KR2RfbWdEOFl0ZGhyX0g5Zy1sTzJDdVNIblNSNFZKeE4tWi1xNHh0WTFwdnBoOFBYTW5WOGlqTk9IOEp0YVVuNG1NbHdhZC1rOG1UcUw5Vmx0TTJyb01GVGs3YnFndmpXeVJENUk1ZDdGU2VXUnpwTmFKbVI0MDJWa05EREZ2VVBRX1c2NXNTRGxvVGM": 1792950340629,
+    "threads:De7RUaCgu4b": 1792950642041,
+    "threads:DcYbDvwAS3e": 1792950642041,
+    "news:CBMitgFBVV95cUxQa2cyT09UZGU0a2NDWVhtMGhybXZGRmI0WHh5WTgweFpWcWdoMXQxUzl6MUtxcVhiWXdhbC0ybUNGbjhJRWE0WUtSSFRCU3ZtQkJnYWIzX2J3SzVPSlBKZjU2UlVEa1hzRnhpOUswN3I1dTVPanljVXEyanNoaVdzMS01dTBOM1dEZjJBeU9fU3RxYTJwSUpyT2xNYVl0bnk1SzluWDVvazdlc1VIUnhRM0xIS0FPdw": 1792950642041
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Lensa Hukum",
-      "x": "FLEX Global Buka Pendaftaran Siswa SMA hingga 27 Oktober 2026 - Lensa Hukum",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fWndNNFFkTlpFa0E3VG4tbUhRdDRSejUwU1FLNFBTMFdJaC1JcUNQN0g4VWJJUkNaMjFmQ2tldmJmSGcwaTZyekpLb191eDdTRG4tMG1ObTF3U0VvMm5JZXB4dmRYOG51QlJEN2JnNA?oc=5",
-      "d": 1792919008000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sisterianacs",
-      "x": "Ada seminar gratis worth it skala internasional yg cuma sekali seumur idup jadi gereja online akhirnya",
-      "u": "https://www.threads.com/@sisterianacs/post/De6xoGMGZZ0",
-      "d": 1792933567000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -21425,10 +21408,30 @@
       "d": 1792949400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Valid banget rasa nggak percaya lo itu met, kasusnya beneran ada dan rame barusan. Bukan Lambo tapi McLaren 570S Rp 4,5 miliar — montir Yudariansyah di Pinang, Ciledug Tangerang ka",
+      "u": "https://www.threads.com/@meta.ai/post/De7RUaCgu4b",
+      "d": 1792950183000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Suara Muhammadiyah",
+      "x": "Diikuti 1.249 Siswa, Try Out Akbar SMP Musapra Kenalkan Sekolah Bakat Multitalenta - Suara Muhammadiyah",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2cyT09UZGU0a2NDWVhtMGhybXZGRmI0WHh5WTgweFpWcWdoMXQxUzl6MUtxcVhiWXdhbC0ybUNGbjhJRWE0WUtSSFRCU3ZtQkJnYWIzX2J3SzVPSlBKZjU2UlVEa1hzRnhpOUswN3I1dTVPanljVXEyanNoaVdzMS01dTBOM1dEZjJBeU9fU3RxYTJwSUpyT2xNYVl0bnk1SzluWDVvazdlc1VIUnhRM0xIS0FPdw?oc=5",
+      "d": 1792941101000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
