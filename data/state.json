@@ -20140,19 +20140,12 @@
     "news:CBMirgFBVV95cUxQaTJZZTlaVjVPVEIyS1QwSkhyek5nbGdEX3BPeFF3Y25QaVlyeFRFdXlsdDR5VWd6Z19KZlZ4alFCd05hWmgwWFI0M3hleHdMeEptVUpKLVZ1eGI2c3RHLUJWc0NPa1dPZkNwZnlwM2tNRDR6c0pfUjNYd1VlVVBzeUxIbVd2MmFYOGNvMmkwSTlUSkFRSWw0NEx4aXNQOWlhMDAtWFFQVEVmMldlYVE": 1792967189305,
     "news:CBMirwFBVV95cUxPR0tWMmxrWnBzbkJQQ2ZJVXlkRDZuZ3kzYUgxYW91QzJwTm5JLXRMempnSXV5cUJxMjdzdGkyWWtWdFhjTl9ZVGdkMUk3VURncUd4angxdGtLaWF1ZDg3bWJ0WlRaVlFnOTRkdHRhUm4wTDAxVzVTVU4teVh1bVVjNnBKSXVOV1F0UUN6VzRsT2podDk4QjlGakJuWmVTaGFFbnMtY0hyTXI3VzkzM3pr": 1792967189305,
     "news:CBMipAFBVV95cUxOeVd4MXdueUhqZXdxQVl6VVhhWkc4VENXN0NhdUlMWHVtRTNObjVsVW0wcGFGS3k4V0kzSUtac1FweG1MZlgxTnpwd0NJSTdOclZVclY0MzJDc29zNWNCdHBjQWlwOVFJSVFqN3dDenFweXJoRGx6YTg0NmpuU3l6b1RxUjNLZTd4b3ZpNVY5UkhwaHNZS0o4YVgwRTlBbldKX1lMeg": 1792967189305,
-    "news:CBMikwFBVV95cUxOZWo2Q3JGSkE4bXZGaXVybkQ3SWhCeWR6ODUzMWFrQzJ3RGtHSmJwQmpPYXVEaEUtX0hvLVViTGJMN3M3aVdlM0NaUmpGSTB5WXBNczdlYWVjY09qdzNIdlVTRDdPWFRBMkNISHlYQUUzMlQxWUZCQXcxZmc5cUVtTnlId0pETjRaWFZhQ3ljb2c4Zkk": 1792967449997
+    "news:CBMikwFBVV95cUxOZWo2Q3JGSkE4bXZGaXVybkQ3SWhCeWR6ODUzMWFrQzJ3RGtHSmJwQmpPYXVEaEUtX0hvLVViTGJMN3M3aVdlM0NaUmpGSTB5WXBNczdlYWVjY09qdzNIdlVTRDdPWFRBMkNISHlYQUUzMlQxWUZCQXcxZmc5cUVtTnlId0pETjRaWFZhQ3ljb2c4Zkk": 1792967449997,
+    "threads:De7x7jmEztm": 1792967741455,
+    "threads:De7vR_4HWF0": 1792967741455,
+    "news:CBMiiAFBVV95cUxPOHE3SHNYRXlPeGsxaEpmdU5jUzBLWGV1ek9xN0dCang2SVFMa1ZhVGc4V2FMWWRVSFVhRWdKSFFqZm9TQzZwc2ZHT1M4ZWFzc3lWQng1SmxINmNWeGVtQXBrZGNWRzExT2xxSHNRQXQ1WWVhMkRzY3NVWTFPYldINDlXZHBXN3FN": 1792967741455
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "SuaraGlobal.id",
-      "x": "Sekolah Garuda dan Tanggung Jawab Kita Bersama untuk Anak TTS - SuaraGlobal.id - SuaraGlobal.id",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGMzMGlKWU1feFgzSXFJTXFpbkJmdTY2eTlHRjktaTJrMWtyRTVxLWcyczl2ZHp6bjlqMTZWdTcyWnZjVVF2SkFHWmh2OUVnYlBQVDZrbERDbmpBckRZSHZzdFhEWEJtMTUySFlXcnh5N1JpUG1lNWdKMmFURGpmZE4tRk96RkpNbmhKOFZXT2pOaUVKQlFlRERfd2E4RWVkZVFXVzRkSzNkZGtRcmY0Vm5IUdIBuAFBVV95cUxPdkFIN05VeVRhRHlXWVlNRWhrWVFLZG45UkE4WGFUZVhOazVna01UMFFkQ3d0cWJ1Q3hmODZncmt3cEdDb2tqY1Y3cWpUZTlWM3YwUUNnWFF4bUdvRjlZdVo5ZUE1MUd1bkxNVFE3dVlCTTdqbDZ5eGpXbGhNUGhzM0VEWWNGMUNnUHFfN1lvajFnczY1NUFhckVSM3ZabGtuX0gxRzVUMEt1aC1RQ1VDYmxNRGswNjBz?oc=5",
-      "d": 1792921066000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -21642,10 +21635,20 @@
       "d": 1792941311000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ChatNews.id",
+      "x": "Cara Cek Penerima Bansos PKH dan BPNT Oktober 2026 - ChatNews.id",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHE3SHNYRXlPeGsxaEpmdU5jUzBLWGV1ek9xN0dCang2SVFMa1ZhVGc4V2FMWWRVSFVhRWdKSFFqZm9TQzZwc2ZHT1M4ZWFzc3lWQng1SmxINmNWeGVtQXBrZGNWRzExT2xxSHNRQXQ1WWVhMkRzY3NVWTFPYldINDlXZHBXN3FN?oc=5",
+      "d": 1792966380000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
