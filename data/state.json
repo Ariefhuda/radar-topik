@@ -18476,7 +18476,10 @@
     "threads:De5fVLIGBzq": 1792890947648,
     "threads:De5gImGEwUd": 1792891251119,
     "threads:De5gtrHmBE0": 1792891251119,
-    "threads:De5gCxvHVEO": 1792891251119
+    "threads:De5gCxvHVEO": 1792891251119,
+    "threads:De5hJmyjQzG": 1792891537321,
+    "threads:De5gD25k-Rq": 1792891537321,
+    "news:CBMiYkFVX3lxTE11NFFoZmZ4VVY3QU9JSk1PZUlYWUt2VnhHSkZnd3dXOG4zOTNIb2ZxQmh2SjNVZi1tTDgwZUN2YnJkV0FfVUhiSENHMWQ5M01TeHh2S0RXQVZ1dXptbDZkV1pR": 1792891537321
   },
   "digest": [
     {
@@ -18538,10 +18541,20 @@
       "d": 1792890421000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "https://janalokajournal.id/",
+      "x": "Cara Cek BSU 2026 di JMO: Jadwal Kapan Cair, Nominal, dan Syarat - https://janalokajournal.id/",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11NFFoZmZ4VVY3QU9JSk1PZUlYWUt2VnhHSkZnd3dXOG4zOTNIb2ZxQmh2SjNVZi1tTDgwZUN2YnJkV0FfVUhiSENHMWQ5M01TeHh2S0RXQVZ1dXptbDZkV1pR?oc=5",
+      "d": 1792822115000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
