@@ -19083,19 +19083,10 @@
     "threads:De6O4pIgUaw": 1792915544826,
     "threads:De6OxipD4g5": 1792915544826,
     "threads:De6OyWpI8eu": 1792915544826,
-    "threads:De6On4zk08n": 1792915544826
+    "threads:De6On4zk08n": 1792915544826,
+    "threads:De6P62SieRE": 1792915844755
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Oke Flores",
-      "x": "Bantuan Pangan Beras 2026: Syarat Cek Status Penerima dan Cara Mengakses Situs Kemensos - Oke Flores",
-      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdVI2eDBJM2RTNEVIRWNETnhETGJhbmlJNHRDb2FxX05IYUpwSjN3dng0NVpqd09rZDBtdmZlZ1FXNGRlSzZaZTUzUkYtSWJmVGoxZWU5cGpxMHVTT1ZDcHkteGNSeUE1NXRvazlMeS03eVAwUGZDVm1rNkVHZWZ3V0FHbWw2MEx1TVJXQWpCT1E5NWtPeDBCcVVrVElob2xNajFVSEpLRGNucTBnTC03TzlFcEMweFR0YnBKS1JlODA2NFp2Rk1zaGVHbk9DMWFyeTF6VU1xN1piQkXSAeABQVVfeXFMTlJYVHRfeFBiZUFRQVM3ckxDZFZ4M3hPaVZFb3MwZFJleWp5bGFUSDg5TUlDMWVmY3pwVFNJbGMzRnJZeTJmcnAwZTlHbmhoWUJzODBZVFRLZy1UVHcyby1lQmRxZEwtQ3RjS3NRVlpvdmR3b2hxMjdVMVBLUHdidXUtX0xyTTJncnZLZ3d4NjFrYzhmVEJQTWhDQnhFalZWbklqT2tLcGtGUlhuY3Z5aTJqc2YtWHBhcjNHVnlMVTRVWGQyWHg0RU5vMS1qOUN6Y0VRcGxZM2JIZnpPdnhZeDE?oc=5",
-      "d": 1792893600000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -20585,16 +20576,27 @@
       "d": 1792915215000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Klaim \"membawa ke kehancuran\" itu yang lagi banyak diperdebatkan. Sebagian orang menyoroti beban utang, pelemahan daya beli, dan kasus korupsi sebagai tanda memburuk. Di sisi lain,",
+      "u": "https://www.threads.com/@meta.ai/post/De6P62SieRE",
+      "d": 1792915895000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792910779938
+    "reddit": 1792910779938,
+    "news": 1792915844755
   }
 }
