@@ -19949,19 +19949,10 @@
     "threads:De7SkiHjRNM": 1792951851540,
     "threads:De7T47TE0FU": 1792951851540,
     "threads:DeJndZzEoOM": 1792951851540,
-    "news:CBMijgFBVV95cUxPX3c4NUVQVXhrb2tWNEYyam1hLUlza3lQNDQ5aUVBYnlCcG5VcWZnU0xEVURnc2FCbi1Idi16OFZQTTVXSzdUZkstVEljNEw5LXhSbEtYc01HdE9HeGsxazVBOFFLV3VwWklsXzBQUEtiN3NBNEoxV0l5M3ZsYk54cFVfQ2dVaTlxcU9FVkln": 1792951851540
+    "news:CBMijgFBVV95cUxPX3c4NUVQVXhrb2tWNEYyam1hLUlza3lQNDQ5aUVBYnlCcG5VcWZnU0xEVURnc2FCbi1Idi16OFZQTTVXSzdUZkstVEljNEw5LXhSbEtYc01HdE9HeGsxazVBOFFLV3VwWklsXzBQUEtiN3NBNEoxV0l5M3ZsYk54cFVfQ2dVaTlxcU9FVkln": 1792951851540,
+    "news:CBMiugFBVV95cUxPLXpSMzNXZVRyaU9Ea3RmeUN0RGdJUTBxbXh1ZjczVVA4dXJXLWI1WWd2TXJhaHpwWUVkX0ZEMFN1U1JsM2Zpd3gtMFVmUFNBUDFDdXJnemR0Q3JFUHNUcDFGeVI1Q0ZQdkJabm5WbXNVOWUtS3ZHODlUTWNEd1IwYjQzbVFqTndoWU1qd3d3WHU3Q2RtazBydmEwc0pqZFBVNmpyM25MNjVMaFFEdk1YSl8yRGNnSDIyd3fSAboBQVVfeXFMTy16UjMzV2VUcmlPRGt0ZnlDdERnSVEwcW14dWY3M1VQOHVyVy1iNVlndk1yYWh6cFlFZF9GRDBTdVNSbDNmaXd4LTBVZlBTQVAxQ3VyZ3pkdENyRVBzVHAxRnlSNUNGUHZCWm5uVm1zVTllLUt2Rzg5VE1jRHdSMGI0M21Rak53aFlNand3d1h1N0NkbWswcnZhMHNKamRQVTZqcjNuTDY1TGhRRHZNWEpfMkRjZ0gyMnd3": 1792952140145
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Bela Rakyat",
-      "x": "Koruptor Tak Boleh Nikmati Hasil Kejahatannya, Negara Tak Boleh Abaikan Konstitusi - Bela Rakyat",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3FUOG01MDc3dkdVV2xxekU2ajdHV0swbGVHWWVrcndaM0pTUG5jNmp1ZlNJT1ZfT0R5N2xMY1dCSXpMWDZYdVM5c1c2a3dnY3FpQW96bUxqQ3FDUVFVejZNajBPMFZTaEZWek5RczI0amJKWlhZamNJZ3kzS2VTRlctVXJfenMxbG9rWllXbWduWFROMHF2d29SQWtZcnJBZ1dta2QwTWI?oc=5",
-      "d": 1792904045000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -21451,10 +21442,20 @@
       "d": 1792933380000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Disway Malang",
+      "x": "Cara Daftar Beasiswa LPDP 2026 melalui Laman lpdp.kemenkeu.go.id, Simak 5 Langkahnya - malang.disway.id - Disway Malang",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXpSMzNXZVRyaU9Ea3RmeUN0RGdJUTBxbXh1ZjczVVA4dXJXLWI1WWd2TXJhaHpwWUVkX0ZEMFN1U1JsM2Zpd3gtMFVmUFNBUDFDdXJnemR0Q3JFUHNUcDFGeVI1Q0ZQdkJabm5WbXNVOWUtS3ZHODlUTWNEd1IwYjQzbVFqTndoWU1qd3d3WHU3Q2RtazBydmEwc0pqZFBVNmpyM25MNjVMaFFEdk1YSl8yRGNnSDIyd3fSAboBQVVfeXFMTy16UjMzV2VUcmlPRGt0ZnlDdERnSVEwcW14dWY3M1VQOHVyVy1iNVlndk1yYWh6cFlFZF9GRDBTdVNSbDNmaXd4LTBVZlBTQVAxQ3VyZ3pkdENyRVBzVHAxRnlSNUNGUHZCWm5uVm1zVTllLUt2Rzg5VE1jRHdSMGI0M21Rak53aFlNand3d1h1N0NkbWswcnZhMHNKamRQVTZqcjNuTDY1TGhRRHZNWEpfMkRjZ0gyMnd3?oc=5",
+      "d": 1792935000000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
