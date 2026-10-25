@@ -18430,19 +18430,22 @@
     "threads:De0G11qE83B": 1792888536804,
     "threads:DeS8jtHAY5z": 1792888536804,
     "threads:DeypxuYoNKa": 1792888536804,
-    "threads:DaW37VvHZPU": 1792888536804
+    "threads:DaW37VvHZPU": 1792888536804,
+    "threads:De5cHlNE9hh": 1792889153359,
+    "threads:De5bvbpE9jl": 1792889153359,
+    "threads:De5cjREjzkS": 1792889153359,
+    "threads:De5cXSkCK19": 1792889153359,
+    "threads:De5bpIUCLHU": 1792889153359,
+    "threads:De5bI3uk-wc": 1792889153359,
+    "threads:De5bAJCEQQZ": 1792889153359,
+    "threads:De5ayH_FKyi": 1792889153359,
+    "threads:De5ajYCE1Hp": 1792889153359,
+    "threads:De5aJBrE0Dl": 1792889153359,
+    "threads:Dei_pvlifH5": 1792889153359,
+    "threads:De5csKyjAkE": 1792889153359,
+    "threads:DeyUWz9iBe_": 1792889153359
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Disway Malang",
-      "x": "Beasiswa MEXT Jepang: Kenali 4 Jalur Kuliah Gratis dan Tips Lolos Seleksi - malang.disway.id - Disway Malang",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXc2bFF4MTAyR3hCb0hBbnQwLXdNXzdEeExhQUJzdS11VlNKRUdhT1htQjJxSVY0dUpYeVM3UTFtdEFlaXNDVUhfTExNTVpON1daOEthVDdfdXUtYmE3ZUdYWE5oQ2JhaG9QSzlCSjIxaGFMdzNQMkVscTg2TUpQRVpGbDVSWkY1SWFQakNXR3dPNGxuUW51ZktZdl84bFQzczIycDNISzBBdmxncjV30gGvAUFVX3lxTE9pdzZsUXgxMDJHeEJvSEFudDAtd01fN0R4TGFBQnN1LXVWU0pFR2FPWG1CMnFJVjR1Slh5UzdRMW10QWVpc0NVSF9MTE1NWk43V1o4S2FUN191dS1iYTdlR1hYTmhDYmFob1BLOUJKMjFoYUx3M1AyRWxxODZNSlBFWkZsNVJaRjVJYVBqQ1dHd080bG5RbnVmS1l2XzhsVDNzMjJwM0hLMEF2bGdyNXc?oc=5",
-      "d": 1792848000000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -19932,16 +19935,26 @@
       "d": 1792888512000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Jujur aja ya, umur 29 belum nikah itu bukan masalah, masalahnya kamu 29 masih sibuk banding-bandingin diri sendiri. Gak punya skill? Ya wajar kalau seharian cuma overthinking. Skil",
+      "u": "https://www.threads.com/@meta.ai/post/De5csKyjAkE",
+      "d": 1792889036000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-24-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792867545364
+    "reddit": 1792889153359
   }
 }
