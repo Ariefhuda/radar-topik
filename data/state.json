@@ -20045,19 +20045,12 @@
     "threads:De7j7ztGBO9": 1792960258625,
     "threads:De7jrpHAVCm": 1792960258625,
     "threads:De7jjAymnAY": 1792960258625,
-    "news:CBMi1AFBVV95cUxPWVl2TzE4bnktem1sMFoxS2l3Z0s2bmQ5MC1VYjFGcUxraVNkMi1RWXZOV1VKb3A2NGNPVVpkY2hfUV9MRmktb25nNmloVlZiMlhEdzhzbWhxTXM4MzNEUjdRdTJJZmg2WnNLWldHWlhuM18wTGhuUTh0elV0NlBCYnJVbTlhZHlUaGFseWs3TDNpUk5ZV29lNF9tNGxPRmpFelMtdk4yQmVTNHJGa3drUXNOSEZEQlhNYWw3c0xQdDBYR3pXa0RocThJY1hET2ZaQm9lOA": 1792960258625
+    "news:CBMi1AFBVV95cUxPWVl2TzE4bnktem1sMFoxS2l3Z0s2bmQ5MC1VYjFGcUxraVNkMi1RWXZOV1VKb3A2NGNPVVpkY2hfUV9MRmktb25nNmloVlZiMlhEdzhzbWhxTXM4MzNEUjdRdTJJZmg2WnNLWldHWlhuM18wTGhuUTh0elV0NlBCYnJVbTlhZHlUaGFseWs3TDNpUk5ZV29lNF9tNGxPRmpFelMtdk4yQmVTNHJGa3drUXNOSEZEQlhNYWw3c0xQdDBYR3pXa0RocThJY1hET2ZaQm9lOA": 1792960258625,
+    "threads:De7kETgk8HN": 1792960551672,
+    "news:CBMimgFBVV95cUxPNE1YQjVLaDlpLWJFZUR2RWVheFdOTFRFYS15dmZxaWdHY0JIVk51R1BuaENYRnlXZWJLbkUxdUgySk1aTEJtYUJ3NDg2cGNtVGU4Zm1CdTJoS3U0Z2VDTlZ1V1IwbEdNSGRjQ2poaVJ5aDlMQ2kyVzdzM21fOUI5N3VtTXdCMERNQlhNbThQT3RJRV8zTGNyX0J3": 1792960551672,
+    "news:CBMiugFBVV95cUxNRlhYdG9hZXVMVDFiRTVMWFhwckhkOVRTc05Ldk41dHhnSVRWTGNMM01IMWlmSzFUNG5NWXZna3huS2ZoNmpkbUNXbTczclZLYUpFNkNSckhmZ2xwcHhnMUJSd25oaEJaR081enN5ZkdRdDJGZ1BnUlZFVjk3TzVSclRUclZ0R01TaF9LWHJRTF9XU1l5ckVTMWlpek5tSkV3cExMVW82Qms1N0M0RGY2bks0cFpfVW1sQnfSAboBQVVfeXFMTUZYWHRvYWV1TFQxYkU1TFhYcHJIZDlUU3NOS3ZONXR4Z0lUVkxjTDNNSDFpZksxVDRuTVl2Z2t4bktmaDZqZG1DV203M3JWS2FKRTZDUnJIZmdscHB4ZzFCUnduaGhCWkdPNXpzeWZHUXQyRmdQZ1JWRVY5N081UnJUVHJWdEdNU2hfS1hyUUxfV1NZeXJFUzFpaXpObUpFd3BMTFVvNkJrNTdDNERmNm5LNHBaX1VtbEJ3": 1792960551672
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Harianjogja.com",
-      "x": "Cara Mencairkan Bansos Rp600.000, Cek Status Penerima - Harianjogja.com",
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUV91dUdWUmZBcDJoRUVwTFZpdFNYUVBlV2ZqRVJsNGt6XzVUYXNvb3NiVDNVd1N0NkJSdldoRThDZGQ2OUxySnNzOE5vZmcweUQwb1puQmd1Wmgwa1JVN2NBM2xiV0pVMzRCV21DRlV4cjhwX21QbThlM19ZLTRaUmlmLTJud05BeTJZTWE2SVgwa1NN?oc=5",
-      "d": 1792936643000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -21547,10 +21540,20 @@
       "d": 1792959802000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lilikmatabalikpapan",
+      "x": "Semangat Senin Berkah 😊 Webinar gratis dari @klinikksmbalikpapan besok jum'at , silahkan mendaftar hubgi wa Admin. Semoga bermanfaat. Salam Sehat Bebas Nyeri 🖐🖐",
+      "u": "https://www.threads.com/@lilikmatabalikpapan/post/De7kETgk8HN",
+      "d": 1792960012000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
