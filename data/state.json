@@ -18662,7 +18662,8 @@
     "threads:De5ssk6o24k": 1792897849262,
     "threads:De5tuM0D7h4": 1792897849262,
     "news:CBMisgFBVV95cUxQbEl0OVBqeEozRzlmamw5aVl6dU9nc09FbnNwMUYycEtKc1hnaTFuWXItTUZ0QkVyWFF5eHhrM21MVUFwdmlBa2ZRSVcxVVUzZ0c4VGlBVGFXWWdKZU9DbnE1RnA4YWZESFhoaE5ZOW9Vb1Z0azY1clBnQ0NyeldxTGNJUlZtMXAzeElkTHI4ak9GNDd0ZWdkRF9takItQXphS0RSY3V4NExjbjlQUnQwalhn": 1792897849262,
-    "news:CBMi4AFBVV95cUxOUlhUdF94UGJlQVFBUzdyTENkVngzeE9pVkVvczBkUmV5anlsYVRIODlNSUMxZWZjenBUU0lsYzNGcll5MmZycDBlOUduaGhZQnM4MFlUVEtnLVRUdzJvLWVCZHFkTC1DdGNLc1FWWm92ZHdvaHEyN1UxUEtQd2J1dS1fTHJNMmdydktnd3g2MWtjOGZUQlBNaENCeEVqVlZuSWpPa0twa0ZSWG5jdnlpMmpzZi1YcGFyM0dWeUxVNFVYZDJYeDRFTm8xLWo5Q3pjRVFwbFkzYkhmek92eFl4MdIB4AFBVV95cUxOUlhUdF94UGJlQVFBUzdyTENkVngzeE9pVkVvczBkUmV5anlsYVRIODlNSUMxZWZjenBUU0lsYzNGcll5MmZycDBlOUduaGhZQnM4MFlUVEtnLVRUdzJvLWVCZHFkTC1DdGNLc1FWWm92ZHdvaHEyN1UxUEtQd2J1dS1fTHJNMmdydktnd3g2MWtjOGZUQlBNaENCeEVqVlZuSWpPa0twa0ZSWG5jdnlpMmpzZi1YcGFyM0dWeUxVNFVYZDJYeDRFTm8xLWo5Q3pjRVFwbFkzYkhmek92eFl4MQ": 1792897849262
+    "news:CBMi4AFBVV95cUxOUlhUdF94UGJlQVFBUzdyTENkVngzeE9pVkVvczBkUmV5anlsYVRIODlNSUMxZWZjenBUU0lsYzNGcll5MmZycDBlOUduaGhZQnM4MFlUVEtnLVRUdzJvLWVCZHFkTC1DdGNLc1FWWm92ZHdvaHEyN1UxUEtQd2J1dS1fTHJNMmdydktnd3g2MWtjOGZUQlBNaENCeEVqVlZuSWpPa0twa0ZSWG5jdnlpMmpzZi1YcGFyM0dWeUxVNFVYZDJYeDRFTm8xLWo5Q3pjRVFwbFkzYkhmek92eFl4MdIB4AFBVV95cUxOUlhUdF94UGJlQVFBUzdyTENkVngzeE9pVkVvczBkUmV5anlsYVRIODlNSUMxZWZjenBUU0lsYzNGcll5MmZycDBlOUduaGhZQnM4MFlUVEtnLVRUdzJvLWVCZHFkTC1DdGNLc1FWWm92ZHdvaHEyN1UxUEtQd2J1dS1fTHJNMmdydktnd3g2MWtjOGZUQlBNaENCeEVqVlZuSWpPa0twa0ZSWG5jdnlpMmpzZi1YcGFyM0dWeUxVNFVYZDJYeDRFTm8xLWo5Q3pjRVFwbFkzYkhmek92eFl4MQ": 1792897849262,
+    "threads:De5tmvtlIxC": 1792898145734
   },
   "digest": [
     {
@@ -19634,10 +19635,20 @@
       "d": 1792893600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sulaudhanel",
+      "x": "@kompastv cek bansos",
+      "u": "https://www.threads.com/@sulaudhanel/post/De5tmvtlIxC",
+      "d": 1792897904000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
