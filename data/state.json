@@ -20191,19 +20191,11 @@
     "threads:De73-0Hk2E2": 1792971051773,
     "threads:De74DNJE0Ab": 1792971051773,
     "threads:De7300oExNi": 1792971051773,
-    "news:CBMi4gFBVV95cUxOMDJRVVUzWEl2LW43M0hxbmdqOXlnZEFQTkQ3UXpXWWxRMU5iZXZMaWZKNEhqUmNsSjF3YlRZY1ltZm9TSF9TODJjQzgwelBxQ2FieE4ycXpOZ25EZ0txVlN4Y0R3UWZ6REpqQ1QyYkdKejVrMThVYkVDMWJtQkx0cHJjVHlZYWwzQXlxNU5JTkdvb2ZUYnNJSTdDdHcwVGQzbkViOFJqaVhES2ExVldMekpqTnhZb0cxTi15OFp0dWVGb0lkZTBpQ0RmcXhfdzNDSWdfelJiejlUTkVzVHR2WjJR0gHiAUFVX3lxTE4wMlFVVTNYSXYtbjczSHFuZ2o5eWdkQVBORDdReldZbFExTmJldkxpZko0SGpSY2xKMXdiVFljWW1mb1NIX1M4MmNDODB6UHFDYWJ4TjJxek5nbkRnS3FWU3hjRHdRZnpESmpDVDJiR0p6NWsxOFViRUMxYm1CTHRwcmNUeVlhbDNBeXE1TklOR29vZlRic0lJN0N0dzBUZDNuRWI4UmppWERLYTFWV0x6SmpOeFlvRzFOLXk4WnR1ZUZvSWRlMGlDRGZxeF93M0NJZ196UmJ6OVRORXNUdHZaMlE": 1792971051773
+    "news:CBMi4gFBVV95cUxOMDJRVVUzWEl2LW43M0hxbmdqOXlnZEFQTkQ3UXpXWWxRMU5iZXZMaWZKNEhqUmNsSjF3YlRZY1ltZm9TSF9TODJjQzgwelBxQ2FieE4ycXpOZ25EZ0txVlN4Y0R3UWZ6REpqQ1QyYkdKejVrMThVYkVDMWJtQkx0cHJjVHlZYWwzQXlxNU5JTkdvb2ZUYnNJSTdDdHcwVGQzbkViOFJqaVhES2ExVldMekpqTnhZb0cxTi15OFp0dWVGb0lkZTBpQ0RmcXhfdzNDSWdfelJiejlUTkVzVHR2WjJR0gHiAUFVX3lxTE4wMlFVVTNYSXYtbjczSHFuZ2o5eWdkQVBORDdReldZbFExTmJldkxpZko0SGpSY2xKMXdiVFljWW1mb1NIX1M4MmNDODB6UHFDYWJ4TjJxek5nbkRnS3FWU3hjRHdRZnpESmpDVDJiR0p6NWsxOFViRUMxYm1CTHRwcmNUeVlhbDNBeXE1TklOR29vZlRic0lJN0N0dzBUZDNuRWI4UmppWERLYTFWV0x6SmpOeFlvRzFOLXk4WnR1ZUZvSWRlMGlDRGZxeF93M0NJZ196UmJ6OVRORXNUdHZaMlE": 1792971051773,
+    "threads:De75Is0k9Cf": 1792971355988,
+    "news:CBMiqAFBVV95cUxNRnh6Z2RKTWxzRE5ZQk1OTTZIZUlJNEtYanNOOUpvUlBOR0lMSWw5Zkp4NVZvU2ZQOVJWbG5MYnpkLWRUYlYzNXZSRTE1MkF5ZHpCSDZic2NiSkFIWXoybFB4d1R1YkR2R205QWdNRUNhR1U0WDN5MVJ3SExHWDJyRTdNbHBwLUxxYnpTQ2F3djROdkpPcXF1THlnUld5a3RqdGtWaTQxWU8": 1792971355988
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Akurat Jateng",
-      "x": "BPNT Oktober 2026: Bantuan Rp600 Ribu untuk 3 Bulan, Cek Jadwal dan Status Penerima Lewat HP - Akurat Jateng",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmd6T0pka1FWWXFqWUxLSGwxWEtNbXMzUkJER00ycjVUMEpDVk1VaWNMSWdHNEVSS282QkI4LVRmOFpJXzBybGZzaUItU1N5V1N3WmY2dVRYT1dfM3VrMHBQM0dfX1A4MGJFSXhjRW9uU1RlTVJ0S2M0TXZrdGZqSHlPTHI1M3lkS1Q1WWlHbXB2RzFaWFJ3ZS14NDVqRWVnU2RxQ3NWTndsNTljVXNwR2lYcEJ2cHlVUDlTM2NzcG55WFVBZmc?oc=5",
-      "d": 1792940496000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -21693,10 +21685,20 @@
       "d": 1792899000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "KPK Bantah Terima Uang Rp40 Juta dari PCNU, Ada Apa di Balik Isu Muktamar NU? - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnh6Z2RKTWxzRE5ZQk1OTTZIZUlJNEtYanNOOUpvUlBOR0lMSWw5Zkp4NVZvU2ZQOVJWbG5MYnpkLWRUYlYzNXZSRTE1MkF5ZHpCSDZic2NiSkFIWXoybFB4d1R1YkR2R205QWdNRUNhR1U0WDN5MVJ3SExHWDJyRTdNbHBwLUxxYnpTQ2F3djROdkpPcXF1THlnUld5a3RqdGtWaTQxWU8?oc=5",
+      "d": 1792943048000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
