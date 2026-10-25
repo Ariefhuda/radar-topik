@@ -20080,19 +20080,11 @@
     "news:CBMi2AFBVV95cUxQNklnTkIwdE8zUkk4SV9KSWNUTGpKNV9tVXFnR1RpeHFHbmdQU0o2NTdiZFpQMnV0NmZEV0ZEdWF4dVJIOXlvbExiR1hNSTFzWXRva3NOTnZnWWpNOHBiY29nQkQ5Nms1aER6Qnhka3dlN0U4M1VoWGdiM3JlRUdxX0JtamgzSE1wX1dxTXJmckFrTGk0TlFIa2pVQXJ3ajJfSnRxNWxxR1I0TmpCdHE4SkZQR3lpX1V6NVFaMWdSOVpXZUpoWUJDYzBLR3U1ZVMxOG5aeWx6ejY": 1792963245033,
     "threads:De7pi5XjJ3f": 1792963544067,
     "threads:De7pTeeE6f6": 1792963544067,
-    "news:CBMibEFVX3lxTE40bVlGd2FrSC0yOWNsMGxmbE1QUXJWNWZBYmpMeDFyTVNqVjRvZ0RXVEd0MF8wRjZVMGRmelRMWlV0UXVsbHJUT2thWjZrODREZEFjeS1QTmtCclAySHhDbENTOThCQkFZd19wSQ": 1792963544067
+    "news:CBMibEFVX3lxTE40bVlGd2FrSC0yOWNsMGxmbE1QUXJWNWZBYmpMeDFyTVNqVjRvZ0RXVEd0MF8wRjZVMGRmelRMWlV0UXVsbHJUT2thWjZrODREZEFjeS1QTmtCclAySHhDbENTOThCQkFZd19wSQ": 1792963544067,
+    "threads:De7qjGPH38e": 1792963854849,
+    "news:CBMiowFBVV95cUxQbEtrc0VrLXZRaDU2QzZsYTVPSFhFMXY5Mkt5azVZMVVYLTlCSHhNaXdmMEJEekFnWW11dDlOQjJ1Q2VvV2pUdmVwZlNhSTlmT184aUZxcnRrMzg4aVZYdnNDQXotSFhEa2xVYXpFTHhGbW1VekFGNWxsMkdyaHZUQUN6cXk5OHh6d2JFdl9TZEtCQXZlNkpoXzI2YlNDMVdGMHZr": 1792963854849
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak! Affiliate itu ada banyak jenisnya. Ada yang mempromosikan produk fisik, ada juga produk digital. Tapi affiliate bukan sekadar share link, kita juga perlu belajar memilih ",
-      "u": "https://www.threads.com/@dinnie_ivone/post/De63wKhj7r8",
-      "d": 1792936779000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -21582,10 +21574,20 @@
       "d": 1792962758000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bataviapos.id",
+      "x": "BLT Kesra Rp900 Ribu Oktober 2026 Cair Atau Tidak? Ini Fakta Terbarunya - bataviapos.id",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEtrc0VrLXZRaDU2QzZsYTVPSFhFMXY5Mkt5azVZMVVYLTlCSHhNaXdmMEJEekFnWW11dDlOQjJ1Q2VvV2pUdmVwZlNhSTlmT184aUZxcnRrMzg4aVZYdnNDQXotSFhEa2xVYXpFTHhGbW1VekFGNWxsMkdyaHZUQUN6cXk5OHh6d2JFdl9TZEtCQXZlNkpoXzI2YlNDMVdGMHZr?oc=5",
+      "d": 1792963800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
