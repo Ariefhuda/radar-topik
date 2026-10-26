@@ -20401,7 +20401,20 @@
     "threads:DezYgIEEsYx": 1792981259314,
     "threads:De8MDUmkkBO": 1792981259314,
     "threads:De8MfeoibG9": 1792981259314,
-    "news:CBMitwFBVV95cUxOOE1zcFczY2RSNk16MWNGa1Bpbjc3V1FYR3FfS3lFSXVkMFR3STZRMWZFWFV2enBJUmhQZm1QYjRpaXJqVWtKQW0zMFozeHhfbjVLalY1ajJ1ZW1zZnh3eHp6a01oWVgtQ21tbDNqWDNnRjdwb2VySVBDYmdhV1lQeTBWb2ctcC13VU92X3hWeVNGYXRWV1ViWXVzUVRfWV9YNTRJUzNSWGk5SzlmMjFZS19iWGtPUVk": 1792981259314
+    "news:CBMitwFBVV95cUxOOE1zcFczY2RSNk16MWNGa1Bpbjc3V1FYR3FfS3lFSXVkMFR3STZRMWZFWFV2enBJUmhQZm1QYjRpaXJqVWtKQW0zMFozeHhfbjVLalY1ajJ1ZW1zZnh3eHp6a01oWVgtQ21tbDNqWDNnRjdwb2VySVBDYmdhV1lQeTBWb2ctcC13VU92X3hWeVNGYXRWV1ViWXVzUVRfWV9YNTRJUzNSWGk5SzlmMjFZS19iWGtPUVk": 1792981259314,
+    "threads:De8IUfUiawg": 1792981549613,
+    "threads:De8F0Emmfhy": 1792981549613,
+    "threads:De8NHtRIFXY": 1792981549613,
+    "threads:De8NAjrmbt8": 1792981549613,
+    "threads:De8M-7UkU-s": 1792981549613,
+    "threads:De8M9ZDmbaW": 1792981549613,
+    "threads:De8M3MKmaB7": 1792981549613,
+    "threads:De8MZ-AkwI2": 1792981549613,
+    "threads:De8MX_Tk6Dl": 1792981549613,
+    "threads:De8MWE0k7g5": 1792981549613,
+    "threads:De8MTxto8qY": 1792981549613,
+    "news:CBMirwFBVV95cUxQX0JxVEhRTW9LVDhqSnlTQjB3STBJd04tMnR4VDFEdXRSTm1kOXBEWlFscFZTWmZKMGJXdlNVZmtZQ29GX2lBZjlHWmdoTUxOamlIRzVNd1k4LUNkX2JyUks1MkNBU2VNUWNPOTNDTWY0LVFoLTZXZlFOeFFxUTBURDRGVW5xQmVKd2JVNmRRLW56TF9WMnJuaktFaHJMengyUmRsZWRlTW45dDU5VG4w": 1792981549613,
+    "news:CBMivwFBVV95cUxQaFYwaTZPQTJQWEZ0WEFpNmNOWW1xUVdERTJFVGpDRVNqX1JYVmlNajUySEVpT3dHOUc3MEJ4Z3VMbEFOSk5pLVF0WHMzUnEtajBlejRNc3p3c2FuSmFjSHdyVWJCb3hJcDdzT05lSUFaQ3hUM3VGWmJUeTlMa1U4czBrSEQtc0NrTHBWd1laRE4wQjRfZzZURi13X0pNNjg0ZkliVmFNZDNldXhHMmlaVzRkZVBsMm1uVW9RSXBLaw": 1792981549613
   },
   "digest": [
     {
@@ -21053,10 +21066,20 @@
       "d": 1792981206000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "reaksi media",
+      "x": "Pangkas Jarak dan Biaya, Tim Ekspedisi Patriot ITS Hadirkan Kemudahan Mendapatkan Layanan Beasiswa - reaksi media",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFYwaTZPQTJQWEZ0WEFpNmNOWW1xUVdERTJFVGpDRVNqX1JYVmlNajUySEVpT3dHOUc3MEJ4Z3VMbEFOSk5pLVF0WHMzUnEtajBlejRNc3p3c2FuSmFjSHdyVWJCb3hJcDdzT05lSUFaQ3hUM3VGWmJUeTlMa1U4czBrSEQtc0NrTHBWd1laRE4wQjRfZzZURi13X0pNNjg0ZkliVmFNZDNldXhHMmlaVzRkZVBsMm1uVW9RSXBLaw?oc=5",
+      "d": 1792981260000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
