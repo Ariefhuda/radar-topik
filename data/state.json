@@ -20833,79 +20833,27 @@
     "news:CBMiqwFBVV95cUxQXzdsWS01ai1TaGJHakZlc2tpS1lMd3dBMHVHT09yZG82TFNfRkZTS0kyd0UzSmVyNlV5ZTA5X0dsUmNsbnFXcEdYS2stQ3BVMXNuS3NvdVFzb1gxUWhsTHRDaGJzNk96Wld1d3BaYmJhNW91bzRzX2NhMFcxR2NudVRDUWFfbzhKOGZscDNDeHVkX0hhWHAwRV9mT0ZWWXJiVkJHSVVySkQ5YTg": 1792994460047,
     "news:CBMi8AFBVV95cUxObnQzU2lSd0UwdHYxTU94NzlMQlFHRnZPNXNYZmN2c3g1bVN5Vlo1d2JXaEN5V09MOGRUSGc4T0tpNjFFUU9scUxLZ01Nbm1scklnd2VERHFvOE9oQ3I4TWVDcEUtVWlGeFR4TXREcHdOYWlFbGRMLTVEZVhkbFpVQmtlc2JpU25kUnRNS21mZ0V2M1RkNDVadVBOVldvY3R3XzhjdkVXNlNzSjBBVEp1ME5FU0tOZlQ1NjZIaUZiMjdUNTFzdjFOZjl2d2NpTEZZdC1sb19meVNFNUVWMldBWWJGaTlNV3drNE9CRFRZMEXSAfABQVVfeXFMTm50M1NpUndFMHR2MU1PeDc5TEJRR0Z2TzVzWGZjdnN4NW1TeVZaNXdiV2hDeVdPTDhkVEhnOE9LaTYxRVFPbHFMS2dNTW5tbHJJZ3dlRERxbzhPaENyOE1lQ3BFLVVpRnhUeE10RHB3TmFpRWxkTC01RGVYZGxaVUJrZXNiaVNuZFJ0TUttZmdFdjNUZDQ1WnVQTlZXb2N0d184Y3ZFVzZTc0owQVRKdTBORVNLTmZUNTY2SGlGYjI3VDUxc3YxTmY5dndjaUxGWXQtbG9fZnlTRTVFVjJXQVliRmk5TVd3azRPQkRUWTBF": 1792994740674,
     "news:CBMiswFBVV95cUxONkhlQ1V5ckpfMmJ2VE1JN1hqN2VzTlNNUHpRNkFOZVBfcVlUeXlnZXdQWUFSZEhMZE9aUm9ORHBEQUs2a1ViSkpkd3RjUk5ZS2NuNE9xT1d5QVNTQWVLTHhoemsyQW8za0czVkRFZ2tMb05zMDBubndvMTJOcVBhZTB2Q0RmS2pKeW4ta3Z6Y1RxV00zLTBVaENCOXJNSnhtdnowb2FIX3NYblo5YVBMSVBDbw": 1792994740674,
-    "news:CBMi3wFBVV95cUxPRFhYdjNfNXBpdnN0R3hqTUhDMjg5UF9TN2ZkdE5jYlU3ZlpjbVpmZ3llY01SbXJkMFNVMVZ1a3VTbHRYMmJSN2Z2VUVteWk0SVNoNHVkZ3hoREh4ZmFVdkp5QXdBNkU5OVBNNDI0QTZya19lX09FTUgyWjhBalRVaXJmblJETHF0VExZaE5kZ3lPd3dvTHJ6R0xuOXk5ajlsdXRVZFQyT0dIS0hCQV9SUDk0WXZKNU9CVzNmTTY2cEFQOVk2SmM2NGROTldvODlKNksyWk8xelgzWXZHYVNN0gHfAUFVX3lxTE9EWFh2M181cGl2c3RHeGpNSEMyODlQX1M3ZmR0TmNiVTdmWmNtWmZneWVjTVJtcmQwU1UxVnVrdVNsdFgyYlI3ZnZVRW15aTRJU2g0dWRneGhESHhmYVV2SnlBd0E2RTk5UE00MjRBNnJrX2VfT0VNSDJaOEFqVFVpcmZuUkRMcXRUTFloTmRneU93d29McnpHTG45eTlqOWx1dFVkVDJPR0hLSEJBX1JQOTRZdko1T0JXM2ZNNjZwQVA5WTZKYzY0ZE5OV284OUo2SzJaTzF6WDNZdkdhU00": 1792994740674
+    "news:CBMi3wFBVV95cUxPRFhYdjNfNXBpdnN0R3hqTUhDMjg5UF9TN2ZkdE5jYlU3ZlpjbVpmZ3llY01SbXJkMFNVMVZ1a3VTbHRYMmJSN2Z2VUVteWk0SVNoNHVkZ3hoREh4ZmFVdkp5QXdBNkU5OVBNNDI0QTZya19lX09FTUgyWjhBalRVaXJmblJETHF0VExZaE5kZ3lPd3dvTHJ6R0xuOXk5ajlsdXRVZFQyT0dIS0hCQV9SUDk0WXZKNU9CVzNmTTY2cEFQOVk2SmM2NGROTldvODlKNksyWk8xelgzWXZHYVNN0gHfAUFVX3lxTE9EWFh2M181cGl2c3RHeGpNSEMyODlQX1M3ZmR0TmNiVTdmWmNtWmZneWVjTVJtcmQwU1UxVnVrdVNsdFgyYlI3ZnZVRW15aTRJU2g0dWRneGhESHhmYVV2SnlBd0E2RTk5UE00MjRBNnJrX2VfT0VNSDJaOEFqVFVpcmZuUkRMcXRUTFloTmRneU93d29McnpHTG45eTlqOWx1dFVkVDJPR0hLSEJBX1JQOTRZdko1T0JXM2ZNNjZwQVA5WTZKYzY0ZE5OV284OUo2SzJaTzF6WDNZdkdhU00": 1792994740674,
+    "threads:De8mfCxkYBU": 1792995045509,
+    "threads:DeGxqPpk856": 1792995045509,
+    "threads:De8lboPDku2": 1792995045509,
+    "threads:De8my3lEwoe": 1792995045509,
+    "threads:De8mt2Un3Tg": 1792995045509,
+    "threads:De8mRusjiz8": 1792995045509,
+    "threads:De8mG51k7XC": 1792995045509,
+    "threads:De8mGePks6a": 1792995045509,
+    "threads:De8mAFgjp_m": 1792995045509,
+    "threads:De8lz0WE643": 1792995045509,
+    "threads:De8loTPozsL": 1792995045509,
+    "threads:De8mBk5GJ2p": 1792995045509,
+    "threads:De8mHbpE4Si": 1792995045509,
+    "threads:De8mlADgfzc": 1792995045509,
+    "threads:De8metKkujg": 1792995045509,
+    "threads:De8l6BbCbF8": 1792995045509,
+    "threads:De8mDDHk8Y6": 1792995045509,
+    "news:CBMitAFBVV95cUxPQzBoMzdvd05XTHVmY1dXcGVScnlWNk0tYnR4X1JhRFc3eVdVMkhhSFAxNXdqSXpkOW1HNXRIWGZjenlWR2lvajkzVjZqVkdaZzNKbDJpWnNtemR5ZWVRWkc2ZjZoQlVZeTVDUDF1S0VxOFJUei1wQzdteFdMRVZLXzg0MmQ4MFp0UG1vTkVueXhyUHNsOTllZFVVbjVFUnhHSW5mclNzbGJUYlBrbHBEY0RvOFnSAboBQVVfeXFMTVJkOHJKb0l3dEtHRlFWX1hkZEFBbFFJdW1ReExpcVlaMHVpV0Q0eWt2NnctVVhwSmZhaWIwV3h0SGk3M2ZfYlplZmZyTGYtX2V2eTVleUdHTzFvOWgzZ0ZHdDF5WGVpMWNYenVaMWRvV0o1eDFtclBtMmVSb0hiblNCSWRuWDVjSkZJQ0JfV3Bvei1WYmlFNGxweDZzOHBFQ1VSajN0VHBiZlpGdnlwYzFvUndWYlRIX05B": 1792995045509
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Editor Indonesia",
-      "x": "Sertifikasi Halal 2028 dan 2034: Ini Daftar Produk yang Wajib Memenuhi Ketentuan - Editor Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZ0xyNkM3R05xaTZDeWhPYUhtbUttVmNoUzhkaVdqSmlweXJpU1NtOFk2cGJLZXZ4WjZHSm1BNElLaEVaQkFmSUxLWTJhNGRsQ0RDbC1Ock9JcENWWmY5bzVBR0VCaUU?oc=5",
-      "d": 1792985385000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@sekolahannisaaizada",
-      "x": "Early Bird Periode 1 Resmi Ditutup! 🥳 🎓✨Kuota Early Bird di Periode 1 telah habis terisi. Terima kasih yang mendalam bagi Ayah & Bunda yang telah mempercayakan langkah awal putra",
-      "u": "https://www.threads.com/@sekolahannisaaizada/post/De8VbtjEsT8",
-      "d": 1792985894000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "1kabar.com",
-      "x": "Peringati Hari Sumpah Pemuda,64 Tim Meriahkan Turnamen Domino Cup I Piala Ketua DPD LPM Deli Serdang Siapkan Hadiah Jutaan Rupiah - 1kabar.com",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazc5LVNMNHRobTBjZ0YwV29sYmlqandVMlFPWTdySnZUTWl2dGtIQUdmRkktWTRGekRUTVE0aE84a1RVbDdnT1hjMWp0OXg3NHlaM1VyYmljOE1mdXdvYjd2ZmI5eko1WWJGRFluNVRQSk5HNXJRR1RjRWZwekNRVXZTbTRJV3lXZW1EZ2RDNEdVY3pDQ1N0UWoxWUwySXlsOEl5N1hFNW10MGZfRm5pR0RjOWJGcm42YmVKN25WdmFMeFpCeHFQNGVibi1Gc0hSdG1mdEZ4QkkwcEM2ZzNsS0FB?oc=5",
-      "d": 1792985716000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Radar Jombang",
-      "x": "Hadiri Operasi Katarak Gratis di RSUD Ploso, Ini Pesan Bupati Warsubi untuk Warga Jombang - Radar Jombang",
-      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR0RiMXp4WWZ3SjRuSTVRcG1FQUVtT2FfaEN3cU9Vc1dVQnRZNzRUQXRPODNkVDN6cFh6U2ZXNzgxR0UzdDJoZllDTXFUbXlzdG9aUkNJTFdKLXBOd3lNelpTQlJYMXpEaXZndm5UOHlNbnlBc1ZBa0JkM1JXaUNzZHdoWk9BcmhYalZCTTNKXzVEV1pRdVVhNmtjNVhSNGMyUmJteGFoaFBxU3RiQzFCTFJwZEpYVFFOLWJKSUxMazFubXFrX25GNkRIUzY3bGdMeUwwZ25pVEtEM3prMFNaajE4djZ1WUVl0gHuAUFVX3lxTFBXdWJPQ3dMNUl1NEJjLTk1bGJLVEIxZDdmdmJid2lEMG56YTg0bzZ4clZIMlprY1MtRkFLMTZ2NFRTVzZxcUxpMmRsaDVCWXRPWGwzdkVTN04xUkRPSndqZU9raUN6Qm45amt6cC1YdXVGS1pHTndzd0ctcE5HT1FOYkJkMWJOVml2aGQtTm1IdmlLLTZuaTdteDJrQ3ktaXdLY1EzWmhHa09mMlBpbEloRnVjV29SNk1ZdVZOeWYxWXJ3TVBqdHpGNzhrTzdncUc4U3dmRHJhdVB1YVliWXFZNmJLQlVJSnl1Q2d4NXc?oc=5",
-      "d": 1792978818000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kabar24",
-      "x": "Desil DTSEN Tiba-Tiba Naik? Ini Penyebab Bansos Bisa Hilang dan Cara Sanggahnya - Kabar24",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd19hX0VfeHdPTGE5NWhNRG95TlkxcWwxVWtSZDNkdjRVdVExSDY2Qy0zQTJhWVlfaFd5aVozMGdFR3F5a1Y4YUQ5WXNnT0l6YnBjUUsxb2VEa29wWGp5Ni1CNEN0eVc0dHJMa3IyM2RSX3Z5eHpBRGd1NERMMGdLZUMwWUpFUWNGWlRRV256a29ZSXoyMmFSS01oR21zMUpiOFNJVHpQSTBhdjdtUlBiVFFoNVZwWm96NjVWelo4WHlmc1huVEZtRGl0SQ?oc=5",
-      "d": 1792986089000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Cek Bansos PKH BPNT 26 Oktober 2026, PBI-JK Masuk Masa Tenggang 90 Hari - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWWRNakhLYTl1T1FkRGJ0QnZWUmhiRHBmMGZ3bTU4aGJ3bEtSSVl0b3NmeEk4T2dsU1ZRaXNvTk1vNllIOWI2ekthU0lfOFFNT1Vab010Q2ROS0pWNDVybWtkWi1zWVRiYkhzYk5HQ19DQi00UlAxT2FyVC1xNi0ycmw2Y0lZZ0tjN3FuVjNxYjV4NEpxU1R4MERBWTVUSlFoZjdfVTRCMVJKLUJmX3VzbUhyclljWm9oRWg40gHAAUFVX3lxTFBfTnBlS2lhOWd6ejYwMm81T0FMR04ySm1rbkI3Qi1zRUVST1k3Tk9zMnVnM3RENzRURzJTTW1TOVJuQmVleWttR0RLbXpYcUdYZHppTmN5d1IwWmxyMTdoajYtWWZod2E5TjVETzBPNnFaMFBuZ3k1bVRDT0xzcUxPODFFcTM5OXVjazQ5TW9pUHN1cFBoQ3piRzExczFMdmJoeTBmdm9oc0lYSHg4bVZTbkFtanZoT0R5MlREVEQ0Rw?oc=5",
-      "d": 1792984005000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arkalearn",
-      "x": "Yuk ikutan Webinar Gratis 🗓 Rabu, 28 Oktober 2026 ⏰️ 19.00 WIB - Selesai (Malam) 💻 Via ZOOM Daftar GRATIS: https://bit.ly/WebinarDJARUM_SMBCI_ARKA #webinar #kakeibo #webinarjepan",
-      "u": "https://www.threads.com/@arkalearn/post/De8WbtOllo1",
-      "d": 1792986419000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -22335,10 +22283,80 @@
       "d": 1792990800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@coach.arida",
+      "x": "Absen dong temen-temen yang minat ikutan webinar GRATIS??? adakah disini?😊👀",
+      "u": "https://www.threads.com/@coach.arida/post/De8mBk5GJ2p",
+      "d": 1792994593000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aicreator_bynurma",
+      "x": "Siang bolong begini kalian sibuk apa bestie? Kalau aku habis makan, nyambi bikin materi kelas GRATIS, yang nek dijual itu mahal.. wkwkwk.. Gak semua orang bisa ngomong di kelas off",
+      "u": "https://www.threads.com/@aicreator_bynurma/post/De8mHbpE4Si",
+      "d": 1792994641000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@amranpambudi",
+      "x": "Ikut pelatihan dulu aj KA,gratis",
+      "u": "https://www.threads.com/@amranpambudi/post/De8mlADgfzc",
+      "d": 1792994883000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiri_berkahi",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@mandiri_berkahi/post/De8metKkujg",
+      "d": 1792994831000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@gunastudioid",
+      "x": "Simpan thread ini, lalu cek kanal resmi Kementerian UMKM dan Kementerian Ekraf buat gelombang berikutnya. Jangan percaya kalau ada yang nawarin \"pendaftaran dibuka sekarang\" tanpa ",
+      "u": "https://www.threads.com/@gunastudioid/post/De8l6BbCbF8",
+      "d": 1792994545000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ayumu_connect",
+      "x": "Halo! 😊 Kami juga menyediakan kelas bahasa Jepang secara online, termasuk persiapan JLPT! Ada kelas privat 1-on-1 dan kelas grup, mulai dari tata bahasa, kosakata, hingga latihan ",
+      "u": "https://www.threads.com/@ayumu_connect/post/De8mDDHk8Y6",
+      "d": 1792994605000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Update PKH BPNT Tahap 4 dan 6 Bansos yang Masih Cair Oktober 2026 - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzBoMzdvd05XTHVmY1dXcGVScnlWNk0tYnR4X1JhRFc3eVdVMkhhSFAxNXdqSXpkOW1HNXRIWGZjenlWR2lvajkzVjZqVkdaZzNKbDJpWnNtemR5ZWVRWkc2ZjZoQlVZeTVDUDF1S0VxOFJUei1wQzdteFdMRVZLXzg0MmQ4MFp0UG1vTkVueXhyUHNsOTllZFVVbjVFUnhHSW5mclNzbGJUYlBrbHBEY0RvOFnSAboBQVVfeXFMTVJkOHJKb0l3dEtHRlFWX1hkZEFBbFFJdW1ReExpcVlaMHVpV0Q0eWt2NnctVVhwSmZhaWIwV3h0SGk3M2ZfYlplZmZyTGYtX2V2eTVleUdHTzFvOWgzZ0ZHdDF5WGVpMWNYenVaMWRvV0o1eDFtclBtMmVSb0hiblNCSWRuWDVjSkZJQ0JfV3Bvei1WYmlFNGxweDZzOHBFQ1VSajN0VHBiZlpGdnlwYzFvUndWYlRIX05B?oc=5",
+      "d": 1792989960000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
