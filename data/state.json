@@ -22105,19 +22105,13 @@
     "threads:De97GfdE5uc": 1793039449910,
     "threads:De96Ss5E2fh": 1793039449910,
     "threads:De96LFaEyz-": 1793039449910,
-    "news:CBMi0wFBVV95cUxNWVFfc2FmUnE0SjQ5aGlKZjRITk1idVh5QmtTcUhrd0tSNjZmazFRTTZ2US1lc0wzdVlUNlFsTTdpYzdFRkZmLUluVWdzaER0eHEyRl83WnFseEZPaFY4bzBxWXhKY1hmYWtPX0VUcTcxNXhwM3poUkFmWFFuQjVkdUoycmNYdnNNX0lISmpJYW5oOTM4SzhNdTBFRVNyRjFSdTV0bHJlX1BpWF9YTU0tTmxTWkVmaFRfZzNVbUUyZGRENjNOOWZobmZ4ZUd0T3NmaEdZ": 1793039449910
+    "news:CBMi0wFBVV95cUxNWVFfc2FmUnE0SjQ5aGlKZjRITk1idVh5QmtTcUhrd0tSNjZmazFRTTZ2US1lc0wzdVlUNlFsTTdpYzdFRkZmLUluVWdzaER0eHEyRl83WnFseEZPaFY4bzBxWXhKY1hmYWtPX0VUcTcxNXhwM3poUkFmWFFuQjVkdUoycmNYdnNNX0lISmpJYW5oOTM4SzhNdTBFRVNyRjFSdTV0bHJlX1BpWF9YTU0tTmxTWkVmaFRfZzNVbUUyZGRENjNOOWZobmZ4ZUd0T3NmaEdZ": 1793039449910,
+    "threads:Ddp2vY4j9Qb": 1793039740952,
+    "threads:DbVazu1kgGz": 1793039740952,
+    "threads:DZ7dJWmHBA1": 1793039740952,
+    "news:CBMijwFBVV95cUxNQ1pfc3p2MnlWTktLQnRSbGZYRmI0MTMxNmF1aEZ3b2tUc2FfRDBOdzhhbDdvRXFzY29GOEZmT2xMZ2pGczZ3OFFoX0hUTU9saFB2eXROX2UzZktGTFdUNUJmZG5Rek1pazlmay11bzRta3BoLWprR0Foc2ROWDhyR1RiRUx5SkpVd2ZOU2QzUQ": 1793039740952
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Pos-kupang.com",
-      "x": "Soal Ujian Sekolah dan Kunci Jawaban Geografi Kelas 11 SMA Halaman184 Kurikulum Merdeka Edisi Revisi - Pos-kupang.com",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNFZHXzF0VUZXeFlXc0VnTG90eXpnSmppZlE2cDh4d1J4ZElmMHBLbjNhamhpbkF4SXF3SzRsdDU3NEljeEE3VUpJT0NEb1RCd0M2ZE9XU21xbHJiYzZvVlhZQXFMQzFUaXBYSjB6eWFnU0NwVUFKT21YWUtpT1laakRlVWNJb192UnZwdk9xMmFmM2hpT3VxWnA0SzBlcFhEVUFSdXZOc0hPSGM5V002YnZVWnd2SXJyTTNOOWpwV2JQM21rM085R0d4dFVXcWlGdEIxYUVGNWxUZnhoYWVQVWlNcw?oc=5",
-      "d": 1793010257000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -23607,10 +23601,20 @@
       "d": 1793015586000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Pemprov Jateng Perkuat Aturan Pajak dan Retribusi Daerah - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1pfc3p2MnlWTktLQnRSbGZYRmI0MTMxNmF1aEZ3b2tUc2FfRDBOdzhhbDdvRXFzY29GOEZmT2xMZ2pGczZ3OFFoX0hUTU9saFB2eXROX2UzZktGTFdUNUJmZG5Rek1pazlmay11bzRta3BoLWprR0Foc2ROWDhyR1RiRUx5SkpVd2ZOU2QzUQ?oc=5",
+      "d": 1793016905000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
