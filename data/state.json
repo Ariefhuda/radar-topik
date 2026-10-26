@@ -20242,19 +20242,10 @@
     "threads:De7-ojCE-Pe": 1792974044021,
     "news:CBMioAFBVV95cUxQcm5adlMwcVBBVEc1Z0ZwS2xCUVBlUUxsZ2VDbEdaTDBPUHhDTDBvaVU3Q2Y3ME5uQUhOSzRGTDU4S0VzaHJvX1FUTTR6UEpMX1NOMWRsQlo1VEw3X1N2WkFVTEtVaU5LOWQwTGg3MDFjUkxPZDZwY09jbVVKbFNUemdvQUxBWlZCc0ZTZWtXYVp1N3BWSElEMDBmWTNoc0tY": 1792974044021,
     "news:CBMivwFBVV95cUxPazFGdUZXMUtoUldWQ0ZKbHFnbkpZV0x6VGRMTUY5T1RlUzJMc1cxdmVvOXd5dXlrdkl0SjBRSUZGYVQyX2RIR1E5OFVJTmx2bm1va1BEMThkbG52dFJvMW5MODR6alI1Rldidk11Q0xiUGhCWjBfWm12NGVWUFFPTHAxRE5pR2lLazRXMUdxazF0LUlOU2MteXNxaXFOMllTd1VYV0pNX3FSWnpMTnNIZGFkbXgza0pPN0FZQmppZw": 1792974044021,
-    "news:CBMisAFBVV95cUxQalVVR3lqRkE5dno5SE1MTlg0d2JNWlJ1WUM0MWVfQlpmbGZ2NWxoMzNYM0RYRGc4aEstWWVCUVJCZXJkOG9MNTd1QUhCS0VZZUpCTC14a0hOclViWHRrQjM0dllBUkRJNm1uMXowR281eGQzcHF1Vi13NnQtTEc4eFBieTI0NVlFOUcwdVA5UUxvNHl2eGVDbldVWVBOeFdXcUs5MlZNQVE2eVVGeC0zWA": 1792974044021
+    "news:CBMisAFBVV95cUxQalVVR3lqRkE5dno5SE1MTlg0d2JNWlJ1WUM0MWVfQlpmbGZ2NWxoMzNYM0RYRGc4aEstWWVCUVJCZXJkOG9MNTd1QUhCS0VZZUpCTC14a0hOclViWHRrQjM0dllBUkRJNm1uMXowR281eGQzcHF1Vi13NnQtTEc4eFBieTI0NVlFOUcwdVA5UUxvNHl2eGVDbldVWVBOeFdXcUs5MlZNQVE2eVVGeC0zWA": 1792974044021,
+    "news:CBMihwFBVV95cUxPTVg3UXVMc1dPS1BCa1MtcUtRbkpxc2t5bWtJSl83TTdpamJtelotcVVSX1ZoNF9EZWVnM1ZjOWtkZlF3TUJ6RXNsVHl6Vi1QSnVlTjFuSG03aW1YN0kyREpUWTdWbkhnYUhhRHlvT0hpc1J6VFY1dGdjdDlucWpFLV9hN193Skk": 1792974341871
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@shirase.id",
-      "x": "halo kak, mau join kelas gratis bareng kita?",
-      "u": "https://www.threads.com/@shirase.id/post/De7C6x2GWDT",
-      "d": 1792942633000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -21744,10 +21735,20 @@
       "d": 1792970341000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "Vietnam Post menghadirkan \"Gen Z Connection Station\" kepada para siswa. - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVg3UXVMc1dPS1BCa1MtcUtRbkpxc2t5bWtJSl83TTdpamJtelotcVVSX1ZoNF9EZWVnM1ZjOWtkZlF3TUJ6RXNsVHl6Vi1QSnVlTjFuSG03aW1YN0kyREpUWTdWbkhnYUhhRHlvT0hpc1J6VFY1dGdjdDlucWpFLV9hN193Skk?oc=5",
+      "d": 1792954708000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
