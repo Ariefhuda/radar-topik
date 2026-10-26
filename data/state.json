@@ -20225,19 +20225,10 @@
     "threads:De78dxrGB2a": 1792973141324,
     "threads:De78QtZDkdw": 1792973141324,
     "threads:De78y5XEk9d": 1792973141324,
-    "news:CBMixgFBVV95cUxPaTdXMlRsOVdTc3VKcXhWOTYxOXFUVGRPaTZLYV93VFpJNVZhaExwb2hPTFdNajJLWXpESi1NTWlBdmhMSlhrRUpnSlNWd2haUFpxRl9Lczd2LXI3MGFBS1FMLTVkZGFhRFJrRVpOZlVETXBaTmszOXFCeVdnTWtuMW1YQ191T2VzSWR5c1dZVmVXZGRqakJ5LTh6MWdkR29jQkdLZnRUeElZWHpTMzNpeHdIRFk5dU5XX3VHUzI2cFdDT3NsV3c": 1792973141324
+    "news:CBMixgFBVV95cUxPaTdXMlRsOVdTc3VKcXhWOTYxOXFUVGRPaTZLYV93VFpJNVZhaExwb2hPTFdNajJLWXpESi1NTWlBdmhMSlhrRUpnSlNWd2haUFpxRl9Lczd2LXI3MGFBS1FMLTVkZGFhRFJrRVpOZlVETXBaTmszOXFCeVdnTWtuMW1YQ191T2VzSWR5c1dZVmVXZGRqakJ5LTh6MWdkR29jQkdLZnRUeElZWHpTMzNpeHdIRFk5dU5XX3VHUzI2cFdDT3NsV3c": 1792973141324,
+    "threads:De78gGjCfb4": 1792973441659
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Arusbawah.co",
-      "x": "Ini Strategi Pemkab Kukar untuk Penuhi Kuota Beasiswa Bidang Kesehatan 2027 - Arusbawah.co",
-      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUJMamtHam5jRzBFT1Fja2ZyZUF6NTFyZDlOTVkzYS1uZldxM0xCTnFFM2lnZ3EzOHVGSnd2azJyOGlVU1NnWmZZdWpqaFUzR3J2MjB2UlkzUXVObGxadXRDd19qQTNIcDlqaG9LQVd3MnJlU20yNDNoVVBHd1dHUGdQR19YUE9DdHZ0SkV5V3lrWHE5Y3JqYjhWcEs?oc=5",
-      "d": 1792934402000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -21727,10 +21718,20 @@
       "d": 1792971720000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@jafrinaaaa_6",
+      "x": "Semoga bansos yang dinantikan segera cair untuk KPM yang berhak 🤲 #InfoBansos #PKH #BPNT #KPM #Bansos2026",
+      "u": "https://www.threads.com/@jafrinaaaa_6/post/De78gGjCfb4",
+      "d": 1792972826000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-25-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
