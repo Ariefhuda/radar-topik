@@ -21316,19 +21316,13 @@
     "threads:De8_ETEFFR-": 1793007941333,
     "threads:De8_EC7EsPi": 1793007941333,
     "news:CBMinwFBVV95cUxPdU9VaUJjNWxxQ3k1ZHFsMDhQOUNta01TZnU1M00xTEduNTI1d1ppd2hxVWZGTHN3bndJM3BRUjF6NHFoaThXbC1Jb1J2VEVEY05oYkItT2hqVC1DVVBuVWlyZDlYQUtPS19BZnFBSmhKaXlhb3pVc1VYY2hWRDBVWlN4elZrcW5PWUlubXlUWGo5VnNHNVp0RDRlbDM0NkE": 1793007941333,
-    "news:CBMi0gFBVV95cUxPVnNCTEJ2UzBnc3JKRHRMaXR2RzJsS0VLbkJ4bHBuUDNoTDNwZGxuNkdabnhpTk5fTHBuTkx0aDNsYUZheE5OZzhNYjR4SUgwMFI1eWZBOWFCdGY4Tk85MEdjbXk5RW1DVHNQLUx1NEV6dUhwdk9iVEt2RGRWQW15Ym9nQVFhUnlLdWhrUmZnRlFOcURPNXNsY2JVZjNyaHhZODM0WTNGYlJ3dFRGbDJOMUhhWWRJUldIaWR1Nld0R2NabmdQY0VaN3Z2MjJNZk1TcUE": 1793007941333
+    "news:CBMi0gFBVV95cUxPVnNCTEJ2UzBnc3JKRHRMaXR2RzJsS0VLbkJ4bHBuUDNoTDNwZGxuNkdabnhpTk5fTHBuTkx0aDNsYUZheE5OZzhNYjR4SUgwMFI1eWZBOWFCdGY4Tk85MEdjbXk5RW1DVHNQLUx1NEV6dUhwdk9iVEt2RGRWQW15Ym9nQVFhUnlLdWhrUmZnRlFOcURPNXNsY2JVZjNyaHhZODM0WTNGYlJ3dFRGbDJOMUhhWWRJUldIaWR1Nld0R2NabmdQY0VaN3Z2MjJNZk1TcUE": 1793007941333,
+    "threads:De8_APNIMPK": 1793008248509,
+    "threads:DF82nsDBrQ3": 1793008248509,
+    "news:CBMiwwFBVV95cUxPR0Nyak9uMXkya25xaDRvdXpmeURUZ2h6R3lZaGk5aXl3RThERlVzSGo3TlFHbXktTkRTNjBNblRQdlhZWVNnM3FSekQzc0xSMzlfLW5tRjFFWUdmcnFoMlQ1SkZadXBGbklHLXJGcUdpQjc2N0dWNlpsR2RpTWhIeFpPY2V6RG12V2Z2YmRNOE4xOXNQYVZDZGxKWVlKVjg5UXU1Rk5oNWM2VnV2NXgwYnJPSk81a2kybEFBTlhzenl4UFE": 1793008248509,
+    "news:CBMipgFBVV95cUxNTi1iT2Q5aFNTNDhMR3dqMlg1NzVlQ3VaendwcXUxNmRVWWF0ZHRjNlI3dWRVZDNaN3FfbkMtaFRuWkNOTG9mS0lxc1RZRFE3WTh3TUdkWFdXX0lqV3A4MlRwQ2xNWFdreUtjXzBFN2gxNTJWbGZWYUU1WjNZWm9iSUNZUWNMUmlvZlBram9YcG8tbzNmdkROVmRPeFh0UVpKdFhKWHF3": 1793008248509
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@edvvardsantoso",
-      "x": "Anak-anak sekarang banyak yang mengalami cognitive decline karena mendelegasikan tugasnya ke AI tanpa memahami esensinya. Parents, kalau kita bikin webinar gratis untuk bahas bagai",
-      "u": "https://www.threads.com/@edvvardsantoso/post/De8vsiciRS7",
-      "d": 1792999663000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -22818,10 +22812,20 @@
       "d": 1793000824000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@karina_meirita",
+      "x": "Ga tau daerah kakak masuk di list daerah afirmasi LPDP atau ngga, tapi kayaknya ga eligible juga karena syaratnya Pendaftar bertempat tinggal di daerah afirmasi yang dibuktikan den",
+      "u": "https://www.threads.com/@karina_meirita/post/De8_APNIMPK",
+      "d": 1793007689000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
