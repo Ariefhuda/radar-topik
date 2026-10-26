@@ -20421,7 +20421,9 @@
     "threads:De8Mn0bn7-N": 1792981849956,
     "threads:De8M6VLI5pp": 1792981849956,
     "threads:De8IFflE3Kk": 1792981849956,
-    "threads:DezYzbjmVVi": 1792981849956
+    "threads:DezYzbjmVVi": 1792981849956,
+    "news:CBMidEFVX3lxTE9UcGhyVGVWbUhHT1MxekdCQ3ZrRUFzWVlpTFg2R0hMNTlPa2NvZG9neGdLbHQyNVRfRXBSMVpMZWJfeVpNb3lQdlRMM1NvQXkwdlpHQ29aZERmb0kzeVBNTFB1MXJtVFI0TzItcXgwelV3RFpw": 1792982139828,
+    "news:CBMivgFBVV95cUxOdWQxSkVtVU1NVXp4VE9KbWpHSjVsMWV3QkxuWmp1bGwtQ043U1FBVmxDWmx6NUJGYUg4SF9BcnlBb0dCSjZfeG1YWEI3cUVIbjVTQ3UzMzZ4MVh5THp0X2NpLW92X0NVeXdfZkM2ajJWaUtMQlBIRGlJS3NST0ZDeGhUTjhYRy1XVDV5Vk1HclVkcW5kQnlWUFBHZHk0cWRfV2d4cGpjOXI1U0xObUtjRWZSZXNiUnlfX0RtY29n": 1792982139828
   },
   "digest": [
     {
@@ -21143,10 +21145,20 @@
       "d": 1792978896000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Maman: Prabowo Perintahkan Penundaan Sertifikasi Halal UMKM sampai 2028 - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWQxSkVtVU1NVXp4VE9KbWpHSjVsMWV3QkxuWmp1bGwtQ043U1FBVmxDWmx6NUJGYUg4SF9BcnlBb0dCSjZfeG1YWEI3cUVIbjVTQ3UzMzZ4MVh5THp0X2NpLW92X0NVeXdfZkM2ajJWaUtMQlBIRGlJS3NST0ZDeGhUTjhYRy1XVDV5Vk1HclVkcW5kQnlWUFBHZHk0cWRfV2d4cGpjOXI1U0xObUtjRWZSZXNiUnlfX0RtY29n?oc=5",
+      "d": 1792981860000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
