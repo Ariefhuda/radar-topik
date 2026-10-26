@@ -20522,7 +20522,19 @@
     "threads:De8SsUTk4NP": 1792984849723,
     "threads:De8SYe4G2jZ": 1792984849723,
     "threads:De8SXelk3vz": 1792984849723,
-    "news:CBMiU0FVX3lxTFBUdDEzcThKSlBOakFFOHpEX1M4S05hdHNvWVVieUpoS2tiUEJfLUhCanphNVJ0Wmc0dVFyYVFXTEtWc3E5RTI5d2c3ZGhfcVhkR2xz": 1792984849723
+    "news:CBMiU0FVX3lxTFBUdDEzcThKSlBOakFFOHpEX1M4S05hdHNvWVVieUpoS2tiUEJfLUhCanphNVJ0Wmc0dVFyYVFXTEtWc3E5RTI5d2c3ZGhfcVhkR2xz": 1792984849723,
+    "threads:De8TtpbIB5z": 1792985147388,
+    "threads:De8TpiWDmlR": 1792985147388,
+    "threads:De8TFXrjR0h": 1792985147388,
+    "threads:De8TFGglKsk": 1792985147388,
+    "threads:De8S32_D10f": 1792985147388,
+    "threads:De8SbqqDKmG": 1792985147388,
+    "threads:De8TLEwE6Y6": 1792985147388,
+    "threads:De8T8cwkgwl": 1792985147388,
+    "threads:De8T3ADEz5n": 1792985147388,
+    "threads:De8Tg4DDlq1": 1792985147388,
+    "threads:De8THBRDme7": 1792985147388,
+    "threads:De8TCungRxu": 1792985147388
   },
   "digest": [
     {
@@ -21644,10 +21656,70 @@
       "d": 1792980293000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandanyaara",
+      "x": "Halo! Adakah yang punya sertifikat bahasa Jepang (minimal N3) dan berminat untuk mengajar? Kantorku (BREXA Indonesia) sedang membutuhkan banyak mitra pengajar Bahasa Jepang untuk p",
+      "u": "https://www.threads.com/@mandanyaara/post/De8TLEwE6Y6",
+      "d": 1792984709000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@andifaishal.id",
+      "x": "Nah ini bedanya dgn Brevet. Ga ada pelatihan gitu dari IAI, Kak. Ya aneh sih kalo ada, jeruk makan jeruk. Tapi IAI fair dengan ngasih gratis Modul Ujian nya di Web IAI. Aku belajar",
+      "u": "https://www.threads.com/@andifaishal.id/post/De8T8cwkgwl",
+      "d": 1792985114000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "Ikut pelatihan gratis kak Bisa cek postingan kami, setiap hari update pelatihan gratis dari berbagai kategori",
+      "u": "https://www.threads.com/@updatepelatihan/post/De8T3ADEz5n",
+      "d": 1792985069000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kelaspintar.smd",
+      "x": "Yuk segera COBA KELAS GRATIS & LES di Kelas Pintar, solusi calistung yg menyenangkan ⭐️⭐️⭐️ KAMI SIAP KE RUMAH SE SAMARINDA DM ato WA kami u/ info lebih lanjut Ada COBA KELAS GRATI",
+      "u": "https://www.threads.com/@kelaspintar.smd/post/De8Tg4DDlq1",
+      "d": 1792984890000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kelaspintar.smd",
+      "x": "Yuk segera COBA KELAS GRATIS & LES di Kelas Pintar, solusi calistung yg menyenangkan ⭐️⭐️⭐️ KAMI SIAP KE RUMAH SE SAMARINDA DM ato WA kami u/ info lebih lanjut Ada COBA KELAS GRATI",
+      "u": "https://www.threads.com/@kelaspintar.smd/post/De8THBRDme7",
+      "d": 1792984678000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kelaspintar.smd",
+      "x": "Yuk segera COBA KELAS GRATIS & LES di Kelas Pintar, solusi calistung yg menyenangkan ⭐️⭐️⭐️ KAMI SIAP KE RUMAH SE SAMARINDA DM ato WA kami u/ info lebih lanjut Ada COBA KELAS GRATI",
+      "u": "https://www.threads.com/@kelaspintar.smd/post/De8TCungRxu",
+      "d": 1792984644000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
