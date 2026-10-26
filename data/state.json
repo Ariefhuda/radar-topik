@@ -20534,7 +20534,12 @@
     "threads:De8T3ADEz5n": 1792985147388,
     "threads:De8Tg4DDlq1": 1792985147388,
     "threads:De8THBRDme7": 1792985147388,
-    "threads:De8TCungRxu": 1792985147388
+    "threads:De8TCungRxu": 1792985147388,
+    "threads:De8UXfVEz9u": 1792985447854,
+    "threads:De8UI-vEpNE": 1792985447854,
+    "news:CBMisgFBVV95cUxOUEluUmRvVUZIMzlFTFMzeEl4QWsyUHB0RVpFaXNnS3VrcHhReUtEcVhKcTVOWWRLWnk2OWR0d2cwUG1jQUJ2S1h6N1hYdl9rYV9zOHF2YkJEelJ2S2FTNkZLUi02R19vR1hHWWZvczNvbGJ5MHR2TGc1WndlQ01YZ3pkem5NcGpPZnl5bF9YSG1KdGhSMDYtd2l3Q3JjSEZUdnRuOFQ0Wm1LZnJnUTVxR2ZB": 1792985447854,
+    "news:CBMi4AFBVV95cUxQblF6NmZsVDJjSGxpRlNEanBEMkI5Mk9rYVNNSk04dzlWT1pjdGpJbTVwN3VwVDdnS0YzaVpUSGRXNXE5d3ByclhqdHRtblVpYjUxdm1BYlFid01ScjRSLXEtbm84YUE3azFQY3M1dGhsQ29VVmVFUHYyTDZzTDFTVVRqUkdLVXZfcXpuWTdXNEhoLXpsWTE3eU5aMXA0M1lhTFpsZVlsVkszU3FuRE1ZSHgwT21nRy0yMmE2T1RnNzU2UXNMRTNBdmJEa2JGZ2pqYWZXbWJTVmRhU1o5LWxFbNIB5gFBVV95cUxNc1NkQ3VtekJhbXVLOUpRc2h2SUp0VTVHOGd4LWJZXzRUUmhFUV80VXJsVWtDaC1TSVlUUTRrc1ljWl9hUE5idVpOdnRjNWpwNjZtY0pVSzNxWVZhMDJUVUhqamwyLXZEaXdLSzREbHVfLXJoUURza0VQci1oRmNHQ1BrX2QwZ3ZfdXRtSVhMRTQ1OWdCcVROS0Zyd1p2SjJ5TGxLTk9ZZWNyQktNS1ZmMVA4RlMyZElheVdDWmZwS19GaVdXWVZWc09TRGgzUmkxWXZxUnJKcUFTNmlfQUtnQmtwT21DZw": 1792985447854,
+    "news:CBMisAFBVV95cUxOSGNTY19LREZZdlVtQVN1RGtZczBoX2V2QTNqelpoa2NGUjFpRVpYcXpJRzM5N0xldjlTZWpLMnl1WDItX3E3UFEwNU01bUlhN3BCand0elJoY01CVHh2cU5PNGE3U3N6V01YVUwzM1U0UkN5S1JrY2llUDFxWGl6b3F5ckU3aFBZUzJ4MV9RZTZ0UlF2Nmx0RDJZNlYyN2w4dTMzcXJ1OUVWYVl1VHpVaA": 1792985447854
   },
   "digest": [
     {
@@ -21716,10 +21721,20 @@
       "d": 1792984644000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Wali Kota Semarang Agustina Wilujeng Ajak Warga Rutin Olahraga Pagi, Ini Alasannya - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGNTY19LREZZdlVtQVN1RGtZczBoX2V2QTNqelpoa2NGUjFpRVpYcXpJRzM5N0xldjlTZWpLMnl1WDItX3E3UFEwNU01bUlhN3BCand0elJoY01CVHh2cU5PNGE3U3N6V01YVUwzM1U0UkN5S1JrY2llUDFxWGl6b3F5ckU3aFBZUzJ4MV9RZTZ0UlF2Nmx0RDJZNlYyN2w4dTMzcXJ1OUVWYVl1VHpVaA?oc=5",
+      "d": 1792932591000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
