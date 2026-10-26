@@ -22359,13 +22359,14 @@
     }
   ],
   "lastDigest": "2026-10-26-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1792999023958
+    "reddit": 1793020844569,
+    "news": 1793020844569
   }
 }
