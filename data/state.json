@@ -23998,7 +23998,13 @@
     "threads:De_2SS2EwZc": 1793104253670,
     "threads:De_2JajGjez": 1793104253670,
     "threads:De_NXjlkukv": 1793104253670,
-    "threads:De_LaHSkv70": 1793104253670
+    "threads:De_LaHSkv70": 1793104253670,
+    "threads:De_0kuVj8xT": 1793104539636,
+    "threads:De_3ZINDuBi": 1793104539636,
+    "threads:De_3Tztm2sk": 1793104539636,
+    "threads:De_3FgPCe9A": 1793104539636,
+    "threads:De_35uZDzSe": 1793104539636,
+    "news:CBMi3gFBVV95cUxQbElCVDd2Tk82LUswWjZXY1hIQThSVmZNMjhaRE9haWFKTmt3X0JFN3ZIT21RTGdBdE40NXdMN2ZVUERvR3RudXFpQUdIbExfM25Mc1AwWTMzWXJhMFBTb3BRM2JJdmRKMDFsMFZrcDhOZm5INS1PazIwc0VkQnJXeXRac3FCcjdiV0FkQnF6SnBuTFpybjRrOHMtQURyZUdPa093QW03SWhYajRkZDFGZTVRZXhFMkxFa2g3RlNsVDluMGNkSElYS1JpMmlPRndjeGNDRDVhdHVMSURTbUHSAd4BQVVfeXFMUGxJQlQ3dk5PNi1LMFo2V2NYSEE4UlZmTTI4WkRPYWlhSk5rd19CRTd2SE9tUUxnQXRONDV3TDdmVVBEb0d0bnVxaUFHSGxMXzNuTHNQMFkzM1lyYTBQU29wUTNiSXZkSjAxbDBWa3A4TmZuSDUtT2syMHNFZEJyV3l0WnNxQnI3YldBZEJxekpwbkxacm40azhzLUFEcmVHT2tPd0FtN0loWGo0ZGQxRmU1UWV4RTJMRWtoN0ZTbFQ5bjBjZEhJWEtSaTJpT0Z3Y3hjQ0Q1YXR1TElEU21B": 1793104539636
   },
   "digest": [
     {
@@ -24440,10 +24446,40 @@
       "d": 1793103000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@klinikgaptung",
+      "x": "Punya anak kelas 1 atau 2 SD? Cek OPM bisa jadi titik awal yang bagus, sebelum materi makin berat. Dari HP, gratis, tanpa daftar: tosm.web.id",
+      "u": "https://www.threads.com/@klinikgaptung/post/De_3FgPCe9A",
+      "d": 1793104211000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fakhri.vdhl",
+      "x": " 🎓 PENGUMUMAN PENDAFTARAN MAHASISWA BARU 2026/2027 KULIAH GRATIS SAMPAI S1 DI UNIVERSITAS SALAKANAGARA (UNSAKA) TANGGERANG! Impian untuk melanjutkan pendidikan tinggi hingga jenja",
+      "u": "https://www.threads.com/@fakhri.vdhl/post/De_35uZDzSe",
+      "d": 1793104629000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Dio TV",
+      "x": "BCA Fasilitasi Sertifikasi Halal Gratis 39 UMKM Kota Pontianak Demi Tingkatkan Daya Saing Pasar - Dio Tv - Dio TV",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbElCVDd2Tk82LUswWjZXY1hIQThSVmZNMjhaRE9haWFKTmt3X0JFN3ZIT21RTGdBdE40NXdMN2ZVUERvR3RudXFpQUdIbExfM25Mc1AwWTMzWXJhMFBTb3BRM2JJdmRKMDFsMFZrcDhOZm5INS1PazIwc0VkQnJXeXRac3FCcjdiV0FkQnF6SnBuTFpybjRrOHMtQURyZUdPa093QW03SWhYajRkZDFGZTVRZXhFMkxFa2g3RlNsVDluMGNkSElYS1JpMmlPRndjeGNDRDVhdHVMSURTbUHSAd4BQVVfeXFMUGxJQlQ3dk5PNi1LMFo2V2NYSEE4UlZmTTI4WkRPYWlhSk5rd19CRTd2SE9tUUxnQXRONDV3TDdmVVBEb0d0bnVxaUFHSGxMXzNuTHNQMFkzM1lyYTBQU29wUTNiSXZkSjAxbDBWa3A4TmZuSDUtT2syMHNFZEJyV3l0WnNxQnI3YldBZEJxekpwbkxacm40azhzLUFEcmVHT2tPd0FtN0loWGo0ZGQxRmU1UWV4RTJMRWtoN0ZTbFQ5bjBjZEhJWEtSaTJpT0Z3Y3hjQ0Q1YXR1TElEU21B?oc=5",
+      "d": 1793091840000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
