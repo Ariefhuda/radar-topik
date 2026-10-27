@@ -24708,19 +24708,16 @@
     "threads:DfA1cIlE4Pk": 1793137242197,
     "news:CBMijwFBVV95cUxNcG5JS1k5SnZRZUJnOFpkY09FQnJGZkQ0QmdIRU90MnJ1ZnM4a2h6RkVMRml6TG1SOG50LVBhUzUwb0xST2FtUDB2WER6TzRWWEJnRTBSc1BHN0ZfWmcxZkpnRUNRQzR5c1pJajF5UTdMd3cyVkR4cXpZNkhEQ3Z5RmxUeVpBbWt4SXV3MG5wNA": 1793137242197,
     "news:CBMi4gFBVV95cUxQaWE5T0IxZTZEU0hfWExYUWI3bkh2Rk0yOEVaTnkwT3FBdkp5dS1xWE5FOUZhNTA0N1NWbkVibVNkVGN5Yi1BSDF0TV9aMUNWS0txMl8yd2xsampfc3N2aTZFcGxHYjl1TTJHNFVxa0x6QXVYTFFHXzZtcjFaR2pZd3VwWlBlYURMZEdxT21CcFN4MGl6a2EzaFdWMG9rWWVWT1JlZ244cUdfQkhTWEFXTmNzRWs4ajhWcEh6dTZzY3JNSW53cy1nY2FjTW54UVVqc3FZNzAySGlJR2FwbHFjLWJR0gHnAUFVX3lxTE5EdE5ETXdzdkFSOElnRGlUZTlHQ3ZwdXozRVdleFBBcmxsZF9oelQ5NzFEeEhYZk5jSlJZTHlRSWdOM2JOQzhtRklTVm5JNnhiazdLaUdDU28zMUNHTmlZd2NkZy1JX2ZuLWc5Y2NkVjZSNEdWYjV1YTA0dU42UGU4WDl3TGpkZU9PQzhWaFFsdGpwdWJOOUNZalBHLUFGQUl0dk5KQmdiTVJSQzY0WW5sNzVoSTczYlFwUVNYOTkzaUw0VGdESE1RaFNnVGZWVUMyTnpNdmRBRk1scTcweWxoNVVlczJkcw": 1793137242197,
-    "threads:DfA1lIHk4L-": 1793137541744
+    "threads:DfA1lIHk4L-": 1793137541744,
+    "threads:DfA3VkHgkd3": 1793137845593,
+    "threads:DfA22X2DIVe": 1793137845593,
+    "threads:DfA2oM9kpUz": 1793137845593,
+    "threads:DfA2XygDtSK": 1793137845593,
+    "threads:DeT6yq7gt8Q": 1793137845593,
+    "news:CBMiwAFBVV95cUxOSUkxcWRNMkNPeFJCYXhkQW9oODF3UGFBTE0wZEViZURieTEtekloOUFrUS11ZEk5MGVKVFBVcVJXSHduOGZJWkhUY3NKRWJqSy13U2FqVnZJaXcyTXMwUEVycHA5N2JkcThlbVJYU0JRXy1DVms4RUFfcHNMVHNnMlNKbk1wNmgtb0tIN01LZkFtZjR1SzVybVVkeEZ6T3o3SVotcXBBX3BILXVfNGFkOUdfd3lXOEVGNDZYaEZHMzc": 1793137845593,
+    "news:CBMiZ0FVX3lxTFB2Q2RtVWQtWnNCWm9ScENmYXJkMWpfaThmeDkzR1R5MFhISVB3ZS1rUFEtZXJlTXhUa29Xb2hhQmZGRDl2R0Q3SldFTkJralpIQ3ZENkRZMjdZRjhGemJSQWlnZzl4eW8": 1793137845593
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@muchtardgbella",
-      "x": "Informasi Selengkapnya Silahkan Ikuti Pelatihan Bisnis Online GRATIS Tanpa Ribet, Klik link Bio dibawah ini sekarang : 👇https://vismaya.id/pelatihan-bisnis-gratis/?ref=muchtardg.b",
-      "u": "https://www.threads.com/@muchtardgbella/post/DfAKp6mAIJ1",
-      "d": 1793114463000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -26210,10 +26207,20 @@
       "d": 1793136966000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "Sharp Luncurkan Rice Cooker Bersertifikat Halal di Indonesia - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Q2RtVWQtWnNCWm9ScENmYXJkMWpfaThmeDkzR1R5MFhISVB3ZS1rUFEtZXJlTXhUa29Xb2hhQmZGRDl2R0Q3SldFTkJralpIQ3ZENkRZMjdZRjhGemJSQWlnZzl4eW8?oc=5",
+      "d": 1793094500000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
