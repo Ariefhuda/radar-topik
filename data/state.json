@@ -22456,19 +22456,11 @@
     "threads:De-jmIxAUR5": 1793060804758,
     "threads:De-jBWxklfY": 1793060804758,
     "threads:DZE-YbmkjRs": 1793060804758,
-    "news:CBMijwFBVV95cUxNcm9heTVDUFZQemNKSzFlUE1LWUotYlBUODVpUkZxSDRLRTBwX08wdnRZWUZKTmNLaDY0UGZKY3lBTlhiWTJncHY4Ym0xOWJNOUVQM2hSS0ttN2tUb1EydG5oYUNjZ2FxTG9qdkJNc1owLVVOSUhPSW10ZG9nMmZpYkxIeG1MRjdTNzA4LXlEYw": 1793060804758
+    "news:CBMijwFBVV95cUxNcm9heTVDUFZQemNKSzFlUE1LWUotYlBUODVpUkZxSDRLRTBwX08wdnRZWUZKTmNLaDY0UGZKY3lBTlhiWTJncHY4Ym0xOWJNOUVQM2hSS0ttN2tUb1EydG5oYUNjZ2FxTG9qdkJNc1owLVVOSUhPSW10ZG9nMmZpYkxIeG1MRjdTNzA4LXlEYw": 1793060804758,
+    "news:CBMikAFBVV95cUxOWGhqeUR1eGZZd0FpTElKUkFEWjhDdWViUXZQcjQ4dG9KMkZTVlBmUkVwSlRiWGJUZExhbEw1T0FDYVVCb3RkRUlWVTlIUGIyeHBKcGxwUkVaMTFRSG4zQjlfd1BrSV95V01kVEZPS1ozZkJZUUtlREFLbkE2a0tKblVsV1JrMXNkNFZEdWg2M3c": 1793061057591,
+    "news:CBMib0FVX3lxTE1vNklob0treVltV0tUU0RpYlhNX3JldUhjRkNGR0N2NDFRbS1jYzBndERueEdndHZYdVB0UlRMSnVHNWgwYklENnE1Um43bU94dHRHWWdUcHJxazRpZ2xIM2owUk52U1UxWm5PVzRxaw": 1793061057591
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lr713",
-      "x": "Cek link di bio ya kak [Catalog Produk Digital Promo] Produknya ada di deret atas, Produk Buy 1 get more & promo 10.10. Bebas pilih sesuai kebutuhan ✨ Isinya ada: 👶 Activity anak:",
-      "u": "https://www.threads.com/@lr713/post/De92pkgk0CF",
-      "d": 1793036864000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -23958,10 +23950,20 @@
       "d": 1793060158000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Lensa Hukum",
+      "x": "Kemensos Jelaskan Cara Cek Bansos PKH dan BPNT Oktober 2026 - Lensa Hukum",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNklob0treVltV0tUU0RpYlhNX3JldUhjRkNGR0N2NDFRbS1jYzBndERueEdndHZYdVB0UlRMSnVHNWgwYklENnE1Um43bU94dHRHWWdUcHJxazRpZ2xIM2owUk52U1UxWm5PVzRxaw?oc=5",
+      "d": 1793060870000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
