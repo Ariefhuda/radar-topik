@@ -24695,19 +24695,12 @@
     "threads:DfA0jFsj2M9": 1793136338335,
     "threads:DfA0SR9FeWa": 1793136338335,
     "threads:DfA0NcJDAcb": 1793136338335,
-    "news:CBMif0FVX3lxTE5sTERRMmxYN0JqVFpCcU1rNmtpdEM3akFEY0UxdV9YUGR6TUFfYm1rUmZxWFZwSENWN2xHSkdaZWx0NXR1aWRlVkRfYjNxSDR2eUtvZVQwZ19QX1RodVlBRnp6eGRVRWF6S2JtSTZIRUpOMFhUcl9xVlR6cE1LSTg": 1793136338335
+    "news:CBMif0FVX3lxTE5sTERRMmxYN0JqVFpCcU1rNmtpdEM3akFEY0UxdV9YUGR6TUFfYm1rUmZxWFZwSENWN2xHSkdaZWx0NXR1aWRlVkRfYjNxSDR2eUtvZVQwZ19QX1RodVlBRnp6eGRVRWF6S2JtSTZIRUpOMFhUcl9xVlR6cE1LSTg": 1793136338335,
+    "threads:DaP6hQzEgc3": 1793136676370,
+    "news:CBMie0FVX3lxTFBfekJ5aVNRdUFwVjVSTWJseGRFeEpWaXBZWTJGYmpWbXJqYVJBZFRNemYwZ0FuS241Nm9yWE80dU5ETWlfTDMyRmJMWmZpSlY2Tl8tZnZsc0k1RHB1ZTh0OC1La0x2SVhUYkNvYmlXUVNGb1hOdWxzdWZCWQ": 1793136676370,
+    "news:CBMixwFBVV95cUxNNjRIS2VhS3BRMmE1M1hmOUlFS3JJUGViSzBLRUpJSXFaMzNVVmxOTGhzRkc5WTVIR2p6M0JRU2xjdGx3ZWVvVmZTam02TzhOUlJyejdPYmlzUkVsalVPTTBzTFB0UzlQVzBIbFRYYnYyaDNFZF9OY1NpZGtjMmI5RVRvbXEzYmFKcW51UHhtaU90UGU3OUVDY2xnSkhmbjJkUlNaZF96SnJLNHBQR2ZiSHMteGJjRzNvUDBGcllJdUdwbHRBbTFN0gHMAUFVX3lxTE5pNHE5LXdEM1lXekJRLWJrQUNGdjdlX1pVSFlqd0VSNlpyeUpYd1ZFNkJ2WTRCU3pXWXVOM21QaDl1di1WLVVKT3ktSjdUV1o2WnV4UGE5aXJZQlVObDd2Z3daX2FzRWlvcmhvcDloeE1rbGI2b2ZXMXBsWmFHblBCWnRoRkNlMzVabms5SVpsakhOZFZRRWIxUmc4MGMwSXJHLW8xNnZhbXUzX1VuUXdMX0UwNFpXenN1VVhsTXFNak5sLUhSNS1Zd195Ug": 1793136676370
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "rmol jateng",
-      "x": "Nicholas Saputra Soroti Kerusakan Hutan dan Banjir Sumatra - rmol jateng",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3V2QkdBMlFkVGswdUt5MW1ONGtnQkhrQUhWNmt3Yl9BNndDQXhTdVgxeW0wY0JranlxZzVlTmEyWlR3LUNOZHp1UUtyUW52eHhKamZ0N0FHNl9lZ0UxQ0xyM1pMOHE0RWpYb3ZjOW9PUTRXWmtWeWo5ZUU3QUIyUkFwdGo4S2UyZGVGckJoR0hQdw?oc=5",
-      "d": 1793091807000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -26197,10 +26190,20 @@
       "d": 1793135305000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Radar Tulungagung",
+      "x": "Beasiswa Australia 2026: Peluang Kuliah S2-S3 Gratis, Simak Panduan AAS - Radar Tulungagung",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjRIS2VhS3BRMmE1M1hmOUlFS3JJUGViSzBLRUpJSXFaMzNVVmxOTGhzRkc5WTVIR2p6M0JRU2xjdGx3ZWVvVmZTam02TzhOUlJyejdPYmlzUkVsalVPTTBzTFB0UzlQVzBIbFRYYnYyaDNFZF9OY1NpZGtjMmI5RVRvbXEzYmFKcW51UHhtaU90UGU3OUVDY2xnSkhmbjJkUlNaZF96SnJLNHBQR2ZiSHMteGJjRzNvUDBGcllJdUdwbHRBbTFN0gHMAUFVX3lxTE5pNHE5LXdEM1lXekJRLWJrQUNGdjdlX1pVSFlqd0VSNlpyeUpYd1ZFNkJ2WTRCU3pXWXVOM21QaDl1di1WLVVKT3ktSjdUV1o2WnV4UGE5aXJZQlVObDd2Z3daX2FzRWlvcmhvcDloeE1rbGI2b2ZXMXBsWmFHblBCWnRoRkNlMzVabms5SVpsakhOZFZRRWIxUmc4MGMwSXJHLW8xNnZhbXUzX1VuUXdMX0UwNFpXenN1VVhsTXFNak5sLUhSNS1Zd195Ug?oc=5",
+      "d": 1793104827000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
