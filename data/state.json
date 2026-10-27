@@ -24691,19 +24691,13 @@
     "threads:DfAywX_E1Id": 1793135745370,
     "threads:DfAyvRBk4fM": 1793135745370,
     "threads:DfAyzM5kvPT": 1793136042247,
-    "news:CBMiZ0FVX3lxTE1ENlNWSWlscE9jdmt0WklQcFd6bVJLaldsSlhobk1Ua2luRXZ1TDBUVGEwb2o3TTlwMlhqdkNNYjF4V3JQaHByb29oTl9FS01fbzRyTV9jSkZYNWFsNHpCQ1FLSmhyU0k": 1793136042247
+    "news:CBMiZ0FVX3lxTE1ENlNWSWlscE9jdmt0WklQcFd6bVJLaldsSlhobk1Ua2luRXZ1TDBUVGEwb2o3TTlwMlhqdkNNYjF4V3JQaHByb29oTl9FS01fbzRyTV9jSkZYNWFsNHpCQ1FLSmhyU0k": 1793136042247,
+    "threads:DfA0jFsj2M9": 1793136338335,
+    "threads:DfA0SR9FeWa": 1793136338335,
+    "threads:DfA0NcJDAcb": 1793136338335,
+    "news:CBMif0FVX3lxTE5sTERRMmxYN0JqVFpCcU1rNmtpdEM3akFEY0UxdV9YUGR6TUFfYm1rUmZxWFZwSENWN2xHSkdaZWx0NXR1aWRlVkRfYjNxSDR2eUtvZVQwZ19QX1RodVlBRnp6eGRVRWF6S2JtSTZIRUpOMFhUcl9xVlR6cE1LSTg": 1793136338335
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Elshinta",
-      "x": "Cara cek PBI JK 2026 lewat HP pakai NIK - Elshinta",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnZpd2pFbE5xZ2V0c0Z3SEY4bXhreUx6b20yYzdmbm83ZHoxNTJnemwxX0Y1ODBEZHE0TjBSck9KaHp3cnNyVTlaMWZDZzFRWVpGRUhhWXRmODFUZFc3OVJScjM4Z0tOVlNYb1NjSW12aFhxYkJNdGgwR1NvTnp2ZnJjWkhEQnpl?oc=5",
-      "d": 1793098218000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26193,10 +26187,20 @@
       "d": 1793135509000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "JournalArta",
+      "x": "Cara Cek Penerima Bansos PKH & BPNT Kemensos Online Pakai NIK KTP - JournalArta",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sTERRMmxYN0JqVFpCcU1rNmtpdEM3akFEY0UxdV9YUGR6TUFfYm1rUmZxWFZwSENWN2xHSkdaZWx0NXR1aWRlVkRfYjNxSDR2eUtvZVQwZ19QX1RodVlBRnp6eGRVRWF6S2JtSTZIRUpOMFhUcl9xVlR6cE1LSTg?oc=5",
+      "d": 1793135305000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
