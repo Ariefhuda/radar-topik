@@ -24410,59 +24410,19 @@
     "threads:DfATK-ajFM9": 1793119251148,
     "threads:DfATIBRm4KQ": 1793119251148,
     "threads:DfAS62uiI1X": 1793119251148,
-    "news:CBMiZkFVX3lxTE5CaU9PRnd2dlRNSDBhTGQ2Uy0tdXY2YXdBTENaM1BhSy1xdHlybWtLdkN6WHdkVi1fUFF4MkdlRUl6U0VfWGxSMkdudW9Ta092WC11amNicGJyejc3RGhKN3JLOEd2QQ": 1793119251148
+    "news:CBMiZkFVX3lxTE5CaU9PRnd2dlRNSDBhTGQ2Uy0tdXY2YXdBTENaM1BhSy1xdHlybWtLdkN6WHdkVi1fUFF4MkdlRUl6U0VfWGxSMkdudW9Ta092WC11amNicGJyejc3RGhKN3JLOEd2QQ": 1793119251148,
+    "threads:DfAUqO7klCx": 1793120051103,
+    "threads:DfATggOkuh2": 1793120051103,
+    "threads:DfATCLmjMXC": 1793120051103,
+    "threads:DE9x4ylhjvj": 1793120051103,
+    "news:CBMilgFBVV95cUxPa0hQQUxCWWZvNEJpWmptRkNNbklvbEJVaHlVbXJIbnJPRnRSR2tsZlBhUHdtb1JYZTVNdGNwaFlUa3p0OWxVSGEtZElIdnVaX19pS20zanRDaE0wbjFEd1hBRDg5WUJXRVctSmZtalhMOXA2eGdXekdwenF6RU1LdVNIQVdmUkw3bXBIWlJWQjJlRmRwRVE": 1793120051103,
+    "news:CBMioAFBVV95cUxNMjhSRC0zN0NuSF9fcUJpRk9wTXp5SlFfbE91LXlCTVU2WnhDZGpNVlpEWE1yMnNGc1d0aGNYMG9MbUpGZ2dmYUZmV1dsUEFRTkpab3Q2dlZBbTdwUEd5ckVNQVdnOTllSTZ1RV9EelhBMTFjVUpiTEg0b0lyVFJXSHByNURNSW11Szl5MGduRTlaZzFmYjBSWmNITW56ZEhL": 1793120051103,
+    "news:CBMiqAFBVV95cUxOTVNXbTN0M0g0bkVlYVlobGc3SU5nbVZjNWVMSjRna2NYdHhtdUxxMGpIUDR2UkdreE1zUG91R1lHb01yR1Q0MEZsQ3p1bG9UWFdVa1ZiZmpYQnNncG9WN0c1NXFjM3gwd1RvMDBROGVzcXA0TmpTV0ZfNUdlQ1d5TTZLbFBuMXNVNXhkdC1NbV9jQU1CcDR0ZUVPYUtPbTlhdjJhTDZOT3Y": 1793120051103,
+    "news:CBMikAFBVV95cUxPdXhnSUNMaGVTZjJiQmRHNHJrdldiTDZCQTN4ZndlMDZON2VVSXEtSW1mYmVoMndmY1RKeWtRQ050TVhMc0dYTnhjLWJsemNwcDNjdWI2TzJhNFhyVVpqQjdqZWl0bWxLeWN0dm80V1Y4cTU1VXJSTXhXaEs0QWxxT2ZrMHljR1ZuWVdZUWVoVDU": 1793120051103,
+    "news:CBMi0gFBVV95cUxPYkY2cnY3ZnZrTjNuRFRIV3lRYzJOVXpDUmlYX1pteFhfMVFXaElFb3ZvT2VTVDZ5QlJKNm5jWWNiRzEyb3ZlR1JGN2JoMk9YY05Od3hUcmhEUm81QUJtem94T09ZNHN0Z2Y0RlEtQTRJX3FNcElLZlFwZEdvd2FQemZsaUFMYzFNc1gydHJCeERUSU41cE9zZVpzeU92T1dSWmFmUHdZbkdtLWVkZ3RuNHNyX2pRUUtBMmxBNTJHZGF0Z2hkdHRaM1dhcEF2eFhkbUHSAdcBQVVfeXFMTVpidlhEQmRnQ2Z1a1hsMVhDVUJPekZOcElZNTJZZDR5czc3ZmZjd3ZyNVh3YkFvMXpNTXFrWjZfcDc5ODk0WEIyWUVWc29DODVUcjROZE1RVDNuVm9YcGFSaWtnbWo3NWdaU3Y0dUZFNENYZ2F2bkp1T3Y4UWFsbjRMeHktYmpZaWk2c053WWpaWW9NQjQ3VzgwdmdlRGE4dEVDRjE0dFFHeTdqdmZ1U3V1RzNfQnlJaEliTGRrbERYZWJIVDhjT2hYY21VeFJxak1RS2RFSlE": 1793120051103,
+    "news:CBMikgFBVV95cUxPcWdpTXd1a013VUlMN0ZseXRSNzRraGxCRWxYY2ZZckZRd3NUN2MzZlFIN2dEcVM0Q3U2VV83b3JqSG5ncFo2a3ZZdWg3bHk0a1JzMm8zS1dmNWUwWkUwV0t3RzVWRzd3UTJMQVJ5SVExcFFocnJKVnJvcWlnaXJKQXZ5OVpYUDZSd3Q2Q0hOM1lLQdIBkAFBVV95cUxNOGRpdllveGZDdEloVENlelQyd2N5dHZrd21rZFdYN25XVy1ld1BlbEh1T190TjNiLTJhUVJqU2xPUHY3NDdndjdXTU1EYVY5ejFVdVFUVlE4cFZsNEJiMmhLTTU4LUZTaE5iSjRWY05HaXFhOUZEMl9PcXFXTWxsZ3BWV3ZQZmRQSHBMblU3Mkc": 1793120051103
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Beasiswa Korea 2026: Peluang Kuliah Gratis di Korea Selatan, Ini Syarat Bahasa yang Perlu Diketahui. - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYnBkMGdmUHQxWVdWLTdYVEhsSzNYald3S1pGVG90VUw3QXl3SnBkdi1iRGhfR01nQnRfd2Z2U3p1S0FvekFNRk5hdjVQVV9SeGw3U0RvNnZYRGMtVnRMQU00d2pPeFhWV3BUVUtOSHRudFNxUmNZZ24xbm55a2tDR2dyQzI2ZkUyVW5yczdvWFNqZ2hLVXYzWFY4dWg3OWxZSEpCX29iUFRPTTdkLWNvdmtVN0tZeEJuUi1JSEMzazJKZzFlUF9uSGJ6ZktJRGhKV2MycUJhTDFpeDNlaTBlVzRsa05MUEIydE1GUzUxZXZEQdIB8gFBVV95cUxPYnBkMGdmUHQxWVdWLTdYVEhsSzNYald3S1pGVG90VUw3QXl3SnBkdi1iRGhfR01nQnRfd2Z2U3p1S0FvekFNRk5hdjVQVV9SeGw3U0RvNnZYRGMtVnRMQU00d2pPeFhWV3BUVUtOSHRudFNxUmNZZ24xbm55a2tDR2dyQzI2ZkUyVW5yczdvWFNqZ2hLVXYzWFY4dWg3OWxZSEpCX29iUFRPTTdkLWNvdmtVN0tZeEJuUi1JSEMzazJKZzFlUF9uSGJ6ZktJRGhKV2MycUJhTDFpeDNlaTBlVzRsa05MUEIydE1GUzUxZXZEQQ?oc=5",
-      "d": 1793099090000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Beasiswa Inggris 2026 Dibuka, Dana Rp230 Juta untuk Kuliah S2 di 12 Universitas - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSTJ2VVlpQUdvaGhKX21GeDRVZXF6d2VfNXNiREN0WWZVak84S000YVlsa29MS3JuanF1NEV4RS1sRFNKNG9TcFgtbTlId3ZVeGxrSWtnN3RVOXljWjBXelAwc25WZXB4WWQ1bmdpU2I4OFRaYkZkWmtzTENkMEFQRUhWbkFEUjVjMktNWXdWTHZ4NVM0bU9pNUc0Nk9Td1FfU3dOWEZPckJHbWpwLXRXM3dWRlBjMFFPNG9PZWd1MV8zaDNTamRiMGJqZjlPN2J2VFpR0gHYAUFVX3lxTE4yZ2tCd3M4RWxZeTI4aS1zdjR3MUczTGNwNmY5dUtfSGxaekJEVXpVYUVPQ0VuWnpJWTFZbnVyNHZQZUc1YkZvSDlJVEt3RWYtNHVVaGl2WUJKNTdYZXh4RHo3WVI1alNwOHIya1VqYm4tX3liWFVwbWIxbWZXSnhuS1NTNnFKSmZRTnBtQUVlVTdGeFFzTFp2LWlfV2xqc0VRQU43MlV2RnlFZU9IXzlFV1JLTU0xcnJXMVYtS181emk3MWswNHl1ellQSXR5eTZmVTNXeGpEVA?oc=5",
-      "d": 1793100963000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Beasiswa Amerika 2026: 3 Kesalahan Persiapan yang Bisa Menghambat Peluang Kuliah S2 - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeGhkWHJMbkhkZDhKdU5PRDRlOGRoRkQzU0ZwSXFwNXVJUlVvcHJlYlRhUjYxdmFoVUh5QzhSNDFsejJZUXA2LUhLSlBUTGNtMGs0YUZpdGstcEw5aEpwYWxoRFdPaTdnUVVyb2V1c0tzNWdpckZmY0ZKRmxOM1YtdzREMEw3cWdJLTdKUG0xY0VaNXpGVmZtbGpkeHg1eEoydl9vZW8zTi1zN1RSc1JEb1dHajBRZHFCYkxZeGpPQmpKYmFJenljU1QxTXpqOUZudl9pcFcxd1DSAd4BQVVfeXFMTksxNzRUUm5Tb0JIQ3lnLXJmS2FkNUR3VWdNUzJtYkZpUlJRZXlJbGJpNTV6UlNEWmRIX3Y5Sk1kZ19TNFhCYmVmM1dQUndzc3NkNGdaM0JBck8xN3RYV2huX3dXTG1tMVYtYUszVFY1NFBSUHBreFpLeFhudWRkc0VXUnhjZ19DLVNIcGQ0ejl4Tks3ZElBYzVBU3M5djdnRzlheF91S0JfcWd1UHA0MW5ta3k0Sk84UFk5R3FJbjNkYnVQLWM0M0xlbzJ6dk81UHdfRkFlY2Vfem5yVXpn?oc=5",
-      "d": 1793100539000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Beasiswa Australia 2026: Kisah Penerima AAS dan Strategi Lolos Seleksi - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRW1PS0QtOHZiYjg4UXZObEFCYVJzOVhNMWRyTnZMWU94NGVyeFNVU0Zjalg1MmQ2NGIteGtYcHQxSzVQaGkxOHA2NTd3TWpMMWNWaUdOZFQ5OExWYklaQ0dNOEVfb0U4N3Y0RFZuVmdqeWEtUmVqaDZrUzNSa2dQMVFYS0Zna3VhT2RSZW5SVEhIS0Jsanp1dzdhN2otbjRKaUx5aFNYclNtcGVzdkdCZFFMNmlBOVhFclVEdFA5T1QxZ1NPdGlj0gHMAUFVX3lxTE1EOGJsNW93V05yYm9mZkxoZm9MZWJiWVdhcm53YnZmUGFIX2tRUE9Ccm0wY25WVWZMaVQ2SzhUWEJJRE9Xc3FTczJFVEctSnlmYjJ4NEJoemx0MkVBX19nSkRvSkZEMWdMWlkyN0xIZzdOY3gzbFBzX3pjaWc5MkppSDJQd3V3SlRpazEtdm9lUkNNV1ZvWTlBT3lDN04tQVZUbmlHQXl6S0V3MldyY1Bka3NYdW5yanVXcEE4aGM0NkM1bGU2VkEwVUZkbw?oc=5",
-      "d": 1793104343000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Beasiswa Jepang 2026: MEXT Tawarkan Kuliah Gratis hingga S3, Ini Jalur dan Cara Daftarnya - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaURWeUd1eFZWQWkwanBMcDl1cWNJT0NtaWJNSjYzeEpjbXFERFhYYUl6TEg0SmljMkY1LVRkZG1kNlR3LVJ2V2JMWkJzWVlmLWVFZGZHcG5rSEdsMGNPaU1EU29jbjl6WHA5Yk9pOWVGZGktZGtFX2lHcTJWck1vRmRFUkp0c3hyM1JJSzFhTC1yazJlN0F6ZG5meWN0MUNEMlpvcnNwN2FQV0YzZ0lBUUpLSUk4U3Z5djZudFNRWXloMGxOVnJXUnpHa2dGTEVTMExKVjBKM3ZBcWx5SnNabERPaDHSAeQBQVVfeXFMTmlEVnlHdXhWVkFpMGpwTHA5dXFjSU9DbWliTUo2M3hKY21xRERYWGFJekxINEppYzJGNS1UZGRtZDZUdy1SdldiTFpCc1lZZi1lRWRmR3Bua0hHbDBjT2lNRFNvY245elhwOWJPaTllRmRpLWRrRV9pR3EyVnJNb0ZkRVJKdHN4cjNSSUsxYUwtcmsyZTdBemRuZnljdDFDRDJab3JzcDdhUFdGM2dJQVFKS0lJOFN2eXY2bnRTUVl5aDBsTlZyV1J6R2tnRkxFUzBMSlYwSjN2QXFseUpzWmxET2gx?oc=5",
-      "d": 1793102411000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -25912,10 +25872,60 @@
       "d": 1793118677000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Delegasi Arab Saudi, Pakistan, dan Turki Temui Presiden Iran di Teheran - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjhSRC0zN0NuSF9fcUJpRk9wTXp5SlFfbE91LXlCTVU2WnhDZGpNVlpEWE1yMnNGc1d0aGNYMG9MbUpGZ2dmYUZmV1dsUEFRTkpab3Q2dlZBbTdwUEd5ckVNQVdnOTllSTZ1RV9EelhBMTFjVUpiTEg0b0lyVFJXSHByNURNSW11Szl5MGduRTlaZzFmYjBSWmNITW56ZEhL?oc=5",
+      "d": 1793113148000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "DPO Penembakan Karyawan Freeport Ditangkap, Polisi Amankan 4 Orang di Mimika - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVNXbTN0M0g0bkVlYVlobGc3SU5nbVZjNWVMSjRna2NYdHhtdUxxMGpIUDR2UkdreE1zUG91R1lHb01yR1Q0MEZsQ3p1bG9UWFdVa1ZiZmpYQnNncG9WN0c1NXFjM3gwd1RvMDBROGVzcXA0TmpTV0ZfNUdlQ1d5TTZLbFBuMXNVNXhkdC1NbV9jQU1CcDR0ZUVPYUtPbTlhdjJhTDZOT3Y?oc=5",
+      "d": 1793111880000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Harry Kane Kalahkan Mbappe dan Yamal, Raih Ballon d’Or 2026 - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXhnSUNMaGVTZjJiQmRHNHJrdldiTDZCQTN4ZndlMDZON2VVSXEtSW1mYmVoMndmY1RKeWtRQ050TVhMc0dYTnhjLWJsemNwcDNjdWI2TzJhNFhyVVpqQjdqZWl0bWxLeWN0dm80V1Y4cTU1VXJSTXhXaEs0QWxxT2ZrMHljR1ZuWVdZUWVoVDU?oc=5",
+      "d": 1793068504000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Ayo Semarang",
+      "x": "Nama Dicoret dari Penerima Bansos 2026? Ini Arti Status Exclude dan Cara Memperbaiki Data KPM - Ayo Semarang - Ayo Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYkY2cnY3ZnZrTjNuRFRIV3lRYzJOVXpDUmlYX1pteFhfMVFXaElFb3ZvT2VTVDZ5QlJKNm5jWWNiRzEyb3ZlR1JGN2JoMk9YY05Od3hUcmhEUm81QUJtem94T09ZNHN0Z2Y0RlEtQTRJX3FNcElLZlFwZEdvd2FQemZsaUFMYzFNc1gydHJCeERUSU41cE9zZVpzeU92T1dSWmFmUHdZbkdtLWVkZ3RuNHNyX2pRUUtBMmxBNTJHZGF0Z2hkdHRaM1dhcEF2eFhkbUHSAdcBQVVfeXFMTVpidlhEQmRnQ2Z1a1hsMVhDVUJPekZOcElZNTJZZDR5czc3ZmZjd3ZyNVh3YkFvMXpNTXFrWjZfcDc5ODk0WEIyWUVWc29DODVUcjROZE1RVDNuVm9YcGFSaWtnbWo3NWdaU3Y0dUZFNENYZ2F2bkp1T3Y4UWFsbjRMeHktYmpZaWk2c053WWpaWW9NQjQ3VzgwdmdlRGE4dEVDRjE0dFFHeTdqdmZ1U3V1RzNfQnlJaEliTGRrbERYZWJIVDhjT2hYY21VeFJxak1RS2RFSlE?oc=5",
+      "d": 1793111551000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Disway",
+      "x": "Bukan Bansos, Menko Muhaimin Dorong Pemberdayaan Masyarakat - disway.id - Disway",
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcWdpTXd1a013VUlMN0ZseXRSNzRraGxCRWxYY2ZZckZRd3NUN2MzZlFIN2dEcVM0Q3U2VV83b3JqSG5ncFo2a3ZZdWg3bHk0a1JzMm8zS1dmNWUwWkUwV0t3RzVWRzd3UTJMQVJ5SVExcFFocnJKVnJvcWlnaXJKQXZ5OVpYUDZSd3Q2Q0hOM1lLQdIBkAFBVV95cUxNOGRpdllveGZDdEloVENlelQyd2N5dHZrd21rZFdYN25XVy1ld1BlbEh1T190TjNiLTJhUVJqU2xPUHY3NDdndjdXTU1EYVY5ejFVdVFUVlE4cFZsNEJiMmhLTTU4LUZTaE5iSjRWY05HaXFhOUZEMl9PcXFXTWxsZ3BWV3ZQZmRQSHBMblU3Mkc?oc=5",
+      "d": 1793112720000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
