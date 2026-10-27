@@ -24698,19 +24698,10 @@
     "news:CBMif0FVX3lxTE5sTERRMmxYN0JqVFpCcU1rNmtpdEM3akFEY0UxdV9YUGR6TUFfYm1rUmZxWFZwSENWN2xHSkdaZWx0NXR1aWRlVkRfYjNxSDR2eUtvZVQwZ19QX1RodVlBRnp6eGRVRWF6S2JtSTZIRUpOMFhUcl9xVlR6cE1LSTg": 1793136338335,
     "threads:DaP6hQzEgc3": 1793136676370,
     "news:CBMie0FVX3lxTFBfekJ5aVNRdUFwVjVSTWJseGRFeEpWaXBZWTJGYmpWbXJqYVJBZFRNemYwZ0FuS241Nm9yWE80dU5ETWlfTDMyRmJMWmZpSlY2Tl8tZnZsc0k1RHB1ZTh0OC1La0x2SVhUYkNvYmlXUVNGb1hOdWxzdWZCWQ": 1793136676370,
-    "news:CBMixwFBVV95cUxNNjRIS2VhS3BRMmE1M1hmOUlFS3JJUGViSzBLRUpJSXFaMzNVVmxOTGhzRkc5WTVIR2p6M0JRU2xjdGx3ZWVvVmZTam02TzhOUlJyejdPYmlzUkVsalVPTTBzTFB0UzlQVzBIbFRYYnYyaDNFZF9OY1NpZGtjMmI5RVRvbXEzYmFKcW51UHhtaU90UGU3OUVDY2xnSkhmbjJkUlNaZF96SnJLNHBQR2ZiSHMteGJjRzNvUDBGcllJdUdwbHRBbTFN0gHMAUFVX3lxTE5pNHE5LXdEM1lXekJRLWJrQUNGdjdlX1pVSFlqd0VSNlpyeUpYd1ZFNkJ2WTRCU3pXWXVOM21QaDl1di1WLVVKT3ktSjdUV1o2WnV4UGE5aXJZQlVObDd2Z3daX2FzRWlvcmhvcDloeE1rbGI2b2ZXMXBsWmFHblBCWnRoRkNlMzVabms5SVpsakhOZFZRRWIxUmc4MGMwSXJHLW8xNnZhbXUzX1VuUXdMX0UwNFpXenN1VVhsTXFNak5sLUhSNS1Zd195Ug": 1793136676370
+    "news:CBMixwFBVV95cUxNNjRIS2VhS3BRMmE1M1hmOUlFS3JJUGViSzBLRUpJSXFaMzNVVmxOTGhzRkc5WTVIR2p6M0JRU2xjdGx3ZWVvVmZTam02TzhOUlJyejdPYmlzUkVsalVPTTBzTFB0UzlQVzBIbFRYYnYyaDNFZF9OY1NpZGtjMmI5RVRvbXEzYmFKcW51UHhtaU90UGU3OUVDY2xnSkhmbjJkUlNaZF96SnJLNHBQR2ZiSHMteGJjRzNvUDBGcllJdUdwbHRBbTFN0gHMAUFVX3lxTE5pNHE5LXdEM1lXekJRLWJrQUNGdjdlX1pVSFlqd0VSNlpyeUpYd1ZFNkJ2WTRCU3pXWXVOM21QaDl1di1WLVVKT3ktSjdUV1o2WnV4UGE5aXJZQlVObDd2Z3daX2FzRWlvcmhvcDloeE1rbGI2b2ZXMXBsWmFHblBCWnRoRkNlMzVabms5SVpsakhOZFZRRWIxUmc4MGMwSXJHLW8xNnZhbXUzX1VuUXdMX0UwNFpXenN1VVhsTXFNak5sLUhSNS1Zd195Ug": 1793136676370,
+    "threads:DfA0drojwdo": 1793136943456
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@zahranaiim",
-      "x": "iya sama kak, ak lewat cek bansos ga ada suruh masukin surat gtu. bahkan sebelumnya lewat dtsen juga ga ada suruh isi surat karna isinya sama spt di cek bansos",
-      "u": "https://www.threads.com/@zahranaiim/post/DfAJH4qj1MD",
-      "d": 1793113658000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -26200,10 +26191,20 @@
       "d": 1793104827000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Iya itu yang viral kemarin - ajudan Gubernur Kaltim Asky Rizal Toding kecatat desil 1, dan Mensos sendiri bilang itu error data yang jadi bahan pemutakhiran DTSEN. Bisa kejadian ka",
+      "u": "https://www.threads.com/@meta.ai/post/DfA0drojwdo",
+      "d": 1793136381000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
