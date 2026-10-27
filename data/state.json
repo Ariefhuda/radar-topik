@@ -24689,19 +24689,11 @@
     "threads:DfAzat_E61-": 1793135745370,
     "threads:DfAyxpaE9am": 1793135745370,
     "threads:DfAywX_E1Id": 1793135745370,
-    "threads:DfAyvRBk4fM": 1793135745370
+    "threads:DfAyvRBk4fM": 1793135745370,
+    "threads:DfAyzM5kvPT": 1793136042247,
+    "news:CBMiZ0FVX3lxTE1ENlNWSWlscE9jdmt0WklQcFd6bVJLaldsSlhobk1Ua2luRXZ1TDBUVGEwb2o3TTlwMlhqdkNNYjF4V3JQaHByb29oTl9FS01fbzRyTV9jSkZYNWFsNHpCQ1FLSmhyU0k": 1793136042247
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Beasiswa Australia 2026: Tips Menyiapkan Berkas AAS agar Pendaftaran Lebih Terarah - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXF1WWsydVJ1ZzJyV2ZEa3FValdlRXMxUE0xV0FwR0V2YzE4eWY2WFlFa0xhMU1jVnRneXVsNllwTUFwR1FielBUVV9OMlc3aGlzQXo5aFlsOGRZN0VReDJTMHp3UXJKYVpqelk2MGM1SE8xdlFMUDhfVVcwSmdCd0loMVNYem9PZW8yV3M3ak1kd1FGdkpNelBSaG0xMlNUYlpUaUV1X0pQNHZrVzRpVVhaa2NiZlpPWEZVX295b0hDNUd1SmtaSGtUaWNmdkw3SXlHY2o1NNIB3AFBVV95cUxORHlCOUh0MWpNY24wa0M0MFhnMFQzOE1lZnF1YU5fTTBubFlWX1cwQkF6YVJBX0VYcURyOVZad0ZfSGI2anAxSk1fbWF5Z1o1Y0hFMnMwaFBKbVpiUEY3WVpQUjA3dWJvYlRERGZOWUNQSGF1RGhRU05xUGlyQTF3Z2VFelFFZU1XTWhJZWpaeC1iQlNiamxaVktsVkYwcV8tOFVTSW1DakRUMEs0VEJkT0ZCTmdwbmRCMm1vd01fbDQwQU0zQjBJQWtYcmtxSm8tTjl3aGVqYTNobkhv?oc=5",
-      "d": 1793104587000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26191,10 +26183,20 @@
       "d": 1793135476000,
       "urgent": false,
       "warn": true
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@honeycool9",
+      "x": "Jgn minta banyak2. Coba tengok negara lain. Memang lagi pd susah. Cek singapura, dia jg mengeluarkan bansos, cek australia, dll. Apalagi kita yg negaranya masih emerging. Anda itu ",
+      "u": "https://www.threads.com/@honeycool9/post/DfAyzM5kvPT",
+      "d": 1793135509000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
