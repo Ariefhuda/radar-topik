@@ -22704,7 +22704,11 @@
     "threads:De-yZ-Hk1GX": 1793068594519,
     "threads:De-yV_0E2Iz": 1793068594519,
     "news:CBMitgFBVV95cUxNamp2aVNXcFpUVkludkFHLXRWM2VyUmMtYkY1cWk0bHA4UGdfZVI3MEY4dzYxd2djemVUSEloYVktbndfeENLQ3BYQ2dBTnJHWkwxNjFqd1dfWkR2b0lhSUViRW9tdWplb3o3Z0h0ZGpDQXdpOHJheEFJX0t1SzNyM1RfcWRqcFhOemZzUTJOQlRzaVdxRldJdU5uMy1tZGV5cUlxU18wNU9HUEN3alJEUW9lbnlOUdIBtgFBVV95cUxNamp2aVNXcFpUVkludkFHLXRWM2VyUmMtYkY1cWk0bHA4UGdfZVI3MEY4dzYxd2djemVUSEloYVktbndfeENLQ3BYQ2dBTnJHWkwxNjFqd1dfWkR2b0lhSUViRW9tdWplb3o3Z0h0ZGpDQXdpOHJheEFJX0t1SzNyM1RfcWRqcFhOemZzUTJOQlRzaVdxRldJdU5uMy1tZGV5cUlxU18wNU9HUEN3alJEUW9lbnlOUQ": 1793068594519,
-    "news:CBMiaEFVX3lxTE1HMEg0T0htRXNoM0JHNWtsTXBVU1FaQ2RMdHJJVEc4ejFKZkxLZ2luRVpodC05TjlpRWtFcXBfd2w3SzhJamZ0U0pmQ2hBbmxVVnlXVENXZXZPNnhIQTljX1h2S21zdWlM": 1793068594519
+    "news:CBMiaEFVX3lxTE1HMEg0T0htRXNoM0JHNWtsTXBVU1FaQ2RMdHJJVEc4ejFKZkxLZ2luRVpodC05TjlpRWtFcXBfd2w3SzhJamZ0U0pmQ2hBbmxVVnlXVENXZXZPNnhIQTljX1h2S21zdWlM": 1793068594519,
+    "threads:De-zOfEEdRO": 1793068839648,
+    "threads:De-x_EmExNh": 1793068839648,
+    "threads:De-y7ckD5Oh": 1793068839648,
+    "news:CBMijgFBVV95cUxPMGNfcHBGSHU1Y2FFUHpaQkZncW0yVmsyZjJRTzhZaUlaT2sxQWpxUXg5VG01NG11RnhIanNDVU5Na0U2VjdLNEdKaEt6RVF6RWI3MkVXUWEyVGlnampOYkdnT2gwQ0F0aHlaTlMtUldxR1Z3QTBWRThCNEtGamJIX1FPNGRtNTM1ci1JOW5n": 1793068839648
   },
   "digest": [
     {
@@ -23536,10 +23540,40 @@
       "d": 1793067738000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arshad.capital",
+      "x": "Update mini seminar XAUUSD. Saat ini sudah ada 5 orang yang mendaftar. Saya berencana membatasi pertemuan ini sekitar 10 orang saja supaya kita bisa berdiskusi lebih dekat. 📍 Cent",
+      "u": "https://www.threads.com/@arshad.capital/post/De-x_EmExNh",
+      "d": 1793067973000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@baznasindonesia",
+      "x": "Beasiswa Cendekia BAZNAS Timur Tengah 2026 Segera Dibuka! Buat #SahabatBAZNAS yang sedang menempuh pendidikan jenjang S1 atau S2 di Libya, Maroko, Mesir, Suriah, Tunisia, Turkiye, ",
+      "u": "https://www.threads.com/@baznasindonesia/post/De-y7ckD5Oh",
+      "d": 1793068606000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bukamata.id",
+      "x": "Bansos Oktober 2026 Belum Cair, Jangan Panik! Ini yang Perlu Dicek - Bukamata.id",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGNfcHBGSHU1Y2FFUHpaQkZncW0yVmsyZjJRTzhZaUlaT2sxQWpxUXg5VG01NG11RnhIanNDVU5Na0U2VjdLNEdKaEt6RVF6RWI3MkVXUWEyVGlnampOYkdnT2gwQ0F0aHlaTlMtUldxR1Z3QTBWRThCNEtGamJIX1FPNGRtNTM1ci1JOW5n?oc=5",
+      "d": 1793044800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
