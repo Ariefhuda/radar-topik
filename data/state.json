@@ -24737,19 +24737,16 @@
     "threads:DYQVGI-DFf0": 1793139049379,
     "threads:DRi2AESEmQa": 1793139049379,
     "threads:DfA5Poyk3eh": 1793139049379,
-    "threads:DfA5FTBkyRk": 1793139049379
+    "threads:DfA5FTBkyRk": 1793139049379,
+    "threads:Dde6SPimK8v": 1793139346558,
+    "threads:DcU9uqRE0RM": 1793139346558,
+    "threads:DfA6FQFji5o": 1793139346558,
+    "threads:DfA6FspjbIF": 1793139346558,
+    "threads:DfA5m6bE5rV": 1793139346558,
+    "threads:DfA5HKeEyon": 1793139346558,
+    "news:CBMitwFBVV95cUxNSnVwWUZqaHE3MEdKcG0zZnQ5UUNHbGxzUUdwUXpFM1IzeW41Vy0yUXdMNFUwQ2d0UGhqOFdKZ3BnNlpwM1pLa3M1emZvX1BnVWFIS1RuN282ZmVzM1drRUZaWm5UVEF0Vnk0X3lUbjNodGpESW9aMnhxbGhaOTlIeFppVmN3aXRCVlVNSnQ1YkVFN2tTWmltX0pQQzZHNFRhWmlMNDhMekpXa0hRd0xxemlNM3ZuMjTSAbwBQVVfeXFMTjNZSW9TNWRPLUxFdEhPTUstM185RlpZSUdDTkI5NXZ1Qzc2WHNXTWI2RWhhdUZiSzE1OHpHOWRZdjFCX2N1cFY5OXljQmVzcEVkbDRFV2Z6eDBaSm16MFY4Xzd1cW9xTFVZV21vWjVYRWdHVE5QNHlCU3BsQTJnUnZWSjhYTVRQSi0yc21kZ1lJbnZTWkpJclQyMzJWN0pZRkxrX3BfZF91b2EtZDg2b2ZKaGZrNlotUElKc0U": 1793139346558
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Journalist Independent",
-      "x": "Luhut Targetkan 100 Juta Penerima Bansos Terdaftar di Sistem Digital pada 10 November - Journalist Independent",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWxQem1IUEJTck5KWEZ6TDlrVUZPY2ttd0tsMEFkWnJVTGl1NE5Uc2x1T0ZXRHpjcjJQdFBuOXpnU19fQzFjMGwwUVpOcTlMZGl3OVNMTUx5ekFHd3FINFRwckpzVlBmM0VfWWstNEo0SFBSdndFeTN0M1dMTllCc3RFM3RYQ3Exc2Qzb2VrVTdhTnd4SjVUak1NWU1fWjdjcGhZZ2xQOHNELVo0RDlLbVlRNkNrZHZabU4tc3llOVUzUExSaTB5dW53NA?oc=5",
-      "d": 1793114542000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -26239,10 +26236,20 @@
       "d": 1793138803000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Dua Cara Cek Pencairan Bansos Tahap 4 2026 Tanpa Bolak-Balik ke ATM - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnVwWUZqaHE3MEdKcG0zZnQ5UUNHbGxzUUdwUXpFM1IzeW41Vy0yUXdMNFUwQ2d0UGhqOFdKZ3BnNlpwM1pLa3M1emZvX1BnVWFIS1RuN282ZmVzM1drRUZaWm5UVEF0Vnk0X3lUbjNodGpESW9aMnhxbGhaOTlIeFppVmN3aXRCVlVNSnQ1YkVFN2tTWmltX0pQQzZHNFRhWmlMNDhMekpXa0hRd0xxemlNM3ZuMjTSAbwBQVVfeXFMTjNZSW9TNWRPLUxFdEhPTUstM185RlpZSUdDTkI5NXZ1Qzc2WHNXTWI2RWhhdUZiSzE1OHpHOWRZdjFCX2N1cFY5OXljQmVzcEVkbDRFV2Z6eDBaSm16MFY4Xzd1cW9xTFVZV21vWjVYRWdHVE5QNHlCU3BsQTJnUnZWSjhYTVRQSi0yc21kZ1lJbnZTWkpJclQyMzJWN0pZRkxrX3BfZF91b2EtZDg2b2ZKaGZrNlotUElKc0U?oc=5",
+      "d": 1793138405000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
