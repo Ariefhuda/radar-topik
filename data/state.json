@@ -22501,19 +22501,10 @@
     "threads:De-md2Kj-Sr": 1793062245198,
     "threads:De-mYuSj4tw": 1793062245198,
     "news:CBMibkFVX3lxTE1lTWhXNzRENW90NUxIQ05LcE9fOUVPckQ4ODNUeWZ1TzZoVHhIWVlpaEN3T0tScGw5NFdKcjZHS0RSMm5KSWlVc19IdzhFcnYtUi0taU10ZDd5M2hKVGF6Vi16WVI5cjBud2FWNmJ3": 1793062245198,
-    "news:CBMibEFVX3lxTE5PZkdEYkRpdnlER1R2empKT2VwSXFZRF9jeDZFcXJCZk1ldHo5RkxYdmJzcjJkRkZJak9TTHplMXJlNXRDR3NsNGNsdWFtU0k2NENWQ1AzWHA2QzExbEtDbUVOY2Q1Q2RWa1JSbA": 1793062245198
+    "news:CBMibEFVX3lxTE5PZkdEYkRpdnlER1R2empKT2VwSXFZRF9jeDZFcXJCZk1ldHo5RkxYdmJzcjJkRkZJak9TTHplMXJlNXRDR3NsNGNsdWFtU0k2NENWQ1AzWHA2QzExbEtDbUVOY2Q1Q2RWa1JSbA": 1793062245198,
+    "news:CBMiiwFBVV95cUxQTFhucDdiME12QXllNW5JNDdQRHYwRVU4Z3V0QXFMZ2dLSTc5YzJ4Q0pFVGRQaUFMS0l1cnliQVQ2T3BueVFubmxiOU5PZTh0NHRBOXlmaDg1OGxOQnNROFh2X0tuY1pkZ1ZTblJLSU55STE4TXRXNDByTzF1ZUo4X0NwUFJWeERDeVE4": 1793062540897
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lr713",
-      "x": "Cek link di bio ya kak [Catalog Produk Digital Promo] Produknya ada di deret atas, Produk Buy 1 get more & promo 10.10. Bebas pilih sesuai kebutuhan ✨ Isinya ada: 👶 Activity anak:",
-      "u": "https://www.threads.com/@lr713/post/De97GfdE5uc",
-      "d": 1793039198000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -24003,10 +23994,20 @@
       "d": 1793061244000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Magelang",
+      "x": "Rawat Inap Kelas 3 Gratis - Sehat Wargane - Berita Magelang",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFhucDdiME12QXllNW5JNDdQRHYwRVU4Z3V0QXFMZ2dLSTc5YzJ4Q0pFVGRQaUFMS0l1cnliQVQ2T3BueVFubmxiOU5PZTh0NHRBOXlmaDg1OGxOQnNROFh2X0tuY1pkZ1ZTblJLSU55STE4TXRXNDByTzF1ZUo4X0NwUFJWeERDeVE4?oc=5",
+      "d": 1793007960000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-26-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
