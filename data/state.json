@@ -24707,19 +24707,10 @@
     "threads:DfA2GDfEanE": 1793137242197,
     "threads:DfA1cIlE4Pk": 1793137242197,
     "news:CBMijwFBVV95cUxNcG5JS1k5SnZRZUJnOFpkY09FQnJGZkQ0QmdIRU90MnJ1ZnM4a2h6RkVMRml6TG1SOG50LVBhUzUwb0xST2FtUDB2WER6TzRWWEJnRTBSc1BHN0ZfWmcxZkpnRUNRQzR5c1pJajF5UTdMd3cyVkR4cXpZNkhEQ3Z5RmxUeVpBbWt4SXV3MG5wNA": 1793137242197,
-    "news:CBMi4gFBVV95cUxQaWE5T0IxZTZEU0hfWExYUWI3bkh2Rk0yOEVaTnkwT3FBdkp5dS1xWE5FOUZhNTA0N1NWbkVibVNkVGN5Yi1BSDF0TV9aMUNWS0txMl8yd2xsampfc3N2aTZFcGxHYjl1TTJHNFVxa0x6QXVYTFFHXzZtcjFaR2pZd3VwWlBlYURMZEdxT21CcFN4MGl6a2EzaFdWMG9rWWVWT1JlZ244cUdfQkhTWEFXTmNzRWs4ajhWcEh6dTZzY3JNSW53cy1nY2FjTW54UVVqc3FZNzAySGlJR2FwbHFjLWJR0gHnAUFVX3lxTE5EdE5ETXdzdkFSOElnRGlUZTlHQ3ZwdXozRVdleFBBcmxsZF9oelQ5NzFEeEhYZk5jSlJZTHlRSWdOM2JOQzhtRklTVm5JNnhiazdLaUdDU28zMUNHTmlZd2NkZy1JX2ZuLWc5Y2NkVjZSNEdWYjV1YTA0dU42UGU4WDl3TGpkZU9PQzhWaFFsdGpwdWJOOUNZalBHLUFGQUl0dk5KQmdiTVJSQzY0WW5sNzVoSTczYlFwUVNYOTkzaUw0VGdESE1RaFNnVGZWVUMyTnpNdmRBRk1scTcweWxoNVVlczJkcw": 1793137242197
+    "news:CBMi4gFBVV95cUxQaWE5T0IxZTZEU0hfWExYUWI3bkh2Rk0yOEVaTnkwT3FBdkp5dS1xWE5FOUZhNTA0N1NWbkVibVNkVGN5Yi1BSDF0TV9aMUNWS0txMl8yd2xsampfc3N2aTZFcGxHYjl1TTJHNFVxa0x6QXVYTFFHXzZtcjFaR2pZd3VwWlBlYURMZEdxT21CcFN4MGl6a2EzaFdWMG9rWWVWT1JlZ244cUdfQkhTWEFXTmNzRWs4ajhWcEh6dTZzY3JNSW53cy1nY2FjTW54UVVqc3FZNzAySGlJR2FwbHFjLWJR0gHnAUFVX3lxTE5EdE5ETXdzdkFSOElnRGlUZTlHQ3ZwdXozRVdleFBBcmxsZF9oelQ5NzFEeEhYZk5jSlJZTHlRSWdOM2JOQzhtRklTVm5JNnhiazdLaUdDU28zMUNHTmlZd2NkZy1JX2ZuLWc5Y2NkVjZSNEdWYjV1YTA0dU42UGU4WDl3TGpkZU9PQzhWaFFsdGpwdWJOOUNZalBHLUFGQUl0dk5KQmdiTVJSQzY0WW5sNzVoSTczYlFwUVNYOTkzaUw0VGdESE1RaFNnVGZWVUMyTnpNdmRBRk1scTcweWxoNVVlczJkcw": 1793137242197,
+    "threads:DfA1lIHk4L-": 1793137541744
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@cuppy_ucup76",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@cuppy_ucup76/post/DfALPAQI6SB",
-      "d": 1793114765000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -26209,10 +26200,20 @@
       "d": 1793105070000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@lyli_agustina02",
+      "x": "Di apl cek bansos itu isi menu yg mana sih kak, saya pilih usul dan sanggah gak bisa. Bisanya yang perbarui profil",
+      "u": "https://www.threads.com/@lyli_agustina02/post/DfA1lIHk4L-",
+      "d": 1793136966000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
