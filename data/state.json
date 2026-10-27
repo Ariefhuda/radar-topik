@@ -24731,29 +24731,15 @@
     "threads:DfA37TtAisF": 1793138752039,
     "threads:DfA3l9KkbUI": 1793138752039,
     "threads:DfA4r0PE-jT": 1793138752039,
-    "threads:DfA35YIEfLx": 1793138752039
+    "threads:DfA35YIEfLx": 1793138752039,
+    "threads:DdIqx9HkmEn": 1793139049379,
+    "threads:Ddf1cXVmPTH": 1793139049379,
+    "threads:DYQVGI-DFf0": 1793139049379,
+    "threads:DRi2AESEmQa": 1793139049379,
+    "threads:DfA5Poyk3eh": 1793139049379,
+    "threads:DfA5FTBkyRk": 1793139049379
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "law-justice.co",
-      "x": "BGN Klarifikasi Jumlah Korban Keracunan MBG di Bogor: Bukan 400 Orang - law-justice.co",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXBUcnU3UFcxX1MwQlhSUXJJSzdpakJsTDBjeUdxRldzUUFHYnRLdDhQZFNtSXJhbWJkRnRJVVVycVB5QWhTSWlfSU9uM0lqcWtGRkdqWl96bTBVVTkyQXYyTTYtZ2tjVlJWRTI3cnZSZ2NnX0c2bDBQdWxxaF9XTWxhOTNFZ1NLWGxVZXlSM3J1eXI3dEFLYlJhd1JaX0dheEg3UEt2Y0VpNVJ2VEdaTQ?oc=5",
-      "d": 1793112840000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "MerahPutih",
-      "x": "Cek nih, 2 Bansos akan Cair Jelang Tutup Buku 2026 - MerahPutih",
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWptVC1EelhURHZ6Vmt2dnBUUFAtVnU1OVdzYWZqMUxab1MtTzA3WUlpS0xZWUtSQTBFMnFTaFRwUllPenVxVmQ5M1FSX2ZRLUQxR2oxNWZCU1E4ZWMxYjNIVXJUTkdycU9wX3ZnNk41cVZDX3J6b19LWjFGcXpqckp1ajhxS1FOUFBvSGt5LTRneGJNZ2JuWUhBT0lNclnSAZ4BQVVfeXFMTTF5dmsyRzFZcEhHUFA4WldCR2d1N2diakhDM2JKSGFHdUpHdl9haFI1M1NaM0xKX254OXZXZTRCWXI2T2o0dlNXaGFhQ2xaWlllUDNLUmZzaHFzQ1plV1ZlaUh2c25WNVpQVGdLbkZuN1pPLVh4NThheUwyY3lqT2d3bHZUSjh5RFRuU0tWTWpzWTZoTTN3OVJJT240UXc?oc=5",
-      "d": 1793113818000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26233,10 +26219,30 @@
       "d": 1793138400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anisa_masitoh",
+      "x": "Web dtsen gimana kak tutor, aku pke yg dari aplikasi cek bansos udah 3 bulan gada perubahan",
+      "u": "https://www.threads.com/@anisa_masitoh/post/DfA5Poyk3eh",
+      "d": 1793138887000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@lizzylovespiano17",
+      "x": "MBG jelas? JELAS BOCORNYA!! Yang kecipratan cuma owner SPPG, bukan petaninya. Cek az harga gabah masih ancur. Seneng deh kalo kluarga loe dpt kerja. Tapi satu keluarga loe sejahter",
+      "u": "https://www.threads.com/@lizzylovespiano17/post/DfA5FTBkyRk",
+      "d": 1793138803000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-27-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
