@@ -25246,7 +25246,11 @@
     "threads:DfBYtkbFHyL": 1793155538945,
     "threads:DfBVXH2mfyJ": 1793155538945,
     "news:CBMitwFBVV95cUxNblpNZXkwOWxEY0NZb3QxRWw5YUdCTkdQbS00aFphSVAxeFpXSXZqWmpoaFkwdFZ2VjRMMlU5WDhZcHNjSnlSbmIwRWFmVXBHenY4Y0tqS1hVUmtDQ2xmNno2MmFXUDBuandfZkUzcnc4VjI5MXBzRTVEZy0tdEM2VklrNThLZGo5b3ZlSjZJZjRqaDcySUYwbFYtUnNncmJralg5dHEzcVFDeDMzVXhEODJSMmJ2ZzQ": 1793155538945,
-    "news:CBMi0AFBVV95cUxNQzBvVGd1eW1GWEt1c245SmxIQlY4aHRLMDZrUTVsNG81aTFGSDBWZEdKUGZSVmNUaTVxZGs1dFNqTno3Ylkwb09uUmRKcHl2bVRESVFKMmEwcXUwYUtORC1FcVcwZ2swWFE0cXFsNTBldVVXNmZ5Y3BVWFd2dWU2ZmFSaHhEem5EMXJUWHhvRVVxTjBtekRpdFBRSkNoSU1HQ2tteDlZaGZkZjhKYlM4RjM3NXZldWhOaHZ3YU4wa0RxRm9uQVQ3Uk02d19LbEI5": 1793155538945
+    "news:CBMi0AFBVV95cUxNQzBvVGd1eW1GWEt1c245SmxIQlY4aHRLMDZrUTVsNG81aTFGSDBWZEdKUGZSVmNUaTVxZGs1dFNqTno3Ylkwb09uUmRKcHl2bVRESVFKMmEwcXUwYUtORC1FcVcwZ2swWFE0cXFsNTBldVVXNmZ5Y3BVWFd2dWU2ZmFSaHhEem5EMXJUWHhvRVVxTjBtekRpdFBRSkNoSU1HQ2tteDlZaGZkZjhKYlM4RjM3NXZldWhOaHZ3YU4wa0RxRm9uQVQ3Uk02d19LbEI5": 1793155538945,
+    "threads:DeRCjKIkuUp": 1793155860313,
+    "threads:DfBZXNDj-6H": 1793155860313,
+    "threads:DfBZQoGAYZf": 1793155860313,
+    "news:CBMirwFBVV95cUxOUTZCOUtaRWZ6TnBUNzVHc2pFX0lGN2tUelJkck1LRE45SHY3blJxOUxyeFBlNVR5a3RjT0RZOU43UlpPQ2JBODBYWk5XRGF2ckhwSWhrN0QwYlV0RXpxWlBSaENROG1kdlVrRVdTRVdJcXF4QTdackFIbVZrOXI2THdXZUpzSS00blRUajVPZlpDdkVHNjZSQmRGM2IxSl9kNXh0ZjEydmFrVlE3QWVF": 1793155860313
   },
   "digest": [
     {
@@ -26708,10 +26712,30 @@
       "d": 1793155427000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@giffani_na",
+      "x": "📢 LOWONGAN KERJA PNM Buat kamu yang sedang mencari pekerjaan, yuk manfaatkan kesempatan ini untuk bergabung bersama PNM sebagai Account Officer. 🎁 Benefit & Fasilitas : - Gaji te",
+      "u": "https://www.threads.com/@giffani_na/post/DfBZXNDj-6H",
+      "d": 1793155726000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@temankreativ",
+      "x": "- Automasi & AI Tools: Bikin workflow otomatis pakai AI biar kerjaan rutin kelar 10x lebih cepat. - Management & Landing Page: Bisa kelola jadwal, proyek, sampai siapin landing pag",
+      "u": "https://www.threads.com/@temankreativ/post/DfBZQoGAYZf",
+      "d": 1793155673000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
