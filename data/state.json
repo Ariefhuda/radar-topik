@@ -25005,7 +25005,13 @@
     "threads:DfBMkYaErFY": 1793149840936,
     "threads:DfBLxTRHygJ": 1793149840936,
     "threads:DfBLg9Ak5-w": 1793149840936,
-    "news:CBMixwFBVV95cUxNX2lqWkFJa3RyX0pfZm85UzhMY3dkVWZqdm1LYTd3U3plSlNKRjRYcmJXUDZoSDRtZzR6YjFvdENqWF91SW1oanBMR3BqamNXMFVKZnRwLXhGR1hlV1VMeXFma3YyVVhtdzN3OXg5ZjZZbXBqTEVwZHdWR0R3bnNia1NRM0wzWVEweFhJS0doc08tUzUta1JYSDFPZ1hfbGdSdkt4NGt4UExWcVR0NUU1VWZQLTVNQWNIb3dQQ25lT0t1ajVWX2VV": 1793149840936
+    "news:CBMixwFBVV95cUxNX2lqWkFJa3RyX0pfZm85UzhMY3dkVWZqdm1LYTd3U3plSlNKRjRYcmJXUDZoSDRtZzR6YjFvdENqWF91SW1oanBMR3BqamNXMFVKZnRwLXhGR1hlV1VMeXFma3YyVVhtdzN3OXg5ZjZZbXBqTEVwZHdWR0R3bnNia1NRM0wzWVEweFhJS0doc08tUzUta1JYSDFPZ1hfbGdSdkt4NGt4UExWcVR0NUU1VWZQLTVNQWNIb3dQQ25lT0t1ajVWX2VV": 1793149840936,
+    "threads:DeJOFrimEJm": 1793150140062,
+    "threads:DfBOhSYk9Ol": 1793150140062,
+    "threads:DfBOHltiQ9N": 1793150140062,
+    "threads:DfBNubBE95T": 1793150140062,
+    "threads:DfBNprSmX4h": 1793150140062,
+    "news:CBMiuAFBVV95cUxOMEtlXzFOS1ZObVhrTUlia01nZ25wTXEtQmZuTXoxOUVWTmxoMkFQS0g4S2VfYkFVTDhvOTVoMkZObnRmSTVTbG9OemltZHZ6bFBCWFNlUWc4ZXRuT1ViUWk5bVI5WHlfc3JIVk9aY0xNOWY2ZVo4ckUteEI2RHNCaHg2T3VJaGZqTkY5dEtRaXVYODlWX2FERGVxaDF5RUtNVzhQa291R2l1QXAydGdtOXg1bUY1UVI3": 1793150140062
   },
   "digest": [
     {
@@ -25127,10 +25133,20 @@
       "d": 1793148466000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMEtlXzFOS1ZObVhrTUlia01nZ25wTXEtQmZuTXoxOUVWTmxoMkFQS0g4S2VfYkFVTDhvOTVoMkZObnRmSTVTbG9OemltZHZ6bFBCWFNlUWc4ZXRuT1ViUWk5bVI5WHlfc3JIVk9aY0xNOWY2ZVo4ckUteEI2RHNCaHg2T3VJaGZqTkY5dEtRaXVYODlWX2FERGVxaDF5RUtNVzhQa291R2l1QXAydGdtOXg1bUY1UVI3?oc=5",
+      "d": 1793123373000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
