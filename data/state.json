@@ -25709,69 +25709,17 @@
     "news:CBMilwFBVV95cUxNald2eXRucmJmbW41cjJ6TTU1d0k3UUctUTZCQWE0QnRDSDhMdVdaZGlZcnVaNDNvbE85ZWV6MGx0X01DdUMtemFyUXpmaDFqUl9QTjJfcGJSdy1Sa0xKTTg1dTB4TUJmN215T0JLWUU5bFdLYnQ5X2VVUlRTRTh5c1h3TWpXUVVROG4zMlB2dUtFZlFkUEJ30gGPAUFVX3lxTE5tNmtLVktfN3dORWoyQXpKeUtMWXhBSzdGUFVwd1pEMFN6ajExNngyaFR6LXgzSktMTUpET2x5RFRPMjkzNlNzdUdJelpwSkpPUFBnSmhablJsVzhFcVd0M2F4OTViU1hlTEhwaHgyX0VaRE1fNk9JQmtQRkJfTzZBOW54UklHVnVkY1ZXWW1R": 1793166948855,
     "news:CBMioAFBVV95cUxNSzRWWFA1OFhSeXE0eDJZRHNINjh5cF9LdlFVREgxUnRacEZpMXVIbnVWMTBOa0Y3VnZuMDFKdjV2bV9YcUdwVEdrZEhUTmxRaDRqUFAzMzNQeUxaQzMweUNDbWJVYnk1Z3Awc0xGMDg1dXpZQUdNa3VxXzJNWkotamdXREVETW05enpYODY4d1ZfcllsN1kzeEFGNWxDRTZl": 1793166948855,
     "news:CBMipgFBVV95cUxNckxLSWNzVVJJQ2FNVVBRbzZsU0EybHpwYW1TU251SFU1aFJxRkJWUzZkQ3F5T0ppLXRhbzV4TXFEYnVRODZlRVU1S1hDaFFJZlZtNkZWbXlQcEFkcC1jZ1pIa2RZNWwwLTJTbS00N3hRa2d4R0pYZzk3bWszQ0ZtQko1cnY5SUR0ZEVzVi1uMWUtcGNEcEdPcGEyN0FVVlNtZE1SX3VB0gGrAUFVX3lxTE9GMzhaU3ZNd3ZYd3JQVG5tWE9QUjhOek83OHp3STYza0kxY0MtdU44dGJ2cjhsSVdWTUY2Qm5odWVFeUZxUFZvTU1tZktMQnJNY0NVMVRwazNjeVdyOEx3dGRRZVJkOWdNZWw2Z3p3QlFhWmJ0S2d6NHRsaTdVRU5UeE83ZHk2M3RLMWVYWTRTaVVBbWxzckJPd2FaYUdmRXAxbDBzVTRVUVp6TQ": 1793166948855,
-    "news:CBMi3wFBVV95cUxQa0t6SEtQUldPajJydXBBUk5qLWk2WTlUaTdidUFGeUlhZHlsZ005Vm5ZTDlqWGx3YkJ1NDkwMTBTQXNEakVMVElESVlTbElibE13SW1xT3RmMlQzTWIzaVhaTDB6c3A1RF9LbERBVnZNNEVEVHNRZXdlTEN3WnpTOFFxWUZidkp4SURLT0lhc1drZ2Z0dmUyVUhTbHlXa29DTkRKZktTbVJjMVBBemo4ZEtHS21hSENrQXZfMGYyM1pVU2FIazhvUmFpcHJVU2FNMzJIZlBwT2EzYWJzb3Nz0gHfAUFVX3lxTFBrS3pIS1BSV09qMnJ1cEFSTmotaTZZOVRpN2J1QUZ5SWFkeWxnTTlWbllMOWpYbHdiQnU0OTAxMFNBc0RqRUxUSURJWVNsSWJsTXdJbXFPdGYyVDNNYjNpWFpMMHpzcDVEX0tsREFWdk00RURUc1Fld2VMQ3daelM4UXFZRmJ2SnhJREtPSWFzV2tnZnR2ZTJVSFNseVdrb0NOREpmS1NtUmMxUEF6ajhkS0dLbWFIQ2tBdl8wZjIzWlVTYUhrOG9SYWlwclVTYU0zMkhmUHBPYTNhYnNvc3M": 1793166948855
+    "news:CBMi3wFBVV95cUxQa0t6SEtQUldPajJydXBBUk5qLWk2WTlUaTdidUFGeUlhZHlsZ005Vm5ZTDlqWGx3YkJ1NDkwMTBTQXNEakVMVElESVlTbElibE13SW1xT3RmMlQzTWIzaVhaTDB6c3A1RF9LbERBVnZNNEVEVHNRZXdlTEN3WnpTOFFxWUZidkp4SURLT0lhc1drZ2Z0dmUyVUhTbHlXa29DTkRKZktTbVJjMVBBemo4ZEtHS21hSENrQXZfMGYyM1pVU2FIazhvUmFpcHJVU2FNMzJIZlBwT2EzYWJzb3Nz0gHfAUFVX3lxTFBrS3pIS1BSV09qMnJ1cEFSTmotaTZZOVRpN2J1QUZ5SWFkeWxnTTlWbllMOWpYbHdiQnU0OTAxMFNBc0RqRUxUSURJWVNsSWJsTXdJbXFPdGYyVDNNYjNpWFpMMHpzcDVEX0tsREFWdk00RURUc1Fld2VMQ3daelM4UXFZRmJ2SnhJREtPSWFzV2tnZnR2ZTJVSFNseVdrb0NOREpmS1NtUmMxUEF6ajhkS0dLbWFIQ2tBdl8wZjIzWlVTYUhrOG9SYWlwclVTYU0zMkhmUHBPYTNhYnNvc3M": 1793166948855,
+    "threads:DfBuzmREqR7": 1793167271523,
+    "threads:DfBuwHQGdDH": 1793167271523,
+    "threads:DfBuvdzFNKF": 1793167271523,
+    "threads:DfButIhoPFr": 1793167271523,
+    "threads:DcLDtoPE1-2": 1793167271523,
+    "news:CBMiggJBVV95cUxNZldZd2pyNmdSbEo5YjdORDRqeXEwSWFWbUtfWjBHc2M1N3kyMEdMUnR5VEJuMV9IcURvNl9FRWlZRWc3SEdYMmRPaTdvQ0FVVDBoNEF2MUdXTDlLallpaHdNNFEyZG5TZm9HY0xhbkV0T01CaG01cVF1WVN2eFA5QUJCNG85c1VZOWJRUlVuVHJmT1RUek95bFppWW9kZVBIb0I1UTNFSGc3MVlkWEtUdUhjTUdnQ29kREZ0T3M1aThPeUNDWXNid2RDeS11OS1MN1B5NTFCSHJTWFZEY3pKZTQ2bDVHckU4VXR6ZWJsVG1oVlNrTnYwekRXcEUxOXRaNnfSAYcCQVVfeXFMT2hhTXVRWkZOYnVsc2hqWWlVQU50cGZ5RFU3WHRiaS1GRTZJVkFzcUszT3czVmlCa2ZVT2l2YTZCOXUxTlUxbXR3RVM1eHJfVk4xYnNfaTJZU1RUVm1OdFpJbUJTbHVwZl9hSFV0b0lTc1JGTlB2MU0xc2gwUDluaGM3V3VDLWtZdnBPb0U5ZG85V1BzTHQyTWpzYV9BT2lySkYyNUR6UEw1dnN3czZKb0NBR3lBazR0VEp6TkRGRWlvcW1pTEllZlBaWm56ZXpiaTc3ZGl6cW5NR1Q0Nk5OaE40RDJUSFV1OHo2V0RmaHZsbnYyWmVUejhUN1dNZkFiNFBNSXJ5clk": 1793167271523,
+    "news:CBMivgFBVV95cUxOYTh2M0l6YTR2UHB0Qml2U2lCeFA0d0JPbzFHSFR4UEw4aFNFWFMtNURWaWJBcWdkMEZnRVhCU1lLdjAybkFNMkpLRnNpTGhOUm11VE1ZX0pMSmNQd3FvMVprSmlUY28yMkM3VVBETnN0SzVzSzlsdFVXZ0FMNDZuMWNldXh3RkFhN3ZZV0tLQmVxMnAyNF9tSkw4UmdTRDFILUZ1WWo1eDJORlZZMW80OWl5bXZkNGx2RnVBMmln": 1793167271523,
+    "news:CBMiYEFVX3lxTE9tejh1OVhtNzZqbzRrY3hUdVZGcTBrRS1tV21UaWN2RDc2S2x3SlVsQ2V1Ri14UkNvbmN4RzRBZjJra2RqMC1jbDBfblB2dExmbUlKUGlpbmU1T2lKMFUtMg": 1793167271523
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfBh2b0kSY2",
-      "d": 1793160177000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@fsec.arthagading",
-      "x": "@muzartmy_official @muzart.indonesia . OHAYO Drawing School adalah sekolah lukis sejak tahun 2005 yang mempunyai kelas paling lengkap, Berijazah internasional dari Jepang, Telah st",
-      "u": "https://www.threads.com/@fsec.arthagading/post/DfBjTMjoHF0",
-      "d": 1793160937000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@fsec.arthagading",
-      "x": "Yukk buruan datang ke center terdekat dan COBA GRATIS segera 😉 . OHAYO Drawing School adalah sekolah lukis sejak tahun 2005 yang mempunyai kelas paling lengkap, Berijazah internas",
-      "u": "https://www.threads.com/@fsec.arthagading/post/DfBjNN8IKgH",
-      "d": 1793160888000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@yunnayunita",
-      "x": " 🎓 MAU BISA BAHASA ASING TAPI BELUM TAHU MULAI DARI MANA? Halo Kak! 👋 Akasyah Language Center membuka pendaftaran kelas: 🇯🇵 Bahasa Jepang 🇨🇳 Bahasa Mandarin 🇬🇧 Bahasa Inggr",
-      "u": "https://www.threads.com/@yunnayunita/post/DfBjc0Ukhe8",
-      "d": 1793161015000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "intip24news.com",
-      "x": "Bapas Wonosari Gandeng Dinkes Gelar Cek Kesehatan Gratis - - intip24news.com",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdERzSFRoLTgxQldWd3JUZFB2LTh3emc4WElsVTZXOHVkMHAzcmVIZmVDS1Q1Y181Y2ZiYk1qUVBVNzFHN1FUMTV1T0FGRUxBa29wRkxERkx4U2d1NUpxTE94dDlaMW1TMlQ3WXpfZ05HeFFXUEtESXE3Q19YbEJfOGFqR3RzaENQ?oc=5",
-      "d": 1793160764000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@_mazher.f",
-      "x": "Dimana tombol perbarui datanya? Saya cari di cek bansos gak ada, aku cuma ojol masak desilku malah naik 😔, ini pakai web apa?",
-      "u": "https://www.threads.com/@_mazher.f/post/DfBjaCMk9mF",
-      "d": 1793160993000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27211,10 +27159,70 @@
       "d": 1793163513000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Bantu jawab gini kak buat @susannnti87: Desil 6 itu memang masuk keluarga mampu di DTKS, makanya BPJS PBI gratisnya auto nonaktif. Kalau kondisi realnya masih ngontrak + suami supi",
+      "u": "https://www.threads.com/@meta.ai/post/DfBuzmREqR7",
+      "d": 1793166969000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@annisaw825",
+      "x": "Kak pembaruan datanya di klik pas di profil itu bukan kak, yg di cek bansos? Trus kalo udah sanggah di web perlinsosnya nanti nunggu 3 bulan dulu gitu ya kak?",
+      "u": "https://www.threads.com/@annisaw825/post/DfBuwHQGdDH",
+      "d": 1793166941000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@itsmemyami",
+      "x": "Dowload aplikasi cek bansos ka, disitu pengajuannya",
+      "u": "https://www.threads.com/@itsmemyami/post/DfBuvdzFNKF",
+      "d": 1793166935000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anjelian.yu",
+      "x": "Berarti slama ini PBI (dbyr pmrintah) ya jelas psti di off kak,karna kategori mampu, ko bs?karena listrik mu aja 1300, ya jangan apa2 nyalahin pmrintah Kalo mw turunin desil bisa k",
+      "u": "https://www.threads.com/@anjelian.yu/post/DfButIhoPFr",
+      "d": 1793166916000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Rakyat Sulsel",
+      "x": "Munafri Tekankan Pajak Harus Berdampak Langsung pada Kesejahteraan Warga - Rakyat Sulsel",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTh2M0l6YTR2UHB0Qml2U2lCeFA0d0JPbzFHSFR4UEw4aFNFWFMtNURWaWJBcWdkMEZnRVhCU1lLdjAybkFNMkpLRnNpTGhOUm11VE1ZX0pMSmNQd3FvMVprSmlUY28yMkM3VVBETnN0SzVzSzlsdFVXZ0FMNDZuMWNldXh3RkFhN3ZZV0tLQmVxMnAyNF9tSkw4UmdTRDFILUZ1WWo1eDJORlZZMW80OWl5bXZkNGx2RnVBMmln?oc=5",
+      "d": 1793159248000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "lph lppom",
+      "x": "Cara Daftar Sertifikasi Halal: 7 Langkah Praktis Anti Gagal - lph lppom",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tejh1OVhtNzZqbzRrY3hUdVZGcTBrRS1tV21UaWN2RDc2S2x3SlVsQ2V1Ri14UkNvbmN4RzRBZjJra2RqMC1jbDBfblB2dExmbUlKUGlpbmU1T2lKMFUtMg?oc=5",
+      "d": 1793163600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
