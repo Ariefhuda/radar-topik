@@ -27071,19 +27071,19 @@
     "threads:DbmqnQdkixu": 1793208050756,
     "threads:Dev2bAkk-yS": 1793208050756,
     "threads:DbidvkfD64e": 1793208050756,
-    "threads:DfC9mpWE5Q7": 1793208342029
+    "threads:DfC9mpWE5Q7": 1793208342029,
+    "threads:DfC-VQhmcmD": 1793208648215,
+    "threads:DfC-TKEmRvF": 1793208648215,
+    "threads:DfC-W2cDXqG": 1793208648215,
+    "threads:DfC-OPMCQiq": 1793208648215,
+    "threads:DfC-K9FiSz0": 1793208648215,
+    "threads:DfC9Wo7oKIY": 1793208648215,
+    "threads:DfC9VQ3HUTv": 1793208648215,
+    "threads:DfC9Q3VmruP": 1793208648215,
+    "threads:DfC9MUfiDPM": 1793208648215,
+    "threads:DfBcQL9EVJV": 1793208648215
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@mamahnyaacel",
-      "x": "desil di aplikasi cek bansos udah turun, tp kok di web masih 6-10 itu gmn ya? jadi yg bener yg mana?",
-      "u": "https://www.threads.com/@mamahnyaacel/post/DfCjLpNGIw3",
-      "d": 1793194429000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -28573,10 +28573,20 @@
       "d": 1793208282000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfBcQL9EVJV",
+      "d": 1793157242000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
