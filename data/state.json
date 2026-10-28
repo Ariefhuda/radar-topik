@@ -25086,7 +25086,16 @@
     "threads:DfBL34Pkqvp": 1793152553583,
     "news:CBMivwFBVV95cUxQRmZ4M1RxSmJXTDVoVkotdjl1NWQxaU5pN0gySjdUZzR6Z1Z4S05KbnVzUGRiODNUUzhMcFpDdEJrS0ptd21ueGpyNzVPSDNpNHZFbE1JODNvLUVlTnJuQ2t2am9iN2FDQzhkcVVjWFdNbS0wcUNEVEI1bWstbkhnUUtRMnU5bEh4U1V1c1FxT2FXVTR4NUE4cVR4WmRtRUp5Y3g0LTdfRHJFeGhNNzhWRzRGajIyZl95cm9HY2puRQ": 1793152553583,
     "news:CBMizgFBVV95cUxOTnl2LWpYekJjZkxVYWFkMXJrLXlIOTRUSThTX1llS1Y4WEowOUZRSjlEeTFScEtSWWg0eV9GTUI1RmN0TmR0SEgxcnI1OWh6Z2hMcTkzS1RtQmQySVhvNDJJUmlCYlpKSVVSdmZCaUhlQzFtWTNHM0JKQVNQZXloaUQ3eTZOMGp5NHFwU1c5cFNaM1RFZXhLY1FTOTItZ0lIcFZ1ZU8tajlUR1Z0d2ZsTXhGclN4S2x0Wmhzdkl5YWhyenlEWUFiY0VteHhJQQ": 1793152553583,
-    "threads:DfBT-1Tkpr-": 1793152851735
+    "threads:DfBT-1Tkpr-": 1793152851735,
+    "threads:DfBUdPcDyBU": 1793153141190,
+    "threads:DfBDcdSkoe7": 1793153141190,
+    "threads:DfBUlqBgZVY": 1793153141190,
+    "threads:DfBUEduiOCh": 1793153141190,
+    "threads:DfBUDSoE16C": 1793153141190,
+    "threads:DfBTyQKmlR9": 1793153141190,
+    "threads:DfBTdBIn6Yz": 1793153141190,
+    "threads:DfBTaUDn8sY": 1793153141190,
+    "news:CBMiuwFBVV95cUxNQ2Rhc2tuYWlpUHNVYkhjS3FUM1BObjRORDdJblpzU1VFTVZhaGdXeHFvUjVoZnhTNWgtUlhRSURudzdvcUFGYTVWVEFqbXdZTFZzU01ZdndDMWxKaFN0QW5NS09QZWI2VnlYdUlQYU9fUmdPR0lxRWdpaVRYaVBNZEVpbkxTZXlPcndGcXFTNzFKZWw1VHlTUFpvOHZfenhjdTR5TkRBa3AyN2tZZVR0ZUZyWjVJUkxaandF0gG7AUFVX3lxTE1DZGFza25haWlQc1ViSGNLcVQzUE5uNE5EN0luWnNTVUVNVmFoZ1d4cW9SNWhmeFM1aC1SWFFJRG53N29xQUZhNVZUQWptd1lMVnNTTVl2d0MxbEpoU3RBbk1LT1BlYjZWeVh1SVBhT19SZ09HSXFFZ2lpVFhpUE1kRWluTFNleU9yd0ZxcVM3MUplbDVUeVNQWm84dl96eGN1NHlOREFrcDI3a1llVHRlRnJaNUlSTFpqd0U": 1793153141190
   },
   "digest": [
     {
@@ -25638,10 +25647,20 @@
       "d": 1793152905000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "motorace.id",
+      "x": "IMI Sumsel Bagikan Masker Gratis di Palembang, Bantu Warga Hadapi Kabut Asap - motorace.id - motorace.id",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2Rhc2tuYWlpUHNVYkhjS3FUM1BObjRORDdJblpzU1VFTVZhaGdXeHFvUjVoZnhTNWgtUlhRSURudzdvcUFGYTVWVEFqbXdZTFZzU01ZdndDMWxKaFN0QW5NS09QZWI2VnlYdUlQYU9fUmdPR0lxRWdpaVRYaVBNZEVpbkxTZXlPcndGcXFTNzFKZWw1VHlTUFpvOHZfenhjdTR5TkRBa3AyN2tZZVR0ZUZyWjVJUkxaandF0gG7AUFVX3lxTE1DZGFza25haWlQc1ViSGNLcVQzUE5uNE5EN0luWnNTVUVNVmFoZ1d4cW9SNWhmeFM1aC1SWFFJRG53N29xQUZhNVZUQWptd1lMVnNTTVl2d0MxbEpoU3RBbk1LT1BlYjZWeVh1SVBhT19SZ09HSXFFZ2lpVFhpUE1kRWluTFNleU9yd0ZxcVM3MUplbDVUeVNQWm84dl96eGN1NHlOREFrcDI3a1llVHRlRnJaNUlSTFpqd0U?oc=5",
+      "d": 1793142000000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
