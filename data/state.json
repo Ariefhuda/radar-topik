@@ -27137,19 +27137,10 @@
     "threads:DfC-6WDE8dK": 1793211945369,
     "threads:DfC_5hWk2t7": 1793211945369,
     "news:CBMioAFBVV95cUxPeEhNZmZfVzc4N0M0WFdtWXNZa2pkYkZxaHFwY2VnenZSUHBYR3BsWmZ6R2d2Vy0tRDVnOENpYzE4NXc1ajhKbl9rZVR6T01ScDd4cTdqSGpaRm1mQmYtdkhwbWVXd2xSLVFXVVNrU1BkVjN2SVZkRnFpSHIxNHZPUWhZQWpwekNHdmV6ZUw4T1QtN1NxOXdKVUlKTFBMRXFN0gGkAUFVX3lxTE1zLTBpZnRzVTRRMkNlR21maC1lbmJxSzNwS3hkQnVNNDhaV0s4TFc5ZDh4REMwVlhNTnhieE5PQ2h1VFhMSmZIcWRBSktXc0k5OFlWdHZPU21tT3BOOTdFTXQ2OWdHbTBuZlJKN2xUSmpUMkNOSXBTdnBHbHFTUDdpZ1c0VlBWb0JJRGlwN1UyUWVfSVNwODdndmdrY1VrOG81T2o1": 1793211945369,
-    "news:CBMimwFBVV95cUxQZmFYOEx1bG5LOFUyRjZjbFA1aHBydGNRS1JQYUhjT29sVTk1T29DQUVGQl91dDlYeER4UkdSQ0ZGZ0VwX3dheTd2Ny1haHFRY2t5RGR2TmdwdjR3UWwtQ3lxR3lyNXkxX0VVVVp1WmI5WHQ4Z0ZUY2N1N0VtRUw0MEVnOTNxcW5ZMld1VTFSVHBoNEhrNkVUOGkyTQ": 1793211945369
+    "news:CBMimwFBVV95cUxQZmFYOEx1bG5LOFUyRjZjbFA1aHBydGNRS1JQYUhjT29sVTk1T29DQUVGQl91dDlYeER4UkdSQ0ZGZ0VwX3dheTd2Ny1haHFRY2t5RGR2TmdwdjR3UWwtQ3lxR3lyNXkxX0VVVVp1WmI5WHQ4Z0ZUY2N1N0VtRUw0MEVnOTNxcW5ZMld1VTFSVHBoNEhrNkVUOGkyTQ": 1793211945369,
+    "threads:DfCn-8UE7KB": 1793212255365
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "bsinews.id",
-      "x": "PUSSIBERAD Gelar Kartika Cyber Hackathon 2026 Berhadiah Rp 100 Juta - bsinews.id",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XWVNHNjkwX1R5cFBsQXZRYVE2YTlldmtzS01SeGx0aWFWVUlNcGwyWTlyLXVkSDNvRzl6c3piN1RIaVN1aHdEVnAxY3B6dHhTcldxVDRheFQwV2c?oc=5",
-      "d": 1793196864000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28639,10 +28630,20 @@
       "d": 1793193595000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@alimauladi",
+      "x": "Mulai 1 Nov 2026, BPJS PBI bakal dinonaktifkan? Ada penyesuaian kepesertaan BPJS PBI (iurannya dibayar pemerintah). Peserta yg masuk desil 6–10 berpotensi dinonaktifkan karena dini",
+      "u": "https://www.threads.com/@alimauladi/post/DfCn-8UE7KB",
+      "d": 1793196946000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
