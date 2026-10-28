@@ -25907,89 +25907,17 @@
     "news:CBMitwFBVV95cUxNTVRiaUhiaTc0UzIzWU1adGVxbnlYV2dRT3ZYTTFfa3ZLTURTYUFyWGlvdjRNalJLd0N2NTlIejVtVVJRR2xfcXF2Z3E2UWtoVGxNLVhqNFhmb3k1ZUg2Vk44aDN0bVFjbWdLaVJUUWE3RzVaa1pZQlh5UHF4c1B3QVVlcm9jVjVxeEdwcWNjdlZfMHEtOWpLcXlkMFBrQllsZjViT2tmVFhBWDBKeTctRXgwSDNvZHfSAbcBQVVfeXFMTU1UYmlIYmk3NFMyM1lNWnRlcW55WFdnUU92WE0xX2t2S01EU2FBclhpb3Y0TWpSS3dDdjU5SHo1bVVSUUdsX3FxdmdxNlFraFRsTS1YajRYZm95NWVINlZOOGgzdG1RY21nS2lSVFFhN0c1WmtaWUJYeVBxeHNQd0FVZXJvY1Y1cXhHcHFjY3ZWXzBxLTlqS3F5ZDBQa0JZbGY1Yk9rZlRYQVgwSnk3LUV4MEgzb2R3": 1793172047136,
     "news:CBMipgFBVV95cUxQMGVHU0FER0VRVzc1anVsSjNQQW9fZllnancxTlFXLU1RckZUR0Fmbl9jQXpjTmZPXzhrZ3BEQ1lmbmY3X3lhY3V2SjJLNG05NDBRbHVRUDFtaG9pQ1V0RjZVMEp5VHl2dE1IZUJVTjNQRHF2SzVZblQ4Z2VRekhRanR2a3JTRVFfU216emVlaU1ncmRNNm9ncE4wTGNGUzJvSi1RX3Zn0gGkAUFVX3lxTFBNdUw1REUxaU02S3ljMXBfcVowQkFycl9KaDJ2b2JiRkFMTEVXM0JmUUtWOWpUdVZrWUR1bG5ndGM1NnpKYV9rTW1YYVdTTlpqOG9VTzVETWRUSk5IYV9QM015QlNqbF93WnkyMkFKRHV4SFNXOUZ6NU94aGV0WlJDdUtBT0pLbmZNR1I0X0JHcjJYc0xHYXI1MURKNHJaQXQza2JB": 1793172047136,
     "news:CBMiuwFBVV95cUxQdUNnQmtvQVoyOUE2dzYtRlJYRlpSRmp5b2ZfVEhnNXZIbVpCbUNER0FiQzViNUdmcE9IbmRvRzFzX3ZwLUdXNk9VZ1BlNVhGN2lBTVVfN0s0ajNsUmNnN0pocy1xQXVwVlJ6RG91TTlsQVBpV0xzYjRFNHZZRTJnekU5LU1NbWF4cUtmb1IwcVRRXzlyWndaelB0QmxCaVYxMEE3aFJ4RHo4cHh4UkpaZlhuRS1UbE0xcDJr": 1793172047136,
-    "news:CBMi8wFBVV95cUxNZ0lmZ2pEcVdkSW5kSmxXTjFGN09wYkVHSmJpRFFVQ0tSZnNTV1JNcDZscXFFTWJPcDhCYldBXzhRWmJyWDIxRnkwVXN6c1oxRy0zOGNZQng0bUtzX0g0TDB2Yll0eG5TRVBuODlKd1gyUUFWT29DY0V1bGdlS1I5cGlwd04zWVdLS2lENkhCYjBQTU9EWVJTUEJUVWRRYTBfV3ZGM29zcXdzUUdvN0Y3WDZEZEVsRkFPSTVhaW9EQVB3UU5WUXB4cEtHclRmYlhGM0NIblNEMlhUVzVwbEpMWThpM3RTMmJaRWszOUpLcWsyMnfSAfMBQVVfeXFMTWdJZmdqRHFXZEluZEpsV04xRjdPcGJFR0piaURRVUNLUmZzU1dSTXA2bHFxRU1iT3A4QmJXQV84UVpiclgyMUZ5MFVzenNaMUctMzhjWUJ4NG1Lc19INEwwdmJZdHhuU0VQbjg5SndYMlFBVk9vQ2NFdWxnZUtSOXBpcHdOM1lXS0tpRDZIQmIwUE1PRFlSU1BCVFVkUWEwX1d2RjNvc3F3c1FHbzdGN1g2RGRFbEZBT0k1YWlvREFQd1FOVlFweHBLR3JUZmJYRjNDSG5TRDJYVFc1cGxKTFk4aTN0UzJiWkVrMzlKS3FrMjJ3": 1793172047136
+    "news:CBMi8wFBVV95cUxNZ0lmZ2pEcVdkSW5kSmxXTjFGN09wYkVHSmJpRFFVQ0tSZnNTV1JNcDZscXFFTWJPcDhCYldBXzhRWmJyWDIxRnkwVXN6c1oxRy0zOGNZQng0bUtzX0g0TDB2Yll0eG5TRVBuODlKd1gyUUFWT29DY0V1bGdlS1I5cGlwd04zWVdLS2lENkhCYjBQTU9EWVJTUEJUVWRRYTBfV3ZGM29zcXdzUUdvN0Y3WDZEZEVsRkFPSTVhaW9EQVB3UU5WUXB4cEtHclRmYlhGM0NIblNEMlhUVzVwbEpMWThpM3RTMmJaRWszOUpLcWsyMnfSAfMBQVVfeXFMTWdJZmdqRHFXZEluZEpsV04xRjdPcGJFR0piaURRVUNLUmZzU1dSTXA2bHFxRU1iT3A4QmJXQV84UVpiclgyMUZ5MFVzenNaMUctMzhjWUJ4NG1Lc19INEwwdmJZdHhuU0VQbjg5SndYMlFBVk9vQ2NFdWxnZUtSOXBpcHdOM1lXS0tpRDZIQmIwUE1PRFlSU1BCVFVkUWEwX1d2RjNvc3F3c1FHbzdGN1g2RGRFbEZBT0k1YWlvREFQd1FOVlFweHBLR3JUZmJYRjNDSG5TRDJYVFc1cGxKTFk4aTN0UzJiWkVrMzlKS3FrMjJ3": 1793172047136,
+    "threads:DfBELaYk_b4": 1793172339048,
+    "threads:DfB3B_iF4ci": 1793172339048,
+    "threads:DfB46cKE4eO": 1793172339048,
+    "threads:DfB46X6E-wK": 1793172339048,
+    "threads:DfB4gFMEb9x": 1793172339048,
+    "news:CBMipAFBVV95cUxOa2dwTjJPdkdPUnlsd2hqY3BTOHJETUVfZklBdFh1bTJZMDRuZWF6ODc5SjN2UGFlSU02SDl5eUJyX0tBR1ZmLW1wWmdfc3Rqdjc4R1I1Zi1vRDBUTE14QnlNNFFTdUlvVlVYbnptNi10cFl0czJzN2xHS1VTNWpqOGYzYTRsYWU3Yi0yZXRXQ0xZX3NXbHIyTmVXbkZtMk9RNGhfRdIBqgFBVV95cUxNb1I5M0JWc1FKd215bk1nVDZxZHZncGdHdldvcGJ6U2tiWDVqd3NVdVR4a0NBazh5MHBQVzNEbjhicElPOEMycHhzelJtNTVybVRDaXlwWFVHNUZKNFpEXy1pNWVWM2pfX0ppbWlCblFCUFU4ZlhOMlo4c2hDcERjTUtkajZnNVF3N2Q2WlU0UzV3cy1zUWdCeGdGVkpmQXZuVXFMR2NqV2FvQQ": 1793172339048,
+    "news:CBMixAFBVV95cUxQOFhXWXBUbk9MdE0zNDRDUXdxckYyUUtGZndPbUlwdmxzSlVXTlUzTkJNbE85QjhKRlFJS2lmV1R5aDBLNldRaWRUVTdWRUhSZGZ0T0JPeEhRUV9nNWlpN01RQ3BNOWdrUlk3UXhBSTM2RGZXc19GcUY5a0FOZUsydGFkcE9wUlNpSjNibWhaeDlHZWlNQzJXLU9GaXJKaVRoRVEtVndLSDBoSVoyQjE5V2NEOWgxekVoaFh4ZXA1ZTRQSFpp0gHKAUFVX3lxTE1jQnRGTFBYblh6UXBYbGpmNnVuZXJLU3BKNFprdjdaalBrSE5JamJ4WVFDaGVzTHlncVNZYVdWcV9PSjFyMHpzUDhJVUEzT0FuM2dGbEpfTGdLSTRwcUxuOWJWRFJMY0NJcl9PTTBneHZmMkQ3dGZGcU5NVHVJWU52QjdPM3lCdmFEUTBGb2pNZmc2WEFuNzVhOExPX3V4Uy1sa2l1YXJjZzFTZmVqMzNYR0t3RFNYYUg2ZU5BNjlUeVJkSXpHaGt1NkE": 1793172339048,
+    "news:CBMingFBVV95cUxPcDFHZk1qTkZmZEwwdElXWXRqQWRJbEthLVM0UnJlal94RzNVak1oeG05TFZVeURfdmxEa1lYVk9KaFBEQ3lxYUw4enhoeXc5ckNHcjRfZDh5blc4SVJQQzFfbTJtTnB6cTJuTUJFUW1hbkZVaC1Hb3ZLdnRaWjZ2dmNEam5XT0NPV2ttc0FSaWtoSXA4UXNLUEtMalYwdw": 1793172339048
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Melintas",
-      "x": "KSPSI Serukan Aksi Mahasiswa 28 Oktober Tetap Damai, Aparat Diminta Humanis - Melintas - Melintas",
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkw1bm9Ea2NkNU81cVQtMHc0YkpZQlFxV1JWczVqaFY5aTZiR2FRZ3RnVVFJb0dGNzlLcF9HZm8zZlh5Ty1pMkFHUHNKNmtUNFBadjNKRjNaT2F0ZEtlTGVPSkcxcDgtX2hscnZNLWVFN1N5U0ZKYi1oeTF2VXIzUVM5Z21HQnl5bFI2WXlIZFJsVXp0MGJQaU1XZGxHUVNWRW9OWHdUalV1UW9ENS1XdXFjMUVWS2s10gG4AUFVX3lxTE9OTDVub0RrY2Q1TzVxVC0wdzRiSllCUXFXUlZzNWpoVjlpNmJHYVFndGdVUUlvR0Y3OUtwX0dmbzNmWHlPLWkyQUdQc0o2a1Q0UFp2M0pGM1pPYXRkS2VMZU9KRzFwOC1faGxydk0tZUU3U3lTRkpiLWh5MXZVcjNRUzlnbUdCeXlsUjZZeUhkUmxVenQwYlBpTVdkbEdRU1ZFb05Yd1RqVXVRb0Q1LVd1cWMxRVZLazU?oc=5",
-      "d": 1793142000000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Bicara Network",
-      "x": "Pendaftaran Beasiswa Afirmasi Nakes Prioritas Nasional 2026 Dibuka! Ini 9 Prodi, Syarat, dan Jadwalnya - Bicara Network - Bicara Network",
-      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMnEzUTFmNU0wbVNRWnF0UlpwVVB0ZmY4V2VVVTdNZ0Q0OXdqdEs4MjQ5SEROZTNuaEhhblpzX1BXR0pUV3BqVHY4Z2VPaGh4TWd2bi1EYWJyWDZoeGpjSG5PM1hLOHZJR1lIWEFpaWQ5OG9pS1Q2REdZYm9vVFlxSV9IZlVBc2I4c3FHb0M4VktNdkpvcXc5QzNqWmIxb0x2TWpTRWpIal9rNTAzQm9XXzc0c0VzVVR3eHdrZ0p2SFhrc05qVzVzeDdlN1ZkQVJLQldYbU9rcXZRM29EUVFSdEpXbXV4dGdGMEdOR9IB7AFBVV95cUxPMnEzUTFmNU0wbVNRWnF0UlpwVVB0ZmY4V2VVVTdNZ0Q0OXdqdEs4MjQ5SEROZTNuaEhhblpzX1BXR0pUV3BqVHY4Z2VPaGh4TWd2bi1EYWJyWDZoeGpjSG5PM1hLOHZJR1lIWEFpaWQ5OG9pS1Q2REdZYm9vVFlxSV9IZlVBc2I4c3FHb0M4VktNdkpvcXc5QzNqWmIxb0x2TWpTRWpIal9rNTAzQm9XXzc0c0VzVVR3eHdrZ0p2SFhrc05qVzVzeDdlN1ZkQVJLQldYbU9rcXZRM29EUVFSdEpXbXV4dGdGMEdORw?oc=5",
-      "d": 1793156340000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@huffadz_tahfizh",
-      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
-      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfBKzEok-do",
-      "d": 1793148090000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@maghfira.rmdhani",
-      "x": "Yap betul. Kalau mau pembaharuan mandiri lewat aplikasi cek bansos atau kanal dtsen-bps.go.id Tetap ke kelurahan untuk minta tanda tangan lurah di surat pernyataan yang udah diisi.",
-      "u": "https://www.threads.com/@maghfira.rmdhani/post/DfBtoTQkX_M",
-      "d": 1793166352000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@khaliefalwi",
-      "x": "Modal Rp12.500 buat nyobain model AI-nya Meta yang skor benchmark-nya 48. Worth it nggak? Worth it banget. 3 API key Muse Spark cuma Rp30.000. Saldo total $60. Ini sih bukan promo,",
-      "u": "https://www.threads.com/@khaliefalwi/post/DfBtIHFIxn4",
-      "d": 1793166089000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "nusaperdana.com",
-      "x": "Pendamping PKH Tak Selalu Tahu Bansos Cair, Ini Penjelasan dan Cara Ceknya - nusaperdana.com",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd05vRmwyd2JZMXhTbkoyX3BBV2V0S0ZVczljQkpPaEhwNVNzcW5EdHNubWFFR1lqV1F3azBXZFNKcTdoOXk3bDJSM1pjSEhvMFhTb0Q1aUc0ZnFSZHZFdW83NGFyZ3dVYVRPWHg4WnJDdHhwRGpNVFVOTG1faTZJZjJrYzgtU3VXWExmYzdyWlFaQUJDMVlzcXRtbVFFQdIBrAFBVV95cUxQR0k3RXQ5ZFFFYWFveENOQktVazBrTmh3eFJ4TzZLY1p3emxJS2lSRkh1YXBQN2tBbk1ocWRHYm1HYXZMWEN4MUZKam9VUDd0U0NTckJOVTV0YjRzNEdnQmR0LXd4dlYzVThwMjBkckV0T0NxbnFsUzVIdGNoN3dPZTJHYXpGU3g2Z1Zib0tfRGtYMGdaZ1pOWFk0Ymh6dFg3QVE2WWtGMlE1eDJQ?oc=5",
-      "d": 1793142122000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "MetroTVNews.com",
-      "x": "Ini 5 Beasiswa yang Diminati Anak Muda Indonesia, dari LPDP hingga Djarum - MetroTVNews.com",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSmhSRnhDSjJMcEFqM3ZnRHRQb0F4ZEkwdWZrS19LR1ZfN3hxSzBSV1hxcHJTT25QNlVkTVlGRmhFdXI5NnYwb2x3bFlzNWd2WDVKbnNMQ0JOUFU0dER0TzVTV0FJOVV3MGpYczhxLUU2Q3lubXplN2NyZXpQLVZsU3RTM1o3bWxfOWJfaS1XTENCdUZKNFdmZ0VCcElyZ295Y19peV9wWW5jbTJldjNYRld6Y1U?oc=5",
-      "d": 1793166274000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Kabar Penyaluran Susulan Bansos PKH BPNT Tahap 3 Cair Per 28 Oktober 2026 - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0dmVjAtenZwbzM1ckhRbTE0VmRFWWhvTU1CREl4aUE2MGxyTHczXzRtclQydDEtQW9FVjNkelZIVF9TaEhjdWxpc0Vqc2Jfc2U3a2Q1V0pnQTNUQVBYdFhIclZGQl9ZaERrMUFmYVFrMm5KWTVxZXIxMGs3VFBzS2hqU0NZamthOUYyb2s4MWxIQWtrTmZpSFRBZlhwcDI5Vnd2cVZVdU15SzlHQl9vT2hyRjBDSTI0SkRlX2Y0SdIBxAFBVV95cUxQaXJ6Q0ktdXFJanBIZWpVS0p6RlhEelFobHRxS0ZOMFI0YTZzZmFwR1RaMGpLT0FHeHJqRXVzNERrb2U0dm9ueUpyb1FzSzljZF9UdWZDRGpWTy1mTEdSRW5ZNWJkNmxJOG5UTUI1UjEwLXg5bUxpQy1yRW1qT1QtR3BIRGNSNGIzQ3BteGd4NjF3dC1YRHMzSWNYd3NJblVnMWdHdTZGS25xWmFyVHlqaVVuRExORU9GVXRFeEpNY0tDODNq?oc=5",
-      "d": 1793166254000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27409,10 +27337,90 @@
       "d": 1793162700000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfBELaYk_b4",
+      "d": 1793144620000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lp3i_tegall",
+      "x": "🎓 Penerimaan Peserta Didik Baru LP3I Tegal Tahun Akademik 2027/2028 resmi dibuka! Kuliah lebih singkat, fokus skill kerja, dan berkesempatan bekerja sebelum wisuda. 💼✨ 🔥 Beasisw",
+      "u": "https://www.threads.com/@lp3i_tegall/post/DfB3B_iF4ci",
+      "d": 1793171282000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yayuksr47",
+      "x": "Aplikasi cek bansos kak",
+      "u": "https://www.threads.com/@yayuksr47/post/DfB46cKE4eO",
+      "d": 1793172268000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@_nuruul",
+      "x": "Aku udh download apk cek bansos ko cuma halaman awal apknya doang yg keliatan ya, ga kebuka bukaaa ampe kesel",
+      "u": "https://www.threads.com/@_nuruul/post/DfB46X6E-wK",
+      "d": 1793172267000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nursaidahnasution91",
+      "x": "Coba update di aplikasi cek bansos ka,. Aqu wktu itu coba2 update aplikasi cek bansos, tp ada jg suruh isi form dr RT, desil ku lgsung turun jd desil 1,..ahahhahaa..turunnya drasti",
+      "u": "https://www.threads.com/@nursaidahnasution91/post/DfB4gFMEb9x",
+      "d": 1793172052000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "NU Online",
+      "x": "Baznas Luncurkan Beasiswa Cendekia untuk 300 Mahasiswa di Timur Tengah - NU Online",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2dwTjJPdkdPUnlsd2hqY3BTOHJETUVfZklBdFh1bTJZMDRuZWF6ODc5SjN2UGFlSU02SDl5eUJyX0tBR1ZmLW1wWmdfc3Rqdjc4R1I1Zi1vRDBUTE14QnlNNFFTdUlvVlVYbnptNi10cFl0czJzN2xHS1VTNWpqOGYzYTRsYWU3Yi0yZXRXQ0xZX3NXbHIyTmVXbkZtMk9RNGhfRdIBqgFBVV95cUxNb1I5M0JWc1FKd215bk1nVDZxZHZncGdHdldvcGJ6U2tiWDVqd3NVdVR4a0NBazh5MHBQVzNEbjhicElPOEMycHhzelJtNTVybVRDaXlwWFVHNUZKNFpEXy1pNWVWM2pfX0ppbWlCblFCUFU4ZlhOMlo4c2hDcERjTUtkajZnNVF3N2Q2WlU0UzV3cy1zUWdCeGdGVkpmQXZuVXFMR2NqV2FvQQ?oc=5",
+      "d": 1793112300000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Pertukaran Pemuda YSEALI PE 2027 Dibuka, Profesional Usia 25-35 Tahun Gas Daftar! - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFhXWXBUbk9MdE0zNDRDUXdxckYyUUtGZndPbUlwdmxzSlVXTlUzTkJNbE85QjhKRlFJS2lmV1R5aDBLNldRaWRUVTdWRUhSZGZ0T0JPeEhRUV9nNWlpN01RQ3BNOWdrUlk3UXhBSTM2RGZXc19GcUY5a0FOZUsydGFkcE9wUlNpSjNibWhaeDlHZWlNQzJXLU9GaXJKaVRoRVEtVndLSDBoSVoyQjE5V2NEOWgxekVoaFh4ZXA1ZTRQSFpp0gHKAUFVX3lxTE1jQnRGTFBYblh6UXBYbGpmNnVuZXJLU3BKNFprdjdaalBrSE5JamJ4WVFDaGVzTHlncVNZYVdWcV9PSjFyMHpzUDhJVUEzT0FuM2dGbEpfTGdLSTRwcUxuOWJWRFJMY0NJcl9PTTBneHZmMkQ3dGZGcU5NVHVJWU52QjdPM3lCdmFEUTBGb2pNZmc2WEFuNzVhOExPX3V4Uy1sa2l1YXJjZzFTZmVqMzNYR0t3RFNYYUg2ZU5BNjlUeVJkSXpHaGt1NkE?oc=5",
+      "d": 1793145704000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "BeritaSatu.com",
+      "x": "Cara Ambil Bansos Rp 600.000 secara Tunai, Cek Syaratnya! - BeritaSatu.com",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDFHZk1qTkZmZEwwdElXWXRqQWRJbEthLVM0UnJlal94RzNVak1oeG05TFZVeURfdmxEa1lYVk9KaFBEQ3lxYUw4enhoeXc5ckNHcjRfZDh5blc4SVJQQzFfbTJtTnB6cTJuTUJFUW1hbkZVaC1Hb3ZLdnRaWjZ2dmNEam5XT0NPV2ttc0FSaWtoSXA4UXNLUEtMalYwdw?oc=5",
+      "d": 1793172060000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
