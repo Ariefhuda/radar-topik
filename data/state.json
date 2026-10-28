@@ -27070,19 +27070,10 @@
     "threads:Dd8-aj_E-oV": 1793208050756,
     "threads:DbmqnQdkixu": 1793208050756,
     "threads:Dev2bAkk-yS": 1793208050756,
-    "threads:DbidvkfD64e": 1793208050756
+    "threads:DbidvkfD64e": 1793208050756,
+    "threads:DfC9mpWE5Q7": 1793208342029
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Foto : Cara Cek Bansos PKH BPNT Tahap 4 2026 Lewat HP, Cukup Pakai NIK KTP Halaman 2 - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0tWcnJ1SnhoZm4wczRmS3RqWVJnSk9pVy1XVmJFSGZlZjFZa01PZXI4Y3g3akRmT1c3eUpmeTRqMGxxYk8xYWh0X01PZWRlWUI5NHktV3FuaDNuYnpfNEJtSEludGs0V0VvN1A5U0drSmxDR0hRN1J0eDJKV2k2Y3NULTU1M0tFTTNZZjF3elhzcWZPMDdFX3N5UmdiaFNFWkhPRFB1dDIwd09fazkzUlFWSXljdGlCcFNEalRuQ25wazg?oc=5",
-      "d": 1793190719000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28572,10 +28563,20 @@
       "d": 1793155282000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@imansyul_",
+      "x": "Bisa diubah kak di aplikasi cek bansos, ada diplaystore. Kalo emg gak dpt jg saranku diubah aja kak, biar itu bantuan gak nyangkut ketempat lain.",
+      "u": "https://www.threads.com/@imansyul_/post/DfC9mpWE5Q7",
+      "d": 1793208282000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
