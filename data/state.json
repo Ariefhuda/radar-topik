@@ -26773,7 +26773,12 @@
     "threads:DfCn5twGooM": 1793197244555,
     "threads:DfCnvyREbVp": 1793197244555,
     "news:CBMijwFBVV95cUxPRHBpaGFKb2VDMEVzMWx6MzA0am80SkUzZ1ozU2RDbS1ZR0pkR2ZSYUFXdUI0enRveWh0V25NelBWRG90ZjE5TDdvSjZBTVB4MVg1Rl9zS3dwOHJFMHYwR2ZNaGJKZmtoVDZQSVN2N3AtZFVYUDRjSVlwZG8yR2tIQWpNSHFHRlpKTXVzNzlXbw": 1793197244555,
-    "news:CBMivwFBVV95cUxQSTRCWkRfOGFMd1NodDRHaDNRdGFJbFh5WXhEYzBLVWZMWVJRRndhTTY5T0NlTGJXdGlONkxhUmtSV1hfTndnYUN6dWFwWE5xUkloSFNVUXpSblI0a19EV083dlNneGQwQTNkc21Oc3NJOGM3RDg5Vi1iTWN0dUxCamNPMkEyWkFwczJUSjB6ZGJPU21BX2x0MzJ4QlR1N2lKNmhvZ1BFd1Q4X0VUS0tEaHZWMG1fdjRzNTNpaFFYRQ": 1793197244555
+    "news:CBMivwFBVV95cUxQSTRCWkRfOGFMd1NodDRHaDNRdGFJbFh5WXhEYzBLVWZMWVJRRndhTTY5T0NlTGJXdGlONkxhUmtSV1hfTndnYUN6dWFwWE5xUkloSFNVUXpSblI0a19EV083dlNneGQwQTNkc21Oc3NJOGM3RDg5Vi1iTWN0dUxCamNPMkEyWkFwczJUSjB6ZGJPU21BX2x0MzJ4QlR1N2lKNmhvZ1BFd1Q4X0VUS0tEaHZWMG1fdjRzNTNpaFFYRQ": 1793197244555,
+    "threads:DfBAXgbEzZr": 1793197560205,
+    "threads:DfCoQOSjMu0": 1793197560205,
+    "threads:DfCn0TCkZkd": 1793197560205,
+    "threads:DfCoRu_k6_7": 1793197560205,
+    "threads:DeLyUlqE-On": 1793197560205
   },
   "digest": [
     {
@@ -28175,10 +28180,20 @@
       "d": 1793196606000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yesirahmayani",
+      "x": "Yuk kak belajar bareng, kebetulan aku ada info webinar gratis hari jumat jam 19:30 tentang cara mulai punya penghasilan tambahan, webinar ini cocok untuk pemula. Bangun penghasilan",
+      "u": "https://www.threads.com/@yesirahmayani/post/DfCoRu_k6_7",
+      "d": 1793197100000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
