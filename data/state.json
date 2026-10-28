@@ -25890,69 +25890,26 @@
     "threads:DZOxSOaCZIA": 1793171771200,
     "news:CBMivgFBVV95cUxQVGtuYjBwMmpxbnlMWEg0WFY0QzNROUxhZmlMTlBhbFNOMkNrNGtCa0FyLU0tRWRRRTNQSzVfRDdTWnlKNWZ2TlhEN1dQUVRwc1V5Q3BqZEV3REx1T3ZZYnVUOXctTVI3OHd3NTN5LXZXaGRuSVplN3BISG1udTJNa2FzN2hoRk9FM3Y1T1NmWDhYYWFUYWd0UzRacTVQYmxTemxIZkVDUWRFZjFVZ0tralBIV3JJb3BUME45OU9B0gHDAUFVX3lxTFBlSkcyVnQwRDFUUlZucHBFa0NCZkZncDdYNUMyWExlOV9VZllOSHJabWVNOU1VNkwyWWtXWlN1WDduQUhEODBsNElFMU1MSENId3JoYkhQSm9ybzViQlI3cGZXOWMzSmNHbXo5ZkVoYjctb3l2Z0ItSHBMR0l3eDRTNi1EenU1QTRUOUM5SDI5X1VfMENxMGVrME4xamdpTmRIWGJsamhqRkR5N2h4LUVBWVN0OS10aVRWRzl4UWp0RUJsTQ": 1793171771200,
     "news:CBMi5AFBVV95cUxOcHJjeXF6WXI2aGRIb01YTzBtT09Mc3NfM1ZOUXZuNlVwNVdaSml4bnNqa0QwVTdwQ0FxVHpBd2xIMVdVZVRxaUZFellqQUlMYWNqUTNyMGhqcFZYWG9WUkplN2hUeXY3Zk9Yb3lMelRsZGduQ2ZJSXNET1JwZXJqZkFwbHVLQkd3ZWZvbGJJRjE0OVVaS09FeUhtWWxSeC1qQ0dOTUdTT1Ytc2hGNzNmRzFkMnp4bEE1OUVGc0RmYUFHdENsWG5JNW1RUDJxRGc2LUI0RTRfTVZGSW5RaEdBQ1pBambSAeoBQVVfeXFMTnhmVmVuNXByc3JsXzQzTFE0UHlyaUNidVNCMnFqZUU1YUVxVDY1RzF0aE9odTFuOGZpTVV3SG9POFFYcFc1aEprcFlyU1RpV2FQXzZrMy1iX2pPY2lRSWp1VThMZGVrZzN0UmNtR0I4aUZ4d0J4S0N0UFd1dDkyV3BVWFhNcTNDMnBsaXU3c0VtSzNoMXk3Mzdnd2Z5UDdocWI4Xzg2TFZvY0N1NmtkUldnRTl5aGhWemtPOU9LWURaS3VCN0Yzd2NVUEQtZXFTOHJpbXhYN2hXY1N1N0lmNGJacFlpeFRMckV3": 1793171771200,
-    "news:CBMi5gFBVV95cUxQVmdQcG1mLTlmWlVlVlRpMDFBblFVQklBajFpZC1xZG5fekJwcXVQT3pRMVlydS1Cc2FrTXdHWDlXWi1iX2MzdUJlQjlpVTIzai1ac3E3aFdQbTFYQUxPX0JDcEhMLUxNQXZvcmtmbWlhQVpUQ2pINDh5dzdGa3k5dFhpVkM0R3ZlY0x3OXZWS3hNSklKalI5SzRfMDBFclVuUzZyc3JtdkxrdGhIYndXSGFsV1p6SDNucU1yTkUwUUlKOUs1RTdyNnJ2UzNsX1YwZVEtWjMzUU1oR19LdmNuRmtYOENId9IB3wFBVV95cUxQNVYzLWx2aTdDNjgtZThLNkdoSWlQRkRKbXJSQ1dlOUNWWnZSRklRV29WV1ZvV2h3eDJjMXlfRkk3dDc0dUV0WUtjOXZlbGQ2Z21YZXFQR3BNZ3ZPbXJhRFBoa1RUNVg0dy0zSXE1RU4tLXpBRy1pdFlHaUp5SEllaWZDV1ZJTi1KYlhCQXB6N1BfWThXWm1yeFYwR1pxS3BOT2xNOVh6bHhlcUhOVUlXSGNsempQODdmaDFHU3RQakNpWTJ1YjNoRFVQX2piZXhucTNCZ2dDb3dUUjRmdlE0": 1793171771200
+    "news:CBMi5gFBVV95cUxQVmdQcG1mLTlmWlVlVlRpMDFBblFVQklBajFpZC1xZG5fekJwcXVQT3pRMVlydS1Cc2FrTXdHWDlXWi1iX2MzdUJlQjlpVTIzai1ac3E3aFdQbTFYQUxPX0JDcEhMLUxNQXZvcmtmbWlhQVpUQ2pINDh5dzdGa3k5dFhpVkM0R3ZlY0x3OXZWS3hNSklKalI5SzRfMDBFclVuUzZyc3JtdkxrdGhIYndXSGFsV1p6SDNucU1yTkUwUUlKOUs1RTdyNnJ2UzNsX1YwZVEtWjMzUU1oR19LdmNuRmtYOENId9IB3wFBVV95cUxQNVYzLWx2aTdDNjgtZThLNkdoSWlQRkRKbXJSQ1dlOUNWWnZSRklRV29WV1ZvV2h3eDJjMXlfRkk3dDc0dUV0WUtjOXZlbGQ2Z21YZXFQR3BNZ3ZPbXJhRFBoa1RUNVg0dy0zSXE1RU4tLXpBRy1pdFlHaUp5SEllaWZDV1ZJTi1KYlhCQXB6N1BfWThXWm1yeFYwR1pxS3BOT2xNOVh6bHhlcUhOVUlXSGNsempQODdmaDFHU3RQakNpWTJ1YjNoRFVQX2piZXhucTNCZ2dDb3dUUjRmdlE0": 1793171771200,
+    "threads:DfBReq2Eo1_": 1793172047136,
+    "threads:DfB33nDleUa": 1793172047136,
+    "threads:DZ4RSmQFLfh": 1793172047136,
+    "threads:DQqYNKWk4FX": 1793172047136,
+    "threads:DcIo0ihFP2n": 1793172047136,
+    "threads:DX78GykEioZ": 1793172047136,
+    "threads:DUep3Zok0qD": 1793172047136,
+    "threads:DfB4myxGUg1": 1793172047136,
+    "threads:DfB4mWgGqDo": 1793172047136,
+    "threads:DfB4j99GdqZ": 1793172047136,
+    "threads:DfB4g36GaOo": 1793172047136,
+    "threads:DdQHvInEZ4D": 1793172047136,
+    "news:CBMiuwFBVV95cUxPdHdZX0laUUlYNDJYVThuU29RM0cxSDkyd1prUnRMeDVBcGk0Z2JhSG1zZE5YdmlScDNieXZ4S2l1TmhqQjF6VkxnUXo0MnNkMUFWTk5zOTFJTWx0akR4RmpfdmJTVFpEdGtHTVhDMUgyYVZFYTBieWdiaVMwZ1BDQzY2dnd4UmhPZnNITTM3VEMwaEVFTm5OLVdTZkJkUEk4Mm8yWjBxSk9sMVVFZkctaTBoZFBMQVZOM1Y00gHAAUFVX3lxTE95cmdfQlo4MmtEcDk1aEtSUm1kdzVXUDJjd0prekxfRkE4STZ5c0VCcXFCQnN2T1dLNGgzOW55Q3NKdS1qTnRmVFFKNGlSRC1UdTlnQ1c5eTR2LUxmQ0ZZU2FvUWN2SVdmV3FvTThsZXNWZnNOUkhlNHNCNkRVNkRTT2lsM0tHSWhNX2JoVTEyejRfYXZJXzVnak1uWVVvUU9vWmItNURKNG8tQ3R3Q0FOLWJfT1U4dUQxNXpGWThtdg": 1793172047136,
+    "news:CBMitwFBVV95cUxNTVRiaUhiaTc0UzIzWU1adGVxbnlYV2dRT3ZYTTFfa3ZLTURTYUFyWGlvdjRNalJLd0N2NTlIejVtVVJRR2xfcXF2Z3E2UWtoVGxNLVhqNFhmb3k1ZUg2Vk44aDN0bVFjbWdLaVJUUWE3RzVaa1pZQlh5UHF4c1B3QVVlcm9jVjVxeEdwcWNjdlZfMHEtOWpLcXlkMFBrQllsZjViT2tmVFhBWDBKeTctRXgwSDNvZHfSAbcBQVVfeXFMTU1UYmlIYmk3NFMyM1lNWnRlcW55WFdnUU92WE0xX2t2S01EU2FBclhpb3Y0TWpSS3dDdjU5SHo1bVVSUUdsX3FxdmdxNlFraFRsTS1YajRYZm95NWVINlZOOGgzdG1RY21nS2lSVFFhN0c1WmtaWUJYeVBxeHNQd0FVZXJvY1Y1cXhHcHFjY3ZWXzBxLTlqS3F5ZDBQa0JZbGY1Yk9rZlRYQVgwSnk3LUV4MEgzb2R3": 1793172047136,
+    "news:CBMipgFBVV95cUxQMGVHU0FER0VRVzc1anVsSjNQQW9fZllnancxTlFXLU1RckZUR0Fmbl9jQXpjTmZPXzhrZ3BEQ1lmbmY3X3lhY3V2SjJLNG05NDBRbHVRUDFtaG9pQ1V0RjZVMEp5VHl2dE1IZUJVTjNQRHF2SzVZblQ4Z2VRekhRanR2a3JTRVFfU216emVlaU1ncmRNNm9ncE4wTGNGUzJvSi1RX3Zn0gGkAUFVX3lxTFBNdUw1REUxaU02S3ljMXBfcVowQkFycl9KaDJ2b2JiRkFMTEVXM0JmUUtWOWpUdVZrWUR1bG5ndGM1NnpKYV9rTW1YYVdTTlpqOG9VTzVETWRUSk5IYV9QM015QlNqbF93WnkyMkFKRHV4SFNXOUZ6NU94aGV0WlJDdUtBT0pLbmZNR1I0X0JHcjJYc0xHYXI1MURKNHJaQXQza2JB": 1793172047136,
+    "news:CBMiuwFBVV95cUxQdUNnQmtvQVoyOUE2dzYtRlJYRlpSRmp5b2ZfVEhnNXZIbVpCbUNER0FiQzViNUdmcE9IbmRvRzFzX3ZwLUdXNk9VZ1BlNVhGN2lBTVVfN0s0ajNsUmNnN0pocy1xQXVwVlJ6RG91TTlsQVBpV0xzYjRFNHZZRTJnekU5LU1NbWF4cUtmb1IwcVRRXzlyWndaelB0QmxCaVYxMEE3aFJ4RHo4cHh4UkpaZlhuRS1UbE0xcDJr": 1793172047136,
+    "news:CBMi8wFBVV95cUxNZ0lmZ2pEcVdkSW5kSmxXTjFGN09wYkVHSmJpRFFVQ0tSZnNTV1JNcDZscXFFTWJPcDhCYldBXzhRWmJyWDIxRnkwVXN6c1oxRy0zOGNZQng0bUtzX0g0TDB2Yll0eG5TRVBuODlKd1gyUUFWT29DY0V1bGdlS1I5cGlwd04zWVdLS2lENkhCYjBQTU9EWVJTUEJUVWRRYTBfV3ZGM29zcXdzUUdvN0Y3WDZEZEVsRkFPSTVhaW9EQVB3UU5WUXB4cEtHclRmYlhGM0NIblNEMlhUVzVwbEpMWThpM3RTMmJaRWszOUpLcWsyMnfSAfMBQVVfeXFMTWdJZmdqRHFXZEluZEpsV04xRjdPcGJFR0piaURRVUNLUmZzU1dSTXA2bHFxRU1iT3A4QmJXQV84UVpiclgyMUZ5MFVzenNaMUctMzhjWUJ4NG1Lc19INEwwdmJZdHhuU0VQbjg5SndYMlFBVk9vQ2NFdWxnZUtSOXBpcHdOM1lXS0tpRDZIQmIwUE1PRFlSU1BCVFVkUWEwX1d2RjNvc3F3c1FHbzdGN1g2RGRFbEZBT0k1YWlvREFQd1FOVlFweHBLR3JUZmJYRjNDSG5TRDJYVFc1cGxKTFk4aTN0UzJiWkVrMzlKS3FrMjJ3": 1793172047136
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@nunwauw",
-      "x": "Gimna caranya kak ? Aku udh coba ubah d aplikasi cek bansos nya, tapi desilnya tetep belum berubah turun",
-      "u": "https://www.threads.com/@nunwauw/post/DfBsgjXmMwk",
-      "d": 1793165765000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@nikenayuast",
-      "x": "Bener aplikasi cek bansos kan?",
-      "u": "https://www.threads.com/@nikenayuast/post/DfBq-WOj3SF",
-      "d": 1793164960000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@iia_indonesia",
-      "x": "Saatnya Perpanjang Keanggotaan IIA Indonesia Anda! Sehubungan dengan akan berakhirnya periode keanggotaan tahun 2026, kami menginformasikan bahwa perpanjangan keanggotaan IIA Indon",
-      "u": "https://www.threads.com/@iia_indonesia/post/DfBsYjEE8Yy",
-      "d": 1793165699000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arief_bekasi",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@arief_bekasi/post/DfBsE4BoOK5",
-      "d": 1793165538000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Radar Karawang",
-      "x": "Shell BLU CRU Yamaha Enduro Challenge Merapat ke Kuningan, Adu Nyali di Trek Menantang - Radar Karawang",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3VBaTJQamhOclVVdXc1N2xxaWM0RTMydTduMlBnamJMNWpTVDFFaVlCT0dQZGt0N0pXa3dISmVJYnllMkM4WW9RWHdTaHhOaUpuS2JzdHAyNjRkX2REeklId0dTOE9oWmR4Q0d0SGNQQThqdEthMEZQWFRKNHhWamN2VFVRMzdpVWRUcEJfVXp2ZVN0YnlKakwxX0psaW9tTWl0YXZLSGY1ckJqV2dNaFBLV1ZsM0pFVFE?oc=5",
-      "d": 1793165943000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Melintas",
-      "x": "MagangHub Batch 3 Dibuka, Simak Jadwal Seleksi dan Tahapan Pendaftaran Magang Nasional 2026 - Melintas - Melintas",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFk1OTk1LUNZeEc2OEVoUHQtS2w2NEd3bDhiUVJ1T3NKTHZNOGwyWlgzcjZ2Z3hTdnhEX1Zrbk40VzE5b0plWWpsSzBoUFp0eWE5bWxJMk9aYzl5UWVEMS02TDhlVUJQZUNyeTh2VlBUTzNJMkI1N1lxWWNmUjlIZ0VBYzM0dkY1QkNLcHlZYzRWV0dPZnpnREdnX2QtcHZuUEpHVDljTFhqSzFsRFlYN3ZlYThKT3dxRGt4ckZ4bUpwVnE5eXBxVdIBzgFBVV95cUxPd3J5TWUtZXNJM1ZDWmJsNjhGU3c5bURjUS0yYnBycHVHcW1GZURqRFphbXdvZWhBY3BlNEc1cXQ2NlVvNG5VenZ5RGNqazJXUW8wMzhLb3M5WEhPVUZQYUJmcTgzYWtfYXNWMlhhQVAtVjN1N0xZNzJsSXZyam5WYVc4WGZYM3RjTkhKbVpBclVuNDNPOE9EM3lsQkdBWER5OHRtWEEzaklZS0QyejhPV25zVllvdnVjY0VGVjVHSWlSQ3VGVkp2UWFXZGZkdw?oc=5",
-      "d": 1793141100000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27392,10 +27349,70 @@
       "d": 1793091600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfB33nDleUa",
+      "d": 1793171721000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/DfB4myxGUg1",
+      "d": 1793172107000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@grahawisatasurakarta",
+      "x": "Halo, Warga. Graha Wisata Surakarta membuka kesempatan buat temen-temen semua yang mau menambah hard skill maupun soft skill di bidang perhotelan. Pelatihan ini terbuka untuk umum ",
+      "u": "https://www.threads.com/@grahawisatasurakarta/post/DfB4mWgGqDo",
+      "d": 1793172103000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/DfB4j99GdqZ",
+      "d": 1793172084000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/DfB4g36GaOo",
+      "d": 1793172059000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Samarinda Pos",
+      "x": "Program MBG Disorot Usai Kasus Keracunan Berulang, Chef Arnold Minta Kepala SPPG dan Tim Dapur Diberi Pelatihan Gizi - Sapos - Samarinda Pos",
+      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ0lmZ2pEcVdkSW5kSmxXTjFGN09wYkVHSmJpRFFVQ0tSZnNTV1JNcDZscXFFTWJPcDhCYldBXzhRWmJyWDIxRnkwVXN6c1oxRy0zOGNZQng0bUtzX0g0TDB2Yll0eG5TRVBuODlKd1gyUUFWT29DY0V1bGdlS1I5cGlwd04zWVdLS2lENkhCYjBQTU9EWVJTUEJUVWRRYTBfV3ZGM29zcXdzUUdvN0Y3WDZEZEVsRkFPSTVhaW9EQVB3UU5WUXB4cEtHclRmYlhGM0NIblNEMlhUVzVwbEpMWThpM3RTMmJaRWszOUpLcWsyMnfSAfMBQVVfeXFMTWdJZmdqRHFXZEluZEpsV04xRjdPcGJFR0piaURRVUNLUmZzU1dSTXA2bHFxRU1iT3A4QmJXQV84UVpiclgyMUZ5MFVzenNaMUctMzhjWUJ4NG1Lc19INEwwdmJZdHhuU0VQbjg5SndYMlFBVk9vQ2NFdWxnZUtSOXBpcHdOM1lXS0tpRDZIQmIwUE1PRFlSU1BCVFVkUWEwX1d2RjNvc3F3c1FHbzdGN1g2RGRFbEZBT0k1YWlvREFQd1FOVlFweHBLR3JUZmJYRjNDSG5TRDJYVFc1cGxKTFk4aTN0UzJiWkVrMzlKS3FrMjJ3?oc=5",
+      "d": 1793162700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
