@@ -27294,7 +27294,19 @@
     "threads:DfDXX7hk8Wy": 1793225448942,
     "threads:DfDPBd9k8Hv": 1793225448942,
     "threads:DfDespRE-PF": 1793225762727,
-    "threads:DfDd6THAZG3": 1793225762727
+    "threads:DfDd6THAZG3": 1793225762727,
+    "threads:DfDfR1CDC8p": 1793226043363,
+    "threads:DfDfkC4kmys": 1793226043363,
+    "threads:DfDfg5SjM_-": 1793226043363,
+    "threads:DfDfKvolsvy": 1793226043363,
+    "threads:DfDSjIZEnPq": 1793226043363,
+    "threads:DfDe1HJoNNH": 1793226043363,
+    "threads:DfDePyOk0_u": 1793226043363,
+    "threads:DfDdWSslkj9": 1793226043363,
+    "threads:DfDcJE9E9Dk": 1793226043363,
+    "threads:DfDdNNljzqa": 1793226043363,
+    "threads:DfDdFMIkudk": 1793226043363,
+    "threads:DfDc4g4idwF": 1793226043363
   },
   "digest": [
     {
@@ -28799,13 +28811,14 @@
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793217048338
+    "reddit": 1793217048338,
+    "news": 1793226043363
   }
 }
