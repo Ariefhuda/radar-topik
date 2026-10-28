@@ -26778,7 +26778,11 @@
     "threads:DfCoQOSjMu0": 1793197560205,
     "threads:DfCn0TCkZkd": 1793197560205,
     "threads:DfCoRu_k6_7": 1793197560205,
-    "threads:DeLyUlqE-On": 1793197560205
+    "threads:DeLyUlqE-On": 1793197560205,
+    "threads:DfCoPfOEj1O": 1793197858602,
+    "threads:DfCpWmBD8LA": 1793197858602,
+    "threads:DfCpbQ2AaXd": 1793197858602,
+    "news:CBMid0FVX3lxTE0xajBic00tTk9GTnl6bEtQZjdWLTJmejUxZFkwWlA4OW5LaDROTVBIYkVONmZoUmt0QkZQSHhYZVNLbmVHSUFJOUN3cFc1R1VWS2VRNjJqVWcyZVFPeHpaQURzbnNoU0Z3SmFHX0R4ZkY2WVdSTS1v": 1793197858602
   },
   "digest": [
     {
@@ -28190,10 +28194,50 @@
       "d": 1793197100000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rismairagallery",
+      "x": "Temanku mau SC bulan depan BPJSnya PBI. Rencana mau pindah mandiri biar cepat karena saat cek desil tidak sesuai jauh sekali, desil 6-10 Hari ini sudah mendatangi BPJS lalu disaran",
+      "u": "https://www.threads.com/@rismairagallery/post/DfCoPfOEj1O",
+      "d": 1793197082000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@alfar_chen",
+      "x": "@meta.ai meta di pelindos Uda d sanggah trs d app cekbansos kenapa d minta datanya lagi tlg jelaskan pdhl kan sama saja...waktu q ubah data app cekbansos mlh GK bisa foto",
+      "u": "https://www.threads.com/@alfar_chen/post/DfCpWmBD8LA",
+      "d": 1793197665000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Bukan double input kak, itu 2 lapis verifikasi yang beda fungsi. Sanggah di Cek Bansos itu usulan dari warga, sedangkan di Agen Perlinsos harus input ulang + verifikasi biometrik w",
+      "u": "https://www.threads.com/@meta.ai/post/DfCpbQ2AaXd",
+      "d": 1793197703000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ChatNews.id",
+      "x": "Cara Cek Desil Bansos PKH dan BPNT Secara Online - ChatNews.id",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xajBic00tTk9GTnl6bEtQZjdWLTJmejUxZFkwWlA4OW5LaDROTVBIYkVONmZoUmt0QkZQSHhYZVNLbmVHSUFJOUN3cFc1R1VWS2VRNjJqVWcyZVFPeHpaQURzbnNoU0Z3SmFHX0R4ZkY2WVdSTS1v?oc=5",
+      "d": 1793192629000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
