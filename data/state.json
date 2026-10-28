@@ -27271,19 +27271,16 @@
     "threads:DfDbAaPgfjH": 1793223945505,
     "threads:DfDa5Hole4b": 1793223945505,
     "threads:DfDa4WdjujK": 1793223945505,
-    "threads:DfDaeerE5hS": 1793223945505
+    "threads:DfDaeerE5hS": 1793223945505,
+    "threads:DfDcbkXD0rw": 1793224544994,
+    "threads:DfDcJxdAH6F": 1793224544994,
+    "threads:DfDb5jqnR3y": 1793224544994,
+    "threads:DfDbq1wGj2H": 1793224544994,
+    "threads:DfDbpj3miX0": 1793224544994,
+    "threads:DfDbmMzje1l": 1793224544994,
+    "news:CBMic0FVX3lxTE5ENkc0a2lzNXpqNDhTT1o5bUIxaE1ZdHFpYnVIVHQyZy0yQUQwTU1JQXVlNGNwMzVRWk5jV2dVMEZSOHpnR1ZwQ0dFbDZjWnVTVHRwM0QtWVBLRm5HVmRsemxiMk01eWY1WDdsR0hLenh6LXc": 1793224544994
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@lindasallydiana3",
-      "x": "Aplikasi cek bansos kak. Klo desil kamu tinggi dan ngga sesuai sama keadaan kamu, kamu bisa pilih sanggah dalam Aplikasinya, jd diajukan buat turun desil",
-      "u": "https://www.threads.com/@lindasallydiana3/post/DfCsRciknUj",
-      "d": 1793199195000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28773,17 +28770,26 @@
       "d": 1793223419000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "PKH BPNT Tahap 4 2026 Bisa Dicek Lewat HP, Status Penerima Belum Menjamin Dana Sudah Cair - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ENkc0a2lzNXpqNDhTT1o5bUIxaE1ZdHFpYnVIVHQyZy0yQUQwTU1JQXVlNGNwMzVRWk5jV2dVMEZSOHpnR1ZwQ0dFbDZjWnVTVHRwM0QtWVBLRm5HVmRsemxiMk01eWY1WDdsR0hLenh6LXc?oc=5",
+      "d": 1793218560000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793217048338,
-    "news": 1793224253158
+    "reddit": 1793217048338
   }
 }
