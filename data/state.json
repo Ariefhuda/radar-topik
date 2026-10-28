@@ -26721,7 +26721,16 @@
     "threads:DfClLaeEnEN": 1793195739619,
     "threads:DfClKMtEuSc": 1793195739619,
     "news:CBMivwFBVV95cUxPT0xDYmZXZkVRaXVvMUlablVBd0Jkd1l6X0ZvMVA2b1NNbklKZV96Qzk3TndFUjQxdlR6UWw3NHhiSXRzY0dQMGZHS1BDakpQSGxZNmNLajAza2FHVjI5eGpCV254YWVhYWxIUFoxZWkzRk1yUFJKdVBKN2xESElTSEY1QUZpQVVQMDVLZ004dmp6NFJVSjEzTFFzbnJ5bnUtZUpIT1dmSllWVVBCRUotTjIzNFJsaFo2aEhTalhxRQ": 1793195739619,
-    "news:CBMi1wFBVV95cUxQOWtRWDJCeWhSb19kdzdfaENsazFSTE9xU1lWaWQ5RFRaTHp1bUNzTVV2VThjTHN4N1JRRmFFd19Na3Uyc1JDMGI1Q2w3ekdQdHFNRmtrMnRObDJBY1N5MDRkNElkVU5VU2M1MDRCSjlYUldfSFFQbWVhakp3NXFyUHBXZjFJNHdFYkNUR0xCYklpWl84RnlpWVFnT01wNFVvb3pTb01hZ0RIdFJQaG8zSlBnSGZaMmtWbDk0MUJ6LXF4MlBMdVo0MVlEaVQyX0NHWkxlM2ViUQ": 1793195739619
+    "news:CBMi1wFBVV95cUxQOWtRWDJCeWhSb19kdzdfaENsazFSTE9xU1lWaWQ5RFRaTHp1bUNzTVV2VThjTHN4N1JRRmFFd19Na3Uyc1JDMGI1Q2w3ekdQdHFNRmtrMnRObDJBY1N5MDRkNElkVU5VU2M1MDRCSjlYUldfSFFQbWVhakp3NXFyUHBXZjFJNHdFYkNUR0xCYklpWl84RnlpWVFnT01wNFVvb3pTb01hZ0RIdFJQaG8zSlBnSGZaMmtWbDk0MUJ6LXF4MlBMdVo0MVlEaVQyX0NHWkxlM2ViUQ": 1793195739619,
+    "threads:DfCmLRNFX0h": 1793196058532,
+    "threads:DfClxOWCPE9": 1793196058532,
+    "threads:DfClLm8lGdv": 1793196058532,
+    "threads:DfClDJAEaI6": 1793196058532,
+    "threads:DfClBFOIMdm": 1793196058532,
+    "threads:DfCkvbmEaz4": 1793196058532,
+    "threads:DfClaU-kw20": 1793196058532,
+    "threads:DfClbZsCYF7": 1793196058532,
+    "news:CBMiZ0FVX3lxTE83dXNoU0NGeld2a2Y4Z3VrZU83UkVpaTFqdXdwTE1kYnZqaURyXzZOVUZyRHJDM2FHY1VlNGR0QTA2UzlDMDlhU0JFb0N2SEZwNGxKM1BFU29JZVZvSlJRZXFBUkpQNXc": 1793196058532
   },
   "digest": [
     {
@@ -27953,10 +27962,40 @@
       "d": 1793190180000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@temantasneem",
+      "x": "Teman-teman pernah ada yang buka kelas gratis gak? Boleh share dong plus minus yaaaaa🤏",
+      "u": "https://www.threads.com/@temantasneem/post/DfClaU-kw20",
+      "d": 1793195598000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@turnbackhoaxid",
+      "x": "Halo, Insan MAFINDO! MAFINDO sedang membuka rekrutmen Pendamping Kohort Program Beasiswa AI MAFINDO! Yuk, dampingi proses belajar peserta, pantau progres mereka, dan ikut berkontri",
+      "u": "https://www.threads.com/@turnbackhoaxid/post/DfClbZsCYF7",
+      "d": 1793195607000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Lensa Hukum",
+      "x": "Pemkot Pontianak Serahkan Sertifikat Halal untuk 78 UMKM - Lensa Hukum",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dXNoU0NGeld2a2Y4Z3VrZU83UkVpaTFqdXdwTE1kYnZqaURyXzZOVUZyRHJDM2FHY1VlNGR0QTA2UzlDMDlhU0JFb0N2SEZwNGxKM1BFU29JZVZvSlJRZXFBUkpQNXc?oc=5",
+      "d": 1793195789000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
