@@ -25064,7 +25064,12 @@
     "news:CBMitAFBVV95cUxPdks1VDBpZmRKbjJkWlJHUjNFMjRhS3Fyc29kZVAzeTc0Qndnb0ZsLWNMNWVXWS16bXFvbkxUaWRyQUxDVE93WEZQTV9XSC1KTURuOWlkeXJHc1ZyeGNPc0pHMTRDN19nQjBpSlRRT0FFX1dabk9xZnlQenJhbTN0QTZEaVRIdExwUHREdFdDWml3dDBBdHlXekg0aU0tczVoWi12ZVlkbTRJTWt3OFAzeERnaFfSAbQBQVVfeXFMT3ZLNVQwaWZkSm4yZFpSR1IzRTI0YUtxcnNvZGVQM3k3NEJ3Z29GbC1jTDVlV1ktem1xb25MVGlkckFMQ1RPd1hGUE1fV0gtSk1EbjlpZHlyR3NWcnhjT3NKRzE0QzdfZ0IwaUpUUU9BRV9XWm5PcWZ5UHpyYW0zdEE2RGlUSHRMcFB0RHRXQ1ppd3QwQXR5V3pINGlNLXM1aFotdmVZZG00SU1rdzhQM3hEZ2hX": 1793151964991,
     "news:CBMipAFBVV95cUxOSzU4OGhYQkxUdFp0X1dXcTVtdDhmMXFLUktBY3NFeTVNVU9lQUFEYnJTYUIwb2txR1ZHUXlPZ0Z1YjJWQ3NQUjViUVNhTEF4dDNyQW5ybHp2QTlfLWVQbzdWNUxnb1BMaElGQkxrX3VEaldrOEN0RGVYSzQtVmtwSV9WUTM2V1hSREw2Z3o0b3VWaGRTOWdZVXpKaDNDYWZyVnAyYw": 1793151964991,
     "news:CBMipwFBVV95cUxQbnJGcTd1eEE0YkV2bUhMZlk3dThoNzBkZ2llekJnNzN4a1h4WGtOU3NhSEFuaUVfU0drM2pJWkZORzUta2lYYXdjZnNOdTVaNnZpcmlURWp4TkdHTnJiV2dzbHRSelMwUDQ1c2ZLTFI0b3BEVmJaY1h3VG1pZF9jVGFHR1djcVJLNWdpSjN5SGtNOHlESVhVaDJZN0lTaGtUdFYxNC11Yw": 1793151964991,
-    "news:CBMipwFBVV95cUxOMjBxZHdpbjhIY01obVRZM3J3QkFITHNROU56MkIzdDJqLUVVdC01b1R1Tk1pSWNGQ0h3aXNTdms1R1R2empWbm5MVVE1TUFyZWx5Nnp0SE1SaDlrMjhiNEcyMkNzTEZUR09NU2IyZERuSmdzb2dPUGZLTEVQMWpiZ2NWdjlPQjNzcFJ5dTNZR0VsbTF4c3ZzRGJuYzkwcnFlbl9ndkgxYw": 1793151964991
+    "news:CBMipwFBVV95cUxOMjBxZHdpbjhIY01obVRZM3J3QkFITHNROU56MkIzdDJqLUVVdC01b1R1Tk1pSWNGQ0h3aXNTdms1R1R2empWbm5MVVE1TUFyZWx5Nnp0SE1SaDlrMjhiNEcyMkNzTEZUR09NU2IyZERuSmdzb2dPUGZLTEVQMWpiZ2NWdjlPQjNzcFJ5dTNZR0VsbTF4c3ZzRGJuYzkwcnFlbl9ndkgxYw": 1793151964991,
+    "threads:DfBSV2Wj5y9": 1793152257532,
+    "threads:DfBRnwwIwGX": 1793152257532,
+    "threads:DfBRm8OHYqG": 1793152257532,
+    "threads:DfBSMBXEplt": 1793152257532,
+    "threads:DfBRvgyEpyr": 1793152257532
   },
   "digest": [
     {
@@ -25496,10 +25501,40 @@
       "d": 1793147590000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ninaoktafia89",
+      "x": "Klo gitu bantuin aku turunin desil dong kak, aku udah ubah data di apk cek bansos tp g berubah2",
+      "u": "https://www.threads.com/@ninaoktafia89/post/DfBSV2Wj5y9",
+      "d": 1793152045000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@malikanadiaa",
+      "x": "aplikasi cek bansos",
+      "u": "https://www.threads.com/@malikanadiaa/post/DfBRnwwIwGX",
+      "d": 1793151668000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@puput.yulianti97",
+      "x": "Aku desil 6-10 tapi ngga bisa diubah. Udah nyoba sendiri di aplikasi cek bansos.",
+      "u": "https://www.threads.com/@puput.yulianti97/post/DfBRm8OHYqG",
+      "d": 1793151661000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
