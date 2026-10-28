@@ -27307,19 +27307,11 @@
     "threads:DfDdNNljzqa": 1793226043363,
     "threads:DfDdFMIkudk": 1793226043363,
     "threads:DfDc4g4idwF": 1793226043363,
-    "news:CBMivwFBVV95cUxQTi1ybTY3RGpkQU5FclVGRFNoS211Szl2WFJyNmR0Y2dxMVBNVzh4LVlNNG5zZnJ2Y2JCN3NEb0dEbVdrOXo4VV9yUDU1UVFPRjFKU3lLaldCcG94R3ROUzRqczRrLWdPMllDSm9ETmtnSVhtSXZxT0hEdDF2UVFJdTZRYWZKRGxNMERSZWFQR0phRU8zQldzMUJ3eXUyZEZzWWNic29udm5UeU80dkR6c3RocDVqUGlQNV9BT3VPVdIBxAFBVV95cUxOQzI5aWVBMW44ZlJ4ZGpCRk03NDdDdkY0R1RmVWNHa2dkQ2E5ZlBfT1hfdFhwTENCazZKb2M5VkVrSTBkaWxPUF9MNXhLQWQ4bTEtOGVzVVZnbDg2Y1FPS2lGbGc2ak5rSEZ5ZXNBdnREWFpfeWFNcFd2V18yaWRqRXhJcWFncTBJM2xBOElQRVU1UjRZMTdlaG1NVzlqUW1yTmxqN2lFQ2FaMUVMRlJfT1RVclZoXzBVZ2NzWVZkVTdOZjRU": 1793226337492
+    "news:CBMivwFBVV95cUxQTi1ybTY3RGpkQU5FclVGRFNoS211Szl2WFJyNmR0Y2dxMVBNVzh4LVlNNG5zZnJ2Y2JCN3NEb0dEbVdrOXo4VV9yUDU1UVFPRjFKU3lLaldCcG94R3ROUzRqczRrLWdPMllDSm9ETmtnSVhtSXZxT0hEdDF2UVFJdTZRYWZKRGxNMERSZWFQR0phRU8zQldzMUJ3eXUyZEZzWWNic29udm5UeU80dkR6c3RocDVqUGlQNV9BT3VPVdIBxAFBVV95cUxOQzI5aWVBMW44ZlJ4ZGpCRk03NDdDdkY0R1RmVWNHa2dkQ2E5ZlBfT1hfdFhwTENCazZKb2M5VkVrSTBkaWxPUF9MNXhLQWQ4bTEtOGVzVVZnbDg2Y1FPS2lGbGc2ak5rSEZ5ZXNBdnREWFpfeWFNcFd2V18yaWRqRXhJcWFncTBJM2xBOElQRVU1UjRZMTdlaG1NVzlqUW1yTmxqN2lFQ2FaMUVMRlJfT1RVclZoXzBVZ2NzWVZkVTdOZjRU": 1793226337492,
+    "threads:DfC70PugU45": 1793226652886,
+    "news:CBMixwFBVV95cUxPVjZTVUFNRGxKZGZXWTJhRmxSRXo1UmNiWlJnQzFIZ1ppcWJmVlItaXJfMnA3TDVMYzdiUzI2TlhxVDRzQ1V5azZVNHR3Y0VxXzQ3N080dmhLekhuNkpkRXQzRlNZalo4WXNKN3hfSlgxVGZJbVYwUG5Hakp1TkRGZURVZmJnWVBCbHhuZWRONlpISngyODhSQkZwYUhnSS1kOElLZ0tsRHJObnlJOENPWmZjSWx4Zmx2TjdrMkRMRmlVeFpnY0Zn": 1793226652886
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Medcom.id",
-      "x": "Beasiswa BAZNAS Timur Tengah 2026 Dibuka: Syarat, Benefit, dan Cara Daftar - Medcom.id",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzB0TVNudDBBNExWOHJMQTVjdjQxSkh5bHpsN2V1NjBFeThMWE01SG01a1FrRENvLUF3Ri1zZUxYc3hrdVI1R3dZenZVLTdkQkhZQUpGcy1EQUQyN2lyTFdDQzFkZ0ZUMkVqNFdiOGtiMFZLREVicjFEby1WSnhLelZaMGJHRkxXRDA3TzhPdDdHd2ZPUmMyR1ZNZFJYZHNCNWwyQlg2YmxrS1k3aG5HaDhzN3RDM0p6V2hVcVJpV2g5b3dLVXM1Ug?oc=5",
-      "d": 1793199780000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28809,10 +28801,20 @@
       "d": 1793225220000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Portal Berau",
+      "x": "Dinsos Berau Tetapkan 763 Calon Penerima Bansos, 59 Rekening Bermasalah Segera Dituntaskan - Portal Berau",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjZTVUFNRGxKZGZXWTJhRmxSRXo1UmNiWlJnQzFIZ1ppcWJmVlItaXJfMnA3TDVMYzdiUzI2TlhxVDRzQ1V5azZVNHR3Y0VxXzQ3N080dmhLekhuNkpkRXQzRlNZalo4WXNKN3hfSlgxVGZJbVYwUG5Hakp1TkRGZURVZmJnWVBCbHhuZWRONlpISngyODhSQkZwYUhnSS1kOElLZ0tsRHJObnlJOENPWmZjSWx4Zmx2TjdrMkRMRmlVeFpnY0Zn?oc=5",
+      "d": 1793183287000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
