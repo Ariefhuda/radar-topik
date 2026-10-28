@@ -26419,59 +26419,14 @@
     "news:CBMilAFBVV95cUxNZXVUUzhHQUpydWNvV19qbW1xTmpRLWpIbFZvRFZrTDdTM2p0RHNjWU94UFZ6aXlneVQ1TXVXMkxWZzQ4LTNUMlhjR213cDgwOVgxQ2l1V09mOTgzY09hU0l6RVZqZUpHLUV2cjk0ckVzN0lTNmVnVTRhZ09rSjByUGh6UzA4MzAyY2dBV3ZDZUs2SzBp": 1793187375998,
     "news:CBMi_AFBVV95cUxNcmVGeUNHSWRROW5FeWZiVDU3Z2p6ZVhTLWt0T1VOeG9OSTNsNUVVRG5xM1pqZmhhYXZzT3BlMkhqMkJxYXNvb09SMWNkOGZienhmZE5hV3d2WlBTY2Q4c24tSHNYSGxkZkVsd0ZKTk5wWGJfVGZDYTZkWHlsMDBHWU1QS1pVZll2dklTcGlaV05yNktuZW5nMWZBeGJZVDAwS29PcVBWRVNLUVk3TEhPVnd5MVU0T0VXcmhVTU92OVNMeVB4X0dxZnBDYVROSnZ1bzhTcHNNR0tTUXVSVWtSNGNieDlqbHF0RjFTaUV3MEU0RklobUVsRUJGdmrSAfwBQVVfeXFMTXJlRnlDR0lkUTluRXlmYlQ1N2dqemVYUy1rdE9VTnhvTkkzbDVFVURucTNaamZoYWF2c09wZTJIajJCcWFzb29PUjFjZDhmYnp4ZmROYVd3dlpQU2NkOHNuLUhzWEhsZGZFbHdGSk5OcFhiX1RmQ2E2ZFh5bDAwR1lNUEtaVWZZdnZJU3BpWldOcjZLbmVuZzFmQXhiWVQwMEtvT3FQVkVTS1FZN0xIT1Z3eTFVNE9FV3JoVU1PdjlTTHlQeF9HcWZwQ2FUTkp2dW84U3BzTUdLU1F1UlVrUjRjYng5amxxdEYxU2lFdzBFNEZJaG1FbEVCRnZq": 1793187375998,
     "news:CBMixgFBVV95cUxNOU02VmVtRUJFcHFaZkdKNXZWdnVNcXY1UHlMekdTRTZUWG9jYUNLd1NzN2tUa1pLNElfQXJXemJCc0FpQ2Q1MTVJYmVuTUlaZEZLUkpEcFJjOU50cjIwVk13YmJ4anNOSlBBTlZEalVualJDYUxlVmNfT0w5WXNMWUZ1dE9TTVBqOUFnLU40NE9ZUEtpX2dzbDdHc1hyYlJGMG1mUVpodl9mTTZMR216dkJZUkFlREJ2TUs0ODBrZWx3cXpHT3c": 1793187375998,
-    "news:CBMi3AFBVV95cUxNRG9WOVNJYUg4RVBIdnVvcEMwLTJfSmtKay1odFhDak9LeS1PSHBZYzltRE8zUzZMcHlSclE2S05wc2FhSVpSdFdYRDRIU2owNFZUU1d4VkpiUmExQllYWmQzdGxhejMzVmVpSFlubVlwWEZreWJSOW9XbWZMZ0E2MUlieTNXRmtzRXZHdFN3eWlrVWV3aW1Qc1RFUDZJdHhVOFhvajNoMGxWa0d5OW54SDE4bzg3YTJFR0Z1WFV0ZlVIY2FHY3V4b3RmYzNHTzRiQXBtWno1SHc0QXox0gHiAUFVX3lxTFBZNXh3M2NpMGxBb2pCSUluN1J1X20wZ3V3ZUh2UkFBWlJIbTUtRmhBR1VRdkc2VkxuWElEaEhlaXMxSlpTX2NVN3F5ZGlRNHJsVTNVazBmdzYzdXZZVGoyMzVtYkJmV2pBNG1sZVZoVHIwak9yd1hjOVdHSkRXX1J6WkJWRENnY0hMTDJ0d2pJZkR6RkxNTEtVaWJCY0I5QVlDbDZ5U3c5RXNhQ2FtS2xiTjljeHlhOEhIVTJlUnh1bjRSUTZXS2dHN3RiMU1ydXFiUzg5M2JWaWdJbmxXMXBlSFE": 1793187375998
+    "news:CBMi3AFBVV95cUxNRG9WOVNJYUg4RVBIdnVvcEMwLTJfSmtKay1odFhDak9LeS1PSHBZYzltRE8zUzZMcHlSclE2S05wc2FhSVpSdFdYRDRIU2owNFZUU1d4VkpiUmExQllYWmQzdGxhejMzVmVpSFlubVlwWEZreWJSOW9XbWZMZ0E2MUlieTNXRmtzRXZHdFN3eWlrVWV3aW1Qc1RFUDZJdHhVOFhvajNoMGxWa0d5OW54SDE4bzg3YTJFR0Z1WFV0ZlVIY2FHY3V4b3RmYzNHTzRiQXBtWno1SHc0QXox0gHiAUFVX3lxTFBZNXh3M2NpMGxBb2pCSUluN1J1X20wZ3V3ZUh2UkFBWlJIbTUtRmhBR1VRdkc2VkxuWElEaEhlaXMxSlpTX2NVN3F5ZGlRNHJsVTNVazBmdzYzdXZZVGoyMzVtYkJmV2pBNG1sZVZoVHIwak9yd1hjOVdHSkRXX1J6WkJWRENnY0hMTDJ0d2pJZkR6RkxNTEtVaWJCY0I5QVlDbDZ5U3c5RXNhQ2FtS2xiTjljeHlhOEhIVTJlUnh1bjRSUTZXS2dHN3RiMU1ydXFiUzg5M2JWaWdJbmxXMXBlSFE": 1793187375998,
+    "threads:DfCVWWTj3-M": 1793187641528,
+    "threads:DfCU3Z3jBTk": 1793187641528,
+    "threads:DfCVpRij4UT": 1793187641528,
+    "news:CBMiyAFBVV95cUxNQjVmQ2JZYWNmSHJaVlpPdFNrMXFyQlA5TmpoRC1KNmZjczZMRnNhZmxZNkhfcWdfX3hpYXJMVkhTaXpPQ1BURG9oQ05yelhfbVRvbDN2cUpZWHpLZU0wbnZLYVpNTTFiLXFCd3Q5M3c5V04yV2V0ZzJ2MGc5QnRJYXAzVGt6elhaZnF6N09QODhINzFjUFp4dTBkdzlKYlZxUFpEUEhsV0xQaDJKUVBFUVRMNHlCSFF5M0YtZGhlbnpfVm9JYTZlYw": 1793187641528,
+    "news:CBMiygFBVV95cUxQeHMwYklLOWtoOVc0N25RdXFucTF3a3lqZl9OTEpia1FXT1E2T3llYV9LLWtLdmdTT3NCaFM5R2VZc0J5YVpDOWRKSzgtQTFHOC1RcUUwcHpBTnUxYUNXYS1lWC1MVDZfbDl3SmZ2cmlvU3hndFRCZW9wanV6TEp4NjhPWjlDR1dLczhYTjFhbER6TVkxMU9MQTJ3a1JRTGFGaEloQ25yWDNvaDNTdVFGUUloOURORDJxZnhKYXpnZnFmMF9xSlVfVHBR0gHPAUFVX3lxTFBrenNWWjE5VzVGMTY0RnNvcXBYM1FzbWhUM1pzb3NrVWNkMnNJTW9tWV9wdEZqQ255TWNPUXlfMEJWSFp0RFlDcTZrdlRqMHhmenJDWDZyNkx6LXhhdU82aE1GaTJfbmxQcVlEaXo0QlhTcllNeTI1elBwZG15UU1HcXR6eHJxUGpGMUZucmtMYmQ5MVV3RXh4Z2Qxa3FVaXhLYm4tWk1GcnBYVHdJRDBXRVFkVXBDNEhaa3VzcVk4U0puaDlxMlBMMFZrR0M2aw": 1793187641528
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@wahyu_ptatm",
-      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
-      "u": "https://www.threads.com/@wahyu_ptatm/post/DfCHZ4HGRYT",
-      "d": 1793179866000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@wahyu_ptatm",
-      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
-      "u": "https://www.threads.com/@wahyu_ptatm/post/DfCHSammRAo",
-      "d": 1793179805000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@fardya.creatorai",
-      "x": "Guys... Disini ada yang mau ikut kelas gratis ngga? Aku mau ngadain kelas bikin animasi cuma modal tools ai, FREE EBook panduan ya. Bonus Promt juga buat akses belajarnya. Mau join",
-      "u": "https://www.threads.com/@fardya.creatorai/post/DfCHNkuicHk",
-      "d": 1793179817000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Universitas Muhammadiyah Sumatera Utara",
-      "x": "Bansos Kemensos yang Cair hingga Akhir Tahun 2026 – Artikel BLOG - Universitas Muhammadiyah Sumatera Utara",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlUtd29yTXVtLW9ldzluRVRjYnAyV1pQUU1IY21hQ2tBM2JmMUVCQUZBVk81bGc4eEg3LXVYb0pjWlFhbXNrdEt3azVJeUlIZjVMZ0VsTzJfOXVudkh1dDNaZm1ENFV4cVI1dTFKTmdUdXZ3SWxFNGdOSURrOUMwNVN1VTRPQQ?oc=5",
-      "d": 1793174282000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Limapagi",
-      "x": "Pemerintah Belum Pastikan BLT Kesra Cair pada 2026 - Limapagi",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVThSQWlZalRIUi11amJwQnMwN1p0dHFuQ1lWYjNhbDNfWkJvRk1pRkk3cTlHQkg0QmZfQUVwQk1PYk8ycE53X0lqVWJjZUlJTW13X1hB?oc=5",
-      "d": 1793173586000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27921,10 +27876,60 @@
       "d": 1793174171000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@sayanda3112",
+      "x": "Ikut pendaftaran Beasiswa DMH Academy 2026, bantuan sampai Rp16.000.000 per semester, pendaftaran gratis tanpa syarat IPK!",
+      "u": "https://www.threads.com/@sayanda3112/post/DfCVWWTj3-M",
+      "d": 1793187177000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@poltek_otc",
+      "x": "Kesempatan pendidikan tinggi bisa menjadi langkah awal menuju masa depan yang lebih baik. 🎓 Kenali program Beasiswa 1 KK 1 Sarjana Pemerintah Provinsi Bali dan cari tahu persyarat",
+      "u": "https://www.threads.com/@poltek_otc/post/DfCU3Z3jBTk",
+      "d": 1793186924000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@adeputriseptiannn",
+      "x": "Kalo bumil fokus dulu urus bpjs nya kaka yang terpenting, urus perlinsos buat bansos bpnt dan pkh (ibu hamil, balita, lansia, disabilitas). Untuk perlinsos harus buat ikd dulu mint",
+      "u": "https://www.threads.com/@adeputriseptiannn/post/DfCVpRij4UT",
+      "d": 1793187332000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Foto : Bantuan Langsung Tunai Oktober-Desember 2026 Cair Lagi? Cek Penerimanya Halaman 3 - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjVmQ2JZYWNmSHJaVlpPdFNrMXFyQlA5TmpoRC1KNmZjczZMRnNhZmxZNkhfcWdfX3hpYXJMVkhTaXpPQ1BURG9oQ05yelhfbVRvbDN2cUpZWHpLZU0wbnZLYVpNTTFiLXFCd3Q5M3c5V04yV2V0ZzJ2MGc5QnRJYXAzVGt6elhaZnF6N09QODhINzFjUFp4dTBkdzlKYlZxUFpEUEhsV0xQaDJKUVBFUVRMNHlCSFF5M0YtZGhlbnpfVm9JYTZlYw?oc=5",
+      "d": 1793184164000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Saldo KKS Bertambah pada 28 Oktober, PKH Periode Akhir Tahun Masih Menunggu Proses - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHMwYklLOWtoOVc0N25RdXFucTF3a3lqZl9OTEpia1FXT1E2T3llYV9LLWtLdmdTT3NCaFM5R2VZc0J5YVpDOWRKSzgtQTFHOC1RcUUwcHpBTnUxYUNXYS1lWC1MVDZfbDl3SmZ2cmlvU3hndFRCZW9wanV6TEp4NjhPWjlDR1dLczhYTjFhbER6TVkxMU9MQTJ3a1JRTGFGaEloQ25yWDNvaDNTdVFGUUloOURORDJxZnhKYXpnZnFmMF9xSlVfVHBR0gHPAUFVX3lxTFBrenNWWjE5VzVGMTY0RnNvcXBYM1FzbWhUM1pzb3NrVWNkMnNJTW9tWV9wdEZqQ255TWNPUXlfMEJWSFp0RFlDcTZrdlRqMHhmenJDWDZyNkx6LXhhdU82aE1GaTJfbmxQcVlEaXo0QlhTcllNeTI1elBwZG15UU1HcXR6eHJxUGpGMUZucmtMYmQ5MVV3RXh4Z2Qxa3FVaXhLYm4tWk1GcnBYVHdJRDBXRVFkVXBDNEhaa3VzcVk4U0puaDlxMlBMMFZrR0M2aw?oc=5",
+      "d": 1793186752000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
