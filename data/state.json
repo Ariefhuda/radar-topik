@@ -27165,19 +27165,10 @@
     "threads:DfDJEnAibb1": 1793214339612,
     "threads:DfDI4b4ilRI": 1793214339612,
     "threads:DfDIvClkQei": 1793214339612,
-    "threads:DfDIIDOlh8L": 1793214339612
+    "threads:DfDIIDOlh8L": 1793214339612,
+    "news:CBMi4wFBVV95cUxOMGRPSzRLb0lkZGs0RXQ3X1Zld0hob3MzOXpFb2FmbWVOb0x3TlFEbmY5azhmcE40QUJUYzlqN1djNGRiTXF6MnhzakpPa2JScWtkSXkxSnBNM0s0MVA5SzhjVGsxdW5vSm91WDBLUVQwdzlRZ0plY3BlU2dzSXlEV0ZxaE1zenB2VVlVYURiV2czU3JFajEtYTRCanJHeWtjV2tvQVNSR0hSeVU3bERIUzRUVGcwaEJHSy1HUk1ES24yU0NmWDJ3WnM4RGo4SjlmTWNMbWRnR1h4Z18xLXNCTUpTQQ": 1793214647014
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Cek Bansos Kemensos November 2026, Begini Cara Mengetahui Status PKH dan BPNT - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkZzRG9DX2NrdGUxLVRURE9uYUlBdlZ6QkI3Nm5obWoxQW9LNEtDQ0JTSTZHMWU1SjJGa1hqN0NEaC1VT0tUb3RhZlpOVVN6YXg2eXM0d0dBem5xZy1ORmRpTUdrOFd0dlhWMU92NDREVTZtOEI5SUFGclBTV2F2WTVPeDdCMkdhX1BBN0hXM3QzclIyWS1sWDExQnRHV1JwOTNFRTVyckRWNDhGTDNHdFZGbkFtSzZ6Rk9icTlWWWs1a3FqczEyMllyZWvSAcwBQVVfeXFMTjZGc0RvQ19ja3RlMS1UVERPbmFJQXZWekJCNzZuaG1qMUFvSzRLQ0NCU0k2RzFlNUoyRmtYajdDRGgtVU9LVG90YWZaTlVTemF4NnlzNHdHQXpucWctTkZkaU1HazhXdHZYVjFPdjQ0RFU2bThCOUlBRnJQU1dhdlk1T3g3QjJHYV9QQTdIVzN0M3JSMlktbFgxMUJ0R1dScDkzRUU1cnJEVjQ4RkwzR3RWRm5BbUs2ekZPYnE5VllrNWtxanMxMjJZcmVr?oc=5",
-      "d": 1793191806000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28667,10 +28658,20 @@
       "d": 1793207837000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "InfoPublik",
+      "x": "Pemkot Pontiianak Perkuat UMKM, 78 Usaha Terima Sertifikat Halal dan 11 Difasilitasi Kemasan - InfoPublik",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMGRPSzRLb0lkZGs0RXQ3X1Zld0hob3MzOXpFb2FmbWVOb0x3TlFEbmY5azhmcE40QUJUYzlqN1djNGRiTXF6MnhzakpPa2JScWtkSXkxSnBNM0s0MVA5SzhjVGsxdW5vSm91WDBLUVQwdzlRZ0plY3BlU2dzSXlEV0ZxaE1zenB2VVlVYURiV2czU3JFajEtYTRCanJHeWtjV2tvQVNSR0hSeVU3bERIUzRUVGcwaEJHSy1HUk1ES24yU0NmWDJ3WnM4RGo4SjlmTWNMbWRnR1h4Z18xLXNCTUpTQQ?oc=5",
+      "d": 1793183640000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
