@@ -26678,7 +26678,10 @@
     "threads:Dc5ODVsESeO": 1793194540250,
     "threads:DfCiyXdEvp7": 1793194540250,
     "news:CBMisAFBVV95cUxOSzlQQzdaRnY2bHVWUlQyVDJMMThBX09JUzFERVZBNUdxS3lJSVZWT2xrSkpSTGhPeU9xQ1habE5YX0ZnZ1ZoRjM0bDJBaW12eVBTTmRTMEpSSEktcTVoQU01eWlER3ZsN1BnN1A2N3UyRFpuMmI4cHZoV3lFSF82bWZtLUhJcDF5RU1NNUozWlRkdVUwN0ZNNWk2N0ZxWnI5UmpKWUJDUGZfS2ltX19ESw": 1793194540250,
-    "news:CBMiwwFBVV95cUxPN0tWcnJ1SnhoZm4wczRmS3RqWVJnSk9pVy1XVmJFSGZlZjFZa01PZXI4Y3g3akRmT1c3eUpmeTRqMGxxYk8xYWh0X01PZWRlWUI5NHktV3FuaDNuYnpfNEJtSEludGs0V0VvN1A5U0drSmxDR0hRN1J0eDJKV2k2Y3NULTU1M0tFTTNZZjF3elhzcWZPMDdFX3N5UmdiaFNFWkhPRFB1dDIwd09fazkzUlFWSXljdGlCcFNEalRuQ25wazg": 1793194540250
+    "news:CBMiwwFBVV95cUxPN0tWcnJ1SnhoZm4wczRmS3RqWVJnSk9pVy1XVmJFSGZlZjFZa01PZXI4Y3g3akRmT1c3eUpmeTRqMGxxYk8xYWh0X01PZWRlWUI5NHktV3FuaDNuYnpfNEJtSEludGs0V0VvN1A5U0drSmxDR0hRN1J0eDJKV2k2Y3NULTU1M0tFTTNZZjF3elhzcWZPMDdFX3N5UmdiaFNFWkhPRFB1dDIwd09fazkzUlFWSXljdGlCcFNEalRuQ25wazg": 1793194540250,
+    "threads:DfCjLpNGIw3": 1793194846235,
+    "news:CBMiogFBVV95cUxOYlNQbEdjemtyVXlybEM5SGFhR24yeGJ3NHpQdkxWcnZ6cXlZOVdhajB2Uk1oR2QxcW8yQ21paWQ0V1Z1d2pUdEZuUW9yV3RaY0VXeU9XVWtPQzl2UlZCVHJhbW9sWmlZeThWZFBkcGhvQ09jQno4N0ZoRGJFZThEMXFZWEFxc2QyOUNIUUVURktRS24xT3BaSnpXVEJTOGVVaVE": 1793194846235,
+    "news:CBMi0AFBVV95cUxPNE82YmtPcFJub1dyU2lLWW5TZDAzeXBnUjFNbnRwa0xQWmlkVlhKb2JGdThuYkMxR1hPUXVyejExRVpQLVlyMEVNU3VSZFcxUmtxYnFBLTZ5UnYwaU9pcEdpUHk2SmxSMFJMMEk3NXRnVm5SSEV3LVZSX0xTUUlrNmxYUWg5ZXI3Z2l6UHhHVzBPazE5RVdOUnFQUllSakk4ZWc4UlBTT1FSekV0SkVYVlItVjByX01PdGMySjJZNzVjTFNtVkpBdU1aOFpfeUxn": 1793194846235
   },
   "digest": [
     {
@@ -27760,10 +27763,30 @@
       "d": 1793190719000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mamahnyaacel",
+      "x": "desil di aplikasi cek bansos udah turun, tp kok di web masih 6-10 itu gmn ya? jadi yg bener yg mana?",
+      "u": "https://www.threads.com/@mamahnyaacel/post/DfCjLpNGIw3",
+      "d": 1793194429000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Riau Green.com",
+      "x": "Kadinkes Dumai Pantau Lansung Monitoring Kegiatan Skrining Tuberkulosis di Rutan Kelas IIB - Riau Green.com",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNE82YmtPcFJub1dyU2lLWW5TZDAzeXBnUjFNbnRwa0xQWmlkVlhKb2JGdThuYkMxR1hPUXVyejExRVpQLVlyMEVNU3VSZFcxUmtxYnFBLTZ5UnYwaU9pcEdpUHk2SmxSMFJMMEk3NXRnVm5SSEV3LVZSX0xTUUlrNmxYUWg5ZXI3Z2l6UHhHVzBPazE5RVdOUnFQUllSakk4ZWc4UlBTT1FSekV0SkVYVlItVjByX01PdGMySjJZNzVjTFNtVkpBdU1aOFpfeUxn?oc=5",
+      "d": 1793194560000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
