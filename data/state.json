@@ -25085,7 +25085,8 @@
     "threads:DfBSki_EskL": 1793152553583,
     "threads:DfBL34Pkqvp": 1793152553583,
     "news:CBMivwFBVV95cUxQRmZ4M1RxSmJXTDVoVkotdjl1NWQxaU5pN0gySjdUZzR6Z1Z4S05KbnVzUGRiODNUUzhMcFpDdEJrS0ptd21ueGpyNzVPSDNpNHZFbE1JODNvLUVlTnJuQ2t2am9iN2FDQzhkcVVjWFdNbS0wcUNEVEI1bWstbkhnUUtRMnU5bEh4U1V1c1FxT2FXVTR4NUE4cVR4WmRtRUp5Y3g0LTdfRHJFeGhNNzhWRzRGajIyZl95cm9HY2puRQ": 1793152553583,
-    "news:CBMizgFBVV95cUxOTnl2LWpYekJjZkxVYWFkMXJrLXlIOTRUSThTX1llS1Y4WEowOUZRSjlEeTFScEtSWWg0eV9GTUI1RmN0TmR0SEgxcnI1OWh6Z2hMcTkzS1RtQmQySVhvNDJJUmlCYlpKSVVSdmZCaUhlQzFtWTNHM0JKQVNQZXloaUQ3eTZOMGp5NHFwU1c5cFNaM1RFZXhLY1FTOTItZ0lIcFZ1ZU8tajlUR1Z0d2ZsTXhGclN4S2x0Wmhzdkl5YWhyenlEWUFiY0VteHhJQQ": 1793152553583
+    "news:CBMizgFBVV95cUxOTnl2LWpYekJjZkxVYWFkMXJrLXlIOTRUSThTX1llS1Y4WEowOUZRSjlEeTFScEtSWWg0eV9GTUI1RmN0TmR0SEgxcnI1OWh6Z2hMcTkzS1RtQmQySVhvNDJJUmlCYlpKSVVSdmZCaUhlQzFtWTNHM0JKQVNQZXloaUQ3eTZOMGp5NHFwU1c5cFNaM1RFZXhLY1FTOTItZ0lIcFZ1ZU8tajlUR1Z0d2ZsTXhGclN4S2x0Wmhzdkl5YWhyenlEWUFiY0VteHhJQQ": 1793152553583,
+    "threads:DfBT-1Tkpr-": 1793152851735
   },
   "digest": [
     {
@@ -25627,10 +25628,20 @@
       "d": 1793152357000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@itusayatau_",
+      "x": "Aku lupa email sm password cek bansos wkwkwk",
+      "u": "https://www.threads.com/@itusayatau_/post/DfBT-1Tkpr-",
+      "d": 1793152905000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
