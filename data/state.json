@@ -26759,7 +26759,21 @@
     "news:CBMiW0FVX3lxTE5XWVNHNjkwX1R5cFBsQXZRYVE2YTlldmtzS01SeGx0aWFWVUlNcGwyWTlyLXVkSDNvRzl6c3piN1RIaVN1aHdEVnAxY3B6dHhTcldxVDRheFQwV2c": 1793196962353,
     "news:CBMigAFBVV95cUxNOGs0RWQ4dDlEVmtodjQtZUJlNUFwSEh2RDhyNHVkZkhKWWhBNE9LTEk1OWNENks0bzJyc3FFeUxyOUx0N2VYby05NXprZXo2Z29CdmViTG1BcFlpZGduUkhEYkZpbTROaW9uYncyZFlzNDUzOUF6akJ2bzhSdHhteA": 1793196962353,
     "news:CBMiZkFVX3lxTFBHRDRHb3RJVUtrQWdNa01EeTl0bjZJTnA3aEhxZTdlTkRyYmc1YjQyRTlIV1duZ01TSlRhOE9aeFlNSnlDMzhVcGNrOHBzUV9ZUXE5aFVrMzNDaU5LUVk1M1R3SU8xUQ": 1793196962353,
-    "news:CBMiakFVX3lxTE4wVjJiNTVPRUVzU09uVFBJOTlIMnNMaFkyRXpudzNBREN0UU15TUdraGNLRk5ySFBIbmVBYkdJMGZaUHNneU1ZT2VKbHhWYnh4c1R5aER6amVPc0FnQ09TZTBkQnprZ0VSMnc": 1793196962353
+    "news:CBMiakFVX3lxTE4wVjJiNTVPRUVzU09uVFBJOTlIMnNMaFkyRXpudzNBREN0UU15TUdraGNLRk5ySFBIbmVBYkdJMGZaUHNneU1ZT2VKbHhWYnh4c1R5aER6amVPc0FnQ09TZTBkQnprZ0VSMnc": 1793196962353,
+    "threads:DfCoo54jAZf": 1793197244555,
+    "threads:DfCoV5YFLbr": 1793197244555,
+    "threads:DfCoe2GGw7P": 1793197244555,
+    "threads:DfCoP07CVIT": 1793197244555,
+    "threads:DfCoL09kchH": 1793197244555,
+    "threads:DfCoLucjEzQ": 1793197244555,
+    "threads:DfCoKEqgaxq": 1793197244555,
+    "threads:DfCoJ-kjnrl": 1793197244555,
+    "threads:DfCoI7NiB_U": 1793197244555,
+    "threads:DfCoADNElXj": 1793197244555,
+    "threads:DfCn5twGooM": 1793197244555,
+    "threads:DfCnvyREbVp": 1793197244555,
+    "news:CBMijwFBVV95cUxPRHBpaGFKb2VDMEVzMWx6MzA0am80SkUzZ1ozU2RDbS1ZR0pkR2ZSYUFXdUI0enRveWh0V25NelBWRG90ZjE5TDdvSjZBTVB4MVg1Rl9zS3dwOHJFMHYwR2ZNaGJKZmtoVDZQSVN2N3AtZFVYUDRjSVlwZG8yR2tIQWpNSHFHRlpKTXVzNzlXbw": 1793197244555,
+    "news:CBMivwFBVV95cUxQSTRCWkRfOGFMd1NodDRHaDNRdGFJbFh5WXhEYzBLVWZMWVJRRndhTTY5T0NlTGJXdGlONkxhUmtSV1hfTndnYUN6dWFwWE5xUkloSFNVUXpSblI0a19EV083dlNneGQwQTNkc21Oc3NJOGM3RDg5Vi1iTWN0dUxCamNPMkEyWkFwczJUSjB6ZGJPU21BX2x0MzJ4QlR1N2lKNmhvZ1BFd1Q4X0VUS0tEaHZWMG1fdjRzNTNpaFFYRQ": 1793197244555
   },
   "digest": [
     {
@@ -28151,10 +28165,20 @@
       "d": 1793196620000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "News Hunter – Portal Berita Newshanter",
+      "x": "Soroti Dampak Buruk Karhutla Sumsel, Mafesripala Gelar Seminar Umum Green Impact di Unsri Palembang - News Hunter – Portal Berita Newshanter",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTRCWkRfOGFMd1NodDRHaDNRdGFJbFh5WXhEYzBLVWZMWVJRRndhTTY5T0NlTGJXdGlONkxhUmtSV1hfTndnYUN6dWFwWE5xUkloSFNVUXpSblI0a19EV083dlNneGQwQTNkc21Oc3NJOGM3RDg5Vi1iTWN0dUxCamNPMkEyWkFwczJUSjB6ZGJPU21BX2x0MzJ4QlR1N2lKNmhvZ1BFd1Q4X0VUS0tEaHZWMG1fdjRzNTNpaFFYRQ?oc=5",
+      "d": 1793196606000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
