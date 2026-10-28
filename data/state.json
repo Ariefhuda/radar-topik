@@ -25041,7 +25041,12 @@
     "threads:DfBQS28EzFN": 1793151050095,
     "threads:DfBP_7OkxhB": 1793151050095,
     "threads:DbKi6nVEj6Z": 1793151050095,
-    "threads:DfBPnhLEucQ": 1793151050095
+    "threads:DfBPnhLEucQ": 1793151050095,
+    "threads:DfBPZgdGR9I": 1793151346429,
+    "threads:DfBQPBGk_p9": 1793151346429,
+    "threads:DfBQA3NEm73": 1793151346429,
+    "threads:DfBRI7sjFWg": 1793151346429,
+    "threads:DfBQBKHj4_X": 1793151346429
   },
   "digest": [
     {
@@ -25373,10 +25378,60 @@
       "d": 1793150617000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lailazulhijjaaa",
+      "x": "Ramah dikantong, ga overprice dan overclaim. Pendidikan karakternya the best, mulai dr masuk sekolah harus salim guru dan guru sudah menyambut berjajar (gurunya harus disiplin wakt",
+      "u": "https://www.threads.com/@lailazulhijjaaa/post/DfBPZgdGR9I",
+      "d": 1793150502000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@aji_saputroo",
+      "x": "Disini ada yang masih mau kuliah bidang Pariwisata, Hospitality, Event? Gua punya beasiswa FULL gratis dari pendaftaran sampe 1 semester. Khusus Tangerang dan sekitarnya ya, DM bua",
+      "u": "https://www.threads.com/@aji_saputroo/post/DfBQPBGk_p9",
+      "d": 1793150941000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@gustianietrie",
+      "x": "Nnti ya nunggu bansos cair ☕️",
+      "u": "https://www.threads.com/@gustianietrie/post/DfBQA3NEm73",
+      "d": 1793150825000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kamu aman — yang rame mau dinonaktifin 1 Nov itu cuma PBI yang gratis dari pemerintah, kalau kamu bayar mandiri nggak kena sama sekali. PBI itu memang cuma buat desil 1-5 di DTSEN,",
+      "u": "https://www.threads.com/@meta.ai/post/DfBRI7sjFWg",
+      "d": 1793151415000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@indh.sftre",
+      "x": "bahas tentang desil. bbrpa waktu yg lalu kan gue jadi petugas bansos pembagian beras yaa , dan gue kenal sama beberapa penerima bantuan yg menurut gue adalah orang have cuyy. Ketik",
+      "u": "https://www.threads.com/@indh.sftre/post/DfBQBKHj4_X",
+      "d": 1793150827000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
