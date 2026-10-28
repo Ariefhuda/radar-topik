@@ -27306,7 +27306,8 @@
     "threads:DfDcJE9E9Dk": 1793226043363,
     "threads:DfDdNNljzqa": 1793226043363,
     "threads:DfDdFMIkudk": 1793226043363,
-    "threads:DfDc4g4idwF": 1793226043363
+    "threads:DfDc4g4idwF": 1793226043363,
+    "news:CBMivwFBVV95cUxQTi1ybTY3RGpkQU5FclVGRFNoS211Szl2WFJyNmR0Y2dxMVBNVzh4LVlNNG5zZnJ2Y2JCN3NEb0dEbVdrOXo4VV9yUDU1UVFPRjFKU3lLaldCcG94R3ROUzRqczRrLWdPMllDSm9ETmtnSVhtSXZxT0hEdDF2UVFJdTZRYWZKRGxNMERSZWFQR0phRU8zQldzMUJ3eXUyZEZzWWNic29udm5UeU80dkR6c3RocDVqUGlQNV9BT3VPVdIBxAFBVV95cUxOQzI5aWVBMW44ZlJ4ZGpCRk03NDdDdkY0R1RmVWNHa2dkQ2E5ZlBfT1hfdFhwTENCazZKb2M5VkVrSTBkaWxPUF9MNXhLQWQ4bTEtOGVzVVZnbDg2Y1FPS2lGbGc2ak5rSEZ5ZXNBdnREWFpfeWFNcFd2V18yaWRqRXhJcWFncTBJM2xBOElQRVU1UjRZMTdlaG1NVzlqUW1yTmxqN2lFQ2FaMUVMRlJfT1RVclZoXzBVZ2NzWVZkVTdOZjRU": 1793226337492
   },
   "digest": [
     {
@@ -28811,14 +28812,13 @@
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793217048338,
-    "news": 1793226043363
+    "reddit": 1793217048338
   }
 }
