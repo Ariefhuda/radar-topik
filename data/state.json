@@ -26949,19 +26949,10 @@
     "threads:DfCyc9ujKmg": 1793202675287,
     "threads:DfCyFd4iE_O": 1793202675287,
     "news:CBMingFBVV95cUxONElKbmhueE5hYkRHaFpjcnRBUXIwem5pUU51N2hCZVdQZ0VlMjNQLVl3VjdRNEtfdC14UlgyQldzdW4xUmNhN3Y3TDh6WndTSE5tdTFpU3JiWTNWNU9pMVA1cHVPRzdzeFFCSU94eWdaMkxKMG55eDc2WnFxOTV1ZWpLZnhjd2xPTE5UendZUE5wZVBhblI2S0FXWHJ0Zw": 1793202675287,
-    "news:CBMi1gFBVV95cUxOV0pnTy1YZktLTml6TFc0RVRBYXpsNWxfdnBRZVprNVhaMVl3OE5QOEk1ZGdFa19lTkpmRU8zdk1GQy11bWhMMTFTSUxMdnBSNTk1XzFuRE5ZSmJZb1VQRFpoMG11ZTZTaExNVklHT0ZxdWZILWx5MS1xYTc5WXVpR29qdjRlVVJXaWF2U3FYdGNhdDMtLTFjWGdKUmtULW0wNHN4MTZJTGZJakV2djlfcHBCVkRmc2o4RlhuYVhMa25pZFhENmdrQ0F0dVZ6UkU4U0RPRVdB": 1793202675287
+    "news:CBMi1gFBVV95cUxOV0pnTy1YZktLTml6TFc0RVRBYXpsNWxfdnBRZVprNVhaMVl3OE5QOEk1ZGdFa19lTkpmRU8zdk1GQy11bWhMMTFTSUxMdnBSNTk1XzFuRE5ZSmJZb1VQRFpoMG11ZTZTaExNVklHT0ZxdWZILWx5MS1xYTc5WXVpR29qdjRlVVJXaWF2U3FYdGNhdDMtLTFjWGdKUmtULW0wNHN4MTZJTGZJakV2djlfcHBCVkRmc2o4RlhuYVhMa25pZFhENmdrQ0F0dVZ6UkU4U0RPRVdB": 1793202675287,
+    "threads:DfCzguuk3IN": 1793202936852
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Suara Nahdliyin",
-      "x": "Pemprov Jateng Buka Beasiswa untuk S1 dan S2 Guru Madrasah Diniyah Jawa Tengah - Suara Nahdliyin",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFFZeUZFRmNNTVd3VVd0RXpxbUwxa2oteTlSTGFNYlN4bXRBQzZ5dFhlcVN2YlI4VWhpQWlZWUl0VWZCZjFHUkxHM2I2WjdsZXlSSXdJNW44d19JM1N4NmJ5d0RfTkM5Wk1fVEU3Qk5HUHd2OEFfU0xsNlNQcnVlUkQ2UnpCdTFCOG9NWUFVUUdOcGxJTkVBVHR5dEh3cWxEeFBwcEhadGtNQV9BX0NOOA?oc=5",
-      "d": 1793192541000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28451,10 +28442,20 @@
       "d": 1793201558000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Siap, biar agak terang dikit. Dari laporan Sidang Kabinet Oktober 2026: stok beras nasional 4,56 juta ton — disebut tertinggi sepanjang sejarah, plus Nilai Tukar Petani 131 yang di",
+      "u": "https://www.threads.com/@meta.ai/post/DfCzguuk3IN",
+      "d": 1793202990000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
