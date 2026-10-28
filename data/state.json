@@ -27166,19 +27166,15 @@
     "threads:DfDI4b4ilRI": 1793214339612,
     "threads:DfDIvClkQei": 1793214339612,
     "threads:DfDIIDOlh8L": 1793214339612,
-    "news:CBMi4wFBVV95cUxOMGRPSzRLb0lkZGs0RXQ3X1Zld0hob3MzOXpFb2FmbWVOb0x3TlFEbmY5azhmcE40QUJUYzlqN1djNGRiTXF6MnhzakpPa2JScWtkSXkxSnBNM0s0MVA5SzhjVGsxdW5vSm91WDBLUVQwdzlRZ0plY3BlU2dzSXlEV0ZxaE1zenB2VVlVYURiV2czU3JFajEtYTRCanJHeWtjV2tvQVNSR0hSeVU3bERIUzRUVGcwaEJHSy1HUk1ES24yU0NmWDJ3WnM4RGo4SjlmTWNMbWRnR1h4Z18xLXNCTUpTQQ": 1793214647014
+    "news:CBMi4wFBVV95cUxOMGRPSzRLb0lkZGs0RXQ3X1Zld0hob3MzOXpFb2FmbWVOb0x3TlFEbmY5azhmcE40QUJUYzlqN1djNGRiTXF6MnhzakpPa2JScWtkSXkxSnBNM0s0MVA5SzhjVGsxdW5vSm91WDBLUVQwdzlRZ0plY3BlU2dzSXlEV0ZxaE1zenB2VVlVYURiV2czU3JFajEtYTRCanJHeWtjV2tvQVNSR0hSeVU3bERIUzRUVGcwaEJHSy1HUk1ES24yU0NmWDJ3WnM4RGo4SjlmTWNMbWRnR1h4Z18xLXNCTUpTQQ": 1793214647014,
+    "threads:DfDJs6yD2XP": 1793214943560,
+    "threads:DfDJTlDGDtf": 1793214943560,
+    "threads:DfDI5Utj-xI": 1793214943560,
+    "threads:DfDKXvkn_tc": 1793214943560,
+    "threads:Den5dCZj5en": 1793214943560,
+    "news:CBMiswFBVV95cUxOd1R2VXFWRWp2ejQzTXhMZkxvbHVHMDlaQTZDRXJXZ25TOXo5VkJEdzRsb2pxU3pvb2R2Mi0taUkxTFZjQl9tSXVDOTJXcjVtS1BiTEhPQURjOUc5Um1fQmhoU0Y3aXd5Qi1fb0FWbWpKdEJEN3Z4QkJ1S1poeG1oRVpTLWFKTGxsZlhGbXUwSmFGUVo3bVRZdlhqb3h4ZDFuQ1dKZkNraDVVS2pydVFldTY2RQ": 1793214943560
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ammarbeginz",
-      "x": "Cara sanggah di apk cek bansos gimana ya.. Ko di aku klik sanggah malah (daftar2 orng penerima bansos..)",
-      "u": "https://www.threads.com/@ammarbeginz/post/DfCqzmfmHrm",
-      "d": 1793198426000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28668,10 +28664,20 @@
       "d": 1793183640000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BeritaSatu.com",
+      "x": "Beasiswa Baznas Timur Tengah 2026, Mahasiswa Dapat Uang Saku Rp 1 Juta - BeritaSatu.com",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1R2VXFWRWp2ejQzTXhMZkxvbHVHMDlaQTZDRXJXZ25TOXo5VkJEdzRsb2pxU3pvb2R2Mi0taUkxTFZjQl9tSXVDOTJXcjVtS1BiTEhPQURjOUc5Um1fQmhoU0Y3aXd5Qi1fb0FWbWpKdEJEN3Z4QkJ1S1poeG1oRVpTLWFKTGxsZlhGbXUwSmFGUVo3bVRZdlhqb3h4ZDFuQ1dKZkNraDVVS2pydVFldTY2RQ?oc=5",
+      "d": 1793214300000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
