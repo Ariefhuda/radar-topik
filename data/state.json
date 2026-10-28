@@ -25031,7 +25031,17 @@
     "threads:DfBPbYJo57q": 1793150743396,
     "news:CBMiuAFBVV95cUxNRXpzbkh3cWM2VkdLbFJaYnJKaVUza21wZmFqZEhVQm4tMmE2bjNKYUx5MEw3bFNtNExvUkpDSlZtUHBJM3JLaU4wamJMenZfdWdWcTRlR0VjNXJZcnNDRXNkNmpNenFmR3lENlhHc2pjLUdUMDJzenN6RTdRaDVlR2pFb3pGNjc2VlBBd0R0NklwZ1JjSFZsaC11QXpkMkEwcTFCUWZfRGVFYXAyUHlGcUZPbUV2NUF20gGqAUFVX3lxTE9LaEVzQnFkazJoUE9JbkJVcDFFMFlEYXlaQ291LVI2bldFZ0x0SGpGa0JjcEprWHBxZ3dKSjJ0QTh4Q1htOU9Ca3RpOXpsN2tBNU5IOExMTUJpcTMwVlRhUjhYQkJRb0ZIV2ZjYm1wMzJvTFFjUHhkWkF2YkU1SnRPUkpiMnBHQXdrTVdrUFJfX1h3bjlCUTRYcjVTWDNzVUx0MlVyNmE3NUdn": 1793150743396,
     "news:CBMiO0FVX3lxTE4ybGtLdTBZR0ZBOXAxQk1Zamt1eFZ0b0U5LXRSUnpDVmZaRTloWmZjazVRcUM4TDk3TkdB": 1793150743396,
-    "news:CBMi3wFBVV95cUxOVDFLcVhRR0Z0NzQ3d2RGN2FCaUdxeEdlSTdQR0tPTTlfZ0VDLXZ6eDU0emNRMlVwNzhzdHVhZDlqTm1Ca1RrMG0tTmNNUDhoVmNvYXJPREdUVlVPbm80SUg5VWlCeVdYX2xCa2dqdUFtQUR6b3kwMkpPT3NRTGlrS0dzd2hTdGdFSFZfa2FLejl5T1U3LXpUSHdHWS0xTGNhZGE1VjVVMlViZ2FlUWNYcnR5dXl6cGNMYnRxMWxJa05fcVkyTTBPYTYxNTRvVjFpcVFWaEZ2TklFLWhld0hF": 1793150743396
+    "news:CBMi3wFBVV95cUxOVDFLcVhRR0Z0NzQ3d2RGN2FCaUdxeEdlSTdQR0tPTTlfZ0VDLXZ6eDU0emNRMlVwNzhzdHVhZDlqTm1Ca1RrMG0tTmNNUDhoVmNvYXJPREdUVlVPbm80SUg5VWlCeVdYX2xCa2dqdUFtQUR6b3kwMkpPT3NRTGlrS0dzd2hTdGdFSFZfa2FLejl5T1U3LXpUSHdHWS0xTGNhZGE1VjVVMlViZ2FlUWNYcnR5dXl6cGNMYnRxMWxJa05fcVkyTTBPYTYxNTRvVjFpcVFWaEZ2TklFLWhld0hF": 1793150743396,
+    "threads:DfBPRTeE0A2": 1793151050095,
+    "threads:DfBQgkkiVCI": 1793151050095,
+    "threads:DfBQV-4gGCh": 1793151050095,
+    "threads:DfBPRSyE2zs": 1793151050095,
+    "threads:DfBQfOAmGkE": 1793151050095,
+    "threads:DfBPfirjS9A": 1793151050095,
+    "threads:DfBQS28EzFN": 1793151050095,
+    "threads:DfBP_7OkxhB": 1793151050095,
+    "threads:DbKi6nVEj6Z": 1793151050095,
+    "threads:DfBPnhLEucQ": 1793151050095
   },
   "digest": [
     {
@@ -25333,10 +25343,40 @@
       "d": 1793132244000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 30 Oktober jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota ",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfBQS28EzFN",
+      "d": 1793150972000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 30 Oktober jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota ",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfBP_7OkxhB",
+      "d": 1793150817000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cheffadil.id",
+      "x": "Kalau sudah begini, saya nggak tega langsung bilang resepnya salah atau menyuruh ganti bahan. Saya lebih pengin tahu dulu, bagian dalam rotinya ikut keras atau cuma kulit luarnya? ",
+      "u": "https://www.threads.com/@cheffadil.id/post/DfBPnhLEucQ",
+      "d": 1793150617000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
