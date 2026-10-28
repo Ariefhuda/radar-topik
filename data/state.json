@@ -27220,19 +27220,10 @@
     "threads:DfDSgmfExIK": 1793219742839,
     "threads:DfDUKovCETh": 1793220052950,
     "news:CBMi3gFBVV95cUxQSWtGU3lpMGRoRlZUQUNCMm91Q3V2Q3l6RkpVRHZFVnBzZ1ZaN1VQNkJmTjBaU28yajJnRExzbmVlN19LQVh6Z3hhR1BLZlBKaWpqSGJ2Ykc5RjhqUlJUZE5rRUJTa1pnaXY0RXVvWDZ3N1dxQV9vODNjMzZ1d0pSUk5rMUNhbWhmZEFPaklNWloxZ0h6SVZvR0RteGpvdnhhM3lFdlhnV3F6MWRQckJaTzhQeDV1ckNGNnVGTWN1MTd1WW5Nc1BYdjk2dGJnRzVJT2dDb2JTSDVWaVFUcnfSAeMBQVVfeXFMUFpZRXk2T1hPN3l0QVhhcU5EZlYzM1VtQkNQemZlRlFTM0ZnRzhUMkxaZ0czR19HZkFGU1dvWjNSWHdiSnYzY05pMk5sM3J5cHJ4X25BWk92cWppdFU5WWpmd0RDcXpyRnd3VFR6WlF4TV9KX1dVU2RLODd4Q2pzTkEteEZrb1lQalhzT0lHVUdFZ2FTSE1mZ3FpRGl0ajNTaHhiN25SWFQ1cW1zVUw4Yk9PekdVcVRUV2hIZ3g5RWpPNzI4bVNRYW4zUlNVR0dPcEZlalJRa2M1dkp1M0dqTFBQUGs": 1793220052950,
-    "threads:DfDTqMLmSTT": 1793220339840
+    "threads:DfDTqMLmSTT": 1793220339840,
+    "news:CBMinwFBVV95cUxNcVVtb2xLTnpjMHZwOExQQnBaaWxVR01PWkxOejdIWEdKOE9KVGhESHNFV1Z6ZHczNnUyRXhGcDNzQ3VtN2d0VXpQaGtvcWp0MEIwOG9zc09uZkpVUm1ldmgwVzhXNTZrSmIwUXY2QUR1d1RnTGtGMWc2Rzl6aHhNdU1KNjBLM2pLd1JvV0dBY1MybV8yRi11NnZaMDVlWEk": 1793220641197
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Kalbar Satu",
-      "x": "NU Online Institute Buka Beasiswa Santri ke Malaysia, Tersedia Jenjang S1 hingga S3: Berikut Syaratnya! - Kalbar Satu",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWGhZZnY5NUFJLWd2UDRsVEpTcmN4YmVVX01KenBqWGVrT3EwMkVXWXVMZWhLYXhhZnZpdHhzT1hPblZiYkNKOGxBdDJaXzI4ZEZmelVVeFFLQ25XMmxBbS1YWlFNZXlaUTJmS0VGR2RNajdUWjlNcGQtQlBpVFpTMWk0R29xSTlXLTZJMmR1TDJ6bFU0NkdXeDBBUG1lNnZWei0zV3N2b25yRTF4TDA1U0FWUXNNUGZYTnNHcW5GbEVkaV9mWmlzZ3dONFU?oc=5",
-      "d": 1793198154000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28722,10 +28713,20 @@
       "d": 1793203935000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Tertib Berlalu Lintas, Polisi di Tegal Hadiahi Pengendara Garam Dapur - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVVtb2xLTnpjMHZwOExQQnBaaWxVR01PWkxOejdIWEdKOE9KVGhESHNFV1Z6ZHczNnUyRXhGcDNzQ3VtN2d0VXpQaGtvcWp0MEIwOG9zc09uZkpVUm1ldmgwVzhXNTZrSmIwUXY2QUR1d1RnTGtGMWc2Rzl6aHhNdU1KNjBLM2pLd1JvV0dBY1MybV8yRi11NnZaMDVlWEk?oc=5",
+      "d": 1793199215000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
