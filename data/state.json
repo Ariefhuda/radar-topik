@@ -25250,7 +25250,17 @@
     "threads:DeRCjKIkuUp": 1793155860313,
     "threads:DfBZXNDj-6H": 1793155860313,
     "threads:DfBZQoGAYZf": 1793155860313,
-    "news:CBMirwFBVV95cUxOUTZCOUtaRWZ6TnBUNzVHc2pFX0lGN2tUelJkck1LRE45SHY3blJxOUxyeFBlNVR5a3RjT0RZOU43UlpPQ2JBODBYWk5XRGF2ckhwSWhrN0QwYlV0RXpxWlBSaENROG1kdlVrRVdTRVdJcXF4QTdackFIbVZrOXI2THdXZUpzSS00blRUajVPZlpDdkVHNjZSQmRGM2IxSl9kNXh0ZjEydmFrVlE3QWVF": 1793155860313
+    "news:CBMirwFBVV95cUxOUTZCOUtaRWZ6TnBUNzVHc2pFX0lGN2tUelJkck1LRE45SHY3blJxOUxyeFBlNVR5a3RjT0RZOU43UlpPQ2JBODBYWk5XRGF2ckhwSWhrN0QwYlV0RXpxWlBSaENROG1kdlVrRVdTRVdJcXF4QTdackFIbVZrOXI2THdXZUpzSS00blRUajVPZlpDdkVHNjZSQmRGM2IxSl9kNXh0ZjEydmFrVlE3QWVF": 1793155860313,
+    "threads:Ddotz0eEdUY": 1793156135873,
+    "threads:DfBZikDkkSU": 1793156135873,
+    "threads:DfBaKtunzSc": 1793156135873,
+    "threads:DfBaI_6HxXb": 1793156135873,
+    "threads:DfBZ0v4H7rk": 1793156135873,
+    "threads:DfBZl8tH1Lv": 1793156135873,
+    "threads:DfBUDhrm4f4": 1793156135873,
+    "threads:DfBaReIiq4l": 1793156135873,
+    "threads:DfBZ6Hckg02": 1793156135873,
+    "news:CBMizgFBVV95cUxPRUVQMWhGMzlBSzVjNDhNN3dRQ1dMRHZUNi04OWs3THF5VEVsUVIyblRORmZTWU4zX2xGZU1Ia3BULXF3cHc2THlpdkJjak8wWGxlZXdJdlZFbnB4V0JnWFVUbmlwTmR3VVFfSWkySXZnek1vVENYWHhvVnhoOFQwalFIb1Y0OW03UGxtek1pMHk0NjBkWURuZzg3SllncFpqM2FmM2c2UjJHTVkydjVQQmdBdUtBUy1FZElHZ2J4MU5DSGFQZ0JLVUwtVFlyQQ": 1793156135873
   },
   "digest": [
     {
@@ -26732,10 +26742,20 @@
       "d": 1793155673000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnewsbogor.com",
+      "x": "Bansos KLJ, KAJ, dan KPDJ Cair Oktober 2026, Simak Cara Cek Status dan Saldo Rekening - Tribunnewsbogor.com",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRUVQMWhGMzlBSzVjNDhNN3dRQ1dMRHZUNi04OWs3THF5VEVsUVIyblRORmZTWU4zX2xGZU1Ia3BULXF3cHc2THlpdkJjak8wWGxlZXdJdlZFbnB4V0JnWFVUbmlwTmR3VVFfSWkySXZnek1vVENYWHhvVnhoOFQwalFIb1Y0OW03UGxtek1pMHk0NjBkWURuZzg3SllncFpqM2FmM2c2UjJHTVkydjVQQmdBdUtBUy1FZElHZ2J4MU5DSGFQZ0JLVUwtVFlyQQ?oc=5",
+      "d": 1793156055000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
