@@ -27185,7 +27185,12 @@
     "threads:DfDMId8jwER": 1793216442897,
     "threads:DfDMCcYDmAx": 1793216442897,
     "news:CBMimgFBVV95cUxOWklablFETE84VmlEeG5iOUJXSjZ6bXZBTFVoQzlMYnN6a181RU5HNUxUTGJ6Y3k4bmNLNUF5NzZqOFB5ZXVtaWZNdWJnYlNIZmNXT2lDY2dfeG00QWtxV3JGSVdwWVE5LWhkU25KV2h6NjFyWmRvc2NaaG1yWnJnTXp1VGU3NEI3SUxUQkZpajR4NGNRVmNGOFln": 1793216442897,
-    "threads:DeGIJT0mMRs": 1793216741103
+    "threads:DeGIJT0mMRs": 1793216741103,
+    "threads:DdrfVDlD9Va": 1793217048338,
+    "threads:DfDORPakp-S": 1793217048338,
+    "threads:DfDNr2tgdKU": 1793217048338,
+    "threads:DfDNUyroxyP": 1793217048338,
+    "threads:DfDNOzMHRZV": 1793217048338
   },
   "digest": [
     {
@@ -28690,13 +28695,13 @@
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793195442869
+    "reddit": 1793217048338
   }
 }
