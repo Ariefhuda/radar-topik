@@ -26998,19 +26998,11 @@
     "threads:DfChKKnD6oS": 1793205064657,
     "threads:DfCRK7aknCo": 1793205064657,
     "threads:DfCxetDE8Rc": 1793205064657,
-    "news:CBMiugFBVV95cUxQTHlMaHU2emlrWEdOTHdZVU5qZndjSURYOF9xM2RORWpnZkNTSUo2bkZ3MEg4VlRYSkNYc1VLVXVZX2dHUVBHVDdUMGJnTDYybTRYR0pHYUYyWTNjX2N4OXM3QUlEUWl4bmFScVpaaUdYZl9oSjFmWVNlYWxUczMzLTE1TklmVlZtUmMybnZDNk80aFczdXQ5S3RqbHhINC1sWnZHSmdUTGJnNlQ2ZlVhc3FTM3NBVFZhT1HSAb8BQVVfeXFMTUR6RVNTdjdFakZfdk1ELUtzWEdzRTZZY0t4Sldzbl90T2FxazB4azFLVm9DYXlhMTE0UjJTdFJLblJJX1F5R2pCb29pXzY2MUNOYmk2aEg1UnFIMlRweUM4ZXpLLVlZR0pnTEJyY1ZTVUUyNWt3aF9PMEpWZ2Z6TE9rTEM2VEVyRk1JZDM4bjZPal9ZOGhoLVFlQ3NzXzR1VGx1R1MzNnU0U19ibmRBTGVDeUpfZkYycGI4SFhmZms": 1793205064657
+    "news:CBMiugFBVV95cUxQTHlMaHU2emlrWEdOTHdZVU5qZndjSURYOF9xM2RORWpnZkNTSUo2bkZ3MEg4VlRYSkNYc1VLVXVZX2dHUVBHVDdUMGJnTDYybTRYR0pHYUYyWTNjX2N4OXM3QUlEUWl4bmFScVpaaUdYZl9oSjFmWVNlYWxUczMzLTE1TklmVlZtUmMybnZDNk80aFczdXQ5S3RqbHhINC1sWnZHSmdUTGJnNlQ2ZlVhc3FTM3NBVFZhT1HSAb8BQVVfeXFMTUR6RVNTdjdFakZfdk1ELUtzWEdzRTZZY0t4Sldzbl90T2FxazB4azFLVm9DYXlhMTE0UjJTdFJLblJJX1F5R2pCb29pXzY2MUNOYmk2aEg1UnFIMlRweUM4ZXpLLVlZR0pnTEJyY1ZTVUUyNWt3aF9PMEpWZ2Z6TE9rTEM2VEVyRk1JZDM4bjZPal9ZOGhoLVFlQ3NzXzR1VGx1R1MzNnU0U19ibmRBTGVDeUpfZkYycGI4SFhmZms": 1793205064657,
+    "threads:DfC2kmFkvsc": 1793205336655,
+    "threads:DfC3z8ED9cx": 1793205336655
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Foto : Cara Cek Bansos PKH BPNT Tahap 4 2026 Lewat HP, Cukup Pakai NIK KTP Halaman 1 - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlBOdHI4TmtjUUx4V3VXZXpNeHdDNjRNWUdVSVdCazhtakljbXdscklVZHd0VFgyM0lCelNBcVBhQ0pDNFMzcnNWeUNkbEFlaTJxQW56alUtVW5WTmFhdGg0UzV6QTd1MVI2WVZNVjI2ckV0dnIwSG1PTW0wQXRQVVFTUzRQdTVtcFFQZVdqZWpHcnVaLVFWRFZXMVhVd1NmNDdIaXo2WTVkeVU5aVV5b0Jsc2tCQ3Q0YjRvWnlZSFppVm8?oc=5",
-      "d": 1793190719000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28500,10 +28492,20 @@
       "d": 1793201925000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@diinnnnr",
+      "x": "Ka boleh tau cara nurunin desil di perlinsos sama dtsen ngga? Soalnya aku udah coba pembaruan data di cek bansos hasilnya tetep gaada desil, ke kelurahan ga membantu sama sekali",
+      "u": "https://www.threads.com/@diinnnnr/post/DfC2kmFkvsc",
+      "d": 1793204595000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
