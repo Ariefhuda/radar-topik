@@ -27253,19 +27253,11 @@
     "threads:DfClHBSEn1t": 1793223058361,
     "threads:DfDYIm0CQX_": 1793223338493,
     "threads:DfDZy9KEzDY": 1793223338493,
-    "threads:De8hVOKkwD9": 1793223338493
+    "threads:De8hVOKkwD9": 1793223338493,
+    "news:CBMi1AFBVV95cUxPMnRRRURHMVAxZEhWdW43QTN2dnJldnFYdUQzUHI1Rmtsd0dXUkt2bXE0dDREdU9DaXdyRDZ1MVRBVjZVQTlkRjhlRGVmRGJwUV9XQ041ZUdVMU5NNWZndDlVLTdfVzNERnNXRGt3Z0VaUTI3a3Izb2xyck50ZmtEbFBQMnBOdy1oYVZSS2NEVWxNOThiczMwVllvQ2dBdmtvVndNYzNyQ1ZXejhueHU4SE5HelhyM2xkVDVrUWNXMnhlMktJQUlaRXZRX094SE1uS2dWWA": 1793223641168,
+    "news:CBMisAFBVV95cUxQQWJ1UFJMcXN6VmZBTmhXT0ppaDBzZzBNenBPT2I1VDlQNVdmUUxISV9QOGw5SUZJRkFZUzV2UkFON1NjWUxQdWd4Q3FSNV9EMFlMXzZjUFpoalF3MnE1ZkJPVU50RmEwMlM4Wm5yNS1MdGhQSnF6c2l1ZFdqWG5Kc2ExZ0VZQzgxcGo1QU1OQUhtaGtUdk9MNm9yUWdsY2hpb3I1bVJfRVBCX2ZrWWNJdQ": 1793223641168
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@drmatematika",
-      "x": "Pengen nyoba ikut Olimpiade Matematika, tapi pas lihat soalnya langsung blank dan bingung harus mulai belajar dari mana? Wajar banget! 😅 Daripada pusing sendiri, mending ikutan pe",
-      "u": "https://www.threads.com/@drmatematika/post/DfCrWufknAF",
-      "d": 1793198714000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28755,10 +28747,20 @@
       "d": 1793223063000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BAZNAS",
+      "x": "BAZNAS RI Buka Beasiswa Cendekia Timur Tengah 2026, Targetkan 300 Mahasiswa - BAZNAS",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQWJ1UFJMcXN6VmZBTmhXT0ppaDBzZzBNenBPT2I1VDlQNVdmUUxISV9QOGw5SUZJRkFZUzV2UkFON1NjWUxQdWd4Q3FSNV9EMFlMXzZjUFpoalF3MnE1ZkJPVU50RmEwMlM4Wm5yNS1MdGhQSnF6c2l1ZFdqWG5Kc2ExZ0VZQzgxcGo1QU1OQUhtaGtUdk9MNm9yUWdsY2hpb3I1bVJfRVBCX2ZrWWNJdQ?oc=5",
+      "d": 1793156394000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
