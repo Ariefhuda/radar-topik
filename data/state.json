@@ -27060,19 +27060,19 @@
     "threads:DfC8x7Ij3IM": 1793207764446,
     "threads:DfC8TM5iYhN": 1793207764446,
     "threads:DfC8JBOG5k7": 1793207764446,
-    "news:CBMingFBVV95cUxQeFJ1VVRXc3hJMFZDWVh5TmJLTlJZazBjanpYSVEwc3ROWjVNNm56Y1kxbHlLRHlHazVoSDV4UFlWWk80UzQ3c1ZIUDh3TnF4clNLUjkydXZ4R0xqVlRua3VyR0p5TXVFajE2WHlnNk5JbnoyNlJZUDQ2OTc2WU5TUHUxT090RFdqMk5YbFNreC1rNWZrUlg3dUFzQmRCQQ": 1793207764446
+    "news:CBMingFBVV95cUxQeFJ1VVRXc3hJMFZDWVh5TmJLTlJZazBjanpYSVEwc3ROWjVNNm56Y1kxbHlLRHlHazVoSDV4UFlWWk80UzQ3c1ZIUDh3TnF4clNLUjkydXZ4R0xqVlRua3VyR0p5TXVFajE2WHlnNk5JbnoyNlJZUDQ2OTc2WU5TUHUxT090RFdqMk5YbFNreC1rNWZrUlg3dUFzQmRCQQ": 1793207764446,
+    "threads:DfC7shVluS4": 1793208050756,
+    "threads:DfC7mJaEqxZ": 1793208050756,
+    "threads:DfBYhADEY2N": 1793208050756,
+    "threads:DYGydQnEY0E": 1793208050756,
+    "threads:DZU8uz6GuTT": 1793208050756,
+    "threads:DbMxcXjndI3": 1793208050756,
+    "threads:Dd8-aj_E-oV": 1793208050756,
+    "threads:DbmqnQdkixu": 1793208050756,
+    "threads:Dev2bAkk-yS": 1793208050756,
+    "threads:DbidvkfD64e": 1793208050756
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "RRI.co.id",
-      "x": "Rahmawati Dorong Kreativitas Anak Muda Kaltara Jadi Ladang Cuan - RRI.co.id",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzlQQzdaRnY2bHVWUlQyVDJMMThBX09JUzFERVZBNUdxS3lJSVZWT2xrSkpSTGhPeU9xQ1habE5YX0ZnZ1ZoRjM0bDJBaW12eVBTTmRTMEpSSEktcTVoQU01eWlER3ZsN1BnN1A2N3UyRFpuMmI4cHZoV3lFSF82bWZtLUhJcDF5RU1NNUozWlRkdVUwN0ZNNWk2N0ZxWnI5UmpKWUJDUGZfS2ltX19ESw?oc=5",
-      "d": 1793194380000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28562,10 +28562,20 @@
       "d": 1793198303000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfBYhADEY2N",
+      "d": 1793155282000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
