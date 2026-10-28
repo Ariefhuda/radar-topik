@@ -25046,7 +25046,17 @@
     "threads:DfBQPBGk_p9": 1793151346429,
     "threads:DfBQA3NEm73": 1793151346429,
     "threads:DfBRI7sjFWg": 1793151346429,
-    "threads:DfBQBKHj4_X": 1793151346429
+    "threads:DfBQBKHj4_X": 1793151346429,
+    "threads:DfBQuT1CRNA": 1793151664360,
+    "threads:DfBQq_PiQlf": 1793151664360,
+    "threads:DfBRpYXFWlN": 1793151664360,
+    "threads:DfBRkh8jSeV": 1793151664360,
+    "threads:DfBRipEEtH5": 1793151664360,
+    "threads:DfBE7K8D-7U": 1793151664360,
+    "threads:DfBJjtIGTY2": 1793151664360,
+    "threads:DfBRWAIlLXv": 1793151664360,
+    "threads:DfBQeYdiBTf": 1793151664360,
+    "news:CBMikAFBVV95cUxPTXkySncteWNNdGNMd2d0dzA4RGFidndrRzltNGRNZTFxOUJPcEljQ0JyM0ZWU1BvTi1JNHpqUVdCT3hOY2oyUGF0dzlzakNRMWwyWXNISnJkMDhUVFZlMG93ZkNISHNvZzNpX3JscUlRLUNDbHNqb2c2RGlkbEN0M2lkYUIzSVIxUm9qTzkzZms": 1793151664360
   },
   "digest": [
     {
@@ -25431,13 +25441,13 @@
     }
   ],
   "lastDigest": "2026-10-28-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793130062750
+    "reddit": 1793151664360
   }
 }
