@@ -27082,19 +27082,11 @@
     "threads:DfC9Q3VmruP": 1793208648215,
     "threads:DfC9MUfiDPM": 1793208648215,
     "threads:DfBcQL9EVJV": 1793208648215,
-    "threads:DfC9y5oD8RW": 1793208939313
+    "threads:DfC9y5oD8RW": 1793208939313,
+    "threads:DfC-YFTmXtC": 1793209247666,
+    "news:CBMipwFBVV95cUxQNy00dk4yLU0ydkpwY3FySU81SVNLR1dzWlVIeXl0ZHpQeUs4VThhc3VLYV9QVjVrSzhDd29ZSDNCbmdmV1VwWDlINGs5bUNOODdWSlhDMVU0ODBPZ3YyVkFDQ09rbFpHUld2NGF6MzhULXVzRzFxNGp1NHI0dENZV1IxSTdvTzBSeU5YN0EwVS1MZWctVldsYWdVUzdsVXVIVEh0dkxsVdIBqgFBVV95cUxOeHM5LVBlM3MyYXZKcVllemF1am9YQ1lwYjNhdDRpVWFON0F4azdnTUFhQ2VreDZ0Q0dPc2dxMlBsUXFpd293NkhtWGhQZzZJb3JEQ29Dd25VVWRZUm1kZ1BuMkppdkRDWWtSZEhld0VlWS1kRGNPZ251Mk1hdWNETzhhSUFDTWY3LVZJbHFGNGJ6NUJjamVDTTZHV2lkV2xLSkhQc0pTNXRxdw": 1793209247666
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@thaitealog",
-      "x": "Hi Kak! Lagi nyari info Magang? pas banget, siapa tau relevan yaa Kalau Kakak lagi cari tempat magang atau masih bingung soal pembuatan CV dan cara interview agar diterima, aku mau",
-      "u": "https://www.threads.com/@thaitealog/post/DfCklOqD-wk",
-      "d": 1793195163000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28584,10 +28576,20 @@
       "d": 1793208382000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "ANTARA News",
+      "x": "Polres Purwakarta ungkap kasus pemalsuan SLHS di sejumlah SPPG - ANTARA News",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNy00dk4yLU0ydkpwY3FySU81SVNLR1dzWlVIeXl0ZHpQeUs4VThhc3VLYV9QVjVrSzhDd29ZSDNCbmdmV1VwWDlINGs5bUNOODdWSlhDMVU0ODBPZ3YyVkFDQ09rbFpHUld2NGF6MzhULXVzRzFxNGp1NHI0dENZV1IxSTdvTzBSeU5YN0EwVS1MZWctVldsYWdVUzdsVXVIVEh0dkxsVdIBqgFBVV95cUxOeHM5LVBlM3MyYXZKcVllemF1am9YQ1lwYjNhdDRpVWFON0F4azdnTUFhQ2VreDZ0Q0dPc2dxMlBsUXFpd293NkhtWGhQZzZJb3JEQ29Dd25VVWRZUm1kZ1BuMkppdkRDWWtSZEhld0VlWS1kRGNPZ251Mk1hdWNETzhhSUFDTWY3LVZJbHFGNGJ6NUJjamVDTTZHV2lkV2xLSkhQc0pTNXRxdw?oc=5",
+      "d": 1793200309000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
