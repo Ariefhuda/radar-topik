@@ -28865,7 +28865,15 @@
     "threads:DfFBdzrklN3": 1793277647551,
     "threads:DfFBzZUjVGu": 1793277647551,
     "news:CBMijwFBVV95cUxOOHRWQnhXUExwbHVsREktMHBWVV9zeEhzVXF1dEdPMm9aS21GLXQ3Mi1YZXl2bEY4T0ZvUmZ4THNrcnotZUNzaDFGMUthanVhUFcwQlI3LXlfa2VYRzRNbVNrSGVIVi1rbFRFb3dRSEN1SzRFUV9xbTZvcG01QlR0NnlsSXFGblVxUng1ZTAxVQ": 1793277647551,
-    "news:CBMirAFBVV95cUxNbjdTNFlCeE02TzVVUUM2MmhmLTZ5bUNIbEdRNWcwY1YydUZOb0N2TmN3TV9IdTBLdk5GV1lvd0tXdXhFT1I3bXpoWndtcDB6SHgtODZicDZDYUpMMUVzaktRdWFVUWpIZXNXSVpBWUlUVm84U0tTY210SlZFQnMtZ19FUTRoYzRHMThRN291WXUwZ0RRR1NzNmlCcVpxM05YSTFTU0x2ZG9mRlJy": 1793277647551
+    "news:CBMirAFBVV95cUxNbjdTNFlCeE02TzVVUUM2MmhmLTZ5bUNIbEdRNWcwY1YydUZOb0N2TmN3TV9IdTBLdk5GV1lvd0tXdXhFT1I3bXpoWndtcDB6SHgtODZicDZDYUpMMUVzaktRdWFVUWpIZXNXSVpBWUlUVm84U0tTY210SlZFQnMtZ19FUTRoYzRHMThRN291WXUwZ0RRR1NzNmlCcVpxM05YSTFTU0x2ZG9mRlJy": 1793277647551,
+    "threads:DfDR-UlEyb1": 1793277939772,
+    "threads:DfFCruBkRfX": 1793277939772,
+    "threads:DfFChDjmxPX": 1793277939772,
+    "threads:DfFCdjyE_JS": 1793277939772,
+    "threads:DfFCIkhFPnm": 1793277939772,
+    "threads:DfFBdZpDq4X": 1793277939772,
+    "threads:DfFBdRmEzVN": 1793277939772,
+    "news:CBMiiwFBVV95cUxPb2w3STVkUnZzV1J5X1pHcVB2OXhaYjZVaHBObnpFUlRfUjhTMV9SOUEzZlZ1N2F1WkI5aDFmaDRvSzJWejhWeUIwb0d2Um5QeDNkMzZIOXNCZVZYeHlJVHlnVUhETHpFYm9kVFpMeGpBaXNiZ3ZKUEdYN0JaeTBqVEtFVnhkTExKUTln": 1793277939772
   },
   "digest": [
     {
@@ -29207,10 +29215,20 @@
       "d": 1793277592000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "5+ Pabrik Penjahit Seragam Sekolah Terpercaya dan Terjangkau di Can Tho - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb2w3STVkUnZzV1J5X1pHcVB2OXhaYjZVaHBObnpFUlRfUjhTMV9SOUEzZlZ1N2F1WkI5aDFmaDRvSzJWejhWeUIwb0d2Um5QeDNkMzZIOXNCZVZYeHlJVHlnVUhETHpFYm9kVFpMeGpBaXNiZ3ZKUEdYN0JaeTBqVEtFVnhkTExKUTln?oc=5",
+      "d": 1793275741000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
