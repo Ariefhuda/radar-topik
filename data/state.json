@@ -27911,29 +27911,12 @@
     "threads:DfEDO3WIA73": 1793247346155,
     "threads:DfEEMFikyJ1": 1793247346155,
     "threads:DfD3ksnEtzp": 1793247346155,
-    "threads:DfD7YoDH0pf": 1793247346155
+    "threads:DfD7YoDH0pf": 1793247346155,
+    "threads:DfD_lW0GlxH": 1793247642565,
+    "threads:DfEIoJrE7IB": 1793247642565,
+    "news:CBMiygFBVV95cUxOSUoybmtFUXgxaTF1cDBOQnJqcm10ODQtSzV1Vm8xOEhQUmpuTHFQMjZVUVRrbXVJN25zNVZ3R0IyWHIxZlRoM0p3d2tzQjdmTWgyUE1vMy1NZ2hhemY0c1FYcUhwenNUOER6MTlWcHF0NXY1TnpEcUJoRVpSeXc1eHFuZGhwcndIMWd0dzlpcERhNGxYZHFqZFR3SkgwWjZvVW9yVGNOLXdCMnJSUWNkX2p0MnM1MHVndzg2X01reGM4QTJaWDhYbkZn0gHPAUFVX3lxTE1JMEZiN2dsUnlISGJxRTBXRlJkVVpZdnQ5dWFKNUh0d1M4QVFhTFBha3FiVmVJOGxKU0lFZ0NsSGdsNUlkbUltd0gyVkRqMWpjOWlQSFRuZk5iRDgxYk5CblF4WWZpVF8wMFRicmRubTI4ZHJRVGNmZUdOZDh4aGZIY1lVRFR0QjBBc3V2Y25vWm5GRHVCOVBLbnV1OElpRkVWMzd1VlNBLUZMOWI5ZVV6M3laMm1GbXFQSXNYOW1ULUpyTHEzblNkd29lX2tTTQ": 1793247642565
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@_musa.aroh",
-      "x": "Di cek bansos ka tp proses nya luama kmren, ngajuin bulan 2 acc bulan 8an",
-      "u": "https://www.threads.com/@_musa.aroh/post/DfD3BiHmbCI",
-      "d": 1793238386000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@rita_waryono",
-      "x": "Cek di google berapa gaji dan tunjangan serta fasilitas seorng brigpol. Apa layak dapat bansos???",
-      "u": "https://www.threads.com/@rita_waryono/post/DfD2TqWnzK5",
-      "d": 1793238011000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29413,10 +29396,30 @@
       "d": 1793240673000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@atom.anciz",
+      "x": "Segara cek desilmu jangan sampai naik dan segara lakukan perbaruan data di dinsos jangan sampai BPJS PBI non aktif bulan November 2026 #BPJSKesehatan #BPJSPBI #PBIJKN #CekBansos #D",
+      "u": "https://www.threads.com/@atom.anciz/post/DfD_lW0GlxH",
+      "d": 1793242875000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "SIKS-NG Beralih ke Periode Akhir Tahun, Kapan Bansos PKH BPNT Tahap 4 Masuk ke KKS? - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSUoybmtFUXgxaTF1cDBOQnJqcm10ODQtSzV1Vm8xOEhQUmpuTHFQMjZVUVRrbXVJN25zNVZ3R0IyWHIxZlRoM0p3d2tzQjdmTWgyUE1vMy1NZ2hhemY0c1FYcUhwenNUOER6MTlWcHF0NXY1TnpEcUJoRVpSeXc1eHFuZGhwcndIMWd0dzlpcERhNGxYZHFqZFR3SkgwWjZvVW9yVGNOLXdCMnJSUWNkX2p0MnM1MHVndzg2X01reGM4QTJaWDhYbkZn0gHPAUFVX3lxTE1JMEZiN2dsUnlISGJxRTBXRlJkVVpZdnQ5dWFKNUh0d1M4QVFhTFBha3FiVmVJOGxKU0lFZ0NsSGdsNUlkbUltd0gyVkRqMWpjOWlQSFRuZk5iRDgxYk5CblF4WWZpVF8wMFRicmRubTI4ZHJRVGNmZUdOZDh4aGZIY1lVRFR0QjBBc3V2Y25vWm5GRHVCOVBLbnV1OElpRkVWMzd1VlNBLUZMOWI5ZVV6M3laMm1GbXFQSXNYOW1ULUpyTHEzblNkd29lX2tTTQ?oc=5",
+      "d": 1793245743000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
