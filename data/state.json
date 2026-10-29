@@ -28962,7 +28962,21 @@
     "threads:DfFGaZBDkMa": 1793280346276,
     "news:CBMijgFBVV95cUxOUXdCSTAyeTdlTXpLQ1VKUFU3YnNLeUQ1Y3dKRVdlbDJYWEhpdmlGbDZsS3lDLWdXX0JUd0ZwQ3hueEwxS3JNQ0UxbTFxSnhDNjAwbjFtQUJNVXg5V05oOGlVNnU3RXFQWEx6ZjMzYVB2RkhuRE1GZXVoNG1KaGxZSzBXLU96UlRjMXNyVFdn": 1793280346276,
     "threads:DfFGnJygYMS": 1793280657454,
-    "news:CBMiqAFBVV95cUxQQ013dkJrZmJoeXNESHl4aDRnbHdjZUxwdHBMMF9VTmdHTnpFbGxBYzJFWHQwRWN6blRHUUJ0TElBamZ5V3JuUUpBSmIxZFUtMllGaEc3eFpDZFR2d1huSnlSd2I4UE9yaFRwVGVKX1AtOWZpczBIZTd1X0Z5dU1XMklkcEpFR2hIbzZic1ZDZlE4MWo2cU5iVEIxSkRJMEtBTk05b2xmQ3k": 1793280657454
+    "news:CBMiqAFBVV95cUxQQ013dkJrZmJoeXNESHl4aDRnbHdjZUxwdHBMMF9VTmdHTnpFbGxBYzJFWHQwRWN6blRHUUJ0TElBamZ5V3JuUUpBSmIxZFUtMllGaEc3eFpDZFR2d1huSnlSd2I4UE9yaFRwVGVKX1AtOWZpczBIZTd1X0Z5dU1XMklkcEpFR2hIbzZic1ZDZlE4MWo2cU5iVEIxSkRJMEtBTk05b2xmQ3k": 1793280657454,
+    "threads:DfFHq3qk_fv": 1793280943366,
+    "threads:DfFIRKTlX3K": 1793280943366,
+    "threads:DfFIMLxkSoH": 1793280943366,
+    "threads:DfFIGtNms80": 1793280943366,
+    "threads:DfFH2vDjq1l": 1793280943366,
+    "threads:DfFHprECD_o": 1793280943366,
+    "threads:DfFHuAQjTya": 1793280943366,
+    "threads:DfFHpeygb8q": 1793280943366,
+    "threads:DfFHGDfEVFI": 1793280943366,
+    "threads:DfFGdp1kTaf": 1793280943366,
+    "threads:DfFGPXVgSyb": 1793280943366,
+    "threads:DfFF2jWGWkX": 1793280943366,
+    "news:CBMi0gFBVV95cUxPTnVOazNGMjlLZGdrTTlwWFNvT1JydVZLSG1KRzZTUUZyV25HeXVVN2FrRTM1NktSWGVTQWJabzJnanRsMEZsQjJ3Q3NDM3FRQXhuQkxUTTdjVGJjLVlQNHA0VFUtSW1lamM0WWFrZmNKdDJHeUdfNG9QSU5iRjR4ZG53X3ZBcEJUd3o5Y2VoMmluZHdqQ1BMdzZ2ODJfY29ibTVMbjZMc29sWWp6d281YkpsUUF2MWQydEQ2Y2xOdjNjYmh4ME82R0pfQVF6cHR1NGc": 1793280943366,
+    "news:CBMimAFBVV95cUxNbjJ1YkRMYzlXbFFkWlJ4QUxjV2FQRGdrcFFlZ3c4OTlMZzQ4WWVmVWYxS09TZ0VmX1FIUXN4em1sNGRfeUdDRzFQeHRhMGs0Umlpb1hlcXhHbnRMXy1PSTJLeVhxalBNbWFheTJQVnN2ZU5XRmlZZC1FNUNUNW9KY2dfRG5IRHRFZHNCNWJ1NjhNLVA5SHh0WQ": 1793280943366
   },
   "digest": [
     {
@@ -29744,10 +29758,20 @@
       "d": 1793280113000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suara 'Aisyiyah",
+      "x": "MPK PDA Banyumas Helat Seminar Penanggulangan Kasus Kelainan Seksual - Suara 'Aisyiyah",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjJ1YkRMYzlXbFFkWlJ4QUxjV2FQRGdrcFFlZ3c4OTlMZzQ4WWVmVWYxS09TZ0VmX1FIUXN4em1sNGRfeUdDRzFQeHRhMGs0Umlpb1hlcXhHbnRMXy1PSTJLeVhxalBNbWFheTJQVnN2ZU5XRmlZZC1FNUNUNW9KY2dfRG5IRHRFZHNCNWJ1NjhNLVA5SHh0WQ?oc=5",
+      "d": 1793277057000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
