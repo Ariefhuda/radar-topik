@@ -27643,7 +27643,12 @@
     "threads:DfD4VItk-KA": 1793238940183,
     "threads:DfD4TXYk18O": 1793238940183,
     "threads:DfD32L7Fonf": 1793238940183,
-    "news:CBMiqAFBVV95cUxPMEZJbzZ3N2ZmYnBQbnNqZ05JbTdBQUZrWExYMFFsbkhTbzY5dV81V3U2dmZJMWQ4UHgyeVdMZVpOR3RWRU9DeUxXTGk0RXZUV29od016RktKZ2tNa0YwR2NhMzVlTkJiY3h6NmE3VHJCbkZfaXpvbGF4bFJLNThQSmpGaFBUUVJsczhXSTFBQVRlamhfSG5uRlhiMjBYSWxLNmNTLUpiS2M": 1793238940183
+    "news:CBMiqAFBVV95cUxPMEZJbzZ3N2ZmYnBQbnNqZ05JbTdBQUZrWExYMFFsbkhTbzY5dV81V3U2dmZJMWQ4UHgyeVdMZVpOR3RWRU9DeUxXTGk0RXZUV29od016RktKZ2tNa0YwR2NhMzVlTkJiY3h6NmE3VHJCbkZfaXpvbGF4bFJLNThQSmpGaFBUUVJsczhXSTFBQVRlamhfSG5uRlhiMjBYSWxLNmNTLUpiS2M": 1793238940183,
+    "threads:DfD3zsbCX_b": 1793239272750,
+    "threads:DfD4GiTEzf_": 1793239272750,
+    "threads:DfD4EUvj5Dq": 1793239272750,
+    "news:CBMiiwFBVV95cUxNY0w4SDFMQ3UyLVNWWVFVTWFvN19zODV1TFVTUzh2ZkRyNlZ4NnR0NzFBdGZIeVpKanRPOHZmclptRXkyR3NHbTY5WHFTdUdTcXVOQ0pKTFhMb3FpMWtYMENUdGtHNzNySEpWUVF2NE1SX21OUlZwdW1ZX1BENkxjWG1DRS1XUDNFNnZB": 1793239272750,
+    "news:CBMisgFBVV95cUxNdTktOFFFV1M4LVVac2RsRkZBSm5HLTVfRDc1Zkp0RGUyR0tkdlMwVEg0MVNwOE5MRnQ4X2Q1MGUwcHRralI1QnROZWp1bnJib3pVLUFTb05wVlNBdmJYMC14LWVxY2FDaE5pQjFHMDlJUHlKWWxqMUZ5UWM0aU8weERiTjBCZ0JaTkwzZHIzVjZMWFZIbVR0UkNVMU8zV3A0YzhtS2VRV19NaVpUUXdRQUxR": 1793239272750
   },
   "digest": [
     {
@@ -28155,10 +28160,40 @@
       "d": 1793238769000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@bintangbeasiswa",
+      "x": "Syarat nilai: rata-rata Kanada 90%+ atau IB 35+ mendapat CAD 10.000/tahun × 4; 80–89,9% atau IB 30–34 mendapat CAD 7.500/tahun × 4; 75–79,9% atau IB 28–29 mendapat CAD 6.000 sekali",
+      "u": "https://www.threads.com/@bintangbeasiswa/post/DfD3zsbCX_b",
+      "d": 1793238805000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@lutfi.irfia",
+      "x": "Aku pertama ubah di apk cek bansos trus awal September kemarin ubah di perlinsos alhamdulillah kemarin sudah turun desilnya",
+      "u": "https://www.threads.com/@lutfi.irfia/post/DfD4GiTEzf_",
+      "d": 1793238952000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Oke jadi gini bre, mulai 1 November peserta BPJS PBI yang masuk desil 6-10 dihapus karena dianggap udah menengah ke atas. PBI sekarang cuma buat desil 1-5 (yang miskin - rentan mis",
+      "u": "https://www.threads.com/@meta.ai/post/DfD4EUvj5Dq",
+      "d": 1793238934000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
