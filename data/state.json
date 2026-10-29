@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DSJR4MrAYdq": 1792090248600,
-    "threads:DaMVSuHE-Ss": 1792090248600,
-    "threads:DQtF5RqkiSB": 1792090248600,
-    "threads:DB_4bFcSyWM": 1792090248600,
-    "threads:C_zrwPfM_VK": 1792090248600,
     "threads:DdWqmEoGPeF": 1792090542185,
     "threads:Db-TwXKkXDv": 1792090542185,
     "threads:Db4E9ilkleE": 1792090542185,
@@ -28165,69 +28160,29 @@
     "threads:DWwPNZHkopc": 1793299245761,
     "threads:DRb0j6OiC_I": 1793299245761,
     "news:CBMi3wFBVV95cUxPa2VVRTUwdGlmcUZURFE0aUtWNzBwY2pwUnhKLW9kOGZ3QWlyM0dVc3VFZ3ZNUGRpenoyYXZoWkdZVi1oRXBZWGpPQVVxd3lCYnRfdjlESUpsY1Z0ZFZVXzFpQ2NCSmZ1YjYwUUlCODJaUTM0dHpVbHJmMVJja2FnZktxVm5FXzA3YS1VdEltTE1QSFdLeXdaNmdMdllxeV95aHdxakRlbTdNcW5TNlR5a2V5YzJoTFphMXY0U2ZOd08wNURpRDZCMmdxLXFFSmJmRTk4dVpiZHRWUmloMVZv0gHkAUFVX3lxTE1OanZ3YTV2aFFpLWc0dk9UZ2Z2VlZkTjlWbDB2c3ZaY21qQ0FJUHotNDdjY1huZTVQUlFzMnVlZlNLMm1ZS0tnNGpGR01FSHdubllvTlIyTmdVX05Hajg5M0FIYW84dWpmTnBIZ3RCVjQyb3VXY2gyc0Y1RjNuOEwyU2FSX1A0Tl9lS3ZpMnZxY2VZdHhwd1NHXzZ5b0FXb0JlRU5wS1lBMEtjYTd6ZDAxZS1RdWd1alBVWXBJeWV3WXRaeEhHWXZrT08yekVtWnNmd0JvWDh3eVFMVTVwdFJUeUFYSQ": 1793299245761,
-    "news:CBMivwFBVV95cUxPRWx5SHIySzVHSWMwenRzVkt0UExHNGw1XzNjU2pMX01fa21hVDRDUnUyT21DMEF5QVhBUEcxS2RyOXgyX21YTjlBVVkwVWpNVFloTHpDLXJTQU1HYzdDWGUwQ25yRDRPMEREMG85emxMZmJYRkpDOEZkSFlDX2JSVlYwYjlVaU9fRzl5Vjc4dU1TaVhST2U2QkdxaUJOemdiZjh5Q2VuaTVfRE9vTnNhdmozYjZpeXVXS0JUZ05fY9IBvwFBVV95cUxPRWx5SHIySzVHSWMwenRzVkt0UExHNGw1XzNjU2pMX01fa21hVDRDUnUyT21DMEF5QVhBUEcxS2RyOXgyX21YTjlBVVkwVWpNVFloTHpDLXJTQU1HYzdDWGUwQ25yRDRPMEREMG85emxMZmJYRkpDOEZkSFlDX2JSVlYwYjlVaU9fRzl5Vjc4dU1TaVhST2U2QkdxaUJOemdiZjh5Q2VuaTVfRE9vTnNhdmozYjZpeXVXS0JUZ05fYw": 1793299245761
+    "news:CBMivwFBVV95cUxPRWx5SHIySzVHSWMwenRzVkt0UExHNGw1XzNjU2pMX01fa21hVDRDUnUyT21DMEF5QVhBUEcxS2RyOXgyX21YTjlBVVkwVWpNVFloTHpDLXJTQU1HYzdDWGUwQ25yRDRPMEREMG85emxMZmJYRkpDOEZkSFlDX2JSVlYwYjlVaU9fRzl5Vjc4dU1TaVhST2U2QkdxaUJOemdiZjh5Q2VuaTVfRE9vTnNhdmozYjZpeXVXS0JUZ05fY9IBvwFBVV95cUxPRWx5SHIySzVHSWMwenRzVkt0UExHNGw1XzNjU2pMX01fa21hVDRDUnUyT21DMEF5QVhBUEcxS2RyOXgyX21YTjlBVVkwVWpNVFloTHpDLXJTQU1HYzdDWGUwQ25yRDRPMEREMG85emxMZmJYRkpDOEZkSFlDX2JSVlYwYjlVaU9fRzl5Vjc4dU1TaVhST2U2QkdxaUJOemdiZjh5Q2VuaTVfRE9vTnNhdmozYjZpeXVXS0JUZ05fYw": 1793299245761,
+    "threads:DZ44nRZEpB3": 1793299840772,
+    "threads:DfFsGQwGvHu": 1793299840772,
+    "threads:DfFsAYmkZrm": 1793299840772,
+    "threads:DfFrzaTm3Op": 1793299840772,
+    "threads:DfFrtaOk16X": 1793299840772,
+    "threads:DfFrr_zk19H": 1793299840772,
+    "threads:DfFrrDNib9J": 1793299840772,
+    "threads:DfFrpL0DpgW": 1793299840772,
+    "threads:DfFrHb5n68R": 1793299840772,
+    "threads:DfFsPdTjrIe": 1793299840772,
+    "threads:DfFsInkESsK": 1793299840772,
+    "threads:DfFrf4JiSZD": 1793299840772,
+    "threads:DfFrk-RlD5V": 1793299840772,
+    "threads:DfFSRAtgJHS": 1793299840772,
+    "threads:DehNKLiGV8m": 1793299840772,
+    "threads:DbAYQhwib08": 1793299840772,
+    "threads:DfFsPvxknoz": 1793299840772,
+    "news:CBMi5AFBVV95cUxNTmp2d2E1dmhRaS1nNHZPVGdmdlZWZE45VmwwdnN2WmNtakNBSVB6LTQ3Y2NYbmU1UFJRczJ1ZWZTSzJtWUtLZzRqRkdNRUh3bm5Zb05SMk5nVV9OR2o4OTNBSGFvOHVqZk5wSGd0QlY0Mm91V2NoMnNGNUYzbjhMMlNhUl9QNE5fZUt2aTJ2cWNlWXR4cHdTR182eW9BV29CZUVOcEtZQTBLY2E3emQwMWUtUXVndWpQVVlwSXlld1l0WnhIR1l2a09PMnpFbVpzZndCb1g4d3lRTFU1cHRSVHlBWEnSAeQBQVVfeXFMTU5qdndhNXZoUWktZzR2T1RnZnZWVmROOVZsMHZzdlpjbWpDQUlQei00N2NjWG5lNVBSUXMydWVmU0sybVlLS2c0akZHTUVId25uWW9OUjJOZ1VfTkdqODkzQUhhbzh1amZOcEhndEJWNDJvdVdjaDJzRjVGM244TDJTYVJfUDROX2VLdmkydnFjZVl0eHB3U0dfNnlvQVdvQmVFTnBLWUEwS2NhN3pkMDFlLVF1Z3VqUFVZcEl5ZXdZdFp4SEdZdmtPTzJ6RW1ac2Z3Qm9YOHd5UUxVNXB0UlR5QVhJ": 1793299840772,
+    "news:CBMi2AFBVV95cUxNYlFGWTF4QjBkUUU3UzdNc05oSTRqVnczaUt3R0Zrc1BPSTNrWEF0b0p2OVkxcm5ZSzBGemtmUFdaWlNlRDdoRTZJNVRYUUtONnZGQ3FoRkhhRmViS2ZLeWZ6M3VtOEFqTEFJbmZ1YXRmQXFUUmJZZkgyeC1MMmJXVFFFaUFIQ1RzX0s2OTdrRkI5dWhjbGJXZGgyclpyeDhQdVVFNl9LR2NGeHdvNHg4UGRLUFVna2RpbE9UX1BZYnhCSjlOSjJsZ3lDQVZXTW9ScHAwRTYwcUnSAd4BQVVfeXFMTU1hWV9yM1pqRmU4NUtCczR6S1pFZ29rTXRvQUU5dU1VMnluTjhLZXYzMVdLLWd5bHF6Q3pIaTRRWlB6NXpVYVdVRVI5Y0RmNFI5Mmp0aExnNi1ERWV4aExDMFVOd2xyZWdGYlIyczNMaGdvcDJkZFhnVWxQdVdHYmwyVEtnVk9INHRyT3JmU1dnQ2k4RjZnTU10WFY2bF9zZHNtaDBwZ0RTblRYUkg5RnlNXzhuTVNOdGdyLWZaNmVCRjBrVVFVOVUzRU9CSHdHNWF0UG01ZWxBRVd6WDJR": 1793299840772,
+    "news:CBMiqAFBVV95cUxORXNlZEU2YXoxdWQ3UWNDa3lTSFJGRmRKbm9iOGZpTC1vTmNYTm1sWl9NMEtMVGY3dzZPMVY0aGVEQjE4UFRFWThWTU1rMnpJbFVDeVhaUjNHNVJudlgxR3VPejl2Y05kWjBJaEFvcXVoSS1XLXp1VTFfVnJoWXNZWk9PV0tBZWw4Zl9kSUpBYmhpV1ppeXVkQ3VaM0ZvUjI2b2hSZVFmLXk": 1793299840772
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Pemerintah Kota Salatiga",
-      "x": "Perkuat Kepedulian Sosial, Nina Apresiasi Laras Asri Hadirkan Layanan Kesehatan Gratis - Pemerintah Kota Salatiga",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFlDLXpMR3JSb29oYUpqSzhJN0ZsZUVsVmV1RnpxVlViOXBOY2tWbUVrUzZGckNXQllEYXJCNmp6TVMyUzljVTN5b1J5eHBtWE5KNWxCcV9hS3U2Y2JKbHI0TVJSY2lEYjUwRjZLRGN3MUJWLTlrcWJxenFaWkJfdEtWdzhZeDRwYmNnR25XUnVpTTcta3RDNE5LRWxiSlBPUzhVTEhxSFM3RjJiS3c?oc=5",
-      "d": 1793281104000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@raiolanetworks",
-      "x": "¿Tienes una tienda online? Aprende a preparar tu web para que tus productos aparezcan en las respuestas de la IA en este webinar GRATIS 🙌 Nacho Benavides: \"Primeros pasos para sal",
-      "u": "https://www.threads.com/@raiolanetworks/post/DfFJqeZkhev",
-      "d": 1793281758000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@gratiaplena.studyoverseas",
-      "x": "Lagi mendata teman-teman di Threads yang targetnya dapet FULL SCHOLARSHIP untuk kuliah S1 atau S2 tahun depan. 🎓🌍 Kebetulan aku lagi mau bikin webinar gratis ttg bimbingan Tapi j",
-      "u": "https://www.threads.com/@gratiaplena.studyoverseas/post/DfFJOvImJKX",
-      "d": 1793281486000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sharp_academyyy",
-      "x": "Hi ya'll kita buka english class belajar dari nol bangettt. Yang mau ikutan belajar bareng. Bisa langsung hubungi ke no. Ini ya, dapatkan kelas trialnya GRATIS tanpa biaya! https:/",
-      "u": "https://www.threads.com/@sharp_academyyy/post/DfFGFXuEoRl",
-      "d": 1793279861000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ppkdjakut",
-      "x": "Dibuka pelatihan “Data Management Staff”, daftar yuk di ppkdju.com/pendaftaran, GRATIS",
-      "u": "https://www.threads.com/@ppkdjakut/post/DfFJmL6EoB0",
-      "d": 1793281678000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Suara Merdeka",
-      "x": "Menerjang Keterbatasan, Karya Penyandang Disabilitas Melenggang ke Australia dan Jepang - Suara Merdeka - Suara Merdeka",
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjZtdEVXMWgtSUZ5Z1lmZHgyV0pkMGQtYUlUSzZzcjdNQkhjUE84akdPbzYwSWdZT1RYOHhEY01CTzFocDhqWG5sejk2dTJzVnYxU1ZOUldIeG5qWWZvN19weV9DV24zWHNUTTZPa0M4NEVFcWpPVkE5bldYUUROelAxN3p1TkJIVkhJN3BtWFg0NEZrNFk3YzZoTnN5WEVxV2FzZ2NqeU1hMUg5Q1NVdVFFRWc3ekVzeFU1YWNURUR1VENRRDNuQkk2MVMwSHAwbGdwLUVLUlnSAd4BQVVfeXFMT0Zpb21DYVVTc0xieXliVkNmTU9lbkJiVmdJcF9iNW9ROVBvY240VWE1ellQU0p2NURmOUZxaTJzZUJUOGhrUzRqdkc4Qzc4dmFlNG5jY1dsY0V4ajFNX3Z3T1RRX0hlZUZGQ0c4NWxmZWFoMk5JakotTUUyV19tT2JTVlREOTAtVVBxejRpQTl4TzlqUHFpQ3p6OTNUNFlHTXVoWHJHUVJlbzdVRkVSaEJocnJZNXVLcWE0UGl0TU1OaEVqcEFKWkJiZUZzYTBtOGFZZ195VllYV1RQaHNR?oc=5",
-      "d": 1793271900000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29667,10 +29622,70 @@
       "d": 1793294460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfFrk-RlD5V",
+      "d": 1793299494000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nurrahmatikautari",
+      "x": "Jika baterai diri sedang lemah, gpp memberi waktu pada diri untuk BERHENTI agar ENERGI yang diberikan dan dapat LEBIH BAIK. #webinargratis #webinaronline #rumahcahayaindonesia #sel",
+      "u": "https://www.threads.com/@nurrahmatikautari/post/DfFSRAtgJHS",
+      "d": 1793286225000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cindywinnie2",
+      "x": "Ciwik2 yg yoga pilates, sebutin apa yang paling kalian SUKA dan BENCI di tempat yoga pilates kalian? Yg komennya bagus nanti aku pilih 10org untuk dapat kelas gratis saat grand ope",
+      "u": "https://www.threads.com/@cindywinnie2/post/DfFsPvxknoz",
+      "d": 1793299845000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Radar Banyuwangi",
+      "x": "Dari Diabetes hingga Laktasi, RSU Abdhi Famili Gambiran Buka Edukasi Kesehatan untuk Warga - Radar Banyuwangi",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTmp2d2E1dmhRaS1nNHZPVGdmdlZWZE45VmwwdnN2WmNtakNBSVB6LTQ3Y2NYbmU1UFJRczJ1ZWZTSzJtWUtLZzRqRkdNRUh3bm5Zb05SMk5nVV9OR2o4OTNBSGFvOHVqZk5wSGd0QlY0Mm91V2NoMnNGNUYzbjhMMlNhUl9QNE5fZUt2aTJ2cWNlWXR4cHdTR182eW9BV29CZUVOcEtZQTBLY2E3emQwMWUtUXVndWpQVVlwSXlld1l0WnhIR1l2a09PMnpFbVpzZndCb1g4d3lRTFU1cHRSVHlBWEnSAeQBQVVfeXFMTU5qdndhNXZoUWktZzR2T1RnZnZWVmROOVZsMHZzdlpjbWpDQUlQei00N2NjWG5lNVBSUXMydWVmU0sybVlLS2c0akZHTUVId25uWW9OUjJOZ1VfTkdqODkzQUhhbzh1amZOcEhndEJWNDJvdVdjaDJzRjVGM244TDJTYVJfUDROX2VLdmkydnFjZVl0eHB3U0dfNnlvQVdvQmVFTnBLWUEwS2NhN3pkMDFlLVF1Z3VqUFVZcEl5ZXdZdFp4SEdZdmtPTzJ6RW1ac2Z3Qm9YOHd5UUxVNXB0UlR5QVhJ?oc=5",
+      "d": 1793295146000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Detik Sumsel",
+      "x": "Wamenaker Dorong Pelatihan Kerja Sesuai Kebutuhan Industri, Anak Muda Perlu Akses Kerja Layak - Detik Sumsel - Detik Sumsel",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlFGWTF4QjBkUUU3UzdNc05oSTRqVnczaUt3R0Zrc1BPSTNrWEF0b0p2OVkxcm5ZSzBGemtmUFdaWlNlRDdoRTZJNVRYUUtONnZGQ3FoRkhhRmViS2ZLeWZ6M3VtOEFqTEFJbmZ1YXRmQXFUUmJZZkgyeC1MMmJXVFFFaUFIQ1RzX0s2OTdrRkI5dWhjbGJXZGgyclpyeDhQdVVFNl9LR2NGeHdvNHg4UGRLUFVna2RpbE9UX1BZYnhCSjlOSjJsZ3lDQVZXTW9ScHAwRTYwcUnSAd4BQVVfeXFMTU1hWV9yM1pqRmU4NUtCczR6S1pFZ29rTXRvQUU5dU1VMnluTjhLZXYzMVdLLWd5bHF6Q3pIaTRRWlB6NXpVYVdVRVI5Y0RmNFI5Mmp0aExnNi1ERWV4aExDMFVOd2xyZWdGYlIyczNMaGdvcDJkZFhnVWxQdVdHYmwyVEtnVk9INHRyT3JmU1dnQ2k4RjZnTU10WFY2bF9zZHNtaDBwZ0RTblRYUkg5RnlNXzhuTVNOdGdyLWZaNmVCRjBrVVFVOVUzRU9CSHdHNWF0UG01ZWxBRVd6WDJR?oc=5",
+      "d": 1793276168000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "patrolmedia.co.id",
+      "x": "25 Warga Batam Lulus Sertifikasi Bahasa Inggris Garapan Polda Kepri - patrolmedia.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXNlZEU2YXoxdWQ3UWNDa3lTSFJGRmRKbm9iOGZpTC1vTmNYTm1sWl9NMEtMVGY3dzZPMVY0aGVEQjE4UFRFWThWTU1rMnpJbFVDeVhaUjNHNVJudlgxR3VPejl2Y05kWjBJaEFvcXVoSS1XLXp1VTFfVnJoWXNZWk9PV0tBZWw4Zl9kSUpBYmhpV1ppeXVkQ3VaM0ZvUjI2b2hSZVFmLXk?oc=5",
+      "d": 1793299822000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
