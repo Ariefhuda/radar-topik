@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Ded6I77GTgq": 1792087569146,
-    "threads:DY3CH2ulD5A": 1792087569146,
-    "threads:Deed9mAFStx": 1792087569146,
-    "reddit:t3_1x6srr4": 1792087569146,
     "threads:DcmtlpQGAUk": 1792087849713,
     "threads:DbTVUfIDxEG": 1792087849713,
     "threads:DdDGrRdo-YM": 1792087849713,
@@ -28137,29 +28133,14 @@
     "threads:DfFl9a4lK2H": 1793296859936,
     "threads:DfFlramFMnE": 1793296859936,
     "threads:DfFlgesFGvI": 1793296859936,
-    "threads:DfFMZouI3Yr": 1793296859936
+    "threads:DfFMZouI3Yr": 1793296859936,
+    "threads:DcnMLzMiVhe": 1793297156598,
+    "threads:DckJthWkrDp": 1793297156598,
+    "news:CBMihgFBVV95cUxNbFVJSU96aU5NT1pwbHhNaWo1Y3lJaldnRlNOTEt0bFZ6RzNwNFdvd2lHblpNRTNfOWJubU1QaWE1THZUZV9HYWFHQURBOW9tenZQekpzY0JaVnFfNVgzVWFYOGxmcWRNSWc5YTgyaUNndlZVbmhEbVRqV0V1UkNWdHY0aDdXdw": 1793297156598,
+    "news:CBMi2AFBVV95cUxNTjYwZld0cXRUTk1PTm02OGZBcERGSmRrTDA4LUFvMnhGdUJIa0Q4VzlaVzVCTjNoRUg3eFZJYWpQOENhenMyeU1jY29HOXgxcVF2cWxNYkk1U3NqckVtQVlKZS1fOWs5NURDVTVXY3Myc1hTYUlqaEpITTBFZy1KaURYSVMySnJ0ZkNSVGs0ZGhNYkpaMDJDeldwbE5SbE5SaS1VTGVHTFNQcXd5SFk3SUZhcU1OZjgzOF82Z21fWW9JSUdvVGRxNV9oTzFocXJ1OUwweXpyaEvSAd4BQVVfeXFMT1RUbl9EOVViWVJtTW92OUVvUkpZV0s1Qkd4S3ZXTXI3Z0NWWHFwWGI0SDl6S3pwUV9YRng1dVlDQ0xGNVNBX0JVT1JSTFVpZUpsQ2FiUG9iSDJibVliWXlTajl4dXNvMWVQQmJmOUdiWlk5UFJYSEZjUklOYW1PS0d5dy0xc3pPbVZKbFR1M0d2M1Jwa3UzbUVsYlBLbW9LdmxibzdUeGJ3NjFZTHJpbDNyR2E1aFZuOVROdWt3ZGN5a3B4NEFmYkNxRGtneHVhTnhCTXdFVHBWSlBqOEhR": 1793297156598,
+    "news:CBMizgFBVV95cUxNd2lhMXZidkNXZFJQYUZrNC13Ym5CcEdlc3ZUX2RDMGFjOHZfZ2lEN1E4bmlXMTJyNnh1YmluTlJqbG1TbGJqUXpyT01jY0xnYXBoLThDTVJObDdCMm0wcTJ0ZF95VWlhai1KNThCVk9vcU9sMEg1SHZlSlhiYWxMQ2VjSnJJUjZUY0FHVlI4LWJXUXdpMTFZbnVTdW1JUVV5Qm1oUFhYVzhTN0hFdEJaTW5sM1FQMDJXOHFRWXFoeGlTcGpMQ05FV0p0dFBJUQ": 1793297156598
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Pewarta.co",
-      "x": "Optik UD Jaya Gelar Pemeriksaan Mata Gratis di Lapas Kelas IIA Rantau Prapat, Warga Binaan, Tahanan, dan Pegawai Turut Mendapatkan Layanan - Pewarta.co",
-      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUTJucVJVak5CT2UxNjZmLWtSS1BFOHhiZ2k1YmZ6QVctUGhsdVU1NF9yaTktMk9aVDJ4VWtyZHFmZDk2OFA3LXdteHBkbFJmRk9aQkNoUS1RUFUxY0tFdEVwT1dVc21yTlhkSlc1eGY2UEZmbDRxRXBOWk1PdjNhcElVYi1JY184cDFCcEhFTmVmZ1lhdUZVVl85Nm13c1Rxd0FRVXZVTHlXSFIxQ2NWdEtSWTQzYW91cFg2cXFxempoS0VPYnlKenFCeHphNERWRkw1RGgyR0dsMm9lc0pFNDZQMW5VeXVjM3FaVDU3blhpRk9EaVVCVg?oc=5",
-      "d": 1793278636000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "www.internationalmedia.id",
-      "x": "Pemkab Permudah Warga Toba Miliki Sertifikat Tanah - www.internationalmedia.id",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDFlRW5oWThqWEN3Z2E4ZktQQUp5c0hjc1lqUmdWWThGQU1MTmlRNGR3LVc5WFNoWjJYN0h6dEQwZ205TXlIZDQ1VGJiWGFCWmp2UDA1bUVyQnlUYzA0UjQzdFdkb1pEbnJTTlNvN1ZHUDg3R0Y5c0pmbnFyN0gxTTJual9vamM?oc=5",
-      "d": 1793278680000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29639,10 +29620,30 @@
       "d": 1793283148000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Menerjang Keterbatasan, Karya Penyandang Disabilitas Melenggang ke Australia dan Jepang - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjYwZld0cXRUTk1PTm02OGZBcERGSmRrTDA4LUFvMnhGdUJIa0Q4VzlaVzVCTjNoRUg3eFZJYWpQOENhenMyeU1jY29HOXgxcVF2cWxNYkk1U3NqckVtQVlKZS1fOWs5NURDVTVXY3Myc1hTYUlqaEpITTBFZy1KaURYSVMySnJ0ZkNSVGs0ZGhNYkpaMDJDeldwbE5SbE5SaS1VTGVHTFNQcXd5SFk3SUZhcU1OZjgzOF82Z21fWW9JSUdvVGRxNV9oTzFocXJ1OUwweXpyaEvSAd4BQVVfeXFMT1RUbl9EOVViWVJtTW92OUVvUkpZV0s1Qkd4S3ZXTXI3Z0NWWHFwWGI0SDl6S3pwUV9YRng1dVlDQ0xGNVNBX0JVT1JSTFVpZUpsQ2FiUG9iSDJibVliWXlTajl4dXNvMWVQQmJmOUdiWlk5UFJYSEZjUklOYW1PS0d5dy0xc3pPbVZKbFR1M0d2M1Jwa3UzbUVsYlBLbW9LdmxibzdUeGJ3NjFZTHJpbDNyR2E1aFZuOVROdWt3ZGN5a3B4NEFmYkNxRGtneHVhTnhCTXdFVHBWSlBqOEhR?oc=5",
+      "d": 1793271900000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Foto : Beasiswa Cendekia Baznas Timur Tengah 2026 Dibuka, Mahasiswa di Turki dan Mesir Bisa Daftar Halaman 1 - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd2lhMXZidkNXZFJQYUZrNC13Ym5CcEdlc3ZUX2RDMGFjOHZfZ2lEN1E4bmlXMTJyNnh1YmluTlJqbG1TbGJqUXpyT01jY0xnYXBoLThDTVJObDdCMm0wcTJ0ZF95VWlhai1KNThCVk9vcU9sMEg1SHZlSlhiYWxMQ2VjSnJJUjZUY0FHVlI4LWJXUXdpMTFZbnVTdW1JUVV5Qm1oUFhYVzhTN0hFdEJaTW5sM1FQMDJXOHFRWXFoeGlTcGpMQ05FV0p0dFBJUQ?oc=5",
+      "d": 1793275149000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
