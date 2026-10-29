@@ -27712,7 +27712,9 @@
     "threads:DfD7ueRkUbi": 1793241336246,
     "threads:DfD58wXGXOZ": 1793241336246,
     "threads:DbDQ2O_oASX": 1793241336246,
-    "news:CBMirAFBVV95cUxQZ2VSRUtPdGhjUHhDczlGR0xhUXZTTWhaOFFBOTdQenhkT1FJX1JidjR6S0MyUW1LbXdXOExlcVZEVTFJX093MWd3NG4yR0lPVTJ6S1lpbGlZY0JFNzU2aVFkZk1ycV96OURIaGVaaTE2NmIwT0ZLeUNiMVZ3TVhQUXdvQUQ5Q19QalN2TDQ2WVFVMmpqRmtPVDRkdE91a1ZvTGJrWkRwaHg5S1Vu": 1793241336246
+    "news:CBMirAFBVV95cUxQZ2VSRUtPdGhjUHhDczlGR0xhUXZTTWhaOFFBOTdQenhkT1FJX1JidjR6S0MyUW1LbXdXOExlcVZEVTFJX093MWd3NG4yR0lPVTJ6S1lpbGlZY0JFNzU2aVFkZk1ycV96OURIaGVaaTE2NmIwT0ZLeUNiMVZ3TVhQUXdvQUQ5Q19QalN2TDQ2WVFVMmpqRmtPVDRkdE91a1ZvTGJrWkRwaHg5S1Vu": 1793241336246,
+    "threads:DfD8qpvkUYE": 1793241655597,
+    "threads:DfD8WcsE5pw": 1793241655597
   },
   "digest": [
     {
@@ -28474,10 +28476,30 @@
       "d": 1793239920000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sincan6629",
+      "x": "Marah karena data desil gak sesuai itu wajar banget, tapi jangan cuma berhenti di medsos ya. Kalau emang salah, langsung aja ajukan sanggah. Kamu dikasih waktu 90 hari buat beresin",
+      "u": "https://www.threads.com/@sincan6629/post/DfD8qpvkUYE",
+      "d": 1793241347000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@fatma_amelia05",
+      "x": "aplikasi cek bansos emg gabisa dibuka ya kak?",
+      "u": "https://www.threads.com/@fatma_amelia05/post/DfD8WcsE5pw",
+      "d": 1793241179000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
