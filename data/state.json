@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Ddgw1v-jxdY": 1792089340631,
-    "threads:DeddKyHikuv": 1792089340631,
-    "threads:DJw3TViygxj": 1792089340631,
-    "threads:DURs6-jDmCZ": 1792089340631,
-    "threads:DYWE1_qGLuP": 1792089340631,
-    "threads:DZWotvqiQJu": 1792089340631,
-    "threads:DS45OScDv1I": 1792089340631,
-    "threads:DcPfn5Rgh9m": 1792089340631,
-    "threads:DeZV3OnCaj8": 1792089340631,
     "threads:DYnQHWqEyKB": 1792089647215,
     "threads:DeevLf0FiHn": 1792089647215,
     "news:CBMilwFBVV95cUxPeGZVcVotVm9fVzFoaExQMTlmc2FjUzc1aVBHU2RJLWRwa085LXdwbEtQMXNsQ2l0VnJ0TkNDZ3k5QV9vSTg5cUtwVFFaUmthYkpRY1M4enhaWU5ESnBneWFOX3g1bnExejdCZm12STB2ZkdpZGtaMTIycnNoX0VDYnhVWlc1NVlfV1NWM3R2c2M2NDJaNGRv": 1792089647215,
@@ -28167,39 +28158,17 @@
     "threads:Dc3qRbwnYgo": 1793298749120,
     "threads:De-W6Ltk5H3": 1793298749120,
     "news:CBMizgFBVV95cUxNTm1Ya29Xa0dWR3Nhd1ZWeXBqalZ0VXJlQmhrdEpOdlE2VE9OZVFTZmFZaHFiakNsbzhXOWQxVXpGcFY1X0p2SHY2aGJYc1FqdllESDNIMHF4UW1tR01wNWFxQTJibDJSbXo5clFwMTZBLUhWd1hmcFpReDBYZkRpTS1DX2kycTk4bloyNHdMWUwycUF2bUs0LTBnUEVvbWl5V0Ewc3JaRHZGNGlSME1yTkczQmF2WS0yaV9CWkh4WWRzZnplbGNNYktJU0F5Z9IB0wFBVV95cUxQc0NmdGJXUjlRcVJScGtsR28zcjNIenIxcWZycFliQ2RveGJHdjZaZV9hVUFyakNpeFhSQzNzUWR1LWhaaUJ4ZGxqTkh0ZkRWZkpVZDBwcGNweTRTUlFoWG1aVU9POXg3VWMyZHFHWmtFNV9faFRUX2EtbnphNmF4Zl93MnJNYURDM0RERDFWNVVWVGlMRGp2T19NbnlVUFFNWnBBZlF4WDktcjNrUlo4NFdxNmFHMHBUdlVFLXBneW4ycTlMWW41eGN3TXF1eUZlek9B": 1793298749120,
-    "news:CBMi0AFBVV95cUxQbGFocGUxNWJ2NFE3cjlxcmRUNmJKYVdBQzBtVlZvU2ktTS1TZFV1RF9CZktiOU0tUkZtNEpOODJfNDFMU2NDVi1zYUFJbFhOSGdadkk2amZ4bzhja3pmQlVuazAtUk5sTGJzcWV0YjJoRFhLRGdxRjkxVkJQSlhrSENrZEZwN1M5Ymx6ODNQUGVaLWdQb1Zzb1VXd1hMOE9veEpYTW10T0RuNWVnRzcwaC11cHptRER2b1dlS2dJM1JVeXI1SmlrbDJUN0ZBQVA20gG_AUFVX3lxTE9FbHlIcjJLNUdJYzB6dHNWS3RQTEc0bDVfM2NTakxfTV9rbWFUNENSdTJPbUMwQXlBWEFQRzFLZHI5eDJfbVhOOUFVWTBVak1UWWhMekMtclNBTUdjN0NYZTBDbnJENE8wREQwbzl6bExmYlhGSkM4RmRIWUNfYlJWVjBiOVVpT19HOXlWNzh1TVNpWFJPZTZCR3FpQk56Z2JmOHlDZW5pNV9ET29Oc2F2ajNiNml5dVdLQlRnTl9j": 1793298749120
+    "news:CBMi0AFBVV95cUxQbGFocGUxNWJ2NFE3cjlxcmRUNmJKYVdBQzBtVlZvU2ktTS1TZFV1RF9CZktiOU0tUkZtNEpOODJfNDFMU2NDVi1zYUFJbFhOSGdadkk2amZ4bzhja3pmQlVuazAtUk5sTGJzcWV0YjJoRFhLRGdxRjkxVkJQSlhrSENrZEZwN1M5Ymx6ODNQUGVaLWdQb1Zzb1VXd1hMOE9veEpYTW10T0RuNWVnRzcwaC11cHptRER2b1dlS2dJM1JVeXI1SmlrbDJUN0ZBQVA20gG_AUFVX3lxTE9FbHlIcjJLNUdJYzB6dHNWS3RQTEc0bDVfM2NTakxfTV9rbWFUNENSdTJPbUMwQXlBWEFQRzFLZHI5eDJfbVhOOUFVWTBVak1UWWhMekMtclNBTUdjN0NYZTBDbnJENE8wREQwbzl6bExmYlhGSkM4RmRIWUNfYlJWVjBiOVVpT19HOXlWNzh1TVNpWFJPZTZCR3FpQk56Z2JmOHlDZW5pNV9ET29Oc2F2ajNiNml5dVdLQlRnTl9j": 1793298749120,
+    "threads:Dbuyga3ASOs": 1793298942582,
+    "threads:DfFquyMjOiJ": 1793298942582,
+    "threads:DfFp5rOCEWw": 1793298942582,
+    "threads:DfFpwe6ldcW": 1793298942582,
+    "threads:DfFpqizEy3i": 1793298942582,
+    "threads:DfFpe4DkoJR": 1793298942582,
+    "threads:DfFpdsdjjFg": 1793298942582,
+    "news:CBMizgFBVV95cUxPWVlQTVo1VDZ3N20wVW5iMkFuTDA1eUV1UFFJc2o5NUp3MWhoY1ZKZ3hsbm42amVWZl9nRzhtR3luRVptUUVVUE1aTVNycXpCd3VsTkE2M1o1S25keFU1S0U1Y1I3OTVTS2QzaGNyY3FiQTRZOVIzVzdsWlI5OVdjc1hBVl9YcjNJVkhKM2NGUndBVmJMSXZCejNfR2ROX1BKUF9RY0c3Nk9CSHJhTmc0Tm5jajM3ZlVxXzlocWdrSE1uLXdPTThNZFFkcndWdw": 1793298942582
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Suara 'Aisyiyah",
-      "x": "MPK PDA Banyumas Helat Seminar Penanggulangan Kasus Kelainan Seksual - Suara 'Aisyiyah",
-      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjJ1YkRMYzlXbFFkWlJ4QUxjV2FQRGdrcFFlZ3c4OTlMZzQ4WWVmVWYxS09TZ0VmX1FIUXN4em1sNGRfeUdDRzFQeHRhMGs0Umlpb1hlcXhHbnRMXy1PSTJLeVhxalBNbWFheTJQVnN2ZU5XRmlZZC1FNUNUNW9KY2dfRG5IRHRFZHNCNWJ1NjhNLVA5SHh0WQ?oc=5",
-      "d": 1793277057000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kaltim Post",
-      "x": "Dapur MBG Wajib Sertifikat Sanitasi, BGN Pakai CCTV Berbasis AI - Kaltim Post",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVUdQWFdIMy01ZWtJak5oLU04bF9adHJEd3ZMS3pQeGRhVWt0b2F3MW4taXQzMVRzRjVqSzNEZkxCNnFRRkxvdHNocGR3UElXR1FnRVQ2dHZ5eGxVUzRiWDNQWU5mNVZXamlKdEtYenV3VGZFZkNBXzZKR1FUNmhEV0wzSVVnTGotZHZILUNIdWE1R3JpeXdjQXpiaGZmUldYLVpzQVJsaEhiRloxMzRxbVdzWdIBuAFBVV95cUxQRVdZWURCZGstM2pPOGVKYXByTkphMl9ocFFMTGN5NHRqc21jY1RRZm9vM3lvYnM5R2RybmFFUzFJR0ZzSVF5czRlSjE3Rkp2aHdHcDRQWEF5QkJVOV9uZVlSUEw4cEZ4T0RXRjljUGxTbDVYSi1GUzFGWi1fb3NjYlpyV1BoR3NrRlVwOVptSW5BTnFGRmtmV1lCQzE3REtzcHcyY0JBYkZFTm03NE9ieHM3RXRTcnBW?oc=5",
-      "d": 1793273315000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "gadget.qoo10.co.id",
-      "x": "Beasiswa Cendekia Baznas Timur Tengah 2026 Dibuka hingga 9 November untuk Mahasiswa Aktif - gadget.qoo10.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiSFdMTTJpSU5DX0dISzktX3QxZGZoWTRmeVU3a0xkV2tsdVAxNW9SaWRsd00tQnZTZDJMYy1DbTkybzFRaXkzMDlMRDZzNmF3ZGdWRjZYMjRVWk9EX09JX1lGTUNQajlTczB3cGpvbHE5dWZUOFJ4S29R?oc=5",
-      "d": 1793273100000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29689,10 +29658,20 @@
       "d": 1793294460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "InfoPublik",
+      "x": "Pemprov Riau: 673 SPPG Miliki Sertifikat Laik Higiene Sanitasi - InfoPublik",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVlQTVo1VDZ3N20wVW5iMkFuTDA1eUV1UFFJc2o5NUp3MWhoY1ZKZ3hsbm42amVWZl9nRzhtR3luRVptUUVVUE1aTVNycXpCd3VsTkE2M1o1S25keFU1S0U1Y1I3OTVTS2QzaGNyY3FiQTRZOVIzVzdsWlI5OVdjc1hBVl9YcjNJVkhKM2NGUndBVmJMSXZCejNfR2ROX1BKUF9RY0c3Nk9CSHJhTmc0Tm5jajM3ZlVxXzlocWdrSE1uLXdPTThNZFFkcndWdw?oc=5",
+      "d": 1793263996000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
