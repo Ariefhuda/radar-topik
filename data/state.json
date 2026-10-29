@@ -28638,7 +28638,10 @@
     "threads:DfFP-LEkiMq": 1793285446501,
     "threads:DfFQWz9lT5-": 1793285446501,
     "threads:DfFQCSzm-Ka": 1793285446501,
-    "news:CBMisAFBVV95cUxPLVFrb0ZuTXJpaWJyQVlWZ3NJMHdhR2t4azg3Z05LRTVhUnpldVRjR3I0ektLOE5Ea21DbkEyWmppdEpUbExfWWZ4dnpfYmlTbThzaUJCX1ctSXNxOEo1UXZjQVQ3WThiSGM0dkowR0hhNWJ5MnB6V2pCcFNwX2tPWFZDdnllaFlKVXpRb190Mm1DN0pGeU9GcGxzOEo2M2NWNDB4c1RLdTBiZUJYMmpXVQ": 1793285446501
+    "news:CBMisAFBVV95cUxPLVFrb0ZuTXJpaWJyQVlWZ3NJMHdhR2t4azg3Z05LRTVhUnpldVRjR3I0ektLOE5Ea21DbkEyWmppdEpUbExfWWZ4dnpfYmlTbThzaUJCX1ctSXNxOEo1UXZjQVQ3WThiSGM0dkowR0hhNWJ5MnB6V2pCcFNwX2tPWFZDdnllaFlKVXpRb190Mm1DN0pGeU9GcGxzOEo2M2NWNDB4c1RLdTBiZUJYMmpXVQ": 1793285446501,
+    "threads:DfFQ6pKiuBW": 1793285739883,
+    "threads:DfFQyJ0EwQf": 1793285739883,
+    "news:CBMisAFBVV95cUxNLUQzcTRZNHJFVnppODE3X1FtQkh1ZnEzOVppMllzV3JTWUhvaEhMYS1ueE1LSlN0R3BGQUZ3OWtXdFdIRGlINEZtSmZCQWRnZWYxM0sxS19fc1cyT0tGWFJmb2Rhbkl3bWVZdXMwQ2Z5NC1ydFZvdXp0OFJwTmdybGxwODMyNEMzTEFYMDNIRHl0UmppTl92RXZpa2E4WjEzMGg2ZjJ3c1VMay1vdFdnUtIBtgFBVV95cUxOYVNyaUFfUFZuekRSOXpVUHdkZGFINFdfcGhXWXkwZFJyMnNfclZkU2xfYjVYM2dmU0JEVFMySmdfUWN0Y2pwbF9vMXZUQi1Xd254dHduaFY4Y0dFaExWa1pTUTB4MWhJSWVnbUZzbFUyZDQ2RVIyLTdoYjVIWERtaDZvY3hKekFYdTZxLWkwYUdBR0hlQ2F0OVpVRVJHOVVkTWRZQlA2UGRGTXZKSFE2djVMMFR1QQ": 1793285739883
   },
   "digest": [
     {
@@ -29950,10 +29953,30 @@
       "d": 1793285179000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lamtotabanjarnahor",
+      "x": "Pertemuan terakhir di batch ini sangat seru ya. Kita akhiri dengan belajar AI Video Generate. Semua orang excited dan ga sabar untuk aplikasikan ilmunya. Nantikan kelas gratis beri",
+      "u": "https://www.threads.com/@lamtotabanjarnahor/post/DfFQyJ0EwQf",
+      "d": 1793285446000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "detikcom",
+      "x": "BLT Kesra 2026 Kapan Cair? Cek Jadwal, Syarat dan Besaran Bantuannya - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUQzcTRZNHJFVnppODE3X1FtQkh1ZnEzOVppMllzV3JTWUhvaEhMYS1ueE1LSlN0R3BGQUZ3OWtXdFdIRGlINEZtSmZCQWRnZWYxM0sxS19fc1cyT0tGWFJmb2Rhbkl3bWVZdXMwQ2Z5NC1ydFZvdXp0OFJwTmdybGxwODMyNEMzTEFYMDNIRHl0UmppTl92RXZpa2E4WjEzMGg2ZjJ3c1VMay1vdFdnUtIBtgFBVV95cUxOYVNyaUFfUFZuekRSOXpVUHdkZGFINFdfcGhXWXkwZFJyMnNfclZkU2xfYjVYM2dmU0JEVFMySmdfUWN0Y2pwbF9vMXZUQi1Xd254dHduaFY4Y0dFaExWa1pTUTB4MWhJSWVnbUZzbFUyZDQ2RVIyLTdoYjVIWERtaDZvY3hKekFYdTZxLWkwYUdBR0hlQ2F0OVpVRVJHOVVkTWRZQlA2UGRGTXZKSFE2djVMMFR1QQ?oc=5",
+      "d": 1793270529000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
