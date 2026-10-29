@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DY3aN0bEqzM": 1792107342312,
-    "threads:DdQi5doEUcN": 1792107342312,
-    "threads:Ded5d2XmVWd": 1792107342312,
-    "threads:DeOXi8nDzoa": 1792107342312,
-    "threads:DdXnREkk_3U": 1792107342312,
-    "threads:DWzr7nmEyOs": 1792107342312,
-    "threads:DbbXgDxE87o": 1792107342312,
-    "threads:Dd51je7AcDr": 1792107342312,
-    "threads:DeiIR_oEnZe": 1792107342312,
-    "threads:DSmu4gDgbcz": 1792107342312,
-    "threads:DbVkzYElMfO": 1792107342312,
-    "threads:DbN8rMBk249": 1792107342312,
     "threads:DeeifPyn6Ms": 1792107642739,
     "threads:DZwkup9IF9b": 1792107642739,
     "threads:DZ-hx1GicbR": 1792107642739,
@@ -27831,29 +27819,21 @@
     "threads:DfGLFHqkxAV": 1793316341470,
     "threads:DbCJy6ZkzUJ": 1793316341470,
     "threads:DaokfHPk0-T": 1793316341470,
-    "news:CBMilwFBVV95cUxQcjFWcVdseDNfWkdiMkd4Y1NPZXJ0Ukp4a1BJV3psZTlIcWpLdUlCLWMzYklYZ2lGV1l2VDQwdy1UX01ja0MyQUxHWXZlYnFWU0dSeU9RUWxwNmZmUE13Y3Q3ZHFwUzloUGlmWElTVndBRVNfelI3and5RlcwcFdwM25VNFR2TnNOSTNzTFRhczMtdC1LTVpv": 1793316670357
+    "news:CBMilwFBVV95cUxQcjFWcVdseDNfWkdiMkd4Y1NPZXJ0Ukp4a1BJV3psZTlIcWpLdUlCLWMzYklYZ2lGV1l2VDQwdy1UX01ja0MyQUxHWXZlYnFWU0dSeU9RUWxwNmZmUE13Y3Q3ZHFwUzloUGlmWElTVndBRVNfelI3and5RlcwcFdwM25VNFR2TnNOSTNzTFRhczMtdC1LTVpv": 1793316670357,
+    "threads:DaJ3ssdjVog": 1793316950063,
+    "threads:DfGL-0zkxwc": 1793316950063,
+    "threads:DfGMqCej_Sf": 1793316950063,
+    "threads:DfGMSo6iHby": 1793316950063,
+    "threads:DfGMPkXDro5": 1793316950063,
+    "threads:DfGLJZhCXq-": 1793316950063,
+    "threads:DfGLBDpk_B0": 1793316950063,
+    "threads:DfGKfBNkhlo": 1793316950063,
+    "threads:DfGKWd6E7-M": 1793316950063,
+    "news:CBMidEFVX3lxTE5IWUdRajdzU0ZFakw1dV9oaGh6TGRhcEFwQ2NDWE1zeGVuVFI5NU45MWtNTTl4ZG1JZVRBcjl1cmYwMTI1ZnhCS3YwZFpsdEQwaXNkSEIwYVQ2OGRRTktTc1FWR0R0UHRqeDdXdXZsbV83T0VQ": 1793316950063,
+    "news:CBMipgFBVV95cUxOZTRpOEF1cEtneVBzNGw3c3ZmRHBiNFAwX3pzLXQ4Wmt2Z1ZhUHVlWjNXdkdOc01BLTJLSlBBTnJxRU5oaVpweXJkWnRWb3l0SzZ5d25wb0tza2pCTWdQNDhUcU5SY2tQbndrNVNEa1ZoS3MwN1F6RDJHNG80TzVuMnBNN1BjOUNVMFBVRThVSmlqQmhYbXZnUXFObTFPZkxMRXJYTGNB0gGrAUFVX3lxTE02a1c1VUF4M2ZVVmNkdEt1a3phRHFZbG1CRGFGVER4ckd3djF4anRKMGtRaXRwenZjMzFnOXYwekE0WnZSYzJaRVZVeFZrbmluZUhYVnJhYjF3Qmp6V3V2dDZuQXo2TWU2ME1SYk0xYXZEZGNsSjJVY0VHbldBWUtiQU9OMUdwSFhWa05yX0VWc0ZiMGlya29sY1pwMy01cFFNV3pBUlc0QUtXcw": 1793316950063,
+    "news:CBMi3wFBVV95cUxOMjdXODNNYnNDSXJvcnNmd3o4WWZfN0JDV1FXVGhabFBfSGREejdHS0JUd2pIWG5adjQxSWF4dUVVdVRac2tub0RIX0phdWMyOGExdmpkWWVHYWRVNTFlT0Q3a3VMNExmUWVTcEFvdjZvVTNkQWd1Xzk3RW5YVlo5dlpFYUlXcUNlYUhyaVI3M0JxYlM3QkljcExRN21UQkMyLUZFN2NVSk5wSk1UNGp2dUdncUo5RGY3aWI5ZmxqdFQxaGdTQ0ZWYWlua1pfRVZramRfMzFUQVF5MUhBd2V30gHkAUFVX3lxTE96ZnZQdU0wZUc3dzJ5Mi10NUZaSzh6aXhUTkhhaDhWaFI4cUhPWC1uc0Z2M0pKajREZkhmWFJfTmtqTTRoVk9JOWV4WWNMSDZid2d6TWJwa0p1UW9nVmtoSjMzSlpMamE4aGtrWG5UMGF3UGhCNWtXTlBjOV9rNmpWSFliRkRFbVJkdWp6SVl5R3l6X3JUZDJ6bkJEQ05fRWhQVnpwT216MVNveXd2SENQYnhwX3VUYWotLUR2cGJvM25tNDJONXJwajlmYU9KbW9Ud0VXaUFHSGgxTGFtMnc5OVlDWg": 1793316950063
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfFu0BtGRxt",
-      "d": 1793301190000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfFuq9ymQb0",
-      "d": 1793301116000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29333,10 +29313,30 @@
       "d": 1793245919000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Bansos Beras 30 Kg, Penyaluran Lewat Kopdes Merah Putih - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTRpOEF1cEtneVBzNGw3c3ZmRHBiNFAwX3pzLXQ4Wmt2Z1ZhUHVlWjNXdkdOc01BLTJLSlBBTnJxRU5oaVpweXJkWnRWb3l0SzZ5d25wb0tza2pCTWdQNDhUcU5SY2tQbndrNVNEa1ZoS3MwN1F6RDJHNG80TzVuMnBNN1BjOUNVMFBVRThVSmlqQmhYbXZnUXFObTFPZkxMRXJYTGNB0gGrAUFVX3lxTE02a1c1VUF4M2ZVVmNkdEt1a3phRHFZbG1CRGFGVER4ckd3djF4anRKMGtRaXRwenZjMzFnOXYwekE0WnZSYzJaRVZVeFZrbmluZUhYVnJhYjF3Qmp6V3V2dDZuQXo2TWU2ME1SYk0xYXZEZGNsSjJVY0VHbldBWUtiQU9OMUdwSFhWa05yX0VWc0ZiMGlya29sY1pwMy01cFFNV3pBUlc0QUtXcw?oc=5",
+      "d": 1793312803000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar Tegal",
+      "x": "Ojol di Jateng Bisa Cek Kelayakan Bansos 2027 Lewat Perlinsos Digital, Ini Caranya - Kabar Tegal",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMjdXODNNYnNDSXJvcnNmd3o4WWZfN0JDV1FXVGhabFBfSGREejdHS0JUd2pIWG5adjQxSWF4dUVVdVRac2tub0RIX0phdWMyOGExdmpkWWVHYWRVNTFlT0Q3a3VMNExmUWVTcEFvdjZvVTNkQWd1Xzk3RW5YVlo5dlpFYUlXcUNlYUhyaVI3M0JxYlM3QkljcExRN21UQkMyLUZFN2NVSk5wSk1UNGp2dUdncUo5RGY3aWI5ZmxqdFQxaGdTQ0ZWYWlua1pfRVZramRfMzFUQVF5MUhBd2V30gHkAUFVX3lxTE96ZnZQdU0wZUc3dzJ5Mi10NUZaSzh6aXhUTkhhaDhWaFI4cUhPWC1uc0Z2M0pKajREZkhmWFJfTmtqTTRoVk9JOWV4WWNMSDZid2d6TWJwa0p1UW9nVmtoSjMzSlpMamE4aGtrWG5UMGF3UGhCNWtXTlBjOV9rNmpWSFliRkRFbVJkdWp6SVl5R3l6X3JUZDJ6bkJEQ05fRWhQVnpwT216MVNveXd2SENQYnhwX3VUYWotLUR2cGJvM25tNDJONXJwajlmYU9KbW9Ud0VXaUFHSGgxTGFtMnc5OVlDWg?oc=5",
+      "d": 1793309758000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
