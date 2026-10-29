@@ -27453,29 +27453,12 @@
     "threads:Dd-zmfdloxZ": 1793233000052,
     "threads:DfDs3cak1cS": 1793233000052,
     "threads:Db_OllkGe_E": 1793233000052,
-    "news:CBMixgFBVV95cUxOaUlRSzlLeTNPSGhELUQ4S3A4UjlfU1RKODFFcU9PbzBTQmdwOVFrS0p5bnJzZjEtZHFXWklXMFJ5bEtJTDJ3S25IWV91U1EzQXc3TThXcXJvRTJsLU5ZcmhqdWtHdXE2ZnNXS01QYlJFUUI0R2F0U1dBUHNxV3Q4S291eE14QkpvZ3VTNjRoVThfTXZoWmwwM2pIcm1LMmlkUE9XWmNFQkdkRllRMWViT1cwdEwwelhtTnhvYmZqa0dzbGh4N3c": 1793233000052
+    "news:CBMixgFBVV95cUxOaUlRSzlLeTNPSGhELUQ4S3A4UjlfU1RKODFFcU9PbzBTQmdwOVFrS0p5bnJzZjEtZHFXWklXMFJ5bEtJTDJ3S25IWV91U1EzQXc3TThXcXJvRTJsLU5ZcmhqdWtHdXE2ZnNXS01QYlJFUUI0R2F0U1dBUHNxV3Q4S291eE14QkpvZ3VTNjRoVThfTXZoWmwwM2pIcm1LMmlkUE9XWmNFQkdkRllRMWViT1cwdEwwelhtTnhvYmZqa0dzbGh4N3c": 1793233000052,
+    "threads:Dd34LtKkkCO": 1793233250953,
+    "threads:DfDBMplnzX3": 1793233250953,
+    "news:CBMivgFBVV95cUxNVjlnNHNvYWZCc1g1TW02T0xWeXZZWHZ4b2pIZXdyZG5USWFrMUhPdVpnWGNxLV9jTkkzYVlNMXBMSWtnNEo4QTlWUl9pV0pzZVJpODdwaklPNHVzUm1KV3k4SGNpYnhTM0REYm1RYkIwWGxIVUg4ZGJ5dWRFQm5XcVFzTFFFeE9Ca1dtMWRQa2Zka1NXY2h3RDlGWFlRbXNVUUlVM2kzZUt6MnFMb1hTQkFHZnV5OS1UWm9GcjBR": 1793233250953
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@kajuara_net",
-      "x": "Bongkar! Cara Cek Bansos Kemensos 2026 Pakai NIK, Nama Anda Ada? Pencairan Bansos Kemensos Tahap 4 2026 Bertahap, Cek Nama Penerima Secara Online Pakai NIK, yang menjadi bagian pen",
-      "u": "https://www.threads.com/@kajuara_net/post/DfC1vaGGcNg",
-      "d": 1793204168000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@keripikuhuy",
-      "x": "@meta.ai cek fakta bahwa petani hidup lebih baik dengan kenaikan harga bahan pokok. Banyak petani yg speak up bahwa kenaikan bahan pokok gak menguntungkan mereka. Faktanya apakah d",
-      "u": "https://www.threads.com/@keripikuhuy/post/DfC1dhZE83m",
-      "d": 1793204013000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28955,10 +28938,30 @@
       "d": 1793232890000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "PBI APBD itu dibayarin pemda kak, jd aturan nonaktifnya ikut dinsos daerah masing2. tp kalau desil 6 udh ga sesuai kondisi bapak yg skrg ngojek, ajuin perbaikan data DTSEN ke desa/",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfDBMplnzX3",
+      "d": 1793210172000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RanahRiau.com",
+      "x": "673 Dapur MBG di Riau Kantongi Sertifikat Higiene, Pemprov Perketat Pengawasan - RanahRiau.com",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjlnNHNvYWZCc1g1TW02T0xWeXZZWHZ4b2pIZXdyZG5USWFrMUhPdVpnWGNxLV9jTkkzYVlNMXBMSWtnNEo4QTlWUl9pV0pzZVJpODdwaklPNHVzUm1KV3k4SGNpYnhTM0REYm1RYkIwWGxIVUg4ZGJ5dWRFQm5XcVFzTFFFeE9Ca1dtMWRQa2Zka1NXY2h3RDlGWFlRbXNVUUlVM2kzZUt6MnFMb1hTQkFHZnV5OS1UWm9GcjBR?oc=5",
+      "d": 1793233342000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-28-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
