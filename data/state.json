@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DehyTOtkdpP": 1792095952100,
-    "threads:Deg5DbTGYzg": 1792095952100,
-    "threads:DcAR9wyG3da": 1792095952100,
-    "threads:Dd-ruhqieSq": 1792095952100,
-    "threads:DUml4Uklxyz": 1792095952100,
-    "threads:DXwO9N3E9_9": 1792095952100,
-    "threads:DYxTbNWiWQW": 1792095952100,
     "threads:Db4tr3cIJsr": 1792096246633,
     "threads:Dd23mDgCGfd": 1792096246633,
     "threads:DbdL4tiET1K": 1792096246633,
@@ -28099,19 +28092,10 @@
     "threads:DfF1AoXD3Yf": 1793304947359,
     "news:CBMi5gFBVV95cUxPRW80NTRNbmRUbU9WenlINGxFWEw3S3hzNVBPU3JZcXp1dkY0MHdkY2RWeUNYQUwtM0dSa0RHSUlKR3dwaHhPa0RYY0lORW9KcERHc1pNSkZaZFJBSnl1VHVpampESGhOUXdIR3Iyd0tnOHRDcEFUYTFpV2ZSM0FwT2V4Mkp3ZDZ6WDNaOF83MDRLNzhnT0M2c3A4NWpJeXZIRWRiMEtlX2FlZWYwVUlFaTBxRFlIUTVQcXVQbTN6ek44UjQ1QUU2TERyS2FYaEZ6dWNOWXZLVzE0aVh1Uk1JOXh2QkZVd9IB6wFBVV95cUxQSWo3U19xaHhCU0ZZcktrRkh5ZWVybkJVRGpDTmtxVHhUa0dSV0p3azRxUGNKR0Vpb2t3dkJMY1BKdFJNcjByYl85cUc1T0VTamZNWk5nTXZaVTc0RGFHMGp1bmZpNFJzME9JZXlFd0hWVEhXODNCdzd1aGVEV3IybnJ1bEwzYkpHa1pqNmt3TDRCN21PTnd0M0VqVHJyUEFVeHdMSTV5S1ZhUmI2cVpCcmlwUWM4SjM1MzRkSWJIYVR4MF9RNm9oaXNVQ0tkT1dNWGw2TldWSDZlQVVPcGl0MlVIOEo2Y3F0U3Zz": 1793304947359,
     "threads:DfF2XFFkt3g": 1793305265505,
-    "threads:DfF1vFmkhRL": 1793305265505
+    "threads:DfF1vFmkhRL": 1793305265505,
+    "news:CBMiZEFVX3lxTE5SczVpVXg5dy1BaXo1WkxWN1pucWN5NXVDdFZvSWFDaEJUNVZhUEI3Mnl4a0lsenVPaDRNd2wya0o4NnFCS19iMnJPY2RDU1luU2VTekI3Wm9KM2YzZlV6dVBMRjA": 1793305540846
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Sewaktu",
-      "x": "Bansos PKH dan BPNT Tahap IV Bisa Cair Tanpa KKS Lewat Kantor Pos, Simak Syarat dan Prosedurnya! - Sewaktu - Sewaktu",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0xDUGY5WVl6UURXQUl4emdZODdES25rSTB4amVtWnJuZHFBdWhmekt4ZWZ3ZUpETkVNZWszTUFmT3Z1LTUzY2RfRGVfbmR0Z0s5XzYwSlNhYWVmazlzaXRlMXlieWZ4SHVsM2t0SGxqU3paYlktX2dfd0tVbmhJaWtWcmxqOHFteGgyMmVnNjZmczlyMk5Fa1NxSlRmT0NfLXN4bVBjaDBDUnFvTGgwc1VNVWVqelFBNHNhRGJoXzN1cExyVm9fZEp5NFQ4aFpi0gHWAUFVX3lxTE9KQ0ZQc3RoVnVNOHpEOTg2X3dVN0lSdllWel92RzlJcGNTRjA2NHl4OVVjNXRGcE9tbE9kbVdkLUFscVE0UmdaNjZvb1E5cEllNHNNQUpKckQ5WkprRjRfMHQ2NC1Rc0RJM3hXYkJmOWFRTFVSZzV6NFo0dkVTaXd5NDcwbFpLUG1FWE52LUVxbERVSkNpa1pnMmhSMy1hVHllUFNjamFhYmwzSXVYR1VGdEZrWUNFcFVVVG5yTnpiZTA4QWhQNkJ3aUFBeHluc3pfXzRCc3c?oc=5",
-      "d": 1793270700000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29601,10 +29585,20 @@
       "d": 1793239440000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Lensa Hukum",
+      "x": "Kemenkeu Catat Anggaran MBG Tembus Rp134,19 Triliun - Lensa Hukum",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SczVpVXg5dy1BaXo1WkxWN1pucWN5NXVDdFZvSWFDaEJUNVZhUEI3Mnl4a0lsenVPaDRNd2wya0o4NnFCS19iMnJPY2RDU1luU2VTekI3Wm9KM2YzZlV6dVBMRjA?oc=5",
+      "d": 1793304300000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
