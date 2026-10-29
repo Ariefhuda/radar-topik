@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dednf5OE-CT": 1792094464076,
-    "threads:DdSqUgUk9Rv": 1792094464076,
-    "threads:DehxC1lEqah": 1792094464076,
-    "threads:DcNjf0dGit1": 1792094464076,
-    "threads:Ddk7q84mn1C": 1792094464076,
-    "threads:Dd6ivWUkg0-": 1792094464076,
-    "news:CBMilwFBVV95cUxNRlc4M2xNZlhmUllxODZwcDR5RjFTOWZmZTBBclpTUmVmaFNtd2x5T2R3Um1wcTdqZnQ4UW1Wcjh1bEdtUE43WGJiVVgyZjJJV2xOdGtJYW9ydi13Qk1pdmRONWZRZjQxN21rUEFFRlJEWUwxTUdSRXFTclBKa3Y0NFktZ0dZcVNYYXZ1dTloUXB1Ty1WdVVB": 1792094464076,
     "threads:DbdCOmQkfIN": 1792094736930,
     "threads:DehxvUpk7w7": 1792094736930,
     "threads:DeaPYsnk3l-": 1792094736930,
@@ -28114,29 +28107,11 @@
     "threads:DfFzGpDlC7J": 1793303748965,
     "threads:DfFzBsEFMFa": 1793303748965,
     "threads:DfE1KrlGsuD": 1793303748965,
-    "threads:DPhVUwpjw1W": 1793303748965
+    "threads:DPhVUwpjw1W": 1793303748965,
+    "threads:DfFz9UYE0Dy": 1793304054522,
+    "threads:DfFzmJRkxvY": 1793304054522
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@farizrm_",
-      "x": "Dear Affiliate Pemula... GUE GA BOSEN2 NGINGETIN JANGAN BAYAR MENTOR ATO BELI KELAS JUTAAN DULU Kalo mau mulai Affiliate pake AI. Ikut aja kelas gratis gue BESOK MALAM. Iya gratis,",
-      "u": "https://www.threads.com/@farizrm_/post/DfFNYmgk_p7",
-      "d": 1793283664000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Tribunnews.com",
-      "x": "Antisipasi Tren Global, 28 Ribu Mahasiswa Indonesia Dibidik Kuasai AI hingga 2027 - Tribunnews.com",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHdOVjBwcXc4Mkw0elZnazZCcW5aMk9wbzI2YWthRXAyU3gzSE1OMmRhOVkyakRfakIxM3RWSTF0TERlTUpmOE8wMWk4b0d5dEdBbldpSFhXUXBraERhZjRnajlHY1NNbldjMmY3U0ZzM2V4UlVnNWhjQWQyQTE3U1BvT2hVU3hvNHNIUzZNUjRrMUtpVFpjNTM1bDNoVUlucGJxWE1Tc1RHSnJyYWpoemczUk1HaTJVeWhhZC1sM3loZw?oc=5",
-      "d": 1793280360000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29616,10 +29591,30 @@
       "d": 1793270967000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rflybgsk",
+      "x": "• Penurunan Pengangguran: Tingkat Pengangguran Terbuka turun menjadi 4,65% per Mei 2026. • Investasi: Berhasil menarik investasi luar negeri dan mencatatkan surplus neraca perdagan",
+      "u": "https://www.threads.com/@rflybgsk/post/DfFz9UYE0Dy",
+      "d": 1793303888000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rflybgsk",
+      "x": "• Pangan & Pertanian: Produksi beras nasional mencapai 33,2 juta ton dengan cadangan beras pemerintah 4,2 juta ton, serta penguatan program swasembada pangan yang dipimpin oleh Kem",
+      "u": "https://www.threads.com/@rflybgsk/post/DfFzmJRkxvY",
+      "d": 1793303698000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
