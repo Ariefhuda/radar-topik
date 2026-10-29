@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DehhLkVDcnU": 1792086646619,
-    "threads:Def5HaBmR68": 1792086646619,
-    "threads:Def5KmbGVe9": 1792086646619,
-    "threads:Dd3319Gmc6t": 1792086646619,
-    "threads:DehhhhAn6RO": 1792086646619,
-    "threads:DeJXRFkmMoE": 1792086646619,
-    "threads:DegV0b3FNCS": 1792086646619,
-    "threads:DeeCwU_GeVV": 1792086646619,
-    "threads:DeO44vWkj_S": 1792086646619,
-    "threads:DatbxT0k77J": 1792086646619,
-    "news:CBMivwFBVV95cUxQUHFuWV9rQ2FBLWlLa2stQzhQU0dFTm1VQWhwUW03LTdaQ093cDl5ekRTbDBNRWdIdXVvckltTFhIeEZsQ01kUUJpaG5hSGZzckNuR0FvUFVSRktxcEM1OHI0VVU0eWExektRV2NqWkRUU0N1eTlUcW51aHlZOWxVU3dqT256VXZva0phSE9aRlVObk9oZ2ZCMlZJQ050dFlHSmw2c2IwTTZZQTdHYkdGaTBOWUFoT0NDaDNyR25sRQ": 1792086646619,
     "threads:Dehh-9bji0e": 1792086942918,
     "threads:Db10GHEmOKG": 1792086942918,
     "threads:DeDOMPekw7Q": 1792086942918,
@@ -28143,19 +28132,17 @@
     "news:CBMiuwFBVV95cUxQMDFRVWhhczRJLVVNcE1YR1lyTE5EMWFCZ1lrZGstRE1vLXlpclNQV1NVQnJycVp0djNBV2ZfOG9WZVNHR2tFRjU0WXJEcmF0MWRPdm1ZelNicVVyb01kUVd2SnhqNF85dUY3SFU3MllXUDZONmw1TWllWS1LLVhtQW1SWkZOMktvbHV5ZEk4Q1k2SjRtc3RWUURJMEZTTW8xWUxGWmxMeUVlbXlVZzZ6bmUzR0YtMUtrajRZ": 1793295641442,
     "threads:DfFke7gDkCK": 1793295941724,
     "threads:DfFkDcjj1F-": 1793295941724,
-    "threads:DfFjyvAHxBT": 1793295941724
+    "threads:DfFjyvAHxBT": 1793295941724,
+    "threads:DfFlG9fjvxN": 1793296249255,
+    "threads:DfFlCiMo3v9": 1793296249255,
+    "threads:DfFkycUERTX": 1793296249255,
+    "threads:DaiSoWFAQ3X": 1793296249255,
+    "threads:DHzSfbphjgp": 1793296249255,
+    "threads:DedH90on_8n": 1793296249255,
+    "threads:DfFkBijk9VA": 1793296249255,
+    "threads:Degb96mjx8W": 1793296249255
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "karawang bekasi disway",
-      "x": "Rekomendasi 8 Tempat Beli Sosis Bakar di Jatimulya Tambun Selatan, No 7 Sausnya Nampol! - karawangbekasi.disway.id - karawang bekasi disway",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM0Y3eXZPaHlmdUVwSmhyOS0xVWFtSV9ucm1tWlJ1dlhnSG5sR1FmRzZqcDByMnR3QXBJRkk5NEFvc3V3S3BLbWhFU3F4bjhFZENYVElHOEJZNy1UX1QyWlpackE4T2ZuRGFqeWg2bXpsQ2xlNGZ5TUVtcFMwOWVFZTI4bHJzQmR4U1NyVlJMUkpEZHJpRnVaUnM5TjVIVVgtUlpXQUtoSUw4cnpzd1czTkxVXzZEYUNDRFpiQm9aYzRGUnZZaVRIZNIBxwFBVV95cUxOMU50SXNXclhPVWVESXlRT1JSU3R1UnhVRjVLN1RRdEVwRmNnZFIxZlo2Y1pZOU0za2U3RUx5a0FiSUFtd0ZxRWFIZ3VrTVFtamFCVC15ZUpIVnB4c19ZalZsVG1BOWlpX2lRWEk5ZGhxQkNwaS0ySUhTTlZuVl9BSzlMeEk5OXF0UklJZ1hRcGFsTmxVSnhNdjlmZFR2eFd5eXItN0UyZ0E5dVJQUC1fUDdGRTFHUkNpaWVFRm04aWxocjlhZy1B?oc=5",
-      "d": 1793249640000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29645,10 +29632,20 @@
       "d": 1793282400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lamtotabanjarnahor",
+      "x": "Luar biasa ya memang mereka-mereka ini. Dari awal kelas gratis batch ini sampe skrg full ikut, total 8 kali pertemuan. Semoga peluang ini bisa membuka jalan untuk kalian bisa kerja",
+      "u": "https://www.threads.com/@lamtotabanjarnahor/post/DfFkBijk9VA",
+      "d": 1793295534000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
