@@ -60,20 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DczDGGLln1p": 1792106144572,
-    "threads:DLOh_RbPpeu": 1792106144572,
-    "threads:DOKOzZ1k9RM": 1792106144572,
-    "threads:Dcl4iFUEvyd": 1792106144572,
-    "threads:DcV_Gw8k9I9": 1792106144572,
-    "threads:DeiGPFwEZal": 1792106144572,
-    "threads:Deh_EtdgFq1": 1792106144572,
-    "threads:DWlUKOpD-8D": 1792106144572,
-    "threads:DeJQ-g-E_Q_": 1792106144572,
-    "threads:DQ3HDNXCVd7": 1792106144572,
-    "threads:DeOEW8NEgFG": 1792106144572,
-    "threads:DeiGtlrk65j": 1792106144572,
-    "threads:Ddc5M3PI2mR": 1792106144572,
-    "threads:DefnSaMo_3E": 1792106144572,
     "threads:DYUNQ7FCMLy": 1792106460692,
     "threads:DYttJ6doNvH": 1792106460692,
     "threads:DebYIbUGDEx": 1792106460692,
@@ -27863,29 +27849,13 @@
     "threads:DfGJo4NATXj": 1793315442759,
     "threads:DfGJ7KUDx3x": 1793315442759,
     "threads:DfGJMtoj1rB": 1793315442759,
-    "news:CBMiY0FVX3lxTE5STEJNY3FOYS1ZWGd2MGlXd2ljOVo3RjY3eE9tX2VQUnJxYk9vQVpDSnhhX0FrXzBBTFlnb3hOV2FvcmppQjdUTDhGTExyZkNDcUgta1dON3djdEdENTVYcy1jdw": 1793315442759
+    "news:CBMiY0FVX3lxTE5STEJNY3FOYS1ZWGd2MGlXd2ljOVo3RjY3eE9tX2VQUnJxYk9vQVpDSnhhX0FrXzBBTFlnb3hOV2FvcmppQjdUTDhGTExyZkNDcUgta1dON3djdEdENTVYcy1jdw": 1793315442759,
+    "threads:DfGJRmNE5d6": 1793315742159,
+    "threads:DfGKglikXkh": 1793315742159,
+    "threads:DfGJMO7kbDX": 1793315742159,
+    "threads:DeG-ABOAVZj": 1793315742159
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfFs9ZnlHLo",
-      "d": 1793300219000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfFsxivFHMn",
-      "d": 1793300121000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29365,10 +29335,30 @@
       "d": 1793315220000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGKglikXkh",
+      "d": 1793315711000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGJMO7kbDX",
+      "d": 1793315020000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
