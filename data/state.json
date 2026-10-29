@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deh1uGpjkEX": 1792097441099,
-    "threads:Deh1FfoEx99": 1792097441099,
-    "threads:Deh1A2PE-s6": 1792097441099,
-    "threads:Dd0l6JakY6V": 1792097441099,
-    "threads:DKb3M7ghiD1": 1792097441099,
-    "threads:DeYFsSCmGGN": 1792097441099,
     "threads:DaF8ofpmBVb": 1792097737330,
     "threads:DS83YmTmNoO": 1792097737330,
     "threads:Dee-VBlE7Xt": 1792097737330,
@@ -28106,19 +28100,13 @@
     "threads:DfF4P8nFEX8": 1793306765310,
     "threads:DfF4K9LlIFm": 1793306765310,
     "threads:DfF4HBnFJa5": 1793306765310,
-    "threads:DfF49ZqE-V9": 1793306765310
+    "threads:DfF49ZqE-V9": 1793306765310,
+    "threads:DZodPJrn51u": 1793307049413,
+    "threads:DauMhOZAXjz": 1793307049413,
+    "news:CBMiZEFVX3lxTE1kZXJfVS15NnRBdHJRRHVvSndNYWg1cTBxajdQMUlyODJSUGZYeEtrc195cXB6MDh6T0hWdy1ZYjF3WWlaQ0hRa0pFOHNFelRnSmhJYmxzMWpxZlJTV2c0YjAxYU8": 1793307049413,
+    "news:CBMi0wFBVV95cUxOeE42T2FXTWc4R1FmYllDeHVvWjY2S0RCajhnbEFscUtZS2xyeVlZUVktUjdMTHB1aWhlTF9USUZCQnBLVDBXbXdJZTc0dWgyV0NhOTZHVEw4RnQxbTZwWkd4RWNQQVNmYjlDMGIyazI4ZUpDOFZmbzJKM0I3UnR4Wm0xOHR6aTRaRUREbll3dHdfMjFrT1FCMm1Qb21kOGw1WWlXdGlBSUV1aXhiTlA1S3BnV2ktLTlCRHFtYmh4NEJVT1NacjBLUWl1cElhbHNCVmc00gGyAUFVX3lxTFBBQ0FNQlBzckRXR093UmJYLVFlbmdxLW1XQkRnRTAyaXFxM0dxTmRQeEpXU2NGRi1rSl92YXMwTmZmTzBfQUR5a1pObzBrejRvREdHdWl3bURtOHBnRm1Jei1ncEtNSE1CNUdMbDFHcVpMaXVVZmZtWWpRRmJKTUlKTVA4TzJjNGNMU1VQblNzTjVUZGJ6OHNfYVc0U2RzaE1SMTk0eHk5Y0t0WlZwdDNPYlE": 1793307049413
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Suara Merdeka",
-      "x": "Menerjang Keterbatasan, Karya Penyandang Disabilitas Melenggang ke Australia dan Jepang - Suara Merdeka - Suara Merdeka",
-      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXRBalpuUzJWblZYZ0Q1ODhHVFVtaGs0TGpGaTJFaENGTjlkcDQ2T1dKcFRlQ1V5cUFUMEZFU3MwUEh6b1VVV2lsdnVySlN0eVIwNnlMUEhNNUExNHpWX0N4OEh5OV9RcnhzMzNzVGxHcEVZbC10Ukd6U1JMZUhvbEdoaWtBVXZOamQ5RDBHYklubTJHdmJQZVFaaDhGT1pWTTZxUTREU2NwLTVMRC1EYTJJRy0zMEVNUF8zeHNGOFVtenQ4VzM5SXVENEpvVnFxXzlhNNIB1AFBVV95cUxPYXRBalpuUzJWblZYZ0Q1ODhHVFVtaGs0TGpGaTJFaENGTjlkcDQ2T1dKcFRlQ1V5cUFUMEZFU3MwUEh6b1VVV2lsdnVySlN0eVIwNnlMUEhNNUExNHpWX0N4OEh5OV9RcnhzMzNzVGxHcEVZbC10Ukd6U1JMZUhvbEdoaWtBVXZOamQ5RDBHYklubTJHdmJQZVFaaDhGT1pWTTZxUTREU2NwLTVMRC1EYTJJRy0zMEVNUF8zeHNGOFVtenQ4VzM5SXVENEpvVnFxXzlhNA?oc=5",
-      "d": 1793271900000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29608,10 +29596,20 @@
       "d": 1793306510000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Menerjang Keterbatasan, Membuka Jalan ke Negeri Sakura - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeE42T2FXTWc4R1FmYllDeHVvWjY2S0RCajhnbEFscUtZS2xyeVlZUVktUjdMTHB1aWhlTF9USUZCQnBLVDBXbXdJZTc0dWgyV0NhOTZHVEw4RnQxbTZwWkd4RWNQQVNmYjlDMGIyazI4ZUpDOFZmbzJKM0I3UnR4Wm0xOHR6aTRaRUREbll3dHdfMjFrT1FCMm1Qb21kOGw1WWlXdGlBSUV1aXhiTlA1S3BnV2ktLTlCRHFtYmh4NEJVT1NacjBLUWl1cElhbHNCVmc00gGyAUFVX3lxTFBBQ0FNQlBzckRXR093UmJYLVFlbmdxLW1XQkRnRTAyaXFxM0dxTmRQeEpXU2NGRi1rSl92YXMwTmZmTzBfQUR5a1pObzBrejRvREdHdWl3bURtOHBnRm1Jei1ncEtNSE1CNUdMbDFHcVpMaXVVZmZtWWpRRmJKTUlKTVA4TzJjNGNMU1VQblNzTjVUZGJ6OHNfYVc0U2RzaE1SMTk0eHk5Y0t0WlZwdDNPYlE?oc=5",
+      "d": 1793271900000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
