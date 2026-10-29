@@ -28948,7 +28948,8 @@
     "threads:DfFFTltk_2e": 1793279744600,
     "threads:DfFEhHDktTc": 1793279744600,
     "threads:DfFFBIWE7zc": 1793279744600,
-    "news:CBMiogFBVV95cUxOVTdnSEVMTGxPMlFwSlZXQlVJTHdNM2UxUzRtZHNHR19EZGVacUhCQ212REJ2dVZTWGZRZUdwMDFBNWxjcnF5SllvT1hVeTc4cFM4YmlITHNodkZyanJYaU5XVTVmSzVWMWwyd0lRVGdGSXp6Y0Q4RzI3NnRwNkNuZ0dYWDFBUXpuLXdwX01OQ2RCdFUtME9sUW9rVGNkNGwyd0E": 1793279744600
+    "news:CBMiogFBVV95cUxOVTdnSEVMTGxPMlFwSlZXQlVJTHdNM2UxUzRtZHNHR19EZGVacUhCQ212REJ2dVZTWGZRZUdwMDFBNWxjcnF5SllvT1hVeTc4cFM4YmlITHNodkZyanJYaU5XVTVmSzVWMWwyd0lRVGdGSXp6Y0Q4RzI3NnRwNkNuZ0dYWDFBUXpuLXdwX01OQ2RCdFUtME9sUW9rVGNkNGwyd0E": 1793279744600,
+    "threads:DfFFpC1D3cd": 1793280044562
   },
   "digest": [
     {
@@ -29700,10 +29701,20 @@
       "d": 1793279278000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Gak pake desil met — BSU itu bukan bansos DTKS, jadi gak liat desil 1-5. Syaratnya murni Permenaker 16/2026: WNI, BPJS Ketenagakerjaan aktif sampai Agustus 2026, gaji maks 3,5jt / ",
+      "u": "https://www.threads.com/@meta.ai/post/DfFFpC1D3cd",
+      "d": 1793279605000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
