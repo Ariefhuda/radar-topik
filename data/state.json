@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DbdCOmQkfIN": 1792094736930,
-    "threads:DehxvUpk7w7": 1792094736930,
-    "threads:DeaPYsnk3l-": 1792094736930,
-    "news:CBMi2gFBVV95cUxOUVlfaUZKUHdzM2hxNVRlaWYwZ1l4UUlyZjhBbjdBS0lfRTNoS1I2S25IMGRFYV9jZXFCM00wTURXVGdheTE0VlJLTW52YlpKWDBZT2lFd1M5bExnQnItd0cya1kwUTB1MTUwR081Z3prQTl6Y2l6NTU4Q25ub0lVOFJRTklmRmt5OTh3anZwQWhIU1pIaExGOVBYaUN1OFpsdF9uVEJZQ1ZwUDNPaTlLSkdQdk93TkFOYzlkZXVfUkxnRlB6bXJxbGJzU2JaNlliaEwyNEtLSDZhUQ": 1792094736930,
     "threads:DehyMMPlUns": 1792095045434,
     "threads:DefURVgj5_H": 1792095045434,
     "threads:DehxpjbEnmQ": 1792095045434,
@@ -28109,19 +28105,16 @@
     "threads:DfE1KrlGsuD": 1793303748965,
     "threads:DPhVUwpjw1W": 1793303748965,
     "threads:DfFz9UYE0Dy": 1793304054522,
-    "threads:DfFzmJRkxvY": 1793304054522
+    "threads:DfFzmJRkxvY": 1793304054522,
+    "threads:DbptpXhkyJM": 1793304339735,
+    "threads:DfFz9H5Eq8L": 1793304339735,
+    "threads:DfFzgZqDu8k": 1793304339735,
+    "threads:DfF0WNIDV4s": 1793304339735,
+    "threads:DfF0ElvElLo": 1793304339735,
+    "threads:DdUoYiwk3us": 1793304339735,
+    "news:CBMirAFBVV95cUxPaS1HM1gwR3ZyY0RONlpIUU5wV0RMMzFtZmpJZGdpbmo2bVBaTm9abGhWUVBkRDdaOU9KZlo5TXNVMVBxdG1sQm5qem96bjdjUGxLbW9QNWhVbUtFMngtVHZKMlpQSnp4MWc5V05rQWliREE1RUFyOG16SGJhNWVaSHdJeG5WcFdfZVh1R2Rhc3Vja01HM3dXVC02RkVTdGNzVzlRTF9MYW1NUVNz0gGyAUFVX3lxTFBBQ0FNQlBzckRXR093UmJYLVFlbmdxLW1XQkRnRTAyaXFxM0dxTmRQeEpXU2NGRi1rSl92YXMwTmZmTzBfQUR5a1pObzBrejRvREdHdWl3bURtOHBnRm1Jei1ncEtNSE1CNUdMbDFHcVpMaXVVZmZtWWpRRmJKTUlKTVA4TzJjNGNMU1VQblNzTjVUZGJ6OHNfYVc0U2RzaE1SMTk0eHk5Y0t0WlZwdDNPYlE": 1793304339735
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Media Indonesia",
-      "x": "Pemerintah Komitmen Cetak SDM Berkualitas - Media Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVB3cE9iTWNIUGszQUp0RVZ1aW54aEw0bk1SaUozV2ROUGM4emFLd0ljTEFfaG1BN092eG1sYzZ5SkM4ZHhtSk9uSnZwNEtQWkM0UXNLeHlpVGtEcVEwOG10eW5ya0NFS2ZEZmNlQ1A5bTRQMlNaRkdRUkpwT0FVS1U4NFBTclpJUzlsQ2FB?oc=5",
-      "d": 1793283449000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29611,16 +29604,26 @@
       "d": 1793303698000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Menerjang Keterbatasan, Membuka Jalan ke Negeri Sakura - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaS1HM1gwR3ZyY0RONlpIUU5wV0RMMzFtZmpJZGdpbmo2bVBaTm9abGhWUVBkRDdaOU9KZlo5TXNVMVBxdG1sQm5qem96bjdjUGxLbW9QNWhVbUtFMngtVHZKMlpQSnp4MWc5V05rQWliREE1RUFyOG16SGJhNWVaSHdJeG5WcFdfZVh1R2Rhc3Vja01HM3dXVC02RkVTdGNzVzlRTF9MYW1NUVNz0gGyAUFVX3lxTFBBQ0FNQlBzckRXR093UmJYLVFlbmdxLW1XQkRnRTAyaXFxM0dxTmRQeEpXU2NGRi1rSl92YXMwTmZmTzBfQUR5a1pObzBrejRvREdHdWl3bURtOHBnRm1Jei1ncEtNSE1CNUdMbDFHcVpMaXVVZmZtWWpRRmJKTUlKTVA4TzJjNGNMU1VQblNzTjVUZGJ6OHNfYVc0U2RzaE1SMTk0eHk5Y0t0WlZwdDNPYlE?oc=5",
+      "d": 1793271900000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793282456930
+    "reddit": 1793304339735
   }
 }
