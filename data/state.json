@@ -28960,7 +28960,9 @@
     "threads:DfFGa-1DQ7M": 1793280346276,
     "threads:DfFGXqxkfxf": 1793280346276,
     "threads:DfFGaZBDkMa": 1793280346276,
-    "news:CBMijgFBVV95cUxOUXdCSTAyeTdlTXpLQ1VKUFU3YnNLeUQ1Y3dKRVdlbDJYWEhpdmlGbDZsS3lDLWdXX0JUd0ZwQ3hueEwxS3JNQ0UxbTFxSnhDNjAwbjFtQUJNVXg5V05oOGlVNnU3RXFQWEx6ZjMzYVB2RkhuRE1GZXVoNG1KaGxZSzBXLU96UlRjMXNyVFdn": 1793280346276
+    "news:CBMijgFBVV95cUxOUXdCSTAyeTdlTXpLQ1VKUFU3YnNLeUQ1Y3dKRVdlbDJYWEhpdmlGbDZsS3lDLWdXX0JUd0ZwQ3hueEwxS3JNQ0UxbTFxSnhDNjAwbjFtQUJNVXg5V05oOGlVNnU3RXFQWEx6ZjMzYVB2RkhuRE1GZXVoNG1KaGxZSzBXLU96UlRjMXNyVFdn": 1793280346276,
+    "threads:DfFGnJygYMS": 1793280657454,
+    "news:CBMiqAFBVV95cUxQQ013dkJrZmJoeXNESHl4aDRnbHdjZUxwdHBMMF9VTmdHTnpFbGxBYzJFWHQwRWN6blRHUUJ0TElBamZ5V3JuUUpBSmIxZFUtMllGaEc3eFpDZFR2d1huSnlSd2I4UE9yaFRwVGVKX1AtOWZpczBIZTd1X0Z5dU1XMklkcEpFR2hIbzZic1ZDZlE4MWo2cU5iVEIxSkRJMEtBTk05b2xmQ3k": 1793280657454
   },
   "digest": [
     {
@@ -29732,10 +29734,20 @@
       "d": 1793280009000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@aicstories",
+      "x": "coba kak chat ke nomor yg tertera, kayaknya si belum buka lagi pendaftaran nya tp coba chat aja dulu. ini full beasiswa",
+      "u": "https://www.threads.com/@aicstories/post/DfFGnJygYMS",
+      "d": 1793280113000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
