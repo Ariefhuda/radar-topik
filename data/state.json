@@ -27801,7 +27801,9 @@
     "threads:DfECABskxO-": 1793244337091,
     "threads:DfEBdv_E-_G": 1793244337091,
     "news:CBMiuAFBVV95cUxNbkNtT1hsNmRVSDlUT1pOSXNQNVppSTBwVW1LNlpqNURyQTRXdHZ1M2VnaDRLWXhXbW9TTzhOVGtkTG9uMlVnV2VqaFUwU29fWTRVTjZYdVBONWJzR3R0VWM3eVVtY0REbnVjV3Fheld6U29KZnlfcHFPU0l5TmxkV3oxMHhSWWlzaVFac3JibUJ0OHFqUDdPRlRXQktrRFQyNWM2SjBkYUNTa2NObzdFazBSZTRGNFU40gG-AUFVX3lxTE1HNlJHZ214M3Y2TEt4VkRiaDA0bnN3T1RsN0RFRVFlZkVyOTlsWGJqaFp4NmVZNzdVM3kxMHpKUmJlQTJ3ZmVrRHBnNnotemdISXN3WndFUjdXZTZzLUIxODFMWDBsanhmWlI3ZXVoaWluVTJCQXM1Rk5iMTBWM2wxelNsckg5NS1oSHZIdWZjdC1PcXBLWldnQ2M2c0JtalpqdFdaTV90RXRNTXVSWkY2UlUtYWJPcHNBOVl1SHc": 1793244337091,
-    "news:CBMinwFBVV95cUxQTVpqdE0wN1BRd1p6WGJMaENZQzNCd0l2RzVvV2FOSVpyZmM2LUhRTk1xYkRuLTlmN0JDYjRMYW5QemN5bm5VQ2lMOHQ5N0F1dWF3X01EcDJBdDdyYzZCS0RJNWZ2OEtSNjhLWEtCNDVjaVl5UXBwMVMxeXRLWUF5YXBsLWtBSXNaVGhUVjhhSk1DRmFLdjI0YUxQd0NxVlU": 1793244337091
+    "news:CBMinwFBVV95cUxQTVpqdE0wN1BRd1p6WGJMaENZQzNCd0l2RzVvV2FOSVpyZmM2LUhRTk1xYkRuLTlmN0JDYjRMYW5QemN5bm5VQ2lMOHQ5N0F1dWF3X01EcDJBdDdyYzZCS0RJNWZ2OEtSNjhLWEtCNDVjaVl5UXBwMVMxeXRLWUF5YXBsLWtBSXNaVGhUVjhhSk1DRmFLdjI0YUxQd0NxVlU": 1793244337091,
+    "threads:DfEAre1ElGJ": 1793244647910,
+    "news:CBMimgFBVV95cUxNb0piSmVSRTZkNE40bHlreHdoSzR5VUpwUHJ4NVRzZ3Q3XzAwODh2THVZUTRVbm1TekdDOWd3cUhKbzFGMkk3bDlSTGpCamNUM051QTJ1UVM0bE9qMy1NeEx3NzlRS3pvem5VOG9pcGRocEtIVjBESVg2TmVqY1BuSTRCVFdJR1dnZFhqYmFDb19zdkIxSHNFZVpB": 1793244647910
   },
   "digest": [
     {
@@ -29143,10 +29145,30 @@
       "d": 1793243820000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@hilda872020",
+      "x": "Kak stelah aku cek di aplikasi cek bansos, data suami keteranganya belum ada desil, gimana itu ka? Bisa daftar sendiri kah?",
+      "u": "https://www.threads.com/@hilda872020/post/DfEAre1ElGJ",
+      "d": 1793243449000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Unite.AI",
+      "x": "Harvey Umumkan Sertifikasi FedRAMP Kelas D untuk Pekerjaan Hukum Pemerintah - Unite.AI",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0piSmVSRTZkNE40bHlreHdoSzR5VUpwUHJ4NVRzZ3Q3XzAwODh2THVZUTRVbm1TekdDOWd3cUhKbzFGMkk3bDlSTGpCamNUM051QTJ1UVM0bE9qMy1NeEx3NzlRS3pvem5VOG9pcGRocEtIVjBESVg2TmVqY1BuSTRCVFdJR1dnZFhqYmFDb19zdkIxSHNFZVpB?oc=5",
+      "d": 1793189230000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
