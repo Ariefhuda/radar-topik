@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcU-wDcEv4W": 1792083341433,
-    "threads:DXuCZfwkjpI": 1792083341433,
-    "threads:DJ1sy3SySRM": 1792083341433,
-    "threads:Deha-AokzDb": 1792083341433,
-    "threads:DegTnLio5At": 1792083341433,
-    "threads:DehGCvekvVi": 1792083341433,
-    "threads:DehFNYFEbcW": 1792083341433,
-    "threads:DehDe9mFOZE": 1792083341433,
-    "threads:DehCmSUD_Mc": 1792083341433,
-    "threads:DehBJG0mrj6": 1792083341433,
-    "news:CBMitwFBVV95cUxNNE1tM3BwOWVFYU8wME4yYjh5T1VUbUh5ZVRhbjhkbml5WTZOZ01ZZGgxR2NyTXJUR1Y1TXppWDNaVVFiOU9TbXA1b2ZEU1VYUWFtQmJrWTBhcE1aQ1BVSUppM2hDaWVFbHdjRFJxaEM0R00zaEVUUFdHSEdFNnBzVDVPVDV2ZnlXbV9xNjhMQ1FuNWVUei1TellMZG52a2lpLVI4VkNMRUZyVDc2RUo2ODJINDlIZkE": 1792083341433,
     "threads:DehbCPDG-EG": 1792083651111,
     "threads:DegtXtolELe": 1792083651111,
     "threads:DehcDthEqUM": 1792083651111,
@@ -28271,29 +28260,17 @@
     "threads:DdQCR63E3IW": 1793292664734,
     "news:CBMi5AFBVV95cUxQNXVVN2RzUUh0aFNQRV9oLUF1Ulg5SU1ZQnZjV0VucVc5NUVBeGNQYUlkU2dDRkhXTkZiRGNoYlNpN2lwdDV4TFFCMzRuc2gyS1RGbXlNVjh4cmtxSU1QWE9SYkY0UlNIMHZjbzdaakc1bV9PZDVMaWtheUNDY3NSM3ZkRmtHNFc5S3BOSnZJTW9fWWdwYUp5aU1CdXlnSUtyOEpkZnhVVVhHNjhoaFl4SWstLWRObFRaZW8tZHE5a25HdDNrWTNaeFlWZlBUMU9BMEpBVmhJemkwZVp3V0xycVNqeTXSAeoBQVVfeXFMTVFibjBnNndxd2tlUWVNbGNfdE9YelQwa3JkZ0JsOGFIdzllLWF4VFNSeVBucEtSc3RING1EVnhVSFZyMUFqajBrekRVX1FkSjBWVmhzRVc5LXJ4NkYtemRKYURNOS10aTZfVHdmWUpyWnZaa1NucHBHXzNrLXRuYVp4U3JiZHMxb1hQV2tzNVhRY1JZTk92cmxORXg5SkxRRVVYYU5kTGZreHF4cGM4VXM0SWZJd2g3LU8zeWs1TzRfSi1pdEVvYUQyVUYzcGVsekRQTGUtYVRrSkpXdHhjLVNMUkYzblNIa0dB": 1793292664734,
     "news:CBMijgFBVV95cUxPcVQ5U1lkT0ZjQ1BHQVgtZ2xsMVBaSEYyOWNNZ0luZmp1ejVxWmJvb2dLb1RDTFo3SEY4TVFIOUhnV0VVYmFGeUVIRXRDZW1XS2hXaFExQmFyMUNyQzdsckk5Y2RqVkNyd3dEVWdnNW8wVTdBT09qQVR3R1I2RUxhVVFBem5qZ2c3TTkxOUxR": 1793292664734,
-    "news:CBMiqAFBVV95cUxNVUtTOHBmRTZCZnZCMEQxVTd6T3Nhd0hVbWJTekQwVTdESi0tU3JKa0tvcGFoNnhMaEpHaVh5UjJqdndQckNET0wzcWsyUjJCT2VSUlp3Vm1DUXlONWZ3ZHVhaXJFdFhrZHJOWHlNQ2JNNXprT19FRUNoRl91SWlmblNycEJTQzY2emxKbndzbVRnUjJnVkpTMjhBeTRxTXpXemtoYmxQU2fSAacBQVVfeXFMTlUtTFJMQjJfZUczN0Eya21jLV9NaXBiUlZXMTBhZnBUMUVpcXdVYUdnaFhXajd6ZzBUWjVCUW1jT3ExeVc4N2o1dmFZcWtxbXR2LTlYX0VSNXVSN2tTN2FLWUYwUzk5bnJvNXlhb3pTakNuQ0U2Q2RuOEUzTHdsb1ktaklXU1NMQ1gwWlI2dGNRWWF0QUNRN1ZvRE80QXRXMUhVWEYtTFk": 1793292664734
+    "news:CBMiqAFBVV95cUxNVUtTOHBmRTZCZnZCMEQxVTd6T3Nhd0hVbWJTekQwVTdESi0tU3JKa0tvcGFoNnhMaEpHaVh5UjJqdndQckNET0wzcWsyUjJCT2VSUlp3Vm1DUXlONWZ3ZHVhaXJFdFhrZHJOWHlNQ2JNNXprT19FRUNoRl91SWlmblNycEJTQzY2emxKbndzbVRnUjJnVkpTMjhBeTRxTXpXemtoYmxQU2fSAacBQVVfeXFMTlUtTFJMQjJfZUczN0Eya21jLV9NaXBiUlZXMTBhZnBUMUVpcXdVYUdnaFhXajd6ZzBUWjVCUW1jT3ExeVc4N2o1dmFZcWtxbXR2LTlYX0VSNXVSN2tTN2FLWUYwUzk5bnJvNXlhb3pTakNuQ0U2Q2RuOEUzTHdsb1ktaklXU1NMQ1gwWlI2dGNRWWF0QUNRN1ZvRE80QXRXMUhVWEYtTFk": 1793292664734,
+    "threads:DfFfQ9iH-r2": 1793292937746,
+    "threads:DfFey9cCCc8": 1793292937746,
+    "threads:DfFeZQbG8az": 1793292937746,
+    "threads:DfFeJVBjscS": 1793292937746,
+    "threads:DfFeEpniTrz": 1793292937746,
+    "threads:DfFeAtUgfUb": 1793292937746,
+    "news:CBMinAFBVV95cUxQSi1rajRCbkxWS09VZTF2dU5ONFl2aGRrTkJyMTRsTGVwRmRpYWdkWXJtMHhtc0w4WV8yX1RBaFZ3bHFNQzZJUFN1Q0tiS21LaUZxbHZ2WVpoNHIwTVFCTXRBdXdDckV4U253cWVSaTVBandtQzdOakQtQ0VHZ2xzeUVBLVFfdHdUSlV2OTJjMlVRendnLUdCaWNRS2nSAZwBQVVfeXFMUEota2o0Qm5MVktPVWUxdnVOTjRZdmhka05CcjE0bExlcEZkaWFnZFlybTB4bXNMOFlfMl9UQWhWd2xxTUM2SVBTdUNLYkttS2lGcWx2dllaaDRyME1RQk10QXV3Q3JFeFNud3FlUmk1QWp3bUM3TmpELUNFR2dsc3lFQS1RX3R3VEpVdjkyYzJVUXp3Zy1HQmljUUtp": 1793292937746,
+    "news:CBMiwAFBVV95cUxNNlUxV3NoQkRHczVTWEt4T081Z2kzakYzbWROUU00cmxyQ3JtMkhJU3FaS0pGMHEzT2RyeUxxU05RSkxuMVFqOHREQmQwS3ZCUndtMWQwbEVBdFVzYVNjbmViQV8yamI0MkJ2c3ZnVXRLYWltdTlRc3dJU1AtbFNORm5WcGY0d0NnQVVkWW92Mk9SRjdER2hmRWxZeE1aQ1Q5OXBsVElsM3hSUHpXeTE5T1ZUeVZSaTEtV1pFWVZaLWXSAb8BQVVfeXFMUDIwTURJWmNQN1c2enVCbDcwLWhTSm9XcEd0LXBzS2R2OUoxNHhaOWhtYW54WngwQ2hVUkFvM000S0hfb2loN0h6T0o5alNmZkU2TUgyLUNyelVXYmN0Z1ZnSUFsZThrZ0lQNHo4TzR6WDhmZ1dQNVptUE0zcDdCdlVUMk1nSmRhZHhjcEY4ekVjMHBPYzRIdGx4V09VcWNQVEVvejVmc2cwX2xzX2E2SmdCUUw1RnBKS1lycGZuVTQ": 1793292937746
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@burhanaputra1977",
-      "x": "Yuk, mulai langkah baru untuk meningkatkan skill Digital Marketing & AI. Di grup ini kamu akan mendapatkan informasi seputar kelas gratis, tips praktis, dan kesempatan belajar bers",
-      "u": "https://www.threads.com/@burhanaputra1977/post/DfFB8NCFAR7",
-      "d": 1793277664000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@learningwithza",
-      "x": "🇮🇩🌷 Dalam rangka memperingati Hari Sumpah Pemuda, saya mengadakan kelas gratis bahasa Inggris untuk perempuan melalui learningwithza! Buat sisters yang ingin lebih percaya diri ",
-      "u": "https://www.threads.com/@learningwithza/post/DfFB4ikGrJI",
-      "d": 1793277634000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29773,10 +29750,30 @@
       "d": 1793241009000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Riau Satu",
+      "x": "Horeee! MBG Diusulkan Masuk Kurikulum Sekolah - Riau Satu - Riau Satu",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSi1rajRCbkxWS09VZTF2dU5ONFl2aGRrTkJyMTRsTGVwRmRpYWdkWXJtMHhtc0w4WV8yX1RBaFZ3bHFNQzZJUFN1Q0tiS21LaUZxbHZ2WVpoNHIwTVFCTXRBdXdDckV4U253cWVSaTVBandtQzdOakQtQ0VHZ2xzeUVBLVFfdHdUSlV2OTJjMlVRendnLUdCaWNRS2nSAZwBQVVfeXFMUEota2o0Qm5MVktPVWUxdnVOTjRZdmhka05CcjE0bExlcEZkaWFnZFlybTB4bXNMOFlfMl9UQWhWd2xxTUM2SVBTdUNLYkttS2lGcWx2dllaaDRyME1RQk10QXV3Q3JFeFNud3FlUmk1QWp3bUM3TmpELUNFR2dsc3lFQS1RX3R3VEpVdjkyYzJVUXp3Zy1HQmljUUtp?oc=5",
+      "d": 1793288220000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Baca Koran Linggau Pos",
+      "x": "DistribusiSeragamSekolahGratisdiLubukLinggauSMPRampungSDMasihBerjalan - https://linggaupos.bacakoran.co/ - Baca Koran Linggau Pos",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlUxV3NoQkRHczVTWEt4T081Z2kzakYzbWROUU00cmxyQ3JtMkhJU3FaS0pGMHEzT2RyeUxxU05RSkxuMVFqOHREQmQwS3ZCUndtMWQwbEVBdFVzYVNjbmViQV8yamI0MkJ2c3ZnVXRLYWltdTlRc3dJU1AtbFNORm5WcGY0d0NnQVVkWW92Mk9SRjdER2hmRWxZeE1aQ1Q5OXBsVElsM3hSUHpXeTE5T1ZUeVZSaTEtV1pFWVZaLWXSAb8BQVVfeXFMUDIwTURJWmNQN1c2enVCbDcwLWhTSm9XcEd0LXBzS2R2OUoxNHhaOWhtYW54WngwQ2hVUkFvM000S0hfb2loN0h6T0o5alNmZkU2TUgyLUNyelVXYmN0Z1ZnSUFsZThrZ0lQNHo4TzR6WDhmZ1dQNVptUE0zcDdCdlVUMk1nSmRhZHhjcEY4ekVjMHBPYzRIdGx4V09VcWNQVEVvejVmc2cwX2xzX2E2SmdCUUw1RnBKS1lycGZuVTQ?oc=5",
+      "d": 1793283840000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
