@@ -27666,7 +27666,9 @@
     "threads:DfD4RZLD5_N": 1793239862965,
     "threads:DfD4ZQOkobp": 1793239862965,
     "threads:DfD4n2SChp-": 1793239862965,
-    "news:CBMisAFBVV95cUxObERwcjcxcmJuNTdjRnpvYmFvN1dIVFdqeUEtR096bEhZd01MQVRjWHZwcUFLRVhNMXhRa3VxTGU1VUhNLWwzV096ZEFoMC1WREFhaTh0RG9QbXRlVFhLcTRUdmhLcG1pbVFMblpGVFppVzkxQ0FpVnBSdThwYUNyVDJRWlBBZjdsdjJlN3k5a1dTODJwQUYyUmZDenlWQlhDYXY1Q1Fjd0Q1WUIwNGpfbQ": 1793239862965
+    "news:CBMisAFBVV95cUxObERwcjcxcmJuNTdjRnpvYmFvN1dIVFdqeUEtR096bEhZd01MQVRjWHZwcUFLRVhNMXhRa3VxTGU1VUhNLWwzV096ZEFoMC1WREFhaTh0RG9QbXRlVFhLcTRUdmhLcG1pbVFMblpGVFppVzkxQ0FpVnBSdThwYUNyVDJRWlBBZjdsdjJlN3k5a1dTODJwQUYyUmZDenlWQlhDYXY1Q1Fjd0Q1WUIwNGpfbQ": 1793239862965,
+    "threads:DfD5hQDiS4E": 1793240149941,
+    "news:CBMiwAFBVV95cUxPMDdVT1I1Tm8wQ3ctNm9odmsxNTBVQ3VJUGRPRno2R3Jhbjllb1dEd3N3dUxlbGlEbG4yMnpuM0psQks3cW5FalRzUGJVbWp2Q3pWT0kyaTZjR2Jwa3FodHdTWFR0Y0RYczNqNkw3Uk5jaWM0MkdNczZUOGMtYUhMbWcyeVFNM050NkxHS0xMUGp4azN6bXE4QzRiWHFTSFA0WjU1R3hKV1czcUVDZmxzYVdfRi1XUnFhOEV1T3JXWHg": 1793240149941
   },
   "digest": [
     {
@@ -28258,10 +28260,20 @@
       "d": 1793239225000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Bengkel Pesawat RI Kantongi Sertifikat Eropa, Bidik Bisnis Maskapai Asing - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDdVT1I1Tm8wQ3ctNm9odmsxNTBVQ3VJUGRPRno2R3Jhbjllb1dEd3N3dUxlbGlEbG4yMnpuM0psQks3cW5FalRzUGJVbWp2Q3pWT0kyaTZjR2Jwa3FodHdTWFR0Y0RYczNqNkw3Uk5jaWM0MkdNczZUOGMtYUhMbWcyeVFNM050NkxHS0xMUGp4azN6bXE4QzRiWHFTSFA0WjU1R3hKV1czcUVDZmxzYVdfRi1XUnFhOEV1T3JXWHg?oc=5",
+      "d": 1793239320000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
