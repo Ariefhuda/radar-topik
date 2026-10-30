@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdD3fUdk7nA": 1792112140469,
-    "threads:DcKu-VPgbxp": 1792112140469,
-    "threads:Dc5btADE4LR": 1792112140469,
-    "threads:DaPaMxCn537": 1792112140469,
-    "threads:DXmxjPuE0s_": 1792112140469,
-    "threads:DSorzAbCRqi": 1792112140469,
-    "threads:DdC67vek7Ky": 1792112140469,
-    "threads:DZz4UCOmoSY": 1792112140469,
-    "threads:DcLlJTcjxEu": 1792112140469,
-    "threads:Da0fhpGEz1P": 1792112140469,
-    "news:CBMicEFVX3lxTFBWY2E3dzN1dXY0ZnV3S2xpMGUwZW80OWp6aF9obmhfSXVrZVhkZWdxM1c4V0xDa2FmSDY0OTlmRng2RjVOYkxmSm5mLUstTTNtYWJyamRjbmQ1aTUyZ0t5cDRWcG1ucE9iTG9uS2t6SUU": 1792112140469,
-    "news:CBMivgFBVV95cUxPYkVFb0xISjRIOHB5YzVuVndjb3M1MTB1eUx5UkNCaVl6QV9LdnlXdXV2YUZONzhMZ2ZmYTVQRjd5Nm1ieVVhNlgzZEg2bjlWZ25PTWtqcEV3alZ2MDZCeTM3NUh2U0FNTWJLc25vc2lwV2ZGZTFHRng5V3R3X0t6LVZ2YURkZmtVNEhpREliVFh5OHNXdUF0dEhiRktpSGlpMXB0QkRYUDUyU1gxQ3l6ZEVKNHNyYV9UQWRXMVln0gHDAUFVX3lxTFBvdVF3R0VwQ0JldVdGV1c1VnRQZzF2T0NaX0pvMVV5MWc5anE5U3gwVU95VnhhOE81dUZGQks4UjhoMTA3NUw0ZWlnamdzMzFIV3piOWd3VW9zOFpRZ29qbUFkX250Y3FjLWhSY1Ywc2ZvZjk3UHdIbFBSV1lMcjVycGlKR2w5UE10QVVRRkhTUHEwN2FpeEpCVVZDVFhSVi14VkhNYnZPcExIaEZ6UVU1dVFvN0JMaTBCZW9wc3owT2k0bw": 1792112140469,
     "threads:DdEbQApk8aX": 1792112454645,
     "threads:DebEP6eCnwj": 1792112454645,
     "threads:DT44EqlkYqd": 1792112454645,
@@ -27830,109 +27818,23 @@
     "threads:DfGVWz_Doyy": 1793321445772,
     "threads:DfGVSCADoCu": 1793321445772,
     "threads:DfGUdzTja_g": 1793321445772,
-    "threads:DfGUdJXD2N6": 1793321445772
+    "threads:DfGUdJXD2N6": 1793321445772,
+    "threads:DfGU1qzDNa0": 1793321739228,
+    "threads:DfGV_LVEQ-_": 1793321739228,
+    "threads:DfGVotdEf8D": 1793321739228,
+    "threads:DfGVaIUEREh": 1793321739228,
+    "threads:DfGVEqGkbk7": 1793321739228,
+    "threads:DfGU8ohkXDT": 1793321739228,
+    "threads:DfGUzOEkR_l": 1793321739228,
+    "threads:DfGUlCFEddS": 1793321739228,
+    "threads:DfGUh5OEX2P": 1793321739228,
+    "threads:Dc-GEWPklXb": 1793321739228,
+    "threads:DfGVhx8EygL": 1793321739228,
+    "threads:DdvzOQik4R-": 1793321739228,
+    "threads:DfGWHk_k3_E": 1793321739228,
+    "threads:DVnLv7GDlv9": 1793321739228
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kompasiana.com",
-      "x": "Programnya Gratis, Pengawasannya Jangan Ikut Hemat Halaman 1 - Kompasiana.com",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlF0aGpsdGcwR1lQMEp0M0R5SWhGTlQ4MWlwcjUwV3VyeGZFVXp0S1dTbGxyU0dxYU5wdmFDM1oxY2JnWVFFTXo0N0pUTDNncS00OGpsWnZlUkhLWHd4LTRsTnIwaTdGT2ZkVkF3d0M1SUNzeHhPU1Jyc1BPZVFHYXJnc0NjX1d4Qm1Uazg3TkI3WW1mUXZ5R3ZGaFZIaFRGVWFwRmZsWkdWWVFPSlRSWVUwMXExdlZlWU5N?oc=5",
-      "d": 1793311186000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kabar Tegal",
-      "x": "Bansos PKH dan BPNT Oktober 2026, Cek Jadwal Pencairan dan Cara Cek Penerima - Kabar Tegal",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWEzSTZpbVNjNXQtemNZakFxSXpabURWV2pCUElmZWI0c2pvTXpJbWpvSnVtSjhNS3VEMkVzSHhKa2ljNVhBeHhZOV9kRTJxUnh2R3pxVDhMVl9kc2plN3ROa0V5U0hwV3NHNzlGaWZwTGYxY3VSekd5TktJdm1Kd05PSFlyQWdiTVFkQnc1aDJveTBuRWo5dmxqOGpGRjRzNEhMOW1scWcwRHAxMzVMOVQ1MGRtTlJBb3U0YXhGWkh0TjVncnVrbFdPc3jSAdIBQVVfeXFMUDNCM1BQZWpqWXJnRVJJYWJWTTJMM1RRZzgtQnhtaWpZOTFLVU12ZDFUNXp4aXZrWWhUNEJ1dkRkYnV3Y2lMRXpOSExxMmlDQ0hpbjAwdURDZkN3cHcxbHVzNUozeUNZX200MWF6TUQ0akZLYXFGWWlPQ1FKRTNYNWpjb0xuQVB5WTJHbFZ4Y2F4b05sdHpYdkxfMlhKYVZiaHktX3lXa1BtYzVGT3dpWUxKX1hCWTFWYkpsQWtWYjNIbXkwMGlSYjdRazNXVWNMLVZ3?oc=5",
-      "d": 1793307070000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfGDPN9EVrV",
-      "d": 1793311899000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfGDKghkRn3",
-      "d": 1793311860000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfGC1TAEWD5",
-      "d": 1793311687000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfGCwG-kYHf",
-      "d": 1793311644000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfGCNE7EXkS",
-      "d": 1793311357000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@anemonelamongan",
-      "x": "✨ BANJIR PROMO NOVEMBER HEMAT DI ANEMONE SOEHAT LAMONGAN! 🥳💥 ✨ Kabar gembira yang paling ditunggu-tunggu untuk menyambut bulan depan akhirnya tiba! Bimbel Anemone Soehat Lamongan",
-      "u": "https://www.threads.com/@anemonelamongan/post/DfGC1O9kj6L",
-      "d": 1793311686000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bansos BPNT Tahap 4 Masuk Verifikasi Rekening Duluan - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUHlMd2ZudlVqY0Ria0N1VndJM2NIZTZXVGJGLXZLamduZzBneVJDWk00TTZNSWFoaFhYeUpRR2dWX3lvR1F1elB2SDFpeGVXOWN5dE91cEtqN0pSMmE0blFwbDJZQUhPTkJjX1FtUW4wZmVjM2dyOUhrcXlVdHhvN1pBa2N2bFNXdi1abGRHd1BlbkRoaGFxT2R1ekltQTZGUUI00gGoAUFVX3lxTE95VXE3TklBSE44SDBCdW8tVFhvZEUxSnBnamQtNUEyU2dsN0FUZWhyajdmWm56cktZUEtUR1BZR2FqN0s4ZGF1RzJ2MnlXbjlYQW50WFB2MmxSV1RQZWxGc0J1NjBDWXg0d213c2x1ZUVmZU44MjRjNXkyb3RRY2p3YUhzUll1Y0YzRjlTbUllNUZpcXZYcjdXTkdkTTFkTFpLR3dtM19GYg?oc=5",
-      "d": 1793311233000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@huffadz_tahfizh",
-      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
-      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfGCiFPE5F-",
-      "d": 1793311529000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29332,10 +29234,110 @@
       "d": 1793320860000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGV_LVEQ-_",
+      "d": 1793321729000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGVotdEf8D",
+      "d": 1793321545000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGVaIUEREh",
+      "d": 1793321425000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGVEqGkbk7",
+      "d": 1793321250000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGU8ohkXDT",
+      "d": 1793321184000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGUzOEkR_l",
+      "d": 1793321107000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGUlCFEddS",
+      "d": 1793320990000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGUh5OEX2P",
+      "d": 1793320965000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@simon_brighton_property",
+      "x": "Sobat Threads, pernah enggak kamu punya keinginan mengingat ingat, pasang alarm di kalender hp, mencatat tetapi tidak dilaksanakan? kalau yang ini, punya keinginan ndak? seminar gr",
+      "u": "https://www.threads.com/@simon_brighton_property/post/DfGVhx8EygL",
+      "d": 1793321488000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@daffadiba_os",
+      "x": "Aku mauu ikutan kelas gratis segeraa🤣🤣🤣",
+      "u": "https://www.threads.com/@daffadiba_os/post/DfGWHk_k3_E",
+      "d": 1793321798000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
