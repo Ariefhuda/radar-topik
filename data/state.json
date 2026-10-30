@@ -60,32 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DS-IZ8mEjSb": 1792110947621,
-    "threads:C_HrfYISmmA": 1792110947621,
-    "threads:DSB32njkuYr": 1792110947621,
-    "threads:DZm3UbmExTO": 1792110947621,
-    "threads:DdQU2wxmtDt": 1792110947621,
-    "threads:DdmlG6EE5et": 1792110947621,
-    "threads:Dcvx4SxkkEl": 1792110947621,
-    "threads:Ddh7l-fDouJ": 1792110947621,
-    "threads:Ddn9cA0lOK_": 1792110947621,
-    "threads:Dd1cmBukjGc": 1792110947621,
-    "threads:Dc-GKEwAAab": 1792110947621,
-    "threads:DeTiGbom2dt": 1792110947621,
-    "threads:DT5h9rQAb1U": 1792110947621,
-    "threads:Dae0PMjkpTo": 1792110947621,
-    "threads:DYCOURAjj0O": 1792110947621,
-    "threads:DbfRbo4DzFq": 1792110947621,
-    "threads:DeiP8mcgMiR": 1792110947621,
-    "threads:DWGzL-7k32k": 1792110947621,
-    "threads:Debm51jGnrm": 1792110947621,
-    "threads:DeW5t4xGSvd": 1792110947621,
-    "threads:DeiP8x6knXN": 1792110947621,
-    "threads:DegWOGCjOQo": 1792110947621,
-    "threads:Deg3hKgn6In": 1792110947621,
-    "threads:Ddl56ogAR8t": 1792110947621,
-    "news:CBMinwFBVV95cUxNVmRld1VER3BWWkZaWF9Wa1ZyN3JMQ3M4ZFBkU1VSVUZkSlVkMGpMYXJ3dUEwUWY3VVB0SUplQURJSDFIRERrVWdfQi1sdUM5bEVjeE9yaGo1TDh2ZDF2WnV5UGJxcHk5UzFtdGJ2NnphUHdMeTJFQjdqYlhxSlhEaXJveU1aSURieEEyTVFrdlk1a0d0bEdORjQwOHcxQUU": 1792110947621,
-    "news:CBMingFBVV95cUxNT0pGeFVIUWRvOEtKQTBybXpTQXJBTGE1S1JQcEp2UEkwa3VUS2MxOGtfUk5tTmIwdUEtY2VheXpkV2FCaDZNdTlqUWJvbjBCYkJXSm54V0ZEUXNMZHFreEJRY1ZmS0YzRVhjM0hIMHFHNDYzeVJ1LVJCbk4wM0JFVnRaZ3g4LXFtVEFuNkFlTUFnU3pwclo5T0o1SE5MUQ": 1792110947621,
     "threads:DegYzh0oBaC": 1792111246507,
     "threads:DeiQCsIj_2q": 1792111246507,
     "threads:DedejtgmRRg": 1792111246507,
@@ -27853,19 +27827,16 @@
     "threads:Da6hkJ8nwNd": 1793320258644,
     "news:CBMiZEFVX3lxTFBIMWZLSkFycFljLWczaHN5ODZRWGxiNEdBYUZmMjBaNGt3dmdtcThYMFpKd2k4RHJUX05sMUtZS043M1Q2eDdEVHlvY2FFNFBlVVNhUlJwMVg5RnE3eXVudHR1OEk": 1793320258644,
     "news:CBMiqAFBVV95cUxNNXdFM0VLT19LaF81TFk1Qy16eElTcjlDenlYZXYxMTQ5dHdqd0hMQThPTXVvN0RvWFRNazRqczdfUWUxS1l5V192dkRTRFRIekNYSmc5bjUzV2xXWmo1UVQyV2dXWWxNRlZQZVhuVHZjUDkwQkJLd0kzX09RWjZDM2dFLVRGRV9SYnVHM2lQcU1RdEdKa1lhZTZPSHpoTWl5c0Vjc3NtOEvSAZ4BQVVfeXFMTkRUYmtUeFg4MVRCV2RmOHBGVnMyamVNc0RBQUNyRzR5NnY3RFgtV1ZkNDFhQlNkVVdxYUVmY0g0aWZCT21iRkhZVDRLQ0NfMDdpWDRzWXAwYUhsRFVxeE5PbXpKYWE1VFlJWkZxS1BFQ1ljcldzbWZDS2ZXTjk2TWczb0Vjbnh4dlN1bThPQl9xNnpGalRsUy1BRjBuZlE": 1793320258644,
-    "news:CBMiygFBVV95cUxOTGZSWlBaQW05VmVsamp4OTRFdnhWcDJMUVlvRUZ2UjVGa3EzWVl3Ymw1QzNTRnB6eVpzQ29ucUJlRnJSalN5NUZhdmV5bTZMczFROTdwdzNhdVpvWXRyY0NtUmxOQlU4c1ZvVXdJOWgweEQ0TlFRSkJBQkpmSmhoVXAyNDk2UWhhcHY0eTFLMHR2UV9VekItYk1mZC1hVGVDRVFzT3RkWDc0WlBWaThmTnczQ052WllwZUZkdzJDRUJoSmo3Q2lzdVZn": 1793320258644
+    "news:CBMiygFBVV95cUxOTGZSWlBaQW05VmVsamp4OTRFdnhWcDJMUVlvRUZ2UjVGa3EzWVl3Ymw1QzNTRnB6eVpzQ29ucUJlRnJSalN5NUZhdmV5bTZMczFROTdwdzNhdVpvWXRyY0NtUmxOQlU4c1ZvVXdJOWgweEQ0TlFRSkJBQkpmSmhoVXAyNDk2UWhhcHY0eTFLMHR2UV9VekItYk1mZC1hVGVDRVFzT3RkWDc0WlBWaThmTnczQ052WllwZUZkdzJDRUJoSmo3Q2lzdVZn": 1793320258644,
+    "threads:DRxpukUmGUB": 1793320535990,
+    "threads:DbdPuNRGP5I": 1793320535990,
+    "threads:DS0Da4WEouv": 1793320535990,
+    "threads:DfGS_YTH271": 1793320535990,
+    "threads:Dc5KQ5qCQ_l": 1793320535990,
+    "news:CBMiswFBVV95cUxQUWlodzdwZmpTMUFoSS1BemRLdzJnYjNWMHBlSFBYWWlyMkhuN0c4MVk4LXZqSDVCT3pxVVRUREQzUV9wbXA5eVQ1ZDdoRFNaNTI4SFk1X3RKSldQaUxsSi1PeVZfem1CUW9GQVlOUGxESGVUV3JReXFabnJlRkxuZnRWc25ES0VOU2ZtSTRqaUNGTm9sdmtXZk00dnpXamU3WXBxajJuVXk5RXlOMW44bEg1dw": 1793320535990,
+    "news:CBMiygFBVV95cUxNZVctQ1NobEVxdzJDMVVBR0VzbGRWUThfeHJrdXNsS1llcEdxbXZ2WWtsZ2xKbS1aclZzMjBXaVZMdVpGSWFNeWFPdzM0R0FkdGF1aVVVVjJjcE9wZTZSQmZiWVNBVGVHbTVFTEotc3M5blByNmFjR1FBTkxSUkdIN0tEWDBJSzhKOXh1cmx2V3J3SGxpdzFyaW9zamh6czZZZnBKOG9LSEdrSzlub2t0Y0dQekZLSmZzajlfaXBRdXljVFFhdWUzanVn": 1793320535990
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfF-K71FMT7",
-      "d": 1793309242000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29355,10 +29326,20 @@
       "d": 1793320079000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gakorpan News",
+      "x": "Beasiswa Kuliah di Indonesia: Jangan Biarkan Biaya Mengubur Cita-Cita, Ini Jenis, Syarat, dan Cara Mencarinya - Gakorpan News",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVctQ1NobEVxdzJDMVVBR0VzbGRWUThfeHJrdXNsS1llcEdxbXZ2WWtsZ2xKbS1aclZzMjBXaVZMdVpGSWFNeWFPdzM0R0FkdGF1aVVVVjJjcE9wZTZSQmZiWVNBVGVHbTVFTEotc3M5blByNmFjR1FBTkxSUkdIN0tEWDBJSzhKOXh1cmx2V3J3SGxpdzFyaW9zamh6czZZZnBKOG9LSEdrSzlub2t0Y0dQekZLSmZzajlfaXBRdXljVFFhdWUzanVn?oc=5",
+      "d": 1793320203000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
