@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeiNYDKk5-R": 1792109748915,
-    "threads:DeA5jeMAfIN": 1792109748915,
-    "threads:DYdpwfYE4Us": 1792109748915,
-    "threads:DeRJq01k0c1": 1792109748915,
-    "threads:Ddp0Dd-j6U3": 1792109748915,
-    "threads:DcgpfftGAOd": 1792109748915,
-    "threads:DbAHmrek0Uj": 1792109748915,
-    "news:CBMilgFBVV95cUxQbFhxQ3A4REtYbmo2eU52M1UzeE5zVTZiUXhJOTF6RGQ5ZFF4QmdxQUEzRUFBN2FORkpFM0tnYkNFU2hGWEE5Mno5YlZsb1oxQUZuUFZvZVpiUmhoekhlTlJjWmFfZ2c2Rl9iWDRucnlUNEVyeVpDV1hIWGg2WXRjRHBVWEJMbDUyVmlsVXdjYU4wMTg5SUE": 1792109748915,
-    "news:CBMiuwFBVV95cUxNbXNDcGVoSWNVNDlWT1g2Z1dSVnUxM1hRSk5sdXBzVVg3QVpwaDJwVExyRHpVQzg3dkZFNGFOOHB4ek9sOWpHYWVUeXJUYXg4SFBDcGJDQ0ZLUC00ZG9RdWN5LWdFWExWUTdZS1ZKLVRoVk1HelZRTUtheW5rR3ZSN3FQb0tTZU1EZnpPQ1Z0bkd3T3lmT3VWMmtwQW9NZ3BSVUpEemVVRjhHR2lVUGxtRUdQUldIMzJSOTNn0gHAAUFVX3lxTE1OTFR5YTFWT21iT2llRl9Yd3dVelZGNjlPLXB3d215WE0wMXYwMmYyV2pWaHBoaDZFbUNWOHZ5azVDNll0Rmd0OU9RMHh4QUtqczlzZ19NYkZmT0tGTmdxM1RDdjFXalFXSVY2SERrdDNfVC1hTGtWb0d6Qlpab2hpbmNtbWhvazZxVHRRa2F4TUZOUC1haUpyMVZ1WWFXdnNFQTNfOEZrZ2VMSllOQnQ1NGdHSllXRmFhVldMRHNNXw": 1792109748915,
     "threads:DedVP5dk5RE": 1792110052436,
     "news:CBMigwFBVV95cUxNa0g2X3hKbV9ia1NTNFZqS3prbVVxd1BFd21jQkxHaXRPY3lCRl9oTEhZZ2dFUHdBS3NmTWpaWVB2RUJkMjhpWkxjQU9iZDRtTk5pVVpzckdUa2M2UU4ta2NQUWFjbk5fSVlxckQ1X3VfdFc2eG5OUlFmbmNCckdWbWVnUQ": 1792110052436,
     "news:CBMihAFBVV95cUxNeGFGWnB2aElvTU9zX2x2X01LTnBGUlNabE9SX1FTQmpTVmtMbEltSmE4dzNOR25JbVNwM1VPV1poNm9GcktjUmNTcERXR0dnSUV3emhyX1NkSjVEUkNLNEpHUlllQ3pvUDNwd01fSnhjV2dqZGR0b2p2OS13MHBjdlBJTVU": 1792110052436,
@@ -27831,79 +27822,35 @@
     "threads:DZ-hx1GicbR": 1793319043052,
     "threads:DYIS42uk53G": 1793319043052,
     "threads:DSCXFL4Dlr0": 1793319043052,
-    "news:CBMiU0FVX3lxTE9taFlia2QxTkgzN3pLTnJZQU1vbHNMY0FLTlpUTmRwRk9IVVlJbmJ0Tm0xTGdCekxKbVk0ZXZhOVkxbndkcnRpMDk2eW1KeDh2V0pN": 1793319043052
+    "news:CBMiU0FVX3lxTE9taFlia2QxTkgzN3pLTnJZQU1vbHNMY0FLTlpUTmRwRk9IVVlJbmJ0Tm0xTGdCekxKbVk0ZXZhOVkxbndkcnRpMDk2eW1KeDh2V0pN": 1793319043052,
+    "threads:DbVwbjpESxx": 1793319338988,
+    "threads:Dbm74MQgfMv": 1793319338988,
+    "threads:DebENafERH0": 1793319338988,
+    "threads:DcLnMJ-EXry": 1793319338988,
+    "threads:DdsrAY3mvKX": 1793319338988,
+    "threads:DfGRbMXEzq3": 1793319338988,
+    "threads:DfGRDYhCbDs": 1793319338988,
+    "threads:DfGQ8T0jjl8": 1793319338988,
+    "threads:DfGQ7lUIHSA": 1793319338988,
+    "threads:DfGQ2KsElQ5": 1793319338988,
+    "threads:DfGQz73kb_6": 1793319338988,
+    "threads:DfGQpMDjR8V": 1793319338988,
+    "threads:DfGQHBVEgh7": 1793319338988,
+    "threads:DfGQELaDZ1P": 1793319338988,
+    "threads:DfGRN8_D8KO": 1793319338988,
+    "threads:DfGRGPeI2nH": 1793319338988,
+    "threads:DfGRm96E835": 1793319338988,
+    "threads:DfGRmttEV8O": 1793319338988,
+    "threads:DfGRIg4E-gQ": 1793319338988,
+    "threads:DfGQim0kTUQ": 1793319338988,
+    "threads:DfGQdJykfb2": 1793319338988,
+    "threads:DfGQYSxkZmg": 1793319338988,
+    "threads:DeiLqKeEhE0": 1793319338988,
+    "threads:DfFE0QYEz3q": 1793319338988,
+    "threads:Db5b4chlIRg": 1793319338988,
+    "threads:DeEr5pLDwNj": 1793319338988
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Suara Merdeka",
-      "x": "Menerjang Keterbatasan, Membuka Jalan ke Negeri Sakura - Suara Merdeka - Suara Merdeka",
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeE42T2FXTWc4R1FmYllDeHVvWjY2S0RCajhnbEFscUtZS2xyeVlZUVktUjdMTHB1aWhlTF9USUZCQnBLVDBXbXdJZTc0dWgyV0NhOTZHVEw4RnQxbTZwWkd4RWNQQVNmYjlDMGIyazI4ZUpDOFZmbzJKM0I3UnR4Wm0xOHR6aTRaRUREbll3dHdfMjFrT1FCMm1Qb21kOGw1WWlXdGlBSUV1aXhiTlA1S3BnV2ktLTlCRHFtYmh4NEJVT1NacjBLUWl1cElhbHNCVmc00gGyAUFVX3lxTFBBQ0FNQlBzckRXR093UmJYLVFlbmdxLW1XQkRnRTAyaXFxM0dxTmRQeEpXU2NGRi1rSl92YXMwTmZmTzBfQUR5a1pObzBrejRvREdHdWl3bURtOHBnRm1Jei1ncEtNSE1CNUdMbDFHcVpMaXVVZmZtWWpRRmJKTUlKTVA4TzJjNGNMU1VQblNzTjVUZGJ6OHNfYVc0U2RzaE1SMTk0eHk5Y0t0WlZwdDNPYlE?oc=5",
-      "d": 1793271900000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfF6oRoFDtU",
-      "d": 1793307386000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@umimarifah_07",
-      "x": "Ditempat aku belajar, mentorku biasa ngadain 2x webinar GRATIS dalam 1bulan pak. Topik yang akan dibahas salah satunya affiliate, riset produk yang laris, praktek beriklan ig/fb ad",
-      "u": "https://www.threads.com/@umimarifah_07/post/DfF6kr2k5gl",
-      "d": 1793307356000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lukirmdani",
-      "x": "ok ini link akses tutornya: https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
-      "u": "https://www.threads.com/@lukirmdani/post/DfF6kwflBSN",
-      "d": 1793307357000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@umimarifah_07",
-      "x": "Haii kaa,, kebetulan hari ini tanggal 30 Oktober jam 19.30 an mentorku mau ngadain webinar GRATIS digital marketing, topik yang akan dibahas nanti salah satunya affilate, gak cuma ",
-      "u": "https://www.threads.com/@umimarifah_07/post/DfF5q4QE8P0",
-      "d": 1793306883000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Koran Jakarta ®",
-      "x": "Anggaran Publik Bukan Hak Pribadi, Sekda Jateng Ingatkan Integritas dalam APBD 2027 - Koran Jakarta ®",
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnJLQV9memdVNm5BNXVZQWdFc2VjWlFQNjlJanJ6eTNNaVNZTXpWcWtkZkZDWF9lMVd4eXhVOVN0bERRUXItc3RraU5vUUNhRW1ldG1GdjBzcVlzTFhPdXBzOXI1Z3hCTUNad1VfQk1kUXJJMXJ1dG5ad1FIMURJSHZTNGo3STRXcXhHNFBuS1pMSUpiUU5xVHRlNmYtZlltQTZMbHB6dFpaaTRZX3V0dFV0UlVMRjdIVGxJa05JdknSAcABQVVfeXFMTlZyS0FfZnpnVTZuQTV1WUFnRXNlY1pRUDY5SWpyenkzTWlTWU16VnFrZGZGQ1hfZTFXeHl4VTlTdGxEUVFyLXN0a2lOb1FDYUVtZXRtRnYwc3FZc0xYT3VwczlyNWd4Qk1DWndVX0JNZFFySTFydXRuWndRSDFESUh2UzRqN0k0V3F4RzRQbktaTElKYlFOcVR0ZTZmLWZZbUE2TGxwenRaWmk0WV91dHRVdFJVTEY3SFRsSWtOSXZJ?oc=5",
-      "d": 1793300460000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@umimarifah_07",
-      "x": "Digital marketing klo aku kaa, bisa dikerjakan dimana saja dan kapan saja. Kebetulan malam ini tgl 30 Oktober, mentorku mau ngadain webinar GRATIS digital marketing. Barangklai kak",
-      "u": "https://www.threads.com/@umimarifah_07/post/DfF8QQfE5k-",
-      "d": 1793308237000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29333,16 +29280,87 @@
       "d": 1793318109000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dausevolusi",
+      "x": "Circle online jg bagus kk. Kebetulan mentorku ngadain kelas webinar GRATIS tentang Digital Marketing & Bisnis Online, sbntr malam. Ikut aja kk, siapa tahu cocok buat kk, minimal dp",
+      "u": "https://www.threads.com/@dausevolusi/post/DfGRm96E835",
+      "d": 1793319433000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGRmttEV8O",
+      "d": 1793319431000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dausevolusi",
+      "x": "Mentorku marketplace specialist kk. Klo mau join kelasnya, boleh kk. Kebetulan ada kelas webinar GRATIS nya sbntr malam. Silahkan DM. Nanti sy kirim linknya.",
+      "u": "https://www.threads.com/@dausevolusi/post/DfGRIg4E-gQ",
+      "d": 1793319184000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGQim0kTUQ",
+      "d": 1793318873000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGQdJykfb2",
+      "d": 1793318829000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lukirmdani",
+      "x": "ok ini link akses tutornya : https://businessforge.myscalev.com/webinar-gratis-motion-ai langsung daftar aja..",
+      "u": "https://www.threads.com/@lukirmdani/post/DfGQYSxkZmg",
+      "d": 1793318789000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cameliafarhana",
+      "x": "Resmi, saat ini dibutuhkan barista laki-laki fresh graduate usia 21-29th, gratis pelatihan di arab saudi 1 bulan. Hub no 0856-0614-1689",
+      "u": "https://www.threads.com/@cameliafarhana/post/DfFE0QYEz3q",
+      "d": 1793279172000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793304339735
+    "reddit": 1793304339735,
+    "news": 1793319338988
   }
 }
