@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMinAFBVV95cUxPYXF3WG9UandLbGRVc2ZKUVJhaS02WE9VSVJXWERDX0RsSmhlZXV5OHJWVXExSVRjaGo5V1RDTjV5eHJDZkNVTElYdEpFbk9mU1ZNb1JNR1FxZlhtclVCUzZTclIza045RjBBRHQ0aWkwSjQ4WUlYc1VPM0I3ZVRsODNaNTlJN2JKLTgzTGFCUmUtTGtiOV9PazJPX04": 1792272650007,
     "threads:DFcZFW-RYWU": 1792273238586,
     "threads:DDxdHFXT8pY": 1792273238586,
     "threads:DC8ugXuSZi3": 1792273238586,
@@ -25492,19 +25491,17 @@
     "threads:DfLGgwGATl4": 1793481949014,
     "threads:DZq2bc1mbis": 1793481949014,
     "threads:DXn6Dq7EhZY": 1793481949014,
-    "threads:DcdAlFhk4cC": 1793481949014
+    "threads:DcdAlFhk4cC": 1793481949014,
+    "threads:DfLHSmqExhj": 1793482245461,
+    "threads:DVhqOFVkqaG": 1793482245461,
+    "threads:DbD3ipgDyUt": 1793482245461,
+    "threads:DeWQdITgbaZ": 1793482245461,
+    "threads:DfKSWVrlnTS": 1793482245461,
+    "threads:DfLHRRdlt2t": 1793482245461,
+    "threads:DfJtLqSE9Zo": 1793482245461,
+    "news:CBMivgFBVV95cUxPQTBoWDhjZjgxbkJHSHBzSXQ2a3k4aGw5VmtFczU0eUtNbHlPSVh0VGI0bDJnWXh1RXdNT3FNVUtZX2xoSHBFSEFidURiUXRwQklzSmN5VHExN2pKU2lpQm00eW90dnlpTV9ZRzJPcE5BdmQ2Q0Z4Sm1MWlpaVEFjRzVvSkN5ajNoQ1N5ajFhTTVORDBqY1JycUVjTm1jVG5NSTU3TG85VVpuSVJ0U19OTndXZndSb3NfaVFEeXpR": 1793482245461
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "MTSN 4 Kerinci",
-      "x": "Fasilitas Gratis dari Kemenag: Kenali Manfaat dan Pentingnya Akun Google Workspace (GWS) bagi Guru Madrasah - MTSN 4 Kerinci",
-      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVzh6MC1fWkc3clJ6ZkVudXhsVDZWejNSc1JvV25wX2N3UWsyLTBoU0VvTHZQTEp6b0c3dUxJT1kyMGNfN196anZ6VXk1ZU9OMENYamJJbUlGUVp5aTlRa19jQm1hV1VZaEFNLWtDQVgxeGFiUnNXcEpvUUVRckV4M1otRFd2QnJXNUJaRTVhaU1Vdzh4WWRxMnZkRnRJVl9RbVpvdXJ2akd2Y2I4SFJuVFFzSHF3a08zQ09SYUZGd1o0bHZBbGhCaU1fTU9iZklfbUFPTENnNVVhZ29OVjFBQ1BBNUw?oc=5",
-      "d": 1793441099000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -26994,10 +26991,20 @@
       "d": 1793481388000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Daftar Bansos Cair Bulan November 2026: PKH, Sembako, Terbaru Ada BSU Rp900 Ribu - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTBoWDhjZjgxbkJHSHBzSXQ2a3k4aGw5VmtFczU0eUtNbHlPSVh0VGI0bDJnWXh1RXdNT3FNVUtZX2xoSHBFSEFidURiUXRwQklzSmN5VHExN2pKU2lpQm00eW90dnlpTV9ZRzJPcE5BdmQ2Q0Z4Sm1MWlpaVEFjRzVvSkN5ajNoQ1N5ajFhTTVORDBqY1JycUVjTm1jVG5NSTU3TG85VVpuSVJ0U19OTndXZndSb3NfaVFEeXpR?oc=5",
+      "d": 1793481896000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
