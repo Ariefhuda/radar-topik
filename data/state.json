@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DZgtZuREUt3": 1792262141516,
-    "threads:DemwlGGEtM9": 1792262141516,
-    "threads:DemwKWoE5S3": 1792262141516,
-    "threads:DemvpgJEnxD": 1792262141516,
-    "threads:DemvmUwGp9u": 1792262141516,
-    "threads:DemvH1FllJh": 1792262141516,
-    "threads:DemuxavDvlF": 1792262141516,
-    "threads:Demut0RErcz": 1792262141516,
-    "news:CBMiyAFBVV95cUxQOTlncEtsTmgtYUNSeXhxZ0tIamtpY3ZLSHl4X2c0N1F4Q1pfSFZKbUNOM2IyaWdtUlZrd29EWVptdmVIS2VqbXVHUHVTdkItNkx6SzNjRU1xeUFhX0VQNDdNUC1SellaX3FxZW5QamhxWGd5X3lRYk1rMUlWMkM2RHFHbG4yWl9tZzFfUS1STlNoSmNXckJIUGRpX2M2Tnk1eGFJRW5pXzFVS2NmSlFHb1BIYUNGRTJ1VlZZZFNVTG50cHRlX1I0ag": 1792262141516,
     "threads:DelQxveGcDT": 1792262451315,
     "threads:DUZwtI2Dc44": 1792262451315,
     "threads:DUsMexnmAc-": 1792262451315,
@@ -25311,99 +25302,32 @@
     "threads:DfKzBmYnOhz": 1793471449308,
     "threads:DfJxFsWFs-v": 1793471449308,
     "threads:DfKKtPjoDVz": 1793471449308,
-    "news:CBMi5wFBVV95cUxQZGR1ZGFfMXZyNlpNeEVOckIyUkNNN05pbnNoX1ltZ1ZMczlvZ1p6cEswZ2hWRnhlWTVwaHZ0LXJYVWI4Sk8tZVI5M01IaV9EdEU3dHFWRl9kMGY5NGg4UWl6SnZqT21NeDA1NmNacEY1TUtHOVJkUnRZMXg0eFc3WFI2S21ZbzhIV0NWZzQ0bHduWGhNREFGODBmejdsdEQtd0UtaHRaNG5odGlrejFZVW40bzJueHBXX0F3LXJKLWxMVGhZRXRYbzRXMHV5UFdQMjJJSjJiMk4wUi1lcVRkX1lXOFNUbmvSAewBQVVfeXFMTTZ0dXEyU2lxbXpPRVdkejFwNFlyUUxsemZsa1p6R05uc3ZEQkdWcG9HbzNpU1hWa0RabGR6Njk0T1g2VklyTDhmQTVGTzlyNmhtTmh3bVR6WnN6bTJ4VE1WYlNnQVowcUhzekx4M1IxeHlwOEtvc2dTcHh6dFRwTmNWM1ZpNUhUUkwwQ0t2RUI2NDVPR3c4LURXUjJnaUhQZmRSNndyM2I5NW1MVkNDZzd6VGRsUVpkU0s4dDlHeFo1Q0lQZFNXTGp3OVA5NkJyTGlvY2tsUmMyaXhUU1B0TGFZSUFVSER4c0FtUDg": 1793471449308
+    "news:CBMi5wFBVV95cUxQZGR1ZGFfMXZyNlpNeEVOckIyUkNNN05pbnNoX1ltZ1ZMczlvZ1p6cEswZ2hWRnhlWTVwaHZ0LXJYVWI4Sk8tZVI5M01IaV9EdEU3dHFWRl9kMGY5NGg4UWl6SnZqT21NeDA1NmNacEY1TUtHOVJkUnRZMXg0eFc3WFI2S21ZbzhIV0NWZzQ0bHduWGhNREFGODBmejdsdEQtd0UtaHRaNG5odGlrejFZVW40bzJueHBXX0F3LXJKLWxMVGhZRXRYbzRXMHV5UFdQMjJJSjJiMk4wUi1lcVRkX1lXOFNUbmvSAewBQVVfeXFMTTZ0dXEyU2lxbXpPRVdkejFwNFlyUUxsemZsa1p6R05uc3ZEQkdWcG9HbzNpU1hWa0RabGR6Njk0T1g2VklyTDhmQTVGTzlyNmhtTmh3bVR6WnN6bTJ4VE1WYlNnQVowcUhzekx4M1IxeHlwOEtvc2dTcHh6dFRwTmNWM1ZpNUhUUkwwQ0t2RUI2NDVPR3c4LURXUjJnaUhQZmRSNndyM2I5NW1MVkNDZzd6VGRsUVpkU0s4dDlHeFo1Q0lQZFNXTGp3OVA5NkJyTGlvY2tsUmMyaXhUU1B0TGFZSUFVSER4c0FtUDg": 1793471449308,
+    "threads:DfK0BRKFLJK": 1793471734815,
+    "threads:DfKzqT2lLH3": 1793471734815,
+    "threads:DfKyc2Ij7Pc": 1793471734815,
+    "threads:DeLUsJHidrN": 1793471734815,
+    "threads:DDZjaOzPaN6": 1793471734815,
+    "threads:DaVX91Yj0WD": 1793471734815,
+    "threads:Dbu6mN4CWZe": 1793471734815,
+    "threads:DfKKN6Wk6PO": 1793471734815,
+    "threads:DfKIlyolh8r": 1793471734815,
+    "threads:DfKGZKgk_qD": 1793471734815,
+    "threads:DfKFuqkD08A": 1793471734815,
+    "threads:DfKD3EMAYu1": 1793471734815,
+    "threads:DfJ6L8ek2Wt": 1793471734815,
+    "threads:DfJ59RwE2Ti": 1793471734815,
+    "threads:DfJ3fadH3Pn": 1793471734815,
+    "threads:DfJ2oFhGCrk": 1793471734815,
+    "threads:Db91fa5kmCK": 1793471734815,
+    "threads:DfHC-QHE8oX": 1793471734815,
+    "threads:DeTefXriSk3": 1793471734815,
+    "threads:DbPhjKkElUq": 1793471734815,
+    "threads:DcQoz83E3oQ": 1793471734815,
+    "threads:DX53iLUkaAz": 1793471734815,
+    "threads:DSjeuBsCQCJ": 1793471734815
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Katadata.co.id",
-      "x": "Pastikan Bansos Tepat Sasaran, Jakarta Perkuat Validasi Data dan Pendampingan - Katadata.co.id",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS01pTlFIRm5DWWswQVlhRlppRy1IclZ2NFllaEpxR1dteFBpQXMtdkFBMXh6RktkUE5lUFgzTDJTbnFBTkVrY19qX2ZxY0RDQW01cmZhWXowRVhTMzVKQnRUaDFLMGFJbUpaRGRHTVNkaGR2TUhfdVBSazlhb294NHNjY2VfamxzWERvcFVONDVuYW81ZThCRkpTQm5Pd241enE1cWJfOGs5U3NVc29QMEJKTzJWR3llZXVKRGpPMHRtVVhTZGfSAcsBQVVfeXFMT0tSbmo1RG5DLVhSWWtYNE5VOXdzWEdEelMtTUs3YklHUEY0TWp6T1p2VXQ5Q283UnNEREtVS054VEtnNV82SGFUbnV0cHN1MUFxSy13OXhSYzhJMXhuTGJNYUMzeVc0NW03NGVOOEk1bnFYdXZzOGxiTjFmckN3OFBaVkp5Z0R1QXZGVkpaNFlwSlc0akE1dlFobEdEdXZXX0xxTW9xQWFad29EWWtMSDV4R0dWSXVZWjFFWmJXYVZwSnFwSkpuM3huU1U?oc=5",
-      "d": 1793403420000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Lensa Hukum",
-      "x": "Cek Desil Bansos Online Pakai NIK KTP dan Perbarui Data - Lensa Hukum",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJSjB1RDJhNXdGWnVUMlJFUnY5Z0MzLXJlSkpXTGRrMGozbXIyS0pacXRCZndlNDQtSDA0SGFQQVdxS0ZyUkRHUWc4dmhuWVN0NTNaNjVTWjBvODN4SFh1ZFM3MA?oc=5",
-      "d": 1793453665000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Waspada Calo Pemutakhiran Desil, Uang Hilang Desil Tak Berubah - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDhDVlhrZEJ1ODgxNkZ4VlNteVRRT20yOTM2THpkTDFUNi1hOG1iaGVWc01TZmo4LVZhQTd4dmZHbEZveGtseHN1TUJtSmdhaEFDTmQtOFZXcmdkekh3emh1Smh4Um5CYUJPalJVYXdTZjl1d1RscGt5aGZ3VTBjMGRsM2NzYkFpSnk5b0lydUtlMnk5VXd0cmlFclRxQUlXYTQ1bGZnajNqeFBZakJ30gG0AUFVX3lxTE5MeU5JWUkyM0RobVhpcXE5ZmFnMEFPaE1GV2owdjREOEcwMEtRUWMtVVRWSmhlaTNaUm9Oc0kxeTc2b2dTRXBjUkhFbTJEWVB1TWZaU2ZuM3laMXVqZmVBVHR6N0p5QXUzNF9wa1RKX1QxMEZNVjFEMTdFS3IyTUxhWHZpOTU4ZDlNT2VxWjlBSGNkLUt3NkZibHM4YUVhTEJrbVVETldVMVFaa2VnRjB3R1ctSQ?oc=5",
-      "d": 1793399878000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Update Desil Itu Gratis! Begini Cara Mandiri dan Hindari Penipuan - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFJWcy1BbjlSMVRZT2ROanplVkVKV1V0SEJzN3dNV3dVODJ4Y0lFaVplaHF2MFB2QkNNQndodHg4ZFNhbkN5a1NTZHg5Skx6NlI2WmJSUjBOWjZyV1l1czhzZ2Jyb2c1cUhyX19Ua29xZTNWc0JvWDdkWEdVaEVKaXRFZkFDSXlGRGdaTk9VNklfZWhZZVVzQWp6MU9mSUkwT1oweE9MeWFPZHQtcmx0WHkyc9IBuAFBVV95cUxQdHpwcy1tYXNTb1FDYm9CdG40dXNGUkEzWTFhU1RBSjlJZWhoMUE2ZGVvd3RWY0ZHV043UXhNem1Yb2V6dUlOTklTWkhrYmx4TWswM1I1ZW5CZGtCVWFwLVZ1eXRhTUQtX2JYakF4RDdjemZsUEFwRlhybGQ4MGZZeUk2ZlpLYmtKNEY0VTlaNDZYaC03NnhielI1YVVOeW1jQnFYbzhNN0d4TkozT1dCQndWTDd3R2Ro?oc=5",
-      "d": 1793401088000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunpontianak.co.id",
-      "x": "Cara Cek Status Penerima BSU Rp900 Ribu Sesuai Permenaker 16 Tahun 2026 - Tribunpontianak.co.id",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTy1TN0lZVVhLNGRHTGJtak9GcjN4SEx2Rk5XZXc2b3VnZzZzZHVWMURPeGswakkyZE1xX0FkWXJzQ2dqQzByb1ZFSWpMMllVc1Byd0E1Z2hGZGw0U0hQbzVkam5LdnBScjVkRHQzc0pvOVdEV2VzM0dkSVZ2WTBEdDJRTF91SnJ1VWY3SWJ2Qlh2cDNaLUxIeWYxUWtiZ0M1WmpfMVRvM0JxRmtpSklOWlppU0R6U2F0Q2FJeFNHM2RjSkp1RkE?oc=5",
-      "d": 1793391275000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunpontianak.co.id",
-      "x": "Jadwal Resmi Pencairan BSU 2026 Berdasarkan Permenaker 16 Tahun 2026 - Tribunpontianak.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejZBWmQtN2xWRU9uQkp3YlpQSk9GTXI5RnlrMF9Sa3RORl9oU0ZVU21ndmxzNmNLTmhxajAySUpEMnprZ2pmaHUwUnBpbGUxRVBHeFk1dDQwcEE1aUUxZ3ExZ0tvTzJFWlRVOFByV2d2cDZQT1hkV1VrVk5KU3hVUWctbllFb3NHZGFYWnpvR2hSNUlmWjhQQXgxRkgzZjNLNms1emF3aXI4TzNxMEtXbE1xampfMTFTclZJS2ZTdUVrdw?oc=5",
-      "d": 1793387658000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfKTV0pH547",
-      "d": 1793454559000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfKTQsrH2B1",
-      "d": 1793454517000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfKTLpjHwKk",
-      "d": 1793454476000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -26813,10 +26737,100 @@
       "d": 1793450749000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@annas_florist",
+      "x": "Perdana,, Kelas gratis by Annas Florist Edu Garden Kamu juga ingin coba? ada 8 kelas lainnya yg bisa kami ikuti,, Join grup WA untuk informasi pendaftarannya,,",
+      "u": "https://www.threads.com/@annas_florist/post/DfKKN6Wk6PO",
+      "d": 1793449776000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ruangtumbuhmuslimah",
+      "x": "Belajar untuk bertumbuh dan lebih ikhlas 🤍 💖Dapetin Kelas gratis & e-book gratis mudah klik link di bio atau bisa DM kami 👉 Follow @ruangtumbuhmuslimah buat dapetin reminder set",
+      "u": "https://www.threads.com/@ruangtumbuhmuslimah/post/DfKIlyolh8r",
+      "d": 1793448925000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@designbyacha_",
+      "x": "Udah selesai sesi pengkoreksian hasil karya sampai 3 sesi di Kelas GRATIS, lanjut lagi bikin produk unyu unyu ya...😍🫶",
+      "u": "https://www.threads.com/@designbyacha_/post/DfKGZKgk_qD",
+      "d": 1793447771000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@afifkemalr",
+      "x": "Ka, TGC lagi mau mulai kelas GRATIS 7 Hari membangun Threads nihhh Kalo kaka berminat boleh DM yah, udah 200 org siap melangkah 1 langkah di depan nih 😁🙌🏻 👇 Kalo kaka mau aja s",
+      "u": "https://www.threads.com/@afifkemalr/post/DfKFuqkD08A",
+      "d": 1793447423000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@fitriasih_87",
+      "x": "Ayo kak ikut dlu kelas gratis nya d aku ada",
+      "u": "https://www.threads.com/@fitriasih_87/post/DfKD3EMAYu1",
+      "d": 1793446443000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rinaqyut15",
+      "x": " 😍🎬 *KELAS GRATIS \"VIDEO ANIMASI\" dengan AI* ✨ 🎥 _MAU bikin video animasi lucu dan menarik, tapi belum bisa desain atau edit video? _ Tenang, Kak 🥰 Sekarang kamu bisa belajar *",
+      "u": "https://www.threads.com/@rinaqyut15/post/DfJ6L8ek2Wt",
+      "d": 1793441371000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rinaqyut15",
+      "x": " 😍🎬 *KELAS GRATIS \"VIDEO ANIMASI\" dengan AI* ✨ 🎥 _MAU bikin video animasi lucu dan menarik, tapi belum bisa desain atau edit video? _ Tenang, Kak 🥰 Sekarang kamu bisa belajar *",
+      "u": "https://www.threads.com/@rinaqyut15/post/DfJ59RwE2Ti",
+      "d": 1793441251000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yuli_azkadeena",
+      "x": "Alhamdulillah anak anak pada antusias ikutan kelas online TKA SD Gratissss. In this economy masih ada kok kelas gratis dan ga cuma sekali doang",
+      "u": "https://www.threads.com/@yuli_azkadeena/post/DfJ3fadH3Pn",
+      "d": 1793439958000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4 Kelas Gratis ✅",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfJ2oFhGCrk",
+      "d": 1793439505000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
