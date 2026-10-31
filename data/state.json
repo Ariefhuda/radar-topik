@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMizgFBVV95cUxPVkt5ZlVWdmt3aXVLempaUE9ETEFRcmVfXzE4d2JYaDIwUmNCWm9IdDZ1Y1BSbllNN1pQX1BSQUxZcXZOVGZiNnpBeG1GTUJKSEtFd014UVN1dHd3VFBEWnhwVlNULXM1NHVVMndpamxJMHhmbzdlNUpaN0RSUGozR1VMNVhCZ1FwSERocmN2Z2V1NFIzYk12TmJvcFh5UVVZQWtkejRXM2xKVk5PSVNlcms5MUM4WGlpYkxzNEg3TXdWMHNzU2w1OXpWanp4Zw": 1792278938866,
-    "threads:DenQjoOk7in": 1792279246722,
-    "threads:DenQnGEktZq": 1792279246722,
-    "threads:DenQuWVDVpM": 1792279246722,
-    "threads:Ddwaefek09w": 1792279246722,
-    "news:CBMingFBVV95cUxQallIVFM1WC1jcFFlSHhiMTJMVXVqeGI0aXNMS2NFZElLdktuUGFlTEtRa1gxUjcyZ2plbVU0VDNHcDhXdk5zazRqNFRhS2Yzd0FGWVcyT1lSbkpaR1RQeGg2UnJZWHZaa2MzWHdkd0Vzb09jZ2FEdXhBakg0MDR5UTlaV1kxV0ZrdExuZDUwWGFFcjNNbHdReGVwdW40UQ": 1792279246722,
-    "news:CBMiqwFBVV95cUxPbjZxeUhfWnBac3RaX3ZZc2VtcUV2REtxekhTNVROal9UX1NYYUQyNDBmSVZDRE5WYVF0dHJqYThZQ1RMS0FWM0RKRHg1elByTzhUWmRNaElYV0IydzBvMEVsMF8yMnJCVlBMOWlSN25CZ2N6bkpUbTNvNWNGV19fbHloaGF2cllFQ0dpdC1XNjdENnVoVzhxVmFkR1htXy05ZVZtTmhoY1kxNDQ": 1792279246722,
-    "news:CBMif0FVX3lxTE5aU19GNVlHY0xMSExUN0dvMHRSV0owWTJfSG1heG00Nkp0aEVPUjZCbXJ0LXNDZDh2b1J6czlwd0hRRUNJQTNaZUZDckg3Q00xblBOUk16Z3N4Q0RjdjdFc21sTFhQSXNRMEFhZ3o4cmNwU2ZYaGJ2YXpWU1YtUWM": 1792279246722,
     "threads:DenNQwbjyyQ": 1792279537593,
     "threads:DCRDBjZzf-V": 1792279537593,
     "threads:DejigrnD0pS": 1792279537593,
@@ -25560,39 +25552,17 @@
     "threads:Db1rUchk2OE": 1793488253235,
     "threads:DfLTpfdD5Ku": 1793488253235,
     "threads:DfLTp7xElOd": 1793488253235,
-    "threads:DfLSdHCjKhv": 1793488253235
+    "threads:DfLSdHCjKhv": 1793488253235,
+    "threads:DfLS6akDM7q": 1793488834105,
+    "threads:DfI5B7cgbP1": 1793488834105,
+    "threads:DfLS-LEE3jg": 1793488834105,
+    "threads:DfHZfGXkdX0": 1793488834105,
+    "threads:Dd8bcQ0knpc": 1793488834105,
+    "threads:DfLTMDQitRB": 1793488834105,
+    "threads:DfLToCykp08": 1793488834105,
+    "news:CBMiywFBVV95cUxQTE9ITElXNmZMR3h5MW03ZWlaWUVPY2RCSXVlMF9YRzhOei1UTUJDNm9IWUhKT0tuc09qUGFRbmdOSmRMSTFudHNqZGdrc0dIV1hkOVhoN1VXd19WYzdEUm5DUVlaUFJBdXR3QUNNeXNUYzdYM0RrbDVIdXJCenNvN084TXBPVm53a2dpQVVUNkFudTd6QkJRU3RjclpjelRVOTIyVGNZVGlibGxSOE9HOFdrS3Y3R3Q0eVFCWjR6bEpOWE9ya3hkUFdhaw": 1793488834105
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "شبكة تواصل الإخبارية",
-      "x": "Dedi Mulyadi Siapkan Beasiswa ITB untuk 1.000 Mahasiswa - شبكة تواصل الإخبارية",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJYk5yTVdmODZ2bk1zdFlUc0N1bGRJdl9iSUdzQmIyRDVGY1NCNjhkdF9kXzdmbDh2bll4QmVCV1lLcUtCRmdGaDNqWjJSM1M1aUZZ?oc=5",
-      "d": 1793434133000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Suara Karya",
-      "x": "UMS Mulai Buka Pendaftaran Mahasiswa Baru Lewat Jalur Beasiswa, Raport dan Tes - Suara Karya - Suara Karya",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmRaZmh1UTlhMlBNUEhzdVRETGdFQWZfNF9PZzlfdnRVMjFTT0xCaEdBQWxzU1EzenQ2emVsN1VBc2JKOVdZOXBQRm5FeC0yM0FEbkQwSjJ3QkpCRUc1eDBHVW5uMWNjRXpFd2tUSWNfMEQtbmhKZVBpaFNkU3l1WUgxTjJtR0NFN1NxWHVNYnNVdjBOdy1lQmRhNEplWjF3WEJHa3FYYXVZaDRCZE9xSjU4S2ZSS2sxY3BRc1dpVzhJREFmSTFZ0gHHAUFVX3lxTE9yZFpmaHVROWEyUE1QSHN1VERMZ0VBZl80X09nOV92dFUyMVNPTEJoR0FBbHNTUTN6dDZ6ZWw3VUFzYko5V1k5cFBGbkV4LTIzQURuRDBKMndCSkJFRzV4MEdVbm4xY2NFekV3a1RJY18wRC1uaEplUGloU2RTeXVZSDFOMm1HQ0U3U3FYdU1ic1V2ME53LWVCZGE0SmVaMXdYQkdrcVhhdVloNEJkT3FKNThLZlJLazFjcFFzV2lXOElEQWZJMVk?oc=5",
-      "d": 1793461500000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Bicara Network",
-      "x": "Mau Ikut Daftar Beasiswa Garuda 2026? Cek Beragam Tempat Tes IQ di PTN dan PTS di Sini! - Bicara Network - Bicara Network",
-      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHRRbU05VDMyUXJDYlFweXNIMHNHZTJmLVB6VlR2NVV1azBxQWgwbVJxQUw2SjdQSmpZNG9RVDV4eUE0azl1UXlZanlDNTUyZW54NV9lQWMyTmVfUlRrTlpMR2U4blJxcmpibVJNdzljTlhPS1MzWngxNGpSQ01rYW5VZjdsY2JQUWJzR2Y5bktPYVM1aTZWMnRhek9SeU1GLWhvZGNWSDVkQ2NmcWxqMFRCN1dRTTYyeG44SWNtQmhuMWxqMDcwbXJ2Zy1pYTlpOHNJaNIB2gFBVV95cUxQdEZfLVhNQklDQ1l3ODMtbnRQZ1puN09NSWpwdldzZkRWaTZUSEdDdE9RVEUtQXZrSTlPdHFLODRzbVJfUkJyMW9vZzE0RE9yQzhTU0ZPbWFjeWtvUVpxWXNMcnVfWDRJSS12R0RhbGhQYkhKUWkzUXlJYm84STVlRkh1SWp3RVlRc1JlMGoyUGRXaTR2QlhHU0FCU1dsNkdEY0laZEowM01oZ1A4NzVTUEVzMFAyZi0zWXFNSUZ2RkwyZU1zTDBWTVFCR25VcU5vcHhsb3FGc2Zadw?oc=5",
-      "d": 1793450048000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27062,10 +27032,40 @@
       "d": 1793429580000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Ada, namanya Digital Talent Scholarship (DTS) dari BPSDM Komdigi — udah jalan sejak 2018 dan semua gratis online. Versi terbaru 2025/2026 kolaborasi sama DQLab & Yandex, kelasnya k",
+      "u": "https://www.threads.com/@meta.ai/post/DfLTMDQitRB",
+      "d": 1793488034000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@puanmhnrani_",
+      "x": "menurut ku, kita emg harusnya bikin kelas gratis ttg politik & kelola pemerintahan. semuanya tuh krn kurang edukasi jd ya mau ga mau kita harus turun tangan",
+      "u": "https://www.threads.com/@puanmhnrani_/post/DfLToCykp08",
+      "d": 1793488263000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Cara Masuk Desil Prioritas Bansos November 2026, Ini Data yang Perlu Dipastikan - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTE9ITElXNmZMR3h5MW03ZWlaWUVPY2RCSXVlMF9YRzhOei1UTUJDNm9IWUhKT0tuc09qUGFRbmdOSmRMSTFudHNqZGdrc0dIV1hkOVhoN1VXd19WYzdEUm5DUVlaUFJBdXR3QUNNeXNUYzdYM0RrbDVIdXJCenNvN084TXBPVm53a2dpQVVUNkFudTd6QkJRU3RjclpjelRVOTIyVGNZVGlibGxSOE9HOFdrS3Y3R3Q0eVFCWjR6bEpOWE9ya3hkUFdhaw?oc=5",
+      "d": 1793488224000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
