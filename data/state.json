@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Demo1Q3FuV7": 1792258543037,
-    "threads:Demoq5vE_u3": 1792258543037,
-    "threads:DemDitjkxAW": 1792258543037,
-    "threads:DemOPYBAE6M": 1792258543037,
     "news:CBMiyAFBVV95cUxNa3lWRlUtVlZocHloa2dmd2JFM0RjdG1QSVZGNExCbjY0QklYWVUwWVFVb3dtYmQ1Wk5NcVdJOHMzcHItcTYtalVGMDZSaDlBc09PeXVRSG1EM1drTHVsMGdOTzdVa0RSbzV6bFJWNWJNV3F2RVp0MFY4RTVzTmtaX3pDakZIWDFIek5keGpfLXgxZnJxWlVqNlVTdFRpSHlmWWJYUmwtblRuS01DUnoxcTY5WElmbklpc0oxVDhpYUROQXQ0dHNzV9IBzgFBVV95cUxNMHlWQVFQcWdZLUl4Q1N2ampWd1RXTWhVQmhaUVZPRWc0RU5XcWp6Uk55eHBVT3ZQdzZXakxzZXplbTAxTzM5ZmczS0RsQUNvZjNqU0J6bTBxTm9YZlVaMXY2ZUw0OW03YXFyY1E1Wi1yQW5NX0dGZVNwTG5wRjQ1OEFYS3dMUU92cWtzeUxXSGZxZWV0aHVPYnlBbEJGY1dOVGV0UkNscl83cjFEWnpTMHBLMnpMRE1ENzZVUWRYV0FxdTdVSlFZbWJUZktPUQ": 1792258839594,
     "news:CBMie0FVX3lxTE9pOFFhRXgyWTNhbXdMM2F2eW5ZX1RBVU9meDY2OHN1SHNxS1JneW1FM3dyNDdBbXYwdDlRQXluUGFwSHlVYm1sdGV3TFZKRE8xb0JoQVdKWklqSEFnTlAxWE9NSXVEWXdQblktdW5TNUFGNm80WWhwYTN5MA": 1792258839594,
     "threads:DdGARyMkiEi": 1792259142393,
@@ -25226,39 +25222,19 @@
     "threads:DfKramPofL-": 1793467846955,
     "threads:Dexx_WqCi_e": 1793467846955,
     "threads:DYhTcd-kvo4": 1793467846955,
-    "threads:DYezK_FlG3J": 1793467846955
+    "threads:DYezK_FlG3J": 1793467846955,
+    "threads:DeiFWLLEoBI": 1793468156849,
+    "threads:DejRicfFT13": 1793468156849,
+    "threads:DdQJ3fHGaRj": 1793468156849,
+    "threads:DZtWxwFCcnX": 1793468156849,
+    "threads:DYjNlnyEYXl": 1793468156849,
+    "threads:DZHrSKrE-eN": 1793468156849,
+    "news:CBMingFBVV95cUxQTkNYLXZBU2RIRVhsVXZmWU93V2t2T3o1eDREU0lvNS1IVmxRTkVpNlZXa2FUNjFNdWZiSXhEN1QxZ2MxbGNoNjg5N1ZLLXg5LXhuQzVYbXMwcklmLXR4YmJ4WFJzRWdiWmZxVk9XV3JIdE5WNmdVMm4wQ0htdGRfNE9xS1RQdHdZMHZEY3hJOC11SlpvME9CODVrV29VUQ": 1793468156849,
+    "news:CBMi2AFBVV95cUxQQ0tYeGRneGxJdXdJR2FodXlaZzZMbVl4dGNwMWhpWTROX01BcXhsZW5lcDZpTmM3TEN3aHBJQWFrMWpRX0s2WHlHZk1tbUtaUXBHT2FkYlZ2a215bGJRWGhLZTV5MzZpYk1hMXhvcXBLSVBWUE12QnIzNnlFZVh5ajkzRnJTWmw5R3pDbWJaeHRYZ1hyUVM2VGltTHQydll1VjFDNmdFZ2l6Qjhab3BTNk1CaWthYnVLY3RCaTVaT2c2TXNjVUo5dUZoQ1FKb0RwcTd0WkM2aUg": 1793468156849,
+    "news:CBMi6wFBVV95cUxPUS1rbGpUeXJ5eXB0d3VtSkluQW1DR2tqT1YzYkd1eEY1MUZ3aG5OcXZCNHVOV1hscmNIWjhSX3hQUi1OQXliSndhR0tLM1lYX0pndzhTZV9lenhBZkxlUDhkY2JFVHZqWk85WWJCZmtJOGpoRGVabC1JYXNsVXA3d2VlalJ4SEN0RHJUeWRlZVNpRjZYYnhQdDREaHoyd251OXJsYjZDNVVnS0REREJBRzNSMTlWTmlSSFJYUElBNThfZjlKZjJDSGZVQWhsM0RqbkxFRTBja2hYNmdvU3F4YmlzUDNZMjg0QjRB0gHrAUFVX3lxTE9RLWtsalR5cnl5cHR3dW1KSW5BbUNHa2pPVjNiR3V4RjUxRndobk5xdkI0dU5XWGxyY0haOFJfeFBSLU5BeWJKd2FHS0szWVhfSmd3OFNlX2V6eEFmTGVQOGRjYkVUdmpaTzlZYkJma0k4amhEZVpsLUlhc2xVcDd3ZWVqUnhIQ3REclR5ZGVlU2lGNlhieFB0NERoejJ3bnU5cmxiNkM1VWdLREREQkFHM1IxOVZOaVJIUlhQSUE1OF9mOUpmMkNIZlVBaGwzRGpuTEVFMGNraFg2Z29TcXhiaXNQM1kyODRCNEE": 1793468156849,
+    "news:CBMixAFBVV95cUxOR2RHTkpfcDdsTnp6YXFTb0dmLXpvMXE5aFIyVm4ySzM1dllWTXUtYlA0d0tocXVjbVJCZExsaXZ6VFZnMmU5alBJTjRFWFVjcE4zM2V1Z2FzSnlocEN1ckJGc2x6WVJjeGJNRVQyUjlpcHpzS3U2SWhjUDd0TERsVENDYjhoMDRlZjhNV0UtRTNyTGFFZllVNlkzVF9CMjBkRlJUYmZzT1U5S0oyQXhOaUp1eUxJTDB4LVBKVVYtZXRBV1Qz0gHEAUFVX3lxTE5HZEdOSl9wN2xOenphcVNvR2Ytem8xcTloUjJWbjJLMzV2WVZNdS1iUDR3S2hxdWNtUkJkTGxpdnpUVmcyZTlqUElONEVYVWNwTjMzZXVnYXNKeWhwQ3VyQkZzbHpZUmN4Yk1FVDJSOWlwenNLdTZJaGNQN3RMRGxUQ0NiOGgwNGVmOE1XRS1FM3JMYUVmWVU2WTNUX0IyMGRGUlRiZnNPVTlLSjJBeE5pSnV5TElMMHgtUEpVVi1ldEFXVDM": 1793468156849
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bansos BPNT Tahap 2 Susulan Akhirnya Cair, KKS Mandiri Terima Rp600 Ribu - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXpLak40aEJaMTd1SHJSc3ZaTFRVSEl1WlBwTzJsc0MxSURPckRFZUpsZjdNRFZFczBWMV8tR00zb014ZTJHN2RjNlF4c0ZJODE3eTJSN21MQTREc1cwcWhHa2ZtTlhRWVZadVFZb09fdmJBMnJQMW5EczBDSTN2Mm9KdUwtWGpiX3RCLVAyUWF1N3IyWUhEMHFWeDdQTVMwdkt1SWtCUi1BV09rcTZqVXFRcnc0bTM4d3VzctIBwgFBVV95cUxQc29vSkR3bmZ0OEppaGotUFFxRzYyckFWYXlhblFwYVE4d1gzNURhYmdVcUc1bTdhTzcyMWN6OG80eUNYZ3AtaWVIWVZnRHZuUHBkbE5zUGhTYmR1VUlDbzdEdmtPTVhBUnVHMVdCaFh0c1IySlRRN0poanRpVFp5N0ZqVmJ1dzFkWnMzWEI3UlN3OE9ETWdLemRTc1BlU0laQkZqeTQwNGtjOGtKVUtXYWs3U05hNXlYOEFQa3doR294QQ?oc=5",
-      "d": 1793431100000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Kabar KKS Akhir Oktober, Bansos BPNT Tahap 4 Sudah Verifikasi Rekening - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjNNU3Z6a3Y5clFEeWt3WG5TdnV1NWtoZlFOekdZRWZvWlRycEozRUIwZ1NqWWxrd2VXTXgyYkRZVnpNUVFxNWkwVjQzNFY1NUlhWGxFaUFpY2NuemNtcTBEcTJrMWdaTFJDR0dPeW9DR0x1U0ZYd3Y3UGxkOGZtWGdaMnpOM2cydDhYNFB3Rlg3QVpxQVUySHFZcWh3a016b0MxN2J4Z0RSN0I2MlVkdDYwckZzR3hsV0HSAb8BQVVfeXFMTk9CbzV4UzRGMmtrVkE1dHI2WVNxR0RmdEpaWEt2YzIwYkNfVnR4S0k2TGRZZ3psS1BSb19oMWtSZXd1R3RKTnR3N0ZueXlaTzFVU0M0SG5hNDRyczF0NFIzSm5oSlZGYXZyYUQ0U1l2M2ZzWHZGcl9ibktoTkZrTG90NHBQTzF4QWtTZnFQbW9oU0tVcEtUS3pPMHRwalIxbVlVRGhNWVFBV1VkM3NZYXF0bUw4dEFuMWFfaXp5Z1E?oc=5",
-      "d": 1793440547000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Faktanews24",
-      "x": "BPNT Tahap 4 2026 Rp600 Ribu Masuk Verifikasi Rekening, Cek Status Penyaluran PKH dan Bantuan Pangan Beras - Faktanews24",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcmtJRUdmalZmRUlfcE9SY2dRN0Y5Q3Y2RVlMcUJGRzlzS2lndWp2dHdXTVUwc3BJajFnd21fc0NTRVE0TzZhLWg3anRaZ0M0b0tHVlltR0s4NEhNSlgyejVHX08zVTdZLU5WeU93a193dmloTHNjRURqUEFLOHBUSC1CQUNvcGRWaFpJY1djbklvcHNjWmxVempPU016NmdXYjM0YmNoQktPbWZXajVzSnNMY0RGNGw1OGdsQ1VnN3BMR05Bem8xUnhhTndRR1NwaDRtTVhRZEQzR0lZWXppZ0Vn?oc=5",
-      "d": 1793456135000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26728,10 +26704,40 @@
       "d": 1793450760000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "GOW Kota Cilegon Gelar Pelatihan Public Speaking untuk Perkuat Kepercayaan Diri Perempuan - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ0tYeGRneGxJdXdJR2FodXlaZzZMbVl4dGNwMWhpWTROX01BcXhsZW5lcDZpTmM3TEN3aHBJQWFrMWpRX0s2WHlHZk1tbUtaUXBHT2FkYlZ2a215bGJRWGhLZTV5MzZpYk1hMXhvcXBLSVBWUE12QnIzNnlFZVh5ajkzRnJTWmw5R3pDbWJaeHRYZ1hyUVM2VGltTHQydll1VjFDNmdFZ2l6Qjhab3BTNk1CaWthYnVLY3RCaTVaT2c2TXNjVUo5dUZoQ1FKb0RwcTd0WkM2aUg?oc=5",
+      "d": 1793467062000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Bali Express",
+      "x": "Dua Tahun Kabinet Merah Putih, ATR/BPN Hadirkan Mobil Layanan Keliling, Urus Sertifikat Tanah Makin - Bali Express",
+      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUS1rbGpUeXJ5eXB0d3VtSkluQW1DR2tqT1YzYkd1eEY1MUZ3aG5OcXZCNHVOV1hscmNIWjhSX3hQUi1OQXliSndhR0tLM1lYX0pndzhTZV9lenhBZkxlUDhkY2JFVHZqWk85WWJCZmtJOGpoRGVabC1JYXNsVXA3d2VlalJ4SEN0RHJUeWRlZVNpRjZYYnhQdDREaHoyd251OXJsYjZDNVVnS0REREJBRzNSMTlWTmlSSFJYUElBNThfZjlKZjJDSGZVQWhsM0RqbkxFRTBja2hYNmdvU3F4YmlzUDNZMjg0QjRB0gHrAUFVX3lxTE9RLWtsalR5cnl5cHR3dW1KSW5BbUNHa2pPVjNiR3V4RjUxRndobk5xdkI0dU5XWGxyY0haOFJfeFBSLU5BeWJKd2FHS0szWVhfSmd3OFNlX2V6eEFmTGVQOGRjYkVUdmpaTzlZYkJma0k4amhEZVpsLUlhc2xVcDd3ZWVqUnhIQ3REclR5ZGVlU2lGNlhieFB0NERoejJ3bnU5cmxiNkM1VWdLREREQkFHM1IxOVZOaVJIUlhQSUE1OF9mOUpmMkNIZlVBaGwzRGpuTEVFMGNraFg2Z29TcXhiaXNQM1kyODRCNEE?oc=5",
+      "d": 1793406524000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Desil DTSEN Tiba-Tiba Naik? Ini Penyebab Bansos Hilang dan Cara Sanggahnya - Bicara Network - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2RHTkpfcDdsTnp6YXFTb0dmLXpvMXE5aFIyVm4ySzM1dllWTXUtYlA0d0tocXVjbVJCZExsaXZ6VFZnMmU5alBJTjRFWFVjcE4zM2V1Z2FzSnlocEN1ckJGc2x6WVJjeGJNRVQyUjlpcHpzS3U2SWhjUDd0TERsVENDYjhoMDRlZjhNV0UtRTNyTGFFZllVNlkzVF9CMjBkRlJUYmZzT1U5S0oyQXhOaUp1eUxJTDB4LVBKVVYtZXRBV1Qz0gHEAUFVX3lxTE5HZEdOSl9wN2xOenphcVNvR2Ytem8xcTloUjJWbjJLMzV2WVZNdS1iUDR3S2hxdWNtUkJkTGxpdnpUVmcyZTlqUElONEVYVWNwTjMzZXVnYXNKeWhwQ3VyQkZzbHpZUmN4Yk1FVDJSOWlwenNLdTZJaGNQN3RMRGxUQ0NiOGgwNGVmOE1XRS1FM3JMYUVmWVU2WTNUX0IyMGRGUlRiZnNPVTlLSjJBeE5pSnV5TElMMHgtUEpVVi1ldEFXVDM?oc=5",
+      "d": 1793451360000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
