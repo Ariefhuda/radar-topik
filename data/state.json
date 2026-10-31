@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dem1ggdlZZ9": 1792265138986,
-    "threads:DemZIhVGJHe": 1792265138986,
-    "threads:Dem2ctwHSyh": 1792265138986,
-    "threads:DGW85I1BrY7": 1792265138986,
-    "threads:DIGun5nyGVQ": 1792265138986,
-    "threads:DeHppp2EwaN": 1792265138986,
     "threads:DSnCpZpki5B": 1792265456699,
     "threads:DX74AjOgdTO": 1792265456699,
     "threads:DGkkvghSDit": 1792265456699,
@@ -25383,7 +25377,21 @@
     "threads:DN2jDqG5gSf": 1793474065045,
     "threads:DeAv3QrE5Co": 1793474065045,
     "threads:DXFxEKsAZht": 1793474065045,
-    "news:CBMi5AFBVV95cUxNeVU1anhrR2MwWmthaWNXUXRFcVZReFBZaU5IN0dacFhRUnBqdWNDVlZkVGlmazB4TkZ0MmtlVmdMakIyRTZ3MnRFMkI5b2lYaVZGc2FfOF95UGdHWFdsUnZzVzBfR3ppbDBPZ24zMVByR25MMlNCdW5nbktDdkxPM3lmMW03QnBldHZPeFY0MVR6TnVxQWZ0Y0pjLWgzNWpUVG9Ra1ZqUVFDMGNMaVR3WXpIcGxsTHIwVHQ1TGk3eVJqaVNmNDV1S09tVGRfN2hBc3RVSHk2ZDdGVEJOSGRxTUlyV0U": 1793474480793
+    "news:CBMi5AFBVV95cUxNeVU1anhrR2MwWmthaWNXUXRFcVZReFBZaU5IN0dacFhRUnBqdWNDVlZkVGlmazB4TkZ0MmtlVmdMakIyRTZ3MnRFMkI5b2lYaVZGc2FfOF95UGdHWFdsUnZzVzBfR3ppbDBPZ24zMVByR25MMlNCdW5nbktDdkxPM3lmMW03QnBldHZPeFY0MVR6TnVxQWZ0Y0pjLWgzNWpUVG9Ra1ZqUVFDMGNMaVR3WXpIcGxsTHIwVHQ1TGk3eVJqaVNmNDV1S09tVGRfN2hBc3RVSHk2ZDdGVEJOSGRxTUlyV0U": 1793474480793,
+    "threads:DYCOURAjj0O": 1793474736183,
+    "threads:DfK4mVnE4pK": 1793474736183,
+    "threads:DfK58BOktxG": 1793474736183,
+    "threads:DfK54F-HcZH": 1793474736183,
+    "threads:DfK54LvEhbf": 1793474736183,
+    "threads:DfK50H2Ce45": 1793474736183,
+    "threads:DfK5wElm0bl": 1793474736183,
+    "threads:DfK5swJEjIt": 1793474736183,
+    "threads:DfK5qBvEyJM": 1793474736183,
+    "threads:DfK5avWkhYH": 1793474736183,
+    "threads:DfK5RqcEuIe": 1793474736183,
+    "threads:DfK5Ll4En4G": 1793474736183,
+    "threads:DfK5Cp_EyKf": 1793474736183,
+    "threads:DfK4tosEkcE": 1793474736183
   },
   "digest": [
     {
@@ -26888,7 +26896,7 @@
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
