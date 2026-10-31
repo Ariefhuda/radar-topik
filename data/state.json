@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DemvHh8n4Q4": 1792261851392,
-    "news:CBMixAFBVV95cUxQOEhPWUNzNTRhUG1BNjJXbFBURlhuRWtkZVdzWmpJMnR2Nng3aGllNDBSOE9xV2J1eHpNeXptbEllTjhSdjZSanAtMWpZRWVkR0gwSEd1dEVJTDJHbUgwM05IdG5JV1pzUkpiUHdEUzFkWEl1VWhKWVRjaEJSRVB4UU5scW9qbHhnTWlsd3RzUENqRDNJWlQzOEVYbzJGTW1vVkxuWHRxYk5kZFdJMzVfb3NobW80YlZXYXBDYnV3aU16NlJS0gHEAUFVX3lxTFA4SE9ZQ3M1NGFQbUE2MldsUFRGWG5Fa2RlV3NaakkydHY2eDdoaWU0MFI4T3FXYnV4ek15em1sSWVOOFJ2NlJqcC0xallFZWRHSDBIR3V0RUlMMkdtSDAzTkh0bklXWnNSSmJQd0RTMWRYSXVVaEpZVGNoQlJFUHhRTmxxb2pseGdNaWx3dHNQQ2pEM0laVDM4RVhvMkZNbW9WTG5YdHFiTmRkV0kzNV9vc2htbzRiVldhcENidXdpTXo2UlI": 1792261851392,
     "threads:DZgtZuREUt3": 1792262141516,
     "threads:DemwlGGEtM9": 1792262141516,
     "threads:DemwKWoE5S3": 1792262141516,
@@ -25286,19 +25284,36 @@
     "threads:DfHHQBcDyyj": 1793471139179,
     "threads:DcTNWFEn-hC": 1793471139179,
     "threads:DcTPidAkv1c": 1793471139179,
-    "news:CBMimgFBVV95cUxQMXBUM2hBTUNUOF9PZGNwNmRiWFBodXVGZl81aUlQbHJ1RmE3ZTNyUjBKZUNSVV8zeVBQVU1ObGp6TTVfT0FBMXppQ3VpNlQwR0xGeTJ0ZjdPQ19FbUs5OFltOVpvaVlBTmZBQUdaZW9NNmFLamRUNk81NWw5OWljZmlnUjY2Vmd0Z2lZb3UwV2FMc1Y3aFZPRWZB": 1793471139179
+    "news:CBMimgFBVV95cUxQMXBUM2hBTUNUOF9PZGNwNmRiWFBodXVGZl81aUlQbHJ1RmE3ZTNyUjBKZUNSVV8zeVBQVU1ObGp6TTVfT0FBMXppQ3VpNlQwR0xGeTJ0ZjdPQ19FbUs5OFltOVpvaVlBTmZBQUdaZW9NNmFLamRUNk81NWw5OWljZmlnUjY2Vmd0Z2lZb3UwV2FMc1Y3aFZPRWZB": 1793471139179,
+    "threads:DViQNwoDULb": 1793471449308,
+    "threads:DZhUGx5iTyH": 1793471449308,
+    "threads:DN40rWOk5dy": 1793471449308,
+    "threads:DVyENVTDwR-": 1793471449308,
+    "threads:DOSNGt8gMin": 1793471449308,
+    "threads:DdQU2wxmtDt": 1793471449308,
+    "threads:DRlZayaku0k": 1793471449308,
+    "threads:DLje_swPByt": 1793471449308,
+    "threads:DfIHKVBlJFE": 1793471449308,
+    "threads:DeMmGKuD2ib": 1793471449308,
+    "threads:DW-496qEaFr": 1793471449308,
+    "threads:DQzKJQOEXoU": 1793471449308,
+    "threads:DatwXZ5lf8e": 1793471449308,
+    "threads:DS5uzX9DnCH": 1793471449308,
+    "threads:Db_QUmAmuca": 1793471449308,
+    "threads:DYBRgQSkcP4": 1793471449308,
+    "threads:DfKyykykq27": 1793471449308,
+    "threads:DdDLExQo9MJ": 1793471449308,
+    "threads:DfKzG3wn9e_": 1793471449308,
+    "threads:Dd-hbTuGvKb": 1793471449308,
+    "threads:DfKzlVunFEf": 1793471449308,
+    "threads:DfKzUgIDSq8": 1793471449308,
+    "threads:DfKzG5VoW1-": 1793471449308,
+    "threads:DfKzBmYnOhz": 1793471449308,
+    "threads:DfJxFsWFs-v": 1793471449308,
+    "threads:DfKKtPjoDVz": 1793471449308,
+    "news:CBMi5wFBVV95cUxQZGR1ZGFfMXZyNlpNeEVOckIyUkNNN05pbnNoX1ltZ1ZMczlvZ1p6cEswZ2hWRnhlWTVwaHZ0LXJYVWI4Sk8tZVI5M01IaV9EdEU3dHFWRl9kMGY5NGg4UWl6SnZqT21NeDA1NmNacEY1TUtHOVJkUnRZMXg0eFc3WFI2S21ZbzhIV0NWZzQ0bHduWGhNREFGODBmejdsdEQtd0UtaHRaNG5odGlrejFZVW40bzJueHBXX0F3LXJKLWxMVGhZRXRYbzRXMHV5UFdQMjJJSjJiMk4wUi1lcVRkX1lXOFNUbmvSAewBQVVfeXFMTTZ0dXEyU2lxbXpPRVdkejFwNFlyUUxsemZsa1p6R05uc3ZEQkdWcG9HbzNpU1hWa0RabGR6Njk0T1g2VklyTDhmQTVGTzlyNmhtTmh3bVR6WnN6bTJ4VE1WYlNnQVowcUhzekx4M1IxeHlwOEtvc2dTcHh6dFRwTmNWM1ZpNUhUUkwwQ0t2RUI2NDVPR3c4LURXUjJnaUhQZmRSNndyM2I5NW1MVkNDZzd6VGRsUVpkU0s4dDlHeFo1Q0lQZFNXTGp3OVA5NkJyTGlvY2tsUmMyaXhUU1B0TGFZSUFVSER4c0FtUDg": 1793471449308
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bank Penyalur Bansos Tahap 4 dan Kabar Resmi BSU Rp900.000 2026 - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzZxNFNURGxrd0F6NkUwbDNNMXJPNnhPUi1EOFQ1QUZWOTJaWk9VUFFUbHV5eDNMOXFPV2NpTlV0YlpyMlRIQmdjU05abmFvb09fLUg2OWViWU9fVV9xQkhCWWQyaFNUTlkzbkQ5eGJDN3I5MU9YNGRhQ0pHZ3BUVnllUG1NbFMzcy1PaG9OZE5xNkZXWThRNEs0ZWt6Y0Y3T29PX1VrSElmOWtZbjRlatIBtgFBVV95cUxQUU03WG1rTldwNUdHcG5SclNBSDlhSmpQMl9Db1JzQWFiXzhxcUFPUEZaamtEbFVZX0pmbEYxbW1Fb3lWWE5CaFFrNUxYUHlZemVNREhWOHNzbXZ6dHpNWEQyWjdLZWxValpySG5ILTh0MnU5QWkxaFlxSzA4UjMybU5zZGNFbHRFZkxfZFJVS1g2QTlSMm56Z3A5bFZJaFRuUmxWSlFlZG4xS05oQkRScl80Z19sQQ?oc=5",
-      "d": 1793403896000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26788,10 +26803,20 @@
       "d": 1793463739000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Solo",
+      "x": "Cara Cek Desil Online untuk Syarat Penerima Bansos Oktober 2026: Cukup Ketikkan NIK, Masuk Kategori Mana? - Radar Solo",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGR1ZGFfMXZyNlpNeEVOckIyUkNNN05pbnNoX1ltZ1ZMczlvZ1p6cEswZ2hWRnhlWTVwaHZ0LXJYVWI4Sk8tZVI5M01IaV9EdEU3dHFWRl9kMGY5NGg4UWl6SnZqT21NeDA1NmNacEY1TUtHOVJkUnRZMXg0eFc3WFI2S21ZbzhIV0NWZzQ0bHduWGhNREFGODBmejdsdEQtd0UtaHRaNG5odGlrejFZVW40bzJueHBXX0F3LXJKLWxMVGhZRXRYbzRXMHV5UFdQMjJJSjJiMk4wUi1lcVRkX1lXOFNUbmvSAewBQVVfeXFMTTZ0dXEyU2lxbXpPRVdkejFwNFlyUUxsemZsa1p6R05uc3ZEQkdWcG9HbzNpU1hWa0RabGR6Njk0T1g2VklyTDhmQTVGTzlyNmhtTmh3bVR6WnN6bTJ4VE1WYlNnQVowcUhzekx4M1IxeHlwOEtvc2dTcHh6dFRwTmNWM1ZpNUhUUkwwQ0t2RUI2NDVPR3c4LURXUjJnaUhQZmRSNndyM2I5NW1MVkNDZzd6VGRsUVpkU0s4dDlHeFo1Q0lQZFNXTGp3OVA5NkJyTGlvY2tsUmMyaXhUU1B0TGFZSUFVSER4c0FtUDg?oc=5",
+      "d": 1793450749000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
