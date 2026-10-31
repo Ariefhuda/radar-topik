@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DUmd6aegbus": 1792268441070,
-    "threads:DZs_2dmGCDt": 1792268441070,
-    "news:CBMingFBVV95cUxQeFU5M01Mcm5sdm9BNUdkdmRiQkV0OWtVdEtiSnJJNmZxQTdaZlRGQjJPd1EwajRQQURybjZXU0w1QVZPVWswZWNhRFpGejVzMEtWUW5KdnZDNjBSVWRzRXVsUjFsdlZqeDhjWjY4b2ptaFhZNDRIUlI1MGxjVm5zZmRyWUFxRlVtb1A4V1pjblQzb0J0aDJZS1ZxSGZLUQ": 1792268441070,
-    "news:CBMiuwFBVV95cUxQcWRBZHFraG41YUZFT2Jlc2FxNlQxUmJVMlFfOE10OTZ0NHJmeVJwOVhqM2lmdDRWVEtOSmZIUXEzTlFCbUN1UU1RVFV4M0hPb0ZzQmljT1FQNkVKRENWRUIxck9RZllJVXktQ1A2UUJYcjViWVBLYjI1aHgxZU11SmdfRHp0SnFaSUpLUHNacFdaWWRTazRucGlTaUFaOWU0TFZLZlBTeVdCTHFZWF9rdDhJYUg0X08tTlY4": 1792268441070,
     "news:CBMi2gFBVV95cUxNRnlmSVA3N25jV3ZYb2Z1ZmJJNVRFbzJhOWVycXN6VGhKZ05xYThUMEpXWU5zTENKMW9WbF9YVTljMGlwQ1FBQS1IaVZ4U2JKUDdpSDhkMVYwaHU5SzRQdzJZV015VHRXUW9xQVRfZktRNEhKb2V6dWtMenJXMm15MW5NUWhfckxJWHJ6NU9zZGU1dFVCdUwzQVFSNlFkVmJwS2w2ZElZZ0p2SWNvSWtZbzFNOWVnYWpRMnpwT0hvc1pON2lNSkg3TjhZZ3NGS2tVRmxodDNsNGF0Zw": 1792268743228,
     "threads:Dem86n7oIQF": 1792269046833,
     "threads:Dem9v_4k6XZ": 1792269046833,
@@ -25426,29 +25422,16 @@
     "threads:DfK-7wKjw-Q": 1793477740036,
     "threads:DfK-yJCnLV5": 1793477740036,
     "news:CBMilwJBVV95cUxQUnhvTURUTGpfNXJYWnNzZHIxTWY0aGtfSk1meXlrWHVsT18wbVA4cmhvV2VBQTA0eG1xMlNEbVd2WlZXYy1UZG5YbkJtSWZQaGRmQ2dIWGFTUDZtdnV1TnVHRFYwRmM4ajN1aXBUeWNPOFhDaFNyUmh5SEtuNVRoOWthckliZlhfZ25wcFQwS1RBS2ZjYmdHR0JOVzBFcHRTZkN6Z2QwSDdYNDM4ak9FTHpUWnZIUG9sajd3VFpWRFlfZ1U1dFdieGtnbjQzZXpDVWRmdGgwYjdOVWhnM3EzR3U1Q3VDZEhHMWpQdmd3X0c5bXRaRmNpTW0yRVFGY0lzZVdzdUhRSmpKX1JVX0J1bUtuTHl0eXc": 1793477740036,
-    "news:CBMiuwFBVV95cUxNX2tqS3dzS0hmMEFuVjVnY09YbW0xaVREUmpSWkpSSnI1WFhGSHdBUEtKSlNQa2llQ1plNTZROHgyOV9ZUjJGbUtpS3RfemxacmFqVnBBczBXT3VNQlY4RC1pRDRJclhvZTM1blliQUdaLXY1Q0pxazlkV1hnUkxjU1U0ckdPWkt0VTBFYUxIcEtOTzNZa09rT1Nrd0U4dnBHV1pmNkYyb0lDZVZXM25IS0ItWWlJZVhKZG1Z0gHAAUFVX3lxTE9FR1A3bWxEUVFrMmNvLVhURkhjRjNZOW1yNjZnNGhqLTVpNF9xYmJTRVVaUVVVMkRSWTVSdTlFNjF4bEpJaC10ZzI5ZkpYYmtXMTJVNzZialNLRGN3QnR6cldSR0YtZjRsaktUb1d4TndjSHFEdV9BcU9sa3NJbXdmM2h5OWI2cWE2cFRienZ2LVpvM1lrQ0xsRkZ5a3N4VGE3Vzlmakhaa2tIUGNudkVzUlBfLXRWSER6aEhyT3ByMg": 1793477740036
+    "news:CBMiuwFBVV95cUxNX2tqS3dzS0hmMEFuVjVnY09YbW0xaVREUmpSWkpSSnI1WFhGSHdBUEtKSlNQa2llQ1plNTZROHgyOV9ZUjJGbUtpS3RfemxacmFqVnBBczBXT3VNQlY4RC1pRDRJclhvZTM1blliQUdaLXY1Q0pxazlkV1hnUkxjU1U0ckdPWkt0VTBFYUxIcEtOTzNZa09rT1Nrd0U4dnBHV1pmNkYyb0lDZVZXM25IS0ItWWlJZVhKZG1Z0gHAAUFVX3lxTE9FR1A3bWxEUVFrMmNvLVhURkhjRjNZOW1yNjZnNGhqLTVpNF9xYmJTRVVaUVVVMkRSWTVSdTlFNjF4bEpJaC10ZzI5ZkpYYmtXMTJVNzZialNLRGN3QnR6cldSR0YtZjRsaktUb1d4TndjSHFEdV9BcU9sa3NJbXdmM2h5OWI2cWE2cFRienZ2LVpvM1lrQ0xsRkZ5a3N4VGE3Vzlmakhaa2tIUGNudkVzUlBfLXRWSER6aEhyT3ByMg": 1793477740036,
+    "threads:DfLACuKDWzQ": 1793478038451,
+    "threads:DfK_TTeCOEf": 1793478038451,
+    "threads:DfK-2t9E8H2": 1793478038451,
+    "threads:DchiOcZE-E1": 1793478038451,
+    "threads:Ddtd9aRE-wX": 1793478038451,
+    "news:CBMi8AFBVV95cUxNQTRhNTNldUxLb1ZHVWhySlFvSWRwTGZDMFE5aFZkcXQxQnMyc2lkdS01V01lRTBwZEpYYW9NSXJwOU5Od0FHSFQ0aHRpbVBFWTBKQjNlMktYNGVVdTBXMF8zcWRoa0hMX3hxSEtOOGFiTDhuRHJPcy1DRmdWMi1xdnU5NVlJc09jWkJkUnExa2xrZFFweWg4bXI4cjlZTXVrcEtLdy02NHhCVVhjM2lnYzhkZVJoOHppckVTdzdibE1EeXNjaDFrQUZPSTlzQkxjT3pzTUNoR2Z3UDVMZHhudEtRcEFiRDJIZUtkVGpuVUzSAfABQVVfeXFMTUE0YTUzZXVMS29WR1VockpRb0lkcExmQzBROWhWZHF0MUJzMnNpZHUtNVdNZUUwcGRKWGFvTUlycDlOTndBR0hUNGh0aW1QRVkwSkIzZTJLWDRlVXUwVzBfM3FkaGtITF94cUhLTjhhYkw4bkRyT3MtQ0ZnVjItcXZ1OTVZSXNPY1pCZFJxMWtsa2RRcHloOG1yOHI5WU11a3BLS3ctNjR4QlVYYzNpZ2M4ZGVSaDh6aXJFU3c3YmxNRHlzY2gxa0FGT0k5c0JMY096c01DaEdmd1A1TGR4bnRLUXBBYkQySGVLZFRqblVM": 1793478038451,
+    "news:CBMigwFBVV95cUxQM3ZXRHVvdGk1NU9rWFhHSGtRdm9lcV8tQm96MmNBQUFreTV4X1FvcThjZmNwd0U0cUZSYjJoWmJPcUZ6RnYyVlQ2ZERrREplOTIzQ0txckdaejR4eDhlTWk1RFhuQWhJTTF0bDF6cXdrZWx3UFM0Um56MEc3ZHl6ZHQxTQ": 1793478038451
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@drepurnomo",
-      "x": "belajar disini saja QGIS gratis MOOC nanti bisa gabung acaranya atau pelatihan lain",
-      "u": "https://www.threads.com/@drepurnomo/post/DfKMTifCYJl",
-      "d": 1793450871000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@afifkemalr",
-      "x": "mantaap kaa, tapi hasilnya nanti insyaAllah gak akan receh hehehe btw ka tadi ada kelas gratis 7 hari membangun di Threads, apa kaka mau ikut gabung? kali aja jadi salah satu jalan",
-      "u": "https://www.threads.com/@afifkemalr/post/DfKdks-j-BU",
-      "d": 1793459924000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -26928,10 +26911,30 @@
       "d": 1793448000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Portal Pekalongan",
+      "x": "Ada Beasiswa Guru Madrasah Diniyah, Terbuka untuk Jenjang S1 dan S2, Apa Saja Syaratnya? - Portal Pekalongan",
+      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQTRhNTNldUxLb1ZHVWhySlFvSWRwTGZDMFE5aFZkcXQxQnMyc2lkdS01V01lRTBwZEpYYW9NSXJwOU5Od0FHSFQ0aHRpbVBFWTBKQjNlMktYNGVVdTBXMF8zcWRoa0hMX3hxSEtOOGFiTDhuRHJPcy1DRmdWMi1xdnU5NVlJc09jWkJkUnExa2xrZFFweWg4bXI4cjlZTXVrcEtLdy02NHhCVVhjM2lnYzhkZVJoOHppckVTdzdibE1EeXNjaDFrQUZPSTlzQkxjT3pzTUNoR2Z3UDVMZHhudEtRcEFiRDJIZUtkVGpuVUzSAfABQVVfeXFMTUE0YTUzZXVMS29WR1VockpRb0lkcExmQzBROWhWZHF0MUJzMnNpZHUtNVdNZUUwcGRKWGFvTUlycDlOTndBR0hUNGh0aW1QRVkwSkIzZTJLWDRlVXUwVzBfM3FkaGtITF94cUhLTjhhYkw4bkRyT3MtQ0ZnVjItcXZ1OTVZSXNPY1pCZFJxMWtsa2RRcHloOG1yOHI5WU11a3BLS3ctNjR4QlVYYzNpZ2M4ZGVSaDh6aXJFU3c3YmxNRHlzY2gxa0FGT0k5c0JMY096c01DaEdmd1A1TGR4bnRLUXBBYkQySGVLZFRqblVM?oc=5",
+      "d": 1793455200000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "feedberry.com",
+      "x": "Desil DTSEN Jadi Gerbang Bansos — Cek via NIK KTP - feedberry.com",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3ZXRHVvdGk1NU9rWFhHSGtRdm9lcV8tQm96MmNBQUFreTV4X1FvcThjZmNwd0U0cUZSYjJoWmJPcUZ6RnYyVlQ2ZERrREplOTIzQ0txckdaejR4eDhlTWk1RFhuQWhJTTF0bDF6cXdrZWx3UFM0Um56MEc3ZHl6ZHQxTQ?oc=5",
+      "d": 1793453434000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
