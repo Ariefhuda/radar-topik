@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DenOOWYgQOF": 1792277738748,
     "threads:DenOdtCGqkb": 1792278054743,
     "threads:DenPNZkGVpF": 1792278054743,
     "threads:DenM2KIk9qo": 1792278054743,
@@ -25549,19 +25548,13 @@
     "threads:DC4XHOwy7cM": 1793487040538,
     "threads:Dds8Vf4ib3H": 1793487040538,
     "threads:Dd447pwiofl": 1793487040538,
-    "news:CBMiZ0FVX3lxTFBuY1A3bkFkLWVSa2Q0YVoyV05RTEVuQkN2aHcyU1JsNWFkN1ZvRmIwUGF3b1FaWVNrc09DcXo1RXZSMUtCa3JhR3NkYnpuSlFYOU54anp0SVJlTlBGRnhWTm1PbVpJbEU": 1793487040538
+    "news:CBMiZ0FVX3lxTFBuY1A3bkFkLWVSa2Q0YVoyV05RTEVuQkN2aHcyU1JsNWFkN1ZvRmIwUGF3b1FaWVNrc09DcXo1RXZSMUtCa3JhR3NkYnpuSlFYOU54anp0SVJlTlBGRnhWTm1PbVpJbEU": 1793487040538,
+    "threads:DcDx-A3FNZZ": 1793487362303,
+    "threads:DT9SRTZk-Uy": 1793487362303,
+    "news:CBMitgFBVV95cUxNNWRBbUFCdklGWlRTREh2UVVCeGZLcGMxbFZ4OGl4ZE1iN3UxWU0zZ1JaMVdVakR4b2tXYVhCMDNXRDVmUnBBUXloODJYRjlnWjl5NGdmVjF4NFU1bmk3aXFpRWZrTXI3MGVUME8zdEZ5VU1ta0Rlc1pCNmk5NkVGSWUybXVxNzFlNG0tbGhqSDUyVk1ZM3l6WVJqalpFMWNVei1UYXJsc2JPMV82X3N5aEVjRXp2QQ": 1793487362303,
+    "news:CBMiwAFBVV95cUxPcUw5cFBlSWx6TGR1cjJyN3VWYS04OUdkSnF3V05ydHk5WV8zcnM4aWQzRzRYeWF6ckNtTFBNZncwUUlULVRlcFZ0RVZwQW9KNGNOYUdMYjBCaDJDZ00xREtVT0ZZc2hOZFF0ZUxjVTlWSkpuRDZlS3U4ZU1YV2pSRzdWVnFvdmZ6bERmZWt4ZDhSdGhybklPcFU4cnRKSVlDalIyNzdCQkN5dEExdnBNWmpKZU9NVk5hc1lxY1JvQ2vSAcYBQVVfeXFMUEJSMmRJdXY5bTZfQXhtUEJsdjZEZGVZWE1qZ1FVLTZMU1lpeXBUekVsMi12aTB4a3ZMY3NNcFZaWnVacTF5THZvcFFCVTN6NlhHYWJTOWlxLW00d2tHNERJaDdGN2ViT2hyM1Z1TzFBZWxEVmJYTUppWGJXY1hmVUV4T3Q4WWVfVzZBYVVmOTBoWGgwZUh5aUJrZVV3T3RZVlhfb0paM3JTMVhUS2NBOC05d0RsTHRRbVc4WU0yRmNXRzRacmZ3": 1793487362303
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@anisamaaay",
-      "x": "Pinter tuh dimanfaatin buat nyari beasiswa buat bisa kuliah, bukan buat nyalahin pemerintah!! Aku kuliah modal 100rb doang buat bayar uang pendaftaran sbmptn. Sisanya alhamdulillah",
-      "u": "https://www.threads.com/@anisamaaay/post/DfJhHVUEs0S",
-      "d": 1793428226000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27051,10 +27044,20 @@
       "d": 1793463900000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "BNPT Tahap 4 Diprediksi Cair November 2026, Cek Status Keaktifan KPM Bansos - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUw5cFBlSWx6TGR1cjJyN3VWYS04OUdkSnF3V05ydHk5WV8zcnM4aWQzRzRYeWF6ckNtTFBNZncwUUlULVRlcFZ0RVZwQW9KNGNOYUdMYjBCaDJDZ00xREtVT0ZZc2hOZFF0ZUxjVTlWSkpuRDZlS3U4ZU1YV2pSRzdWVnFvdmZ6bERmZWt4ZDhSdGhybklPcFU4cnRKSVlDalIyNzdCQkN5dEExdnBNWmpKZU9NVk5hc1lxY1JvQ2vSAcYBQVVfeXFMUEJSMmRJdXY5bTZfQXhtUEJsdjZEZGVZWE1qZ1FVLTZMU1lpeXBUekVsMi12aTB4a3ZMY3NNcFZaWnVacTF5THZvcFFCVTN6NlhHYWJTOWlxLW00d2tHNERJaDdGN2ViT2hyM1Z1TzFBZWxEVmJYTUppWGJXY1hmVUV4T3Q4WWVfVzZBYVVmOTBoWGgwZUh5aUJrZVV3T3RZVlhfb0paM3JTMVhUS2NBOC05d0RsTHRRbVc4WU0yRmNXRzRacmZ3?oc=5",
+      "d": 1793486631000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
