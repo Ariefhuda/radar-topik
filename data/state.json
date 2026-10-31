@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dem86n7oIQF": 1792269046833,
-    "threads:Dem9v_4k6XZ": 1792269046833,
-    "news:CBMiqwFBVV95cUxOZDFwNndrQ3VKNmg2VF9mQ3V1MHdjMTItX2ZxdTZJQ1hhVHpOLWFFX1YwUFQxM3hRR2x4M0JPampJVWhsZXlDMW1FVWtuWjlzVDUzZGNfVDdnRHFjSUlhbkJ0NE5CN005OGlNdzFIdzVPTHNjcEVGRDRjWkk1Z0xrVmhVMDVQYnJRdDFiTUR3RXhuMXlTUWJnMDVjWi0xVzM3aDRabGpvTWhPTGfSAbABQVVfeXFMTVlxSWVpSUg1ZGxKQjNMbl9FNHNrWTBjQ2VrRVZ1Y0V1WEdlOVpkamdLYXZXU1BtVTlxelA3SHhBY01BRVZ3NGljb0Iycmo0cDV2X0p5aE5rcmZmZUZOZ0xod0ZsLTVzRmpNOUJXbF9tV2hndEJ5WGhiYkhrYW1XM2pKMTJrYnlyTXhpTDloQXBOeDJzMmwxdHJ3blhmeWJSRWFwNFlua1ZUMkx5Z0thQnE": 1792269046833,
     "news:CBMia0FVX3lxTFB4TmV6QlNoZmR3WGNpSEFwY1FObTF3TW1ONzQtS2R0R295YXRFbG43M3djWXlDM2E5RHkwMjVWRS0wbTA3b2dESGZnQ2lMTjNJLWRqc2E0UmVKM1ZfaUFRQmlJTXhmdFdSdDdJ": 1792269452071,
     "threads:Delh9NvjJtr": 1792269641103,
     "threads:DdsitZtkack": 1792269641103,
@@ -25429,29 +25426,27 @@
     "threads:Ddtd9aRE-wX": 1793478038451,
     "news:CBMi8AFBVV95cUxNQTRhNTNldUxLb1ZHVWhySlFvSWRwTGZDMFE5aFZkcXQxQnMyc2lkdS01V01lRTBwZEpYYW9NSXJwOU5Od0FHSFQ0aHRpbVBFWTBKQjNlMktYNGVVdTBXMF8zcWRoa0hMX3hxSEtOOGFiTDhuRHJPcy1DRmdWMi1xdnU5NVlJc09jWkJkUnExa2xrZFFweWg4bXI4cjlZTXVrcEtLdy02NHhCVVhjM2lnYzhkZVJoOHppckVTdzdibE1EeXNjaDFrQUZPSTlzQkxjT3pzTUNoR2Z3UDVMZHhudEtRcEFiRDJIZUtkVGpuVUzSAfABQVVfeXFMTUE0YTUzZXVMS29WR1VockpRb0lkcExmQzBROWhWZHF0MUJzMnNpZHUtNVdNZUUwcGRKWGFvTUlycDlOTndBR0hUNGh0aW1QRVkwSkIzZTJLWDRlVXUwVzBfM3FkaGtITF94cUhLTjhhYkw4bkRyT3MtQ0ZnVjItcXZ1OTVZSXNPY1pCZFJxMWtsa2RRcHloOG1yOHI5WU11a3BLS3ctNjR4QlVYYzNpZ2M4ZGVSaDh6aXJFU3c3YmxNRHlzY2gxa0FGT0k5c0JMY096c01DaEdmd1A1TGR4bnRLUXBBYkQySGVLZFRqblVM": 1793478038451,
     "news:CBMigwFBVV95cUxQM3ZXRHVvdGk1NU9rWFhHSGtRdm9lcV8tQm96MmNBQUFreTV4X1FvcThjZmNwd0U0cUZSYjJoWmJPcUZ6RnYyVlQ2ZERrREplOTIzQ0txckdaejR4eDhlTWk1RFhuQWhJTTF0bDF6cXdrZWx3UFM0Um56MEc3ZHl6ZHQxTQ": 1793478038451,
-    "news:CBMivwFBVV95cUxPa1pWZmNtaXl1Z2phSkFlYlhMeWllYUxmbERuQnhZbEZMSjRuQjBHYXd0YUJTQ3VQRllmUVBsWXRvYm9SN0x5MXJPOE0yeVdaTkc0V2c3YjdTZUZDeUJFc2o1ZDZoS2h4NlB2QVllTlF3ZVpEYmYybEVPOW1YdkVfcXZnOVdEWXczd0p1T2g1V05MMjluUUlIUmlrS1dxUzFxcVRiZWN6cEJDcXY5aWR6aGVZS0duRktpR0tEMkpxWdIBxAFBVV95cUxQdms1dXZORkhxX2pIRmo1UGNFckhhMHE4ZlUzZlFxS1JybjJHNXdZRUtCem1ybWU5d0szQmE5dFI0TXBoYnZYUnR0U2EzbGptWkp1bzlVUGw3Y2pMdzV4bmIxZGtGUnkxQjNIeFdtQ2JkUXBlQS1fUnBqSzlFQzNMYUJUbFBHcDlMNHBleG9ha19RTWhfUVowMnR6Z3FHeDBYRE5kMEZ5Tm84M3pNdjU5WGEyN0VZN2ZQMlNwMEthY1E1aS1D": 1793478345443
+    "news:CBMivwFBVV95cUxPa1pWZmNtaXl1Z2phSkFlYlhMeWllYUxmbERuQnhZbEZMSjRuQjBHYXd0YUJTQ3VQRllmUVBsWXRvYm9SN0x5MXJPOE0yeVdaTkc0V2c3YjdTZUZDeUJFc2o1ZDZoS2h4NlB2QVllTlF3ZVpEYmYybEVPOW1YdkVfcXZnOVdEWXczd0p1T2g1V05MMjluUUlIUmlrS1dxUzFxcVRiZWN6cEJDcXY5aWR6aGVZS0duRktpR0tEMkpxWdIBxAFBVV95cUxQdms1dXZORkhxX2pIRmo1UGNFckhhMHE4ZlUzZlFxS1JybjJHNXdZRUtCem1ybWU5d0szQmE5dFI0TXBoYnZYUnR0U2EzbGptWkp1bzlVUGw3Y2pMdzV4bmIxZGtGUnkxQjNIeFdtQ2JkUXBlQS1fUnBqSzlFQzNMYUJUbFBHcDlMNHBleG9ha19RTWhfUVowMnR6Z3FHeDBYRE5kMEZ5Tm84M3pNdjU5WGEyN0VZN2ZQMlNwMEthY1E1aS1D": 1793478345443,
+    "threads:DQq1KjIkxa_": 1793478667610,
+    "threads:DfKrFWND3wi": 1793478667610,
+    "threads:DfLBNFXEgy4": 1793478667610,
+    "threads:DfLBKSeloVY": 1793478667610,
+    "threads:DfLBAr_mCIt": 1793478667610,
+    "threads:DfLA38XgWKb": 1793478667610,
+    "threads:DfLAjQvASI1": 1793478667610,
+    "threads:DfK_-3Kgd6s": 1793478667610,
+    "threads:DfK_-LTgdOY": 1793478667610,
+    "threads:DfK_wvjiZDJ": 1793478667610,
+    "threads:DfK_v3JkbZE": 1793478667610,
+    "threads:DfKoF0KEQfs": 1793478667610,
+    "threads:DRatP0jEsTS": 1793478667610,
+    "threads:DeVD6fmE3KN": 1793478667610,
+    "threads:DfKiBCPGvaf": 1793478667610,
+    "threads:Dcf9WiHnQRU": 1793478667610,
+    "threads:DfK-4sjkzRT": 1793478667610,
+    "news:CBMixAFBVV95cUxQdms1dXZORkhxX2pIRmo1UGNFckhhMHE4ZlUzZlFxS1JybjJHNXdZRUtCem1ybWU5d0szQmE5dFI0TXBoYnZYUnR0U2EzbGptWkp1bzlVUGw3Y2pMdzV4bmIxZGtGUnkxQjNIeFdtQ2JkUXBlQS1fUnBqSzlFQzNMYUJUbFBHcDlMNHBleG9ha19RTWhfUVowMnR6Z3FHeDBYRE5kMEZ5Tm84M3pNdjU5WGEyN0VZN2ZQMlNwMEthY1E1aS1D0gHEAUFVX3lxTFB2azV1dk5GSHFfakhGajVQY0VySGEwcThmVTNmUXFLUnJuMkc1d1lFS0J6bXJtZTl3SzNCYTl0UjRNcGhidlhSdHRTYTNsam1aSnVvOVVQbDdjakx3NXhuYjFka0ZSeTFCM0h4V21DYmRRcGVBLV9ScGpLOUVDM0xhQlRsUEdwOUw0cGV4b2FrX1FNaF9RWjAydHpncUd4MFhETmQwRnlObzgzek12NTlYYTI3RVk3ZlAyU3AwS2FjUTVpLUM": 1793478667610
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@steffiekhessia",
-      "x": "Hi kak! Kelas gratis aku udh gak ada karena waktuku 😭😭 jadi sebagai penggantinya aku bikinin panduan simple GRATIS, download disini yaa kaa http://lynk.id/cobaindigitalproducts/q",
-      "u": "https://www.threads.com/@steffiekhessia/post/DfKWGhkGC9V",
-      "d": 1793456007000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dhumaconsulting",
-      "x": "Kelas gratis bulan Oktober tema SOP dan KPI dari Dhuma Consulting sudah selesaiiii. Bulan november kita ada kelas gratis HR basic yaa 😊, silahkan yg minat kelas gratis bisa DM yaa",
-      "u": "https://www.threads.com/@dhumaconsulting/post/DfKUGdeGMqo",
-      "d": 1793454958000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -26931,10 +26926,30 @@
       "d": 1793432169000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qrrtn.aini_",
+      "x": "Mau jual member gym absolutefit ada yang mau ga sisa 8bln lagi 2,4jt aja bisa ikut kelas gratis, berlaku di semua cabang, ada sauna juga",
+      "u": "https://www.threads.com/@qrrtn.aini_/post/DfK-4sjkzRT",
+      "d": 1793477389000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "TitikTemu.co",
+      "x": "Mau Kuliah di 5 Negara? LPDP Buka 7 Beasiswa Co-Funding 2026 untuk S2 dan S3 - TitikTemu.co - TitikTemu.co",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdms1dXZORkhxX2pIRmo1UGNFckhhMHE4ZlUzZlFxS1JybjJHNXdZRUtCem1ybWU5d0szQmE5dFI0TXBoYnZYUnR0U2EzbGptWkp1bzlVUGw3Y2pMdzV4bmIxZGtGUnkxQjNIeFdtQ2JkUXBlQS1fUnBqSzlFQzNMYUJUbFBHcDlMNHBleG9ha19RTWhfUVowMnR6Z3FHeDBYRE5kMEZ5Tm84M3pNdjU5WGEyN0VZN2ZQMlNwMEthY1E1aS1D0gHEAUFVX3lxTFB2azV1dk5GSHFfakhGajVQY0VySGEwcThmVTNmUXFLUnJuMkc1d1lFS0J6bXJtZTl3SzNCYTl0UjRNcGhidlhSdHRTYTNsam1aSnVvOVVQbDdjakx3NXhuYjFka0ZSeTFCM0h4V21DYmRRcGVBLV9ScGpLOUVDM0xhQlRsUEdwOUw0cGV4b2FrX1FNaF9RWjAydHpncUd4MFhETmQwRnlObzgzek12NTlYYTI3RVk3ZlAyU3AwS2FjUTVpLUM?oc=5",
+      "d": 1793432160000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
