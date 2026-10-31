@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiswFBVV95cUxPQ2J5THY5cHY5VFdZMzR2QlNtSTliWnBNdFpUM3Z5Tm1UeDlqZ3ZDa3YzLVVUbXRXT2VYZFFqZkpSSFhjQ1JsOVhXMzNqOS1ra0hoaFNCbER3Mlo5aGtyTFF4WXNTV1hhWk41aTFONHV1OC1kNDVlcXRzYWNqZkF2ZHhxYkFtUzRkQnJBbUVhSHVFYTI5SWFMZVVTeFJMSnFEeExVbk01bVlSS21hX0RXcjVKSdIBswFBVV95cUxPQ2J5THY5cHY5VFdZMzR2QlNtSTliWnBNdFpUM3Z5Tm1UeDlqZ3ZDa3YzLVVUbXRXT2VYZFFqZkpSSFhjQ1JsOVhXMzNqOS1ra0hoaFNCbER3Mlo5aGtyTFF4WXNTV1hhWk41aTFONHV1OC1kNDVlcXRzYWNqZkF2ZHhxYkFtUzRkQnJBbUVhSHVFYTI5SWFMZVVTeFJMSnFEeExVbk01bVlSS21hX0RXcjVKSQ": 1792263345903,
     "threads:DemyhILE9mX": 1792263660853,
     "threads:DeavMbymEY6": 1792263660853,
     "threads:DemzsJAj_H0": 1792263660853,
@@ -25357,7 +25356,28 @@
     "threads:Db8Nq9CE4ad": 1793472643690,
     "threads:DdC67vek7Ky": 1793472643690,
     "threads:DeN6_HOGlVR": 1793472643690,
-    "threads:DePBrHHmZzN": 1793472643690
+    "threads:DePBrHHmZzN": 1793472643690,
+    "threads:DcdSnIVE98D": 1793472934787,
+    "threads:DP8DSdKDOtB": 1793472934787,
+    "threads:Daf6jQwiazK": 1793472934787,
+    "threads:DbfCqqwEwPU": 1793472934787,
+    "threads:DeQcDmBIB2W": 1793472934787,
+    "threads:DElM8ujOU1y": 1793472934787,
+    "threads:C3c5dkYvxP9": 1793472934787,
+    "threads:DQhDsdOjTcK": 1793472934787,
+    "threads:DbxRo9jmtP0": 1793472934787,
+    "threads:DUvZxiEgeg-": 1793472934787,
+    "threads:DeOWSjzAdzR": 1793472934787,
+    "threads:Deifj-pEs5H": 1793472934787,
+    "threads:DfK2hBsggtK": 1793472934787,
+    "threads:DfK2Htnj_73": 1793472934787,
+    "threads:DfK16C6mp4w": 1793472934787,
+    "threads:DfK1mzSCThI": 1793472934787,
+    "threads:DfK1g3PjN1j": 1793472934787,
+    "threads:DfJSOdSoOjd": 1793472934787,
+    "threads:DfJ1VOGm-1l": 1793472934787,
+    "threads:DfJitb_jkEA": 1793472934787,
+    "threads:DfKP2NaGxm6": 1793472934787
   },
   "digest": [
     {
@@ -26862,7 +26882,7 @@
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
