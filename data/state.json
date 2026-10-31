@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DPaX5OSACWD": 1792276532520,
-    "threads:DenMTyGk0qb": 1792276532520,
-    "threads:DenMJ9bEuPT": 1792276532520,
-    "threads:DXDwf6aDS3P": 1792276532520,
-    "threads:DIdByq6zuHW": 1792276532520,
     "threads:DbCRDZbj-uM": 1792276921776,
     "news:CBMivgFBVV95cUxORHhYNW5uTjJud051UlNtUFd0cWsyWl9TWGxObXhkUm1fNmpFc1hEenIzT2NERUUyaXFVOHVEOVBfem1WTzdXRTZrZ0wyenI5SHAxSW5Kd0hJUG1Hc2EyQUhXV2ZITDk3ejBVUkRmQlVVeG5qVERsYnhvXy05a3QwN1JGM1hVVXM4dmlXZXY3bHJNaU1hckdXX3NSSmpzclVZNjRfUlBqbWxuSVJHOTJnWGZGRGJmUVduVE04WjVR0gG-AUFVX3lxTE5EeFg1bm5OMm53TnVSU21QV3RxazJaX1NYbE5teGRSbV82akVzWER6cjNPY0RFRTJpcVU4dUQ5UF96bVZPN1dFNmtnTDJ6cjlIcDFJbkp3SElQbUdzYTJBSFdXZkhMOTd6MFVSRGZCVVV4bmpURGxieG9fLTlrdDA3UkYzWFVVczh2aVdldjdsck1pTWFyR1dfc1JKanNyVVk2NF9SUGptbG5JUkc5MmdYZkZEYmZRV25UTThaNVE": 1792276921776,
     "threads:DbWsb85iI6p": 1792277149262,
@@ -25513,23 +25508,16 @@
     "threads:DfHxk6nme1F": 1793485537261,
     "news:CBMiswFBVV95cUxNazM2bDd3QmRraGs5QzhteUxxTmx2cm9NQTREb3lBSTFHbS1iYmhtUktVTjA1RmozYlNIOURQNXlnN1VKbDZZZVh5WERlWTMxbHJOemx6TGFqOTI4UDFlOFNGQW9WRzVvblYzYlEtZjM4b0NDTjB5S25fbUljTHozTzY4WXFpU2RQT1ZVYVhHUmxiLXlKeVNkZ2xmdmp4R1RwaXB5Nmc0QXlrcU43bGZlUmZkUQ": 1793485537261,
     "news:CBMixgFBVV95cUxQMlJldGNUZGJydW93SlBWUFdPUklPS1VmZklya2NLRm5kOFI5aDhFVzBva25PYnl5ZEhWcUs2VFIzam5HR0dYcVNxektRMG04WEk5cEY1RnM3RlZpeHV5ODQzMkl0S1hQRi1pbjQwWnFVUTRxSGtWZXFYZkpaSjZPckZWakxKWmdOd3BEQ1c5Wi11SjNVazhTLV91cnU2dC1ORzdldUFHckRnNGlVOGxzdnVrR3RDVFAzSjVJbUhtWXdDY19ZRUHSAcYBQVVfeXFMUDJSZXRjVGRicnVvd0pQVlBXT1JJT0tVZmZJcmtjS0ZuZDhSOWg4RVcwb2tuT2J5eWRIVnFLNlRSM2puR0dHWHFTcXpLUTBtOFhJOXBGNUZzN0ZWaXh1eTg0MzJJdEtYUEYtaW40MFpxVVE0cUhrVmVxWGZKWko2T3JGVmpMSlpnTndwRENXOVotdUozVWs4Uy1fdXJ1NnQtTkc3ZXVBR3JEZzRpVThsc3Z1a0d0Q1RQM0o1SW1IbVl3Q2NfWUVB": 1793485537261,
-    "threads:DRRk0gJGKIg": 1793485817912,
-    "threads:DS824y2GNJs": 1793485817912,
-    "threads:DaFBzHYndOn": 1793485817912,
-    "threads:DAalnmGS_WF": 1793485817912,
-    "threads:Db8ZbdnkSGF": 1793485817912
+    "threads:DRZstHBDb6V": 1793486007023,
+    "threads:DcDx-A3FNZZ": 1793486007023,
+    "threads:Da-e17CIAJn": 1793486007023,
+    "threads:DAalnmGS_WF": 1793486007023,
+    "threads:Db8ZbdnkSGF": 1793486007023,
+    "news:CBMiZ0FVX3lxTFBuY1A3bkFkLWVSa2Q0YVoyV05RTEVuQkN2aHcyU1JsNWFkN1ZvRmIwUGF3b1FaWVNrc09DcXo1RXZSMUtCa3JhR3NkYnpuSlFYOU54anp0SVJlTlBGRnhWTm1PbVpJbEU": 1793486007023,
+    "news:CBMiwwFBVV95cUxPUzB3NXFqNkR2S01teTVuN0FINUdkSHNXVHlOMm5vNVpOYnBydUoxTFU3bzRUY1ZPX2pXSC1tUmRrUzc0dEtkeEczenQ4NjFfQ0hxSTZlQ3YweXFqSHBLYnNMTkczcHlZMjBLV2tQTnh4d25kRGdzTF9aVEV1dWpjcTNlRXJrMmhLSDdmaVpsNUxMVWlLYVNTVUFOd29kZnlUVU84Mi1aMTF3TlFiN05lTHhjSkE4ZEhpYTZMSEloNHh3RnPSAcgBQVVfeXFMTXpNbUNJbU9PNUdVVnJ2ZXFUdkg4Y0lOanhnUXdSdkRmV0xMLVhfR19qTWhPa3FIbXRPTUtqYW53UFJ0eG9DeGdmdnBhalVFVjlxd3Q0cmZZSTZWMm82V1NGYjliNl96b1JEeElPS2xRRTN3OUZMRmtjZjFKVzkwdXY5NzZzSVVtYVNRNTVWcTQwc3ZvZXFUWkstQXQzaDJ4RVFOQ0lrb1lRekxPVTA1Rm1NMHhJb2FmSUxVSE9Ld3NPbjJhenhIaDA": 1793486007023,
+    "news:CBMioAFBVV95cUxPcHBkeEp6X0tDLVRtM0psdi1PWmdpOEVGUnAzaFUtaVRMQzBzYWFtcjN1Xy0tTFZBWEVrVk5Bc2RQUTN0Ym16OG94a0xVQ29rSmFVb3VNem9UeHRUOHJTNlY1eDRhUERUS2w5SmJyX2EzbjVqQmxLVEdUUTJOTU5lYkFZSjVobFlhUzl6VmFXQW9OUUZncEZCdlVlLWJ3QXJV": 1793486007023
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@rinaqyut15",
-      "x": "😍🎬 *KELAS GRATIS \"VIDEO ANIMASI\" dengan AI* ✨ 🎥 _MAU bikin video animasi lucu dan menarik, tapi belum bisa desain atau edit video? _ Tenang, Kak 🥰 Sekarang kamu bisa belajar *m",
-      "u": "https://www.threads.com/@rinaqyut15/post/DfJ59LpE-O-",
-      "d": 1793441250000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -27017,6 +27005,16 @@
       "x": "Simak di Sini! Cara Cek Desil Pakai NIK KTP buat Lihat Peluang Dapat Bansos - Kalteng Lima - Kalteng Lima",
       "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlJldGNUZGJydW93SlBWUFdPUklPS1VmZklya2NLRm5kOFI5aDhFVzBva25PYnl5ZEhWcUs2VFIzam5HR0dYcVNxektRMG04WEk5cEY1RnM3RlZpeHV5ODQzMkl0S1hQRi1pbjQwWnFVUTRxSGtWZXFYZkpaSjZPckZWakxKWmdOd3BEQ1c5Wi11SjNVazhTLV91cnU2dC1ORzdldUFHckRnNGlVOGxzdnVrR3RDVFAzSjVJbUhtWXdDY19ZRUHSAcYBQVVfeXFMUDJSZXRjVGRicnVvd0pQVlBXT1JJT0tVZmZJcmtjS0ZuZDhSOWg4RVcwb2tuT2J5eWRIVnFLNlRSM2puR0dHWHFTcXpLUTBtOFhJOXBGNUZzN0ZWaXh1eTg0MzJJdEtYUEYtaW40MFpxVVE0cUhrVmVxWGZKWko2T3JGVmpMSlpnTndwRENXOVotdUozVWs4Uy1fdXJ1NnQtTkc3ZXVBR3JEZzRpVThsc3Z1a0d0Q1RQM0o1SW1IbVl3Q2NfWUVB?oc=5",
       "d": 1793454660000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "BPOM Jalin Kerja Sama Dukung Percepatan Pelayanan Publik - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcHBkeEp6X0tDLVRtM0psdi1PWmdpOEVGUnAzaFUtaVRMQzBzYWFtcjN1Xy0tTFZBWEVrVk5Bc2RQUTN0Ym16OG94a0xVQ29rSmFVb3VNem9UeHRUOHJTNlY1eDRhUERUS2w5SmJyX2EzbjVqQmxLVEdUUTJOTU5lYkFZSjVobFlhUzl6VmFXQW9OUUZncEZCdlVlLWJ3QXJV?oc=5",
+      "d": 1793463900000,
       "urgent": false,
       "warn": false
     }
