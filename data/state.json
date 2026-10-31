@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeJT1YCmFDG": 1792275646004,
-    "threads:DenKWYoExvb": 1792275646004,
-    "threads:DenKOQJCtEA": 1792275646004,
-    "threads:DenKYwNk555": 1792275646004,
     "news:CBMipwFBVV95cUxOZExYQ1lsekJXYVQxQXlURFJibjRQcFgwa0JSZGY5UEl1Yi1CWHdHd3hNSTRTMmJrTTNzWTQtRHhuWDByb1pyMGRTZE5tRVUxMzF5UUNCUVg5RE10QkhMSnViMjRSbVRYQ3JSeWlyMFRLbWp4alV3SENTY3JCcWVCcWpwa1lUX29HLU1QMUVIV3pxZ3dfNFdDZUNRSUk2WEs3cU4zMkJvQQ": 1792275937448,
     "threads:DenLZ-5kp4q": 1792276245307,
     "threads:DenLjVvDbwH": 1792276245307,
@@ -25496,29 +25492,22 @@
     "threads:DfLLdUplZCM": 1793484646118,
     "threads:DfLMoubEs3r": 1793484646118,
     "news:CBMipgFBVV95cUxPZDFrV0w5Q3llWFp0ME5kNWNZTjUzUGg2a1NsVFNFODJvbE05MFFQSHRzM3hnR3Q4ZkRGd2xacUR3OWNpVlR3emdLdDVwMElURXdaYlRmbFB4LWxBaVlycEZVOFJKVXdselJpV09jdjVjSk9BNzhjMUhuU01lRlM5VUE4blFfdExtUUxwU1BpV1BrREdGY28wOUtQTUl2bXpLY0VxaVFB": 1793484942106,
-    "news:CBMiwAFBVV95cUxPQ29TXzFHR1FwN0RRU0s5RkpBeVlQaGZscmdSTTJpTnVZNHh6dnY5SUw1XzJKOHlDZEVuWFhKN1Z4MHZ3Zi1HS3ByYkY4amFILV9IMm1CeGlHRGFuS3ZHLUhBRjAycXlNRjQxMmt4cmZXZkIzR3Nqb2xLUVR6MnAzUFlndWlhMVRyZ2tBZDRacU55RUxOdTZaeUM5NVMycTc4VFdjQWFIXzhKTWpPSWtuOWJ0Q3o1clRHV0ltR1ozWFjSAcYBQVVfeXFMUDJSZXRjVGRicnVvd0pQVlBXT1JJT0tVZmZJcmtjS0ZuZDhSOWg4RVcwb2tuT2J5eWRIVnFLNlRSM2puR0dHWHFTcXpLUTBtOFhJOXBGNUZzN0ZWaXh1eTg0MzJJdEtYUEYtaW40MFpxVVE0cUhrVmVxWGZKWko2T3JGVmpMSlpnTndwRENXOVotdUozVWs4Uy1fdXJ1NnQtTkc3ZXVBR3JEZzRpVThsc3Z1a0d0Q1RQM0o1SW1IbVl3Q2NfWUVB": 1793484942106
+    "news:CBMiwAFBVV95cUxPQ29TXzFHR1FwN0RRU0s5RkpBeVlQaGZscmdSTTJpTnVZNHh6dnY5SUw1XzJKOHlDZEVuWFhKN1Z4MHZ3Zi1HS3ByYkY4amFILV9IMm1CeGlHRGFuS3ZHLUhBRjAycXlNRjQxMmt4cmZXZkIzR3Nqb2xLUVR6MnAzUFlndWlhMVRyZ2tBZDRacU55RUxOdTZaeUM5NVMycTc4VFdjQWFIXzhKTWpPSWtuOWJ0Q3o1clRHV0ltR1ozWFjSAcYBQVVfeXFMUDJSZXRjVGRicnVvd0pQVlBXT1JJT0tVZmZJcmtjS0ZuZDhSOWg4RVcwb2tuT2J5eWRIVnFLNlRSM2puR0dHWHFTcXpLUTBtOFhJOXBGNUZzN0ZWaXh1eTg0MzJJdEtYUEYtaW40MFpxVVE0cUhrVmVxWGZKWko2T3JGVmpMSlpnTndwRENXOVotdUozVWs4Uy1fdXJ1NnQtTkc3ZXVBR3JEZzRpVThsc3Z1a0d0Q1RQM0o1SW1IbVl3Q2NfWUVB": 1793484942106,
+    "threads:DfKHFPkEfef": 1793485240646,
+    "threads:Dcvx4SxkkEl": 1793485240646,
+    "threads:DfK323QElWx": 1793485240646,
+    "threads:DYHYM6zES0c": 1793485240646,
+    "threads:DfLFKoCErCp": 1793485240646,
+    "threads:DfLNojuiYgD": 1793485240646,
+    "threads:DfLNj71klhK": 1793485240646,
+    "threads:DfLNcxZjn3q": 1793485240646,
+    "threads:DfLNPYaiPVJ": 1793485240646,
+    "threads:DfLM6i0FfYj": 1793485240646,
+    "news:CBMiuAFBVV95cUxOMXg4c2p3bTNNanpYb1pFRWRsMl9BSGxiaFFxNjNNZWN4VEJzS2wycDlOajU2UWlqMlFYUXlLc1F1MV92UWZidVh4WnJOOEZhdGtrMndSUXNhNXdhUFo0a3VJY1FYM0hENllMb2JRQ2lMV21zQTRGekhsYmJFMHpKVjh1amRSSHpUQ05kREpIMU9MLTFWaWY1aExocS1vRElsQ3NkVkxkNEhYLWQ5YjkxSUEtUlU4b25Y0gG-AUFVX3lxTE41bDFrNUJCYVRfMU1ndkMtb3VuUEZ3eVQ4RGJRSXFld1BXd1g5X0ZicVZFaGljbHJNLWVwNGFUZ1ZzYWZUVDgzSW93b0RLNmJreDlNSlVzb21NZVotWDJJbFBGdTZsRDdINWE3ZjYwd2RKMzYyOW5SdTZqYi1LT3RIR1RPQzBUckVUS2xycW95YU01R19POWRRa0lERXR6cTd1WER5NHExVGxfLW9yR3gwYzNmNmJWRV8wNE5nVFE": 1793485240646,
+    "news:CBMihAFBVV95cUxOVDhLcHBYQnVMQ2FHV1ZZWHJMOG1LY2RuV2wxSXI0LUZqektaVy1UTnhKaWpPTGJhSnJBSWN2SE9ua2JoZFN3U3R6WmFJMjBDRlBoOVl0blczWjVDTWdBcVIxUncwbEk2aDlOQjZWWHJLQ3RKWXctQ1lsU1o2cjQyY1RucDM": 1793485240646,
+    "news:CBMiwAFBVV95cUxPNURLMWpodS0wY2tVNWNDTjFiYlpRc2ZwUVBaNnBCZC1qT1lld3g5VmFHaDZyVmRNNk1heXpIY05zUTdaVXVXYnRlaHgzUmFhajhxZHVhNlcxZ3ZBNXdYSERrSWF1dWpWeURUOFVRZEhMUHNva3hSN1VTZV9nV3dWMzlRYm1VdnFFX0E4UGJiOVBjbjNzX1p6bUI5aEpzWUV4d0hjczE4SklKZGd2b1dEN00yWEhNejBhVkFkMHR4S0PSAcYBQVVfeXFMTnRJWk5NaUpjd0VoWmYtWE9WQWE1Tm9Ld0ZzU1RmVW5fbFpuZWpQVFhTdmpvdG1Ebzc4MFVhN1BPQkxaZmplQXBFVnY2OHRvdGVLUTExNEpUNzhsTkFyUHJOUFZzVVZhM0xPZW1kRzlCT0NXNThHMlhwUUJqMDJFUkFUakFJa2tLenhVcjBaU3NvdzF4cUREeldPU1plNWNGa1o1SkN0TlFrNnFUZkJYVUhCMFNNcHZyNzhVaURkNndZYVVqTHJB": 1793485240646
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Vietnam.vn",
-      "x": "Anna Eyewear menargetkan untuk menggandakan sistemnya pada tahun 2028. - Vietnam.vn",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSURXU19QQXh3OW0tVDhtSkJhdS1jcTJybENJcUJMTDN5SkQzUFFMa1g4SXVodlVXZ2J5cUNFYlhSZVdMbkg0NGJyS09hUGd1UlJreVkxejJsT0JoVnpBQVhMNWwxLUZNeEpTNjJ0UXZaVWEwOUNuVXJCVUxLb0VyRkRTU3UtNUdCb2kw?oc=5",
-      "d": 1793430632000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Rakyat Cirebon",
-      "x": "7 SPPG di Kabupaten Cirebon Belum Miliki SLHS, 307 Sudah Terbit - https://rakyatcirebon.disway.id/ - Rakyat Cirebon",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOHU3SDFTUDJDczk4WmNwdWlTUWdFLWxxUldHRDBYUi1XeHdMTEprSy0zWnRIVnJZeEcyelNwc1YzdmFiUHpCLVFJVm9ra0l5WFNCS1NfU2d0QTFMOVpxM2QtdVEwR195YkNGeHJ4UmNod0tyd19ZNy05Zkg2VXhadmtDZ3Nlb1hPRHYyOFdSR3JTek5WcTBfOUZFcWtmWWZnSnlBU3JlX1LSAagBQVVfeXFMTzh1N0gxU1AyQ3M5OFpjcHVpU1FnRS1scVJXR0QwWFItV3h3TExKa0stM1p0SFZyWXhHMnpTcHNWM3ZhYlB6Qi1RSVZva2tJeVhTQktTX1NndEExTDlacTNkLXVRMEdfeWJDRnhyeFJjaHdLcndfWTctOWZINlV4WnZrQ2dzZW9YT0R2MjhXUkdyU3pOVnEwXzlGRXFrZllmZ0p5QVNyZV9S?oc=5",
-      "d": 1793404020000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -26998,10 +26987,30 @@
       "d": 1793454715000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "Cara Cek Desil Bansos dan Memperbarui Data Pakai NIK KTP - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDhLcHBYQnVMQ2FHV1ZZWHJMOG1LY2RuV2wxSXI0LUZqektaVy1UTnhKaWpPTGJhSnJBSWN2SE9ua2JoZFN3U3R6WmFJMjBDRlBoOVl0blczWjVDTWdBcVIxUncwbEk2aDlOQjZWWHJLQ3RKWXctQ1lsU1o2cjQyY1RucDM?oc=5",
+      "d": 1793453777000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Bansos PKH Tahap 4 Diprediksi Cair 10 November 2026, Ini Cara Cek Saldo KKS - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNURLMWpodS0wY2tVNWNDTjFiYlpRc2ZwUVBaNnBCZC1qT1lld3g5VmFHaDZyVmRNNk1heXpIY05zUTdaVXVXYnRlaHgzUmFhajhxZHVhNlcxZ3ZBNXdYSERrSWF1dWpWeURUOFVRZEhMUHNva3hSN1VTZV9nV3dWMzlRYm1VdnFFX0E4UGJiOVBjbjNzX1p6bUI5aEpzWUV4d0hjczE4SklKZGd2b1dEN00yWEhNejBhVkFkMHR4S0PSAcYBQVVfeXFMTnRJWk5NaUpjd0VoWmYtWE9WQWE1Tm9Ld0ZzU1RmVW5fbFpuZWpQVFhTdmpvdG1Ebzc4MFVhN1BPQkxaZmplQXBFVnY2OHRvdGVLUTExNEpUNzhsTkFyUHJOUFZzVVZhM0xPZW1kRzlCT0NXNThHMlhwUUJqMDJFUkFUakFJa2tLenhVcjBaU3NvdzF4cUREeldPU1plNWNGa1o1SkN0TlFrNnFUZkJYVUhCMFNNcHZyNzhVaURkNndZYVVqTHJB?oc=5",
+      "d": 1793484308000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
