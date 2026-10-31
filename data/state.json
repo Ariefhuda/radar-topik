@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DenNQwbjyyQ": 1792279537593,
-    "threads:DCRDBjZzf-V": 1792279537593,
-    "threads:DejigrnD0pS": 1792279537593,
-    "threads:DenRwEbgNve": 1792279537593,
-    "threads:DenRfzyCEUi": 1792279537593,
-    "threads:DenMFLwkxGk": 1792279537593,
-    "news:CBMiygFBVV95cUxNaWZ6QzAxdEs3eE1ad3RwQmp3VGVkdS1lZ1MzVUtqSTFhMXFJVVhQNkJNSm42dl94cHZmbG5NVjZrSndVOGt6UWs0TDZFRWUxdE8wTXdmaGZNS3NhNXppNVFaRHU5bDZ1bUtsSFpIOWU4NTJ5dWxjNjRBaHVoaVU4am14cVBacXdwRWF1QjNKWTAyTWI3eU56UEliX1l4SW1EdzVRYWlJN2t2SGFsZkFfeGF4WUdLaGMyNVlKS253a1VHUmpMemE2WjBn": 1792279537593,
     "threads:DZaRkYsnzIo": 1792279844944,
     "news:CBMiuAFBVV95cUxPVlk4NUVRQUZUNk1jR3hBZGVUV3YtM21HT01DSWZWMjdkYi05ZkE4d05GTlZ4elBreVFOd0NUcTZjZ0tPVUxBNFFFSW5qOTl5amJoX09uZzRuZDNsRTZnX3piZnlObEl1WlR0YlpCSnFrbnQ3NjN5dnJ6TFQwbHFnOF9zNy1XQzVoblBlQkE5UGlEbWs4YjNEZDV2RFhCMTY5S0trdllrSUhFNW9XZzZPWlFMOElCSFVK0gG-AUFVX3lxTE82V1BqN0VyclRWLUJWdFlTcXlLUFREODNRYU1WSXhxLWtoaDJJU3lRMk80NjZ4dzFidHBEWkNpQWY3M2JwU21YbjZOMWxBVnM4dFR2MDJEOUxyZjJ0UzVCMUNfdTRBWmlaVjJ4ZVowaTVsaGw0WUppN2tObzVYZlllYllXR0w2b09OMlQ3RTEyUmN6SXlDNFBqdlZoN01zSFo0T2ZidGhtdTlnN0VkMWZYcllJOXNPMFNoOXRFWGc": 1792279844944,
     "threads:DenR5XSk5Wg": 1792280134025,
@@ -25553,46 +25546,19 @@
     "threads:DfLTpfdD5Ku": 1793488253235,
     "threads:DfLTp7xElOd": 1793488253235,
     "threads:DfLSdHCjKhv": 1793488253235,
-    "threads:DfLS6akDM7q": 1793488834105,
-    "threads:DfI5B7cgbP1": 1793488834105,
-    "threads:DfLS-LEE3jg": 1793488834105,
-    "threads:DfHZfGXkdX0": 1793488834105,
-    "threads:Dd8bcQ0knpc": 1793488834105,
-    "threads:DfLTMDQitRB": 1793488834105,
-    "threads:DfLToCykp08": 1793488834105,
-    "news:CBMiywFBVV95cUxQTE9ITElXNmZMR3h5MW03ZWlaWUVPY2RCSXVlMF9YRzhOei1UTUJDNm9IWUhKT0tuc09qUGFRbmdOSmRMSTFudHNqZGdrc0dIV1hkOVhoN1VXd19WYzdEUm5DUVlaUFJBdXR3QUNNeXNUYzdYM0RrbDVIdXJCenNvN084TXBPVm53a2dpQVVUNkFudTd6QkJRU3RjclpjelRVOTIyVGNZVGlibGxSOE9HOFdrS3Y3R3Q0eVFCWjR6bEpOWE9ya3hkUFdhaw": 1793488834105
+    "threads:DfLS6akDM7q": 1793489043084,
+    "threads:DfI5B7cgbP1": 1793489043084,
+    "threads:DfLS-LEE3jg": 1793489043084,
+    "threads:DfHZfGXkdX0": 1793489043084,
+    "threads:Dd8bcQ0knpc": 1793489043084,
+    "threads:DfLTMDQitRB": 1793489043084,
+    "threads:DfLToCykp08": 1793489043084,
+    "threads:DfLVKZmj8Js": 1793489043084,
+    "news:CBMiygFBVV95cUxOa09rQ1hFUkVBYjdndFAtb2lDMW4yV1F0b1ZQWnAxMXZRdm1TRGdVLWQ5dnA4U085ZWFINk5SN2V2bWdzaWVGbWZmbGdzcGVNSC1pbU03QTdySllBR3JfYVRSVFN6UGlfNzBHbHhVeEV1Zi1OZUNSYmpfeUhXNE5lMUlOSHhueW9nYzY1ZDZXX1cycWVUS3VybV9FUHlLQXJuSXVTbDJxWjVna2EwYlRBUjRyNEhtdFZpVVBvWkEtQlBOWkFqeGt0eXlB0gHKAUFVX3lxTE5rT2tDWEVSRUFiN2d0UC1vaUMxbjJXUXRvVlBacDExdlF2bVNEZ1UtZDl2cDhTTzllYUg2TlI3ZXZtZ3NpZUZtZmZsZ3NwZU1ILWltTTdBN3JKWUFHcl9hVFJUU3pQaV83MEdseFV4RXVmLU5lQ1Jial95SFc0TmUxSU5IeG55b2djNjVkNldfVzJxZVRLdXJtX0VQeUtBcm5JdVNsMnFaNWdrYTBiVEFSNHI0SG10VmlVUG9aQS1CUE5aQWp4a3R5eUE": 1793489043084,
+    "news:CBMiywFBVV95cUxQTE9ITElXNmZMR3h5MW03ZWlaWUVPY2RCSXVlMF9YRzhOei1UTUJDNm9IWUhKT0tuc09qUGFRbmdOSmRMSTFudHNqZGdrc0dIV1hkOVhoN1VXd19WYzdEUm5DUVlaUFJBdXR3QUNNeXNUYzdYM0RrbDVIdXJCenNvN084TXBPVm53a2dpQVVUNkFudTd6QkJRU3RjclpjelRVOTIyVGNZVGlibGxSOE9HOFdrS3Y3R3Q0eVFCWjR6bEpOWE9ya3hkUFdhaw": 1793489043084,
+    "news:CBMiuAFBVV95cUxPOFRDcENYenhoaGFsNTFsWXpKSFNWYnRsenVka3h3S2JKdnl3Yi1CbGtuM1ozcVBoSmdNWHA4UWpndVdjQmN0R19xWHRWZG50b2JmdUNrRy1tMWlnMmh2WnpRVThwV283Vk9Sc0JqWnVfTkJPM1MtUkE0Y3htcldUc0FiU1RaamxQS2VaWExucUNxNEhWZHhRd2hySl9oNDF2MncyMEdsR3BBckJaYmU5cmhWcnpBWjg20gG-AUFVX3lxTE9GZlh4SUtySXpnZUlMNTR3anNPLVVjejd5QTRwRkdueTN4d3hJdVhTQXFib0NBRlgzX296ckVjVjRTNVQ2cDRGQzFWYXJsUjctVzhUeVhFUklnNDZtaFhGTXlBek45TXZBcy1xTlhidnJyNkh5UGxFa3ZEZDNyVmZUczk3TFRfdkxoNk40T2FNbzRHU2JkSmpYQmMxUmduU05PakZWbDM3NXF3WTJQUl85NkVnTEpsa0VLbXFPQVE": 1793489043084
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bukan Cuma PKH BPNT, Ini Deretan Bansos yang Cair Awal November - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTdjTy0zQlA2YTJBTEl2YnY3WmZlWGlpazhTTHN3S05BVWJlRHNsdnJ0V0s0RmZvdHUxTU9JdXliX01EQW5NUWRPUHUxcnJYVUtTMmN4RXpELWxmZjZtbW5QbkdrbzdRTEVKQlh3MnduYlk5T3dVREh4bEx3UVJpYlRJdTRFREUtblJqOXBFQnNQcmZfM0pQbWxSeHVhQ09yYXltYkN0T29keDhHU3lvaVdIeGJBQdIBtgFBVV95cUxNYTdjTy0zQlA2YTJBTEl2YnY3WmZlWGlpazhTTHN3S05BVWJlRHNsdnJ0V0s0RmZvdHUxTU9JdXliX01EQW5NUWRPUHUxcnJYVUtTMmN4RXpELWxmZjZtbW5QbkdrbzdRTEVKQlh3MnduYlk5T3dVREh4bEx3UVJpYlRJdTRFREUtblJqOXBFQnNQcmZfM0pQbWxSeHVhQ09yYXltYkN0T29keDhHU3lvaVdIeGJBQQ?oc=5",
-      "d": 1793446076000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Jelang 10 November, Ini Kabar Terbaru Bansos PKH BPNT dan Perlinsos Digital - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbGFVcGxobmFvaWxoTGZ6cXFDams0bktQLVFMWjl3ZHYxTEUzcTZRX0NuZ1h2RTIwYzJ5M216TUZtSXl4NmM4OXI3UUg3Z2JicXdlanZTa0VMNWs1S05VYzFGTko2b2FIa3VhbEp4MUxhZElVYWZYNWlSNlR1azgzMGp3ZUNlazQ4OW9DdUZHMVlESW1SWXk4by1QaGxFR1I1WFEzSFd3cVVRRVpUMHNTTzg4UU91ZUVVUS1oRHdENHN3SHFLeFHSAcYBQVVfeXFMT2xhVXBsaG5hb2lsaExmenFxQ2prNG5LUC1RTFo5d2R2MUxFM3E2UV9DbmdYdkUyMGMyeTNtek1GbUl5eDZjODlyN1FIN2diYnF3ZWp2U2tFTDVrNUtOVWMxRk5KNm9hSGt1YWxKeDFMYWRJVWFmWDVpUjZUdWs4MzBqd2VDZWs0ODlvQ3VGRzFZREltUll5OG8tUGhsRUdSNVhRM0hXd3FVUUVaVDBzU084OFFPdWVFVVEtaER3RDRzd0hxS3hR?oc=5",
-      "d": 1793436937000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kabar Tegal",
-      "x": "Cara Cek Nama Penerima Bansos PKH Oktober 2026 Secara Online, Jadwal Pencairan dan Syarat Lengkapnya - Kabar Tegal",
-      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcGU1U1NwLUlyVnFYVVpneDVZdW5uX3JpR2FFSzgzTElObHFsT3Z3bDk4RFVXYkdOaGRDWUpCZVlRd09JLU5tLVRSb1RhQlJGTk5EVTNJUl9vcFg2YldxVHRKU2FlWndubGd5V2VmLWJYTDBJWklEdDJ6RGhRME1PLXcwSFc4cW9fWXVReDBIa2V1TDJCMTNVblNYVHk1QVoxbEtFS0g0N3JVZjk1YzlrUTl1NlFmTUhSWE93dnpTbzBUb2t1ZHVuMkQ0UEU3RXpkMzREYkY5OGpaTTBNb1lWeGRKektHVW9kblVBetIB8gFBVV95cUxOZ3lMWmRfQkotbGY0dWtDQXdtd0RheVF3ZzVNQ19VTERkdEd2QTdBN05PWmNRYi11d2szaTFOV2pkYTk4Z3ZTRlNVYkRCbmdKbl80aVdYRXF2SVBUSjZEZjkyd25aVEJfYnVmeWJYSmtxR1ppZUxCQXBpRDNWaE9PT2taTlhMUW11SmpPUExGUFh3RG5MNFdnX0Y5dlV6VldBckplaDZfXzFXa2poRDF2T0VLVHFldUpuQTJjZ1pmQUhoYnVlazR5Qml5OVZHTzgtMjdhRnIxRTlld1RvTTNETHRESFJ5N1RESURsRlFQQVc3Zw?oc=5",
-      "d": 1793429582000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27054,12 +27020,42 @@
       "warn": false
     },
     {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@parentingalanabi",
+      "x": "📢 𝗦𝗣𝗠𝗕 𝗦𝗠𝗔 𝗜𝗧 𝗕𝗔𝗜𝗧𝗨𝗟 𝗠𝗨𝗦𝗟𝗜𝗠 𝟮𝟬𝟮𝟳/𝟮𝟬𝟮𝟴 𝗥𝗘𝗦𝗠𝗜 𝗗𝗜𝗕𝗨𝗞𝗔! Bukan sekadar sekolah... Tapi tempat lahirnya penghafal Al-Qur'an, siswa berprestasi, d",
+      "u": "https://www.threads.com/@parentingalanabi/post/DfLVKZmj8Js",
+      "d": 1793489069000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Alonesia",
+      "x": "Cek Ranking BWF Sektor Ganda Campuran Per 27 Oktober 2026, Amri/Nita Perlahan Naik - Alonesia - Alonesia",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa09rQ1hFUkVBYjdndFAtb2lDMW4yV1F0b1ZQWnAxMXZRdm1TRGdVLWQ5dnA4U085ZWFINk5SN2V2bWdzaWVGbWZmbGdzcGVNSC1pbU03QTdySllBR3JfYVRSVFN6UGlfNzBHbHhVeEV1Zi1OZUNSYmpfeUhXNE5lMUlOSHhueW9nYzY1ZDZXX1cycWVUS3VybV9FUHlLQXJuSXVTbDJxWjVna2EwYlRBUjRyNEhtdFZpVVBvWkEtQlBOWkFqeGt0eXlB0gHKAUFVX3lxTE5rT2tDWEVSRUFiN2d0UC1vaUMxbjJXUXRvVlBacDExdlF2bVNEZ1UtZDl2cDhTTzllYUg2TlI3ZXZtZ3NpZUZtZmZsZ3NwZU1ILWltTTdBN3JKWUFHcl9hVFJUU3pQaV83MEdseFV4RXVmLU5lQ1Jial95SFc0TmUxSU5IeG55b2djNjVkNldfVzJxZVRLdXJtX0VQeUtBcm5JdVNsMnFaNWdrYTBiVEFSNHI0SG10VmlVUG9aQS1CUE5aQWp4a3R5eUE?oc=5",
+      "d": 1793439600000,
+      "urgent": false,
+      "warn": false
+    },
+    {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
       "a": "Kabar24",
       "x": "Cara Masuk Desil Prioritas Bansos November 2026, Ini Data yang Perlu Dipastikan - Kabar24",
       "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTE9ITElXNmZMR3h5MW03ZWlaWUVPY2RCSXVlMF9YRzhOei1UTUJDNm9IWUhKT0tuc09qUGFRbmdOSmRMSTFudHNqZGdrc0dIV1hkOVhoN1VXd19WYzdEUm5DUVlaUFJBdXR3QUNNeXNUYzdYM0RrbDVIdXJCenNvN084TXBPVm53a2dpQVVUNkFudTd6QkJRU3RjclpjelRVOTIyVGNZVGlibGxSOE9HOFdrS3Y3R3Q0eVFCWjR6bEpOWE9ya3hkUFdhaw?oc=5",
       "d": 1793488224000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "PIP Termin 3 Diprediksi Cair Minggu Kedua November 2026, Cek Penerima - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRDcENYenhoaGFsNTFsWXpKSFNWYnRsenVka3h3S2JKdnl3Yi1CbGtuM1ozcVBoSmdNWHA4UWpndVdjQmN0R19xWHRWZG50b2JmdUNrRy1tMWlnMmh2WnpRVThwV283Vk9Sc0JqWnVfTkJPM1MtUkE0Y3htcldUc0FiU1RaamxQS2VaWExucUNxNEhWZHhRd2hySl9oNDF2MncyMEdsR3BBckJaYmU5cmhWcnpBWjg20gG-AUFVX3lxTE9GZlh4SUtySXpnZUlMNTR3anNPLVVjejd5QTRwRkdueTN4d3hJdVhTQXFib0NBRlgzX296ckVjVjRTNVQ2cDRGQzFWYXJsUjctVzhUeVhFUklnNDZtaFhGTXlBek45TXZBcy1xTlhidnJyNkh5UGxFa3ZEZDNyVmZUczk3TFRfdkxoNk40T2FNbzRHU2JkSmpYQmMxUmduU05PakZWbDM3NXF3WTJQUl85NkVnTEpsa0VLbXFPQVE?oc=5",
+      "d": 1793488346000,
       "urgent": false,
       "warn": false
     }
