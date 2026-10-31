@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DZUucqhEoGt": 1792260939720,
-    "threads:DdTApuykuoC": 1792260939720,
-    "threads:DcIR-WykW5P": 1792260939720,
     "threads:DXBpOC-lB8Y": 1792261245746,
     "threads:DemuT7SlIQw": 1792261245746,
     "threads:DJngA34psEt": 1792261245746,
@@ -25234,19 +25231,10 @@
     "threads:DbIpOHAFDBa": 1793470239850,
     "threads:DfHDMQIAYBw": 1793470239850,
     "threads:DTe9tU2k00h": 1793470239850,
-    "news:CBMizwFBVV95cUxNaGM2TFVTdmZtVXJvaUdmcHhnWEdtakNSdXY2Zzd2dS0tSXNILVRxOEZUUk1MR1QxWlRBQVBZNmZ3S2lTZlpiWjRIa2hBME1tWGhaWFh6YUJoLWJJMl83SE5Ed01qQ0hrZWgwVDZyNHp2eG9qREV2anBmbEMzUllVOGw5RmtwR3EzS1h2dGUyTXc0cWdMYTdFSzFXQ1VZRWM2UHAyXzhMQ3dVSHFEcFR0aW5qcmFONEs5ckhMR240R2d6WWk0SHY2c0Rwam9qQlnSAdQBQVVfeXFMTWpTMmdSSHFRZnN2SjY3N3JlM2d3LWdrdjA5SHdadE5zbDZrRy1SaDktczRZNEFQUnB4NVdHRHAtc25NMHAxOEt5Uk5TVnJIc0otYzdZaEEtR3g0emZBSTVTTm9xdy1OYVIzcU9ReHBtR1hrVzhzbUxVVzZPLWhGYzhSRDQ5b0NvWExhREJjdGpTYUdUZW5xVjlheG9fNVQ1d1VSQ0UwdGZKTDdTd2RzaVJielpxYnR1MjZLeVpfbDZJVnBiN2lMdngxaE85aDJ6TFI4clo": 1793470239850
+    "news:CBMizwFBVV95cUxNaGM2TFVTdmZtVXJvaUdmcHhnWEdtakNSdXY2Zzd2dS0tSXNILVRxOEZUUk1MR1QxWlRBQVBZNmZ3S2lTZlpiWjRIa2hBME1tWGhaWFh6YUJoLWJJMl83SE5Ed01qQ0hrZWgwVDZyNHp2eG9qREV2anBmbEMzUllVOGw5RmtwR3EzS1h2dGUyTXc0cWdMYTdFSzFXQ1VZRWM2UHAyXzhMQ3dVSHFEcFR0aW5qcmFONEs5ckhMR240R2d6WWk0SHY2c0Rwam9qQlnSAdQBQVVfeXFMTWpTMmdSSHFRZnN2SjY3N3JlM2d3LWdrdjA5SHdadE5zbDZrRy1SaDktczRZNEFQUnB4NVdHRHAtc25NMHAxOEt5Uk5TVnJIc0otYzdZaEEtR3g0emZBSTVTTm9xdy1OYVIzcU9ReHBtR1hrVzhzbUxVVzZPLWhGYzhSRDQ5b0NvWExhREJjdGpTYUdUZW5xVjlheG9fNVQ1d1VSQ0UwdGZKTDdTd2RzaVJielpxYnR1MjZLeVpfbDZJVnBiN2lMdngxaE85aDJ6TFI4clo": 1793470239850,
+    "news:CBMivwFBVV95cUxObU9KM0VqeERGUHdjbmotemx0NFY0OW9RRlJjMHF1ZWRxTXF2akk2dmZmb2t0MEdxSURtOHpNS2hyeHBVQmR5OEZST1VDaWVSNUZxcHRmcVhmMGpVQTBxS3ItUU9HZng5eFNfVkw2R3NIN0oyaEsxX21ZV0RSTm5XUzd2V185Ny0tLV9IaUlKSThrMGRaZEdXeXdsZEc1N2FjMEpFVmZsRXU4Nm9YZ0RKeDk0VWRwWVB6SDdxbVZBVQ": 1793470542006
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Waktu yang Tepat Cek Saldo KKS Tahap 4 di ATM agar Tidak Kecewa - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmhad3FBTklZODF4b3diSHk2dndJVENvdS1pQVZpV05sOHVLQ1hUQ2dLM2w3ZGUzU2hUTnpieXVjZ3F2WmNsQVhIa0VTLVVTeGZraFZxWUswa2lwMUZXTURldlpBdVpIZ0ZZZHJXbkN1djFkTXFwWHQxUjhxdjd6bU1RbERiSDM3SXBkQWNZV3FxLW45N0NGcE1fb0xLM3FJWjV1YnhELUVUVHpxckc5cWdn0gG3AUFVX3lxTE1DUGxJS19rNVpmd0NyeEFnaXJYdVBpTnhZQ0RKSDhnUU1SenhPbnhOSjNWMC1lUkQ1WFlIZzlFZnVsY25ESThLUUp5dmNxTGlYR29rZ25zWW1QTFZTbXJHdVlxd1p2bmp4MTRCTmFPOU5tejdiMHEzdGltS1NVTmZyeTBqMWcybnpUdW1keF85Z0hVR204UUZFSjdNcGVkdk5Xb3M5aWNvWW11ZUJtTnFNS1hLNVA3QQ?oc=5",
-      "d": 1793416802000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26736,10 +26724,20 @@
       "d": 1793465452000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "rmolsumsel.id",
+      "x": "HUT ke-15, NasDem Sumsel Ziarah ke TMP dan Dirikan Posko Kesehatan Gratis untuk Korban Kabut Asap - rmolsumsel.id",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObU9KM0VqeERGUHdjbmotemx0NFY0OW9RRlJjMHF1ZWRxTXF2akk2dmZmb2t0MEdxSURtOHpNS2hyeHBVQmR5OEZST1VDaWVSNUZxcHRmcVhmMGpVQTBxS3ItUU9HZng5eFNfVkw2R3NIN0oyaEsxX21ZV0RSTm5XUzd2V185Ny0tLV9IaUlKSThrMGRaZEdXeXdsZEc1N2FjMEpFVmZsRXU4Nm9YZ0RKeDk0VWRwWVB6SDdxbVZBVQ?oc=5",
+      "d": 1793470377000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
