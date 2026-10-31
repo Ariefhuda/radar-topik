@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DUcizGVErdB": 1792259441506,
-    "threads:DFpkFBtvmTA": 1792259441506,
-    "threads:DdaPAteATt4": 1792259441506,
-    "threads:DU24oBAl9wz": 1792259441506,
-    "threads:DdAcnxpHwDw": 1792259441506,
-    "threads:DEHUMXyy6Kh": 1792259441506,
-    "threads:DVUmhUQicBl": 1792259441506,
-    "threads:DbA7qrjDPlD": 1792259441506,
-    "threads:DYOM285mQKK": 1792259441506,
-    "threads:DYjpyE3E9eA": 1792259441506,
-    "threads:DcdAlFhk4cC": 1792259441506,
-    "threads:Db8iLevD55x": 1792259441506,
-    "threads:DU2poxWgbFJ": 1792259441506,
-    "news:CBMikwFBVV95cUxOVkFCMmZRU1VhMjhCNVRicjVkT0lnMHpzUEM1TFc2RFc2amhqWHFLdkZVdm81cWhGbm5DQUctRld5VkczYXA4UTlPekdqOEprT21vRFhHQjVTd0tnd3dWLVZlTGpHeGFFUzRaMzJBdC0xVy1xU0VJZ1ozR3BLaks1WnJxbElDdFlrcGdFMTdKOUJ5eUU": 1792259441506,
-    "news:CBMijgFBVV95cUxNSkc1XzJZM20zb2RXMlhKTnRWdWo1N2ZHMm5ETENTNUtFS3UyenZXbDdPVC02RkdmWFFzcmEyLWp3YTJ2TEJDVHYyQ3pHQWFENmZpT2NfRjJxX3VaMFlxakVpbWdSdHpzLW9UUGVlaDVLbzlwV1l0MWJaVXREUDBvaTdLRmZQenJQYVNGVjln": 1792259441506,
     "threads:DdURacWE93i": 1792259748973,
     "threads:DY8-pvrkgoX": 1792259748973,
     "threads:Dc-E0mamSlP": 1792259748973,
@@ -25230,39 +25215,20 @@
     "threads:DZDQFAeDIFS": 1793468755849,
     "news:CBMieEFVX3lxTE92OFh6QjhRSVIyZ2RXN0dac2RSRE8xenNMazBWTk5LT3hneWYtRWVWREU4Ylp1MUJSUjYxa25VWmlqZ2FNUVBWV1Q4Y1ZDWjRXMTdYNWJWTWlZRlNIXzRsb1VTSURvZzV2SzdGQzlfZ2NVRFVodWFiMg": 1793468755849,
     "news:CBMiiAFBVV95cUxPLVk1UjJkWG5yaWM1Z3g4M3gwQVlfZDNRRHpYZl9SRTBiRVdLd0sybmVaQ1FlaElPLWozTTlxeHAxcGJkQy1hRWZDUnRmcy1aakM4WjRzcmhPUnJNeEQ3TTNuYVRuRTRzZjc5Vy1ZRG5mY0cxaDVPdmRMX2NYZFhzVUhnb1E0R1ZE": 1793468755849,
-    "news:CBMiggFBVV95cUxPcVdCRzYzemU3OFNZXzd5aXdTbzhpczJNbGwzeHpIVjFCclFFQ0ROM09OMVBtNnNwWEREQUVrUGxMQ2F6UldvSUVyNlhMUWpFdU9qN1ZRS3U3dzN2MlFHUTFrVm1QZWRLRjFPaWlRajdXbnREUXZRNWN6dFpzbDFkamt3": 1793468755849
+    "news:CBMiggFBVV95cUxPcVdCRzYzemU3OFNZXzd5aXdTbzhpczJNbGwzeHpIVjFCclFFQ0ROM09OMVBtNnNwWEREQUVrUGxMQ2F6UldvSUVyNlhMUWpFdU9qN1ZRS3U3dzN2MlFHUTFrVm1QZWRLRjFPaWlRajdXbnREUXZRNWN6dFpzbDFkamt3": 1793468755849,
+    "threads:DUpmSfTmP8S": 1793469045717,
+    "threads:DfGt7lrnfVc": 1793469045717,
+    "threads:DRcGMgHk6Pp": 1793469045717,
+    "threads:DJl1eBcTWE-": 1793469045717,
+    "threads:Dax9cujGlwE": 1793469045717,
+    "news:CBMisAFBVV95cUxQb3NKaVdPWXp6TnVpXzhTbTBtckQtNklvMzUzLVptNXV3S1ZSejJsWW5kZHV0MHhkTFF5THVIN09GU0NqeUdYcU9uUVV2UC1kcnB0eVRhellMQ3hURjI2cXVxME9lN0VNMnVsQ1FfSmpGQzZZbnBtUzhvdmI0Z2x2bS1fM1A5ak9uOHRlS2NLSUthc0I4allmdUw2MTQzTU9RYWhMb1k3THV3cGM1c1ItSw": 1793469045717,
+    "news:CBMihAFBVV95cUxOYkU3NlpSX1UzSDl0ZjI0UFBIWXRLdlZWenNqSUxUMmI5VzdxUXdVaFpoeXAtc1RDbnRRUU56Y1YyZW9QdVkyU21xVnlKTmRKb3p4WHUwTWI1RWdDTzM5S0lFd1NoOWRpb1hzZ1MxRlR2UEh1M1pPYlB4X2RoQlJzSVIxUnDSAYcBQVVfeXFMTVhzV3R1Y01fakRrd3pSeGh0dHl0MWIzRG5adjJ4MFJ6UXkyb1VkOVE5WnYtTVlIZkIxVEFPV1FLdnFNRnR3WVNZRGllZUZSekJYVFNmLUtiWUd4VWNyOFk3MkRnYWtWNWFjVzNQd1lFRWJic1lXQkx4SzZTeXM1cExTZWltUWtZ": 1793469045717,
+    "news:CBMia0FVX3lxTE5rd3MwQm5yYnVGOFZPdGtyVG9ObVd1WHo1M1FXN2Uwd2JRM1hwd29fc2Q3bXRFU28yaGhjWEFZSmpqR3hVdFpYLU9acGNjcVVWUlQ5UEFIeEhkbUNWamRLMFJ6dXc2TXJZcktv": 1793469045717,
+    "news:CBMimwFBVV95cUxPSTBPdEh4clNEOXBDVWRwazZyQ0V5eUs5cGd4d25NYUxCaUtueVBpcVBhU09zS2IyTFFKOEZXRi02Y3l0S0pRSGxtVHhqaFVxV19MWFB0cmRGVVlSRE5LS0EzbmFPNzNvMF95c0ZvWEl4dmNlaUdTYXJ0dEh4b25BYURHUXJhU254WGxrWklLVnNKaWNETUJ0bTd2aw": 1793469045717,
+    "news:CBMiyAFBVV95cUxNSlVJNEdjdVJEX0ZaUGpLQmFzdmNpdGRMWFdGc3g1a3k2VE1FVnRFVzhyZHBqRTVvQVdqQ0wyM3ltd050ZTNrcGdlTjI5VzlzYmpsZmpaY0lvcUFlemlxc2ZHQTU5cEJjNTBBYnhrQ19vUHpRc2pfWVNmNm9oLVZaWWU2dXd2WTZRVnBIWjY5SG83R3FhZTJwN0k0Z3ZUR3RPVlBOWTVrUDRxU3h1VVFKa25yVWpzMWpsSEFVZFpLWnhRNmdRV0FLetIBzgFBVV95cUxQUldiT2JNdmlZb1RXR1UtLUEyYXNodUx5RlRlZVJYTjV5Y2hEeVR4d2JXMmQ3SXRWd09fQjdOY3M3OE9MMGRnU21fR25Xd3A3TWNheFZRQUJvQjUtZGV4TGxkSW1RTnpiMHVlbTF3M1I0UVRIU0MtTWRCNzFNMl9SWEpqRGZRd3pqVm9sRjFMWGltVHdFWlJOWnhHb1dTZHBrWVA5Qko3UVBZMloydWV5QkVIMUZqU1dZbEhQWUl3dGNxdnBNQWNMTEhIanM2QQ": 1793469045717,
+    "news:CBMivwFBVV95cUxPSzI5blp1RWlQUy1SY3VrckdlQjQzeGhRb0NDQ3VfeWhLQ2IyNlp5aTBoQTlHaDN5bzVzSjBnZnpiQTRtbC1KX3poS3FHNlB3WUIyVE5VZjQxZUdHeWo1V1Flelh3aTl3cHNWRk9nRkhZbjM2S0J1T1R2YmN0ZGlnVG1MX21OU0FpUTVqTllFdVcwalBmcExVbTBSRHJfRDAzci1QbXJWbXpsdFFhQ2lHQVIyeG44by1SVHlBZlZIZ9IBxAFBVV95cUxOR2RHTkpfcDdsTnp6YXFTb0dmLXpvMXE5aFIyVm4ySzM1dllWTXUtYlA0d0tocXVjbVJCZExsaXZ6VFZnMmU5alBJTjRFWFVjcE4zM2V1Z2FzSnlocEN1ckJGc2x6WVJjeGJNRVQyUjlpcHpzS3U2SWhjUDd0TERsVENDYjhoMDRlZjhNV0UtRTNyTGFFZllVNlkzVF9CMjBkRlJUYmZzT1U5S0oyQXhOaUp1eUxJTDB4LVBKVVYtZXRBV1Qz": 1793469045717
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Progres Bansos Tahap 4 Menuju Verifikasi Rekening, Kenapa Tahap 3 Masih Cair? - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFFxRkRGaFZxeUxCRF8wUmpneWpiLVM1OTNpQ0JHckp6Zk1hNDQ4S19KNndKOEFoVWVRUUZvcjVnY2l1dFBXRkdNV1hYXzNiU2ZqdGd2ZFpLYUVxZ2dJeTYtM0REU3paVktzbzJfUUpuNHlsaFkzRE52ZXN6cWhsYmUxSExtMVFKR0VGT2RCeGs5RDRoMHZNSHlKdV9reTh2Um1veHlxWFhJRVk4ZXlnaUZHZE9JRzViNFEydk83WjFOZ9IBxwFBVV95cUxPbF84NzNNY09HV1k0U3ZTd1ZxdGhxeHI4ZW1mSUoyOV9tVllPYmJkNnF6VFRnYXN5MmhzVFpidGJtMV9tbVhMUDRQQURqMDYzTmZPUXQ2ajVqQS0xRTFDWXRHRk8xX2libkpMRkNITnZLbjVaX1NGelQ2bVRKM2Z5ak1zZTFHUlhGQURlM1BhQXFmZnNmczdNZVd1MEJ4MDRiSGpTQi1kZ2ZkekMtQjJWaUQzM2VZUFVtODFHTkhvN1lRcWFYc21j?oc=5",
-      "d": 1793418270000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "BSU Oktober hingga Desember 2026 Sebesar Rp900 Ribu, Siapa yang Berhak? - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTN2VnJfNHBZNVIyb0VrbkZjRWFoQUExWTA1dXI0TkRjLUg0cURmRk1KZUtuTXljMXBaX21rYUR2Mko0RC1KeVlhNUJXNHFaejM5TC13a3dVcUdtVEpPWVVZLUwtY1hYckVCZENHTGt2U3VsenlmbHpZR1U1ZmVEYzZTVHNuYy1wNlZKa3Q2MFRBbnhheE9kX2pwbDBGUlRyTk1Ja2xGLUlKYkVSdzJGV3BYWkhPWDlOSEHSAb8BQVVfeXFMTlNBaHFVVHM4RTgtR1pnME15cEcxYnJxX0ZlaGRSeDdwaU0tUkhfR3B5ZHdpaE1NVUR1Q0Q0N1ZyUmVYTWZ6cGx0aE5hMEphNERxNVFVdExzdlA1d3hrWkEwQURfeUhsVm1BU0ZycHRLOW1aSlliRzBsaDVRUHNES2E4NkpwSXVzbjBhd0NyRlR4U0U0YTVveGsyRjVqZzNXRk5fZG9mcjRiNW5HS3AzWWpWVmhOakdMaTc3RDFESEU?oc=5",
-      "d": 1793447065000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Jawa Pos",
-      "x": "Update Status BPNT Tahap 4 di SIKS-NG, Cek Alur Pencairan dan Syarat BSU - Jawa Pos",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPME9YWFEyQzNYMFRnOFJrN3d0VnB0R3VlUHVCbko3S0dSdXR0SUlBbmRoQ1FndENqeFVsTDdFV3c2NjZfNmpESUFfc05YME1SM0IwNzdMX0VRa090N2s0RHFWaGF3NFZHTi1MSmZ5NjZfekh2bWhHa3RybXVyY3c1MFk3aC16anpKamV6V2lSZHkyM0dyXzl2VERiblNWVmZlMWFYaFFRQnh5VzdZcWlzSTFXRXk?oc=5",
-      "d": 1793440859000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -26732,10 +26698,40 @@
       "d": 1793432011000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Tirto.id",
+      "x": "Cara Cek Penerima Beasiswa Kartu Indonesia Pintar Kuliah 2026 - Tirto.id",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTBPdEh4clNEOXBDVWRwazZyQ0V5eUs5cGd4d25NYUxCaUtueVBpcVBhU09zS2IyTFFKOEZXRi02Y3l0S0pRSGxtVHhqaFVxV19MWFB0cmRGVVlSRE5LS0EzbmFPNzNvMF95c0ZvWEl4dmNlaUdTYXJ0dEh4b25BYURHUXJhU254WGxrWklLVnNKaWNETUJ0bTd2aw?oc=5",
+      "d": 1793461418000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Kelompok Penerima Bansos PKH Tahap 4 Tahun 2026, Cek Nominal dan Cara Mengeceknya - Bicara Network - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlVJNEdjdVJEX0ZaUGpLQmFzdmNpdGRMWFdGc3g1a3k2VE1FVnRFVzhyZHBqRTVvQVdqQ0wyM3ltd050ZTNrcGdlTjI5VzlzYmpsZmpaY0lvcUFlemlxc2ZHQTU5cEJjNTBBYnhrQ19vUHpRc2pfWVNmNm9oLVZaWWU2dXd2WTZRVnBIWjY5SG83R3FhZTJwN0k0Z3ZUR3RPVlBOWTVrUDRxU3h1VVFKa25yVWpzMWpsSEFVZFpLWnhRNmdRV0FLetIBzgFBVV95cUxQUldiT2JNdmlZb1RXR1UtLUEyYXNodUx5RlRlZVJYTjV5Y2hEeVR4d2JXMmQ3SXRWd09fQjdOY3M3OE9MMGRnU21fR25Xd3A3TWNheFZRQUJvQjUtZGV4TGxkSW1RTnpiMHVlbTF3M1I0UVRIU0MtTWRCNzFNMl9SWEpqRGZRd3pqVm9sRjFMWGltVHdFWlJOWnhHb1dTZHBrWVA5Qko3UVBZMloydWV5QkVIMUZqU1dZbEhQWUl3dGNxdnBNQWNMTEhIanM2QQ?oc=5",
+      "d": 1793450760000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Desil DTSEN Tiba-Tiba Naik? Ini Penyebab Bansos Hilang dan Cara Sanggahnya - Bicara Network - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzI5blp1RWlQUy1SY3VrckdlQjQzeGhRb0NDQ3VfeWhLQ2IyNlp5aTBoQTlHaDN5bzVzSjBnZnpiQTRtbC1KX3poS3FHNlB3WUIyVE5VZjQxZUdHeWo1V1Flelh3aTl3cHNWRk9nRkhZbjM2S0J1T1R2YmN0ZGlnVG1MX21OU0FpUTVqTllFdVcwalBmcExVbTBSRHJfRDAzci1QbXJWbXpsdFFhQ2lHQVIyeG44by1SVHlBZlZIZ9IBxAFBVV95cUxOR2RHTkpfcDdsTnp6YXFTb0dmLXpvMXE5aFIyVm4ySzM1dllWTXUtYlA0d0tocXVjbVJCZExsaXZ6VFZnMmU5alBJTjRFWFVjcE4zM2V1Z2FzSnlocEN1ckJGc2x6WVJjeGJNRVQyUjlpcHpzS3U2SWhjUDd0TERsVENDYjhoMDRlZjhNV0UtRTNyTGFFZllVNlkzVF9CMjBkRlJUYmZzT1U5S0oyQXhOaUp1eUxJTDB4LVBKVVYtZXRBV1Qz?oc=5",
+      "d": 1793451360000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
