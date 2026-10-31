@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DHze5IaS6Ab": 1792273549438,
-    "threads:Db-taZgkWnj": 1792273549438,
-    "threads:DFKgnkxvOR3": 1792273549438,
-    "threads:DBH6jBJBgcg": 1792273549438,
     "news:CBMiwAFBVV95cUxPUzVsWWNSUzZrRXcwSmRaRnBQekpfaS1rd0dQQmo0Y3BybXIwcm5OdXlKRjROc2FITEVYZnNUTFdnUlVySTdMLTN4cGpPVXhtTGJHWEcyXzVDZXJGSi1td0hKbGVKNmRNZFVuM2dZYXNMX1JKSk1DVTFkWmt3WGpjYS01WFcwS2FpZXFBTWVPZ1J1RlpJWGhlY1prRVh1cDlFTVZtdmRJdTBNY3VTWUdfOTI4TEJyTkpIT1lIV1hTSFnSAcYBQVVfeXFMT3I5MGJXQ0xEZmctdHdveHBYend5bHNodUlDUll6WFAycG13WXdGb0FoNklyX1ZZWDNGVmExR3RLMEc4R3NRbDRyWDlLLU5XdDhXVGwxbDNGN05EZnJoTUViU2hzZVRFT01PdTBRd1pCUG5SNG5sc2x4TU0xdjV0a0J0N3FPS1ZFVlRVQ2VudURkRmFpREVobWRMMjNRV2w2el9Id3Q2RWFxblpqOEN5ekJLdmNnY1Z5TVF1enlnN2VXejVFMzl3": 1792273838587,
     "threads:Dd4PlRRiVyV": 1792274140974,
     "threads:DenG69BExyp": 1792274140974,
@@ -25498,19 +25494,14 @@
     "threads:DfLIkXZk-72": 1793482535580,
     "threads:DfItbvtkpX8": 1793482535580,
     "threads:DfHDJfAgaD0": 1793482535580,
-    "news:CBMiYkFVX3lxTE5zUmdDVXo2MFRmZWtfNzExWEctLU85d3ZfSXpNbV9sM0ZwS1RYbmZiaXZEMXZVRHd3X3Y3S0s0QXM5eDlfSmtUNjZ6dXY3bVlIQnk4S2JmQm9EOU5BX0piY1Nn": 1793482535580
+    "news:CBMiYkFVX3lxTE5zUmdDVXo2MFRmZWtfNzExWEctLU85d3ZfSXpNbV9sM0ZwS1RYbmZiaXZEMXZVRHd3X3Y3S0s0QXM5eDlfSmtUNjZ6dXY3bVlIQnk4S2JmQm9EOU5BX0piY1Nn": 1793482535580,
+    "threads:DfLJJ6eDTwW": 1793483142610,
+    "threads:DfLJIsdk9bh": 1793483142610,
+    "threads:DfLJFvhgSAP": 1793483142610,
+    "threads:DfLIwrzE-eL": 1793483142610,
+    "news:CBMisgFBVV95cUxPcjFobkUyZDNHM1ZLZGx2X2ZyWkhELWI1b0VNS1NIWUxLUElrMmZLQWFZQnZYWHh0TE10cXAxZm0zd1lrSmp0MHVvTDVuQlg4akJtdEZualV2WUs0QjNnTEdyWnhuSmpQLWVBWUFIa0k4VGlmLVRvWVFFWTkwelFkeGFwS0VzWGU4QWx4bkV1dUZfX2RRUmZ1WkY1UG52Nlo5Mkp4bjhhNVhRM0UxdWZUekpn": 1793483142610
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kalbar News",
-      "x": "Pemkot Perkuat UMKM, 78 Usaha Terima Sertifikat Halal dan 11 Difasilitasi Kemasan - Kalbar News",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWc3QWoxcS0tSkZpOVk2WkFEMkxGMlNkQUxQSU1wMHFMNnlMa2JJUTlTaG1rcG4tLXdnUzRzUUZNSjMwWlpiRU40V09UckVFSmhienNoMVhmd2dIMnV0ZmF0ZS1Bb05UM2Q2bTJURnhjM1EyQXdEYXp2elJwbnhOQl9Rcw?oc=5",
-      "d": 1793426820000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -27000,10 +26991,20 @@
       "d": 1793401130000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Cara Mengetahui Pekerja Dapat BSU 2026 Rp900 Ribu, Ini 6 Syarat yang Wajib Dipenuhi - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcjFobkUyZDNHM1ZLZGx2X2ZyWkhELWI1b0VNS1NIWUxLUElrMmZLQWFZQnZYWHh0TE10cXAxZm0zd1lrSmp0MHVvTDVuQlg4akJtdEZualV2WUs0QjNnTEdyWnhuSmpQLWVBWUFIa0k4VGlmLVRvWVFFWTkwelFkeGFwS0VzWGU4QWx4bkV1dUZfX2RRUmZ1WkY1UG52Nlo5Mkp4bjhhNVhRM0UxdWZUekpn?oc=5",
+      "d": 1793458963000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
