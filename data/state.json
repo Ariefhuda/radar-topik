@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DenD8t6E3Nz": 1792272334622,
     "news:CBMinAFBVV95cUxPYXF3WG9UandLbGRVc2ZKUVJhaS02WE9VSVJXWERDX0RsSmhlZXV5OHJWVXExSVRjaGo5V1RDTjV5eHJDZkNVTElYdEpFbk9mU1ZNb1JNR1FxZlhtclVCUzZTclIza045RjBBRHQ0aWkwSjQ4WUlYc1VPM0I3ZVRsODNaNTlJN2JKLTgzTGFCUmUtTGtiOV9PazJPX04": 1792272650007,
     "threads:DFcZFW-RYWU": 1792273238586,
     "threads:DDxdHFXT8pY": 1792273238586,
@@ -25487,19 +25486,15 @@
     "threads:DfLGPvvGol8": 1793481641407,
     "threads:DfLFmdnk17X": 1793481641407,
     "threads:Dd0PE_ZD1U6": 1793481641407,
-    "threads:DYdpwfYE4Us": 1793481641407
+    "threads:DYdpwfYE4Us": 1793481641407,
+    "threads:DeOXi8nDzoa": 1793481949014,
+    "threads:Dc3WOZOFJ9p": 1793481949014,
+    "threads:DfLGgwGATl4": 1793481949014,
+    "threads:DZq2bc1mbis": 1793481949014,
+    "threads:DXn6Dq7EhZY": 1793481949014,
+    "threads:DcdAlFhk4cC": 1793481949014
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@afifkemalr",
-      "x": "Pas bangeet bu guruu Malam ini lagi ada kelas GRATIS 7 hari berkembang di Threads bu guruu 😁🙌🏻 Kalo bu guru mau, boleh DM sekarang ya bu guru Karna sedang mau dimulai 😁🙌🏻",
-      "u": "https://www.threads.com/@afifkemalr/post/DfKKqEqDz6B",
-      "d": 1793450007000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -26989,10 +26984,20 @@
       "d": 1793455200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Ini batch 100 hook yang kamu minta - versi kritis, provokatif tipis, mancing debat tapi tanpa ngarang fakta: 1. Pajak naik terus tapi layanan publik gitu-gitu aja, yang naik benera",
+      "u": "https://www.threads.com/@meta.ai/post/DfLGgwGATl4",
+      "d": 1793481388000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
