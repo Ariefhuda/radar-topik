@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DaP9wlwmU-9": 1792357845865,
-    "threads:DepndZxAqv6": 1792357845865,
-    "threads:Depm2IQDv4F": 1792357845865,
-    "threads:Depm0hoDjJN": 1792357845865,
     "news:CBMixwFBVV95cUxNeWRZX2djcl9MRmtmZEx5REMwcHNxamRta050WHZtQmVZajRvVHY5c3ZoUmx2My02aThNY0pGM3lDOE1jd25PQlh5Sl8telZiRlMxSjMzNzM1S2RZUXB0Q2JHdDk4bzZob1pjX2pXUDYxZjU3QlZ5WUFqdi1lLW1fYVM4QW42TTVoZGR5MXBpbU4wV3RlOEtmS2VqYzZxRU9EUEZ5cUc0MU5vd0pPYU1pdnB0cVBaVlgwZWZLSXlwQXFUaEdwQjBF": 1792358221219,
     "news:CBMilgFBVV95cUxOYzhBM2RBZzFGT1lRTHpKTzZrOTVUQmhpdDNxbWJGZmZESGRxWnBQV3pMbGE0MFhLX3hBbEs1ZjdKb2JvdUF1aFFDVVdlbnZ6WVZPS3hVWDBxWTNiX3RJdkFJY3JlRGxJaUhhNjFQQ1V0MVRSQVhrY200ODlHdTNMNlVKQXNPRUFtdFpqcE1PakNiVjRsa1E": 1792358221219,
     "threads:DdwPI5Qk5jU": 1792358440983,
@@ -26975,19 +26971,11 @@
     "threads:DfNpbOPCJHW": 1793567132608,
     "threads:DeQyATrE9vS": 1793567132608,
     "threads:DednD9So9kF": 1793567132608,
-    "threads:Dc5N7oQDyGL": 1793567132608
+    "threads:Dc5N7oQDyGL": 1793567132608,
+    "news:CBMinAJBVV95cUxQbW1ucWxYYW9GMjNmS0hFMjVIczFnVFpFLVM1aTVZX2lyYVNRemljT3lFMloyRk9CcFVfSjFqak9iR0QzRHpvTHNmZ21HM1dMZXpxX21NU2VzRk9iWDFacDQyVzZLa3p3LU1aclp0MFpuWFNiMzhqRXR1aGIwTnhjX0Izbmx2Tm9STGVGekloT1hCbk5NaC1tNkhVX1ZQbGpoNGg5ekNkczJPa1N5VWc2ZElLTEd0aUdERzRwVnZaNkkwRmVpbnVpYzhNX3pLZjFsZHo2U3dncVg5dXIyY1JLdW85eHUtLVZBeU1BczQ5UGZhcXhjWXhYbDl2MnhnTTU3QmZhRzFLYmhFa292UUV4dnVldW01bVByQXlkVw": 1793567443813,
+    "news:CBMiugFBVV95cUxQYXFhT2ZQZVFNUklaa1UwY2dERWhWcGwzZmI0RXdMUmZGX3RWX19OZl9GRWRuUER4aEEtLWtGbmM1d05kWExSVGQ3NmRWYmwwa0s5eU1yTll4Tm5sR2RqSmN3bHd4NkM1MFRiRTdYMU9FamstZ0Y5eXNGU3hydDEwVXIwbU4ycXlJRHJmbTlFRTB4M0ZVbGtwX19ZYl9OMERUWV9XZE1BcTVmbHlWc0E4MjV5aTJ3ck1FSVE": 1793567443813
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "PEWARTA",
-      "x": "5 Fakta Mudik Gratis dan Diskon Transportasi Nataru 2026/2027, Bus hingga Pesawat - PEWARTA",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3UxYTR0ZHUxSTNFLUQySi13b2w0bWlUcmdYeW5WTDJWeVRkYXotUWc3dGNnaERLYXo4LTFaOFRhOVpNZkVUSVlRQjhQdjdsaXNMVzVQdmk2bUNCaUpkLXpPaTNqNm0wUVcxd0h4cldrSFhoVEp6UVFZUnpiNXNKSVFhdFhKTElpMDgtcXJYM2NrYTNfanREM3I4RWpYOWJtWnRzd0xER3pESUVOUXNKMXN0WC1QX2hCZDdV?oc=5",
-      "d": 1793527440000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -28477,10 +28465,20 @@
       "d": 1793561282000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "rmol jateng",
+      "x": "Hujan Mulai Turun, Ahmad Luthfi Optimistis Produksi Padi Jateng Capai Target 10,5 Juta Ton - rmol jateng",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYXFhT2ZQZVFNUklaa1UwY2dERWhWcGwzZmI0RXdMUmZGX3RWX19OZl9GRWRuUER4aEEtLWtGbmM1d05kWExSVGQ3NmRWYmwwa0s5eU1yTll4Tm5sR2RqSmN3bHd4NkM1MFRiRTdYMU9FamstZ0Y5eXNGU3hydDEwVXIwbU4ycXlJRHJmbTlFRTB4M0ZVbGtwX19ZYl9OMERUWV9XZE1BcTVmbHlWc0E4MjV5aTJ3ck1FSVE?oc=5",
+      "d": 1793562173000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
