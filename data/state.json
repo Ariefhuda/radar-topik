@@ -26816,11 +26816,38 @@
     "threads:DfMrdCFDeme": 1793534453512,
     "threads:DfMrK0-mo6M": 1793534453512,
     "threads:DfMrBEJmDzP": 1793534453512,
-    "threads:DfMr6o4mROa": 1793534453512
+    "threads:DfMr6o4mROa": 1793534453512,
+    "threads:DfMromMgopg": 1793534742530,
+    "threads:DfMrPR0k8-1": 1793534742530,
+    "threads:DfMq9jEm5Co": 1793534742530,
+    "threads:DfMrr6UmaE4": 1793534742530,
+    "threads:DfMrIG1FM5E": 1793534742530,
+    "news:CBMihwFBVV95cUxQYmd3UkFhM1dpbzJPVDdsZHR3UkJDNE9mVXFIcm9vY3RLbDUtd2hxQlNRTnpyTEF3ODQ4ZGx1dWxIX3FDN00xcF9lQ2N1M2tSbGc1SjlLN1FGUHp3Vlp1UUl4bzQ3WVgxalZOLVM0UzR1VXUxTFB4VmNzUWl3alFoTmtfRXZsNk0": 1793534742530
   },
-  "digest": [],
+  "digest": [
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@atritweet",
+      "x": "Prabowo lengser, gw kasih pelatihan public speaking gratis biar ga ada lagi wowo wowo yg asbun kalo pas ngomong didepan publik",
+      "u": "https://www.threads.com/@atritweet/post/DfMrr6UmaE4",
+      "d": 1793534432000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dear.pitachuu",
+      "x": "3 bulan berturut2 buka kelas gratis bahasa Arab dan 1 kelas lanjutan yang masih berjalan. jujur bersyukur dan happy tiap ngajar, terlebih kalo ada yg japri2 gini, kayak nambah sema",
+      "u": "https://www.threads.com/@dear.pitachuu/post/DfMrIG1FM5E",
+      "d": 1793534139000,
+      "urgent": false,
+      "warn": false
+    }
+  ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
