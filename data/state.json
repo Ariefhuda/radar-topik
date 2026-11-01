@@ -27002,7 +27002,12 @@
     "news:CBMiigFBVV95cUxPdC1oTXhpNjJ3YmNDNlFRaHhPcTBFdlZGNTRJaG5EUTBqR0VaT1NpeDVwZDY3c05EaUd2WkNUaUd1VHBnWms5TUJScVgwWTRzcXRSUDc0TC11NHp1RGQ5Sk1zMmI0aGZVMWF3aVhza2hjUTkyb0RrZGpQdzRrMlo3OGo0M2w1aENENlE": 1793540763845,
     "news:CBMisgFBVV95cUxOTW9hd0N2QnVRQnZMbUhJNHU4ZXZvMUJfcUI3UnZWSkxZWlg2b2tRN0lwUDNLOHVyaXY1TF9RUFhrajJoQkQxM2hFS0ZNWERuM09RMWJlcmkzZXJxRTMxejA1d1FGN3hPMEx5T0FMVTVDWmJ3X3pJRlZjVVUyNW9VMlFvck5uTlg2ZnhPWFowb3RDb2tkRDV0NnhRRHhndDYtdnVQRGRaN0RSZmRobVBhbDN30gG3AUFVX3lxTFBGMkcxN3NoeTlVUEpRNkFpTWZPOTBHcVBLR0pyaVkzaHNDTUI3QkdWTzdJVHh4SHNtcHlRR2VVeGtHVkxHN0taTEgyN2doRUhaTjF3MDhHODBvS0dKV0xEaTR6SVJ1MWIzX2pGU182R2gxWEt0X1lLVnJWS1VqRmVMN2lDX2hZRjBkVjRMeXpzV0NoUlpjeXltWXNXNHVzbVV6Wl9MWnF1RzFPM0pNdXl3dm9GLU1pOA": 1793540763845,
     "news:CBMiiwFBVV95cUxPMW9DanZTV0JOWlFkNUpZNGUxcV9VSHAtWWlhX1RYMVRhX1lvTWluZ1I2QldYZF9OUldreGlkVHo4WjFpWENla3VqYkRyR011aXlTMDRfZUhGY2Z0WWZXNTlCQ045NUY3OU9Zdm14UW5TN2NiQUpiS1A1TnhqaUNtTm1MMkNZdE5NNm9N": 1793540763845,
-    "news:CBMizwFBVV95cUxNVkJkSUFzclhCc3VYam92SXh5R2N4SW9aNkZnQ0xRcVV1eDhjd0NNRUZsTWRvMVo0NjhxSDJVUEtoUV9tMHdXVER4b1lnWEk0WXozWDZCYzZTYURlR2stUXB1a0d2NVpQcURYUmJNVzVrVlJkZU4tSDVMZ1dEdVYwUVdRRDJhSUx3SWZOODBPM1dQRUZDSC1yZ3N0Mlh3ZHRzeDA2WDRPMHRCMGZYdlJRdWJCTEJlUGJ1SENxNXJkTXZwbU5wNzNQWk5QN0dMeEU": 1793540763845
+    "news:CBMizwFBVV95cUxNVkJkSUFzclhCc3VYam92SXh5R2N4SW9aNkZnQ0xRcVV1eDhjd0NNRUZsTWRvMVo0NjhxSDJVUEtoUV9tMHdXVER4b1lnWEk0WXozWDZCYzZTYURlR2stUXB1a0d2NVpQcURYUmJNVzVrVlJkZU4tSDVMZ1dEdVYwUVdRRDJhSUx3SWZOODBPM1dQRUZDSC1yZ3N0Mlh3ZHRzeDA2WDRPMHRCMGZYdlJRdWJCTEJlUGJ1SENxNXJkTXZwbU5wNzNQWk5QN0dMeEU": 1793540763845,
+    "threads:DfM3jIhmcxl": 1793541045658,
+    "threads:DfM26AAE_Bf": 1793541045658,
+    "threads:DJQWPzXS2-Y": 1793541045658,
+    "threads:Db_KDQ3AaCT": 1793541045658,
+    "threads:DQBGoSGgBYN": 1793541045658
   },
   "digest": [
     {
@@ -27634,10 +27639,30 @@
       "d": 1793540761000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@just.lelyyy",
+      "x": "Sebelumnya ak udah pernah ke kantor desa, tapi sama operatornya gak dibantu, malah suruh nunggu hasil sensus ekonomi bulan Desember, makanya ak ajukan sendiri lewat aplikasi cek ba",
+      "u": "https://www.threads.com/@just.lelyyy/post/DfM3jIhmcxl",
+      "d": 1793540652000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@fatma_amelia05",
+      "x": "di web detsen bps sama aplikasi cek bansos kak, itu kenapa ya kak kok masih ga berubah?😭",
+      "u": "https://www.threads.com/@fatma_amelia05/post/DfM26AAE_Bf",
+      "d": 1793540315000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
