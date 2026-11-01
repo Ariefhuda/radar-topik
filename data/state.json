@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DepgMPlkxT7": 1792354242377,
-    "news:CBMieEFVX3lxTE5DME5aalk1UDhseG9oRExDdTh5eHpUcEVrVTkzak93R21zZHFFRk8yTHZ2a3EwOHRicWNjRkI4YkxXM2F1TWNfdnlWbDRqRGMtZkpxN2NjWko3QzlPY0JXQkw2ZTM3ZHJRV3RLNFZCNlNkN1JTNjdNMA": 1792354242377,
     "threads:DcB2lESD04u": 1792354543142,
     "threads:DeojJAUjEBw": 1792354543142,
     "threads:DepgzmgjxBr": 1792354543142,
@@ -26970,19 +26968,12 @@
     "news:CBMi_AFBVV95cUxOdW9UYkRvV18zRlg5S1RfMlgzRmpGUUxUcjZ1S215MFhjaV9Pd25JcVhhTnJ6ZWZnYV83aWNaa0ZtdGlEU1hlYWRCYWIwX0FySFQtWDBra2thTE5RMnUzX2Q0bDI2cmhCQVh6aXNqTUFtQWRuWGxfd0ViMzhIemlCb3cwWUdCcThEUlZiWWdjWnFYQV9uVFg5UXZENXhwdW5HMzRibXc3RXJMS2dzWTFSNjJxSEtiMlFvMGdHdDRSNDd3bHFmMTZXYjZmeFVaUExwQ0ROQ1VEQzhINU9KOGdVaFpBdXhmVkY3SEpjUE92VmVtTDUzWk1OMDFYVXM": 1793563539335,
     "news:CBMi1gFBVV95cUxPM05jcFJDWDVxTXBkTi0xdFdwUnVCWEpUVDFxSnNLOVJLUzNXUTZGWlJVbVZNa2FMOXdhZHYwT0Z4V3ZHNG5WNUgyRXNEOGdVNEdpODExbEJkb1lUcXFWSnBCN0p2cU9wUkZWTGdqc0k3S3FGU1ZILS1Tb3VuVGIwMW8xSWFfVjVkNXMtOHpXY0pLOXREOHdueWJ2b3RjdEdxbXQ4NnRDV1ViUU5KYWhaYVFudnM3aXp5amlmejRaN25ldnFOXzZqNkhhVV9kTnhGVjd6dk9R0gHbAUFVX3lxTE10dDE2dXR6WW9lZnRFaHdrZ0hvQjEzRjN0bENiekhOVXp1bktlVzFQdDBvUF84QjZ3ODJQRFAyUG5ZYV9IaUdLTklYcEFIS09jaGtDNmQzcHZnOS1xOW51UlpDdjJTQndrVTl4dmRGZFlsTXlxeFJvOWVLVk5rcEkyeXJTQ3JLRUZ6Z2R3ekd4WWFveUdMaDN3LXB6MEhVMUoybDVPQlVDWVBBMUh1UnotWEhkMDNVVkNBOUFVT0JtdXhTNDdqRVNhYVdRcE9HMzAwRWdGMFdaMGg5TQ": 1793563539335,
     "news:CBMi2AFBVV95cUxNYlVpaDVaemZjVFNXaFE3OU1wUjhGM3lxdHhERUVVV2w5VWljbDAwS0ZjVDEtQmhrRVhKUklNYmotczRfdGZ5YjlXcnl0V0JlLXB2ZnBtRjVhQmRud2NoWnVfWEM3RU5tdGgwSEdhcUUzTm1yeTA5SnY5V2FHRWlWcmZkX1FNV0JWMnBCeU9hN1FLX3plV1hkak5fR2J2WmtQZ0dKM2wwWlFHUTdSd0o1NnlVN1poS0o0OGVLUkhhMzJOWXhVZEgyZ3h6LXVkYVFWdUJkbXJHZ0Q": 1793563539335,
-    "news:CBMiugFBVV95cUxNMkc5Z3BwWHBDOWNLZmVleFRpYklFOHMzZ01mc0stR3RyRGxmNDZOUWdka1JKQnNoOHlQSTVOQWw1UGNNZVpTYVVRLUZISjFlRzNUT2tRVmhBcFlIWXN6TkFaTUNzRVhVdDk3bm9nMHhiWGZiaTMxT3JwMEd6eVVULUF2alkzVTVrZVNwLW5BTDh1TDdLeW1fVEh6ckQ4MmJjQ2VvU01zOWdPZ2p0ZmE5MXlqTVFNZzgybmc": 1793563539335
+    "news:CBMiugFBVV95cUxNMkc5Z3BwWHBDOWNLZmVleFRpYklFOHMzZ01mc0stR3RyRGxmNDZOUWdka1JKQnNoOHlQSTVOQWw1UGNNZVpTYVVRLUZISjFlRzNUT2tRVmhBcFlIWXN6TkFaTUNzRVhVdDk3bm9nMHhiWGZiaTMxT3JwMEd6eVVULUF2alkzVTVrZVNwLW5BTDh1TDdLeW1fVEh6ckQ4MmJjQ2VvU01zOWdPZ2p0ZmE5MXlqTVFNZzgybmc": 1793563539335,
+    "threads:DShTDYNmAxK": 1793563840745,
+    "threads:DfNirmskxee": 1793563840745,
+    "news:CBMiTEFVX3lxTE5PdzBpdTBKeWkxN3ZRYkNuTVE0OGlfNjhVQm91ZjVMWFBwdWVTdlZ5aEc4eS1jRi1abUNLWmdXbV80U04zTFpmUkpza0E": 1793563840745
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Gora Juara",
-      "x": "Pablo Benua Selesaikan Pendidikan S3, Raih Gelar Doktor dari Sekolah Tinggi Teologi Indonesia Jakarta Lewat Thesis Ini - Gora Juara - Gora Juara",
-      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb2lwNzUwVXVZbTlTSXdYaTN4YVpfRUpZSHFtY2pYdWE2dGgyWUNCQXBCRXdNV0hKb1FmTk5EMmhKa2hYNkxEbkpNM1hDLWZJNThsTWM4bXYtSzJtaDlZRVhndHlzbFg0S2FZc01oVVltaV95Q2JpeU1vNGxWR0UxVU5LdVYydlh3dXhzZGw4c1RmUkRVcXlON0pqQV94MW9GemgzZUJ3TWpDWGJjSHJMYTBkakRvT0pPVVNyTUFsWENUWDVmY21CaXVKTmFGdlgxRV9tVkMtaGRzTElUVU9FMy1IYUlyTzdoNWNzUjdBNTdLWFNDaEpVY9IB-AFBVV95cUxOb2lwNzUwVXVZbTlTSXdYaTN4YVpfRUpZSHFtY2pYdWE2dGgyWUNCQXBCRXdNV0hKb1FmTk5EMmhKa2hYNkxEbkpNM1hDLWZJNThsTWM4bXYtSzJtaDlZRVhndHlzbFg0S2FZc01oVVltaV95Q2JpeU1vNGxWR0UxVU5LdVYydlh3dXhzZGw4c1RmUkRVcXlON0pqQV94MW9GemgzZUJ3TWpDWGJjSHJMYTBkakRvT0pPVVNyTUFsWENUWDVmY21CaXVKTmFGdlgxRV9tVkMtaGRzTElUVU9FMy1IYUlyTzdoNWNzUjdBNTdLWFNDaEpVYw?oc=5",
-      "d": 1793526900000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28472,10 +28463,20 @@
       "d": 1793563338000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Headline.co.id",
+      "x": "Menag Nasaruddin Umar: Ujian Bangsa Jadi Modal “Naik Kelas” - Headline.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PdzBpdTBKeWkxN3ZRYkNuTVE0OGlfNjhVQm91ZjVMWFBwdWVTdlZ5aEc4eS1jRi1abUNLWmdXbV80U04zTFpmUkpza0E?oc=5",
+      "d": 1793542284000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
