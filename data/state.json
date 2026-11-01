@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcB2lESD04u": 1792354543142,
-    "threads:DeojJAUjEBw": 1792354543142,
-    "threads:DepgzmgjxBr": 1792354543142,
-    "threads:DdVVo-wEkTJ": 1792354543142,
-    "threads:Deo1DiPDlFq": 1792354543142,
-    "threads:DeoELzpkoJY": 1792354543142,
-    "news:CBMi1AFBVV95cUxON0xsQ1VvS2xBblV0bGh4VEQ1VW9ES0JUVGpsX3JlNEp2b2x4U2NsbWM2TEkxMGVXdFhza3lfWDROOE1LdGVMcWJFR2x4emtEWFpZRS1GX2lIRzgxbl9xZVdTWS1TbGMtSzlMMGh6VlczUXlLdlE4TDAzdnN1N09LcEtfMnlRbGh4b0wyVHRwUGlSZlF4VEdMNTdnazBQbTU0UzFEc1UwRXAzUFFWWnQwQ0puMUJ4YTNVc1NCZGtSMkZrOVpFcU44YjIzM2M1UG05Xzd2bg": 1792354543142,
     "threads:DTYNMl-kwA1": 1792354839966,
     "threads:DafyDjmDzuY": 1792354839966,
     "threads:DYL78YoiTLf": 1792354839966,
@@ -26971,7 +26964,19 @@
     "news:CBMiugFBVV95cUxNMkc5Z3BwWHBDOWNLZmVleFRpYklFOHMzZ01mc0stR3RyRGxmNDZOUWdka1JKQnNoOHlQSTVOQWw1UGNNZVpTYVVRLUZISjFlRzNUT2tRVmhBcFlIWXN6TkFaTUNzRVhVdDk3bm9nMHhiWGZiaTMxT3JwMEd6eVVULUF2alkzVTVrZVNwLW5BTDh1TDdLeW1fVEh6ckQ4MmJjQ2VvU01zOWdPZ2p0ZmE5MXlqTVFNZzgybmc": 1793563539335,
     "threads:DShTDYNmAxK": 1793563840745,
     "threads:DfNirmskxee": 1793563840745,
-    "news:CBMiTEFVX3lxTE5PdzBpdTBKeWkxN3ZRYkNuTVE0OGlfNjhVQm91ZjVMWFBwdWVTdlZ5aEc4eS1jRi1abUNLWmdXbV80U04zTFpmUkpza0E": 1793563840745
+    "news:CBMiTEFVX3lxTE5PdzBpdTBKeWkxN3ZRYkNuTVE0OGlfNjhVQm91ZjVMWFBwdWVTdlZ5aEc4eS1jRi1abUNLWmdXbV80U04zTFpmUkpza0E": 1793563840745,
+    "threads:C_YUBy5vWJu": 1793564145144,
+    "threads:Db8i_mzCYyD": 1793564145144,
+    "threads:DcfXKjtESvc": 1793564145144,
+    "threads:DfNkVfQjsd5": 1793564145144,
+    "threads:DfNj1h4Goqk": 1793564145144,
+    "threads:DfNi_MuD8H9": 1793564145144,
+    "threads:DfNjvUtFiec": 1793564145144,
+    "threads:Dd9Li5ZgQZf": 1793564145144,
+    "threads:DdjIodGmO4t": 1793564145144,
+    "threads:Dd0Eo9Qk9cY": 1793564145144,
+    "threads:Ddx0kMlDwHl": 1793564145144,
+    "threads:DeHWggZFJu4": 1793564145144
   },
   "digest": [
     {
@@ -28476,7 +28481,7 @@
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
