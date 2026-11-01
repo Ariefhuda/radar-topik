@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DepXaJYAOmC": 1792350053946,
-    "threads:DepXS73gFDL": 1792350053946,
-    "threads:DepYkJOGeXr": 1792350053946,
-    "threads:DepX1YBkScU": 1792350053946,
-    "threads:Da8KcQMD2-S": 1792350053946,
-    "threads:DaRiLI4jRM1": 1792350053946,
-    "news:CBMipgFBVV95cUxOYWt5LVR1NTFSNk5nWVNZSnZKaDl4TUwwMTYzS3NYNXYtX3llNHlfcUctOEtUOUFXUkN4alllRWtCWnE5NHdfcF9sWGpvV3M2LVZBRGpSWUJjc1hyQmtrSTc2b1ZULThadmtuNG90S0xVcFNfQTFOQjBWR3dDM3hNQmJQdUZSUDgtTzBjQTBaQWd5SGF3RnBzR2lTbFBBQkVkUW1Da1J30gGmAUFVX3lxTE5ha3ktVHU1MVI2TmdZU1lKdkpoOXhNTDAxNjNLc1g1di1feWU0eV9xRy04S1Q5QVdSQ3hqWWVFa0JacTk0d19wX2xYam9XczYtVkFEalJZQmNzWHJCa2tJNzZvVlQtOFp2a240b3RLTFVwU19BMU5CMFZHd0MzeE1CYlB1RlJQOC1PMGNBMFpBZ3lIYXdGcHNHaVNsUEFCRWRRbUNrUnc": 1792350053946,
     "threads:DQ8CDKxEjW1": 1792350337954,
     "news:CBMingFBVV95cUxOeVg3OHg3cFdMSW1CMDVZZkRQUjZKRmJOQWFKOTU3cUpzSUMzZGo3NWJjUTJWMnlPUkRaN2ktVUlnOW1wdWFKMDhnU0RDcE9UUG5TRVRiVzVGc2pxNFcxdmRqWC1Qc09ZTFRkZU1TaE5zSGkwTlRyOXRlNkY1R2N5Tm8tb013RUw0T1FxX3ZKdGFwck8xMnZzbEluSGNidw": 1792350337954,
     "threads:DaShJNyEQev": 1792350644089,
@@ -26943,19 +26936,26 @@
     "threads:DdnbmZ5ErSI": 1793559338288,
     "threads:DJJB2xUT_FP": 1793559338288,
     "news:CBMihwFBVV95cUxOVzZtZlNzUUUxN0tGdkhDNDZPd2dDd2lMRnRkSWlzSGJpTTJpbnhsUVNCendWRE1WQUZUT0lORkhJT2hSc0JrUGF4VE9qN0tWeXU0UnBLQzlHQ21NclBOWnEwOWZ1LUk3cVBzZXpseUlqVm14bHlKRlZOdWE1NFFBelZma0FScDA": 1793559338288,
-    "news:CBMimAFBVV95cUxPNzJyam9DSV9NTjU2RG1TU3R2eXFzOFhaRmk1UmxiOUhKQ2E4T2dCVEdYTFh3RTcwekVBbUxoZ3NNSTMwN0djY2JJMWRnQUFYd2ZLdld6WFZnSHVISG5OblRwZGVJaUtLaDQ0RktDQ0lpc2NSU3RfcTFjSHdQUXh1LWM3NGJndUZGSDNtWjl4M3BVWTkwSUYtdg": 1793559338288
+    "news:CBMimAFBVV95cUxPNzJyam9DSV9NTjU2RG1TU3R2eXFzOFhaRmk1UmxiOUhKQ2E4T2dCVEdYTFh3RTcwekVBbUxoZ3NNSTMwN0djY2JJMWRnQUFYd2ZLdld6WFZnSHVISG5OblRwZGVJaUtLaDQ0RktDQ0lpc2NSU3RfcTFjSHdQUXh1LWM3NGJndUZGSDNtWjl4M3BVWTkwSUYtdg": 1793559338288,
+    "threads:Dej5bK9AUv0": 1793559653542,
+    "threads:DYyKED7kjEA": 1793559653542,
+    "threads:DfNbspBjB-b": 1793559653542,
+    "threads:DfNR8w3mcks": 1793559653542,
+    "threads:DfNbdnED3nx": 1793559653542,
+    "threads:DfNa_RTDX53": 1793559653542,
+    "threads:DfNaqWiDIhC": 1793559653542,
+    "threads:DfNaUT8mO5G": 1793559653542,
+    "threads:DfNb3wPid8L": 1793559653542,
+    "threads:DfNbbkbDkk6": 1793559653542,
+    "threads:DYOt4sKEVd7": 1793559653542,
+    "threads:DeQfAUBD3Mo": 1793559653542,
+    "threads:DeS6-_pDy7b": 1793559653542,
+    "threads:DPd-kvlkXIW": 1793559653542,
+    "threads:DNBDSUpS0Az": 1793559653542,
+    "threads:DfNasCwAR30": 1793559653542,
+    "news:CBMiuAFBVV95cUxQczVpRktxZTBwR3EzbUpXOHhTVlRCamNHdU5WRUdhN1dmT2pMZ0JqT3BUWHpOWUtRUUt2RXNzNkNiWUk4OEpIa3puUjFrVnRMbjZndFNaTS1xZkQyRzRBZk5oUUJoYzdYdTQtZXA0ZU5iaGZ6Y2ZOSG9CRGI5eUF4RjFqcWhSZXZnMmdRVUF6RzFoU3pvTjNRRTBIcjFKSi0wajNqTHM2VUctSk9qUGEyZ2dNVzdhaHF00gG-AUFVX3lxTE81eE5fNEQyNVBWZFpXWmJRQ1hiWTRXYlZRcnNiT0JXc0NyNjZBNmczRUI2bGhienFqMmdPZkpoUkJjWWRsMTI0M216aUJ6T1ptT1o0ejVSVmJrdXpya1hudGRLVGtiRFQ0MTg4RGJfZnJRVVB3ZFlBeF9DenR6aFM4VlllV2ZRU1NiV09YeEFxVHh6Mi1hVFJWUTM3V1J6d3lzWVlrTlN5OHVjLTN5bW5NOVV6V1pVaGtJOUQtdWc": 1793559653542
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Vietnam.vn",
-      "x": "Temukan istana anak-anak paling unik di Korea Utara. - Vietnam.vn",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdC1oTXhpNjJ3YmNDNlFRaHhPcTBFdlZGNTRJaG5EUTBqR0VaT1NpeDVwZDY3c05EaUd2WkNUaUd1VHBnWms5TUJScVgwWTRzcXRSUDc0TC11NHp1RGQ5Sk1zMmI0aGZVMWF3aVhza2hjUTkyb0RrZGpQdzRrMlo3OGo0M2w1aENENlE?oc=5",
-      "d": 1793536550000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -28445,10 +28445,20 @@
       "d": 1793554114000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@connectwithsav",
+      "x": "Helo dear salam kenal Kak Ulan @byibuk.ulan I’m glad I meet you here! 🙂 Aamiin doa yang sama untuk Ka Ulan ya 🙏🏻 I can understand how does it feels, tapi aku lebih mau mengerti ",
+      "u": "https://www.threads.com/@connectwithsav/post/DfNasCwAR30",
+      "d": 1793559075000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
