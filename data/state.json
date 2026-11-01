@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DaGBORygXLa": 1792363846325,
-    "threads:DenlFSsmscx": 1792363846325,
-    "threads:DaM9lpXAUAW": 1792363846325,
-    "threads:DRKaJmBk0_n": 1792363846325,
-    "threads:DUkRvKHEzBG": 1792363846325,
-    "threads:Depy7GkExOK": 1792363846325,
-    "news:CBMivAFBVV95cUxPdnJKSGRiSHJ2SzE3TXhYdmpZV2ZqWndrQ21lZnVzWEtHa3N3NUhYTEdsNXYxSkVqRWRxMFBqTUtSa3otekNOT0t0ZURoaVVlRDAyVmNqZTdSS3AwNG85ZVJfN2RjdlI2SnBFOG1DVXptU0VUZGgzU0VnXy1walFqZmhYa1NEaV9KZmd3dEJrdFpHaDNZVk5lSUZOVDlOVWFWZnhZV3l1NFI5anp6SUZpZDVRNU1fQjZCWENIUA": 1792363846325,
     "threads:Dc4yHcGkiA5": 1792364148817,
     "threads:DeowOCsD5Ne": 1792364148817,
     "threads:DdT-a6bEzqI": 1792364148817,
@@ -26926,21 +26919,16 @@
     "news:CBMi3gFBVV95cUxNNi1PWThnVFVwQmhPam85YTFTdXhEeERoSzFBRjhEZlZBSWFxalU0bUlIMlJtV0ZMOEtIYWpBWlZRT2tvNnZidkZ4Wmt0cWd1THdjYWJlQXc4MHh6cHhuX1JQRTZWdFZaSTVUX0VLVm1Zbzd5MmVmemIxT1BYelRISjAwVk9jX3pQRHlMLUtmTE0tb3NZT0lLbGg3blE3UFFEV3gtaU44TC1tLXZVNG1LTUxBSlo5RE5ubU1jRUVUSEt6TzU4bE1xWHBxSm01Q1RVUzJ5bDFWUWhFU1UxM2fSAeMBQVVfeXFMUFQ2Y2RwTjN5WHladXlxMy0ydmZDUWxBeW9QZXhsaUx1RGxMdmVOQTBZVEUxVjh6RnRjdmhkcWZXOFMyLWlkclFQSWRkazlZVVAxNFNrQ3ZUWnlMSElNU3BnTVN1cVd2ZlA1Z3I4Mzc2djFyWUVpSnF2U3V4UEdhVTNwY0JlbXgyc0lkX0tWcWszUWxMRjdXX0NPN1FlVmxLVHVFWUNYTnN0LUFVMWFoQ2NJWUhJZHlxTVY2cmpiT2ZLR3JlVmpFWV9BZ25pUlZhaVpNRGo2TWh3ZENsMEI2SWQ3YWc": 1793572534424,
     "news:CBMixwFBVV95cUxPaDk5NWttLVlsX21OeGxpVkViU09ZOXhtX001b1IyWXJCOWxfRGhXNEtNbG5oTUhXc0I2RDhxLTJGSnhzNmhyM3Vmb0w3QVFSak1ySFlyMllJQlV4REx0TVp6ZmpqUExjYjNmV3FpbjRkdlo4Ulcza0xWaTZrWTg5SFo3UXVDVkJNRHlGSUdWeEhVU0ZZR0NhZEhKcXFJN1RlS3BZTGhmcko1QnM1U2lzWWdLZVg0TlpORzlsbGVrOEZkZ2xINXpN": 1793572534424,
     "threads:DfN0P3Dk-bv": 1793572840898,
-    "threads:DfHccG0AaPg": 1793573146491,
-    "threads:DfN1Rl3gYAa": 1793573146491,
-    "news:CBMi0AFBVV95cUxQMkh0M3VlTFh4TWd2T0NFcHM5SEcxR0M5YWE2Z2dkVThMeFhpZDBKWTJ5VU5XbG5JUGE1SnBaMUFCTUFQbXllSTg1WHFnMEt2cDFEQzUzT3ZGd3JlUG5zVXdLT081aDJmcmh5ODR5R1R1YmdZeW9CNFczM2VrcTQydGZPcTZ6dGctQ3NMTFJIb0RpMlBoOGVSeWp4UWpoaGhnZzlzWWNBV25jM2xydTUxRjZnaXYwcG5CMjZXNUhGQUdrcmxZUGp2OUtfejJ5MHR1": 1793573146491
+    "threads:DfN1xhqDSWM": 1793573357299,
+    "threads:DfN0TAekghr": 1793573357299,
+    "threads:DfN17fYAE4z": 1793573357299,
+    "threads:DfN1x5PDpX0": 1793573357299,
+    "threads:DfN1ZMdE36D": 1793573357299,
+    "threads:DfN1Rl3gYAa": 1793573357299,
+    "news:CBMi0AFBVV95cUxQMkh0M3VlTFh4TWd2T0NFcHM5SEcxR0M5YWE2Z2dkVThMeFhpZDBKWTJ5VU5XbG5JUGE1SnBaMUFCTUFQbXllSTg1WHFnMEt2cDFEQzUzT3ZGd3JlUG5zVXdLT081aDJmcmh5ODR5R1R1YmdZeW9CNFczM2VrcTQydGZPcTZ6dGctQ3NMTFJIb0RpMlBoOGVSeWp4UWpoaGhnZzlzWWNBV25jM2xydTUxRjZnaXYwcG5CMjZXNUhGQUdrcmxZUGp2OUtfejJ5MHR1": 1793573357299,
+    "news:CBMitwFBVV95cUxPUWRqTmtGNGRTWFFPWWlYQWYtUmpYc1FlZFNPWHlxSVJNYk9pZ2M4SDJya3ZSQi1rUzVzZzgyRkxfN1ZDbE9mNlRSc2VQWVFxUkVaQi1vamNBRmxESVoxcHA1dnNleW1USkFoaDUyVFJCR1l4RXhXcWtISThySG94LUJFNWdDZElKZFV3aVNvODNVaV9PMlY2U0xpWHlTSTdVSlpBRjVFZmFWSnhvQlBlaWE0bWRzNlU": 1793573357299
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Bangkapos.com",
-      "x": "Daftar Bansos Kemensos November 2026 Mulai PKH, BPNT, Beras hingga BSU dari Kemnaker - Bangkapos.com",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQURncnY0a21hWWRVOWtmTnBtbnpJYkdmYWxMYTI3ajZoc1Z0Sk1WeGFIeWJEVUhlSXVRajkwNG8ySFlHTVhmU0kzdzBvQVNKYXl3SFdvMVVxXzNxblFSMS01TXBwZGYzUk45M0MzS0hRSHJZdDdwRTBGd1lDeUxZNEhDRkRicWQtaHEyMGZLQ3kyU0ZWMW5VRFpXaVA1S0hZR3VuSFh4SnNUdE5fNW9XcGQtQzNhYVRRM0ZVVDRURlZya28?oc=5",
-      "d": 1793543184000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28428,6 +28416,16 @@
       "x": "Cek Bansos Kemensos Awal Bulan November 2026 untuk Keluarga Penerima Manfaat di Priangan - Tribunnews.com",
       "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMkh0M3VlTFh4TWd2T0NFcHM5SEcxR0M5YWE2Z2dkVThMeFhpZDBKWTJ5VU5XbG5JUGE1SnBaMUFCTUFQbXllSTg1WHFnMEt2cDFEQzUzT3ZGd3JlUG5zVXdLT081aDJmcmh5ODR5R1R1YmdZeW9CNFczM2VrcTQydGZPcTZ6dGctQ3NMTFJIb0RpMlBoOGVSeWp4UWpoaGhnZzlzWWNBV25jM2xydTUxRjZnaXYwcG5CMjZXNUhGQUdrcmxZUGp2OUtfejJ5MHR1?oc=5",
       "d": 1793573120000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Cek Bansos Kemensos BPNT Awal Bulan November 2026, Lengkap Cara Ceknya - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWRqTmtGNGRTWFFPWWlYQWYtUmpYc1FlZFNPWHlxSVJNYk9pZ2M4SDJya3ZSQi1rUzVzZzgyRkxfN1ZDbE9mNlRSc2VQWVFxUkVaQi1vamNBRmxESVoxcHA1dnNleW1USkFoaDUyVFJCR1l4RXhXcWtISThySG94LUJFNWdDZElKZFV3aVNvODNVaV9PMlY2U0xpWHlTSTdVSlpBRjVFZmFWSnhvQlBlaWE0bWRzNlU?oc=5",
+      "d": 1793573222000,
       "urgent": false,
       "warn": false
     }
