@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcTy5mVk1fw": 1792282946844,
-    "news:CBMiggFBVV95cUxOZGdzck9lVEZicmZqSkNWLWdGZWs5N1VJOG9HV3FLQzhZZHNzWG5kS3MtS1k3Q18wQi1lenV6Qk54NVFXNFUxd0ZSQWtfQkJrZEI4OXZfY2p5cm80SDlMUkVaNmVmZjlLLXBtZXVsYU42eC1kNThsaWpRMnU1SmFLNTBn": 1792282946844,
     "threads:DYhB7_UAmrj": 1792283138216,
     "threads:DenY0vSkyiy": 1792283138216,
     "threads:DenYLy3DlCS": 1792283138216,
@@ -25599,69 +25597,25 @@
     "threads:Dc0SSJkDc7M": 1793492204714,
     "news:CBMiwgFBVV95cUxNSmRodzdWOGNBNWpZUUxBNV9ZZkNScG9CVS04LU8tNG9jeDM2SUhpYm9SZDkzUUZxbHh3eDY5MHNzdXFxMnZFOEdJRTJmTjIxLTZWUkpqcWt1YnBNQ0hacG51UVR0aFE3MVN2YlBwYTNzdFpmVURWTmhRMlBsdUwtVklDcXBqZmk2c21UVFlPUmUxdEIzS1RIenBISlhDYVk1VXdLNjF0RUtNLUNqdEQ1WjUtNl9zWnUwSTgtUW03ZWV6QQ": 1793492204714,
     "news:CBMi1AFBVV95cUxNT2VSSk51UmhSb1dhT0dWeVAtVWlmRjhBR01VM2drOTdkWlJNcE9EeUNOcXYta0xzVUw0cG5CNUd0TXNBN3VzMllOYk1nTlZpSGZoUXYtdTRBN1pHWVJhcW5Cb3RpR0VhX3R0N1lwOEw2bDJnR0kzUjZ1MG1SNHJWZV9SRXhmZHZKdGdLVXEyWXZoMmpwN1BHVTd5U0VUMTJjYkM2RzkyRjE5Y0RZSGJOUElhbUIxM1J4MWVHLWY1dGFMX0tseWliMXhrTFFzMDN3Qmo0StIB2gFBVV95cUxOQXV0aTVLRTg5bmo1X1FqU09VcVU0Q0xoWjhFb3B5emhKQnVqVEN5UEp4MWhTUDdXWHEyY3pLcFJibGs5YjNrbWFZbDVKcUFKdkxFS1pBS2VtU2VZN1BvRzFCVzludGlvVnpEQnl2SFNpbFVQVjA5LTk2Rk1lcFFRU3NIdmpmZkIyYzZmYTQ2TDhPc2ZTeDNUeVhYc3RyRk53TDJKWFVxYzRUcHZ6UnRxb0M2N2t6MUZLR1l6NEJxaE5SVG1xMWhfWVIzVXYzd2ZvUVlReVUwWlJaUQ": 1793492204714,
-    "news:CBMizAFBVV95cUxPNHVmOTBfNXpzS05KN25zMGtVclFGNEVRZDNmcnZMeTJCX1NnZ1NTclAzU1hCTFJiVU4xaWlNTVVRUzBsMHdod1I4T3FDRmdSWTRlTkd5V1p0QUQtSVFreURlckxNMk9PdWtDUzFDUEVJOXhKdC1wX3poU2gtclV5QmhfQ1VhaW9iclhIZ3VKbHExZ2pmSWluRUx1OHc3M2VOSUpXaEx2dndYYUgzdERRNFRraVdzX3ZlMFlqT3g5dy1pNHJqOW50YmgtVDLSAdIBQVVfeXFMTlctSFhvNFBpaFhvUWhiVGs1d2cxSjVrSFE1VjRkWktxajBZZzZFVXdrUC1yblZCZnlLeWlReFVmTm5INkRTMC1ZQmVpdlpoakl6czNxRlZhTVd2WnVSZVdPWVpFelhoZWJ4amZiU2QtZEFMWWdySTAzVG9uWm1LRkFKNWd5QlpnaHhVMjV6TGJqb2ZQN1dsQUcxODl0UGR2Ul96TDhHRTk0bnNsM3d4N0JubmdPam0zV3JpdHNoaWk5SWJ6Rk5FdHh6MmNrYUxTaUpR": 1793492204714
+    "news:CBMizAFBVV95cUxPNHVmOTBfNXpzS05KN25zMGtVclFGNEVRZDNmcnZMeTJCX1NnZ1NTclAzU1hCTFJiVU4xaWlNTVVRUzBsMHdod1I4T3FDRmdSWTRlTkd5V1p0QUQtSVFreURlckxNMk9PdWtDUzFDUEVJOXhKdC1wX3poU2gtclV5QmhfQ1VhaW9iclhIZ3VKbHExZ2pmSWluRUx1OHc3M2VOSUpXaEx2dndYYUgzdERRNFRraVdzX3ZlMFlqT3g5dy1pNHJqOW50YmgtVDLSAdIBQVVfeXFMTlctSFhvNFBpaFhvUWhiVGs1d2cxSjVrSFE1VjRkWktxajBZZzZFVXdrUC1yblZCZnlLeWlReFVmTm5INkRTMC1ZQmVpdlpoakl6czNxRlZhTVd2WnVSZVdPWVpFelhoZWJ4amZiU2QtZEFMWWdySTAzVG9uWm1LRkFKNWd5QlpnaHhVMjV6TGJqb2ZQN1dsQUcxODl0UGR2Ul96TDhHRTk0bnNsM3d4N0JubmdPam0zV3JpdHNoaWk5SWJ6Rk5FdHh6MmNrYUxTaUpR": 1793492204714,
+    "threads:DenKWYoExvb": 1793492448779,
+    "threads:DfLaIIRH1vl": 1793492448779,
+    "threads:DehH1vMERcO": 1793492448779,
+    "threads:DeFCrd3jmqX": 1793492448779,
+    "threads:DfLbRqdEwNM": 1793492448779,
+    "threads:DfLaNEvj7MX": 1793492448779,
+    "threads:DfLalbjmx-P": 1793492448779,
+    "threads:Dd_HrxKE4wy": 1793492448779,
+    "threads:DaF35h0j_Od": 1793492448779,
+    "threads:DXoGAi_jgIV": 1793492448779,
+    "threads:DI1Ymd_tVEe": 1793492448779,
+    "threads:DUSAnI7k_5N": 1793492448779,
+    "threads:DbnnJsGD477": 1793492448779,
+    "news:CBMi-wFBVV95cUxPdnJLSmlJTlB3amZDbm1VLWtzU3MzNjZmZWczUENXOUduZE9uek5fcUtwYnFxQ01YVWVlNDEzV1dJaTVqZHhPSERRUXFNTjNJbGtITUpucjdSWE9DRExkUVA0U0JaWlJzcGRJcHRUbUlqNFNGY1RCbWx4UDdpcWhwQ21DdElkM0ZZMkNZYnNweGFYVjdZYmpsWWU2Sk5ZbW9URVVRWnRSX1JRZW54LTJkWlNDSlV5d0l2aGIwTUZMNWNFY1FkYTdsbXl1THNIYXJTZV9BVk1IczRQaHlnLW1XNFc3U1ZacjBYS3pfU3UwTkl4UTR3MEs4QXJFSQ": 1793492448779,
+    "news:CBMiiAFBVV95cUxOMS1tUGNKNnBkbzRpNzlWNDh3cll0NnRiczVkdmZtSzlfdTR4UDRFdXhuajNrMERfLXRnS2kyNXRmcjRTTEtoVnNobU0zZTZYX3FuSk1vTWRhS2N6dkExWUFRRnM3S2VMcHpreXZZa25PZk1vZnRhYUNnZkVLMHFvWjVVWnhKTXVO": 1793492448779,
+    "news:CBMiU0FVX3lxTE1hb01wdWZyT3RaUmZ3RllMQVpYc0Q0VkxhZGJWMURnNGFDNUwxZWNlU2hObF9jbDBJcmtOVU1VWkVpbzQ2NHN6Mm5Md29WM2NOcm1r": 1793492448779
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sekolahbulutangkis_samarinda",
-      "x": "Bergabunglah bersama kami di Sekolah Bulutangkis Gemilang Badminton Club Samarinda Pelatihan Khusus Anak - Anak dan Dewasa * Kelas Reguler Siang * Kelas Reguler Sore * Kelas Regule",
-      "u": "https://www.threads.com/@sekolahbulutangkis_samarinda/post/DfKDEc3kx7f",
-      "d": 1793446028000,
-      "urgent": false,
-      "warn": true
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nandaagustina828",
-      "x": "📢 LOWONGAN KERJA KASIR TOKO 2026! Kesempatan kerja terbuka untuk pria & wanita usia 21–50 tahun. Pendidikan dan pengalaman tidak diutamakan. ✅ Gaji Rp3,5–5 juta/bulan ✅ Penempatan",
-      "u": "https://www.threads.com/@nandaagustina828/post/DfKBVb2oNMr",
-      "d": 1793445119000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@hanniebisnis",
-      "x": "Mau bisnis online tapi bingung mulai dari ? ‎Takut gaptek? ‎Gak punya produk sendiri? ‎Gak punya banyak modal? ‎ ‎Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan lang",
-      "u": "https://www.threads.com/@hanniebisnis/post/DfKBRyQmcVV",
-      "d": 1793445089000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@osaprakoso145",
-      "x": "Ini hanya individu itu sendiri yg merasakan… kalau hidup di Jakarta sih dengan pajak itu ba merasakan, naik TJ bisa dibawah 5000 rupiah dan bisa merasakan kalau trotoar sudah diper",
-      "u": "https://www.threads.com/@osaprakoso145/post/DfJ8SkIIPBx",
-      "d": 1793442474000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@millenialpride",
-      "x": "Emang pemda2 di Konoha ini otaknya di pantat kali ya. Dulu aku kerja di lembaga sosial yg fokusnya memberi pelatihan vokasional ke anak2 muda, membantu mengurangi pengangguran n ke",
-      "u": "https://www.threads.com/@millenialpride/post/DfJ7XADGXnR",
-      "d": 1793441986000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@xvier024",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@xvier024/post/DfJ6VGXE8kW",
-      "d": 1793441446000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27101,10 +27055,70 @@
       "d": 1793491200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@droffigyxv_",
+      "x": "3. Pilot menggunakan bahasa Inggris dalam komunikasi penerbangan internasional! Bahasa Inggris menjadi bagian penting dalam komunikasi antara pilot dan pengatur lalu lintas udara (",
+      "u": "https://www.threads.com/@droffigyxv_/post/DfLaIIRH1vl",
+      "d": 1793491672000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@grumpymisoo",
+      "x": "critical thinking km pak yg perlu diasah. judging them wont make you look better anw. kenapa embiji harus dihapus? karena embiji itu proker yg ga efektif untuk archive 2 hal yg km ",
+      "u": "https://www.threads.com/@grumpymisoo/post/DfLbRqdEwNM",
+      "d": 1793492274000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/DfLaNEvj7MX",
+      "d": 1793491712000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mia_indriati84",
+      "x": "Lagi mikir keras ‼️‼️‼️ Gimana caranya dapat cuan modal minim .. Aku buka kelas GRATIS Untuk pemula belajar produk digital Di LYNK ID 📚📚📚 .. Ada yang mau ? Ketik \"mau belajar\" F",
+      "u": "https://www.threads.com/@mia_indriati84/post/DfLalbjmx-P",
+      "d": 1793491914000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kalbar News",
+      "x": "MBG Diusulkan Jadi Bagian Pendidikan di Sekolah, Kepala BGN Sudaryono Beri Penjelasan - Kalbar News",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMS1tUGNKNnBkbzRpNzlWNDh3cll0NnRiczVkdmZtSzlfdTR4UDRFdXhuajNrMERfLXRnS2kyNXRmcjRTTEtoVnNobU0zZTZYX3FuSk1vTWRhS2N6dkExWUFRRnM3S2VMcHpreXZZa25PZk1vZnRhYUNnZkVLMHFvWjVVWnhKTXVO?oc=5",
+      "d": 1793445180000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "شبكة تواصل الإخبارية",
+      "x": "Brimob Sulteng Layani 485 Warga Lewat Hipnoterapi Gratis - شبكة تواصل الإخبارية",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hb01wdWZyT3RaUmZ3RllMQVpYc0Q0VkxhZGJWMURnNGFDNUwxZWNlU2hObF9jbDBJcmtOVU1VWkVpbzQ2NHN6Mm5Md29WM2NOcm1r?oc=5",
+      "d": 1793467554000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
