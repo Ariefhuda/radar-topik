@@ -26423,19 +26423,13 @@
     "threads:DfMTRR6IBrt": 1793521850151,
     "threads:DYeZj_LEobt": 1793521850151,
     "threads:DdMInLzmury": 1793521850151,
-    "news:CBMikgFBVV95cUxQTjFCMDVZbFhvaUY0aFBPQ2ZMODlkRHlVc25UQ3lpRGM2SDRzdlNMcks3ZUpNVXRRM1RkX3ZlR3BGWmt5OW5jMkg0WFpzSnQyZUJBajBzS2tremFMY2oxUmZoX2VoUE5EV3hGT0NaR0xtYS1TUnVJNnQ0cGZQbk5WUkpOMGVtRmFOd3hmOFZ1cUhQZw": 1793521850151
+    "news:CBMikgFBVV95cUxQTjFCMDVZbFhvaUY0aFBPQ2ZMODlkRHlVc25UQ3lpRGM2SDRzdlNMcks3ZUpNVXRRM1RkX3ZlR3BGWmt5OW5jMkg0WFpzSnQyZUJBajBzS2tremFMY2oxUmZoX2VoUE5EV3hGT0NaR0xtYS1TUnVJNnQ0cGZQbk5WUkpOMGVtRmFOd3hmOFZ1cUhQZw": 1793521850151,
+    "threads:DdTLyuAElHt": 1793522140237,
+    "threads:DZPpDYNFKuV": 1793522140237,
+    "threads:DK-4MkyyZnT": 1793522140237,
+    "threads:DfMTrTQlNxR": 1793522140237
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@penerjemahtersumpah.me",
-      "x": "LPDP ternyata bukan hanya untuk kuliah S2 atau S3. Mulai hari ini, 1 November 2026, dibuka kembali pendaftaran Beasiswa Fellowship Dokter Spesialis hingga 13 November 2026. Program",
-      "u": "https://www.threads.com/@penerjemahtersumpah.me/post/DfL4EIYk20x",
-      "d": 1793507367000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27925,10 +27919,20 @@
       "d": 1793521336000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sonsssonn",
+      "x": "blok aja itu kak buzzer abis cek replynya belain bansos ama MBG tolol banget",
+      "u": "https://www.threads.com/@sonsssonn/post/DfMTrTQlNxR",
+      "d": 1793521844000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
