@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcmujVJHyJP": 1792364735415,
-    "threads:DSuuXXZkyzt": 1792364735415,
-    "news:CBMijgFBVV95cUxPRjFFUExKM3VBS1FiX0pYWGpXallwZ09xaTJVUWZ4ZGx5eVZCekZINXBIVlhJRDVBS1NJeDI3WkRFZUc4X0xveXlwZXpLV1E3ZXRnYW8zUDdXTDNWUXV5UW5Qemd3bE1YTzROU1ZGaG5YTkp3MmZ1RHFMc0xUQ2c5VF9IREk5NXpDOXJHalp30gGOAUFVX3lxTE9GMUVQTEozdUFLUWJfSlhYaldqWXBnT3FpMlVRZnhkbHl5VkJ6Rkg1cEhWWElENUFLU0l4MjdaREVlRzhfTG95eXBlektXUTdldGdhbzNQN1dMM1ZRdXlRblB6Z3dsTVhPNE5TVkZoblhOSncyZnVEcUxzTFRDZzlUX0hESTk1ekM5ckdqWnc": 1792364735415,
-    "news:CBMiogFBVV95cUxNbXdZekRWNnVTNzdnbGVoa1ZSNldISlJiSURJVFZmMzVwcU80OWM2WFRUMkxqM2thN2puUHR1LU4yRngyUTN5OGN4X1BDLXhLNUp3bDhYSHZDU3I4bDc1WDdWRTIyQjdRTXVobk1fZHZJb2Vkc2x3M0U3bWRQdk9zVGhMZ3h0RWh3dVdnbF9zWWRvRkltNmpzLV9yaFpHbE0wNEE": 1792364735415,
     "threads:DePI53cj9mH": 1792365039332,
     "threads:Dej1XdzHyC9": 1792365039332,
     "threads:Depz-UPEoY2": 1792365039332,
@@ -26903,19 +26899,11 @@
     "threads:DfN2Q9DjA8T": 1793574059620,
     "threads:DdmVoFIGD2Y": 1793574059620,
     "threads:Dast9wrH7xl": 1793574059620,
-    "threads:Ddxw5Likq_a": 1793574059620
+    "threads:Ddxw5Likq_a": 1793574059620,
+    "threads:DfN2-lBD_6K": 1793574337320,
+    "threads:DfN3SgDk7fj": 1793574337320
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@peaceful_days76",
-      "x": "Mau bikin konten pakai AI tapi bingung mulai dari mana? Ini ada kelas: Mastering AI Tools for Content Creation DIARAHIN - DITEMENIN - DIBANTUIN Dari nol sampai konsisten, bukan cum",
-      "u": "https://www.threads.com/@peaceful_days76/post/DfMrnx7k1qR",
-      "d": 1793534398000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28405,10 +28393,20 @@
       "d": 1793573222000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@lyli_agustina02",
+      "x": "Saya udah perbarui data di cek bansos 4 bulanan gak ada yang survey kak. Trus dinsos itu ngasih desil dari apa dong ya kak, itu yg punya mobil aja kok bisa desil nya 2. Ya tuhan",
+      "u": "https://www.threads.com/@lyli_agustina02/post/DfN2-lBD_6K",
+      "d": 1793573907000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
