@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:C-quAIhz3Lx": 1792347342175,
-    "threads:DQODxcnE1iB": 1792347342175,
-    "threads:DepSZEXAg15": 1792347342175,
-    "threads:DenUCcCEzVw": 1792347342175,
-    "threads:DcfEjUAFNpN": 1792347342175,
-    "threads:DdPtMWLk7xD": 1792347342175,
     "threads:DepTrxiFujc": 1792347945432,
     "threads:DepTDAFCdOe": 1792347945432,
     "threads:DDmrSLDx57s": 1792347945432,
@@ -26913,19 +26907,16 @@
     "threads:DfH_VORDuru": 1793556645975,
     "threads:DcgJ-mdERnU": 1793556645975,
     "threads:DfNVQCfE_8E": 1793556645975,
-    "threads:DejxbmJk0k4": 1793556645975
+    "threads:DejxbmJk0k4": 1793556645975,
+    "threads:DFh1T2OvACL": 1793556946064,
+    "threads:Ddyt4rLEj4Y": 1793556946064,
+    "threads:DdKZyK2E33Q": 1793556946064,
+    "threads:DdkWjBrj6uQ": 1793556946064,
+    "threads:DZyi3U0EuY1": 1793556946064,
+    "threads:DdcGueiknRK": 1793556946064,
+    "news:CBMi5wFBVV95cUxQXzNXcmx4SU1XSWR2S1B6VDh6OWR5R0xBMjZCY21JNGRvYm9vbnUxVVFSLXBzQTNIc3JyUU1oYW5yWXhGYmlISEZPVzFNcWNuYXRET0VIMVo5c2NFVFNqXzU4ZjZVZXRoQ0ExZ3pqYklyeHZJanFJdGRhSkdRaVRBdG9UWUpJWlR4RTVZVFlrMTNYVEl6NzRzZUFQWC1LZFpiMERNanhhR2RHS2tndy1JMHB1QUJrMkRQOHctc2VNV010bEVMM3dMZVc3LXNtTXM4bUFtMWNTX2E5VXdWeXNSNGI3c2ZmTGs": 1793556946064
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Gora Juara",
-      "x": "Tengah Jadi Sorotan Publik, Raffi Ahmad Dapat Pesan Penguat Ini dari Mama Amy: Biarlah Manusia... - Gora Juara - Gora Juara",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGhVcmRHNV9qMXJ3WDJ1NGV1eUFYdnpEMUdvWnFZMHh2QmkwNlBOblBoODZwSkFpWmk4T3dMV2t5cEpsbVpzdzRnbm8zbkR1amczcldlazlmZlhYLTQyVVRnQlhzSHAtNWZOSUw3U00zTFFZQjB4RFBjWk4tbnp2U1pwYnlxenpKQnpKQ1pZRTE1MXRwdm9xYjM1dW1udk1rTm1UemREMk13Q1djOHNqMnFjbEZfUGVfQ212NGR2TU5EVmkxeVFuZVQ3aWoyZV94UjdxUGRmSdIB1wFBVV95cUxNVGhVcmRHNV9qMXJ3WDJ1NGV1eUFYdnpEMUdvWnFZMHh2QmkwNlBOblBoODZwSkFpWmk4T3dMV2t5cEpsbVpzdzRnbm8zbkR1amczcldlazlmZlhYLTQyVVRnQlhzSHAtNWZOSUw3U00zTFFZQjB4RFBjWk4tbnp2U1pwYnlxenpKQnpKQ1pZRTE1MXRwdm9xYjM1dW1udk1rTm1UemREMk13Q1djOHNqMnFjbEZfUGVfQ212NGR2TU5EVmkxeVFuZVQ3aWoyZV94UjdxUGRmSQ?oc=5",
-      "d": 1793522580000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28415,10 +28406,20 @@
       "d": 1793556224000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunpontianak.co.id",
+      "x": "Apakah Karyawan Kontrak Dapat BSU 2026 Rp900 Ribu? Cek Kategori Penerimanya Menurut Permenaker 16 - Tribunpontianak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzNXcmx4SU1XSWR2S1B6VDh6OWR5R0xBMjZCY21JNGRvYm9vbnUxVVFSLXBzQTNIc3JyUU1oYW5yWXhGYmlISEZPVzFNcWNuYXRET0VIMVo5c2NFVFNqXzU4ZjZVZXRoQ0ExZ3pqYklyeHZJanFJdGRhSkdRaVRBdG9UWUpJWlR4RTVZVFlrMTNYVEl6NzRzZUFQWC1LZFpiMERNanhhR2RHS2tndy1JMHB1QUJrMkRQOHctc2VNV010bEVMM3dMZVc3LXNtTXM4bUFtMWNTX2E5VXdWeXNSNGI3c2ZmTGs?oc=5",
+      "d": 1793556772000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
