@@ -26649,19 +26649,11 @@
     "threads:DfMfbHUjpWz": 1793528747714,
     "threads:DJd2HVDBOnA": 1793528747714,
     "threads:DeUQXQ3j3IY": 1793528747714,
-    "threads:DZMv5EAkgIR": 1793528747714
+    "threads:DZMv5EAkgIR": 1793528747714,
+    "threads:DfMgcgIIAuq": 1793529054676,
+    "threads:DfMgb-soJI1": 1793529054676
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Beragam Hoaks Penyaluran Bansos dari Pemerintah pada Oktober 2026 - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2duN0FQNUpVRkJWQXpYSWlFSkJXSG1oMncxbExNY2JxYkluUWpTclFZaVdyS1I4eDNpcGNGdlpEUUtTYVJFZ0VsMGViWGlYci14aDNXa1dBZWdwdTRSN2QtRmVnS1VpMWhPX0FFMy0tWVRscjNlLVVObjZnb3hyQ2JHaU40bFJJRUlyLVpaR05BODRwOUpJQ015MkVHMWZ5VE5FT0NaZHp4amRRbVZfX0RpVHdfR3BtMEJwZE5Tak1ibzlwdVFXMXJKSFo?oc=5",
-      "d": 1793447700000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28151,10 +28143,20 @@
       "d": 1793443041000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ayrachmaan",
+      "x": "Lah sblm misuh juga udh cari tau kali kak, udah ngajuin juga lewat apk cek bansos wkwkwk dikira misuh² karena gatau apa² kali",
+      "u": "https://www.threads.com/@ayrachmaan/post/DfMgcgIIAuq",
+      "d": 1793528539000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
