@@ -26010,7 +26010,14 @@
     "threads:DegIFE1mISU": 1793508041845,
     "news:CBMilwFBVV95cUxPMktadUJqSnJjMEExV1FjUmFOUlYxYktiZjJaNklUSDU1S2w5cTNmcWp6NzBaXzFKMzEySG1QRTV2cENBX3lsVEc0Qi1sbFU0LTExcEQzRFRBbXN5am1oQ2N6TmZGNkhSMkE5UE1vRFVDZUthdTVBazMyZjE5UzRvV25lRXFUMGxqaDVIZHBtQ2pmVUt5ODFR": 1793508041845,
     "news:CBMizAFBVV95cUxQSHpyb1ZDczZkM2tsanQtbmpSN0NqRDZGd044ejJET3ZvbFJmMzdCWGpWQlFsVUNsNVBsUTBySmxNWlFILU9UTEtlTldTa3lPWDNkVl9BeFNLQ1p6NllKZTJBLWxKbnBpU0M4eFVWaWlfTXFzdXM2Z0xoMDZkQUpNMVVtdTEwUXdGTDR0d1JmYWJUaElDX2M2RHg1Rk5TQTVYeXl6RU5EQW15cDhLYldDSDR6cl9JWFl1NkMwcUFYNFMwU3lfSjJ5SVhGbWw": 1793508041845,
-    "threads:DfL5Y3oEzQ8": 1793508339405
+    "threads:DfL5Y3oEzQ8": 1793508339405,
+    "threads:DeRYSmdlFqf": 1793508641782,
+    "threads:DfL6sValBYY": 1793508641782,
+    "threads:DfL6KJyEgiZ": 1793508641782,
+    "threads:DfL6EUREh8G": 1793508641782,
+    "threads:DfL5n3KGEwf": 1793508641782,
+    "threads:DfL5iBvlA6w": 1793508641782,
+    "news:CBMizgFBVV95cUxNY0hMeVI5OW1Ma25GRGU1Z2FpVEdBZDhjNjI3SFlVWUdDQ0c4QjdDYWVjblpWaE5HWkVLUmRwcW84eEtLMzRHcGdpdW5DYk4xNWlJejlVbFAxbVFvQWV5WlVpZTMyTU5ndF9FNGZhV1dKaW9CX0FzNU9sQldJZWt6d21YTVFmVVc3M2trTjZRYU1RT3FmdGFsSkNZLUJ3cXVyTDduMkhNeE4tLWF4M0ZEazJDeGFUV25DSG5rczNEa0s0bHVobWFlZXBxTDVQUQ": 1793508641782
   },
   "digest": [
     {
@@ -27172,10 +27179,20 @@
       "d": 1793508104000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Jadwal dan Besaran Bansos BPNT November 2026, Lengkap Cara Cek Bansos di Laman Kemensos - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0hMeVI5OW1Ma25GRGU1Z2FpVEdBZDhjNjI3SFlVWUdDQ0c4QjdDYWVjblpWaE5HWkVLUmRwcW84eEtLMzRHcGdpdW5DYk4xNWlJejlVbFAxbVFvQWV5WlVpZTMyTU5ndF9FNGZhV1dKaW9CX0FzNU9sQldJZWt6d21YTVFmVVc3M2trTjZRYU1RT3FmdGFsSkNZLUJ3cXVyTDduMkhNeE4tLWF4M0ZEazJDeGFUV25DSG5rczNEa0s0bHVobWFlZXBxTDVQUQ?oc=5",
+      "d": 1793508486000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
