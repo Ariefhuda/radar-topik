@@ -26583,19 +26583,17 @@
     "threads:DYZdyCGHTRG": 1793526638408,
     "threads:DUHU5_SkpPR": 1793526638408,
     "threads:Db4wJ0fIHiR": 1793526638408,
-    "news:CBMioAFBVV95cUxOeTV5WkNMSnhtWW1FbEhCa3RKQUNNckxneHh0cGhXQ0lwU0dtdXBlVjFxemxiVEdlMmpZd2theTFfX1JyZ3VYXy1WNjRDNEdTV1hfSXRrcEdIWWFvNHhXUm5oS1p5SHM4VmZMVGszLTFYSUE5c0tZUHp1aEY3ZGdJYnN6RHN4MW9QTEM3eDNvLXhwU3ZGOHdDeDNVOGJrZ2NQ0gGfAUFVX3lxTE5DUEFfVXRlMzBCRnFZN3gzVUo0SnV0QkFRVHcyVW90eG1VOXZtSTNHdDlyLXFYNE50VGdXVGZSWXRQSk1Kbi1Ca0Q3aWhJTUc0aHBkMGtoZlRBUElhTUtFVzM2TEZDVzJJcUttZlVyOFZRZVdhaXBpX2U3MXM2SVhZYUxET0ZxWkhhNTFiTW13bzRMdWlyWVRxVElocWdVRQ": 1793526638408
+    "news:CBMioAFBVV95cUxOeTV5WkNMSnhtWW1FbEhCa3RKQUNNckxneHh0cGhXQ0lwU0dtdXBlVjFxemxiVEdlMmpZd2theTFfX1JyZ3VYXy1WNjRDNEdTV1hfSXRrcEdIWWFvNHhXUm5oS1p5SHM4VmZMVGszLTFYSUE5c0tZUHp1aEY3ZGdJYnN6RHN4MW9QTEM3eDNvLXhwU3ZGOHdDeDNVOGJrZ2NQ0gGfAUFVX3lxTE5DUEFfVXRlMzBCRnFZN3gzVUo0SnV0QkFRVHcyVW90eG1VOXZtSTNHdDlyLXFYNE50VGdXVGZSWXRQSk1Kbi1Ca0Q3aWhJTUc0aHBkMGtoZlRBUElhTUtFVzM2TEZDVzJJcUttZlVyOFZRZVdhaXBpX2U3MXM2SVhZYUxET0ZxWkhhNTFiTW13bzRMdWlyWVRxVElocWdVRQ": 1793526638408,
+    "threads:DIZ60UAt7oX": 1793526939132,
+    "threads:C6mCizCJ2oQ": 1793526939132,
+    "threads:DfMdddjmN9O": 1793526939132,
+    "threads:DfMdS5nmJjb": 1793526939132,
+    "threads:DfMdElkiWjR": 1793526939132,
+    "threads:DfMc0FOHyY6": 1793526939132,
+    "threads:DfMcdRiky0D": 1793526939132,
+    "news:CBMixgFBVV95cUxOS0NzOVFDWktzbWl5blpXQVhXYVpLM3RvRy1lN2JwSjQ3UjQzcVhBUUNwd0QtN3NWNmRCZ0lFTGs4a0JybEV1QjFQTmxOb3dDaWNyejE3MzdBcWpNQURwelZreVJ0SnJOUFQxdHI1RDA3ZEFUZURWODZ1Tnc3NlJDWXFvMEE3cnQyeFFkZzlMYkx2WTJzdUx5MWZjTm1uWmRqQTlTV2ZMQnNFVmJ4Yk9GSVBjSVdBanM5T3ppOUd1ZFlBNnI3b0E": 1793526939132
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@romli5655",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@romli5655/post/DfMAgnmj-Sd",
-      "d": 1793511795000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28085,10 +28083,20 @@
       "d": 1793526444000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Simpan Girik Puluhan Tahun Tapi Belum Sertifikat? Ini Bahaya dan Solusinya - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0NzOVFDWktzbWl5blpXQVhXYVpLM3RvRy1lN2JwSjQ3UjQzcVhBUUNwd0QtN3NWNmRCZ0lFTGs4a0JybEV1QjFQTmxOb3dDaWNyejE3MzdBcWpNQURwelZreVJ0SnJOUFQxdHI1RDA3ZEFUZURWODZ1Tnc3NlJDWXFvMEE3cnQyeFFkZzlMYkx2WTJzdUx5MWZjTm1uWmRqQTlTV2ZMQnNFVmJ4Yk9GSVBjSVdBanM5T3ppOUd1ZFlBNnI3b0E?oc=5",
+      "d": 1793526720000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
