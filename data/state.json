@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdiJ6uIk2qV": 1792359341057,
-    "news:CBMiuwFBVV95cUxOelJuWHhpWWxWQjdjOGdDRUlsSGRvQlVmd3RHRURhZmRjakZzTjhTV29hUTc1NHJYWVFld1lMdjdkOC04dFdjeGpLamk1MTMzb1JocWtVbDhEMnNTSU4zVHU1dXdCNVduVFgtaVpzVTJ6YnV0a2hnSHIwSGxEaFZKYndqNXF2MUp3OVR5QVVySnJ3Z1h0SVhKbGJiS1BGNVJnSlN3LXpqSU5TSlZ2WHFnN3dOMllYNmNneXpZ0gG7AUFVX3lxTE56Um5YeGlZbFZCN2M4Z0NFSWxIZG9CVWZ3dEdFRGFmZGNqRnNOOFNXb2FRNzU0clhZUWV3WUx2N2Q4LTh0V2N4aktqaTUxMzNvUmhxa1VsOEQyc1NJTjNUdTV1d0I1V25UWC1pWnNVMnpidXRraGdIcjBIbERoVkpid2o1cXYxSnc5VHlBVXJKcndnWHRJWEpsYmJLUEY1UmdKU3ctempJTlNKVnZYcWc3d04yWVg2Y2d5elk": 1792359341057,
     "threads:DdXsjwiE0nD": 1792359642590,
     "threads:DemvbKtlP_q": 1792359642590,
     "threads:DcxbgaNkWeg": 1792359945786,
@@ -26970,19 +26968,11 @@
     "threads:DfNrQbXoz8O": 1793568038969,
     "threads:DfNqrFmE8xU": 1793568038969,
     "threads:DfNs-hRIxIM": 1793568662184,
-    "threads:DebVbbukqyP": 1793568662184
+    "threads:DebVbbukqyP": 1793568662184,
+    "threads:Ddt44Ijkuxs": 1793568939497,
+    "news:CBMiuAFBVV95cUxQd3ZraWJld1g3eElUakMwaHFQa25TdS1oWHV0MmVRbWNfVGhGOXc3NGZGenlVN3NFZHZ6Z2hzMDc3ekhDdl9NbXl4V1FaNXRTd2t4X0hHMWc1YVRBb19aWUJfemhHSU1qQnlKYmVaYzJrQ2x1OWlXZnNyQ0FhMk5Cc0NyX3ZsVDRUOE55V1JDcnU4TDlPYzdZdHp6SFVoTEs3MGpCSHBUUzJuZ2FmTjkyZ3BQUXlqcVJB": 1793568939497
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Galamedia News",
-      "x": "BLT Kesra 2026 Rp900 Ribu Cair Kapan? Cek Jadwal, Syarat, dan Cara Cek Bansos Kemensos - Galamedia News",
-      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1R3V0N1TG9qbFhTZVktQmNhTENCdjJvdENPWkFZc1pwSzcxcWRFMmgzekhRMVk1MmJfcUY1WXQtR0FUYV9KNy14dXJDSU9EeDBFQ2FsZGZkaVV1LUVsTklKSS1KRHlBaGR2c21GbnhWSUc2ZzlFRkhpMEdoQV90eUVfY2E0WEtpU3lmbWR1Nzl6TGRXMEIxUXJmWTFFb3VQSkZGYjM1UjF5dGpQZlhjMWk1U2VEbjdSRTNWV0ZiWUxSdlI1aW1RNC10UmVxVzZvZ2tmUXF3?oc=5",
-      "d": 1793541600000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28472,10 +28462,20 @@
       "d": 1793567455000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Bisnis.com - Ekonomi",
+      "x": "Pemerintah Mau Tebar 3 Juta Sertifikat Hak Milik Gratis pada 2027 - Bisnis.com - Ekonomi",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd3ZraWJld1g3eElUakMwaHFQa25TdS1oWHV0MmVRbWNfVGhGOXc3NGZGenlVN3NFZHZ6Z2hzMDc3ekhDdl9NbXl4V1FaNXRTd2t4X0hHMWc1YVRBb19aWUJfemhHSU1qQnlKYmVaYzJrQ2x1OWlXZnNyQ0FhMk5Cc0NyX3ZsVDRUOE55V1JDcnU4TDlPYzdZdHp6SFVoTEs3MGpCSHBUUzJuZ2FmTjkyZ3BQUXlqcVJB?oc=5",
+      "d": 1793568625000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
