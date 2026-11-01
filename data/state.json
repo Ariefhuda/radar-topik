@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DT1Ffn7FCw7": 1792284944377,
-    "news:CBMivwFBVV95cUxQd05pcDRqTy1yWGZGZTNjNEhBSUFJSm5hdzlWS3drVDRldFR6eWRoTDJEY1dISFE4Y29MRUEyaVdnX2hvRG5Na3dhRnZnYzRRZ25hWXNXZTYyX2JoSE9mNFBjU1VjaUVYeDJyYTM3al9pd1UzMTJYbEMyNWhVWnFhYndBTWFWR3BVbWhIdVVkbmpQRkhMWVNvajJHVEozdVJSVEo4N25zOV9EaUxGdU5UZVZIZl90QVZ2Y0RRWk1sbw": 1792284944377,
     "threads:DepK3tlmaEy": 1792342909594,
     "threads:DepEQi0D0Mn": 1792342909594,
     "threads:Deo-5bbAVUe": 1792342909594,
@@ -25623,59 +25621,23 @@
     "threads:DfLdSpaGbN4": 1793493985211,
     "threads:DfLdMz4mX78": 1793493985211,
     "threads:DfHirVGDtKa": 1793493985211,
-    "news:CBMiuwFBVV95cUxPUWszM2k4WDFxSEZyWEE0ZzFobEtMUUIwcXBKLXJyWGF0RjExOHY4UHdJY3dPVUl0TXljUngzUG1BTnJaUEdHZnRKYWtsRGZIY2poVEU2VFpkMG9uYlZxLXJLM09xNkp3elM1ZVV0WmJFRWNpZjFQZlQySTlVQU5hX2VOeXBaMnNlalVGWHVZOFVSMF95QjRCZHhDeWxza09Xekx0X0NZbnBBR09jNHlNcUE2YzhlYnFISUJz0gHAAUFVX3lxTE9zMkhMZVdIUUswOGI0ZHRMVFRnYXFycm10NzZPaFJXOHh3eWR6Zlh1ZnJIdVRodjVyTTFUQk9JX3pLLTZTSEVCMF9NZk1KQUgxbk5Rd0ppUF9tX0FMRHJpZlZ5amlTajJYQklQSk42TF93WkxXaURrNzJfc2NZS1FOM2E5S3FMVk5zOTNVWFlrMm54R1hyd1BZa21DSmloVkF0a1JXa0pkNnFKdzJaQm85d0ZnWTFmMUthRUlpdVNsTg": 1793493985211
+    "news:CBMiuwFBVV95cUxPUWszM2k4WDFxSEZyWEE0ZzFobEtMUUIwcXBKLXJyWGF0RjExOHY4UHdJY3dPVUl0TXljUngzUG1BTnJaUEdHZnRKYWtsRGZIY2poVEU2VFpkMG9uYlZxLXJLM09xNkp3elM1ZVV0WmJFRWNpZjFQZlQySTlVQU5hX2VOeXBaMnNlalVGWHVZOFVSMF95QjRCZHhDeWxza09Xekx0X0NZbnBBR09jNHlNcUE2YzhlYnFISUJz0gHAAUFVX3lxTE9zMkhMZVdIUUswOGI0ZHRMVFRnYXFycm10NzZPaFJXOHh3eWR6Zlh1ZnJIdVRodjVyTTFUQk9JX3pLLTZTSEVCMF9NZk1KQUgxbk5Rd0ppUF9tX0FMRHJpZlZ5amlTajJYQklQSk42TF93WkxXaURrNzJfc2NZS1FOM2E5S3FMVk5zOTNVWFlrMm54R1hyd1BZa21DSmloVkF0a1JXa0pkNnFKdzJaQm85d0ZnWTFmMUthRUlpdVNsTg": 1793493985211,
+    "threads:DecZwrlmQj3": 1793494539046,
+    "threads:DfHIFZLIJR1": 1793494539046,
+    "threads:DfLfGnmG2Fq": 1793494539046,
+    "threads:DfLeg2eGIy_": 1793494539046,
+    "threads:DfLecdok975": 1793494539046,
+    "threads:DemJSXgidyy": 1793494539046,
+    "threads:DfLe9X-GYnr": 1793494539046,
+    "threads:DfLesx6mUKm": 1793494539046,
+    "threads:DfLfIUamszi": 1793494539046,
+    "threads:DfLfLRcGUlm": 1793494539046,
+    "news:CBMipgFBVV95cUxNN0gzb2h6Yk9icVdxa19QbkU3LXREc3BPeENXcVN0czhxVDI5UHhwRXFJeHFXV2VrMnhfZmQ0TDhCOExQcWctTkVqUkdIM0tpX0cwZVg1YzB3dnRqWUNROW05VmJqQm9hc21XZGRzekNhRERTU1k3UktrUGpoelhObE90QnBHQmFSamJjTU9TTm5hZ2x3WXVWQl9ONVNVc3VnaXZSSU1n": 1793494539046,
+    "news:CBMiyAFBVV95cUxQdFJyNWd3eEhBUFZHaTY5RlZDVmF4OGpEWlQ4NTBmT294T2pDRkxxNFU2emR5LUJQRVNPQjB2OTdaaTlBUHdtdVdHdVE2ZW9hY1ZJYWpGeWNoYzYtaElXa2o4ZWNrMjZBbGYyTGx6VzR2VUx1elV3RHNIVGhHQ1F1MGdHdUlEaVlNRnNoV2Z4em5DM2pQOTZLUWx4UWswclN1aEtGZ3lyX3lvVm01Mlh1TDFxMkgzZXgwTUJFaGtVRzRhcjladEJKMA": 1793494539046,
+    "news:CBMijAFBVV95cUxNZzZkSW9ZMkxxeXk0bFBXNmF2VTk0UG9WaEFyWDE0S2F3dW5vX29pbER0aWRuMVhqMHpZdHdiY1l1d1NCUktId0pRSGRyTFBhdXFnc0JFMHhyM1RsUjAyUlgxSWRHZEJMQUIwV1lHX2ljbE1XczdiQnoxT04wZEc4bmVpV0JwSDBfQjRfTw": 1793494539046,
+    "news:CBMi2AFBVV95cUxQdDBLbzNMWUk2Wk51N2dXYWI0QkpwYjRDSC1VRzE3SkFUb3ZfNlRROVNqcVNZWGU1MkFhUW93clRjRkZzbjRrQlE0cFJySmt0bEREMGdEWDVRVklOZ2hCb19YRmVaMVp2RzRsNHlCbEU2RjFRdXZnNm1CQjZBdjItMDlnT2xkXzlLZUkybUNKQXNhVXQ4dHNkMmo5V2RkbXlnM2hib2ItVzZMekY5RHRXNHBtS2VHbHJsQVhJSnVTS1Z3V1NfSW1BQm85MXRSTlp4TkNNMkdLXzLSAdIBQVVfeXFMTlctSFhvNFBpaFhvUWhiVGs1d2cxSjVrSFE1VjRkWktxajBZZzZFVXdrUC1yblZCZnlLeWlReFVmTm5INkRTMC1ZQmVpdlpoakl6czNxRlZhTVd2WnVSZVdPWVpFelhoZWJ4amZiU2QtZEFMWWdySTAzVG9uWm1LRkFKNWd5QlpnaHhVMjV6TGJqb2ZQN1dsQUcxODl0UGR2Ul96TDhHRTk0bnNsM3d4N0JubmdPam0zV3JpdHNoaWk5SWJ6Rk5FdHh6MmNrYUxTaUpR": 1793494539046
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Bicara Network",
-      "x": "Desil DTSEN Tiba-Tiba Naik? Ini Penyebab Bansos Hilang dan Cara Sanggahnya - Bicara Network - Bicara Network",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2RHTkpfcDdsTnp6YXFTb0dmLXpvMXE5aFIyVm4ySzM1dllWTXUtYlA0d0tocXVjbVJCZExsaXZ6VFZnMmU5alBJTjRFWFVjcE4zM2V1Z2FzSnlocEN1ckJGc2x6WVJjeGJNRVQyUjlpcHpzS3U2SWhjUDd0TERsVENDYjhoMDRlZjhNV0UtRTNyTGFFZllVNlkzVF9CMjBkRlJUYmZzT1U5S0oyQXhOaUp1eUxJTDB4LVBKVVYtZXRBV1Qz0gHEAUFVX3lxTE5HZEdOSl9wN2xOenphcVNvR2Ytem8xcTloUjJWbjJLMzV2WVZNdS1iUDR3S2hxdWNtUkJkTGxpdnpUVmcyZTlqUElONEVYVWNwTjMzZXVnYXNKeWhwQ3VyQkZzbHpZUmN4Yk1FVDJSOWlwenNLdTZJaGNQN3RMRGxUQ0NiOGgwNGVmOE1XRS1FM3JMYUVmWVU2WTNUX0IyMGRGUlRiZnNPVTlLSjJBeE5pSnV5TElMMHgtUEpVVi1ldEFXVDM?oc=5",
-      "d": 1793451360000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "Seminar Digitalisasi Sastra dorong akses karya sastra muda - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW5xUHBzZDhsVDZmVlExcnV1R3AwR2xEYXFVQ0JzTWd2eE1wNU9MTVF1MENBU1VTT05PUzFkTlRic2ZWaU1PRUZjYVNuT0I3ZGtuRDhzRURWOVo1amlBNUx5dDhPU2ViMV9aNG9XZC0zMkdXWnVUanR6aWhQbkwwYjlsemJQLVFjMDZqdzJLU0ttaWh3Sk9jYTROa1l6OE9sLXkxRNIBqgFBVV95cUxNRGdLdFFEQUpOY1dOQXdKSDhBUV8zelN1RDRxakxyd0ZPRUx3NHQ5NHVJMkZQYnpwSnFUalFXOUFjZUlXN2NCaEl6UTUtRGxKQ2otbmpRMVhuWmdMWms3dG40d3BSeEZBdE5VVDlkTjZmNDhWcTJ4NEpPblFaWjd6QXJWb3ZQc2MtUWN6Y21YZmlobjNhck9mX1hnYS1OTlpESldEYzM0YnB1UQ?oc=5",
-      "d": 1793466779000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Bicara Network",
-      "x": "Apa Saja Syarat Siswa Eligible SNBP 2027? Cek Penjelasannya, Lengkap dengan Daftar Sertifikat Prestasi yang Diakui PTN - Bicara Network - Bicara Network",
-      "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFDbVJDUlZ0Nm9kZ19ESjVldTQzNDNNSUthWGlmNlJDcm9weUNITHZiek5MNm9oeU41cDE1RUFBWFF0LVFrN2JIdzdfYjFQemk0TXZoNUdaa182ZE9KTU5QRW1NRG1uejJSTUdDZ2wtME5GYnBocmRYdE1GWlVsVlVGT0NIcDRnajFRZzVzN0J1NWNCRWc2YTdUWWxuQWFlQ2JIcGViSTZwSU9lWl8tRVlMTzAwRVRUQzVseHJlbTJZMXhIVGoxM0lxVTdINTJOamc0Nk80TElETF9zNjhiamJFOV9NX2RwbDN5WWNoM3l6b183MGNNSGd3akFoQdIBgwJBVV95cUxPZnZFVTR3VmM1aHFEcTdOM2lyUnJrd0ZxbVp4UTE2c3dMTmY5ckk1ZWg2eUlhSXpJYmJLb0dSZVFPdDZURjdaSDY2b0JyMnZXRkZNUTNLaG1GYUwyWVhzTk9VbWJSbnlsb1JNUE5ObnU1cU5DVTFicFFyelFqcGlSYzlITDZwQVpUSVpnX1pzYWJBc2R5aldjUlFKcmFUbzNkSFFnOFI1NW5JeDhEbC1HU3J3MHNNYURZczBpMWtvSWJEMklBOEk4X2lDSW5mMENkVWNUUk4yMlRjRGh6S0JqNFZ5ak5XZGs1RHk3TU9wVFBVQXM3WVFFb3AzT0VycjVRdVc4?oc=5",
-      "d": 1793455020000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lollypopsv",
-      "x": "Halo kak Aditya sambil cari lowongan mending kaka ikut pelatihan vokasi sempat dapat insight kalo selepas lulus. Pelatihan nya gratis kok.",
-      "u": "https://www.threads.com/@lollypopsv/post/DfKtV1BH3rt",
-      "d": 1793468191000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Samudrafakta",
-      "x": "Bantu Petani Papua, Tim ITS Rancang Mesin Pengering Padi - Samudrafakta",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVk1UjJkWG5yaWM1Z3g4M3gwQVlfZDNRRHpYZl9SRTBiRVdLd0sybmVaQ1FlaElPLWozTTlxeHAxcGJkQy1hRWZDUnRmcy1aakM4WjRzcmhPUnJNeEQ3TTNuYVRuRTRzZjc5Vy1ZRG5mY0cxaDVPdmRMX2NYZFhzVUhnb1E0R1ZE?oc=5",
-      "d": 1793443414000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27125,10 +27087,60 @@
       "d": 1793493480000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/DfLe9X-GYnr",
+      "d": 1793494205000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/DfLesx6mUKm",
+      "d": 1793494069000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ukhtirahmawati38",
+      "x": "Bismillah.....selamat pagi warga Disini adakah yang mau ikut belajar bikin Animasi seperti ini Aku mau ngadain kelas GRATIS bikin animasi cuma modal canva. Dan Bonus akses Canva Pr",
+      "u": "https://www.threads.com/@ukhtirahmawati38/post/DfLfIUamszi",
+      "d": 1793494323000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rianita.va",
+      "x": "Insight dari Kelas Gratis 7 Hari TGC, Day 1 Bener-bener ngebuka pikiran. Diajarin kalau sukses bukan cuma tentang 'mau hasil instan', tapi tentang benerin mindset dan siap berprose",
+      "u": "https://www.threads.com/@rianita.va/post/DfLfLRcGUlm",
+      "d": 1793494319000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Jurnal Ngawi",
+      "x": "Cara Cek Desil Bansos Kemensos 2026 Lewat HP Pakai NIK KTP, Ini Link Resminya - Jurnal Ngawi",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDBLbzNMWUk2Wk51N2dXYWI0QkpwYjRDSC1VRzE3SkFUb3ZfNlRROVNqcVNZWGU1MkFhUW93clRjRkZzbjRrQlE0cFJySmt0bEREMGdEWDVRVklOZ2hCb19YRmVaMVp2RzRsNHlCbEU2RjFRdXZnNm1CQjZBdjItMDlnT2xkXzlLZUkybUNKQXNhVXQ4dHNkMmo5V2RkbXlnM2hib2ItVzZMekY5RHRXNHBtS2VHbHJsQVhJSnVTS1Z3V1NfSW1BQm85MXRSTlp4TkNNMkdLXzLSAdIBQVVfeXFMTlctSFhvNFBpaFhvUWhiVGs1d2cxSjVrSFE1VjRkWktxajBZZzZFVXdrUC1yblZCZnlLeWlReFVmTm5INkRTMC1ZQmVpdlpoakl6czNxRlZhTVd2WnVSZVdPWVpFelhoZWJ4amZiU2QtZEFMWWdySTAzVG9uWm1LRkFKNWd5QlpnaHhVMjV6TGJqb2ZQN1dsQUcxODl0UGR2Ul96TDhHRTk0bnNsM3d4N0JubmdPam0zV3JpdHNoaWk5SWJ6Rk5FdHh6MmNrYUxTaUpR?oc=5",
+      "d": 1793491200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
