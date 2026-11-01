@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DTX7zu0ElNO": 1792281652424,
-    "threads:DenWNtsD1jl": 1792281652424,
-    "threads:DPoOaTlDzN3": 1792281652424,
-    "threads:DenVpoSDYSR": 1792281652424,
-    "threads:DenVg4nmZ8b": 1792281652424,
-    "threads:DenUmCXnwej": 1792281652424,
-    "threads:Dd_FSSLk9zL": 1792281652424,
-    "threads:DenWMjjE4Zi": 1792281652424,
-    "threads:DdWO4eQlBRE": 1792281652424,
-    "news:CBMixwFBVV95cUxPZTVKUUFLRFNLLW9ZZ2R5bmZWeEU2RWRuNlppdUIxQjY5ZEFoT3JLNlh0M1A5TXRxQ01HU2h3UURuLU5VU1VuU2FmcmdBbUI2T01qUVZpSWUxemdFbk9MOVZuNEVCbU5QRkY4YTE2VHFfcVBZYUlOaEdNc3k4a3otVzUzajZlcGlhWXRqVUl0U2U5M2tLalhlLXRJd3R4SnZsZkkwcDVhX0NKM3RzWlJwcmM0NGdoaUJSMVpfQVBNNFdxYVRTU0VB0gHMAUFVX3lxTE12RlFpZEg1cjVIYmt2NVhKMF9scElSMkZmX1V0X0Q4ZGxlWHk5T2FfMGhsbWg5bzhab3R6WjJ3aU95Wmp6RkdLbnJoLXpHTEdPM2wwaEVRS21aMmpPZG45UHVZR2t0ZlVzenFiaHl4dTFyOGRZMVFJNWYwWTZuZTJMVkNWbkowT01FRzl2TG9kT09ULUlqZEhmVHNrUGlsbDZnTWpKTWJOVUIxTmc4emoxbmpxM2h2X1I4cEVPQVVRbGFId3Q0dGhPaXVkTQ": 1792281652424,
-    "news:CBMisgFBVV95cUxNcHo1ZmptYUs5OGNOYTcyUzl6c0xXNTlHbThSdzZMV3ZKenRqb2tYdDA2VXlxRjV6OHhxV2ZMMGNiZnU2ZDN0dHkxSnZsUTc4UXA2dTdQOGk0bzY1eVlpRVptZUx4Mjh1elB1LUtSb1p2dmc3azlMeFRRM1hfMUQyMUgyQkl5SkY5em1IZnNFTE5wRHJaaFVpSDRsU0M3WUdITEtJbHMwMVFCekplbEZIOFNR0gG3AUFVX3lxTE1jWG93R0gzOEZYcHdqcmlxeXI2T1dsMVJibzRaY0N3Rk1VV1FpM2w3d3NKUkRyVllxeWtNOHZOeGx0eTNDYUtIVDltanQzQ2xPejdJbEs3dG1VRWRVejJXT2VGSEQtM1djeTh5UnUzVlRtWEtHeXA5SU9XQTBKR29aZDk1aGVObFlrZTYwb1lOOTB5V0lPYkVPSzRrTjRrVF9Ddi1KRUhOb0tiRVdFSl9Md0ZidUVaOA": 1792281652424,
     "threads:DZPJ8SeiDYS": 1792281934779,
     "threads:DXmMq7CD4oh": 1792281934779,
     "threads:DUNhMZyCRZF": 1792281934779,
@@ -25588,19 +25577,30 @@
     "threads:DfLX9vaiS0p": 1793490933896,
     "threads:DavMqCTCbaJ": 1793490933896,
     "threads:DRXNekggBmA": 1793490933896,
-    "news:CBMiqwFBVV95cUxPcloxU0owVC1qaUY0WVdyMmpUcnJxWmJaNl9xTkVBM1pLWGVzT3N6T2Jra1N6dFdKNmt2bUUyUnN4MUlfbnpVaGJ2SzBrMTh4VkpNS2Ywa2VxQjZwVlBWdGowQ1E0TllRZ3MzWW9vRmZsWnlUVDN3MkxNaEpKWGg0eXhVMWQ1VFVDUGxGN284dkROcmZZZG5IZTJPZkQ1clZTc241Z3F0RXhSZTjSAbABQVVfeXFMUDlZZTZ0dERZbkJtaGhPcXFlMDN2ZWJBYVdoc21oZFRtdWhwX3c0OWRHRmRzYk5WOUtGSjEzM01HMFF4dndYMUZHZXNoZ25nbHNrZlNITDgxQkxXZk9hNVBMenBpdjdmVkh3d2U3UnR0TVBGV1d2eVQtUzd6T1VVY2ZGVzlKeERNWklPSkJYNWZybEdRdUd5SG90X3NuaVdTdjFoMTg1N0FQVGZUTVVyUHE": 1793490933896
+    "news:CBMiqwFBVV95cUxPcloxU0owVC1qaUY0WVdyMmpUcnJxWmJaNl9xTkVBM1pLWGVzT3N6T2Jra1N6dFdKNmt2bUUyUnN4MUlfbnpVaGJ2SzBrMTh4VkpNS2Ywa2VxQjZwVlBWdGowQ1E0TllRZ3MzWW9vRmZsWnlUVDN3MkxNaEpKWGg0eXhVMWQ1VFVDUGxGN284dkROcmZZZG5IZTJPZkQ1clZTc241Z3F0RXhSZTjSAbABQVVfeXFMUDlZZTZ0dERZbkJtaGhPcXFlMDN2ZWJBYVdoc21oZFRtdWhwX3c0OWRHRmRzYk5WOUtGSjEzM01HMFF4dndYMUZHZXNoZ25nbHNrZlNITDgxQkxXZk9hNVBMenBpdjdmVkh3d2U3UnR0TVBGV1d2eVQtUzd6T1VVY2ZGVzlKeERNWklPSkJYNWZybEdRdUd5SG90X3NuaVdTdjFoMTg1N0FQVGZUTVVyUHE": 1793490933896,
+    "threads:DZ7fLa7EiBs": 1793491275955,
+    "threads:DfLZV42jbhF": 1793491275955,
+    "threads:DfLY4oJCtEz": 1793491275955,
+    "threads:DfLYv_tnNp6": 1793491275955,
+    "threads:DfLYovQEnR1": 1793491275955,
+    "threads:DfLYkn5HymJ": 1793491275955,
+    "threads:DfLYe3VkfP8": 1793491275955,
+    "threads:DfLYccTkayG": 1793491275955,
+    "threads:DfLYMFek_HO": 1793491275955,
+    "threads:DfLYIGnk6U9": 1793491275955,
+    "threads:DfLYE8JGvOy": 1793491275955,
+    "threads:DfJKqjImQBy": 1793491275955,
+    "threads:DdQwB-qmENz": 1793491275955,
+    "threads:DfLZVjYEhS7": 1793491275955,
+    "threads:DfLZQUpmB14": 1793491275955,
+    "threads:DZEt7P6AaCF": 1793491275955,
+    "threads:DeeJQ5MjK_0": 1793491275955,
+    "threads:DfG15XBkuzG": 1793491275955,
+    "threads:DfI3kO-k4RZ": 1793491275955,
+    "threads:Dd8y2vXlAvu": 1793491275955,
+    "news:CBMihgFBVV95cUxPSnl0c2s2c0dudThuQ2toVzM4a2ZjaFNweEZYYWg0OUVFZWdmYVU2TDBRSW5VS2tySktsQzltbk9NdUVQSkYxVWdvYlpvT3dfMk9lQXpFWGktd2g3emxnSUpIMkpvSkdoT09GQ3U4YlJKWXdsTzZ0REVHRVlOcVdJNjZ6V25WUQ": 1793491275955
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@droffigyxv_",
-      "x": "Yuk, kenali lebih dekat dunia pilot lewat webinar GRATIS! Bakal bahas syarat training, alur karier, hingga peluang kerja di dunia penerbangan global. Ada juga kesempatan assessment",
-      "u": "https://www.threads.com/@droffigyxv_/post/DfKPEK5CT3n",
-      "d": 1793452318000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27090,10 +27090,20 @@
       "d": 1793490488000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@triandinysha14",
+      "x": "Kalau semua ilmu bisa dicari gratis di internet, kenapa masih banyak orang rela bayar untuk ikut kelas?",
+      "u": "https://www.threads.com/@triandinysha14/post/DfI3kO-k4RZ",
+      "d": 1793406443000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
