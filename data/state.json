@@ -27242,19 +27242,10 @@
     "threads:DfNGY58E0Pm": 1793548538755,
     "threads:DfM9PxUlFGo": 1793548538755,
     "threads:DfNGfWvibvS": 1793548538755,
-    "threads:DfNGKeTFBxo": 1793548538755
+    "threads:DfNGKeTFBxo": 1793548538755,
+    "news:CBMizAFBVV95cUxNNHhEQjdVdFFzYURNUHo0X0F4OE15cTFOekgxTXVpYTFQa3hQMzBkdnJramRreEZ3YUN0WV95MGpVMjgteHFudVdiVjhKY0ZIazRDOHEzVk9ZOEZPT0M0Q2xkRVJ4bk5OZ1VoalBpOXdUUHY2R0RNbjJjOWg0RE5PYmZuN0JGdERQd21nVGZCay1PMVdMZ0liNl85U0xVdUhiSHpkbEZNVHBHZUZ5RWtweTJ4R0xWY3ZFZHo1eHlqYm9UTDBMcGdKLVN0MUU": 1793548850344
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@_evasawitri",
-      "x": "Saat sma pun saya termasuk ekonomi pas2an di antara teman2, dg ayah sbg guru yg blm ada sertifikasi, tetapi saya punya mimpi harus kuliah kl ingin hidup dan saya memaksa 2 orang te",
-      "u": "https://www.threads.com/@_evasawitri/post/DfMwSHQH7Ya",
-      "d": 1793536842000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28744,10 +28735,20 @@
       "d": 1793548318000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tvOneNews",
+      "x": "Cara Cek Bansos PKH dan BPNT Online 2026, Ini Link Resmi dan Panduannya - galeri foto - tvOneNews",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNHhEQjdVdFFzYURNUHo0X0F4OE15cTFOekgxTXVpYTFQa3hQMzBkdnJramRreEZ3YUN0WV95MGpVMjgteHFudVdiVjhKY0ZIazRDOHEzVk9ZOEZPT0M0Q2xkRVJ4bk5OZ1VoalBpOXdUUHY2R0RNbjJjOWg0RE5PYmZuN0JGdERQd21nVGZCay1PMVdMZ0liNl85U0xVdUhiSHpkbEZNVHBHZUZ5RWtweTJ4R0xWY3ZFZHo1eHlqYm9UTDBMcGdKLVN0MUU?oc=5",
+      "d": 1793545924000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
