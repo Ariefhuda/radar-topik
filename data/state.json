@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deph4LQE3kU": 1792355139451,
-    "threads:DcaZPmjGlq_": 1792355139451,
-    "threads:DehK4xCkia7": 1792355139451,
-    "threads:DSiUEEakmMi": 1792355139451,
-    "threads:Da2-5rLErCS": 1792355139451,
-    "threads:DeG5LV2knbh": 1792355139451,
-    "threads:DephUQ6laH_": 1792355139451,
-    "news:CBMikgFBVV95cUxPaEZwVi16SXliY0VwWE55eEd2cHhNcjlySy14c0xiZkdNMjgwNU12dHlSTldaeEUzMnFVMkhacnNVRWRYV18tTzdrR21TU0c2QU5tYUVfa3FpRW9ERV9LckJIMFVPRENFUGtsRXRYMFBEQlhRaWVoY1B5RUdWQ21WbjF5d0d3eVBZaUZvS1NzS3Vldw": 1792355139451,
     "threads:DepHeBJE3l1": 1792355452027,
     "threads:DZW7IQVmkKv": 1792355452027,
     "threads:DeoJmmtCUYe": 1792355452027,
@@ -26970,7 +26962,9 @@
     "threads:Ddx0kMlDwHl": 1793564145144,
     "threads:DeHWggZFJu4": 1793564145144,
     "threads:DbxenXNmjGn": 1793564436415,
-    "threads:DeoELzpkoJY": 1793564436415
+    "threads:DeoELzpkoJY": 1793564436415,
+    "threads:Dbbm7g3k7ga": 1793564736014,
+    "threads:DeOQsE1E0cu": 1793564736014
   },
   "digest": [
     {
@@ -28475,7 +28469,7 @@
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
