@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DYhB7_UAmrj": 1792283138216,
-    "threads:DenY0vSkyiy": 1792283138216,
-    "threads:DenYLy3DlCS": 1792283138216,
-    "threads:DenXw59jQ47": 1792283138216,
-    "threads:DenZKvXkS0g": 1792283138216,
-    "threads:DenYt7ijXEQ": 1792283138216,
-    "news:CBMiyAFBVV95cUxNS1NvNDhiM3k0Rm95VEdld0xvOFZQWEsyMmRBbjJKak54UmZfbE54NVczMG51SnRJb2NuUGMwQk9odE1TZ3Z1anc1S243UXdtOFoxTFpPdzVJMnI3SzRoU0NSUnRWQU5pdFpJb3d3THNwMzJ1YllBay1pdXkzZ2ROd0lyMXdOeF9feG1vVTN0WGUtRVdqSmRodVBRcmh1Y1dEZ0VTcWFOVzRZZUlmZEVobjVOM2JTUFdtQ21jekp4dEk3cnVVeWZGZNIBzgFBVV95cUxNZ3J6cDBYMU53VW9id3JwRTA2ejlsc2xnSkszbER0YnBETU1oSDVFWS1iakpaS0FqYlVmc2Qya1dDZDB6cGNtLTVkMF9rclNsYVBoQk83SzRrb09DRWJQUGJfcGVGcWFUQXd6aUVsRER5Nno0RzFRQnBScTVOUi1hd0djcUNvQnhIVE45MDAzQlRrWWpSaHRJVXpuT3hGTDFHWEhIT3hlcUU5R3NBNVBMX2pXLVFHSFRPdm55VkJJUi1fTkU3dnhwLUxMUS1rQQ": 1792283138216,
     "threads:DenYmiEn7QU": 1792283452452,
     "news:CBMiygFBVV95cUxPcWRwd0hMS19CN2swbFMtNGZadm5BQlB1VjBiWHdlelZtSXpSb2ZOVHJaWmozaFhZdkxhYTdjR09pQUt5ZE9vTTRIQ1lhWmxrY1QwNjNTbHB3Wmp5TzdzbkxDeW4tcWpkQlMzdUFCUGxDcWhqVEl6dGU4Z2lxaG9RZ0k5aFZnbHN4UENtdTJWWTZpWFIzM1VHMlJ5V1BacXlzY0V2VmtnVnE5NG9taXo4aWJ1NFVfUFRINmJJbXpydENIaTlrVlczUVln": 1792283452452,
     "threads:DenaD1Bn5od": 1792283733894,
@@ -25613,19 +25606,10 @@
     "threads:DbnnJsGD477": 1793492448779,
     "news:CBMi-wFBVV95cUxPdnJLSmlJTlB3amZDbm1VLWtzU3MzNjZmZWczUENXOUduZE9uek5fcUtwYnFxQ01YVWVlNDEzV1dJaTVqZHhPSERRUXFNTjNJbGtITUpucjdSWE9DRExkUVA0U0JaWlJzcGRJcHRUbUlqNFNGY1RCbWx4UDdpcWhwQ21DdElkM0ZZMkNZYnNweGFYVjdZYmpsWWU2Sk5ZbW9URVVRWnRSX1JRZW54LTJkWlNDSlV5d0l2aGIwTUZMNWNFY1FkYTdsbXl1THNIYXJTZV9BVk1IczRQaHlnLW1XNFc3U1ZacjBYS3pfU3UwTkl4UTR3MEs4QXJFSQ": 1793492448779,
     "news:CBMiiAFBVV95cUxOMS1tUGNKNnBkbzRpNzlWNDh3cll0NnRiczVkdmZtSzlfdTR4UDRFdXhuajNrMERfLXRnS2kyNXRmcjRTTEtoVnNobU0zZTZYX3FuSk1vTWRhS2N6dkExWUFRRnM3S2VMcHpreXZZa25PZk1vZnRhYUNnZkVLMHFvWjVVWnhKTXVO": 1793492448779,
-    "news:CBMiU0FVX3lxTE1hb01wdWZyT3RaUmZ3RllMQVpYc0Q0VkxhZGJWMURnNGFDNUwxZWNlU2hObF9jbDBJcmtOVU1VWkVpbzQ2NHN6Mm5Md29WM2NOcm1r": 1793492448779
+    "news:CBMiU0FVX3lxTE1hb01wdWZyT3RaUmZ3RllMQVpYc0Q0VkxhZGJWMURnNGFDNUwxZWNlU2hObF9jbDBJcmtOVU1VWkVpbzQ2NHN6Mm5Md29WM2NOcm1r": 1793492448779,
+    "news:CBMi0gFBVV95cUxNWXVwSTBJOGpvTGhkeTJNMTVGeTIzR19uM2lSS0dpclY0TEN2azRLa2czMncwbXhDVFo0UW12ZTNRWGg3eXdZWHhMRDVLRTA1czRJSmRuN1lVQXlWem5JMHBmMTM5QkdqZjV2S1lZdHF5YUg4dU9tUjRZQkxpTlpYTFBtRHBYZzRYVlhaM1JfWUJpQlBhTGd1SnRPUGNaNHpuTWQ1VzNQWWJWLW5XTG9jN0ZkWEhpX21XbVVOXzAxRGxVSG5tSFlvaEFZVEtLN2FmcGfSAdcBQVVfeXFMT1k1RGtlRXpZRFJ1X19ENG1KS2pjd2toS1N3N3VGRmFUVUhodmVYSmxUT3RJcUJKVnFmNVZ4N3ltQ0JqQ0l2Y3Rpb3FCUEVjYnlGd0txaS1UOUpJVG1TWXpfS2lPeU05anEwNDN1U3FHdnlJX09IT2lIR2ltRlQwNlpWakpISkhwcjNRdC1penlsajJKclNBLUpOZWEzQlYyRjh0M0ZMamtHX1p4RVo4ZFhDQ2g3TGNlVlFwbUp0OWZuY1RyTUN1czlvTkFmQ2s0eUp1RUJqcVU": 1793492758284
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@alishacakecookies",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@alishacakecookies/post/DfJ5bhDEpuh",
-      "d": 1793440977000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27115,10 +27099,20 @@
       "d": 1793467554000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Tuban",
+      "x": "BPNT Tahap 4 Mulai Diverifikasi, Ini Cara Cek Status Kepesertaan Bagi Pemerima Manfaat - Radar Tuban",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWXVwSTBJOGpvTGhkeTJNMTVGeTIzR19uM2lSS0dpclY0TEN2azRLa2czMncwbXhDVFo0UW12ZTNRWGg3eXdZWHhMRDVLRTA1czRJSmRuN1lVQXlWem5JMHBmMTM5QkdqZjV2S1lZdHF5YUg4dU9tUjRZQkxpTlpYTFBtRHBYZzRYVlhaM1JfWUJpQlBhTGd1SnRPUGNaNHpuTWQ1VzNQWWJWLW5XTG9jN0ZkWEhpX21XbVVOXzAxRGxVSG5tSFlvaEFZVEtLN2FmcGfSAdcBQVVfeXFMT1k1RGtlRXpZRFJ1X19ENG1KS2pjd2toS1N3N3VGRmFUVUhodmVYSmxUT3RJcUJKVnFmNVZ4N3ltQ0JqQ0l2Y3Rpb3FCUEVjYnlGd0txaS1UOUpJVG1TWXpfS2lPeU05anEwNDN1U3FHdnlJX09IT2lIR2ltRlQwNlpWakpISkhwcjNRdC1penlsajJKclNBLUpOZWEzQlYyRjh0M0ZMamtHX1p4RVo4ZFhDQ2g3TGNlVlFwbUp0OWZuY1RyTUN1czlvTkFmQ2s0eUp1RUJqcVU?oc=5",
+      "d": 1793490023000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-10-29-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
