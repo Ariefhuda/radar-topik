@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeptKZwiRRc": 1792361439299,
-    "threads:DeptKatE0pN": 1792361439299,
-    "threads:DXN5CxAgfWQ": 1792361439299,
-    "threads:DczjGkVE2nM": 1792361439299,
-    "threads:DdoTIICkzYx": 1792361439299,
     "threads:DVI2B9gCVsk": 1792361740917,
     "threads:DQfs1RQkoIm": 1792361740917,
     "threads:DOkMl2aiTa4": 1792361740917,
@@ -26980,19 +26975,15 @@
     "threads:DfNwqF_DPC_": 1793570738976,
     "threads:DfNwWx-Gf9t": 1793570738976,
     "threads:DfNwZW3k7LC": 1793570738976,
-    "threads:DfNwFJ8km6P": 1793570738976
+    "threads:DfNwFJ8km6P": 1793570738976,
+    "threads:DfNw9HgAeST": 1793571051007,
+    "threads:DfNwiFdE7rg": 1793571051007,
+    "threads:DfNwMd9DMqj": 1793571051007,
+    "threads:DCh1TC9TG4S": 1793571051007,
+    "threads:Dber0VuDZwm": 1793571051007,
+    "news:CBMixgFBVV95cUxOMERxWjZ3MllGM1ZYMWJfMVc2NHJ1NlhmczVhMkwtT05FRUlpWm1JeTBvT0dQajViTDNDZnZEeEFpTXE2X0lLaGYxVHpLX1BxV3hjaG1JaW5wQ2VoTWVGTzd5RHM1dk9MSzNyRUVoWC1SS0pTZVNXc0FZbG90NU1fNU5KN3pKekV3bHlGTjhVOG5yWGJhOXBTWUV6dkpxRnltd0V4ZEJZcjJka2lqQjhzRFZvSk5PaC1LNjBaUkFJcUtRdXNNTmc": 1793571051007
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "rmol jateng",
-      "x": "DPO Pembakaran Warung Mi Babi Tepi Sawah Sukoharjo yang Diburu Polisi Ternyata Eks Napiter Ahli Bahan Peledak - rmol jateng",
-      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGpOYXVQeXFZQU5YbkhGa2lydHRKMFJFUTd4Z0J0T2pEQXRHRzdKM0sxTzY5MWZCX3RYblpMbWFJWUx3MVprcHotM1lKYWEyQVR0cGF3M1FrQ2syWjlHenVIc05vQWJhY19LZy1KX2NyVmJ2TEo3X25TSmFULWxvVDd0eUphSnlnblJjaWdKNG5raFhFVzlpQzl4X1hMXzlhZ0dJdHk1YXVnWTUzbkhMLUc3ZlY1SmMwc2Rya203Y3ZpSWJWLVdYd19HSmxZMlVyWGpfWkZn?oc=5",
-      "d": 1793537939000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28482,10 +28473,20 @@
       "d": 1793570473000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bataviapos.id",
+      "x": "Bansos Digital Akan Diluncurkan 10 November 2026, Pemerintah Percepat Digitalisasi Bantuan Sosial - bataviapos.id",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMERxWjZ3MllGM1ZYMWJfMVc2NHJ1NlhmczVhMkwtT05FRUlpWm1JeTBvT0dQajViTDNDZnZEeEFpTXE2X0lLaGYxVHpLX1BxV3hjaG1JaW5wQ2VoTWVGTzd5RHM1dk9MSzNyRUVoWC1SS0pTZVNXc0FZbG90NU1fNU5KN3pKekV3bHlGTjhVOG5yWGJhOXBTWUV6dkpxRnltd0V4ZEJZcjJka2lqQjhzRFZvSk5PaC1LNjBaUkFJcUtRdXNNTmc?oc=5",
+      "d": 1793571072000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
