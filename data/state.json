@@ -26906,7 +26906,14 @@
     "threads:DfMx1wznZKk": 1793537736845,
     "news:CBMigAJBVV95cUxQRnRFUnZNeDBsT1JhS195YU4yX0g1eV9BMGN2c3JNTVRmQ0lES2VCM2NoTndWQVRZcEkwZWZQMzBSZ2dyNmpGcW9ETnAzeGtaNlZCTUFfXzB0aUhaaE90TC1MSm96V09EVVZqVzQzdlotQk9xX0NCNUdMd21DVy1RQU1fckxWWmxCY2ZOdkZyUWVMNUhXNTBIcmxEdUdkdEhITEUya2NQTTY1VFpkVGY3Y0k2MnlnZjVxOWxoVmRxa2dvbTRhNUxOam5vU0E0S0Jvam9QWDVYSEd1TW5MSnRHdkFyYllaMDFoWXoyNkZtQzFBcng3ZHpMeld2dkdUVzVt": 1793537736845,
     "news:CBMi1wFBVV95cUxQYnNNT2twcXlRY0l1YU5Sd1QwdjF4MURJem4xVTIyV2JGeWF6WF9tdjNvYjk1SXQxQ05qV01LdVlob1FodnAtb0g0T29ScFlZYlFHYmd4SjVFMENDdmxIRUZCcVhRR3VtT2dKc0JfVnZuOEpuNlQwVVBZR0c3NUxjSGFmZzgyUkpBOHNHeXpGZHlQT2JicjJQWUxDRHpjV05Vd3l4Rm54SWIzSDYyUXNFRHFOMUpGNlBDc2RVZEhKZDM1TS1nejFzVGNraDlSYW5aR0NYVVVHaw": 1793537736845,
-    "news:CBMiqAFBVV95cUxORmQxam81MEFPTFh6bGVfcHhmOEpGTTZGTTJOY2dObXhxcGYxYjZqdkVaY1djdWVxU0NJWDA5YXpnVnI2aS1kWVVYY05jNnpJTlludzhNQk5uUjNDSEJnUGp1WkY0bEkxWkpJYm0wSEhxUllvdU5BdVJRMWRwa0xGX0JEcTRnV3hzeWtESUZuUHg4UXJPN0NFLXg1bG9UNmlydGNGTk1UdjM": 1793537736845
+    "news:CBMiqAFBVV95cUxORmQxam81MEFPTFh6bGVfcHhmOEpGTTZGTTJOY2dObXhxcGYxYjZqdkVaY1djdWVxU0NJWDA5YXpnVnI2aS1kWVVYY05jNnpJTlludzhNQk5uUjNDSEJnUGp1WkY0bEkxWkpJYm0wSEhxUllvdU5BdVJRMWRwa0xGX0JEcTRnV3hzeWtESUZuUHg4UXJPN0NFLXg1bG9UNmlydGNGTk1UdjM": 1793537736845,
+    "threads:DfMgP4uEvSM": 1793538057357,
+    "threads:DdfdzlxHR22": 1793538057357,
+    "threads:DfMxJi3GGWP": 1793538057357,
+    "threads:Dcc1jITGc-q": 1793538057357,
+    "threads:DfMxTKfGsKJ": 1793538057357,
+    "threads:DfMvaoaGEhI": 1793538057357,
+    "threads:DehEk9BEwTu": 1793538057357
   },
   "digest": [
     {
@@ -27168,10 +27175,30 @@
       "d": 1793453344000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bansos_kemensos2026",
+      "x": "Bantuan Sosial (BANSOS) BPNT dan PKH 2026 Ibu Hamil: Rp3.000.000 per tahun (Rp750.000 per tahap) Siswa SMP: Rp1.500.000 per tahun (Rp375.000 per tahap) Siswa SMA: Rp2.000.000 per t",
+      "u": "https://www.threads.com/@bansos_kemensos2026/post/DfMgP4uEvSM",
+      "d": 1793528435000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@budiyantibaudi",
+      "x": "Selamat malam🤩🤩🤗🤗 Pengusulan PBIJK dan bansos akan dimulai besok di hari Senin mulai tanggal 1-10 melalui operator SiksNG desa/Dinas sosial setempat atau bisa jg lewat aplikasi",
+      "u": "https://www.threads.com/@budiyantibaudi/post/DfMxJi3GGWP",
+      "d": 1793537297000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
