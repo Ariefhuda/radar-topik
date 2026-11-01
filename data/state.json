@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DepTrxiFujc": 1792347945432,
-    "threads:DepTDAFCdOe": 1792347945432,
-    "threads:DDmrSLDx57s": 1792347945432,
-    "threads:DR9ksNZifxf": 1792347945432,
-    "threads:DR9yz_uCd9o": 1792347945432,
-    "threads:DelYW-hibvy": 1792347945432,
-    "threads:Deoev8eozcT": 1792347945432,
-    "threads:DCh1TC9TG4S": 1792347945432,
-    "threads:DeolS7gEnxq": 1792347945432,
-    "threads:DeogCrrErYu": 1792347945432,
-    "threads:DbAM5nLj593": 1792347945432,
-    "threads:DenoGFUGB0-": 1792347945432,
-    "threads:DeoZi8OD2BG": 1792347945432,
-    "threads:DVfDckTEaSS": 1792347945432,
-    "news:CBMizwFBVV95cUxNV0FWWnNpUUZ5Q0QxalF1dGZFakRORkpvTmJGanRSU1pOVFpSYVNfeEVQZWZUS1FudEMwVXRkbV9QM0dxRllpLXNpVXBZSzFVbEVRMERLal81TktoX0c4RTdKT1Y1WW5fMk1MaWVjRjJzWFd4ZWVjNFR4Vl9RMm1uVnlCTGlHSHMyd1Z5RlhYUHEyaVZfVWExUjd5ZjJUZU9TRE5CSnNybHg0MkU5dUlIbTdoLTNLZUdES2l2N0lJRzE1WDFPdnVzMjkyeWxFQ28": 1792347945432,
-    "news:CBMifkFVX3lxTE9WNnFiWG9OUGMyc3dHVHpGUXVWQ291MXU4aVdYQldBZEw2Vl8xcXdRZTZjTFdSRlNmbkRRZG9CVXpUX0pZM3JDeFdrZnlCNXpUOEtqMkJ2TjgtMV84UTFZSDdaN0xJdGI2Sm9LeWgxYmVxaHBDNXc1Qm95Nk5pUQ": 1792347945432,
     "threads:DFGsQInvfGp": 1792348246122,
     "threads:DIZxtCHzhv0": 1792348246122,
     "threads:DcZNCZriP9P": 1792348537185,
@@ -26923,19 +26907,21 @@
     "threads:DfNXDVfD4Vf": 1793557246871,
     "threads:DfNWtZEDYd0": 1793557246871,
     "threads:DfNWgt7kqYo": 1793557246871,
-    "threads:DfNWb4LmQtJ": 1793557246871
+    "threads:DfNWb4LmQtJ": 1793557246871,
+    "threads:DfNWiRvjV-U": 1793557537107,
+    "threads:DfG8Gz0D6D4": 1793557537107,
+    "threads:DTwfuevjyyC": 1793557537107,
+    "threads:DankYJMEuV5": 1793557537107,
+    "threads:Da6vDuBmj94": 1793557537107,
+    "threads:DcgsWTRkj1S": 1793557537107,
+    "threads:DfNAkOFE4Gs": 1793557537107,
+    "threads:DfHFOg2Eu99": 1793557537107,
+    "threads:DZwC4LOEaNg": 1793557537107,
+    "threads:DUqKnebEgN2": 1793557537107,
+    "threads:DZrVL-gD6lp": 1793557537107,
+    "news:CBMinAFBVV95cUxQTkhoai1XdmhacTZxM0RQY29NVWJRdXlWbS1lMm9rcDBOc0NJQWVQUmgxOFo2R0pOWFhnQk1BMkpWMlZDSmNqNGRKZS1aQTFBS0dYUHpwai12SjNTX0piUGFLOVBFc19FMUVOR1l6XzA4S1Jwb2QwVU1DWm5tNi1Ec2Z2NDRNbmxUckVKZ1pXLTlCaU4zQVctR0VyTUY": 1793557537107
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Solo",
-      "x": "Kalender November 2026 Lengkap Daftar Hari Besar: Apakah Ada Tanggal Merah Libur Nasional Bulan Ini? - Radar Solo",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVFDMnJ3MVZ5S0JhdDY5NjI4a2JOajdrQVJQNUs1cXZoaFBFZTJmazlqUW94ajQ5Slp5N1BkQTh4UjJrTVh1THF0MndiUVF6MDFOYktVMDRzSW8ydE11LU1ydVhPTGtLVFRsZ1YzaTlaYWc2NG9ReEpHbXlsbHlzdVZDSU93dTJqZ2pLdUFSTTViUkZFNXpBMlh3dndBMFpQa2d0eFpBYmtvT1NVZmhDWjBpemJmMHo3RFBFcW1FYm5waEozUC1zb2VTeVpGUURmSmpTa0ZBVDIxOGJrRzdNLXNR0gHnAUFVX3lxTE41WW9SUnpHcDhSZEhWQUNPcGwybktfUUs2dEQzekxCMGFrS0FnLXVPNUpGQ25IYjdubXZTTjlXbUVKa3hvZVZRYm1fMFhzdUZ6bVRDdVY5QkxSTk8zdF9HaXY5OTNUS1ZkS2lkR1V6R3hkNHRHSUk1S3djLUJWTTBpbndtc1hBVzdHZWpLMV9fNVIyenlveDNDNUlDeFA4T1BXSVg2LTZXaGp5eGhYTkJqbER2RWU0bm00RFAxaTk5TGlXVk9mUkJGME4zQ1FGOVo2cGZFZDBiRkdhSmYyRGZ0Vk1WY2tBNA?oc=5",
-      "d": 1793535063000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28425,10 +28411,20 @@
       "d": 1793556772000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elisaanwiana",
+      "x": "Cari 20 orang diajak mutualan amanah aman dan 2 orang yang bakal aku kasih gratis belajar publik speaking😁 Masih grogi, takut salah, atau suka blank saat ngomong? Yuk belajar dari",
+      "u": "https://www.threads.com/@elisaanwiana/post/DfNAkOFE4Gs",
+      "d": 1793545379000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
