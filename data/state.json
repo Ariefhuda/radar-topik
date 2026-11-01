@@ -26275,19 +26275,12 @@
     "threads:DfMLDk1Fkdw": 1793517935894,
     "threads:DfMK0cUjNZM": 1793517935894,
     "threads:DfMK9o5IPtW": 1793517935894,
-    "threads:DfMKv4ZIBKl": 1793517935894
+    "threads:DfMKv4ZIBKl": 1793517935894,
+    "threads:DUcjQnODIuP": 1793518264484,
+    "threads:DfMMwICEd88": 1793518264484,
+    "news:CBMi5gFBVV95cUxOcXEteDloQkFJOG1uR1FxdWVEa0hFaFJ2aWVqQUJoTFQ2TFAzVzZlMmYyT0pER3JONHJKcGdIbDEtdUpjMHZjM2JsUGVuSElfc213SGRkRkIxRkw5OTRub2lXVVpoeVJOcGRlNUNZaFl6R2tSRXZ5V2tJdXhGUmE0WkNHU2JYRFFKVXZOOWp5aDlvZzNBU05SLXIzc0ZBQ0V2Q2V4WWMzRGkxWEdEbjUxamI0Q1QxVUNrVjZlZjVoamNHYmd0RE80ZU10TmtTdFp0RV9udkszT1doUUtuTVBYUXJ5Z2tYQdIB6wFBVV95cUxQN0xMeTBJTWNHSmJRdmN2QWhaZDBrcmtwaVFnNUJoT2xLZVhkYXlUSVVnck1hOTU4ckRkdUZLV2ZmZ2ZWSnBseHRyZG9WSW14VFlEclVPdlFOejV0VnlWcFZDVzZTX0E5V2N4bm00VWVGUlZKYnhDX2FvRmw4dUZSZDE2VTdqV3p3UzBHX2ZPYWNGQUZGNzFmMTg2WGFrcEZLMXN0SlV6a09hX3JFd0t1Wk5zRDQyT3ZCMmNzY3Z0ZFlwaXJZOHYxbmtvaUVQU3dGMDBUZEJqeE9ONGVjcTA4ekdLR3Z4Qk5fQTJJ": 1793518264484
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ayrachmaan",
-      "x": "Entah kakk, tp aku udh coba ajuin dari aplikasi cek bansos. Keputusan tetep dari pemegang kuasa kannn😁😁",
-      "u": "https://www.threads.com/@ayrachmaan/post/DfLvppRIHJF",
-      "d": 1793502956000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27777,10 +27770,20 @@
       "d": 1793517163000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Priangan Insider",
+      "x": "Cek NIK Sekarang! Ini Syarat Lengkap Penerima BSU 2026 yang Cair November-Desember - Priangan Insider",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcXEteDloQkFJOG1uR1FxdWVEa0hFaFJ2aWVqQUJoTFQ2TFAzVzZlMmYyT0pER3JONHJKcGdIbDEtdUpjMHZjM2JsUGVuSElfc213SGRkRkIxRkw5OTRub2lXVVpoeVJOcGRlNUNZaFl6R2tSRXZ5V2tJdXhGUmE0WkNHU2JYRFFKVXZOOWp5aDlvZzNBU05SLXIzc0ZBQ0V2Q2V4WWMzRGkxWEdEbjUxamI0Q1QxVUNrVjZlZjVoamNHYmd0RE80ZU10TmtTdFp0RV9udkszT1doUUtuTVBYUXJ5Z2tYQdIB6wFBVV95cUxQN0xMeTBJTWNHSmJRdmN2QWhaZDBrcmtwaVFnNUJoT2xLZVhkYXlUSVVnck1hOTU4ckRkdUZLV2ZmZ2ZWSnBseHRyZG9WSW14VFlEclVPdlFOejV0VnlWcFZDVzZTX0E5V2N4bm00VWVGUlZKYnhDX2FvRmw4dUZSZDE2VTdqV3p3UzBHX2ZPYWNGQUZGNzFmMTg2WGFrcEZLMXN0SlV6a09hX3JFd0t1Wk5zRDQyT3ZCMmNzY3Z0ZFlwaXJZOHYxbmtvaUVQU3dGMDBUZEJqeE9ONGVjcTA4ekdLR3Z4Qk5fQTJJ?oc=5",
+      "d": 1793509200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
