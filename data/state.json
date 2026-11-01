@@ -26068,7 +26068,10 @@
     "threads:DdahAyXAUjz": 1793510440900,
     "news:CBMiZ0FVX3lxTE1Zci1BcWJRSGpWMkFjTTZzREJYVjZLREdkR2FlMzJZNnZEbHlhYTl6NmpXRXZNNWxVZl9CM24tODZFZVhONkVVYTRSYnZoeC1oUzNtdDR4RGY5dGozWC1DZ1VWLUQxVjQ": 1793510440900,
     "news:CBMiwgFBVV95cUxNYXBwMGJSN0lYUmRRUlAxMnA2SG9mcldMZlNhQnpiWGx0ZUJ6aUhMTy12VUJuaVdXeVBzeDh3bld0dkJ5SE0yRXJBVzY2SW9oNnRyOGNPZVAxWENaN1JGZnFKNDZkWWJvM2RjWlA4dlpMM3g2N0FZOHZZWDF4MDJXZ2VfUUhFcURGa2lUY3dFb3JMTFdKRGkySHQxVzRFTHBQY1VxQTZUYzkzNkpwdUdFNHZCekxrSmt2OW1TQ1pMWnpXZw": 1793510440900,
-    "news:CBMid0FVX3lxTE42eTJWaUgtQml0bUhqM3Azcm41MUxLa2stZ3hETG4xRmtQblBmaW1RWXg0Vjc4X3BielBsZS1EcGdPSGxBNDdLSGV4XzFpamJmVEQxby1TLVRkQXcwM2tEY3VYcmhjR2JPNUpFV25YMlFBX2dfYVlR": 1793510440900
+    "news:CBMid0FVX3lxTE42eTJWaUgtQml0bUhqM3Azcm41MUxLa2stZ3hETG4xRmtQblBmaW1RWXg0Vjc4X3BielBsZS1EcGdPSGxBNDdLSGV4XzFpamJmVEQxby1TLVRkQXcwM2tEY3VYcmhjR2JPNUpFV25YMlFBX2dfYVlR": 1793510440900,
+    "threads:DfL99g7H02h": 1793510736555,
+    "threads:DHN_Sk6ykya": 1793510736555,
+    "news:CBMi0AFBVV95cUxOSEdGdUI2eXNtNk5zWWxUWm1rODdJdGY2dUtMY1lCNDNjTjJ1eno4VU1uZ0JHc1FhaFI3Y2Fkd2RFRmZ1LVlwWFRYdm5lU3pmR1pzQ3BTVWQ1UTVtSTZmdlFGbndCdlpZejZEYlZoMWVEVnptd2gweXhmNWdicTdaRFc4SDJZLURUcUtOU21CcTJKQkMtdWxXVzFXN1lmT2ltTWxuVjZzMURBZUUyZkFWUGpJUk5zMmFvYWpjS3FTTzBKRFhrSUhJcGlfa3dtdUNW0gHQAUFVX3lxTE5IR0Z1QjZ5c202TnNZbFRabWs4N0l0ZjZ1S0xjWUI0M2NOMnV6ejhVTW5nQkdzUWFoUjdjYWR3ZEVGZnUtWXBYVFh2bmVTemZHWnNDcFNVZDVRNW1JNmZ2UUZud0J2Wll6NkRiVmgxZURWem13aDB5eGY1Z2JxN1pEVzhIMlktRFRxS05TbUJxMkpCQy11bFdXMVc3WWZPaW1NbG5WNnMxREFlRTJmQVZQaklSTnMyYW9hamNLcVNPMEpEWGtJSElwaV9rd211Q1Y": 1793510736555
   },
   "digest": [
     {
@@ -27480,10 +27483,20 @@
       "d": 1793510425000,
       "urgent": false,
       "warn": true
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kanzaaqilazahwa",
+      "x": "Cara mengajukan bansos sembako dan pkh lewat aplikasi cek bansos klik usulan ya bapak ibuk. akan muncul seperti ini, dan tunggu di acc, semoga dapat merata dan tepat sasaran. #bans",
+      "u": "https://www.threads.com/@kanzaaqilazahwa/post/DfL99g7H02h",
+      "d": 1793510460000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
