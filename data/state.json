@@ -25642,11 +25642,74 @@
     "threads:DfLgBTuE-20": 1793494855684,
     "threads:DfLfgRBH7hg": 1793494855684,
     "threads:DfGysfzGDzR": 1793494855684,
-    "news:CBMi3AFBVV95cUxOa2NTLWkzcmo0N1NSdzZLdHhMbWxHWFVSRVdSaDhVYnB0OE0tSk4tNWdaTlM4NjB0MTAwS2ZJbDh6bWE4M2o3b0sweXNYRzRLWXhqeC1YdHE1cHQ0bnEwdEIzU3Rud3JpWDZOZzRvNFd3TW92NDZkV2pjS294Y1N4N0ctZFkySW1oVHk4ZTlRVzljRUhDMTcwd3NSM0JKRV9jckVFTTlFZThTWG8yeWYwT2U3N2FYZlRMNDF5aGhxajlqSEVFYWdhMld3T3JnMEpOVGNaMlRVcFdaOW1x": 1793494855684
+    "news:CBMi3AFBVV95cUxOa2NTLWkzcmo0N1NSdzZLdHhMbWxHWFVSRVdSaDhVYnB0OE0tSk4tNWdaTlM4NjB0MTAwS2ZJbDh6bWE4M2o3b0sweXNYRzRLWXhqeC1YdHE1cHQ0bnEwdEIzU3Rud3JpWDZOZzRvNFd3TW92NDZkV2pjS294Y1N4N0ctZFkySW1oVHk4ZTlRVzljRUhDMTcwd3NSM0JKRV9jckVFTTlFZThTWG8yeWYwT2U3N2FYZlRMNDF5aGhxajlqSEVFYWdhMld3T3JnMEpOVGNaMlRVcFdaOW1x": 1793494855684,
+    "threads:DYm_wHDDSl4": 1793495148448,
+    "threads:DfLgbQrkw9J": 1793495148448,
+    "threads:DfLg7Bomn9x": 1793495148448,
+    "threads:DfLggTNEjEE": 1793495148448,
+    "threads:DfLgKfTj7SZ": 1793495148448,
+    "threads:DfKh0znG4_r": 1793495148448,
+    "news:CBMi2gFBVV95cUxNYm5HdDB3WHhTRzhjUGN3MFdpeDd3ZjdCOFZKV292cHdhREljalpFWkRrR3FkcmJRTVcxdGlsZC1pUjRfVGlSU3dtOVBiUUtnZWsxXzAxVjdMMmRUOVVVc0hxTkd2WHVzSjFQUmZsRERsaFF3Z1d4dmVZT0l2ci1abHhhMlByOWIxQ1Ezc2ZsNXdvazZwQlFrdnRfWlpDdkdPVklMWTVJd3dNWjBRcGszdUJYeUNrNEQxclUwUk1KYUVUS2RvZWZMTXMwUFZFN3RqUWd6cTg2VVp6dw": 1793495148448,
+    "news:CBMi4AFBVV95cUxNYkt3Y2g3X1dZQ21JclZDR0stbUFzOXhtN2lJX3BUVzV6VVlkWnNJNzdUYS1lNWNnU2N3VDNYcEdpdHRJZlAydkdQMGMyczQxb1BDSERQc05VX3VWTWdTXzZZRmJYWkhHcDNtX1c2eExxLVlhMC1oWUQwV2wyVDFqOVNVZmI3c3FxYlZMd0o2MUdHUlpyUTdJdUlzZlhvSktwQ2t6SHh4bGUzWFA4Vkp3NUZxa3lxRzRTVzZiZUU5aFRLbXNrU29xS0s3ZHVIUU9XZ1dkdkIxVnM2RDFPR0oyMQ": 1793495148448,
+    "news:CBMivwFBVV95cUxPTkhBazlMcWNpNEJZR2tqR2RsTkU3aHFFenJhVDQ0N3RUdllXaS1NLXVfc0FhSGgtUVBNd2R3MU5waFRsdHVHemZfVzMxallkbkY3cmswOVBQZHY2NFVlQkItSktzTmJNU3Vsdm5oSkNsaUx1RFM0ZG4taFlYU1lNeTZEQmpDTkhDUDV2QzhBN2RlV1NzWmxmSm5JREhfbC1OWndlcTRSZFJoanBmRGloZXZKTUUtRjVDcG1NMUgzWQ": 1793495148448,
+    "news:CBMiigFBVV95cUxNbzFqbGxlZ2VZbWN3Y2RTaC1XSjkxeUgtRl9ORGZid1hjcmxDQmlOYnBvWlAwZ1BKU0tfbDV1WU9XNDFsNDZ5ajRJNzVSTms2ZFFtUF9zVWJEUkVKcUJMWFFQOWxCWjlfTE9LMzBEMElTak5TcjAtdDNIdVQxeHFVMm0tenRDRWZZREE": 1793495148448,
+    "news:CBMiyAFBVV95cUxPcmNOWGdJM21LTGxJbEVzaGdDdEsyVHJkX0ZjLXVfaVV6U2UwN29mVHRDTlRoLWZudGtGTGNwN25GVmR4akRPNmhDVkhDMmx2dmhwVHV2MzJNdlBnZFJpMVlBMnNSSmgxQldpS3ZDYjFLd2tUV3YyZXJLYlhIeHN2eHY3LXYxcGJkZmY2a3BRVzlOMUh4anQ2V01lWm9FNUtoSzd2OFVwWjhqZC1XbWpKNTgwXzhaOHNSRUxITWZEZzJ2X3VfQWxNd9IByAFBVV95cUxPcmNOWGdJM21LTGxJbEVzaGdDdEsyVHJkX0ZjLXVfaVV6U2UwN29mVHRDTlRoLWZudGtGTGNwN25GVmR4akRPNmhDVkhDMmx2dmhwVHV2MzJNdlBnZFJpMVlBMnNSSmgxQldpS3ZDYjFLd2tUV3YyZXJLYlhIeHN2eHY3LXYxcGJkZmY2a3BRVzlOMUh4anQ2V01lWm9FNUtoSzd2OFVwWjhqZC1XbWpKNTgwXzhaOHNSRUxITWZEZzJ2X3VfQWxNdw": 1793495148448,
+    "news:CBMiwwFBVV95cUxNdjY4VFpPTlBSYjF3TjhTUzFkRVZaRFNfYm42MEl1WXc1TzN1dWFlclhwTDVJVlVwRUltMG9fVkFKbGxrWFVQbGEwV0dhY3NqNDJXdE82UTlYV1B5bG1rb2RnYlp5T242YURNSnZkVDlZUlZFRjNKQXAxRzVudXYyQnBpMTBZeGFBbmJmX3NFSURGbWt6T3VzWUswQk4ybFpjcUdjVEIyUThuTzRaUEJnV216TjdNYVZZOXFVYXN1WWFDd1nSAcMBQVVfeXFMTXY2OFRaT05QUmIxd044U1MxZEVWWkRTX2JuNjBJdVl3NU8zdXVhZXJYcEw1SVZVcEVJbTBvX1ZBSmxsa1hVUGxhMFdHYWNzajQyV3RPNlE5WFdQeWxta29kZ2JaeU9uNmFETUp2ZFQ5WVJWRUYzSkFwMUc1bnV2MkJwaTEwWXhhQW5iZl9zRUlERm1rek91c1lLMEJOMmxaY3FHY1RCMlE4bk80WlBCZ1dtek43TWFWWTlxVWFzdVlhQ3dZ": 1793495148448
   },
-  "digest": [],
+  "digest": [
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Pemkot Cilegon Kembali Realisasikan Program Beasiswa Juare, Sediakan 763 Kuota Penerima Manfaat - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYkt3Y2g3X1dZQ21JclZDR0stbUFzOXhtN2lJX3BUVzV6VVlkWnNJNzdUYS1lNWNnU2N3VDNYcEdpdHRJZlAydkdQMGMyczQxb1BDSERQc05VX3VWTWdTXzZZRmJYWkhHcDNtX1c2eExxLVlhMC1oWUQwV2wyVDFqOVNVZmI3c3FxYlZMd0o2MUdHUlpyUTdJdUlzZlhvSktwQ2t6SHh4bGUzWFA4Vkp3NUZxa3lxRzRTVzZiZUU5aFRLbXNrU29xS0s3ZHVIUU9XZ1dkdkIxVnM2RDFPR0oyMQ?oc=5",
+      "d": 1793467825000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Ini 5 Jurusan Kuliah Paling Populer di Indonesia, Banyak Diminati Calon Mahasiswa - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkhBazlMcWNpNEJZR2tqR2RsTkU3aHFFenJhVDQ0N3RUdllXaS1NLXVfc0FhSGgtUVBNd2R3MU5waFRsdHVHemZfVzMxallkbkY3cmswOVBQZHY2NFVlQkItSktzTmJNU3Vsdm5oSkNsaUx1RFM0ZG4taFlYU1lNeTZEQmpDTkhDUDV2QzhBN2RlV1NzWmxmSm5JREhfbC1OWndlcTRSZFJoanBmRGloZXZKTUUtRjVDcG1NMUgzWQ?oc=5",
+      "d": 1793455620000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Aktualita.co",
+      "x": "Prabowo Gratiskan SMA Taruna Nusantara untuk Seluruh Siswa, Simak Enam Lokasi Kampus dan Ketentuan yang Sudah Diumumkan - Aktualita.co",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzFqbGxlZ2VZbWN3Y2RTaC1XSjkxeUgtRl9ORGZid1hjcmxDQmlOYnBvWlAwZ1BKU0tfbDV1WU9XNDFsNDZ5ajRJNzVSTms2ZFFtUF9zVWJEUkVKcUJMWFFQOWxCWjlfTE9LMzBEMElTak5TcjAtdDNIdVQxeHFVMm0tenRDRWZZREE?oc=5",
+      "d": 1793411750000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Karanganyar News",
+      "x": "Cara Membuat SIM Online: Syarat, Langkah, dan Biaya Lengkap - Karanganyar News",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmNOWGdJM21LTGxJbEVzaGdDdEsyVHJkX0ZjLXVfaVV6U2UwN29mVHRDTlRoLWZudGtGTGNwN25GVmR4akRPNmhDVkhDMmx2dmhwVHV2MzJNdlBnZFJpMVlBMnNSSmgxQldpS3ZDYjFLd2tUV3YyZXJLYlhIeHN2eHY3LXYxcGJkZmY2a3BRVzlOMUh4anQ2V01lWm9FNUtoSzd2OFVwWjhqZC1XbWpKNTgwXzhaOHNSRUxITWZEZzJ2X3VfQWxNd9IByAFBVV95cUxPcmNOWGdJM21LTGxJbEVzaGdDdEsyVHJkX0ZjLXVfaVV6U2UwN29mVHRDTlRoLWZudGtGTGNwN25GVmR4akRPNmhDVkhDMmx2dmhwVHV2MzJNdlBnZFJpMVlBMnNSSmgxQldpS3ZDYjFLd2tUV3YyZXJLYlhIeHN2eHY3LXYxcGJkZmY2a3BRVzlOMUh4anQ2V01lWm9FNUtoSzd2OFVwWjhqZC1XbWpKNTgwXzhaOHNSRUxITWZEZzJ2X3VfQWxNdw?oc=5",
+      "d": 1793458061000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Karanganyar News",
+      "x": "Cara Membuat Foto Jadi Video AI Lengkap dengan Prompt-nya - Karanganyar News",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjY4VFpPTlBSYjF3TjhTUzFkRVZaRFNfYm42MEl1WXc1TzN1dWFlclhwTDVJVlVwRUltMG9fVkFKbGxrWFVQbGEwV0dhY3NqNDJXdE82UTlYV1B5bG1rb2RnYlp5T242YURNSnZkVDlZUlZFRjNKQXAxRzVudXYyQnBpMTBZeGFBbmJmX3NFSURGbWt6T3VzWUswQk4ybFpjcUdjVEIyUThuTzRaUEJnV216TjdNYVZZOXFVYXN1WWFDd1nSAcMBQVVfeXFMTXY2OFRaT05QUmIxd044U1MxZEVWWkRTX2JuNjBJdVl3NU8zdXVhZXJYcEw1SVZVcEVJbTBvX1ZBSmxsa1hVUGxhMFdHYWNzajQyV3RPNlE5WFdQeWxta29kZ2JaeU9uNmFETUp2ZFQ5WVJWRUYzSkFwMUc1bnV2MkJwaTEwWXhhQW5iZl9zRUlERm1rek91c1lLMEJOMmxaY3FHY1RCMlE4bk80WlBCZ1dtek43TWFWWTlxVWFzdVlhQ3dZ?oc=5",
+      "d": 1793457353000,
+      "urgent": false,
+      "warn": false
+    }
+  ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
