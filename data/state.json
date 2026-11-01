@@ -26844,7 +26844,9 @@
     "threads:DfMs8Orju4h": 1793535343436,
     "threads:DdYSCT3CPRG": 1793535343436,
     "threads:DbYp8wbjxC_": 1793535343436,
-    "threads:DfI7rLOGBP_": 1793535343436
+    "threads:DfI7rLOGBP_": 1793535343436,
+    "threads:Dd8QMFlkeRv": 1793535638485,
+    "threads:DfMt92WGY7Y": 1793535638485
   },
   "digest": [
     {
@@ -26886,10 +26888,20 @@
       "d": 1793535092000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@piknikdong",
+      "x": "Begini Cara Cek Desil Bansos Kemensos Go Id 2026 Lewat HP Pakai NIK KTP https://www.piknikdong.com/cara-cek-desil-bansos-kemensos-go-id-2026/",
+      "u": "https://www.threads.com/@piknikdong/post/DfMt92WGY7Y",
+      "d": 1793535628000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
