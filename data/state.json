@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DVI2B9gCVsk": 1792361740917,
-    "threads:DQfs1RQkoIm": 1792361740917,
-    "threads:DOkMl2aiTa4": 1792361740917,
-    "news:CBMibEFVX3lxTE1OMGY3b3FNVU5YYmhZTTdxeEZyV1pJcXFlT2ZudDk5RmhBRS02aUFlRTRGTmx6NVdadXNfZGJWZGtKZHZEc3JNcFQ4eVdfRmRuSnpHVTV5ZVNieHF1T2N1VlVxazNtelVlc2p0RQ": 1792361740917,
-    "news:CBMihwFBVV95cUxORklrR1c3cDhybFVQbi1GVVcxQkdwblZCdHR2RUNhT1FCQlFpNjNaaE4zSXlLRHR0SUhiQTAwWFo4MHpIMG5nREQ0MkFFNFZoeFR5U1o2VlkySGhyaHllSWZJNUtFLWhyUTI1aFlqMFJ4TnNWcE9yRnBqRVc2QVUwQkdhbUgwd1U": 1792361740917,
     "threads:DdP7Va3EqRP": 1792362044023,
     "threads:DT8sEfeiMxN": 1792362044023,
     "threads:DaQLj8iibcO": 1792362044023,
@@ -26981,29 +26976,12 @@
     "threads:DfNwMd9DMqj": 1793571051007,
     "threads:DCh1TC9TG4S": 1793571051007,
     "threads:Dber0VuDZwm": 1793571051007,
-    "news:CBMixgFBVV95cUxOMERxWjZ3MllGM1ZYMWJfMVc2NHJ1NlhmczVhMkwtT05FRUlpWm1JeTBvT0dQajViTDNDZnZEeEFpTXE2X0lLaGYxVHpLX1BxV3hjaG1JaW5wQ2VoTWVGTzd5RHM1dk9MSzNyRUVoWC1SS0pTZVNXc0FZbG90NU1fNU5KN3pKekV3bHlGTjhVOG5yWGJhOXBTWUV6dkpxRnltd0V4ZEJZcjJka2lqQjhzRFZvSk5PaC1LNjBaUkFJcUtRdXNNTmc": 1793571051007
+    "news:CBMixgFBVV95cUxOMERxWjZ3MllGM1ZYMWJfMVc2NHJ1NlhmczVhMkwtT05FRUlpWm1JeTBvT0dQajViTDNDZnZEeEFpTXE2X0lLaGYxVHpLX1BxV3hjaG1JaW5wQ2VoTWVGTzd5RHM1dk9MSzNyRUVoWC1SS0pTZVNXc0FZbG90NU1fNU5KN3pKekV3bHlGTjhVOG5yWGJhOXBTWUV6dkpxRnltd0V4ZEJZcjJka2lqQjhzRFZvSk5PaC1LNjBaUkFJcUtRdXNNTmc": 1793571051007,
+    "threads:DfNxSs1gZsu": 1793571338366,
+    "news:CBMiiwJBVV95cUxQQ2tWaGExYmNuYWJIMVVTV1ZiUHZwOC0wRWpTQTUwemN3bGJDT1I5ZlJYT2V0Y0lkSmJmTFRNUUgtdUdGTVgtZVliRDZVT05RMjYxWXFxdngweGtkQzJnWEVIVlVzZ2Vfc0IyZlFjVDdRVVBzMlpKX0gzWFZmTlZleFlEYUdlSG9lSVhRWkk3YXJfYlpQR2FsZkFHLV9UMGJUWVc0Nm9ld0ZZRVp4cWpnSW1XMk1ibXNFT1Q4cTBsUkg5ckZzWXBsczNJZ1o4dlEwMzM1VFpzd0xxYkI1Tm51WkRTRTRnTE1YX09WV0Niam5KbnN2TzdFNEFBQUl3NFJPN0R2a3pacnYtdW_SAYsCQVVfeXFMUENrVmhhMWJjbmFiSDFVU1dWYlB2cDgtMEVqU0E1MHpjd2xiQ09SOWZSWE9ldGNJZEpiZkxUTVFILXVHRk1YLWVZYkQ2VU9OUTI2MVlxcXZ4MHhrZEMyZ1hFSFZVc2dlX3NCMmZRY1Q3UVVQczJaSl9IM1hWZk5WZXhZRGFHZUhvZUlYUVpJN2FyX2JaUEdhbGZBRy1fVDBiVFlXNDZvZXdGWUVaeHFqZ0ltVzJNYm1zRU9UOHEwbFJIOXJGc1lwbHMzSWdaOHZRMDMzNVRac3dMcWJCNU5udVpEU0U0Z0xNWF9PVldDYmpuSm5zdk83RTRBQUFJdzRSTzdEdmt6WnJ2LXVv": 1793571338366,
+    "news:CBMitAFBVV95cUxOSEMxbGJwekt2QWt2Um1OUmJMWk1CRFZSeEdtNHNsS1Q3QklNMmM1YkdTNlhSTWd1YXpZOGNUQWZVQUhvcGo2OGNmLXR6NHphU0wxa0RpVnRfUG54QlNsLS1weU5BOEpjZGZtSTUwZmVSYzMxamtlSjY3dnA5VEJ4R3I0dkhxMmVUN2JxVWYzdFhORW02aGp1NllQMUU3SU0zMWZlcGFBQ2p0RnJkNHRMUVc5RDnSAboBQVVfeXFMTWJFUWRtcjZxTUFnak9jVTJJWjk4akdWSlliSDdLLUVQUlVIS0J5M2F0TFBUYjFvVFNNY1ktdGNJcFVGNGpRTWJVMWpLUzZyM2xhS3lQeURDOGEzZm5EbUVLbW1aNnFXQ2tGa0RlNFQ1a19pNzhNb0hIdzJCZWJHYjBFeEE0bFlOcGdaTVQ5aUt0c3BFeFVzVTNHZGRvb3JzZnhJWGNKaUJXVWJGY01DN05kUHJNYjJYckVB": 1793571338366
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bansos BPNT Tahap 2 dan 3 Cair Bersamaan, KKS Baru Terima Rp1,2 Juta - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTBkVHRBZ3ZMUWdaRlhaVUY5NGs5emxSQ1Zld2c5cjlCTVhhcWp0RjVDX2tQR3BwMzh0NlNlNTAzOWtEa3BlQ3FIQzB1SXdVQllXXzFQTXQ0M1hremJPNjZ4VHoxd0xSRlJiZHZGcEN3TXFhaEZrX1JFSmVadFc4X2dtcnB3LUF2dTZBZ2dZOHpUUWpGRFlya0xzOUk4ZGRwcjF6QlJhRVZxVVVGWDZlYXliSmhHUdIBuwFBVV95cUxOSWJBdkxPc1RBZnhVWWFnd1FOdHJ0dXFKb3MzRC0zZGp0Vmt1VmR1MFZNdHZnckFiWmhPMjJZcmRxNUI0blN2ck5JSE9XY0JCWk1ELTBCZUF5dy1TZjF2R3ZaTEdETTJZdndyM3ZzUTd0Z1Y4N2VESXhNanV5dUJlR0tTYi03SXZreDRWZVdXY09ISjJXVE1GZEswejRPUU5CRmtzRjNwcXFld0NsRklTV0p6akl0VmhFTHJz?oc=5",
-      "d": 1793541311000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@griya_produktif",
-      "x": "🚀 Bikin Video Keren Cuma Pake AI? BISA BANGET! 🎬✨ Mau belajar bikin konten video aesthetic & profesional tanpa perlu ribet syuting atau punya kamera mahal? 🎨🤖 Yuk, ikutan KELAS",
-      "u": "https://www.threads.com/@griya_produktif/post/DfM5_fhE0RJ",
-      "d": 1793541932000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28483,10 +28461,30 @@
       "d": 1793571072000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Kuy Belajar Diplomasi Lewat Program AYDA 2027 dari Kedubes Amerika Serikat, Simak Persyaratan Berikut Ini Sebelum Mendaftar - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ2tWaGExYmNuYWJIMVVTV1ZiUHZwOC0wRWpTQTUwemN3bGJDT1I5ZlJYT2V0Y0lkSmJmTFRNUUgtdUdGTVgtZVliRDZVT05RMjYxWXFxdngweGtkQzJnWEVIVlVzZ2Vfc0IyZlFjVDdRVVBzMlpKX0gzWFZmTlZleFlEYUdlSG9lSVhRWkk3YXJfYlpQR2FsZkFHLV9UMGJUWVc0Nm9ld0ZZRVp4cWpnSW1XMk1ibXNFT1Q4cTBsUkg5ckZzWXBsczNJZ1o4dlEwMzM1VFpzd0xxYkI1Tm51WkRTRTRnTE1YX09WV0Niam5KbnN2TzdFNEFBQUl3NFJPN0R2a3pacnYtdW_SAYsCQVVfeXFMUENrVmhhMWJjbmFiSDFVU1dWYlB2cDgtMEVqU0E1MHpjd2xiQ09SOWZSWE9ldGNJZEpiZkxUTVFILXVHRk1YLWVZYkQ2VU9OUTI2MVlxcXZ4MHhrZEMyZ1hFSFZVc2dlX3NCMmZRY1Q3UVVQczJaSl9IM1hWZk5WZXhZRGFHZUhvZUlYUVpJN2FyX2JaUEdhbGZBRy1fVDBiVFlXNDZvZXdGWUVaeHFqZ0ltVzJNYm1zRU9UOHEwbFJIOXJGc1lwbHMzSWdaOHZRMDMzNVRac3dMcWJCNU5udVpEU0U0Z0xNWF9PVldDYmpuSm5zdk83RTRBQUFJdzRSTzdEdmt6WnJ2LXVv?oc=5",
+      "d": 1793533920000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "BPNT Cair Double Rp1.200.000 di KKS Baru Bank BRI, Ini Penjelasannya - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEMxbGJwekt2QWt2Um1OUmJMWk1CRFZSeEdtNHNsS1Q3QklNMmM1YkdTNlhSTWd1YXpZOGNUQWZVQUhvcGo2OGNmLXR6NHphU0wxa0RpVnRfUG54QlNsLS1weU5BOEpjZGZtSTUwZmVSYzMxamtlSjY3dnA5VEJ4R3I0dkhxMmVUN2JxVWYzdFhORW02aGp1NllQMUU3SU0zMWZlcGFBQ2p0RnJkNHRMUVc5RDnSAboBQVVfeXFMTWJFUWRtcjZxTUFnak9jVTJJWjk4akdWSlliSDdLLUVQUlVIS0J5M2F0TFBUYjFvVFNNY1ktdGNJcFVGNGpRTWJVMWpLUzZyM2xhS3lQeURDOGEzZm5EbUVLbW1aNnFXQ2tGa0RlNFQ1a19pNzhNb0hIdzJCZWJHYjBFeEE0bFlOcGdaTVQ5aUt0c3BFeFVzVTNHZGRvb3JzZnhJWGNKaUJXVWJGY01DN05kUHJNYjJYckVB?oc=5",
+      "d": 1793570417000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
