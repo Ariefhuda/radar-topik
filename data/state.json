@@ -27165,7 +27165,11 @@
     "threads:DavBVBSD3xh": 1793545535639,
     "threads:DfNA2gtFH0H": 1793545535639,
     "news:CBMi7gFBVV95cUxPVmRnQnFENzd6T3VCWFRjaDEwWWE5VUttSk5VMmxPeDQzYnp2Q0oyd2VWUTVkcTVMMW54RVVUSHFOODRyMG1YSVIxeDdZVzQyeVA4ZG1mYkdrQ0RjOE1CYlBoQkNVMDJNV2RZbTd2X0t5MWJPbEotcHlBdzlzajJSRDR4QXNjUGRWZ0lfbkY4QW1RaVE5Qzl3OU5WZ0RGdFpVQ09QQ0xVMmFHZUViX3VYYzNlVWV0eXJQaUg2TldWTFc4MmpJWV8weGdWR2NETjJtU1k4NTNIQlpTSVhzcDNCY19aSi03QjIwODI0UDJn": 1793545535639,
-    "news:CBMihAFBVV95cUxQenZkUzFTUXJJTUFBZTdsb0gzZFdXSldSMHZMbjhjcTQydTBIMi1yV2taTzl2ZkxQSVdNeEdBZmxaaFd1VU8xLTNpdGJmUEpwYWItX2xneVp6c0YwNFZZanFHTDZZTVdSeWMtYVNDRzdiNGdIbTJjYkxkXzRtcVdKZEEwaTQ": 1793545535639
+    "news:CBMihAFBVV95cUxQenZkUzFTUXJJTUFBZTdsb0gzZFdXSldSMHZMbjhjcTQydTBIMi1yV2taTzl2ZkxQSVdNeEdBZmxaaFd1VU8xLTNpdGJmUEpwYWItX2xneVp6c0YwNFZZanFHTDZZTVdSeWMtYVNDRzdiNGdIbTJjYkxkXzRtcVdKZEEwaTQ": 1793545535639,
+    "threads:DfNBMhcHzlL": 1793545839324,
+    "threads:DXi-Y10lMJu": 1793545839324,
+    "news:CBMiWkFVX3lxTE83NkxMSVhzWnZ5S3lZVkJjRExfbkZEUUZrZDVvR0FydXhIektFQ01XekNpZGNheXJoUlB0bXFLRXZzN2UxaTFjQ3ZQdE1FWE9XWGFkazFVVGp3QQ": 1793545839324,
+    "news:CBMixgFBVV95cUxQZC0xRjNSa05DZlZCSGpNXzczMGYzNm0tckdmaWtfMHAzSVB1SUhDclhOaXZ4d3Q4djBaczFWN1p6T2tLUnZvM1lpMGtOaEUybXVOWDFPOHpOWjN2UW5EQVFqUWt6clZiYmtrOVU4Q2J3U29nQWxQVU1SMUF3NWtPS0MyWXY4T19DY29wTjVWcENKTVBaNVZhRWFydXRSbkdWZk1GaVFBbkJfcVRVZzhncDREYzZPSkZUMzU5SV9tbnM1SlM4SlE": 1793545839324
   },
   "digest": [
     {
@@ -28467,10 +28471,40 @@
       "d": 1793545217000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bansos2026__",
+      "x": "Pemerintah menyediakan program jaminan kesehatan bagi masyarakat yang memenuhi persyaratan. ✅ Membantu akses layanan kesehatan ✅ Ditujukan bagi masyarakat kurang mampu ✅ Pendaftara",
+      "u": "https://www.threads.com/@bansos2026__/post/DfNBMhcHzlL",
+      "d": 1793545709000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "KONTAN",
+      "x": "Wajib Halal Berlaku 18 Oktober 2026, Ini Daftar Produk, Sanksi & Cara Buat Sertifikat - KONTAN",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83NkxMSVhzWnZ5S3lZVkJjRExfbkZEUUZrZDVvR0FydXhIektFQ01XekNpZGNheXJoUlB0bXFLRXZzN2UxaTFjQ3ZQdE1FWE9XWGFkazFVVGp3QQ?oc=5",
+      "d": 1793542511000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "JPNN.com Jatim",
+      "x": "339 Siswa Ikuti Lomba Peneliti Belia Ubaya, 180 Riset dari 83 Sekolah Dipresentasikan - JPNN.com Jatim",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZC0xRjNSa05DZlZCSGpNXzczMGYzNm0tckdmaWtfMHAzSVB1SUhDclhOaXZ4d3Q4djBaczFWN1p6T2tLUnZvM1lpMGtOaEUybXVOWDFPOHpOWjN2UW5EQVFqUWt6clZiYmtrOVU4Q2J3U29nQWxQVU1SMUF3NWtPS0MyWXY4T19DY29wTjVWcENKTVBaNVZhRWFydXRSbkdWZk1GaVFBbkJfcVRVZzhncDREYzZPSkZUMzU5SV9tbnM1SlM4SlE?oc=5",
+      "d": 1793513280000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
