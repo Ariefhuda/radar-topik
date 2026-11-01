@@ -25780,7 +25780,21 @@
     "threads:DcpVJ8jE7iH": 1793500846835,
     "threads:Dd8gt7gExxI": 1793500846835,
     "threads:DWskdYUDBAH": 1793500846835,
-    "threads:DfLrE3xk4TB": 1793500846835
+    "threads:DfLrE3xk4TB": 1793500846835,
+    "threads:DdgHarbEeq3": 1793501139020,
+    "threads:DVWsAcykmn6": 1793501139020,
+    "threads:DeMF8F3j32J": 1793501139020,
+    "threads:DfLrepMmqzK": 1793501139020,
+    "threads:DfLreogmmzT": 1793501139020,
+    "threads:DX68PIwGLe5": 1793501139020,
+    "threads:DWU8QcKGJ2W": 1793501139020,
+    "threads:DfLsbbEgfQ9": 1793501139020,
+    "threads:DfLsVyWgVIJ": 1793501139020,
+    "threads:DfLsOf5gaW3": 1793501139020,
+    "threads:DfLsBxQDJLB": 1793501139020,
+    "threads:DfLrLU5CIHY": 1793501139020,
+    "news:CBMirgFBVV95cUxOdGNwUjBqcW0yQWdrMHowWGlGY2UzdlJKRV9ONTdTVUtmXzlDTTg4VVo5UW5OV3VERzEtUUVjZm93Y1NEMnFST1hnWFdOVWoxaUZGbWhITlNpTldDTVZWaUxZb0FhdkVKcVM2aVFvZDZyaUE3TTJMcXc4cko1MmhuYjJVdGNJSVhiZUwzNkIyWElIUE02R1oyYklJOE9HbmE4RjBJMVhlR3Bwd3BzMVE": 1793501139020,
+    "news:CBMihwJBVV95cUxNLUNqTnNCQ3BSSGQxWFB4LUp1WGNuQXNMRUg0Uy1GU1NBOUY4WnZvQTFEb2gwUVNzLWlKQ05fSGZLU1d6MjJVRHJJR1JxTTlFV0IzUl8zbTlNcUMwdDVteUJYSFVwTkc0ZThLNHZFQzFJcXU2UGVjU2dPYWpYdkVKS2xlbWxUbjR4OGtsWnJ4QzJxQm5GekM1U3V5RTJjRm1qcmFpdDljYjVlSU1waUFMbS1ZX0xfRWFKRHNfalhwbWIxam56dHRNV3FjQlZZVHBGbVZYZjcyRG5SWDJiVnBhMHhLZEdiM1doak5DX2ZweUxycjlzSnZ5M3d3Z3pkTEJDX2ltR0Rta9IBhwJBVV95cUxNLUNqTnNCQ3BSSGQxWFB4LUp1WGNuQXNMRUg0Uy1GU1NBOUY4WnZvQTFEb2gwUVNzLWlKQ05fSGZLU1d6MjJVRHJJR1JxTTlFV0IzUl8zbTlNcUMwdDVteUJYSFVwTkc0ZThLNHZFQzFJcXU2UGVjU2dPYWpYdkVKS2xlbWxUbjR4OGtsWnJ4QzJxQm5GekM1U3V5RTJjRm1qcmFpdDljYjVlSU1waUFMbS1ZX0xfRWFKRHNfalhwbWIxam56dHRNV3FjQlZZVHBGbVZYZjcyRG5SWDJiVnBhMHhLZEdiM1doak5DX2ZweUxycjlzSnZ5M3d3Z3pkTEJDX2ltR0Rtaw": 1793501139020
   },
   "digest": [
     {
@@ -26182,10 +26196,30 @@
       "d": 1793500561000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "PusaranMedia.com",
+      "x": "Waterboom Pulau Kumala Ditargetkan Bisa Dinikmati saat Libur Lebaran 2027 - PusaranMedia.com",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGNwUjBqcW0yQWdrMHowWGlGY2UzdlJKRV9ONTdTVUtmXzlDTTg4VVo5UW5OV3VERzEtUUVjZm93Y1NEMnFST1hnWFdOVWoxaUZGbWhITlNpTldDTVZWaUxZb0FhdkVKcVM2aVFvZDZyaUE3TTJMcXc4cko1MmhuYjJVdGNJSVhiZUwzNkIyWElIUE02R1oyYklJOE9HbmE4RjBJMVhlR3Bwd3BzMVE?oc=5",
+      "d": 1793471880000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Koran Jakarta ®",
+      "x": "INACA dan Ekosistem Industri Penerbangan Indonesia Perkuat Jejaring Aviasi Internasional Melalui Diplomasi dan Kolaborasi Lintas Negara - Koran Jakarta ®",
+      "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLUNqTnNCQ3BSSGQxWFB4LUp1WGNuQXNMRUg0Uy1GU1NBOUY4WnZvQTFEb2gwUVNzLWlKQ05fSGZLU1d6MjJVRHJJR1JxTTlFV0IzUl8zbTlNcUMwdDVteUJYSFVwTkc0ZThLNHZFQzFJcXU2UGVjU2dPYWpYdkVKS2xlbWxUbjR4OGtsWnJ4QzJxQm5GekM1U3V5RTJjRm1qcmFpdDljYjVlSU1waUFMbS1ZX0xfRWFKRHNfalhwbWIxam56dHRNV3FjQlZZVHBGbVZYZjcyRG5SWDJiVnBhMHhLZEdiM1doak5DX2ZweUxycjlzSnZ5M3d3Z3pkTEJDX2ltR0Rta9IBhwJBVV95cUxNLUNqTnNCQ3BSSGQxWFB4LUp1WGNuQXNMRUg0Uy1GU1NBOUY4WnZvQTFEb2gwUVNzLWlKQ05fSGZLU1d6MjJVRHJJR1JxTTlFV0IzUl8zbTlNcUMwdDVteUJYSFVwTkc0ZThLNHZFQzFJcXU2UGVjU2dPYWpYdkVKS2xlbWxUbjR4OGtsWnJ4QzJxQm5GekM1U3V5RTJjRm1qcmFpdDljYjVlSU1waUFMbS1ZX0xfRWFKRHNfalhwbWIxam56dHRNV3FjQlZZVHBGbVZYZjcyRG5SWDJiVnBhMHhLZEdiM1doak5DX2ZweUxycjlzSnZ5M3d3Z3pkTEJDX2ltR0Rtaw?oc=5",
+      "d": 1793437200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
