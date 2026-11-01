@@ -25987,7 +25987,17 @@
     "threads:DfL3gh4EgVI": 1793507135297,
     "threads:DfL20rxEbzD": 1793507135297,
     "threads:DfL2hyqAHhx": 1793507135297,
-    "news:CBMiswFBVV95cUxPamVFT1NaOFBUaG9VRzRtNjFIblFwQWo0V0hiQUNTZV83V0dXYmdTbGpDc3ZOeDFDM1BDamRwcjl5MllBV2wtMHZqUlRpenNXMDZKVTFHY0ZVSmh6RnUxQ2VXbXdHYnhQU0JmOG5McDQ0clB0QTR2TEZ4RXpiMWZJbGducWRmWTBYYk1UcnFjNkd1d0tvejFNSHFaR1RpQ1hUc01KZV93cHBMUE9IMmhkLXZDQQ": 1793507135297
+    "news:CBMiswFBVV95cUxPamVFT1NaOFBUaG9VRzRtNjFIblFwQWo0V0hiQUNTZV83V0dXYmdTbGpDc3ZOeDFDM1BDamRwcjl5MllBV2wtMHZqUlRpenNXMDZKVTFHY0ZVSmh6RnUxQ2VXbXdHYnhQU0JmOG5McDQ0clB0QTR2TEZ4RXpiMWZJbGducWRmWTBYYk1UcnFjNkd1d0tvejFNSHFaR1RpQ1hUc01KZV93cHBMUE9IMmhkLXZDQQ": 1793507135297,
+    "threads:DfL3VCTE3N3": 1793507447689,
+    "threads:DfL3TmeEafg": 1793507447689,
+    "threads:DfL2x7FEnQ1": 1793507447689,
+    "threads:DfL3wYTgXYL": 1793507447689,
+    "threads:Deimx6aj13Q": 1793507447689,
+    "threads:DfJLFv0GmPN": 1793507447689,
+    "threads:DfL4EIYk20x": 1793507447689,
+    "threads:DTudH7yEzBa": 1793507447689,
+    "news:CBMiugFBVV95cUxQZkFDa3hMSEkzOExnWTAyMnRxVWM3NXJ5N3pYSUFnZzVncTA2N3BmVkxJeXV4SU40VjYwOEtLVjhZbW1jZVBNdllVQXZBWGJuSU9zY3dzQWxBbnkxOUNBVDNqdmR4ejFWSmVsMExEeE1tdzZqVDB5YVdPeEdHVHNaVGg4RjlxbVd2bi03NFc4akZIQzFhS3Q3bmlxT3Ztb3I0VU9XV0xFdFRKRlc1TjVEcmNJY2pEVGNCTGc": 1793507447689,
+    "news:CBMilgFBVV95cUxNM01sbFBjT29sc0VZaXhyNFJuQldnQW9NaUdvSUhBNUVONUwyVndhVVc0Wm5nTWtrUGEzQ1NpU0lhd3hvX0pjR2xVM0twT1BmendxbGFKblBuWm11RGxHMlhnTXhkekFGWndPZzN3OUtSbEhSZFJQc3RzMGcwLUs0M2lGcVdQRzQ1Y01VSXlLR2dKaldhR0E": 1793507447689
   },
   "digest": [
     {
@@ -27079,10 +27089,40 @@
       "d": 1793506902000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@linda.cecilia.9",
+      "x": "Mau bisnis online tapi bingung mulai darimana? takut gaptek? gapunya produk sendiri? gapunya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langkah awa",
+      "u": "https://www.threads.com/@linda.cecilia.9/post/DfL2x7FEnQ1",
+      "d": 1793506696000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qsotur",
+      "x": "Disini ada yang mau ikut kelas gratis nggak? Aku mau ngadain kelas bikin animasi cuma modal canva. Gampang banget loh, FREE ya. Bonus canva pro juga buat akses belajarnya. Mau join",
+      "u": "https://www.threads.com/@qsotur/post/DfL3wYTgXYL",
+      "d": 1793507267000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@penerjemahtersumpah.me",
+      "x": "LPDP ternyata bukan hanya untuk kuliah S2 atau S3. Mulai hari ini, 1 November 2026, dibuka kembali pendaftaran Beasiswa Fellowship Dokter Spesialis hingga 13 November 2026. Program",
+      "u": "https://www.threads.com/@penerjemahtersumpah.me/post/DfL4EIYk20x",
+      "d": 1793507367000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
