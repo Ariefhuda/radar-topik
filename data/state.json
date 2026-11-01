@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DepcKGjk3GI": 1792352135537,
-    "threads:DTFb8fsjaP8": 1792352135537,
-    "threads:DeodXl9keW4": 1792352135537,
-    "threads:DdqjZZ5D000": 1792352135537,
-    "threads:DGmTG95vhxM": 1792352135537,
-    "news:CBMiakFVX3lxTE5fTTkzakEzTkgweGhUUDE3VmU3UkFZdmMybC1rMjRWX21qN0Z2b1RJNWZtWTVmOTdYdm84c3FLYzhjLUY4R3c3RzRrZXd5bkx5SHJFVnA5Qm8tall3R1RIQVNISHJkQmtQT3c": 1792352135537,
     "threads:DepcvZYoE39": 1792352440901,
     "threads:DepdMCjDSBM": 1792352440901,
     "threads:Depc1xWICjJ": 1792352440901,
@@ -26973,19 +26967,13 @@
     "threads:DfNdvCZAWG1": 1793561136185,
     "threads:DeoEv9Dmp6E": 1793561136185,
     "news:CBMipwFBVV95cUxOcEZQLVB6dzNMRDBLdEQwbUhvLUF2OWZ5VzA4emtoN25zTkdsODJhRkxaaGpfY09za19PdHoxb0Y1WmhtTmt1Wi0wNjU4aExfcjVUUXJkcDZtc2E0emF5OF83UExyVDFqOTB1cm9YdnJTLTFLUUVVWHN2MHROQWZuSzQ3cU5rNjJkTHZpTzQ1ZF9qaG9oaVZ2d2hQVVhOWUg0WVA2bkM4MA": 1793561136185,
-    "threads:DDDA12kTqkE": 1793561445351
+    "threads:DDDA12kTqkE": 1793561445351,
+    "threads:DfNffDUAWyc": 1793561737753,
+    "threads:DfNeljYCeMd": 1793561737753,
+    "threads:DfKipIsiTjb": 1793561737753,
+    "news:CBMiwwFBVV95cUxOZnZEMDl2N3REbDdBWHBYVVFjM2RZelhWTEV5MHgwb1NZdWdpR3hxWVJ2VzhEWFpTYWpyZUNzdlNSanFVbThPZk5FbmdBcGVHcTRTQ2tyekQ0ZHM5ejJGZVRYMktxa1d5MmwzTnBibHBTTGk3VXpDUmN4Xy1FdmYyUTYxQUVRXzNZU2ktTGdXeVA2akR4eUx1c2xnWDZlZHBnTHFrSlhoRUZWenFNYzdJdGtPaHNqLTJBY3Q0eHdFbFAtelU": 1793561737753
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@just.lelyyy",
-      "x": "Sebelumnya ak udah pernah ke kantor desa, tapi sama operatornya gak dibantu, malah suruh nunggu hasil sensus ekonomi bulan Desember, makanya ak ajukan sendiri lewat aplikasi cek ba",
-      "u": "https://www.threads.com/@just.lelyyy/post/DfM3jIhmcxl",
-      "d": 1793540652000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28475,10 +28463,20 @@
       "d": 1793545619000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "malang-post.com",
+      "x": "Peringatan HUT ke-81 PGRI dan HGN 2026: Sekda Budiar Minta Guru Tak Hanya Incar Sertifikat - malang-post.com",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnZEMDl2N3REbDdBWHBYVVFjM2RZelhWTEV5MHgwb1NZdWdpR3hxWVJ2VzhEWFpTYWpyZUNzdlNSanFVbThPZk5FbmdBcGVHcTRTQ2tyekQ0ZHM5ejJGZVRYMktxa1d5MmwzTnBibHBTTGk3VXpDUmN4Xy1FdmYyUTYxQUVRXzNZU2ktTGdXeVA2akR4eUx1c2xnWDZlZHBnTHFrSlhoRUZWenFNYzdJdGtPaHNqLTJBY3Q0eHdFbFAtelU?oc=5",
+      "d": 1793539064000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
