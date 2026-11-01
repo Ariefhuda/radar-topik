@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DFGsQInvfGp": 1792348246122,
-    "threads:DIZxtCHzhv0": 1792348246122,
     "threads:DcZNCZriP9P": 1792348537185,
     "threads:Dd8JupwlLQ5": 1792348537185,
     "threads:DepVuLXgBNA": 1792348537185,
@@ -26919,19 +26917,14 @@
     "threads:DZwC4LOEaNg": 1793557537107,
     "threads:DUqKnebEgN2": 1793557537107,
     "threads:DZrVL-gD6lp": 1793557537107,
-    "news:CBMinAFBVV95cUxQTkhoai1XdmhacTZxM0RQY29NVWJRdXlWbS1lMm9rcDBOc0NJQWVQUmgxOFo2R0pOWFhnQk1BMkpWMlZDSmNqNGRKZS1aQTFBS0dYUHpwai12SjNTX0piUGFLOVBFc19FMUVOR1l6XzA4S1Jwb2QwVU1DWm5tNi1Ec2Z2NDRNbmxUckVKZ1pXLTlCaU4zQVctR0VyTUY": 1793557537107
+    "news:CBMinAFBVV95cUxQTkhoai1XdmhacTZxM0RQY29NVWJRdXlWbS1lMm9rcDBOc0NJQWVQUmgxOFo2R0pOWFhnQk1BMkpWMlZDSmNqNGRKZS1aQTFBS0dYUHpwai12SjNTX0piUGFLOVBFc19FMUVOR1l6XzA4S1Jwb2QwVU1DWm5tNi1Ec2Z2NDRNbmxUckVKZ1pXLTlCaU4zQVctR0VyTUY": 1793557537107,
+    "threads:DSTvPqmGNbE": 1793557845302,
+    "threads:DW43xQtjde2": 1793557845302,
+    "threads:DcVQU4_EoGg": 1793557845302,
+    "news:CBMimgFBVV95cUxOUVpudzBoRUdXMEFfcjN1U2EwRU1fQnRsLWVmbDRwQVItcDhNN2RqSGNEZkljMGdHS3RuU0t6d3VuRF9ReEZ0ODVWc0pZeC1zbzAwRUdOQUVNMnlpM295X01DTzBOSGdndHMtU2g4SlNkUkU5QVNZLV81SFNSeXJBNXNOVC0wS0lRdzlNdVJYeE12MmZBejhmeHdB0gGaAUFVX3lxTE5RWm53MGhFR1cwQV9yM3VTYTBFTV9CdGwtZWZsNHBBUi1wOE03ZGpIY0RmSWMwZ0dLdG5TS3p3dW5EX1F4RnQ4NVZzSll4LXNvMDBFR05BRU0yeWkzb3lfTUNPME5IZ2d0cy1TaDhKU2RSRTlBU1ktXzVIU1J5ckE1c05ULTBLSVF3OU11Ulh4TXYyZkF6OGZ4d0E": 1793557845302,
+    "news:CBMi4AFBVV95cUxQN0lhNy1SaU5jc2ZyYmQyQ3ZmZks0YmQxYUNKOEltZ1BTdmo1clJ0Qnp4NVVUS3ZBMndycy1iTTFQNmZBMVhTUnEyRFdUSVNETGZwRVpyM1N4a2ZCM1dueXNlbHNFTkE2cWM3M25vanNWcDcwMktMbkZxU2xPaVJfRm9GR01lVFM4NUcwSXNUbkdCcEI3eHpiWkVyeHpvSVduMkRHY29YeVZKVEpBaU1GN3F6UGZ0dDBnVlMwZUpDdksyNGRGRUZobW1Jal9LRlVMblh1SjJfTm05SzFrdTNIZA": 1793557845302
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@digi.volution22",
-      "x": "💰 Komisi affiliate + prodig jutaan, rebahan tetap aman?! Capek affiliate receh yang nyita waktu tapi hasil segitu aja? Mending serahin ke AI — AI riset, AI jalanin, AI pasarin via",
-      "u": "https://www.threads.com/@digi.volution22/post/DfM3gs5CWkB",
-      "d": 1793540633000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28421,10 +28414,20 @@
       "d": 1793545379000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Pemkot Cilegon Kembali Realisasikan Program Beasiswa Juare, Sediakan 763 Kuota Penerima Manfaat - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN0lhNy1SaU5jc2ZyYmQyQ3ZmZks0YmQxYUNKOEltZ1BTdmo1clJ0Qnp4NVVUS3ZBMndycy1iTTFQNmZBMVhTUnEyRFdUSVNETGZwRVpyM1N4a2ZCM1dueXNlbHNFTkE2cWM3M25vanNWcDcwMktMbkZxU2xPaVJfRm9GR01lVFM4NUcwSXNUbkdCcEI3eHpiWkVyeHpvSVduMkRHY29YeVZKVEpBaU1GN3F6UGZ0dDBnVlMwZUpDdksyNGRGRUZobW1Jal9LRlVMblh1SjJfTm05SzFrdTNIZA?oc=5",
+      "d": 1793555488000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
