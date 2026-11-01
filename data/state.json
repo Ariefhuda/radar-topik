@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcnWchAnfnW": 1792365340899,
-    "threads:Dda0nygkuOF": 1792365340899,
-    "threads:DTfD_u5CVFg": 1792365340899,
-    "threads:Db5zjMBCb-w": 1792365340899,
-    "news:CBMigAFBVV95cUxPZkFzQnRzRk1IaE9qUUFBaUZCTzBPMFNqdFBaWnVHdmZLQ2pVS3BlYXRQTkE0WUZaUmxuQlNmYUpVMERtR3MzeFZMWVpzTkZrQjBhQzRuU01PaHNRaTVBeUhFYmlBcGJJc3ZVQ05tT2JhTzIzY1RjeHhNV09HVDJjVw": 1792365340899,
-    "news:CBMijwFBVV95cUxPdHI0X2hObGNKWGFaVmlLdnY4SzlzQWJhMTV4Ulhzam9ZQUgtWmFsNklHUlN0aVlUQ2hUdmtrbFdoZEdnMVhLR0VRaUc4M0NZWUJINFZSMzIwRWVyekkzUWhibmt4dVFnV09VS2dzZUdOY0ppTTE4M09COW5YMzMxMFBiRUVlcmZ5bzAxRFhDMA": 1792365340899,
     "threads:DcBLtAhFl46": 1792365689436,
     "threads:DY2fB9YE6pq": 1792365689436,
     "threads:DeRHLzTEyRa": 1792365689436,
@@ -26911,59 +26905,15 @@
     "threads:DfN3t-mk0QR": 1793574662137,
     "threads:DfN3rdPE_D4": 1793574662137,
     "threads:DfN3rTyD5GM": 1793574662137,
-    "threads:DcLThgmj9Kk": 1793574662137
+    "threads:DcLThgmj9Kk": 1793574662137,
+    "news:CBMigwFBVV95cUxNR0hhcEJaN3VobDNndFBiNHJjTjFmZWd6T3VsX0JlRVFlbG91ckUtVkFQa2lCUDdGVVpva09HMXNJYXJ6b19TeTJVeTM0ZDFvU3ltUUJySDVrRi1qdVZScWs3cTA1SkFSM3lpZGhwdHp4ZkhSdkJQbVJUalgyZmZYMkIwWQ": 1793574942065,
+    "news:CBMixwFBVV95cUxPdEVVUjU0d3dSanJVNEFsMTVsNDI2UExJdFlGUERUY0dWSGh2Rjg5em9xSHdpVTRrd0lzaVlKYVp5WE93T0wzemFFM3FaV3dSMGF4UGQ5WUVxd0hhX1Z5OHZBbDB1bDE5Sl84U1dJWFlrcEdRWnRWN1RYMThsYUhCSVpxczlqQmg1Tl8zQy1WcEgyUnRUaU01czBGM1BZTkc4ejdjbFBMUDBDR2p3OVJNeW5nWWR4Z09FRTFxNGJkakxYRjhpa1dz": 1793574942065,
+    "news:CBMi8wFBVV95cUxQWmhJME5tMWpXS0p3Xzk0MVVYbDB1alhFdHhfcXAzaFVndnM5ZXRSbk9HNm9oV0tKMlNKZF9BRlRNME11Y2F0SXJUTnVNNUt6TXJXMDZGMm52OHI3TUNMX0I5UllsVEtnaXZ6YV9EenN2UzFmMGU0SE1OZ1MzMXh3QmRuWnNWTmlNR3VXb293ZlBrUDJpOTBMeXJpWXh6ckxHZGVOekNpMGJJeVFOdEhPNmRqUW52cW9RcTBvaUhSQXM0SmE3dlpwMWFfUl9GV0FmWnpRaHNpNENteTBESGVfUHNST1pZMDhnaDdCLUdLNmkwLXM": 1793574942065,
+    "news:CBMifEFVX3lxTE96dEVtNmJaMGcyc0dCU1hIaG11V0ppdEppa1hMUkZxVlhteHpiRTNtUGNXUU5YWWl3T0RYa0F6OHhhU0dFeE9NN0NySWwzTWxTSE9JSzFzR19KLW84dHpLOGQ3Vl8tQ2JDbkJkaEh1OXhENUJ0N3ZENUstRlE": 1793574942065,
+    "news:CBMiwAFBVV95cUxOVXY1M2JfRHp2dUhHNmh0WFN5TWo5OU5IQXN0enpNdUxVWjJrdDd1ZUY5N3VTNFRJY3ZtZWdHZExTdV9ZSFZIZlMyWU92dVlla0JaRWM4NFVnX3FKODEwa3hkU2plaDB6SXZBY3AtVTFZOVFLbkNxQnAwWDJVMndPTXlEWnZRNkxFZVBnOUR1WjZfVDFJZHVkNWVmbzZ2OTNSbnR0T3ZmV0txWEFHTU84LUdhUWw1eV9RTkFORkVKdGI": 1793574942065,
+    "news:CBMi4wFBVV95cUxQSTBTUHFzcVkwdWF1M2txQUduS28ySEFmXzdFVGs1NS0zLXVzRWhKVmRQSWlxNHUwLWtKZEFHcDBDeGJ3TFI2QkppREk4bkc2RzBYNnJqdF8xTW9vMFJzNWFhMGxCZU9hdFd6MXlIM01DcU5WYlpQRThrd1dDOGZaT2VQMWpfeUZNYmxyZFh6amktUUVDTlIxSzlhSy1Qb0lEYUlFdXI2MDBkaVhwYzMyYzRBRExFbDdwdDlKMUlKUDdYT05CS2dITHRxTjI2dzJzYUI3QW1Fc3MwNUQwcDI5VU9vd9IB6AFBVV95cUxQTDhJMW9fYmZpdDVtemlPN3h3amlXYndBNVlvakZFTG01dkpZS0stVXNBZmRnWVJKMTRQb1RjdjktWjc2Ul80RWdabjRCMmFNS0hibm0yRmxOdzI2UExHSkVCM0c5MWk0aVVoX1NhYkdsMzRZY2tkbU9KaVV5ZmJkTlV0UTRCNDM1M3RtUVBGSVZiZTQ0aGdMZ0ZPZnlENE5MMmtuS0Jvdk0wajNheHpMcnE0MXpUeEZPa2xqc1hINHhMTV9YSklDQ2RlN25vMGlUT19DdEVncnZHcFZpR25VSk8wOUwxbUxL": 1793574942065
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@elyce.tan",
-      "x": "Mungkin itu bahasanya, pokoknya yg mandarin gitu dia juga lagi mau wisuda tahun ini, dulunya kls 3 iseng ikut ujian\" gitu, maknya uda byr pendaftaran ke univ swasta inter juga, eh ",
-      "u": "https://www.threads.com/@elyce.tan/post/DfM-B5vAcRo",
-      "d": 1793544049000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Matak pusing emang bener kang, lagi numpuk pisan isu fiskalnya. Inti paling rame hari ini: pemerintah mau terapkan pajak digital mulai 9 November 2026, bank, fintech, Shopee/Lazada",
-      "u": "https://www.threads.com/@meta.ai/post/DfM8KVhjb-D",
-      "d": 1793543070000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Tak Lagi Menunggu, KKS Baru Bank Ini Mulai Terima Rapelan Bansos BPNT Rp1,2 Juta - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVURucUJDU2F3QUd0aE43ZUxad1Z6OUMwREhiWktpWF9XS0JvMHY0TTlxb3dfQjlqaGd0bXl1OEFKXzItdzJzVnU0ZFBDNi1iVHRhVksydVAtbzdzNVFxbWJGZlowYnVQcTRiakFzRzNWZWZwWk8wYUxTNElIZy1XTnNHdVdyWDdRWG5pajNNSEQtUEFLcF9mTEFvZm1HWHN4eEhUVHpKdEJEdjlMZXRZd0k5MHd2RUZxeE9vTGstbmhqRElKRkHSAcsBQVVfeXFMUG0tZFJlTXVENVNnT3kxOERMZ1hiRTM2elhUTGk4eGltbUhTZ0ZqUWpmaFZJQnFQZEp0b1M1Z3BuSHoycV8tcjdESklJVjAzc0E5V3RsQWd0WUNMV1pPWVpzenpIQWVhVG5IWHlWQTF2cVI2c2xLcEhlci0xMGk0VW9Ib2lKRUpXUHlicnBjUVJ1LVJLV3VnMUVrcEgzMFRudF9oS2NJVi1NWjRQekNYelBCZkVZTVZXUHRETk41blN1QXh6MXM4Ylo3UkU?oc=5",
-      "d": 1793543682000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@bansos2026__",
-      "x": "𝗬𝘂𝗸 𝗯𝘂𝗿𝘂𝗮𝗻 𝗰𝗲𝗸 𝗻𝗮𝗺𝗮 𝗸𝗮𝗹𝗶𝗮𝗻 𝗮𝗽𝗮𝗸𝗮𝗵 𝘁𝗲𝗿𝗱𝗮𝗳𝘁𝗮𝗿 𝘀𝗲𝗯𝗮𝗴𝗮𝗶 𝗽𝗲𝗻𝗲𝗿𝗶𝗺𝗮 𝗯𝗮𝗻𝘀𝗼𝘀 𝗣𝗲𝗿𝗶𝗼𝗱𝗲 - 𝟯𝟭 𝗢𝗸𝘁𝗼𝗯𝗲𝗿 - 𝟳 𝗡𝗼𝘃𝗲𝗺𝗯",
-      "u": "https://www.threads.com/@bansos2026__/post/DfM8h1GH0HC",
-      "d": 1793543262000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Gora Juara",
-      "x": "Pablo Benua Selesaikan Pendidikan S3, Raih Gelar Doktor dari Sekolah Tinggi Teologi Indonesia Jakarta Lewat Thesis Ini - Gora Juara - Gora Juara",
-      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY2NoTXBKNWpSYmpmSnl6UmtBd1QxVHVxd0kwTUxCdEVrMUs3MmY2YjJQME9EZktqcE9OaEVGZ1E5RlhpNUN5MUYzOTE4RHh4ZmNKamVOeVJlaFpJT3ZQRzRfN25Lenh1UEpxWktndEJWUmhXa2J0TDJ1QUZ0ODBUR09kbkFseG41MFdobVEzY1F4V3RDQVBVQ2NvS0M2dm0tSnJmcjFfNVpsd19BdTlJRnE0RWJJelpldkdVUm4xUUdaTnl2b1ZIOWxwWnd0dDMtMFE1bElPTUl5bVY0VHhRYVJaSGY1TURQMkVhaEQ1QXNTNzDSAfgBQVVfeXFMTm9pcDc1MFV1WW05U0l3WGkzeGFaX0VKWUhxbWNqWHVhNnRoMllDQkFwQkV3TVdISm9RZk5ORDJoSmtoWDZMRG5KTTNYQy1mSTU4bE1jOG12LUsybWg5WUVYZ3R5c2xYNEthWXNNaFVZbWlfeUNiaXlNbzRsVkdFMVVOS3VWMnZYd3V4c2RsOHNUZlJEVXF5TjdKakFfeDFvRnpoM2VCd01qQ1hiY0hyTGEwZGpEb09KT1VTck1BbFhDVFg1ZmNtQml1Sk5hRnZYMUVfbVZDLWhkc0xJVFVPRTMtSGFJck83aDVjc1I3QTU3S1hTQ2hKVWM?oc=5",
-      "d": 1793526943000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28413,16 +28363,66 @@
       "d": 1793574273000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Keran Air Siap Minum di Ruang Publik: Air Bersih untuk Semua Halaman 1 - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEVVUjU0d3dSanJVNEFsMTVsNDI2UExJdFlGUERUY0dWSGh2Rjg5em9xSHdpVTRrd0lzaVlKYVp5WE93T0wzemFFM3FaV3dSMGF4UGQ5WUVxd0hhX1Z5OHZBbDB1bDE5Sl84U1dJWFlrcEdRWnRWN1RYMThsYUhCSVpxczlqQmg1Tl8zQy1WcEgyUnRUaU01czBGM1BZTkc4ejdjbFBMUDBDR2p3OVJNeW5nWWR4Z09FRTFxNGJkakxYRjhpa1dz?oc=5",
+      "d": 1793570400000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "palopopos",
+      "x": "Percepat Hunian Layak Huni, Pemprov Kaltara Kawal Program Perumahan dan Usulkan Sertifikat Tanah Gratis untuk Wilayah 3T - palopopos",
+      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWmhJME5tMWpXS0p3Xzk0MVVYbDB1alhFdHhfcXAzaFVndnM5ZXRSbk9HNm9oV0tKMlNKZF9BRlRNME11Y2F0SXJUTnVNNUt6TXJXMDZGMm52OHI3TUNMX0I5UllsVEtnaXZ6YV9EenN2UzFmMGU0SE1OZ1MzMXh3QmRuWnNWTmlNR3VXb293ZlBrUDJpOTBMeXJpWXh6ckxHZGVOekNpMGJJeVFOdEhPNmRqUW52cW9RcTBvaUhSQXM0SmE3dlpwMWFfUl9GV0FmWnpRaHNpNENteTBESGVfUHNST1pZMDhnaDdCLUdLNmkwLXM?oc=5",
+      "d": 1793574680000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Dutatv.com",
+      "x": "Mensos Minta RT dan RW Perbaiki Data Penerima Bansos - Dutatv.com",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96dEVtNmJaMGcyc0dCU1hIaG11V0ppdEppa1hMUkZxVlhteHpiRTNtUGNXUU5YWWl3T0RYa0F6OHhhU0dFeE9NN0NySWwzTWxTSE9JSzFzR19KLW84dHpLOGQ3Vl8tQ2JDbkJkaEh1OXhENUJ0N3ZENUstRlE?oc=5",
+      "d": 1793574761000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Syarat dan Jadwal Pencairan Bansos BSU Rp900 Ribu Terbaru November 2026 - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXY1M2JfRHp2dUhHNmh0WFN5TWo5OU5IQXN0enpNdUxVWjJrdDd1ZUY5N3VTNFRJY3ZtZWdHZExTdV9ZSFZIZlMyWU92dVlla0JaRWM4NFVnX3FKODEwa3hkU2plaDB6SXZBY3AtVTFZOVFLbkNxQnAwWDJVMndPTXlEWnZRNkxFZVBnOUR1WjZfVDFJZHVkNWVmbzZ2OTNSbnR0T3ZmV0txWEFHTU84LUdhUWw1eV9RTkFORkVKdGI?oc=5",
+      "d": 1793574455000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Penerima Bansos Meninggal Dunia? Begini Syarat, Cara Resmi Mengalihkan Dana PKH-BPNT ke Ahli Waris - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSTBTUHFzcVkwdWF1M2txQUduS28ySEFmXzdFVGs1NS0zLXVzRWhKVmRQSWlxNHUwLWtKZEFHcDBDeGJ3TFI2QkppREk4bkc2RzBYNnJqdF8xTW9vMFJzNWFhMGxCZU9hdFd6MXlIM01DcU5WYlpQRThrd1dDOGZaT2VQMWpfeUZNYmxyZFh6amktUUVDTlIxSzlhSy1Qb0lEYUlFdXI2MDBkaVhwYzMyYzRBRExFbDdwdDlKMUlKUDdYT05CS2dITHRxTjI2dzJzYUI3QW1Fc3MwNUQwcDI5VU9vd9IB6AFBVV95cUxQTDhJMW9fYmZpdDVtemlPN3h3amlXYndBNVlvakZFTG01dkpZS0stVXNBZmRnWVJKMTRQb1RjdjktWjc2Ul80RWdabjRCMmFNS0hibm0yRmxOdzI2UExHSkVCM0c5MWk0aVVoX1NhYkdsMzRZY2tkbU9KaVV5ZmJkTlV0UTRCNDM1M3RtUVBGSVZiZTQ0aGdMZ0ZPZnlENE5MMmtuS0Jvdk0wajNheHpMcnE0MXpUeEZPa2xqc1hINHhMTV9YSklDQ2RlN25vMGlUT19DdEVncnZHcFZpR25VSk8wOUwxbUxL?oc=5",
+      "d": 1793572233000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793553340438
+    "reddit": 1793574942065
   }
 }
