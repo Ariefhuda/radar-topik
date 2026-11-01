@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DepfHLvDYxI": 1792353935004,
-    "threads:Depeg8Jkrak": 1792353935004,
-    "threads:DeoHPBeEd4W": 1792353935004,
-    "threads:DeofhgAE7W6": 1792353935004,
-    "threads:DeodlURH23a": 1792353935004,
-    "threads:DeoRdbtIH_3": 1792353935004,
-    "threads:DeoccHoGm0_": 1792353935004,
-    "threads:Dc0u9bno2kO": 1792353935004,
-    "threads:DepfoU2AR_g": 1792353935004,
-    "news:CBMipgFBVV95cUxQRXBTV3N5aU1nQktHY2ZhLUJWOTB6bDhGQ1EzV01kcUVkZ2x6UTNpS2N6NkxPVjFZWTgyczdfWVFSeE9DYjRVQnUtUEM5VGlXeGtVQWlzbmN4MUUyVzFTY2dyc2xuQldBTktvMnhmYk5fdUtfazlFdFVxcXF5TGpsTTlFdHdIRmtQT1RVdGVod3piaDZmck1CVnprY19teTdpWlg2RWZR": 1792353935004,
     "threads:DepgMPlkxT7": 1792354242377,
     "news:CBMieEFVX3lxTE5DME5aalk1UDhseG9oRExDdTh5eHpUcEVrVTkzak93R21zZHFFRk8yTHZ2a3EwOHRicWNjRkI4YkxXM2F1TWNfdnlWbDRqRGMtZkpxN2NjWko3QzlPY0JXQkw2ZTM3ZHJRV3RLNFZCNlNkN1JTNjdNMA": 1792354242377,
     "threads:DcB2lESD04u": 1792354543142,
@@ -26970,59 +26960,19 @@
     "threads:DbgqKfQE06F": 1793563256687,
     "threads:DfGnZmHgWBz": 1793563256687,
     "threads:DfNiI5On7f6": 1793563256687,
-    "news:CBMirwFBVV95cUxNNzdIMFVKOHZhbTl2YjdfX0tWcTVGTGtkTUs4c1k4TGxKY1lrWUdzdXQyT3J5ZFpXdTRKb3FVQ0RoNWxGbjZ2eUlRZ0ZwZEZuUTlGWDVWbWU2d1VVWWdGNVNFclphQmNUVFRPU3A2VXM3Ukt5bzVOeU1ZcjNlZmI2bG1INjU0M3hCeW9NX29pV1hscFRkelU3MmFqU19Yb1JnUUdMb1J6YkphcE9Ld0c4": 1793563256687
+    "news:CBMirwFBVV95cUxNNzdIMFVKOHZhbTl2YjdfX0tWcTVGTGtkTUs4c1k4TGxKY1lrWUdzdXQyT3J5ZFpXdTRKb3FVQ0RoNWxGbjZ2eUlRZ0ZwZEZuUTlGWDVWbWU2d1VVWWdGNVNFclphQmNUVFRPU3A2VXM3Ukt5bzVOeU1ZcjNlZmI2bG1INjU0M3hCeW9NX29pV1hscFRkelU3MmFqU19Yb1JnUUdMb1J6YkphcE9Ld0c4": 1793563256687,
+    "threads:DfNi0kJCAVg": 1793563539335,
+    "threads:DfNithclryb": 1793563539335,
+    "threads:DPPtHSEE0Kd": 1793563539335,
+    "threads:DfNi3C2E9yT": 1793563539335,
+    "news:CBMikwJBVV95cUxPZjBpQVAtVXNHNXlyVjNVUDFkM29JVEV2SUEwWjhYaC1VeVA5eE9XdWJBYkhZd00tWHdNbmFySFV4TUVDUUdnalhwb0VYQjFFcXFYdjh6ZS1zR3loQTdrS3ZfQTNvYmtidzNYYVFWd0J5eEJHVUtxdzdVNzN4SDJpYnVZbmJGU01vR2hfTFFSZmlUaDE3NXo1Q3E3RGIzM3J0NEFyVDRLaHVyemx0ZGljU245VjVYQUxNZUVPU0d0dmNuMk5WeFRQbFk1Nml3MTNTaTVtR1R2bXdQSVhmTExXV2JFak9uYmZ2UTNWcDlHamJpU0ZLYnJqYzJOWWxNOXVRb3VWS19qLUhSV2NtcXN4X091UQ": 1793563539335,
+    "news:CBMi1AFBVV95cUxOMnR3NFBybTJQMEo3bW9IX083VnJyZXpEOEF0bTRHOFMxUDJfa3gyRDlvdm9yVGo0ZEVFSHFCOTBTRHRmYmNqc0VYc09zRzEyUWRXTEs2RTlnVmJ3azhJa19NNEEyU3h1dml4TXl3R2F3UEJWaS04NzB5WTN1M0tndnlLb3ZrdFQ3ajl5NEg3NU1xWE9OVEY5M3lsb3duUFZRQ2hUVTNvNGR2Mm9ZblVaVVFsVTRMMkc1REY2WWhBTzg0LWxSVjMtUjF0WUpCTlA5SXFRMw": 1793563539335,
+    "news:CBMi_AFBVV95cUxOdW9UYkRvV18zRlg5S1RfMlgzRmpGUUxUcjZ1S215MFhjaV9Pd25JcVhhTnJ6ZWZnYV83aWNaa0ZtdGlEU1hlYWRCYWIwX0FySFQtWDBra2thTE5RMnUzX2Q0bDI2cmhCQVh6aXNqTUFtQWRuWGxfd0ViMzhIemlCb3cwWUdCcThEUlZiWWdjWnFYQV9uVFg5UXZENXhwdW5HMzRibXc3RXJMS2dzWTFSNjJxSEtiMlFvMGdHdDRSNDd3bHFmMTZXYjZmeFVaUExwQ0ROQ1VEQzhINU9KOGdVaFpBdXhmVkY3SEpjUE92VmVtTDUzWk1OMDFYVXM": 1793563539335,
+    "news:CBMi1gFBVV95cUxPM05jcFJDWDVxTXBkTi0xdFdwUnVCWEpUVDFxSnNLOVJLUzNXUTZGWlJVbVZNa2FMOXdhZHYwT0Z4V3ZHNG5WNUgyRXNEOGdVNEdpODExbEJkb1lUcXFWSnBCN0p2cU9wUkZWTGdqc0k3S3FGU1ZILS1Tb3VuVGIwMW8xSWFfVjVkNXMtOHpXY0pLOXREOHdueWJ2b3RjdEdxbXQ4NnRDV1ViUU5KYWhaYVFudnM3aXp5amlmejRaN25ldnFOXzZqNkhhVV9kTnhGVjd6dk9R0gHbAUFVX3lxTE10dDE2dXR6WW9lZnRFaHdrZ0hvQjEzRjN0bENiekhOVXp1bktlVzFQdDBvUF84QjZ3ODJQRFAyUG5ZYV9IaUdLTklYcEFIS09jaGtDNmQzcHZnOS1xOW51UlpDdjJTQndrVTl4dmRGZFlsTXlxeFJvOWVLVk5rcEkyeXJTQ3JLRUZ6Z2R3ekd4WWFveUdMaDN3LXB6MEhVMUoybDVPQlVDWVBBMUh1UnotWEhkMDNVVkNBOUFVT0JtdXhTNDdqRVNhYVdRcE9HMzAwRWdGMFdaMGg5TQ": 1793563539335,
+    "news:CBMi2AFBVV95cUxNYlVpaDVaemZjVFNXaFE3OU1wUjhGM3lxdHhERUVVV2w5VWljbDAwS0ZjVDEtQmhrRVhKUklNYmotczRfdGZ5YjlXcnl0V0JlLXB2ZnBtRjVhQmRud2NoWnVfWEM3RU5tdGgwSEdhcUUzTm1yeTA5SnY5V2FHRWlWcmZkX1FNV0JWMnBCeU9hN1FLX3plV1hkak5fR2J2WmtQZ0dKM2wwWlFHUTdSd0o1NnlVN1poS0o0OGVLUkhhMzJOWXhVZEgyZ3h6LXVkYVFWdUJkbXJHZ0Q": 1793563539335,
+    "news:CBMiugFBVV95cUxNMkc5Z3BwWHBDOWNLZmVleFRpYklFOHMzZ01mc0stR3RyRGxmNDZOUWdka1JKQnNoOHlQSTVOQWw1UGNNZVpTYVVRLUZISjFlRzNUT2tRVmhBcFlIWXN6TkFaTUNzRVhVdDk3bm9nMHhiWGZiaTMxT3JwMEd6eVVULUF2alkzVTVrZVNwLW5BTDh1TDdLeW1fVEh6ckQ4MmJjQ2VvU01zOWdPZ2p0ZmE5MXlqTVFNZzgybmc": 1793563539335
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@joeshua98",
-      "x": "Kepo soal sertifikasi + pelatihan BNSP dengan berbagai bidang, monggo like, follow and share official account kami, kami juga memiliki grup info loker Gratis Official Website www.n",
-      "u": "https://www.threads.com/@joeshua98/post/DfM37tzFDHH",
-      "d": 1793540853000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@digi.volution22",
-      "x": "🛑 Stop beli prodig, waktunya AI buatin untuk kamu dapetin CUANnya. Jangan buang-buang waktu buat produk digital jelak dan tidak laku. Sekarang AI udah canggih, ebook sampai tools ",
-      "u": "https://www.threads.com/@digi.volution22/post/DfM4pmhk98p",
-      "d": 1793541232000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@digi.volution22",
-      "x": "🔥 Dapetin Jutaan Perhari dari Iklan Meta ADS yang dibantu AI? Iklan Manual cuma ngandelin feeling, sering salah keputusan. Mending Serahin ke AI agent, AI yang riset, jalanin, sca",
-      "u": "https://www.threads.com/@digi.volution22/post/DfM4CVmkzCM",
-      "d": 1793540910000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "5.000 Pelari Bakal Ramaikan Soekarno Run di Kota Blitar - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1g4SHpMWTBPX0hiMS1TRFVRNnJQUjlVSFFJdW81cFdCeWlsb09VQVpZaklWRTdrQmhIeUhGX3pPNHFwRC04V2FOcjgtdHFTWmRCUkhzYU4xVXdXMEU5Yl9UY2FoRHRCbFYzbGpJN3MyZTdOMUVac3ZWNXBGVkhmQklyemhTc0RQRC04NENERmNUZE9vRURrTXBoLTRMZU5mSDVxNkswN2xnN1g0U3ViRW9zbjVaeG8?oc=5",
-      "d": 1793498940000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Nomor Satu Kaltim",
-      "x": "Beasiswa ASN Kukar Dibuka hingga Jenjang S3, Program Studi harus Linear dengan Tugas di OPD - nomorsatukaltim.disway.id - Nomor Satu Kaltim",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVF9FYkR1ZTAwc29lQjYtZXUtNDlqaHZhSUItMWdqMDNSOWd0RmhablNZeE02V0l1QWhab0JtS0NoUG5odHd1QUNCeVVLbWNDR19lT2lxc2RoUGwwaW10V1hQTFJKQlhuNndRYmJRYzZTR0lxT09IYVk1OThmSFFZeDE4SlM5aThRN0V4YWRzWUViN1FLTDVHZjRoTHN1cjdOaklSdUVSWUtYSl9kdWx6R3BTaGlUSzhNb3o0UHU4U1Jzb2U5ZTB6UjFTYUozaGvSAc8BQVVfeXFMTVRfRWJEdWUwMHNvZUI2LWV1LTQ5amh2YUlCLTFnajAzUjlndEZoWm5TWXhNNldJdUFoWm9CbUtDaFBuaHR3dUFDQnlVS21jQ0dfZU9pcXNkaFBsMGltdFdYUExSSkJYbjZ3UWJiUWM2U0dJcU9PSGFZNTk4ZkhRWXgxOEpTOWk4UTdFeGFkc1lFYjdRS0w1R2Y0aExzdXI3TmpJUnVFUllLWEpfZHVsekdwU2hpVEs4TW96NFB1OFNSc29lOWUwelIxU2FKM2hr?oc=5",
-      "d": 1793534400000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28472,10 +28422,60 @@
       "d": 1793561866000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@seminarmedis2026",
+      "x": "Dokter Spesialis Anak Konsultan Neonatologi di RSUP Prof. Dr. I.G.N.G. Ngoerah Denpasar Materi Hari 1, Sabtu 14 November 2026 Perdarahan obstetri akut. Deteksi cepat, stabilisasi, ",
+      "u": "https://www.threads.com/@seminarmedis2026/post/DfNi3C2E9yT",
+      "d": 1793563359000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Pastikan Bermanfaat, Robinsar Dorong Warga Cilegon Manfaatkan Pelatihan Digital Marketing untuk Buka Peluang Ekonomi :: Berita Cilegon - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdW9UYkRvV18zRlg5S1RfMlgzRmpGUUxUcjZ1S215MFhjaV9Pd25JcVhhTnJ6ZWZnYV83aWNaa0ZtdGlEU1hlYWRCYWIwX0FySFQtWDBra2thTE5RMnUzX2Q0bDI2cmhCQVh6aXNqTUFtQWRuWGxfd0ViMzhIemlCb3cwWUdCcThEUlZiWWdjWnFYQV9uVFg5UXZENXhwdW5HMzRibXc3RXJMS2dzWTFSNjJxSEtiMlFvMGdHdDRSNDd3bHFmMTZXYjZmeFVaUExwQ0ROQ1VEQzhINU9KOGdVaFpBdXhmVkY3SEpjUE92VmVtTDUzWk1OMDFYVXM?oc=5",
+      "d": 1793554502000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "MTQ ke-48 Kabupaten Bogor Digelar, Jaro Ade Ingin Lahirkan Qori-Qoriah Kelas Dunia - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM05jcFJDWDVxTXBkTi0xdFdwUnVCWEpUVDFxSnNLOVJLUzNXUTZGWlJVbVZNa2FMOXdhZHYwT0Z4V3ZHNG5WNUgyRXNEOGdVNEdpODExbEJkb1lUcXFWSnBCN0p2cU9wUkZWTGdqc0k3S3FGU1ZILS1Tb3VuVGIwMW8xSWFfVjVkNXMtOHpXY0pLOXREOHdueWJ2b3RjdEdxbXQ4NnRDV1ViUU5KYWhaYVFudnM3aXp5amlmejRaN25ldnFOXzZqNkhhVV9kTnhGVjd6dk9R0gHbAUFVX3lxTE10dDE2dXR6WW9lZnRFaHdrZ0hvQjEzRjN0bENiekhOVXp1bktlVzFQdDBvUF84QjZ3ODJQRFAyUG5ZYV9IaUdLTklYcEFIS09jaGtDNmQzcHZnOS1xOW51UlpDdjJTQndrVTl4dmRGZFlsTXlxeFJvOWVLVk5rcEkyeXJTQ3JLRUZ6Z2R3ekd4WWFveUdMaDN3LXB6MEhVMUoybDVPQlVDWVBBMUh1UnotWEhkMDNVVkNBOUFVT0JtdXhTNDdqRVNhYVdRcE9HMzAwRWdGMFdaMGg5TQ?oc=5",
+      "d": 1793496717000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Pameran Seni dan Penyerahan Sertifikat BNSP Ramaikan Puncak Perayaan Hari Batik Nasional - Halaman 2 - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlVpaDVaemZjVFNXaFE3OU1wUjhGM3lxdHhERUVVV2w5VWljbDAwS0ZjVDEtQmhrRVhKUklNYmotczRfdGZ5YjlXcnl0V0JlLXB2ZnBtRjVhQmRud2NoWnVfWEM3RU5tdGgwSEdhcUUzTm1yeTA5SnY5V2FHRWlWcmZkX1FNV0JWMnBCeU9hN1FLX3plV1hkak5fR2J2WmtQZ0dKM2wwWlFHUTdSd0o1NnlVN1poS0o0OGVLUkhhMzJOWXhVZEgyZ3h6LXVkYVFWdUJkbXJHZ0Q?oc=5",
+      "d": 1793557980000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Komputama Cilacap",
+      "x": "Rekening Penerima Mulai Diverifikasi, Begini Cara Cek Bansos PKH-BPNT Periode Terakhir - Universitas Komputama Cilacap",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkc5Z3BwWHBDOWNLZmVleFRpYklFOHMzZ01mc0stR3RyRGxmNDZOUWdka1JKQnNoOHlQSTVOQWw1UGNNZVpTYVVRLUZISjFlRzNUT2tRVmhBcFlIWXN6TkFaTUNzRVhVdDk3bm9nMHhiWGZiaTMxT3JwMEd6eVVULUF2alkzVTVrZVNwLW5BTDh1TDdLeW1fVEh6ckQ4MmJjQ2VvU01zOWdPZ2p0ZmE5MXlqTVFNZzgybmc?oc=5",
+      "d": 1793563338000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
