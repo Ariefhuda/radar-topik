@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeMAxllmthV": 1792345843984,
-    "threads:DbLrQKpEqB9": 1792345843984,
-    "threads:DepQDIhGYrm": 1792345843984,
-    "threads:Dek_7ajkoaE": 1792345843984,
     "threads:DemZoK6jzpY": 1792346142500,
     "threads:DeodVh6Ex3o": 1792346142500,
     "threads:Dd1EwhlDa7p": 1792346142500,
@@ -26913,19 +26909,11 @@
     "threads:DeoIcoHidOR": 1793555141009,
     "news:CBMi_AFBVV95cUxQN3plVnNUTkhSeWNaWkNDdVVTNm9FODdpR3o5YzJnTVFIb0FTemdwVDhRV2ZvaUJCMVJGNVc3QjR3SnRzZ3dzQ1JsVDJWdV93WHhOeG0xSTJtOTREbEJpZUt6aXZTd3p6cWQzVlhlUmxjQV8wTXd5RUFGS250OUFvQ2ZlQWRRUTlhMVpMT2tNUnJESExHUkJqc3B0T3ZVeFF5Q2VvZ3VQY1lucmpndHBuSHVYQVkyMHBJbl94elFBSG5TcWtKSkZlMGN4aWtRWFM0ajlpOW82cTczVzQ3MXgtMFY4bFZRdERDbi1WZzcybXIycnJjT0kyZEVzcUE": 1793555141009,
     "news:CBMi4wFBVV95cUxPQlVBTjNCUnFHdzcyYWJFZTZPZG81SzQ5elZPUURKZnkyaWlyM09QMXlNSnZZTkU1Z3NTc202TmlMWEQ5ZXNWRG1RVFoxbGRKQ3RzVzV6RHY0dU43aklwWmdHTDFuMTdJcERzRHJMSzhlLTZEVi1VVG01OVNER1FyRjJucjRUS2pVeFd5ZHl2bmJBY3p2bm5uM0JvelZTWHBnaTBXSXVzR1RMZGxKUkNGVmI2WFFQMHFIVDRZdnJuUGo4U1JmeDZDQTg4dnF4ejRrV0l6X0FGTHlZcDdtMGd5N0hWbw": 1793555141009,
-    "news:CBMiwAFBVV95cUxNcVNIX0J4Q3R3R1hKRmpKUkgxRldaWlIxNHBPbDdKZjQzaGlEbGlxY3M3eFhtMHFfQmtBVGhsYldxZndqZ0lLNmU1WlZCVUNZczNIbzVFam9fSG1HdE9BMm1qczBhYmUtVEQyMFV0TVAyWXZkeUlWTnhNNUpaaXZjYzViVzNpcXhOMDJ6eHlYaFF6WjlVNmVhSXF5TXgtbUdzajlDT0FYSEEyMV9qRWhvTm9XM2tXTzZsUEhoNGQ1dV8": 1793555141009
+    "news:CBMiwAFBVV95cUxNcVNIX0J4Q3R3R1hKRmpKUkgxRldaWlIxNHBPbDdKZjQzaGlEbGlxY3M3eFhtMHFfQmtBVGhsYldxZndqZ0lLNmU1WlZCVUNZczNIbzVFam9fSG1HdE9BMm1qczBhYmUtVEQyMFV0TVAyWXZkeUlWTnhNNUpaaXZjYzViVzNpcXhOMDJ6eHlYaFF6WjlVNmVhSXF5TXgtbUdzajlDT0FYSEEyMV9qRWhvTm9XM2tXTzZsUEhoNGQ1dV8": 1793555141009,
+    "threads:DcWEYTXgRy8": 1793555440751,
+    "news:CBMiuAFBVV95cUxPTmd1LUtjRzYwUkZLVERRMzlKZEprNFJ2SDJUT3F3Zjc3cWwyWmwtd3FaaldDeGxOT3N1dVpGZjVQVHVnMHF2U0FQRXBtRnhTWkhJbkNXVDVwRU5BNEhiUndUSnI5YjF2R2UwOXdiTHVncHA5dl9pM29qSjN2MDJpZHlEbENxTXl0NjRCTGRWQlNkUy0xZDd2bE5OTEFmWFZBUU5hYkU0VWlYcmUzMEZ6ZEh3T1FEZU44": 1793555440751
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nenenghadiatii",
-      "x": " KELAS GRATIS RETHINK “Menuju Runtuhnya Entitas Israel” Senin, 2 November 2026 Zoom Meeting 🎙️Bersama: ust. Amar Ar-Risalah Mari membaca sejarah lebih dalam, melampaui berita dan ",
-      "u": "https://www.threads.com/@nenenghadiatii/post/DfM2BrZiQR5",
-      "d": 1793539853000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28415,10 +28403,20 @@
       "d": 1793499227000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmd1LUtjRzYwUkZLVERRMzlKZEprNFJ2SDJUT3F3Zjc3cWwyWmwtd3FaaldDeGxOT3N1dVpGZjVQVHVnMHF2U0FQRXBtRnhTWkhJbkNXVDVwRU5BNEhiUndUSnI5YjF2R2UwOXdiTHVncHA5dl9pM29qSjN2MDJpZHlEbENxTXl0NjRCTGRWQlNkUy0xZDd2bE5OTEFmWFZBUU5hYkU0VWlYcmUzMEZ6ZEh3T1FEZU44?oc=5",
+      "d": 1793555495000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
