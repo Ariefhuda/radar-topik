@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcD_f9iDkxX": 1792345536407,
-    "threads:DcXAkyejYOw": 1792345536407,
-    "threads:DeoBDDwjDTP": 1792345536407,
-    "news:CBMinwFBVV95cUxPTDlGTWR3MENRMnp4OHJldGgtSHVRQTFrUVdUdGZYdHJ5WC1GN3VsUmE1aHpfOXVBRnl1NTZFTklpRF9RUzUxRHJFYjlLOFdFdmdCSnZPZTlIbWstdlg4ZzQwN1pGN01LTFRVdlpNZnZpMmJkbzJ1cVlNRVM1VWJKOWRjZkQ5VmUxVjc5NXRtY01JQ1hCWE1nRjgzWUZEd2_SAYwBQVVfeXFMUGN1bzNvWjJBM1FOS2hRaDBaQXRHaTJDUkZzOTZBamhQMF9tWWZGcldpTTF0c3ZOUEtDVHB6SEtvMENDY1BDZHppMWtqelhodmJZOWVmVVB5SjZDaDh6VlNqWWZzN3lnWjI5dWxYbTFPdy0yZVBPa0Q2VnVid29HUjd1clg1eGdqamJIWko": 1792345536407,
-    "news:CBMimwFBVV95cUxNSnB2VDRuWTdjQjE3U0lfVk01cW1xQ2l1OWpkNnY3UGNHZk1Fb2h3Z01FcFJnRHhUb3N6OGRHN1FKWWdpN2ZtWWRUQjJyVGNlV1Q4UHhOQTJueDlaT1J6OTl3aGNWYm92RW1SU0FZaUktaVoyck9ETV9jUmR5T0hjdUtiZDJGa0x1d0dNVHd3YXJNd2RUNHRfNmtJNA": 1792345536407,
-    "news:CBMidkFVX3lxTE5FaWhzb3F1cU1BSlVkWlBYRjhrSnNZYmkyTHdxY2swNE1JbHk3SS1KRUxLbDEwTERCeXBGaG9PMEdPTzlXOGMzQV8zQlYzQlZFa1o3VjVMWTlzWnQwYmtCdGxaZzVnVEx3cXI5MHA0bGVham1YdXc": 1792345536407,
     "threads:DeMAxllmthV": 1792345843984,
     "threads:DbLrQKpEqB9": 1792345843984,
     "threads:DepQDIhGYrm": 1792345843984,
@@ -26904,39 +26898,24 @@
     "news:CBMi2AFBVV95cUxOMV9RUlhUREFCc1NBVVBtOFMzZ05OM2Jac0g0dFVGbG1RalM2NjY1QjNqZmhkVTRTLXZvbjB3YVhnTnUzb204WUVXTHQwNTljckpDRTNQamU0R1pNTWFHYXp3Mkh6bG9XaWQxWFU5bDlEOXZZRndDakQzQW9GMXlPVjhiX241UDFPdnBwaklRTHRtTXVxYXhHc3BEcV9hcTVZWlZOblQycVdzYk9rM041T3N3blY1Yl9KWmVtNkdDUmt2ME9VMnJDRVh0ZVd1d1lhTjFjTEVOSnc": 1793554537402,
     "news:CBMiwwFBVV95cUxPYldEdUI0ZFNNc2c4UGo2RDV0VzIta2dNRjlOek1BcllibGJxTkEyeUJ2elNacnAwTzlENi13SURnSW5JUFI2Y3Y1ZXluZlJCaGhKc1NCdWc4bkFQS0dwYW9FOHB0dzNiZm1IRGtNZll5MEVORlI3NTN0UmRwQVZmNHAxR3RMS0wtN3FqYzlmSEpwRE5tSGN2bFU1SUlWdkRDbXItU2UtX0JZMG1vbHBMeVZVakVHS0lEQnczMmRHTDBhcVU": 1793554537402,
     "news:CBMiqAFBVV95cUxPS1pzVjNENWpCc0NlcXIxWWlQWkZfeVhNNlYtVVh1WjQ5RmozeTNRRi1MaldMS29OZ2g2bHE2YjU4WW1LZjFNMkFNMmZ2Mms5R0FzZ1Y5RzNiN1BjaU15UnhZX01vUkt1b0ZxTXN3Tm9uTHNxb0dEVW1hS3dzV2pJRHlkWXBSdVBBYk44WkgwdjJLcy1HV0NMSnh2dF90Ty1LeHQ0MUJjeXTSAa4BQVVfeXFMUGJjOHUxdjZzMHEwRWhoU05tNWp3RGFicVZ3T3pkbmE4ZUJWdUIxdy1MQmdjWnREMUR1d1BLZjhoTUMtQ3FkWnlSS2ExbzNUSDQyZXlNOHZicW9GMlpQYXNXMDZCeTUtNzl4cHA1UTZnUi16X29YR1dORTl2V2Y4YVhyU0Y1dmkxNG9WUWhKOVlENDZGLVROejVjWkREaDRJZThGR201M2paNVg2NDV3": 1793554537402,
-    "news:CBMitwFBVV95cUxPcTlLRTRnRWlfR2FyaV9RQlZuUUx1QVJTakFhZVhidWlmd1JEWVNJRGNRREJUVWptREZjVGxjczY0QnRPa0hCN2ljUm1nUmVEYTFJVG9fckNoQjJOeklhb0N3akpHM1RXRDdrTHBZUHBtbndUMHhHQzZOYzltZ0dIN2ZsdXlnR1ZRdEROcXhKU2hyOTFsX1FIMmZMV0FlbmRIOEpvbVJxMDVfb0lPQmJXeWppMVN0Ymc": 1793554842412
+    "news:CBMitwFBVV95cUxPcTlLRTRnRWlfR2FyaV9RQlZuUUx1QVJTakFhZVhidWlmd1JEWVNJRGNRREJUVWptREZjVGxjczY0QnRPa0hCN2ljUm1nUmVEYTFJVG9fckNoQjJOeklhb0N3akpHM1RXRDdrTHBZUHBtbndUMHhHQzZOYzltZ0dIN2ZsdXlnR1ZRdEROcXhKU2hyOTFsX1FIMmZMV0FlbmRIOEpvbVJxMDVfb0lPQmJXeWppMVN0Ymc": 1793554842412,
+    "threads:DfNCYA7k6aT": 1793555141009,
+    "threads:Da0Ydz5FCQA": 1793555141009,
+    "threads:DdiR_qRifql": 1793555141009,
+    "threads:DfMzs6Aki0z": 1793555141009,
+    "threads:DfNS4z7m6UE": 1793555141009,
+    "threads:DfNSwP6k88a": 1793555141009,
+    "threads:DfNSmgvDyH7": 1793555141009,
+    "threads:DfNSj1BFN8n": 1793555141009,
+    "threads:DfNSEsxCCh3": 1793555141009,
+    "threads:DfNR10-GfZp": 1793555141009,
+    "threads:DfNSPeHGVmq": 1793555141009,
+    "threads:DeoIcoHidOR": 1793555141009,
+    "news:CBMi_AFBVV95cUxQN3plVnNUTkhSeWNaWkNDdVVTNm9FODdpR3o5YzJnTVFIb0FTemdwVDhRV2ZvaUJCMVJGNVc3QjR3SnRzZ3dzQ1JsVDJWdV93WHhOeG0xSTJtOTREbEJpZUt6aXZTd3p6cWQzVlhlUmxjQV8wTXd5RUFGS250OUFvQ2ZlQWRRUTlhMVpMT2tNUnJESExHUkJqc3B0T3ZVeFF5Q2VvZ3VQY1lucmpndHBuSHVYQVkyMHBJbl94elFBSG5TcWtKSkZlMGN4aWtRWFM0ajlpOW82cTczVzQ3MXgtMFY4bFZRdERDbi1WZzcybXIycnJjT0kyZEVzcUE": 1793555141009,
+    "news:CBMi4wFBVV95cUxPQlVBTjNCUnFHdzcyYWJFZTZPZG81SzQ5elZPUURKZnkyaWlyM09QMXlNSnZZTkU1Z3NTc202TmlMWEQ5ZXNWRG1RVFoxbGRKQ3RzVzV6RHY0dU43aklwWmdHTDFuMTdJcERzRHJMSzhlLTZEVi1VVG01OVNER1FyRjJucjRUS2pVeFd5ZHl2bmJBY3p2bm5uM0JvelZTWHBnaTBXSXVzR1RMZGxKUkNGVmI2WFFQMHFIVDRZdnJuUGo4U1JmeDZDQTg4dnF4ejRrV0l6X0FGTHlZcDdtMGd5N0hWbw": 1793555141009,
+    "news:CBMiwAFBVV95cUxNcVNIX0J4Q3R3R1hKRmpKUkgxRldaWlIxNHBPbDdKZjQzaGlEbGlxY3M3eFhtMHFfQmtBVGhsYldxZndqZ0lLNmU1WlZCVUNZczNIbzVFam9fSG1HdE9BMm1qczBhYmUtVEQyMFV0TVAyWXZkeUlWTnhNNUpaaXZjYzViVzNpcXhOMDJ6eHlYaFF6WjlVNmVhSXF5TXgtbUdzajlDT0FYSEEyMV9qRWhvTm9XM2tXTzZsUEhoNGQ1dV8": 1793555141009
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.tv",
-      "x": "Bansos Beras Oktober-Desember 2026 Sasar Desil 1-4, Ini Cara Cek Penerimanya - Kompas.tv",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU5VM2RLcW01TFhvYVkzMzJrT1U4U1lRUnZqcko0eHNrWnd5czBqSWdYWXlBRnNSLXBJRW1zNFl1aDJ4VGtuUE5UdW9lR1lvZU9PVDZJcngySEtTbkZaaDEyU0ZxaHkxYVJfa3dyOGlnMWdqaTZXWGZ0Zm50RVVRWmduRF92aU85QVNRYk40Wm9mSzhPdmwycG1ucWNpYkNRVzR1TmlyRHVWRjhaUUlyOHR2QjFJV2sxR2pwTWZTNWFlaTjSAbwBQVVfeXFMTnZTYXAwcEJlbWpxaGh4MDVRNk10QUdiWEowSVJ6OFNPS3lzLUhkM2cySURvX3lCZEhkSU83VFhHaHZCdnFNakZkMVpMeHB4cFpqcXBCMDJNcy1oWW80UnlwQ0tzRzVWdVdsQWdpaUZjbXpkUUJmcW9TR05TcFQ4T0hlQ1RkZjlsbkNNamtqbnlHYmxkZkJoLVFJRDVzREhkU0w5dGVGX01wa0ZTTXN1NnZSV0NTY0ZNeFF3Z24?oc=5",
-      "d": 1793532360000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Berita DIY",
-      "x": "KJP Bulan November 2026 Kapan Cair, Tanggal Berapa? Ini Info Cek KJP Pakai NIK Terbaru JakEdu - Halaman 2 - Berita DIY",
-      "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWnNsVHczdTVjZktMX2NqWW41dW5tTmlWTUh1aktvQ25KeHJOVGpTLTFiLWR1WDN4Q1padzBNcFdlOThRcVBFVHppOElGLTl0a2xhQXdEbHpZMnN0bEViQzJmNk10ZnROTi1vUkdXVm95aHNhUnNEUFVqTGEyc3QtSEliYzhtU3JjMGFwWWl2SDhiWWU0OWdMRTJjdXFMbmNWTy1RRDNXYnUzRnlxVFlyN3NoSkYyZUdUb0hvd05wUFg3WVNDVEpjanoxT2I1OUtzbDNOcWpUaTlRdnBocFNvZW1JY2Y2V3JIVlc2U21zdkU0Z0nSAfMBQVVfeXFMT1pzbFR3M3U1Y2ZLTF9jalluNXVubU5pVk1IdWpLb0NuSnhyTlRqUy0xYi1kdVgzeENaWncwTXBXZTk4UXFQRVR6aThJRi05dGtsYUF3RGx6WTJzdGxFYkMyZjZNdGZ0Tk4tb1JHV1ZveWhzYVJzRFBVakxhMnN0LUhJYmM4bVNyYzBhcFlpdkg4YlllNDlnTEUyY3VxTG5jVk8tUUQzV2J1M0Z5cVRZcjdzaEpGMmVHVG9Ib3dOcFBYN1lTQ1RKY2p6MU9iNTlLc2wzTnFqVGk5UXZwaHBTb2VtSWNmNldySFZXNlNtc3ZFNGdJ?oc=5",
-      "d": 1793533507000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@heni_care",
-      "x": "Ohya kak ? Hmmm belum tau tuh dimana... Dan semoga next negara kita memberikan fasiltas gratis pelatihan ttg caregiver bagi setiap penduduk, minimal 1 orang dalam 1 KK... seperti d",
-      "u": "https://www.threads.com/@heni_care/post/DfM1At1lITr",
-      "d": 1793539321000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28406,10 +28385,40 @@
       "d": 1793552498000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Indonesia-Japan Knowledge Exchange Seminar 2024, Maman Paparkan Strategi Inovatif Penanganan Stunting di Cilegon :: Berita Cilegon - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN3plVnNUTkhSeWNaWkNDdVVTNm9FODdpR3o5YzJnTVFIb0FTemdwVDhRV2ZvaUJCMVJGNVc3QjR3SnRzZ3dzQ1JsVDJWdV93WHhOeG0xSTJtOTREbEJpZUt6aXZTd3p6cWQzVlhlUmxjQV8wTXd5RUFGS250OUFvQ2ZlQWRRUTlhMVpMT2tNUnJESExHUkJqc3B0T3ZVeFF5Q2VvZ3VQY1lucmpndHBuSHVYQVkyMHBJbl94elFBSG5TcWtKSkZlMGN4aWtRWFM0ajlpOW82cTczVzQ3MXgtMFY4bFZRdERDbi1WZzcybXIycnJjT0kyZEVzcUE?oc=5",
+      "d": 1793554893000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "PJU di Cilegon naik Kelas, Dishub Terapkan Lampu Jalan Pintar yang Bisa Kirim Notifikasi Otomatis - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQlVBTjNCUnFHdzcyYWJFZTZPZG81SzQ5elZPUURKZnkyaWlyM09QMXlNSnZZTkU1Z3NTc202TmlMWEQ5ZXNWRG1RVFoxbGRKQ3RzVzV6RHY0dU43aklwWmdHTDFuMTdJcERzRHJMSzhlLTZEVi1VVG01OVNER1FyRjJucjRUS2pVeFd5ZHl2bmJBY3p2bm5uM0JvelZTWHBnaTBXSXVzR1RMZGxKUkNGVmI2WFFQMHFIVDRZdnJuUGo4U1JmeDZDQTg4dnF4ejRrV0l6X0FGTHlZcDdtMGd5N0hWbw?oc=5",
+      "d": 1793555201000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Indonesia Kaya",
+      "x": "Ruang Kreatif X Titimangsa: Workshop Tata Kostum Teater oleh Retno Damayati & Gizza Ossiatzki - Indonesia Kaya",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVNIX0J4Q3R3R1hKRmpKUkgxRldaWlIxNHBPbDdKZjQzaGlEbGlxY3M3eFhtMHFfQmtBVGhsYldxZndqZ0lLNmU1WlZCVUNZczNIbzVFam9fSG1HdE9BMm1qczBhYmUtVEQyMFV0TVAyWXZkeUlWTnhNNUpaaXZjYzViVzNpcXhOMDJ6eHlYaFF6WjlVNmVhSXF5TXgtbUdzajlDT0FYSEEyMV9qRWhvTm9XM2tXTzZsUEhoNGQ1dV8?oc=5",
+      "d": 1793499227000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
