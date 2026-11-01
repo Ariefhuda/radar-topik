@@ -25741,7 +25741,12 @@
     "threads:DfLnYV9DOhO": 1793499041496,
     "threads:DfLmsqBERNY": 1793499041496,
     "threads:DfLmqy5gQhf": 1793499041496,
-    "news:CBMiqwFBVV95cUxQaGI2bWVldThDWHdpaFFRRTZBaVpVQnE5THYxeWJTVHVodkN3MjB5LTZUZV9UZ1h6eEhwVVpBaFpva2U5S3Z0M2FDdldfcUp5cDhUSjR6YmttdDVjdG5LWWJVLTFtejJrcmwwWU5IOVJMdUM5d3ctOUhZSHlHMmpYMHU3TGdUU0Z4aFRVWUtZdFJKVVRYaXJ6Z1pBdFpUVXQ2VnFTZXhWV0NiN28": 1793499041496
+    "news:CBMiqwFBVV95cUxQaGI2bWVldThDWHdpaFFRRTZBaVpVQnE5THYxeWJTVHVodkN3MjB5LTZUZV9UZ1h6eEhwVVpBaFpva2U5S3Z0M2FDdldfcUp5cDhUSjR6YmttdDVjdG5LWWJVLTFtejJrcmwwWU5IOVJMdUM5d3ctOUhZSHlHMmpYMHU3TGdUU0Z4aFRVWUtZdFJKVVRYaXJ6Z1pBdFpUVXQ2VnFTZXhWV0NiN28": 1793499041496,
+    "threads:DfLoaVxExsm": 1793499340443,
+    "threads:DdalKYqks97": 1793499340443,
+    "threads:DfLln8EkrS0": 1793499340443,
+    "threads:DcDOHmaCS4X": 1793499340443,
+    "news:CBMi2AFBVV95cUxNMjQ4V3BtUkdLd0NzU05tbmdRQzAtSWJ4OHVDbk1ISlBDdnlOaWwxX29tSnJmT0JaelJHNWoxWXZiRGp2REp0T1F1ZnhpM1YxdUlYOHd0WUotQ0VpdVVGVW9ESll2OWo1czluLTMyNU9HT2FHc2hyOVNpRFhfSWFYVEFDMnNPVGpad1R0WFRYOTJqdTBqNHN1VnRXN1NZRlFCYkJLRExmcDc1TjdNSUlEQUZERUw2RTdYTW15YlJYQ3ZTWUx4NVF6TmNMYUdjNHBVU3gxTFlFcHI": 1793499340443
   },
   "digest": [
     {
@@ -26053,10 +26058,40 @@
       "d": 1793498655000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@esastudycareer",
+      "x": "Mau kuliah di Australia? Simpan beasiswa ini! 🇦🇺🎓 Vice-Chancellor’s International Scholarship 📍 Macquarie University, Sydney 🎓 S1 & S2 coursework 💰 Potongan biaya kuliah hing",
+      "u": "https://www.threads.com/@esastudycareer/post/DfLoaVxExsm",
+      "d": 1793499161000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kiyanakusumawijaya",
+      "x": "Buat pemegang BPJS Kesehatan PBI Langkah 1 : Cek dulu status kepesertaanmu secara berkala lewat pasti.bpjs-kesehatan.go.id/cek atau APLIKASI MJKN Langkah 2 : Cek Desil di https://c",
+      "u": "https://www.threads.com/@kiyanakusumawijaya/post/DfLln8EkrS0",
+      "d": 1793497699000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "Mulai tahun ajaran 2028-2029, buku teks akan diberikan secara gratis kepada siswa, satu tahun lebih awal dari yang ditetapkan dalam resolusi pemerintah. - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMjQ4V3BtUkdLd0NzU05tbmdRQzAtSWJ4OHVDbk1ISlBDdnlOaWwxX29tSnJmT0JaelJHNWoxWXZiRGp2REp0T1F1ZnhpM1YxdUlYOHd0WUotQ0VpdVVGVW9ESll2OWo1czluLTMyNU9HT2FHc2hyOVNpRFhfSWFYVEFDMnNPVGpad1R0WFRYOTJqdTBqNHN1VnRXN1NZRlFCYkJLRExmcDc1TjdNSUlEQUZERUw2RTdYTW15YlJYQ3ZTWUx4NVF6TmNMYUdjNHBVU3gxTFlFcHI?oc=5",
+      "d": 1793453627000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
