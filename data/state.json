@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deoitm6jM5_": 1792344043088,
-    "threads:DeoeObKCcFN": 1792344043088,
-    "threads:DeoJoyciaGx": 1792344043088,
-    "threads:Den2ls3nR3Q": 1792344043088,
-    "threads:Den1BfAiYIh": 1792344043088,
-    "threads:DenhAUIk6fR": 1792344043088,
-    "threads:DendHqECfj-": 1792344043088,
-    "threads:DcTAtEKAX0D": 1792344043088,
-    "threads:DcTQ1S6E4C0": 1792344043088,
-    "threads:DcpF2O0Egrl": 1792344043088,
-    "threads:Dd_7jI1kkwl": 1792344043088,
-    "threads:DcZ4aOAnxs1": 1792344043088,
     "threads:DaKEaBMj6Pf": 1792344338449,
     "threads:DP9VJQAj2Fm": 1792344338449,
     "threads:DB1Kw-DufZA": 1792344338449,
@@ -26912,19 +26900,22 @@
     "news:CBMiwAFBVV95cUxQMklRaG5tNmEwZ0hRMkhKS3RkRXdpallvNjA4NFFPX0UtcU1Qa2FZUFBIRXhxdldkTERkN0NBdU4zaUtuY1RZTjFfeE1UVE9BSHFuUDFuMmZ0WjdHS1k2SlBRQWlTNE1MVTU1VktMUUIwT3dFTGgxNndRMzFtYWd0LXp0TXFnX2ZZOU1lX3UyS2gwZXVSOE5xeHU1MHVzTURaajkwMkFsZUEwZ2loSFlNUno2emQxN1Q5T1VSY2FlWk_SAcYBQVVfeXFMTjY5aGxEeGI0MzJBMW04X05IaHlLb2laUXpOZkRxNkRObmt4UE52c0tUTjlVVE9NWVpWdDh2b2NCVnFmazQxdmh5eFYxWVpCU21PM0s1S1gxTTBUQU05MGNGNTVBdnIzTEtQdFdLakExeS1vdTdjb3gxcnduMl9lbmJMZC1MNXpxbTFMOFFqN1FWeFRrRm1YQXpfSS1hRUZYT003Z1dZMEZEcy1ncVl5OGtXUXV3V2hhRkpwemZwaXZRVFd4YnhB": 1793552770609,
     "threads:DfNOWcfFT7O": 1793553042629,
     "news:CBMiuAFBVV95cUxON2tmeUh3Z3lndHFTeEM1TmVEamR3ZkF6cTVwOFoteUphSzZiV2RxcjBab3ZENExiMXlQYm1KLWJWdFg5OGUtOGN5dmw4dW5FYXFYaXpfRXlhVmdySjJscHZiS0JDVGVyMlIzMmZZejFMcTVfZlpWOEpqSktueGNiYUZ1SjdlZGRPdF8xcFl1RWpfaDA4STU1TG1wUVdmREdpTFhFUHFyQ1V5eldVTGEzTm9zSEZVZ2cz": 1793553340438,
-    "news:CBMiyAFBVV95cUxPdXBzeGZzUlludk95NnZOdXBpQmJKM1l0b0Nua3IzMVh5bkd4aUhZeHkzR1F1bnU4X2lGaExiNnFiNnVUbVA3RmRSQzNuTk5VMV9uOHk3RTFtSVdhLXI0a1F1bTYwR19BbEVZN1A0UmpEamZyR0c2c2V1YzNlZ1VJQzhYZE1rcHowVUVELVcwUlhmNGVmRjdJUV9tSGZsa1lXM080VGVtWnRiQ1dMMTVKR1dOSGt6bmxYQzBrX2d6LUEzUjFoNUxSONIByAFBVV95cUxPdXBzeGZzUlludk95NnZOdXBpQmJKM1l0b0Nua3IzMVh5bkd4aUhZeHkzR1F1bnU4X2lGaExiNnFiNnVUbVA3RmRSQzNuTk5VMV9uOHk3RTFtSVdhLXI0a1F1bTYwR19BbEVZN1A0UmpEamZyR0c2c2V1YzNlZ1VJQzhYZE1rcHowVUVELVcwUlhmNGVmRjdJUV9tSGZsa1lXM080VGVtWnRiQ1dMMTVKR1dOSGt6bmxYQzBrX2d6LUEzUjFoNUxSOA": 1793553340438
+    "news:CBMiyAFBVV95cUxPdXBzeGZzUlludk95NnZOdXBpQmJKM1l0b0Nua3IzMVh5bkd4aUhZeHkzR1F1bnU4X2lGaExiNnFiNnVUbVA3RmRSQzNuTk5VMV9uOHk3RTFtSVdhLXI0a1F1bTYwR19BbEVZN1A0UmpEamZyR0c2c2V1YzNlZ1VJQzhYZE1rcHowVUVELVcwUlhmNGVmRjdJUV9tSGZsa1lXM080VGVtWnRiQ1dMMTVKR1dOSGt6bmxYQzBrX2d6LUEzUjFoNUxSONIByAFBVV95cUxPdXBzeGZzUlludk95NnZOdXBpQmJKM1l0b0Nua3IzMVh5bkd4aUhZeHkzR1F1bnU4X2lGaExiNnFiNnVUbVA3RmRSQzNuTk5VMV9uOHk3RTFtSVdhLXI0a1F1bTYwR19BbEVZN1A0UmpEamZyR0c2c2V1YzNlZ1VJQzhYZE1rcHowVUVELVcwUlhmNGVmRjdJUV9tSGZsa1lXM080VGVtWnRiQ1dMMTVKR1dOSGt6bmxYQzBrX2d6LUEzUjFoNUxSOA": 1793553340438,
+    "threads:DfNQU0qmaAU": 1793553648630,
+    "threads:DfNQN9lGZjx": 1793553648630,
+    "threads:DfNQL30GYR5": 1793553648630,
+    "threads:DfNQJmEFZVL": 1793553648630,
+    "threads:DfNQIADDz3K": 1793553648630,
+    "threads:DfNQHWLmcef": 1793553648630,
+    "threads:DfNQCg-mbQZ": 1793553648630,
+    "threads:DfNP_bumWtK": 1793553648630,
+    "threads:DfNPXcYiNY2": 1793553648630,
+    "threads:DfNQXeqGMv8": 1793553648630,
+    "threads:DfNPjhEj_rG": 1793553648630,
+    "threads:DeW2x13ADxT": 1793553648630,
+    "news:CBMieEFVX3lxTE8tUGZoNFBvaG1xMm5RNHZYQWlZTmg2TVo0ZnNVdEFtTzNfRVB1bEoxOS1hS3BrZFJOa0lqOTNYdExqZURHZF9DSkhCeThISXF5OF9EUHZCTTIzVWpKTmlMekdKaWNtWmh1WUp4dUpUR2daTERvSjljaA": 1793553648630
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@zeyzey_faeyza",
-      "x": "Nih, cobain Trial Class 1x TANPA BIAYA di Kun Kwan! ​Kenapa harus cobain? ✅ Metode Asyik & Interaktif – Nggak pakai pusing, langsung paham! ✅ Tutor Pengalaman – Dibimbing sampai pe",
-      "u": "https://www.threads.com/@zeyzey_faeyza/post/DfM0y6wkqUJ",
-      "d": 1793539208000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28414,10 +28405,20 @@
       "d": 1793546220000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "BeritaTrans",
+      "x": "Masuk Kelas Bicara Keselamatan: Jasa Raharja dan Satlantas Polres Metro Bekasi Kota Gelar Kampanye Keselamatan dan PPKL di SMA Negeri 2 Bekasi - BeritaTrans",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tUGZoNFBvaG1xMm5RNHZYQWlZTmg2TVo0ZnNVdEFtTzNfRVB1bEoxOS1hS3BrZFJOa0lqOTNYdExqZURHZF9DSkhCeThISXF5OF9EUHZCTTIzVWpKTmlMekdKaWNtWmh1WUp4dUpUR2daTERvSjljaA?oc=5",
+      "d": 1793527246000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
