@@ -26061,7 +26061,14 @@
     "threads:DfL9V4rkfcr": 1793510144462,
     "threads:DfL9QBxkSiq": 1793510144462,
     "threads:DfL8qdmj_Tk": 1793510144462,
-    "news:CBMiekFVX3lxTE0wYkhOdkcyTVh4RXY1TGEtTk10U2FyNzZHbmNuMWdkOS01WFZKSmxrRGJzRV95X1ZBeVBtNGRvMkZiRl9MVnpfN2ZMVW1TNTBrSmpCMlRqWjVDQ1JnalZQelcyejNzeW5EejhESWdPUTVJdWNPMHVPbDF3": 1793510144462
+    "news:CBMiekFVX3lxTE0wYkhOdkcyTVh4RXY1TGEtTk10U2FyNzZHbmNuMWdkOS01WFZKSmxrRGJzRV95X1ZBeVBtNGRvMkZiRl9MVnpfN2ZMVW1TNTBrSmpCMlRqWjVDQ1JnalZQelcyejNzeW5EejhESWdPUTVJdWNPMHVPbDF3": 1793510144462,
+    "threads:C__kS8zzNze": 1793510440900,
+    "threads:DfL90tDkoPf": 1793510440900,
+    "threads:DfL95XJn312": 1793510440900,
+    "threads:DdahAyXAUjz": 1793510440900,
+    "news:CBMiZ0FVX3lxTE1Zci1BcWJRSGpWMkFjTTZzREJYVjZLREdkR2FlMzJZNnZEbHlhYTl6NmpXRXZNNWxVZl9CM24tODZFZVhONkVVYTRSYnZoeC1oUzNtdDR4RGY5dGozWC1DZ1VWLUQxVjQ": 1793510440900,
+    "news:CBMiwgFBVV95cUxNYXBwMGJSN0lYUmRRUlAxMnA2SG9mcldMZlNhQnpiWGx0ZUJ6aUhMTy12VUJuaVdXeVBzeDh3bld0dkJ5SE0yRXJBVzY2SW9oNnRyOGNPZVAxWENaN1JGZnFKNDZkWWJvM2RjWlA4dlpMM3g2N0FZOHZZWDF4MDJXZ2VfUUhFcURGa2lUY3dFb3JMTFdKRGkySHQxVzRFTHBQY1VxQTZUYzkzNkpwdUdFNHZCekxrSmt2OW1TQ1pMWnpXZw": 1793510440900,
+    "news:CBMid0FVX3lxTE42eTJWaUgtQml0bUhqM3Azcm41MUxLa2stZ3hETG4xRmtQblBmaW1RWXg0Vjc4X3BielBsZS1EcGdPSGxBNDdLSGV4XzFpamJmVEQxby1TLVRkQXcwM2tEY3VYcmhjR2JPNUpFV25YMlFBX2dfYVlR": 1793510440900
   },
   "digest": [
     {
@@ -27453,10 +27460,30 @@
       "d": 1793509593000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sariani8260",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@sariani8260/post/DfL90tDkoPf",
+      "d": 1793510389000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@goodfriends_scholarship",
+      "x": "🌸 Beasiswa studi di luar negeri juga bisa diajukan melalui agen! Agent Scholarship Office dikelola oleh Good Friends Japan dan merupakan agen mitra resmi Study Group, INTO, dan ON",
+      "u": "https://www.threads.com/@goodfriends_scholarship/post/DfL95XJn312",
+      "d": 1793510425000,
+      "urgent": false,
+      "warn": true
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
