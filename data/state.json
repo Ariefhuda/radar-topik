@@ -26197,29 +26197,12 @@
     "threads:DfMFwZNGT62": 1793514654738,
     "threads:DfMFiNaFJiJ": 1793514654738,
     "threads:DfMFPwCIAen": 1793514654738,
-    "threads:DfKHbBciDyy": 1793514654738
+    "threads:DfKHbBciDyy": 1793514654738,
+    "threads:DfMGl36oAp_": 1793514938538,
+    "threads:DfMGj-OILYP": 1793514938538,
+    "threads:DcaMDPllKHg": 1793514938538
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Vietnam.vn",
-      "x": "Mulai tahun ajaran 2028-2029, buku teks akan diberikan secara gratis kepada siswa, satu tahun lebih awal dari yang ditetapkan dalam resolusi pemerintah. - Vietnam.vn",
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMjQ4V3BtUkdLd0NzU05tbmdRQzAtSWJ4OHVDbk1ISlBDdnlOaWwxX29tSnJmT0JaelJHNWoxWXZiRGp2REp0T1F1ZnhpM1YxdUlYOHd0WUotQ0VpdVVGVW9ESll2OWo1czluLTMyNU9HT2FHc2hyOVNpRFhfSWFYVEFDMnNPVGpad1R0WFRYOTJqdTBqNHN1VnRXN1NZRlFCYkJLRExmcDc1TjdNSUlEQUZERUw2RTdYTW15YlJYQ3ZTWUx4NVF6TmNMYUdjNHBVU3gxTFlFcHI?oc=5",
-      "d": 1793453627000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Benarkah Dana Bansos Tahap 4 Masuk KKS di Akhir Oktober? Ini Penjelasannya - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUw5eFR6dnVRS05zVVhIc0pjN1RUZ0tUZjBEXzlNWUk5eWc0a1dSSEVIQk1aUDFpcEpUQXEzX2dtYVdEQml3b2FyUFVzZFpNb1NMdG0waEkwcGlZeUJQb2xWbE0waG1ZZS1NUFMtc3NtQzY1NldBQS05ckUyaWU4TnROT2FyNm9md09yNjZhdUd5MlFJeTl3Q0EwVzgxME81WjVJQkhnd2dUMm8tM0RlMkNlaDlnRkNSRHJIM0lYb9IBxAFBVV95cUxPMVE3M3hYNjZxQV9qZHNaM1JLMDd5MHF3TXhvWkxHTUlOa0R5VzJwSDFuNnI5cVhURUJDZWV4enNYT09ZOUFHdVdWTmRGSzRMYVFUSTNkMEJHWVpJN3hzMDc4M0VHOHJSSV9ZNi1lX0RTbUtLYWNIMnBkTnlrcFM4ajJaZmpma1RDbjY5YXRrUXlqTlRGdmJTRTZXbTBYTDdjRlI0Z21SbjBrWllnZVZnZXFoaWF4VkRDZXhIWThSWURXMUNz?oc=5",
-      "d": 1793498895000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -27699,10 +27682,30 @@
       "d": 1793509557000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@diam_diam.berkembang",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@diam_diam.berkembang/post/DfMGl36oAp_",
+      "d": 1793514984000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "hari ini tanggal 10 november nongol terus di pencarian google: katanya PKH & BPNT tahap 4 cair hari itu. gue telusurin sumbernya dulu. angka itu asalnya dr kanal youtube \"info bans",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfMGj-OILYP",
+      "d": 1793514975000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
