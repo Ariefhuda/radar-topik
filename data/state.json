@@ -26822,7 +26822,14 @@
     "threads:DfMq9jEm5Co": 1793534742530,
     "threads:DfMrr6UmaE4": 1793534742530,
     "threads:DfMrIG1FM5E": 1793534742530,
-    "news:CBMihwFBVV95cUxQYmd3UkFhM1dpbzJPVDdsZHR3UkJDNE9mVXFIcm9vY3RLbDUtd2hxQlNRTnpyTEF3ODQ4ZGx1dWxIX3FDN00xcF9lQ2N1M2tSbGc1SjlLN1FGUHp3Vlp1UUl4bzQ3WVgxalZOLVM0UzR1VXUxTFB4VmNzUWl3alFoTmtfRXZsNk0": 1793534742530
+    "news:CBMihwFBVV95cUxQYmd3UkFhM1dpbzJPVDdsZHR3UkJDNE9mVXFIcm9vY3RLbDUtd2hxQlNRTnpyTEF3ODQ4ZGx1dWxIX3FDN00xcF9lQ2N1M2tSbGc1SjlLN1FGUHp3Vlp1UUl4bzQ3WVgxalZOLVM0UzR1VXUxTFB4VmNzUWl3alFoTmtfRXZsNk0": 1793534742530,
+    "threads:DfMsByZm6cr": 1793535040507,
+    "threads:DfMr5uXm4e1": 1793535040507,
+    "threads:DfMr4rqkT68": 1793535040507,
+    "threads:DfMr4Ktm-EP": 1793535040507,
+    "threads:DfMrxQDGzZI": 1793535040507,
+    "threads:DfMsK0KAG9t": 1793535040507,
+    "news:CBMitwFBVV95cUxPeFFsZHJOX1JVUVVlc2V3OVdxUkpJS1AzaUZ6ZHQ3Wm8wbW1hM3Q1VGxIbm5RdDIyTWk4ZkltcmVrNWxrSHlfTms1OW5od0JZNWs1TzAzSjR1cUJOY2RfbFJJS2hIWUNUQTVmdUhIbVRWQlBtY2VwMy02WkJLN3VRdnFCVERKa2NiN1VGSnFYSFhVdkk4Rld1V2V1X0Rrbk9uNmlQZXBKMlVKSkJVdm5jMVhleEkwaEU": 1793535040507
   },
   "digest": [
     {
@@ -26844,10 +26851,20 @@
       "d": 1793534139000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Hasanah.id",
+      "x": "Daftar Bansos Cair November 2026, Ini Rincian Penerima dan Cara Cek Status Bantuan - Hasanah.id",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFFsZHJOX1JVUVVlc2V3OVdxUkpJS1AzaUZ6ZHQ3Wm8wbW1hM3Q1VGxIbm5RdDIyTWk4ZkltcmVrNWxrSHlfTms1OW5od0JZNWs1TzAzSjR1cUJOY2RfbFJJS2hIWUNUQTVmdUhIbVRWQlBtY2VwMy02WkJLN3VRdnFCVERKa2NiN1VGSnFYSFhVdkk4Rld1V2V1X0Rrbk9uNmlQZXBKMlVKSkJVdm5jMVhleEkwaEU?oc=5",
+      "d": 1793515140000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
