@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DepHeBJE3l1": 1792355452027,
-    "threads:DZW7IQVmkKv": 1792355452027,
-    "threads:DeoJmmtCUYe": 1792355452027,
-    "threads:DeoeM3qiS3a": 1792355452027,
-    "threads:Deng-KVE_cR": 1792355452027,
     "threads:Dc492ptj9zt": 1792355734521,
     "threads:DeSn2gVkqDd": 1792355734521,
     "threads:C_T-owFvgGN": 1792355734521,
@@ -26964,19 +26959,13 @@
     "threads:DbxenXNmjGn": 1793564436415,
     "threads:DeoELzpkoJY": 1793564436415,
     "threads:Dbbm7g3k7ga": 1793564736014,
-    "threads:DeOQsE1E0cu": 1793564736014
+    "threads:DeOQsE1E0cu": 1793564736014,
+    "threads:DF2SHP-T6Ey": 1793565049008,
+    "threads:DVICoZzEovQ": 1793565049008,
+    "news:CBMigwJBVV95cUxPUFdBQldUZk1TeUlfVDQxRDNGRXhkZGRqbGM5QWtWaFhSR2g4bkhrZTdKZU5zT04wMnBmVHE2ak51YVhFYWFjVkp1X3I2Qlh0LWRHdU0xNHVjdTg0LTdvb1RJcGJ6SjZlRXdZbzJFTWk4MGJYU3VhTU1JVVJIZGlCTW9nMXZBTzQ1UEh6NnMzMjQ1QjRBeENfcmhCUGthMmJrUmRRSFBDdUNvbkRDcVA2OWhENURxMTE4d0lmYWJQYkNIT09XSmZodmMzQlZPWHJpNEdUWEQ4TDEwc3g1RzFrVDRWZEg4NWFnU3NIZkZXNk9vdnl4aXlxWkM2QTRGRG80Q0Zr": 1793565049008,
+    "news:CBMiwgFBVV95cUxQckJKbGNYZmlIOG5LQnprWDd5VTk0UXVlTFliRXVxWjVVUTM4RHNjX1Y1a0xBM21SemZpaDJKRmRpSUNhaFl0NjZTeWhyOGRxbFNWbzE4NnhwRzVKVDllUXVlZXdLUmc1YlUwdmdWTlZtaF84ZXJ0Z3hhNFRIRnZpdlBFVDhvSy1iM2R5YXFMUTI1MzBXbzlsY0xiVXlnWGxabkNzRnF4NEhpMFVFdml2MGJ5Q3BDVnktcGFGeUY0cHNGUQ": 1793565049008
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Cek Bansos Rp 600 Ribu Lewat HP, Kapan Cair? - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnFxTjEwZnRRdkUxR0xIWkQ5Z3ZDSHdlQnlYZkh5TjlMRlhwdzRUVXItWWZmMlc0RlhhUFFuLUdnTHFPOVJoZW9SVDYyd0ZSb0Q2SHNjQ3U5YUR2VXVsd3NWM0NFVjlpUzM4clRTWGFBWmV6ZmVHakxhVVp6VjRJbGl1WGFZckVCbHN1Yk1tQ2RCY1hXU1RJ0gGXAUFVX3lxTE5CcXFOMTBmdFF2RTFHTEhaRDlndkNId2VCeVhmSHlOOUxGWHB3NFRVci1ZZmYyVzRGWGFQUW4tR2dMcU85Umhlb1JUNjJ3RlJvRDZIc2NDdTlhRHZVdWx3c1YzQ0VWOWlTMzhyVFNYYUFaZXpmZUdqTGFVWnpWNElsaXVYYVlyRUJsc3ViTW1DZEJjWFdTVEk?oc=5",
-      "d": 1793538021000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28466,10 +28455,20 @@
       "d": 1793542284000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunpontianak.co.id",
+      "x": "BSU Rp900 Ribu Resmi Cair Mulai November 2026 untuk 13,3 Juta Pekerja - Tribunpontianak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckJKbGNYZmlIOG5LQnprWDd5VTk0UXVlTFliRXVxWjVVUTM4RHNjX1Y1a0xBM21SemZpaDJKRmRpSUNhaFl0NjZTeWhyOGRxbFNWbzE4NnhwRzVKVDllUXVlZXdLUmc1YlUwdmdWTlZtaF84ZXJ0Z3hhNFRIRnZpdlBFVDhvSy1iM2R5YXFMUTI1MzBXbzlsY0xiVXlnWGxabkNzRnF4NEhpMFVFdml2MGJ5Q3BDVnktcGFGeUY0cHNGUQ?oc=5",
+      "d": 1793564733000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
