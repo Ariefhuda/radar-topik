@@ -25721,7 +25721,13 @@
     "news:CBMiwgFBVV95cUxPcDM1dndFZjNfV2tabTBubWpnVnFXcHIwSTVBQkwta3dpam1WdGRHOUNZTnFsRHRJbUh3cTdYU1RWcl90U0dtRWlVUV9kM1JMSUk0dGxhRlJBMm05MWl5Tk0wZEYtdUFSY3lTSE5QZW1WakNtZUtDSXlwTk5DYXBmd0JrN2pWSWlyNnVNRlBGTzRQYTBEVUFzNHdkdzI0YW5PRld0NkpCU1RjRUlhWnhpXzBVZ0NPV253Zy0wMUpvMUhiZw": 1793497543643,
     "threads:DfLmQ3NE1IH": 1793498135794,
     "threads:DfLmDWCE2FD": 1793498135794,
-    "threads:DfLdRe-H0lT": 1793498135794
+    "threads:DfLdRe-H0lT": 1793498135794,
+    "threads:DfLmiz1FGh3": 1793498454226,
+    "threads:DbYjPjUlcyF": 1793498454226,
+    "threads:DTrRx4RDyZG": 1793498454226,
+    "threads:Dcbex_0krcY": 1793498454226,
+    "threads:Dd1NDYsD6CZ": 1793498454226,
+    "news:CBMiwAFBVV95cUxPczJITGVXSFFLMDhiNGR0TFRUZ2FxcnJtdDc2T2hSVzh4d3lkemZYdWZySHVUaHY1ck0xVEJPSV96Sy02U0hFQjBfTWZNSkFIMW5OUXdKaVBfbV9BTERyaWZWeWppU2oyWEJJUEpONkxfd1pMV2lEazcyX3NjWUtRTjNhOUtxTFZOczkzVVhZazJueEdYcndQWWttQ0ppaFZBdGtSV2tKZDZxSncyWkJvOXdGZ1kxZjFLYUVJaXVTbE7SAcABQVVfeXFMT3MySExlV0hRSzA4YjRkdExUVGdhcXJybXQ3Nk9oUlc4eHd5ZHpmWHVmckh1VGh2NXJNMVRCT0lfekstNlNIRUIwX01mTUpBSDFuTlF3SmlQX21fQUxEcmlmVnlqaVNqMlhCSVBKTjZMX3daTFdpRGs3Ml9zY1lLUU4zYTlLcUxWTnM5M1VYWWsybnhHWHJ3UFlrbUNKaWhWQXRrUldrSmQ2cUp3MlpCbzl3RmdZMWYxS2FFSWl1U2xO": 1793498454226
   },
   "digest": [
     {
@@ -26013,10 +26019,20 @@
       "d": 1793497477000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tvOneNews",
+      "x": "Cara Cek Bansos PKH dan BPNT Online 2026, Ini Link Resmi dan Panduannya - tvOneNews",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczJITGVXSFFLMDhiNGR0TFRUZ2FxcnJtdDc2T2hSVzh4d3lkemZYdWZySHVUaHY1ck0xVEJPSV96Sy02U0hFQjBfTWZNSkFIMW5OUXdKaVBfbV9BTERyaWZWeWppU2oyWEJJUEpONkxfd1pMV2lEazcyX3NjWUtRTjNhOUtxTFZOczkzVVhZazJueEdYcndQWWttQ0ppaFZBdGtSV2tKZDZxSncyWkJvOXdGZ1kxZjFLYUVJaXVTbE7SAcABQVVfeXFMT3MySExlV0hRSzA4YjRkdExUVGdhcXJybXQ3Nk9oUlc4eHd5ZHpmWHVmckh1VGh2NXJNMVRCT0lfekstNlNIRUIwX01mTUpBSDFuTlF3SmlQX21fQUxEcmlmVnlqaVNqMlhCSVBKTjZMX3daTFdpRGs3Ml9zY1lLUU4zYTlLcUxWTnM5M1VYWWsybnhHWHJ3UFlrbUNKaWhWQXRrUldrSmQ2cUp3MlpCbzl3RmdZMWYxS2FFSWl1U2xO?oc=5",
+      "d": 1793493480000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
