@@ -26200,29 +26200,11 @@
     "threads:DfKHbBciDyy": 1793514654738,
     "threads:DfMGl36oAp_": 1793514938538,
     "threads:DfMGj-OILYP": 1793514938538,
-    "threads:DcaMDPllKHg": 1793514938538
+    "threads:DcaMDPllKHg": 1793514938538,
+    "threads:DfMGpDoIF5K": 1793515245012,
+    "threads:DfMGmftoEhU": 1793515245012
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "CNN Indonesia",
-      "x": "Diego Moreira, Bintang Milan yang Hancurkan Inter - CNN Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkpNQTRKaFE1Yi1aZ1VwZmRGNFdEdm15Zy10NzZSM0VaS3oxLVVoeUtOOFdZSEI3UzMyNFAwcHU3REw0QzVGVjdtMml0cDg2c3NUUExBS3Q1b0JIeHZCdW9Fa1I0dG5jbzRVb0lFVl9oN0p2Ujd4RDVOT1IxcWVBUFh1WVFfaVpZWXAtZ2g0Z3FBWThMTG9YWUJiS2lvLVh1Ymh4aW55eEpTLXR3eklNWVVram5HeHN50gG4AUFVX3lxTFBSSk1BNEpoUTViLVpnVXBmZEY0V0R2bXlnLXQ3NlIzRVpLejEtVWh5S044V1lIQjdTMzI0UDBwdTdETDRDNUZWN20yaXRwODZzc1RQTEFLdDVvQkh4dkJ1b0VrUjR0bmNvNFVvSUVWX2g3SnZSN3hENU5PUjFxZUFQWHVZUV9pWllZcC1naDRncUFZOExMb1hZQmJLaW8tWHViaHhpbnl4SlMtdHd6SU1ZVWtqbkd4c3k?oc=5",
-      "d": 1793493655000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Wawai News",
-      "x": "BGN Tutup Permanen 2.000 Dapur MBG, Ada yang Berdampingan dengan Kandang Babi hingga Masak di Bawah Sarang Walet - Wawai News",
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTdodnZIZEVOeV83U0RDOUlKdmRpaHNmeFYxNUNTRGlpVUlqT3l4d1hCd2RPM3pZd3BQN1RnRE5GVUcxLW1XSENIRlZ3TUNfYzhQRlN3Q2VhMjQ0T2JLWjh3c2V5TVUyMjdBbFVLZS1pY003T3BnZEdLUDZOZ1ktbm5ZMnBIbDhJdmZ1VktBdjBNdHRpZ3Zpd1hHMVNvZ2tOVjhTNERmZ3BjNm9NV2hSWUVOS0dxSEZfNkt6NjNWOHBzX2xYSlkxeFd0d2NQdw?oc=5",
-      "d": 1793456535000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27702,10 +27684,30 @@
       "d": 1793514975000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "cara baca hasilnya: • \"YA\" = terdaftar aktif, \"TIDAK\" = ga dapet di periode itu • SPM/SP2D = dananya lagi diproses di kemenkeu, sabar dulu • SI atau \"proses bank\" = dananya udh di ",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfMGpDoIF5K",
+      "d": 1793515016000,
+      "urgent": false,
+      "warn": true
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "nominal per 3 bulan, sama kayak tahap2 sebelumnya di 2026: • BPNT: rp600rb per keluarga (rp200rb x 3 bulan) • PKH, tergantung komponen: ibu hamil/nifas & anak 0–6 thn rp750rb, anak",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfMGmftoEhU",
+      "d": 1793514995000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
