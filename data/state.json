@@ -26976,19 +26976,11 @@
     "threads:DfNgb07gWJF": 1793570139403,
     "threads:DfNvm4rjWr3": 1793570139403,
     "threads:DfNutaYk6JG": 1793570139403,
-    "threads:Dd_UH5gj_L7": 1793570139403
+    "threads:Dd_UH5gj_L7": 1793570139403,
+    "threads:DcEl4iij7Ks": 1793570457775,
+    "threads:DfNwbZWEjQp": 1793570457775
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Cek Bansos Rp 600 Ribu Lewat HP, Kapan Cair? - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREltcG9hMEdxNmp6dVJCYloxc3YtZWM0T3hVRkJNSTYwSEl5UnhzY0JLUnFpV09iZWMyLWRhV2RfMXVUZk0wTTAxcGpHOFVjVHZhMHlzcF9VQ3hRUmxYZjhuQVRZMlNISXR5V21Xb012cVhTbkxfallfc3BSZW9CN0l3Vk4wZFViSDFnV2lLRmsyQdIBlwFBVV95cUxOQnFxTjEwZnRRdkUxR0xIWkQ5Z3ZDSHdlQnlYZkh5TjlMRlhwdzRUVXItWWZmMlc0RlhhUFFuLUdnTHFPOVJoZW9SVDYyd0ZSb0Q2SHNjQ3U5YUR2VXVsd3NWM0NFVjlpUzM4clRTWGFBWmV6ZmVHakxhVVp6VjRJbGl1WGFZckVCbHN1Yk1tQ2RCY1hXU1RJ?oc=5",
-      "d": 1793538021000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28478,10 +28470,20 @@
       "d": 1793568625000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@todayis_fluffy",
+      "x": "Tiap ngecek desilnya tetep 6-10 kak di website DTSEN Kalau cek lewat website cek bansos, per 1 nov kmrn datanya tidak ditemukan 🤣🤣🤣🤣",
+      "u": "https://www.threads.com/@todayis_fluffy/post/DfNwbZWEjQp",
+      "d": 1793570473000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
