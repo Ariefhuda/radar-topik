@@ -27178,7 +27178,10 @@
     "threads:DfNApmfFmy7": 1793546141954,
     "threads:DfNBzcbER4x": 1793546141954,
     "threads:DfNA-itEc71": 1793546141954,
-    "threads:DfGxLJDEiI0": 1793546141954
+    "threads:DfGxLJDEiI0": 1793546141954,
+    "threads:DfNCB7pkwc9": 1793546439641,
+    "news:CBMingJBVV95cUxNcDJrYzdURnhCNkRjSUZlekZiQktiaDVUeW5lanM1YVhJdUNYdkttR3V3cE9SNHp2Qll5Z1ZpRmdNcEhDOG1HVDl0Mi1NTVVWREk2U3UtSUw2c3dnQUlnUkVsb3VwNU9lOEUwam5hcmhlM25rNW9VVWwyZlN4R0tIUDNSTENMSnF0YmdEb2t0VjB2ajM4QnBrdnlZZlRuclhpbkpoYWVKVEk1dlYzcmpVZ1hCUHJnSDE5Szg3RTdGN3VJZ3FIeHpNa2V1UDBJWno5RENyaUdLTDk3dGlwQ1hwaU9nVkZ4UlhPRW5IRFprWi15TV9DM0dQWklvUXJOU3NkdjBnS2d4akNsWm9WLU0yRDU1Q2p4cmFLenl0Z2tB": 1793546439641,
+    "news:CBMiygFBVV95cUxQV18xYmFCamp5ekZuR2lkM3FvUUF4cTc2RlViNUFfdktNODBLTk5hY3F5bGw5MEVhVmx1bDA1ckhhYjJhMTlhcEdaOVAyUHkzNU00Z1hnUl9FYW5nZEstRUtJVE9iSjh2Rkp3VjVtUHphRFo1a1d5Y1B6OTkxX0paZGR5dk4xWnBWQ0lXS1BRNm56clpGZjY2R0RiTUs1ZVBOYy1fTld2UWtqVlBuNDRoZzFxSXhIdmVXa3BTNklNWnpROWdrNUExOGN30gHPAUFVX3lxTE9TVUwwdjNybEZiOEZNQVRwZ09SLTM5TVEzZlJuWmpYcTV1T00yQTNac04xUktXZmtsbGxsRmp3ZUtiV2dVWFh1R0w0dHlUU2Nsc09xc3ZPQ284Znh0VkZjMEJGVDRhb09fN0N2MFloSXlzM3YyY0ZleGdLeEVJdnZoVG9QT01zWnJCYWEyYmVRVzJiTW9LNmRDZDJSVUxyck5hZldpaWlUdElNRHpKV2dVX1FWaWtON20yWEdCRm1jWVVURUo1eTFMN3l6d1NIMA": 1793546439641
   },
   "digest": [
     {
@@ -28510,10 +28513,30 @@
       "d": 1793513280000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@xxhylin88",
+      "x": "Aplikasi cek bansos kak... Berusaha login /daftar dari juli .. sampai sekarang belum bisa",
+      "u": "https://www.threads.com/@xxhylin88/post/DfNCB7pkwc9",
+      "d": 1793546147000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Pemegang KKS Baru Bank Ini Terima Bansos BPNT Rp600.000, Pencairan Meluas ke Daerah - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV18xYmFCamp5ekZuR2lkM3FvUUF4cTc2RlViNUFfdktNODBLTk5hY3F5bGw5MEVhVmx1bDA1ckhhYjJhMTlhcEdaOVAyUHkzNU00Z1hnUl9FYW5nZEstRUtJVE9iSjh2Rkp3VjVtUHphRFo1a1d5Y1B6OTkxX0paZGR5dk4xWnBWQ0lXS1BRNm56clpGZjY2R0RiTUs1ZVBOYy1fTld2UWtqVlBuNDRoZzFxSXhIdmVXa3BTNklNWnpROWdrNUExOGN30gHPAUFVX3lxTE9TVUwwdjNybEZiOEZNQVRwZ09SLTM5TVEzZlJuWmpYcTV1T00yQTNac04xUktXZmtsbGxsRmp3ZUtiV2dVWFh1R0w0dHlUU2Nsc09xc3ZPQ284Znh0VkZjMEJGVDRhb09fN0N2MFloSXlzM3YyY0ZleGdLeEVJdnZoVG9QT01zWnJCYWEyYmVRVzJiTW9LNmRDZDJSVUxyck5hZldpaWlUdElNRHpKV2dVX1FWaWtON20yWEdCRm1jWVVURUo1eTFMN3l6d1NIMA?oc=5",
+      "d": 1793545215000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
