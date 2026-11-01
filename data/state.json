@@ -25699,7 +25699,9 @@
     "threads:DfLizEomGZo": 1793496936742,
     "threads:DfG48QHkkT1": 1793496936742,
     "threads:DarbqV5DdTb": 1793496936742,
-    "threads:DUOSP5pgcIl": 1793496936742
+    "threads:DUOSP5pgcIl": 1793496936742,
+    "threads:DVHUB99DOwJ": 1793497241553,
+    "news:CBMisAFBVV95cUxPWFB5Y0FBOGpSYXVNRjBQQzI0LWZJNmphNXAtMTI5b21MUXB2bGJoZVdxZDNhVnBWcDRyLWd0WUJERFFPbkpUNV9iak9hMDNHdGg4TVpkRWIweG9vTzViUzZ1R3V4SEdtcXpuWU5UZUk1TWFMeGhZT1VtMlBQdVpiNVlPZ1NLLWhSZ3FtNUY5VHhHRzdmOU81ekV3UlQ1SlppNWUySzJaRkxHSEd0SE8tLdIBtgFBVV95cUxPQTBXV2tfYkVvUHM0M1FoVGtCV1lpWmRQYjZDclcxZXN0ZWp1V3VpRWtNVkZ4eHRxNWZvZV8xUGhBY1E5bWJ5UnFjWlhVTlZTeklWZ01TdlBLOE44Nm9sNmZSRXQzVjAtdDhhVnZVX2Z2Z2llZV92S0w3cW5mdkV1dkpXOGlWdEU1dEJZS0ZEMnNlZTBud0RpZnoxeUlBWUQtenFWS2R6SVZwY21pWjRncVE2ZXVDQQ": 1793497241553
   },
   "digest": [
     {
@@ -25941,10 +25943,20 @@
       "d": 1793496218000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "7 Bansos Ini Diprediksi Cair Serentak Mulai Awal November 2026 - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFB5Y0FBOGpSYXVNRjBQQzI0LWZJNmphNXAtMTI5b21MUXB2bGJoZVdxZDNhVnBWcDRyLWd0WUJERFFPbkpUNV9iak9hMDNHdGg4TVpkRWIweG9vTzViUzZ1R3V4SEdtcXpuWU5UZUk1TWFMeGhZT1VtMlBQdVpiNVlPZ1NLLWhSZ3FtNUY5VHhHRzdmOU81ekV3UlQ1SlppNWUySzJaRkxHSEd0SE8tLdIBtgFBVV95cUxPQTBXV2tfYkVvUHM0M1FoVGtCV1lpWmRQYjZDclcxZXN0ZWp1V3VpRWtNVkZ4eHRxNWZvZV8xUGhBY1E5bWJ5UnFjWlhVTlZTeklWZ01TdlBLOE44Nm9sNmZSRXQzVjAtdDhhVnZVX2Z2Z2llZV92S0w3cW5mdkV1dkpXOGlWdEU1dEJZS0ZEMnNlZTBud0RpZnoxeUlBWUQtenFWS2R6SVZwY21pWjRncVE2ZXVDQQ?oc=5",
+      "d": 1793496905000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
