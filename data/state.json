@@ -25997,7 +25997,9 @@
     "threads:DfL4EIYk20x": 1793507447689,
     "threads:DTudH7yEzBa": 1793507447689,
     "news:CBMiugFBVV95cUxQZkFDa3hMSEkzOExnWTAyMnRxVWM3NXJ5N3pYSUFnZzVncTA2N3BmVkxJeXV4SU40VjYwOEtLVjhZbW1jZVBNdllVQXZBWGJuSU9zY3dzQWxBbnkxOUNBVDNqdmR4ejFWSmVsMExEeE1tdzZqVDB5YVdPeEdHVHNaVGg4RjlxbVd2bi03NFc4akZIQzFhS3Q3bmlxT3Ztb3I0VU9XV0xFdFRKRlc1TjVEcmNJY2pEVGNCTGc": 1793507447689,
-    "news:CBMilgFBVV95cUxNM01sbFBjT29sc0VZaXhyNFJuQldnQW9NaUdvSUhBNUVONUwyVndhVVc0Wm5nTWtrUGEzQ1NpU0lhd3hvX0pjR2xVM0twT1BmendxbGFKblBuWm11RGxHMlhnTXhkekFGWndPZzN3OUtSbEhSZFJQc3RzMGcwLUs0M2lGcVdQRzQ1Y01VSXlLR2dKaldhR0E": 1793507447689
+    "news:CBMilgFBVV95cUxNM01sbFBjT29sc0VZaXhyNFJuQldnQW9NaUdvSUhBNUVONUwyVndhVVc0Wm5nTWtrUGEzQ1NpU0lhd3hvX0pjR2xVM0twT1BmendxbGFKblBuWm11RGxHMlhnTXhkekFGWndPZzN3OUtSbEhSZFJQc3RzMGcwLUs0M2lGcVdQRzQ1Y01VSXlLR2dKaldhR0E": 1793507447689,
+    "threads:DfL4vnij5U8": 1793507743485,
+    "news:CBMi5gFBVV95cUxPZlN3b1RfUk53QUJrVUQxLUdoUFJVR05hdm1xOW15NFJ4ck9oRVh2MUFLa2RsLUwwbWdxVkRTRzVkMUNJZXhNRzd1WEMxS1pFSkJmSWFOQlhtalI0endpOHpVN21rSUpzVWU3WmxQTzI0NVl4YTR3aGFyd2Q3WWFvdzhVU2U4V2JGUHZvWUl2T0s1WFVJU2lFbXkyNlhBSDF3NzNEa1ltRTYza0ZtWGtmMVlWajA4SFBjYkJzRjV2LWhKWWhnWEtOc3BTMHFBWW9feHRRalZLVGFWRnNTR1g5R0lQY19VUQ": 1793507743485
   },
   "digest": [
     {
@@ -27119,10 +27121,30 @@
       "d": 1793507367000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@jepang_karier",
+      "x": "HOAKS: video bansos PMI Rp300 juta itu tidak benar. Video yang beredar di Facebook sejak 27 Okt hasil AI — 99,9% gambar dan 99,4% suara dibuat AI. KemenP2MI menegaskan, Kak, tidak ",
+      "u": "https://www.threads.com/@jepang_karier/post/DfL4vnij5U8",
+      "d": 1793507729000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "www.suarapemredkalbar.com",
+      "x": "Sudaryono: Banyak Yayasan MBG Jadi Calo, Pelanggaran Mengandung Unsur Pidana Akan Diproses Hukum - www.suarapemredkalbar.com",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZlN3b1RfUk53QUJrVUQxLUdoUFJVR05hdm1xOW15NFJ4ck9oRVh2MUFLa2RsLUwwbWdxVkRTRzVkMUNJZXhNRzd1WEMxS1pFSkJmSWFOQlhtalI0endpOHpVN21rSUpzVWU3WmxQTzI0NVl4YTR3aGFyd2Q3WWFvdzhVU2U4V2JGUHZvWUl2T0s1WFVJU2lFbXkyNlhBSDF3NzNEa1ltRTYza0ZtWGtmMVlWajA4SFBjYkJzRjV2LWhKWWhnWEtOc3BTMHFBWW9feHRRalZLVGFWRnNTR1g5R0lQY19VUQ?oc=5",
+      "d": 1793500557000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
