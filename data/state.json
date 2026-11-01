@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DaKEaBMj6Pf": 1792344338449,
-    "threads:DP9VJQAj2Fm": 1792344338449,
-    "threads:DB1Kw-DufZA": 1792344338449,
-    "threads:DdA2e6KE5qr": 1792344338449,
-    "threads:DehRH7ND0PI": 1792344338449,
-    "threads:DcDBLxTjtSi": 1792344338449,
-    "threads:DcDeTuDE3Q_": 1792344338449,
-    "threads:DepEPdLjFK5": 1792344338449,
-    "news:CBMi0gFBVV95cUxOQ1F3dnhWRkdmSHczZ1dqTlh0Y1k4UDdKSTZ4ZV85djk3dnF3MF9CbERBVFJCNlZ2Y3ZPWFRQTFFTek1qRTlTYy0zQ25RWl9kOEZ3NVQxY2pVV01pVDhheExoSUlsSmxOSXpUYkJkbVhhdE9ySEM3UjUtNEpVbmJvZlhqZ2NPR1JhZzNHbzQ0cHZJQkFsMnlTUGU5ZjQ1MVBMbUF2LWNMUVZHdmx4UXlodWoxbHZ0Z2h5c2lNaDRzRExVY3lIeFRDT2ZkOGg1SlhaOGfSAcQBQVVfeXFMTVdudHlkRHhzaTNHQkFLdjFibjRkZFZrcEpUUWNrWmxQQ3FSTGQzSlN4bklCZmtyLUl3NzBSMGZVVENfV1c4X016bTFhS1JQSTdxS2lpQzRzSjM1YWFLX1JmMF9MaVl3M1hlczd3X0tMcU1DMVdRQzJ0UmNpSjBIX0hLSjRHN1RoTUdkQVFBUEJiOW1yUXRpaUttUDlmcXNxZVJnbHRPeFE5RTBEWjg0YnNwbW95QmVOLW1sVVItREFUMHJMdQ": 1792344338449,
     "threads:DepN_xHicFe": 1792344649761,
     "threads:DepN6_NGU5K": 1792344649761,
     "threads:DeoLJVpER79": 1792344649761,
@@ -28418,13 +28409,14 @@
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793553340438
+    "reddit": 1793553340438,
+    "news": 1793553937351
   }
 }
