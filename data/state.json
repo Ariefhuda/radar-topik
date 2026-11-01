@@ -26532,19 +26532,22 @@
     "threads:DfMYt_ijXyw": 1793525137230,
     "threads:DfMYc3-AQrX": 1793525137230,
     "threads:DfMYTDsm4VG": 1793525137230,
-    "news:CBMivAFBVV95cUxOV2tQellxYU9acWxEbnREek1iOExkZzd4cDFQZUtQU204blpjNHBlQXM5NFlDTG1URE0wY1BRSE9XaWI0ZGlWd0hPczlKdTh3d2x6YmE2N3RLREN1cEpPeVNQOFAzR25Ib0w2UlIxdVRxYTdFZ2hpRDg0SnJlTWdLbXZ3OG5fQ2FrUEhaR0xneE1QbjFUYzI0UHVOUEVMYjdvRnUyeTJZMnJJVjRaOUhrMFQxMWJRZHVhbXBfMg": 1793525137230
+    "news:CBMivAFBVV95cUxOV2tQellxYU9acWxEbnREek1iOExkZzd4cDFQZUtQU204blpjNHBlQXM5NFlDTG1URE0wY1BRSE9XaWI0ZGlWd0hPczlKdTh3d2x6YmE2N3RLREN1cEpPeVNQOFAzR25Ib0w2UlIxdVRxYTdFZ2hpRDg0SnJlTWdLbXZ3OG5fQ2FrUEhaR0xneE1QbjFUYzI0UHVOUEVMYjdvRnUyeTJZMnJJVjRaOUhrMFQxMWJRZHVhbXBfMg": 1793525137230,
+    "threads:DP92rAMkz8W": 1793525468628,
+    "threads:C5D1q8aryq8": 1793525468628,
+    "threads:Cuke7gZvso_": 1793525468628,
+    "threads:Dcu_4e6E32S": 1793525468628,
+    "threads:DfMaGGvn1I_": 1793525468628,
+    "threads:DfMajdEiVFq": 1793525468628,
+    "threads:DfMaAUnGX_K": 1793525468628,
+    "threads:DfMY4aVARTn": 1793525468628,
+    "threads:DfMYzghAUK7": 1793525468628,
+    "threads:DfMYx_2H1w9": 1793525468628,
+    "threads:DfMYnC3lNc9": 1793525468628,
+    "threads:DfMYSqTmwxr": 1793525468628,
+    "news:CBMiswFBVV95cUxOOTRkNFRtNG5vWDZEeHdNVlhXMEVVYWtYNDJhb1J1QVlabEhZbERsRHpDd2FmU2luc2JGTjlzamNxU2lPWm5TNDBaRUZMVGh4N1k5SHhaVnZvNG4yZWE0NFdJZEUtNWNzY0F0dURPd05SaTZWaHVCbjBGZ2FXZ3JiejJQYTBtd200VzZFNkpxZGIxZmxHWmc5bmQ0NGVyOVliY29XWHFTV0F0WUtxWXJMdS1HRQ": 1793525468628
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "SuaraGarut.ID",
-      "x": "Kemdiktisaintek Buka Beasiswa Global Clinical Genomics 2026 - SuaraGarut.ID",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpcmZ5WmFhRV9qNHNEY2RlQjJELU5MNUw0X2loR1lVcEJQZFJFb3Y4bUM0REFROW1CWkVucl9hWHYwbzNHRXZZdUlmMnlFLWZDQjlvdXRwMUNyOE1QbGJ0R3VrelUzRHRiMUJIbA?oc=5",
-      "d": 1793509525000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28034,10 +28037,20 @@
       "d": 1793525203000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Deliknews.com",
+      "x": "Ketua DPRD Pasaman Terbitkan Undangan Rapat di Hotel Bukittinggi dan Padang - Deliknews.com",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTRkNFRtNG5vWDZEeHdNVlhXMEVVYWtYNDJhb1J1QVlabEhZbERsRHpDd2FmU2luc2JGTjlzamNxU2lPWm5TNDBaRUZMVGh4N1k5SHhaVnZvNG4yZWE0NFdJZEUtNWNzY0F0dURPd05SaTZWaHVCbjBGZ2FXZ3JiejJQYTBtd200VzZFNkpxZGIxZmxHWmc5bmQ0NGVyOVliY29XWHFTV0F0WUtxWXJMdS1HRQ?oc=5",
+      "d": 1793525412000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
