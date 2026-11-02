@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcDcA9QD9zV": 1792434940653,
-    "threads:DcPwqgWE1Mk": 1792434940653,
-    "news:CBMiwAFBVV95cUxNazZmay1YbzNveHAwMnFQUmsxRDlScjRPMmdSRnpRdmx3aGN1MnVGM2V1TGNkOFNXd2JXVTVaampycXVUekVIcngzZWY0QWY1OE1Iel94MFlRT3VvWWlpUjlFQUl4OGdST1Rqd0VxRU9mbm1lRnZ5RmQwNUhoZmlDd3liaGJwbWI2eXFEUXVGNHNYQUItSGF0bElVTHE3NlJBN2tKV05BOGk0TVlSenRNWURCVnhSbWNCdWVyeVNCN0rSAcABQVVfeXFMTWs2ZmstWG8zb3hwMDJxUFJrMUQ5UnI0TzJnUkZ6UXZsd2hjdTJ1RjNldUxjZDhTV3diV1U1WmpqcnF1VHpFSHJ4M2VmNEFmNThNSHpfeDBZUU91b1lpaVI5RUFJeDhnUk9UandFcUVPZm5tZUZ2eUZkMDVIaGZpQ3d5YmhicG1iNnlxRFF1RjRzWEFCLUhhdGxJVUxxNzZSQTdrSldOQThpNE1ZUnp0TVlEQlZ4Um1jQnVlcnlTQjdK": 1792434940653,
     "threads:Der6Fj9n8h7": 1792435251911,
     "threads:Dd_dz43GeuI": 1792435546084,
     "threads:DSyBDKdkzsN": 1792435546084,
@@ -27128,19 +27125,11 @@
     "threads:DfP762gD__x": 1793644258242,
     "threads:DfP70qwkrpx": 1793644258242,
     "threads:DfP7yaOmLTF": 1793644258242,
-    "threads:DfP89QLFjZS": 1793644258242
+    "threads:DfP89QLFjZS": 1793644258242,
+    "news:CBMi1AFBVV95cUxNRWFBcm1GY3NQMmpPOF8yWjNEc2ZHLUgyQWZfR0JraVpPc01SM1NKVmpCajNoSmNPQm9vR3FXTmhmTTdFWU03TzZ4dkloUGxjQ0Q2bHR2by1jZ2xwY25jel9RUWtRV21fb1gzY3QzRWFYeWswRXczVGkteVJNZHFQcFZ2bVlKd0FNNHR2c0RUa3REMS0zMXJJU3lsbjAyRHRIOV9hTnhoTEcteXNHTld1VWR4SWp2WUUxM29kanZaRG1haTFna1hNazNHMjRaSkdXTzJfZA": 1793644544970,
+    "news:CBMipAFBVV95cUxNcW90MVlJMm9BaUJTR1ROcnF1dzhGTmZhUlF3SmQ0MXJoOGNpVzNFR3BFV2ViRGl5OGVCbmNnTmRyQ0N1SWJCWHVtT0NrQ1Zwa1VRZFZ1bzhkRzhuaTJGblotajA0ZW90ZHQzWDdRU3NTR2xvRUlxYTdsV2hScWRxWmpaZDBCRkp0cHc1Z1lkQVVNRnlSUElhaG8welVDcWdHbFlGdNIBpAFBVV95cUxNcW90MVlJMm9BaUJTR1ROcnF1dzhGTmZhUlF3SmQ0MXJoOGNpVzNFR3BFV2ViRGl5OGVCbmNnTmRyQ0N1SWJCWHVtT0NrQ1Zwa1VRZFZ1bzhkRzhuaTJGblotajA0ZW90ZHQzWDdRU3NTR2xvRUlxYTdsV2hScWRxWmpaZDBCRkp0cHc1Z1lkQVVNRnlSUElhaG8welVDcWdHbFlGdA": 1793644544970
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "RRI.co.id",
-      "x": "BSI Scholarship 2026 Dibuka, Cetak Ribuan Generasi Muda Mandiri dan Berdaya - RRI.co.id",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2NfRTVjTXRNV0lwNlQxZWstWG44WTdJTFdQaU04ZkdoQ3VhZ2pNSkN2U2JoNHY4Vzk5Z0szTkx6VE9mSnpzSTZuVElOTkdsZ3hjaFlva3B6SlNMVjVmLUk3d2kxSHY5YktZbEpOSmNoRjBGY2VtN3ZYRmhObHJYR0l1YXNBTDNHd3RBZU5Hdm5ldkw1SkJ1YkNySTNtSWpUdG1pMHRUb3ZfQ0VTOG40RnNoekt6dw?oc=5",
-      "d": 1793622928000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28630,10 +28619,20 @@
       "d": 1793642289000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nova.grid.id",
+      "x": "Daftar Bansos November 2026 Ada PKH dan BPNT, Ini Besaran Nominalnya - nova.grid.id",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcW90MVlJMm9BaUJTR1ROcnF1dzhGTmZhUlF3SmQ0MXJoOGNpVzNFR3BFV2ViRGl5OGVCbmNnTmRyQ0N1SWJCWHVtT0NrQ1Zwa1VRZFZ1bzhkRzhuaTJGblotajA0ZW90ZHQzWDdRU3NTR2xvRUlxYTdsV2hScWRxWmpaZDBCRkp0cHc1Z1lkQVVNRnlSUElhaG8welVDcWdHbFlGdNIBpAFBVV95cUxNcW90MVlJMm9BaUJTR1ROcnF1dzhGTmZhUlF3SmQ0MXJoOGNpVzNFR3BFV2ViRGl5OGVCbmNnTmRyQ0N1SWJCWHVtT0NrQ1Zwa1VRZFZ1bzhkRzhuaTJGblotajA0ZW90ZHQzWDdRU3NTR2xvRUlxYTdsV2hScWRxWmpaZDBCRkp0cHc1Z1lkQVVNRnlSUElhaG8welVDcWdHbFlGdA?oc=5",
+      "d": 1793601767000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
