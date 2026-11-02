@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesZtkvE_K4": 1792451459016,
-    "news:CBMi4wFBVV95cUxPaWR0T2gyam4xdktBSXRMbFZxeUU4bEtBRmQ3cnY5cXUwYmFfajY2X3NQNVVERVBkcU5Nc3phSWxXNUIxZmFwMENnbDFHWDVyb1FpVU9KS0xsTHpmZmVuNDBSU0dwM2xJZ0FUZDIwZ3hTbG0wdG9YdXNKRG5TLW5EQ3RkX2xRVmR0d1praHlFSTJJY3lQNUdCcDdqSkl4VjEtU0o1U0kzQWxmSF8zak1xM1JRMVJISGhramU4WGxnelQyMmlyVkF1M3UwS3M2Ym9keVdYU1NLU0l6TUw4TmsyaHBQTQ": 1792451459016,
-    "news:CBMi1gFBVV95cUxNeEtYUWJrV0ZXdWtSajRBaHZWaFNPdjd4RC0wZVRoU1psUG5qbXJSdzBQV1JpaEV2R3lJTWdtZUljZHcyREpFbWdqTkkzRWRybUJ5WWI5LU1WYVdwTVloazhlcW90TllMTHBzM0MyZTk5cWpCcElKNGdVTV96ZkhPZk9ZRnNqSWNWSGtFSEVjWFhHQjlsU0VhOC1ZdUNMU1JpYXgxQkJ2Zmhtc2YtVGVxWGhLa2JvR0FkaGktV1dLN1hPa0FSeVN3WnVsU3FEOEFaY2pSQWx3": 1792451459016,
     "threads:DesaIX8k_N_": 1792451741886,
     "threads:DesZjegk2ZV": 1792451741886,
     "threads:Desa4FDkxON": 1792451741886,
@@ -27189,29 +27186,19 @@
     "threads:DdwjrrRks5M": 1793660461034,
     "threads:DfQb1mqk5I2": 1793660461034,
     "news:CBMi3wFBVV95cUxNUnpWdjdsWng5NUhUTmtGZFBEVVlYSXVXa1FPX0ZCc1pkcHRBQ2xCRHNhVXI3UU4zbldqcDN5YkNTZXlobHR4bUZZMFFnZHQ5bHRZZjFmODFiQzZpaURWNVljMGwzNzExRHdrOURUVHYxRmc2VEtDWlJUUk9Pb3JtYXVjZVFvSDlXOFFPU3hCQUNiMndjRUpjMzdQRTlPaGdVWG5zWUVsbTlPcTRGcXhKbk1SMHk2Rno0cS1sSnlweEZhV2VPWEZxazB6N2xrSnZjYmVrQ3N5cm9RVnJFcWFv0gHkAUFVX3lxTE1MZnNtLUFqUWhTR2RQWS1SZDdaSjM5S3pEUkJuN0sxV0o2WkJlaUVWZUhjbnlaLTRrZlB0ZVdnbldqUUNNWTViZWljZHFEN01FZlRmLXE3eDQ0UWdGNU13UnVuUkMxWUdBWW5ZMGhkQ085NnVQb21KcnpYZmVGTHo0aGxmb2lrNUpodE1WYTZvRVh2TGhjamlhQ0pNLUpqVXJ0VDJHWXdSSFpIVzlNaWxfOHlNQU5lOVl6am1QX0xLOFdnU2VoLVdQWk1MZmRONXQ3NXBIV2hIWm5WTEU2a0VYQ0hNVg": 1793660742205,
-    "news:CBMiwgFBVV95cUxNRklvam9KeUwwSlN2Z1lTcnlGZloybXNwUGZMWk9tRnFGcTU2Z0lZMEMwNTZDSFpKYTJGNGJZRHBFMVNhcXpzQ0pnS1FRRTRaVW5Va1o5REZEREZnSDI5SW10VXB3UmpDM1I5SzdOaE9lX3c5MHVwdFRxbFlidVJqekozbHhPa2dBU21peFh4X3Z2WE5iT3Q3b2tzYjVydEFBU2Z4TGxfcTdaVGxQTERvWVY5WFdDdXN6ODJmcTdnM25zd9IBxwFBVV95cUxPUE5od0lLR1d2ZUNfWWl0WnJMSkRXXzZvcFByaEQ3MzdiN2JVVE1qMXRtRndFUzU1VThjbGlNTWdFZXBvalZuZWVMZjhwYzlaSWQyQWQzSHRtZUZqTFpKM21FSTNadWlEbjdBMDBJaDNyclZLT3BtWUR6cG5pdHZJODV0b0hXdVExd1NfMFNmekROc1NzQnpiTzdpN20tNWtKMDlsRjdOR2g0S0VjN3VPX2w1bW5uZnFxT1JBejUxNzI4ZnNQZVhn": 1793660742205
+    "news:CBMiwgFBVV95cUxNRklvam9KeUwwSlN2Z1lTcnlGZloybXNwUGZMWk9tRnFGcTU2Z0lZMEMwNTZDSFpKYTJGNGJZRHBFMVNhcXpzQ0pnS1FRRTRaVW5Va1o5REZEREZnSDI5SW10VXB3UmpDM1I5SzdOaE9lX3c5MHVwdFRxbFlidVJqekozbHhPa2dBU21peFh4X3Z2WE5iT3Q3b2tzYjVydEFBU2Z4TGxfcTdaVGxQTERvWVY5WFdDdXN6ODJmcTdnM25zd9IBxwFBVV95cUxPUE5od0lLR1d2ZUNfWWl0WnJMSkRXXzZvcFByaEQ3MzdiN2JVVE1qMXRtRndFUzU1VThjbGlNTWdFZXBvalZuZWVMZjhwYzlaSWQyQWQzSHRtZUZqTFpKM21FSTNadWlEbjdBMDBJaDNyclZLT3BtWUR6cG5pdHZJODV0b0hXdVExd1NfMFNmekROc1NzQnpiTzdpN20tNWtKMDlsRjdOR2g0S0VjN3VPX2w1bW5uZnFxT1JBejUxNzI4ZnNQZVhn": 1793660742205,
+    "threads:DfQcQwEsSSf": 1793661045494,
+    "threads:DfQcIpzkVwK": 1793661045494,
+    "threads:DfQbtYrAndZ": 1793661045494,
+    "threads:DfQbYiwjq8H": 1793661045494,
+    "threads:DfQbRwwgiT_": 1793661045494,
+    "threads:DfQa04fje4Z": 1793661045494,
+    "threads:DfQaz1ogVHH": 1793661045494,
+    "threads:DfQaql9jIXv": 1793661045494,
+    "news:CBMieEFVX3lxTFBjVEdUcUdnWTctanZpbGtHSW1tUHVxYUdmbHE3YjZNNmZPcm5URVBmMHNPTjdwaHhWVm9Jb1pjNTNwM0pGUG9xUU1RbmJrQUwtQlNldUFWZllMeFF0U1NpRTBqb1VaN0Y5V0F2RFB3NnNOaVBwOHBDNQ": 1793661045494,
+    "news:CBMiuAFBVV95cUxPcVNac1g0RlZHTTd4R1QxSXRtRVlVRFZFVWJsNnI3d2JHVmRIWVg0R0Z5UUlMb0hBUTUxN1R4emxhMnBudzFOelBxUmdCMC1XQ29ZbG1QMVRLYWd4MzBXMEtLdXk3UXV5QjA2YWMwMkh4RWFFODZtNHFReFVnc0swVUN6YXphb0g1aV82SHMtS0pOcFljUjNSb2dTcFJ4SUFpTjU0dXVvX0FoVC1PZVlHZlhmQlMtMjg40gGoAUFVX3lxTFBSNWlDMUM3QTdzdzhTeXFnQ1NTTW1yUTFveDdDNDhFcUFtczRvLTZadDFJd19qZlpvbktjTEN0ZGlZamRaMjQ1dXVvd0FhOE1yWWprMUJ5MXFNc3Fid2FpbGMwMVhicXVHVjFxS3lPMzRvZVlGOEIyMEp2NUZTZWtWc1o4eDJhbFVQR1lSbk9yeVRESmtmakJKREtfaExzNHZSd0tCNnN4UA": 1793661045494
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Antara News jatim",
-      "x": "Kota Madiun bagikan 5.368 seragam sekolah siswa SD-SMP - Antara News jatim",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0J0b1JnR0U1QzBIS0xQS2ZaVDI0MTFON216Z0NVTVpWR1RHSVY3UTFIbEktU2RmQWZ2WnFSSE05S0RTTTdHdFZFT3ZOWWJ4c2xxQk9lbTNWcVZFMXlzQVowR2lPSHI0WXlSZlVXd2ZnbE9lRXlQdllNdTFEX0FxaTNOX1VyMGdHdFI5a0J0S3AzeWU4Ul9qMThtZ1Rhd9IBowFBVV95cUxOYlFQUlRhVVhOWnBtX0poUzA1YlRCM3J2aUlXZmdBb1pYeGtWMlhnc2tfdVJYNEpCUVdXbGF4VU5VXzQ0cTNMbWhNZUtWaU8tTUZqUWxpSHJZQnhab2JLUWZ5QWlQM0Ixajg0RGxZd0JiRnY3RTdremJsR3plXzE0Qk9LSjdTYXNjd2RrWV9MZFAyS1ZXR1RIeG82YWpNMHhKT2dZ?oc=5",
-      "d": 1793627923000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dutametrocom",
-      "x": "KERJA SAMA STRATEGIS! 🤝 > > Kemnaker x PT IWIP perkuat SDM lokal pengolahan logam berat di Halmahera Tengah! > MoU 2026-2028 ditandatangani Sekjen Kemnaker Cris Kuntadi & Presdir ",
-      "u": "https://www.threads.com/@dutametrocom/post/DfPgPbgEs67",
-      "d": 1793629095000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28691,10 +28678,30 @@
       "d": 1793657400000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "BeritaTrans",
+      "x": "Kemenhub Bongkar Fakta Truk Molen Maut Bekasi, 6 Tahun Tak Jalani Uji KIR - BeritaTrans",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjVEdUcUdnWTctanZpbGtHSW1tUHVxYUdmbHE3YjZNNmZPcm5URVBmMHNPTjdwaHhWVm9Jb1pjNTNwM0pGUG9xUU1RbmJrQUwtQlNldUFWZllMeFF0U1NpRTBqb1VaN0Y5V0F2RFB3NnNOaVBwOHBDNQ?oc=5",
+      "d": 1793655454000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Ketik",
+      "x": "Hashim Ungkap Pajak Digital Berlaku 9 November, Bank hingga E-Commerce Ikut Terlibat - Ketik",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVNac1g0RlZHTTd4R1QxSXRtRVlVRFZFVWJsNnI3d2JHVmRIWVg0R0Z5UUlMb0hBUTUxN1R4emxhMnBudzFOelBxUmdCMC1XQ29ZbG1QMVRLYWd4MzBXMEtLdXk3UXV5QjA2YWMwMkh4RWFFODZtNHFReFVnc0swVUN6YXphb0g1aV82SHMtS0pOcFljUjNSb2dTcFJ4SUFpTjU0dXVvX0FoVC1PZVlHZlhmQlMtMjg40gGoAUFVX3lxTFBSNWlDMUM3QTdzdzhTeXFnQ1NTTW1yUTFveDdDNDhFcUFtczRvLTZadDFJd19qZlpvbktjTEN0ZGlZamRaMjQ1dXVvd0FhOE1yWWprMUJ5MXFNc3Fid2FpbGMwMVhicXVHVjFxS3lPMzRvZVlGOEIyMEp2NUZTZWtWc1o4eDJhbFVQR1lSbk9yeVRESmtmakJKREtfaExzNHZSd0tCNnN4UA?oc=5",
+      "d": 1793638860000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
