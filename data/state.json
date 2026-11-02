@@ -60,27 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqWYl4k79-": 1792382449232,
-    "threads:DeqVyrIAdqO": 1792382449232,
-    "threads:DeqVq5nAQrU": 1792382449232,
-    "threads:DeqVjifGFiM": 1792382449232,
-    "threads:DeqUeqcksyI": 1792382449232,
-    "threads:DeqURcck46J": 1792382449232,
-    "threads:DcsLNr2Eogb": 1792382449232,
-    "threads:Dd8nBhvmZhL": 1792382449232,
-    "threads:DeqWW5TjKvl": 1792382449232,
-    "threads:DeqVhKnmlCp": 1792382449232,
-    "threads:DeqWDhYINBk": 1792382449232,
-    "threads:DeqVMjik_DM": 1792382449232,
-    "threads:DeqVJptEzEv": 1792382449232,
-    "threads:DeqUN8lk2Hh": 1792382449232,
-    "threads:DeV-nVAEhon": 1792382449232,
-    "threads:DeqWgTADcU2": 1792382449232,
-    "threads:DeqVoUtD-K3": 1792382449232,
-    "threads:DeqVoWCjxCd": 1792382449232,
-    "threads:DY8vjqpE_NT": 1792382449232,
-    "news:CBMixwFBVV95cUxOcDRVSFloaUd4QjZKaGJ0a2RKdmRBaVBUZDdZZUhwZzA5MXJFd05hd05ORUF5WWluU1BWMDYxUmxFNzQ0X3lVdGtBVWpsMXFibTFDS3JRTUxOY0gxRF9kUjZOQV84a3U5dmNJZnRJUXB1QjZVZV9pMHFCZzhUYWxDQmt6LWZkQlVLZGI3UU0tV1k1S0h4NW9MYkxIT1Jlcjh4Y2RvVTBDUUpManBMM25DV1JXUmJqX2RNTndpZDVURlN1WURYaTlJ0gG6AUFVX3lxTE8yZnZvd3Y1eFZISTA4YnJ1WXRMZTd6ZHljMkZFMG4tTmpOXy0wSl9ESzV4RXNLNVpNbWlQdGgxRGJiejl5MG05ZTBjNXpGMGNjak5TTU1wUnJVcjlpZ3k4NG1tYkxtUE5OYV9QekcyX0Q2SlAzdUctNWIwRmJ2ZEtpNHA0Z2pnazNRbnpLTzBEQWdrS2ZmbU9qNml5MVl1RW1rZG45S2JNUXpGSWZHbm5ITTlLNGhfNHpSdw": 1792382449232,
-    "news:CBMirwFBVV95cUxPR01yeUJvdDQ3VWVSM3E3V0xkY3NGaUNUWHZXdWdFMTF4OUFGWjJibXl0c0RpdDNxTkFIcjhuZEMtdy1OX05KeW1vQ0VlS0F4MmdlVGtfVVFnam8wZWlZTTl4Rk1uLXdDM2hVV1lVSl9CRDZFUDZBUGFRX3ZBRGd1S2l0dTh3ejNmX0lWYldfSzZfSU9hT2cwTlBiRHkxQno5cFRiU1ZTRlY3djlRbjBZ": 1792382449232,
     "threads:DeqW5LWldMA": 1792382738895,
     "threads:DeqVj6WFAmk": 1792382738895,
     "threads:DeqWhemk9yX": 1792382738895,
@@ -26949,7 +26928,13 @@
     "news:CBMingFBVV95cUxNTVdYRTNGU1BYUXJhYmoxQTZPSXZDdzc1bDlLMnZ1ZUp2X2JILTJWWUczY1RRb1RPRWlGVGZZY1RzQ2I4UzZILUNUY3lyalZKc3pQMTZuZW9VVTllR3g0a01oa283VkVUMUtMM1dLTFBkTnRNUWxyLXNPcHJWaksySEpFRnc2M3B6WjRHUjRfTXRnT2M4WUNOOEItbUtNdw": 1793591742455,
     "news:CBMivwFBVV95cUxQaWw2VXV2cXVwb3JobnpLTzdEWm5hZ1A0dGdvUllXbEsxbG45UTNPaW01LXFJc0RhSzIwLTltSVFXSWFmajdtSU9feUNoSTY3WWtmajhOUXp2elJhX2RRc205dmEwWU1paUxLY2VlQ3dIX3VYZVRBNy12VXY1UmQzcXpGWDBFalRoaVZOWTV0cjZ5Q0J1MFdKNlMyZ1U4ejcza0YzaXBUQUUzZndRQ25pTVFJWElFYVU1eWpkd2hjZw": 1793591742455,
     "news:CBMihwFBVV95cUxONGRIX2FsVHNlVXk1T1V3TG1abHdpc0o0ZFY5YmVMdHVLRWZReFhnZzNvM0FpajQ0akdZeWtrZkZIR2FURDA1VUdUOWlYY2F3QWl2ZDVnVnEwUXRzQ3dHYzY1NkJtczNRWDJzVXpmaE5wd2VveTdTV0NRMEVkNDBxbmRhQ2htNk0": 1793591742455,
-    "news:CBMi1wFBVV95cUxNR0FLVmxPZ1h5MFhXMkxPbFZKamJqWWJGMWN0N19wY1RGYTI1enNUZlY2Mk91bjNyQzZ4dzFuUXBzMmR4VHV2Nmd1ekJwZVl1MF9LcFZlMFVsd1pSbU9yWGF1NlJ1ZjVfbW4xWGZxLUpBZkl1LU1zNE80cTk1T1A3djhKNTk1cllBWjFpNUUzMHBGRFAtRlFBaDYxejZzYVp6RFJ3U1lsSlJJN3owQ0ZBSUVJRUNtUXdpdV8zTjBZU2tWLVpwWW42OFVrZXlPZnBIUE5FUFZ5OA": 1793591742455
+    "news:CBMi1wFBVV95cUxNR0FLVmxPZ1h5MFhXMkxPbFZKamJqWWJGMWN0N19wY1RGYTI1enNUZlY2Mk91bjNyQzZ4dzFuUXBzMmR4VHV2Nmd1ekJwZVl1MF9LcFZlMFVsd1pSbU9yWGF1NlJ1ZjVfbW4xWGZxLUpBZkl1LU1zNE80cTk1T1A3djhKNTk1cllBWjFpNUUzMHBGRFAtRlFBaDYxejZzYVp6RFJ3U1lsSlJJN3owQ0ZBSUVJRUNtUXdpdV8zTjBZU2tWLVpwWW42OFVrZXlPZnBIUE5FUFZ5OA": 1793591742455,
+    "threads:DfOZLl2kryj": 1793592051507,
+    "threads:DfOXrB3gNk3": 1793592051507,
+    "news:CBMiywFBVV95cUxPVnpjOGxjSUNaZDR1UGYwX1hMdDlSV0ZwaTA0YmZHNmJsc18wTGpEUUxsd1lCRml4QlVtWnRSUUwxUmhTdWhrQWhEYUhuT1dESW84NXdyMUwxNUFHbVo0UnlwdmtLMkdsVlRDR2JnVWZFTWpqbzI0NEhnUzB0TFNZY0RXSWRxNTU4cHc4MFg0amszOGxiM0Y4bmdhQ1I3eWNKSldSS2pIT01VQm9LSXpfZUxmQXhSbFNYYXlVLVNMWk4yMGFHTnk0THNDRdIBywFBVV95cUxPVnpjOGxjSUNaZDR1UGYwX1hMdDlSV0ZwaTA0YmZHNmJsc18wTGpEUUxsd1lCRml4QlVtWnRSUUwxUmhTdWhrQWhEYUhuT1dESW84NXdyMUwxNUFHbVo0UnlwdmtLMkdsVlRDR2JnVWZFTWpqbzI0NEhnUzB0TFNZY0RXSWRxNTU4cHc4MFg0amszOGxiM0Y4bmdhQ1I3eWNKSldSS2pIT01VQm9LSXpfZUxmQXhSbFNYYXlVLVNMWk4yMGFHTnk0THNDRQ": 1793592051507,
+    "news:CBMiugFBVV95cUxPV0tpcEZDbGZqOFNWaG9Dc0ZLSlZPam9LZEowLXRQZmp0Mm5PWVBhaEdnRy1KdVF3RTl6RmsxM1YyY2EyNTBqR3pXNm5hRkhNbU9aZ05ETkxfMDc4S0c5dTQ4V2cxRGdFOWhaVFQzSFp4dm5WRVNrcmViSGdfY3BfaE9TWGNfalU5S3RqM25iakZrVXlydE9vMXJKcndiVU1HTElITXRkZmFrbm5hc0Y0aUlXQnB5eHN3UGc": 1793592051507,
+    "news:CBMiogFBVV95cUxNVXp3SG8teW0talZlMlFqQmZhV3ZzMUluSVFmNzJqUjJtaFBtN2UybEZrTUo5RklLSzFUeC1PNEVsZGdJczFLdDFXMmNKZWthQWhPRG5uY0NjNEZJTndndGxEN3UwOGtWb2ExblNtd3l3NVZ1MFNhMjM4V2pxbVhLZzUwMG12LUFtVVpRWE04TVlsQ2NIYUdqRmRYTzdpN1hIOXc": 1793592051507,
+    "news:CBMiuAFBVV95cUxOamNaTUwzY29zZzdFZ1ZtRGFlRWU0M0NLVENMeTNKbldfY3NFdEM4TlFtaTZOSVp4cWk3T2NfQllrNWttNU9ON0FlRzBhY1FCQXRfWVFFbkswUF9sRlU2djBiOXRhUUdnWXZ5THpGREluZDhRMjVaNWZwd1VuUVNPNnRtT0NtaFZQVFA4N2Jva0syZThTVEZoN3Q5RnBqS0ptS3EyemYyN0ZUMURGQ2dDUzFQclJ1VmlD0gG-AUFVX3lxTFBEdU5SRF9wUXdjNTBjQi1HWkQ2ZjVQMDl4bDF0WnZET3ppZkJLVzJEM0JVNHZPbHhZancxQnJnVlZYUkJwMUpaZ3RxMUxNWGg0TnhPU0w4Z2FKOEpoTHc5c3lkSmpiUTNYWEJfZFVhRG8tZU1XOEFSVVJzOHdtaThTNmRKM1M1MTUwZ1hPbjM5QnFuXy1oNEp6MVFxYzBkTnBnaHhIbUthSkstaFVCV1dtNmtVVXpnaUtTbUNOMXc": 1793592051507
   },
   "digest": [
     {
@@ -27921,10 +27906,60 @@
       "d": 1793587903000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lpdp_ri",
+      "x": "🎓 Mau kuliah di kampus kelas dunia dengan peluang beasiswa yang lebih fleksibel? Coba lirik LPDP Co-Funding! Ada kesempatan untuk melanjutkan studi melalui program LPDP Co-Funding",
+      "u": "https://www.threads.com/@lpdp_ri/post/DfOZLl2kryj",
+      "d": 1793591839000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kalau ukurannya \"mensejahterakan dan mempermudah\" sehari-hari, itu juga didebatkan karena definisinya beda. Banyak yang menilai era Jokowi lebih terasa di akses dasar jangka panjan",
+      "u": "https://www.threads.com/@meta.ai/post/DfOXrB3gNk3",
+      "d": 1793591048000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.tv",
+      "x": "Sudah Masuk November, Segera Cek Pencairan Bansos PKH-Sembako Tahap 4! - Kompas.tv",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0tpcEZDbGZqOFNWaG9Dc0ZLSlZPam9LZEowLXRQZmp0Mm5PWVBhaEdnRy1KdVF3RTl6RmsxM1YyY2EyNTBqR3pXNm5hRkhNbU9aZ05ETkxfMDc4S0c5dTQ4V2cxRGdFOWhaVFQzSFp4dm5WRVNrcmViSGdfY3BfaE9TWGNfalU5S3RqM25iakZrVXlydE9vMXJKcndiVU1HTElITXRkZmFrbm5hc0Y0aUlXQnB5eHN3UGc?oc=5",
+      "d": 1793587200000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "BeritaSatu.com",
+      "x": "Bansos November 2026 Cair? Cek Status Penerimanya lewat HP - BeritaSatu.com",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXp3SG8teW0talZlMlFqQmZhV3ZzMUluSVFmNzJqUjJtaFBtN2UybEZrTUo5RklLSzFUeC1PNEVsZGdJczFLdDFXMmNKZWthQWhPRG5uY0NjNEZJTndndGxEN3UwOGtWb2ExblNtd3l3NVZ1MFNhMjM4V2pxbVhLZzUwMG12LUFtVVpRWE04TVlsQ2NIYUdqRmRYTzdpN1hIOXc?oc=5",
+      "d": 1793592000000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "PKH BPNT Tahap 4 2026 Sudah SPM, Kapan Saldo Cair? Cek Infonya di Sini - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamNaTUwzY29zZzdFZ1ZtRGFlRWU0M0NLVENMeTNKbldfY3NFdEM4TlFtaTZOSVp4cWk3T2NfQllrNWttNU9ON0FlRzBhY1FCQXRfWVFFbkswUF9sRlU2djBiOXRhUUdnWXZ5THpGREluZDhRMjVaNWZwd1VuUVNPNnRtT0NtaFZQVFA4N2Jva0syZThTVEZoN3Q5RnBqS0ptS3EyemYyN0ZUMURGQ2dDUzFQclJ1VmlD0gG-AUFVX3lxTFBEdU5SRF9wUXdjNTBjQi1HWkQ2ZjVQMDl4bDF0WnZET3ppZkJLVzJEM0JVNHZPbHhZancxQnJnVlZYUkJwMUpaZ3RxMUxNWGg0TnhPU0w4Z2FKOEpoTHc5c3lkSmpiUTNYWEJfZFVhRG8tZU1XOEFSVVJzOHdtaThTNmRKM1M1MTUwZ1hPbjM5QnFuXy1oNEp6MVFxYzBkTnBnaHhIbUthSkstaFVCV1dtNmtVVXpnaUtTbUNOMXc?oc=5",
+      "d": 1793587752000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
