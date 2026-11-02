@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqMfn5mYUU": 1792378542849,
-    "threads:DeqOHSaEuSA": 1792378542849,
-    "threads:DeqNPjVkhM4": 1792378542849,
-    "threads:DTueKwLAV2G": 1792378542849,
-    "threads:DeqOHyHGoJY": 1792378542849,
-    "news:CBMiswFBVV95cUxNdFBQemFaV1JiRmNNR1NSWE9VbE5DWGxMZEJLUXYzYkpCaGYtVHFLXzVoM3lqSFFFVUhmbVFnY2JhSGNILWF3NlQtZ0tOMGc0TmJnYWN5dnp5MW4wQVZuWUpoa0RlUl9XWUNvNXZfdjlFS3V5WUxTbEcwNDVIY0VvT3dwZGpuN3FMSjU4c21YUlVud0dnV2pKWkdhTlFfOC12TTNSWG45cFNqRjhwZ3MwdTVva9IBuAFBVV95cUxNOVBEMWdrNDFhMkFPZEl5Q2pnMEQxVWpqQjY2STZOdkRGYWN2N1VSNVZyN1d2TDZlNHNVSFJXUWtmeG9lLXpYUkJLZmFvZ3MxbHlobkh0aXRGTDRudTI4NWgzZkFPT2RjMHhOX1A2aUhFaU1CTW9IMEl4RWU3VFJiWUpyWmtHREJZTnZYRHFpcDh0RzFHRW9RWmpaTWw0SWhWZnFzUmdKV1c5Wm5pOHNzRURxRDU3OG16": 1792378542849,
     "threads:DeqPq_HEwKd": 1792378856465,
     "threads:DeqOt0cCJJ5": 1792378856465,
     "threads:DcG4U1cifVP": 1792378856465,
@@ -26882,7 +26876,18 @@
     "news:CBMixAFBVV95cUxPMXIyNTltNjBZSWhFOFlUV3BGOUdVSmlaZGkyU0VNcVBCOUpCdFJ3Z2RuaWhFbDBYNGVaYjc0eGlCZGJ5TUNoYk9sZHBibmVtV2dIVl9LMnlhNVY0OE90bWdBSGdHTXNwTTlaNmd2cGN3N3RnVVdYdURnYmhYOGZOM2lCNWdRTEVKTUZrcG1XREFZX3U3VFM1bVlVX25QWHZIUm9vbmc2NnZoV29PUXdwc1dVNDY4NnVWMHQ3N2xuajdwMUFI": 1793587839624,
     "news:CBMi3AFBVV95cUxOdnc5TkZJcXRiRS03UmJldEtXMWhnQWVIMVVQYU01ZzBvUlFaa0VBNnVSaDNxcnlTa05uVDdVaDZsdHVwUExyMGllZVdwQkpMMGhIalBlaTVzdEFUcFFGcUJZX3U5RDg0M2M3YkRZTjVieThoNzZpbk9aeTBfUzlQeFM3OTBYdmlZeXRvNlc4R1ZfcG1Bb2p5cGlzOXBuNTlfSHFLTHhBenhjTDIyVXZlR3lhQV9MSHo3ZTFyNWRSWERJRW5YU1JkYWhnNThiRUFad2RMX3BoaUxfR3A40gHiAUFVX3lxTE9Ma2dqUkh2RkVicks3WGtUMWg1V0VUTjAyRmp3MExnUVVpVXBETkVaVzRJaGpGSkR3MS1iUy1aM1NGYnFyUkM2VEhNWmR4X0lBOFdwNzQyemVsa0tCVjI4UXhqOGtVLU1mUmhWYmhJOE1Ed3c4TnNfYVZKRmVCWWo5d1BjUUlwQ0hCRUtFbGNnbG1sN28zU3ZXbHJmNzlXYWxLOWZaQjNGN3MwR2tXcEU1OVYtSEtPbmxUdEpONE5uaUlJcTJqdi14Ny1rTktlYWt1SnNYakM3aUhPLXZjM28wckE": 1793587839624,
     "news:CBMiZ0FVX3lxTE5xeEswbVNwaU0tRjVmelItWG9sNktOQ2tiZE5aLVJZeGdQWWFqa2tudFBodjJHUjR4aDFocDdqaFRyNDd5enNfUE8tTGdmVVhScDRWRGVodlZUV2xEc0JSU3RvMGlJbkk": 1793587839624,
-    "news:CBMiuwFBVV95cUxOS1RPMWp3WjMyQlVHTVo0WERmbU9QNzc2Q1FwWXdoREs2dHQtSGNHTGFQbVJtb3lEU1ljbHBmcjhTT1pPN0Ezc1BXOGx2OVF3cUMwdFR6NGtwYThrdlRJOHVuS1Z3emJaRkt5S3BiMjlOWlNSNEZpal9sWC05TzBzWThpNEp1NExkQVpJY1hIQnpFcHRhUXppWmlDSGVQeldyUzNfbUQ2dEdUUU9qX245TFZhTDB3SkI1VS1j0gHAAUFVX3lxTFBxUUxMZk91RFVzNm9DMndINUcteDRrNzFwT1pvVllBWWFLQlZWbkRwaGttYnFFd253bFVRLWlqcHpkN05MT1I1MTk5TFFrYnlIOS16VG80MzlRUlFYQ2RZRThidjBHQ2VjLTg5ZDdhaWV1X3pta1VEeVFoZS00YXpXSXNHR3RDMjI3bTNLLXhEcDAyY2czYnF4eDlfYmtMVmVBUkJsSzVEM3B1S29lbTk2ZXY2dFdTZVBNcTNKZDBRVA": 1793587839624
+    "news:CBMiuwFBVV95cUxOS1RPMWp3WjMyQlVHTVo0WERmbU9QNzc2Q1FwWXdoREs2dHQtSGNHTGFQbVJtb3lEU1ljbHBmcjhTT1pPN0Ezc1BXOGx2OVF3cUMwdFR6NGtwYThrdlRJOHVuS1Z3emJaRkt5S3BiMjlOWlNSNEZpal9sWC05TzBzWThpNEp1NExkQVpJY1hIQnpFcHRhUXppWmlDSGVQeldyUzNfbUQ2dEdUUU9qX245TFZhTDB3SkI1VS1j0gHAAUFVX3lxTFBxUUxMZk91RFVzNm9DMndINUcteDRrNzFwT1pvVllBWWFLQlZWbkRwaGttYnFFd253bFVRLWlqcHpkN05MT1I1MTk5TFFrYnlIOS16VG80MzlRUlFYQ2RZRThidjBHQ2VjLTg5ZDdhaWV1X3pta1VEeVFoZS00YXpXSXNHR3RDMjI3bTNLLXhEcDAyY2czYnF4eDlfYmtMVmVBUkJsSzVEM3B1S29lbTk2ZXY2dFdTZVBNcTNKZDBRVA": 1793587839624,
+    "threads:DfIWCL6EwDu": 1793588137894,
+    "threads:DfOQ9hHnzF0": 1793588137894,
+    "threads:DfOQ498H_9C": 1793588137894,
+    "threads:DISTWAYTERo": 1793588137894,
+    "threads:DdVjtO3kkB9": 1793588137894,
+    "threads:DfGb_2XCcNC": 1793588137894,
+    "threads:DfOSQjyj7IP": 1793588137894,
+    "threads:Dd3mjD5CQTj": 1793588137894,
+    "threads:DEHUMXyy6Kh": 1793588137894,
+    "news:CBMikgFBVV95cUxNTERqTlRYamVPX2FVQ3FjTGVEbHZOVDVabnMzV0phcUdZMFVuSFowMWVJZTlxMm9yTlZqYnROR2hEbV9Cb0lXRFR0NV93Z2RWZWRmcEtmbjIxZkZJZHh3dWdDNEhhT0VCMlotbGZwcnI4ZFFLWGU3aVhoTlZwck9yVzNFUGNVMzI1ekhkNDl6SVQ0QQ": 1793588137894,
+    "news:CBMiZEFVX3lxTFBLY2VWVWhXSFBzaXZVRWRtcFhXTngyUXRHV0gtTjhEVi1Ld0QtOXZHUnZJZ29HUEJLa2dVQUctUnY4VFhqWldRMEdZdm9FVVRsZElhbDl6dUV6bFkzTVlTOGR6ak8": 1793588137894
   },
   "digest": [
     {
@@ -27284,10 +27289,50 @@
       "d": 1793585539000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jakarohmana",
+      "x": "Anak usia berapa Bunda? Boleh ikut Webinar GRATIS RAHASIA OTAK JENIUS ya, link nya di bio boleh dicek",
+      "u": "https://www.threads.com/@jakarohmana/post/DfOQ9hHnzF0",
+      "d": 1793587529000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jakarohmana",
+      "x": "Saya bahas di Webinar GRATIS RAHASIA OTAK JENIUS ya, cek link di bio",
+      "u": "https://www.threads.com/@jakarohmana/post/DfOQ498H_9C",
+      "d": 1793587492000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@haloalyaaa_",
+      "x": "CALL FOR WARGA JAKARTA DAN SEKITARNYA❗ KUNKWAN sedang buka pendaftaran Ujian HSK Resmi!! cocok buat kalian yang butuh sertifikat HSK untuk beasiswa, kerja, ataupun kuliah.",
+      "u": "https://www.threads.com/@haloalyaaa_/post/DfOSQjyj7IP",
+      "d": 1793588210000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Berita Terkini Harian Lurah Urus Sertifikat Tanah Terbaru Hari Ini - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLY2VWVWhXSFBzaXZVRWRtcFhXTngyUXRHV0gtTjhEVi1Ld0QtOXZHUnZJZ29HUEJLa2dVQUctUnY4VFhqWldRMEdZdm9FVVRsZElhbDl6dUV6bFkzTVlTOGR6ak8?oc=5",
+      "d": 1793583320000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
