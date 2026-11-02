@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DY2MK6djkKP": 1792370147420,
-    "threads:Dc-jzQHkiZO": 1792370147420,
-    "threads:Dep9LN5iV-H": 1792370147420,
-    "threads:Dep-cIBl2rG": 1792370147420,
-    "threads:Dep-bTxkhBx": 1792370147420,
-    "threads:DeouaxRgWnz": 1792370147420,
     "threads:Dep-Wy1D0li": 1792370446238,
     "threads:Dd5pBRCE2S0": 1792370446238,
     "threads:DeE8sWIk2NM": 1792370446238,
@@ -26921,59 +26915,19 @@
     "news:CBMi2AFBVV95cUxOTHJmN3dnaVdVNmljbFVTbXp4NEJSUmN2aHJKamJab0JKcnRTNVB6aTBDRlNLZjFKQ1NWTkM5NU9OdWg5TEVXakV2WTBZTGltbTNYQi1xM0RsQ2VkaWFjRDBnVXNKaUxpMG1LbUU1YUQxRWx6SlRmNWxYU0xfTWh5dkRiZU1PaHJZT3lWU2lNWk1QR3c4Y3BmZ3I2SjNscU45SEwxOUpmTXVPZmJiX3RTNTlKTmVVdFZTOFVFT3VFekU3OUJ2WklvUEo2LUVibHZCeWl2MWIyc3HSAd4BQVVfeXFMT3pfN2pJbTlZakYxTG9iZ1lER1dXVWVqdVE4N3JRNkgzMGdMajNlWHBtQlUtcS1zWVM3N1VaMUhjMXhiYUhZZzl4LXhYeFZsUE9qUml4S1dUMnRRQkhocUhaQUdXc1AxNWs2MEV5dUNBXzlZcWdHMUtDZmNNaVVDRFZuYlFZUGdvY1ptUEoxbnc2NF82d3dkNzVQQWhXallrUW91c3ZLNEE3cEpFVGdZNFJiVEhLakZrV3dHb1RmXzAyLWpSWldJVFRDVWU0X1FpY25GMGduRWFwQ0o3ekRn": 1793579140651,
     "threads:DfOBSNJkTuN": 1793579447182,
     "news:CBMiuAFBVV95cUxQNlNTd1VJRDlPYUd3ZEE0QTNpcXVwQWQ5MVppSGhXOUpCc1hSUmc5ekFPVk44WVBTakMtVjBMNXpiOTZZZmhZQlF6cFBVVlhRR2ROdG9Gb3RQYS03TFhNeGtvSWsxQVJNaWotNHdpMzJzU1FneTZGTU43Nk16bmc5N2pvcHpQeV9YaV9jY3hpbmN1WndjVXZRVnpNd1dmTzJBY0Q4bGsxRldWX2xzcWh5QlZKamlJQmVI": 1793579447182,
-    "news:CBMib0FVX3lxTE9ORzVpWVpoOURPUWtkZ2JzUzRRZ2NNYm9IWWw4QWF2eXZ3eExISlJ2Wlo0dTVMWWdVckh6VWdfanF3X0VSUmluT01zajNJOEFXMlc5ZEFWS0tTRVgteFFtdVc5R1A1QmQyVWN4ckJ4bw": 1793579447182
+    "news:CBMib0FVX3lxTE9ORzVpWVpoOURPUWtkZ2JzUzRRZ2NNYm9IWWw4QWF2eXZ3eExISlJ2Wlo0dTVMWWdVckh6VWdfanF3X0VSUmluT01zajNJOEFXMlc5ZEFWS0tTRVgteFFtdVc5R1A1QmQyVWN4ckJ4bw": 1793579447182,
+    "threads:DW-vx43jzZH": 1793579744295,
+    "threads:DT-hveQjgbc": 1793579744295,
+    "threads:DfNjZ_YEw2x": 1793579744295,
+    "threads:DfOBfgSCSEO": 1793579744295,
+    "threads:DfOBSInCCw1": 1793579744295,
+    "news:CBMiswFBVV95cUxNY1FYUXBvWFU1SFJUT3F6dktGLWdzTzNqRkl5aUpJYUtpQk9PYlRZNWQtblh6OWJOTTU5cG8zR1dPTjNvbXRUV0loWWRJWVFCNWRTdHU2WEItT3kwUnFRd0Y2N0FNOVphcjBLRndOWUpWalV6SGNXRkIxODZ6QjdKUDV3STBMbU9FenlOMWlsNmE5RFFSRlJMR2NwUGdjRXl3cHJqbDlHLVM1ZWFON1dRQWNiONIBuAFBVV95cUxPNjVnYW5fTDRVYmFodkE4OHhvdmh3NWJtYzR0RGRXT0hwMXlTWVhXMUplalRXUk1vUzFNLWx4cUpCWXZGaUFOV2pWMXJJal8ycTNueHdDWWdCOVNrdGJwaTl1TlU0b0Y2ZUFlY3AtQXVnc21RSzhBX1VoQks3N0YyQXFxZWxlX0h4WGdYSDJpdnBaWHFhVTllelFKZDZEb05ZY09tTE5oX1BjdTZ2dVdKSm9qNFVSd242": 1793579744295,
+    "news:CBMibkFVX3lxTE0zMDUtVnNJV3BaLXJ3THBRRW5fTVB2a0RJTzkyTzhhbzQ3cEhjWW9hUEwxSFhzaWRLX2pHNmkxLU5Obm9aWWllUTFnNnIwWXUzLWNfOFE3T1VSaXcwWlhveVhPS2YtQkR4WVd6eS13": 1793579744295,
+    "news:CBMifEFVX3lxTE9rYUgySDJkSjRoTzJ2V194TEpBbHF1Sld6X2pVVWl4RVIteXlfb2dZck9IeG5yZGRwV21SaElmdVdJQlR2QVBDZWUtSUNKTkd4UlhHTHpYRUtraXQ0NlBnLWpoSnVWU2tua1NSaWx6RUVMTXBkRXZtc0RmX2s": 1793579744295,
+    "news:CBMic0FVX3lxTE8xN1M1MmZCeHNwN3ViUDVNbmptcUJyelludHBhZG1UczlIVERyZE9Cd0lVVmdtOGdQNEs1NFA1MEdxNkVJTnprTFZoVTdSVDF4a2otb3hTUXR0dWQ2ZnRNWWdkN19yZzJQa2xCcDlCenZHMU0": 1793579744295,
+    "news:CBMiakFVX3lxTE13QVoyV3Q2UmlURXdCX1g5emRXbWF6MjdTRVpleHhWR3V0Rk1xc2hXVDBVZVYwNDJmSnp0ZTVvU3VmajBJMTg1eTExWEs5MU9MazNXd2pMU19HRC1jUHM0YVJPZ3N2LUt6NUE": 1793579744295
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@prlshell",
-      "x": "1. CS50 Introduction to AI with Python, Harvard. 7 minggu materi: graph search, classification, optimization, reinforcement learning, neural network, sampai language model. Syaratn",
-      "u": "https://www.threads.com/@prlshell/post/DfNGfWvibvS",
-      "d": 1793548491000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@berita_mahasiswa",
-      "x": "KDM siapkan beasiswa ITB untuk 1.000 mahasiswa kurang mampu asal Jabar. Di luar rencana itu, saat ini pendaftaran Beasiswa Pemprov Jabar 2027 untuk 500 mahasiswa ITB juga masih dib",
-      "u": "https://www.threads.com/@berita_mahasiswa/post/DfNGKeTFBxo",
-      "d": 1793548318000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "tvOneNews",
-      "x": "Cara Cek Bansos PKH dan BPNT Online 2026, Ini Link Resmi dan Panduannya - galeri foto - tvOneNews",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNHhEQjdVdFFzYURNUHo0X0F4OE15cTFOekgxTXVpYTFQa3hQMzBkdnJramRreEZ3YUN0WV95MGpVMjgteHFudVdiVjhKY0ZIazRDOHEzVk9ZOEZPT0M0Q2xkRVJ4bk5OZ1VoalBpOXdUUHY2R0RNbjJjOWg0RE5PYmZuN0JGdERQd21nVGZCay1PMVdMZ0liNl85U0xVdUhiSHpkbEZNVHBHZUZ5RWtweTJ4R0xWY3ZFZHo1eHlqYm9UTDBMcGdKLVN0MUU?oc=5",
-      "d": 1793545924000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "joglosemar news",
-      "x": "Cek Jadwal Hari Libur 2027 Plus Tanggal Merah dan Cuti Bersama, ASN-Swasta Beda Aturan - joglosemar news",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDNqZ1hTUE9mUzVic25xWGFQZmhKRE93d0NpRWs5cmk3eVYzblBpQmZ6dmtEUnlmSTdENzAzV2h2WXoxU2o2MnRWUGprMldHelViU1RJU1g0T0JHZTZXY0d0eDVFWnJWd3Z0T0x5RmpXbnZsR1h3TzZ3TkZwMFhkMko4eC1QeGVtaW1DVTlVVVpnMFNJMVBLM2RGdld5WFpoNVNneUcwanlaMmxaeGNoMU9qTFRkWFhmNG9CekJicjdRaVHSAcMBQVVfeXFMT3AzamdYU1BPZlM1YnNucVhhUGZoSkRPd3dDaUVrOXJpN3lWM25QaUJmenZrRFJ5Zkk3RDcwM1dodll6MVNqNjJ0VlBqazJXR3pVYlNUSVNYNE9CR2U2V2NHdHg1RVpyVnd2dE9MeUZqV252bEdYd082d05GcDBYZDJKOHgtUHhlbWltQ1U5VVVaZzBTSTFQSzNkRnZXeVhaaDVTZ3lHMGp5WjJsWnhjaDFPakxUZFhYZjRvQnpCYnI3UWlR?oc=5",
-      "d": 1793478781000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Kabarbatam.com",
-      "x": "EMAX Indonesia dan BMAX 2026 Hadir di Hotel Radisson Batam, 200 Merek Teknologi Global Siap Pamerkan Teknologi Terbaru - Kabarbatam.com",
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa29EWk1TMDRyZ1FKWTNOelB3a21QaU5SaDJzblRHU05HdXhHUXNKU3NFS2Z0Yk9VaGZmSTFMQmFhXzNERzgxQUlOaE83c3hITWp2SXZmZTdhQW9BMTltU3d6RzgzOFQxcm1NbEFTVmFpUTRxMzBEeWI1WXdPZTVBVk94WU1YRTZuamcySTRSX1ZGREF0LVEtYmdMMGZOYXFqN2w2MUhMb0JWVDFKQkJPbjkwR3Z2elgxQTdXWXI0OExjdTlDd0hOVmg0ZG9SaWRDSUJ4TmdNZUk?oc=5",
-      "d": 1793464360000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -28423,10 +28377,60 @@
       "d": 1793556600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Seleksi Sekolah Cendekia BAZNAS 2027 Dibuka, Kesempatan Sekolah Gratis! - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1FYUXBvWFU1SFJUT3F6dktGLWdzTzNqRkl5aUpJYUtpQk9PYlRZNWQtblh6OWJOTTU5cG8zR1dPTjNvbXRUV0loWWRJWVFCNWRTdHU2WEItT3kwUnFRd0Y2N0FNOVphcjBLRndOWUpWalV6SGNXRkIxODZ6QjdKUDV3STBMbU9FenlOMWlsNmE5RFFSRlJMR2NwUGdjRXl3cHJqbDlHLVM1ZWFON1dRQWNiONIBuAFBVV95cUxPNjVnYW5fTDRVYmFodkE4OHhvdmh3NWJtYzR0RGRXT0hwMXlTWVhXMUplalRXUk1vUzFNLWx4cUpCWXZGaUFOV2pWMXJJal8ycTNueHdDWWdCOVNrdGJwaTl1TlU0b0Y2ZUFlY3AtQXVnc21RSzhBX1VoQks3N0YyQXFxZWxlX0h4WGdYSDJpdnBaWHFhVTllelFKZDZEb05ZY09tTE5oX1BjdTZ2dVdKSm9qNFVSd242?oc=5",
+      "d": 1793579400000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "BAZNAS Buka Seleksi Sekolah Cendekia Angkatan 2027 - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zMDUtVnNJV3BaLXJ3THBRRW5fTVB2a0RJTzkyTzhhbzQ3cEhjWW9hUEwxSFhzaWRLX2pHNmkxLU5Obm9aWWllUTFnNnIwWXUzLWNfOFE3T1VSaXcwWlhveVhPS2YtQkR4WVd6eS13?oc=5",
+      "d": 1793579602000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "totabuan.news",
+      "x": "Pendaftaran Beasiswa Pemerintah Rusia untuk S1-S3 Dibuka November 2026 - totabuan.news",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rYUgySDJkSjRoTzJ2V194TEpBbHF1Sld6X2pVVWl4RVIteXlfb2dZck9IeG5yZGRwV21SaElmdVdJQlR2QVBDZWUtSUNKTkd4UlhHTHpYRUtraXQ0NlBnLWpoSnVWU2tua1NSaWx6RUVMTXBkRXZtc0RmX2s?oc=5",
+      "d": 1793577600000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "BAZNAS Buka Seleksi Sekolah Cendekia Angkatan 2027/2028 - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xN1M1MmZCeHNwN3ViUDVNbmptcUJyelludHBhZG1UczlIVERyZE9Cd0lVVmdtOGdQNEs1NFA1MEdxNkVJTnprTFZoVTdSVDF4a2otb3hTUXR0dWQ2ZnRNWWdkN19yZzJQa2xCcDlCenZHMU0?oc=5",
+      "d": 1793579734000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "BAZNAS Buka Seleksi Sekolah Cendekia 2027 2028 - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13QVoyV3Q2UmlURXdCX1g5emRXbWF6MjdTRVpleHhWR3V0Rk1xc2hXVDBVZVYwNDJmSnp0ZTVvU3VmajBJMTg1eTExWEs5MU9MazNXd2pMU19HRC1jUHM0YVJPZ3N2LUt6NUE?oc=5",
+      "d": 1793579602000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
