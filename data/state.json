@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Der9IVsiOm_": 1792436458510,
-    "threads:DeLaEaKCYez": 1792436458510,
-    "threads:Dend_2zE-Ps": 1792436458510,
-    "threads:Dab4xubAScx": 1792436458510,
     "threads:DeqJOYRE52B": 1792436741508,
     "news:CBMi1gFBVV95cUxQTXBqTU5GNmh5ckEybVNoamUtdm1xcGJQSmU5T1g0dVJvVWlIQW4xMDRraE1kUnJDeDBVeGM5VzlyTURTVUtSTGtqaDJVT1pTUEVzV0FjaVU0Z1VLelZNYkZPN3I4RFZKejNrdS1BV211X2oyc3N4emRIbzkxdUxSOGNkVl81UDlCRzVSRmNKSGdZZVBWcGFSOGIxTDRqLVBsZUI2WnVQbVBCeHdlT2xKaDlkT0pLNXlHQU5GdmRwd0QxLXN1ZlI0aVdlOUhtS3pOdDJ1a0x3": 1792436741508,
     "threads:DeW03XqDeXc": 1792437047775,
@@ -27131,19 +27127,11 @@
     "threads:Derhy06mfps": 1793645790432,
     "threads:DercjGTk54m": 1793645790432,
     "threads:Deq1QVcku1W": 1793645790432,
-    "threads:DcDcA9QD9zV": 1793645790432
+    "threads:DcDcA9QD9zV": 1793645790432,
+    "threads:Ded4mmHkZRr": 1793646064963,
+    "news:CBMitgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQdIBtgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQQ": 1793646064963
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@galiheputra",
-      "x": "AI jawab dengan yakin. Kamu langsung percaya? Jangan asal AI. Literasi AI bukan cuma soal bikin prompt, tapi tahu kapan jawabannya perlu dicek Mulai belajar dari dasar sampai dapat",
-      "u": "https://www.threads.com/@galiheputra/post/DfPVEycgXfQ",
-      "d": 1793623240000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28633,10 +28621,20 @@
       "d": 1793644960000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Radar Tarakan",
+      "x": "Sekprov Kaltara Ajak Masyarakat dan Pelaku Usaha Taat Pajak - Radar Tarakan",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQdIBtgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQQ?oc=5",
+      "d": 1793622546000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
