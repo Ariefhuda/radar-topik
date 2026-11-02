@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DerZoAQE5tg": 1792417774334,
-    "threads:DerY-TticQx": 1792417774334,
-    "threads:DerZlI-ie1Y": 1792417774334,
-    "threads:DerZ8CpikHq": 1792417774334,
-    "threads:DerZapzAFje": 1792417774334,
-    "threads:DerZEujCVXx": 1792417774334,
-    "threads:DerJp6hCU12": 1792417774334,
-    "threads:DerRtwNkmfc": 1792417774334,
-    "threads:DGLH25kT1CM": 1792417774334,
     "threads:DdtTGmkGBeE": 1792418376132,
     "news:CBMifEFVX3lxTE1YZFVUb2ZXWEFweFl3U0JtMk9sWENCVUswZG91MVBIdUdnYXRBdDNJb0VRQ1Q1SHkzZnh0QU95WDdheWdaR1Ywb2gzTlBXSW82b3pYM1B2LVFBZHI2cXl1VGFnbnZIY3NqVTUxS1FoUUZ2VUZUbGtpaG9vZTA": 1792418376132,
     "news:CBMiowFBVV95cUxNZFUwSnFNeGhzYTRmTmtVY3ppTW9nUFlNd1c3NkVjSmYyZFBFc21qQzVGOHJ6d3NJMGJaQXZZaEZHUDZJMWFQem9TM0w3ajF5TTlmbEtxLTBzSDROdjE2TExZYzZ4YUUyRkk5Z3lVWUk3RUJONzB4c0tmX05zQ3lDa2MtbzNiYnptbElHZnJybUhtMlE5eDVPRWtEYzBqMEN3MVZr": 1792418376132,
@@ -27043,7 +27034,9 @@
     "threads:DfPbH0eE0I7": 1793627142643,
     "threads:DfPbHAnE4DH": 1793627142643,
     "threads:Dc73iIugea9": 1793627142643,
-    "threads:DfPcPhXmVoJ": 1793627142643
+    "threads:DfPcPhXmVoJ": 1793627142643,
+    "news:CBMi4AFBVV95cUxQdUliSnVXUnB5ZlJONUpwSmRFbDl0S25MWmtsWE1idE04NjRvcnRrSzZjMHlTT0FSbTZlTVJ6QzNzWDd0S2NvUExRSkFfenVKa3pUSTNTTGFqWG83YWFMZXd4N3lHbWI0VGZFOXJVVmZiMkhvQ1ZlUWE0RmhfanVsLUJBeU56RjNaaUp2bWc0NU81ZDBkREJDcW9TcXJGZ0RMRFUtb3AxazBhVXdjZHRXc29kYW44UTdHeU1nTDVNT0hoQ3NwLVJtVVFzRkJfWHAteE4yNF9oYWo4LXVETmQyTA": 1793627445408,
+    "news:CBMiygFBVV95cUxPZUpfZjR2dkJZNUpnTUo3cTR6aC1yM2VaV1lwV2o1SUVBTU9DdVBYb0lpMkpYT1ZwcUh3bGxmMk9FbnVKUVZUdFJSR0Zfalo3aXZkcWotYlpFcDl1RHh0b1BkUS1Iczc5ZUZTMlg0YktHbFBjOXVHalNublVscFlBZTlPSVFvY0REbVpUMTNnMjJiS2otQll4ajFSUWxwZEtfWlNNQVd6NzRqUXFvRHlSdWkxbjhqUXRrbEs3aXVIMnhjNUtQY0VkczhB": 1793627445408
   },
   "digest": [
     {
@@ -27775,10 +27768,20 @@
       "d": 1793626998000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Journalist Independent",
+      "x": "BSU Rp900 Ribu Oktober-Desember 2026, Siapkan KTP dan KK Sebelum Datang ke Kantor Pos - Journalist Independent",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUpfZjR2dkJZNUpnTUo3cTR6aC1yM2VaV1lwV2o1SUVBTU9DdVBYb0lpMkpYT1ZwcUh3bGxmMk9FbnVKUVZUdFJSR0Zfalo3aXZkcWotYlpFcDl1RHh0b1BkUS1Iczc5ZUZTMlg0YktHbFBjOXVHalNublVscFlBZTlPSVFvY0REbVpUMTNnMjJiS2otQll4ajFSUWxwZEtfWlNNQVd6NzRqUXFvRHlSdWkxbjhqUXRrbEs3aXVIMnhjNUtQY0VkczhB?oc=5",
+      "d": 1793627309000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
