@@ -60,20 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deq9wLrHT1k": 1792403444539,
-    "threads:Deq9-d3iRM5": 1792403444539,
-    "threads:Deq97q7iXkc": 1792403444539,
-    "threads:Deq93YSie_s": 1792403444539,
-    "threads:Deq4NzoEhnN": 1792403444539,
-    "threads:Deq-O0egh9w": 1792403444539,
-    "threads:DeTHiS4GKFj": 1792403444539,
-    "news:CBMiyAFBVV95cUxNaHU5cEZIc1I4d1QyWVFBTE5SNldmWGNDZFRQeFVnbWZlYjJRN1Q2bjlSVlEzN1F4eUZ5d1pqdkZxR1NyU1dWTVFVaTZoMTFVX0NXY2p1UE9FdjZuMGNMZXluR1duRk1XbWo1NnFNWVZDbXRuNjR6N29QR1BTdU9hak5jeDd6aktzRGlqcVhDSGdiaWFLcGhyMUtMV0RzQ1NUeFI1RmszaTF1ZGRFeUI4NVd6ZkRKTFNyLWtqSkc5Q1o1NFI3ckdVYQ": 1792403444539,
-    "news:CBMivAFBVV95cUxOR0FKQ3p1c2psUGJNRDRCRmRULUFXeElYNndSWnFzYVd6TzctVnBlUng0OGN4RWV1Q2k4OUVNRTNncDBESEhXNXVSNklqSG1BSGs0bGhZbHdUeFFDVzNBQ2VNQUs5Q0NGT0txVi1tSkdOaWJrc1NPdjRQeUsxNzN5Nk9ROEJoWFc0NTY5dVZpaS1rV2FwVFFGR3pBLXpHTHNSVWU0bzljYllBVnFrZTZVVnhfeTlpdms1aElCb9IBvAFBVV95cUxOR0FKQ3p1c2psUGJNRDRCRmRULUFXeElYNndSWnFzYVd6TzctVnBlUng0OGN4RWV1Q2k4OUVNRTNncDBESEhXNXVSNklqSG1BSGs0bGhZbHdUeFFDVzNBQ2VNQUs5Q0NGT0txVi1tSkdOaWJrc1NPdjRQeUsxNzN5Nk9ROEJoWFc0NTY5dVZpaS1rV2FwVFFGR3pBLXpHTHNSVWU0bzljYllBVnFrZTZVVnhfeTlpdms1aElCbw": 1792403444539,
-    "news:CBMi1AFBVV95cUxNMlRISkhpZTh3bjlXYnpxLW92RE9DVEhLOVRwZVpzcEpSUzhDeWhCWURFb0dJSHQzMDdVRHRnZ3BUZ3VhU3FYTGtHUDRWSUZZRWVXbjI1dmFCXzV3N2o3OEZFM2xiM1pOMlhvNkVISXdaVkQta2VfbFRSVDlyT2JkbmVzeHkyRDdLdVkwV1ZtY3dTOXdGYmJBWGVFNGM5NHVMelhRdTVqTmYxaTJ0RlpFR0tSOVF4YkVhaHV4cGsxaW9LYUk4bXRoOWFUeU9rWTlCQm0xRNIB1AFBVV95cUxNMlRISkhpZTh3bjlXYnpxLW92RE9DVEhLOVRwZVpzcEpSUzhDeWhCWURFb0dJSHQzMDdVRHRnZ3BUZ3VhU3FYTGtHUDRWSUZZRWVXbjI1dmFCXzV3N2o3OEZFM2xiM1pOMlhvNkVISXdaVkQta2VfbFRSVDlyT2JkbmVzeHkyRDdLdVkwV1ZtY3dTOXdGYmJBWGVFNGM5NHVMelhRdTVqTmYxaTJ0RlpFR0tSOVF4YkVhaHV4cGsxaW9LYUk4bXRoOWFUeU9rWTlCQm0xRA": 1792403444539,
-    "news:CBMivgFBVV95cUxQQk5Fd1J2eVoyaFExYmwzZHU0VjVHTlhVY3BDSlFORUpSclRlVEgwY29OeVZhcWxsNUJtN2NXZDVKSzJHS3Z6VDZmWjZTSW1Fa203ZG5DbmprQWpsSURvMzJKbjdzN25weWtjNHFYWVhiNG1nc0prSk05R2lKSXRXa01Ia0hPN1NWSk83ZzNkMndHc1V3emNwX2NoSDl4MmdIeVNtYmpERGxDNklNb3pXRFBWdk8yMDRBM2EwY1dn0gHDAUFVX3lxTE5DanV5cjVfVGNHb0tZMTFqWm05NWh3cmtKLTgwQVJfeWdvN0hBWC1RNU03Uzh3M3hlYUdVR08wQ2F1LWhzVWVaZmh4Z3RYOTRDcDBrblZ4cjZkWXg5TzF6VUFqSXVBUkZISDlWUkxMUHMwMThScDU0Q0JvSndQLTAzeEVEX3RzNTRsck1jN3YwSTV0M1l6T1NzQUw4b2ZHVUZ4VUExUWQzdEtCZVZNYmgtVXdmSDd1LTl2endtZW42Z19vcw": 1792403444539,
-    "news:CBMiY0FVX3lxTE1IY3ZOQi1IMlpTdlFpaDZ5YWVBMWhKZm1qX1VEQTdKSmNQdk85UUkxZHYtTW1la21nUmVFNXJjOGRkODV3STd5Z0VHWW9fWWgyNEdQUURSUmhSZ1JVMnZGOE5Daw": 1792403444539,
-    "news:CBMiwwFBVV95cUxOMmtNT1dPY28yMkFnYURVQTVJRVZoUF84ajNwRnFfajVxS2ZVRkhad1cxQ1lXRllMV0haTzJyWVVxWWpsR2xYSm1IdzhVZVNuRTVKRlR4bng2SzFOOGVRbUozZ2k2Sy0taGROLUU1a1RPUTlJbkFZMFRVNzFJMWx5ZmJXbDlVUzRlTGtfU3NIbXQ3UGNmMHlGNHVrcWpHaWYzVnJnQzJCV08zcVdrMUNPN19fZ2drQ3cza3pINjM4eXlDdVHSAcgBQVVfeXFMUGUyNVVCTHlVREVoUFMzcjFMMGZWOGludmhtUU0taHptWldReTBveVpOSUVVTXlDenBDQW5UTF95TTB2SWRZWHgxTDFTaXFGZVM2czcxTC1NRllfNndSaElrajRaMVQweE8yd3Q0V0xXR2RnMlZLN2JTaEk2end2RERtUkd0NHpUcHJWVHE2X2tGNUM2SzNlNFpPekdOVTlScE43SUdqT0NzblhTU3YzQlRiak1rdWN1U0lMNnFiRGxnNmVrQ2JOWmQ": 1792403444539,
-    "news:CBMiakFVX3lxTE5vMFVvOXM4UHRRbWYxQUVKaGFHTnZuOTZ5clB0MXJMVnFaNXhxOFdfT0hqZHE0ZlI2blZ4YUp1MXJlempDbHliczZkMWdOdDBMNmRZTTQ5OGN1dHQtUGlIWnI4aHZEd1NOUEE": 1792403444539,
     "threads:Deq-nTPk3ak": 1792403750840,
     "threads:Deq7tRjjIlf": 1792403750840,
     "threads:Deq9ikilaYu": 1792403750840,
@@ -27038,69 +27024,16 @@
     "news:CBMivAFBVV95cUxQdE0xb2dmRnd0bmE2dG9SaVVLR3dsVzNiVW1sdUJEdEJzRnBUQ2xheGJoamY5QUVCTFhCT1NTYUdMS0V3dDF6WUZwU2NkOVJLYmJrOE9KMWx4TzBsYjZRNFNZQXdjSVQ1MHc3MzJwUU5VUUg2QndnbWJQZnpxVHJvOV9DZGlCZ0hpZVFneEN0akVnWWFIWWEtams2cVVLSDBoODNBNm4xQjI0MEZFN3g4NkJDdkpyN1RhMEY1MdIBmwFBVV95cUxOLXdyMWxRTWNsRGYxd3FhV1NiTkY1UXk4cGpscWJWR3dLMDU3ZFlzTEc4VExEZUUxVXBSdHBXaXYxTVU1aEZzb0NCQnZGWklodTlNWkgyNTZidUd0MmxCMjh4QzBSX01aV3JkT3lLUmtBMGdMT25EckZMVGJIN0Y4RG8zcDBCeWh2UlRZcjlKMnczMFFvbEVXYjR3WQ": 1793612753866,
     "news:CBMixAFBVV95cUxPQVBnS0NhZ2RNV0xzdlVRNnlJOGlic1ZYcl80dmhXbHlmaG9FZnQwMG45MlZJTWRPQWM2bUxfUXJKSm1RZ01vZXlwaDRid1pMREtCYmhtSGVIYnJhY3FYeVI3MFBId0FnQmdPY1l1WVhXNUc4MlJtbXZRME9LRUNTaU1pZ3pUd2pzbDJaTlRaYklMTUY5T2lrX1JEVnVwLW5vejJxU19iWTM0bHRVdlNnS21WLUxFRGxQZEEtbDQ1S29TM1N5": 1793612753866,
     "news:CBMi5wFBVV95cUxNb1llMVdNSlpfcEZUakp2U1FqeUIzVnlrWFJRTGNMT1hEN210d2F1ZTMxc2VmU2ZFbWpDWmFGXzJjMDNaa2VfR1RXbzlpZHZHZGNFR0d2RlJtcGVKd254UDFkS016eFRqRVNxMFI5elhMa1RocWRZdEhKLXhHcXppRkZXU3JIQ2VpRVk2UnBLVGc3YXp4TllsamxiSE94YzZJQlhCRDc1cWZMTnhpY3VPZkk2VUpsVjdMbWJULWc0STFRQkRuSmY1MElRZWVJTWVWN1ZaZ2hERWMzM2pqTGlWamJ1cVotU1XSAewBQVVfeXFMUFVPM3A1YXM1ZXpXRXhUcjJ4NDNLNUt2MTB1SE1oaHRYb1JOcFJhQWtlYTRPbUpFVkZYS05NWTNtSlpxUmg4WjRsSEd3U3lOb0x2aGFyTk9fUnloQXV3RmxKZFR2WWpKMWR1Vi1RcmN4aDRNX3JSRVBSYjZwRnY2ZnF0OXJKSGVvaWNVc1FCZXBqT2xQT0cydmZqNTZ2elM1eURvdFE2UVdsaWxlbTBqcDhXUXotcUtHVm96dGZlcjNPbFg3SWtWNmtHblBfWTNGR3luLWVYd1Q2THYyNTRRWWVFOTMtRlloNm0xQzE": 1793612753866,
-    "news:CBMiqgFBVV95cUxQTDlaR2hBUUtEZ1dZVzUtdXdmbnp0dGV3MWRXZi05VUx5WDItS09fY0JJb09mU1g1TjU5LTBNUlNYa0RGeGVuV3F4eFlvamszbXNsLV9kY3MzWEYtVExCZUhlOEQ4QmQ3aDZuVEFzSE5SNXM0QWpKUGFManpJcVB6SUExMFVyWGdnb3M2cmdSUFp3d1FCUTN4SlctTDlNUjhWUFRCQjA2Tl96QQ": 1793612753866
+    "news:CBMiqgFBVV95cUxQTDlaR2hBUUtEZ1dZVzUtdXdmbnp0dGV3MWRXZi05VUx5WDItS09fY0JJb09mU1g1TjU5LTBNUlNYa0RGeGVuV3F4eFlvamszbXNsLV9kY3MzWEYtVExCZUhlOEQ4QmQ3aDZuVEFzSE5SNXM0QWpKUGFManpJcVB6SUExMFVyWGdnb3M2cmdSUFp3d1FCUTN4SlctTDlNUjhWUFRCQjA2Tl96QQ": 1793612753866,
+    "threads:DfPBSDxGRPm": 1793613052104,
+    "threads:DfPA8zEHzEK": 1793613052104,
+    "news:CBMirwFBVV95cUxPNk1xWWF0ckdYUGF1MXFyYVFZQWNjM0s0MU0yVnhPS1VrMk1xTVliUTFGNGM4R0UydmNITVVwSGpJWFVMYmp6SWFBTVF1STBobkoxNk5kZmNzdWxjbnlkV2F2MGkyaGs4b2c3VGNmZTZYdHdoWWotVjAwLWxoS1U2a2dkVUgyTDFXek1pOFFINEp1N1hQNWxrdEk0Q0V4U0xJb0FFYjBqS2MtckM5d0Nn": 1793613052104,
+    "news:CBMiaEFVX3lxTE9Gb013V3MzcHJkcTljVXhxZWlEdEM4eFE0bk1RNC04bGc4QklMYlJkWXZZSmg5RUJTZ2xoeU1MYlVOSmo0Njd1b3FyQ0xqNG1oSklTU0NRT3YzNnVldjRrS2lsUkxjQzlr": 1793613052104,
+    "news:CBMitAFBVV95cUxNelNwczJWdEZLRmFKTW9wcS1hZjNsam1FQW9rR0NNNGladVZLY192UjMyQWZHVjRKM1c0MVpNU05rWTI3cXJBLUt5NlRpU1IzWklacHBPajBXTnBnU1htU1o5ZS1USENRajRERWV5Z3B5aHhLREJweU9yUmY2VFVDdUtsSnB6cmZIUm1pYTRHZGVybW50d0FlNl96UGR2SFotY280SGM1RU1hR2ZwRHZIbDg2YzHSAbQBQVVfeXFMTXpTcHMyVnRGS0ZhSk1vcHEtYWYzbGptRUFva0dDTTRpWnVWS2NfdlIzMkFmR1Y0SjNXNDFaTVNOa1kyN3FyQS1LeTZUaVNSM1pJWnBwT2owV05wZ1NYbVNaOWUtVEhDUWo0REVleWdweWh4S0RCcHlPclJmNlRVQ3VLbEpwenJmSFJtaWE0R2Rlcm1udHdBZTZfelBkdkhaLWNvNEhjNUVNYUdmcER2SGw4NmMx": 1793613052104,
+    "news:CBMingJBVV95cUxOY1ozVEZGYmVlQXJvQzFRNVpSNHhXSHRzWnhiV2M0V1VQM1RkdFA4WkJnRTVEaWM4VjNOMW9maVkzMGpyeTdOSTdqWWpvR05wM0FSNTZlaHVFbFFfZ3R6b1lYeXFlbVZmTjh0Zk1HaGlJdGJ6MXpUMHVOVHY2RmpKWklsZHU2S0VrbXBlYlJUMmJOX0RFY1JjZnFhdnZVUjl3WklvMXcyYzJFMDZDU05kM0IyQm9mNUxicWlsWG52V2h5bms4d3VWdmxaaWNHWm5IMUtPM1dFSXJoSmRPeDBMOEhILUxEQ1Q5aEQ5MWFiRFlDLUotaHRMNHlQMFBsemdlc2V3RkZUbV8wR0d5VGNZNHZMbTllT0RIcXdYbWNn0gGjAkFVX3lxTE02RGR2UnkwWHpPX0h0TmZ0YXY4TjN5ZEVqejgtT1QtVVVMdkxseTJvYTNHY19ZU0p4WmZXbk9ld1dJbEZZazhNWldzSnBaV2VhdzVNMWNMbHhPQ3M3MXd2eTU3SXZsNzJFZDZJbjJISVNRZDA1SXVaZW5xM0RCMS1odnpGNFBEamVFeVZaZVJ1eEdfNGo2cjFUZHlJdkdfRjlSNlZHQWRCNVk0R3VMSTRUWFdDTE9DbWhCQXMtTVUtQUROUW9ISVVvcWNON3NGSUdXUW5JdXVVUGhPQnMxQnp4dzByX012WEtNdDFmbkc5andYMFczWHd0LTNQVlVtTWQyV2gyTHJMTGRKVUx2TFhMMVFTQ2t0Z3BIbEh1dlBWQk55OA": 1793613052104,
+    "news:CBMi4gFBVV95cUxQdEgzYm9acExsWEZZT0RySHRZWF9JVjFBV2g0Q0tJWmtTMW56bDNBQ2plMHM0MDVRd204V3NvbjM3M2dWRnFlUmVSNnZwYW4xY2FSbk53M1hfNFVuQ0tnV3VNZnpNaXZELWdNTEkyQzYweU5SaVpmZW1hOE5RZmVjNFhIYzJveGZSeDdsS29RMGQyYm9RZ3docEFrTXVGaE1vRTEyeWF6NDIxMjY5N25CN2g2R0gxTnBPa2FyVjBWQ0hPUXpvV1g3ZmZ0d2NiX3E2Y1dYLU1FSi16aDU5ekl0U0N30gHiAUFVX3lxTFB0SDNib1pwTGxYRllPRHJIdFlYX0lWMUFXaDRDS0laa1MxbnpsM0FDamUwczQwNVF3bThXc29uMzczZ1ZGcWVSZVI2dnBhbjFjYVJuTnczWF80VW5DS2dXdU1mek1pdkQtZ01MSTJDNjB5TlJpWmZlbWE4TlFmZWM0WEhjMm94ZlJ4N2xLb1EwZDJib1Fnd2hwQWtNdUZoTW9FMTJ5YXo0MjEyNjk3bkI3aDZHSDFOcE9rYXJWMFZDSE9Rem9XWDdmZnR3Y2JfcTZjV1gtTUVKLXpoNTl6SXRTQ3c": 1793613052104
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, sehubungan diadakannya TKA ini. Kami menyediakan kelas gratis TKA Matematika yang akan diadakan besok. Info lebih lanjut bisa bergabung di grup WA ya Kak",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO11PJGWZb",
-      "d": 1793606860000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, sehubungan diadakannya TKA ini. Kami menyediakan kelas gratis TKA Matematika yang akan diadakan besok. Info lebih lanjut bisa bergabung di grup WA ya Kak",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO1vujGQID",
-      "d": 1793606815000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, sehubungan diadakannya TKA ini. Kami menyediakan kelas gratis TKA Matematika yang akan diadakan besok. Info lebih lanjut bisa bergabung di grup WA ya Kak",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO1lUsGWy7",
-      "d": 1793606730000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@brightsmart.tutor",
-      "x": "Mom & Dad, di Tangerang & BSD, kabar baik! 🥳 ~~》 Swipe untuk penawaran menarik 🫶 Nggak perlu repot antar-jemput, sekarang gurunya yang datang ke rumah untuk nemenin si kecil bela",
-      "u": "https://www.threads.com/@brightsmart.tutor/post/DfO1kakIMF0",
-      "d": 1793606722000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ameliasyaradl_",
-      "x": "hallo kaka kaka untuk yang pemula gym ,ibu” pun bisa mau cobain trial gym atau ikut kelas” gratis bisa ya DM aku.. lokasi : Jalan Panjang Kebon Jeruk. Jakbar",
-      "u": "https://www.threads.com/@ameliasyaradl_/post/DfO1jd0I8Cc",
-      "d": 1793606715000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, besok kita akan adakan kelas gratis TKA Matematika. Info lebih lanjut bisa langsung bergabung di grup WA ya Kak",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO1dkzGVDm",
-      "d": 1793606666000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28540,10 +28473,70 @@
       "d": 1793612460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@barokah6707",
+      "x": "prioritas bukan penerima bansos. bsu cair 900k untuk pekerja penerima upah(pu)yg aktif di bpjs ketenaga kerjaaan. yuk follow akun ini biar tdk ketinggalan info BSU berikutnya. like",
+      "u": "https://www.threads.com/@barokah6707/post/DfPBSDxGRPm",
+      "d": 1793612864000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Headlinews.id",
+      "x": "Gubernur Perkuat Percepatan Program Perumahan, 3.091 Rumah di Kaltara Dapat Bantuan BSPS - Headlinews.id",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNk1xWWF0ckdYUGF1MXFyYVFZQWNjM0s0MU0yVnhPS1VrMk1xTVliUTFGNGM4R0UydmNITVVwSGpJWFVMYmp6SWFBTVF1STBobkoxNk5kZmNzdWxjbnlkV2F2MGkyaGs4b2c3VGNmZTZYdHdoWWotVjAwLWxoS1U2a2dkVUgyTDFXek1pOFFINEp1N1hQNWxrdEk0Q0V4U0xJb0FFYjBqS2MtckM5d0Nn?oc=5",
+      "d": 1793613030000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Berita Terkini Harian Nama Di Sertifikat Tanah Salah Terbaru Hari Ini - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Gb013V3MzcHJkcTljVXhxZWlEdEM4eFE0bk1RNC04bGc4QklMYlJkWXZZSmg5RUJTZ2xoeU1MYlVOSmo0Njd1b3FyQ0xqNG1oSklTU0NRT3YzNnVldjRrS2lsUkxjQzlr?oc=5",
+      "d": 1793606796000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "kumparan",
+      "x": "Beasiswa PEMAPAN 2027 Dibuka untuk Mahasiswa, Cek Ketentuannya - kumparan.com - kumparan",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNelNwczJWdEZLRmFKTW9wcS1hZjNsam1FQW9rR0NNNGladVZLY192UjMyQWZHVjRKM1c0MVpNU05rWTI3cXJBLUt5NlRpU1IzWklacHBPajBXTnBnU1htU1o5ZS1USENRajRERWV5Z3B5aHhLREJweU9yUmY2VFVDdUtsSnB6cmZIUm1pYTRHZGVybW50d0FlNl96UGR2SFotY280SGM1RU1hR2ZwRHZIbDg2YzHSAbQBQVVfeXFMTXpTcHMyVnRGS0ZhSk1vcHEtYWYzbGptRUFva0dDTTRpWnVWS2NfdlIzMkFmR1Y0SjNXNDFaTVNOa1kyN3FyQS1LeTZUaVNSM1pJWnBwT2owV05wZ1NYbVNaOWUtVEhDUWo0REVleWdweWh4S0RCcHlPclJmNlRVQ3VLbEpwenJmSFJtaWE0R2Rlcm1udHdBZTZfelBkdkhaLWNvNEhjNUVNYUdmcER2SGw4NmMx?oc=5",
+      "d": 1793596560000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "UIN Maliki Malang Buka Penerimaan Mahasiswa Baru Pascasarjana Jalur Reguler Semester Genap TA 2026-2027, Ini Jadwal Pelaksanaan dan Alur Pendaftaran - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxOY1ozVEZGYmVlQXJvQzFRNVpSNHhXSHRzWnhiV2M0V1VQM1RkdFA4WkJnRTVEaWM4VjNOMW9maVkzMGpyeTdOSTdqWWpvR05wM0FSNTZlaHVFbFFfZ3R6b1lYeXFlbVZmTjh0Zk1HaGlJdGJ6MXpUMHVOVHY2RmpKWklsZHU2S0VrbXBlYlJUMmJOX0RFY1JjZnFhdnZVUjl3WklvMXcyYzJFMDZDU05kM0IyQm9mNUxicWlsWG52V2h5bms4d3VWdmxaaWNHWm5IMUtPM1dFSXJoSmRPeDBMOEhILUxEQ1Q5aEQ5MWFiRFlDLUotaHRMNHlQMFBsemdlc2V3RkZUbV8wR0d5VGNZNHZMbTllT0RIcXdYbWNn0gGjAkFVX3lxTE02RGR2UnkwWHpPX0h0TmZ0YXY4TjN5ZEVqejgtT1QtVVVMdkxseTJvYTNHY19ZU0p4WmZXbk9ld1dJbEZZazhNWldzSnBaV2VhdzVNMWNMbHhPQ3M3MXd2eTU3SXZsNzJFZDZJbjJISVNRZDA1SXVaZW5xM0RCMS1odnpGNFBEamVFeVZaZVJ1eEdfNGo2cjFUZHlJdkdfRjlSNlZHQWRCNVk0R3VMSTRUWFdDTE9DbWhCQXMtTVUtQUROUW9ISVVvcWNON3NGSUdXUW5JdXVVUGhPQnMxQnp4dzByX012WEtNdDFmbkc5andYMFczWHd0LTNQVlVtTWQyV2gyTHJMTGRKVUx2TFhMMVFTQ2t0Z3BIbEh1dlBWQk55OA?oc=5",
+      "d": 1793595377000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Priangan Insider",
+      "x": "Cara Daftar Bansos Paling Mudah dan Daftar Bantuan yang Cair November 2026 - Priangan Insider",
+      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdEgzYm9acExsWEZZT0RySHRZWF9JVjFBV2g0Q0tJWmtTMW56bDNBQ2plMHM0MDVRd204V3NvbjM3M2dWRnFlUmVSNnZwYW4xY2FSbk53M1hfNFVuQ0tnV3VNZnpNaXZELWdNTEkyQzYweU5SaVpmZW1hOE5RZmVjNFhIYzJveGZSeDdsS29RMGQyYm9RZ3docEFrTXVGaE1vRTEyeWF6NDIxMjY5N25CN2g2R0gxTnBPa2FyVjBWQ0hPUXpvV1g3ZmZ0d2NiX3E2Y1dYLU1FSi16aDU5ekl0U0N30gHiAUFVX3lxTFB0SDNib1pwTGxYRllPRHJIdFlYX0lWMUFXaDRDS0laa1MxbnpsM0FDamUwczQwNVF3bThXc29uMzczZ1ZGcWVSZVI2dnBhbjFjYVJuTnczWF80VW5DS2dXdU1mek1pdkQtZ01MSTJDNjB5TlJpWmZlbWE4TlFmZWM0WEhjMm94ZlJ4N2xLb1EwZDJib1Fnd2hwQWtNdUZoTW9FMTJ5YXo0MjEyNjk3bkI3aDZHSDFOcE9rYXJWMFZDSE9Rem9XWDdmZnR3Y2JfcTZjV1gtTUVKLXpoNTl6SXRTQ3c?oc=5",
+      "d": 1793610000000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
