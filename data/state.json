@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqPq_HEwKd": 1792378856465,
-    "threads:DeqOt0cCJJ5": 1792378856465,
-    "threads:DcG4U1cifVP": 1792378856465,
-    "threads:DcHmR6bkwj3": 1792378856465,
-    "news:CBMizAFBVV95cUxPQnBnWWt5S1B5N2NkZndyeVBPT1d2RTUtcEhFdDZubzZtNS1HUGh5amNHeDRQZUtaUXoxSjJKX3dMUUs1bTd4MnVkTl81LVZhVVpDVjR2S1UtLVFZWnRoalBKc294SlhaV2JXSzRmdDZmZ2owWVNBOTdBQUFuWVc4V0IxRU14S2gyczAyU0h2WTZnRUd2TkV3dkYtWkxvam1FNWI1Rm9uQWg1OHBDeEpGNGVtQU5hdzM5M2tHdVNORGJGNXF2MGdOQlBfaE0": 1792378856465,
-    "news:CBMilwFBVV95cUxPYTNPdDhDTGhIV2pYaWFaS1pDZGJmZ3lnemh2anNDZHBCSHRVVllvbmZpdHk5Z0I0LVdmd2NfZmhoaGxucHZwN1YtTGVDS3BqcS1RVHJUdUhEaFFlWU1QSFRBSFN0NUh3YVpVeEhlclc2ZVRpS1VKMWFqcXUyS3BzMlBtWUk1M0loTUh0cGxrZ0JJZG1SMkUw": 1792378856465,
     "threads:DeqP2j3ktE-": 1792379139185,
     "threads:DeqPJzwif-n": 1792379139185,
     "news:CBMi5wFBVV95cUxNRnNEWWt2Mkhmd1U3dGNpb1JRalU2V1kwYU5iTm53aGZVZnlSUTJ5Mm9zRWRxWUFOckItSUZ1QW1tVjc4WnZqcFdsV0NxWTJ5YThwSzZKLWRsMUc1NWZwWV90LU5JT1F0Tk50S0RJUG4xOTBxZXJES1JIckZ1alU5ZkhXT1NyWG9YQXRUX011YktQOFpFaXNTRWtBN292OUVDWVRXMVAwR3ozZzFlT3NqWkVTbWRjaTQtOFVMX2pVTGxOYmhGNmJ1UzlSbHB3ZUhnaFBacEVsQUxKTWxYV1hLcUVGYXJidDTSAewBQVVfeXFMTUxXaHhaMm5GM0lIaXYtbFNaVDNoeDBWYWsyWW5RTkVVVXpEREJadkFVZUxHMWFGYnRWLXUybVFxNWlra1FCX3dUVUY1X19kQVNjcURTYlBoUEFvenZrb2p6NWItM3VYRjFsRm83STdSVWlaLU9CTlY5eVROMUpxOEQyc0x4S1JEVkJxMHVNYXlQUnFjQTNoQzlnM1BIZWtzVVcxMEdzRkJjWGFsU2t6ZUs1Z0poR0YwektkeThxSkE1NXRRRlVaUnU2NDZDai05OXVfemNxUW1TY04tdzhxWmJscW5NTExUaHIyWno": 1792379139185,
@@ -26887,7 +26881,15 @@
     "threads:Dd3mjD5CQTj": 1793588137894,
     "threads:DEHUMXyy6Kh": 1793588137894,
     "news:CBMikgFBVV95cUxNTERqTlRYamVPX2FVQ3FjTGVEbHZOVDVabnMzV0phcUdZMFVuSFowMWVJZTlxMm9yTlZqYnROR2hEbV9Cb0lXRFR0NV93Z2RWZWRmcEtmbjIxZkZJZHh3dWdDNEhhT0VCMlotbGZwcnI4ZFFLWGU3aVhoTlZwck9yVzNFUGNVMzI1ekhkNDl6SVQ0QQ": 1793588137894,
-    "news:CBMiZEFVX3lxTFBLY2VWVWhXSFBzaXZVRWRtcFhXTngyUXRHV0gtTjhEVi1Ld0QtOXZHUnZJZ29HUEJLa2dVQUctUnY4VFhqWldRMEdZdm9FVVRsZElhbDl6dUV6bFkzTVlTOGR6ak8": 1793588137894
+    "news:CBMiZEFVX3lxTFBLY2VWVWhXSFBzaXZVRWRtcFhXTngyUXRHV0gtTjhEVi1Ld0QtOXZHUnZJZ29HUEJLa2dVQUctUnY4VFhqWldRMEdZdm9FVVRsZElhbDl6dUV6bFkzTVlTOGR6ak8": 1793588137894,
+    "threads:DfORVHFm70w": 1793588473199,
+    "threads:DfORHZLH3n8": 1793588473199,
+    "threads:DRx3NYeGOwm": 1793588473199,
+    "threads:DcGiH-1GD-l": 1793588473199,
+    "threads:DfOSrJPiOBU": 1793588473199,
+    "threads:DfOSSBkD48B": 1793588473199,
+    "threads:DfOSDtukvi4": 1793588473199,
+    "threads:DfOPCwcEhJ-": 1793588473199
   },
   "digest": [
     {
@@ -27329,10 +27331,30 @@
       "d": 1793583320000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kompastv",
+      "x": "Sudah Masuk November, Segera Cek Pencairan Bansos PKH-Sembako Tahap 4! http://dlvr.it/TW8LpQ",
+      "u": "https://www.threads.com/@kompastv/post/DfORVHFm70w",
+      "d": 1793587777000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sah212212",
+      "x": "Tinggal tunggu satu langkah lagi menuju pencairan tahap empat Sabr Sabr baru SPM #bansostahapempat #bansossudahspm #pkhspm #bantuansosialtahapempatfyp",
+      "u": "https://www.threads.com/@sah212212/post/DfORHZLH3n8",
+      "d": 1793587611000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
