@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:C_2nvaJJKYg": 1792418759229,
-    "threads:DeG8bUdDyiR": 1792418759229,
-    "threads:Derb1ImmCMW": 1792418759229,
-    "threads:DerbErLCU1J": 1792418759229,
-    "threads:Deral2_k8nP": 1792418759229,
-    "threads:DerbOaeESeQ": 1792418759229,
-    "threads:DeraPzVCRXM": 1792418759229,
-    "news:CBMipgFBVV95cUxPTDZ4LUZ5QTBxeGExVUhhNjN0UmdsaFg5Z2tlRF9Yenk4MFFDZE83Y0xHMml1U0t1MUU1Q3doWXQzTFdmVW1UNmU4eUtEcVZTdko4RGVBZXJWV2p5aTg1ck5JOEloelRFR1lvbm44cWpQTG93SHI3UEl2Q1J5V2RmdnlnS3FyakNKQkwwOWtIMXJXTkZhS3BuVm5VamgwaEQ3cFgwa1Nn": 1792418759229,
-    "news:CBMiuwFBVV95cUxNSTJJc0FKOFRfNHFFbldaeFpyVkVncVpjNXZyX3l4dkI3T1BVM0FGb28wVjZndW5UQjRZclVsdld4MWhEUEplV29PYWthbjdpcldTTlFDM2V6WUdLdkQtNDlTQ2dRMVQ2UXcwYXRIWG1KZ1ZydG9YTDZONmZVY0NIaGpVSEpuZkJMaWl1WlAtREdPT1hKY0QxRTI0ZnhCZzJPeE5lYWx1UXN2OFZLQkVkbWcxaUtoRzRPMUxn0gHAAUFVX3lxTE9xMFA5SFJSVm91Z1UwMTBaMGhDeTY1THRpc1BiTE1tVmZLODg5NWNmX0JfdWFSYjZvS2V3My10Nng2MDBlMFY0Zk1lcTVZRlF1YkFyNktfeFlJdE9RTG1MNnJlUTBWNDFGSWJPOTkxMzV0MnVfQVprdkZGd0lWXzZhWmt2eFNfRmRkWC1fQ3NJcUN1QzBfdk04SXNxZGxsZVN3QnBfOHFHdHNxY0VVZU9UT1JadlFoRkQ0by1EM3dWRw": 1792418759229,
-    "news:CBMisAFBVV95cUxPTGluOEdvYXpZQ05NLXQ5Q08yZnVjSjcxOTNYZGQySWM3SnRkYm51dmVXNUh6eHJhMzdJaGVUQTdPZ2djZTNJVUlsWFdpc05uWHlrdll5MnVxUU80V1FsQzhwTmJaaHZIWi1aQWNjcUFGdzA3V25MVnVkMTdOSXg5azJTTUFscnhEVW5kWEFDZkZqRnZIRXhIQWNYdGpyNGNtUGU0RnhVWDlxMXl3am5SWg": 1792418759229,
     "threads:DerbotsGmvg": 1792419044556,
     "threads:DerbUnYleIR": 1792419044556,
     "threads:DerbMXCgOpk": 1792419044556,
@@ -27036,7 +27026,26 @@
     "threads:DfPdgwnI4W1": 1793627738733,
     "threads:DfPdAg1Dxxu": 1793627738733,
     "threads:DfPeBEMHy-l": 1793628056081,
-    "threads:DfPdRfJozfP": 1793628056081
+    "threads:DfPdRfJozfP": 1793628056081,
+    "threads:DfPetdzgYlP": 1793628359250,
+    "threads:DfPe495Ab5g": 1793628359250,
+    "threads:DfPebeTETIu": 1793628359250,
+    "threads:DfPeTD6kkWx": 1793628359250,
+    "threads:DfPdvPyjqK-": 1793628359250,
+    "threads:DfPebwDCnXu": 1793628359250,
+    "threads:DfPeKSIHXVa": 1793628359250,
+    "threads:DfPfCQFG4xs": 1793628359250,
+    "threads:DfPfAW4m1Mw": 1793628359250,
+    "threads:DfPe9gYm_yv": 1793628359250,
+    "threads:DfPeM0KkUxN": 1793628359250,
+    "threads:DfPeEydDxBe": 1793628359250,
+    "threads:DfPdtNxjECq": 1793628359250,
+    "threads:DfPdpAXGkKZ": 1793628359250,
+    "threads:DfPc5vmoCSG": 1793628359250,
+    "threads:DfPc0GcCBqV": 1793628359250,
+    "threads:DfPcgG1kZtf": 1793628359250,
+    "news:CBMiygFBVV95cUxNWW9QMW9IT0pjdUV4RkhBSVdBSHdGRWNpZ0hLMGl4c01vUjNwb1lJRjBGLU1UaElEaGpyaUdtX2JlbGlyRF8zMkhYbkhqbjdvUENTZ3hpMHBOSU54ZVBoUHFQRDBMUjlDcmYxdVZqXzNOVURjajhsdlhQaWtBYWliSElnanF2QjIxZmtMbWFqVDIxOXEtYVY1cjUtTDhPeFg2SWtEOERTdmZNdTdkOGhIdnVZMmxpYlN0Q3VvTkNFV3pOT0htcXozTUdR": 1793628359250,
+    "news:CBMizwFBVV95cUxOTjdpaEx5RkRBTXNtSGpVYklEbHBFLTlSbEtoRHZRQ3ZZSlBleVlJTG5kODJra096ZUdteHVlaW9pX3hhS1MwWTZfTnptQmpNWXlBVmIxaUhfWHdldE1TaU1rdl9JenoxTkVpU1QxclVRUDVDYW9NNWlkRkV2dW9vOWdYQktZS1VWNmpWUGZGTTQ2TnNZZWZaLWlJUnMtRzZ2bkJiQVdZMTFxb1pjd0YzU0x2VVFrOUNvYjFTX2p5b0M4b0diVHRhbE5HSUFPazTSAdQBQVVfeXFMTUk1cVc1NEd1d2hJUUFrRjJ5Q2ZVSHJxVDA2WENqcXNhdFNKVGtCaXJpcWhPWG1HTlhTUjJHTG51bmVXdEV4Zm9VVUQyRmNXWmh2eWJtQzNuVU1obkFRLXhqZnlkbWwzMy01dURud3FMTTE5ZGJldWZVUFZQdFMtTUlwNWxFcnZNWVctTmxHTFYwUGNwMG56bEo2S3FMNExCcjU4YXkyRGg3eGtYeWllUkpuS0VZalRKUkpKRVBDRjk2Si1iVC1XRG42LXgwQTducDJmNEg": 1793628359250
   },
   "digest": [
     {
@@ -27818,10 +27827,30 @@
       "d": 1793627539000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Elharamain News",
+      "x": "Wajib Sertifikat Halal Tahap Baru Berlaku 18 Oktober 2026: Restoran dan Produk UMK Ikut Tercakup - Elharamain News",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWW9QMW9IT0pjdUV4RkhBSVdBSHdGRWNpZ0hLMGl4c01vUjNwb1lJRjBGLU1UaElEaGpyaUdtX2JlbGlyRF8zMkhYbkhqbjdvUENTZ3hpMHBOSU54ZVBoUHFQRDBMUjlDcmYxdVZqXzNOVURjajhsdlhQaWtBYWliSElnanF2QjIxZmtMbWFqVDIxOXEtYVY1cjUtTDhPeFg2SWtEOERTdmZNdTdkOGhIdnVZMmxpYlN0Q3VvTkNFV3pOT0htcXozTUdR?oc=5",
+      "d": 1793628000000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "VIVA Purwasuka",
+      "x": "Perlinsos Digital Meluncur 10 November 2026, Cek Link Resmi, Jenis Bansos dan Cara Daftarnya - VIVA Purwasuka",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTjdpaEx5RkRBTXNtSGpVYklEbHBFLTlSbEtoRHZRQ3ZZSlBleVlJTG5kODJra096ZUdteHVlaW9pX3hhS1MwWTZfTnptQmpNWXlBVmIxaUhfWHdldE1TaU1rdl9JenoxTkVpU1QxclVRUDVDYW9NNWlkRkV2dW9vOWdYQktZS1VWNmpWUGZGTTQ2TnNZZWZaLWlJUnMtRzZ2bkJiQVdZMTFxb1pjd0YzU0x2VVFrOUNvYjFTX2p5b0M4b0diVHRhbE5HSUFPazTSAdQBQVVfeXFMTUk1cVc1NEd1d2hJUUFrRjJ5Q2ZVSHJxVDA2WENqcXNhdFNKVGtCaXJpcWhPWG1HTlhTUjJHTG51bmVXdEV4Zm9VVUQyRmNXWmh2eWJtQzNuVU1obkFRLXhqZnlkbWwzMy01dURud3FMTTE5ZGJldWZVUFZQdFMtTUlwNWxFcnZNWVctTmxHTFYwUGNwMG56bEo2S3FMNExCcjU4YXkyRGg3eGtYeWllUkpuS0VZalRKUkpKRVBDRjk2Si1iVC1XRG42LXgwQTducDJmNEg?oc=5",
+      "d": 1793624340000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
