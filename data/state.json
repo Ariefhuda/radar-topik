@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesajyJiW68": 1792452050560,
-    "threads:DesaijDiGLC": 1792452050560,
-    "threads:DesZx8BnwUT": 1792452050560,
-    "threads:DesawNrk40s": 1792452050560,
-    "threads:DesZtc9gZn7": 1792452050560,
-    "threads:DenvUm2kY3o": 1792452050560,
-    "news:CBMimwFBVV95cUxOSFFuUHpXTEF4ZE1xa3BIaWdyN0htTjBxeERGYnU2N1BROGRrREZzZmN6MDBfX2d5UF9oaVJhQ1RiQTk2NGVGVXR4NmxUMWo2U0R3aW9zMEctcGdhei1DbGgxSFh0MUxxT2Jsb2NLc3pyd0pTUXVOWi1JcVFaM0pPZlo2eTFXOVJyYUs4YWxBNTB3TEhUc1hIc2pEWQ": 1792452050560,
     "threads:DesbjzmkgmO": 1792452335300,
     "threads:DIN7_GABhye": 1792452335300,
     "threads:DesbpRCGfk6": 1792452647173,
@@ -27206,19 +27199,10 @@
     "threads:DfP6eNjEjJA": 1793661340125,
     "threads:Der0UNQn5BZ": 1793661340125,
     "news:CBMiwwFBVV95cUxQc0hYMVZQVTVzY3pucmNlX1pzeWJBM0pCdnpJTzhmbzFlNklxMXNJNXllOEFpWjRNR2RXel9EMW1PdC1QMVc2b1FVS0o2Vm5qOXBRemNSSkdsMTBlLXk3RVlrZTNNMTdSWmlNVllSQ3NrVFJES3BEbUh6aEJ5a1NGZzZGVW5WU1ZfYlhEakg2ZjlNeG5odUd4Tnl4aDhKME4yX3o4MlAycXRQMXRqbW10LUJleEYycTlEaU96eE9ncXUwZEXSAcgBQVVfeXFMTlRYQ0RRUnFNcW0yZTRCQXF5Tzl6NkVDb1hDLV82eHVMTmpaQmVNN184QjJKMWJ6dUk0OXBrUjU0bkZDNlF4cjc3Z25uVWxDOXRSSDFnSjROYnZDX2ppZm94ajVuZ2NQdUlZUHpCT3p4dE1xS2I0MXlISV9PcXdzbkFlN3ppd0J4d0ZUcFJZUEhBQUlGTlZnVEttZzVXSUxoaUltM3M0ZkJ1S0F1RUFqM1ZkQjVCblFGSGRBTFItYlNMSWJVOS1rN2I": 1793661340125,
-    "news:CBMi1gFBVV95cUxNcURBM2FMcnVvM0RucUhlSWJVWGg4X25fYjU0ckNVa29aQkZ1b3FWS3RWRnBTMmRRbU5jQW11TUh2Z05uZThHZ3Vpa1JMY3hLNnZRV1RSekN0NDl6bEpETEJIY29lZDNYR3NqRU9SYU1qNDFGV2Z6WVdoT0ZlRzB2SFoySkJveURxWlM2blJlLWpRc05PRXp1WE5ZdnY1OUJUSzNmcTEwandoSXRQaWE0dm5DaGJrVncxRzhmNGdWSnMzY2ZiQmw1TW1OQ19xcm9hdTRJRUNR0gHbAUFVX3lxTE1aaW5aOVVPcVZBQzZuRTVYZ1RSWXotZ2ZqQXZSelFiTVNKREozdzdBbU5KcjN3MWJqR1RPa1UzSV8yYlp6aG1ia0dGakF5c0pvWEJIci1RcXpYZlJPZjFLQkd3MEJKX2gyOUpiNmx6bjhNbjdNWGFqYk0zUWZTWnhnZklkNTU0UjlJRFMxbURKN3VRMndLcHJsbVN4OTliQkdGQkZydWh0ZC1JQmFUN182SlJLeVY4RWhZSGZDYVh2LWJHRmJkSzNvMUVGN1Z4RWMwSW1jTkN1OHdvdw": 1793661340125
+    "news:CBMi1gFBVV95cUxNcURBM2FMcnVvM0RucUhlSWJVWGg4X25fYjU0ckNVa29aQkZ1b3FWS3RWRnBTMmRRbU5jQW11TUh2Z05uZThHZ3Vpa1JMY3hLNnZRV1RSekN0NDl6bEpETEJIY29lZDNYR3NqRU9SYU1qNDFGV2Z6WVdoT0ZlRzB2SFoySkJveURxWlM2blJlLWpRc05PRXp1WE5ZdnY1OUJUSzNmcTEwandoSXRQaWE0dm5DaGJrVncxRzhmNGdWSnMzY2ZiQmw1TW1OQ19xcm9hdTRJRUNR0gHbAUFVX3lxTE1aaW5aOVVPcVZBQzZuRTVYZ1RSWXotZ2ZqQXZSelFiTVNKREozdzdBbU5KcjN3MWJqR1RPa1UzSV8yYlp6aG1ia0dGakF5c0pvWEJIci1RcXpYZlJPZjFLQkd3MEJKX2gyOUpiNmx6bjhNbjdNWGFqYk0zUWZTWnhnZklkNTU0UjlJRFMxbURKN3VRMndLcHJsbVN4OTliQkdGQkZydWh0ZC1JQmFUN182SlJLeVY4RWhZSGZDYVh2LWJHRmJkSzNvMUVGN1Z4RWMwSW1jTkN1OHdvdw": 1793661340125,
+    "news:CBMigwFBVV95cUxNTHVvYlE5Ul93UVJLNnVpdW5rSFRobGI2UXhEQTJfMExXT21qc3FjemxHTkpQNlU0c09NQUxrT1ZFOFBTWW5EZ0pkdUFJRUNiMkJzeXQyeFdhMGk4NFVKaV8tUFBlNXVjUVB1SUhFelg3ZGxhSURHaVBsc1NhQjE1NEI4bw": 1793661643139
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@alishacakecookies",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@alishacakecookies/post/DfPg7G0Cd56",
-      "d": 1793629454000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28708,10 +28692,20 @@
       "d": 1793660400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Diskursus Network",
+      "x": "Balita Tewas Diduga Dianiaya Ibu Kandung dan Kekasihnya di Jaksel - Diskursus Network",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHVvYlE5Ul93UVJLNnVpdW5rSFRobGI2UXhEQTJfMExXT21qc3FjemxHTkpQNlU0c09NQUxrT1ZFOFBTWW5EZ0pkdUFJRUNiMkJzeXQyeFdhMGk4NFVKaV8tUFBlNXVjUVB1SUhFelg3ZGxhSURHaVBsc1NhQjE1NEI4bw?oc=5",
+      "d": 1793661473000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
