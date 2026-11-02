@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiwgFBVV95cUxOWWlwcktkY3psYkVrS2JqNFhvTlhHT09Iem1fSEtDUjhHRlpPeGpkLVg1WjNLeEh4eFVDWlR2b0NjUHJXQ2k1cXhuWFFWSGVDTnBuQXNxbXFBZ0JRT2ZVSTBrUTFIYTJzWTVmbkJEWUhnM202QU1UQ2ZlYWJDeG5Hd1htVVZlU0pLNmxMWDVRRzZzcmZCNkVLaElpSnBkblJrTE1iUWxHVzhuOGQyT2xtOHM2X3pTUk1fVVdQMERLOG1fQdIBxwFBVV95cUxNbmEzYUJjaXdkTGlhME9qOE9BN0F1YlU2XzJ5NlMtSmc5ZFZaa2hPOXFvb2ZuYnI0OXNtOWNJckdQWl9taVRTY29YeEhVaGpJVmxZVURqcHlXa0RwSG9ac1RLWkxuNWNrQXdjYUo4NUxSckQyX0pST0ZaZHJDOE0xTDlxWUJBb1hxU3dpcnhIWk84QUNaV055TjNGQkpRWkl3LXZhRjlBcWZ0bGM4LW1pb2hic1Zmb1l3N213RGR2LTdLMGRpYUZv": 1792430153675,
-    "news:CBMixAFBVV95cUxQR0gwVmJzM0FfSHFQa01kaVIxUEZlTkt6WGxUcW1KWjBHMFVvcXNlX3Vzb1FMRzd5X1ltYjJzSlJvWW9wSnNiUHFUUmlkUWtmWU1MTjFlMUs5Nkt0LWNXNldVOTNXeFZDVkdvMnFpN24ydE1FbGxBbTBtV1NaN25XSWlKdFp4c3FNWDF2UUhxZG9OaXFPalZWc0hndm1aaWtwX1NPMXVIQ0NzSEZpZlFrUFAteTAtNldMU1ZFUE5sRFRzMXU5": 1792430153675,
     "threads:Derxp2Nj2ny": 1792430440305,
     "threads:DcSupbkAVlf": 1792430440305,
     "news:CBMi4AFBVV95cUxOUy14VGpFczFIVE13c1pNaVdzZDNCRElFT1FzODhVdUxucV80eDdHRXN3RlZkSThjQVdlTk0xM0NvTzkwOWUwNWtTMjBDamd0ZEZQUnNCaDhKVDdWYy1qdmVGTGV3bUpBRDlrZkNKMDd1QmZKb0EyQUtVRkd5VWtUeWNjOUo3UDlrZE1DbnBLQ3R4aW1JLTFzWDg4VzBkbGtNYWFzclhmOEs4alZ3SmEyQ3lFaTluVkNlak54cGJUVVNkVGpjY05YUVhteVIwdTBpQ1JUWWFrM1E1ZmFHS3ZXZQ": 1792430440305,
@@ -27072,39 +27070,21 @@
     "threads:DfPyGSNGqb4": 1793639141451,
     "threads:DfPydL7kkTK": 1793639141451,
     "news:CBMitwFBVV95cUxQbDZhM0I0d0xQc0hqVGdGQThKdzJ4d21SaC1nQkNsSmRpN1BPSzhyQkhvS0lfMmIyV2hkOExpZ3B1RVlMNEJOS3dpZmZJVnBxV3RLMkx6VGVvRDFBOUkxdGlpTDBQQVFnVmU0d084SFBLQkNDdmZGR1plWHFTdGxCajNmRk5XTFd5M1hJNFBkQU8yTWNfcWV2ZXBtSjAyS2NKMV9kQlh2bEQtNk9RUUdWNkl1QkNSQ3c": 1793639141451,
-    "news:CBMiuAFBVV95cUxNSU1LMDNMMXN6TUxKam5Na2JERk44V21NTTNYUGFwRW1POXRWdFBKX1EzZU5oMXZZa0RNMFpna2UxT1luUHFXQllseHRIcUhIQkJWazlndGVHWkJCMVFqT2JhdVd1RVBMUDl4S2RoaFZGYkpHdEFLM2dYVVJQUTdMaE1uTmRzZDJwazVIbzFZeEVaOV9iMTBmZVV1NUc5TXhCczNKNUpRNnVlUHRrZGV3Q2Rmc0lvM0ZZ": 1793639441302
+    "news:CBMiuAFBVV95cUxNSU1LMDNMMXN6TUxKam5Na2JERk44V21NTTNYUGFwRW1POXRWdFBKX1EzZU5oMXZZa0RNMFpna2UxT1luUHFXQllseHRIcUhIQkJWazlndGVHWkJCMVFqT2JhdVd1RVBMUDl4S2RoaFZGYkpHdEFLM2dYVVJQUTdMaE1uTmRzZDJwazVIbzFZeEVaOV9iMTBmZVV1NUc5TXhCczNKNUpRNnVlUHRrZGV3Q2Rmc0lvM0ZZ": 1793639441302,
+    "threads:DfP0jFZDySK": 1793639745117,
+    "threads:DfP0fdGCnB-": 1793639745117,
+    "threads:DfPzvAKFGDr": 1793639745117,
+    "threads:DfPz1Bnk_DB": 1793639745117,
+    "threads:DfPzcMjki4t": 1793639745117,
+    "threads:DfPzRY8loCE": 1793639745117,
+    "threads:DfPzJmaFhvc": 1793639745117,
+    "threads:DfP0YqNCCD8": 1793639745117,
+    "threads:DfP0B2jnbOt": 1793639745117,
+    "news:CBMisAFBVV95cUxQb202dlQzOVNNdnNEN2Zpdmp3Q1NsaENsQjBMT0ZNb0IzWjdPcDFRQ0NIbTlyVjh5RElKc0dhVXZ2YkhIeDVKbm5vMVBOOXVLMkw1Y1FUVjNaNXJ1OVZRNFhLUC1sS1NsdU95WGxRNi1CTzdaMHpaYTFNRW8tUDQydjVOam1paWNoVXBPUS1pSUlVdjA3NjVteG81djFKaFJxZzdXTHYzalE4X3N6UG9LetIBsAFBVV95cUxQb202dlQzOVNNdnNEN2Zpdmp3Q1NsaENsQjBMT0ZNb0IzWjdPcDFRQ0NIbTlyVjh5RElKc0dhVXZ2YkhIeDVKbm5vMVBOOXVLMkw1Y1FUVjNaNXJ1OVZRNFhLUC1sS1NsdU95WGxRNi1CTzdaMHpaYTFNRW8tUDQydjVOam1paWNoVXBPUS1pSUlVdjA3NjVteG81djFKaFJxZzdXTHYzalE4X3N6UG9Leg": 1793639745117,
+    "news:CBMi1AFBVV95cUxQOVE5bDZYeC0xMGdDd2M0MEd3WXJjVG1vcFdwZnR5aEs3ZXZLSGYyYUlQbEpDeE9rVGZUM0VSQnE0X3M1Y3ZqdGI0a0o5RDNUYkNQRHNJN0hJMFA4UDNaYU95OWlCTHpEemtSRTFOdm41ME5uaHhUN3ZyVVViUndVY1V3eDRXRVJHNURpT0lLSm9GcE5pU1N1RjAtcEhLd1VRU2VNS0ZpdlBNcWE1VERQRkpqODJCN2xlT0Q0bllvbkgyTlFKT2xBRU12YVJINzZhWlpNbA": 1793639745117,
+    "news:CBMi2AFBVV95cUxOWERaX2cweTFTRWhhVzZrR0p5SWR3WHJYRUJDcTR2c3NxdlZOdkNxTGl1YkxOSWJxaGNmS29INTFyTDJCdExvekVvLTNudldxaGQtQnlmMUtYZi1EYWRWN0ZVcXpzdlZjR1phNEdoWWRHNkFBUFJUeURBd3lRYWtLR1VzODB3TENZRlF3UzQzWXdiYm8wbnlYTmdFZ21XdnNPai02ZF94OHIwRjdFSlhudi1UaDNMbVlZcDJ4V3lxaGpmNm5IT0ttYmtld3hfYkhEOXFqQlVVSW0": 1793639745117
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Prokalteng",
-      "x": "Pemprov Kalteng Minta Data Lengkap Satuan Pelayanan Gizi - Prokalteng",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVFUaXhEcE1WeDgzMjVuMUFKc0NDZjVKeFFtWGl4d2tIUzdZLWRnNjM5QmpmSkNDRlZ6Y0R0dUNYdndfdVJSWlBDaFNpY1BUNmJQRzEwRWo4bUQ5bk0zN0ljU2hDZjgtUmsweDM0T0k5NklTYVFlY2dqblllZElrd2MyX25kVDU2MFlKYjdTYlBBTkRXaExTei1ibXk1XzBfbHNJaE5CUHZzcURCeFhWZS1PYk9wYkxwdG1nbVZjUUZoVkZXVUtV?oc=5",
-      "d": 1793621719000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Bicara Network",
-      "x": "Cara Lapor Bansos Gagal Salur, Ini Link Pengaduan Kemensos dan Nomor yang Bisa Dihubungi - Bicara Network - Bicara Network",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzhIRURzUFA1ejBTeE9LOHpvb2dYckt2SGZVbVE5RmZHbG80VHpLY2pUREZIWjZGSHM2ZGM3S245VThPY2lXLXdJY2VwQl9nSWdPUWExTzRRMXNMOG10dlRpN1pyUDN4b0UtRHhkRk9YNTNHU3BJakxnUGpyVERncW45Q1VXS0x4TTJrZW80OTdZUnlRclB0RzBpclM5eFpXcXY0c0UxbFd4b1pVUFlvaU5oYWRqdnVqTXlUZDBGTEN0LUpmYnhWWUJnNU1NdWt1bDhEVzRRWdIB1wFBVV95cUxQbzhIRURzUFA1ejBTeE9LOHpvb2dYckt2SGZVbVE5RmZHbG80VHpLY2pUREZIWjZGSHM2ZGM3S245VThPY2lXLXdJY2VwQl9nSWdPUWExTzRRMXNMOG10dlRpN1pyUDN4b0UtRHhkRk9YNTNHU3BJakxnUGpyVERncW45Q1VXS0x4TTJrZW80OTdZUnlRclB0RzBpclM5eFpXcXY0c0UxbFd4b1pVUFlvaU5oYWRqdnVqTXlUZDBGTEN0LUpmYnhWWUJnNU1NdWt1bDhEVzRRWQ?oc=5",
-      "d": 1793617500000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ariesadhar",
-      "x": "20 JP di era webinar dan MOOC itu gampang. Ikut webinar-webinar gratis yg cukup absen dan isi pre/post test, login Zoom dan headset ditinggal, beberapa kali saja langsung terpenuhi",
-      "u": "https://www.threads.com/@ariesadhar/post/DfPTpEYo3zL",
-      "d": 1793622489000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28574,10 +28554,40 @@
       "d": 1793639243000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@raiolanetworks",
+      "x": "🤖 ¿Quieres que tus clientes te encuentren más fácilmente? Apúntate a nuestro webinar GRATIS y mejora tu visibilidad en la IA. Nacho Benavides: \"Primeros pasos para salir en ChatGP",
+      "u": "https://www.threads.com/@raiolanetworks/post/DfP0YqNCCD8",
+      "d": 1793639695000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@whiteroad08",
+      "x": "Apa pelatihan nya gratis?",
+      "u": "https://www.threads.com/@whiteroad08/post/DfP0B2jnbOt",
+      "d": 1793639469000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "GOW Kota Cilegon Gelar Pelatihan Public Speaking untuk Perkuat Kepercayaan Diri Perempuan - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWERaX2cweTFTRWhhVzZrR0p5SWR3WHJYRUJDcTR2c3NxdlZOdkNxTGl1YkxOSWJxaGNmS29INTFyTDJCdExvekVvLTNudldxaGQtQnlmMUtYZi1EYWRWN0ZVcXpzdlZjR1phNEdoWWRHNkFBUFJUeURBd3lRYWtLR1VzODB3TENZRlF3UzQzWXdiYm8wbnlYTmdFZ21XdnNPai02ZF94OHIwRjdFSlhudi1UaDNMbVlZcDJ4V3lxaGpmNm5IT0ttYmtld3hfYkhEOXFqQlVVSW0?oc=5",
+      "d": 1793639645000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
