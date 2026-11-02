@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdtTGmkGBeE": 1792418376132,
-    "news:CBMifEFVX3lxTE1YZFVUb2ZXWEFweFl3U0JtMk9sWENCVUswZG91MVBIdUdnYXRBdDNJb0VRQ1Q1SHkzZnh0QU95WDdheWdaR1Ywb2gzTlBXSW82b3pYM1B2LVFBZHI2cXl1VGFnbnZIY3NqVTUxS1FoUUZ2VUZUbGtpaG9vZTA": 1792418376132,
-    "news:CBMiowFBVV95cUxNZFUwSnFNeGhzYTRmTmtVY3ppTW9nUFlNd1c3NkVjSmYyZFBFc21qQzVGOHJ6d3NJMGJaQXZZaEZHUDZJMWFQem9TM0w3ajF5TTlmbEtxLTBzSDROdjE2TExZYzZ4YUUyRkk5Z3lVWUk3RUJONzB4c0tmX05zQ3lDa2MtbzNiYnptbElHZnJybUhtMlE5eDVPRWtEYzBqMEN3MVZr": 1792418376132,
-    "news:CBMiXkFVX3lxTE5YeHRudmxwWFg5TkJGbHJyTFBLTVNpd29Lb1BGWGZPLTN6dEFWbnByOEVBZ3JRVk5tbkJqazF2Wl92eUg2T0d3OWplMDFWNmVHcjRsUXQ2LWVGa01fLWc": 1792418376132,
-    "news:CBMi1gFBVV95cUxNMWlTYlI5dzNGUG1PSGROT0F5NzRrQ0cyVWFZcVFZaldaSFhHMjFiaUdpb3ZlaGhxOW5xOU5lOTB0YnJEa2xhU3N1Vkc2X09SY0JDUnhXZHZ6YmZPTzJkeXNLZmJJY1F0MlJ5Yl9MM2FyMEhSUnRJQjJqbThXVG1qM0pDZmVIZm12dzNIeHEyZlVkRFRrUV8wZVgzbmFEUEZHODkxYzhXcVlLazNtVnUwSTR1S0lGQzVyMWVWZHFmMk9WWVE1bzhQdFd4dHBWcVQ2X0NEc3hB0gHWAUFVX3lxTE0xaVNiUjl3M0ZQbU9IZE5PQXk3NGtDRzJVYVlxUVlqV1pIWEcyMWJpR2lvdmVoaHE5bnE5TmU5MHRickRrbGFTc3VWRzZfT1JjQkNSeFdkdnpiZk9PMmR5c0tmYkljUXQyUnliX0wzYXIwSFJSdElCMmptOFdUbWozSkNmZUhmbXZ3M0h4cTJmVWREVGtRXzBlWDNuYURQRkc4OTFjOFdxWUtrM21WdTBJNHVLSUZDNXIxZVZkcWYyT1ZZUTVvOFB0V3h0cFZxVDZfQ0RzeEE": 1792418376132,
     "threads:C_2nvaJJKYg": 1792418759229,
     "threads:DeG8bUdDyiR": 1792418759229,
     "threads:Derb1ImmCMW": 1792418759229,
@@ -27039,7 +27034,9 @@
     "news:CBMiygFBVV95cUxPZUpfZjR2dkJZNUpnTUo3cTR6aC1yM2VaV1lwV2o1SUVBTU9DdVBYb0lpMkpYT1ZwcUh3bGxmMk9FbnVKUVZUdFJSR0Zfalo3aXZkcWotYlpFcDl1RHh0b1BkUS1Iczc5ZUZTMlg0YktHbFBjOXVHalNublVscFlBZTlPSVFvY0REbVpUMTNnMjJiS2otQll4ajFSUWxwZEtfWlNNQVd6NzRqUXFvRHlSdWkxbjhqUXRrbEs3aXVIMnhjNUtQY0VkczhB": 1793627445408,
     "threads:DfPdUg4imk9": 1793627738733,
     "threads:DfPdgwnI4W1": 1793627738733,
-    "threads:DfPdAg1Dxxu": 1793627738733
+    "threads:DfPdAg1Dxxu": 1793627738733,
+    "threads:DfPeBEMHy-l": 1793628056081,
+    "threads:DfPdRfJozfP": 1793628056081
   },
   "digest": [
     {
@@ -27801,10 +27798,30 @@
       "d": 1793627400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yunitaagustiani06",
+      "x": "3 minggu aku ka klo apk cek bansos",
+      "u": "https://www.threads.com/@yunitaagustiani06/post/DfPeBEMHy-l",
+      "d": 1793627929000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@irasumiartiirasumiarti",
+      "x": "Pengajuan PIP disekolah tetep harus lihat dulu desilnya,boleh di cek sendiri juga bisa... klik cek bansos digeogle crhom,yang dapet bantuan PKH,BTN,BANSOS itu desilnya yang rendah ",
+      "u": "https://www.threads.com/@irasumiartiirasumiarti/post/DfPdRfJozfP",
+      "d": 1793627539000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
