@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesPrsoEvJZ": 1792448734527,
-    "threads:DCQvJ0tyojN": 1792448734527,
-    "threads:DEH-nRfyLox": 1792448734527,
-    "threads:DesQSi4E1Np": 1792448734527,
     "threads:DesVhD0k9sl": 1792449056905,
     "threads:DesUPU9D4Z3": 1792449056905,
     "threads:DesUAIDD5ad": 1792449056905,
@@ -27211,29 +27207,14 @@
     "threads:DfQXFlXDAD0": 1793658045384,
     "threads:DfQW6GElHMW": 1793658045384,
     "threads:DfQWeLjlFah": 1793658045384,
-    "news:CBMimgFBVV95cUxPXzFHdklLLVJQem5tNHNhZ1BmV3NHQncyalFMTnZ3QzhZS0xBOHFReTdaZVM1MXFOUnlPVGxFNjNTeERzbFJNYjZKY2h5NnRNRGFBS2dnZXBZdkhPZTZxX2N5OHlzOHF3SjFPRjM1QlV0dng3ZEFTYTRvUmdyUWplNWllV3liNmlGZmwzWDRJVjBCdGZtalhsSUlR": 1793658045384
+    "news:CBMimgFBVV95cUxPXzFHdklLLVJQem5tNHNhZ1BmV3NHQncyalFMTnZ3QzhZS0xBOHFReTdaZVM1MXFOUnlPVGxFNjNTeERzbFJNYjZKY2h5NnRNRGFBS2dnZXBZdkhPZTZxX2N5OHlzOHF3SjFPRjM1QlV0dng3ZEFTYTRvUmdyUWplNWllV3liNmlGZmwzWDRJVjBCdGZtalhsSUlR": 1793658045384,
+    "threads:DfQXZlOj2hy": 1793658361145,
+    "threads:DfQXWPlD_jA": 1793658361145,
+    "threads:DfQXRnlAjCE": 1793658361145,
+    "threads:DfQXhiOE9x_": 1793658361145,
+    "threads:DfQXZktk3-4": 1793658361145
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@cacingnaga403",
-      "x": "ada kelas cpns online malem gitu gak ya, gabut bgt klo malem dripada scroll2 doang atau info2 webinar gratis gitu dapet drimana ya",
-      "u": "https://www.threads.com/@cacingnaga403/post/DfPbHw3k5P3",
-      "d": 1793626411000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bertapa_bersama",
-      "x": "Kak, kamu sama aku sama. Tadi pagi mau ikut seminar gratis si, cuman lagi ngerjain tugas+ hujan, jadi gak jadi deh😭",
-      "u": "https://www.threads.com/@bertapa_bersama/post/DfPb6DOEpUv",
-      "d": 1793626823000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28713,16 +28694,37 @@
       "d": 1793657997000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lpkintron",
+      "x": "Halo kakk! Kebetulan kami di surabaya nih kak. Tertarik join LPK kami? Walau baru, kami sister company LPK Seikou Global Mandiri (sudah SO). Fasilitas lengkap: kelas & asrama AC + ",
+      "u": "https://www.threads.com/@lpkintron/post/DfQXhiOE9x_",
+      "d": 1793658079000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lpkintron",
+      "x": "Halo kakk! Kebetulan kami di surabaya nih. Tertarik join LPK kami? Walau baru, kami sister company LPK Seikou Global Mandiri (sudah SO). Fasilitas lengkap: kelas & asrama AC + kate",
+      "u": "https://www.threads.com/@lpkintron/post/DfQXZktk3-4",
+      "d": 1793658014000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793640648783
+    "reddit": 1793640648783,
+    "news": 1793658361145
   }
 }
