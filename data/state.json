@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DercU3mFIyj": 1792419349830,
     "threads:DercLJRHzXb": 1792419640948,
     "threads:DYD4t2EkkG6": 1792419640948,
     "threads:DerdV91EnlP": 1792419640948,
@@ -27040,7 +27039,10 @@
     "threads:DeoVPwKE2xu": 1793628641955,
     "threads:DfPd77eGlqT": 1793628641955,
     "news:CBMiW0FVX3lxTE5DYnJsMjBObjVCbzdGMDVHWnYwNE14LXR2Z3l6NnRETjdUWEM0NXBBaTBpYlRJUUxxdFBUNWVRSTFfVTcxSXRQUzR0bnFtUl9pWk5RdTVRbWVZVU0": 1793628641955,
-    "news:CBMivAFBVV95cUxPVEVUV2tETjRLQW9yTlg2ejcxcEFpZkZtNjVrVm9RVkliRW9nLV9SbWg3R0RIM1RlWlFXQm9pMkpZN0xROVhnS2VXZlM1bGxOV2ctZlBWZUhUSEtTbHFrT3hRaTFrZk1IZjhCZE9TVWdiUjZxZWt5M3JmSkFTU2FBbTEyY1NRdVNwSjZ5NVFnaVVQWVRKaW9TbHdPM0RnM3ZEUXFQQzZNc0ZuMEVJX2lnbDkyQ0tPMmNjOVRlcNIBvAFBVV95cUxPVEVUV2tETjRLQW9yTlg2ejcxcEFpZkZtNjVrVm9RVkliRW9nLV9SbWg3R0RIM1RlWlFXQm9pMkpZN0xROVhnS2VXZlM1bGxOV2ctZlBWZUhUSEtTbHFrT3hRaTFrZk1IZjhCZE9TVWdiUjZxZWt5M3JmSkFTU2FBbTEyY1NRdVNwSjZ5NVFnaVVQWVRKaW9TbHdPM0RnM3ZEUXFQQzZNc0ZuMEVJX2lnbDkyQ0tPMmNjOVRlcA": 1793628641955
+    "news:CBMivAFBVV95cUxPVEVUV2tETjRLQW9yTlg2ejcxcEFpZkZtNjVrVm9RVkliRW9nLV9SbWg3R0RIM1RlWlFXQm9pMkpZN0xROVhnS2VXZlM1bGxOV2ctZlBWZUhUSEtTbHFrT3hRaTFrZk1IZjhCZE9TVWdiUjZxZWt5M3JmSkFTU2FBbTEyY1NRdVNwSjZ5NVFnaVVQWVRKaW9TbHdPM0RnM3ZEUXFQQzZNc0ZuMEVJX2lnbDkyQ0tPMmNjOVRlcNIBvAFBVV95cUxPVEVUV2tETjRLQW9yTlg2ejcxcEFpZkZtNjVrVm9RVkliRW9nLV9SbWg3R0RIM1RlWlFXQm9pMkpZN0xROVhnS2VXZlM1bGxOV2ctZlBWZUhUSEtTbHFrT3hRaTFrZk1IZjhCZE9TVWdiUjZxZWt5M3JmSkFTU2FBbTEyY1NRdVNwSjZ5NVFnaVVQWVRKaW9TbHdPM0RnM3ZEUXFQQzZNc0ZuMEVJX2lnbDkyQ0tPMmNjOVRlcA": 1793628641955,
+    "threads:DfPfLQSCf29": 1793628957411,
+    "threads:DfPf730FUcY": 1793628957411,
+    "news:CBMingFBVV95cUxQQ0J0b1JnR0U1QzBIS0xQS2ZaVDI0MTFON216Z0NVTVpWR1RHSVY3UTFIbEktU2RmQWZ2WnFSSE05S0RTTTdHdFZFT3ZOWWJ4c2xxQk9lbTNWcVZFMXlzQVowR2lPSHI0WXlSZlVXd2ZnbE9lRXlQdllNdTFEX0FxaTNOX1VyMGdHdFI5a0J0S3AzeWU4Ul9qMThtZ1Rhd9IBowFBVV95cUxOYlFQUlRhVVhOWnBtX0poUzA1YlRCM3J2aUlXZmdBb1pYeGtWMlhnc2tfdVJYNEpCUVdXbGF4VU5VXzQ0cTNMbWhNZUtWaU8tTUZqUWxpSHJZQnhab2JLUWZ5QWlQM0Ixajg0RGxZd0JiRnY3RTdremJsR3plXzE0Qk9LSjdTYXNjd2RrWV9MZFAyS1ZXR1RIeG82YWpNMHhKT2dZ": 1793628957411
   },
   "digest": [
     {
@@ -27872,10 +27874,30 @@
       "d": 1793612820000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Cara paling cepat cek desil kamu pakai NIK: 1. Online di Cek Bansos Kemensos - buka aplikasi Cek Bansos atau http://cekbansos.kemensos.go.id, masukkan NIK dan KK, nanti keluar stat",
+      "u": "https://www.threads.com/@meta.ai/post/DfPfLQSCf29",
+      "d": 1793628536000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Antara News jatim",
+      "x": "Kota Madiun bagikan 5.368 seragam sekolah siswa SD-SMP - Antara News jatim",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0J0b1JnR0U1QzBIS0xQS2ZaVDI0MTFON216Z0NVTVpWR1RHSVY3UTFIbEktU2RmQWZ2WnFSSE05S0RTTTdHdFZFT3ZOWWJ4c2xxQk9lbTNWcVZFMXlzQVowR2lPSHI0WXlSZlVXd2ZnbE9lRXlQdllNdTFEX0FxaTNOX1VyMGdHdFI5a0J0S3AzeWU4Ul9qMThtZ1Rhd9IBowFBVV95cUxOYlFQUlRhVVhOWnBtX0poUzA1YlRCM3J2aUlXZmdBb1pYeGtWMlhnc2tfdVJYNEpCUVdXbGF4VU5VXzQ0cTNMbWhNZUtWaU8tTUZqUWxpSHJZQnhab2JLUWZ5QWlQM0Ixajg0RGxZd0JiRnY3RTdremJsR3plXzE0Qk9LSjdTYXNjd2RrWV9MZFAyS1ZXR1RIeG82YWpNMHhKT2dZ?oc=5",
+      "d": 1793627923000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
