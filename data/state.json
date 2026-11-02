@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesPmY0ATxN": 1792446339286,
-    "threads:DesPkjvHXxT": 1792446339286,
-    "threads:DesPWxOiOii": 1792446339286,
-    "threads:DesQcdTmxYV": 1792446339286,
     "news:CBMiigFBVV95cUxOcUd5ZGllbzBhYS1QNTZmUmtWdWt5TmNlX3A5aW8zM3NHLVFOcjEtWkhIeE9KYWtiZndDNFoyTnhMbEo0OVBqYkZzSHhrUGxmUkRiY2NCa2RmbVdQc1cybDZIOUtlV2hiUzBKQXJySWFaTmVyWUYxOEF1QlVKV3prRlk1ckd2U19YRGc": 1792446640176,
     "threads:DT_uQ4lkgvJ": 1792446945331,
     "threads:DesQwg2Eis9": 1792446945331,
@@ -27187,29 +27183,14 @@
     "threads:DfQLqBgEpIl": 1793655048368,
     "threads:DfQRUS3AScW": 1793655048368,
     "threads:DfQRSjcmmUX": 1793655048368,
-    "threads:DfQRN6Xj-Al": 1793655048368
+    "threads:DfQRN6Xj-Al": 1793655048368,
+    "threads:DfQS0pFID_O": 1793655944462,
+    "threads:DfQSpHVmtdX": 1793655944462,
+    "threads:DfQSsUCGYPg": 1793655944462,
+    "threads:DfQTHLSEwCu": 1793655944462,
+    "threads:DfQTE-RE9Ja": 1793655944462
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "ChatNews.id",
-      "x": "Cara Memahami Status KPD di Cek Bansos Kemensos - ChatNews.id",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBha2Y2U0EyM3hGRFZhbWt4V0NZVkY0RGpWa0l3YnhFbWUySk55aktYZnV3VzB4VmdXWUVCMmJ4OTFnSHFkVmFfeHdZaGZoTXBlUW0wVlZVNmZvVld6SGdN?oc=5",
-      "d": 1793624854000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Harianmetropolitan.co.id",
-      "x": "Bupati dan Kepala Dinas Pendidikan Karimun, Serahkan Seragam Gratis di SD Negeri 008 Tebing - Harianmetropolitan.co.id",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMHVNOFJGcktnbzA1Rnl1OEZ0VDFIaUU3UkI0TklrbXlMb3kwR0JBQjBFb2pCb2t4LVF6TW1JQnRwNlJkci1feVhxeUpNVXdvYVNwR1I0dlpON2lVYUI5RmxCb1FEOE1aenpuY2thNWpFdDVaclUzSEJPRGZUb2gtOEgtSWc5N3dfV0NGSWpKSGxVQXBOQjFJMHVCNXJrZm9PYk9EZ0doTzI0aVdxUWRlVkxhZTU4dE1aZHlYZkFFeVBiMUVuNEdHc1hUZXJNUHFK0gHYAUFVX3lxTE9Fc3kzaGktWkx3aFZ6cE9QbmEtN2xZVE1FY0JCS2k0eDhHYUtTcEtMVy13QTRteWpqbEpyZzZtR2FoeEJLWHg2ZzYzMkhOd3oxeHh4cUJwQTExWjdaVTl3b1VkbG9xeTJ1a1F6UWRaQVVEVjE4Y2NySk5zRFliNGhkLWxSRV9nWC1JQjc2VmhTSkhxdi03bVJXbHJTaUtGUGZnSENiR21LcU15OFhxeDJrWnRKcl94cWxwMDFiQ2UteHRsTHc5UzZWbm5GeGRFZ2xnaUpBOXI5Uw?oc=5",
-      "d": 1793617276000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28689,10 +28670,30 @@
       "d": 1793654329000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4 Kelas Gratis ✅",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfQTHLSEwCu",
+      "d": 1793655766000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4 Kelas Gratis ✅",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfQTE-RE9Ja",
+      "d": 1793655748000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
