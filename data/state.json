@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesaIX8k_N_": 1792451741886,
-    "threads:DesZjegk2ZV": 1792451741886,
-    "threads:Desa4FDkxON": 1792451741886,
-    "threads:DesaDOGkdLw": 1792451741886,
     "threads:DesajyJiW68": 1792452050560,
     "threads:DesaijDiGLC": 1792452050560,
     "threads:DesZx8BnwUT": 1792452050560,
@@ -27196,69 +27192,23 @@
     "threads:DfQaz1ogVHH": 1793661045494,
     "threads:DfQaql9jIXv": 1793661045494,
     "news:CBMieEFVX3lxTFBjVEdUcUdnWTctanZpbGtHSW1tUHVxYUdmbHE3YjZNNmZPcm5URVBmMHNPTjdwaHhWVm9Jb1pjNTNwM0pGUG9xUU1RbmJrQUwtQlNldUFWZllMeFF0U1NpRTBqb1VaN0Y5V0F2RFB3NnNOaVBwOHBDNQ": 1793661045494,
-    "news:CBMiuAFBVV95cUxPcVNac1g0RlZHTTd4R1QxSXRtRVlVRFZFVWJsNnI3d2JHVmRIWVg0R0Z5UUlMb0hBUTUxN1R4emxhMnBudzFOelBxUmdCMC1XQ29ZbG1QMVRLYWd4MzBXMEtLdXk3UXV5QjA2YWMwMkh4RWFFODZtNHFReFVnc0swVUN6YXphb0g1aV82SHMtS0pOcFljUjNSb2dTcFJ4SUFpTjU0dXVvX0FoVC1PZVlHZlhmQlMtMjg40gGoAUFVX3lxTFBSNWlDMUM3QTdzdzhTeXFnQ1NTTW1yUTFveDdDNDhFcUFtczRvLTZadDFJd19qZlpvbktjTEN0ZGlZamRaMjQ1dXVvd0FhOE1yWWprMUJ5MXFNc3Fid2FpbGMwMVhicXVHVjFxS3lPMzRvZVlGOEIyMEp2NUZTZWtWc1o4eDJhbFVQR1lSbk9yeVRESmtmakJKREtfaExzNHZSd0tCNnN4UA": 1793661045494
+    "news:CBMiuAFBVV95cUxPcVNac1g0RlZHTTd4R1QxSXRtRVlVRFZFVWJsNnI3d2JHVmRIWVg0R0Z5UUlMb0hBUTUxN1R4emxhMnBudzFOelBxUmdCMC1XQ29ZbG1QMVRLYWd4MzBXMEtLdXk3UXV5QjA2YWMwMkh4RWFFODZtNHFReFVnc0swVUN6YXphb0g1aV82SHMtS0pOcFljUjNSb2dTcFJ4SUFpTjU0dXVvX0FoVC1PZVlHZlhmQlMtMjg40gGoAUFVX3lxTFBSNWlDMUM3QTdzdzhTeXFnQ1NTTW1yUTFveDdDNDhFcUFtczRvLTZadDFJd19qZlpvbktjTEN0ZGlZamRaMjQ1dXVvd0FhOE1yWWprMUJ5MXFNc3Fid2FpbGMwMVhicXVHVjFxS3lPMzRvZVlGOEIyMEp2NUZTZWtWc1o4eDJhbFVQR1lSbk9yeVRESmtmakJKREtfaExzNHZSd0tCNnN4UA": 1793661045494,
+    "threads:DaJvUolmvh5": 1793661340125,
+    "threads:DfQdY3mkxvi": 1793661340125,
+    "threads:DfQdWkcE7WJ": 1793661340125,
+    "threads:DfQdVotE0Aj": 1793661340125,
+    "threads:Db-taZgkWnj": 1793661340125,
+    "threads:DcyGwL8lFJb": 1793661340125,
+    "threads:DUqk_SYAafR": 1793661340125,
+    "threads:DdQRXJBIPjO": 1793661340125,
+    "threads:Dc0Hpx0Ezft": 1793661340125,
+    "threads:DSeo62Lk9W_": 1793661340125,
+    "threads:DfP6eNjEjJA": 1793661340125,
+    "threads:Der0UNQn5BZ": 1793661340125,
+    "news:CBMiwwFBVV95cUxQc0hYMVZQVTVzY3pucmNlX1pzeWJBM0pCdnpJTzhmbzFlNklxMXNJNXllOEFpWjRNR2RXel9EMW1PdC1QMVc2b1FVS0o2Vm5qOXBRemNSSkdsMTBlLXk3RVlrZTNNMTdSWmlNVllSQ3NrVFJES3BEbUh6aEJ5a1NGZzZGVW5WU1ZfYlhEakg2ZjlNeG5odUd4Tnl4aDhKME4yX3o4MlAycXRQMXRqbW10LUJleEYycTlEaU96eE9ncXUwZEXSAcgBQVVfeXFMTlRYQ0RRUnFNcW0yZTRCQXF5Tzl6NkVDb1hDLV82eHVMTmpaQmVNN184QjJKMWJ6dUk0OXBrUjU0bkZDNlF4cjc3Z25uVWxDOXRSSDFnSjROYnZDX2ppZm94ajVuZ2NQdUlZUHpCT3p4dE1xS2I0MXlISV9PcXdzbkFlN3ppd0J4d0ZUcFJZUEhBQUlGTlZnVEttZzVXSUxoaUltM3M0ZkJ1S0F1RUFqM1ZkQjVCblFGSGRBTFItYlNMSWJVOS1rN2I": 1793661340125,
+    "news:CBMi1gFBVV95cUxNcURBM2FMcnVvM0RucUhlSWJVWGg4X25fYjU0ckNVa29aQkZ1b3FWS3RWRnBTMmRRbU5jQW11TUh2Z05uZThHZ3Vpa1JMY3hLNnZRV1RSekN0NDl6bEpETEJIY29lZDNYR3NqRU9SYU1qNDFGV2Z6WVdoT0ZlRzB2SFoySkJveURxWlM2blJlLWpRc05PRXp1WE5ZdnY1OUJUSzNmcTEwandoSXRQaWE0dm5DaGJrVncxRzhmNGdWSnMzY2ZiQmw1TW1OQ19xcm9hdTRJRUNR0gHbAUFVX3lxTE1aaW5aOVVPcVZBQzZuRTVYZ1RSWXotZ2ZqQXZSelFiTVNKREozdzdBbU5KcjN3MWJqR1RPa1UzSV8yYlp6aG1ia0dGakF5c0pvWEJIci1RcXpYZlJPZjFLQkd3MEJKX2gyOUpiNmx6bjhNbjdNWGFqYk0zUWZTWnhnZklkNTU0UjlJRFMxbURKN3VRMndLcHJsbVN4OTliQkdGQkZydWh0ZC1JQmFUN182SlJLeVY4RWhZSGZDYVh2LWJHRmJkSzNvMUVGN1Z4RWMwSW1jTkN1OHdvdw": 1793661340125
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yohanesadhijaya",
-      "x": "Aku kepikiran mau kumpulin Ibu/Mba/Teteh yg kurang mampu di area Tangerang BSD untuk Aku latih pengetahuan & keterampilan baking tanpa dipungut biaya.. Tujuannya apa? Aku pengen ka",
-      "u": "https://www.threads.com/@yohanesadhijaya/post/DfPfmQID0yw",
-      "d": 1793628758000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@mahirexcel0",
-      "x": "Untuk kursus privat di Manado, saya belum bisa merekomendasikan tempat tertentu karena belum bisa memastikannya. Kalau mau mulai belajar sendiri dulu secara online, saya ada rekome",
-      "u": "https://www.threads.com/@mahirexcel0/post/DfPg456GZTX",
-      "d": 1793629435000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Kalau seluruh rakyat serempak tidak bayar pajak yang basisnya lapor seperti PBB, PKB, dan PPh - negara akan lumpuh, bukan pemerintahnya saja. Dampak instant dari kecil ke besar: de",
-      "u": "https://www.threads.com/@meta.ai/post/DfPgewsE41h",
-      "d": 1793629220000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Banten Raya",
-      "x": "Ratusan Pemuda di Kabupaten Serang Berebut Beasiswa ke Jepang - Banten Raya",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1llOW41STNFU1hiVS1nMlVwMmlvd0NvMWdTOS1na1NHNVE2SllJYjFWRU43dUhTdmdCd1JyLVRoRnNYNW1ucS1TY2FtNDdOOVMzaVltMzVYTjlpU3BweWJvdEVVVnIwd2VsakozTnhyTXhfSnpJRnQ0RDV1dzF4d0xHM28ybWFDS25PRE1sMzdLbmZzdFFNTmNaOTdKekJyWFhEMldfMA?oc=5",
-      "d": 1793622604000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@febrianoky16",
-      "x": "Pendidikan terakhir minimal SMA atau SMK sederajat Non pengalaman bisa ya kak, karena nanti kami akan mengadak pelatihan dulu secara gratis",
-      "u": "https://www.threads.com/@febrianoky16/post/DfPhWunEr5F",
-      "d": 1793629679000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rasidi_ahm",
-      "x": "Kalau hobby atau ingin berkarir di bidang IT, bisa daftar ke digitalent.komdigi.go.id kak. Di sana gratis, tinggal kita ikuti aja step by stepnya. Harus ngerjain kuis agar bisa ke ",
-      "u": "https://www.threads.com/@rasidi_ahm/post/DfPhJchn-CF",
-      "d": 1793629570000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28698,10 +28648,70 @@
       "d": 1793638860000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "OPEN PELATIHAN ONLINE VIA GOOGLE MEET BUAT BEBERAPA ORANG DULU😭 DURASI LEBIH DARI 1 JAM DEH😁 BELAJAR CARANYA UBAH DATA KERJAAN DI SPREADSHEET JADI DASHBOARD INTERAKTIF DAN MUDAH ",
+      "u": "https://www.threads.com/@rafiulwanyy/post/DfQdY3mkxvi",
+      "d": 1793661154000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "OPEN PELATIHAN ONLINE VIA GOOGLE MEET BUAT BEBERAPA ORANG DULU😭 DURASI LEBIH DARI 1 JAM DEH😁 BELAJAR CARANYA UBAH DATA KERJAAN DI SPREADSHEET JADI DASHBOARD INTERAKTIF DAN MUDAH ",
+      "u": "https://www.threads.com/@rafiulwanyy/post/DfQdWkcE7WJ",
+      "d": 1793661135000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "OPEN PELATIHAN ONLINE VIA GOOGLE MEET BUAT BEBERAPA ORANG DULU😭 DURASI LEBIH DARI 1 JAM DEH😁 BELAJAR CARANYA UBAH DATA KERJAAN DI SPREADSHEET JADI DASHBOARD INTERAKTIF DAN MUDAH ",
+      "u": "https://www.threads.com/@rafiulwanyy/post/DfQdVotE0Aj",
+      "d": 1793661127000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@legio.id.official",
+      "x": "Desil naik tapi kondisi ekonomi masih susah? Hak bansos dan jaminan kesehatan (BPJS) Anda terancam putus? Simak penjelasan dari Bapak Charles Honoris (Wakil Ketua Komisi IX DPR RI)",
+      "u": "https://www.threads.com/@legio.id.official/post/DfP6eNjEjJA",
+      "d": 1793642850000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tvOneNews",
+      "x": "Ibu Hamil Bisa Dapat Bansos PKH Rp3 Juta, Ini Syarat dan Cara Cek Penerimanya - tvOneNews",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc0hYMVZQVTVzY3pucmNlX1pzeWJBM0pCdnpJTzhmbzFlNklxMXNJNXllOEFpWjRNR2RXel9EMW1PdC1QMVc2b1FVS0o2Vm5qOXBRemNSSkdsMTBlLXk3RVlrZTNNMTdSWmlNVllSQ3NrVFJES3BEbUh6aEJ5a1NGZzZGVW5WU1ZfYlhEakg2ZjlNeG5odUd4Tnl4aDhKME4yX3o4MlAycXRQMXRqbW10LUJleEYycTlEaU96eE9ncXUwZEXSAcgBQVVfeXFMTlRYQ0RRUnFNcW0yZTRCQXF5Tzl6NkVDb1hDLV82eHVMTmpaQmVNN184QjJKMWJ6dUk0OXBrUjU0bkZDNlF4cjc3Z25uVWxDOXRSSDFnSjROYnZDX2ppZm94ajVuZ2NQdUlZUHpCT3p4dE1xS2I0MXlISV9PcXdzbkFlN3ppd0J4d0ZUcFJZUEhBQUlGTlZnVEttZzVXSUxoaUltM3M0ZkJ1S0F1RUFqM1ZkQjVCblFGSGRBTFItYlNMSWJVOS1rN2I?oc=5",
+      "d": 1793660880000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Priangan Insider",
+      "x": "Cek Bansos atau Perlinsos? Simak Panduan Lengkapnya Biar Nggak Bingung - Priangan Insider",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcURBM2FMcnVvM0RucUhlSWJVWGg4X25fYjU0ckNVa29aQkZ1b3FWS3RWRnBTMmRRbU5jQW11TUh2Z05uZThHZ3Vpa1JMY3hLNnZRV1RSekN0NDl6bEpETEJIY29lZDNYR3NqRU9SYU1qNDFGV2Z6WVdoT0ZlRzB2SFoySkJveURxWlM2blJlLWpRc05PRXp1WE5ZdnY1OUJUSzNmcTEwandoSXRQaWE0dm5DaGJrVncxRzhmNGdWSnMzY2ZiQmw1TW1OQ19xcm9hdTRJRUNR0gHbAUFVX3lxTE1aaW5aOVVPcVZBQzZuRTVYZ1RSWXotZ2ZqQXZSelFiTVNKREozdzdBbU5KcjN3MWJqR1RPa1UzSV8yYlp6aG1ia0dGakF5c0pvWEJIci1RcXpYZlJPZjFLQkd3MEJKX2gyOUpiNmx6bjhNbjdNWGFqYk0zUWZTWnhnZklkNTU0UjlJRFMxbURKN3VRMndLcHJsbVN4OTliQkdGQkZydWh0ZC1JQmFUN182SlJLeVY4RWhZSGZDYVh2LWJHRmJkSzNvMUVGN1Z4RWMwSW1jTkN1OHdvdw?oc=5",
+      "d": 1793660400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
