@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqvXXviIcE": 1792396243991,
-    "threads:DeqvM3emWLx": 1792396243991,
-    "threads:DeqvF0EAcDu": 1792396243991,
-    "threads:DeiCezek5yc": 1792396243991,
-    "threads:DeqvtO_k-B_": 1792396243991,
-    "threads:DeqwBP6kdfB": 1792396243991,
-    "threads:DeqvSwSkWyt": 1792396243991,
-    "threads:DequNBnEyfh": 1792396243991,
-    "threads:DeqvvetmSCk": 1792396243991,
-    "threads:DeqvuT0GRdl": 1792396243991,
-    "threads:DeqvtUxmR16": 1792396243991,
-    "threads:DeqvsSJGRGk": 1792396243991,
-    "threads:Deqvq-6mfQC": 1792396243991,
-    "threads:DeqvpuhGTZx": 1792396243991,
-    "threads:DdikBEnGXYA": 1792396243991,
-    "news:CBMinwFBVV95cUxPTUVSOWJEOHNhd1Y4QVBnc0Q3WUNCTzNjeE8zUXVhVVl0ck5yQUlyT3E0dF9FQ2VhVTdaQW9oNkRxMjNWSnFWZ3p1ckduWXdyYnNXMkMwVUZSQ1pXN1huRDIyM190WExSb1o2SFNrZ19JYmRJTjJuVzdiWFBRQ3JZV3FoaUpiQzdjNHZkSHhseGkwRm53N2I1X3hTM3VoWm8": 1792396243991,
     "news:CBMisgFBVV95cUxPNWZzY3JlT0F1UWFMOGJhcTRSamhjWU10SG12c2tnTklaRXFrcDczWVhKYzlyTlRXOTVqYWRyWE9xMWhzZDRsUjZFTGRMd0gzUk9ka3VMTGpZOWoyOTJQWWwtQ3FGLXM1elJsS2hLZlMtaS1JdEJ0U1IwRVBlelZLNU5mYThmVVVvN1Q0S3BlaUZPaXliTElpek1tZ0NMc1hJZGJsV3lraHk1Nk5HTWtCVWZB0gG3AUFVX3lxTE5yNDBMRXVlMTNvejhEZzl4MnV4QkMxYkRGUUNHLVlqWGJUVXVFR3M5cG8xQ3JTTUZidVJuUWVqT3NQNGVJU0hSSnQxMlZpNmdKaFFTRWVlU3ozMktiS2UyUDllNzZEdFNwS1VNQ1U5WHdXZmM5M240a1gwVmdFb09fbmJNV3ZnX1gyU1RnSm4tdUJnVU45VU0xNEg0VDEtOF9STGNpS1BCdWJlTnVHYkRKaUl6MUlzQQ": 1792396536696,
     "news:CBMiqwFBVV95cUxNT0hNaEJ2b3FfYjhfQ29fN2lkMTNzS0ZXSm9pMVF6dE9oNFczamJXd21wbUdJSXk2Mm0xa2hfdWRkdGZfZVFrY0IwUXVhTE5vQUp6aThmamxKeW1ZWnlfYUI2VVFTSkpUTDZZWXRaVElZT01tUXVGcHROQ0VhTmJYUUdWaGdIVS1kV2tHaGVmeXdfeEFHaFRVSHh6UGFxSThFVk5NeFI1SUZOdm8": 1792396536696,
     "news:CBMi1AFBVV95cUxPUy1yY3V6VEVyc2RUZDJ0RW8yU1ZnQkdHN1JpZmQwdGl1WDlrRmpfTG9NSmh1MVBkQjBTS2V2TzdwSjBWeGNiUzZIc2Jpai1HZEFWc0VxbnNSOVdEUEI4STZZY3FUa1prX2hrNmVsS2Z2c19uYUhmQzJmd2lrRHlFS1dHb0FBT1lTNzI2emFqaWdZbEdGYjdDWGpxUGd0ejFIXzluOTZGLWd1elF6S0VDeTBXM0w4TVEzX1ltSnF5UnMxTktGVXFlWUVEcE44ZUNpOGhIdw": 1792396536696,
@@ -26960,29 +26944,18 @@
     "news:CBMi0gFBVV95cUxOQk9pZWE0VWwtdWcyQmZCc282VVp2VUpPYUVYUHNINGZQTklZMFREY0lDMUJsN0cwNVRKd1ltdFJjRU9XeHNZWVhuaUFhTTZkbFB3ZURNSnAtdmxFSlZMYUc0WHR5dHF3MXpmcWtOOGhKTGlLWGE3NzE0U2RfbTh6ZG5iZHJxX21adkJlTjFudFB5MXVfNWtVdGcyUlFtRzNodW5WWUxPYmljSEZDSDVLLXNTVnl2cmtWcFRlVGF2cjMxZW1zcmJON1FRSUNxMWF4S0E": 1793605241242,
     "news:CBMi1gFBVV95cUxNYWVkQWVJVTdFdVF1OURJS19ZckM1bkJFeDQtMklZeDd4akJpUTh2YmtLVVY4bVB6eG9tYlV4UEx6N0tkd3JzQXl1NkVhc0dpblFBY1puLWNpWUdfenJMMXBQNFBCMDJUOU1KMkZuLVJNWDJ3eGJ2ZFAwNDZpNHBUdkctb0MzOGtvUWZFa3A4QzhISTVCODNOT28wSDhrSUltU3AyUmV1TWxTUjlMeGFUVWRNeVRvclJZTFc4M2ZSa21ja25nVHVIRHF2X29sTXFRMW1obnNR": 1793605241242,
     "threads:DfOyahhiY-t": 1793605562114,
-    "news:CBMi3wFBVV95cUxQMWdqdnlZUE9JallhY2dTeEJwN3pwUTdqeHI1eTN5UC1wRC1TMkh5VXpYRzRqTEJrYXdjcHl5aEptYmR1ZlhVWHVaZFBKWDlHYmpmbGNkU3UwNXBqTmlkT0VVeDlXc1pOd2Y3WnNOZXRHbFUxZnR5MjEtQ1N2d2t0QjFRc0Q1cloxVFNhX3c1aXpyblE2Y2VPY21CRVNjaWllNFQzZW1obklmbldhUnRjVGNyQ3ZYX29hWXN0VmxtMkpFNjhTY2hhUktHUzQ3M215VmliUUlGTDRNWHF3dU1Z": 1793605562114
+    "news:CBMi3wFBVV95cUxQMWdqdnlZUE9JallhY2dTeEJwN3pwUTdqeHI1eTN5UC1wRC1TMkh5VXpYRzRqTEJrYXdjcHl5aEptYmR1ZlhVWHVaZFBKWDlHYmpmbGNkU3UwNXBqTmlkT0VVeDlXc1pOd2Y3WnNOZXRHbFUxZnR5MjEtQ1N2d2t0QjFRc0Q1cloxVFNhX3c1aXpyblE2Y2VPY21CRVNjaWllNFQzZW1obklmbldhUnRjVGNyQ3ZYX29hWXN0VmxtMkpFNjhTY2hhUktHUzQ3M215VmliUUlGTDRNWHF3dU1Z": 1793605562114,
+    "threads:DfOzpnFCbe5": 1793605849094,
+    "threads:DfO0FkhllXQ": 1793605849094,
+    "threads:DfO0DoPHY1W": 1793605849094,
+    "threads:DfOz2Rpk7Dm": 1793605849094,
+    "threads:DfOzyLCG5lx": 1793605849094,
+    "threads:DfOzhbAm_SO": 1793605849094,
+    "threads:DfOyzWZGyCY": 1793605849094,
+    "news:CBMiwgFBVV95cUxORGwxa2ZKYm5wOGctSHFpT2NMdm1GUXpYS2VOTWpQMGRFQmo0Skl6dlhzakZXUGItSVZKR2IxTlNlNWdEeGFjb09mTUJtekVDajZPRktNN0NwQ1ZITHQ3U3FpR0NRbWlYQTdTUE0xaDhSNzlESFQ4VzNBLWxHVEZtaTBqY0NDS1BBeFRsWTlTQWZSUk1KWmJwTkQzZTRmOURaNFdCbThyVm81VFhzemx1bC0ySmstOFVVZnB5Ynk4WVdSQdIBwgFBVV95cUxORGwxa2ZKYm5wOGctSHFpT2NMdm1GUXpYS2VOTWpQMGRFQmo0Skl6dlhzakZXUGItSVZKR2IxTlNlNWdEeGFjb09mTUJtekVDajZPRktNN0NwQ1ZITHQ3U3FpR0NRbWlYQTdTUE0xaDhSNzlESFQ4VzNBLWxHVEZtaTBqY0NDS1BBeFRsWTlTQWZSUk1KWmJwTkQzZTRmOURaNFdCbThyVm81VFhzemx1bC0ySmstOFVVZnB5Ynk4WVdSQQ": 1793605849094,
+    "news:CBMilgFBVV95cUxQa2syMDltaXpvZzNaZGNQRE1hblV4eE5PZXc0NmFkTEkyckh1ZzlTRHNSbllDd0diQ2RXcU5ROFNJcldaajRoMGtHYUlwZ0hSVDhCWnlQNmhEWDdjWFhjQlJ6S1RYTjdfbGQxZFlaMjhMdERELVZtY0IydTFBWnFqYWh0Yi15elBqLXpmaHotUEtyYXR6bmc": 1793605849094
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@aseppermana198",
-      "x": "Benarkah BLT cair Bulan November? apa saja? kabarnya ada 5 jenis bansos yang cair di bulan Nopember 2026 ini, diantara nya : 1. Beras 30Kg 2. BLT tahap 2 dan 3 Rp 1.200.000 3. BLT ",
-      "u": "https://www.threads.com/@aseppermana198/post/DfOg45AmFio",
-      "d": 1793595880000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@bastiantolay",
-      "x": "10 November 2026 merupakan rencana peluncuran Perlinsos Digital secara nasional, bukan jadwal pencairan bansos serentak. Jangan salah faham",
-      "u": "https://www.threads.com/@bastiantolay/post/DfOiIMTG_6B",
-      "d": 1793596530000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28462,10 +28435,30 @@
       "d": 1793584022000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Lumajang Satu",
+      "x": "Rumah Bahasa Inggris Resmi Dibuka di Lumajang, Hadirkan Program TOEFL hingga Beasiswa - Lumajang Satu",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGwxa2ZKYm5wOGctSHFpT2NMdm1GUXpYS2VOTWpQMGRFQmo0Skl6dlhzakZXUGItSVZKR2IxTlNlNWdEeGFjb09mTUJtekVDajZPRktNN0NwQ1ZITHQ3U3FpR0NRbWlYQTdTUE0xaDhSNzlESFQ4VzNBLWxHVEZtaTBqY0NDS1BBeFRsWTlTQWZSUk1KWmJwTkQzZTRmOURaNFdCbThyVm81VFhzemx1bC0ySmstOFVVZnB5Ynk4WVdSQdIBwgFBVV95cUxORGwxa2ZKYm5wOGctSHFpT2NMdm1GUXpYS2VOTWpQMGRFQmo0Skl6dlhzakZXUGItSVZKR2IxTlNlNWdEeGFjb09mTUJtekVDajZPRktNN0NwQ1ZITHQ3U3FpR0NRbWlYQTdTUE0xaDhSNzlESFQ4VzNBLWxHVEZtaTBqY0NDS1BBeFRsWTlTQWZSUk1KWmJwTkQzZTRmOURaNFdCbThyVm81VFhzemx1bC0ySmstOFVVZnB5Ynk4WVdSQQ?oc=5",
+      "d": 1793600940000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "VISI.NEWS",
+      "x": "AMINEF Buka Beasiswa Fulbright S2-S3 ke Amerika Serikat, Ini Syaratnya - VISI.NEWS",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2syMDltaXpvZzNaZGNQRE1hblV4eE5PZXc0NmFkTEkyckh1ZzlTRHNSbllDd0diQ2RXcU5ROFNJcldaajRoMGtHYUlwZ0hSVDhCWnlQNmhEWDdjWFhjQlJ6S1RYTjdfbGQxZFlaMjhMdERELVZtY0IydTFBWnFqYWh0Yi15elBqLXpmaHotUEtyYXR6bmc?oc=5",
+      "d": 1793604660000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
