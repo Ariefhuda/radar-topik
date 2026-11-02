@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Der1XhZHxFL": 1792432250164,
-    "threads:Der1OVVHwxp": 1792432250164,
-    "threads:Der0UNQn5BZ": 1792432250164,
-    "threads:DerzLP2H7Fn": 1792432250164,
     "threads:Der02D7AbPK": 1792432541063,
     "threads:DelnEBxlMa9": 1792432541063,
     "news:CBMiYEFVX3lxTE9wMU15NWlzRVdTWndCR0E5YnItX1RqdXVkNmlJUlBTVlVzTHg2SWdtSUdTblVvYkJ1VkxyaENZV3VaTTNYV00wSnh2RWVlb2FJa1BOd2VMQmZDd0Z3Q3hJTA": 1792432541063,
@@ -27092,39 +27088,17 @@
     "threads:DfP1MRYkUXt": 1793641245160,
     "threads:DfP00dgkdKN": 1793641245160,
     "threads:DdF_tpqkv1z": 1793641245160,
-    "threads:DfH42clGMKg": 1793641557682
+    "threads:DfH42clGMKg": 1793641557682,
+    "threads:DfP4G1MmGqn": 1793641838539,
+    "threads:DfP3hL6mI8b": 1793641838539,
+    "threads:DfJCN7IiTwD": 1793641838539,
+    "news:CBMiZEFVX3lxTE5qVzA1Wmx2c1RDakFrd2M4LVRDOWJoYWtTeENVMTJReGl1bGtNYVVMYlpQZzFqZy1hZXZObjNCaU5QMjFHOHdqYUJFMVFuTUF5Uzd5djNSb2ZNaWNrOVR5aVpGZkM": 1793641838539,
+    "news:CBMi0AFBVV95cUxQZ2F5cjg0bjlZMjZNQ29SRWxzMDdEQVNkX1UxWm84aVgtclNxdUVCemJ4elVyYjlJZzFGVk84LWVlZDZTUmtURmZlR1RrMVRzNU9oLXd1eWVzc2NhYmdHV2FQbFFiR29GS3Rrd1NseXhOOFM0ejFVUEhjMjVXZHNnVFF4RExsWmxNeVgwY0FGa2JieVpPUEhQcVUtQUZ6RHFtQ0M5UENGSDRkSmx3bmlPT1U2a01xd2taME9EeXBHNUdldExybU5SUjdWMkpqVXE30gHTAUFVX3lxTE55a1dSV21sMDZ3Q3psakhBbmhzajlFaUhWeEM1dnhkZXNsWU1GQ21BLS1QRmV6Z3VjMFhXVVI5VWgxdW9Hd3VGUEZjcGplaVZEU0xkOS1Ic1BaLWY4c3FMSUV4LXdITHppOFhURnlFZWhFTmdGcy1Cek9uSlRidFotWTFfSkxCanQwbFBCb1BzdU5GRHlVVTJMczlmTVFTWTNESzVRSVFQYkNodGs4TVJsUFl6YW5WSHR0SDkxV3UwcDVGTkQwM2hpeWVDRmZtWUw1WWc": 1793641838539,
+    "news:CBMimgFBVV95cUxOSmtVWUFZZW9USzRGMHVrRWtNZ1NkT1A2QVJoNTh2bEdwbnhJM1B6NWt4SS1odjEzbzRRM3JINm9QRDU1TV9ra2RIZXE5WXJPNk1zbkZSdGp6dkVJWHdJVjZHcXZnQzdDd0Y0MkJqNFFwajFnM0ltemNyZTY3M2FkdjFUYl9kbHRWTFRaQTZmWDl1eko4WTZDSXRR0gGaAUFVX3lxTE5Ka1VZQVllb1RLNEYwdWtFa01nU2RPUDZBUmg1OHZsR3BueEkzUHo1a3hJLWh2MTNvNFEzckg2b1BENTVNX2trZEhlcTlZck82TXNuRlJ0anp2RUlYd0lWNkdxdmdDN0N3RjQyQmo0UXBqMWczSW16Y3JlNjczYWR2MVRiX2RsdFZMVFpBNmZYOXV6SjhZNkNJdFE": 1793641838539,
+    "news:CBMi0gFBVV95cUxPVXpaOFFfZXRLVWJBcm01SnpvSW1oUk4tX0x5RnAwZVZmMzF2YUVVTG5VM3NmWEw2ZXVKQ0JsM3RKWnJ3a19WVGNIcG1oQlp0TDhlRElWTXVPQVVZUG9wTnRvd29VVDQxRVZ0ZnRab1lfY1dqZVpjZnlOVXBxaVY2Z1M3emVJVHVjQ0FEUGRXME42OG02ZF96VVJSV3FmbVBId1B1SFdTaVFhblV6dzdyUlNpQmpSRnFzS3BBZUZBSWZnajJDdG9pUVV1b3VVUlVsb3fSAdcBQVVfeXFMUGtBbXhKa01oWkhVNGNOYkhFemNnNmRodXNfMEVXV0t5c1NxWkl2SHRMTlJ0aTBUbFJJaTl4cnRfdzQ4aFJzVmVUUkxyWXltNGRNcDBOT2lFNm8wVEVDZFFSb3lOV2FLMVNjOUtnZ0RheGlGbnN4cXAzNkI0OG1hR3RPekkxNmRuM1lHV09xdFdhdzlBS3NfTWxEcUF4clpiQ1RGUTd5OG1sMzFpSUNVVUkwR1U2cHlwMTFiWlBOa3QySHVRWXBhWXVoZ1lOeFNkdDlvY0ZWNkU": 1793641838539,
+    "news:CBMizgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUdIBzgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUQ": 1793641838539
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Pasquale Pillitteri",
-      "x": "JetBrains blokir sertifikat eMudhra, perbarui IDE dan Toolbox App - Pasquale Pillitteri",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFJUSFVHV1VwOGNwclNrNDg1ajlPcGZfdXFsa091eEtqdkFqdC1OVGs0QTBoN3k1TFdJZ0lmQWVWUEdWTEJwOWdoWnhRMlhhZ1JTNmNfRDJqVzY1STRhWE9OQWlLMlJJTlRmVDc3QjBqeXJwdDUyMkg1eE01elpXSDFZQWM0ZmkxaHdyNmxaUjBfZktEbzdF?oc=5",
-      "d": 1793622746000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aksarah_fulanah",
-      "x": "Insyaallah ada webinar bisnis tanpa modal sebentar malam. Silahkan DM yaah, saya kirim nomor WA-ku. Webinarnya gratis, dan jika merasa tidak cocok, gak perlu gabung Atau mau sekeda",
-      "u": "https://www.threads.com/@aksarah_fulanah/post/DfOgRmVkcM0",
-      "d": 1793595558000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lpkintron",
-      "x": "Halo kakk! Tertarik join LPK kami? Walau baru, kami sister company LPK Seikou Global Mandiri (sudah SO). Fasilitas lengkap: kelas & asrama AC + katering gratis (weekday)! Tersedia ",
-      "u": "https://www.threads.com/@lpkintron/post/DfPURTcE8VK",
-      "d": 1793622819000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28594,10 +28568,40 @@
       "d": 1793638020000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Ketik",
+      "x": "DEMA PTKIN Sebut Kasus Sukoharjo Bukti Tagline Polisi Bersama Masyarakat - Ketik",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSmtVWUFZZW9USzRGMHVrRWtNZ1NkT1A2QVJoNTh2bEdwbnhJM1B6NWt4SS1odjEzbzRRM3JINm9QRDU1TV9ra2RIZXE5WXJPNk1zbkZSdGp6dkVJWHdJVjZHcXZnQzdDd0Y0MkJqNFFwajFnM0ltemNyZTY3M2FkdjFUYl9kbHRWTFRaQTZmWDl1eko4WTZDSXRR0gGaAUFVX3lxTE5Ka1VZQVllb1RLNEYwdWtFa01nU2RPUDZBUmg1OHZsR3BueEkzUHo1a3hJLWh2MTNvNFEzckg2b1BENTVNX2trZEhlcTlZck82TXNuRlJ0anp2RUlYd0lWNkdxdmdDN0N3RjQyQmo0UXBqMWczSW16Y3JlNjczYWR2MVRiX2RsdFZMVFpBNmZYOXV6SjhZNkNJdFE?oc=5",
+      "d": 1793635980000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pilihan Indonesia",
+      "x": "Summarecon Bantah Terlibat Kasus Uang Rp106,3 Miliar, 12 Sertifikat HGB Ikut Disorot - Pilihan indonesia - Pilihan Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXpaOFFfZXRLVWJBcm01SnpvSW1oUk4tX0x5RnAwZVZmMzF2YUVVTG5VM3NmWEw2ZXVKQ0JsM3RKWnJ3a19WVGNIcG1oQlp0TDhlRElWTXVPQVVZUG9wTnRvd29VVDQxRVZ0ZnRab1lfY1dqZVpjZnlOVXBxaVY2Z1M3emVJVHVjQ0FEUGRXME42OG02ZF96VVJSV3FmbVBId1B1SFdTaVFhblV6dzdyUlNpQmpSRnFzS3BBZUZBSWZnajJDdG9pUVV1b3VVUlVsb3fSAdcBQVVfeXFMUGtBbXhKa01oWkhVNGNOYkhFemNnNmRodXNfMEVXV0t5c1NxWkl2SHRMTlJ0aTBUbFJJaTl4cnRfdzQ4aFJzVmVUUkxyWXltNGRNcDBOT2lFNm8wVEVDZFFSb3lOV2FLMVNjOUtnZ0RheGlGbnN4cXAzNkI0OG1hR3RPekkxNmRuM1lHV09xdFdhdzlBS3NfTWxEcUF4clpiQ1RGUTd5OG1sMzFpSUNVVUkwR1U2cHlwMTFiWlBOa3QySHVRWXBhWXVoZ1lOeFNkdDlvY0ZWNkU?oc=5",
+      "d": 1793624279000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Kelumajang",
+      "x": "Gus Fawait Dorong Juara Atletik Jember Dapat Beasiswa, Target 20 Ribu Anak pada 2029 - Kelumajang - Kelumajang",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUdIBzgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUQ?oc=5",
+      "d": 1793631720000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
