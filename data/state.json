@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DercjGTk54m": 1792419935535,
-    "news:CBMipAFBVV95cUxQSlhwUk9kS0RWQ0FpRkp5cXZSc2RPOWFFS0xRcTNLc25MRzVKWkJuZlg2bVlPdHd3YWtvZUJUdFZ1VW1reXRyXzNSMUxnRWtfRUFBNDc2VWhZMHI2ejR0cHJvQnBzUlAxd2VpR2oxQnhaemI0ckJtNWRjMVU0ZmY0dmdVRlk1alhhR0N3YjRRUVk5YXR4cW9RSGpLbWRGWXR2RXVGVg": 1792419935535,
     "threads:DereT-cj9Ew": 1792420248399,
     "threads:DerdxUSEvf5": 1792420248399,
     "threads:Derdh4fkVc8": 1792420248399,
@@ -27038,7 +27036,10 @@
     "threads:DfPfRokDKcd": 1793629247851,
     "threads:DfPgc2kjJf_": 1793629247851,
     "threads:DfPgPbgEs67": 1793629247851,
-    "threads:DfPfmQID0yw": 1793629247851
+    "threads:DfPfmQID0yw": 1793629247851,
+    "threads:DfPg456GZTX": 1793629541552,
+    "threads:DfPgewsE41h": 1793629541552,
+    "news:CBMipwFBVV95cUxOV1llOW41STNFU1hiVS1nMlVwMmlvd0NvMWdTOS1na1NHNVE2SllJYjFWRU43dUhTdmdCd1JyLVRoRnNYNW1ucS1TY2FtNDdOOVMzaVltMzVYTjlpU3BweWJvdEVVVnIwd2VsakozTnhyTXhfSnpJRnQ0RDV1dzF4d0xHM28ybWFDS25PRE1sMzdLbmZzdFFNTmNaOTdKekJyWFhEMldfMA": 1793629541552
   },
   "digest": [
     {
@@ -27910,10 +27911,40 @@
       "d": 1793628758000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@mahirexcel0",
+      "x": "Untuk kursus privat di Manado, saya belum bisa merekomendasikan tempat tertentu karena belum bisa memastikannya. Kalau mau mulai belajar sendiri dulu secara online, saya ada rekome",
+      "u": "https://www.threads.com/@mahirexcel0/post/DfPg456GZTX",
+      "d": 1793629435000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kalau seluruh rakyat serempak tidak bayar pajak yang basisnya lapor seperti PBB, PKB, dan PPh - negara akan lumpuh, bukan pemerintahnya saja. Dampak instant dari kecil ke besar: de",
+      "u": "https://www.threads.com/@meta.ai/post/DfPgewsE41h",
+      "d": 1793629220000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Banten Raya",
+      "x": "Ratusan Pemuda di Kabupaten Serang Berebut Beasiswa ke Jepang - Banten Raya",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1llOW41STNFU1hiVS1nMlVwMmlvd0NvMWdTOS1na1NHNVE2SllJYjFWRU43dUhTdmdCd1JyLVRoRnNYNW1ucS1TY2FtNDdOOVMzaVltMzVYTjlpU3BweWJvdEVVVnIwd2VsakozTnhyTXhfSnpJRnQ0RDV1dzF4d0xHM28ybWFDS25PRE1sMzdLbmZzdFFNTmNaOTdKekJyWFhEMldfMA?oc=5",
+      "d": 1793622604000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
