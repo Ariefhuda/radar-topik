@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DervwWUEad7": 1792429540399,
-    "threads:DervCuyEQ9z": 1792429540399,
-    "news:CBMilgFBVV95cUxPWGwtVlpQRU53XzA3MTcxenlUb3dCVVF0NU41YmhrQjgyTHd2YWpobm5NVWhERU51SFBsU3V5S1NhQ2hPSGhWUXJScGlHcGNod3BxbjhXd1JIYV93NDM4TDB3Z0dRb0F3N0N5VC1INUpUaTJyT2FjWkY0aF9fS0JBcnJfWnpFNU1yNXdJOWhYZFFLaHhyYUE": 1792429540399,
     "threads:DYMX7ltE4qx": 1792429849937,
     "threads:DerwXs8H17s": 1792429849937,
     "news:CBMi1gFBVV95cUxNVDdRdmN6VEgzNXZMczdBbmZHMmVzY3pkMUJ0RWlYbTNxWDZGY3pianp5UHJma0R6ZEV1SmtsckgwUldKY1Vod0VERm8yWFRUSF9DQXF1RmVNak0tVGpuS1ptZlN6czNZYnVPbkdhNU1LVlhyR2cweVlyb085NDg5c2g0b2FTOWV2YjNxM3ZoYkRkMFFfTjdHRjAzOVlDZ29pUUlkQ0pJa0xlRDhfTGNhUVN5YWxnNEdnN2tWa0lHcG9KRlktVWgzUXJFMXlmSFJYSThBT3NR0gHbAUFVX3lxTE5faUQ0SlE3ZkxVdHZBZl84V0ZBUWl6NTUwSUpNMGlreVpRcHplMHVtWVFmMVF3Vnoyc0g4bUtURHNJNEhXWTF0Z00xSkQ4bEQ5Mk9hVmd5YTdfd21YNWJzendjb1N6V28tdVVvaFBEV0JKNE1rQ29vSkQyQlJHNE9iMmxKOTR3MnJuRDdEcnYxbWxmQmtrMjd2dUxLRGNwMDl5a0ZuTWJyT3QyVjhvUWFPNjZ5T3FHQmVlaFoxR2dSYXV4eDFRaDN3QjhhRGZYZDVWbWc1M0hsUXVkRQ": 1792429849937,
@@ -27072,19 +27069,14 @@
     "threads:DfPwtpMjiuH": 1793638855090,
     "threads:DfPwn1IDkCn": 1793638855090,
     "threads:DfPwZy5DgKX": 1793638855090,
-    "threads:DfPwSTdjyXt": 1793638855090
+    "threads:DfPwSTdjyXt": 1793638855090,
+    "threads:DfPzRtCmeH1": 1793639141451,
+    "threads:DfPzJT0IAUw": 1793639141451,
+    "threads:DfPyGSNGqb4": 1793639141451,
+    "threads:DfPydL7kkTK": 1793639141451,
+    "news:CBMitwFBVV95cUxQbDZhM0I0d0xQc0hqVGdGQThKdzJ4d21SaC1nQkNsSmRpN1BPSzhyQkhvS0lfMmIyV2hkOExpZ3B1RVlMNEJOS3dpZmZJVnBxV3RLMkx6VGVvRDFBOUkxdGlpTDBQQVFnVmU0d084SFBLQkNDdmZGR1plWHFTdGxCajNmRk5XTFd5M1hJNFBkQU8yTWNfcWV2ZXBtSjAyS2NKMV9kQlh2bEQtNk9RUUdWNkl1QkNSQ3c": 1793639141451
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "murianews.com",
-      "x": "Pemprov Jateng Ajak Pengemudi Ojol Cek Kelayakan Bansos 2027 - murianews.com",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckVac1NyZnV3LXJlUXVlVTd1WFM0X3lneUs2TDRPSzVMUlVjUnNvS1BWVkdNNm5NS2lRRElHTEw1S1NmeTgwUjNDcU9lRktzMWxtdXVXMjc4ZDJRUmNQT0M2ZXJkc25wc0JiX2lCLW9raGhySzYxZjdMbWhOcUNhdE1VYThMSU9IRzBVNjJSVFA4ckdEaVlEWkhYbE5tVG4xY1ZJVDdrcWMwdw?oc=5",
-      "d": 1793595720000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28574,10 +28566,20 @@
       "d": 1793638496000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nasdem.padang",
+      "x": "Dispusip Kota Padang sukses gelar Pelatihan Bahasa Isyarat gratis 8 sesi, akan buka lagi awal 2027. Program inklusif, gratis, buka peluang kerja. Daftar via QR di medsos Dispusip. ",
+      "u": "https://www.threads.com/@nasdem.padang/post/DfPydL7kkTK",
+      "d": 1793638645000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
