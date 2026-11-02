@@ -60,20 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeQnPhhkp3v": 1792401352241,
-    "threads:Deq5ZENkd7y": 1792401352241,
-    "threads:Deq5VRIkXjJ": 1792401352241,
-    "threads:Deq5BzQkR8V": 1792401352241,
-    "threads:Deq6hzLCmIY": 1792401352241,
-    "threads:Deq5Qxzkgtb": 1792401352241,
-    "threads:Deq3QuLld2s": 1792401352241,
-    "threads:DemHHssFEsJ": 1792401352241,
-    "threads:Deq58FDkboh": 1792401352241,
-    "threads:Deq6T_LlIJG": 1792401352241,
-    "threads:Deq6Qg7CQAY": 1792401352241,
-    "threads:Deq5yFpoN8r": 1792401352241,
-    "news:CBMixgFBVV95cUxPSURJblBpRkVwTVpsakZlYlhISTRtVGV0OElQNlpzTVdLd2ZzOUp6Y3hyaUE5SWJabzZKZkd4ekFMa29Rb0J4cFBFVU92WFVPdmVqN3czQXpCZGxsaWdvSGlrQ0djZkhrR0VCQ0RIbmdLQXo5VERSU2JEQ29DZUFyakJsbDJnSWNFOTdmc0dNbEY1WUZ2TXFCazVEUWctY0ZmQ1ZoQVRoYjhQcXhQQVlMcjJXLWsyWXJfdFdEYV83NVRIU0ctSXfSAacBQVVfeXFMT3BVTGpOWm9lWE81bW50SnZsbk9HM3hPMURRbmFBaGQ5dEg2ckZyS19FOHkyeVN1d2VPYkoyQml6VVZxU3U0cG0ySVJha0sxMHNyaDVYS2NadngwOUZtdVk0S0hXbVV1dkhkei1teUxaVlNaUE1zbDhYMFdKNmpBcmt5Nkc0NFlFRzdEQnFwZXVQdEd2WHJodkp2aDJZV0dFWUprYno4Rzg": 1792401352241,
-    "news:CBMiugFBVV95cUxOTnhzdFV3bWFXMTBTRTNhRzJPeVhoWlpySDdjakFvY3VMZ2U1Mkc2QzlDTlFTdk9IYWdQOFcyNjNDSTMzZXo3MWNNQ0d3NUtzMEhKSHRORk5zbGNkOFNDajhqVjJGXzBTeVBpRmdZakEtLVN1VHN6ZU96a3lFamhnOTlSMFd6QkZSbFBLUDFFZlljcnUydkN3bmh0S1RqRHdFelk1blp5S2pTR05kUXhoSXFDX0pOMm04aFE": 1792401352241,
     "threads:Deq6YtCGf21": 1792401644336,
     "threads:Deq6O9EE-6U": 1792401644336,
     "news:CBMiowFBVV95cUxOak5ETlBEX0ZyUXYtemdDUDRkM2doMFduSHVrb2l4cElTZlY2cGt0d2FWeE9IQ3g5YzBsZ3JxdmE5eHlGVDhyRVM0RTM3MGoyUVA1ZzZnT0NSSy1VOWstVHAxdTEwQlFLTVhEdFgzWHlYZXZLdkk4Uzkycl9sV3lGbjlmd0RuYnk2V2lNSEZkanlfR2JLUHFtMXBmS3FPaHN2dGl30gGoAUFVX3lxTE95RjR1WlRKdGtaUFgyMXc3eF9JWWI1aDZGNXpKc0ZVSmxmRHBFR2lFSDJHbS1lb0lEcWpRRk1jVldnZVQ4Y3hDVm5tOER1ZmhiRnB4ZGpGeVc4NVc5djIyRzEzd1EyODNUdjNGM2p1a1pyNXRZeDR2ZjJUQTV3Wlo5akJJZi13S29GbHBsV1J1TjlyNlFCTTVLaTVldFFJT2RpYUZEeGJoaQ": 1792401644336,
@@ -27011,49 +26997,14 @@
     "threads:DfO8ZmvmGdN": 1793610641293,
     "threads:DfO8Rj9CYWp": 1793610641293,
     "news:CBMixwFBVV95cUxPTGpUY3ZfSHljZlVZby12Skh3YS1ybm1lUWl2cDF5ckdfV2kyMmkyeUlHa1BUVmRkMjNLTjNuUjV3RzRveG5ydldKUzcydS1BQ0lnNVJnYUlsTVk1bnNUcnoxR2tnb2RNR2lIVmtoSXJMVWJlXzRmZS0zTGhhNnhKUy1fZkp4Ymk3UkZIdnBpel8weEFlZDRURFRtX1NBZFB3Q2s5U2ZtOWFHSC1CaTVCa3ViX1g3cGdwOVV1TWhPLVhIaHBQMzJZ": 1793610641293,
-    "news:CBMi2gFBVV95cUxPSFNnTks3UmhBQVdWYUF4RmNoajd0Z0IyWFBTN2RqdDlCeDAyNTZDb0lIbkFzVHFvYXJub1RCemxtLS1QNU5zcUllZ3RXQU1scFFENjRqNnB2VHFCckN0UWFDZGRLS1hPZDdxanh4WVVfRXAzMzFkM3Zvb01BSE9pOUN5Q1dLcUlwVEF5dTQ5X0xPVWhRM2lpOWNBNW1aWTNwRHQtdHdjVE9kYzR1X1VhdGt0ZnhWbU1hZ0lwMHZlZURGQ2c5YWh2bXBYS1A4Nld5Wlc4OGRBU2RpZ9IB2gFBVV95cUxPSFNnTks3UmhBQVdWYUF4RmNoajd0Z0IyWFBTN2RqdDlCeDAyNTZDb0lIbkFzVHFvYXJub1RCemxtLS1QNU5zcUllZ3RXQU1scFFENjRqNnB2VHFCckN0UWFDZGRLS1hPZDdxanh4WVVfRXAzMzFkM3Zvb01BSE9pOUN5Q1dLcUlwVEF5dTQ5X0xPVWhRM2lpOWNBNW1aWTNwRHQtdHdjVE9kYzR1X1VhdGt0ZnhWbU1hZ0lwMHZlZURGQ2c5YWh2bXBYS1A4Nld5Wlc4OGRBU2RpZw": 1793610641293
+    "news:CBMi2gFBVV95cUxPSFNnTks3UmhBQVdWYUF4RmNoajd0Z0IyWFBTN2RqdDlCeDAyNTZDb0lIbkFzVHFvYXJub1RCemxtLS1QNU5zcUllZ3RXQU1scFFENjRqNnB2VHFCckN0UWFDZGRLS1hPZDdxanh4WVVfRXAzMzFkM3Zvb01BSE9pOUN5Q1dLcUlwVEF5dTQ5X0xPVWhRM2lpOWNBNW1aWTNwRHQtdHdjVE9kYzR1X1VhdGt0ZnhWbU1hZ0lwMHZlZURGQ2c5YWh2bXBYS1A4Nld5Wlc4OGRBU2RpZ9IB2gFBVV95cUxPSFNnTks3UmhBQVdWYUF4RmNoajd0Z0IyWFBTN2RqdDlCeDAyNTZDb0lIbkFzVHFvYXJub1RCemxtLS1QNU5zcUllZ3RXQU1scFFENjRqNnB2VHFCckN0UWFDZGRLS1hPZDdxanh4WVVfRXAzMzFkM3Zvb01BSE9pOUN5Q1dLcUlwVEF5dTQ5X0xPVWhRM2lpOWNBNW1aWTNwRHQtdHdjVE9kYzR1X1VhdGt0ZnhWbU1hZ0lwMHZlZURGQ2c5YWh2bXBYS1A4Nld5Wlc4OGRBU2RpZw": 1793610641293,
+    "threads:DfO9GZ0oMAW": 1793610942978,
+    "threads:DfO8YMijlNd": 1793610942978,
+    "news:CBMiygFBVV95cUxONW1LamRkejdBLVNIWFhOQkttcVAwZS1GWFhlNWV5Wm9va01lZ0xVNTFzT0x0UWJPX09pQUpoRnY3d2FQUmpoLW1TbDE1emE1OE1BcDFVYjhWWWp3eXM4aTY5UGJqUFNxWF82Tzl4NF9QaElIbV9aRlhsWlpkaWozLTQ0bzM5eFRPcnlrcGxtdk0waWFwNUk3N3lyNDhnTDBnU3k3azVMUzJwUHYzMEJNUTJDMXdkZnhIOVJMTlY0MlZyNjdEOHAyeGVn0gHKAUFVX3lxTE41bUtqZGR6N0EtU0hYWE5CS21xUDBlLUZYWGU1ZXlab29rTWVnTFU1MXNPTHRRYk9fT2lBSmhGdjd3YVBSamgtbVNsMTV6YTU4TUFwMVViOFZZand5czhpNjlQYmpQU3FYXzZPOXg0X1BoSUhtX1pGWGxaWmRpajMtNDRvMzl4VE9yeWtwbG12TTBpYXA1STc3eXI0OGdMMGdTeTdrNUxTMnBQdjMwQk1RMkMxd2RmeEg5UkxOVjQyVnI2N0Q4cDJ4ZWc": 1793610942978,
+    "news:CBMi3AFBVV95cUxNV0lMU1NEc1E5cnJJaWJzY0dCMm1UYXBocENWZzI3S0NybVBXdVgwYUI3OUFtbnpaVUEwRDBwa0U1UERzb3BoWS04M0xod01hcVhqTlQ4ZVZlZG9hN3pyY09vX0ZzRHkzc2IyRkZQQmM3SzlfNE83R0JSSWt0amUwOUphamxUNUpkQzNfM3lBMFQwVm5USmlsUkxrZXdMWk5MUGJzQkpYc1RzX0t0dEpVLXhnZDliRTBibGNVNjRBNVFZZk12cnZOUzBLNS01aG02MVl4UERBd0NaU3RM0gHiAUFVX3lxTFBkQUg0dEEwQWlOaWdGX2JmZ3NUMTZHd0tOdWNjV2szX0RjbjY1TnVEQ25HSkw3ZHQtRXVYN1JuN2k2RWNxV0phdE1tc09Fam1WazNGMS1fdXlJME9qbEZtMUlsX01TZm1vSS1ZY3JMNjNkeGdTVmJjUFRfWFZ3OXNxT3FqVVY0dDFtRkVTT3VjakpvbEREN01mUmlzRHNDMHdBVnpWRE1wVmFibDU0bjhxZW1HZ0NDdDRsUWpDOFZzNzFYZ0pBWWt4SVBTZWlVb3drUXFLSU04ZGRDODBQNFdVSVE": 1793610942978,
+    "news:CBMixgFBVV95cUxNWDRvOU1zXzg1dmpNeU5aZDRGVllTX3U2LWdLY2VKTkVwaTJENzFJcDk2ajRqWXhJdUlOMmdJWXRrSGp5SERabC14V1dRQUNqSmxJSjVTM04wczdHSUtWd3JjOUtnZ3Q3M3ZPYjJNZzg2ZjlVYmdYeEpSODA2ZmlFUzhVTURGTXVBMFJ4aUpTVjZITXV1UXp0MXJhR3F1OXZPbWNqQzNmeHhRdENDNHNRTnlWQVBaWjZfemJZdm9pNjRLTUhSbFHSAcsBQVVfeXFMT0xHYTZTOE41LXBjUXlRT29GOXR1TzhGU1FfMTV6NWE3T0dvOWg1MGhQNlBHeV8yMFdFVlF2eFFDYTBIR1BabFNkNVJTbXE5S2ZNSHlIZk1FLXZiWnQzS1lSVDdMdFgxc2ZUQ2JHcUNmaHZrekd4eHdVYjJxdi01UWVlWEpIMGdab1dmUXFLblBtSVZQWUpvb0QtcFlNWWN0OE41VDVwdHhybUJMS3kzQ3MtdzBiMDJiTlVqS3dJMnZ6dW1tYmRSR243RE0": 1793610942978
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kabar24",
-      "x": "Cara Cek Saldo Bansos Tanpa ATM, Bisa Lewat HP dan Layanan Bank - Kabar24",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlhtWGpueUc4b3FuRWNuWm9OdDRCTkdwaTFuX18wQXI4R2x6aEJRZUh6VnQyMGxtLS1ITzl2bDJaMTA5VVVNOTN6STNHenFPRkhfMWZPX1c1QV8zdi1zcHhEaGhZZjBiaEc5QzNJd1FvTzVHVUJFVVBPeS1KS1dGWDZCUTlYeWplUF9ab3ZZQi1RQXlOcFpkVnJlaU4xZ2ZlRUJ1cDVqU0IwbnJUY0VfX0o0Vk5ldw?oc=5",
-      "d": 1793604600000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Cara Masuk Desil 1–5 agar Berpeluang Mendapat Bansos 2026 - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFdWMG15M3RPdzRiRHpWTDBSZjBmOUthTTVIZjVTcFIxcDNRajB0X1dTWjV5a2Z3bERhc3N4WWMzR3UzZS1xZ09hZVVFSnJTOF91YTBqSFA3VHlRdTlBbmJWbjFWcHRwQnhuZkpOX1hUNVZxX19QWU5YSnFHUFNqNXdkNFMtUXgydzhPaGtTQnlLMndxUDY3T1dVTDQtajlSdnZVd0h1WVN1cmxzdVBv0gGvAUFVX3lxTE9QV1YwbXkzdE93NGJEelZMMFJmMGY5S2FNNUhmNVNwUjFwM1FqMHRfV1NaNXlrZndsRGFzc3hZYzNHdTNlLXFnT2FlVUVKclM4X3VhMGpIUDdUeVF1OUFuYlZuMVZwdHBCeG5mSk5fWFQ1VnFfX1BZTlhKcUdQU2o1d2Q0Uy1ReDJ3OE9oa1NCeUsyd3FQNjdPV1VMNC1qOVJ2dlV3SHVZU3VybHN1UG8?oc=5",
-      "d": 1793599620000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "Warga Pondok Bambu kembangkan UMKM lewat pelatihan digital marketing - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelhlb3RFRVBnZlNWSXc5dUNkRWpJVVVYeHI0clVOUW5NdDYwbXQ3cTJYemlhWmFXUU9aTUVmUERweTU0UFFoT1BWUVctazNnVXppcGh2U3hZaDNDTF9xMG02ZWFHOFhJYkFIS1VCWm5FVDhfSnVzUmNNQ3g0MmE0RXAzWG9kaUd5enhIQUZKWXN5VWZzc0J1Mm5GMUNINDZmVEhkSUUxMGNFV09pOXJF0gGyAUFVX3lxTFBjWkdYNlFCTlE0U3dpX3R6TUhXdVVYZ2JZa2VNMWdkSk1nNlI4bWJrbTFXMWd5QUZxd2stOWFQemxxWE5pYmtyVDRud1B0c1QtLTlWZVBnbGZIVF9McVdQcnJ4bEtWY3NOeHg0c0RXaTRTd3ZlQUJjUG10bVg1WExncjNuMHIxdjZNMkpMd0ZINGthbFhleUM0SWNUb21MZEtJM0pCQWpJQW9Qc2Mtek02Vnc?oc=5",
-      "d": 1793602496000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Radarindo",
-      "x": "Imigrasi Kelas II TPI Belawan Raih Dua Penghargaan Program Desa Binaan - Radarindo",
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEhXMDlkSWYyeGNVb0txcWFtNGJBRHdfSDFwRFlmM1ZINVN4UWR0QU9HWmhsbXozUEJuV1VvNlBEb2s1YnR6akV2OWJZczhNR2dHcEtCelUzNHJGcHNLSUFhUHJoU1UxbFhIeTRsQmxCU2J6ZTZVVHd1R0FjeUxUcEtyWFRNcFZ6VjFwQy1kQ2gxdW5sTVV0ZGZEOA?oc=5",
-      "d": 1793582592000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28513,10 +28464,50 @@
       "d": 1793605812000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@inekeelianaa",
+      "x": "Temen² mau tanya dong Jadi ceritanya aku abis bantu salah satu tetanggaku daftar perlinsos utk bantuan PKH tetapi keterangan tidak layak. Lalu untuk pembaruan data di apk cek banso",
+      "u": "https://www.threads.com/@inekeelianaa/post/DfO9GZ0oMAW",
+      "d": 1793610671000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Empat Dapur MBG di Rembang Belum Kembali Beroperasi, Ribuan Siswa Terdampak - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONW1LamRkejdBLVNIWFhOQkttcVAwZS1GWFhlNWV5Wm9va01lZ0xVNTFzT0x0UWJPX09pQUpoRnY3d2FQUmpoLW1TbDE1emE1OE1BcDFVYjhWWWp3eXM4aTY5UGJqUFNxWF82Tzl4NF9QaElIbV9aRlhsWlpkaWozLTQ0bzM5eFRPcnlrcGxtdk0waWFwNUk3N3lyNDhnTDBnU3k3azVMUzJwUHYzMEJNUTJDMXdkZnhIOVJMTlY0MlZyNjdEOHAyeGVn0gHKAUFVX3lxTE41bUtqZGR6N0EtU0hYWE5CS21xUDBlLUZYWGU1ZXlab29rTWVnTFU1MXNPTHRRYk9fT2lBSmhGdjd3YVBSamgtbVNsMTV6YTU4TUFwMVViOFZZand5czhpNjlQYmpQU3FYXzZPOXg0X1BoSUhtX1pGWGxaWmRpajMtNDRvMzl4VE9yeWtwbG12TTBpYXA1STc3eXI0OGdMMGdTeTdrNUxTMnBQdjMwQk1RMkMxd2RmeEg5UkxOVjQyVnI2N0Q4cDJ4ZWc?oc=5",
+      "d": 1793601960000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Pendaftaran Beasiswa Guru Madrasah Diniyah Jateng 2026 Dibuka, Cek Syarat dan Cara Daftarnya - Bicara Network - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0lMU1NEc1E5cnJJaWJzY0dCMm1UYXBocENWZzI3S0NybVBXdVgwYUI3OUFtbnpaVUEwRDBwa0U1UERzb3BoWS04M0xod01hcVhqTlQ4ZVZlZG9hN3pyY09vX0ZzRHkzc2IyRkZQQmM3SzlfNE83R0JSSWt0amUwOUphamxUNUpkQzNfM3lBMFQwVm5USmlsUkxrZXdMWk5MUGJzQkpYc1RzX0t0dEpVLXhnZDliRTBibGNVNjRBNVFZZk12cnZOUzBLNS01aG02MVl4UERBd0NaU3RM0gHiAUFVX3lxTFBkQUg0dEEwQWlOaWdGX2JmZ3NUMTZHd0tOdWNjV2szX0RjbjY1TnVEQ25HSkw3ZHQtRXVYN1JuN2k2RWNxV0phdE1tc09Fam1WazNGMS1fdXlJME9qbEZtMUlsX01TZm1vSS1ZY3JMNjNkeGdTVmJjUFRfWFZ3OXNxT3FqVVY0dDFtRkVTT3VjakpvbEREN01mUmlzRHNDMHdBVnpWRE1wVmFibDU0bjhxZW1HZ0NDdDRsUWpDOFZzNzFYZ0pBWWt4SVBTZWlVb3drUXFLSU04ZGRDODBQNFdVSVE?oc=5",
+      "d": 1793581500000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Kediri",
+      "x": "Bansos Digital Mulai 10 November 2026, Penyaluran Berubah Total Lewat GovTech - Radar Kediri",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDRvOU1zXzg1dmpNeU5aZDRGVllTX3U2LWdLY2VKTkVwaTJENzFJcDk2ajRqWXhJdUlOMmdJWXRrSGp5SERabC14V1dRQUNqSmxJSjVTM04wczdHSUtWd3JjOUtnZ3Q3M3ZPYjJNZzg2ZjlVYmdYeEpSODA2ZmlFUzhVTURGTXVBMFJ4aUpTVjZITXV1UXp0MXJhR3F1OXZPbWNqQzNmeHhRdENDNHNRTnlWQVBaWjZfemJZdm9pNjRLTUhSbFHSAcsBQVVfeXFMT0xHYTZTOE41LXBjUXlRT29GOXR1TzhGU1FfMTV6NWE3T0dvOWg1MGhQNlBHeV8yMFdFVlF2eFFDYTBIR1BabFNkNVJTbXE5S2ZNSHlIZk1FLXZiWnQzS1lSVDdMdFgxc2ZUQ2JHcUNmaHZrekd4eHdVYjJxdi01UWVlWEpIMGdab1dmUXFLblBtSVZQWUpvb0QtcFlNWWN0OE41VDVwdHhybUJMS3kzQ3MtdzBiMDJiTlVqS3dJMnZ6dW1tYmRSR243RE0?oc=5",
+      "d": 1793608248000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
