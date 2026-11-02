@@ -60,27 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqTcLEkk1M": 1792380939902,
-    "threads:DeqTUZdkyYb": 1792380939902,
-    "threads:DeqTFM-EuwM": 1792380939902,
-    "threads:DeqTFdZkzwE": 1792380939902,
-    "threads:DeqSrNHEmny": 1792380939902,
-    "threads:DeqSJ91kiSA": 1792380939902,
-    "threads:DeqTjqBgVUv": 1792380939902,
-    "threads:DeqTgw7GcO4": 1792380939902,
-    "threads:DeqTfyHmf6q": 1792380939902,
-    "threads:DeqTevAmRlf": 1792380939902,
-    "threads:DeqTdv6mVOx": 1792380939902,
-    "threads:DeqTcuxGdFp": 1792380939902,
-    "threads:DeqTb4smdBg": 1792380939902,
-    "threads:DeqScRfgN34": 1792380939902,
-    "threads:DeqTAemk9YK": 1792380939902,
-    "threads:DeqDY-FAZDl": 1792380939902,
-    "threads:DeqMyGFAS2q": 1792380939902,
-    "threads:DanhsvomuPW": 1792380939902,
-    "threads:DeqTULfoIRV": 1792380939902,
-    "news:CBMiU0FVX3lxTFBESV9mR0Y3cDJPWG9aS1ZLakt3ZXNxcVZIQ0pzMWtJY1Q4VmxxTUdLejNhclNqTXBSWFRyQVR4Y0ZiQTJhd3MtY0E2RG5YZE1YdTVj": 1792380939902,
-    "news:CBMixgFBVV95cUxONnhDVXpMWHowbWhRMzF3Njlja0tqRXJHVnRpclNkcUExZnhhck5FVzk0c3VLM2MyS3lOc01KbGs2MGk5bl9PRG9rbldPenNneV9idnNfT1JSY0wwTmVYWGlnWlZ6ZWZQRENJVGlOekQtWFVaaFBoS1Q2VWFFY25GUUkxbVVrS1ZFWXV1NHJteWpoVEhSZFF2WTludlFYOW1MUFFpcmxvWEdDY0NhTDB1QXBoRGtCbUpsb0hyWHd0VnFkdjFja1E": 1792380939902,
     "threads:DeobeGqGZ3_": 1792381251001,
     "threads:C-eVBY5vaQY": 1792381251001,
     "threads:DZ2q0brCgpv": 1792381251001,
@@ -26926,7 +26905,12 @@
     "news:CBMizAFBVV95cUxONDhBdDlhYV9DUjdJM3BXMXBrSDlBcWdKRF9XOElOczNGeHdCWWxkQzRldHg5UXgxeDBxaTFNbndjaWZLbXBKeklUQlQxcFpCVk5PUFhsYzBOY29CMUIzck9DR0FobDgwZ3hKc0FwOXF6dDc3dTdLQW9Nci1KZm9WUk9PMTJzWU81MWh2WnZxRGs1OS1JQmRBR2RhclBhSllzd2R1Zkc0SzE1dXlIMktwOHlnTThUZkRERElNWUhhRHg0MU5tdExza1A0Q0HSAcwBQVVfeXFMTjQ4QXQ5YWFfQ1I3STNwVzFwa0g5QXFnSkRfVzhJTnMzRnh3QllsZEM0ZXR4OVF4MXgwcWkxTW53Y2lmS21wSnpJVEJUMXBaQlZOT1BYbGMwTmNvQjFCM3JPQ0dBaGw4MGd4SnNBcDlxenQ3N3U3S0FvTXItSmZvVlJPTzEyc1lPNTFodlp2cURrNTktSUJkQUdkYXJQYUpZc3dkdWZHNEsxNXV5SDJLcDh5Z004VGZERERJTVlIYUR4NDFObXRMc2tQNENB": 1793590244956,
     "news:CBMi2wFBVV95cUxON1RfYTByZ0loV2lwaVFSUHczOHNzRno2THR1UTA0dFdwdEQ4MS1wT2Q3UDMwWjc4UTd5UmlFdm1ZLUJVWlB0QjVucXBNeGpTZWRJbGdaNzRGejhaOVlQT29RSWlWMk1KYkNUX0ZsTjRNZmwtN1p2a2k0S2hwTy1fZGxaS1FVSnZ2dzJlNXQwWFZHMFpCUDdWNFR1dWdHazFmTXRid0xoaXNQeXF3THBGTk1EVDdvOVFnbjlGSUhCbUJFNnl4RWJZYlhRTzhvcXY3Z1pZblBhaVZlVHM": 1793590244956,
     "news:CBMiU0FVX3lxTFB5MnFDU0laWGJ5Q21nc096RTkxSnRpMjJWOWF4R3NFTlI2MUdDYUp2Ykwzdkt3cTdGOWw2UnZVZTZLMkFpSkpId3ZrbE5CcUZuREFF": 1793590244956,
-    "news:CBMi4gFBVV95cUxNQ2RnbEZ4dXVZTlZKRTZrVVJHT1p2c2x5NlpKQmszRm50LV91V2VSMFV6LUhVclpMcnRzcFpnUzByVTBlcE53THFST3FvQ2FSQld2NVB2MF9sTFN2TEhNTDVCMDBXcno5bVdIU3BpQ3lUcGhQbGdvM0lLLVJCUG1jdndXS0w3OUJvUDhBSy1yaXgxeS1LYkRGRlM1ZmhISmtPdlliLU1Jd2Q3OGE2eXJCdDF3RkE4ekJCekxYOTQwX3hIdWZsb3hZeUhuTFFoWVFEcjlzUmRyS25jMWRCS1JBZ3Vn0gHiAUFVX3lxTE1DZGdsRnh1dVlOVkpFNmtVUkdPWnZzbHk2WkpCazNGbnQtX3VXZVIwVXotSFVyWkxydHNwWmdTMHJVMGVwTndMcVJPcW9DYVJCV3Y1UHYwX2xMU3ZMSE1MNUIwMFdyejltV0hTcGlDeVRwaFBsZ28zSUstUkJQbWN2d1dLTDc5Qm9QOEFLLXJpeDF5LUtiREZGUzVmaEhKa092WWItTUl3ZDc4YTZ5ckJ0MXdGQTh6QkJ6TFg5NDBfeEh1ZmxveFl5SG5MUWhZUURyOXNSZHJLbmMxZEJLUkFndWc": 1793590244956
+    "news:CBMi4gFBVV95cUxNQ2RnbEZ4dXVZTlZKRTZrVVJHT1p2c2x5NlpKQmszRm50LV91V2VSMFV6LUhVclpMcnRzcFpnUzByVTBlcE53THFST3FvQ2FSQld2NVB2MF9sTFN2TEhNTDVCMDBXcno5bVdIU3BpQ3lUcGhQbGdvM0lLLVJCUG1jdndXS0w3OUJvUDhBSy1yaXgxeS1LYkRGRlM1ZmhISmtPdlliLU1Jd2Q3OGE2eXJCdDF3RkE4ekJCekxYOTQwX3hIdWZsb3hZeUhuTFFoWVFEcjlzUmRyS25jMWRCS1JBZ3Vn0gHiAUFVX3lxTE1DZGdsRnh1dVlOVkpFNmtVUkdPWnZzbHk2WkpCazNGbnQtX3VXZVIwVXotSFVyWkxydHNwWmdTMHJVMGVwTndMcVJPcW9DYVJCV3Y1UHYwX2xMU3ZMSE1MNUIwMFdyejltV0hTcGlDeVRwaFBsZ28zSUstUkJQbWN2d1dLTDc5Qm9QOEFLLXJpeDF5LUtiREZGUzVmaEhKa092WWItTUl3ZDc4YTZ5ckJ0MXdGQTh6QkJ6TFg5NDBfeEh1ZmxveFl5SG5MUWhZUURyOXNSZHJLbmMxZEJLUkFndWc": 1793590244956,
+    "threads:DfN9Uiak-kp": 1793590537968,
+    "threads:DfOVYi8mQ0q": 1793590537968,
+    "threads:DfOUtZRHxkA": 1793590537968,
+    "news:CBMitgFBVV95cUxPSFRvSE42N1FGOFRUTm1BSlk4cjBXWk5NZUFqSVVtV0dGUmVRTmI1c1dzcENyNERJSVctTUptcWk2NU5YekNwOTNpVHBhb0VkTlZMUXU2c185U0t1LWVTVlE2NnRmTmxUVFY5RUJsNUlmUWRLOTRoUjRTTjJJZVBuNTc4S18ySVNOQTJsMGFhQ1ZZZm5nblBTTW1vem5wOFR6STNzLU5ibzNCd2FLZkprcDNVWVdEdw": 1793590537968,
+    "news:CBMiugFBVV95cUxQZWFNaUx0R28zMlVMdk5CVHdYSjNOaG1lRm1YeVRNQXVlaHpNMzRVUDZkYjh2XzltRF9nc3M3Rk1ScXdoQk5QQ0FCX2hDd003Um1UMkRGeEE4UkxaS3ZOMnZRSnRGS2t1NmJPMmJTaTBjYTc1UlRSRm9SN3pjdDUxVWtCOVAwdnJDblc4bEhTVTBVekMwSmFRUmFNa0gzZEg3ejNyYVliZ0dMUjFRQXdDVDdFbFNXeXJ3dHc": 1793590537968
   },
   "digest": [
     {
@@ -27618,10 +27602,50 @@
       "d": 1793581200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@zakk_mohammad",
+      "x": "Ternyata Ada program AI gratis dari ASEAN Foundation yang didukung Google.org, dan kalian bisa mendapatkan sertifikat setelah menuntaskan semua modulnya. Saya push tenaga lagi dan ",
+      "u": "https://www.threads.com/@zakk_mohammad/post/DfN9Uiak-kp",
+      "d": 1793577232000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@mahirexcel0",
+      "x": "Biasanya lewat beberapa jalur: Balai Latihan Kerja dan Dinas Tenaga Kerja di daerah kakak, program pemerintah, atau platform belajar online yang memberi akses gratis. Jadwal dan sy",
+      "u": "https://www.threads.com/@mahirexcel0/post/DfOVYi8mQ0q",
+      "d": 1793589848000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@haruka.hanami",
+      "x": "🇹🇼✨ PUNYA IMPIAN BELAJAR BAHASA MANDARIN LANGSUNG DI TAIWAN DENGAN BEASISWA? Yuk, wujudkan impianmu bersama HES Scholarship Sharing Session: From Application to Taiwan! 🎓✈️ Buat",
+      "u": "https://www.threads.com/@haruka.hanami/post/DfOUtZRHxkA",
+      "d": 1793589494000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "www.motogp.com",
+      "x": "Highlight Race Moto3™: Petronas Grand Prix Malaysia - www.motogp.com",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWFNaUx0R28zMlVMdk5CVHdYSjNOaG1lRm1YeVRNQXVlaHpNMzRVUDZkYjh2XzltRF9nc3M3Rk1ScXdoQk5QQ0FCX2hDd003Um1UMkRGeEE4UkxaS3ZOMnZRSnRGS2t1NmJPMmJTaTBjYTc1UlRSRm9SN3pjdDUxVWtCOVAwdnJDblc4bEhTVTBVekMwSmFRUmFNa0gzZEg3ejNyYVliZ0dMUjFRQXdDVDdFbFNXeXJ3dHc?oc=5",
+      "d": 1793510100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
