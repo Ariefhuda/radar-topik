@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqU8l3I6zS": 1792381551349,
-    "threads:DeqU5fjgE8f": 1792381551349,
-    "threads:DeqUPL2E-AR": 1792381551349,
-    "threads:DeqUEWEkx5C": 1792381551349,
-    "threads:DeqT5B_Ezx6": 1792381551349,
-    "threads:DeqT0KqE2k5": 1792381551349,
     "threads:DaO5W9UmLso": 1792381844133,
     "threads:DSeo62Lk9W_": 1792381844133,
     "news:CBMivwFBVV95cUxPaXRiMW9TREtnZHh4OFVfUHVmNm1kaGpXcndlV29RUkRvMG5jYVVycWlHb2dtVHplQ0x5VXRhTXExeUtyNVJMQTlfMmhaMDAwUEFQd3JzbkNnWEpDVDNXOFB2SEF2MDFtbW1kTjhOVTRKWDZjLXZoNF9oWXduYjNmOW8tLWtOQS1Cb0NBaEptVHlFcmx1bGw4dkVrMzVaQ0ZTcDQ2Qnljakdfak1qbEd2SnI4WndQekh3Y2thLXpRWQ": 1792381844133,
@@ -26923,7 +26917,16 @@
     "news:CBMiuwFBVV95cUxPY1Q3M2JmV3Q0cXBwTF9kUHB0TGlhRzFhNGJ0TUhBRXpCZzNrZm96dTZUS3lncXBvY0F4ck5XR2dVbnF5V3RNUmxEVXJTaGRYNWgya3pDdDRDbGhjdW1fMmFORFJld3M5cEJFNEJvN2t5TDh3UnBQazNSRlFPdFFZY0w1UU1rVGNQdjJheVhnYlc4UXZQSmpWZEM3Y1ItZ1VUMm9mZzRUVHFOX0xMekRWQWgycW5vVTNISHIw": 1793590861045,
     "news:CBMivwFBVV95cUxNTlBQMHlrbnc5WUF1cTBiWmZhVjYweXdGcS1NeExfajlfcVJkdW9qMVU3dWJ2UzNOZXFMOU5qQklmaVo0T1ZOaVQxdE9sWnlGZlVPVFJzMWhUT2dkR1p3d0ZjMjRvSXcxcW5LZW9IT1J4MXdLZ2JjcTVab29zenRyUEJhYmI4UnNjRnM5R2ZyeW5NVTc1b0dybUxIT3YxRUFEamFkRC1wVHpEZHZWcUNaMVNrM3NmM2pnRjBpX3dFWQ": 1793590861045,
     "news:CBMixgFBVV95cUxPV0hmZUdwUnlzRUtXaFEwRHZNb0U4S1hyWnppUHRwbFJnZEFfSVhaX0sxQWo2bk9KOEtiSzZ5YzZsT25rM3AtUGhSeEZBNEFUSHlzd05oN2RqSmZTd1FYaTRmT0VtenlacXhXZVpzcU1EeUw4WWVWZWVkRDBlX3NxaFZPMm15cXNVZHlFRHgtQnFhNGpaeWs5NmNpSWc0cGdYNTNMcnl6czBzOWF0dm9ibnlEeGpTQS1peGFaZ0JhZlJOOXRyX0HSAcsBQVVfeXFMTmZPY0w1VW9xRUVwelpfNlFQMHRZbkpHMVNwVHp3S0RzUDFENm1JQkx1SE4wcGRjWkIwUDRvbi1iWkphS1Z4Tk5wamlxWGJ2OUZUQnBvOEpEVzBucjBWYjBHNUpvYm81aGJWWEFjMElFcGtfUDZVdklkQ3hqdTFBSDJlcVpEMHRlSnNQeUdLRDY0d0UzbDN3QzhXa2hJWEs0SnNtbUhfZmpVTy1RdUtVaXVUczMwVGZCYnZYc3ZzbTJDaV9HQVpKczZfa28": 1793590861045,
-    "news:CBMi3AFBVV95cUxQeGtkeUdIWFM2OFc3b19RM3VFRmRVc0RRdnc0R0N3aUFocXlnM1pYOHJ0V3JRbWpwbG5BTkF0ZVJmSnpWRzYwSzZXMnByRGxEZlJPcWdKLVBrTWVnX0hyU0dodTNHcVNlYXMzMlBJQlRROWdhT2h0eVpTRHp3M3Y1YW5OYW9hZ0FJTU9GWTVBUXJib0VNM3RBU1NmU0x1R2lheFRuU21IcjJrdUlKYzFFUlhtczFiOHRZb1FndGRIMzdPTDBGaWZwcUxHdmhacGZUTHNNOVRmTm9ibnha0gHiAUFVX3lxTE1DZGdsRnh1dVlOVkpFNmtVUkdPWnZzbHk2WkpCazNGbnQtX3VXZVIwVXotSFVyWkxydHNwWmdTMHJVMGVwTndMcVJPcW9DYVJCV3Y1UHYwX2xMU3ZMSE1MNUIwMFdyejltV0hTcGlDeVRwaFBsZ28zSUstUkJQbWN2d1dLTDc5Qm9QOEFLLXJpeDF5LUtiREZGUzVmaEhKa092WWItTUl3ZDc4YTZ5ckJ0MXdGQTh6QkJ6TFg5NDBfeEh1ZmxveFl5SG5MUWhZUURyOXNSZHJLbmMxZEJLUkFndWc": 1793590861045
+    "news:CBMi3AFBVV95cUxQeGtkeUdIWFM2OFc3b19RM3VFRmRVc0RRdnc0R0N3aUFocXlnM1pYOHJ0V3JRbWpwbG5BTkF0ZVJmSnpWRzYwSzZXMnByRGxEZlJPcWdKLVBrTWVnX0hyU0dodTNHcVNlYXMzMlBJQlRROWdhT2h0eVpTRHp3M3Y1YW5OYW9hZ0FJTU9GWTVBUXJib0VNM3RBU1NmU0x1R2lheFRuU21IcjJrdUlKYzFFUlhtczFiOHRZb1FndGRIMzdPTDBGaWZwcUxHdmhacGZUTHNNOVRmTm9ibnha0gHiAUFVX3lxTE1DZGdsRnh1dVlOVkpFNmtVUkdPWnZzbHk2WkpCazNGbnQtX3VXZVIwVXotSFVyWkxydHNwWmdTMHJVMGVwTndMcVJPcW9DYVJCV3Y1UHYwX2xMU3ZMSE1MNUIwMFdyejltV0hTcGlDeVRwaFBsZ28zSUstUkJQbWN2d1dLTDc5Qm9QOEFLLXJpeDF5LUtiREZGUzVmaEhKa092WWItTUl3ZDc4YTZ5ckJ0MXdGQTh6QkJ6TFg5NDBfeEh1ZmxveFl5SG5MUWhZUURyOXNSZHJLbmMxZEJLUkFndWc": 1793590861045,
+    "threads:DfOW4lAGMnP": 1793591150901,
+    "threads:DfOW2L2jXgA": 1793591150901,
+    "threads:DfOW0TEILey": 1793591150901,
+    "threads:DfOWfl8iZDt": 1793591150901,
+    "threads:DfOWeP4DkFO": 1793591150901,
+    "threads:DfOXCcDD31q": 1793591150901,
+    "threads:DfOX7aPk8wG": 1793591150901,
+    "threads:DfOXgu8iZR-": 1793591150901,
+    "threads:DfOXgs2idvD": 1793591150901
   },
   "digest": [
     {
@@ -27725,10 +27728,50 @@
       "d": 1793581200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, sedikit saran sih, kk bisa menambah skill jualan online. Nanti supaya bisa berjualan produk sendiri, jadi affiliate atau dropship. Jadi kalau ada skill jualan online seti",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfOXCcDD31q",
+      "d": 1793590715000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@clc.pakjo",
+      "x": "Hallo mama dan papa🤗 CLC PAKJO membuka pendaftaran untuk anak usia dini dari usia 2th hingga SD kelas 6📚 🎒Belajar fun kreatif & kelas semi privat 🧑🏼‍🏫 Guru sabar dan berpenga",
+      "u": "https://www.threads.com/@clc.pakjo/post/DfOX7aPk8wG",
+      "d": 1793591183000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@houseof_yash",
+      "x": " 😍🎬 *KELAS GRATIS \"VIDEO ANIMASI\" dengan AI* ✨ 🎥 _MAU bikin video animasi lucu dan menarik, tapi belum bisa desain atau edit video? _ Tenang, Kak 🥰 Sekarang kamu bisa belajar *",
+      "u": "https://www.threads.com/@houseof_yash/post/DfOXgu8iZR-",
+      "d": 1793590964000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@houseof_yash",
+      "x": "😍🎬 *KELAS GRATIS \"VIDEO ANIMASI\" dengan AI* ✨ 🎥 _MAU bikin video animasi lucu dan menarik, tapi belum bisa desain atau edit video? _ Tenang, Kak 🥰 Sekarang kamu bisa belajar *m",
+      "u": "https://www.threads.com/@houseof_yash/post/DfOXgs2idvD",
+      "d": 1793590963000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
