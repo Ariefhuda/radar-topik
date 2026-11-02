@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DaO5W9UmLso": 1792381844133,
-    "threads:DSeo62Lk9W_": 1792381844133,
-    "news:CBMivwFBVV95cUxPaXRiMW9TREtnZHh4OFVfUHVmNm1kaGpXcndlV29RUkRvMG5jYVVycWlHb2dtVHplQ0x5VXRhTXExeUtyNVJMQTlfMmhaMDAwUEFQd3JzbkNnWEpDVDNXOFB2SEF2MDFtbW1kTjhOVTRKWDZjLXZoNF9oWXduYjNmOW8tLWtOQS1Cb0NBaEptVHlFcmx1bGw4dkVrMzVaQ0ZTcDQ2Qnljakdfak1qbEd2SnI4WndQekh3Y2thLXpRWQ": 1792381844133,
-    "news:CBMi1gFBVV95cUxNRU1pRzdxQ3Bsc2JNWERVc3RNa2dDOG9TX04wYzJ4dVRmOTRETXR5Vkt3ZVp1U3Z3VTlHRGdGRUlwZkRzakZucTBZVmY5emJGaUZ0M1ZjWlhLbDVDR0xwVUNySGkxdG1KY1ZndmVoZmp3MWJLekhvVklMRDBHeHpBazU0M3VpT1VBNV9PQndzUEhVSE42T2FMb21Td0k1dmc1OUQ5M1ZXeUFQd0ppODRiMDlfWjhnc3pMS0tKU3VDdlVzaERHYkx3V0s1dzROclJlSmJDYW9n0gHbAUFVX3lxTE9oVzk4aDdERE82MkhZdVB1US1ZTmh2T0lyZlNhUlpYOTFDUTZQZ0JLUGRadHU2eks1UVphTVlDU0o3MWo4ZDFSdHpoVkJ0M1k4Vk1td1JNMmRIQU14RU0xcVNWQ0ZyWnpvdklzZ1NVSTRHQk91U2Z4TXpBTGNpWk5sN1FjdjdkdkcwVl9nQlNweU02WGlBaGt6aFA1X2hOLXNMblRhX1hTVWZNRjIzd0VjcnFmNWpIbV9fZi1QY3M4OVBWUV9BMlROYU4zRWh5Z2MwWlItWDdDaTRvZw": 1792381844133,
     "threads:DeqVAvsEdss": 1792382134825,
     "threads:DeqVXwGkyUV": 1792382134825,
     "threads:DeqV6HdkU-N": 1792382134825,
@@ -26926,7 +26922,13 @@
     "threads:DfOXCcDD31q": 1793591150901,
     "threads:DfOX7aPk8wG": 1793591150901,
     "threads:DfOXgu8iZR-": 1793591150901,
-    "threads:DfOXgs2idvD": 1793591150901
+    "threads:DfOXgs2idvD": 1793591150901,
+    "threads:Db_2t3KE37V": 1793591460954,
+    "threads:DfOYn1akw4d": 1793591460954,
+    "news:CBMiZEFVX3lxTFBFSExuRVB4YTJIWlV3aElTc2NHOVJUVkdwZnRneDUxM1U5N204TGdIb0wwWEtDVVJhWFRmQmduVFJhWm1KRTItRnJaRkZuUlhweC1oejJfd2ROXzFjbG5MRFMwTjg": 1793591460954,
+    "news:CBMitwFBVV95cUxOTW1VX0FNa0huTWUtTzdaeWlOajQ2WU1LX0lXaVBMdnJ0YnB2MWJ5OGtFWUtPUEJuNmFSMDlVUmNrM3l5OWd6bGgweFNwU3RMVlBzU0RKbFd6SEtjT3JuSjJhaVVua2Nmd0UzUlAzRmRJX1pSTjJKVkNGNDRHUkZZekNnclpjZmZTd1l5bG9mWmZ3T1BHMFlabG13QTVrOVhKT3pXWm9nU2laMlJqOGd6UHNZU0ZvTG8": 1793591460954,
+    "news:CBMifEFVX3lxTE9zUThKVmR6VUs1QWdPLXl3Z2hSRG9LNVZjdHhoOWZjcnpVZnBMbEFOcFY4a3lIbTZhcFVBRTVsT2ljNnh0NmpUV1AxazZfbGFIWHJQOHFiTkxrY1BrekRZbTByRXNhWGhpZEs4WDdYSzVfMFpZc1VoWmluTWk": 1793591460954,
+    "news:CBMivgFBVV95cUxQRHVOUkRfcFF3YzUwY0ItR1pENmY1UDA5eGwxdFp2RE96aWZCS1cyRDNCVTR2T2x4WWp3MUJyZ1ZWWFJCcDFKWmd0cTFMTVhoNE54T1NMOGdhSjhKaEx3OXN5ZEpqYlEzWFhCX2RVYURvLWVNVzhBUlVSczh3bWk4UzZkSjNTNTE1MGdYT24zOUJxbl8taDRKejFRcWMwZE5wZ2h4SG1LYUpLLWhVQldXbTZrVVV6Z2lLU21DTjF30gG-AUFVX3lxTFBEdU5SRF9wUXdjNTBjQi1HWkQ2ZjVQMDl4bDF0WnZET3ppZkJLVzJEM0JVNHZPbHhZancxQnJnVlZYUkJwMUpaZ3RxMUxNWGg0TnhPU0w4Z2FKOEpoTHc5c3lkSmpiUTNYWEJfZFVhRG8tZU1XOEFSVVJzOHdtaThTNmRKM1M1MTUwZ1hPbjM5QnFuXy1oNEp6MVFxYzBkTnBnaHhIbUthSkstaFVCV1dtNmtVVXpnaUtTbUNOMXc": 1793591460954
   },
   "digest": [
     {
@@ -27768,10 +27770,40 @@
       "d": 1793590963000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Redaksi 8",
+      "x": "Permudah Warga Miliki Legalitas Tanah, Desa Teluk Selong Fasilitasi Pembuatan Sertifikat Gratis - Redaksi 8",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW1VX0FNa0huTWUtTzdaeWlOajQ2WU1LX0lXaVBMdnJ0YnB2MWJ5OGtFWUtPUEJuNmFSMDlVUmNrM3l5OWd6bGgweFNwU3RMVlBzU0RKbFd6SEtjT3JuSjJhaVVua2Nmd0UzUlAzRmRJX1pSTjJKVkNGNDRHUkZZekNnclpjZmZTd1l5bG9mWmZ3T1BHMFlabG13QTVrOVhKT3pXWm9nU2laMlJqOGd6UHNZU0ZvTG8?oc=5",
+      "d": 1793591267000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Redaksi 8",
+      "x": "DWP ULM Bantu Warga Banjarmasin Peroleh Air Bersih - Redaksi 8",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zUThKVmR6VUs1QWdPLXl3Z2hSRG9LNVZjdHhoOWZjcnpVZnBMbEFOcFY4a3lIbTZhcFVBRTVsT2ljNnh0NmpUV1AxazZfbGFIWHJQOHFiTkxrY1BrekRZbTByRXNhWGhpZEs4WDdYSzVfMFpZc1VoWmluTWk?oc=5",
+      "d": 1793569930000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "PKH BPNT Tahap 4 2026 Sudah SPM, Kapan Saldo Cair? Cek Infonya di Sini - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHVOUkRfcFF3YzUwY0ItR1pENmY1UDA5eGwxdFp2RE96aWZCS1cyRDNCVTR2T2x4WWp3MUJyZ1ZWWFJCcDFKWmd0cTFMTVhoNE54T1NMOGdhSjhKaEx3OXN5ZEpqYlEzWFhCX2RVYURvLWVNVzhBUlVSczh3bWk4UzZkSjNTNTE1MGdYT24zOUJxbl8taDRKejFRcWMwZE5wZ2h4SG1LYUpLLWhVQldXbTZrVVV6Z2lLU21DTjF30gG-AUFVX3lxTFBEdU5SRF9wUXdjNTBjQi1HWkQ2ZjVQMDl4bDF0WnZET3ppZkJLVzJEM0JVNHZPbHhZancxQnJnVlZYUkJwMUpaZ3RxMUxNWGg0TnhPU0w4Z2FKOEpoTHc5c3lkSmpiUTNYWEJfZFVhRG8tZU1XOEFSVVJzOHdtaThTNmRKM1M1MTUwZ1hPbjM5QnFuXy1oNEp6MVFxYzBkTnBnaHhIbUthSkstaFVCV1dtNmtVVXpnaUtTbUNOMXc?oc=5",
+      "d": 1793587752000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
