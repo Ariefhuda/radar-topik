@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdpYYZhAKjh": 1792441540725,
-    "news:CBMi0wFBVV95cUxPa3kwaVNZZDNjQmpXNC1od19iNUNZTUhHMXVTQWxIaURtSVNnTUZ1YjMxNXMtUDQ2YkszU1hiREcxRzl5OTl4ejcweXhHbFRYdTFGWWVNZWhrTXlaM3BXcnNTOFRsQ2l6TEI4TGd6WTRrU0lvd0F6XzlBR0QtWGdjNXZzWE4tb0R6MTlaM0ViTFQydlR0ZEdSYm10LWdqa1ItcS1JVmxrckZrNDJibW1aLWZyUm9NblhZOUtMZzJjUFlZOGZhNkxMcjNITDZlTU1lRnFz0gHTAUFVX3lxTE9reTBpU1lkM2NCalc0LWh3X2I1Q1lNSEcxdVNBbEhpRG1JU2dNRnViMzE1cy1QNDZiSzNTWGJERzFHOXk5OXh6NzB5eEdsVFh1MUZZZU1laGtNeVozcFdyc1M4VGxDaXpMQjhMZ3pZNGtTSW93QXpfOUFHRC1YZ2M1dnNYTi1vRHoxOVozRWJMVDJ2VHRkR1JibXQtZ2prUi1xLUlWbGtyRms0MmJtbVotZnJSb01uWFk5S0xnMmNQWVk4ZmE2TExyM0hMNmVNTWVGcXM": 1792441540725,
-    "news:CBMiZkFVX3lxTFBDNkQySmZvR3gzNVFlaTVJYXpQM3Zzb3UxczZrVjZTaDVmdW1tYnNOaUxLUHdGOGNwRWNvZmNVV1FnVUxqRDBNajByQlVGX1ZJNW9tZVFENnhKTGdEZ05xVE9jQzhmQQ": 1792441540725,
     "threads:Deo5C25k-8v": 1792441851583,
     "threads:DesHurhoJcB": 1792441851583,
     "threads:DesHqmpkxI-": 1792441851583,
@@ -27161,26 +27158,16 @@
     "threads:DfQHXnNIwbq": 1793649950531,
     "threads:DfQHXq_lbKH": 1793649950531,
     "news:CBMixgFBVV95cUxNN3Rsb2V3TnBPWF9LdFFYT21fV1pyaDhKX19FWUNYTi1KQllyTVRMMFRPMkpFdzZnQVgzbHZBUjhlNmVOOUxjM3pHSjA3bTFPd25GRGJKN3FtaXhQVnJyY3lTTk81T1FtZ3BDN2NCVlF6ZWxSNnFsYWpodWVWc3JncXVXUlotS2tGNlhmXzVJUEZkNGxOcWVKd1duVVh3V2l3eWVMOXU3YVJwVldKZmQxQjgtZ1QyTjUzMWZ2YWVTWkpIak1lSVE": 1793649950531,
-    "threads:DfQIamEkT22": 1793650531003,
-    "threads:DfQIGynAW3H": 1793650531003,
-    "threads:DfQH4EDAWwa": 1793650531003,
-    "threads:DfQHlTNkWhA": 1793650531003,
-    "news:CBMijAFBVV95cUxNaWhWMGZYWHdDdjVDdFlObnBMWnBFdUlvLUVHVmdMdS11X1dlc09XS2cwRzgxclNmbEZJUTA1b3J1R3V0aXFZV3lTS0lzOGZ2UjVha1hpbHpjN3F4QTNfUDVIWFA1cm96MUstOG5CMzNTSHI4dGg0RHlza2Zja0ZqTHBiTS1kTFJpRXljWA": 1793650531003,
-    "news:CBMipgFBVV95cUxPcXQtU2UwS3d3Zjlnemo4M0hxTUpXUTg4SVpQUW9zaHF5OVpUQkw2R2VmOWhRTjY5VkdPaFJpX3BWeDFRejNrM3djdVJVMGtCTVRtcVA3MjNETHBtTk5tVEFpV0t6eXlfQlNRa0F1SU1rZDVubDR2T3VtYXhUMVIta092UUxpRVFlUGJwV2xCOXhVdW1EQm5VYlhfSGdOcWxRb2R0VExB": 1793650531003,
-    "threads:DfQJKKDDQYw": 1793650974511,
-    "threads:DeapSYCDSI7": 1793650974511
+    "threads:DfQIamEkT22": 1793650749706,
+    "threads:DfQIGynAW3H": 1793650749706,
+    "threads:DfQH4EDAWwa": 1793650749706,
+    "threads:DfQHlTNkWhA": 1793650749706,
+    "news:CBMijAFBVV95cUxNaWhWMGZYWHdDdjVDdFlObnBMWnBFdUlvLUVHVmdMdS11X1dlc09XS2cwRzgxclNmbEZJUTA1b3J1R3V0aXFZV3lTS0lzOGZ2UjVha1hpbHpjN3F4QTNfUDVIWFA1cm96MUstOG5CMzNTSHI4dGg0RHlza2Zja0ZqTHBiTS1kTFJpRXljWA": 1793650749706,
+    "news:CBMipgFBVV95cUxPcXQtU2UwS3d3Zjlnemo4M0hxTUpXUTg4SVpQUW9zaHF5OVpUQkw2R2VmOWhRTjY5VkdPaFJpX3BWeDFRejNrM3djdVJVMGtCTVRtcVA3MjNETHBtTk5tVEFpV0t6eXlfQlNRa0F1SU1rZDVubDR2T3VtYXhUMVIta092UUxpRVFlUGJwV2xCOXhVdW1EQm5VYlhfSGdOcWxRb2R0VExB": 1793650749706,
+    "threads:DfQJKKDDQYw": 1793651167353,
+    "news:CBMiuwFBVV95cUxPeVVJYlBXTmgzUEVtMF9EWG1TNXRza0FnTXQ3Q3Y1RTJjNWVDZ1YycF9TUkxZcTMxb2VFUWdWczVXMFhEQi1yeGVJTENkcTJpSUVjN1BHbmlIWVZkV2Vpam5aZ2s5RDE2YV9mNmRIenhYMlNJZUJBZnNOYkg5SEl3ZzQ4YW01NENqc3hyM2RCSVdCcW5DdnBjS2ZrcWtmcTJjTXVNbUU5dmo3S2xxanRiLUJxeExJbHNSSHNR": 1793651167353
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Harianmetropolitan.co.id",
-      "x": "Bupati dan Kepala Dinas Pendidikan Karimun, Serahkan Seragam Gratis di SD Negeri 008 Tebing - Harianmetropolitan.co.id",
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXN5M2hpLVpMd2hWenBPUG5hLTdsWVRNRWNCQktpNHg4R2FLU3BLTFctd0E0bXlqamxKcmc2bUdhaHhCS1h4Nmc2MzJITnd6MXh4eHFCcEExMVo3WlU5d29VZGxvcXkydWtRelFkWkFVRFYxOGNjckpOc0RZYjRoZC1sUkVfZ1gtSUI3NlZoU0pIcXYtN21SV2xyU2lLRlBmZ0hDYkdtS3FNeThYcXgya1p0SnJfeHFscDAxYkNlLXh0bEx3OVM2Vm5uRnhkRWdsZ2lKQTlyOVPSAdgBQVVfeXFMT0VzeTNoaS1aTHdoVnpwT1BuYS03bFlUTUVjQkJLaTR4OEdhS1NwS0xXLXdBNG15ampsSnJnNm1HYWh4QktYeDZnNjMySE53ejF4eHhxQnBBMTFaN1pVOXdvVWRsb3F5MnVrUXpRZFpBVURWMThjY3JKTnNEWWI0aGQtbFJFX2dYLUlCNzZWaFNKSHF2LTdtUldsclNpS0ZQZmdIQ2JHbUtxTXk4WHF4MmtadEpyX3hxbHAwMWJDZS14dGxMdzlTNlZubkZ4ZEVnbGdpSkE5cjlT?oc=5",
-      "d": 1793617276000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28669,6 +28656,16 @@
       "u": "https://www.threads.com/@meta.ai/post/DfQJKKDDQYw",
       "d": 1793650547000,
       "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Lingkaran Istana",
+      "x": "Pesta Njuah Njuah 2026 Resmi Ditutup, Bupati: Jangan Sampai Kehilangan Akar Budaya - Lingkaran Istana",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVVJYlBXTmgzUEVtMF9EWG1TNXRza0FnTXQ3Q3Y1RTJjNWVDZ1YycF9TUkxZcTMxb2VFUWdWczVXMFhEQi1yeGVJTENkcTJpSUVjN1BHbmlIWVZkV2Vpam5aZ2s5RDE2YV9mNmRIenhYMlNJZUJBZnNOYkg5SEl3ZzQ4YW01NENqc3hyM2RCSVdCcW5DdnBjS2ZrcWtmcTJjTXVNbUU5dmo3S2xxanRiLUJxeExJbHNSSHNR?oc=5",
+      "d": 1793649552000,
+      "urgent": true,
       "warn": false
     }
   ],
