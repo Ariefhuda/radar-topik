@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqnezYFP34": 1792392039224,
-    "news:CBMiugFBVV95cUxQcWEwbkRaVVV6ODR5eWpEc2hFeUZiMWZmbmZac0IwWFhIUUdLdko5eHp1bXNKR2dkMEgtOVN0NGVLVTJXLXhDRjYzYkFWOWM5NkRUaGJueUZENTR3VUNJZVBVanpMdHBsazVPMTVXR3JMeEw1Z2Zybmp6V2VlaF9kcmdsNXZXVUNFWEZuMFJJeXVrQllQeUtIMnYtMHQ5TnpUNEROdnN0ZzlFZFctZnhwT25sajdKVmgySHc": 1792392039224,
     "threads:DeqpEazCciZ": 1792392340210,
     "threads:Ded6YAJCVKy": 1792392340210,
     "threads:DelZfKPGt-B": 1792392340210,
@@ -26959,49 +26957,13 @@
     "news:CBMid0FVX3lxTE1vaFB0aGx3elAwWk9EcTJYVlNLVWZuQ3Nkak1sQ3VqSVh3YnU1R2hZODVtY3NOaXJZSWZkeUVUcXhVNmJNSjhXTEtVZ1BQVkkxMDhWMFgtVzlJZHVfQkhOdlBpd0tQWVNvc1hYUl9lVW5jcGR5U0ZB": 1793601336539,
     "news:CBMilAFBVV95cUxQdy1kcmpJVmo1VkUwemRpREdSQ0ttNW5qdHVrcUNXc3pjdjNZWkJnNjV6WWRlYW94UVUyclBYLWkwSGJ3bk93Um8tZnQxZV94eHNPby1ZR2hsTFRQRE9Sdmtfd29xRHU1WHh3UTVORGhHS0RjaEpjQUFDVFZPSzVDVE1vSEdhYXE5ekI4ekJFeUc0UnRa": 1793601336539,
     "news:CBMi1gFBVV95cUxQTnZoM1NEWC1fSm5WcE1zS0xrSUFEaHNMbi03SmxqODU4UlRteld3aGl4bkQ1bGpVQ3VCbFdLSG5vVjNqckZ1Ti1NWkE0S0RlNWJKREI1LW5qMG1ha3ZZclMwejkwUk8tTExEeVFJaW5xWGZ0VzJSM2xOTkxJRHpoZG50alFNZGVTTXh4VGt5aEVWZjkzMGt3LVFCVjdQNmtmelROTzduWmlSc3JtYnhoNmZBNUZJZklxdndZWVZjeFZfMnd5YW1Wb21CSzdVekxmcWVJanFn": 1793601336539,
-    "news:CBMiqgFBVV95cUxQemI4Vk9QV09BMTA5Ml9yTkh3UWpldDFJMGVLS0Z3b09hdU9IYVNiTE1rc3FjN1dVelpDRDdvOGdWYXJPenpqck9HWS1HUzEyTHF1VFdrb1FpVEtxXzdDV0JmQ0tRY1BfQVRKSXlGTmZEZmJlanV1UE0tUXVneTVDOFNBNkRHX28tM0FLSW5EaUtTcmZiUWFNNkFBREZLVWdaMDZKVjRTQWM5QQ": 1793601336539
+    "news:CBMiqgFBVV95cUxQemI4Vk9QV09BMTA5Ml9yTkh3UWpldDFJMGVLS0Z3b09hdU9IYVNiTE1rc3FjN1dVelpDRDdvOGdWYXJPenpqck9HWS1HUzEyTHF1VFdrb1FpVEtxXzdDV0JmQ0tRY1BfQVRKSXlGTmZEZmJlanV1UE0tUXVneTVDOFNBNkRHX28tM0FLSW5EaUtTcmZiUWFNNkFBREZLVWdaMDZKVjRTQWM5QQ": 1793601336539,
+    "threads:DfOqmGfoA1z": 1793601642207,
+    "threads:DfOrhOzDxCV": 1793601642207,
+    "news:CBMizAFBVV95cUxOLTFBckx4YkJSSmQ3Q3Zsb3Z5WWdBb1I4YkNQOHVUMnZJTl91cXFrbTdwYXBsMVgwWVVHalNDVC03STZXQl9DMURDUDBtRkplclhFTk5peG9WczMzZUFMdUwzT20yVXpBbUExSWR1eW5TS2pHSGtNRTJaZHNIcko2OXBEZEg2N3BWUE8yVmtmbll3Zk90YjM1clAwMEM5dVRONkpxd0lVcTBNZHhNeV95MU9DNlBBcG1USXVWdXVseGoweWVUbHc4d0dRbFnSAcwBQVVfeXFMTi0xQXJMeGJCUkpkN0N2bG92eVlnQW9SOGJDUDh1VDJ2SU5fdXFxa203cGFwbDFYMFlVR2pTQ1QtN0k2V0JfQzFEQ1AwbUZKZXJYRU5OaXhvVnMzM2VBTHVMM09tMlV6QW1BMUlkdXluU0tqR0hrTUUyWmRzSHJKNjlwRGRINjdwVlBPMlZrZm5Zd2ZPdGIzNXJQMDBDOXVUTjZKcXdJVXEwTWR4TXlfeTFPQzZQQXBtVEl1VnV1bHhqMHllVGx3OHdHUWxZ": 1793601642207,
+    "news:CBMixwFBVV95cUxNalRMdUNCU3FoTjJBZnV1dWJaM00xSzA0ckRhOHZqVmRTa2thNEZ2cTNJcVhLYWhvbDNNSk5sU0RIaFhLVUxWZmRmNzZXY1Q4Y1o0SU52V1V3aWdBX216YkM2OTA2ZzhBQXo5UDF2QXZjeTY0c0YwUXNuZ0t0dXhWb0hkQmZzeWFTZ1BYeUtYS0x2ZEp3U2xsUllwMkxUQjdBT1dnUDk3R3ZSM3Vmb2ROWDVJVXB3WHVoV0lwUGpwaHluQVBXVnZ3": 1793601642207
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfOba91j4sm",
-      "d": 1793593013000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfObZ-uD3fe",
-      "d": 1793593005000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfObZNUDyBH",
-      "d": 1793592999000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@harma.wati.081915483043",
-      "x": "COMING SOON PELATIHAN PENYELENGGARAAN JENAZAH GRATIS Khusus Warga Kec. Biringkanaya & Tamalanrea KUOTA 100 PESERTA! Untuk ikhwan dan akhwat. DAFTAR SEKARANG! Link Pendaftaran https",
-      "u": "https://www.threads.com/@harma.wati.081915483043/post/DfObwtNnY8U",
-      "d": 1793593192000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28461,10 +28423,50 @@
       "d": 1793601119000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kikiiii_jpk",
+      "x": "Halo Kak 👋 kami dari PT Juan Pijar Kreasi. Kalau Kakak sedang membutuhkan SBU, SKK, ISO, K3, CSMS, PT/CV atau perizinan usaha, saya bisa bantu cek kebutuhan & persyaratan terlebih",
+      "u": "https://www.threads.com/@kikiiii_jpk/post/DfOqmGfoA1z",
+      "d": 1793600969000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@momiasilearningcenter",
+      "x": "Beyond The Bond Festival Mom & Dad, persiapkan diri menyambut sang buah hati dengan bekal ilmu dan pengalaman terbaik. 🗓️ Minggu, 29 November 2026 ⏰08.00 – 14.00 WIB 📍Atria Hotel",
+      "u": "https://www.threads.com/@momiasilearningcenter/post/DfOrhOzDxCV",
+      "d": 1793601453000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Dari Karya Tangan, Anak Berkebutuhan Khusus Belajar Mandiri dan Berdaya - Suara Merdeka - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTFBckx4YkJSSmQ3Q3Zsb3Z5WWdBb1I4YkNQOHVUMnZJTl91cXFrbTdwYXBsMVgwWVVHalNDVC03STZXQl9DMURDUDBtRkplclhFTk5peG9WczMzZUFMdUwzT20yVXpBbUExSWR1eW5TS2pHSGtNRTJaZHNIcko2OXBEZEg2N3BWUE8yVmtmbll3Zk90YjM1clAwMEM5dVRONkpxd0lVcTBNZHhNeV95MU9DNlBBcG1USXVWdXVseGoweWVUbHc4d0dRbFnSAcwBQVVfeXFMTi0xQXJMeGJCUkpkN0N2bG92eVlnQW9SOGJDUDh1VDJ2SU5fdXFxa203cGFwbDFYMFlVR2pTQ1QtN0k2V0JfQzFEQ1AwbUZKZXJYRU5OaXhvVnMzM2VBTHVMM09tMlV6QW1BMUlkdXluU0tqR0hrTUUyWmRzSHJKNjlwRGRINjdwVlBPMlZrZm5Zd2ZPdGIzNXJQMDBDOXVUTjZKcXdJVXEwTWR4TXlfeTFPQzZQQXBtVEl1VnV1bHhqMHllVGx3OHdHUWxZ?oc=5",
+      "d": 1793538000000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Media Indonesia",
+      "x": "Program Kuliah Gratis Masih Dibahas, Dirjen Dikti: Skema dan Anggaran Belum Diputuskan - Media Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNalRMdUNCU3FoTjJBZnV1dWJaM00xSzA0ckRhOHZqVmRTa2thNEZ2cTNJcVhLYWhvbDNNSk5sU0RIaFhLVUxWZmRmNzZXY1Q4Y1o0SU52V1V3aWdBX216YkM2OTA2ZzhBQXo5UDF2QXZjeTY0c0YwUXNuZ0t0dXhWb0hkQmZzeWFTZ1BYeUtYS0x2ZEp3U2xsUllwMkxUQjdBT1dnUDk3R3ZSM3Vmb2ROWDVJVXB3WHVoV0lwUGpwaHluQVBXVnZ3?oc=5",
+      "d": 1793601317000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
