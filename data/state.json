@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DW5qCQoD8nD": 1792404956043,
-    "threads:DerAB8hFpJB": 1792404956043,
-    "threads:DerAsMDEqJx": 1792404956043,
-    "threads:Deq-kdMmcqm": 1792404956043,
-    "threads:DerBS92CYQG": 1792404956043,
-    "threads:DerBDCpjrMZ": 1792404956043,
-    "threads:DerA0BAH56r": 1792404956043,
-    "threads:DeJTqCNmE5o": 1792404956043,
-    "threads:Deobjkno3cl": 1792404956043,
-    "news:CBMi6wFBVV95cUxPU0wzcldoTWE1bFdfdnRjYm9sN3ZPWHA4VDRQVFcxUlI2ZTRXd1puRUVCV3R4Z3FubkVwcW8yQlV4cUtxWE5HRFluS1Bwdm5Ud1g3XzJMMXlMT0psc3dMY1Ftd3RJY1J3RXVQZC11aXIxZFlZOFk2aU00eTRJOVpCU2QtaFFxVnNXOXJsMFBqRC16UEJEaDcwN0RIMDNreE9MRVF1WTVvRG1vd3hjUFZmZ3NKTFIxTGtPeENlSktxUmdFZVRNOWktNTI2NWd3RFB6ZWtnMy16cUtaVW5Xb040d0hLUjNfMWFiVDhn0gHwAUFVX3lxTFB6VV9ZX0NaZG4zalk2bTFTWTFzdjltalE4bDM3N25DSU1RRlV3T0pfX0VYZlN5NFdlcjV2NFk1RDR6bUZXMGE0ZmVnQUs3ZHdCczJUd205ZnJrSzVwZjkwWGZlUC14TlBpVEJrNEh1cjNBMlBrSVZHVDdUcWZDWEFyS0tsdzZyVGJDTVFxcHBiV2VMVHJybXBUcHlMdnRGWFZzYWpNcTZuUUdtSFNPRlVDT09oRzk2VktQUjlfMDJmVjdpUkR4azBaUjZrU014bks0MmlvWUtvSXM4Q3VRMEtqLVhKN2RQXy1VMUF3Uy00ZQ": 1792404956043,
-    "news:CBMixgFBVV95cUxNUHpQeVpHY2tCUWNxTDBKaUtjanRBVWg1QWYzd2xiQXc5cDg4NXFvVlQtM2JneUNyN3Z4dGxiOWxkUm9SRUY1RmttSnVvYTgzR2JDUEt6UEVfRnU3OEgyazRpWUtlMUtIRW5IYTZQdG05WUFIdlVSU3lrV0hDMWVLTl93NldJTXNOLXA1TktkRUhTaktwTnYyZXYtTDBQNXY3bDI5aC13UTc4R0dkWGdZcDVGM1Zjd21JUjBmZmxLa0ZjNWtUR0E": 1792404956043,
-    "news:CBMivwFBVV95cUxNbUxCTWlBR0hkYXpYMmF5YTkxZlhoME53TkJOV1VpbmtNZ0RKaDRDanFxaG10WGNLNDV2WDVsemQzSVVZUkgxWjBid0xTV190QXo3bkpRZzgwdFhvMFJBMEdndHB5OEF2NEtMTWZmbGtpbWdOVDJ5cE4zbi10cmp2TDNERUYxSXJENkVvLWNZVUI1LXBJNmZZazRsX2NZUExYeWxWU0x6Q2ZiT1VUT2x2RG5QVVFHeU14WXNiZnhnTQ": 1792404956043,
-    "news:CBMickFVX3lxTE5MOE9KN3dKQUNZNEYxa1Jnd0JJZlZpekZUZlNjVEF2YTBsblJfa3lndDZTTDRVclQtd1BrV052SFRfTDZMemExS0xPOW5pNEdIUGVDczNSczI1dkpfNDlQX2JDUzlMR0U0ZUtmZmxtMklQUQ": 1792404956043,
     "threads:DebWipnkysD": 1792405239624,
     "threads:DeoZtxtiTJW": 1792405239624,
     "threads:DerBrnwGC1H": 1792405239624,
@@ -27020,49 +27007,14 @@
     "news:CBMipwFBVV95cUxONnZGSW5GdnVxQkJPNXFScjFQOXMteGFlQXM0LU82Q3puN2VaS3ozeHQzLVdVLUs2NFZVSHRsOWNGd1FJZk5STlpKYXN4WGRyaDNQSTRfZllydGNPYUFwMDlYTUdmdmtIcHQ1SkpmVzhCNTIxUGlOenJieFB4RGRjYzF6a3VkVWVGN1NQNHhSWFlBUmhxcTlKb1RpTmZ4QTJjQklndWROWdIBlgFBVV95cUxNOTRUMUw2QUJrbkhzeF9ITHd5c1NrSnYzQWxma1ctZlJZMHdUUzVoRWVYdXJfWmIzLVM4LXo2LTVGaTFiS0NjRlI1MWkzQXUtX3VKcFFCbFQwUDFwS2xwUTBVUTNsczk2WWFOZ0VVNlc2OTR3NWVWWlVPRHdYM0hwd3Vicld4czVXeXNxTlhVcHhWbEZnbGc": 1793614268208,
     "news:CBMi2wFBVV95cUxQQXkwd1JYWUlxRG55UzRWak5GVFQyd0t3elRyZGpsRlQ1MEFrQjZJN0ZrTFFhTTdDZ0NUR1NNN2RsNDlGMHhqdHdKZk8wbm1TZ29SYTdwSFR1RmJVUm84d01lbnBaelpiQkJUTm45WEs5bldvdjlQWjY1dFJWSUVPMjVvMTIzNEZTdkg4NUhhd2lKOUNpY0h0RWh1ZmVsY0RaVy1rZllqdGFPUzVLamJqQ1QxZWhwWGxfdkh4MzhkWlRWVHBIODlkWTJEYmNadnE4OENzRjl1RnBQczjSAeABQVVfeXFMT2ctNmIzb18tdjdTSW9pbW5ENkZXSk9MODNNbHc4UnZ6WmdpUmZrOUpFUWVFbFZSNmx6d2NtdXpJVWdhODMwVllrTE1xb3dQTHpPbDY2dEtwckJ0b01BNWdXUWp4eGgzN2lFQ2RIVHhQR1ZCajJPZi1nTkQwZFRmc2RLYkZ6T3FyWm9Ma0ZzSXlEQTE0OFNEOXFYLWsya1pleEJnMkFZcE51dVNoekRoZEN3Q2JYRUhGeEVxQzVLbVRtZXZWZ2xCWUREU1BFSm5NWmZvVm1VaWdYQ3pMc19XaXY": 1793614268208,
     "news:CBMiqwFBVV95cUxPdGI1RkwtS3ZfbHdPcm5IM3ROSTI5NG9GcDlndk1ZeTh0bmpRMm5Yb3lneENSNGpNWUR2Q2FJaGhUNmhmdjlNVXFuS2ZxVXRNZGdTaUtoVk9zNXVxUHlEMkQ1dUJ5eEI4TVc2Rm4xUkpGOEI1Z09OZ0pUaml4dkZaVVRHNElVQW9VajhpSmlTaDQtZzJkcUpDRWdwdF9PUzlXZ0o4YXJGWk5GeGc": 1793614268208,
-    "news:CBMi2AFBVV95cUxPVUpxcHcxTUp2T0VvTXZxRk01WDhkMlY0X04xNEQ0c3FhYTNiMV9wR2dZWWhRNkJvUENMYTVRUFNxaVpRNENYS1pyWGpraHNmNXFjZVJBMHdSaTJDbThwbTBoNTFQbl9tYVJrNzFDZUJpX0pza01PNk5vUnltNUpWX0V4bGo3T043RmMzWUIwTk1XcmpGa0JJLXNmbEoySGxfeGk3VnNjd3lBRmo1UE1mcGFlUzZfVWhQTzVuYkZXeUFZS3A4dFhNdzNsbktpQnlXU1Yzd0Rqb3A": 1793614268208
+    "news:CBMi2AFBVV95cUxPVUpxcHcxTUp2T0VvTXZxRk01WDhkMlY0X04xNEQ0c3FhYTNiMV9wR2dZWWhRNkJvUENMYTVRUFNxaVpRNENYS1pyWGpraHNmNXFjZVJBMHdSaTJDbThwbTBoNTFQbl9tYVJrNzFDZUJpX0pza01PNk5vUnltNUpWX0V4bGo3T043RmMzWUIwTk1XcmpGa0JJLXNmbEoySGxfeGk3VnNjd3lBRmo1UE1mcGFlUzZfVWhQTzVuYkZXeUFZS3A4dFhNdzNsbktpQnlXU1Yzd0Rqb3A": 1793614268208,
+    "news:CBMixgFBVV95cUxNNk5CckJwRWRzd3czZTN4Qy1peHFVLUZHQUlUT1pBV21yeFhEenlnUXlZSS01X1hkRXlnYzRLb0Z6ZlNTWENpRGp4Rm5ET05wTlgxSHdVUHVoTXBaUllia1ZYYmotREdoVDFqeUtlejlkWllkRXRISjk3V0p4X0ExeWtJckZvUE9GWXV2S1gyM0did214YVNyTC1EN1pHaWVEWmNPbFlGcEZzUDNsM0FQcjFmLXNoSS1KSzJoNVdBT1BmcG01NGc": 1793614547071,
+    "news:CBMisAFBVV95cUxOV3UxaDhHdnRPRTRoY1NuVHF6aHFrby16SWEzZVJBUUVMNVJPSk54cDdkejZ1QVczZzdpckcyWkU0cDVxY2dpd2Q4aGt3WE9lSnFwVURLamJteHIzWHJ3Qk43QkJSNlAycU9iZ1BMLVdCQWFLaktNRGkyb2JPcVA4Ukk2OW55X01aNE5sbFBTdFVOaUs3QnljcWtTcERpVG5ZSzdFTUNHdFdTZGdSZUhqcw": 1793614547071,
+    "news:CBMitwFBVV95cUxQbzJUODBWWjdFcXdlZ2ZEUGFMdDdKNkgwUU15ek5VamZsVnRJNVBmajJFYXR0RDBGZmptNk8wVGd1R1dlNFM5QzRUREhhTWZBTkpvNGV6WDdFeXVjUG1CUlpIblVGZ2I1MG5YX29EOGlwUV9hTmZXM0ZPLVk5Rkthd3pkUkZxV1U3ejhaelpXcjdiN0g3YXQxUnFINXQxRjF2RlM4dXRxUG44M0F5WWsyVEJaMTdUd2_SAbcBQVVfeXFMUG8yVDgwVlo3RXF3ZWdmRFBhTHQ3SjZIMFFNeXpOVWpmbFZ0STVQZmoyRWF0dEQwRmZqbTZPMFRndUdXZTRTOUM0VERIYU1mQU5KbzRlelg3RXl1Y1BtQlJaSG5VRmdiNTBuWF9vRDhpcFFfYU5mVzNGTy1ZOUZLYXd6ZFJGcVdVN3o4WnpaV3I3YjdIN2F0MVJxSDV0MUYxdkZTOHV0cVBuODNBeVlrMlRCWjE3VHdv": 1793614547071,
+    "news:CBMi4AFBVV95cUxPZy02YjNvXy12N1NJb2ltbkQ2RldKT0w4M01sdzhSdnpaZ2lSZms5SkVRZUVsVlI2bHp3Y211eklVZ2E4MzBWWWtMTXFvd1BMek9sNjZ0S3ByQnRvTUE1Z1dRanh4aDM3aUVDZEhUeFBHVkJqMk9mLWdORDBkVGZzZEtiRnpPcXJab0xrRnNJeURBMTQ4U0Q5cVgtazJrWmV4QmcyQVlwTnV1U2h6RGhkQ3dDYlhFSEZ4RXFDNUttVG1ldlZnbEJZRERTUEVKbk1aZm9WbVVpZ1hDekxzX1dpdtIB4AFBVV95cUxPZy02YjNvXy12N1NJb2ltbkQ2RldKT0w4M01sdzhSdnpaZ2lSZms5SkVRZUVsVlI2bHp3Y211eklVZ2E4MzBWWWtMTXFvd1BMek9sNjZ0S3ByQnRvTUE1Z1dRanh4aDM3aUVDZEhUeFBHVkJqMk9mLWdORDBkVGZzZEtiRnpPcXJab0xrRnNJeURBMTQ4U0Q5cVgtazJrWmV4QmcyQVlwTnV1U2h6RGhkQ3dDYlhFSEZ4RXFDNUttVG1ldlZnbEJZRERTUEVKbk1aZm9WbVVpZ1hDekxzX1dpdg": 1793614547071,
+    "news:CBMilwFBVV95cUxOUkpjX1UtNXROYmVTRGpkSDRHZXAwMFBrenN0MGtzdW9McmlEXzREcVRzYUNjWHdHNU5qWFVFOGZnRHNCdkdIUW1ERWpDWjlCQ1BzTjlpdGg2ZkRFNmJHdmxCWU1OcGlkOUJmWXBWMGdsdnFmVEhUcVJOWG1Sd3dmX0VLXzhFOWxyR3V2QlA0ZXh0clpTcDNF": 1793614547071
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Cilacap Update",
-      "x": "Dua Kelompok Pemuda Bentrok hingga Puskesmas Kragan Rembang, Penyidik Telusuri Pemicu Keributan - Cilacap Update",
-      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcnNUT2hfS1ZlTkstUUU3YkZyWDNmV2E1VDRiSW9nLTZ2d0xpSzFyYi1zb1E4T1ZLZVI4LTdCNEFXRlpIcGxUUXFQNGF5QjBwSWpQeGoxYmgyZG9ieHVJbGtwRVl5a0JBUUN2clIybjlTRWEwdXRYSjlKeVdiazJyaE1IMmZpNTg5TGlMUzZCbFI3WEwwTG9WN0hnVkY5ZFlWczN5MWxyUEltU0hwcWxVLVFiRlowOWVOY3htYnJvT1dCS1A4U1R1a2djb21DbzlWNzlBbEtid2lhM2NmUHdwaUU5UmExSW1zWTJCV9IB8gFBVV95cUxNQXFTVzg4YjdlV05Lb1BudGt1N3FaN0dwN044MGZxZlhERWFVU1BaQzFSUUhILVdUYWFGZGF3VkdnbVNWYk5uREtpcHRNV1pOaVkxeHJLbV9XZVV2LUUyRWdkQV9jeEg2TlRLcnFTTEM2ZGtnSUU4eHQxZjBBMm50dVpFbXNyMEJQZDhUNGtFV0xKQUltZkJRZTFPVE9nU1pqYjZobnFvSFB6MXBLcFp3UkE4MFFGS3RqZzVOeWNtMGNacEktRk5JQXNmLUhVTklXR3pWTl9BZThDaFBLNTNfWUd3UkdqY0VMSU1kWF9NVm0tZw?oc=5",
-      "d": 1793605260000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Inforiau",
-      "x": "Cek Bansos Kemensos Go Id 2026: Cara Turunkan Desil agar Bantuan Cair - Inforiau",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2FxWXlCTnl4MXpxcm1VdDRWRWpLSkNIWjZqLXZLWDF5UWlMZ1FaVmtzX2xFQTRLdzlEeFI0ZDR3S2laMkdnTGNxQmoxM2hkVDdsWk1yenBDd2F5S0xGRENyYlN6dWphUHZSMFJtbVJab1k4V0U4RHZ3enlQd1VwYWU3aDB4MG9zTTZvVGFQeHdRU3QtMnhfMXI5Z1J6Zw?oc=5",
-      "d": 1793607237000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, sekedar saran dari aku aja nih, kk bisa coba upgrade skill digital marketing dan bisnis online. Nanti hasilnya kk bisa jualan online produk sendiri, bisa affiliate dan bi",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfO3HX3k02p",
-      "d": 1793607533000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak, upgrade skill ke digital marketing dan bisnis online kak. Supaya nanti bisa jualan produk sendiri secara online, bisa affiliate ga cuma di oren, bisa juga dropship. Atau b",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfO2BRIE2iq",
-      "d": 1793606959000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28522,10 +28474,50 @@
       "d": 1793602800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "MTsN 2 Kota Jambi",
+      "x": "Transformasi Pembelajaran Kelas Lewat Pelatihan AI Resmi Gratis - MTsN 2 Kota Jambi",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3UxaDhHdnRPRTRoY1NuVHF6aHFrby16SWEzZVJBUUVMNVJPSk54cDdkejZ1QVczZzdpckcyWkU0cDVxY2dpd2Q4aGt3WE9lSnFwVURLamJteHIzWHJ3Qk43QkJSNlAycU9iZ1BMLVdCQWFLaktNRGkyb2JPcVA4Ukk2OW55X01aNE5sbFBTdFVOaUs3QnljcWtTcERpVG5ZSzdFTUNHdFdTZGdSZUhqcw?oc=5",
+      "d": 1793610181000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "ANTARA News Gorontalo",
+      "x": "Menteri PKP: MBR yang kontrak rumah bisa dapat bantuan Bedah Rumah - ANTARA News Gorontalo",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbzJUODBWWjdFcXdlZ2ZEUGFMdDdKNkgwUU15ek5VamZsVnRJNVBmajJFYXR0RDBGZmptNk8wVGd1R1dlNFM5QzRUREhhTWZBTkpvNGV6WDdFeXVjUG1CUlpIblVGZ2I1MG5YX29EOGlwUV9hTmZXM0ZPLVk5Rkthd3pkUkZxV1U3ejhaelpXcjdiN0g3YXQxUnFINXQxRjF2RlM4dXRxUG44M0F5WWsyVEJaMTdUd2_SAbcBQVVfeXFMUG8yVDgwVlo3RXF3ZWdmRFBhTHQ3SjZIMFFNeXpOVWpmbFZ0STVQZmoyRWF0dEQwRmZqbTZPMFRndUdXZTRTOUM0VERIYU1mQU5KbzRlelg3RXl1Y1BtQlJaSG5VRmdiNTBuWF9vRDhpcFFfYU5mVzNGTy1ZOUZLYXd6ZFJGcVdVN3o4WnpaV3I3YjdIN2F0MVJxSDV0MUYxdkZTOHV0cVBuODNBeVlrMlRCWjE3VHdv?oc=5",
+      "d": 1793607130000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "KaltengPos",
+      "x": "Pemerintah Bakal Terbitkan 3 Juta Sertifikat Tanah Gratis pada 2027, Simak Syarat dan Caranya - KaltengPos",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZy02YjNvXy12N1NJb2ltbkQ2RldKT0w4M01sdzhSdnpaZ2lSZms5SkVRZUVsVlI2bHp3Y211eklVZ2E4MzBWWWtMTXFvd1BMek9sNjZ0S3ByQnRvTUE1Z1dRanh4aDM3aUVDZEhUeFBHVkJqMk9mLWdORDBkVGZzZEtiRnpPcXJab0xrRnNJeURBMTQ4U0Q5cVgtazJrWmV4QmcyQVlwTnV1U2h6RGhkQ3dDYlhFSEZ4RXFDNUttVG1ldlZnbEJZRERTUEVKbk1aZm9WbVVpZ1hDekxzX1dpdtIB4AFBVV95cUxPZy02YjNvXy12N1NJb2ltbkQ2RldKT0w4M01sdzhSdnpaZ2lSZms5SkVRZUVsVlI2bHp3Y211eklVZ2E4MzBWWWtMTXFvd1BMek9sNjZ0S3ByQnRvTUE1Z1dRanh4aDM3aUVDZEhUeFBHVkJqMk9mLWdORDBkVGZzZEtiRnpPcXJab0xrRnNJeURBMTQ4U0Q5cVgtazJrWmV4QmcyQVlwTnV1U2h6RGhkQ3dDYlhFSEZ4RXFDNUttVG1ldlZnbEJZRERTUEVKbk1aZm9WbVVpZ1hDekxzX1dpdg?oc=5",
+      "d": 1793602853000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "- NESIATIMES.COM",
+      "x": "Kabar Gembira! Pemuda Sukoharjo Bisa Dapat Rp 12,5 Juta Per Tahun Lewat Beasiswa Ini, Cek Syaratnya! - - NESIATIMES.COM",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkpjX1UtNXROYmVTRGpkSDRHZXAwMFBrenN0MGtzdW9McmlEXzREcVRzYUNjWHdHNU5qWFVFOGZnRHNCdkdIUW1ERWpDWjlCQ1BzTjlpdGg2ZkRFNmJHdmxCWU1OcGlkOUJmWXBWMGdsdnFmVEhUcVJOWG1Sd3dmX0VLXzhFOWxyR3V2QlA0ZXh0clpTcDNF?oc=5",
+      "d": 1793606745000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
