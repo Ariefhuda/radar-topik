@@ -60,26 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DerlfPGk7if": 1792424445169,
-    "threads:DermOVAkiG2": 1792424445169,
-    "threads:Derk_3XiFCX": 1792424445169,
-    "threads:DerUay9lgeB": 1792424445169,
-    "threads:DermZPbm3Ne": 1792424445169,
-    "threads:Derl6rDgl-t": 1792424445169,
-    "threads:DerlbqSlPh3": 1792424445169,
-    "threads:DerlJakkaDi": 1792424445169,
-    "threads:Derk8_skWXf": 1792424445169,
-    "threads:Derk43NDE5D": 1792424445169,
-    "threads:Derl315H3On": 1792424445169,
-    "threads:DerlhaYoDCP": 1792424445169,
-    "threads:DerlwgrCb4H": 1792424445169,
-    "threads:DermWQ4E3dZ": 1792424445169,
-    "threads:DermD09krek": 1792424445169,
-    "threads:DerlmrUEt78": 1792424445169,
-    "threads:DerlIsKksz6": 1792424445169,
-    "threads:DermCMhibKS": 1792424445169,
-    "threads:DerlUAWGGFb": 1792424445169,
-    "news:CBMiwwFBVV95cUxOYlFMQy16anMyWU55YUMwTDdVNkxSQkRzV3ZVbXpvdjZVUzhmZWpnMUhtTGVEWi1pWEllcUpvb2ZXazlHNEt2eEI1VGRFenFtYXc4V2twZzd3MGYtUk1wVmRkU2xrdmFkYXloTDhPNW9mSzJSbzdCenRGLTYzZXRfeVU4bjgzOUpFX3JwbVdLa18yQzk3ZEFvVER6UnpWcTBVT2paYy1ZMGtVbE1fTGJPUUlSSnBVOURIVUU0M0otbHJJem8": 1792424445169,
     "threads:DeiaTOCk-nX": 1792425102361,
     "threads:Dernpy8o7xl": 1792425102361,
     "news:CBMisAFBVV95cUxQSjNZc0dhWGZJRVdfVmJHcFR3M2lwOFpYYlVOMTk2N0NVaFVseEt5NzZmZUZZYXF1TmdMc3R5cGVYOW9OOWRLbjlnbTJBR2luNkpvUEJQQlkyNnY4dXJLNmtXSXZzTC15S2NsSnpGb2VMcHJNdjhRcmt0c25wbG83U09fblBjc0ZDSGtfenZMdXlOM0dkZ0FGTTBSRWJ1cmpCTmVkUVFpdVlzVHg5S2RhZA": 1792425102361,
@@ -27072,7 +27052,8 @@
     "threads:DfPogRXFQ6W": 1793633735973,
     "threads:DfPoSLhkzTJ": 1793633735973,
     "threads:DfPoqpGibsT": 1793633735973,
-    "threads:DfPodDomTfZ": 1793633735973
+    "threads:DfPodDomTfZ": 1793633735973,
+    "news:CBMipgFBVV95cUxPMThBdUpvYXZFQ2RTN1ZNQUVxeDVHUFZTQkkwZTMwbWY4djJ1dkFjckJKM0ZtX0NnQlVITnd2U09ENWJRTW5aTG9KeDFUcEJSc201dXpkVU40WWV5LVVGWWxJTExEbDQxb0p0VDZrVU9sSnE5ZzJ4LVZsZkVER25FUGliMHBCNmZDczJIYUJObnRlT0V0Q2lKUmxBY2pVZnZ5RGg5T01n": 1793634045570
   },
   "digest": [
     {
@@ -28337,7 +28318,7 @@
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
