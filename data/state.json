@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiogFBVV95cUxPX0tOU2RfaGFBZE9DOXFzMHUwUkxxUW1SMC1jTVRqaG9TTnRUYWZtYk1OZW9nejVKekpLUUp0OUxEeWw4b3VZaExWNDIyRktPZzJGZXhPUGpidWI4SThLeUM0ZHQ2Q2hyQklocUt6Z2czT0pya3hQT08tUFFyMDQ4emw5WW1UanRvNUZZZ25vWXAweDd0dmswajdXRlpMZVM5UlE": 1792393546402,
-    "news:CBMisAFBVV95cUxNbkE0ZS1rUC1zYm5pR3JodlVmcHRSQlY3YmZPMlAwMHFNZ3F6YWVMeWdXVWV6b0NwTDdhOTJvdmo2SEJxRHBFSml5azZvOVJ3NS1BUk1CQXJLM18zNlR0RXg3YVBReFNNTGdaVWFxeGgxN1V0M3I0RDluT0sxNHRJMDZ3WXc0X1RZTk5YczV6SDY0NUlUVVh0N3N4RjJTSjNYZGdkTjQ4LWJZR0lCOExkeNIBtgFBVV95cUxObVgwZjN6Y18xV0o3SldVWkZ6NnNFaFdsbmxVUktIT1Bic3hCUHgtWjZtc2FxeFlIY21ldXJhV09zbGpOeVNvQ09hVUt6R0JSYlhNOGRhVzB2X054c1RDR09CWjRZUTVveFZsb1cxSzVMaHU0dnlNSWk5QURqbVIyYnVCcHBXMmZ2b1NfaFVTTFk2UV9wX1R2Z2VYcGFWU2ZKa0dPVS1aME42RHZMT3pISEhybWVSZw": 1792393546402,
     "threads:DeqrfwqjyZj": 1792393845796,
     "threads:DeqrEqZjGGA": 1792393845796,
     "threads:Deqrv-VCW8Q": 1792393845796,
@@ -26946,39 +26944,15 @@
     "threads:DfOtzquivJP": 1793602856917,
     "threads:DfOteOQk5MT": 1793602856917,
     "news:CBMiggFBVV95cUxNS2FiSUJwdVhSS0NidEJOZTcyQlo4R3ZlWXh1TWNPTE1wZmNERHhING41Q3AyV0pCSElnSGIzdEZST0wzNnBUc20wVkxQdHByc3NZRVlNb0VhV1B4MmZjYzhNTUhWLW1rYWFCcHg1SFA4TTNTTnFSMXNiY2JuZWdmemlB": 1793602856917,
-    "news:CBMiwAFBVV95cUxPOGs2a2prUEswd1NxU1hpN3E2UXJ2eWxTTlExZGQ0ZkVNSkY2bm5Wcm16d3lNM1ZtQ1ByZUpHazZOZFdDdnJ0eTlPM0lSN2hyV2pFbGRzY3ZKQjBEWklXanBSSmkwNVlWbFFhaFJNTnJ3SlZYVU9kbk1sZmxCZXI2aGx5NXZsOVVCeXE2NnFLbnZFRUUtOF9yWVd1UkUxS0RSQ1BxMUNNSGl0d095WHdCemtFNGJOUGxQS1JSNjdfa2c": 1793602856917
+    "news:CBMiwAFBVV95cUxPOGs2a2prUEswd1NxU1hpN3E2UXJ2eWxTTlExZGQ0ZkVNSkY2bm5Wcm16d3lNM1ZtQ1ByZUpHazZOZFdDdnJ0eTlPM0lSN2hyV2pFbGRzY3ZKQjBEWklXanBSSmkwNVlWbFFhaFJNTnJ3SlZYVU9kbk1sZmxCZXI2aGx5NXZsOVVCeXE2NnFLbnZFRUUtOF9yWVd1UkUxS0RSQ1BxMUNNSGl0d095WHdCemtFNGJOUGxQS1JSNjdfa2c": 1793602856917,
+    "threads:DfOtPPNEzB3": 1793603140863,
+    "threads:DfOuEGEE8tC": 1793603140863,
+    "threads:DfOtp4KIN3f": 1793603140863,
+    "threads:DfOsQsSGKUf": 1793603140863,
+    "news:CBMiwwFBVV95cUxNVnFUcHBHVlh5WlVubER4Z1doaE5kOUtEZVpZMTgyLUVYQVNuM1Q2bVMxZmQ5ZV9YWFNvdDZjOXFpNnQ5eTFtcHE4eTVjcUNUbzFtNjdhYzdJcEtZX1J2SHFhTG91SFB4R1hseV9YcHh3bTczODFVYkljY0dJQXJqazdMWTllZWZkTmNaRGZ5U1p4aWt1VlVzd2wxRGFoWXpwTlprcEdaaV84UWhTazBpR3pLRHRSb1M3cUNOUUNKcXZNREk": 1793603140863,
+    "news:CBMisgFBVV95cUxOQjJfQVFwNWxyQzI4U3pGTzk3MU84ZVFfNk9XakM1RDlrRHRHRDJjWXd1UE5QZ3JtQlV5YVRSc1ZUcEJTOVpsalFRcDF6LW16OS1aTmcwSF9JZ2hZTVBkcm5rQVFzNXpYcGtra1ctdUpHdUZwUHlQRFZhcWRpMnY5MGppeHJJX0JMZld4UWxoM2E5VE9DUGxGMXhMRWxJZHl0SW1LT001NHR0bzZzNVFJN1dR0gGjAUFVX3lxTFBIemM4ZDdVdk95aVowM2F2al9UaHc3Y0ZsQ280TmhBYVltRHo3SUxpNDJta3NyR3dLclZLV2hRMWRicWM4eTdaU2xiV0F5bllKcDlnZ3h1bnM4QmxJZTRld29EUHVaUDVha2JJTzVlS2xmY0ZBYm84UzRkSnVDakg2QnduOHE1SmtJc0dJZTVab0lZbUtnOUljWklWQV96QkV5NEk": 1793603140863
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "tvOneNews",
-      "x": "8 Kategori Penerima PKH Tahap 4 Oktober-Desember 2026, Ada yang Bisa Terima Bantuan hingga Rp2,7 Juta - tvOneNews",
-      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQV95dlAtVERDclQ4YVlkUHV2NlBRNGt3NWdlN20yZk82ZW16OXliM0xyS25wLXZ6LUI4QkZrR0Z2b3hmbEg0TGZrMGl0My1tRGZCVXpjcGc4UGFpWmNOV1NTVjR6SG1XdW9UZlZiOUdoZmttSDN5VTFpcDdWMjhFeXVTbE43bjFIOHVIbWxOSHZlby00TU16NXNvZDBQTDFNVFNRMDU2ZDRaMTgxRGxGQnFJY1B0alVXWDZwWEc0enRVZkNWLUl1ZEJDZ0h4Z0xpbm5VR3h0eFd2bEU3cEpyZ1hLNm9IRmvSAecBQVVfeXFMUEFfeXZQLVREQ3JUOGFZZFB1djZQUTRrdzVnZTdtMmZPNmVtejl5YjNMcktucC12ei1COEJGa0dGdm94ZmxINExmazBpdDMtbURmQlV6Y3BnOFBhaVpjTldTU1Y0ekhtV3VvVGZWYjlHaGZrbUgzeVUxaXA3VjI4RXl1U2xON24xSDh1SG1sTkh2ZW8tNE1NejVzb2QwUEwxTVRTUTA1NmQ0WjE4MURsRkJxSWNQdGpVV1g2cFhHNHp0VWZDVi1JdWRCQ2dIeGdMaW5uVUd4dHhXdmxFN3BKcmdYSzZvSEZr?oc=5",
-      "d": 1793586600000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbelonline.math",
-      "x": "Masih membuka trial kelas gratis sebelum mendaftar les. Adakah yang mau mencoba untuk ikut trial kelasnya? Hubungi nomor wa.me/082136514163",
-      "u": "https://www.threads.com/@bimbelonline.math/post/DfOdcxwkvB_",
-      "d": 1793594077000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@wahyu_ptatm",
-      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
-      "u": "https://www.threads.com/@wahyu_ptatm/post/DfOc1oxGf0d",
-      "d": 1793593756000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28448,10 +28422,40 @@
       "d": 1793583590000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@iramutia28",
+      "x": "Gratis kak. Bahkan selama pelatihan bahasa jepang di indonesia kita di kasih uang saku 4-5 juta perbulan. Selanjutnya pelatihan bahasa jepang lgsg di jepang selama 6 bulan juga. As",
+      "u": "https://www.threads.com/@iramutia28/post/DfOuEGEE8tC",
+      "d": 1793602788000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@iros.inventing",
+      "x": "IROS Talent Lab is Here! Untuk kamu yang memiliki minat dibidang Robotik, Inventing lagi buka kesempatan untuk kamu yang mau belajar di kita! Iya, kamu! Kamu akan dapat 2 minggu pe",
+      "u": "https://www.threads.com/@iros.inventing/post/DfOtp4KIN3f",
+      "d": 1793602573000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@awraapc",
+      "x": "Halo! Aku Aura Putri, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsof",
+      "u": "https://www.threads.com/@awraapc/post/DfOsQsSGKUf",
+      "d": 1793601842000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
