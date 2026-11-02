@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeMeD16icsu": 1792389934672,
-    "threads:DeqkNqdIC3A": 1792389934672,
-    "threads:Deqi1KkEw3G": 1792389934672,
-    "threads:DeqjgTlk4D6": 1792389934672,
-    "threads:DeqkZzFGOil": 1792389934672,
-    "threads:DeqjbRvkgY2": 1792389934672,
-    "threads:Deqj7mHkS6U": 1792389934672,
-    "threads:DeqkaeVkwkE": 1792389934672,
-    "news:CBMi5AFBVV95cUxNckJTLTh1ZWdGTlAyR2phLS16SUdyemhkVllQenBjUGlZLWp4SEdWVmFfcEFpSDRrRDdDRnBEblVBQWdhaE11UXI1VlNQNVFoMjFYN0E2bWIwdFJxUV9vakRTX1dqSGVZQjBZOFV2M1IxR3BXUnR3UU5YSndQaTFzcWFFOVZ0QmNnU2ttREktZEp3Y3B5YnJZem1faUZIc1lqU0tfVkUycUJuY3dXeURwZll3NHNtelpYUFppVFhONTRQSG8zWHh5Q3J4Ul9wM2VoUjFlQUJKVkJoX3lvTGdjY29wblTSAeQBQVVfeXFMTXJCUy04dWVnRk5QMkdqYS0teklHcnpoZFZZUHpwY1BpWS1qeEhHVlZhX3BBaUg0a0Q3Q0ZwRG5VQUFnYWhNdVFyNVZTUDVRaDIxWDdBNm1iMHRScVFfb2pEU19XakhlWUIwWThVdjNSMUdwV1J0d1FOWEp3UGkxc3FhRTlWdEJjZ1NrbURJLWRKd2NweWJyWXptX2lGSHNZalNLX1ZFMnFCbmN3V3lEcGZZdzRzbXpaWFBaaVRYTjU0UEhvM1h4eUNyeFJfcDNlaFIxZUFCSlZCaF95b0xnY2NvcG5U": 1792389934672,
-    "news:CBMiswFBVV95cUxPbE9IYzRyZl9adm10b0hQbno1ckVjdGxzcnJ5aTJzb0hyS0dCcjExTU9SV0lIcVVtdlZCdUJ2SThJYmlTMElkZGlrRHgxcjFlbzRkOGZjU2R3UGZFVzVmTWVsaXRmc2ZOOTVwRXl6RU5DWEMwTGJnWnFyYldZUGZadGg5UmFUQldDRHNuRHhSVEFzZ21kVlJOSnFCODFPeVMzY01YN01iY2lmQmhPWnB2QjdGbw": 1792389934672,
-    "news:CBMitAFBVV95cUxOR3o1TUFBMWNIMkI1VUo1V3B5MVFFS21wX2RNRXl0aGt0SGlXdXdPOUxBRE9oRjR3X0xmQnF2MVhLeWowTHRHQVIxajdtc254cFdNdjF0bDA1Q283c0cwcTg4alYzdGdLTXpmUUt0Z2JxM3ZxZjZaVVNTZU9zbWxvZnZaaWhJd3R1aE13YW5kTUhjNFlNZlU2WC1fdnlhQnVTZy14MHA0ZC1pUHktYWxtazVMY2k": 1792389934672,
     "news:CBMiogFBVV95cUxOdVhJczZ3U1Utek93WGdWazEwMEprWlBwZzFuUmV3bGN6UlNzTGM4U29mQk01UXFNSHVpRklXWXVIU3FRWlJOVi11MF9vX1VOZVpxNGZndkxJQjNlalFraXNOeHhuWldNemNaVEdGN1hscTU1SnlwbDJ2TEQ5LU8yRDVBVGJ5R21zOU1BUnlOM1NVdnV5QWJDNURXODJNVGFqVEE": 1792390243436,
     "news:CBMiqwFBVV95cUxOamZPV2FWMFJ0ZDByclEzTlBoM0dSbVJRQWVIYW13T0tHMTVfaTJnZGlHOXhCeXdmMGZjSnNDOHhuUWowN2VpcEJqcFR4c3VzU2lMRmtiem9Gd0xvaG80b2JJd3NtYUpiUzJOV0ZRcU12aXdDSXpJWjRxSXgyZUlGVktsckhpUmJVZndhSDdNOVhNRGdmRUUxOGZWNWFPTUZGYlFkNzBRZ25oem8": 1792390243436,
     "news:CBMivwFBVV95cUxPb3djM2JCLVY3bms2QjVOVXg2eHNBcTVRblF0MFBkTldrTUdrRUpiOVQybFVTUmoxTEczc3ZXN1ZsRGdscnNac0xmZlAwY3dNRENIODYzMUhpUUoyeXI5TnBLc2xoQlg3U2VoeFlYQ2Y3UWt0VkQyVjFGWmQyaGVUTmxESGdhbldpVW5OeW50cENzWG1CTUJRVFkwWEExV0IwZjRyY0VLMzB3Yjl3VjhXb0RLWnhwejJ2V18wWFhkd9IBvgFBVV95cUxNSmE0Ry03YmREMGRlSDB2M0QweFU1N09vX2Z1ZWZjVi1qU3BsSVEyU2FuUWN5Wm9TQU5UNkhFZ1ZtcnJOazZ1X25PeGJjOWFuamFSb05OZUgxSUZyWEdveGVNTzV6Wng5TTdTMWVNX0R1a21ZMWtfekJZd1FLZzRadF92UEVQYkdCOEJhcmxoSl9WSkdfZjkzeXFsMjJUZ0JnSGNYRHktRnhHWWxZNC0tTFBuSE56SkhHYUt4RDNn": 1792390243436,
@@ -26979,49 +26968,13 @@
     "news:CBMiXEFVX3lxTE9Pa2R0Tlctdi14RTdoV29LRDluMzhMMTkxSGIwVl9sRmUxT09TcTdyeWE1NlF6eGNUQ3k2aDF1eWZFVzlhM3R5MnFRaXB4dGExbTBEMUlNdDUzWVV6": 1793599258386,
     "news:CBMivwFBVV95cUxOeHpzcm5lWjRZRzM1NDdBV1JnWllTaUdvSjNnNkxZcVY1SlFoMHBwZmZGSVZYWWJibU9idFpPRC1zN2RHU2UyNW1tZmx5SEMzWEQya0xiN19ieS05Wmh2ZDYtejU1eXd2ckMydk5pQ255U25yeElkd204c1JLNHF2aHdTWjJOMlB5VEdWeG53UnhtVGpKUXFCVkt6VkdWLUV1enM4dUQ5UWNyOFRUN2l1YXNWb2lBa1QxZjRPRjhFQdIBxAFBVV95cUxOLVVWLTNyb3JveG9obFo4UWdDblpsTHUtOXFwU09XRktjUDNPdkh6a2VpWjcwc0djaGtjMzQ0VS1SSW8xVUNSMVJzcmNtWXZKUS1zVTdYZFBLQVlvU1pDVFEwUV9UVi1aLTd1WlRnT1F3eTR5YWFSNFIyWjlETzdKU1Q0ZXlHN3NWU0ROVVlDT2dtQ0w5aHVvSFZoYWVVN2lWMVJQTXRpOVBGclYtS3NkaF94eGRfVzhCcGNicE1hRUFVeDVU": 1793599258386,
     "news:CBMixgFBVV95cUxNOHgyOFh5a01MVjdXS1doQmtsQTFsMEpvNm5Iek9jNkpNZHpSTXdVY2pHelBBUldkNV9VZTRuVUxQUk5QSkVNTC1qTVExWDhRMEYwa1o1MFk3dWVYTmFuV0FUNF9QZVRmX1dpX1AwZzhKdDZPcEVqc2ZsVXlIMDBPZTZ6X0FHVm5aXzJtY3o1ZV82SGJsT2NjbUFndGhtSkFzXy12cGw0Mi04Y1kwNXJPT3BaOHRfZnlOTFBlNEJJVWRaeUVmVmfSAcsBQVVfeXFMTzNfVFh3Zi14Z0lReXFQT2hOX3ItOF83TGNQbUJ6TkJEOU5fN1R6THBnbTljY3NNU2lUbjVPcUF0cGpuOG9kd2c3VmJiaEFRcEpUTGNDcTJIc3BVMl90YkIwUlJROXdsX2x2MTNSVmJGLWlqemdGYVVMMTY0SVo0dlRHVlI5dFIxRHZZMGxYbFQ0bzladS1Vcm10Szh1RmFDdEpWX1Y1WUtGSXJvRkpYTFEzT1dNSmwyLWp5Y0w4UUw4VTVZRmI2SUc0YUU": 1793599258386,
-    "news:CBMimwFBVV95cUxQUXhwY2hCVXYyT05sMHAwX29OdjhEcjFIRG15QWVpQWxLU0tZN3dDXy1xbDdrejhNZWE4aktmbEtCOXVzSnRYRzRWcUswb0pWVFJMRS1LeDlzZHNpbVRsRnBhOXJtTm5Kd2RqMk0yQlJTVjR1SlRPajV3RkpZNU9Ya3BjMmdSRFN1MUFaeUNhN19BaGkyX1lwRk53Yw": 1793599258386
+    "news:CBMimwFBVV95cUxQUXhwY2hCVXYyT05sMHAwX29OdjhEcjFIRG15QWVpQWxLU0tZN3dDXy1xbDdrejhNZWE4aktmbEtCOXVzSnRYRzRWcUswb0pWVFJMRS1LeDlzZHNpbVRsRnBhOXJtTm5Kd2RqMk0yQlJTVjR1SlRPajV3RkpZNU9Ya3BjMmdSRFN1MUFaeUNhN19BaGkyX1lwRk53Yw": 1793599258386,
+    "threads:DfOngzBkvNX": 1793599538402,
+    "news:CBMimgFBVV95cUxOaGpldmJibldISnNwWEVHQkhEVTVuYkpFUnp2V3ktR1JBT2dRbFcxMXRlZmg3TjlyU21PY3M1bkFsRGo2NDlQZmYzZFpMNGJ2ZG5LZ1FBdXcycUtySjVHdlBRaFZOSldMRkxPeEhyZkdKTmhQbDBDR0ZqWEM2eXpGc08ybkk0SW1VdXVJX1ZUT3BzclZ5MWY0MWpR": 1793599538402,
+    "news:CBMiaEFVX3lxTFA2bVJyTGE1NTBmamtMOUgydWRhbG9YVC1OWDl5RkJ4anZhSlRhRDRVenptTnlPeWJpMTk4eFpXTmlSbl9FcHE0eFhkYUhyQVA2VzY1SUpzNUZsN1NKcElqNVJMSVhNYXhm": 1793599538402,
+    "news:CBMi6wFBVV95cUxOdmdDc2EyeGplb1ZiMHhYNEtsSWM1azN3aUdoSHJOYnd5UlMycXhxZmpDOVV0VVk5M0xBT1FldHAwQWZKMTRza0ZncGhBSGZzaGNrUkJqWmhMbDREajRQUmh1SmVMM0Y4cFBqOXROQkpvR3JUTUlJWkN3UnFQZWZHLUNoM1pvdzJ6SmZ0TFRyVFBnbFQ5eFB0QjhVaE9LZV9mcS1UT0x3TFlTTE9OdzdUeTRnRURsRnlEMGdTSE1hN091TWJ3SXEtMEFYNElJYmM2WnB2c0NjU0Nqa1FuTmN5T0hDUU5UMXR4N19R0gHrAUFVX3lxTE52Z0NzYTJ4amVvVmIweFg0S2xJYzVrM3dpR2hIck5id3lSUzJxeHFmakM5VXRVWTkzTEFPUWV0cDBBZkoxNHNrRmdwaEFIZnNoY2tSQmpaaExsNERqNFBSaHVKZUwzRjhwUGo5dE5CSm9HclRNSUlaQ3dScVBlZkctQ2gzWm93MnpKZnRMVHJUUGdsVDl4UHRCOFVoT0tlX2ZxLVRPTHdMWVNMT053N1R5NGdFRGxGeUQwZ1NITWE3T3VNYndJcS0wQVg0SUliYzZacHZzQ2NTQ2prUW5OY3lPSENRTlQxdHg3X1E": 1793599538402
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Portal Pantura",
-      "x": "Siapa Saja Penerima Bansos 2026? Ini Rincian Desil PKH hingga BPNT - Portal Pantura",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1N3eDlFTHhDeEF0Y2Jjd1hJSmdjc0RYNWliVEJVTkdlckJoZlhLcHNtUkdPTXQydWJiRVRlaHM4YWR1bWc2ZDdzU0hsVUtsczJuNHBDMWZiQ082YTR3dFlGS1Q4Y1FGWFZVQmdWNjZROEVrWEZFS3FTbUF1aDJjeVBJcXlmOUsweW1Vajhxa2kxbEFvZmRmT0pfNks3dlRyMHhpWXdOUQ?oc=5",
-      "d": 1793592046000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak,pilihan mau kerja lagi ok sih menurutku, tapi kalau kk mau di rumah saja dan tetap bisa menghasilkan itu bisa banget kok. Kakak bisa tambah skill digital marketing dan bis",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfOaCayE8oz",
-      "d": 1793592288000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sehatbercinta",
-      "x": "Happy anniversary kaaak😍😍 langgeng terus dan makin hot tiap harinyaa.. Kita lagi ada webinar gratis lingerie, parfum khusus mimiw dan krim buat si gunung lho kak. Cek profil kita",
-      "u": "https://www.threads.com/@sehatbercinta/post/DfOZkTLiZn_",
-      "d": 1793592041000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@byrahmadevi",
-      "x": "Kalau punya banyak waktu, ya silakan belajar sendiri. Tp kalau waktunya terbatas & pengen belajar lebih terarah, ikut kelas bisa jadi pilihan. Karena sebenarnya yg kita bayar bukan",
-      "u": "https://www.threads.com/@byrahmadevi/post/DfOZfsLABR8",
-      "d": 1793592004000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28481,10 +28434,50 @@
       "d": 1793577611000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Itu memang keluhan yang lagi banyak muncul. Sejak DTKS diganti jadi DTSEN, penentuan desil sekarang pakai data terpadu + skor ekonomi, jadi kalau ada perubahan data di KK, kepemili",
+      "u": "https://www.threads.com/@meta.ai/post/DfOngzBkvNX",
+      "d": 1793599353000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Beritajakarta.id",
+      "x": "16 Warga Pondok Bambu Ikuti Pelatihan Digital Marketing - Beritajakarta.id",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGpldmJibldISnNwWEVHQkhEVTVuYkpFUnp2V3ktR1JBT2dRbFcxMXRlZmg3TjlyU21PY3M1bkFsRGo2NDlQZmYzZFpMNGJ2ZG5LZ1FBdXcycUtySjVHdlBRaFZOSldMRkxPeEhyZkdKTmhQbDBDR0ZqWEM2eXpGc08ybkk0SW1VdXVJX1ZUT3BzclZ5MWY0MWpR?oc=5",
+      "d": 1793599140000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Pemerintah Bedah Rumah Warga Berpenghasilan Rendah - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2bVJyTGE1NTBmamtMOUgydWRhbG9YVC1OWDl5RkJ4anZhSlRhRDRVenptTnlPeWJpMTk4eFpXTmlSbl9FcHE0eFhkYUhyQVA2VzY1SUpzNUZsN1NKcElqNVJMSVhNYXhm?oc=5",
+      "d": 1793599124000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar Pangandaran",
+      "x": "Tanggal Berapa PKH Tahap 4 Cair 2026? Ini Perkiraan Jadwal dan Besaran Bantuan - Kabar Pangandaran",
+      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdmdDc2EyeGplb1ZiMHhYNEtsSWM1azN3aUdoSHJOYnd5UlMycXhxZmpDOVV0VVk5M0xBT1FldHAwQWZKMTRza0ZncGhBSGZzaGNrUkJqWmhMbDREajRQUmh1SmVMM0Y4cFBqOXROQkpvR3JUTUlJWkN3UnFQZWZHLUNoM1pvdzJ6SmZ0TFRyVFBnbFQ5eFB0QjhVaE9LZV9mcS1UT0x3TFlTTE9OdzdUeTRnRURsRnlEMGdTSE1hN091TWJ3SXEtMEFYNElJYmM2WnB2c0NjU0Nqa1FuTmN5T0hDUU5UMXR4N19R0gHrAUFVX3lxTE52Z0NzYTJ4amVvVmIweFg0S2xJYzVrM3dpR2hIck5id3lSUzJxeHFmakM5VXRVWTkzTEFPUWV0cDBBZkoxNHNrRmdwaEFIZnNoY2tSQmpaaExsNERqNFBSaHVKZUwzRjhwUGo5dE5CSm9HclRNSUlaQ3dScVBlZkctQ2gzWm93MnpKZnRMVHJUUGdsVDl4UHRCOFVoT0tlX2ZxLVRPTHdMWVNMT053N1R5NGdFRGxGeUQwZ1NITWE3T3VNYndJcS0wQVg0SUliYzZacHZzQ2NTQ2prUW5OY3lPSENRTlQxdHg3X1E?oc=5",
+      "d": 1793592000000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
