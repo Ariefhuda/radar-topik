@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DYOMYR0GMx4": 1792415140737,
-    "news:CBMi0gFBVV95cUxNZkRBWHo4MXBGTHJOLW9NNWFYRVZBVGU0QlpXTWZ1N1BkY1NmaHdKMzRlUE9JOXVQb1hOOTFLTnNRUmpOTWNtcEVyeFUxdjZKOUs5djc5QVpLTnAyZjJtUWppZ3hXV3hMOXA0S25RTjZsR1VNQ3BrTHBlTThBYjdLVDZpc1lXd0dxSHZlNG1VOUZxeDdmVlVXZVhzQ3dhYW0zY2dlZ29ZVmI4bjNWS3NTSzNjbV90NDc2NmN2a1RUX1pRdjdCaFNWQV8xYVowTUd2RVE": 1792415140737,
-    "news:CBMirgFBVV95cUxQU3RoMlJvVmtSRlBwNmN5SVp6MEZIeFFhWF85STZTUGV4NWRNLXVNanZUeWR5UE1fOXg4UGJQUi00S3NHMUJWZTdLSUxaSlVleXVpMmg4YURNZ0djc3dNNnRhX0RfQ0lnS0NBQlhkTWQzUWxXc2U2S1FIQ2Zta3AySkZsR3lFcGw1M1NRdUxhMnpvNDVzcFJ1ZDNSYXFmdnprbTBzRHZKT2ZSRzNIUVHSAa4BQVVfeXFMUFN0aDJSb1ZrUkZQcDZjeUlaejBGSHhRYVhfOUk2U1BleDVkTS11TWp2VHlkeVBNXzl4OFBiUFItNEtzRzFCVmU3S0lMWkpVZXl1aTJoOGFETWdHY3N3TTZ0YV9EX0NJZ0tDQUJYZE1kM1FsV3NlNktRSENmbWtwMkpGbEd5RXBsNTNTUXVMYTJ6bzQ1c3BSdWQzUmFxZnZ6a20wc0R2Sk9mUkczSFFR": 1792415140737,
     "threads:DXVOE7lEo1p": 1792415447258,
     "threads:DRecL6bk1ik": 1792415447258,
     "threads:DeTRb5zkjyP": 1792415447258,
@@ -27058,7 +27055,21 @@
     "threads:DdInqZtCY2V": 1793624462151,
     "threads:DVlLx3wgT5Y": 1793624462151,
     "threads:Db0wW6SoKNi": 1793624462151,
-    "news:CBMi2AFBVV95cUxPRXN5M2hpLVpMd2hWenBPUG5hLTdsWVRNRWNCQktpNHg4R2FLU3BLTFctd0E0bXlqamxKcmc2bUdhaHhCS1h4Nmc2MzJITnd6MXh4eHFCcEExMVo3WlU5d29VZGxvcXkydWtRelFkWkFVRFYxOGNjckpOc0RZYjRoZC1sUkVfZ1gtSUI3NlZoU0pIcXYtN21SV2xyU2lLRlBmZ0hDYkdtS3FNeThYcXgya1p0SnJfeHFscDAxYkNlLXh0bEx3OVM2Vm5uRnhkRWdsZ2lKQTlyOVPSAdgBQVVfeXFMT0VzeTNoaS1aTHdoVnpwT1BuYS03bFlUTUVjQkJLaTR4OEdhS1NwS0xXLXdBNG15ampsSnJnNm1HYWh4QktYeDZnNjMySE53ejF4eHhxQnBBMTFaN1pVOXdvVWRsb3F5MnVrUXpRZFpBVURWMThjY3JKTnNEWWI0aGQtbFJFX2dYLUlCNzZWaFNKSHF2LTdtUldsclNpS0ZQZmdIQ2JHbUtxTXk4WHF4MmtadEpyX3hxbHAwMWJDZS14dGxMdzlTNlZubkZ4ZEVnbGdpSkE5cjlT": 1793624462151
+    "news:CBMi2AFBVV95cUxPRXN5M2hpLVpMd2hWenBPUG5hLTdsWVRNRWNCQktpNHg4R2FLU3BLTFctd0E0bXlqamxKcmc2bUdhaHhCS1h4Nmc2MzJITnd6MXh4eHFCcEExMVo3WlU5d29VZGxvcXkydWtRelFkWkFVRFYxOGNjckpOc0RZYjRoZC1sUkVfZ1gtSUI3NlZoU0pIcXYtN21SV2xyU2lLRlBmZ0hDYkdtS3FNeThYcXgya1p0SnJfeHFscDAxYkNlLXh0bEx3OVM2Vm5uRnhkRWdsZ2lKQTlyOVPSAdgBQVVfeXFMT0VzeTNoaS1aTHdoVnpwT1BuYS03bFlUTUVjQkJLaTR4OEdhS1NwS0xXLXdBNG15ampsSnJnNm1HYWh4QktYeDZnNjMySE53ejF4eHhxQnBBMTFaN1pVOXdvVWRsb3F5MnVrUXpRZFpBVURWMThjY3JKTnNEWWI0aGQtbFJFX2dYLUlCNzZWaFNKSHF2LTdtUldsclNpS0ZQZmdIQ2JHbUtxTXk4WHF4MmtadEpyX3hxbHAwMWJDZS14dGxMdzlTNlZubkZ4ZEVnbGdpSkE5cjlT": 1793624462151,
+    "threads:DfPXBC_GNOm": 1793624742199,
+    "threads:DZjTppBkfy5": 1793624742199,
+    "threads:DfPW9grjORk": 1793624742199,
+    "threads:DfPW5UPES4O": 1793624742199,
+    "threads:DfPX7M5lk5Y": 1793624742199,
+    "threads:DfPXVTxAhMk": 1793624742199,
+    "threads:DfPXT_UGxU0": 1793624742199,
+    "threads:DfPXUE8CcJU": 1793624742199,
+    "threads:DfPXRC4iU-0": 1793624742199,
+    "threads:DfPW2jek27Q": 1793624742199,
+    "threads:DfPXvT2FH0p": 1793624742199,
+    "threads:DfPXl6eD-_G": 1793624742199,
+    "threads:DfOZe9TgNtA": 1793624742199,
+    "threads:DfPXFqPCJuU": 1793624742199
   },
   "digest": [
     {
@@ -27510,16 +27521,57 @@
       "d": 1793617276000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hiidahee",
+      "x": "Hai kak yuk ikutan. Aku ada webinar gratis tgl 13 November nanti, disini akan dibahas cara mulai bisnis online untuk pemula, dropship dan Affiliate juga",
+      "u": "https://www.threads.com/@hiidahee/post/DfPXvT2FH0p",
+      "d": 1793624637000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@gdprayitno",
+      "x": "Pelatihan2 JD ajang cari cuan...kalau ada yg protes dijawab kok enak maunya gratis 🙈 coba warga jaga warga karena kita tidak bisa berharap banyak pada pemerintah",
+      "u": "https://www.threads.com/@gdprayitno/post/DfPXl6eD-_G",
+      "d": 1793624560000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@byrahmadevi",
+      "x": "Aku lihat belakangan ini lumayan banyak yang skeptis sama orang-orang yang jualan kelas. Padahal menurutku, jualan kelas itu sebenarnya nggak ada salahnya. Kita memang bisa belajar",
+      "u": "https://www.threads.com/@byrahmadevi/post/DfOZe9TgNtA",
+      "d": 1793591998000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hasanah_fadha",
+      "x": "✨ 𝗥𝗮𝘀𝗮𝗸𝗮𝗻 𝗣𝗲𝗻𝗴𝗮𝗹𝗮𝗺𝗮𝗻 𝗞𝘂𝗹𝗶𝗮𝗵 𝗣𝘀𝗶𝗸𝗼𝗹𝗼𝗴𝗶 𝗚𝗿𝗮𝘁𝗶𝘀 𝗱𝗶 𝗜𝗢𝗨! 🎓🧠 Pernah penasaran bagaimana rasanya belajar ilmu psikologi di universitas bersta",
+      "u": "https://www.threads.com/@hasanah_fadha/post/DfPXFqPCJuU",
+      "d": 1793624296000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793618735643
+    "reddit": 1793618735643,
+    "news": 1793624742199
   }
 }
