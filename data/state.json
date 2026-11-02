@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deq03ktETGE": 1792398936136,
-    "threads:DVlLx3wgT5Y": 1792398936136,
-    "threads:Deq1UVWn_F_": 1792398936136,
-    "threads:DXd_J3zErvU": 1792398936136,
-    "threads:Deq1-8Aksf2": 1792398936136,
-    "threads:Deq18pOkzr8": 1792398936136,
-    "news:CBMiuAFBVV95cUxOemJjakZPX1VJaGg2MURMaFVNemJFQWVWb3REOXZnLU9pSXRYYjZvVzdxRnc3bnd2dThLbXc5Tmlkc0pCMElyVFF2eXhNT2tta0JrVzJ3UmpnUHUzQjJQMHlCOGFFWnFNYzQzdGJsV2VhQWNXbUtsUmtVdW9uRHhFVzFDM3RybUNENmdqU3JIem1XdXNkZWNsdmxPZU8tNWV3TUhTYk1RLU1UQm9seXpqQjlkcnhlaDRy": 1792398936136,
-    "news:CBMiwAFBVV95cUxPdWhtbDFZSVNGRVZhNlVMRTFIQTBTSmhzMllFalBnWmRUVFJTSnI1SDlXd1d2c2d0aTJYQldyTnZBN0RuN2swLWFQWWFkZmdhcnFBVUxma1JQUjJZQmxuUnVlVlRoZG9EVWxUZU1WZFZ6Nm5BbXA1N0g0cHgtUzdyRS1WbjVvUVNZWXYwcEtrQ0VjXzZMcnNwU2hmenhsRjNGX0V6Y2pXeENZcDdaZi16NTA0aFhUeVpDM1BseWJwR3rSAcYBQVVfeXFMT3lrLWpsRlFJTU54UzhsSWNoY1ZCLWEyR2UyMENCTFNNN21pMnpxd3laZEFjRHlrUHFxdVFWRFBKUVF4MWxGdkcyMTJrMERDZ3p6QmJJbnVCWlhVemJwMV94SUxhaUppczlWUkM3c250QWNZN245enl4OEhXNElPeThRemE4aU9RLVNoQkRYU0pRUndrUEtYQWpoVVpQYkExbmJVOGV6c3NwNjdna1FrUjAwVWRxdUJyTUpIT3RhM2l5TWhBTWNR": 1792398936136,
     "threads:Deq2ZGTAIr4": 1792399254050,
     "threads:Deq2S3WEiRY": 1792399254050,
     "threads:Deq2G_PE_Lh": 1792399254050,
@@ -26998,39 +26990,17 @@
     "threads:DfO3pAWmWUM": 1793608243879,
     "news:CBMirwFBVV95cUxQRl9SUDQxSDdRT254QTg4UkMtcl9MZ0ZZaHlLMURXbkRxNXlzNzU1MkJIdUxMazd5X2tPSl9CSF9LS0pLSXIwaHdiVkxKeHpLX2dhNXcxamRBYm5HbWQyZFdLdXVQRkNuNnhUXzBnNU9qQlZ1ZjJLd3ZVLVJKVkRRTlY2XzMwRE1qVklzWnNRZG9qRHkwYk9pZVpCY19GT0VCNVRiV3Z3WWt1bnZ1eWd3": 1793608243879,
     "news:CBMi0wFBVV95cUxOaG1TaGtkTVNKaEpyc1JjTER4anpfdjhqUVQ2Y3M1Q3lwZnJndFowYlduRlpzSGJoeGlOZUxOWlRfOFBlUGdOWTJTcnY3dXdZaWp4aDZkVHBwUlo2UFJlUWpGNEgyY3BJbHp6bFNvZ2RhSEtjMFkyTEljc2hxd1JEZzB4bjVTS2RYa1ZCbUt6MGNyMnZLOERLMDdsWXQtM2tvMXFGNzREdUJKTUkyOUZwV2h5OHZqdUtGUjB6WUE2T194dl9OZVU1WkVEMldBd0h2WjVV": 1793608243879,
-    "news:CBMijgFBVV95cUxOZlFXMngybDZCbTJzVlNFVmo3V3JoYnpNRkxqQ3RKZUlOQ2dJaDhoYTRwVC1ybl9nU1lyNjg1UHdiZFJtQ0VWOUs2Y21zUVI4Z0Voc0V3Tm1LdjE1NlN1cU5iZzI5WElCU1FVeVpyejRnNDJfajNZVDRHRlVkQ2ZnVUVJUGljcTdQX0t0WEVn": 1793608243879
+    "news:CBMijgFBVV95cUxOZlFXMngybDZCbTJzVlNFVmo3V3JoYnpNRkxqQ3RKZUlOQ2dJaDhoYTRwVC1ybl9nU1lyNjg1UHdiZFJtQ0VWOUs2Y21zUVI4Z0Voc0V3Tm1LdjE1NlN1cU5iZzI5WElCU1FVeVpyejRnNDJfajNZVDRHRlVkQ2ZnVUVJUGljcTdQX0t0WEVn": 1793608243879,
+    "threads:DeYbsiIjqfz": 1793608534258,
+    "threads:DcNZ7gvj0yA": 1793608534258,
+    "news:CBMivwFBVV95cUxQa1htWnpRLVNqQUxRTkl1WHRqM3h1aHgyWFM5b3FyemVZZVVKZUVKMGUxeU1FWXVNYlYteGkycHRMc1pYMXd6MV8wVHo0U3A5ZGRIdkVYay1CVGZfaGNRMllrWk5FaWpub1Q1ekZWZnVUOXN3WGc1Q2JmWm5YNE8xbGZxaDBhXy12S1BJUFVPdDNNSE5iOGQtMkhkRXlId0RDS1R6WVNDZldpMV9MV2thYW1RbWR1NTdibVRYLWdnNA": 1793608534258,
+    "news:CBMivAFBVV95cUxNNktON2VUWlBMUk0wUm5EcHc0TkdsV3RKTWQ2OGF1VUVCaUZZTng1ZnZMWWxlSUxRc21tWmN2MFVhS045dVpfbFJIYkN6dTl3VWdickIzVkFfNHN6SEF5d08tN3h0LXZjMGhCQXhZUGR5UmpCRk9QWTVjZ2VoTUppZDd1eWdYTTlwYWJvTzBMWGpBV0J4cFpWdHFYOWVtVEFETmFhbC1xQXJYMWxvSm12X2MycmlINWJ6dW5PddIBwgFBVV95cUxPZUtENVhlbVhIRlp3eWpWV2ZSZHJyVGhqMDVPTWRIbW1sMThicTlTZHYtN2RCODZ4NVBkSkRkeUx3Q0JNT0dwdUNRbXNhNnVTY1JFODkyVFhLNzBCQWJHV2pEMlJjcVNqTlgxUDJ1b09RamlqdGNBajROVW9BUjNvdnNpd29zN2JNYVlyZHdBenpzUEl0ZUd2Mkw5TzM1ZklaY2JsWXFZUzJZV2N5R04xUElMYXk1R0ZDQmpVUTFrQkZYUQ": 1793608534258,
+    "news:CBMitgFBVV95cUxPT2JvTnNjNzdGRDd5SHVKOVA2YkZCdjFhVWh4bVc5OWNyZG5fdjZLbzZoZWV0OC1qbzdXdmNUQkhOdTdaYmZQUDE4YnRjSXhCY1UwQ1BkODhUb1Y1eEpmRDdZc29VZ2RzbWdUaUdhM3FGQndtdEE2LUctOVRXRjd0TXd4SnBLQWtiNFFiT1h6cUs2NkRvNEFwX0QtVFZmb0ZjcUFwRVUtLWxhUmd1RDh4WFhrSW83dw": 1793608534258,
+    "news:CBMinwFBVV95cUxQa1BPNVJLdzBpR0h6dXZhaUttSkxtcEtXVVZyUmlZTzRDUlBEM2xPRmt3dnZsSlBNc3diNV9oQlliT2g2UXVKZm1iSGlWOWlRaHpNZUhmWVRENFYtdUxKYVpTeGR4cUpQOGN6NXhmR2dFeXhURHdjZW81d2FkOXlrQzFHLUwzbTBfWHVpaGEyYUJxeEZBdjl3WnlmaHhZdVU": 1793608534258,
+    "news:CBMi3AFBVV95cUxQTVd5YkNBSmR1YVc2cGhfTkVmaC15N3NkbkpKNWI2eDJjUEpjX1AtUFNWM2dkMEtNX2dmNWtRSHlxejg0N2hoSmFOMTVCNWZVV2JQbElKS0RvTE9nUk1PVjBHcXBpSi1rLTg5djR4S0hwVWU0V2tudmxtUW9pWUE5b29hdlRkeDRadzBjSGNOT3lBa0d5WDNYMW1YR1B2YmVnMzI3QlZfa1owRFRVTFpCbHV0UmhINHM2VGlVWVlfRVBCVU1vSFNjV2NFc0ZBbHRnZXplSW5lZk1GMHRM": 1793608534258,
+    "news:CBMizwFBVV95cUxNRTluaERuMWYzZ0pseWNaZTV0U0RpOWo5VmxwRUM1Z3ZWVEhyQ0dzbkoxZGRnWjk4RUw4NVlhTjdlSGViR0Z0aDVpdmJLbU5wZEtJUkxnT1Z6YUdFT2o1dFkxWWhEd1FTMUV4TWRTZmtxVFZ4X2JMYldQRjMydHQ5NDlnendRX05KWVJ2MWdrdkltVmxzeGY5aG4xa1FnN2txX1VtVXMwc3N2aWJsVjc1WFJzdl85NVE5MkNsRzVWSHM1dEF4RGtpb3ptdUYtSEU": 1793608534258
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "RCTI+",
-      "x": "Pencairan KJMU Tahap II 2026 Diundur, Catat Jadwal Terbarunya - RCTI+",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYW1WTG94TllERUdMaEtMakFtcUMyYzQwRDNuU2ZteTNpVnQzc1JKRUtNTU9Pb25sal9reW9NWXFVTkJtaUdvTlhSQ1hicWNrYXRfQXNIU0x5eDRfVTZLQVFlLWR0b2ttX1ZYR0VLaEY4blRFWDFCZXJMRDUzbFB4cGVDb3VEQmlPeFZGYk53djYyak9ZMkI4V1VseWFPT3FTcDBuZ2llRjR0U1pWdkhHYUhfZGNKOGM?oc=5",
-      "d": 1793585529000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@wahyu_ptatm",
-      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
-      "u": "https://www.threads.com/@wahyu_ptatm/post/DfOqXfYGbgH",
-      "d": 1793600849000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "VIVA.co.id",
-      "x": "Janjikan Warga Miskin yang Ngontrak Bisa Dapat Bantuan Bedah Rumah, Maruarar Sirait: Bukan untuk Pemilik Kontrakan - VIVA.co.id",
-      "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcEF6cW9mdVY3Y1hjMUplcGVMaUFWZmJWamtXT3pXVll6MGlXZUNDWVpTLTh0WUFGdVJ3VUdrNzl6WnlpcUV6c0F1b2dPQVZvOXZxOHVyZGNURGxtNXlfY29SbFNBcTdVZDJudjZNUnBBNkhrTUdoOUdEOGY2bFkxaUpVeUtISDVCWV9mdjZuQnF5ODRYZ1UwWnE1aXFSdXJOMnN6cWI4ZE5kWFRzbW9sTzE3Z19CVzBCdzAySEVPeFpKemhzU0VWbDk3eVExNE1qcjRTcEZpZk95MXdjY3Bwa1ZYRU1QTkx6ZTgwUnlnREJJQmtDWS04cjh30gH2AUFVX3lxTE1YVmwzZ1dhZ2pmSkRiZ0tGNXFJM2JUYWJldHo1WUthbjdwYW9zOF9KVWFEcWxsQjRFOVVmeWVoVGlKUUlGM296dXF5NThNUG41X2hvYzBoR05MX1pYcEN2elltbkJaQl9tODlCTmhDd0FsN0RKXzFLMW1mb3NvbmNZN1pQM0Nnb1Zlc1hsQ2cxMS1vOFpqR0ExZXBSeXAyNk1Eb1lXcGZfMnFDWThzMVUtb2Q1Qm1UOElXSWFTa0FUeWxfMGZqRzdHZFhMcVBnMW9LWTIyZUgxYkhKWXpvVWExMEJhUTVsQkk2aDhwdHNVYTBFR05Cdw?oc=5",
-      "d": 1793593265000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28500,10 +28470,40 @@
       "d": 1793608104000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Redaksi 8",
+      "x": "ASN Mangkir Pelatihan Komcad Terancam Turun Jabatan, Paling Parah Dinonjobkan - Redaksi 8",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1BPNVJLdzBpR0h6dXZhaUttSkxtcEtXVVZyUmlZTzRDUlBEM2xPRmt3dnZsSlBNc3diNV9oQlliT2g2UXVKZm1iSGlWOWlRaHpNZUhmWVRENFYtdUxKYVpTeGR4cUpQOGN6NXhmR2dFeXhURHdjZW81d2FkOXlrQzFHLUwzbTBfWHVpaGEyYUJxeEZBdjl3WnlmaHhZdVU?oc=5",
+      "d": 1793608467000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Beranda Indonesia",
+      "x": "Program \"Satu Desa Satu Hafidz\" Kabupaten Kutai Kartanegara Kembali Dibuka, Kuota 50 Santri Beasiswa 100% - Beranda Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTVd5YkNBSmR1YVc2cGhfTkVmaC15N3NkbkpKNWI2eDJjUEpjX1AtUFNWM2dkMEtNX2dmNWtRSHlxejg0N2hoSmFOMTVCNWZVV2JQbElKS0RvTE9nUk1PVjBHcXBpSi1rLTg5djR4S0hwVWU0V2tudmxtUW9pWUE5b29hdlRkeDRadzBjSGNOT3lBa0d5WDNYMW1YR1B2YmVnMzI3QlZfa1owRFRVTFpCbHV0UmhINHM2VGlVWVlfRVBCVU1vSFNjV2NFc0ZBbHRnZXplSW5lZk1GMHRM?oc=5",
+      "d": 1793608140000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "7 Program Beasiswa LPDP Co-Funding 2026 Dibuka, Cek Syarat dan Cara Daftarnya! - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRTluaERuMWYzZ0pseWNaZTV0U0RpOWo5VmxwRUM1Z3ZWVEhyQ0dzbkoxZGRnWjk4RUw4NVlhTjdlSGViR0Z0aDVpdmJLbU5wZEtJUkxnT1Z6YUdFT2o1dFkxWWhEd1FTMUV4TWRTZmtxVFZ4X2JMYldQRjMydHQ5NDlnendRX05KWVJ2MWdrdkltVmxzeGY5aG4xa1FnN2txX1VtVXMwc3N2aWJsVjc1WFJzdl85NVE5MkNsRzVWSHM1dEF4RGtpb3ptdUYtSEU?oc=5",
+      "d": 1793608320000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
