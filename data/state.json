@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deq-nTPk3ak": 1792403750840,
-    "threads:Deq7tRjjIlf": 1792403750840,
-    "threads:Deq9ikilaYu": 1792403750840,
-    "threads:DennklSE_xY": 1792403750840,
-    "threads:DelgfiuGC0G": 1792403750840,
-    "threads:Deq9uSMn3ck": 1792403750840,
-    "news:CBMiuwFBVV95cUxPME9hRm8zQ2FMTF9EaXJWdXZ3NFdJMG5OekxsQUZKVjJ3bS1HSENYSWtBX2xIX24zZnpHTHVvTG9iT3JMRENlTTVON3hDRjBQVm9oUW9FeFJncVlCaHJ1STJabjcyVmJXSjlIRGdpOXJBMklKRzhiMFItdnd5SUZhenBHdUpEWVFqTXQ5aHEySVJuVDRoYUNvWVJlNUdudUd2TmpJM3ppQll1T0NDdUZnSF9SQ1RIT2hNX1dJ": 1792403750840,
-    "news:CBMiiwFBVV95cUxOV2RTOWp2RGZpX0tXWDJOdkF2LTRlTW1RRFV1c3d1ekV5LS1YV0l0cVdXSGtEUGF6UTM5NzYwampVUk9BZi14OXROOHhERTl6blV2SDNiUC1lVGVNMHl4WUVVWm9TOG9SRW1MVGMwb3NWQjZ1aVczVF84b3Foa0F2VjNmTlVvelZyWDNr": 1792403750840,
-    "news:CBMipwFBVV95cUxPcFVMak5ab2VYTzVtbnRKdmxuT0czeE8xRFFuYUFoZDl0SDZyRnJLX0U4eTJ5U3V3ZU9iSjJCaXpVVnFTdTRwbTJJUmFrSzEwc3JoNVhLY1p2eDA5Rm11WTRLSFdtVXV2SGR6LW15TFpWU1pQTXNsOFgwV0o2akFya3k2RzQ0WUVHN0RCcXBldVB0R3ZYcmh2SnZoMllXR0VZSmtiejhHONIBpwFBVV95cUxPcFVMak5ab2VYTzVtbnRKdmxuT0czeE8xRFFuYUFoZDl0SDZyRnJLX0U4eTJ5U3V3ZU9iSjJCaXpVVnFTdTRwbTJJUmFrSzEwc3JoNVhLY1p2eDA5Rm11WTRLSFdtVXV2SGR6LW15TFpWU1pQTXNsOFgwV0o2akFya3k2RzQ0WUVHN0RCcXBldVB0R3ZYcmh2SnZoMllXR0VZSmtiejhHOA": 1792403750840,
-    "news:CBMigAFBVV95cUxQdlVjX1EwQUFpTVlpTmtBYmhhTTFuWVVzRUZXT1BUQjBlZ2NQQ01sNmhTR1NEUGluU3FoTHZFbjVKbVVrQWxLUkpXNVZvQlR1NDFJaHhsT0JUMzNkckYtN2FST2pwOG95SmJPMnVtLTBIVVYzNWFCTU02b1BtMTJxNg": 1792403750840,
-    "news:CBMi7AFBVV95cUxNR3YyYy03a0pKWmFYS0FsQ05YOGxobVc1ekN1a1BYd2FrT2had2phUTFPYURFZmp5a1BPQmNmQThpbUlnRDNXR1BmVGhPLUdYcjh2dVRnZnpHcnJoUjF6ZTFGTXZPTWVCM0w1ZHQ1S1RCVlBBQ2xnUXo2bTBaeUgyUmtTMWQ2djZQZGdwdnJyNXc2Y1d2elNyN3JmUkViQ0N4YTRaQW9iV1NPak1nZ1hOajkwXzMtdGZNd3ZxUmYzQ0JVbzNfVXFJeTZTNmNaZTFubG5EakxVQkxETG9KNmh3NGZlelZDX2xHM28xMdIB7AFBVV95cUxNR3YyYy03a0pKWmFYS0FsQ05YOGxobVc1ekN1a1BYd2FrT2had2phUTFPYURFZmp5a1BPQmNmQThpbUlnRDNXR1BmVGhPLUdYcjh2dVRnZnpHcnJoUjF6ZTFGTXZPTWVCM0w1ZHQ1S1RCVlBBQ2xnUXo2bTBaeUgyUmtTMWQ2djZQZGdwdnJyNXc2Y1d2elNyN3JmUkViQ0N4YTRaQW9iV1NPak1nZ1hOajkwXzMtdGZNd3ZxUmYzQ0JVbzNfVXFJeTZTNmNaZTFubG5EakxVQkxETG9KNmh3NGZlelZDX2xHM28xMQ": 1792403750840,
     "threads:Deq_VKEIMnJ": 1792404051298,
     "news:CBMia0FVX3lxTE5MNDRrS1VObjFxSkNURjRTRXVyS0pKbERzOFVLSnhRZTlEN0RDWnJPXzQ3Q3ZJOElIcHR5Nmt0Yk84R1RxYkdtZ01qcUhvOUlQUUxHNEFrUVlobVl1ZEtvZmlWVmxXNldfdW44": 1792404051298,
     "news:CBMiqAFBVV95cUxPeUY0dVpUSnRrWlBYMjF3N3hfSVliNWg2RjV6SnNGVUpsZkRwRUdpRUgyR20tZW9JRHFqUUZNY1ZXZ2VUOGN4Q1ZubThEdWZoYkZweGRqRnlXODVXOXYyMkcxM3dRMjgzVHYzRjNqdWtacjV0WXg0dmYyVEE1d1paOWpCSWYtd0tvRmxwbFdSdU45cjZRQk01S2k1ZXRRSU9kaWFGRHhiaGnSAagBQVVfeXFMT3lGNHVaVEp0a1pQWDIxdzd4X0lZYjVoNkY1ekpzRlVKbGZEcEVHaUVIMkdtLWVvSURxalFGTWNWV2dlVDhjeENWbm04RHVmaGJGcHhkakZ5Vzg1Vzl2MjJHMTN3UTI4M1R2M0YzanVrWnI1dFl4NHZmMlRBNXdaWjlqQklmLXdLb0ZscGxXUnVOOXI2UUJNNUtpNWV0UUlPZGlhRkR4Ymhp": 1792404051298,
@@ -27031,39 +27020,13 @@
     "news:CBMiaEFVX3lxTE9Gb013V3MzcHJkcTljVXhxZWlEdEM4eFE0bk1RNC04bGc4QklMYlJkWXZZSmg5RUJTZ2xoeU1MYlVOSmo0Njd1b3FyQ0xqNG1oSklTU0NRT3YzNnVldjRrS2lsUkxjQzlr": 1793613052104,
     "news:CBMitAFBVV95cUxNelNwczJWdEZLRmFKTW9wcS1hZjNsam1FQW9rR0NNNGladVZLY192UjMyQWZHVjRKM1c0MVpNU05rWTI3cXJBLUt5NlRpU1IzWklacHBPajBXTnBnU1htU1o5ZS1USENRajRERWV5Z3B5aHhLREJweU9yUmY2VFVDdUtsSnB6cmZIUm1pYTRHZGVybW50d0FlNl96UGR2SFotY280SGM1RU1hR2ZwRHZIbDg2YzHSAbQBQVVfeXFMTXpTcHMyVnRGS0ZhSk1vcHEtYWYzbGptRUFva0dDTTRpWnVWS2NfdlIzMkFmR1Y0SjNXNDFaTVNOa1kyN3FyQS1LeTZUaVNSM1pJWnBwT2owV05wZ1NYbVNaOWUtVEhDUWo0REVleWdweWh4S0RCcHlPclJmNlRVQ3VLbEpwenJmSFJtaWE0R2Rlcm1udHdBZTZfelBkdkhaLWNvNEhjNUVNYUdmcER2SGw4NmMx": 1793613052104,
     "news:CBMingJBVV95cUxOY1ozVEZGYmVlQXJvQzFRNVpSNHhXSHRzWnhiV2M0V1VQM1RkdFA4WkJnRTVEaWM4VjNOMW9maVkzMGpyeTdOSTdqWWpvR05wM0FSNTZlaHVFbFFfZ3R6b1lYeXFlbVZmTjh0Zk1HaGlJdGJ6MXpUMHVOVHY2RmpKWklsZHU2S0VrbXBlYlJUMmJOX0RFY1JjZnFhdnZVUjl3WklvMXcyYzJFMDZDU05kM0IyQm9mNUxicWlsWG52V2h5bms4d3VWdmxaaWNHWm5IMUtPM1dFSXJoSmRPeDBMOEhILUxEQ1Q5aEQ5MWFiRFlDLUotaHRMNHlQMFBsemdlc2V3RkZUbV8wR0d5VGNZNHZMbTllT0RIcXdYbWNn0gGjAkFVX3lxTE02RGR2UnkwWHpPX0h0TmZ0YXY4TjN5ZEVqejgtT1QtVVVMdkxseTJvYTNHY19ZU0p4WmZXbk9ld1dJbEZZazhNWldzSnBaV2VhdzVNMWNMbHhPQ3M3MXd2eTU3SXZsNzJFZDZJbjJISVNRZDA1SXVaZW5xM0RCMS1odnpGNFBEamVFeVZaZVJ1eEdfNGo2cjFUZHlJdkdfRjlSNlZHQWRCNVk0R3VMSTRUWFdDTE9DbWhCQXMtTVUtQUROUW9ISVVvcWNON3NGSUdXUW5JdXVVUGhPQnMxQnp4dzByX012WEtNdDFmbkc5andYMFczWHd0LTNQVlVtTWQyV2gyTHJMTGRKVUx2TFhMMVFTQ2t0Z3BIbEh1dlBWQk55OA": 1793613052104,
-    "news:CBMi4gFBVV95cUxQdEgzYm9acExsWEZZT0RySHRZWF9JVjFBV2g0Q0tJWmtTMW56bDNBQ2plMHM0MDVRd204V3NvbjM3M2dWRnFlUmVSNnZwYW4xY2FSbk53M1hfNFVuQ0tnV3VNZnpNaXZELWdNTEkyQzYweU5SaVpmZW1hOE5RZmVjNFhIYzJveGZSeDdsS29RMGQyYm9RZ3docEFrTXVGaE1vRTEyeWF6NDIxMjY5N25CN2g2R0gxTnBPa2FyVjBWQ0hPUXpvV1g3ZmZ0d2NiX3E2Y1dYLU1FSi16aDU5ekl0U0N30gHiAUFVX3lxTFB0SDNib1pwTGxYRllPRHJIdFlYX0lWMUFXaDRDS0laa1MxbnpsM0FDamUwczQwNVF3bThXc29uMzczZ1ZGcWVSZVI2dnBhbjFjYVJuTnczWF80VW5DS2dXdU1mek1pdkQtZ01MSTJDNjB5TlJpWmZlbWE4TlFmZWM0WEhjMm94ZlJ4N2xLb1EwZDJib1Fnd2hwQWtNdUZoTW9FMTJ5YXo0MjEyNjk3bkI3aDZHSDFOcE9rYXJWMFZDSE9Rem9XWDdmZnR3Y2JfcTZjV1gtTUVKLXpoNTl6SXRTQ3c": 1793613052104
+    "news:CBMi4gFBVV95cUxQdEgzYm9acExsWEZZT0RySHRZWF9JVjFBV2g0Q0tJWmtTMW56bDNBQ2plMHM0MDVRd204V3NvbjM3M2dWRnFlUmVSNnZwYW4xY2FSbk53M1hfNFVuQ0tnV3VNZnpNaXZELWdNTEkyQzYweU5SaVpmZW1hOE5RZmVjNFhIYzJveGZSeDdsS29RMGQyYm9RZ3docEFrTXVGaE1vRTEyeWF6NDIxMjY5N25CN2g2R0gxTnBPa2FyVjBWQ0hPUXpvV1g3ZmZ0d2NiX3E2Y1dYLU1FSi16aDU5ekl0U0N30gHiAUFVX3lxTFB0SDNib1pwTGxYRllPRHJIdFlYX0lWMUFXaDRDS0laa1MxbnpsM0FDamUwczQwNVF3bThXc29uMzczZ1ZGcWVSZVI2dnBhbjFjYVJuTnczWF80VW5DS2dXdU1mek1pdkQtZ01MSTJDNjB5TlJpWmZlbWE4TlFmZWM0WEhjMm94ZlJ4N2xLb1EwZDJib1Fnd2hwQWtNdUZoTW9FMTJ5YXo0MjEyNjk3bkI3aDZHSDFOcE9rYXJWMFZDSE9Rem9XWDdmZnR3Y2JfcTZjV1gtTUVKLXpoNTl6SXRTQ3c": 1793613052104,
+    "threads:DfPBWRoCE1V": 1793613340665,
+    "news:CBMilAFBVV95cUxPaWVpX3VQb3JqcDlhWTlLbmtzUnNMUThhaUI5SERmZ0JEaDhuVjVOT0FOOUxIUWZXYmdaelV1UDdFM1djdDZuU0FicTNJYi10Q0lxSHFPVXk0bTBWWlZtU1hOWnRUSkdfbXBRa3Q3RUlRbi1pbGdFaTZIV1FIMDFVZ0xPR1NqLTd3RXFnS3FTWkZlZENv": 1793613340665,
+    "news:CBMi5gFBVV95cUxNdjVtUzZXZUNLelE5YllDZXlTaHNUeFVwWDRHWlM1enBiQ2V5TTAtNmttSjk2c25ILW55UmxxNHdzV2x2c2hyVjdXdUlzSTlOR2t5MlhMTXFlNjV5Wm5pTGxxakxyZlBSX2xESnQ0djg5UlBrSkVmZGEzcjJWNm5NaUE0SThrMGNZdGdCTEliaUkyaVRYQktXWmR5VVM1ZUJCbElKc1RGdTJ2R29GTkdKUXpld3ExUWZQajdYUjBzWjRhTlhkcTdCcllQSVhkdE5TY1ZKTnZfUDEtUVdpdWo1RW5KSXhlZ9IB6wFBVV95cUxOcG9YUEZILURnUTIyR3Z3bVZnQVg1OFQzMDZwOHJCcjRKTl9Qc3N1czRpT3VBaFFTa2VnYjJRODkwZzUwVzctUjV6T2pWeUpmY1JnRThFLWF6anFVMENqRHlLRkhXTkRqNGNVQ0w1d2EyVXpyc0hQZ3pTbnVSMDBrX3U3bjhJVFJ4MDhtTFQ3ekh3QXV4dWVDUlpZN0dZTG9pMUNIQjV5QXpaQUFRYVlQQ2JDZEFzbFVtY0xUdy0yTFVOeHpsS2ZYcldLX3Z6cWpPZERDQ05iZG45V2sxaTlnLWF6ejg5bndvOEt3": 1793613340665,
+    "news:CBMivwFBVV95cUxNNjZKWTlscld2cmdaZ09QdTZsWDJkVjNOdi1YaEtJVUZhR01kckFIZG5fbnFFdllWbktMRk1aYUcybEZQUGRpb0t0TlNXRkNadlctaXBPRU5qN0lQTlp6OXJpNTRHZHkzLUp2ODMzQTNXS2Zuc1FLUXdZOE9SU3BZQlhnbTJkM2d4d29jM3RfLXV2VndZNWN1dWthNUxFZnBQWmc5OE5tR1hhV2RGSDhtdDdQd0RXOHkwRkRLNHc1cw": 1793613340665
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Semoga ananda selalu diberikan kelancaran dalam mengerjakan ya Bund. Oh ya, sehubungan dengan akan diadakannya TKA SMA, besok kita akan ada kelas gratis bahas TKA Matematika. Info ",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO1TS2Ga-K",
-      "d": 1793606582000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@irfanakbrr",
-      "x": "Urutan belajar yang paling masuk akal: 1. Hiragana dulu. Partikel dan akhiran kata kerja ditulis pakai hiragana, jadi hampir semua kalimat butuh huruf ini. 2. Katakana sesudahnya. ",
-      "u": "https://www.threads.com/@irfanakbrr/post/DfO1I51iVe3",
-      "d": 1793606511000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@megafit.id",
-      "x": "warga greenlake yang mau cobain kelas GRATIS bisa hubungi admin wa.me/6285890004840 ya! mau ramean cobanya juga boleh ^^",
-      "u": "https://www.threads.com/@megafit.id/post/DfO1LqnoMhq",
-      "d": 1793606520000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28533,10 +28496,40 @@
       "d": 1793610000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "خبرگزاری بین المللی قرآن",
+      "x": "Menag Sebut Ujian Jadi Momentum Indonesia untuk “Naik Kelas” - خبرگزاری بین المللی قرآن",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWVpX3VQb3JqcDlhWTlLbmtzUnNMUThhaUI5SERmZ0JEaDhuVjVOT0FOOUxIUWZXYmdaelV1UDdFM1djdDZuU0FicTNJYi10Q0lxSHFPVXk0bTBWWlZtU1hOWnRUSkdfbXBRa3Q3RUlRbi1pbGdFaTZIV1FIMDFVZ0xPR1NqLTd3RXFnS3FTWkZlZENv?oc=5",
+      "d": 1793608654000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Sumbardaily.com",
+      "x": "Festival Tari Anak Padang Ditargetkan Naik Kelas ke Tingkat Nasional, Pemko Siap jadi Sponsor Utama - Sumbardaily.com - Sumbardaily.com",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdjVtUzZXZUNLelE5YllDZXlTaHNUeFVwWDRHWlM1enBiQ2V5TTAtNmttSjk2c25ILW55UmxxNHdzV2x2c2hyVjdXdUlzSTlOR2t5MlhMTXFlNjV5Wm5pTGxxakxyZlBSX2xESnQ0djg5UlBrSkVmZGEzcjJWNm5NaUE0SThrMGNZdGdCTEliaUkyaVRYQktXWmR5VVM1ZUJCbElKc1RGdTJ2R29GTkdKUXpld3ExUWZQajdYUjBzWjRhTlhkcTdCcllQSVhkdE5TY1ZKTnZfUDEtUVdpdWo1RW5KSXhlZ9IB6wFBVV95cUxOcG9YUEZILURnUTIyR3Z3bVZnQVg1OFQzMDZwOHJCcjRKTl9Qc3N1czRpT3VBaFFTa2VnYjJRODkwZzUwVzctUjV6T2pWeUpmY1JnRThFLWF6anFVMENqRHlLRkhXTkRqNGNVQ0w1d2EyVXpyc0hQZ3pTbnVSMDBrX3U3bjhJVFJ4MDhtTFQ3ekh3QXV4dWVDUlpZN0dZTG9pMUNIQjV5QXpaQUFRYVlQQ2JDZEFzbFVtY0xUdy0yTFVOeHpsS2ZYcldLX3Z6cWpPZERDQ05iZG45V2sxaTlnLWF6ejg5bndvOEt3?oc=5",
+      "d": 1793566302000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Cara Cek Jadwal Bansos Kemensos, Apakah PKH-BPNT Sudah Cair atau Belum - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjZKWTlscld2cmdaZ09QdTZsWDJkVjNOdi1YaEtJVUZhR01kckFIZG5fbnFFdllWbktMRk1aYUcybEZQUGRpb0t0TlNXRkNadlctaXBPRU5qN0lQTlp6OXJpNTRHZHkzLUp2ODMzQTNXS2Zuc1FLUXdZOE9SU3BZQlhnbTJkM2d4d29jM3RfLXV2VndZNWN1dWthNUxFZnBQWmc5OE5tR1hhV2RGSDhtdDdQd0RXOHkwRkRLNHc1cw?oc=5",
+      "d": 1793613056000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
