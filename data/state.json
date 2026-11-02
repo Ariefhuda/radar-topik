@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Derj1HDHwlA": 1792422942000,
-    "threads:DerjynlGF83": 1792422942000,
-    "news:CBMiwgFBVV95cUxOYnJ3ZUxVcGFCQjg1TGJBWk5laDhPRFN5Q0x0aEVHaXVpZ0UzQU1kUld5WGxfekdXU202VVlETDBvVmk0dG0yVUItS2poWFdNbnRpT2tueXF3RHZmZmNKbHZUV3djeUFBOTc5eWJJbEt0Z2VwOTZaMTZHdHkweklhaHFSRXdxM0dIcmZVT2tFM05TMDdDRVA4eTF3cEU2LUV5cHZYWVQzdkI1SG1rekotQnVsSFYyalBQRHBYcWlGbjdldw": 1792422942000,
-    "news:CBMilgFBVV95cUxPQ0VNR1lwTmZMbEVicGlRODIzMXdzS1VJMVBhdVZOLUpIWU5wc2M5YXg4QWtMTF93WUlVS2RlbzFDVlEwSnM2UEplYVdsUVZLZnItS09mUzBTNkRXRXNMOHNWOWtKb1RCakxHaEYtNk9BMEU2R0RSSm50Szl1RGo0RGZ5R3dQeno5QUFMUUNtYUtuLXhSZHfSAZYBQVVfeXFMT0NFTUdZcE5mTGxFYnBpUTgyMzF3c0tVSTFQYXVWTi1KSFlOcHNjOWF4OEFrTExfd1lJVUtkZW8xQ1ZRMEpzNlBKZWFXbFFWS2ZyLUtPZlMwUzZEV0VzTDhzVjlrSm9UQmpMR2hGLTZPQTBFNkdEUkpudEs5dURqNERmeUd3UHp6OUFBTFFDbWFLbi14UmR3": 1792422942000,
     "threads:DerjPY6CRjU": 1792423244993,
     "threads:DerjJjwCf9W": 1792423244993,
     "threads:DerkdiUj2b5": 1792423244993,
@@ -27069,7 +27065,8 @@
     "threads:DfPlIhUGwI-": 1793632266540,
     "threads:DfPlw5tGYfa": 1793632266540,
     "threads:DfPTbpHGt1M": 1793632266540,
-    "threads:DZjtsWggci3": 1793632266540
+    "threads:DZjtsWggci3": 1793632266540,
+    "news:CBMivAFBVV95cUxOWTNLSGhjNGpmQV81OHE5ZUYzUkF5WkVWSnhXcWlfbmJfbVFReUJlUV9HSm9pVnJXQU1QLXZIVURQbzVyc0hIdGg0S0lNQWJqSzVtM2l0VW42N1o0czFfOGtOMTJIMm9XQ1lPZURfOEJNdDhBV2E1VS1ablJEOHl4blU5UGQ3ZDFxYVczWGNsbjF1ck1VSlNsUng0QjRERFNldUtyaUVOVzhnVXhOOVhUOHAtTzg0UEdZSUN1TdIBuwFBVV95cUxONFI4UFhUWTM2cm9MVWFta0VhckZfYkd0Z053clUza0drQkJFX0Y1S3BwQmJCTm1CRUJzYXU3bkkyaHM1N0JNUmViVTdnd3VFWF9Kb3BOUXFLbmhsRW9RWWpnc3RubWdtbmNVNmJBZ2hDSy1WSVFZaVZYckdhcmNNWHlPbXNWS2dWZ0w0czBBTEVNX0I5X1RvOTYzWU9rc1BKZ0JjWEV1Nk1TdmNUZk9jQmVtS1dlWmFKY0dR": 1793632552093
   },
   "digest": [
     {
@@ -28271,10 +28268,20 @@
       "d": 1793622379000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Baca Koran Linggau Pos",
+      "x": "CegahKankerSejakDinidenganImunisasiHPVCocokuntukAnakUsia914Tahun - https://linggaupos.bacakoran.co/ - Baca Koran Linggau Pos",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTNLSGhjNGpmQV81OHE5ZUYzUkF5WkVWSnhXcWlfbmJfbVFReUJlUV9HSm9pVnJXQU1QLXZIVURQbzVyc0hIdGg0S0lNQWJqSzVtM2l0VW42N1o0czFfOGtOMTJIMm9XQ1lPZURfOEJNdDhBV2E1VS1ablJEOHl4blU5UGQ3ZDFxYVczWGNsbjF1ck1VSlNsUng0QjRERFNldUtyaUVOVzhnVXhOOVhUOHAtTzg0UEdZSUN1TdIBuwFBVV95cUxONFI4UFhUWTM2cm9MVWFta0VhckZfYkd0Z053clUza0drQkJFX0Y1S3BwQmJCTm1CRUJzYXU3bkkyaHM1N0JNUmViVTdnd3VFWF9Kb3BOUXFLbmhsRW9RWWpnc3RubWdtbmNVNmJBZ2hDSy1WSVFZaVZYckdhcmNNWHlPbXNWS2dWZ0w0czBBTEVNX0I5X1RvOTYzWU9rc1BKZ0JjWEV1Nk1TdmNUZk9jQmVtS1dlWmFKY0dR?oc=5",
+      "d": 1793627280000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
