@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdMPmMek6LZ": 1792442445802,
-    "news:CBMiugFBVV95cUxNSkMwamFCUlA5R2x0aGhkTjNaRnVMZXlZMlhVdFU1cmhXT0xuSHdtY2NQQmtwenlUTVlPamhkZ25xSlhXTE1wejNlR216cVNPYjUwX1J0bjdtX05sY2MwWDdBZVdYVkx0R3dOaWdCQmhWc0g4MG5mSktaX0xuRkpTX2pCenBCNU16RVhoUjJrRUZ1bmZBNmlqWEgySzROMGZBWVFBVjFSOF9RcE5XV2poX1lKRTREZXBoMlHSAbQBQVVfeXFMT0p6UXNMWW9fUGhWOW1hclI0czFXSlpONmEzUXhxUjVqeEM4clF4aGhwUm1Mc2ZrQ3hkWEk1bUN1bXJRUHhxaVpObDY1TnJaamZoaHZaY3N3YlYza2FrQ1RrRmlEWE52YzctRmJHS3pFQnkyNFV1VF9ackV2QlI5SGg5V0xIdDBhbE55aGpjSlZTRjNJU19HUEJFVTdmMm5USmtlTVpOVjJoQ3lKclNyTXNkZUdj": 1792442445802,
     "threads:DesIKUfDRV6": 1792442745283,
     "threads:DesIlqrEwr3": 1792442745283,
     "threads:Ddd2knCEXDP": 1792442745283,
@@ -27156,19 +27154,22 @@
     "news:CBMipgFBVV95cUxPcXQtU2UwS3d3Zjlnemo4M0hxTUpXUTg4SVpQUW9zaHF5OVpUQkw2R2VmOWhRTjY5VkdPaFJpX3BWeDFRejNrM3djdVJVMGtCTVRtcVA3MjNETHBtTk5tVEFpV0t6eXlfQlNRa0F1SU1rZDVubDR2T3VtYXhUMVIta092UUxpRVFlUGJwV2xCOXhVdW1EQm5VYlhfSGdOcWxRb2R0VExB": 1793650749706,
     "threads:DfQJKKDDQYw": 1793651167353,
     "news:CBMiuwFBVV95cUxPeVVJYlBXTmgzUEVtMF9EWG1TNXRza0FnTXQ3Q3Y1RTJjNWVDZ1YycF9TUkxZcTMxb2VFUWdWczVXMFhEQi1yeGVJTENkcTJpSUVjN1BHbmlIWVZkV2Vpam5aZ2s5RDE2YV9mNmRIenhYMlNJZUJBZnNOYkg5SEl3ZzQ4YW01NENqc3hyM2RCSVdCcW5DdnBjS2ZrcWtmcTJjTXVNbUU5dmo3S2xxanRiLUJxeExJbHNSSHNR": 1793651167353,
-    "threads:Deqqg8FGR5C": 1793651448083
+    "threads:Deqqg8FGR5C": 1793651448083,
+    "threads:DfQLyPXiRy2": 1793652045621,
+    "threads:DfQLdWGEqrq": 1793652045621,
+    "threads:DfQK722kQ-e": 1793652045621,
+    "threads:DfQKe4YFpd9": 1793652045621,
+    "threads:DfQKURkjwIK": 1793652045621,
+    "threads:DfQKI45mCB0": 1793652045621,
+    "threads:DfQKCVHF03U": 1793652045621,
+    "threads:DfQJk-yE0WA": 1793652045621,
+    "threads:DfQJks1khda": 1793652045621,
+    "threads:DfQJYcND0qd": 1793652045621,
+    "threads:DfQItLrDihC": 1793652045621,
+    "threads:DdFojs1j681": 1793652045621,
+    "news:CBMingFBVV95cUxOWWp5UWk4ZlpEbnY3b1lEcTVsbVVfVXFuZHdlYWViSE95UVRpeE1jZ3dFMDFxZW9OT1ktNXBXQlZWOXhtbENPdExxeXNXZW5Td1lJVXh0ZGd0d2FHalBVcEY4Vkg2ekxTOW54QldDMHItRXZWVVMzV3dsWGJoS0syT01RazJxSS0tWmRqSVhvbmZjcFA1QkFDRGphZXpqQQ": 1793652045621
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@hiidahee",
-      "x": "Hai kak yuk ikutan. Aku ada webinar gratis tgl 13 November nanti, disini akan dibahas cara mulai bisnis online untuk pemula, dropship dan Affiliate juga",
-      "u": "https://www.threads.com/@hiidahee/post/DfPXvT2FH0p",
-      "d": 1793624637000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28658,10 +28659,20 @@
       "d": 1793649552000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Lingkaran Istana",
+      "x": "Pemkab Dairi Gelar Pangan Murah Di Kecamatan Pegagan Hilir - Lingkaran Istana",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWp5UWk4ZlpEbnY3b1lEcTVsbVVfVXFuZHdlYWViSE95UVRpeE1jZ3dFMDFxZW9OT1ktNXBXQlZWOXhtbENPdExxeXNXZW5Td1lJVXh0ZGd0d2FHalBVcEY4Vkg2ekxTOW54QldDMHItRXZWVVMzV3dsWGJoS0syT01RazJxSS0tWmRqSVhvbmZjcFA1QkFDRGphZXpqQQ?oc=5",
+      "d": 1793651324000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
