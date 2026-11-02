@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcAD9zfk8P-": 1792407050013,
-    "news:CBMiswFBVV95cUxQSkVaencxTDZrd1NTb0J4cmpxTnlJZXFJRUZCdWJsWU41cUd6cmFFQkFrOFRMNzRvSlpRRmdEVTRHZ2dpY29uUk9IYU5BRFZaWDN2d1hEdjZHN1FxTlpnNXFtOE5yS1dHZ3BjeXM5YkV4eVpvdXRtZnlnSTRQTU4wSV8tVXc2b2dfSUNOcGpsUE1Tdy1LdjRYQlJsbFNaaExhYWVPRWdLV1czdnBqc2hSY3U4MNIBsgFBVV95cUxPNVBIMkRIRnJHRWIwQ2xjV0ZGVmpuMFBfay1hQ0NndEZnSlZ1M05HWG1WalRIa3dEOXhYWkx6NTFtRE5vaUdYS0RjRjA1al9qZkNWN1dDSmFSMXZLUjJmUGVhYnNGNGZVTm9PN2RJUVUxTHZVdHZ5RldmTjlfUFZDUGJOUDYzRHRmSWcyNDB1UGxHRjZReDBqaE82Ym1fX3hDQWNiNGMyZTBVVGxkWmxNQXRR": 1792407050013,
     "threads:DeYr5fyGi0p": 1792407341799,
     "threads:DVS5UndkvAq": 1792407341799,
     "threads:DerF6l6GWCO": 1792407341799,
@@ -27025,69 +27023,18 @@
     "news:CBMiggFBVV95cUxPMTdyNElYZEQ5dVg0TE9BbnVIV3pxcjVnbnF6ZU1aSTdtOUZYZlgyTm5SWFNRRnk5aTIySUdLS3E3S2tnMXlVUm45M1FfT0haWmhHT1Y5anc4aURhWmk5SUd5Y2tWcW9DYVR6ek5BcDZBR19KTk4ycE9RVkVDX1Ffdnln": 1793616363271,
     "news:CBMizwFBVV95cUxOVUt0M0tsYmVwMWREdHdtLWRlNjJhaG5wdHpfSGh1ckdQbGhTNGk3b2ZoOHhmMllkNTFfekdGWmh2aTRYRW9OeTN4LTZyREV2N1FnWjVuN3p1LW56NHlWTFZYSUdmY0VJTmhlNnRpa01sTlVQRVZDc1ZrZmJadFZSZk5lMTdIaEFtYnhyakQtYXUtemw3NG9PWVpmTTRXVnMwRkV6RUZrQUZsSWYtVEQtLWk3c1JidWNoSmpZTUNyQXBrZGxBR1JndUVlMU1xUmfSAc8BQVVfeXFMTlVLdDNLbGJlcDFkRHR3bS1kZTYyYWhucHR6X0hodXJHUGxoUzRpN29maDh4ZjJZZDUxX3pHRlpodmk0WEVvTnkzeC02ckRFdjdRZ1o1bjd6dS1uejR5VkxWWElHZmNFSU5oZTZ0aWtNbE5VUEVWQ3NWa2ZiWnRWUmZOZTE3SGhBbWJ4cmpELWF1LXpsNzRvT1laZk00V1ZzMEZFekVGa0FGbElmLVRELS1pN3NSYnVjaEpqWU1DckFwa2RsQUdSZ3VFZTFNcVJn": 1793616363271,
     "news:CBMibEFVX3lxTE5vV29uaTdKb2poZGZHeW04VGEzVXRjdWdNZDUxdUhIc0NIdlRkc2FsLTZ4T0ZQQU5TOFFmWHlCMTBDVXFhMU5taENHZUhoZTNxN3V6OS1xNHB6WmtsZURHSE8wd3NxdTE3VkxQOA": 1793616363271,
-    "news:CBMi4AFBVV95cUxOeW1rNUdySWdVX1pGRElrOUxnenJmNVFlQjE0SFg2cUN6bXJiaUVqUFVlc3V6ckVacVJXNGp4T1hWRnUtRWFFNHZZTF9kRmNFR0FNb0dRMVpNZ1Q5T1ZIRERuenRYdXBHX2ZZLXcyQzRnX3hONVNoWHJnTG5TUDlucFhsNllzUy1yNTZCZ2phem9vRnk2ZFh3UDVNdFlUQ0hMemRlbWFDVDFXeGszRzl6NUdXcnVBa2FSYTZzeTFoTjhZRVhoamdnOU12Q0prcHRBQkxZdVUzWWctM2RzUURLSdIB4AFBVV95cUxOeW1rNUdySWdVX1pGRElrOUxnenJmNVFlQjE0SFg2cUN6bXJiaUVqUFVlc3V6ckVacVJXNGp4T1hWRnUtRWFFNHZZTF9kRmNFR0FNb0dRMVpNZ1Q5T1ZIRERuenRYdXBHX2ZZLXcyQzRnX3hONVNoWHJnTG5TUDlucFhsNllzUy1yNTZCZ2phem9vRnk2ZFh3UDVNdFlUQ0hMemRlbWFDVDFXeGszRzl6NUdXcnVBa2FSYTZzeTFoTjhZRVhoamdnOU12Q0prcHRBQkxZdVUzWWctM2RzUURLSQ": 1793616363271
+    "news:CBMi4AFBVV95cUxOeW1rNUdySWdVX1pGRElrOUxnenJmNVFlQjE0SFg2cUN6bXJiaUVqUFVlc3V6ckVacVJXNGp4T1hWRnUtRWFFNHZZTF9kRmNFR0FNb0dRMVpNZ1Q5T1ZIRERuenRYdXBHX2ZZLXcyQzRnX3hONVNoWHJnTG5TUDlucFhsNllzUy1yNTZCZ2phem9vRnk2ZFh3UDVNdFlUQ0hMemRlbWFDVDFXeGszRzl6NUdXcnVBa2FSYTZzeTFoTjhZRVhoamdnOU12Q0prcHRBQkxZdVUzWWctM2RzUURLSdIB4AFBVV95cUxOeW1rNUdySWdVX1pGRElrOUxnenJmNVFlQjE0SFg2cUN6bXJiaUVqUFVlc3V6ckVacVJXNGp4T1hWRnUtRWFFNHZZTF9kRmNFR0FNb0dRMVpNZ1Q5T1ZIRERuenRYdXBHX2ZZLXcyQzRnX3hONVNoWHJnTG5TUDlucFhsNllzUy1yNTZCZ2phem9vRnk2ZFh3UDVNdFlUQ0hMemRlbWFDVDFXeGszRzl6NUdXcnVBa2FSYTZzeTFoTjhZRVhoamdnOU12Q0prcHRBQkxZdVUzWWctM2RzUURLSQ": 1793616363271,
+    "threads:DfPIWcFDK69": 1793616654373,
+    "threads:DfPIGE4CLIY": 1793616654373,
+    "threads:DfPHggVlRcZ": 1793616654373,
+    "threads:DfPIHToE5lF": 1793616654373,
+    "threads:DfPIEUzkwwc": 1793616654373,
+    "threads:DfPH250k5sJ": 1793616654373,
+    "threads:DfPIdc4E_xk": 1793616654373,
+    "threads:DfO5-2YD62D": 1793616654373,
+    "threads:DfO5-01Dw0Q": 1793616654373
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfO37ZvjyS0",
-      "d": 1793607959000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, boleh saran nih ya, coba kk upgrade skill digital marketing dan bisnis online, yang nanti nya bisa untuk jualan online produk sendiri, bisa dropship dan bisa juga affilia",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfO33Rlkwn4",
-      "d": 1793607925000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@muchtardgbella",
-      "x": "Informasi Selengkapnya Silahkan Ikuti Pelatihan Bisnis Online GRATIS Tanpa Ribet, Klik link Bio dibawah ini sekarang : 👇https://vismaya.id/pelatihan-bisnis-gratis/?ref=muchtardg.b",
-      "u": "https://www.threads.com/@muchtardgbella/post/DfO3or7gAgM",
-      "d": 1793607808000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Iya sayang saya ga bisa lihat mas gara2 kena banned padahal cuma kritik dan saran saja 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Clou",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfO4fwFGKiN",
-      "d": 1793608257000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Ga bisa mas kena banned ntah cuma kasih kritik dan saran doang 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dap",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfO4bGqGMS-",
-      "d": 1793608219000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, besok kita akan adakan kelas gratis bahas soal TKA MatWa. Info lebih lanjut bisa bergabung di grup ya! Jangan lupa, ajak teman-teman yang lain juga yaa...",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO4JbAmcHl",
-      "d": 1793608074000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28527,10 +28474,70 @@
       "d": 1793613176000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@xvier024",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@xvier024/post/DfPIHToE5lF",
+      "d": 1793616445000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tirtaryn",
+      "x": "ada pelatihan jahit gratis kak, cek ke BLK atau BPVP disekitar tempat tinggalmu ✨",
+      "u": "https://www.threads.com/@tirtaryn/post/DfPIEUzkwwc",
+      "d": 1793616421000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tirtaryn",
+      "x": "ikut pelatihan gratis aja kak banyak",
+      "u": "https://www.threads.com/@tirtaryn/post/DfPH250k5sJ",
+      "d": 1793616311000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@iceebearr17",
+      "x": "Halo! Aku Melvin Keane, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Micros",
+      "u": "https://www.threads.com/@iceebearr17/post/DfPIdc4E_xk",
+      "d": 1793616627000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "Semua dokumen harus menggunakan bahasa Inggris. Dokumen terjemahan harus disertai salinan dokumen asli dan terjemahannya harus tersertifikasi. Pendaftaran resmi: https://apply-spac",
+      "u": "https://www.threads.com/@fauzialiana/post/DfO5-2YD62D",
+      "d": 1793609036000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "Kalau tertarik dengan dunia antariksa, fisiologi manusia, dan kedokteran luar angkasa, ada beasiswa Erasmus Mundus S2 yang menarik untuk kamu incar! SPACEMED Erasmus Mundus Joint M",
+      "u": "https://www.threads.com/@fauzialiana/post/DfO5-01Dw0Q",
+      "d": 1793609036000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
