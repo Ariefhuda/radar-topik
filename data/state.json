@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DUzzSG4Em3L": 1792387844205,
-    "news:CBMi4AFBVV95cUxNd280MmR5aDN2RENvYnRYLUU3Z2RuUjhwN3R6TVdSbXZ4eTR3MzlwZ3JxcjJ2bElfTW4xN2hQWG5HT3BjMlE0REdodlEydjh1b0FCVlpRM0VGc3pERUFmV3Y3ZzJtOWlfNXRzVy10ekh5dFgyX2lFZXR2RV8wZEozNUFPdjZJUVhoeklUSWFScXhWeWRGeTlZTlBZV0swblJfX0VqZnAzRU9tbUlIaG15Z3Mza3dxT3FDRGdwRGFjOVJOdEt1VnRxOFpHd1dLUXV5SlA5alJMMUNIamRfb3l5TQ": 1792387844205,
-    "news:CBMiuwFBVV95cUxNcDNQRDNkd055elhxZVduZFJoSEtXSzJfRUhXTzh0ajFoV0l5NjF2QmhCd0RKYlhvMVJRcG5WS0pPQnMyRVZlT0tINXFKZXFzM0FPM19vTExLSlVNbDkteV9hcWczUnBiYUJWZXBoRkYzMzBWcmlUQkNNNkw1MEN3UlpDTTAxdk1WTGZmMkdYQTR2TWJBN0RQMlpxSS01Q0llR25yNUxFVmtORjhQTUxteVcyQ0FLaVBLaFdv0gHAAUFVX3lxTFBqR2Q2ZDN6bWFnd2Z2SnJqOXBXcnJKaUp0b0Zaajh3OVZMc3dlSENYd1kwajJBNl9ULXA1UEdITlRHbkZFS2prNUduX1NSVlVPaDgtRVJ6VTVkdktucmF3dUF3R3hfOTFmajBiclMtRU8wcW9Ec1hXeEtvVXJkcUhEYnBQYzFGallPR2R3RUdfM3pnMFdIVzIwdjVJVzgxaEVTNEpNSEhXeGxXaF9QMHY3eTYzTTFVbTdRd3A0a1loWg": 1792387844205,
-    "news:CBMickFVX3lxTFBqSDJGeV96UzNOUS0zb29vV2NfSklJbm5XR25TaGduaDlKRzYxaUVSdnBIcTcxUTVEUHlXMEV4cGYwLWdSUDlhNllib09VNVdtSEFJUkRpdHJBWHNma0FkU2V1eWlBbEM2VGhwbFZITENlZw": 1792387844205,
-    "news:CBMi0gFBVV95cUxQdkgwRWpoQWoxQ2xsU0pfVkpIXzlrRkRwMGNTYU4zdkF4NHRKWWQ2MW05VF9qY2g3WHI3X2tJb1lQQTNVcWxZWF9faWNTVmJqbDJIWTg2TDVvc08ySUhXQlZ1NmZ1ZGExWlVOdXVRelZEdkJwSDR6d1d5Rjl2VFhfVXRmQmduTFhhWWkzNWt0VWVkQ3g1RVZkTFZ4enJuVUhpT0RiLWhpUldYWTJna0ZrdVdOQXE2RFBPVk8yM3FLTDhJa29PczZ2MVZySThOUjFCOVHSAdcBQVVfeXFMTzVHeXFoX0E5cGJKRU9KNjF1cUFlN2tMMVctUld6YW1OcFluOFdTZFBvMmJyWVh4RVFPZTEyTEl3TlJ2am8yanFNaWxXbHhsWWhsakZBWHJiZ0o4Zm04eG5jSHRsREZlb0V3QWItNG9hZE4yNW1qcVZYbEhmTEtRc09RTFhkYWc4ZFQwcTF5OUlGV290ZDZUN0d5OUs0dGlQT1cxRGpBdjZMTjcwQTBNNkJkVzY5QWw5NG84YXNtbDhZUFJaOHU4cnZCNXl0Q0VOVW5FM1JBM3c": 1792387844205,
-    "news:CBMimwFBVV95cUxNQ3REWVltUE1OMmJBaC00TFl0QWs3QTFSS1NTRXNIdnZ4VjQ2UXlJRjZnRE80SmZwWXVPVjRXbllQcVcwZDJWN3MtWVBKYTJQM1dyeEJScnRkbFVvc1I5c3dTcVZldTFueHFBSFBrOUJtZm92bDNRdTA3Rk85QmxsWmlXR1pCR3JBRlQxdWdrVE1vNldtd1hEcUtaUQ": 1792387844205,
-    "news:CBMic0FVX3lxTE40eUFabm5TSGpvc3FKd2tuLWxSXzNXZ3pOeS04emZUS3lzRHVaRjg3SmtWeEpHemVvbm5jYi1fekNSTVU1LWtZLVllcGJ0N0Y1RVl4MVp6Qk1DRkdSX1UtYVF6RUhnT08zX3h5SkhuVUhGRXM": 1792387844205,
-    "news:CBMipAFBVV95cUxQTkZqSkpWdDh0V0p2RllPVmNPVnlJc00xVmY1VENhZkcycTVja282M3pHNnZCcGFLb0hPYWVVUFNrcWcza1FmYUJjTmd6cTh3dFhSdGZSR2dFeEhtRUkwS0xyak0wQ1Z2dXNhZ3dpdkE0UU9LV0h0TVlVaFp6bVVvVXhrUVFfc01sVXpoVFFTWkpRazl1V2ZCZ0g3YU8yeHZ3c0ZDYg": 1792387844205,
-    "news:CBMisgFBVV95cUxOLXFQOHdieEpzTEd3M0x0WUlqUkVWUVhLakVuME5OYlZobmVXcEhFcUoyUDVtZkhadzZuandkc2Z2Z21LNFNsTElPSFhoS2RaeWFNaE50UWJXY0Q3YWZKLXpCYmlDYTM1TlJjRi1ZUG1fM2RlY3FQc2ZLbWczTVhGUUJxb1Ezd3RkWEZOMTc3WVVsVnMtV1licTNBeDJfSUtrcnJ0UkJGdkhlYWJiUjlJWk9R": 1792387844205,
     "threads:Dd3yH4-lJlF": 1792388140809,
     "threads:DbUnoAmk7Wf": 1792388140809,
     "threads:DSrwOUsDzcY": 1792388140809,
@@ -26951,59 +26942,18 @@
     "news:CBMi1AFBVV95cUxOemdVd0RfYXE1b0ZGUmNtOFU5R3BuZ1BoU0pqR09mY1BUdHM5Y0tHTlJFdlQwTHg5YVUwWktidUtSTjdFR2EyZTAxQ1EwaW04d0syU3Y3ZWs5TlN0Rnd1UkhmWm1kSEZubXdvNHdvZkNJSzNOOVlFQWlCVWhFdjluVGtURG9LeE1fQk82QWozTWMwTVZsNmtXUUF1ZFRiZExmd1JzTHppLVpNLUk3U2VNLVJ4Rkl1c21jdjZmNGpLWVVFX1hFdHlUWDdXR2pmMDNsajh6edIB2gFBVV95cUxOVGY3b216cFlIM0RydTVYRzRyM1V1Rks2TnFfQ3g3YzNvM1p1OVEyZ2UtNEwtZXZNTEJ6aG1vZWd6cUFxc0tWd0lneWctTzFhRlNQM243Z2pheUtxaGl1M3hpTDFUSXAzb0JzU1BBN25pOG5oRWlCOVprWEt3OVNEcXNYNGJ1WG4tMjc4eFdubzJOdExTZHBTYmtHZ3JGTnlVa1NxWGx3OVFaWHJBa2gzbl9LOVJCOHZsOWQ5ZjU5ZW5fck51SFk3UXNCQjIzYjUxTlFsUEpPQU5PZw": 1793596849159,
     "news:CBMi1wFBVV95cUxOYUdmNUpONGdHTFF3ZUxoUEd1eExIWE4xdEhGcFNfX0lrUW9KS2Y1ZUtDZU5DeV9LUF9fcnhzNUJBdjI2cG9oeldIaElhYXVqTXZFRlB5RWdKc0R0T054YUxCMjRiVjRvTDRpemdfcjFBNS1OMWYwSDUyeHJ1NmZ1ckh0dmNGZG1ZUDdaOTJNbTZmdXJMT3llanVFck90VXlianBBaUplNXduejI1UVdfOUE2T0JwUEpGSHg5WGlWMm1jMEJXalRPZk85WE5zeFY4Sno0SG82QdIB1wFBVV95cUxOYUdmNUpONGdHTFF3ZUxoUEd1eExIWE4xdEhGcFNfX0lrUW9KS2Y1ZUtDZU5DeV9LUF9fcnhzNUJBdjI2cG9oeldIaElhYXVqTXZFRlB5RWdKc0R0T054YUxCMjRiVjRvTDRpemdfcjFBNS1OMWYwSDUyeHJ1NmZ1ckh0dmNGZG1ZUDdaOTJNbTZmdXJMT3llanVFck90VXlianBBaUplNXduejI1UVdfOUE2T0JwUEpGSHg5WGlWMm1jMEJXalRPZk85WE5zeFY4Sno0SG82QQ": 1793596849159,
     "threads:DR13RuimIgx": 1793597145617,
-    "news:CBMipgFBVV95cUxNVEotNE5hOFBZWVVJam9RQWMyQS05bFBwMjN6SlQycC1JR3NLS3BLUkhyNjByNGpqc25LRHBvYTF5LWhjQWZzWGRSanFMREJweHR5WHpENHFuVDY1VC10Q3B1NjFkdC1WNnNMcmtQeGFsZFF0RTRnYmNCVWVCdEVuRXIyZm5USF9xLXNOZWFCWGtIVkVIQ2ZBOFNOWkRIVm1QVDJOblNn": 1793597145617
+    "news:CBMipgFBVV95cUxNVEotNE5hOFBZWVVJam9RQWMyQS05bFBwMjN6SlQycC1JR3NLS3BLUkhyNjByNGpqc25LRHBvYTF5LWhjQWZzWGRSanFMREJweHR5WHpENHFuVDY1VC10Q3B1NjFkdC1WNnNMcmtQeGFsZFF0RTRnYmNCVWVCdEVuRXIyZm5USF9xLXNOZWFCWGtIVkVIQ2ZBOFNOWkRIVm1QVDJOblNn": 1793597145617,
+    "threads:DfOjtuwj1ry": 1793597446785,
+    "threads:DEjcpm3yNtr": 1793597446785,
+    "threads:C-eVBY5vaQY": 1793597446785,
+    "threads:DOGdf8LCGdD": 1793597446785,
+    "reddit:t3_1xlovjy": 1793597446785,
+    "news:CBMiogFBVV95cUxNQU5vbjZQY2NSUzBMLU54eW1QMXNhZnF2T0UtODRiMG5PZnhmNHRlMXVVVURhUUdCQzRzY2VhMk1HVi10MXAyM0xscWlaQUdZVTl5ejJrYXV4b0dzSjhJRUR2MHdvNk16c0R3Tms3dzdaYTNYNUdDb2tLRVBSSWZkenUyQkNCQVh5SEpyaWdfZ3RMWDR0aGk4aXlxem50MmIxY2c": 1793597446785,
+    "news:CBMigAJBVV95cUxQNjIwb19PYnBMLVlTSnpYMUpqeHFiZk12TU5VR0VWY25IWWMyWEpfRFFBUW9LRmF0aEhVUjdrdHpxUTBqSmtIekdOQ05xUkF6bmJJejkxN0QtTnRYdTQwWHFSNlozLTNJMmFJeE1JNDdnV1lpSmdzRXRuOVM2aktQc0VCZUphOHZ0aHR3U1E3RXFTU3BISmNubjU5SlpWWlh4LXZiLVBZS08yRGVURUtIZTd2VFRjNnhUc205Q1hDTXFTN2FPMWNuSzY5Z3dUY2pWVTI0TFNjSHYyanJhZ0tKbkdEcXRaSHJWR0pOSjhVZklJSFNLVHk4bDIyZ3R6eldU0gGGAkFVX3lxTE5LcmF4S0QxNEhmbDJ1WURCSVRmYnlodXFVUUxiOHJJajJLcFNucEFCaHdraDNOMTJPN2EzVzRRNWdreUhxbzRlaHZWT1hkQkNnaU9NVW1CMVhuODBWQk5PLU5reXFSbUtnTGJRRkZFVTJjTFYtZ0ZWb0JfaHVzUGRHNU93WlM3MjVFQnZoRlFmaGFRRUw1R1B6OWJLU3FRNl9lclZfYk10OUs5UjVTcml1YkpPXzhyOXBoazZKNmVLX3BqTUhxeWM5aTY2YjdnNnJ5a0V6dFNNUzFUXy1vNFZSX0NSalpFNUtfd0RtcGNaVXdPUXVSLXA5ai1LTXZ5bFVqSFpuNlE": 1793597446785,
+    "news:CBMi4wFBVV95cUxOQldLNmJaSUtpVkRiOHFHV3JvYUp0dUpoNmlfR1h2bVlnMmxVMHBSVV9CTFRzMlRKckJkaFlzc09BVkJTR0dKbUR5VzZONEk5ZGxadGVxa2ZYWTNjSlNqM3Z4NjhpM3o5TFNRSV9jOEk5aWUyX1dxQW80eTFZenVRa0xlaUVUSmdMRHR3SVdGcHRfX0hFdU1SWWJDUUJMWW91QTlLaUFJRlBkcHc2M1FIdXcwVUhlQ1JzWGhWRS1LNkFqNk9IdlhNem1kdG5qMGY2RW9aZ1FBaHFxS2dFUEFtY0xTd9IB4wFBVV95cUxOQldLNmJaSUtpVkRiOHFHV3JvYUp0dUpoNmlfR1h2bVlnMmxVMHBSVV9CTFRzMlRKckJkaFlzc09BVkJTR0dKbUR5VzZONEk5ZGxadGVxa2ZYWTNjSlNqM3Z4NjhpM3o5TFNRSV9jOEk5aWUyX1dxQW80eTFZenVRa0xlaUVUSmdMRHR3SVdGcHRfX0hFdU1SWWJDUUJMWW91QTlLaUFJRlBkcHc2M1FIdXcwVUhlQ1JzWGhWRS1LNkFqNk9IdlhNem1kdG5qMGY2RW9aZ1FBaHFxS2dFUEFtY0xTdw": 1793597446785,
+    "news:CBMixAFBVV95cUxPNGxHTGNsR0x4d3FPbVFtV2JwVGU4WHdySzdoYWlMSlhoS19wN2h0RU1jeFZzaTJnUzA4ZnBCSjhKNDc3Q1FYVDhuaTFtTTA3Y2c2MzQwSWRHSXFLTVB4MENTaXgweFFtRklnVzY3clZzaVB2U2xTWnlySVF1NGxtbkpBMDRadUwyVUwtd3N6RDhrOVF6ZWF5LWpRcjlqUjRwUXZUR3dlWVhSUjRQU1l5RjJZRzhjQ2Y4clpMR1phU1JiT0Vt": 1793597446785
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sah212212",
-      "x": "Tinggal tunggu satu langkah lagi menuju pencairan tahap empat Sabr Sabr baru SPM #bansostahapempat #bansossudahspm #pkhspm #bantuansosialtahapempatfyp",
-      "u": "https://www.threads.com/@sah212212/post/DfORHZLH3n8",
-      "d": 1793587611000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tommcifle",
-      "x": "OWNER CUTI SEHARI, BISNIS LANGSUNG BERANTAKAN? 🤔 Ini salah satu tanda bahwa bisnis Anda masih terlalu bergantung pada kehadiran owner. Saatnya membangun sistem yang membuat operas",
-      "u": "https://www.threads.com/@tommcifle/post/DfOSzpXDpGt",
-      "d": 1793588498000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ddjateng",
-      "x": "Halo warga thread👋 Tolong infokan sekolah di Jawa Tengah (swasta atau negeri) yang bisa didatangi untuk pelatihan kesehatan kanker gratis dari Dompet Dhuafa",
-      "u": "https://www.threads.com/@ddjateng/post/DfOTaaHmnrX",
-      "d": 1793588815000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@raserasera13",
-      "x": "Stop jadi tempat pelatihan gratis buat laki-laki yang belum matang. Tugas orang tuanya dan saudara perempuannya buat ngedidik mereka. Jadi jangan pernah punya pikiran: \"Mungkin ini",
-      "u": "https://www.threads.com/@raserasera13/post/DfOTVV3E9sn",
-      "d": 1793588773000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ibibah33",
-      "x": "Cara ikut pelatihan gratis itu dimana sih",
-      "u": "https://www.threads.com/@ibibah33/post/DfOSyu0mtjN",
-      "d": 1793588490000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28453,10 +28403,60 @@
       "d": 1793596740000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@pipuuhhhh",
+      "x": "Bukan lagi jaman nya cek khodam , tapi cek desil . Kaget aku , rumah ngontrak kerja serabutan ga punya aset mewah pantes ga dpet bansos apapun pas di cek desil 5 😅 Kalian desil br",
+      "u": "https://www.threads.com/@pipuuhhhh/post/DfOjtuwj1ry",
+      "d": 1793597362000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "Provinsi Dak Lak meminta verifikasi informasi terkait dana bonus sekolah sebesar 845 juta VND. - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQU5vbjZQY2NSUzBMLU54eW1QMXNhZnF2T0UtODRiMG5PZnhmNHRlMXVVVURhUUdCQzRzY2VhMk1HVi10MXAyM0xscWlaQUdZVTl5ejJrYXV4b0dzSjhJRUR2MHdvNk16c0R3Tms3dzdaYTNYNUdDb2tLRVBSSWZkenUyQkNCQVh5SEpyaWdfZ3RMWDR0aGk4aXlxem50MmIxY2c?oc=5",
+      "d": 1793594353000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Ada Beasiswa Cendekia BAZNAS atau BCB Timur Tengah 2026, Berikut Syarat, Dokumen serta Cara Pendaftaran yang Perlu Diperhatikan - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNjIwb19PYnBMLVlTSnpYMUpqeHFiZk12TU5VR0VWY25IWWMyWEpfRFFBUW9LRmF0aEhVUjdrdHpxUTBqSmtIekdOQ05xUkF6bmJJejkxN0QtTnRYdTQwWHFSNlozLTNJMmFJeE1JNDdnV1lpSmdzRXRuOVM2aktQc0VCZUphOHZ0aHR3U1E3RXFTU3BISmNubjU5SlpWWlh4LXZiLVBZS08yRGVURUtIZTd2VFRjNnhUc205Q1hDTXFTN2FPMWNuSzY5Z3dUY2pWVTI0TFNjSHYyanJhZ0tKbkdEcXRaSHJWR0pOSjhVZklJSFNLVHk4bDIyZ3R6eldU0gGGAkFVX3lxTE5LcmF4S0QxNEhmbDJ1WURCSVRmYnlodXFVUUxiOHJJajJLcFNucEFCaHdraDNOMTJPN2EzVzRRNWdreUhxbzRlaHZWT1hkQkNnaU9NVW1CMVhuODBWQk5PLU5reXFSbUtnTGJRRkZFVTJjTFYtZ0ZWb0JfaHVzUGRHNU93WlM3MjVFQnZoRlFmaGFRRUw1R1B6OWJLU3FRNl9lclZfYk10OUs5UjVTcml1YkpPXzhyOXBoazZKNmVLX3BqTUhxeWM5aTY2YjdnNnJ5a0V6dFNNUzFUXy1vNFZSX0NSalpFNUtfd0RtcGNaVXdPUXVSLXA5ai1LTXZ5bFVqSFpuNlE?oc=5",
+      "d": 1793581130000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos PKH BPNT Tahap 4 Cair November 2026, Ini 4 Tanda Rekening KKS Lolos Verifikasi SIKS-NG! - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQldLNmJaSUtpVkRiOHFHV3JvYUp0dUpoNmlfR1h2bVlnMmxVMHBSVV9CTFRzMlRKckJkaFlzc09BVkJTR0dKbUR5VzZONEk5ZGxadGVxa2ZYWTNjSlNqM3Z4NjhpM3o5TFNRSV9jOEk5aWUyX1dxQW80eTFZenVRa0xlaUVUSmdMRHR3SVdGcHRfX0hFdU1SWWJDUUJMWW91QTlLaUFJRlBkcHc2M1FIdXcwVUhlQ1JzWGhWRS1LNkFqNk9IdlhNem1kdG5qMGY2RW9aZ1FBaHFxS2dFUEFtY0xTd9IB4wFBVV95cUxOQldLNmJaSUtpVkRiOHFHV3JvYUp0dUpoNmlfR1h2bVlnMmxVMHBSVV9CTFRzMlRKckJkaFlzc09BVkJTR0dKbUR5VzZONEk5ZGxadGVxa2ZYWTNjSlNqM3Z4NjhpM3o5TFNRSV9jOEk5aWUyX1dxQW80eTFZenVRa0xlaUVUSmdMRHR3SVdGcHRfX0hFdU1SWWJDUUJMWW91QTlLaUFJRlBkcHc2M1FIdXcwVUhlQ1JzWGhWRS1LNkFqNk9IdlhNem1kdG5qMGY2RW9aZ1FBaHFxS2dFUEFtY0xTdw?oc=5",
+      "d": 1793572086000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "KuasaKata.com",
+      "x": "Mensos Ajak RT dan RW Benahi Data Bansos, 45 Persen Penerima Dinilai Tak Tepat Sasaran - KuasaKata.com",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGxHTGNsR0x4d3FPbVFtV2JwVGU4WHdySzdoYWlMSlhoS19wN2h0RU1jeFZzaTJnUzA4ZnBCSjhKNDc3Q1FYVDhuaTFtTTA3Y2c2MzQwSWRHSXFLTVB4MENTaXgweFFtRklnVzY3clZzaVB2U2xTWnlySVF1NGxtbkpBMDRadUwyVUwtd3N6RDhrOVF6ZWF5LWpRcjlqUjRwUXZUR3dlWVhSUjRQU1l5RjJZRzhjQ2Y4clpMR1phU1JiT0Vt?oc=5",
+      "d": 1793597100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
