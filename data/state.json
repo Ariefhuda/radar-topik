@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdLU446k9q3": 1792426844557,
     "threads:DerrMJljwvj": 1792427159444,
     "threads:DZZjjx8mCUC": 1792427159444,
     "threads:DerrrBXDnMm": 1792427159444,
@@ -27070,7 +27069,8 @@
     "threads:DfPn8iiEtLL": 1793636144828,
     "threads:DfPtTermLij": 1793636144828,
     "threads:DZMbDVECXQz": 1793636144828,
-    "news:CBMiwwFBVV95cUxQbHZ5dE5ycWw5ZHFFdm02RzB0cEp0RmVTOEdZN01iLW9FZlJPc0xxMWxZbFJ5bUpjN2FwMjc1VS1KMW5FT2xibmV3MFNfQ3c5QU9jY3c2ZktwbEE4NE1Xc3FTOFhqWHdtZ0ZPNjJiNngyeWRxaENoU0h6ZG5oYzh6T2pmeHVnRlR1eTZvdW11Vl9mTklUSHJiRnhmeElzMFhacmQzcmVJSmtQVEtVZ3N6QUhuTW5oaWV4OWtma0JTdVB4UE3SAcgBQVVfeXFMUGZGelpzeFZpcUpIMzQzRERHVHp5dGtacnB6M0ZtTVFrTEg4ME03cnpLdTlmQ2wxaHFtNWVWNnhBbmUwVFJWMmJHN2sxTDJKSk01YXhKdDFlX3U4VF9LZjJwN0dmeHNRMFRKemNObWNzQ0FIRV9pM0hEUnZmUHhEcTRTS1B0Mi1jd2ljZi0yaTJXakxqMVJFVkdmcXNOelVlWDkxYUFKN0JINW52S3p6TDYydmVsdE94QkZ6Rnp4TEdySWNQUTI5bU8": 1793636144828
+    "news:CBMiwwFBVV95cUxQbHZ5dE5ycWw5ZHFFdm02RzB0cEp0RmVTOEdZN01iLW9FZlJPc0xxMWxZbFJ5bUpjN2FwMjc1VS1KMW5FT2xibmV3MFNfQ3c5QU9jY3c2ZktwbEE4NE1Xc3FTOFhqWHdtZ0ZPNjJiNngyeWRxaENoU0h6ZG5oYzh6T2pmeHVnRlR1eTZvdW11Vl9mTklUSHJiRnhmeElzMFhacmQzcmVJSmtQVEtVZ3N6QUhuTW5oaWV4OWtma0JTdVB4UE3SAcgBQVVfeXFMUGZGelpzeFZpcUpIMzQzRERHVHp5dGtacnB6M0ZtTVFrTEg4ME03cnpLdTlmQ2wxaHFtNWVWNnhBbmUwVFJWMmJHN2sxTDJKSk01YXhKdDFlX3U4VF9LZjJwN0dmeHNRMFRKemNObWNzQ0FIRV9pM0hEUnZmUHhEcTRTS1B0Mi1jd2ljZi0yaTJXakxqMVJFVkdmcXNOelVlWDkxYUFKN0JINW52S3p6TDYydmVsdE94QkZ6Rnp4TEdySWNQUTI5bU8": 1793636144828,
+    "threads:DfPuDSaCpuX": 1793636439938
   },
   "digest": [
     {
@@ -28512,10 +28512,20 @@
       "d": 1793621293000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Itu yang bikin bingung emang, akun ngatasnamain dia banyak banget. Yang resmi IG-nya @gibran_rakabuming itu centang biru verified, sisanya kayak @gibran_rakabumiing dll itu palsu, ",
+      "u": "https://www.threads.com/@meta.ai/post/DfPuDSaCpuX",
+      "d": 1793636335000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
