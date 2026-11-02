@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqQTnzABSv": 1792379441819,
-    "threads:DeqG7ZAEzcc": 1792379441819,
-    "threads:DeqD-uoATu7": 1792379441819,
-    "threads:DXb9gBSjxtj": 1792379441819,
-    "threads:DbFjjmpEz8L": 1792379441819,
-    "threads:DYoWHBuDyNT": 1792379441819,
-    "threads:DeqHGETk_sQ": 1792379441819,
-    "threads:DeqQOeSE6Dp": 1792379441819,
-    "news:CBMisAFBVV95cUxNeFJCZWpwQU1uUHlnYVZCbVVPRGxacHlVUWJMakpNR1F4NzdhU3B2YUlibmhuVHVldHJCd3dCRmszLTZyNlF4cnRycGpaX3lsX0FzVUdoUlhoWnljUVQ5RHhvTVRGa3pFbTZuZy1QQ0d2cVRHa0Q4LW00MS1FaTZ4WER3Rk5raVhFa0YzSjU5WnNrcThKUGxQZ1Juc21iejVJSEVRRDVlaWFabGZ5ZDhWVw": 1792379441819,
-    "news:CBMi7wFBVV95cUxOTE9ZMDVWRk5GTDVIY0swbGc3dGdzQnA2OUZiTUliUkNlQ0haMm1ZNGFPOUsxMVdHVkMxTzVaVUJZb2ppbU15OFYyajdUdzJmYjRFbXpQcTZEc1BiSjVlLTJTMWpTcVJOWldSS1hIaVN1ZzRqX3VkNUFDU2J1bzhPQWpWN09TQUJ3LWRSTTk3MXVUb3RVME5qOS01YzFIVXg4SjhSZjBDekhoWjljc3k0UDV0QXFYcXNYWU5uY2NPbGpiYS15U1pBWnZrMTRwUV8tV1hELXpRWVlMcVpWZW5CR09aamw4eEZNNEg5ekl1c9IB9AFBVV95cUxQcGFvNmdweDVfN1o1TlVjbWpVUk1wQ3BHa0F6RjhIVDRHQXVuZUw1aXhYQklYSkNaOUtleVh2Qk9ieFY3eHpRZXZ4YjlQd0hyTU8yYnUybDM0UjQwS0hpYWh6V2FPMF96T0JWaGFrVElxMmdzNHpsaDJfWHBhSkdDWnBtaDc5NmM1a251Y2VtZGpYeUJxNVVfWDlBUlpuV0lpMW1NX0NLamxocjl4ZDB4M3RoWm5oTEZyNTBZVnRnY0pPTGdjYWtJNTc1LUxhbjJ1ZW9ONDlhVE9JR2hkcm5GNGZ5Y19pV1YyZTV3SzAwWHVuZG5k": 1792379441819,
-    "news:CBMihgFBVV95cUxPSTB3NFFnRU56eHNuandnaXJlQmJGRFctejlhY2xqTGRKMlpwTWp1WVBOOV9FMTFVQW9rbVVoSUhFR25IR0pBbHJ3bndrQlV2ci1SME1FcUJqTHFBWkdUZHJURVVIMzN6dWJpZlE0RzlUTHJXT2RxemQ4MGhqUi1xN19JclRqdw": 1792379441819,
-    "news:CBMiyAFBVV95cUxQd2hmX3dBSEJSZU1KMUliVEl6WkloWW9PRUdMbUVDUUdLMTVMbVJJSUp2UE9rM20tOTc4T1FhaVlYWG1TOEhteXFUQUg4Yng0ZW84Qm16Y3QtZ2dab2hHX0tiVUZUaUNYVDI2LURhMmFnMkZLOTJabWxIYktjdXRmRm1DS19Mc2ltQzdGSm5jUXRmNzE1bVB0b09xVXFJQjNvZHQtYk9HT2V0cTNadlNieU50YU90ME1QTlZuTWR3LUZ1ekhZamhSRdIByAFBVV95cUxQd2hmX3dBSEJSZU1KMUliVEl6WkloWW9PRUdMbUVDUUdLMTVMbVJJSUp2UE9rM20tOTc4T1FhaVlYWG1TOEhteXFUQUg4Yng0ZW84Qm16Y3QtZ2dab2hHX0tiVUZUaUNYVDI2LURhMmFnMkZLOTJabWxIYktjdXRmRm1DS19Mc2ltQzdGSm5jUXRmNzE1bVB0b09xVXFJQjNvZHQtYk9HT2V0cTNadlNieU50YU90ME1QTlZuTWR3LUZ1ekhZamhSRQ": 1792379441819,
-    "news:CBMixwFBVV95cUxPa2F4TDQ3V2ZzSzN4Q2lJTlZWaW1SQXVTTEp3WlZ6QmNRcWI0MGlJNVBRbnVZQTNjcFRCUkptaWRiR29ZdmJlczl5TUIyTW56bW1XU3FxdDZBODJHSTlsd2ZYWlZKRHpJMko4NXVrSTdqWXpYTVM1LWNoMUd4YnAtUFp2S2xvVlphY1BHSnN3bG84X3JSLWtjYnVVdlRYQVJMcHcxUEtOZXRzQzA1U2tmMlFIYVhUZU9XRjlZUUhPQjNoTEp3WkZn0gHMAUFVX3lxTE91QWhLaHFKUGpINkVFT2NFcDF0U1hIU2ZWTnlFQ3AtX1VBOU5KR0RVc0VwOUJlazU4aWJBUnlmcENZUnNYeDZNUXc5eDJaaUxyX3hSNVpTZ2RPLUZERURFQ3o0QUxWelVMVlFxNTNncFRDTFI4cjc1ZC1TZE9nc1haR2JBTklneWhUNmpaeG9oLVRmb1NxODZjLXJfM2dfZTVDMGdnVXQ4YkdwWThMMk1QSURZNzJlU0tHbnVtRmZUZGtCZTV1SHdVYUlmbg": 1792379441819,
     "threads:DeqQasdkSXY": 1792379746689,
     "threads:DeqQF-Yj1DN": 1792379746689,
     "news:CBMiuAFBVV95cUxOTDlDZzVEMnpOT0VNODQtTzhzbmhKNGZEM1RUZXBzelpuWGhEek42c1k3Q0U5anRFNGphM25TMW14U3IzYzhSOUEzSlRNQ2V5RGdBWUpJMkl5YjQzdkNZd1gtcXBzQnNSVGhReGdNYl9vbG5tVTdrTnIwOHV1TzBaQ1E0MW1xWmlpdG03ZW05QkpwNnhFakZUcXBiVlo1RWlVWkJRMnZ5TkJFWTZiQ3NLVFNYOVdsUW9p": 1792379746689,
@@ -26909,7 +26896,13 @@
     "news:CBMiU0FVX3lxTE5iMnktZ2ZGWlhLSW5ZdTBPX1JISGRoMGlRSTllM3F5Vko3MjQ1aXpnMWtpRDZfdndYQXlCSDJXT3AwYkkzUVZIOG0xbmE3QTJNeE44": 1793588757011,
     "news:CBMixgFBVV95cUxNTm1rbkdHWGJKelhfUWg3aXFhd0pQeWNPSDFXeEc0Zkp1bVN3MnI1M1BIM3A4UWRfc1dLMUI5YXJTVWhHQkRFdzdWdnQxdENsOURreFB5c0hXcEtmZlpoaDFoSFZ5aXBMVUtOMHZYWThEZXJDWnJqMVIyODByZWIxbDVRbmlqaHZYYVEzaXl0QkpTWVE2dTk2bFFuMVU2ZS1YM0tTa2pNcVhHbkNCdU9QdjdaUnVERzJYd2VfdWczX3hXWDN0MXfSAcsBQVVfeXFMT1Z6YzhsY0lDWmQ0dVBmMF9YTHQ5UldGcGkwNGJmRzZibHNfMExqRFFMbHdZQkZpeEJVbVp0UlFMMVJoU3Voa0FoRGFIbk9XRElvODV3cjFMMTVBR21aNFJ5cHZrSzJHbFZUQ0diZ1VmRU1qam8yNDRIZ1MwdExTWWNEV0lkcTU1OHB3ODBYNGprMzhsYjNGOG5nYUNSN3ljSkpXUktqSE9NVUJvS0l6X2VMZkF4UmxTWGF5VS1TTFpOMjBhR055NExzQ0U": 1793588757011,
     "news:CBMirgFBVV95cUxORy1pbU95SGxvNjBsaXQzbUlpamUySGJlYXk5NG52T1NTX2xaSG9hMzlwd181NjEtT1ktd1JvbVNiZXZFTGFKTXA1bzdkYU5Uc0o0ZDhTOWktQTdBU2ZldU1YTDNITEVScXZUSlZMZ29qVzdxbm44WVdVUTUteGpyLXh4TktGREx2aHJkblRPendQTDZ2c1lXdHJrZ1ltTHIyeHhPTDlLM2NTekJ1NXfSAbMBQVVfeXFMT0h5WGUwd1FZVTJTS1hWWEZJLWdvbFloeTEzeFctVGR1Y2lFTXFrdC1qZ1pfSEl4MktFdGgweUV0SjJrMzJGMl9QcS1IaGJMbFhRVDg4RU9qY1hhRFZ2ek1lN19sY0I2X1Z5OWRlWnVXRkFlWGVwUnNiV1JiWFhSR0JQUnhJQnpPVGRROGk4QmtaN1ozT0hFbU5udnBHTzZtbDU3dmNSM2dXOU9leG83VTlsU2c": 1793588757011,
-    "news:CBMiywFBVV95cUxOZk9jTDVVb3FFRXB6Wl82UVAwdFluSkcxU3BUendLRHNQMUQ2bUlCTHVITjBwZGNaQjBQNG9uLWJaSmFLVnhOTnBqaXFYYnY5RlRCcG84SkRXMG5yMFZiMEc1Sm9ibzVoYlZYQWMwSUVwa19QNlV2SWRDeGp1MUFIMmVxWkQwdGVKc1B5R0tENjR3RTNsM3dDOFdraElYSzRKc21tSF9malVPLVF1S1VpdVRzMzBUZkJidlhzdnNtMkNpX0dBWkpzNl9rb9IBywFBVV95cUxOZk9jTDVVb3FFRXB6Wl82UVAwdFluSkcxU3BUendLRHNQMUQ2bUlCTHVITjBwZGNaQjBQNG9uLWJaSmFLVnhOTnBqaXFYYnY5RlRCcG84SkRXMG5yMFZiMEc1Sm9ibzVoYlZYQWMwSUVwa19QNlV2SWRDeGp1MUFIMmVxWkQwdGVKc1B5R0tENjR3RTNsM3dDOFdraElYSzRKc21tSF9malVPLVF1S1VpdVRzMzBUZkJidlhzdnNtMkNpX0dBWkpzNl9rbw": 1793588757011
+    "news:CBMiywFBVV95cUxOZk9jTDVVb3FFRXB6Wl82UVAwdFluSkcxU3BUendLRHNQMUQ2bUlCTHVITjBwZGNaQjBQNG9uLWJaSmFLVnhOTnBqaXFYYnY5RlRCcG84SkRXMG5yMFZiMEc1Sm9ibzVoYlZYQWMwSUVwa19QNlV2SWRDeGp1MUFIMmVxWkQwdGVKc1B5R0tENjR3RTNsM3dDOFdraElYSzRKc21tSF9malVPLVF1S1VpdVRzMzBUZkJidlhzdnNtMkNpX0dBWkpzNl9rb9IBywFBVV95cUxOZk9jTDVVb3FFRXB6Wl82UVAwdFluSkcxU3BUendLRHNQMUQ2bUlCTHVITjBwZGNaQjBQNG9uLWJaSmFLVnhOTnBqaXFYYnY5RlRCcG84SkRXMG5yMFZiMEc1Sm9ibzVoYlZYQWMwSUVwa19QNlV2SWRDeGp1MUFIMmVxWkQwdGVKc1B5R0tENjR3RTNsM3dDOFdraElYSzRKc21tSF9malVPLVF1S1VpdVRzMzBUZkJidlhzdnNtMkNpX0dBWkpzNl9rbw": 1793588757011,
+    "threads:DfOTb7CmVyO": 1793589056958,
+    "threads:DaSA0u8EeCV": 1793589056958,
+    "threads:DfOTSQNnc1A": 1793589056958,
+    "threads:DfOTTHQidUP": 1793589056958,
+    "threads:DfOTHAREpF8": 1793589056958,
+    "news:CBMiuwFBVV95cUxQQ2FMX2FJQVZBUGxuSWhxNUpTbzZTX1VzcDc2d2VDMGY0ak1pS3JPY3RZYnliYVo0RUltTVhqYmNZRmV4VVpybGZfWkszbHdIQzhjU2w0S2g5RVp2cEptS1FKZGE5NVdsYUd5bzVyWVFlSDhuN3BFWWsyeFJ3SHlJbmxLRm9ORU1WWTZjSTdMMW5od1BMUS16ZzVvUmdOdkhWNHV2anhqQjByZkZHend1N01zYVpFNnkzTWRn0gG7AUFVX3lxTFBDYUxfYUlBVkFQbG5JaHE1SlNvNlNfVXNwNzZ3ZUMwZjRqTWlLck9jdFlieWJhWjRFSW1NWGpiY1lGZXhVWnJsZl9aSzNsd0hDOGNTbDRLaDlFWnZwSm1LUUpkYTk1V2xhR3lvNXJZUWVIOG43cEVZazJ4UndIeUlubEtGb05FTVZZNmNJN0wxbmh3UExRLXpnNW9SZ052SFY0dXZqeGpCMHJmRkd6d3U3TXNhWkU2eTNNZGc": 1793589056958
   },
   "digest": [
     {
@@ -27431,10 +27424,60 @@
       "d": 1793584800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@mahirexcel0",
+      "x": "Kalau mau mulai belajar MS Excel secara online, saya ada rekomendasi website: mahirexcel.online, gratis dan ada sertifikat gratis juga. Materinya komplit dengan 81 latihan yang lan",
+      "u": "https://www.threads.com/@mahirexcel0/post/DfOTb7CmVyO",
+      "d": 1793588827000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nuzhaila_flog",
+      "x": "Seperti biasa awal bulan, bagi peserta PKH yang punya bayi balita, dan lansia jangan lupa hadir diposyandu yaaaa….. Karena tidak lama lagi pencairan PKH tahap 4, jangan sampai ada ",
+      "u": "https://www.threads.com/@nuzhaila_flog/post/DfOTSQNnc1A",
+      "d": 1793588748000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Di era Presiden Prabowo sekarang, pembahasannya jadi lebih spesifik ke program kabinet 2024-2029 ya: Yang dinilai menguntungkan rakyat kecil - berdasarkan data program pemerintah: ",
+      "u": "https://www.threads.com/@meta.ai/post/DfOTTHQidUP",
+      "d": 1793588755000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@itsredjaaa_",
+      "x": "Dasar haknya: ⁃ Bansos Kemensos (PKH, BPNT) disalurkan tanpa potongan apa pun ⁃ PIP 2026 per tahun: SD Rp450 ribu, SMP Rp750 ribu, SMA/SMK Rp1,8 juta (siswa baru dan kelas akhir bi",
+      "u": "https://www.threads.com/@itsredjaaa_/post/DfOTHAREpF8",
+      "d": 1793588656000,
+      "urgent": false,
+      "warn": true
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "auranusantara.com",
+      "x": "PKH dan BPNT Tahap 4 2026 Masuk Verifikasi Rekening, Cek Status KKS di SIKS-NG - auranusantara.com",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2FMX2FJQVZBUGxuSWhxNUpTbzZTX1VzcDc2d2VDMGY0ak1pS3JPY3RZYnliYVo0RUltTVhqYmNZRmV4VVpybGZfWkszbHdIQzhjU2w0S2g5RVp2cEptS1FKZGE5NVdsYUd5bzVyWVFlSDhuN3BFWWsyeFJ3SHlJbmxLRm9ORU1WWTZjSTdMMW5od1BMUS16ZzVvUmdOdkhWNHV2anhqQjByZkZHend1N01zYVpFNnkzTWRn0gG7AUFVX3lxTFBDYUxfYUlBVkFQbG5JaHE1SlNvNlNfVXNwNzZ3ZUMwZjRqTWlLck9jdFlieWJhWjRFSW1NWGpiY1lGZXhVWnJsZl9aSzNsd0hDOGNTbDRLaDlFWnZwSm1LUUpkYTk1V2xhR3lvNXJZUWVIOG43cEVZazJ4UndIeUlubEtGb05FTVZZNmNJN0wxbmh3UExRLXpnNW9SZ052SFY0dXZqeGpCMHJmRkd6d3U3TXNhWkU2eTNNZGc?oc=5",
+      "d": 1793580121000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
