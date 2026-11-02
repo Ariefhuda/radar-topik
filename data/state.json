@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiygFBVV95cUxOWUl6TTFlMk1IU2Y5QzgtdEl5QmRXbUxXckRCdVZqSF9kMlFlSFZuWWVYYUdvREh1TXlIcFRQbTF5SmJXcE8zbXk4amVFYlc3NEl1eWZOZl9HMTNGcTdCZWFpYXZRN2FaYTNaZG4wX2NOdllneFFGNzRfSUx2V2ZMdC1xczVhOGNZbWMxQWtmeng0a3pZc3RxQzJoVWhfMFN3XzNBU1p3OURfMzBJVW5mZHR4UHFOV3JkWXNHWDBONEtlLXFOczVpTVNB0gHKAUFVX3lxTE5ZSXpNMWUyTUhTZjlDOC10SXlCZFdtTFdyREJ1VmpIX2QyUWVIVm5ZZVhhR29ESHVNeUhwVFBtMXlKYldwTzNteThqZUViVzc0SXV5Zk5mX0cxM0ZxN0JlYWlhdlE3YVphM1pkbjBfY052WWd4UUY3NF9JTHZXZkx0LXFzNWE4Y1ltYzFBa2Z6eDRrellzdHFDMmhVaF8wU3dfM0FTWnc5RF8zMElVbmZkdHhQcU5XcmRZc0dYME40S2UtcU5zNWlNU0E": 1792428345818,
-    "news:CBMi1wFBVV95cUxOX3U3V1BfTFNOODlZWnJ4M3hyR3N3N0RXazc1SXhNTVV6Q0ZlWUxJaDVWZFpFazFMOVFuaTY3U3pEUk8tYkVpaFRLaHlhLXlXQVRrc1NqUGdaVFpVblFzcTIzU19ZNElreWNGQWVXN01TdGduc1FfTy1EOHRON213dkdqWF95d0hna2hveHl6YnBKamQ4TUl6c0ViSDAyeXFGZmU2OU5rNWtMLURJazVkM3Z3MmhKOWxJdjJGWjlSZDdGVmZ4Zml5T3JnbkdtbHB4aWVuczVSY9IB3AFBVV95cUxOblk2QVZNLXE4Q2VlT2tqV19KdDl4djVLVDRDTXRpQ0RpbXNkQUUyUGdwaDZ6ZnZ3WWZJWWRmc1dEMUlManliZFcwcHBjRnljMmNvbzZSWWRsVzJHNW84V05LZXBvaXhVYks5TzkwSzg2VFNHOEtQbEU3WmkxTkpjRk9ndTYyOWJDazFMSDBKblhEd09UWmxXejFiLVJRRk1NYWc5UVRuUHN5WWkyOVg4V0RRQ01xdUZxZjlvbVdtUU5PVW1jQkN5YlVkMk9qbERBODQ5TFR1VmhRZW9r": 1792428345818,
     "threads:DeruGHNAvf8": 1792428935914,
     "threads:DertjaTDjM3": 1792428935914,
     "threads:Def1kq3ln3G": 1792428935914,
@@ -27069,19 +27067,10 @@
     "threads:DfPvBmWCFJ4": 1793637705683,
     "threads:DeoEXcVEuVx": 1793637705683,
     "threads:DfPwaPmEjC_": 1793637705683,
-    "threads:DfPwQyik25-": 1793637705683
+    "threads:DfPwQyik25-": 1793637705683,
+    "threads:DfPvy43iqHs": 1793637957642
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "GRATIS?😊 AKU MAU NGADAIN PELATIHAN ONLINE VIA GOOGLE MEET BUAT BEBERAPA ORANG DULU😭 DURASI LEBIH DARI 1 JAM LOH😁 BELAJAR CARANYA UBAH DATA KERJAAN DI SPREADSHEET JADI DASHBOARD ",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfPQyGuk-SB",
-      "d": 1793620990000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28571,10 +28560,20 @@
       "d": 1793637495000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Iya kerasa banget emang, tapi yang kamu lihat di BRImo itu bukan pajak transfer baru tgl 9 November. Yang kena sekarang itu: 1. Biaya admin top-up e-wallet - memang BRImo / bank la",
+      "u": "https://www.threads.com/@meta.ai/post/DfPvy43iqHs",
+      "d": 1793637250000,
+      "urgent": true,
+      "warn": true
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
