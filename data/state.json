@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesQEhEE596": 1792447544588,
-    "news:CBMiqAFBVV95cUxOSGN6UHdqSVZjTXhBano2a3M4MGF1d0Z6R2haX3RoQUhOZjBKOEJEQVlmQW5wSVRuQlh5cGNRWXEtQ2Izc0k3R1pURTlxNGROb0JNTVRuazlFWHkwZHJDbC1YQzZ0akY3RzVxYmpLSjJnOVlXcURBOUYtbURvQTQ0eGJuN1RQQ3NpajEtR3hOdk1ZWmdlZ1ZXcFI5OHREWjFfZksyanVNdnE": 1792447544588,
     "threads:DesR-93iOqS": 1792447841019,
     "threads:DesS9h6mfmu": 1792447841019,
     "threads:DesR9Pzk7Kn": 1792447841019,
@@ -27199,19 +27197,11 @@
     "threads:DfQT4nzEw5Z": 1793656854720,
     "threads:DfQTyPxk7_G": 1793656854720,
     "threads:DeYSY2zk2mw": 1793656854720,
-    "threads:DfQVLFEimfC": 1793656854720
+    "threads:DfQVLFEimfC": 1793656854720,
+    "threads:DfJURAsIdJ6": 1793657142108,
+    "news:CBMiogFBVV95cUxPNGxGZEhhWmVfVXNlQkVsbHg4QTNfOEx6dThkR1RmUDBpeFBpRmpodzdDd1RnY2E0LW9XTWxLLWxMSWVpdU5EcDhUYTZMM01KZVlwYi1uMndmdVZRUkUtNVBrX29IT2VMM2pJanRvcG1iY2NaT0hvbmczT1hHVUk1OVpZMkxkY0tNLXlDSTVWRFVSazVremJNSV9rd1B6eFpNWVE": 1793657142108
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ceritainkamufakta",
-      "x": "anak lo udh masuk SK nominasi PIP tp rekeningnya msh kosong? pertanyaan ini lagi banyak bgt dicari ortu minggu ini, krn katanya PIP termin 3 cair minggu kedua november. gue cek dul",
-      "u": "https://www.threads.com/@ceritainkamufakta/post/DfPNeyUgRY-",
-      "d": 1793619266000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28701,10 +28691,20 @@
       "d": 1793656847000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "kayonews.co.id",
+      "x": "Saldo KKS Kosong November 2026? Ini 4 Penyebab Bansos PKH dan BPNT Gagal Cair - kayonews.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGxGZEhhWmVfVXNlQkVsbHg4QTNfOEx6dThkR1RmUDBpeFBpRmpodzdDd1RnY2E0LW9XTWxLLWxMSWVpdU5EcDhUYTZMM01KZVlwYi1uMndmdVZRUkUtNVBrX29IT2VMM2pJanRvcG1iY2NaT0hvbmczT1hHVUk1OVpZMkxkY0tNLXlDSTVWRFVSazVremJNSV9rd1B6eFpNWVE?oc=5",
+      "d": 1793656800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
