@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd_dz43GeuI": 1792435546084,
-    "threads:DSyBDKdkzsN": 1792435546084,
-    "threads:Der7vu0AZzb": 1792435546084,
-    "news:CBMi1AFBVV95cUxOVERYd1hNOENrU0sxZE5jSVhrMXdVT1VXYm1MUDRFdEV3U09INDRGV2VtdjBBYUszNFRrY1pIc1RiN2dxa3Y2QWpKRmNpMUQtUlduaThramhiaGhKNFlTVnI0Qi1LVmE2UUsxYkVxTlFIU0JNbE9RRDdKTlRCV1hVTDFQNmcwSWJfb2J5RDNrbTFaODZSWmRiaGoxN29IVXFqaEN2ZjZTVmREVjJFRXBKWk9MODFpVFhFckViQ0NRcG5JckVtRzgtZ0ZDSWxabGNJREYxbg": 1792435546084,
-    "news:CBMivgFBVV95cUxQbVF4Yi00WkhxR1plWnFaWUhRZVp6Wl9HQm8wYzdJSTVOdGZ4dzhJN2xoS3hwbkZESXRaZWk3Q2ZmWWF0UlZkUW5KYmFySXo3VHFzRjlzLTR3LXFaNWtsdG9KX0ZkZE1Cc3h0ZjI3eUVVLTIzSWktcmZLMU9KdWhPMVVhbTRUbXNXZF9BZVRIaGhJbElYbWJLWGV4SXBucGtnbnEzRDJQczdPTFJ5YWk5V2ZYaXlxTjZJOUswQWtn": 1792435546084,
-    "news:CBMiiAFBVV95cUxNUzlIUWg3MFdWRVVjcUhyQkRSUmZMQVRSa2pyVU5rMFMtNzY4akpzR25CZTljY2RwWkUwNEY5RlgtdVREWnFJZGdOWVY5OTRQYnV6dkNaRklKaFdqMXJSS0hSbTNod0lWMzVFTjdTSzRQeERPZEJOS3k3WVRJRWFycDNRbXZnNWRn": 1792435546084,
-    "news:CBMiuAFBVV95cUxPU2JQdzBEdGRTdUlRZWVKcEtEb0ZwWXhXaFJFS2JiZk5mOVpNOWs5RHh6OEY1cFBQQnhpMkF4VFR0bUxMQm5sOTJrYTUyeHBBTXBFUW92RzFzdldqZXpZalpaZGxrSFlZQ0VZQmxlVHBPSzJPek5HekxSd0s4QlhQc1laNUcxRnc2ek5NeXJWaG5aeVlZY05vbkptaGJRRFFpbEJEblZIV1VKZ2VlOGFGT29JaXRidXRz": 1792435546084,
-    "news:CBMibEFVX3lxTE1xWVJ0UXR2N3BsRFNKbU1pRmRCdFg2TUcyd2VvR3l5SHZ3ekczczRLQXltcmxOWjUxYXpNLTByaDN6YXZVMXR6RU9NNzROdExXamZib0o2YlZ0WTlPOWNBZVJ6dUVCV01BbVZIVA": 1792435546084,
-    "threads:DeOk1E1EvPp": 1792435851131,
-    "threads:DXDdGDWEv4Z": 1792436150866,
-    "threads:Der8yvUiesV": 1792436150866,
-    "threads:Der8rOlmJbI": 1792436150866,
     "threads:Der9IVsiOm_": 1792436458510,
     "threads:DeLaEaKCYez": 1792436458510,
     "threads:Dend_2zE-Ps": 1792436458510,
@@ -27135,19 +27123,13 @@
     "threads:DfP9hYBGOHC": 1793644843335,
     "threads:DfP9eXDj0E1": 1793644843335,
     "threads:DfP9as8GfDs": 1793644843335,
-    "threads:DfP9aioCTOY": 1793644843335
+    "threads:DfP9aioCTOY": 1793644843335,
+    "threads:DfP_URvE8Be": 1793645576398,
+    "threads:DfP-VXFjkDV": 1793645576398,
+    "threads:DfP-gDMEkwF": 1793645576398,
+    "threads:DcDcA9QD9zV": 1793645576398
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "TangerangNews.com",
-      "x": "Cair, 16 Ribu KK di Banten Dapat Bansos Rp500 Ribu - TangerangNews.com",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORm9IZ1hRMHNobEZIel9PanhER0RIR2x0Q19hd3NCQm00cmdES2xsTk81NVp5dFN2d0t2cUVlX2F4SG1WU3BqZy1ReWhTTVVjSXRDMk4wdXJ5bUMyeS1nRmZfT2taMnNyUVhMMndiNzVjd255a1pRMXYzSjg3QXFqZmptRWxrYVFRUGhyTXZlTmJMVzVVQTBtdnl2OVNMNnB6M0VfQXktdGJZZnpUZVBB?oc=5",
-      "d": 1793616480000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -28637,10 +28619,20 @@
       "d": 1793601767000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sidesof238",
+      "x": "Materi akuntansi dan pajak. Terutama AKL dan Akbis. Pelajari Akuntansi dari PSAK-nya IAI dan UU Perpajakan yang selalu update. Kalau materi auditing agak sulit, tapi bisa karena te",
+      "u": "https://www.threads.com/@sidesof238/post/DfP-gDMEkwF",
+      "d": 1793644960000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
