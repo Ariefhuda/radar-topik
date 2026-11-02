@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeqJOYRE52B": 1792436741508,
-    "news:CBMi1gFBVV95cUxQTXBqTU5GNmh5ckEybVNoamUtdm1xcGJQSmU5T1g0dVJvVWlIQW4xMDRraE1kUnJDeDBVeGM5VzlyTURTVUtSTGtqaDJVT1pTUEVzV0FjaVU0Z1VLelZNYkZPN3I4RFZKejNrdS1BV211X2oyc3N4emRIbzkxdUxSOGNkVl81UDlCRzVSRmNKSGdZZVBWcGFSOGIxTDRqLVBsZUI2WnVQbVBCeHdlT2xKaDlkT0pLNXlHQU5GdmRwd0QxLXN1ZlI0aVdlOUhtS3pOdDJ1a0x3": 1792436741508,
     "threads:DeW03XqDeXc": 1792437047775,
     "news:CBMiqAFBVV95cUxORU9fR05penZ5MDdsVXIyaDMzN2RiUm92WUs1eHE2VlFES2ttNi11MlA5bFNnMGVxTDhiLWVvSDZFWURuVEkxTjkydVJDNW9qVTRMZThDUENpblFrMFBnamtkNWRydlluWTNpbGtRMUxwWHJGa0dSYzhVTld3RnpnWjlacDUxNUh4UUJiQmFNQ1JUY3VxdWM5by1KMVkxSjlvV1NXYmx3U1_SAagBQVVfeXFMTkVPX0dOaXp2eTA3bFVyMmgzMzdkYlJvdllLNXhxNlZRREtrbTYtdTJQOWxTZzBlcUw4Yi1lb0g2RVlEblRJMU45MnVSQzVvalU0TGU4Q1BDaW5RazBQZ2prZDVkcnZZblkzaWxrUTFMcFhyRmtHUmM4VU5Xd0Z6Z1o5WnA1MTVIeFFCYkJhTUNSVGN1cXVjOW8tSjFZMUo5b1dTV2Jsd1Nf": 1792437047775,
     "news:CBMi4wFBVV95cUxNYnp0UkZGMHhaV01URExSaDd4Y19kS1R2UkxDelhCOGlZU0ZKMUVZWEhla0ktT0xCTERPMjNCNExUVXNwakt4TG5RWUtSWl9tVnZjb0RLWGR6cU5NNmdpNHh2MC1fNzBtMnFUbHV1T2JfQmN6RkJKb2hldlJQbUNwMlYzZzM1VFNtQTJOaTQ5Y0ctZUppZlFNeloxdHFoWWY1ZXZ2ejV4WkV1WGtGcjRJaHJoelUzLW5kZ0hkTXdvOUtGcTdGOF9QZEJaRVI5NHJLYUxlalNvckptQ3IyZ1MwdW1Dbw": 1792437047775,
@@ -27129,19 +27127,17 @@
     "threads:Deq1QVcku1W": 1793645790432,
     "threads:DcDcA9QD9zV": 1793645790432,
     "threads:Ded4mmHkZRr": 1793646064963,
-    "news:CBMitgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQdIBtgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQQ": 1793646064963
+    "news:CBMitgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQdIBtgFBVV95cUxNS2t3X1hMS0ZTeHA3akZYRVlPdnhsLVdyRmFVX0JyOS15S3dQb0VncGJtWlEwZDBhZHlpdzhWakduSTAwV0lIMFFSZVFMazFJdVcwX1UxdEFMaVYyX3E5OEhaeWo0bnhyN1haQVZNTEo0aGNlcEFWYjBLcHpVUFFOSmhfQjZMbGQ5RzdNX2djVnB5cnVRYnViRHhTTVFHOXlSLTM0dlo4eGlQOWZZMDZlYW9tOEwxQQ": 1793646064963,
+    "threads:DfQBHBHE-H6": 1793646335310,
+    "threads:DfQArFVj724": 1793646335310,
+    "threads:DfQAii7mzXd": 1793646335310,
+    "threads:DfP_607lHiU": 1793646335310,
+    "threads:DfP_pj5Ep00": 1793646335310,
+    "threads:DfP-b8akbJc": 1793646335310,
+    "threads:DfQAxEhiqEy": 1793646335310,
+    "threads:DfQAYxqE9RN": 1793646335310
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Iya, aku cek lagi dan tetap di situ. Kalau udah di posisi yatim piatu, baru lahiran, nggak makan berhari-hari, akses ke bantuan dunia nyata itu seringnya justru ketutup. Punya HP d",
-      "u": "https://www.threads.com/@meta.ai/post/DfPVT5_D3uu",
-      "d": 1793623364000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -28631,10 +28627,20 @@
       "d": 1793622546000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Wih mantap mbak sayang saya ga bisa ikut karena kena banned wkwk 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + d",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfQAYxqE9RN",
+      "d": 1793645949000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
