@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesTqCmDkZj": 1792448441486,
     "threads:DesPrsoEvJZ": 1792448734527,
     "threads:DCQvJ0tyojN": 1792448734527,
     "threads:DEH-nRfyLox": 1792448734527,
@@ -27208,19 +27207,13 @@
     "threads:DfQVTjgkxGU": 1793657453567,
     "threads:DfQVRbekyZc": 1793657453567,
     "news:CBMi0wFBVV95cUxOLWZyZ2E0VGhfVnNlZDg5b3M2Z29SYndYR0pRaW93ZUJ3MTZHejgzTlpaWkhCeU1KOVNSOGFwTk1POEc3aVczNzl2VmdTSkxxR1JvbWZ6TzFsRDFiRW8ya2JQRjQ5VFVqQ2tNU1VrZGV4aUxXYzItcnFPdnh4ZWgzUmNBRkxVNnI3MHpwSWlPVnVMamhzUV9GZnplbTEwQTVNM1ZPbDFVclJ4VVZqbVBpZFY1a21iSWpOVkMxMm5qMV9CLTFVUVdGVkcwaDExOEM1Tjdz": 1793657453567,
-    "threads:DdqhdwEEyep": 1793657741209
+    "threads:DdqhdwEEyep": 1793657741209,
+    "threads:DfQXFlXDAD0": 1793658045384,
+    "threads:DfQW6GElHMW": 1793658045384,
+    "threads:DfQWeLjlFah": 1793658045384,
+    "news:CBMimgFBVV95cUxPXzFHdklLLVJQem5tNHNhZ1BmV3NHQncyalFMTnZ3QzhZS0xBOHFReTdaZVM1MXFOUnlPVGxFNjNTeERzbFJNYjZKY2h5NnRNRGFBS2dnZXBZdkhPZTZxX2N5OHlzOHF3SjFPRjM1QlV0dng3ZEFTYTRvUmdyUWplNWllV3liNmlGZmwzWDRJVjBCdGZtalhsSUlR": 1793658045384
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "MetroTVNews.com",
-      "x": "Bansos Beras 30 Kg Disalurkan Oktober-Desember 2026, Siapa yang Berhak Menerima? - MetroTVNews.com",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkQ3Z0FjRjU1S2ZVM19QbFk5Ty1YbUlzMXlEbHE0UjdJNzV4d1BpQTQ4MGN4NUZHc0hndHUtNTRUZEdUTmlZOFBfQlc2NkdCSEhlQlVNM2w2V1BWMnNhdXdhLXZzcjVRdzZ1dUJyOWxvQlFTN0RCdUpMZjZ0eFpfcUtmYjk2UGV3WkI0ZXAxQ3JXNE9vX2JwQXZDbkFneG5nNkdkMFpBcWVVTmJ2TEJwT0VaUk5mR2EtQk1DTQ?oc=5",
-      "d": 1793626230000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28710,10 +28703,20 @@
       "d": 1793657201000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "KalderaNews",
+      "x": "Syarat dan Cara Ambil Bansos BSU Rp900 Ribu di Kantor Pos - KalderaNews",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzFHdklLLVJQem5tNHNhZ1BmV3NHQncyalFMTnZ3QzhZS0xBOHFReTdaZVM1MXFOUnlPVGxFNjNTeERzbFJNYjZKY2h5NnRNRGFBS2dnZXBZdkhPZTZxX2N5OHlzOHF3SjFPRjM1QlV0dng3ZEFTYTRvUmdyUWplNWllV3liNmlGZmwzWDRJVjBCdGZtalhsSUlR?oc=5",
+      "d": 1793657997000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
