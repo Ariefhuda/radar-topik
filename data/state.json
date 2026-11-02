@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiogFBVV95cUxOdVhJczZ3U1Utek93WGdWazEwMEprWlBwZzFuUmV3bGN6UlNzTGM4U29mQk01UXFNSHVpRklXWXVIU3FRWlJOVi11MF9vX1VOZVpxNGZndkxJQjNlalFraXNOeHhuWldNemNaVEdGN1hscTU1SnlwbDJ2TEQ5LU8yRDVBVGJ5R21zOU1BUnlOM1NVdnV5QWJDNURXODJNVGFqVEE": 1792390243436,
-    "news:CBMiqwFBVV95cUxOamZPV2FWMFJ0ZDByclEzTlBoM0dSbVJRQWVIYW13T0tHMTVfaTJnZGlHOXhCeXdmMGZjSnNDOHhuUWowN2VpcEJqcFR4c3VzU2lMRmtiem9Gd0xvaG80b2JJd3NtYUpiUzJOV0ZRcU12aXdDSXpJWjRxSXgyZUlGVktsckhpUmJVZndhSDdNOVhNRGdmRUUxOGZWNWFPTUZGYlFkNzBRZ25oem8": 1792390243436,
-    "news:CBMivwFBVV95cUxPb3djM2JCLVY3bms2QjVOVXg2eHNBcTVRblF0MFBkTldrTUdrRUpiOVQybFVTUmoxTEczc3ZXN1ZsRGdscnNac0xmZlAwY3dNRENIODYzMUhpUUoyeXI5TnBLc2xoQlg3U2VoeFlYQ2Y3UWt0VkQyVjFGWmQyaGVUTmxESGdhbldpVW5OeW50cENzWG1CTUJRVFkwWEExV0IwZjRyY0VLMzB3Yjl3VjhXb0RLWnhwejJ2V18wWFhkd9IBvgFBVV95cUxNSmE0Ry03YmREMGRlSDB2M0QweFU1N09vX2Z1ZWZjVi1qU3BsSVEyU2FuUWN5Wm9TQU5UNkhFZ1ZtcnJOazZ1X25PeGJjOWFuamFSb05OZUgxSUZyWEdveGVNTzV6Wng5TTdTMWVNX0R1a21ZMWtfekJZd1FLZzRadF92UEVQYkdCOEJhcmxoSl9WSkdfZjkzeXFsMjJUZ0JnSGNYRHktRnhHWWxZNC0tTFBuSE56SkhHYUt4RDNn": 1792390243436,
-    "news:CBMitAFBVV95cUxQVU1CTWU1c3BjTXlrVTBHNWxpQlg4dUtzSmtlQ0Z6UVBkbmxxaURmZW5acUdUYkkxdWlHMHpxYmRCdWJrbG85aUUxOFpudmxVaE5PSGJxQW12SXJ3Q0F3MTJuRjNZRkZBNE9pMU1EQnlnVmZWTjBuR21aNHkyMFVza3BvX3NxQ0FBRWNORW1RMHdCX3BBandrczNiRnhVOXN4TmFNZklVc1hCdHdpQ0xrWlcyZnjSAbQBQVVfeXFMUFVNQk1lNXNwY015a1UwRzVsaUJYOHVLc0prZUNGelFQZG5scWlEZmVuWnFHVGJJMXVpRzB6cWJkQnVia2xvOWlFMThabnZsVWhOT0hicUFtdklyd0NBdzEybkYzWUZGQTRPaTFNREJ5Z1ZmVk4wbkdtWjR5MjBVc2twb19zcUNBQUVjTkVtUTB3Ql9wQWp3a3MzYkZ4VTlzeE5hTWZJVXNYQnR3aUNMa1pXMmZ4": 1792390243436,
     "threads:Deqkd7_kgTj": 1792390562023,
     "threads:DenzSFKiV9m": 1792390562023,
     "threads:DeqW_bAiDm_": 1792390562023,
@@ -26972,59 +26968,23 @@
     "threads:DfOngzBkvNX": 1793599538402,
     "news:CBMimgFBVV95cUxOaGpldmJibldISnNwWEVHQkhEVTVuYkpFUnp2V3ktR1JBT2dRbFcxMXRlZmg3TjlyU21PY3M1bkFsRGo2NDlQZmYzZFpMNGJ2ZG5LZ1FBdXcycUtySjVHdlBRaFZOSldMRkxPeEhyZkdKTmhQbDBDR0ZqWEM2eXpGc08ybkk0SW1VdXVJX1ZUT3BzclZ5MWY0MWpR": 1793599538402,
     "news:CBMiaEFVX3lxTFA2bVJyTGE1NTBmamtMOUgydWRhbG9YVC1OWDl5RkJ4anZhSlRhRDRVenptTnlPeWJpMTk4eFpXTmlSbl9FcHE0eFhkYUhyQVA2VzY1SUpzNUZsN1NKcElqNVJMSVhNYXhm": 1793599538402,
-    "news:CBMi6wFBVV95cUxOdmdDc2EyeGplb1ZiMHhYNEtsSWM1azN3aUdoSHJOYnd5UlMycXhxZmpDOVV0VVk5M0xBT1FldHAwQWZKMTRza0ZncGhBSGZzaGNrUkJqWmhMbDREajRQUmh1SmVMM0Y4cFBqOXROQkpvR3JUTUlJWkN3UnFQZWZHLUNoM1pvdzJ6SmZ0TFRyVFBnbFQ5eFB0QjhVaE9LZV9mcS1UT0x3TFlTTE9OdzdUeTRnRURsRnlEMGdTSE1hN091TWJ3SXEtMEFYNElJYmM2WnB2c0NjU0Nqa1FuTmN5T0hDUU5UMXR4N19R0gHrAUFVX3lxTE52Z0NzYTJ4amVvVmIweFg0S2xJYzVrM3dpR2hIck5id3lSUzJxeHFmakM5VXRVWTkzTEFPUWV0cDBBZkoxNHNrRmdwaEFIZnNoY2tSQmpaaExsNERqNFBSaHVKZUwzRjhwUGo5dE5CSm9HclRNSUlaQ3dScVBlZkctQ2gzWm93MnpKZnRMVHJUUGdsVDl4UHRCOFVoT0tlX2ZxLVRPTHdMWVNMT053N1R5NGdFRGxGeUQwZ1NITWE3T3VNYndJcS0wQVg0SUliYzZacHZzQ2NTQ2prUW5OY3lPSENRTlQxdHg3X1E": 1793599538402
+    "news:CBMi6wFBVV95cUxOdmdDc2EyeGplb1ZiMHhYNEtsSWM1azN3aUdoSHJOYnd5UlMycXhxZmpDOVV0VVk5M0xBT1FldHAwQWZKMTRza0ZncGhBSGZzaGNrUkJqWmhMbDREajRQUmh1SmVMM0Y4cFBqOXROQkpvR3JUTUlJWkN3UnFQZWZHLUNoM1pvdzJ6SmZ0TFRyVFBnbFQ5eFB0QjhVaE9LZV9mcS1UT0x3TFlTTE9OdzdUeTRnRURsRnlEMGdTSE1hN091TWJ3SXEtMEFYNElJYmM2WnB2c0NjU0Nqa1FuTmN5T0hDUU5UMXR4N19R0gHrAUFVX3lxTE52Z0NzYTJ4amVvVmIweFg0S2xJYzVrM3dpR2hIck5id3lSUzJxeHFmakM5VXRVWTkzTEFPUWV0cDBBZkoxNHNrRmdwaEFIZnNoY2tSQmpaaExsNERqNFBSaHVKZUwzRjhwUGo5dE5CSm9HclRNSUlaQ3dScVBlZkctQ2gzWm93MnpKZnRMVHJUUGdsVDl4UHRCOFVoT0tlX2ZxLVRPTHdMWVNMT053N1R5NGdFRGxGeUQwZ1NITWE3T3VNYndJcS0wQVg0SUliYzZacHZzQ2NTQ2prUW5OY3lPSENRTlQxdHg3X1E": 1793599538402,
+    "threads:DfOnnMTEm3p": 1793599844302,
+    "threads:DfOoSQVE36n": 1793599844302,
+    "threads:DfOoPKgk6Zq": 1793599844302,
+    "threads:DfOoIVdljqx": 1793599844302,
+    "threads:DfOoAFiGJOv": 1793599844302,
+    "threads:DfOnZKXmwub": 1793599844302,
+    "threads:DfOlXONk8QG": 1793599844302,
+    "news:CBMi2AFBVV95cUxNampVR2MtazJqZFl1NVJWei1KVm8zRTN1eHkxb3k5SVBqVzlkSUZ6c2czWWFrZnZKck5RS2hpTHE0MDl4NjlKNlo2UkVVUGhwMWpFR2dtWEpXYXlVMHM5OUkwTzctN0hJQ1JEVmhWbmw4SFNXbllzTEtmaXhlemRSWTAzUDgzb0xSeE05Zk1XX1RjWnkzbkhVcG42ODRLUjh6U2U2cmNLeTBreVdNZHFROC0yUi1kZGNiT25hbnU0Ul9zUXR2TjRaeVFzVnh3UjFuczZFSDNHREY": 1793599844302,
+    "news:CBMitgFBVV95cUxQMEg0cTJyRWR1aDBUdHR5WDdnZlFhNkxZMHBZd3hRWkFlWDJ2dkRPTHREN3JyMXJib01zV3NHMEFmM3I0b0UwMFd1dHdYMV94QkJGU0s1RjhyQ2ZFd2ljcVkwMl9WTUdMWS1VYlplb0hxZm50ZGlyYktQRlhlalUyemV4NmphLUFKT0FkTlNNdWktcV9iMDZPQmlBUFRRRFlLQWtjcm9QWm5GemU1Uy1EY2RQd1JUZ9IBuwFBVV95cUxQbHNyOFlPcmhNbkxWbDRBYmpjNDlpdDJWNDhVQU5zNGRNZ1luczE3eDFlSm5qSEtXbTVoQjdRX21YcHBVM0pFeE9RNXZEb19GdVpGemNjWEE2U1RXS05yS3B2Tk1xVHFDcm9CRllLMlI1Z1AxTzNoN0VUOEU4Um56VTg5cGc4NXEwYU9fVHk5MnFUeGp6cVJiVWhRWUNZYlZtOEtERXZJZ0JrTnlTeERlc0JKaFplZC1zal9Z": 1793599844302,
+    "news:CBMirgFBVV95cUxPN1BYZWxWc1EzQ0VsNTVsVDJxaUZ6Y2NicXI2RXk1c2lRTXZiQlV5UjA5YVl3MVVrR1B3b0w3YW5vLTVESHpuMlV0WU52aFBzWWpoQ2h4VVVOWG5NOGw3VEFrOU9rcVg3NHhJR3BFc2FfTUJsaGJ5elFWbVNlaUhqQXc1alZnbEMweGN0OUdZVzJsYk0teTNFWGdpWTROcnFvcHJjMm5nRVNpTzY3bnfSAbMBQVVfeXFMTk1vd2JJa3E4VTZreURGS2x3dDE2Qks1ZFZfRFMyNzRvUm1uSjFodDByUUxnLVF0VE8tUTVrWE9tZ3hjU1YwLWswVzFRTlVqRGQzd1gxbjZoQmRyYksxQzBCRFNXN01iclNTeU1QVzRQTk1YSWVfdWpHaUNWVl9oSXpwYjJCOGFlSjJKdEI0VXFWWEVYMW9GLWI3T0lIbWVuMXpteUZWVHIwM216YWtPVDMtQkk": 1793599844302,
+    "news:CBMiygFBVV95cUxPRTg3VTBvcGJfOE1OTm9Fdlp3b2hRbFEtMk5WM283REp4Q1FodEJNaXJpYnVwSVlmZ2UwNEUzLU16UGNYV1kwOURvMU43UGlJcnZnelNicElxa0EtSkN2OWpQclYxMkgtTEpHVE9UUHBLRDU4V1pFMzM1Y3Brc0hQTGFhaDUySEg3WnZtOTJmTDZrSGFMWUJ0OUYtQ010TWFEUjBjVU9UMUZLdUctdXRiN01LLUc2eVlVNUJjaVJMRGpCRHJoR3Y1eS1n0gHPAUFVX3lxTE5NZS14ZklqRUt5Q3RNVWZNWnR4S2p4enpYMEZKV3Z4VTdjVDNOeF85aEt0eWtoU0ZyUzJDVmJZNzRnamsteEQ0UGUyVDV1Nm9tREZXcy04U0hwRHJSNTB1YTQyVmxBVWdmUkFjNnBmUzV6RXluVTQ3ZEZ6ZUhiZ1g4eXJKTXJ4bWhCSWt2Wlp1TVRuOFpHdmRLVHRNdkUzeDJja0NMVEFmMDNNUUtuUk1mYjdoWVNfbWk1QXdITkdNR3dLaGFkWGVqYXJIY1VpVQ": 1793599844302,
+    "news:CBMiqgFBVV95cUxOemlVRG9qSjMtQ2RhTk52VkZGS0dNNTBRU1c0eklZOFJ3TUV4c0UzNTlySEdFeTY5NlhJeUtueUpKbE1FMFQ1QVdKRXhNRlMzYS1HNzdIejhLSnZBNkFqWGlEcUxVUC1QUWxJSjVFaXB1c3o4ZjdYU2N3MWhFLXFZN2pOdm5KdWZWOHpIQ3VOMkVpN2hPSDZZWEpmV1YzWmcwNTVPeUJaMzBCZ9IBrwFBVV95cUxPUFdWMG15M3RPdzRiRHpWTDBSZjBmOUthTTVIZjVTcFIxcDNRajB0X1dTWjV5a2Z3bERhc3N4WWMzR3UzZS1xZ09hZVVFSnJTOF91YTBqSFA3VHlRdTlBbmJWbjFWcHRwQnhuZkpOX1hUNVZxX19QWU5YSnFHUFNqNXdkNFMtUXgydzhPaGtTQnlLMndxUDY3T1dVTDQtajlSdnZVd0h1WVN1cmxzdVBv": 1793599844302,
+    "news:CBMivgFBVV95cUxOUF9haE5rdk5FZkFLQWw3cGozNWNQZzQyVzJqYTVuRXhsS3ctMmFFcUhpenFwZlBXdEJtS1JMMDFqV1EyNnV1WTdOcWRNTWMxaXZjYkIyajBMYVZCaWxoVXoySlhobWdXeFNhSWtySDFIU1ZUTllCYWNtdUZRTGFzMlk5eXhEc2ZNZVpWLU1Kc1ZMbG14Tmx5ZDcwMkRPSFE0c1pkZEJhRzQ2cFpJOVJaRGFsTU5VMHZTdXh0YXlR0gG-AUFVX3lxTE5QX2FoTmt2TkVmQUtBbDdwajM1Y1BnNDJXMmphNW5FeGxLdy0yYUVxSGl6cXBmUFd0Qm1LUkwwMWpXUTI2dXVZN05xZE1NYzFpdmNiQjJqMExhVkJpbGhVejJKWGhtZ1d4U2FJa3JIMUhTVlROWUJhY211RlFMYXMyWTl5eERzZk1lWlYtTUpzVkxsbXhObHlkNzAyRE9IUTRzWmRkQmFHNDZwWkk5UlpEYWxNTlUwdlN1eHRheVE": 1793599844302,
+    "news:CBMi2AFBVV95cUxOZjE0aldSM1dpbDRrSjU4YzRrcENPeW1zQ2F0MldLTHhmMHBqdEJxbGVsQXNpa3Ruem9IUUszTy05WEFlbUpCUk05SV8xaU9xeUtYLXE0NkV5aTBiMVBXQllrbmxsRFNiT3NhOGRabWJ0Tzh5aGVlS1Nhd1Fsdm91ZUgwVHFxWUdnd1lTNTJ6VGV6aXplcTRPQTROUEppSlozaW4zTzFpNEtyZEJmeFg3ODBLLUFXdHV2ZWxTOVkwWm9iVXF4T2lwb296VV9ZMTUwSkNVT3BteUQ": 1793599844302
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfOaqCsGbl7",
-      "d": 1793592613000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfOapSxmavt",
-      "d": 1793592607000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfOaoHfmbHD",
-      "d": 1793592597000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfOaghCGRhQ",
-      "d": 1793592535000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfOaeDwGVfQ",
-      "d": 1793592515000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28474,10 +28434,60 @@
       "d": 1793592000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Pengajuan PIP Kemenag Tahap II Tahun 2026 Dibuka, Catat Jadwalnya! - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1BYZWxWc1EzQ0VsNTVsVDJxaUZ6Y2NicXI2RXk1c2lRTXZiQlV5UjA5YVl3MVVrR1B3b0w3YW5vLTVESHpuMlV0WU52aFBzWWpoQ2h4VVVOWG5NOGw3VEFrOU9rcVg3NHhJR3BFc2FfTUJsaGJ5elFWbVNlaUhqQXc1alZnbEMweGN0OUdZVzJsYk0teTNFWGdpWTROcnFvcHJjMm5nRVNpTzY3bnfSAbMBQVVfeXFMTk1vd2JJa3E4VTZreURGS2x3dDE2Qks1ZFZfRFMyNzRvUm1uSjFodDByUUxnLVF0VE8tUTVrWE9tZ3hjU1YwLWswVzFRTlVqRGQzd1gxbjZoQmRyYksxQzBCRFNXN01iclNTeU1QVzRQTk1YSWVfdWpHaUNWVl9oSXpwYjJCOGFlSjJKdEI0VXFWWEVYMW9GLWI3T0lIbWVuMXpteUZWVHIwM216YWtPVDMtQkk?oc=5",
+      "d": 1793599200000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Penerima Bansos Meninggal, Siapa Pengganti yang Bisa Menerima Bansos November 2026? - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRTg3VTBvcGJfOE1OTm9Fdlp3b2hRbFEtMk5WM283REp4Q1FodEJNaXJpYnVwSVlmZ2UwNEUzLU16UGNYV1kwOURvMU43UGlJcnZnelNicElxa0EtSkN2OWpQclYxMkgtTEpHVE9UUHBLRDU4V1pFMzM1Y3Brc0hQTGFhaDUySEg3WnZtOTJmTDZrSGFMWUJ0OUYtQ010TWFEUjBjVU9UMUZLdUctdXRiN01LLUc2eVlVNUJjaVJMRGpCRHJoR3Y1eS1n0gHPAUFVX3lxTE5NZS14ZklqRUt5Q3RNVWZNWnR4S2p4enpYMEZKV3Z4VTdjVDNOeF85aEt0eWtoU0ZyUzJDVmJZNzRnamsteEQ0UGUyVDV1Nm9tREZXcy04U0hwRHJSNTB1YTQyVmxBVWdmUkFjNnBmUzV6RXluVTQ3ZEZ6ZUhiZ1g4eXJKTXJ4bWhCSWt2Wlp1TVRuOFpHdmRLVHRNdkUzeDJja0NMVEFmMDNNUUtuUk1mYjdoWVNfbWk1QXdITkdNR3dLaGFkWGVqYXJIY1VpVQ?oc=5",
+      "d": 1793599398000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Cara Masuk Desil 1–5 agar Berpeluang Mendapat Bansos 2026 - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemlVRG9qSjMtQ2RhTk52VkZGS0dNNTBRU1c0eklZOFJ3TUV4c0UzNTlySEdFeTY5NlhJeUtueUpKbE1FMFQ1QVdKRXhNRlMzYS1HNzdIejhLSnZBNkFqWGlEcUxVUC1QUWxJSjVFaXB1c3o4ZjdYU2N3MWhFLXFZN2pOdm5KdWZWOHpIQ3VOMkVpN2hPSDZZWEpmV1YzWmcwNTVPeUJaMzBCZ9IBrwFBVV95cUxPUFdWMG15M3RPdzRiRHpWTDBSZjBmOUthTTVIZjVTcFIxcDNRajB0X1dTWjV5a2Z3bERhc3N4WWMzR3UzZS1xZ09hZVVFSnJTOF91YTBqSFA3VHlRdTlBbmJWbjFWcHRwQnhuZkpOX1hUNVZxX19QWU5YSnFHUFNqNXdkNFMtUXgydzhPaGtTQnlLMndxUDY3T1dVTDQtajlSdnZVd0h1WVN1cmxzdVBv?oc=5",
+      "d": 1793599620000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "2 Kategori KPM Dipastikan Cair Bansos Tahap 4 dan Gagal Cek Rekening - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUF9haE5rdk5FZkFLQWw3cGozNWNQZzQyVzJqYTVuRXhsS3ctMmFFcUhpenFwZlBXdEJtS1JMMDFqV1EyNnV1WTdOcWRNTWMxaXZjYkIyajBMYVZCaWxoVXoySlhobWdXeFNhSWtySDFIU1ZUTllCYWNtdUZRTGFzMlk5eXhEc2ZNZVpWLU1Kc1ZMbG14Tmx5ZDcwMkRPSFE0c1pkZEJhRzQ2cFpJOVJaRGFsTU5VMHZTdXh0YXlR0gG-AUFVX3lxTE5QX2FoTmt2TkVmQUtBbDdwajM1Y1BnNDJXMmphNW5FeGxLdy0yYUVxSGl6cXBmUFd0Qm1LUkwwMWpXUTI2dXVZN05xZE1NYzFpdmNiQjJqMExhVkJpbGhVejJKWGhtZ1d4U2FJa3JIMUhTVlROWUJhY211RlFMYXMyWTl5eERzZk1lWlYtTUpzVkxsbXhObHlkNzAyRE9IUTRzWmRkQmFHNDZwWkk5UlpEYWxNTlUwdlN1eHRheVE?oc=5",
+      "d": 1793595816000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Priangan Insider",
+      "x": "Cek Fakta: Benarkah BSU Cair di Bulan November? Simak Penjelasan Resminya - Priangan Insider",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjE0aldSM1dpbDRrSjU4YzRrcENPeW1zQ2F0MldLTHhmMHBqdEJxbGVsQXNpa3Ruem9IUUszTy05WEFlbUpCUk05SV8xaU9xeUtYLXE0NkV5aTBiMVBXQllrbmxsRFNiT3NhOGRabWJ0Tzh5aGVlS1Nhd1Fsdm91ZUgwVHFxWUdnd1lTNTJ6VGV6aXplcTRPQTROUEppSlozaW4zTzFpNEtyZEJmeFg3ODBLLUFXdHV2ZWxTOVkwWm9iVXF4T2lwb296VV9ZMTUwSkNVT3BteUQ?oc=5",
+      "d": 1793595600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
