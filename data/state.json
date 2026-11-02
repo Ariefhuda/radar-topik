@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DerGbFoEQ7y": 1792407651019,
-    "news:CBMie0FVX3lxTE1fSmtjV09IaXV2MVBnV043T2xSOGJUV1dnenBZREx3ZU9mc1Z3d2N4OWl4TFh6SkUza2VzakNVVlNYQXowOW94dVFlTEdrLU90T21sQm9OOHM1ekZMRm9CbWtXWXRIdU1JXzUtX3ZYN3lfZy0yQVU4M2lLTQ": 1792407651019,
-    "news:CBMiwgFBVV95cUxQeXlacUJXM3VaYVpHSDVydzNKQm1ua3A4emZnRUhOZzJ5QWhuMDJQQnlUOXNEMDV0c28yRzBkMkt2M0xYeUZWLVNNOXVMczR1RkZEZUdjekJ0cFJFZzE1cWU4QXhwa01MWG9mcEE1bC04MHFxTVVRbnhkZW4yLWZyaEdZd1FKSlN3Q1hlaFNkbDhjRi03ODlob0gwYlp4WVM5NkEzcXhzRnJsSDhOMVR5LXNYclNzWFNsd2N4WnY5N3ZYZ9IBxwFBVV95cUxQV0kzbHhraHM0X0FhRlRsYjRxZFNaWWNBRlJub20xNl9leDZhSDZGSDhBLU56aXRDZXRUc2UwTkRnNjF0Nl9abTV4NDdBYU9MN1VPaENRczdpTkR5bFQyb2hEdFdvbGwxSTBuMnVYSzVEbXZMMTg1WXdrUDM0NHl2UjdBZjlBMEw0WFdLeFZ0NXJHQzFyOHFwNlFQMjZ0ZVh0X0JlekdiVjV2eWVwNWlsZ0JTUlpsa2J1V2JfNEdnZjV5SlJRRG9F": 1792407651019,
     "threads:DerG7_KDxTN": 1792407934671,
     "threads:DerGiCIiR-E": 1792407934671,
     "threads:DerGbQjiCu5": 1792407934671,
@@ -27024,59 +27021,25 @@
     "news:CBMivAFBVV95cUxNdHp4Q2cyMzROeXd6cmNwWUsxVE5yd1FpSVdjaGFfeGVwTzgyQ01NZTRtbTZCWnlNM2xMRG5ISF9Zd3F1emhQS182Z08zLU1QV2lfM3lJa0NURVhsZ1Ntc0VySWFOV0o3eUctXy1PdnJSZlBQcFhaOEhXM1U1MU1YU0loZlZVTm1JSWxXM1RIMlBVTzA4djFDUGpOWktqcFk0Z1hHYkVVR080ZmczUmtOQUZneUFzY2xJdkNiYg": 1793616944723,
     "news:CBMi_AFBVV95cUxOOC1zVXg5WkNvT3AwTFJUTnV5a2t1akRhaC1uVjZFZTJQcDIxNllpc3NaWFJ5c08weExwbl9nSzYxMmNjbS0yZkVoUDVIcjVUb0RfUTdiZGF3Ni11VE0wYjZ4REhKSllXdHNPRDlJMG9KNXZITE5lRWRGbjV5SzE2bWFpNFVjZ0JrYzItT2tTOXhjQmVJaDVyS0hsTTJvaWhKODVESmlnaHVlSmdVb2ZkN3F3NDRPaE50cGRnTEptSDZGUG45WnJjZ0txU1lLLW1WazlKbllxUDU1TjBtUHpMQVhTWG9GTkxOb052UFExQUExakJWaHItLUlyeWHSAfwBQVVfeXFMTjgtc1V4OVpDb09wMExSVE51eWtrdWpEYWgtblY2RWUyUHAyMTZZaXNzWlhSeXNPMHhMcG5fZ0s2MTJjY20tMmZFaFA1SHI1VG9EX1E3YmRhdzYtdVRNMGI2eERISkpZV3RzT0Q5STBvSjV2SExOZUVkRm41eUsxNm1haTRVY2dCa2MyLU9rUzl4Y0JlSWg1cktIbE0yb2loSjg1REppZ2h1ZUpnVW9mZDdxdzQ0T2hOdHBkZ0xKbUg2RlBuOVpyY2dLcVNZSy1tVms5Sm5ZcVA1NU4wbVB6TEFYU1hvRk5MTm9OdlBRMUFBMWpCVmhyLS1Jcnlh": 1793616944723,
     "news:CBMisAFBVV95cUxPN1BjM195ejBNX2hNMWRmS3FreDZkU1AxVE5CWFhnT0Q3QlFtREo0TF9kVm4tN1JKdlpDVEdyUUJlSFljZHVOT2Y1Zjg5VXhkeTBObWZMTWZYX1g1S0dyajhMUkc1OVlGRVNsOFBLM1ZPeVFBSk90OGZjN0hiSFUwUlJBNzFfT3NLSWtLVXU3Ri1Rdm1LQll4U1NiM0dzVzMzUF9rYTFMWUVJS1BRc0RTdA": 1793616944723,
-    "news:CBMixgFBVV95cUxQYzVnVEhHRXVyZnA2U19wbElYdE5VQTdTWFAxbVlXLUhDU29yS0RMVTNUODZxS2VSZkcxSU1HS0hGbnlhTExSdDNfSTZDQ2JzRGRZUlNwamx2MFljVUVMdVZDTWd4VTgzem5hVDlIYWQ0WHVYNFpCc0ZiclozNi12SWI4YjFpMm1XMng0ejMybm15Tkc5ZDF3ZmpGaVJTYko1OWRhRFJ5LUt5WHJ2RzdoaWgtcmJ0Q2EwdzN4VXZuTW5BU3J0OFHSAcYBQVVfeXFMUGM1Z1RIR0V1cmZwNlNfcGxJWHROVUE3U1hQMW1ZVy1IQ1NvcktETFUzVDg2cUtlUmZHMUlNR0tIRm55YUxMUnQzX0k2Q0Nic0RkWVJTcGpsdjBZY1VFTHVWQ01neFU4M3puYVQ5SGFkNFh1WDRaQnNGYnJaMzYtdkliOGIxaTJtVzJ4NHozMm5teU5HOWQxd2ZqRmlSU2JKNTlkYURSeS1LeVhydkc3aGloLXJidENhMHczeFV2bk1uQVNydDhR": 1793616944723
+    "news:CBMixgFBVV95cUxQYzVnVEhHRXVyZnA2U19wbElYdE5VQTdTWFAxbVlXLUhDU29yS0RMVTNUODZxS2VSZkcxSU1HS0hGbnlhTExSdDNfSTZDQ2JzRGRZUlNwamx2MFljVUVMdVZDTWd4VTgzem5hVDlIYWQ0WHVYNFpCc0ZiclozNi12SWI4YjFpMm1XMng0ejMybm15Tkc5ZDF3ZmpGaVJTYko1OWRhRFJ5LUt5WHJ2RzdoaWgtcmJ0Q2EwdzN4VXZuTW5BU3J0OFHSAcYBQVVfeXFMUGM1Z1RIR0V1cmZwNlNfcGxJWHROVUE3U1hQMW1ZVy1IQ1NvcktETFUzVDg2cUtlUmZHMUlNR0tIRm55YUxMUnQzX0k2Q0Nic0RkWVJTcGpsdjBZY1VFTHVWQ01neFU4M3puYVQ5SGFkNFh1WDRaQnNGYnJaMzYtdkliOGIxaTJtVzJ4NHozMm5teU5HOWQxd2ZqRmlSU2JKNTlkYURSeS1LeVhydkc3aGloLXJidENhMHczeFV2bk1uQVNydDhR": 1793616944723,
+    "threads:DfPJcYqiR3J": 1793617263345,
+    "threads:DfPJpQ1AR1J": 1793617263345,
+    "threads:DfPJlJBkraL": 1793617263345,
+    "threads:DfPJjIlEauh": 1793617263345,
+    "threads:DfPJgMbFF2s": 1793617263345,
+    "threads:DfPJffFEoEF": 1793617263345,
+    "threads:DfPJr1qkYPh": 1793617263345,
+    "threads:DfPJq40Am2F": 1793617263345,
+    "threads:DfPJXcSmDJZ": 1793617263345,
+    "threads:DfPJSBMCSdv": 1793617263345,
+    "threads:DfPIh28k84I": 1793617263345,
+    "threads:DfPJjXRDl3c": 1793617263345,
+    "threads:DfPJe6zE3bq": 1793617263345,
+    "threads:DfPI-w-Dx2Z": 1793617263345,
+    "news:CBMiiAFBVV95cUxQY1FZSXNSR0MxMGtXUndFYnYzMGJIcHVUN2RuUjBScUV2T0dRVTF0clRKdzVUeWpVR1E4em5BNlFycTk5eG5seTVoRzcwRnJSaUNYTXRGOHR5UmlITFB1dWllTnNNY0N6MXhfRHN6VVhBdFhkM2NzQ2ZWVVY1VFo4b21wUC1ybjZi": 1793617263345,
+    "news:CBMipwFBVV95cUxQM0k1YUt5Zl9aZDM0S1Q4ZjVLcE1TdHFSS0VWd0s4R1ZPamFwYlVZM3NUSjdIWmtiWDVJb3ljTVZYZHhNTHZucWJmU3dwcWhnTUN4S1FCbnMzcmVON1UxZGlwTkpURGh4VnU2LWs2VlhqeWlQaFZCa3gybmh5R2JJREJUMlBVQ2xYZThXUTZlX0hLWUxCWkdjdEczMG5NRmkyQ0xjQTdLMA": 1793617263345
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, besok kita akan adakan kelas gratis bahas soal TKA MatWa. Info lebih lanjut bisa bergabung di grup ya! Jangan lupa, ajak teman-teman yang lain juga yaa...",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO3v1fmS7B",
-      "d": 1793607865000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bimbel_merakismart",
-      "x": "Halo kak, besok kita akan adakan kelas gratis bahas soal TKA MatWa. Info lebih lanjut bisa bergabung di grup ya! Jangan lupa, ajak teman-teman yang lain juga yaa...",
-      "u": "https://www.threads.com/@bimbel_merakismart/post/DfO3pAWmWUM",
-      "d": 1793607809000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "Gubernur Kalsel Dorong Komcad Terintegrasi dengan Pelatihan PKN - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZlFXMngybDZCbTJzVlNFVmo3V3JoYnpNRkxqQ3RKZUlOQ2dJaDhoYTRwVC1ybl9nU1lyNjg1UHdiZFJtQ0VWOUs2Y21zUVI4Z0Voc0V3Tm1LdjE1NlN1cU5iZzI5WElCU1FVeVpyejRnNDJfajNZVDRHRlVkQ2ZnVUVJUGljcTdQX0t0WEVn?oc=5",
-      "d": 1793608104000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "ASN Mangkir Pelatihan Komcad Terancam Turun Jabatan, Paling Parah Dinonjobkan - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa1BPNVJLdzBpR0h6dXZhaUttSkxtcEtXVVZyUmlZTzRDUlBEM2xPRmt3dnZsSlBNc3diNV9oQlliT2g2UXVKZm1iSGlWOWlRaHpNZUhmWVRENFYtdUxKYVpTeGR4cUpQOGN6NXhmR2dFeXhURHdjZW81d2FkOXlrQzFHLUwzbTBfWHVpaGEyYUJxeEZBdjl3WnlmaHhZdVU?oc=5",
-      "d": 1793608467000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Beranda Indonesia",
-      "x": "Program \"Satu Desa Satu Hafidz\" Kabupaten Kutai Kartanegara Kembali Dibuka, Kuota 50 Santri Beasiswa 100% - Beranda Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTVd5YkNBSmR1YVc2cGhfTkVmaC15N3NkbkpKNWI2eDJjUEpjX1AtUFNWM2dkMEtNX2dmNWtRSHlxejg0N2hoSmFOMTVCNWZVV2JQbElKS0RvTE9nUk1PVjBHcXBpSi1rLTg5djR4S0hwVWU0V2tudmxtUW9pWUE5b29hdlRkeDRadzBjSGNOT3lBa0d5WDNYMW1YR1B2YmVnMzI3QlZfa1owRFRVTFpCbHV0UmhINHM2VGlVWVlfRVBCVU1vSFNjV2NFc0ZBbHRnZXplSW5lZk1GMHRM?oc=5",
-      "d": 1793608140000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28526,10 +28489,60 @@
       "d": 1793579400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "ADA PROGRAM BELAJAR DATA ANALYTICS GRATIS 🙆🏻‍♀️ . Panggilan buat Sahabat DQ yang haus akan ilmu, ayo gabung ke Mini Bootcamp: Introduction to Data Analytics di @dqlab! Program in",
+      "u": "https://www.threads.com/@updatepelatihan/post/DfPJjXRDl3c",
+      "d": 1793617200000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@inbis_bdidps",
+      "x": "Belum bekerja dan ingin punya skill baru? Yuk, ikuti Pelatihan 2D Motion Graphic GRATIS di Balai Diklat Industri Denpasar! Tingkatkan skill kreatif, tambah portofolio, dan buka pel",
+      "u": "https://www.threads.com/@inbis_bdidps/post/DfPJe6zE3bq",
+      "d": 1793617163000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@fikaa.rnb",
+      "x": "lagi cari skill baru buat cari kerjaan lagi? nih gua kasih tau, ada pelatihan gratis tis tis! dapet konsum + uang saku pula 🤩 buat detail bisa cek posternya yaw! arigathanks!🫶🏼",
+      "u": "https://www.threads.com/@fikaa.rnb/post/DfPI-w-Dx2Z",
+      "d": 1793616900000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Pasquale Pillitteri",
+      "x": "OpenAI mengumumkan sinyal robots.txt untuk tolak pelatihan AI - Pasquale Pillitteri",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1FZSXNSR0MxMGtXUndFYnYzMGJIcHVUN2RuUjBScUV2T0dRVTF0clRKdzVUeWpVR1E4em5BNlFycTk5eG5seTVoRzcwRnJSaUNYTXRGOHR5UmlITFB1dWllTnNNY0N6MXhfRHN6VVhBdFhkM2NzQ2ZWVVY1VFo4b21wUC1ybjZi?oc=5",
+      "d": 1793616689000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "radarbanten.co.id",
+      "x": "Beasiswa ke Jepang Dibuka bagi Pemuda Desa di Kabupaten Serang - radarbanten.co.id",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0k1YUt5Zl9aZDM0S1Q4ZjVLcE1TdHFSS0VWd0s4R1ZPamFwYlVZM3NUSjdIWmtiWDVJb3ljTVZYZHhNTHZucWJmU3dwcWhnTUN4S1FCbnMzcmVON1UxZGlwTkpURGh4VnU2LWs2VlhqeWlQaFZCa3gybmh5R2JJREJUMlBVQ2xYZThXUTZlX0hLWUxCWkdjdEczMG5NRmkyQ0xjQTdLMA?oc=5",
+      "d": 1793617183000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
