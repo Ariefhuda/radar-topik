@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DerXnqyiUt-": 1792416660690,
-    "threads:DerXyAzCRb2": 1792416660690,
-    "threads:DerW7-SE3pJ": 1792416660690,
-    "news:CBMiyAFBVV95cUxQTExmeWd5c2c1aFFyd0xpZ0tWbDZmU180SkxPeWNGV0t4OVBNVkJ6c01nbUoyXzVUYkRyMy1mdnZmM1NrbmE5aFpLV2V1Vm1FYXZKRTVTcUJhUGFoX3pEX2FlbWJ0cXJtZWQwbEdZMFAwUjRhdm9vdW5mTXBZd3FKbWd1LWkxdFUyazhvVnBZcWZHek5JYlM1OFgzQXgwQXhaTFhFcHlOVGJIQzN0RmZwUUd4REtkVEZtUTJCY1BnOHlmNzJHZzNuaw": 1792416660690,
     "threads:DeqjkSdE87D": 1792416942977,
     "threads:DerYR7Zgcx4": 1792416942977,
     "threads:Defumvskdmh": 1792416942977,
@@ -27035,7 +27031,16 @@
     "threads:Dd_djH8EsnY": 1793625647897,
     "threads:DfPNeyUgRY-": 1793625647897,
     "threads:DfPZNmdGGpg": 1793625943133,
-    "news:CBMitwFBVV95cUxNSnNoNzI5N1J5NHlmWmx2UEZLR05wdGhUaHc5QnpPUlRFb1hWdHFDZjNZMEZUbDJ1S1hCN0pQRzZ1Zm50NmZoWENIdkJ5eGI5bWRlbnU2aG44Uzh1M1ZLTllsTy02dXpoWmh1RU8xOG9FTVctN1dGai1INGNkdUg2bF8wTzBsa3ptdl9vVWlfM0tYSFhPdU44MzRzVG93NmpBdFZUdWFuSzFNVzZFS2FEUnp3ell3c2_SAbwBQVVfeXFMT1RFVFdrRE40S0Fvck5YNno3MXBBaWZGbTY1a1ZvUVZJYkVvZy1fUm1oN0dESDNUZVpRV0JvaTJKWTdMUTlYZ0tlV2ZTNWxsTldnLWZQVmVIVEhLU2xxa094UWkxa2ZNSGY4QmRPU1VnYlI2cWVreTNyZkpBU1NhQW0xMmNTUXVTcEo2eTVRZ2lVUFlUSmlvU2x3TzNEZzN2RFFxUEM2TXNGbjBFSV9pZ2w5MkNLTzJjYzlUZXA": 1793625943133
+    "news:CBMitwFBVV95cUxNSnNoNzI5N1J5NHlmWmx2UEZLR05wdGhUaHc5QnpPUlRFb1hWdHFDZjNZMEZUbDJ1S1hCN0pQRzZ1Zm50NmZoWENIdkJ5eGI5bWRlbnU2aG44Uzh1M1ZLTllsTy02dXpoWmh1RU8xOG9FTVctN1dGai1INGNkdUg2bF8wTzBsa3ptdl9vVWlfM0tYSFhPdU44MzRzVG93NmpBdFZUdWFuSzFNVzZFS2FEUnp3ell3c2_SAbwBQVVfeXFMT1RFVFdrRE40S0Fvck5YNno3MXBBaWZGbTY1a1ZvUVZJYkVvZy1fUm1oN0dESDNUZVpRV0JvaTJKWTdMUTlYZ0tlV2ZTNWxsTldnLWZQVmVIVEhLU2xxa094UWkxa2ZNSGY4QmRPU1VnYlI2cWVreTNyZkpBU1NhQW0xMmNTUXVTcEo2eTVRZ2lVUFlUSmlvU2x3TzNEZzN2RFFxUEM2TXNGbjBFSV9pZ2w5MkNLTzJjYzlUZXA": 1793625943133,
+    "threads:DegwLiPmCMp": 1793626262495,
+    "threads:DfPaGzOHzck": 1793626262495,
+    "threads:Deq-kdMmcqm": 1793626262495,
+    "threads:DfPa1xNm5N1": 1793626262495,
+    "threads:DfPaGwVmudt": 1793626262495,
+    "threads:DfPax0XDSYx": 1793626262495,
+    "threads:DfPZ-uxEYXb": 1793626262495,
+    "threads:DfPCtdUircD": 1793626262495,
+    "news:CBMipgFBVV95cUxNM3I5TjlYZ2dfV0RoRnhOb3lXMnk1VEMtRDJWSTJrbDlxQWZ4Sy1wMDlpMzlYMmlQSFIwdGhNdHQ3OEk2aTBKaHBXM19zbTB2MW8tSnJfTDNmT2E5clJVZlNOS1JZcmF6cm83QmZzekZpYUhoblhtWkF3ckYzSU9EVzhWREZ1cTVmWUg4R29hV1Fqd2ZkdU9fRkd4THQzcVY3ZVJlLTJ30gGkAUFVX3lxTE1xb3QxWUkyb0FpQlNHVE5ycXV3OEZOZmFSUXdKZDQxcmg4Y2lXM0VHcEVXZWJEaXk4ZUJuY2dOZHJDQ3VJYkJYdW1PQ2tDVnBrVVFkVnVvOGRHOG5pMkZuWi1qMDRlb3RkdDNYN1FTc1NHbG9FSXFhN2xXaFJxZHFaalpkMEJGSnRwdzVnWWRBVU1GeVJQSWFobzB6VUNxZ0dsWUZ0": 1793626262495
   },
   "digest": [
     {
@@ -27647,10 +27652,30 @@
       "d": 1793612840000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@classai_id",
+      "x": "Jujur aja: jangan beli kelas Classai kalau kamu cari sertifikat buat syarat PNS/BUMN. Kelasnya pendek, rata-rata ±43 menit (7 lesson) per profesi. Ada sertifikat dari Classai, tapi",
+      "u": "https://www.threads.com/@classai_id/post/DfPCtdUircD",
+      "d": 1793613644000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nova.grid.id",
+      "x": "Daftar Bansos November 2026 Ada PKH dan BPNT, Ini Besaran Nominalnya - nova.grid.id",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3I5TjlYZ2dfV0RoRnhOb3lXMnk1VEMtRDJWSTJrbDlxQWZ4Sy1wMDlpMzlYMmlQSFIwdGhNdHQ3OEk2aTBKaHBXM19zbTB2MW8tSnJfTDNmT2E5clJVZlNOS1JZcmF6cm83QmZzekZpYUhoblhtWkF3ckYzSU9EVzhWREZ1cTVmWUg4R29hV1Fqd2ZkdU9fRkd4THQzcVY3ZVJlLTJ30gGkAUFVX3lxTE1xb3QxWUkyb0FpQlNHVE5ycXV3OEZOZmFSUXdKZDQxcmg4Y2lXM0VHcEVXZWJEaXk4ZUJuY2dOZHJDQ3VJYkJYdW1PQ2tDVnBrVVFkVnVvOGRHOG5pMkZuWi1qMDRlb3RkdDNYN1FTc1NHbG9FSXFhN2xXaFJxZHFaalpkMEJGSnRwdzVnWWRBVU1GeVJQSWFobzB6VUNxZ0dsWUZ0?oc=5",
+      "d": 1793601767000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
