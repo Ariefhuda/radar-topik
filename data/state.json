@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deq4sHMkgLx": 1792400456305,
-    "threads:DeJ3265iTcf": 1792400456305,
-    "threads:DcjD39UEzYC": 1792400456305,
-    "threads:DenzzzVicCU": 1792400456305,
-    "threads:Dbd5NJVGOOi": 1792400456305,
-    "news:CBMixgFBVV95cUxQZF9mMGI5LTdRejVsTVI3OWRSNEd6WmVidUk3VXF2dWZfSGZaUFlhWlh6R2htLWVrUjhMTTNkdmx3S3dEVGJKT3lxei1oTElLWWgxNEtrQ3dkVE5WR1BaaWp3Umx2a2duTC1HdGxjRjllNF82NDd6bC0yMi0zM19rMUQ1Z3NvcVlTNHBXazBkSmN0ekJsNzNYQW02aFoxc1JrOHhKSmFHSEhlMFFEM3FoWlpKWlVPNGZDYl9NR3RqbFd5UFdoV0HSAcsBQVVfeXFMT0Y3TFoxem1yYUNiZjliN3lwbVQzOHBMdjd1VWJxVEE2cWp3NXpBd2xRNzF1THVoVXlGZ2UwVHBDTWtIdVJvM05wRU9xQ0dHY3YtYkdpTkU3ZW9RcTlUUDl3UElZc1ZMNDhlQ21IQXotTE9MWTFtWU0yX212ckNHVkUwVFR0LWZydzVZUzAtWFMzQmFfSl9iNWtMM1EzX1RDUVdZSUkteDR4S3B4cmpLVDZ4em5BNjBKZE1CNTBpNHN1bmVtaGNuLTlHMFE": 1792400456305,
-    "news:CBMiwwFBVV95cUxOQ2p1eXI1X1RjR29LWTExalptOTVod3JrSi04MEFSX3lnbzdIQVgtUTVNN1M4dzN4ZWFHVUdPMENhdS1oc1VlWmZoeGd0WDk0Q3Awa25WeHI2ZFl4OU8xelVBakl1QVJGSEg5VlJMTFBzMDE4UnA1NENCb0p3UC0wM3hFRF90czU0bHJNYzd2MEk1dDNZek9Tc0FMOG9mR1VGeFVBMVFkM3RLQmVWTWJoLVV3Zkg3dS05dnp3bWVuNmdfb3PSAcMBQVVfeXFMTkNqdXlyNV9UY0dvS1kxMWpabTk1aHdya0otODBBUl95Z283SEFYLVE1TTdTOHczeGVhR1VHTzBDYXUtaHNVZVpmaHhndFg5NENwMGtuVnhyNmRZeDlPMXpVQWpJdUFSRkhIOVZSTExQczAxOFJwNTRDQm9Kd1AtMDN4RURfdHM1NGxyTWM3djBJNXQzWXpPU3NBTDhvZkdVRnhVQTFRZDN0S0JlVk1iaC1Vd2ZIN3UtOXZ6d21lbjZnX29z": 1792400456305,
     "threads:Deq30LFGJ5J": 1792400745155,
     "threads:DdydjPWEbXY": 1792400745155,
     "threads:Deq4vE3lM-a": 1792400745155,
@@ -27022,39 +27015,12 @@
     "news:CBMipgFBVV95cUxNM25uMDFyVkwydWk3amFuZjBaRDQ1MXlITldPMGsxTjJWbUlEZ1pXZXlWTzVXelFJSnFDUlNyeHJ2QlZvdFdmVGdkYmp3djFQTUFrc1B5Z1Y4YVA2b2kzS3V3OW9VcERIS2RrSzdHRnV4SlpQeC05WndUOFQ2X1FrQU52S3l2LVZRdnNtN2VjMkU2b0ppdVgzX1RPYl9ISXhraUl3aFdn": 1793609817289,
     "news:CBMiuAFBVV95cUxPakY2S0NCaXEtOC1ZT3YtNVhDb2VjVzhZbkwzNGFvU2lMTm1RWVRLRDgwdy1MN2psRWRXOU5CSkJCUnRyS01YVzU3QmRQd0dmeFczN1dZU3l5NlBQdHJ6SWFqcWpva2pYSl9PX29DOElUZzNlZ0h4VmNPUDlvLTdpZjc5WDFmMGVTdGFsZjAtWTI1c2I1RzEtb1RhUzBQNUtEcTJrNjF6T2ZsSDgwU0F1aHJCeG14dFFD": 1793609817289,
     "news:CBMihwFBVV95cUxQU2t2UVFtWXVTakNOY0JkZ3NCUWJfLVpCdmZrdGFWNjBJa1lvZ1ZPSVVSSnpEQmRaWXlmc081YXlVdzJDOFVGRE5SQXA4MXNxS1BSYk5hVm5rNldBMm1ONGdiazdjV3F3MVBnX3FWVlowYVZfaEs2d0F0LVhKV3FXQ2FGMFNaOTQ": 1793609817289,
-    "news:CBMitAFBVV95cUxPY0hPOU1icmN2V3Flb2htemxoNmtvbkM2RlNxVFBfVVFaNFFudGt2M3J3YndRZmpnWU1XelpfYzgwdkl6YVd6Y2dwWXBNbVpwT3BYXzFYbG83endsLVRjRHJOWUhaakU2VXJLd0NfNHFiZmIwamNWZS16NXp1WlM5VUxtUGUtSEpNZ2t5dWhWcGo0MlEyYy1KdDFmbTZvdEl3VmxSLWRySTNxLXh1Y2o5a2FQTE0": 1793609817289
+    "news:CBMitAFBVV95cUxPY0hPOU1icmN2V3Flb2htemxoNmtvbkM2RlNxVFBfVVFaNFFudGt2M3J3YndRZmpnWU1XelpfYzgwdkl6YVd6Y2dwWXBNbVpwT3BYXzFYbG83endsLVRjRHJOWUhaakU2VXJLd0NfNHFiZmIwamNWZS16NXp1WlM5VUxtUGUtSEpNZ2t5dWhWcGo0MlEyYy1KdDFmbTZvdEl3VmxSLWRySTNxLXh1Y2o5a2FQTE0": 1793609817289,
+    "threads:DfO7Uptn36O": 1793610053538,
+    "news:CBMixgFBVV95cUxQak1XZW1HMDBQdzNybkxTNUt5UWQzYkNDejhmWkJUOW5CZmUtZXQ3NWZ4X05LR2YyNFJSWTBtUDR1cWhyNmZGcE5EOTduejZnMmlRVW9lOXlvaWs4SU9hMGRGT0RlWW1rMmNaN1VsWm9tVGZ2WENXaFRhOEN6Yjh6b19qNEVUNnJyaG5uRDBXdWFpcFhKZmhXVnplY2E3T0ZRa1I4U1d6SnBWRHhSZkhybUNxNGEyZm96aVVZTXZKT0UtN2VEaEE": 1793610053538,
+    "news:CBMirAFBVV95cUxObUFPYXAtbWtkZlcwQTlJNnY0NXRQN1pfNnBkSzZJSmJnSTlKMVU4N1puaFRRZmFvRXg1LVhfVW5vanIwZzkwcmpaUDFBS05LQVkzaWw3Nlcta2lmMHBxWXVDWElZRXZ4aW1JcXBfT2k0LVFYc0lfZkVkQkU0QXVJVEtUSWhmdkFENk9XLUdRM003T0dkYUtzdmxoOFFUU3M3WUtDVFdHb2IwV2It0gG0AUFVX3lxTE16U3BzMlZ0RktGYUpNb3BxLWFmM2xqbUVBb2tHQ000aVp1VktjX3ZSMzJBZkdWNEozVzQxWk1TTmtZMjdxckEtS3k2VGlTUjNaSVpwcE9qMFdOcGdTWG1TWjllLVRIQ1FqNERFZXlncHloeEtEQnB5T3JSZjZUVUN1S2xKcHpyZkhSbWlhNEdkZXJtbnR3QWU2X3pQZHZIWi1jbzRIYzVFTWFHZnBEdkhsODZjMQ": 1793610053538
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@infowamena",
-      "x": "Pendaftaran perkuliahan online telah dibuka! Kamu bisa dapatkan beasiswa di BINUS ONLINE Up to 100% free biaya sumbangan. Tunggu apalagi? Ayo ambil kesempatanmu dan raih impianmu B",
-      "u": "https://www.threads.com/@infowamena/post/DfOwBkQkSbY",
-      "d": 1793603816000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Suara Pemerintah",
-      "x": "Gandeng Shopee, KemenEkraf Bekali 200 Santri Solo Raya Keterampilan Digital dan Affiliate - Suara Pemerintah",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkZrRUVYWDMwUk9kdHRRWk42LVFEQXJZTm9mZkpadUxiQk9FRFVFYUxGaktkRGNObUVHZ0EzdWhyMmVoQjRTWFpIcVdQNHJVQ0pjc0xKbUpuS2pkQ0t5eFF3SDZhOW1NRk1NN0pqVjZNVmY2ZlZObzlJQ2hIbHZDRTBRdVB1T3dWakpBY2xmbkJUNXZfNGxlaV82b1ZOakZaLVFEc3lQalVhOUFNeVRwWjk5SHd4RmxKWkw3eUU0TnBJUQ?oc=5",
-      "d": 1793603431000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Warta Rakyat",
-      "x": "Bupati Ing Iskandarsyah Tegaskan Keberpihakan pada Pendidikan Karimun - Warta Rakyat",
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTBkOEdGQk44MmZLVWs0V2h3akYzaHpYY01aM0pMOVU1cm4wQ0pJQlVaM1AtREFzTWNRekpvZUxZVVlpVHVBcjNqb0FlTUFsMUFreVBCbEp2ZTg3TVUxam05Y3l4ZjJxektEWDB2cnVFSDVmMGhxekNKT2hVTDZSNDVQT3ZNaEpxWXFtU1lEeVNuX2kxb2I5U0xZSkxPTVFuT3BqaVVfb2xYbEk?oc=5",
-      "d": 1793598630000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28534,10 +28500,30 @@
       "d": 1793609520000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@dhesyrusyani",
+      "x": "cuma nerusin infoo tthhh kaan hadeuuuuhhhhhh....!!! Tw 4 proses nya cepat salah, proses nya lambat tambah masalah, bansos PKH BPNT dan semua jenis bansos lainnya di akhir tahun ini",
+      "u": "https://www.threads.com/@dhesyrusyani/post/DfO7Uptn36O",
+      "d": 1793609739000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "kumparan",
+      "x": "Beasiswa PEMAPAN 2027 Dibuka untuk Mahasiswa, Cek Ketentuannya - kumparan.com - kumparan",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUFPYXAtbWtkZlcwQTlJNnY0NXRQN1pfNnBkSzZJSmJnSTlKMVU4N1puaFRRZmFvRXg1LVhfVW5vanIwZzkwcmpaUDFBS05LQVkzaWw3Nlcta2lmMHBxWXVDWElZRXZ4aW1JcXBfT2k0LVFYc0lfZkVkQkU0QXVJVEtUSWhmdkFENk9XLUdRM003T0dkYUtzdmxoOFFUU3M3WUtDVFdHb2IwV2It0gG0AUFVX3lxTE16U3BzMlZ0RktGYUpNb3BxLWFmM2xqbUVBb2tHQ000aVp1VktjX3ZSMzJBZkdWNEozVzQxWk1TTmtZMjdxckEtS3k2VGlTUjNaSVpwcE9qMFdOcGdTWG1TWjllLVRIQ1FqNERFZXlncHloeEtEQnB5T3JSZjZUVUN1S2xKcHpyZkhSbWlhNEdkZXJtbnR3QWU2X3pQZHZIWi1jbzRIYzVFTWFHZnBEdkhsODZjMQ?oc=5",
+      "d": 1793596560000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
