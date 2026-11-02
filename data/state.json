@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesQBeCE4mp": 1792447275233,
-    "threads:DeeBNAolJwY": 1792447275233,
-    "threads:DesQOhBkw_4": 1792447275233,
-    "threads:DesQMQLEgW7": 1792447275233,
-    "news:CBMiogFBVV95cUxNNVhXYVQ1ejBhN2VtNU4yakhTQ2dicUVYcjdnZWhrQUJSSnZUSXJaTG85Qm5YRGJYcEVwREZ1QzFTS2V3MlA1MlB6bTRTLXFwRWk4TFUwOHAwWTg5QVZGUWFLdEFRenUwVVZkSXF3VnBUOEJ2NkVzQ0tpdkZXS2QxeGZ5ZVlDRHpDNkZISUdWZmtPSTkwWGZ5S0s2VVJKSTdZVHfSAaQBQVVfeXFMTkVvLXl0MlEyX0hrSUZScW14bmVFTm1KSmVUUENhSWk1LVNjMGVwVWNsN01pMm1TelRTakFDQjhhNUxlZWI1WkFnc1lJb3BON3NwNGg1ekpJYXpKVHlGTzJrcWQwS0VLU2ZFSHd1aEFQTkVUZnBKcnNXaHppdjkyaU5zYnNTeFFRbWx4NnMwWWdsZ1lyaDN4NGFjWmRrWU42cHFYMUo": 1792447275233,
     "threads:DesQEhEE596": 1792447544588,
     "news:CBMiqAFBVV95cUxOSGN6UHdqSVZjTXhBano2a3M4MGF1d0Z6R2haX3RoQUhOZjBKOEJEQVlmQW5wSVRuQlh5cGNRWXEtQ2Izc0k3R1pURTlxNGROb0JNTVRuazlFWHkwZHJDbC1YQzZ0akY3RzVxYmpLSjJnOVlXcURBOUYtbURvQTQ0eGJuN1RQQ3NpajEtR3hOdk1ZWmdlZ1ZXcFI5OHREWjFfZksyanVNdnE": 1792447544588,
     "threads:DesR-93iOqS": 1792447841019,
@@ -27197,49 +27192,16 @@
     "threads:DfQUB0hARS6": 1793656535670,
     "threads:DfQUB75lpPb": 1793656535670,
     "threads:DfQTs5HneEk": 1793656535670,
-    "threads:DfQTkcQGzl3": 1793656535670
+    "threads:DfQTkcQGzl3": 1793656535670,
+    "threads:DfQTjaxH-7F": 1793656854720,
+    "threads:DeD2_duj9HY": 1793656854720,
+    "threads:DfQT9kUk9E3": 1793656854720,
+    "threads:DfQT4nzEw5Z": 1793656854720,
+    "threads:DfQTyPxk7_G": 1793656854720,
+    "threads:DeYSY2zk2mw": 1793656854720,
+    "threads:DfQVLFEimfC": 1793656854720
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Cek Bansos Kemensos Muncul Status KPD Ya dan Tidak, Apa Artinya? - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU1VdWw1dVRrcXh3V3paaGJGLVNLVE5Kd3NQTjdSVDZoMWt0U2RsSkI3WlNjZHdEWUVSMEJja3pzMDYtLVpwcEJDbGJKMjhoOGxvWG85eExOZUtBbzVWWGY2djZhYzl2N3BtLVU5dm1fbzFmbEVxbjlDdEpzZnMtZU5IdC1MSFhzMEF1Q2lEVEhVSkRvYUJaY2FBcEJpRFF2UDVHSVBjemhfUkXSAbABQVVfeXFMTXJ1dkdacVhHMFBjSFgzVDYwd09pbjIzSXdvYTNrVkFvVi15TnJGdVJzbURrSWpPeThaZ0RjRnNMYlA4ODZSdnlnUGIxcW1SS3FpYjhmOFNpbFA3V2IxT0JELWhLVEhTZTk2RjByLTFyOXlleTBMODZ5cUFiazBzYnFGZlg4Mi1HR2lOZnV4eDJjNGd6eC1BM2kyVUVfRHpqRHI0SEY4MkNyTGtUdjdnNXI?oc=5",
-      "d": 1793624410000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Trust Banten",
-      "x": "Bansos 2026 Cair! Andra Soni Pastikan Warga Terima Utuh Tanpa Potongan - Trust Banten",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZkZ6WnN4VmlxSkgzNDNEREdUenl0a1pycHozRm1NUWtMSDgwTTdyekt1OWZDbDFocW01ZVY2eEFuZTBUUlYyYkc3azFMMkpKTTVheEp0MWVfdThUX0tmMnA3R2Z4c1EwVEp6Y05tY3NDQUhFX2kzSERSdmZQeERxNFNLUHQyLWN3aWNmLTJpMldqTGoxUkVWR2Zxc056VWVYOTFhQUo3Qkg1bnZLenpMNjJ2ZWx0T3hCRnpGenhMR3JJY1BRMjltT9IByAFBVV95cUxQZkZ6WnN4VmlxSkgzNDNEREdUenl0a1pycHozRm1NUWtMSDgwTTdyekt1OWZDbDFocW01ZVY2eEFuZTBUUlYyYkc3azFMMkpKTTVheEp0MWVfdThUX0tmMnA3R2Z4c1EwVEp6Y05tY3NDQUhFX2kzSERSdmZQeERxNFNLUHQyLWN3aWNmLTJpMldqTGoxUkVWR2Zxc056VWVYOTFhQUo3Qkg1bnZLenpMNjJ2ZWx0T3hCRnpGenhMR3JJY1BRMjltTw?oc=5",
-      "d": 1793621293000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kaltimtoday.co",
-      "x": "Cara Daftar Bansos 2026 Lewat Portal Perlinsos Digital agar Dapat PKH dan BPNT - Kaltimtoday.co",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT21vSmdCdmMzM2NXaGJIemE0c2IwN19FejRaM3VFdWhHaEc5UnkwN2FyVFBSbDlNVUs5WmNRUU01T2RQcXRZNUZ5SklyRVZZampxMTJfczRLci02UFFBODVoT2ozSVZaNDJZcHphYThMWUowc040RHJON0FRaTdtR0I3bTQtY1pUUnhkZ1RCSlpEVXg5dlp6d3dvdjJFZ1MxbUcw?oc=5",
-      "d": 1793601780000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@shirase.id",
-      "x": "Selamat malam semuanya, kemarin kami sempat umumin kelas gratis, yang join 20 orang, tapi yang serius hanya 5 orang! Sekarang kami buka lagi, pembelajaran dari awal lagi, langsung ",
-      "u": "https://www.threads.com/@shirase.id/post/DfPYw8Gmcz0",
-      "d": 1793625175000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28699,10 +28661,50 @@
       "d": 1793655748000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Sabar mas Raymond , btw saya mau ikut event tetapi di banned mas wkwk 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing grati",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfQT9kUk9E3",
+      "d": 1793656212000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Saya ingin ikut event nya tetapi di banned wkwkw 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat ",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfQT4nzEw5Z",
+      "d": 1793656171000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Mantap mas Raymond tetapi mas hebat kok mas Btw saya pengen hadir acara mas cuma saya di banned karena saya kritik dan kasih saran mas wkwk 🚀 Beasiswa AI & Cloud Gratis: AWS AI Ac",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfQTyPxk7_G",
+      "d": 1793656119000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@kontannews",
+      "x": "Lulus SD bisa mendapatkan beasiswa penuh hingga lulus SMA! 🎓 Sekolah Cendekia BAZNAS membuka pendaftaran SIMAK SCB tahun ajaran 2027/2028. Beasiswa ini berlangsung selama 6 tahun ",
+      "u": "https://www.threads.com/@kontannews/post/DfQVLFEimfC",
+      "d": 1793656847000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
