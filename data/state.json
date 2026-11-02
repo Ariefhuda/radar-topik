@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DescQz7k4cN": 1792453245341,
-    "threads:DIave5Eh4i_": 1792453245341,
-    "threads:DescjeID1GH": 1792453245341,
-    "threads:DesdxFigdgQ": 1792453245341,
-    "threads:DesW80jlJNI": 1792453245341,
     "threads:DeseCjMjVK1": 1792453543653,
     "threads:DesdwgVF47w": 1792453543653,
     "threads:DeseGvqE87F": 1792453543653,
@@ -27247,29 +27242,19 @@
     "threads:DfQfWTRFPs4": 1793662533520,
     "threads:DfQfFLok-gu": 1793662533520,
     "threads:DfQOBqZlxj9": 1793662533520,
-    "threads:DfOjwnyFIWt": 1793662533520
+    "threads:DfOjwnyFIWt": 1793662533520,
+    "threads:DfQfYvyk1Y0": 1793662840973,
+    "threads:DfQfDLoAHI4": 1793662840973,
+    "threads:DeW03XqDeXc": 1793662840973,
+    "threads:DfQf5GWktFL": 1793662840973,
+    "threads:DVVI8SrgK1m": 1793662840973,
+    "threads:DfQgAJ9E4C4": 1793662840973,
+    "threads:DVUSS21EmB5": 1793662840973,
+    "threads:DVUStOhkxy4": 1793662840973,
+    "threads:DcgpfftGAOd": 1793662840973,
+    "threads:DfI6NLHgSQV": 1793662840973
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@nafiraahaff",
-      "x": "Warga kediri ada yang punya info pengurusan sertifikat halal yang gratis ?",
-      "u": "https://www.threads.com/@nafiraahaff/post/DfPB1cklJoB",
-      "d": 1793613153000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@mahirexcel0",
-      "x": "Untuk kursus di daerah Anduonohu, saya belum bisa merekomendasikan tempat tertentu karena belum bisa memastikannya. Kalau mau mulai belajar dari dasar sampai mahir secara online, s",
-      "u": "https://www.threads.com/@mahirexcel0/post/DfPhibYGWh_",
-      "d": 1793629775000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28749,10 +28734,30 @@
       "d": 1793657642000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@narasumber_coachrizal",
+      "x": "🚀 Trainer, saatnya upgrade skill di era AI! Ikuti Upgrade Skill Trainer AI (TOT Level 4): kuasai metodologi instruktur dan pemanfaatan AI untuk menciptakan pelatihan profesional, ",
+      "u": "https://www.threads.com/@narasumber_coachrizal/post/DfQf5GWktFL",
+      "d": 1793662466000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ummah_abzha",
+      "x": "Bikin animasi kayak gini tuh gampang Yang ingin ikutan kelas gratis nya plus free akses canva pro Setiap jumat ,,follow dan komen \"mauu\"",
+      "u": "https://www.threads.com/@ummah_abzha/post/DfQgAJ9E4C4",
+      "d": 1793662536000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
