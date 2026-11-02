@@ -27036,7 +27036,10 @@
     "threads:Dc73iIugea9": 1793627142643,
     "threads:DfPcPhXmVoJ": 1793627142643,
     "news:CBMi4AFBVV95cUxQdUliSnVXUnB5ZlJONUpwSmRFbDl0S25MWmtsWE1idE04NjRvcnRrSzZjMHlTT0FSbTZlTVJ6QzNzWDd0S2NvUExRSkFfenVKa3pUSTNTTGFqWG83YWFMZXd4N3lHbWI0VGZFOXJVVmZiMkhvQ1ZlUWE0RmhfanVsLUJBeU56RjNaaUp2bWc0NU81ZDBkREJDcW9TcXJGZ0RMRFUtb3AxazBhVXdjZHRXc29kYW44UTdHeU1nTDVNT0hoQ3NwLVJtVVFzRkJfWHAteE4yNF9oYWo4LXVETmQyTA": 1793627445408,
-    "news:CBMiygFBVV95cUxPZUpfZjR2dkJZNUpnTUo3cTR6aC1yM2VaV1lwV2o1SUVBTU9DdVBYb0lpMkpYT1ZwcUh3bGxmMk9FbnVKUVZUdFJSR0Zfalo3aXZkcWotYlpFcDl1RHh0b1BkUS1Iczc5ZUZTMlg0YktHbFBjOXVHalNublVscFlBZTlPSVFvY0REbVpUMTNnMjJiS2otQll4ajFSUWxwZEtfWlNNQVd6NzRqUXFvRHlSdWkxbjhqUXRrbEs3aXVIMnhjNUtQY0VkczhB": 1793627445408
+    "news:CBMiygFBVV95cUxPZUpfZjR2dkJZNUpnTUo3cTR6aC1yM2VaV1lwV2o1SUVBTU9DdVBYb0lpMkpYT1ZwcUh3bGxmMk9FbnVKUVZUdFJSR0Zfalo3aXZkcWotYlpFcDl1RHh0b1BkUS1Iczc5ZUZTMlg0YktHbFBjOXVHalNublVscFlBZTlPSVFvY0REbVpUMTNnMjJiS2otQll4ajFSUWxwZEtfWlNNQVd6NzRqUXFvRHlSdWkxbjhqUXRrbEs3aXVIMnhjNUtQY0VkczhB": 1793627445408,
+    "threads:DfPdUg4imk9": 1793627738733,
+    "threads:DfPdgwnI4W1": 1793627738733,
+    "threads:DfPdAg1Dxxu": 1793627738733
   },
   "digest": [
     {
@@ -27778,10 +27781,30 @@
       "d": 1793627309000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@silviaanmhr",
+      "x": "Hi, I’m Silviana Rahmah, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Micro",
+      "u": "https://www.threads.com/@silviaanmhr/post/DfPdgwnI4W1",
+      "d": 1793627664000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nanabhalu",
+      "x": "Hi, I’m Nabilah, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Exc",
+      "u": "https://www.threads.com/@nanabhalu/post/DfPdAg1Dxxu",
+      "d": 1793627400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
