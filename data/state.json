@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesDbZxDaEJ": 1792439740205,
-    "threads:DesCbh4lzB2": 1792439740205,
-    "threads:DcUPOWkEzBi": 1792439740205,
-    "threads:DeoPyPmERud": 1792439740205,
     "threads:Dd0fS5FD3A2": 1792440342566,
     "threads:DesEmfzFu06": 1792440342566,
     "threads:DesD-NbCC0_": 1792440342566,
@@ -27155,19 +27151,19 @@
     "threads:DfPZjTuDo1K": 1793648744343,
     "threads:DfPYqh6Hy5g": 1793648744343,
     "threads:DfPgaZkkhMz": 1793648744343,
-    "news:CBMiswFBVV95cUxQLUczb29hSHVReTJXT2pxRGMxVVk1M3ZLMEJmZWl4QkJfOEY4ckV4N1pHeHlaLTNVc3hMQXFqRmVXSjI0dmtNOVEwbXV1b0VNYkw3eVlCblpkQ25QanVHd0dub1NoWVhIX1NaN2dVVUh6eG95WkRQTEZnMDlRb3BLSWktUXdPZEV2b2FLeGRnRk4taC1CbEo5NUQtcm1CM3FyS3BWWF9rUHFnN3BIWm90dTh6Y9IBswFBVV95cUxQVWFkcl9uQlVDclVsMjQwN2hIOFNzM1MtbTVTUGtXRmF1eGwxU0tsc29HeGlCZ05tYS1FQUJkQVUwUms2dS1CZGxxSHI4bk1jSE9ENndBczNfSkE2SUp1WnhyWWd1SHNScGFFUFZ3c2VlRHBEek9NR0t5WEFTbVQ1cXBfdDlTWHhMX1B6NE5YZEhpclQ0cjRPRzV1aU5MX1hJa0pPT242SlBKV25IajFDQWNJYw": 1793648744343
+    "news:CBMiswFBVV95cUxQLUczb29hSHVReTJXT2pxRGMxVVk1M3ZLMEJmZWl4QkJfOEY4ckV4N1pHeHlaLTNVc3hMQXFqRmVXSjI0dmtNOVEwbXV1b0VNYkw3eVlCblpkQ25QanVHd0dub1NoWVhIX1NaN2dVVUh6eG95WkRQTEZnMDlRb3BLSWktUXdPZEV2b2FLeGRnRk4taC1CbEo5NUQtcm1CM3FyS3BWWF9rUHFnN3BIWm90dTh6Y9IBswFBVV95cUxQVWFkcl9uQlVDclVsMjQwN2hIOFNzM1MtbTVTUGtXRmF1eGwxU0tsc29HeGlCZ05tYS1FQUJkQVUwUms2dS1CZGxxSHI4bk1jSE9ENndBczNfSkE2SUp1WnhyWWd1SHNScGFFUFZ3c2VlRHBEek9NR0t5WEFTbVQ1cXBfdDlTWHhMX1B6NE5YZEhpclQ0cjRPRzV1aU5MX1hJa0pPT242SlBKV25IajFDQWNJYw": 1793648744343,
+    "threads:DcQZ6dvGZqR": 1793649335874,
+    "threads:DfQGPaLGK2R": 1793649335874,
+    "threads:DfQGDkrDg86": 1793649335874,
+    "threads:DfQGCt4Etrl": 1793649335874,
+    "threads:DfQF83EiTwx": 1793649335874,
+    "threads:DfQFp8nANhC": 1793649335874,
+    "threads:DfQFkGmHwBv": 1793649335874,
+    "threads:DfQFdGRlZvn": 1793649335874,
+    "threads:DfQFuACltXs": 1793649335874,
+    "threads:DfQGhshE_Qs": 1793649335874
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kakraflii",
-      "x": "Yang minat gabung kelas gratis ini japri yaaa",
-      "u": "https://www.threads.com/@kakraflii/post/DfPVcXzEkVP",
-      "d": 1793623434000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28657,10 +28653,20 @@
       "d": 1793601000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kangasum_",
+      "x": "UMKM Bandung ada yang mau ikut pelatihan Gratis Meningkatkan Penjualan di Sosmed Batch ke 2",
+      "u": "https://www.threads.com/@kangasum_/post/DfQGhshE_Qs",
+      "d": 1793649167000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
