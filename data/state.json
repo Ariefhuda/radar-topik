@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dc3h6zric4X": 1792410639149,
-    "threads:DdCi5cYE6nB": 1792410639149,
-    "threads:DeMrdKpCcnA": 1792410639149,
-    "threads:Deg9qNeGbP3": 1792410639149,
-    "threads:DerLsfKlCbW": 1792410639149,
-    "news:CBMivgFBVV95cUxOUmVkWm1PRzRzc3JqeVBPMzMzMHFYeEhWM25WX0duazhQTjkxTVk0cFpvNGN5RVBIYVlCOTJLZ0hrUkVXcDhWbDFKWHVhQlNSMjZhNnUwNnRSMzVWdV9XUGcybVJRcjdSUDRjeTBsV1pQY1NuN3VNMmJDRlpPVTF3cWZvak5BOXpxeWVVWENtSjM0eUlKa082bXFNZ1BzQjJGQWhTWXR6ekdIYlZJSEtSNUU4ci0xUU9iMTFwcFdn": 1792410639149,
     "threads:DerMkFHE1YA": 1792410943908,
     "threads:DerM5GoCcuw": 1792410943908,
     "threads:DerMwlHEp7J": 1792410943908,
@@ -27029,79 +27023,30 @@
     "news:CBMi2gFBVV95cUxPS0s0TGt0NEJKdzVTNklSN0dYSGttMjllanRaYkdFamliUEU4YmF1MUFhRjVQYVBCRGlTaEQxeFIyNVFzVHgwcVh4cTBFTzV2RS1SS2Y2eUwzQVo5YmkzcTVKSGtDQzFseFV6OHR5WndiMmxLaHA3SEdDLU1EaHh2cHNBLXl0WDlSTmxrSy1Jd2hZdFJGWDhOTEV6THVTblpqRHpNLXduMUZaLTFwcGVaT3FUR0FyaG9rVTJKSEJyZTNWdG5UUVcwdlNxMkpuMERfT3JyS2taN2hOdw": 1793619655198,
     "threads:DfPOxG-mK_W": 1793619942058,
     "news:CBMivgFBVV95cUxNM2xWc0h0OUg3UmowenktY1cwWW5ubnl2RzNuZ0RUN3BqWFpHSEx6Q0xDdGJOemp2ZHVFMUNNTHZCTm94VzhkOWlsS21xbEM4OHJCamRJQ3JwckNIdzdUUjY5eXozVUIwRVZydEVqS1BKeEoxbHBXRXJqTjRKZ2JWWUF2WlNWU3JmdElzWXVQV0tSS3hmR1BfX3phaGVneVJTMzdpcVM4VGg4RUQ0R1VibzZFbjJLUG1QcHQtb2RB": 1793619942058,
-    "news:CBMijwFBVV95cUxPY0pNWGlGTEVFZElBLU1MYzRWUnBMZjA4T25LY0RTZ0pBREVPUVMxQ2xxbXpqVWl6YzRneU1BYkZzZG9JVWhyb1BQaGlxVDFOMFZXdXhYWHNEUlZ2dnlUeE5iWkl3MFlkOThYMWZaQU9WVk00eEVPZ1JMY3g5MXZ6WXNZT0lWSmwyUXJnWlhOMA": 1793619942058
+    "news:CBMijwFBVV95cUxPY0pNWGlGTEVFZElBLU1MYzRWUnBMZjA4T25LY0RTZ0pBREVPUVMxQ2xxbXpqVWl6YzRneU1BYkZzZG9JVWhyb1BQaGlxVDFOMFZXdXhYWHNEUlZ2dnlUeE5iWkl3MFlkOThYMWZaQU9WVk00eEVPZ1JMY3g5MXZ6WXNZT0lWSmwyUXJnWlhOMA": 1793619942058,
+    "threads:DfPNcXhgQe6": 1793620267989,
+    "threads:DfPNaxIgQ9n": 1793620267989,
+    "threads:DfPNWpmASGN": 1793620267989,
+    "threads:DfPPZBajnMg": 1793620267989,
+    "threads:DfPO821FF4m": 1793620267989,
+    "threads:DfPN7pdHyfE": 1793620267989,
+    "threads:DfPN2nUCLgh": 1793620267989,
+    "threads:DfPKsRhG8JJ": 1793620267989,
+    "threads:DfPPUezDUEF": 1793620267989,
+    "threads:DfPPSEvCk2q": 1793620267989,
+    "threads:DfPO4AykyfR": 1793620267989,
+    "threads:DfPPVtxj3XL": 1793620267989,
+    "threads:DfPPO2ZD0hF": 1793620267989,
+    "threads:DfPO5S8j_W-": 1793620267989,
+    "threads:DfPO2g0D5rk": 1793620267989,
+    "threads:DfPOzsKDzVZ": 1793620267989,
+    "threads:DfPPCCpEndE": 1793620267989,
+    "threads:DfPOX_UiOD1": 1793620267989,
+    "threads:DanpTSTE3g1": 1793620267989,
+    "news:CBMi0AFBVV95cUxORXBodURLWHA2YmctRlRMTXV1MzNYRGtqYTRTUUFNSzY0eHg2dm5BcHMtSnBObXlSU3V6aXlVRndVb0hRbmstSWd5bUFXMFBoSEdoQldIMVgtRVhoRzM4WllRaTFEb0RHXzdJRVN2TllxcmdJekl0akNBTEZ6aXlpZEJhMk9JSVFrdU5QaXZvT2NHeTJaSk56ZHJXcjRUczBqanJ2LWFZcXRIZnJkNFFNYWNack53U3RZNEZFQUpTVGxHenJ6UE1qbnZmcXZsOG9X": 1793620267989,
+    "news:CBMiakFVX3lxTE5uellXZ3MxY1Rab0tpVlp5d2V1UkVYNE0tNFpKZ0ZmRVVCdzNYOGNKODF3ekk4cG9ldlJmZkFudkFVZXY2Qk9zSURqV3JDdkVzTFBXbWY4TFhqTEdvOGZCM014N2RCenk0NWc": 1793620267989
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ibunnaufal",
-      "x": "ini pelatihan gratis kaa, tapi effort yaa 26hari offline😅",
-      "u": "https://www.threads.com/@ibunnaufal/post/DfO4986FCsR",
-      "d": 1793608504000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@itzyorr",
-      "x": "jujur masih ga nyangka banget 😭😭 kemarin pertama kalinya aku live. kelas gratis, yang nonton cuma 14 orang. errornya banyak banget wkwk, udah sempet mikir yaudahlah, yang penting",
-      "u": "https://www.threads.com/@itzyorr/post/DfO61tAmP9p",
-      "d": 1793609485000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "RRI.co.id",
-      "x": "Hadapi Dunia Kerja, Warga Pondok Bambu Dibekali Pelatihan Digital Marketing - RRI.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakY2S0NCaXEtOC1ZT3YtNVhDb2VjVzhZbkwzNGFvU2lMTm1RWVRLRDgwdy1MN2psRWRXOU5CSkJCUnRyS01YVzU3QmRQd0dmeFczN1dZU3l5NlBQdHJ6SWFqcWpva2pYSl9PX29DOElUZzNlZ0h4VmNPUDlvLTdpZjc5WDFmMGVTdGFsZjAtWTI1c2I1RzEtb1RhUzBQNUtEcTJrNjF6T2ZsSDgwU0F1aHJCeG14dFFD?oc=5",
-      "d": 1793609520000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "Dinas Perikanan Kotabaru ‘Sulap’ Limbah Tulang Ikan Jadi Kue - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2t2UVFtWXVTakNOY0JkZ3NCUWJfLVpCdmZrdGFWNjBJa1lvZ1ZPSVVSSnpEQmRaWXlmc081YXlVdzJDOFVGRE5SQXA4MXNxS1BSYk5hVm5rNldBMm1ONGdiazdjV3F3MVBnX3FWVlowYVZfaEs2d0F0LVhKV3FXQ2FGMFNaOTQ?oc=5",
-      "d": 1793609099000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "InvestorTrust",
-      "x": "Ara Bedah Rumah 415 Unit di Palmerah, Kampung Boncos Rampung Desember 2026 - InvestorTrust",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0hPOU1icmN2V3Flb2htemxoNmtvbkM2RlNxVFBfVVFaNFFudGt2M3J3YndRZmpnWU1XelpfYzgwdkl6YVd6Y2dwWXBNbVpwT3BYXzFYbG83endsLVRjRHJOWUhaakU2VXJLd0NfNHFiZmIwamNWZS16NXp1WlM5VUxtUGUtSEpNZ2t5dWhWcGo0MlEyYy1KdDFmbTZvdEl3VmxSLWRySTNxLXh1Y2o5a2FQTE0?oc=5",
-      "d": 1793609520000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@dhesyrusyani",
-      "x": "cuma nerusin infoo tthhh kaan hadeuuuuhhhhhh....!!! Tw 4 proses nya cepat salah, proses nya lambat tambah masalah, bansos PKH BPNT dan semua jenis bansos lainnya di akhir tahun ini",
-      "u": "https://www.threads.com/@dhesyrusyani/post/DfO7Uptn36O",
-      "d": 1793609739000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "kumparan",
-      "x": "Beasiswa PEMAPAN 2027 Dibuka untuk Mahasiswa, Cek Ketentuannya - kumparan.com - kumparan",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObUFPYXAtbWtkZlcwQTlJNnY0NXRQN1pfNnBkSzZJSmJnSTlKMVU4N1puaFRRZmFvRXg1LVhfVW5vanIwZzkwcmpaUDFBS05LQVkzaWw3Nlcta2lmMHBxWXVDWElZRXZ4aW1JcXBfT2k0LVFYc0lfZkVkQkU0QXVJVEtUSWhmdkFENk9XLUdRM003T0dkYUtzdmxoOFFUU3M3WUtDVFdHb2IwV2It0gG0AUFVX3lxTE16U3BzMlZ0RktGYUpNb3BxLWFmM2xqbUVBb2tHQ000aVp1VktjX3ZSMzJBZkdWNEozVzQxWk1TTmtZMjdxckEtS3k2VGlTUjNaSVpwcE9qMFdOcGdTWG1TWjllLVRIQ1FqNERFZXlncHloeEtEQnB5T3JSZjZUVUN1S2xKcHpyZkhSbWlhNEdkZXJtbnR3QWU2X3pQZHZIWi1jbzRIYzVFTWFHZnBEdkhsODZjMQ?oc=5",
-      "d": 1793596560000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28531,10 +28476,80 @@
       "d": 1793599320000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfPPVtxj3XL",
+      "d": 1793620233000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfPPO2ZD0hF",
+      "d": 1793620177000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfPO5S8j_W-",
+      "d": 1793620001000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfPO2g0D5rk",
+      "d": 1793619978000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfPOzsKDzVZ",
+      "d": 1793619955000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@robayperez06",
+      "x": "Halo! Aku Your Roby, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft",
+      "u": "https://www.threads.com/@robayperez06/post/DfPPCCpEndE",
+      "d": 1793620072000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arizabp",
+      "x": "Day 1 coba ngonten lagi ditengah kesibukan yang dar der dor. Kalo rame aku bikinin kelas GRATIS!",
+      "u": "https://www.threads.com/@arizabp/post/DfPOX_UiOD1",
+      "d": 1793619734000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
