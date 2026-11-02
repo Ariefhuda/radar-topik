@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DWu4JarkqqO": 1792449953830,
-    "threads:DbPDaECkhGr": 1792449953830,
-    "threads:DesWenck7xC": 1792449953830,
-    "threads:DesWqHDldmM": 1792449953830,
     "threads:DesXWp7jH8i": 1792450253186,
     "threads:DerBNUJk4h1": 1792450253186,
     "threads:DesX0_6knnH": 1792450253186,
@@ -27208,49 +27204,15 @@
     "news:CBMirAFBVV95cUxNMjYyQWRHX0ZkelV2Sm1zaDRBRzJyUGNhTmVEd0oyRFpLU0d4VF9SZHVTbXdnNVJueWl6Uk5RQ01XMTFoR0RSMFFKUnhJUEV5NU5LbXQxSFBnMU9iWldCU3VhWDlVck1pWm5sZWpxamI3U3dZLXlpU3dNS1dtREdTZkZaRWJhak5rZWtyS25aWE0wS0RJR2twTU04Qk9TbmdVN1hPLTZjaEIybG1k0gGyAUFVX3lxTE1JbWV0dFdPZHJHM1NLZnRXZXc3YXI3TGJONWhFNHM1YW5CTFA1SWJpMkFPV0MxdEk4TFMtdHY3T0o2MGNYTUowZElQeURXY1lRSVVRR3V5bVJtTWI3NGlpaUY2OVFjSW1UTUtOZ0ZubVkwNUJQWWJfbnR2djNNdHhFSm5XazV6VVJGR1Z4TVoxRm1yenhibVVXXy1ENFpBeHhzdVAxUE1laGFrYzFmd1czQ0E": 1793658957487,
     "threads:DfQZ63rkhJx": 1793659270083,
     "news:CBMisgFBVV95cUxNSW1ldHRXT2RyRzNTS2Z0V2V3N2FyN0xiTjVoRTRzNWFuQkxQNUliaTJBT1dDMXRJOExTLXR2N09KNjBjWE1KMGRJUHlEV2NZUUlVUUd1eW1SbU1iNzRpaWlGNjlRY0ltVE1LTmdGbm1ZMDVCUFliX250dnYzTXR4RUpuV2s1elVSRkdWeE1aMUZtcnp4Ym1VV18tRDRaQXh4c3VQMVBNZWhha2MxZndXM0NB0gGyAUFVX3lxTE1JbWV0dFdPZHJHM1NLZnRXZXc3YXI3TGJONWhFNHM1YW5CTFA1SWJpMkFPV0MxdEk4TFMtdHY3T0o2MGNYTUowZElQeURXY1lRSVVRR3V5bVJtTWI3NGlpaUY2OVFjSW1UTUtOZ0ZubVkwNUJQWWJfbnR2djNNdHhFSm5XazV6VVJGR1Z4TVoxRm1yenhibVVXXy1ENFpBeHhzdVAxUE1laGFrYzFmd1czQ0E": 1793659270083,
-    "news:CBMitAFBVV95cUxQdDV3UFpFQnhTRk1hM2gtQlBaYmZacnJZazdBQ2oybENMV1J4OW1oZ1RJT0NIbHVHTlFfbnJrdWFjbXFHLXpaRnF0WUphRHdRQ19JMmlsSldta1p6WVlCbXBOSlpqT3NFT2tCVk1ack9idGFwamR0ZEx3QlVXTXJGcGhOLVVNdFhOeVEtTnBaQmNQR1RET3QtX2dBcWpEamJhZTNKM1R0TFFtazc1UWtlbHgyVkw": 1793659270083
+    "news:CBMitAFBVV95cUxQdDV3UFpFQnhTRk1hM2gtQlBaYmZacnJZazdBQ2oybENMV1J4OW1oZ1RJT0NIbHVHTlFfbnJrdWFjbXFHLXpaRnF0WUphRHdRQ19JMmlsSldta1p6WVlCbXBOSlpqT3NFT2tCVk1ack9idGFwamR0ZEx3QlVXTXJGcGhOLVVNdFhOeVEtTnBaQmNQR1RET3QtX2dBcWpEamJhZTNKM1R0TFFtazc1UWtlbHgyVkw": 1793659270083,
+    "threads:DfQZcFXjqqm": 1793659542415,
+    "news:CBMimgFBVV95cUxPZTZCQ3RlNnRqdHROSVlRT19lbG9LcG5fak5vMWJLVF9EZ01tcndGVFZ3bmROUjVYN1RJdnlVYlhIUEJsQUZ6ZDAwSHRpSVlCb2RVUlJzcWY2Q0MtX0l3N09jdzJHTkstQXFKeGNiLXVEZHYzendjdVUxZ2tvNEJYd0JMV2pWV01pak9BZ2JKWElqUlRNZWQtbXRn": 1793659542415,
+    "news:CBMieEFVX3lxTE16YTVRQWVQQXFKYUxfdktVVEJITXFqU0RMZUEwZnVoNVY5OWdZRk41Q0x1X0Y4MXlmS19CQlhDbm1ZcERoR2hZdU1CVXhxM2xsU3gzeHh3eUJrSTRCamFnZjRjRmc3bXJqR3h1Z2NXamtxcG4xRUZRQQ": 1793659542415,
+    "news:CBMisAFBVV95cUxNNV9MYWJ5bnd4MW8zb2tza3p5bTRTeWhYcWVRNEdKUjAyYUd0aGNTWmc2dnlOWWlqbHJPelk3UWFYSHNFNW0wM0o0aXVLejBDdWlMbm91NVdHa3J0UWFDUlBGLWNDSnV4RDdJMVNtbkpoc1RLbTFhdER5QXhZU2FLQXBsd09PMGlwNW9UemZsRG40WlpJSzVLOXl3cnZOQk12YVlKeVkxNlFpV3E3djFhcA": 1793659542415,
+    "news:CBMitgFBVV95cUxOZTJEOUpfck9DQjM4NDc3eDhMNjVNbEpIVWlsdzJPREgwYnFCYVZncDVQWWdWZXJzR2xqR2M0YXdOT3U2dC1RUFJtcnZFZ2xOeXVwS0R1ekdoY3l4S2pHbGdYNzMyLVNMM3BQQ2FnT3RyRmJJLURWREJkdlc5OWFqblZCYVBMRkV4Yml3MVc4Tm5oeldRM0xkaTNwX3BVeW5tY0tjeWU3Z1pfQjhWczZYLW1ZY0hoUQ": 1793659542415,
+    "news:CBMiygFBVV95cUxNaFJzZW44eGRFTzB6YXM0aHlUeE5lMl96U2xqRERnZzVJbVQweGJ4dHltbG1OaEFYdl9EbWJtVVJWOUQ1M2NmZEtGc2pVcERCZVlkSHViTzEtTEY1emUxZm90cFd3TXRSMW43Ty12b0F1Z3pudm40SGZNYkMyRjRFLVZDcXVPaHpJMThiOUJ5eEp3bE9KSXJlNG1weWktMzBGdExvT01lTmVSbHN6cHE3ZDBLTlBzbDJab1gxZjRUQ0Q3NS1xRTQ1LTVB": 1793659542415
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@yunitaagustiani06",
-      "x": "3 minggu aku ka klo apk cek bansos",
-      "u": "https://www.threads.com/@yunitaagustiani06/post/DfPeBEMHy-l",
-      "d": 1793627929000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@irasumiartiirasumiarti",
-      "x": "Pengajuan PIP disekolah tetep harus lihat dulu desilnya,boleh di cek sendiri juga bisa... klik cek bansos digeogle crhom,yang dapet bantuan PKH,BTN,BANSOS itu desilnya yang rendah ",
-      "u": "https://www.threads.com/@irasumiartiirasumiarti/post/DfPdRfJozfP",
-      "d": 1793627539000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Elharamain News",
-      "x": "Wajib Sertifikat Halal Tahap Baru Berlaku 18 Oktober 2026: Restoran dan Produk UMK Ikut Tercakup - Elharamain News",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWW9QMW9IT0pjdUV4RkhBSVdBSHdGRWNpZ0hLMGl4c01vUjNwb1lJRjBGLU1UaElEaGpyaUdtX2JlbGlyRF8zMkhYbkhqbjdvUENTZ3hpMHBOSU54ZVBoUHFQRDBMUjlDcmYxdVZqXzNOVURjajhsdlhQaWtBYWliSElnanF2QjIxZmtMbWFqVDIxOXEtYVY1cjUtTDhPeFg2SWtEOERTdmZNdTdkOGhIdnVZMmxpYlN0Q3VvTkNFV3pOT0htcXozTUdR?oc=5",
-      "d": 1793628000000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "VIVA Purwasuka",
-      "x": "Perlinsos Digital Meluncur 10 November 2026, Cek Link Resmi, Jenis Bansos dan Cara Daftarnya - VIVA Purwasuka",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTjdpaEx5RkRBTXNtSGpVYklEbHBFLTlSbEtoRHZRQ3ZZSlBleVlJTG5kODJra096ZUdteHVlaW9pX3hhS1MwWTZfTnptQmpNWXlBVmIxaUhfWHdldE1TaU1rdl9JenoxTkVpU1QxclVRUDVDYW9NNWlkRkV2dW9vOWdYQktZS1VWNmpWUGZGTTQ2TnNZZWZaLWlJUnMtRzZ2bkJiQVdZMTFxb1pjd0YzU0x2VVFrOUNvYjFTX2p5b0M4b0diVHRhbE5HSUFPazTSAdQBQVVfeXFMTUk1cVc1NEd1d2hJUUFrRjJ5Q2ZVSHJxVDA2WENqcXNhdFNKVGtCaXJpcWhPWG1HTlhTUjJHTG51bmVXdEV4Zm9VVUQyRmNXWmh2eWJtQzNuVU1obkFRLXhqZnlkbWwzMy01dURud3FMTTE5ZGJldWZVUFZQdFMtTUlwNWxFcnZNWVctTmxHTFYwUGNwMG56bEo2S3FMNExCcjU4YXkyRGg3eGtYeWllUkpuS0VZalRKUkpKRVBDRjk2Si1iVC1XRG42LXgwQTducDJmNEg?oc=5",
-      "d": 1793624340000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28710,10 +28672,50 @@
       "d": 1793659153000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "BeritaTrans",
+      "x": "Tabrakan Beruntun Tiga Truk Trailer di Jalan Jampea Koja - BeritaTrans",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16YTVRQWVQQXFKYUxfdktVVEJITXFqU0RMZUEwZnVoNVY5OWdZRk41Q0x1X0Y4MXlmS19CQlhDbm1ZcERoR2hZdU1CVXhxM2xsU3gzeHh3eUJrSTRCamFnZjRjRmc3bXJqR3h1Z2NXamtxcG4xRUZRQQ?oc=5",
+      "d": 1793655225000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "SUARANTB.com",
+      "x": "Jelang Natal dan Tahun Baru, BPTD NTB Perketat Pemeriksaan Armada Angkutan Umum - SUARANTB.com",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNV9MYWJ5bnd4MW8zb2tza3p5bTRTeWhYcWVRNEdKUjAyYUd0aGNTWmc2dnlOWWlqbHJPelk3UWFYSHNFNW0wM0o0aXVLejBDdWlMbm91NVdHa3J0UWFDUlBGLWNDSnV4RDdJMVNtbkpoc1RLbTFhdER5QXhZU2FLQXBsd09PMGlwNW9UemZsRG40WlpJSzVLOXl3cnZOQk12YVlKeVkxNlFpV3E3djFhcA?oc=5",
+      "d": 1793642820000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "6 Daftar Bansos Kemensos yang Cair November 2026, Masih Jadi Penerima? - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTJEOUpfck9DQjM4NDc3eDhMNjVNbEpIVWlsdzJPREgwYnFCYVZncDVQWWdWZXJzR2xqR2M0YXdOT3U2dC1RUFJtcnZFZ2xOeXVwS0R1ekdoY3l4S2pHbGdYNzMyLVNMM3BQQ2FnT3RyRmJJLURWREJkdlc5OWFqblZCYVBMRkV4Yml3MVc4Tm5oeldRM0xkaTNwX3BVeW5tY0tjeWU3Z1pfQjhWczZYLW1ZY0hoUQ?oc=5",
+      "d": 1793659282000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "VIVA Purwasuka",
+      "x": "Foto Perlinsos Digital Meluncur 10 November 2026, Cek Link Resmi, Jenis Bansos dan Cara Daftarnya - VIVA Purwasuka",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFJzZW44eGRFTzB6YXM0aHlUeE5lMl96U2xqRERnZzVJbVQweGJ4dHltbG1OaEFYdl9EbWJtVVJWOUQ1M2NmZEtGc2pVcERCZVlkSHViTzEtTEY1emUxZm90cFd3TXRSMW43Ty12b0F1Z3pudm40SGZNYkMyRjRFLVZDcXVPaHpJMThiOUJ5eEp3bE9KSXJlNG1weWktMzBGdExvT01lTmVSbHN6cHE3ZDBLTlBzbDJab1gxZjRUQ0Q3NS1xRTQ1LTVB?oc=5",
+      "d": 1793626936000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
