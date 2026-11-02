@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd0fS5FD3A2": 1792440342566,
-    "threads:DesEmfzFu06": 1792440342566,
-    "threads:DesD-NbCC0_": 1792440342566,
     "threads:DeVYgIcEwVy": 1792440944123,
     "threads:Derne2ZEYFg": 1792440944123,
     "threads:DesGJpMDZiS": 1792441247176,
@@ -27162,19 +27159,16 @@
     "threads:DfQFdGRlZvn": 1793649335874,
     "threads:DfQFuACltXs": 1793649335874,
     "threads:DfQGhshE_Qs": 1793649335874,
-    "threads:DUkRvKHEzBG": 1793649682301
+    "threads:DUkRvKHEzBG": 1793649682301,
+    "threads:DfQH2UTk30V": 1793649950531,
+    "threads:DfQHf_aCqXr": 1793649950531,
+    "threads:DfQHhj6AdJw": 1793649950531,
+    "threads:DfQHc4REn0r": 1793649950531,
+    "threads:DfQHXnNIwbq": 1793649950531,
+    "threads:DfQHXq_lbKH": 1793649950531,
+    "news:CBMixgFBVV95cUxNN3Rsb2V3TnBPWF9LdFFYT21fV1pyaDhKX19FWUNYTi1KQllyTVRMMFRPMkpFdzZnQVgzbHZBUjhlNmVOOUxjM3pHSjA3bTFPd25GRGJKN3FtaXhQVnJyY3lTTk81T1FtZ3BDN2NCVlF6ZWxSNnFsYWpodWVWc3JncXVXUlotS2tGNlhmXzVJUEZkNGxOcWVKd1duVVh3V2l3eWVMOXU3YVJwVldKZmQxQjgtZ1QyTjUzMWZ2YWVTWkpIak1lSVE": 1793649950531
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@esastudycareer",
-      "x": "Mau MBA di Harvard? Simpan beasiswa ini! 🇺🇸🎓 Boustany Foundation Scholarship 2027 📍 Harvard Business School, Amerika Serikat 💰 Bantuan 75% biaya kuliah ✈️ Perjalanan & akomoda",
-      "u": "https://www.threads.com/@esastudycareer/post/DfPUk7nk0v1",
-      "d": 1793622980000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -28664,10 +28658,20 @@
       "d": 1793649167000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Lingkaran Istana",
+      "x": "Perjuangkan Kepastian Hak Tanah Warga, Bupati Dorong 1.400 sertifikat Gratis Melalui Tora - Lingkaran Istana",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3Rsb2V3TnBPWF9LdFFYT21fV1pyaDhKX19FWUNYTi1KQllyTVRMMFRPMkpFdzZnQVgzbHZBUjhlNmVOOUxjM3pHSjA3bTFPd25GRGJKN3FtaXhQVnJyY3lTTk81T1FtZ3BDN2NCVlF6ZWxSNnFsYWpodWVWc3JncXVXUlotS2tGNlhmXzVJUEZkNGxOcWVKd1duVVh3V2l3eWVMOXU3YVJwVldKZmQxQjgtZ1QyTjUzMWZ2YWVTWkpIak1lSVE?oc=5",
+      "d": 1793649750000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
