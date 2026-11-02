@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DejCGUloMyR": 1792369851667,
-    "threads:DdgZuozHzWt": 1792369851667,
-    "threads:DcROPwlgZ52": 1792369851667,
-    "threads:Dep-ck8H79l": 1792369851667,
-    "threads:DbDo6xim-MP": 1792369851667,
-    "news:CBMiqAFBVV95cUxNUG9TakNCejhscVB4djdldzE1MUlxUmRJYlpOWVl4bzQxVjFiZGU4cmY4cHRYeTE3dVNQMEtaWW5FNC1GU01RdVNpVmhtR1ZRanRCT2xtOThGbnltTl9mRG80YUdmQXhHbG9mWUkyMUZEbkVWbHkzYkFGZ1FFcng2OU42UzNSTDZnMWhRYlA2R0lIaEg4cVdMbS1BYzdRVmJHOGt0NHdYb1XSAa4BQVVfeXFMUEtmZUEzS0hhTDhtc0FGRFJpbU11WnhZQVlpaUxkQzhJU2pJSk1ndlkwUVk2OHlTX2NSTVBpMGE1OWxaR2djSnBCNkdsQ2w5UlNnZG9TeVdHcGRQRW56cFlraXF4YXBjRkZ6X3dLZXgwWjlkNWRDTWRSOW9SSmMyWmthaWUxY29uVXoweWVIb1RsWXdaWmtnZHRobE5iWTBIbV9nZVh3ZTBzbWU0SU9B": 1792369851667,
     "threads:DY2MK6djkKP": 1792370147420,
     "threads:Dc-jzQHkiZO": 1792370147420,
     "threads:Dep9LN5iV-H": 1792370147420,
@@ -26924,39 +26918,12 @@
     "news:CBMiqwFBVV95cUxOY2RGQWFlWGk4bGNKTHpPV2Ewb2pQRHluRXUwd2V6dHFoZERsMFBSdkFQbkU2bk80bDNqNWkzcHRIOVdOTGRqMlRpdEc4TURyb3JyR05ZcDQxSlR1aGs1Sk1qUHYxWk5nVTVvSFVuZlF6X0ZZN096amMzeTdDLUI3T0t6X1gtalZrMXJIa1p2QjkyZ3ZQVXJTNDdmMVhrV3lwZXYtbVpvMF9jTjQ": 1793579140651,
     "news:CBMibkFVX3lxTE95cEVXdURPNFozdTA0RkVQNjE2RUpOeEVnUDN4VWdSbjI5SEFaQ3RackdGSVBXS1BUN00xOXo5T1hpeVhsWkJvc19tejJyRm5OYkd3WG1kNTR5djhWWkFsRU81cVl5UVM0UWlhcW53": 1793579140651,
     "news:CBMi-wFBVV95cUxNQldZMkhJLTR0NDJtWk53dFhpMUdiWGlMelZZU1dQc2tUNE11aW5qMVRaRHVjV3cwNHBNaXM1UzhCRUlNNER5VXpiTk5JZDdyTVRqQ1FPZW85Q3FscUdBT05KcFVMdHVtYVVmdURlT2tpeDczbVh6b0NmR2ozVDR0RGlWZ1lOYmdiOHNXeVpXOXoteGhPZ21MbU9qNXd2WVVpZFp2Z1hCX0NjOW9SZ29PaEFqVTJueVRMX0dXcGlfUEhHTnZaRndYejZYb2djRU52RnRPSXVqb29DT08ycWFlS3JXVWw2X3Y2X29ZSWhkWE9WVk93ZG5qMWVERdIBgAJBVV95cUxPNG1YcG02cnZrdHZpS05SNFQ4ODFoZUFwdFFaTmdhYWtlTDBHT2JUdDZmSlZkWkpfczctbE1OMHdyREQzcWZTd0QzNWstZXdwUTRGZ2M0UU9MUDRtbWMyRklnOWlFT1ZCZUV1SDdPTEF2dTRUREc2aUVyT2hVcUcxbzdCVVJGa1pUUFRqRmpXZVBLZjloYXFEYUpaWGxzR3hGMFhjVm1BX09YTVJCdXhBTGxFaW5qS2paLWJMQWMzdlFPUmhRQ1pERUQ1eGstOUNYU2ZJZlh5Q1BqZXpMMlRyUk5sdl9DSUtKdVJrTTlCWS16di02bnl6STBlTWtXZktf": 1793579140651,
-    "news:CBMi2AFBVV95cUxOTHJmN3dnaVdVNmljbFVTbXp4NEJSUmN2aHJKamJab0JKcnRTNVB6aTBDRlNLZjFKQ1NWTkM5NU9OdWg5TEVXakV2WTBZTGltbTNYQi1xM0RsQ2VkaWFjRDBnVXNKaUxpMG1LbUU1YUQxRWx6SlRmNWxYU0xfTWh5dkRiZU1PaHJZT3lWU2lNWk1QR3c4Y3BmZ3I2SjNscU45SEwxOUpmTXVPZmJiX3RTNTlKTmVVdFZTOFVFT3VFekU3OUJ2WklvUEo2LUVibHZCeWl2MWIyc3HSAd4BQVVfeXFMT3pfN2pJbTlZakYxTG9iZ1lER1dXVWVqdVE4N3JRNkgzMGdMajNlWHBtQlUtcS1zWVM3N1VaMUhjMXhiYUhZZzl4LXhYeFZsUE9qUml4S1dUMnRRQkhocUhaQUdXc1AxNWs2MEV5dUNBXzlZcWdHMUtDZmNNaVVDRFZuYlFZUGdvY1ptUEoxbnc2NF82d3dkNzVQQWhXallrUW91c3ZLNEE3cEpFVGdZNFJiVEhLakZrV3dHb1RmXzAyLWpSWldJVFRDVWU0X1FpY25GMGduRWFwQ0o3ekRn": 1793579140651
+    "news:CBMi2AFBVV95cUxOTHJmN3dnaVdVNmljbFVTbXp4NEJSUmN2aHJKamJab0JKcnRTNVB6aTBDRlNLZjFKQ1NWTkM5NU9OdWg5TEVXakV2WTBZTGltbTNYQi1xM0RsQ2VkaWFjRDBnVXNKaUxpMG1LbUU1YUQxRWx6SlRmNWxYU0xfTWh5dkRiZU1PaHJZT3lWU2lNWk1QR3c4Y3BmZ3I2SjNscU45SEwxOUpmTXVPZmJiX3RTNTlKTmVVdFZTOFVFT3VFekU3OUJ2WklvUEo2LUVibHZCeWl2MWIyc3HSAd4BQVVfeXFMT3pfN2pJbTlZakYxTG9iZ1lER1dXVWVqdVE4N3JRNkgzMGdMajNlWHBtQlUtcS1zWVM3N1VaMUhjMXhiYUhZZzl4LXhYeFZsUE9qUml4S1dUMnRRQkhocUhaQUdXc1AxNWs2MEV5dUNBXzlZcWdHMUtDZmNNaVVDRFZuYlFZUGdvY1ptUEoxbnc2NF82d3dkNzVQQWhXallrUW91c3ZLNEE3cEpFVGdZNFJiVEhLakZrV3dHb1RmXzAyLWpSWldJVFRDVWU0X1FpY25GMGduRWFwQ0o3ekRn": 1793579140651,
+    "threads:DfOBSNJkTuN": 1793579447182,
+    "news:CBMiuAFBVV95cUxQNlNTd1VJRDlPYUd3ZEE0QTNpcXVwQWQ5MVppSGhXOUpCc1hSUmc5ekFPVk44WVBTakMtVjBMNXpiOTZZZmhZQlF6cFBVVlhRR2ROdG9Gb3RQYS03TFhNeGtvSWsxQVJNaWotNHdpMzJzU1FneTZGTU43Nk16bmc5N2pvcHpQeV9YaV9jY3hpbmN1WndjVXZRVnpNd1dmTzJBY0Q4bGsxRldWX2xzcWh5QlZKamlJQmVI": 1793579447182,
+    "news:CBMib0FVX3lxTE9ORzVpWVpoOURPUWtkZ2JzUzRRZ2NNYm9IWWw4QWF2eXZ3eExISlJ2Wlo0dTVMWWdVckh6VWdfanF3X0VSUmluT01zajNJOEFXMlc5ZEFWS0tTRVgteFFtdVc5R1A1QmQyVWN4ckJ4bw": 1793579447182
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "tvOneNews",
-      "x": "Cara Cek Bansos PKH dan BPNT Online 2026, Ini Link Resmi dan Panduannya - tvOneNews",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1VJQXNuc1BneUhYNDJJTkl1VFRjc1NqZmNBMHNlQ0hHc2cxUVRlZ0lKT1N3SzZwX1JJMWVRckJtQTlRWXdYakhEZ2FqNWZXQ3U4dXFyX2FwVHRQbUR0MWRRQjNIcFgtRVhfNGo0ZEtad1Q0bnlBWS1RejA5eVZ5UzlqVDFVX0RjeFl3LTFsWkFXaDNtRVk3b2xmcTQyMWxHaEdubW83dTdGUHc0S0dYNXBndmNCLTI4Zzc2TzZUM1hzdEpT0gHAAUFVX3lxTE9zMkhMZVdIUUswOGI0ZHRMVFRnYXFycm10NzZPaFJXOHh3eWR6Zlh1ZnJIdVRodjVyTTFUQk9JX3pLLTZTSEVCMF9NZk1KQUgxbk5Rd0ppUF9tX0FMRHJpZlZ5amlTajJYQklQSk42TF93WkxXaURrNzJfc2NZS1FOM2E5S3FMVk5zOTNVWFlrMm54R1hyd1BZa21DSmloVkF0a1JXa0pkNnFKdzJaQm85d0ZnWTFmMUthRUlpdVNsTg?oc=5",
-      "d": 1793493480000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@buble10_",
-      "x": "Kak kalo itu kan jadinya semuaa orgg jugaa ngisii hal yg samaa..selain pelatihan kk jugaa bisaa isi dengan permah mengikuti webinar , kuliah pakar atau kuliah umum yg mendatangkan ",
-      "u": "https://www.threads.com/@buble10_/post/DfNGY58E0Pm",
-      "d": 1793548432000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nawasena.cipta.arunika",
-      "x": "Kebetulan kak kami lagi buka class untuk tgl 21-22 BNSP Sertifikat dan pelatihan AK3U Boleh join grup juga kak info loker k3 gratis https://chat.whatsapp.com/CFKbxakiMRGBTIAm43UTjq",
-      "u": "https://www.threads.com/@nawasena.cipta.arunika/post/DfM9PxUlFGo",
-      "d": 1793543639000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -28426,10 +28393,40 @@
       "d": 1793573750000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kasus janda sebatangkara sakit berat tanpa BPJS itu masuk kategori yang wajib ditanggung negara, bukan lansia saja. Solusinya bukan lewat RT/RW saja: 1. Untuk berobat dulu, jangan ",
+      "u": "https://www.threads.com/@meta.ai/post/DfOBSNJkTuN",
+      "d": 1793579310000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Cara Cek Sertifikat Tanah Secara Online Lewat Website ATR/BPN dan Aplikasi Sentuh Tanahku - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlNTd1VJRDlPYUd3ZEE0QTNpcXVwQWQ5MVppSGhXOUpCc1hSUmc5ekFPVk44WVBTakMtVjBMNXpiOTZZZmhZQlF6cFBVVlhRR2ROdG9Gb3RQYS03TFhNeGtvSWsxQVJNaWotNHdpMzJzU1FneTZGTU43Nk16bmc5N2pvcHpQeV9YaV9jY3hpbmN1WndjVXZRVnpNd1dmTzJBY0Q4bGsxRldWX2xzcWh5QlZKamlJQmVI?oc=5",
+      "d": 1793579167000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Tujuh Pemain Naturalisasi Malaysia Kembali Bisa Berlaga - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ORzVpWVpoOURPUWtkZ2JzUzRRZ2NNYm9IWWw4QWF2eXZ3eExISlJ2Wlo0dTVMWWdVckh6VWdfanF3X0VSUmluT01zajNJOEFXMlc5ZEFWS0tTRVgteFFtdVc5R1A1QmQyVWN4ckJ4bw?oc=5",
+      "d": 1793556600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-01-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
