@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeiaTOCk-nX": 1792425102361,
-    "threads:Dernpy8o7xl": 1792425102361,
-    "news:CBMisAFBVV95cUxQSjNZc0dhWGZJRVdfVmJHcFR3M2lwOFpYYlVOMTk2N0NVaFVseEt5NzZmZUZZYXF1TmdMc3R5cGVYOW9OOWRLbjlnbTJBR2luNkpvUEJQQlkyNnY4dXJLNmtXSXZzTC15S2NsSnpGb2VMcHJNdjhRcmt0c25wbG83U09fblBjc0ZDSGtfenZMdXlOM0dkZ0FGTTBSRWJ1cmpCTmVkUVFpdVlzVHg5S2RhZA": 1792425102361,
-    "news:CBMiywFBVV95cUxQNUhZZXQtUnNjTlhMVmkxbjRaYUFjYTc1SUx1X2d3VHBwTzlxajFZWVRIZTc3OW5zUzFBYXFLemRybEtTOWFCbWRkUGZoYktkMGJGNjhLd3Z6Wm5SaEV2RnJkVjJRRXNXU0paOUY4X281bHI3TXc5VTdzZ0cwOWtNZ005TDNzLXhLVGVOS2xsOHdpdGlWMktpNC1pN3NlalNZYnNFbFVOTHNLNGZJOS1Ya041WFZNOHlQQTRtS3BiREdVSmZGemFoODBlQdIB0AFBVV95cUxPYnJTbjlVNUtCYkxsNXV3RDZxZkUxd1FWYk9nRmJZSzQtanJXVU9qUGx6Q1M3VnFpWVlTOXA5SEMyN2o1Uy15R1FBb1VOMC1ITG53UWhRU3VrWWlTMjZPTmJzUTZNZzMzTk5XLUhHaEF0OERKamYwajBXSk5XTnhPWVVYUzV5T2hOUEhUdWs4Y2lLbVFoUVZUS2xvb1VMREh0NDg2Y2pqZ3VCeFVfRmVEblZNOFNwTmloYVVMaVNoMUJyUlE3YzNZYWtIMU9TSGFp": 1792425102361,
     "threads:DernO5WGU99": 1792425543616,
     "threads:Ddag-XwieL0": 1792425543616,
     "threads:Derov9Oky-E": 1792425543616,
@@ -27060,7 +27056,10 @@
     "threads:DfPo3ihDDzD": 1793634351761,
     "threads:DfPpVWxoCOq": 1793634351761,
     "threads:DfPpPuMiEcv": 1793634351761,
-    "threads:DfGm_VqEr6o": 1793634351761
+    "threads:DfGm_VqEr6o": 1793634351761,
+    "threads:DfPqzTQD9kM": 1793634653055,
+    "threads:DfPpVZjmcfb": 1793634653055,
+    "threads:Dc7SdhDD7nM": 1793634653055
   },
   "digest": [
     {
@@ -28322,10 +28321,30 @@
       "d": 1793631955000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@anamartiany",
+      "x": "Tahan dulu kak, sembari nyari side hustle. Boleh coba ikutan webinar gratis digital marketing kak, klo berkenan boleh join link yg di bio ya.. 😊",
+      "u": "https://www.threads.com/@anamartiany/post/DfPqzTQD9kM",
+      "d": 1793634632000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qwrstzx_",
+      "x": "Hi, I'm Dita Dwi Silvia, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Micro",
+      "u": "https://www.threads.com/@qwrstzx_/post/DfPpVZjmcfb",
+      "d": 1793633862000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
