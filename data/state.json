@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Db7TuK7lCp7": 1792471243308,
-    "threads:DbiM87Dnbgg": 1792471243308,
-    "threads:DPOiGYoEmKU": 1792471243308,
-    "threads:Da5Me9rCdR9": 1792471243308,
-    "threads:DdJAznmHegQ": 1792471243308,
-    "threads:Des_oCoD4j4": 1792471243308,
-    "threads:Des2S6DDwbb": 1792471243308,
-    "threads:Des_zE3nyAv": 1792471243308,
-    "threads:Des_feniby8": 1792471243308,
-    "threads:DeNzr7tINQv": 1792471243308,
-    "news:CBMipwFBVV95cUxPVVpxTk52MlYxYnFyeS1SQ1draHp3Rm9pR2ZlSlRyd3dwRktFdzZNUmtGY21YY2ZmMlJrSVN0cFFRczAyRS0welNHa2pUMDRWemdnMXRfUmE5Qy1zd25IcjRlYnJrWTZOOFpkdTdUTWtjUDdSRVRtYlRMMFRLX1lFc3I5TDYybU9vbGZpby1KSHZsc19TbzM1OUl3dWFsbTFSekIxZjE2dw": 1792471243308,
     "threads:DetANVoEy6r": 1792471537605,
     "threads:Des_8vxoOzf": 1792471537605,
     "threads:Des_Yy-jYrC": 1792471537605,
@@ -27433,99 +27422,21 @@
     "threads:DfRBzDdAfgV": 1793680540039,
     "threads:DfRBo0SGvyH": 1793680540039,
     "news:CBMi5AFBVV95cUxNczZJdlRjTUxZSW1uUV84dWpGV3h1cWpxcFNZYm9hcHQza2l1ajVNbnZTYVV2aTNtYVJXNUxBejJCU2VGQThmRFVCa2VlellQYTkxRkNwMUVkZ09zdFNqUHotS2Q0Y1dYc3dxd0l3OWxRWUlqUDZTdUpOVVlPa2g2R3F3Um5YalpHU3pDRzdFWHkyQWlzLWVUMVB6ckw4czZaRGs2bF9VV1FFYm1SNFdlajBLdHZOS0VpTm9WbzJPd3FXOHZ4dFBXSWMwSnowTTBTSnZtdzRPZlEtbDZnbEpacXdvc2g": 1793680540039,
-    "news:CBMi8wFBVV95cUxNNXQzQkFQekx4a3JUNmEwbENjb3o0UkpYNFp6V3dxSDBreVhFZDlVcTQ2UlZVMVBPalRxTGpvOUZJNjFETzFicTluNkoxUmxJbmZMZkhmdG9SWTBudVUwNm5xM2pUbkpDZW41Q2pVbHUyNjVnNEVTbjQ5MHRWV2lBNkJ0b0pyelVvLVNuZGVrUjdrSFF6eHVDeXdBTV9GbHdGcHBxcTlCT2tXMjE1d0dORWd2clVvNkg0SWxIdmd5LTFRbjgzSkhtY1kteDFYZFVrOGRHcVBpWjJHb0Qyem41V01EVWVDcXEtX1I0dG9vYTA0cTDSAfMBQVVfeXFMTTV0M0JBUHpMeGtyVDZhMGxDY296NFJKWDRaeld3cUgwa3lYRWQ5VXE0NlJWVTFQT2pUcUxqbzlGSTYxRE8xYnE5bjZKMVJsSW5mTGZIZnRvUlkwbnVVMDZucTNqVG5KQ2VuNUNqVWx1MjY1ZzRFU240OTB0VldpQTZCdG9KcnpVby1TbmRla1I3a0hRenh1Q3l3QU1fRmx3RnBwcXE5Qk9rVzIxNXdHTkVndnJVbzZINElsSHZneS0xUW44M0pIbWNZLXgxWGRVazhkR3FQaVoyR29EMnpuNVdNRFVlQ3FxLV9SNHRvb2EwNHEw": 1793680540039
+    "news:CBMi8wFBVV95cUxNNXQzQkFQekx4a3JUNmEwbENjb3o0UkpYNFp6V3dxSDBreVhFZDlVcTQ2UlZVMVBPalRxTGpvOUZJNjFETzFicTluNkoxUmxJbmZMZkhmdG9SWTBudVUwNm5xM2pUbkpDZW41Q2pVbHUyNjVnNEVTbjQ5MHRWV2lBNkJ0b0pyelVvLVNuZGVrUjdrSFF6eHVDeXdBTV9GbHdGcHBxcTlCT2tXMjE1d0dORWd2clVvNkg0SWxIdmd5LTFRbjgzSkhtY1kteDFYZFVrOGRHcVBpWjJHb0Qyem41V01EVWVDcXEtX1I0dG9vYTA0cTDSAfMBQVVfeXFMTTV0M0JBUHpMeGtyVDZhMGxDY296NFJKWDRaeld3cUgwa3lYRWQ5VXE0NlJWVTFQT2pUcUxqbzlGSTYxRE8xYnE5bjZKMVJsSW5mTGZIZnRvUlkwbnVVMDZucTNqVG5KQ2VuNUNqVWx1MjY1ZzRFU240OTB0VldpQTZCdG9KcnpVby1TbmRla1I3a0hRenh1Q3l3QU1fRmx3RnBwcXE5Qk9rVzIxNXdHTkVndnJVbzZINElsSHZneS0xUW44M0pIbWNZLXgxWGRVazhkR3FQaVoyR29EMnpuNVdNRFVlQ3FxLV9SNHRvb2EwNHEw": 1793680540039,
+    "threads:DfRBzruCtBC": 1793680841882,
+    "threads:DfRBvpOpTyK": 1793680841882,
+    "threads:DfRCndtk-qW": 1793680841882,
+    "threads:DfRCdNZgW8B": 1793680841882,
+    "threads:DfRCS6bIL0g": 1793680841882,
+    "threads:DfRCEXXkpNr": 1793680841882,
+    "threads:DfRB9WPmfAw": 1793680841882,
+    "threads:DfRB80PGTSd": 1793680841882,
+    "threads:DfRCTCfgVbE": 1793680841882,
+    "threads:DfE9K-RAWye": 1793680841882,
+    "threads:DfRC_8hEg7k": 1793680841882,
+    "threads:DfQU9ZcE5sj": 1793680841882
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Warta Lombok",
-      "x": "Cek Bansos Lewat Situs atau Aplikasi Kemensos, Kenali Bedanya agar Tak Terjebak Calo - Warta Lombok",
-      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSjdSZnprYkZZMld6WkMtTm9aT0lEdE9PLVlSZzBFUjNKbm1vQXJTVy15MmYwd19LUlJzUkRNWWthU05ZNTNMZ1pNZzdzdnJiQVpnODhNYTcyWnY5b21WODRhaUJzbjltNFZIYVZPdjFyc18zQ3BPSFNFRVdBZjl4bWJUdGI2QkFnVUtwY3p2NVNsVzVSSkoxNjVYMXE4ampiTndiZzJBV0NyZTk2bUJrN3lCTl9La1p0TmpFOElpUTNUNGhNbW5JQzZLcHBONGYxeUw4MHhvT0ZESjFNUXVwSGlnRzTSAeQBQVVfeXFMUEo3UmZ6a2JGWTJXelpDLU5vWk9JRHRPTy1ZUmcwRVIzSm5tb0FyU1cteTJmMHdfS1JSc1JETVlrYVNOWTUzTGdaTWc3c3ZyYkFaZzg4TWE3Mlp2OW9tVjg0YWlCc245bTRWSGFWT3YxcnNfM0NwT0hTRUVXQWY5eG1iVHRiNkJBZ1VLcGN6djVTbFc1UkpKMTY1WDFxOGpqYk53YmcyQVdDcmU5Nm1Cazd5Qk5fS2tadE5qRThJaVEzVDRoTW1uSUM2S3BwTjRmMXlMODB4b09GREoxTVF1cEhpZ0c0?oc=5",
-      "d": 1793668853000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "CNN Indonesia",
-      "x": "Pemerintah Targetkan Beri 3 Juta Sertifikat Rumah Gratis pada 2027 - CNN Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQlRDaW00TTJVNUF4Q1o4MUFrQVluRjNFcktlS3piWEViSkNkU2JnZm9TQVdNaEhHblVzSm0xUzV0ZzZYN3d1YVBXOGtYNTh1X2NPOWFMVU8xODVQRUswQ0FFcE1MTGR3V21lV082dG9tVVNJLWRBV2ZJLUpudDJxMlllMzk2NkEzZzJtamdySjBsRV84d0V2S3N1TXBWOUk5b1pMQjF6dEVyb1BWbnRSeWFpZERsQU5WakJIa3BXNEptSF83dHNVUDA1aWdzUdIBzgFBVV95cUxOQlRDaW00TTJVNUF4Q1o4MUFrQVluRjNFcktlS3piWEViSkNkU2JnZm9TQVdNaEhHblVzSm0xUzV0ZzZYN3d1YVBXOGtYNTh1X2NPOWFMVU8xODVQRUswQ0FFcE1MTGR3V21lV082dG9tVVNJLWRBV2ZJLUpudDJxMlllMzk2NkEzZzJtamdySjBsRV84d0V2S3N1TXBWOUk5b1pMQjF6dEVyb1BWbnRSeWFpZERsQU5WakJIa3BXNEptSF83dHNVUDA1aWdzUQ?oc=5",
-      "d": 1793669705000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "Rahmat Saleh Wakil Komisi II DPRD Banjar Dorong BUMN Libatkan Kontraktor Lokal dalam Proyek APBN - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkotZzJtVDdBX1dGRDA5bDU3bHhyWS1VcUh0WTVsd2JJeGNKV1YzNnExV04waGhPLXFmQmttMHQyMGRhSmViZm9ITzBBVmo5YmhFOUFSR1I5X09nb05jQjRuN3hMbGJCUWx1LXlFZXBsQmR6d0g5VFZjbjl0dFROa1Z1azY3LXotSzdqaDJWNnpnZTJYUFotOWlDUFhoUE5XY0I1V3BNdU5KaVdEbk82c3VQLVJBSTlCTEE?oc=5",
-      "d": 1793672468000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak, bisa upgrade ke skill digital marketing dan bisnis online kak 😊. Supaya nanti bisa berjualan online produk sendiri atau produk orang lain. Bisa dropship, dan bisa juga af",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfQ02bQD3pg",
-      "d": 1793673454000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lpkhikarisumut.umbulsarijember",
-      "x": "✨ *INFO WEBINAR EKSKLUSIF & SHARING SESSION* ✨ *Program Kuliah PKL Perhotelan di Taiwan* Siap Berkarir Internasional! Ingin kuliah dan berkarir di luar negeri dengan estimasi gaji ",
-      "u": "https://www.threads.com/@lpkhikarisumut.umbulsarijember/post/DfQwRkmmBpn",
-      "d": 1793671055000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ruddy_ang89",
-      "x": "⛔ *(MALAM INI) JADWAL KELAS DIGITAL MARKETING GRATIS (KOMUNITAS BISMA) :* Setiap senin sd Kamis jam 19.30 wib via Zoom 1- 5 November 2026 Join free Bisma : https://s.id/pBy69 📆 *\ud83c",
-      "u": "https://www.threads.com/@ruddy_ang89/post/DfQoaiXkxGI",
-      "d": 1793666935000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@silviameyy_",
-      "x": "Info pelatihan skill mahasiswa Karawang sertifikat resmi 2026 Kriteria Pelatihan : -Sertifikat dikeluarkan oleh lembaga resmi -Jadwal yang tidak bentrok dengan jam kuliah -Fokus pa",
-      "u": "https://www.threads.com/@silviameyy_/post/DfQ1n6-Ae9k",
-      "d": 1793673860000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sac.dumppp",
-      "x": "Halo! Aku Salsa, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Exc",
-      "u": "https://www.threads.com/@sac.dumppp/post/DfQ1ojYknSg",
-      "d": 1793673865000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Semangat mas Raymond Walau saya di banned tp saya masih lihat mas Raymond di daring 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud C",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfQ1IkUmHyc",
-      "d": 1793673603000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28935,10 +28846,100 @@
       "d": 1793671775000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kevin.angga.saputra",
+      "x": "Kata orang, uang itu tidak punya saudara.. masalah nya, seringkali uang ini diperebutkan oleh sesama saudara, bahkan yg paling kasih dan dekat.. Sebelum terjadi perselisihan, ada b",
+      "u": "https://www.threads.com/@kevin.angga.saputra/post/DfRCndtk-qW",
+      "d": 1793680672000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muslimahwfh_id",
+      "x": "H-2 MENJU WEBINAR GRATIS! ⏳ ✨ Tinggal 2 HARI LAGI menuju sesi spesial kita minggu ini! Buat kamu yang pengen tahu rahasia membangun kepercayaan baik itu lewat media sosial maupun d",
+      "u": "https://www.threads.com/@muslimahwfh_id/post/DfRCdNZgW8B",
+      "d": 1793680588000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@apibki",
+      "x": "Hi warga Threads! 👋 Pernah nggak sih lihat anak yang susah banget baca tulis, padahal dia cerdas? Bisa jadi itu disleksia. Kabar baik, APIBKI (Asosiasi Pendamping Individu Berkebu",
+      "u": "https://www.threads.com/@apibki/post/DfRCS6bIL0g",
+      "d": 1793680504000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@linda.cecilia.9",
+      "x": "Mau bisnis online tapi bingung mulai darimana? takut gaptek? gapunya produk sendiri? gapunya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langkah awa",
+      "u": "https://www.threads.com/@linda.cecilia.9/post/DfRCEXXkpNr",
+      "d": 1793680386000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@callingvisa",
+      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
+      "u": "https://www.threads.com/@callingvisa/post/DfRB9WPmfAw",
+      "d": 1793680327000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@callingvisa",
+      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
+      "u": "https://www.threads.com/@callingvisa/post/DfRB80PGTSd",
+      "d": 1793680323000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@anemonecibubur_kotawisata",
+      "x": "Yuk Coba Kelas Gratis (Trial) di Anemone Cibubur Bogor yg tersedia setiap hari 🎉🤩 Tunggu apa lagi segera daftarkan si kecil Bimbel Baca Tulis di Anemone Cibubur Bogor🌈 1 Jam lan",
+      "u": "https://www.threads.com/@anemonecibubur_kotawisata/post/DfRCTCfgVbE",
+      "d": 1793680505000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@idwebhostcom",
+      "x": "Ini jadi bukti kalau siapa pun bisa bikin website sendiri pakai AI, asal tau cara nge-prompt yg bener. Skill ini nih yang perlu dipelajari sama bisnis owner dari bikin prompt sampa",
+      "u": "https://www.threads.com/@idwebhostcom/post/DfRC_8hEg7k",
+      "d": 1793680872000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfQU9ZcE5sj",
+      "d": 1793656734000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
