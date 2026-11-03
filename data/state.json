@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevBdIugP3o": 1792539352194,
-    "threads:DevAB4SlPZx": 1792539352194,
-    "threads:DevAaRqAY49": 1792539352194,
-    "news:CBMirwFBVV95cUxQRG5MWTlTNkg4NWhYdjBBZzZodzVXM2NmYjdDT0puS1hLNGNraHZGMjlSMW05YmoxTi1lWXBueUlDb082T092dTc1NFBLSWpNV2ZtdUxhb1phYUM1NGFFNGV6MjVTSi1LdFlJM3o2V3BSNHNZZDY3dV9BdnlqSDlySVNHUnpoY254cjdXdzRweTExTkRJamZNYnVwY0g1YzB4aG5LQTU0NWYxOHFmUnRJ0gGiAUFVX3lxTE52bEFObENvWVZOdE9ObmczenJkVFF5ZDU1VkQzR3JMYlAtVkVCLXZrYXAzeDduUVNOSDBrdUpnbjBZUkh5WUN6RlExaDVHLS1YMWxQbS01Q1RRbmY2ZGNRcnJHWTZYLXBuMU9nMXFNSDl6Y0xmV3ZWRGR4S2V2NXVKUFRHYllqQWZBaGQyNVpySi1mQURJUVpoamx2d0lRd2VSUQ": 1792539352194,
     "threads:DevBsC3Exyl": 1792539648014,
     "threads:DevBdohHyez": 1792539648014,
     "threads:DevBK6HE6HU": 1792539648014,
@@ -27950,29 +27946,12 @@
     "threads:DfTDjnDj6o9": 1793748653090,
     "threads:DfTDcPZj4Rx": 1793748653090,
     "threads:DfTDa2XDaaL": 1793748653090,
-    "threads:DfTDNllozfP": 1793748653090
+    "threads:DfTDNllozfP": 1793748653090,
+    "threads:DfTDispD1H1": 1793748935900,
+    "threads:DfTD54hEhsX": 1793748935900,
+    "news:CBMipgFBVV95cUxNUHlUTS12emtiSVZMX3hqYzM0N0pCaTFhdTdlZ3Q5TGZDVjdmWUZLVGd4UTRBMmFrY3lfLTl1SUdwYUVGc0VBd0RqWGRiSFNQRzgtZHEyaEl1WEV3SG4xTzdTczFHVWlrT2ZuZ3c4b0xkQWFWeEFUc3R6bGJFejNDb29ibXppZzdwZXNXS1hQeFQ3dlljN2Y1MmhUUmZ1cFQ0dWh2Nnhn": 1793748935900
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfSEfvwH6eC",
-      "d": 1793715212000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfSEa1MnzAz",
-      "d": 1793715171000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29452,10 +29431,30 @@
       "d": 1793748240000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yunita_farmasi92",
+      "x": "Selamat pagi.. Saya punya tiket webinar gratis belajar tentang masalah kesehatan jantung. Yang mau belajar silakan gabung grup https://chat.whatsapp.com/G6SAeUhRjclJPOH5dOvtEH?s=cl",
+      "u": "https://www.threads.com/@yunita_farmasi92/post/DfTD54hEhsX",
+      "d": 1793748456000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Cianjur Update",
+      "x": "Program PTSL di Cianjur Perlu Dipercepat, Ribuan Tanah Belum Bersertifikat - Cianjur Update",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHlUTS12emtiSVZMX3hqYzM0N0pCaTFhdTdlZ3Q5TGZDVjdmWUZLVGd4UTRBMmFrY3lfLTl1SUdwYUVGc0VBd0RqWGRiSFNQRzgtZHEyaEl1WEV3SG4xTzdTczFHVWlrT2ZuZ3c4b0xkQWFWeEFUc3R6bGJFejNDb29ibXppZzdwZXNXS1hQeFQ3dlljN2Y1MmhUUmZ1cFQ0dWh2Nnhn?oc=5",
+      "d": 1793741897000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
