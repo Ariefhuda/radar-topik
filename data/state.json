@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetuufNEuUx": 1792495846528,
-    "threads:Detupeak0ln": 1792495846528,
-    "threads:Dettv9zE-0c": 1792495846528,
-    "threads:DettFVwH-NC": 1792495846528,
-    "threads:DetppkqkwEv": 1792495846528,
-    "threads:DetuMGuH5Nn": 1792495846528,
-    "threads:DetW1WZk2j6": 1792495846528,
-    "threads:DetTf9kk2bU": 1792495846528,
-    "news:CBMikwFBVV95cUxNX0x5LVUyS3lUUHB6TFh6SktTYVppcFhodHBjaWVzczFEbUhrSm5NWS1oU3dVc2pKbEVINEhyMWgwNk9LcUZRNWI1c21GYXdQdWxhc28tQ0c1TFE4YS1BekdZa3VhUDZUMEpqNms0VHF0QloxRmpwWW5xVkk2Y2VJNjNFWWpHRnNsbjlxRkU5OWJ4RmM": 1792495846528,
-    "news:CBMiqgFBVV95cUxQdWtWSll3RFdpbjYyclVqWHp1WHdmZEd0S3FnWTdnemV1ODFna1lzSFJQcUx1VTdhWkhMN0R0S19mSWJaa3NJVVE4V3lFcmJlYUd6Rm1HOHFNcVB6N2lZenZveDhRWjVFRFZzdWtWTW5PSDdQcllvc0FQaEZ5UU9UbHJUa2JQa0gxM0NxYkJfYThMWUVBX3ptWlRPOE9CUnhFZndlVllMVTRzdw": 1792495846528,
     "threads:DetuCCFDD-I": 1792496142634,
     "threads:Db5lMA0iUiF": 1792496142634,
     "threads:DetuVREEu7_": 1792496142634,
@@ -29122,7 +29112,7 @@
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
