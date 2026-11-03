@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deu3wtWk6sB": 1792534547032,
-    "threads:Deu4ndzE4AT": 1792534547032,
     "threads:Deu4pKRiJjb": 1792534848947,
     "threads:Deu4MTcDFIj": 1792534848947,
     "threads:DaPjKU5ARem": 1792534848947,
@@ -27951,7 +27949,9 @@
     "threads:DeZMEsjkj-A": 1793743846748,
     "threads:Deu2GTnE6z3": 1793743846748,
     "threads:DZb9rcYEbv3": 1793743846748,
-    "threads:DcbGZnxmrMl": 1793743846748
+    "threads:DcbGZnxmrMl": 1793743846748,
+    "threads:DcJCWR7kQrR": 1793744139583,
+    "threads:DeuzeSfE093": 1793744139583
   },
   "digest": [
     {
@@ -29456,7 +29456,7 @@
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
