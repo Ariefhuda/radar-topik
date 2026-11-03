@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcupcC2Hw2O": 1792460141635,
-    "threads:DV8jqOQgaHK": 1792460141635,
-    "threads:Desql3LElQN": 1792460141635,
-    "threads:Desfr8UD8bI": 1792460141635,
-    "threads:DesqfitEQfI": 1792460141635,
-    "threads:Dd_uEAbE5Pr": 1792460141635,
-    "threads:Desqwm4Erwc": 1792460141635,
-    "threads:Dds3I_Fid01": 1792460141635,
-    "threads:DZfl9O5mcRc": 1792460141635,
-    "threads:DesqMy2EwCT": 1792460141635,
-    "threads:Dbdj5Y9FMsn": 1792460141635,
-    "threads:Despnlyjvc6": 1792460141635,
-    "threads:DJyjxupzHyp": 1792460141635,
-    "news:CBMingFBVV95cUxNYzh6VDNRdzRvTmZjRThiNkE2ckN5aUdoWTVjT1lUSFZDXzJZU3NFSjRETjlwRjdfOUdfLUZNaHdrTHVyYkwzS1l0ZFZtTExwT1hfTUVGSHRkMjdnN3k0ejFNd3dEQ0VBSm05Yjl4TzVId0tldjdaOVpldlJBVjFieWFQSy10ZzM1YzF6Sm1aR0JJcXdGdHBLeEtqamVaUQ": 1792460141635,
-    "news:CBMiiAFBVV95cUxOOGxLZlkyQ0FKMGxtTFlRUW1vYUhiTzNJYUNtcGVrZkdWNFNSUVpFeWtyY0lWRVJ0QjFVb0xmaEVLbkxFYVNCR29KVEROZ1BYaEF0UHFqZkJfYW9FT1ZESmhaVjNRbDREaVQyNXNJaUpXWDJBZmxfcUNWck5qNzhNVjJDZC1zZ1Rj": 1792460141635,
     "threads:DOU1G8xAXh5": 1792460442695,
     "threads:Despy-7Dyu_": 1792460442695,
     "threads:DdLL0cRig3z": 1792460442695,
@@ -27341,7 +27326,8 @@
     "threads:DfQsIhRlSqb": 1793669492306,
     "threads:DaiHTBvie8l": 1793669492306,
     "news:CBMirAFBVV95cUxQSGdQSnhhc2ZKdktYbHMxaTYwQlpuclVQSng1d29oWjhzYVVSaDVkVlBiOTFNQmRwYVFlMFE1Y0Q4c25vX0RPX3QybGVRUVVyU0NxZzU1NjAzUWI3Y3ZjRlpOMjVqLWg4V0E4anNzVUI3NXdqVUp0eDIyVnZyOHdGcWthTHU5bXBsT2hMbDU1OXNfNnN3T1FCdFA4ZF9qLUh5MjR2WWJ0dGhMdFVT0gGsAUFVX3lxTFBIZ1BKeGFzZkp2S1hsczFpNjBCWm5yVVBKeDV3b2haOHNhVVJoNWRWUGI5MU1CZHBhUWUwUTVjRDhzbm9fRE9fdDJsZVFRVXJTQ3FnNTU2MDNRYjdjdmNGWk4yNWotaDhXQThqc3NVQjc1d2pVSnR4MjJWdnI4d0Zxa2FMdTltcGxPaExsNTU5c182c3dPUUJ0UDhkX2otSHkyNHZZYnR0aEx0VVM": 1793669492306,
-    "news:CBMi1wFBVV95cUxPU1VCRFN1VmJMV3RfVUR2bEx6Szg4eG1zaXZkSzMzMFBoZmdSNGs1RTdDN29iWHNjR0puMWhoQVVQNXlONjlqdGFrOFBNLUlxR1pkVms2dWFDRkxweEhoeC1VbEVJYkxZaVBkRzM3aEM4TXljak5wSnRQUlpFZ1NYakVIcHlmYl9RSFEyQnVkZUtYeWxad045cWZkR1BDZEJHaHhUMEtSWmt0YzlEelVYMExPUHRDbS04ZFVsbkFnVTRHQXBnbUptVGlTaWptaHRUMDZudnJpb9IB1wFBVV95cUxPU1VCRFN1VmJMV3RfVUR2bEx6Szg4eG1zaXZkSzMzMFBoZmdSNGs1RTdDN29iWHNjR0puMWhoQVVQNXlONjlqdGFrOFBNLUlxR1pkVms2dWFDRkxweEhoeC1VbEVJYkxZaVBkRzM3aEM4TXljak5wSnRQUlpFZ1NYakVIcHlmYl9RSFEyQnVkZUtYeWxad045cWZkR1BDZEJHaHhUMEtSWmt0YzlEelVYMExPUHRDbS04ZFVsbkFnVTRHQXBnbUptVGlTaWptaHRUMDZudnJpbw": 1793669492306
+    "news:CBMi1wFBVV95cUxPU1VCRFN1VmJMV3RfVUR2bEx6Szg4eG1zaXZkSzMzMFBoZmdSNGs1RTdDN29iWHNjR0puMWhoQVVQNXlONjlqdGFrOFBNLUlxR1pkVms2dWFDRkxweEhoeC1VbEVJYkxZaVBkRzM3aEM4TXljak5wSnRQUlpFZ1NYakVIcHlmYl9RSFEyQnVkZUtYeWxad045cWZkR1BDZEJHaHhUMEtSWmt0YzlEelVYMExPUHRDbS04ZFVsbkFnVTRHQXBnbUptVGlTaWptaHRUMDZudnJpb9IB1wFBVV95cUxPU1VCRFN1VmJMV3RfVUR2bEx6Szg4eG1zaXZkSzMzMFBoZmdSNGs1RTdDN29iWHNjR0puMWhoQVVQNXlONjlqdGFrOFBNLUlxR1pkVms2dWFDRkxweEhoeC1VbEVJYkxZaVBkRzM3aEM4TXljak5wSnRQUlpFZ1NYakVIcHlmYl9RSFEyQnVkZUtYeWxad045cWZkR1BDZEJHaHhUMEtSWmt0YzlEelVYMExPUHRDbS04ZFVsbkFnVTRHQXBnbUptVGlTaWptaHRUMDZudnJpbw": 1793669492306,
+    "threads:DfQsuIxk1k-": 1793669738280
   },
   "digest": [
     {
@@ -27663,10 +27649,20 @@
       "d": 1793662550000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lowongangurudosen_jatim",
+      "x": "📢 PENDAFTARAN BEASISWA RISET BAZNAS TAHUN 2026 BAZNAS RI membuka pendaftaran Beasiswa Riset 2026 untuk kategori mahasiswa, lembaga/kelompok riset, dan bantuan biaya publikasi ilmi",
+      "u": "https://www.threads.com/@lowongangurudosen_jatim/post/DfQsuIxk1k-",
+      "d": 1793669192000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
