@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevCDtME5W9": 1792539939278,
-    "threads:DevCCmMk8oE": 1792539939278,
-    "threads:DevCAKpH0NS": 1792539939278,
-    "news:CBMixgFBVV95cUxPcUlGaWc0WG5rYV9INE56MHl4ejdFWmY0Mkc3bktjaDFtNEx5N1FvRWNXbGpWY19mUnpyTXpLS0RJbXRHd19WMlFBeVdITGdPZFlMUTR5bTVHVG1RWnlTaHdHQ09TYTNpa1V0dEt0b3VGcDg3bzVNbzBlY3lrUzYtUS0wdktIUlZWTWV3Q1pWS2R6d3laZlN6NUs0Nzh2d256TlQtNG41QmZ4QTZDZkI0Vk80N2NXRDJjZUFCQTJjZTR1c2xvYXfSAcYBQVVfeXFMT3FJRmlnNFhua2FfSDROejB5eHo3RVpmNDJHN25LY2gxbTRMeTdRb0VjV2xqVmNfZlJ6ck16S0tESW10R3dfVjJRQXlXSExnT2RZTFE0eW01R1RtUVp5U2h3R0NPU2EzaWtVdHRLdG91RnA4N281TW8wZWN5a1M2LVEtMHZLSFJWVk1ld0NaVktkend5WmZTejVLNDc4dnduek5ULTRuNUJmeEE2Q2ZCNFZPNDdjV0QyY2VBQkEyY2U0dXNsb2F3": 1792539939278,
     "threads:DevCYhogdgj": 1792540247745,
     "news:CBMi3gFBVV95cUxPRkRZWGgydFV2M3hnQzhQbVF1MUYtNGxVbmNWV3VpdTBzamEyRTlSTlppTy1wcUxsOF9jR21Qblh0MjJONWc2aWtzMVZwdkIyUGNDU0wzNkhqYnE2eEFMdnFhSGpHRzh5cjBfamN5bzRoc1Z2a0ttWElqQjJPZFVWTzhPbTBUZ3U4cTl3MFpqeHlrV2NOR0pxdHdnSjl1UjlwMGE3eElnZk9xQXNUUHhZM1U3aTBOb2xZYmJrZ1FmM3ZwRU1KaW1yd3c5RWs3aThRTnFXWFBzRlgwUERQWmfSAd4BQVVfeXFMT0ZEWVhoMnRVdjN4Z0M4UG1RdTFGLTRsVW5jVld1aXUwc2phMkU5Uk5aaU8tcHFMbDhfY0dtUG5YdDIyTjVnNmlrczFWcHZCMlBjQ1NMMzZIamJxNnhBTHZxYUhqR0c4eXIwX2pjeW80aHNWdmtLbVhJakIyT2RVVk84T20wVGd1OHE5dzBaanh5a1djTkdKcXR3Z0o5dVI5cDBhN3hJZ2ZPcUFzVFB4WTNVN2kwTm9sWWJia2dRZjN2cEVNSmltcnd3OUVrN2k4UU5xV1hQc0ZYMFBEUFpn": 1792540247745,
     "news:CBMinAFBVV95cUxQQS02Vnk4cGxuazd1MHdLVlBEajJWa3hnTjRzbEJ3Z1JMejNDV3g0Q3pTUzlkSFB3RkQtcnVuMk9VOXJkclBQMW5uMml6b2hiRFk4Q2JhSUZFYzJnN1M4WGUwZVdiUGloMHdsczFNZ3RDdXpiWlpiNGZoNTZEaHRmZVNLcTB0cmFsaUJIUFIwSVRXd1V5WkJIbGVyaWU": 1792540247745,
@@ -27931,39 +27927,16 @@
     "threads:DfTDispD1H1": 1793748935900,
     "threads:DfTD54hEhsX": 1793748935900,
     "news:CBMipgFBVV95cUxNUHlUTS12emtiSVZMX3hqYzM0N0pCaTFhdTdlZ3Q5TGZDVjdmWUZLVGd4UTRBMmFrY3lfLTl1SUdwYUVGc0VBd0RqWGRiSFNQRzgtZHEyaEl1WEV3SG4xTzdTczFHVWlrT2ZuZ3c4b0xkQWFWeEFUc3R6bGJFejNDb29ibXppZzdwZXNXS1hQeFQ3dlljN2Y1MmhUUmZ1cFQ0dWh2Nnhn": 1793748935900,
-    "news:CBMiwwFBVV95cUxQRnFkeGdjelM2RlVYZVZJSmlUcHJwdjBXanhGYk0xNkZRVlhjV3VDOUtxREhtNzF3RmdDSGtfaXBmV1I0RG1qSjh5ZFFiY1R4VE1jeW1ETHZvMWxmWVd4RmwwcXJwcGpqYXdTbXpYM0hKeWhiR200RHpWNktnX3NXdnJlRDdhUUhXRjlpRWd2RXh2TlJJVS1EX1VNbFBDQ2hBaG9ydHVaLWdnU1Rhanh3OGhDd1NzZ09OVlFRYmJXekdFcHM": 1793749243511
+    "news:CBMiwwFBVV95cUxQRnFkeGdjelM2RlVYZVZJSmlUcHJwdjBXanhGYk0xNkZRVlhjV3VDOUtxREhtNzF3RmdDSGtfaXBmV1I0RG1qSjh5ZFFiY1R4VE1jeW1ETHZvMWxmWVd4RmwwcXJwcGpqYXdTbXpYM0hKeWhiR200RHpWNktnX3NXdnJlRDdhUUhXRjlpRWd2RXh2TlJJVS1EX1VNbFBDQ2hBaG9ydHVaLWdnU1Rhanh3OGhDd1NzZ09OVlFRYmJXekdFcHM": 1793749243511,
+    "threads:DfTDsN_klLv": 1793749552748,
+    "threads:DfTFe3yARtH": 1793749552748,
+    "threads:DfTE1wlH5o4": 1793749552748,
+    "threads:DAFArD7yxif": 1793749552748,
+    "threads:DfTFMwQE4b2": 1793749552748,
+    "threads:DfTGC6LE0Wl": 1793749552748,
+    "threads:DfTEurOEoPh": 1793749552748
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@hbbhmajdaah",
-      "x": "InsyaaAllah jadi jawaban ka ikut kelas mapel umum.. bisa coba kelas gratis dulu 🥰",
-      "u": "https://www.threads.com/@hbbhmajdaah/post/DfSE9QMH-oZ",
-      "d": 1793715453000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "RiauAktual.com",
-      "x": "Dinkes Riau Hadirkan Beragam Layanan Kesehatan Gratis untuk Masyarakat - RiauAktual.com",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR3k5b01IYlA0MTdhUk04ZmVPNHdWUDdCNlEzLTFvVm4zYUFpUmVPTnphU09IOEI1b0U4SW9nRVczdkljLVBFY1FyWUJnQktQeTFVeE1jdVk5NW8tN1Z0NzZzaEtmZXZ2MGdhZnFGZ0E5ME45WGE1MkIzaEJxV1pHM2psazBrQVlLd0ZfdzNSNDNURVVkTDJ3eDRtcUZoWkI4M3RmRDdGejloVV9sQng1QdIBsAFBVV95cUxOR3k5b01IYlA0MTdhUk04ZmVPNHdWUDdCNlEzLTFvVm4zYUFpUmVPTnphU09IOEI1b0U4SW9nRVczdkljLVBFY1FyWUJnQktQeTFVeE1jdVk5NW8tN1Z0NzZzaEtmZXZ2MGdhZnFGZ0E5ME45WGE1MkIzaEJxV1pHM2psazBrQVlLd0ZfdzNSNDNURVVkTDJ3eDRtcUZoWkI4M3RmRDdGejloVV9sQng1QQ?oc=5",
-      "d": 1793711474000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Dio TV",
-      "x": "Daya Saing UMKM, Pemerintah Kota Pontianak Serahkan Sertifikat Halal dan Kemasan Gratis Guna Tingkatkan - Dio Tv - Dio TV",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlJSMWpCOVlZTlFuUTJrZkxnZnFReFpmeWY5dzRtWUQ2OHcweHZzSnAzdmN3ZG05SzJpOGp0d2hKRm9sUTUyRlBFTDMwbW9yZUxOc05TZDhuQTVZUGd4TGZwYzI0Vi1vRVNtcFh5UVQ1TENyNDhqOUFCem15bzRwVVplaUdhdE5NeE5XS2VMOVhWZVdZWDlXWXFXa2JZYkNVRnVoZzdkdjI0eEh1U0FHWWdjc2FsZUtGZGd3V2pwZVJHQ1AzQ0ZnMkk4ZnV1MGd4RTEzT3BaT2J3VUxfang4WGpB0gHnAUFVX3lxTFBTcmJwdEV2bng0YnMxRkliam0xc1pKaGNQRktyVU05RFRrVUdvMnVOZ0RlNTRzQWl3ampmcVRMZVo2VjZySDlxQmhCUTRRMHhNeGZLa21CVG02aWhBS1hSemhnZTdsaDMtT1lvUXNNaFVndk03NUt1UHI1XzdqeEZvbTE3QnMyTEdoOEY2UVVXYWZDbUR3ZW5BYThobUtYZUZvVTVDUmtyMVRrNEVyNUVxSnNPQTNHdDZlbzh4OVd0eWtnajlqY0lUd0RYa1BRa04wUERHNjcyQzZOeFdXM1dXaFR2WkRIaw?oc=5",
-      "d": 1793631780000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29433,16 +29406,46 @@
       "d": 1793741897000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@t.ahmadthariq",
+      "x": "Sebenarnya program pemerintah ita banyak yang bagus2 banget seperti pelatihan skill gratis di kemnaker, bimbingan UMKM untuk naik level dll.. Cuma entah kurang promosi atau sdm kit",
+      "u": "https://www.threads.com/@t.ahmadthariq/post/DfTFMwQE4b2",
+      "d": 1793749135000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@deevakur31",
+      "x": "🎓 PROGRAM PEDULI PENDIDIKAN ❤️ KELAS GRATIS BERSAMA MR BK! Bimbel & Privat Mr BK membuka kesempatan belajar GRATIS untuk: 📚 Persiapan TKA SD (Kelas VI) Dengan persyaratan: 1. Sis",
+      "u": "https://www.threads.com/@deevakur31/post/DfTGC6LE0Wl",
+      "d": 1793749579000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mbk.riefaajah",
+      "x": "Jadi....sudah seharusnya kita paham, kalau *bukan kontem kita yang dibayar, tapi dari ngonten kita bisa jualan dan dapatkan cuan* Yang siap belajar bareng mbk riefa di kelas *GRATI",
+      "u": "https://www.threads.com/@mbk.riefaajah/post/DfTEurOEoPh",
+      "d": 1793749393000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793727799833
+    "reddit": 1793749552748
   }
 }
