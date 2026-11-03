@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deub4XzjxAr": 1792520141967,
-    "threads:Deub0CXj7jf": 1792520141967,
     "threads:Deud20-lExS": 1792520740897,
     "threads:DeudkmFlF0P": 1792520740897,
     "threads:DeudM5RmCkl": 1792520740897,
@@ -27860,19 +27858,13 @@
     "threads:DfMp1x8meeL": 1793729468977,
     "threads:DfSfwAqlc9a": 1793729468977,
     "threads:DfSesgkFfnt": 1793729468977,
-    "threads:DfKdmmUIydO": 1793729468977
+    "threads:DfKdmmUIydO": 1793729468977,
+    "threads:DchcxVDiv60": 1793729753359,
+    "threads:DeuJ46EIwc3": 1793729753359,
+    "threads:DfSgQtIAWUF": 1793729753359,
+    "news:CBMi0AFBVV95cUxQU052TFdKNmR6Slo4STlES0txZzVoVVV1RzhfTUJXemlHWHMyTHJDRGlYSElhREtRSWZrOW94bUd5a3AzX2tyNFdqRnRkVnQ4OTBMQm8wOHlxSWoybmsxbW9GX3liQ2xEbFBSTDYxU0dwQ0JPcExoc3NhaWFqcUk3WXZZalVFcXYxdkRWUjRGZzVfTkZxY3NFVThpeUZWcERnLXptSHh1eFFvRWpTQzkxeEVVakYxVVhNQU8xYU9IMUtYY0pZc0RpbGlZSTlodWtY": 1793729753359
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "Pasar Tradisional Balangan Mulai Bergeliat, Program Belanja Cil Dorong ASN Berburu Kebutuhan di Pedagang Lokal - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZE5zZlhaY1NtMnEyTHM3N3RRbDc3Qkx3MDhuSzRGNTdDYjJ6dV9JdHkwXzJUTldVbG9CU0Z3V2VPS2VpcjNBSk93Nm1qZWdvUnEtR04wdWh1U21Zdy1IaW5BRU5uN2RNeFlubTJGWS1qbDl5SUlDTjZQVXNRcm96WllwSUVxb1UwR0NzRkZraWMzeWpDbjFyM3BXVzMteGJnV0FMM2VoY2dKamJXLWk3b3hvclEtaFJ4UGtaX1M5U0V4Z053S2k1WWhxNA?oc=5",
-      "d": 1793710405000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29362,10 +29354,20 @@
       "d": 1793727840000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@syrfalfirah",
+      "x": "Mungkin karna tecekik harga pokok yg naik, secara dia pengangguran. Coba suruh cek desil nya apakah tepat sasaran? Mungkin dia bisa dapat bansos. Anaknya makan mbg karna mungkin di",
+      "u": "https://www.threads.com/@syrfalfirah/post/DfSgQtIAWUF",
+      "d": 1793729769000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
