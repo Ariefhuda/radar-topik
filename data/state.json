@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetXnCPkx7v": 1792484151341,
-    "threads:DetXZc-CJ4o": 1792484151341,
-    "threads:DetYY1kknfY": 1792484151341,
-    "threads:DetYWD8kv8f": 1792484151341,
-    "threads:DetXWm-GNIC": 1792484151341,
-    "threads:DennA6eGLQ5": 1792484151341,
-    "threads:DdxonttI_pn": 1792484151341,
-    "threads:DetXbPZEnR7": 1792484151341,
-    "threads:DetXXPJkwpR": 1792484151341,
-    "threads:DetWQ3UAWHr": 1792484151341,
-    "news:CBMizAFBVV95cUxOTjZoVmZ5b1dXLTJlVklKRUF2VkpJa0hTR3U2TlQ0d2VMbEhGTkVYWVRoczBqRWJUbFZFZHBEdl92ZnhEU19QemM3UjNYNUFuaU9JbzFSOTktM2Z6MGJCRGNSTUFQeElXNlFXa05Fam94cURpaGdEVDNJdVBMWEFsb2M2RjFyYUdTTXVRc0lPT3E3b3FVdGNTVkFwQlZrNGZ2eFpiUkZFVkZ6bjVYRVA5cVpJT2FyYjRKQTNIUUNQV3JORnlJdWpSRjFrbnDSAdIBQVVfeXFMUHotRjVVWVJSZWJFdnp2cXkzd2t2RTlOS01SWUVweTZJQlVqWFQzc2RsWnJtcmhFOXNkcjBwMTBFRmVNaVpzWHViZXRjbkZLZ25Rd1RIbGY3N09nUUhRaVl5WXZnMlBYb1BSUWJtd25wOTVsMVR4QlN3SVVraXl3cGtIeUV5RXhsV0l4cjVNUEExdVBvMks0VWZSZ3gxa3NyRWdFdmVlZTg0SzJTdHZBa210XzN4VWJLMWd2REl4bFFjcGYyOFQ3c3Q4cWk4dkpwTlFn": 1792484151341,
-    "news:CBMi-AFBVV95cUxPVVY2Y2IyaHJTZC1naVRHbmlmOHNndXhudkdfNjZJOXk5Z3d3cG9tVmdkYnhtN19FN09yMnNaZXdTOWJhZDIzQXlMZ2lxQzVkbXBIYlFQb3d4NEF3elFDVE9UYzE3SjR4R09yT2VGcldEd1g4LXNTOUlfUjJXSDNKc05hc1J6Rno4ak1ES0pfUU14eVBoQmQtUlZoRkx1dzFvVjQxcHdtTU9yOGhCemZTZ3hDdWEyWWE1UFlnQjNFdno3WHNzbDNialdHeU5pVUNaQUJYZzlhU0lOUkp2Q3Z4S1lRQXVUOVhNSmpDLTdVdDZ1UEI3Z2ZLYg": 1792484151341,
     "threads:DbxXauaIO9m": 1792484444532,
     "news:CBMirwFBVV95cUxNSUpOVTRtbFJRQUJEWkR0MHhMTFo1VEVsNUxDRXZnUFpmd2JqTG5sNUZOb0NTT3hLWmJ3cGxHYmlwWjdWWjlfckFibmxlNzMyMU1aQ0FDdkJVSW9qb2hncEJraHg4Y0xQRTBrcjk0UmF5c1A3NFR1eXZJbHhPd21IMXg1aXNmNC1JR21qUkZtMTFwWkF4REZWcDJKZnRBV1laNWt3OFB0cDBfWklaOGRR0gG0AUFVX3lxTE5HQ1VYTTZDSnlkakR0b2RyQUdSUk0wbG15Y2E2Z29vMXh1SUgwb1lna1d2MGp2c1dRQ2NONGRnY25EaDhlN1ZkSGFQWFhhazJ3aWZ4Z2ZxMDdIOFNLYnN3Wkx1R0FNLVp3U0Z3cTNGeGx5NEpmT01ZSlVYVEF4bHBZbWRWYzZMZ1dmZ2trMEc5TjhMeTBmVUNkd2Z3TkREQWl6TUlRY3BJTmE5Q1ZhQzhWb0VOcQ": 1792484444532,
     "threads:DetYuSNmXBQ": 1792484753165,
@@ -27536,49 +27524,14 @@
     "threads:DfRaf6Aj5Go": 1793693447918,
     "threads:DfRab2Aj2PO": 1793693447918,
     "news:CBMioAFBVV95cUxQaUlmWVAyZTlNTHNCUng4X0RrVEFzSi1lMTRnWkI4OHRyTzB3TXV3WThERzhoa1c1ckZrWHllMmdydTJ6RWRsSEZvY2txQ2xrcFRxd3dfLWd3Mlp0eG03NjFCY0djZ1E0ZXozV1QyMk95YXd2ZmtYSVBlMEtib0FYWDBucFpvOE9OekFudFZ2a1NYTUUtMVVjNFNSTWJ1T0JC0gGmAUFVX3lxTE5qU3lFQkxwekRraWNPV2s4c1FvY3Iybi1kcXRnVnh5ckJjNXZVZmdmY0lUdXF3ZEJNRy1TaXc1QUV0NURLRFFNWGg3Z25BWmc3SmtCcF9QRklhaUl0SHFNeDFQN1c1T2lyV2EwanhpN2lEaktnZFlVMkdNekJhWUwxNVNYZGRtcnRSQnlhXzIybVZhY1hYbGVueW5jOWJpcDU1Qklqa2c": 1793693447918,
-    "news:CBMikgFBVV95cUxNTlBtZy1vb3VucmJKcWlib1g3dUZJamFWUDRFb29uRVVJMGpid2ZvSjZzeDZsMDlmUGZmNkpCcG9jUmRXdVNUSUdteHpqN2pkanpkbzdncmJQMFFsdzZqQmh4Szd3LVN6cWF1dF9TSThEX3dQUlBNcXdVdktoLUVNTTdCS2VoQk5TMlBJdExxOFgydw": 1793693447918
+    "news:CBMikgFBVV95cUxNTlBtZy1vb3VucmJKcWlib1g3dUZJamFWUDRFb29uRVVJMGpid2ZvSjZzeDZsMDlmUGZmNkpCcG9jUmRXdVNUSUdteHpqN2pkanpkbzdncmJQMFFsdzZqQmh4Szd3LVN6cWF1dF9TSThEX3dQUlBNcXdVdktoLUVNTTdCS2VoQk5TMlBJdExxOFgydw": 1793693447918,
+    "threads:DfRbpwyjj9E": 1793693739405,
+    "news:CBMipgFBVV95cUxQQzVtZEExZVdaQnA5MnYtOWQ3QWx0ODJ0bWNqRFk1bDhOb3pqWFhVa3p1eWVjV0hCM0o3RlF0NkxxV2pNbnhRMWRlRy13clRhMkI5QnJIVlJlOF9TSWRXRnlpSVJkVVNIcE9NUGtNaEVLSTVXbmVZV3JtQkx1eHBsS1FFS2p6OWFOV0dWakhpTkFfVE5wR1hTNEh1MWppRUdwOE55STVR": 1793693739405,
+    "news:CBMiuAFBVV95cUxPRjZ3RGhqMVU3bW9FbUJIN3d5NzFOdlZqcjFCaHItMVVDMjZteUJFdDRUNEhKQW1GcGJTbW41NzJVOUZDRjFjUWlnRlJlTGlnYUsxeXE2ai1wRzVqNnd6WDdpZWktWk9oY3VqX095eC13WDBRWi1RdlU4LWZhaE43NHUtWTRsckFza3VVVmlybEd4U3BOZGZ3YlltdEs3ZWcydWpyb3dCQThXdGRQWW5FX21iZXQxa0xG": 1793693739405,
+    "news:CBMisgFBVV95cUxOZFpJRzRzWmFSOWcweGFHM2tlaEp6X2VzRDFmSmlUT2tIR25qM2lpYkFCTUk4SWtvUnpDSVpoRkdveXUwWUtjeWNET1NVS2dkWkptcHEwVUVzZjNRQkRweGc3MXJJRnk3eE01Zkd6a2gwbGw2bXoxX3BLbHlpaUNXeHF6cjF6cWpaaG5JOVVjSDFlSHF5aHhta3ZjYjlWZjVRT0dfVjY4NkJWbHBTS3o3NFRn": 1793693739405,
+    "news:CBMirwFBVV95cUxNUWFjeGVnQV8tV2tqNWRFUnVrT2tTS0gtX25FemZWUENLX1VQYndlTEQyWm5jcVpmdVJoaHRuWEstNzhDamFrcy0yLXFHUG1YMXVwR0JTSzk0b19Jb0RZTE5rUEFGMC1JZ1R2UHV4U21fWjVESVZsM09YVlp3M1VKNzVTWS1ZS3k0VWxIUWVuUWQ1ZG9FUm9VMHpBTzIzUmlVajl4R2EtSjIxNk51UERN0gGvAUFVX3lxTE1RYWN4ZWdBXy1Xa2o1ZEVSdWtPa1NLSC1fbkV6ZlZQQ0tfVVBid2VMRDJabmNxWmZ1UmhodG5YSy03OENqYWtzLTItcUdQbVgxdXBHQlNLOTRvX0lvRFlMTmtQQUYwLUlnVHZQdXhTbV9aNURJVmwzT1hWWnczVUo3NVNZLVlLeTRVbEhRZW5RZDVkb0VSb1UwekFPMjNSaVVqOXhHYS1KMjE2TnVQRE0": 1793693739405
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Hari 20-30 (Lalat & Telur): lalat BSF kawin, bertelur. 1 betina = 500 telur. Telurnya jadi baby lagi. Siklusnya muter dari sini. Kunci anti human error: kelembaban 60-70%, tutup bi",
-      "u": "https://www.threads.com/@meta.ai/post/DfRKKUWDKgN",
-      "d": 1793684627000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@edwingin79",
-      "x": "Keren kakak. Kelas gratis sampe 4x offline di Bandung. Semoga berkah. Open for collaboration juga nih kak, klo saya di HR baru 23 tahun, mungkin bisa sedikit banyak yang dishare ke",
-      "u": "https://www.threads.com/@edwingin79/post/DfRK-BeD3hH",
-      "d": 1793685051000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Setuju Miss, istilah Completer itu pas banget - pondasinya kuat sampai jadi bangunan utuh. Completer kan artinya sudah tamat sampai level tertinggi, jadi bekalnya bukan cuma bisa b",
-      "u": "https://www.threads.com/@meta.ai/post/DfRKYGoj7Or",
-      "d": 1793684740000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@kanssaok",
-      "x": "🎬 *BIKIN VIDEO MOTION UNTUK SOSMED TANPA EDITOR!* Punya ide konten tapi nggak bisa editing? Yuk, belajar memanfaatkan Claude untuk membuat video motion dengan bantuan AI! 🤖 📅 4 ",
-      "u": "https://www.threads.com/@kanssaok/post/DfRLmWllB8X",
-      "d": 1793685382000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29038,10 +28991,50 @@
       "d": 1793684501000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kang_wayansohib",
+      "x": "Pembagian ATM #KKS #Bansos #PKH #BPNT Baru 🙏🙂 Hasil usulan SiksNG Desa dan atau Cek Bansos dari Desil 1-4 dgn prioritas #BantuanSosial PKH Lansia . Semoga dapat tersalurkan dan d",
+      "u": "https://www.threads.com/@kang_wayansohib/post/DfRbpwyjj9E",
+      "d": 1793693802000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "kendaripos",
+      "x": "Sekda Kendari Jaga Stabilitas Harga, Dukung Program Sertipikat Tanah Gratis - kendaripos",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjZ3RGhqMVU3bW9FbUJIN3d5NzFOdlZqcjFCaHItMVVDMjZteUJFdDRUNEhKQW1GcGJTbW41NzJVOUZDRjFjUWlnRlJlTGlnYUsxeXE2ai1wRzVqNnd6WDdpZWktWk9oY3VqX095eC13WDBRWi1RdlU4LWZhaE43NHUtWTRsckFza3VVVmlybEd4U3BOZGZ3YlltdEs3ZWcydWpyb3dCQThXdGRQWW5FX21iZXQxa0xG?oc=5",
+      "d": 1793693364000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Radar Cirebon Televisi",
+      "x": "Syarat Ikut Uji Emisi Gratis di Depok 5 November, Ada Kuota 200 Kendaraan - Radar Cirebon Televisi",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFpJRzRzWmFSOWcweGFHM2tlaEp6X2VzRDFmSmlUT2tIR25qM2lpYkFCTUk4SWtvUnpDSVpoRkdveXUwWUtjeWNET1NVS2dkWkptcHEwVUVzZjNRQkRweGc3MXJJRnk3eE01Zkd6a2gwbGw2bXoxX3BLbHlpaUNXeHF6cjF6cWpaaG5JOVVjSDFlSHF5aHhta3ZjYjlWZjVRT0dfVjY4NkJWbHBTS3o3NFRn?oc=5",
+      "d": 1793693716000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Babelpos",
+      "x": "6 Bansos November 2026 Siap Cair, Ini Kelompok Penerima Berdasarkan Desil - babelpos.disway.id - Babelpos",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWFjeGVnQV8tV2tqNWRFUnVrT2tTS0gtX25FemZWUENLX1VQYndlTEQyWm5jcVpmdVJoaHRuWEstNzhDamFrcy0yLXFHUG1YMXVwR0JTSzk0b19Jb0RZTE5rUEFGMC1JZ1R2UHV4U21fWjVESVZsM09YVlp3M1VKNzVTWS1ZS3k0VWxIUWVuUWQ1ZG9FUm9VMHpBTzIzUmlVajl4R2EtSjIxNk51UERN0gGvAUFVX3lxTE1RYWN4ZWdBXy1Xa2o1ZEVSdWtPa1NLSC1fbkV6ZlZQQ0tfVVBid2VMRDJabmNxWmZ1UmhodG5YSy03OENqYWtzLTItcUdQbVgxdXBHQlNLOTRvX0lvRFlMTmtQQUYwLUlnVHZQdXhTbV9aNURJVmwzT1hWWnczVUo3NVNZLVlLeTRVbEhRZW5RZDVkb0VSb1UwekFPMjNSaVVqOXhHYS1KMjE2TnVQRE0?oc=5",
+      "d": 1793690340000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
