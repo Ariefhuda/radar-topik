@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetfYAniQIA": 1792488344013,
-    "threads:DBOi44TSZ9M": 1792488344013,
-    "news:CBMivgFBVV95cUxQT0JNaWd1WFBOZkF4UVBKeXdqQzdKR18tUVRLdG1ZN0VndHlKSXBTU1NtTE0yVGxDcXFQSW9salphSWpCQWlmVF9LRWFtQXBFcVZEcU1IbGtHQjBiMzBzbl9QMkowaC1iVVE3MDhGLWx1QURNZkEtcTZNa1VMbkJ5RUtZZ2xjQTBHNHZlbEhqdWM0VEhCMmRVMnIzT0sxNl9RZlQ5UWg0Sm43NVhBbWlnMkZFTFQzNGpzY0xETTB30gHDAUFVX3lxTE1iTE44dUpFVjRQekhVdVJYNnk1ejhFOEoxME5MVVJjS3RiSlZRMFhLbHp6Q0tCWjU0WEtaaHV5aUJHazRlZXVTRUtMZnJaam5HVThjaHdWYm9qZkFxQThNZTF0SzB3N3dYQ2VKSDlNZFo3ZGlpNGRYZHFvaHg3TXM4ZnRQRTBMRmlWVV9tWDRRdXo3TkZpaVZtSmMzLU5vdjhzRWpfeExqRWhMMndadDdiX0M1Yzd4SmVqX3hhUXJpZnpaTQ": 1792488344013,
-    "news:CBMiswFBVV95cUxOd2tLd19UNlFCRGVPOVBqSnJEODdNbDQ0U09PMklFMzA0cjJnRjBRWjRRTFljVW5ZSGhyRVMxVXk3ZjVYTnU2emhQVng3ZE5DR1NsMGYxZEZBOVJzbEMyZ1Z0Y3Y3akpjVTdpa05VVVdTaVp3Nlo0b010ZncycU44SGFDRlgyZXB1NVFOamJXUWVWUXlmVnNDeW50ZUlBUFUyMmx0Z1gyWm9aVWZUNkR0eGtqRdIBuAFBVV95cUxOY082LVROUEhteXJ5ZlhCcjBZVGEzZjhRRWswTEYtdDZBUFF4YWwyWGt4a2VEbkcza196eVFsbzdjY09jLXVDZlVOZHJKSGhQeDAzQUNVeThhODYtYjhTLUxYcnBlcS1MN3hFQW9kWHZhVkdwWTd6ajk2Ti1CaHAzOVNxSGpXbDYtSXpHWXgzNTQ3d3NSS25QbUFnZkt6LVVwa2htU1ZRQkFINE5VbndSajE0LTJUbjlY": 1792488344013,
     "threads:Detg_oEk34B": 1792488661497,
     "threads:DetedeNgYj-": 1792488661497,
     "threads:DetgfrVAZT7": 1792488661497,
@@ -27558,49 +27554,15 @@
     "threads:DfRiJAHEtW3": 1793697646010,
     "threads:DfRh1GMkmwU": 1793697646010,
     "threads:DfRhmUSE5lQ": 1793697646010,
-    "news:CBMisgFBVV95cUxNZW82YjBrbEo3WjNZSVhaaXJLdkoyWG5ZcjEwYzVUaktFVTJ1RXVjQm10eVYyak96ZnpKbTZGTWpueVJCdDVlTXVfMXE0NDdlXzcySlZjTGVSLTNhMFVQZ3FlelUtZG90SU9WQnA4MHVZSVZfTGVQNEFjT0x1NlUxdk1IeGFZd0NpZVkwZHB4a05NZXI4bjA2RkdmWnY5MzVpUXhDeWFlQWRXN0ROLVlPc2d30gG3AUFVX3lxTE1IVWJEWk9WUzFXRFRCZDBJaXFLaEJtSjZsclA0RTNzM2trR2c0QWc3U3lCR0l2ajR0Y29CM2RKNGNqa1FHWUhxbWdjNjY0ejhSRW5TVlozTi1SQWlvV09MZ1l5blFfelJuSFRvMFFKSHppTEZFbDF5QzNPdnZxSlJYV2poTEd1X1YxMWdJZHNUd21ia2tWTEFrZWxJWEJ1TzV6akNjZzA1dEZRWkhwdFMzYnFmNGlETQ": 1793697646010
+    "news:CBMisgFBVV95cUxNZW82YjBrbEo3WjNZSVhaaXJLdkoyWG5ZcjEwYzVUaktFVTJ1RXVjQm10eVYyak96ZnpKbTZGTWpueVJCdDVlTXVfMXE0NDdlXzcySlZjTGVSLTNhMFVQZ3FlelUtZG90SU9WQnA4MHVZSVZfTGVQNEFjT0x1NlUxdk1IeGFZd0NpZVkwZHB4a05NZXI4bjA2RkdmWnY5MzVpUXhDeWFlQWRXN0ROLVlPc2d30gG3AUFVX3lxTE1IVWJEWk9WUzFXRFRCZDBJaXFLaEJtSjZsclA0RTNzM2trR2c0QWc3U3lCR0l2ajR0Y29CM2RKNGNqa1FHWUhxbWdjNjY0ejhSRW5TVlozTi1SQWlvV09MZ1l5blFfelJuSFRvMFFKSHppTEZFbDF5QzNPdnZxSlJYV2poTEd1X1YxMWdJZHNUd21ia2tWTEFrZWxJWEJ1TzV6akNjZzA1dEZRWkhwdFMzYnFmNGlETQ": 1793697646010,
+    "threads:DfRjYGaoKUO": 1793697939861,
+    "threads:DfRipM_G4r1": 1793697939861,
+    "threads:DfRirioAq9b": 1793697939861,
+    "news:CBMiwAFBVV95cUxOS1BBZzZUalRRampFeGZBYUQxOFdpMjlRblFkWUI1bk43eXlOeTdRM1Y0enBCdHBiem9UOWJmeVB2VmpkZENVQXhVTlVuVVVKaHVkM0lIZWJjc1JWT2hobEdCNkx0SXBmNEpndzN2eS1wS1VIWkVHd25jdXFUWnR0VWVFQlktTkR1dW9NQTQ4WDhaQnQ0V3VnMkVIRmpwMlBJRExsaDdLQ3I5c2RlTUk5dHZiVjBNOUtFWF85WWZPYXY": 1793697939861,
+    "news:CBMi2gFBVV95cUxNS2thUVA0cU12ODJGU01YSmNOVGt2TEI2SjJkTlBTUXZlM2Y4RWtDdEVMNGZ1cWlGb2tDN3ZEUmVsZUdzVzlBbHNnTmM4NWVLYjhJUEY1aEVsWUVNVzA3WWxaMWJzUTViU1Q0Y09lclhfUElWRFdGeC1SNE9zbjBpVFJZSC1VT0p2NDlYY0lEWThtRzVOQVF4TUg5d2pybFlfWVFWTFgtZjNMbExOVGpwS253QWtnd2ZIbEFQamh2NnRQLVlNNlZSc2U3UUM4ZjNiUUZCaG52UEZlZ9IB3wFBVV95cUxNZUY4bWJxTmhaajNpc01yRXBTbGpUWXBGcjRla0UzNUlleTFFUGJhcmFJcU94eE02cE56MU8zZFduSUpvTkxNOEhxMGN1QU1BSW9rSm0tbzZZdVRVZGZFWXZTeTFleXdPc292TDE2M3BsU3dvUERIemRPa3M2dDBiUlhWNEM3a1h6YjU5VEVTR0JaSE9OWHRKMUhxN0Q1QXNsVkpmSUFNQ1I4Nk0wNVBJa2hxRktzYklkZExpdXZ0QUM0djZmeHE1Z0F3QjEyQ0JfMW5jNlFBSG9MRnY4ZXVn": 1793697939861,
+    "news:CBMi3wFBVV95cUxNMS1ZRXRmVzR0aTM2SHd2RGFzMGJ0aGU3YjRUV2RaYjFCZm5XMEhUWE5jQVdRa29YQWd1NFFDNzcyRzR3a2tQZ2VVWE5xaGhpS0RRV3hPMTc2cUNpMG1xdXBvY1NWdk1YLV9mMXc3ejB1RGxENnlWdl9UZWVacXlLLWR2dlFZdnRhQ3FjemhJQ2dTOWt1S2djWllkZjFLdDhMSEJCUndUNUlWWGMxTVVwWk9aNDk5NTVXV09rSVNZRTVRaXkxRUhfWDI4Rm1FZUIyRlVlVWNMMnBkSzgtYUdR0gHkAUFVX3lxTE1xbDYzU1VnQU9DRFo0UHR3Y1dWUFBpOGd2UVhuY2Z5V0ZmaGdyVlFILU1nWjVsUUh0V0lGT1ZhNDc1VVZ5RGppUUc4N0dNQ0xYbXZUejdUN2pFVjk4NkNuYi1CLWpOZkNHbS16dktoTy1yV3lSSlppX29uQUdFZDZPcFJIOGtheTVIMFhLdkJVZWNUZWN1ZHJwZGJnVll2NDNnb2NqeE9RbWctUm8yV2F2MkZWa2JfWEpiOG9uQVdZUDAtTUM5MUdkY2RlVFk0c09kU3p3c1MwbU5yVnJiaWNOSXloVw": 1793697939861
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@biozaria",
-      "x": "📢Yuk Ikut Webinar Gratis bersama Biozaria! Materi : *Perut Kuat, Gizi Hebat* Nutrisi yang Masuk Harus Bisa Dicerna & Diserap 📅 Kamis, 5 November 2026 ⏰ 19.00 WIB – Selesai 🎟️ Te",
-      "u": "https://www.threads.com/@biozaria/post/DfRXMI1kZ2B",
-      "d": 1793691459000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@moco.academy",
-      "x": "Guys, menurut kalian AI tuh lebih banyak ngebantu atau malah bikin was-was? 👀 Daripada nebak-nebak sendiri, mending kita bahas bareng yuk! Moco Academy bakal ngadain webinar GRATI",
-      "u": "https://www.threads.com/@moco.academy/post/DfRXCF7GwtV",
-      "d": 1793691376000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "kapuas infokom publik",
-      "x": "Wabup Kapuas Ikuti Rakor Pengendalian Inflasi 2026, Bahas Program Sertifikat Tanah Gratis bagi MBR - kapuas infokom publik",
-      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOamw1NzA4SGp3b081N3hjRllVSnEtalFYYm5qRHpBS1VyZzV4VW9sVzJZUHdYQjh1QWROUmdkdzV4WTB0LWZfR05TcTRKSUotVXUwWThzZnZfa3ZBQkhQeHVWTy1hZTQ0SVQ5azFvaFd0c2ZpVnhhSTI2cFltNXIxSnBieWY2WW83MXFxNmEyNnowa3RFWHhjbUpsR1FKd1RENGY3VnFpNkoyMlhwQTA4V0UyV3d0YUFkRTVkSm5nN0RySHZaVDRmdzJ5MGUxcWgxaWl2QVgxaF9VQ1U?oc=5",
-      "d": 1793691300000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunnews.com",
-      "x": "Bansos Beras 30 Kg Cair di Bulan November 2026, Apakah Masih Jadi Penerima? - Tribunnews.com",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGo4VnN4b3VYS1lIaXBuMzR2V21JQ1FXSVZCaXhfek81d05aVVVSWGJBdFc4NzAwemtGc3FtbGhjN1dlSFdNd2doLTdfRXVhdGNaNGEwNWRnLTN5NnhuRnloUDFCaGJ1NXh3aTc1REdPcWlmRFBDUmFuSEtqTElfYmdRaVpmOUpyUmZDNzlSMlBZalpDd3hFd0FPajZ3RXhObTNrNEF2aGIwN2NnT2ZZZkJPRFdqVVBqRU92Vw?oc=5",
-      "d": 1793691427000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29060,10 +29022,50 @@
       "d": 1793697410000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@raufah_oktasafiyah",
+      "x": "suamiku hanya pkerja serabutan yg tidak punya gaji tetap klau lagi sepi engga ada job suamiku di offpin ,tapi masih brusaha cari krjaan yg lain kami hidup ngontrak aku masih punya ",
+      "u": "https://www.threads.com/@raufah_oktasafiyah/post/DfRjYGaoKUO",
+      "d": 1793697848000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kompastv",
+      "x": "Link Cek Desil Pakai NIK untuk Tahu Apakah Dapat Bansos PKH, BPNT dan Beras November 2026 http://dlvr.it/TW9Mhl",
+      "u": "https://www.threads.com/@kompastv/post/DfRipM_G4r1",
+      "d": 1793697518000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Indonews Today",
+      "x": "Promedia Group dan Pascasarjana UNY Jalin Kerja Sama Strategis Pengembangan SDM Media Digital - Indonews Today - Indonews Today",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2thUVA0cU12ODJGU01YSmNOVGt2TEI2SjJkTlBTUXZlM2Y4RWtDdEVMNGZ1cWlGb2tDN3ZEUmVsZUdzVzlBbHNnTmM4NWVLYjhJUEY1aEVsWUVNVzA3WWxaMWJzUTViU1Q0Y09lclhfUElWRFdGeC1SNE9zbjBpVFJZSC1VT0p2NDlYY0lEWThtRzVOQVF4TUg5d2pybFlfWVFWTFgtZjNMbExOVGpwS253QWtnd2ZIbEFQamh2NnRQLVlNNlZSc2U3UUM4ZjNiUUZCaG52UEZlZ9IB3wFBVV95cUxNZUY4bWJxTmhaajNpc01yRXBTbGpUWXBGcjRla0UzNUlleTFFUGJhcmFJcU94eE02cE56MU8zZFduSUpvTkxNOEhxMGN1QU1BSW9rSm0tbzZZdVRVZGZFWXZTeTFleXdPc292TDE2M3BsU3dvUERIemRPa3M2dDBiUlhWNEM3a1h6YjU5VEVTR0JaSE9OWHRKMUhxN0Q1QXNsVkpmSUFNQ1I4Nk0wNVBJa2hxRktzYklkZExpdXZ0QUM0djZmeHE1Z0F3QjEyQ0JfMW5jNlFBSG9MRnY4ZXVn?oc=5",
+      "d": 1793692615000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pilihan Indonesia",
+      "x": "Petinggi Sawit Dipanggil Singapura soal Karhutla, Emiten Salim Group dan Sinar Mas Buka Suara - Pilihan indonesia - Pilihan Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMS1ZRXRmVzR0aTM2SHd2RGFzMGJ0aGU3YjRUV2RaYjFCZm5XMEhUWE5jQVdRa29YQWd1NFFDNzcyRzR3a2tQZ2VVWE5xaGhpS0RRV3hPMTc2cUNpMG1xdXBvY1NWdk1YLV9mMXc3ejB1RGxENnlWdl9UZWVacXlLLWR2dlFZdnRhQ3FjemhJQ2dTOWt1S2djWllkZjFLdDhMSEJCUndUNUlWWGMxTVVwWk9aNDk5NTVXV09rSVNZRTVRaXkxRUhfWDI4Rm1FZUIyRlVlVWNMMnBkSzgtYUdR0gHkAUFVX3lxTE1xbDYzU1VnQU9DRFo0UHR3Y1dWUFBpOGd2UVhuY2Z5V0ZmaGdyVlFILU1nWjVsUUh0V0lGT1ZhNDc1VVZ5RGppUUc4N0dNQ0xYbXZUejdUN2pFVjk4NkNuYi1CLWpOZkNHbS16dktoTy1yV3lSSlppX29uQUdFZDZPcFJIOGtheTVIMFhLdkJVZWNUZWN1ZHJwZGJnVll2NDNnb2NqeE9RbWctUm8yV2F2MkZWa2JfWEpiOG9uQVdZUDAtTUM5MUdkY2RlVFk0c09kU3p3c1MwbU5yVnJiaWNOSXloVw?oc=5",
+      "d": 1793684400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
