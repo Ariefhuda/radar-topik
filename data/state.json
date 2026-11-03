@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuhI6unwBL": 1792522537249,
     "threads:Deuh-9hFlLI": 1792522861139,
     "threads:Deuhge0nRjW": 1792522861139,
     "threads:DeZZsStjY7M": 1792522861139,
@@ -27876,29 +27875,12 @@
     "threads:DfSisWogU_w": 1793731568622,
     "threads:DfSiU1VHbHp": 1793731568622,
     "news:CBMinAFBVV95cUxOdW1PbWR6a2ROS2lMUDgzU29JQnlCN0pDMHhrbWxkNkYtSWdWZzBnSlpMV3h3SWN4U3RvMHhxZGp5eFZTVmZGWFhNSjRiNWkyU2pCdHJ6aFNVVXdNS3pXbGwwdzRqWjMtQVJmX1NaTjRNZUNTeWlMZ2tpbWR4SlFHVnVSaWstdUZTMDRQc3FzNm5EVU1BY25JZEJ5bkE": 1793731568622,
-    "news:CBMiygFBVV95cUxQeWtkQWZRdWpBeHB5WmFyVTNwUWMya1ZxX3FlZFUtOE9GTHRFUWJsTXNuS1ROaXhscHBzck9abHYtZmhDMEdJby0ybldUTTJieGhIVU1TSFlXeHJRZ2RyNnRhd3FLdG1GYmVXNGtGOWZWWUFIMHJpZUREMXBrQnFQbUpxSDhPSENCaG55X0F3cWlzSXFJTGZDX3ZQYk5oV2g5bGllRDAwQVN0ekk3dXRiQmNIc2FiQmNmbVZsVmdJaUVleGxtRlczSEd30gG6AUFVX3lxTE5VMF9GaUpyUmI4dEVvMG5DeWEzUF82RzdyTHpHS0NsVHFnZ3gxYWo0anFscm9IeWxJd2RyMEpNcWFsQ0g4WldBZXEyZl9XSWNCdE4tNlMxLUNIeDRJMFpXdGdROW44U3AwWTZCdUxhZzM5S3JQeHNhbUE1d1B0U21ncm9aT3lNTi1qb1lyTlVERnBHd3VsQjJmNVJCZzFKQkxXWlp4UU9VVEc5aHU1elpVV1RJck9kdmE1Zw": 1793731568622
+    "news:CBMiygFBVV95cUxQeWtkQWZRdWpBeHB5WmFyVTNwUWMya1ZxX3FlZFUtOE9GTHRFUWJsTXNuS1ROaXhscHBzck9abHYtZmhDMEdJby0ybldUTTJieGhIVU1TSFlXeHJRZ2RyNnRhd3FLdG1GYmVXNGtGOWZWWUFIMHJpZUREMXBrQnFQbUpxSDhPSENCaG55X0F3cWlzSXFJTGZDX3ZQYk5oV2g5bGllRDAwQVN0ekk3dXRiQmNIc2FiQmNmbVZsVmdJaUVleGxtRlczSEd30gG6AUFVX3lxTE5VMF9GaUpyUmI4dEVvMG5DeWEzUF82RzdyTHpHS0NsVHFnZ3gxYWo0anFscm9IeWxJd2RyMEpNcWFsQ0g4WldBZXEyZl9XSWNCdE4tNlMxLUNIeDRJMFpXdGdROW44U3AwWTZCdUxhZzM5S3JQeHNhbUE1d1B0U21ncm9aT3lNTi1qb1lyTlVERnBHd3VsQjJmNVJCZzFKQkxXWlp4UU9VVEc5aHU1elpVV1RJck9kdmE1Zw": 1793731568622,
+    "news:CBMi1gFBVV95cUxQMVZib29WYk0xRW9tZldIZENMVUpVYVhLWXkwTGxKVllacE10a21Qalo3c0VxdnlXRHBkeXJxWlNfZ0NxTjdORVN4Y0pROXM2V0QyWFY1V19vOVEyMU93enhqbXd4b3ZtYlI0MDlNM1ZhLVVSSHdHdVpIc3lEYlYxRVdSQXRrVVpYSmNWUmVRWGNJZlJISFVUSVZmaFhrOTZLZjBMcTJwdjMyWGxXNmFPWXdvSXpwdGVNNG0yZUlfLWFIU2RGX0RaRmhjVm1fMmlMMFRZM0xR0gHWAUFVX3lxTFAxVmJvb1ZiTTFFb21mV0hkQ0xVSlVhWEtZeTBMbEpWWVpwTXRrbVBqWjdzRXF2eVdEcGR5cnFaU19nQ3FON05FU3hjSlE5czZXRDJYVjVXX285UTIxT3d6eGptd3hvdm1iUjQwOU0zVmEtVVJId0d1WkhzeURiVjFFV1JBdGtVWlhKY1ZSZVFYY0lmUkhIVVRJVmZoWGs5NktmMExxMnB2MzJYbFc2YU9Zd29JenB0ZU00bTJlSV8tYUhTZEZfRFpGaGNWbV8yaUwwVFkzTFE": 1793732149801,
+    "news:CBMiuAFBVV95cUxNTW12OUliOXZJY1JqM1pOZld6VDc3d2NHY2ItX25JZHpDVDJUdEtjRUhnd1FYZXFTaUQ1UHVMTlpNVkVWemNTV05nZXZWMnB0YUZzYmZ3dlJ0czNTSUpucE5oa3haR3JtZVpNazVGNnNDQUdGN1hiRkJiWDlQdk9nd0pnSXhBaXVBRHEwangzc1dBVEptelB4XzNqNUxLQnpLbFVfcTZQdW5NclZ6a2RDSU00R1k2ay1V": 1793732149801,
+    "news:CBMikwFBVV95cUxOYVFzVFNyVTlsVWktRGVBNThBbjg2SklTMXBaMTlCcUJCM051X2NqMndGaXZDcGhCR3RYekVmY1JXTWNpN044NG9tX2dNdGprVTlEU2tEZkxzLW52VE9wbWxCdFVZakN6dWlpWUZnZDBBZFdtVzZGdS1LTjFSQlhDR3BpR1Zrelo0NTlyU3hzaEk1RFXSAZgBQVVfeXFMTk9BalNJOUZxNTA3U21SVmFRbkFVVWZ1ZUpORW85LVNBOEE3QUtDa25PLVgwU0xubEZhVTllQXVMTmo5cEZnUE1FRnAweWc0V05FZ2ZBYjNPT0NIUEtkbUNHZXhQbXRmd2dvMFUxMTlxNWdabVpUNGg3NTBVVmd3aTRGb0Y0Y2xLa0JsWGlnYVpYY05oaG92VkI": 1793732149801
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "NNC Netralnews",
-      "x": "UHC Prioritas Pamekasan 2026: Masyarakat Desil 1 hingga 7 Bisa Berobat Gratis - NNC Netralnews",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDhfdl9leHRsVjdiUEhmV0ZHcnpEcEFsblJsQTVOcE9GeHRvNXB2ZURIQzNnUlA1VEJsU0dPeGd5U1dqOWJpZGh5T1hsUEk3d2xJc05sa3BYdWJjNmE5Q01IWVVkakRid3RwdmF1bXEwWnVwbVJoWWpSZVJFcnhNTlZPMWJSYlhVWXQ5anNGYXp4a0VTemphMFVnUDZ6ZmQwcUxJMmZFYTNoQ3QzdGhNMGxKUW1PaWM?oc=5",
-      "d": 1793711700000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Iya itu fenomena yang rame September 2026 kemarin — banyak yang kaget desil 2/3/4 tiba-tiba naik ke desil 5 di pemutakhiran DTSEN. Soalnya mulai 2026 acuannya bukan DTKS lagi tapi ",
-      "u": "https://www.threads.com/@meta.ai/post/DfR-algAFsK",
-      "d": 1793712024000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29378,10 +29360,30 @@
       "d": 1793712840000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTW12OUliOXZJY1JqM1pOZld6VDc3d2NHY2ItX25JZHpDVDJUdEtjRUhnd1FYZXFTaUQ1UHVMTlpNVkVWemNTV05nZXZWMnB0YUZzYmZ3dlJ0czNTSUpucE5oa3haR3JtZVpNazVGNnNDQUdGN1hiRkJiWDlQdk9nd0pnSXhBaXVBRHEwangzc1dBVEptelB4XzNqNUxLQnpLbFVfcTZQdW5NclZ6a2RDSU00R1k2ay1V?oc=5",
+      "d": 1793731775000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Radar Depok",
+      "x": "199 Mahasiswa di Depok Terima Beasiswa Maung - Radar Depok - Radar Depok",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVFzVFNyVTlsVWktRGVBNThBbjg2SklTMXBaMTlCcUJCM051X2NqMndGaXZDcGhCR3RYekVmY1JXTWNpN044NG9tX2dNdGprVTlEU2tEZkxzLW52VE9wbWxCdFVZakN6dWlpWUZnZDBBZFdtVzZGdS1LTjFSQlhDR3BpR1Zrelo0NTlyU3hzaEk1RFXSAZgBQVVfeXFMTk9BalNJOUZxNTA3U21SVmFRbkFVVWZ1ZUpORW85LVNBOEE3QUtDa25PLVgwU0xubEZhVTllQXVMTmo5cEZnUE1FRnAweWc0V05FZ2ZBYjNPT0NIUEtkbUNHZXhQbXRmd2dvMFUxMTlxNWdabVpUNGg3NTBVVmd3aTRGb0Y0Y2xLa0JsWGlnYVpYY05oaG92VkI?oc=5",
+      "d": 1793721659000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
