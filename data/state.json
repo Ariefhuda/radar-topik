@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeusciKDrQ8": 1792528243422,
-    "threads:DeurDr6FtrK": 1792528243422,
     "threads:Deus2YBk7J3": 1792528542496,
     "threads:DeuszLRk9CS": 1792529021358,
     "threads:Deutp_xG-rR": 1792529021358,
@@ -27903,19 +27901,10 @@
     "threads:DfSuLKok68m": 1793737545808,
     "threads:DfSuJDvk-On": 1793737545808,
     "threads:DfSuF6RE9mm": 1793737545808,
-    "threads:DfSsol5Dd9z": 1793737545808
+    "threads:DfSsol5Dd9z": 1793737545808,
+    "news:CBMi-AFBVV95cUxOSGpDMlVvNHI3aElJd3RzcWpYZ2tBNUFLMEY2SjlMM2toTHNhZmxIMHJmVXZfRjBOYUxRTGprNXgwcFIyc0pmZk9URFdxS0lvT05BQWtzNVRvYjlqcTVja255TjRkbzFJT1dBbkI2NmFCbEtEeHByX2pGYzlLTW9Kc0QzR3pDd2xfTmN4ck84MGF3WGdmeXdPRlZ0S051S3I5SG5HZkd5a25QdnVEUldfYm40R2haX084Rlh1Nk04Y2laUkYwZnlsZC1Nam43d3NZQTdPX252NjR3LXZxT1RMT3dRenhNYjNERHlDaGhNd2hONFV1dktSN9IB_gFBVV95cUxPR0hCOVVhM3VxSWxZNF9ONnpCZkNxR1YxRGFXOFpiRThlYVJIdm9nZEdaRklDT3ZWUEZzSkM4VzNDMU9kM1pFYkpVX290allkcmFnVUt4MGJWbktmTEgtSXdkcXpqNEJlM0ZVMUpIbXpVQm42czJrXzdITnBEX1JtckdhOTVydld1ZV81SWU2ZFVZWDRXNXJtWnVWSHpES3VOcU5vZkNkMV9GRVUtMkhSNnFVa3JibmYwTGg1bTVpUTgzU0RWdEc0Zy1YRTRYMnRQTmo5R0pkN29VTk1SNXJSaG1DTDBrMWJNTGlFdm1ISS1pb2lzVkVCbWhOVW1pQQ": 1793737862663
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@amymein4",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@amymein4/post/DfR_gWVHb_s",
-      "d": 1793712595000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29405,10 +29394,20 @@
       "d": 1793720892000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Suara Merdeka Banyumas",
+      "x": "Banyumas Targetkan 50 Persen KK Terdaftar dalam Program Digitalisasi Perlindungan Sosial pada Akhir 2026 - Suara Merdeka Banyumas - Suara Merdeka Banyumas",
+      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSGpDMlVvNHI3aElJd3RzcWpYZ2tBNUFLMEY2SjlMM2toTHNhZmxIMHJmVXZfRjBOYUxRTGprNXgwcFIyc0pmZk9URFdxS0lvT05BQWtzNVRvYjlqcTVja255TjRkbzFJT1dBbkI2NmFCbEtEeHByX2pGYzlLTW9Kc0QzR3pDd2xfTmN4ck84MGF3WGdmeXdPRlZ0S051S3I5SG5HZkd5a25QdnVEUldfYm40R2haX084Rlh1Nk04Y2laUkYwZnlsZC1Nam43d3NZQTdPX252NjR3LXZxT1RMT3dRenhNYjNERHlDaGhNd2hONFV1dktSN9IB_gFBVV95cUxPR0hCOVVhM3VxSWxZNF9ONnpCZkNxR1YxRGFXOFpiRThlYVJIdm9nZEdaRklDT3ZWUEZzSkM4VzNDMU9kM1pFYkpVX290allkcmFnVUt4MGJWbktmTEgtSXdkcXpqNEJlM0ZVMUpIbXpVQm42czJrXzdITnBEX1JtckdhOTVydld1ZV81SWU2ZFVZWDRXNXJtWnVWSHpES3VOcU5vZkNkMV9GRVUtMkhSNnFVa3JibmYwTGg1bTVpUTgzU0RWdEc0Zy1YRTRYMnRQTmo5R0pkN29VTk1SNXJSaG1DTDBrMWJNTGlFdm1ISS1pb2lzVkVCbWhOVW1pQQ?oc=5",
+      "d": 1793692947000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
