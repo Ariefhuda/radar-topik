@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DestatXAbKI": 1792461657931,
-    "threads:Dess55VgW7T": 1792461657931,
-    "threads:DessxavDr_f": 1792461657931,
-    "threads:Desr53dksqT": 1792461657931,
-    "threads:DestFMYn2Fa": 1792461657931,
-    "threads:DestJbrE5gJ": 1792461657931,
-    "threads:DestoP7kxFv": 1792461657931,
-    "news:CBMivwFBVV95cUxPanItN3F5RXR0VUdSSm1DN3JZTXhFbzJaYTNtcnlXb0QxMWhDQmIzaGFEcjJ1NmhrUXZiMXdGcHlGQU44SXRtQ2pBd2czTTJUYVRERWJUV1hkdXF2SVlEbzZZRHFJbG11NHZ4d1VBOWRReExKRlZLNWZoa0g4U0E1S3pGV0ZCaGhsdHlnNjk0ZUp6aXZtdzAtdW52NDZ1a3JXbWZFMlI3bUxaN0lJUmJ5eklQSjFfYU9hRl9oZ2R3UdIBxAFBVV95cUxPU3p4UTZqZGdOTUdQZDBEVlJvZEtZQVVFS19WVzBwZmhVWjJEdWF2R0hZa2ZaVWZnb1MtQ3FuTmQ1dVNfWl9ZeHdWUHhPVlpaOXJ4U3UzcHhrWThPcXRVbnpxbGsyQV9IamRYQmsxXy1RNHZEajFYYkhTcUt6NkpzRWg0eVJIV19GZVlmbXFlUmdDaVZrZHlzUFdWOWktUWlvb3J0ZmZVdVR0SjNuem0zS19rekdBeDNFY0hjMWhDVkJpMlJa": 1792461657931,
-    "news:CBMixgFBVV95cUxQTW1mcUpteXpjTVh6MlRFMGJEckVmRnl0RldLSVp6Q1JUNHBxejZ2aDhCWWJnUFBpeGFQMl9tM2RvOGxnSHVoOVBZUTR0YkpZX1dVeGVMT0dMQXFBSUszdWE1aW5WYmFHZlU5QnlJdHEtR2oweTBRWVB2YlI1c2c2TWJlLWJRWTBLd0RTZTBzdGpwUHFRck5Ob3g5RmxxVkh0bWZ0U2ZTNWtTV08zbUVfaGUtbHd1OVQwREx5UkZXUUx4b1ZCcnc": 1792461657931,
     "threads:DessiwnE9Kd": 1792461945354,
     "threads:Desth5Ykgl5": 1792461945354,
     "threads:Dess8HLk1Zt": 1792461945354,
@@ -27341,7 +27332,11 @@
     "threads:DfQwAY6jxBK": 1793670938459,
     "threads:DfQv8xbD_Ox": 1793670938459,
     "threads:DfHqT4JmaZb": 1793670938459,
-    "news:CBMimgFBVV95cUxOR3AtNUNSSGtQSWk2V0RHQUo5WmF6SEdpa0FINk1oQl91Q1VaUk44ZVpzZFV3aEs1QmE1ci1pZ25NdGZvMWNSQ2ZPV3pKLU42YjBLRHZUZENrRmJ3aXE2bWIwSG1sX2xCMUNnOW9aSk9DeUZQTUt3WnZwZ1doaWRvd1NVd2k5Y2JOTVdYTzNqZ1lkbEFIVHpzN09B0gGKAUFVX3lxTE53RXowbFpLMU1aSThsY2FTZExoTm92WEo0dW9LZE9COUhaS1pfMHNfZmdtVDFUVkJtMGhEczZrWDlUWHc0LWZMUEFLYklzNjR2RVhEbnFHQXc3QWxnUmpJd2NoTEVlTHlOYTVhSjZDdjF0b2RyWjZDRWRPd0VqUDdsa1BsMWlMMFdQUQ": 1793670938459
+    "news:CBMimgFBVV95cUxOR3AtNUNSSGtQSWk2V0RHQUo5WmF6SEdpa0FINk1oQl91Q1VaUk44ZVpzZFV3aEs1QmE1ci1pZ25NdGZvMWNSQ2ZPV3pKLU42YjBLRHZUZENrRmJ3aXE2bWIwSG1sX2xCMUNnOW9aSk9DeUZQTUt3WnZwZ1doaWRvd1NVd2k5Y2JOTVdYTzNqZ1lkbEFIVHpzN09B0gGKAUFVX3lxTE53RXowbFpLMU1aSThsY2FTZExoTm92WEo0dW9LZE9COUhaS1pfMHNfZmdtVDFUVkJtMGhEczZrWDlUWHc0LWZMUEFLYklzNjR2RVhEbnFHQXc3QWxnUmpJd2NoTEVlTHlOYTVhSjZDdjF0b2RyWjZDRWRPd0VqUDdsa1BsMWlMMFdQUQ": 1793670938459,
+    "threads:DfQuu2En8-m": 1793671260281,
+    "threads:DeJBtl-Ag8W": 1793671260281,
+    "threads:DfQv3SKkSn8": 1793671260281,
+    "news:CBMisAFBVV95cUxOVF9FT3BRdjk0WHRUWkNqVEdpNy1MR1pDVks1T0p6TFdRYjA0T0kzUklWb2JYOG10QTZqQjJqaGpoUzd6c2lPcV9LcjQzNko0cnRpT3hMVWpKa3c0WF9JZDk1d0hNREl3UWxEUnQyMkhRcUVZUUhsQy1qVnZkNzBXeC12a2RpR0Q0eWRfemZDbHdPczQtRUYydG5MalJGamU5NUFKUEdYWU5GSGRTMGJZZA": 1793671260281
   },
   "digest": [
     {
@@ -27833,10 +27828,40 @@
       "d": 1793611560000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@advent_id",
+      "x": "TAAAAN, BISAAA! Saya alumnus UGM yang pernah diberi mandat di Segigama, organisasi mahasiswa Kabupaten Wonogiri, menyaksikan banyaknya teman-teman kami yang mohon maaf, mengalami k",
+      "u": "https://www.threads.com/@advent_id/post/DfQuu2En8-m",
+      "d": 1793670247000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Program-program Prabowo yang paling disorot itu diklaim pro orang kecil, tapi penilaiannya memang beda-beda. Di sisi pro rakyat miskin: Makan Bergizi Gratis, Cek Kesehatan Gratis, ",
+      "u": "https://www.threads.com/@meta.ai/post/DfQv3SKkSn8",
+      "d": 1793670840000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "NUSABALI.com",
+      "x": "Sulap Instagram Jadi Kelas Pertanian, Guru Petang Wakili Bali ke Nasional - NUSABALI.com",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVF9FT3BRdjk0WHRUWkNqVEdpNy1MR1pDVks1T0p6TFdRYjA0T0kzUklWb2JYOG10QTZqQjJqaGpoUzd6c2lPcV9LcjQzNko0cnRpT3hMVWpKa3c0WF9JZDk1d0hNREl3UWxEUnQyMkhRcUVZUUhsQy1qVnZkNzBXeC12a2RpR0Q0eWRfemZDbHdPczQtRUYydG5MalJGamU5NUFKUEdYWU5GSGRTMGJZZA?oc=5",
+      "d": 1793670591000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
