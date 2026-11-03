@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Det6DyzD3GZ": 1792501841971,
-    "threads:Det5_bMjwoQ": 1792501841971,
-    "threads:Det5x8YjxPZ": 1792501841971,
-    "news:CBMixAFBVV95cUxPVzlnaTNWUHVnbUxKNzUycnBjYTdMYjVTaDVZcE91anp5RkctbTg1eFRDekRXSnlHSVBoT2VhTFZaWk1TRjh5RWFuSjhOSWlncXBRT0NrQlBuc2pZUVY0V0RBUXlsNUEwNXpRbDE1eWlYQ0FKZG1zUkdSajNfOTdWekxEcFZlNVZNampsZmY4T3M4MGNaMHhLcXhxejdNZXBmY1BsbnNDQlItSVpfOEhtaUl1TUVTT0h1cWRHeTBNcU9CSzVK": 1792501841971,
     "threads:Dd29gULkYVU": 1792502145471,
     "threads:Dd_lYscCUAT": 1792502145471,
     "news:CBMi8AFBVV95cUxNcEg4eGxEOGh2NnkxNXkxVGEyelhGTE9uWXlvSFB0MWtoZ0RDLXE4UmNMQ2dheWhQVzI3aXpiTUNtaU1Ca3RiNGxNeHlmWWpsVU14eEhaOWpoXzE1Yk5ZMnN3eGpQZG94VkJZbUVoQkVkd0JqNEdNOUpiMThZTHR1MU5obW1iVmpBblBTRXhSb2FyMmV5TzZQanMzaFJiQmJ5RzN0MDZwcmhjRURTQ1gwN01XRXNJdy1fT1czMU9ZYmFOYlE3UlBVV2YwMFJjNXBCRzBTa3lSaGtSdDlQMHM2aXFqajFJcGI3MzIxaGs0V3HSAfYBQVVfeXFMT3dpNXRfeTNxNnUxX1o0ZE5TMHRjMzY5QTBSbUloRVlhbU9sZ2U2Y0hZZHdtRnZEZ2s1NENIVlBnamo2ekdtOEkyUHdYVm9IVGVxS2R1NjhNdkNaMjM5SFo0bGoybk1YT1FKT0luSU5vckRkU2g5c0k0b09oeGlwbU5WM3Fid09FejVadmpvSUw2cVR3WnJsMTB4UGtseFNVOUhVS1FRdUwzeVEtSWkzSXIxemR4MWx4MlNEV1VBVG9RREhDM2M0NTROUGtFRzJ5RlNnODZuTzlZT2VzbWhKOXZ6d2FISGY3ckJLVkU5RC1JUXRmVFRR": 1792502145471,
@@ -27656,7 +27652,11 @@
     "threads:DfR8Nayj5mc": 1793711135347,
     "threads:DfR75o2E3H6": 1793711135347,
     "threads:DfR86jdD0KK": 1793711135347,
-    "threads:DfR86i1j5X7": 1793711135347
+    "threads:DfR86i1j5X7": 1793711135347,
+    "threads:DfR8hG5EnWG": 1793711439426,
+    "news:CBMirwFBVV95cUxOTU5kRVpUZFlGMXJIWnR2S2ttckwtMlpxWGdBYUs1a24yVUZqd2hsYXAtNmdWYzJKODZkUDNiUVA0eWRaQkp0N1J1Q2NGZFMyQWo0ZkxtMlhWcDdvbUZjMHRIQncyOTRQVWJxLTlGWXliSG1jU0RwSGM0MGpwUzRmTzBIMEJPaHJ4S2x0OVBkVlRJbFRTYnNsQ2NRRWNlNE8xY01kMEFvR3VQZy01aWJn": 1793711439426,
+    "news:CBMiywFBVV95cUxOZE5zZlhaY1NtMnEyTHM3N3RRbDc3Qkx3MDhuSzRGNTdDYjJ6dV9JdHkwXzJUTldVbG9CU0Z3V2VPS2VpcjNBSk93Nm1qZWdvUnEtR04wdWh1U21Zdy1IaW5BRU5uN2RNeFlubTJGWS1qbDl5SUlDTjZQVXNRcm96WllwSUVxb1UwR0NzRkZraWMzeWpDbjFyM3BXVzMteGJnV0FMM2VoY2dKamJXLWk3b3hvclEtaFJ4UGtaX1M5U0V4Z053S2k1WWhxNA": 1793711439426,
+    "news:CBMisgFBVV95cUxOa18wbFFwb29mQnlCZTR0RmJLWEs4OEc2ZmlOZG50bTJjR3B1OU9oQ3V6a2tNUGg1ZUVxNDMwS1NhQi1GSHhyQjNHYVVsSDVIVTkwX0puN3NRcG02dndQaU9tUkxFZUpqYXk0elNBc29MRUJEbU1uS09PeS16eWVlcmV0V0FhdnhUSmthMXltajZsenp5dzAtM3RZWDFBNFBwOXR4eW1kOHRMM0l2VjlBSmF3": 1793711439426
   },
   "digest": [
     {
@@ -28568,10 +28568,50 @@
       "d": 1793711237000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@prkuningan",
+      "x": "Penerima PKH masih berpeluang mendapat BSU 2026 Rp900 ribu. Simak aturan prioritas, syarat pekerja, dan jadwal pencairan bansos Kemnaker. Sumber Artikel berjudul \"Sudah Dapat PKH, ",
+      "u": "https://www.threads.com/@prkuningan/post/DfR8hG5EnWG",
+      "d": 1793711029000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Redaksi 8",
+      "x": "Perkuat Bela Negara dan Kedisiplinan, Puluhan ASN Tanah Bumbu Ikuti Latsarmil Komcad 2026 - Redaksi 8",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTU5kRVpUZFlGMXJIWnR2S2ttckwtMlpxWGdBYUs1a24yVUZqd2hsYXAtNmdWYzJKODZkUDNiUVA0eWRaQkp0N1J1Q2NGZFMyQWo0ZkxtMlhWcDdvbUZjMHRIQncyOTRQVWJxLTlGWXliSG1jU0RwSGM0MGpwUzRmTzBIMEJPaHJ4S2x0OVBkVlRJbFRTYnNsQ2NRRWNlNE8xY01kMEFvR3VQZy01aWJn?oc=5",
+      "d": 1793710131000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Redaksi 8",
+      "x": "Pasar Tradisional Balangan Mulai Bergeliat, Program Belanja Cil Dorong ASN Berburu Kebutuhan di Pedagang Lokal - Redaksi 8",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZE5zZlhaY1NtMnEyTHM3N3RRbDc3Qkx3MDhuSzRGNTdDYjJ6dV9JdHkwXzJUTldVbG9CU0Z3V2VPS2VpcjNBSk93Nm1qZWdvUnEtR04wdWh1U21Zdy1IaW5BRU5uN2RNeFlubTJGWS1qbDl5SUlDTjZQVXNRcm96WllwSUVxb1UwR0NzRkZraWMzeWpDbjFyM3BXVzMteGJnV0FMM2VoY2dKamJXLWk3b3hvclEtaFJ4UGtaX1M5U0V4Z053S2k1WWhxNA?oc=5",
+      "d": 1793710405000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "pantau.com",
+      "x": "Backlog Hunian di Mimika Masih Tinggi, 589 Rumah Masuk Program Bedah Rumah - pantau.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa18wbFFwb29mQnlCZTR0RmJLWEs4OEc2ZmlOZG50bTJjR3B1OU9oQ3V6a2tNUGg1ZUVxNDMwS1NhQi1GSHhyQjNHYVVsSDVIVTkwX0puN3NRcG02dndQaU9tUkxFZUpqYXk0elNBc29MRUJEbU1uS09PeS16eWVlcmV0V0FhdnhUSmthMXltajZsenp5dzAtM3RZWDFBNFBwOXR4eW1kOHRMM0l2VjlBSmF3?oc=5",
+      "d": 1793709900000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
