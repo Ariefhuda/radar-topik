@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesyhZ-n4ED": 1792464939579,
-    "reddit:t3_1xagwdo": 1792464939579,
-    "reddit:t3_1xagtrv": 1792464939579,
-    "reddit:t3_1xagtn5": 1792464939579,
-    "reddit:t3_1xagti8": 1792464939579,
-    "reddit:t3_1xagsxt": 1792464939579,
-    "reddit:t3_1xagslv": 1792464939579,
-    "reddit:t3_1xagsg7": 1792464939579,
-    "reddit:t3_1xags2l": 1792464939579,
     "threads:Des0KDikqgo": 1792465255860,
     "threads:Desz1TTAeZk": 1792465255860,
     "threads:Deq3BFSn2_6": 1792465255860,
@@ -27369,7 +27360,14 @@
     "threads:DfQ2UMtjPiu": 1793674248369,
     "threads:DfQ1gQkkaoI": 1793674248369,
     "threads:DfQWB0PE61P": 1793674248369,
-    "threads:Dckh7y4D5EQ": 1793674248369
+    "threads:Dckh7y4D5EQ": 1793674248369,
+    "threads:Dd5tAHFEaq9": 1793674544580,
+    "threads:DdB7r01n4FY": 1793674544580,
+    "threads:DfQpHKKE0fI": 1793674544580,
+    "threads:DfQ19d7ktfL": 1793674544580,
+    "news:CBMilwFBVV95cUxNTTNTX3FKN1dvZmw3cHZmWkRYVnJZdm5xZGIzRmJEek5lRlRwTFRhUTJBOXlaUzQtMi1GZlZ4WmJWSVEtSDNId05yMC1XU2tGZDN4cERiRXdqVWNYT1l5NDB4eG51eC1JbDF5VWxVQXhJMWxnSEpjbUt4VUlmVXoyOXJLV1RWbnhkQXk1RFJxendzMU9qUTlz": 1793674544580,
+    "news:CBMiywFBVV95cUxPOFNqaUxtU0hHNDRKeHNGRm1tcXRnLWpzU09Kdk9KLXZsRURXZ1RtWndLY2FyUWIxWWJXMW5paVRnTnJOT1JZX1NvZk1QenR4TnJTV19WYzlWTVJYaWNyN0xSZUxTR192QW5XekRMTmZFc3F1cE9MN19wcmRMVjRmZFUwOHJSSURkZk1ReEJsNkJNOV82a1lGSGJkQm5neWtBZmhhZDBZdVIyY3NXbnhJQWhJSWgwSUR0Skh1R09wMWpQMmlHNTAxdHNYVdIBuwFBVV95cUxOTEFRRFF5dXJkczU1VWZrLXVvbVFwMnEyMUprUk4wT3JVXzFoUUVKVzRpazhDblMyX3lWTU5EVGZzVkRNSndPMjdzVzZSOTBWTHBTOTBvRlUwaURueDJnTlhCUWFZZWZtN1d6ZndWTEdsUWFIMVdWU1FiWlJyRjlKY1Bfb1hqWWY4eWkxekk5WHlzWTlNbkNmZVJVanlob0wyTERBLVNVX3RFaWRVckpmeVlrVmVfeVdkUFlF": 1793674544580,
+    "news:CBMi3wFBVV95cUxNRGotZzEtektEMU5TSDgzM2FRR2wtZUI5QXpsVTMtMUxhQVNsX004VGxZaE9zRjE1LWpTd2daZDljcldpTG5aeUMwTWJCSnhMQlpYdEZGYVJNZHh2QkZMc0pZQzM0NXZ3VTYtM1VfV0lsZGJlV3dSOW55OF9oTm9iM2J3SDhDNnBCQUpoajFuQnhENlM3UmZQVEJ2RHl1ME8xcmliaEJsTDRGbkNKS0x3TVhCbmNMQ3QzVjExRVZBSlhVZVpPcEVUY25HRkZLU0ZBZlZKWjlKeVp5M0RSNl8w0gHkAUFVX3lxTFBKN1JmemtiRlkyV3paQy1Ob1pPSUR0T08tWVJnMEVSM0pubW9BclNXLXkyZjB3X0tSUnNSRE1Za2FTTlk1M0xnWk1nN3N2cmJBWmc4OE1hNzJadjlvbVY4NGFpQnNuOW00VkhhVk92MXJzXzNDcE9IU0VFV0FmOXhtYlR0YjZCQWdVS3BjenY1U2xXNVJKSjE2NVgxcThqamJOd2JnMkFXQ3JlOTZtQms3eUJOX0trWnROakU4SWlRM1Q0aE1tbklDNktwcE40ZjF5TDgweG9PRkRKMU1RdXBIaWdHNA": 1793674544580
   },
   "digest": [
     {
@@ -28311,10 +28309,30 @@
       "d": 1793657295000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Sumatera Ekspres",
+      "x": "HargaVacuumTinecoTerbaruMulaiRp1JutaanhinggaBelasanJutaRupiah - https://sumateraekspres.bacakoran.co/ - Sumatera Ekspres",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOFNqaUxtU0hHNDRKeHNGRm1tcXRnLWpzU09Kdk9KLXZsRURXZ1RtWndLY2FyUWIxWWJXMW5paVRnTnJOT1JZX1NvZk1QenR4TnJTV19WYzlWTVJYaWNyN0xSZUxTR192QW5XekRMTmZFc3F1cE9MN19wcmRMVjRmZFUwOHJSSURkZk1ReEJsNkJNOV82a1lGSGJkQm5neWtBZmhhZDBZdVIyY3NXbnhJQWhJSWgwSUR0Skh1R09wMWpQMmlHNTAxdHNYVdIBuwFBVV95cUxOTEFRRFF5dXJkczU1VWZrLXVvbVFwMnEyMUprUk4wT3JVXzFoUUVKVzRpazhDblMyX3lWTU5EVGZzVkRNSndPMjdzVzZSOTBWTHBTOTBvRlUwaURueDJnTlhCUWFZZWZtN1d6ZndWTEdsUWFIMVdWU1FiWlJyRjlKY1Bfb1hqWWY4eWkxekk5WHlzWTlNbkNmZVJVanlob0wyTERBLVNVX3RFaWRVckpmeVlrVmVfeVdkUFlF?oc=5",
+      "d": 1793665020000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Cek Bansos Lewat Situs atau Aplikasi Kemensos, Kenali Bedanya agar Tak Terjebak Calo - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGotZzEtektEMU5TSDgzM2FRR2wtZUI5QXpsVTMtMUxhQVNsX004VGxZaE9zRjE1LWpTd2daZDljcldpTG5aeUMwTWJCSnhMQlpYdEZGYVJNZHh2QkZMc0pZQzM0NXZ3VTYtM1VfV0lsZGJlV3dSOW55OF9oTm9iM2J3SDhDNnBCQUpoajFuQnhENlM3UmZQVEJ2RHl1ME8xcmliaEJsTDRGbkNKS0x3TVhCbmNMQ3QzVjExRVZBSlhVZVpPcEVUY25HRkZLU0ZBZlZKWjlKeVp5M0RSNl8w0gHkAUFVX3lxTFBKN1JmemtiRlkyV3paQy1Ob1pPSUR0T08tWVJnMEVSM0pubW9BclNXLXkyZjB3X0tSUnNSRE1Za2FTTlk1M0xnWk1nN3N2cmJBWmc4OE1hNzJadjlvbVY4NGFpQnNuOW00VkhhVk92MXJzXzNDcE9IU0VFV0FmOXhtYlR0YjZCQWdVS3BjenY1U2xXNVJKSjE2NVgxcThqamJOd2JnMkFXQ3JlOTZtQms3eUJOX0trWnROakU4SWlRM1Q0aE1tbklDNktwcE40ZjF5TDgweG9PRkRKMU1RdXBIaWdHNA?oc=5",
+      "d": 1793668853000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
