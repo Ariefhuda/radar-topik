@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuDyePDnRj": 1792507561483,
-    "news:CBMi0AFBVV95cUxQT2Zia25YZ2JEc09uc1REOU9mNUF4N3VPT29QbkJMS3RpMzNkQ0xxMF9nUGJISnhzazQyRnJZalRHMDJrTmVxejNPbGJLVzY2WkxJRWZhdm1VS2VNMkJVYnRCM0V0bERmWHYyM1RQRWNHTDItOVRmU0hSZ1Vndnd6U2h5WTZPZm84LXMtR2FOMEFCYjBnSFJueEpqbkVQVUFqdFMzVjRVTUhuM1l5aTZsd1VBb2t1X283dTVIbVc5VUxTWlM1d0xwZEdHd1FaeXZW0gHWAUFVX3lxTE5XTlRWR0N0Zl8zanFqeUs4ZEhBSG9BRzNnQ3FHODlINFdlVFQxTG9MU1o2d01lOGFxVTFOWGUwb2Q5R0d0T05qVHlyc1lSLWZuUHdVUUlDbWxhLVlRV1FvZ0tUQjczMEdqY2xNOE5jdV9XaDBkVEZuU0tOTVR6cGZKaEJpc1NUSGtLNmFZTEw1bmlqR1pjN2s5LXRBYUVSZVhjV24yY0xzZXpwd1ZIU2JmeHRTZGRKUEFzbzVURUxNT0tBMmlFelRabXU2dUpLcGxubGM4aVE": 1792507561483,
-    "news:CBMiswFBVV95cUxQa0Q1WS10clhQbmRKZHdYd2ZUZ0pkQlBfYUR3YXVBV3gxOHNNdGx0UHp2NjRzNnlsWkgzVmJJWi0yR3ZPcjk1N21qbWk2a1NZR24xaW0wa2FHMF9YZWl1b09sNUhocUp2NjlYZnJHRndDdFRHeGVUYkFhRjdnel9NRmxxVGlmVEJoOThmNzhiZ2E3VGNpbG1lVEoxbzhZYVE1M1VJbXFkZ1BWZTZOeVBaNkNaZ9IBuAFBVV95cUxQWDVKcnB3dTRYY2VaVm00V042eXUtTEM3RGtXY0VlQTBrNnBrS2lvdHg2TDFLRU5wRnBseUtnVGwySUpFN3h3ei1HSXFFVmtYc3lzaGczU0E4STR1b0pxMmQwRnJ2RVFmNld3ODdiNFJlTEJEUkRqMkdnel9XVFNIRG1abGt6S1pQazhuVm1kdUhXZ3M0a1FJdnREaXo4UEVsc1pfZTBraGlRb19xbW9CS3dab1pySmJ1": 1792507561483,
-    "news:CBMiZEFVX3lxTFBBVHpySVBqR3pKcWt1cGJnN25aTFZWeWptcnNZNWVMVjlmUHlrUU5jS3Z0MlFPclJOZHdwSlpyM1RGeHVhS05FazllMjN3NkFVZWxtRTkyWUQ4NmZMWEFXaFM4M2w": 1792507561483,
     "threads:DdgSm4tks3N": 1792507853295,
     "threads:Det8lkSk3Mu": 1792507853295,
     "threads:Det8ZM1oEc_": 1792507853295,
@@ -27672,89 +27668,21 @@
     "threads:DfSG63hD6B1": 1793716842392,
     "threads:DfSGwscES5r": 1793716842392,
     "threads:DfR5SNnGup_": 1793716842392,
-    "news:CBMisgFBVV95cUxOS2lzOGZYZVY1czZTUi1GYjlTeUU3TjBnWEJMTTZJaVluV01qT1Zia0dxQm56R21kbmN4ampwblRxbjh2V0liR0hQOXdHd0FpeGwwN1otWnJHUlB1MFFtVkpOelV1QlZMamp4TDZzcnpWRzRMcDBSLTFIRWJwSkYxMkVERVA3bEhaMER4a0NXdzdNbUtLdlVydXF0UHBEbUpNU1BzSEZWbWh0N01tV2UzUEpB0gGyAUFVX3lxTE5LaXM4ZlhlVjVzNlNSLUZiOVN5RTdOMGdYQkxNNklpWW5XTWpPVmJrR3FCbnpHbWRuY3hqanBuVHFuOHZXSWJHSFA5d0d3QWl4bDA3Wi1ackdSUHUwUW1WSk56VXVCVkxqanhMNnNyelZHNExwMFItMUhFYnBKRjEyRURFUDdsSFowRHhrQ1d3N01tS0t2VXJ1cXRQcERtSk1TUHNIRlZtaHQ3TW1XZTNQSkE": 1793716842392
+    "news:CBMisgFBVV95cUxOS2lzOGZYZVY1czZTUi1GYjlTeUU3TjBnWEJMTTZJaVluV01qT1Zia0dxQm56R21kbmN4ampwblRxbjh2V0liR0hQOXdHd0FpeGwwN1otWnJHUlB1MFFtVkpOelV1QlZMamp4TDZzcnpWRzRMcDBSLTFIRWJwSkYxMkVERVA3bEhaMER4a0NXdzdNbUtLdlVydXF0UHBEbUpNU1BzSEZWbWh0N01tV2UzUEpB0gGyAUFVX3lxTE5LaXM4ZlhlVjVzNlNSLUZiOVN5RTdOMGdYQkxNNklpWW5XTWpPVmJrR3FCbnpHbWRuY3hqanBuVHFuOHZXSWJHSFA5d0d3QWl4bDA3Wi1ackdSUHUwUW1WSk56VXVCVkxqanhMNnNyelZHNExwMFItMUhFYnBKRjEyRURFUDdsSFowRHhrQ1d3N01tS0t2VXJ1cXRQcERtSk1TUHNIRlZtaHQ3TW1XZTNQSkE": 1793716842392,
+    "threads:DfSIIAzE0PO": 1793717171712,
+    "threads:DfSHt0BDQ2i": 1793717171712,
+    "threads:DfSHpdOD824": 1793717171712,
+    "threads:DfSHKLzD3Em": 1793717171712,
+    "threads:DXb9gBSjxtj": 1793717171712,
+    "threads:DfSILbmmQ-I": 1793717171712,
+    "threads:DfSIIa_E1CF": 1793717171712,
+    "threads:DeEx7pwEqyy": 1793717171712,
+    "threads:DfSIVkamAvG": 1793717171712,
+    "threads:DfSHIRWDAxb": 1793717171712,
+    "news:CBMiygFBVV95cUxQMWdKYUFIQXJEOC1MRk9feHRHd2NPZi1PRktLRG5QZ0ZFX19mM05xNEVrSkJZRkZiMGpkc0ZmTkloTDUzb2JmMWdKVEMyb0NKcktOd0dNTmNDOUZscWZ5RWtUdzVRRUN5Y3oya05fWlhNa2xrZmw3RFoxX3FGTmJjRlpFSk8xbVROUGdYOHV3WUZfQjQxdDIwcFBzd1U4OFpDQ3N0M0t2QlJhNFRqblZCRU5DZUJ6VG5OVzZHc3JlVFZ3cFdpS0VqY1VB0gHKAUFVX3lxTFAxZ0phQUhBckQ4LUxGT194dEd3Y09mLU9GS0tEblBnRkVfX2YzTnE0RWtKQllGRmIwamRzRmZOSWhMNTNvYmYxZ0pUQzJvQ0pyS053R01OY0M5RmxxZnlFa1R3NVFFQ3ljejJrTl9aWE1rbGtmbDdEWjFfcUZOYmNGWkVKTzFtVE5QZ1g4dXdZRl9CNDF0MjBwUHN3VTg4WkNDc3QzS3ZCUmE0VGpuVkJFTkNlQnpUbk5XNkdzcmVUVndwV2lLRWpjVUE": 1793717171712,
+    "news:CBMitwFBVV95cUxPSGY4eUpXZ3owV3FZWXVaYlFUT3E3UTFDVjg2NmE0ellVU2RHbnpONWRGVlZZT3pXWDBBdjRNa3FvQmhoUzdoYmV2U0hJSndpLVZyLUd3NmVNUDNiUjlLSktBZEZLanZfTHJKNjUwZVJ1eTNsdWhkRkY0V1ZKcFZieGNlS0x4WFhybUx2WU1vTDdBUGZIbl9UZmhkazd4MHE0dGd4eGxuZDZxcWdEU09YenBJbkVaX2s": 1793717171712
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Hasil kekayaan negara itu masuknya ke APBN - dari pajak, PNBP SDA, dividen BUMN, bea cukai. Kenapa pajak yang kerasa terus digenjot, karena pajak itu porsi terbesarnya, sekitar 80%",
-      "u": "https://www.threads.com/@meta.ai/post/DfR3Zj8gnFD",
-      "d": 1793708345000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Fakta Berita",
-      "x": "Pemkot Pangkalpinang Apresiasi HUT Esdupan ke-37, Dorong Siswa Kembangkan Potensi Sejak Dini - Fakta Berita",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXNWRWg1eGlaM0tyM3lueEYzVXlLdmJ2b2JhT0J6MW40RWVjQjMtZE10Vy1QUDZBdE9OZnR5STZZWjBJYW1TNXJqdmpDbGJEcmV5OW5MbVZnRENWYjY3WWtDR1laV3pqSHFFbi16SXI2MlFjZHlqWUtkVDJsNlpzbGZlMmRWOGExX2tGVzd2RGlLOEptMm9FY21TUW5DQTVjQTBXVWxxTHZ2YjlELVEyQ01iQzgwTzJKQkE?oc=5",
-      "d": 1793698812000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Tirasonline.com",
-      "x": "Ini Pesan Bupati Jember Saat Sosialisasikan Berobat dan Melahirkan Gratis - Tirasonline.com",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzZzdVF2R3VsZ1dXdlRCa3BSV1gtVGRCWUItUF9KeXZjWF9oLVpKd2hqMG40TnpacFJVbDFTTEhQa0dxNXUwWnl5cFNPd0FOTkNxLThuSUNCNF83cmNuNE01b3ZLSHRpcFZJNHRUeUJDSXc1MXZLYVljR3Z3QTh2dnQ0TWpRUVdUMzRoTHZuSkowM202cTZvekRsSE5ZenVxTVIxVk9sdDI4X0hCNk8w0gGvAUFVX3lxTE1DNnN1UXZHdWxnV1d2VEJrcFJXWC1UZEJZQi1QX0p5dmNYX2gtWkp3aGowbjROelpwUlVsMVNMSFBrR3E1dTBaeXlwU093QU5OQ3EtOG5JQ0I0XzdyY240TTVvdktIdGlwVkk0dFR5QkNJdzUxdkthWWNHdndBOHZ2dDRNalFRV1QzNGhMdm5KSjAzbTZxNm96RGxITll6dXFNUjFWT2x0MjhfSEI2TzA?oc=5",
-      "d": 1793700356000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "MetroTVNews.com",
-      "x": "Bansos PKH-Sembako Masuk Tahap 4 Bulan Ini, Begini Cara Ceknya - MetroTVNews.com",
-      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkREY0hxTGZRemhQNWM2TDlLbVNFdmREMnFuZEQ4bjFvX3lUeGFjNTBrdFRMeUlpcWtCQV9XMThpRmd4bEFta1ZZYnYtRG5GTHpKczRPeV8zMFlSMzhDQVBUVkd5V1JrNGpVZFdqVzdvc3o0TGhlNUZ3V0paTGxJTmVTZTV5OFAzbFZWTG11dEZ6UzlhZ1dfRWRUbEhocFd5SmZSQzdn?oc=5",
-      "d": 1793708137000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfR3svqD2zF",
-      "d": 1793708502000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfR3pxaj6o_",
-      "d": 1793708478000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@journeybyalesha",
-      "x": "Coba lirik produk skincare dan body care, Kak! 😊 SR12 punya pilihan produk perawatan yang bisa jadi variasi jualan. Bisa juga kenalan dulu dengan peluang reseller atau dropship-ny",
-      "u": "https://www.threads.com/@journeybyalesha/post/DfR3kecicHz",
-      "d": 1793708435000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfR3kPQD3RY",
-      "d": 1793708433000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29174,10 +29102,90 @@
       "d": 1793716651000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo Ibu semoga segera dapat pekerjaan yang cocok ya 😊. Sambil menunggu Ibu bisa coba pelajari skill digital marketing dan bisnis online. Yang nantinya bisa digunakan untuk jual p",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfSHpdOD824",
+      "d": 1793716864000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak ada banget 😊, kk coba upgrade ke skill digital marketing dan bisnis online. Selanjutnya nanti kk bisa jualan produk sendiri secara online, bisa dropship tanpa stok barang",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfSHKLzD3Em",
+      "d": 1793716608000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mariodevan",
+      "x": "ditiap daerah biasanya ada pelatihan yg diadakan bisa dinas dan pemerintah itu gratis, follow aja akun info resmi daerahnya, lalu ada juga dari bank indonesia ini jga sring ada pel",
+      "u": "https://www.threads.com/@mariodevan/post/DfSILbmmQ-I",
+      "d": 1793717142000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ngopibarengtemen",
+      "x": "Untuk pelatihan ini gratis, program TMT dari Kemnaker",
+      "u": "https://www.threads.com/@ngopibarengtemen/post/DfSIIa_E1CF",
+      "d": 1793717118000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@edukasi.beasiswaugm",
+      "x": "Beasiswa Riset BAZNAS merupakan program bantuan dana untuk riset mahasiswa, penelitian kelompok/lembaga, dan publikasi artikel ilmiah (APC). Panduan pendaftaran akses melalui bazn.",
+      "u": "https://www.threads.com/@edukasi.beasiswaugm/post/DfSIVkamAvG",
+      "d": 1793717226000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@naadoctorr",
+      "x": "haloo temen temenn aku awardee beasiswa pemerintah rusia, ada yang mau join mentoring beasiswa pemerintah rusia? terbuka untuk semua bidang studi S1-S3. Tidak perlu sertifikat Toef",
+      "u": "https://www.threads.com/@naadoctorr/post/DfSHIRWDAxb",
+      "d": 1793716592000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "suara indonesia banyuwangi",
+      "x": "Angka Kemiskinan Banyuwangi Terus Turun, Kini Tersisa 5,6 Persen - suara indonesia banyuwangi",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWdKYUFIQXJEOC1MRk9feHRHd2NPZi1PRktLRG5QZ0ZFX19mM05xNEVrSkJZRkZiMGpkc0ZmTkloTDUzb2JmMWdKVEMyb0NKcktOd0dNTmNDOUZscWZ5RWtUdzVRRUN5Y3oya05fWlhNa2xrZmw3RFoxX3FGTmJjRlpFSk8xbVROUGdYOHV3WUZfQjQxdDIwcFBzd1U4OFpDQ3N0M0t2QlJhNFRqblZCRU5DZUJ6VG5OVzZHc3JlVFZ3cFdpS0VqY1VB0gHKAUFVX3lxTFAxZ0phQUhBckQ4LUxGT194dEd3Y09mLU9GS0tEblBnRkVfX2YzTnE0RWtKQllGRmIwamRzRmZOSWhMNTNvYmYxZ0pUQzJvQ0pyS053R01OY0M5RmxxZnlFa1R3NVFFQ3ljejJrTl9aWE1rbGtmbDdEWjFfcUZOYmNGWkVKTzFtVE5QZ1g4dXdZRl9CNDF0MjBwUHN3VTg4WkNDc3QzS3ZCUmE0VGpuVkJFTkNlQnpUbk5XNkdzcmVUVndwV2lLRWpjVUE?oc=5",
+      "d": 1793691540000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Pojoksatu",
+      "x": "Beasiswa Fulbright 2027 Buka S2 dan S3 ke Amerika Serikat, Tanpa Batas Usia, Ini Syaratnya - Pojoksatu",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGY4eUpXZ3owV3FZWXVaYlFUT3E3UTFDVjg2NmE0ellVU2RHbnpONWRGVlZZT3pXWDBBdjRNa3FvQmhoUzdoYmV2U0hJSndpLVZyLUd3NmVNUDNiUjlLSktBZEZLanZfTHJKNjUwZVJ1eTNsdWhkRkY0V1ZKcFZieGNlS0x4WFhybUx2WU1vTDdBUGZIbl9UZmhkazd4MHE0dGd4eGxuZDZxcWdEU09YenBJbkVaX2s?oc=5",
+      "d": 1793717100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
