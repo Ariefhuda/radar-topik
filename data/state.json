@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesxLAsjHKW": 1792463735337,
-    "threads:DesxQCVgU10": 1792463735337,
-    "threads:DeswoIejHLo": 1792463735337,
-    "threads:DdybF9DEtsk": 1792463735337,
-    "threads:DdQ2T-tmW9B": 1792463735337,
-    "threads:Der47snIMY8": 1792463735337,
-    "news:CBMixAFBVV95cUxOODN1QW4zYnd6eTRGTWEzVUJyVDlYck1TVVh0WVFXaWlXRXZwellvZGNIcWdzWDZOQXRueE9MNDRYV3haUTlxV0RpY2QxMVV6dDUzVG1GcmVMLW5tQmZadmFxQTlNQThDTmFpY1JBTW5BUS1UYjd4aUYzQmQwUUlJSEV5Zlo1ZVN0b21DOWZVbHgxU0JkcTkzMURaUmxWWXQ2N2JpcmszQVVkTUpxSG9UM2dySXpGeGJWbVBHdDUtSGg0Y1do": 1792463735337,
-    "news:CBMi3wFBVV95cUxQSUlFcnB2a05MLWZUWnZBYjl3S21pWTZhYmtuNXBSUEZGMDNBQXF4UUZhRFBjaEZIT000N1cySnVRbDJhSU5HSmo5RVdOd3VZMDgySzNrNVNCMjB5SWdwV1VTSkh2RlhIZkNwN2h6X0wwS0t0YmhYVnlLTHlCYjVwSWVCZkhpdFdQc2FlemEwRTRsNzdoWS1HRy0xN2FBcl9MUUJOM2VIaGQwMHptNVI2RjZwNkFZbV9aeVZlNkFjM0xNQmVSRUh3ZndFMXozbE85V1pPdXE3UHRpUDZWU2FN": 1792463735337,
-    "news:CBMizgFBVV95cUxQQmNpNVF5M2FiQW1EYlZNODNrb2U0TWt0MjcwSGdaekY2M01qdEdSMGFiMk5NSVFCY2RoNl8zVF85N3ZoR0dvb2lsVjRXMUVQd1Y5QVdQUjNXVEZlQnNjaHY2LWozYUxRM2w3LTFSQXVpRzJPelQ0TlRxMk53VEQwYkxBVzZYd0RKa0xsZmtKbUozcmtJNHA5ejhLQTAxM0NpbE1jZ3VNRGtmdC0tZTBMaklxbDZGSHloRWV3RVNYVWlxWVFLV29zdFl2c3lzZ9IB0wFBVV95cUxOT0ZGSnl3ZWlha1hBVnRZQ0xMMlFUbEtwZFp2d1A5UDFsQzc5clpQcTBMUzczSWJUUjhyaEpma1FsdWR5aFRGd1NBelI0QjZnN0g5bDdRMmxpR3NURk5COS15bEktbElpRm1fQzlWbDNhRHJyWjhkMy03UV9tcExRLXdPcmVRc04yR3VvY1dPczVBZng3TDlQbHlndzhWbTVWei1iMVBwNk5OaUhxUG4zWDBwSmFrVmJjQnRyY1J3MjUydE1tUUdFSlVrdG45SGhUTURF": 1792463735337,
     "threads:DeswcDtF4-0": 1792464047238,
     "threads:Desw9J2lSe3": 1792464047238,
     "threads:DeFq8gLk6FK": 1792464047238,
@@ -27362,7 +27353,16 @@
     "threads:DfQz6NVE-lQ": 1793673055680,
     "threads:DfQz1yniAju": 1793673055680,
     "threads:DfQzi5ZE60_": 1793673055680,
-    "news:CBMifEFVX3lxTE8xOHlmSnM4Rlo1WkxxZXNwSXNEbF94SFhTbXZDc2RrdmNWRFVhZ3ZmWUF6MkNfNlBsdnpqMVNjeGZ1azJuOE82SUx0SXp5b2Z6dThtajBmVnY1c0lBOWRlOUM3bkR5UFlQdldvaTdleUh1VnRnODNDbWhXZWE": 1793673055680
+    "news:CBMifEFVX3lxTE8xOHlmSnM4Rlo1WkxxZXNwSXNEbF94SFhTbXZDc2RrdmNWRFVhZ3ZmWUF6MkNfNlBsdnpqMVNjeGZ1azJuOE82SUx0SXp5b2Z6dThtajBmVnY1c0lBOWRlOUM3bkR5UFlQdldvaTdleUh1VnRnODNDbWhXZWE": 1793673055680,
+    "threads:DfQ0PZ5ifm1": 1793673354453,
+    "threads:DfQz2OlkZE2": 1793673354453,
+    "threads:DfQzalLjoPx": 1793673354453,
+    "threads:DSCIBlwkxb1": 1793673354453,
+    "threads:DfQz8v1D-V0": 1793673354453,
+    "threads:Ddk5SUQE6lF": 1793673354453,
+    "news:CBMimwFBVV95cUxNTjBYRHA2ZUU5LTF0ZkJNeERfUXNUZUZNcnlnUkxXdzlDbXlzYU9lTE1UMjE3YnBTcjd2VHpsN1diOU9TZmJDeDZEZk5KSVV4cEphd0JyRW1ZZGZJa1lSMEVaNkw2Y2Jfa0draXZIYjFSbTFXSjN1TC1FQ1JtM0djRW54a0FkSm01Wnc4WnlvNFVfQmMyak82bjdlOA": 1793673354453,
+    "news:CBMibEFVX3lxTE5CVDNCaFRkQlVZSmNRMms1VGxaS1ZtUEJ4MjREblJ2MjJkYloxWWNQSU94cnh5bEZOaE1Nb1NEOTJqYW9pRXhQNW85ZXNadnIwNmpkT1RrTUctN1U2UUNibElQT0tobVVON2xXRg": 1793673354453,
+    "news:CBMi5AFBVV95cUxQSjdSZnprYkZZMld6WkMtTm9aT0lEdE9PLVlSZzBFUjNKbm1vQXJTVy15MmYwd19LUlJzUkRNWWthU05ZNTNMZ1pNZzdzdnJiQVpnODhNYTcyWnY5b21WODRhaUJzbjltNFZIYVZPdjFyc18zQ3BPSFNFRVdBZjl4bWJUdGI2QkFnVUtwY3p2NVNsVzVSSkoxNjVYMXE4ampiTndiZzJBV0NyZTk2bUJrN3lCTl9La1p0TmpFOElpUTNUNGhNbW5JQzZLcHBONGYxeUw4MHhvT0ZESjFNUXVwSGlnRzTSAeQBQVVfeXFMUEo3UmZ6a2JGWTJXelpDLU5vWk9JRHRPTy1ZUmcwRVIzSm5tb0FyU1cteTJmMHdfS1JSc1JETVlrYVNOWTUzTGdaTWc3c3ZyYkFaZzg4TWE3Mlp2OW9tVjg0YWlCc245bTRWSGFWT3YxcnNfM0NwT0hTRUVXQWY5eG1iVHRiNkJBZ1VLcGN6djVTbFc1UkpKMTY1WDFxOGpqYk53YmcyQVdDcmU5Nm1Cazd5Qk5fS2tadE5qRThJaVEzVDRoTW1uSUM2S3BwTjRmMXlMODB4b09GREoxTVF1cEhpZ0c0": 1793673354453
   },
   "digest": [
     {
@@ -28104,10 +28104,50 @@
       "d": 1793670960000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@egisaaa_",
+      "x": "📢 LOWONGAN KERJA PT. ZAFARAN GRUP INDONESIA membuka kesempatan fresh graduate minimal Pendidikan SMA/K. ✨ Posisi: Therapist / Beautician 📍 Cianjur Kualifikasi: ✅ Min. SMA/K ✅ Fre",
+      "u": "https://www.threads.com/@egisaaa_/post/DfQz8v1D-V0",
+      "d": 1793672982000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "jurnas.com",
+      "x": "Kemdiktisaintek Siap Gelar KSTI, KPPTI, dan KJTI, Ini Jadwalnya - jurnas.com",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjBYRHA2ZUU5LTF0ZkJNeERfUXNUZUZNcnlnUkxXdzlDbXlzYU9lTE1UMjE3YnBTcjd2VHpsN1diOU9TZmJDeDZEZk5KSVV4cEphd0JyRW1ZZGZJa1lSMEVaNkw2Y2Jfa0draXZIYjFSbTFXSjN1TC1FQ1JtM0djRW54a0FkSm01Wnc4WnlvNFVfQmMyak82bjdlOA?oc=5",
+      "d": 1793614684000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "BAZNAS Buka Seleksi Sekolah Cendekia untuk 2027 2028 - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CVDNCaFRkQlVZSmNRMms1VGxaS1ZtUEJ4MjREblJ2MjJkYloxWWNQSU94cnh5bEZOaE1Nb1NEOTJqYW9pRXhQNW85ZXNadnIwNmpkT1RrTUctN1U2UUNibElQT0tobVVON2xXRg?oc=5",
+      "d": 1793673275000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Cek Bansos Lewat Situs atau Aplikasi Kemensos, Kenali Bedanya agar Tak Terjebak Calo - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSjdSZnprYkZZMld6WkMtTm9aT0lEdE9PLVlSZzBFUjNKbm1vQXJTVy15MmYwd19LUlJzUkRNWWthU05ZNTNMZ1pNZzdzdnJiQVpnODhNYTcyWnY5b21WODRhaUJzbjltNFZIYVZPdjFyc18zQ3BPSFNFRVdBZjl4bWJUdGI2QkFnVUtwY3p2NVNsVzVSSkoxNjVYMXE4ampiTndiZzJBV0NyZTk2bUJrN3lCTl9La1p0TmpFOElpUTNUNGhNbW5JQzZLcHBONGYxeUw4MHhvT0ZESjFNUXVwSGlnRzTSAeQBQVVfeXFMUEo3UmZ6a2JGWTJXelpDLU5vWk9JRHRPTy1ZUmcwRVIzSm5tb0FyU1cteTJmMHdfS1JSc1JETVlrYVNOWTUzTGdaTWc3c3ZyYkFaZzg4TWE3Mlp2OW9tVjg0YWlCc245bTRWSGFWT3YxcnNfM0NwT0hTRUVXQWY5eG1iVHRiNkJBZ1VLcGN6djVTbFc1UkpKMTY1WDFxOGpqYk53YmcyQVdDcmU5Nm1Cazd5Qk5fS2tadE5qRThJaVEzVDRoTW1uSUM2S3BwTjRmMXlMODB4b09GREoxTVF1cEhpZ0c0?oc=5",
+      "d": 1793668853000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
