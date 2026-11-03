@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deu-O7XDla6": 1792537843335,
-    "threads:Deu-oVJAgL_": 1792537843335,
-    "threads:Deu-jNWDAB6": 1792537843335,
-    "threads:Deu-DqxDk19": 1792537843335,
-    "threads:Deu-YEiEq9N": 1792537843335,
     "threads:Deu-nsJH-Aw": 1792538137849,
     "news:CBMidEFVX3lxTE5fX25tYm5TTkdxcXVuZlU3ejlTbjlmNDVoUnllcHRiWHdSVlp2Z1ByVm42UW9LZkR0R0llWTdOT1FYZlNpQVRPMFFCS05JcVRCYk9pVS1pNzBYbTY3VlpZRW13bkhJU1FuSG9OLXRJRGlYbWtf": 1792538137849,
     "news:CBMi5wFBVV95cUxOWDcteUJLVVMzci0wcmFsSy0xMk9leWdJV2NfaTRYOFl5bUhMdW04cjlDaDZjSXpwN1NTV3FlQkF1SkkxM29DSmg3SE5vSEZmR09manVaVVBvUEc1QXFDN2I5RFhtdExSQXF6MTYyZjVySjRucGQ3Um5CT20zR3lXRVBiWFpjUDc1NzRmQWgzRXc1RlpTcEI3QWNyTDBJY2tTMlRMcV8yY01FQlBUTTF6bzJPRFZHVzhOUlRiSHZldGE4OG1OTTdUNUgxMm9MSzJiOG1GVC1lQkpBRVZOVk53ZkRIQ2FpVE3SAecBQVVfeXFMTlg3LXlCS1VTM3ItMHJhbEstMTJPZXlnSVdjX2k0WDhZeW1ITHVtOHI5Q2g2Y0l6cDdTU1dxZUJBdUpJMTNvQ0poN0hOb0hGZkdPZmp1WlVQb1BHNUFxQzdiOURYbXRMUkFxejE2MmY1cko0bnBkN1JuQk9tM0d5V0VQYlhaY1A3NTc0ZkFoM0V3NUZaU3BCN0FjckwwSWNrUzJUTHFfMmNNRUJQVE0xem8yT0RWR1c4TlJUYkh2ZXRhODhtTk03VDVIMTJvTEsyYjhtRlQtZUJKQUVWTlZOd2ZESENhaVRN": 1792538437064,
@@ -27944,29 +27939,11 @@
     "threads:Db9IWg0kzlf": 1793747137959,
     "news:CBMi7gFBVV95cUxPVS16a0cwSEk3bWFXMnAyME9vc09za3I1YUFsaDltbGJjRURfUUtaQTlDZDhfTlJDOHNCRHFDUjVoaS12UWNPRzYtTHZmdXpldEY4UUtvZ29MNUdpS2J3MVRkTGtnaVlVb3NDUXVnMGNOVzljMXphUGE4ck4xYWVFZWkwdnJkX3ItaUtnZi1jLTlGdjVLZzNIT3YzcGlMc1lnUFUwc0ZsSjN5S2s5VVM3c1B1RzVlYWhKVXBpVG9VM08xLXVwZDRRYUNsNUNzOTRGSFJKbFl6d244QkIyU3JqelFxbVROcjM0WHdvV1d3": 1793747137959,
     "news:CBMirwFBVV95cUxNWXFyQmVjLTVFMXdOd0JIZDEydEx3dXloWVExbFFUNXpmaWRWS25aUzRLaU1CM1VnMkE4eXVUMmZZa09qQWQ3ZmJzYVdQYjU2Y3ZxbEZndDdqNUVTWDhHWEhUQU04cnd3N1NHMjBXTXZ2S3lUMXMxZHptN1hVMUQ4YnBZdnFuNVg0SDkycFZWZGpWUjRVZEw3TGFYS3doYlg1ZG5JMTBFeDdUQ2FLLVE0": 1793747137959,
-    "news:CBMiuwFBVV95cUxQWU1yNHV5QXp4Z2dVZjAybkd4ZWgtVjlsT193MXlSbnMtZDFhd0E2WG16NlZzOFRlcWZUU01vWTdFaGVRTG9tUTRCYXRHTVNBSENVRjFrVTRnTXB5dGdMQ0RPdjNjcHFiSnVNTE5NMGlsWDY0TDhsTUFZbGlRS1lGWFp2TmZxdjVidEZCQVJIeVAxTkhzbk5jd29oenhpZG5ZRjNTcmdzZkRaVzdHa1FnTjFYSENTN0JTTUdZ0gHAAUFVX3lxTFBpOFNVdmRDbEREaEtKZzNFM3VVbkNkbnpmQms3S3YtM1kxQlNQWXJQaVAtYzh3RU9qUVoyV1FPUVRIOTJWdlhfQ0taNzVfUFVwNEZvZS11Z0N6RS1Mcnh4a042aUpCQU83c3lENUkxQzNpUXhlai1rZjhMZlZ4NzY1eENOT29tVmZKQndVdDlyRklpWGhlcktZamMxak04Y3ktSzJXNVBQMklDalpqMXU5aVZmcU55dXdwSmxLNUp2UQ": 1793747137959
+    "news:CBMiuwFBVV95cUxQWU1yNHV5QXp4Z2dVZjAybkd4ZWgtVjlsT193MXlSbnMtZDFhd0E2WG16NlZzOFRlcWZUU01vWTdFaGVRTG9tUTRCYXRHTVNBSENVRjFrVTRnTXB5dGdMQ0RPdjNjcHFiSnVNTE5NMGlsWDY0TDhsTUFZbGlRS1lGWFp2TmZxdjVidEZCQVJIeVAxTkhzbk5jd29oenhpZG5ZRjNTcmdzZkRaVzdHa1FnTjFYSENTN0JTTUdZ0gHAAUFVX3lxTFBpOFNVdmRDbEREaEtKZzNFM3VVbkNkbnpmQms3S3YtM1kxQlNQWXJQaVAtYzh3RU9qUVoyV1FPUVRIOTJWdlhfQ0taNzVfUFVwNEZvZS11Z0N6RS1Mcnh4a042aUpCQU83c3lENUkxQzNpUXhlai1rZjhMZlZ4NzY1eENOT29tVmZKQndVdDlyRklpWGhlcktZamMxak04Y3ktSzJXNVBQMklDalpqMXU5aVZmcU55dXdwSmxLNUp2UQ": 1793747137959,
+    "threads:DfTB08eGVSO": 1793747451337,
+    "news:CBMiuAFBVV95cUxNaWc2UG9aSk1kaHRfSU4yTlBiSW13VEN0Wkl6YnNEX1EwSU9PZHhUVWNoRGI3LVdZUkxiRmFNWndjNkNCOEcwSldQc080c1hORl8zNDRCV2Ryd0hSdDZseW1GVzBRb2ZwbEtIaEowLURxaTBwejNJRmd5TDZYV0NhOGlhUDlrUmZfX3E0MEJFSXBwUEhkaUNSTjNSTVJCZ1ZLSzhURG5wa2hkZjhNYUZhNkJMcEhDQ2hz": 1793747451337
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Disway",
-      "x": "6 Bansos November 2026, dari PKH hingga BSU, Cek Penerima Berdasarkan Desil - belitongekspres.disway.id - Disway",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzdwRkV1OEdwX0oxMXJJU2g0NnV1UVMwUDM3Y2lldXhYQlQ3dER5c0FmWkgzWkZvckNJZjdBUlNSWTRPUDJULWdDQUhyNXZNc2dINGRfQVNlYkdYZVExNWZfU0lnUFZtQmNGS1ByMWVFTVB3b0drNnZvdVlzNUNXendOdVJ1UFZ3MVdvMmZnU2NVZ0g1Q3ZIaTdmQ3kyc1hrRE1qR3NKQk02SjAwanFhaVZkMUtGQ0t2RlAwbTZCQ05MVGtrOHfSAboBQVVfeXFMTlUwX0ZpSnJSYjh0RW8wbkN5YTNQXzZHN3JMekdLQ2xUcWdneDFhajRqcWxyb0h5bEl3ZHIwSk1xYWxDSDhaV0FlcTJmX1dJY0J0Ti02UzEtQ0h4NEkwWld0Z1E5bjhTcDBZNkJ1TGFnMzlLclB4c2FtQTV3UHRTbWdyb1pPeU1OLWpvWXJOVURGcEd3dWxCMmY1UkJnMUpCTFdaWnhRT1VURzlodTV6WlVXVElyT2R2YTVn?oc=5",
-      "d": 1793712840000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sony.gusmat",
-      "x": "Kalau ada webinar gratis tentang usaha digital, informasi apa yang bikin kalian tertarik ikut sampai selesai? Aku pengin tahu dari sudut pandang calon peserta.",
-      "u": "https://www.threads.com/@sony.gusmat/post/DfSC8ihiMf3",
-      "d": 1793714399000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29446,10 +29423,30 @@
       "d": 1793710468000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@unirangminang",
+      "x": "Info terbaru, Apakah bapak/ibuk memiliki komponen balita, ada bantuan 3 juta/tahun Jika memiliki 2 balita dapat 6 juta/tahun, Selahkan cek,, Jika belum terdaftar selahkan daftar di",
+      "u": "https://www.threads.com/@unirangminang/post/DfTB08eGVSO",
+      "d": 1793747368000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Cara Cek BPNT November 2026 Pakai NIK KTP, Ini Tanda Rp 600.000 Cair - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWc2UG9aSk1kaHRfSU4yTlBiSW13VEN0Wkl6YnNEX1EwSU9PZHhUVWNoRGI3LVdZUkxiRmFNWndjNkNCOEcwSldQc080c1hORl8zNDRCV2Ryd0hSdDZseW1GVzBRb2ZwbEtIaEowLURxaTBwejNJRmd5TDZYV0NhOGlhUDlrUmZfX3E0MEJFSXBwUEhkaUNSTjNSTVJCZ1ZLSzhURG5wa2hkZjhNYUZhNkJMcEhDQ2hz?oc=5",
+      "d": 1793747280000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
