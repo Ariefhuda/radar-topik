@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuMlj7iOYO": 1792511739150,
-    "threads:DeuMJTPCfu2": 1792511739150,
-    "threads:DeuMZNbjvS9": 1792511739150,
-    "threads:DeuL-4zDrbo": 1792511739150,
-    "threads:DeuNMpEn3uy": 1792511739150,
-    "threads:DeuMp8kjk2q": 1792511739150,
-    "threads:DeuMme1EuIN": 1792511739150,
     "threads:DeuOJq1CTwC": 1792512354615,
     "news:CBMi6gFBVV95cUxOR3M2V0VOcEl0TU9aQzRXeGthRF9xLUwzazBSUzBsX25nWVlnOC1leVdzcUloZVVYZ0xmYVo2TzJzZms2U1J6MGEybEFLWWYtZk5LUFhkY3h2SXVXQkp1aF9zZHJwQV9Kd19uZks1M1lycGZOS09UZnhZdEkwRGNkRVE2emRvdUNzT2hnLWdLZlJ1RnM4aF9kcWdoYzlNb1Y2eXowWl9Ha0dOTDFFVDFYLUkwbC1vd0JEOFFXXzV3dnpOT2IxczhqUnBrUUo3ZEdwdUlxbXF2VUtQR0ZIWFdab0VtUEFuQ0IxcVHSAdsBQVVfeXFMT0Y3S01VT3BjREFzcFlHU0RyY0JyWlN3a0lySEZHQ1NGU3ZIa1hQcWY5aVBjb2NrRGlTUzZhUnMwOEdUT0w1R0RRVnNIRDlQU09OZ0xpdlVLMjhNZ3VBWUt6Z0JJM3cza0JtZFpQN2RobWNJNkVoVUh0VC05T3I0amxwbnpMSE9MQVJyMzdKNDlYXzR4OHJCdFpqYURSbDhocHhPbE1oZ1BVWTVtUV9vVUhBNkIyYjc0VGFpd1VrSlVlSTBCOE9sajZSR0NESXNuNklmeGFfMkxmZVNZ": 1792512354615,
     "news:CBMisgFBVV95cUxNM3ZLR2hpLWFwY1phQ0xHUE9GbkREU25McW9GSDA2alNYNDVHTDNMMEpfdWduZjhmZ1NoMDFFbjRfZXh1a0ZwSHR2b19TWW8wR3B3aHE0RVJDX3loekZTUXRzc2FyR3pPUy1PekNkRmI3d0RidUhxOFVvcGY4cVcyalBwOFhUcmJCR28yYnFReThOUnZVcTRVWHF4N0M2MkhiUTVGOU54RXJ4STRFTmhjNVR3": 1792512354615,
@@ -27711,19 +27704,29 @@
     "threads:Da67iDpj_EQ": 1793721048361,
     "threads:DfSPa6-Exx0": 1793721048361,
     "news:CBMiZkFVX3lxTFAzV0xBcGIxZ0ozUGQyWWRBREZtcUVNUXIwZV9rYXhzRWJ3OVNiQm9GMnBjbnk5R045SkotcHg0dUttYzNibVZST0lBR1JjOUpveV85M0JwY09BNjY3eDlacG9jc0VLdw": 1793721048361,
-    "news:CBMisgFBVV95cUxOdWxPeDNJTEVhcFdvN1lLQV9GbC1zNVlUamtIUF9LR0I0VWJWeFJGWW4xUGtNLVlPMFMyT2IyRXQ3bGNVRnMyOHFqeExVYmd5Z0FkZHd1ekZVOGgzWkgxN2RVc1oxZHVqaEtiRFV0anIxcnhZblJwRS1TUnhMeXQ1cFlGOHNyQ2NWTjAybGRqSURtbkZhOFU2MndhOFF0MEotWkNEVC1IRmNEeDJkYkthUHR3": 1793721048361
+    "news:CBMisgFBVV95cUxOdWxPeDNJTEVhcFdvN1lLQV9GbC1zNVlUamtIUF9LR0I0VWJWeFJGWW4xUGtNLVlPMFMyT2IyRXQ3bGNVRnMyOHFqeExVYmd5Z0FkZHd1ekZVOGgzWkgxN2RVc1oxZHVqaEtiRFV0anIxcnhZblJwRS1TUnhMeXQ1cFlGOHNyQ2NWTjAybGRqSURtbkZhOFU2MndhOFF0MEotWkNEVC1IRmNEeDJkYkthUHR3": 1793721048361,
+    "threads:DcsW3J2GCi3": 1793721339366,
+    "threads:DcsadFxj7pa": 1793721339366,
+    "threads:DfSPTM8kvJd": 1793721339366,
+    "threads:DfSPc5IjYQG": 1793721339366,
+    "threads:DdByH13EXOo": 1793721339366,
+    "threads:DfSPimzCRv2": 1793721339366,
+    "threads:DfSQXEjjPoR": 1793721339366,
+    "threads:DfSQVwEkyB1": 1793721339366,
+    "threads:DfSQAGQERhY": 1793721339366,
+    "threads:DfSP9dKlGir": 1793721339366,
+    "threads:DfSPwdql65A": 1793721339366,
+    "threads:DfSPnbtmuNY": 1793721339366,
+    "threads:DfSPdUtjv3y": 1793721339366,
+    "threads:DfSPdEwGz0H": 1793721339366,
+    "threads:DfSJjB4m9q3": 1793721339366,
+    "threads:DfSPP2TjgoX": 1793721339366,
+    "threads:DfSPQFlk9co": 1793721339366,
+    "threads:DfSPPghmqNm": 1793721339366,
+    "news:CBMi7gFBVV95cUxQbWx2WnZIUUFyd3N0RDRwTmFHSkFiUlFPNkhoMVdYNmtLbmdSTEhRMWV2Qkd6QjRKUnk1VU1sd1g0ZnpKYVlOaEp1UU5zamw0LUptcWEtV1hvQ01pTlBLZll1ZzZVZzlPazVEaWtRcllVVEt3cjh6d1hiLTViZW5raWZRR0taLWdYTWVsa09nT0tGbkV4dWE4N0VoZkRlSE1LVllFMFVuMzlMWDd1WFJsLWw5NThZQ0NLeTFNUmpxdUtPNURfODVMVXBSb0NkZjRucmRrODNPV29KOUZqeS0tekZBSjhlRk5MaXM2Y3pB0gHzAUFVX3lxTE1jd3hETk1TY3VPQkxfSmYySWFpb3F6aGFJeXJaNS1CMTNiRjVjeVpKZ2FucUJaWUdLblB2NTdjZU9mc2pldFRaeTU4cWpJb2UwRTVBSHZibEwwNXMtOXh3V3pzaDlublc0VDdrTmREbTFfVTBMcEFXTHFLQ3UzcG40MVJaS3hqWnV6NkZ4bG5IRTdjVGNkWTlOMjZKN0F2ZklmUXlXcTI5bjk1ZW5RNzdUakYxX1VCdlNyZ2NDZjF4cnNZWXpjQ2VOU2NZTTFCMW5tRzZwUTZTcksxNVpwYkcxY2VNVmNLSzQ5VjVZLXhGZ2piOA": 1793721339366,
+    "news:CBMi2wFBVV95cUxOVUQycjFKN09ya29DYWZhWHAzekxMc3RrUnRJdG42eEZYeGJSYkdBYmdWT09BZTNOa3hoRTdZemlrTW9Vd1VrTmhDWWc1QnBjZXY1cEJsVlFzUTFqRjZLOVZVNHZjck5ya0dDdTFHVmFsM214Y24wQ2wtTlN5UlU4VFlsRGpEYmZZVmlzUFJBMzNTYzVJUkh4S1Y3aWNQMWI2cldtdktfVGRyc3FMSkJCMXlucmNZdi1jTUpVU0lWaVFwNDZJZFY3d2dmQTNKemlEZ3VmRDhocE1RUkU": 1793721339366
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Yuk, Gabung Grup Pejuang CPNS 2027! Dapatkan bank soal, latihan try out, ebook, dan webinar gratis untuk persiapan seleksi CPNS. Persiapkan diri dari sekarang, raih peluang suks",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfR6FZnj1UB",
-      "d": 1793709753000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29213,10 +29216,20 @@
       "d": 1793689773000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Menghadirkan Kepedulian di Tengah Masyarakat, Perjalanan Sosial Perharsia d - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVUQycjFKN09ya29DYWZhWHAzekxMc3RrUnRJdG42eEZYeGJSYkdBYmdWT09BZTNOa3hoRTdZemlrTW9Vd1VrTmhDWWc1QnBjZXY1cEJsVlFzUTFqRjZLOVZVNHZjck5ya0dDdTFHVmFsM214Y24wQ2wtTlN5UlU4VFlsRGpEYmZZVmlzUFJBMzNTYzVJUkh4S1Y3aWNQMWI2cldtdktfVGRyc3FMSkJCMXlucmNZdi1jTUpVU0lWaVFwNDZJZFY3d2dmQTNKemlEZ3VmRDhocE1RUkU?oc=5",
+      "d": 1793720997000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
