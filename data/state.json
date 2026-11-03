@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Deth5FIkzRr": 1792489242689,
-    "threads:Deth1uqE0hR": 1792489242689,
-    "threads:DethmmykyQI": 1792489242689,
-    "threads:DethkQ7Ew3A": 1792489242689,
-    "threads:DethibuE1_K": 1792489242689,
-    "threads:DethgZGEwXt": 1792489242689,
-    "threads:DethbAjE8gh": 1792489242689,
-    "threads:DethPvRE1Ck": 1792489242689,
-    "threads:DethJLHk7le": 1792489242689,
-    "threads:DetiXhsjskv": 1792489242689,
-    "news:CBMitgFBVV95cUxQZXBwcVZHeFdaMTlmWWdsblo1U2luOThILUdvVDAtdThmR0xpOFo3Ty1SQ2U0NnpEWkIwdDNJNV9GamlNdGF1MUFCdTFhY210OFJSZmN2LXRrZ1FDV09qQnVxM3owVXV4WE1uWmFSRllFVTMtNnhyM3lwM0t5U1VUQnBQSGVVNWFJYTRXc0RQZngzb0U1b0w1a0NXejVCYTJuUkJJMDMybkU1NDhxeFNjTldZN0hDZw": 1792489242689,
-    "news:CBMi1AFBVV95cUxQVVVEWGdwelQxLVdmMlAySXJubVRTcjAzYkVhRDVKU2hhNUtEMTFORm5NSzdtVkNsMkRTemZiXzltX05oMVhsTkk4ekF1Wi1rR2wyZzctdHFHa0hnaU9BWWdqcEJEQmxraktXQUgtMmxwYkcxel9vRDBwQTRzRlpsdG1VUkZkU1ptXzhEM0tsd0VzSVBpVUdkSy1HRUNjZDdBcEJUSkJuaEswVEJrTHR5Y2FpT2hfbWl4TnFybGRYVXdYaXpzeWlOQjZrR0NST3ZJOExFdQ": 1792489242689,
-    "news:CBMiigFBVV95cUxNaXRKYTFTUTZzRk9GeDZaZVhFVlpKcHRic0FvRk1hdmJUUjBBcVJjWl91VW8zbDRCMWItZzhsbWE5ZTEzYVM1T29RaWZ6SE94Z0twektJc0t6c2pXUUkzU1lHQkdSNVFobXM4V3NuUWhWa3o3Zi1xNXJzUFVNYlA0TlNMUzR2djRoRHc": 1792489242689,
     "threads:Dethsf4FMZ_": 1792489536682,
     "threads:DetiY7hkViU": 1792489536682,
     "threads:DetiGeCEnP8": 1792489536682,
@@ -27573,59 +27560,23 @@
     "news:CBMinAFBVV95cUxOYWlSNzh5cVc1TnVyREUzaG5SU0taUllfc0RlbTVMWF9SaTVqcmVuV3J0eWFFakExQXZEWlhhbktteXBOQ0ZjY1VGZV9vaDZDbURSRzc3QVJxY3RiZlJGYVYwR3F1VlVMZnczU0VPT01QZWZOTVRxY1E3NzNRMW1hQXRYVlVVWndmWnc3OGxmRlJucUxkbzBvemhWTmo": 1793698539454,
     "news:CBMijgJBVV95cUxQcWtoVW5JMHZkSDE3RFVkeS1peERqdG0zc2d3NnhwUldRTXJfY0VNdExnZnUxY2lSTlpacmdpckVFenh1T2dmb2xaRWt0LW9NRHI3WUFGdF9FcmNwU2sxZW1LbS1OcUE1SDFtRTFkT2gtYU5BSkM1U29rcDZrNFBKQ0lreHZldFJUMWV3Vkxmek54RlFZU0VNVXhIZ1poSzhHZktSU3NCSzM2YjBWSG1ocTJZVnFEeG9ZTWZsejVqNldLRmtGNEhrWVpScDNNaVlHaTNmRXNxc1VnNjk4Wlc0OHFvOS1OVWFIa21tX3NTX29KNElUa2JDbnZTNEJGYU5HWDVSRmNSTG5JeDF5eFHSAZMCQVVfeXFMTXpyc1R3bWIxQ01ac1BrQTJNeTktNzVaX3lPY1pEVnVoSTJnS1hoV1hscEp2WlpYaE8zVlB0TkVzaUFLUERhYnI1dmtmZ3lBX3pRNVowT3JETnRNLUJ1SHRxTGJMVEhkNHZHcmxRTXpUYWR6dm8yM0N6NWY4a0ExajBuSGo4N2luOWtrQjNkTVBwQkd6THNlN2ZKNlhjVkk2ZkhfU1RONjNjUU1Sc0xlNGk3amYwSm1BMklrZ3haeGI0cmhDQzg4UTd4ZzBLTGdqZS1NRDl2QTFsNmFqd3V3Zmk3MXllOFFrcW4yRWIxY1dTcVJkdVhzZm93MU03cXplY2RYem9jSkZKd1p6NHlRTk9sUm8": 1793698539454,
     "news:CBMisAFBVV95cUxNWVE3aC13SEJXVmhBa2tqUUpEWExoMUkzYUpKTEdJVjZKbWNoMFVSQjc2Zk1mWTBDMllSQktnS3F6ZUc0WDVkSTZMTGRPTWNSQ05PMjkxYnpFNnB1RUNUZmIxb083NS1PNTdOZFBCYkNxV2pOSTJhOGFSZDVOSFFUV1p0S0hCb1ExeXBwVHRleHBNczd4WV9JRkhjd3NDY2JLQ0xlaVV3dFRkWmNCcWllLdIBtgFBVV95cUxOaU1RU2RKWERIVTdacjZPdm52eUc3dFBNMHZKQUpCNURVUUtIcEJFMUNwSTVMQUtYaXYyeDhZOEtYVmFVVENYc3NITFNkdmJXT0xVQ3hPM3RqaGYtTkdSaE5VbmxabTJxUEcwdUd5ZlN0WXFGell4b3ZoTUJrQVM4d01DcGxncFozbXRPRkZJUDlYLWtQdlA1WmZGQ1FacV85djR0VHFjVnlfTUVoUHN3dWdjeTBSdw": 1793698539454,
-    "news:CBMijgFBVV95cUxPaUdUQWJ3ejdScHFOOWE5cndPSkt4TjdzTEo2Y3lCZUpCVlJRTVgzMWsyRm5XZ3NRQ3hNMDh5a281cVVyaGcycWJJalAxenlvelQ4aXQ2RU1NTjdvRENnckEyWGFkMDBvYUJyd0VVbnZPeDFBMlZGV0V2ZlpLdnRGbEphOHBFRUw5SWpOQ0lB": 1793698539454
+    "news:CBMijgFBVV95cUxPaUdUQWJ3ejdScHFOOWE5cndPSkt4TjdzTEo2Y3lCZUpCVlJRTVgzMWsyRm5XZ3NRQ3hNMDh5a281cVVyaGcycWJJalAxenlvelQ4aXQ2RU1NTjdvRENnckEyWGFkMDBvYUJyd0VVbnZPeDFBMlZGV0V2ZlpLdnRGbEphOHBFRUw5SWpOQ0lB": 1793698539454,
+    "threads:DfRlBomj6Tr": 1793698843237,
+    "threads:DfRj4TpGEbg": 1793698843237,
+    "threads:DfRlbvCE4QF": 1793698843237,
+    "threads:DfRlL2GDSfX": 1793698843237,
+    "threads:DfRk9HQjWii": 1793698843237,
+    "threads:DfRk-gkiX5R": 1793698843237,
+    "threads:DfRktFNFPQ5": 1793698843237,
+    "threads:DfRkiNuEW1U": 1793698843237,
+    "threads:DfRkc0jEtW_": 1793698843237,
+    "news:CBMirAFBVV95cUxOYVdxVi15MHg2eUhIWF9NT1VYTlNmNjdYeVduVk9WQUdLS1k4WVhNNnlqc0M0angwdlo3WFJuRkN4bThHbzlZV0VhSE4zTXNLNzMzbUFhWVdYWWJ6SVUzcUZvcld0UXE5TDFJU2d3ZDhxZENiSm9pV2JkWnVvQi12SENRalpJRldscm1NQjZUX2lxcUZnakZlYmVoWTc4d2FMNmlFejRRaV9XdVRR0gGyAUFVX3lxTE1NS0ZjWTI2TzR4eWRpLW1XVFZZWjlYTWU5dVZSUWhXSEpaS2YxTVRNWlBERTFnR0s1MTRHbDNTMWE3OFlCbUdsOW04U1dPWkE4QXRqbHZtekQ2TE1pUHYtSV83V3N4M1NYVjRXUy0wZkZ1ckwxSm9EZnpUMVhWbHp5WGsyQlJ0MGhlbURSYlluVW1DaHJGb1haa0JmUFhTLUIyZ3dqZkVXTmNLaHNJZXRPSkE": 1793698843237,
+    "news:CBMisgFBVV95cUxQMTRFU1NDbU9CeWxTVkZUTWFFRTdpbkE5Y3IyRnc4cjNKdVE3M3o4SjBkeUk1VlhmVnRDQnQ5b3JNTHFqTmhqblgtRXFKQkpfUUh0NTdfWUpqYzRvWkVqTWxaMEx4aUhjNzZrZ2piWjdEeXdGNzRnVk5sV0x3b05FZnNtdTR6b3J2eUNWRlRfWHlTVVctTGFDeVF1SF9NOVlwOV84eWdndXZWQ3NlU2NUZk5B": 1793698843237,
+    "news:CBMiowFBVV95cUxOTmtMeUpOTGpkb29yY3FWNEZUSnMxdFFLZkpfZVhzY3kwcm1TTzV0OHhYa0d5ME1yNnN2X1R4S1kwQ1RXV1pobVhfWUIyS0pxeEVaVlBjUDdnWHQ2TWJfX2gzOXYwSXlLX0RNMG5mQTN1SWN6cnFtQUM5ZlhlS3ZVX3FVVzc3dHJJaGlfMXo3bUZNdWliZjlaZTJkSnBRUGpucU1B": 1793698843237,
+    "news:CBMi6gFBVV95cUxPcU5SYk5VWjRXQVBJaTNiVUlWQk5sQzR6dXpkMjc5Sng1WW50cTRldkM2YWJMVzE2a2NWUXF5OUY2TXQ1dmFIVzF5ZlBPQ3Fqa2cwcGVBWm94b2pIWTBFdTdaSjRxWG9aTGZ3Y094amlrWEQ1RmxPcHZGYWNwSGFuZHZsVk5BZFFRYWNWLW1OZVV1YlRRTzJuaVMxVGRROGZVdm82SkJJNEI1SUxPYmdIcjNTUUxMU0hONGlSQXZLT3FObFNaUldJZklYVUZhVnNqWGtUcUhiT2dPT0puUWJpUHZ6N0wwVFpZTXfSAeoBQVVfeXFMT3FOUmJOVVo0V0FQSWkzYlVJVkJObEM0enV6ZDI3OUp4NVludHE0ZXZDNmFiTFcxNmtjVlFxeTlGNk10NXZhSFcxeWZQT0NxamtnMHBlQVpveG9qSFkwRXU3Wko0cVhvWkxmd2NPeGppa1hENUZsT3B2RmFjcEhhbmR2bFZOQWRRUWFjVi1tTmVVdWJUUU8ybmlTMVRkUThmVXZvNkpCSTRCNUlMT2JnSHIzU1FMTFNITjRpUkF2S09xTmxTWlJXSWZJWFVGYVZzalhrVHFIYk9nT09KblFiaVB2ejdMMFRaWU13": 1793698843237,
+    "news:CBMimwFBVV95cUxNSWZkUWctcmtaVXlNUU1WSmlUWDNlRjQ2MzRzWnNnczFiNlV4Ynh3VkNHVDlLQVJCcFkxUHVuVU9yX3NJUUoyQ1c2bWtxZjhndE5Va2lmMy1ob1dkZ2FuOTlxTEpfaG1kRWNpX3c5TUcyMEc3bVRjLURiX2VCdHVLV2VVdERUbUZ6NElvTUl5UVpjSzh1eEF3a2I0bw": 1793698843237
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kabar24",
-      "x": "Cara Lapor Bansos Salah Sasaran secara Online, Bisa Sanggah Penerima yang Tak Layak - Kabar24",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHRMUE56WE90ZWhhbXdzbUhNX1hQQ0cxVDhhVFFwM2dMaXY5SXpPYkJkSlZZcFJWdERTWkhWdGJYVUNOYXpfSmNmUWFpWi15aWdlMVZjNnhSMDF3NDY2UEZLLUtPM0tmNXpCcG1RYjRsTml4ZWw2RDdybXcxbTJxRklRVVhSTWttNFRmNkVhUjVaWXNyTmZ0QXlzY0t3NFFJN1pRTWs2OWptNEFReXZiSTFndFJZRTE3akxRa1UtaktrRm8tQUhTQmJuczhxcE9R?oc=5",
-      "d": 1793692657000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "KONTAN",
-      "x": "Kementan Garap 10.000 Hektare Lahan Kering untuk Pengembangan Hortikultura - KONTAN",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FanF0R3VrUFhGQ3VVYXhSbnI1aC12SnhmQlpSY1hmYUwwSE9mTktWVUY1bzR5TXpTUENvdnFsVGlWakhTM3BCdHJkLTZ6UQ?oc=5",
-      "d": 1793678731000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "www.wartahukum.net",
-      "x": "Kadis Pendidikan Morowali Pastikan Beasiswa Tahap II Ditargetkan Cair Akhir Pekan - www.wartahukum.net",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnNwVTBzOUp6dmVaRW81dHUxeWo0UmNtcUFqSHVKTlFSUlZZZ3JrbHhjVm1PUzBBS0dWU3h3SHAxXzhxa3hFak9JOWhySGozSzFkZ2J3OGdpMm0wQkhjbktaNm5KTFFpOUp0eTRuT3p6TUdPVXdzN0k5TEhTMkFfT2FCT3VXUUhkczZCRjZCWTBYbWxGdUU2ZGlhU0tuNmkwdzhpbnEzZUc0QVlBNzBIV2VuSzk2a04wa2dtag?oc=5",
-      "d": 1793693081000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Metropolitan",
-      "x": "Tak Hanya Medali, Gus Fawait Siapkan Beasiswa untuk Juara Kejuaraan Atletik Piala Bupati Jember 2026 - Metropolitan - Metropolitan",
-      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaG93TVBxbUdtTS13X29Pa2tidVdaLUtXRmdGRi1DaHV5NXVyU0RVT1NtdVhzQS04RzVUbWZNMmxtaTJBV3JKQUpFdXYtcGtWdnpFMVdSUG50bGRLSUJDZGJQeHZDakVSaDlKbTNVam10NE1IRm04Tk9sR2RyWUtvWVdpamtsX1M1THJrT1hVcUNLNm5qRUJ4bFVXeWk3aDBWY1hZLVFSaXRPREN5d0ZmQW9jR0hqREZKUFJoSFVSVXBnQ002VWhBaXFkd3FpdjA3SmcyeEdKdVVCVlBHX2dGV0RkemNQblVjWkkwWDNDaG1rZ9IB9wFBVV95cUxOSkxhOUZHaE9odk0zZHFvcVI5SERqNmJfTGw1bnR3Q2QxX2pGY3pWTDNsSWF0bmdDZUVTdFZOTnNFaVJEbkxHeElWNTJFNXFKM192Wi1hZUl3SVgwZGE4V1dFMlNiOGt6b2RJdmpmYkxIOGZleDAwb1VndUlVUWVDUHpQalZGbnFQY1dMRTNFVVRwaC02TWFjb25EMXJUZGhUWHlCaVBDRFc0ME44Q1VmeThjRkRCLXJ0YTBPZ0lacUhETm5xR0RwWGU2NUxjQlNVS0V6MWw0SW90ZHVKUTY1NVA2UlV3OEZHaGluSU5RZlZSNVZpMHFN?oc=5",
-      "d": 1793679246000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "MerahPutih",
-      "x": "Cek Desil NIK November 2026, Ini Cara dan Link Resminya - MerahPutih",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM3A4RURXeGVXeUFMcHFjd0Z5ekJPYUdNenJDNzZUWDZMenN1c2t1akhTeUVJdXNZaW44cFdzLVRBZ2VsZjRLcG9jejU1ZU9ldG9BcVZZOUpnRWlEY0RpdVZiYnl2bGtYdl9wWnR6Z3Iwd9IBcEFVX3lxTE93dDRoWjJuMnNEMGJLSGFYMU5Ua3Z5VTJqeXFScjRMU2ZWbFRtRUExVlpXcGFuRVVDNU5WX3FReHdzazhQb19mRXYycVM0TXlZQkZSRURLSkNua0I4bUdraWZnX01DV0lUcW1ET2JTOWI?oc=5",
-      "d": 1793692830000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29075,10 +29026,60 @@
       "d": 1793698385000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Pendaftaran SMA Unggul Garuda 2027 Masih Buka, Cek Lagi Syaratnya! - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVdxVi15MHg2eUhIWF9NT1VYTlNmNjdYeVduVk9WQUdLS1k4WVhNNnlqc0M0angwdlo3WFJuRkN4bThHbzlZV0VhSE4zTXNLNzMzbUFhWVdYWWJ6SVUzcUZvcld0UXE5TDFJU2d3ZDhxZENiSm9pV2JkWnVvQi12SENRalpJRldscm1NQjZUX2lxcUZnakZlYmVoWTc4d2FMNmlFejRRaV9XdVRR0gGyAUFVX3lxTE1NS0ZjWTI2TzR4eWRpLW1XVFZZWjlYTWU5dVZSUWhXSEpaS2YxTVRNWlBERTFnR0s1MTRHbDNTMWE3OFlCbUdsOW04U1dPWkE4QXRqbHZtekQ2TE1pUHYtSV83V3N4M1NYVjRXUy0wZkZ1ckwxSm9EZnpUMVhWbHp5WGsyQlJ0MGhlbURSYlluVW1DaHJGb1haa0JmUFhTLUIyZ3dqZkVXTmNLaHNJZXRPSkE?oc=5",
+      "d": 1793698200000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat.co",
+      "x": "Bansos PKH BPNT November 2026 Belum Cair? Cek Tanda Dana Masuk Rekening KKS - Akurat.co",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTRFU1NDbU9CeWxTVkZUTWFFRTdpbkE5Y3IyRnc4cjNKdVE3M3o4SjBkeUk1VlhmVnRDQnQ5b3JNTHFqTmhqblgtRXFKQkpfUUh0NTdfWUpqYzRvWkVqTWxaMEx4aUhjNzZrZ2piWjdEeXdGNzRnVk5sV0x3b05FZnNtdTR6b3J2eUNWRlRfWHlTVVctTGFDeVF1SF9NOVlwOV84eWdndXZWQ3NlU2NUZk5B?oc=5",
+      "d": 1793682900000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "BeritaSatu.com",
+      "x": "11 Penyebab Pemilik KKS Tidak Lagi Menerima Bansos 2026 - BeritaSatu.com",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmtMeUpOTGpkb29yY3FWNEZUSnMxdFFLZkpfZVhzY3kwcm1TTzV0OHhYa0d5ME1yNnN2X1R4S1kwQ1RXV1pobVhfWUIyS0pxeEVaVlBjUDdnWHQ2TWJfX2gzOXYwSXlLX0RNMG5mQTN1SWN6cnFtQUM5ZlhlS3ZVX3FVVzc3dHJJaGlfMXo3bUZNdWliZjlaZTJkSnBRUGpucU1B?oc=5",
+      "d": 1793690766000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Sewaktu",
+      "x": "Cihuy! November 2026 Ada 6 Bansos yang Siap Cair ke Rekening, Cek Nominal dan Kriteria Penerimanya di Sini - Sewaktu - Sewaktu",
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcU5SYk5VWjRXQVBJaTNiVUlWQk5sQzR6dXpkMjc5Sng1WW50cTRldkM2YWJMVzE2a2NWUXF5OUY2TXQ1dmFIVzF5ZlBPQ3Fqa2cwcGVBWm94b2pIWTBFdTdaSjRxWG9aTGZ3Y094amlrWEQ1RmxPcHZGYWNwSGFuZHZsVk5BZFFRYWNWLW1OZVV1YlRRTzJuaVMxVGRROGZVdm82SkJJNEI1SUxPYmdIcjNTUUxMU0hONGlSQXZLT3FObFNaUldJZklYVUZhVnNqWGtUcUhiT2dPT0puUWJpUHZ6N0wwVFpZTXfSAeoBQVVfeXFMT3FOUmJOVVo0V0FQSWkzYlVJVkJObEM0enV6ZDI3OUp4NVludHE0ZXZDNmFiTFcxNmtjVlFxeTlGNk10NXZhSFcxeWZQT0NxamtnMHBlQVpveG9qSFkwRXU3Wko0cVhvWkxmd2NPeGppa1hENUZsT3B2RmFjcEhhbmR2bFZOQWRRUWFjVi1tTmVVdWJUUU8ybmlTMVRkUThmVXZvNkpCSTRCNUlMT2JnSHIzU1FMTFNITjRpUkF2S09xTmxTWlJXSWZJWFVGYVZzalhrVHFIYk9nT09KblFiaVB2ejdMMFRaWU13?oc=5",
+      "d": 1793693760000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Head Topics",
+      "x": "Link Cek Desil Pakai NIK untuk Tahu Apakah Dapat Bansos PKH, BPNT dan Beras November 2026 - Head Topics",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWZkUWctcmtaVXlNUU1WSmlUWDNlRjQ2MzRzWnNnczFiNlV4Ynh3VkNHVDlLQVJCcFkxUHVuVU9yX3NJUUoyQ1c2bWtxZjhndE5Va2lmMy1ob1dkZ2FuOTlxTEpfaG1kRWNpX3c5TUcyMEc3bVRjLURiX2VCdHVLV2VVdERUbUZ6NElvTUl5UVpjSzh1eEF3a2I0bw?oc=5",
+      "d": 1793697540000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
