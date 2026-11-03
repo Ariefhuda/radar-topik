@@ -27847,19 +27847,14 @@
     "threads:Deb-JroIEBE": 1793728863967,
     "threads:DfHXDTLk0f1": 1793728863967,
     "threads:DYPg85FCa61": 1793728863967,
-    "news:CBMi3AFBVV95cUxPUzBya2FfanRPQTZnQ0pmMDlyUENmU1ZLRXpDb3dlUzdDSmZINTg2SUp4RkJPREh4NnA3eURTVUY0WkVEOWhvbndWRVJfRmppaE9fWmNEU1liWEJTdVlkVlk1czhST1lMZEdOQnNJNF95OVBuRXBRNVp0d20tc3NRakdmeVB6eDc5RWlRY2dyWWNTN1JIR3lHenMyS3hFQWNsSWpEcWQ3ajAwXzY0RWtnN1hjSUxSZnFBd0dheGhpeDMtQ25GQXZ2WlhhX0lXcUNEN1NGcTNBVjVEQk43": 1793728863967
+    "news:CBMi3AFBVV95cUxPUzBya2FfanRPQTZnQ0pmMDlyUENmU1ZLRXpDb3dlUzdDSmZINTg2SUp4RkJPREh4NnA3eURTVUY0WkVEOWhvbndWRVJfRmppaE9fWmNEU1liWEJTdVlkVlk1czhST1lMZEdOQnNJNF95OVBuRXBRNVp0d20tc3NRakdmeVB6eDc5RWlRY2dyWWNTN1JIR3lHenMyS3hFQWNsSWpEcWQ3ajAwXzY0RWtnN1hjSUxSZnFBd0dheGhpeDMtQ25GQXZ2WlhhX0lXcUNEN1NGcTNBVjVEQk43": 1793728863967,
+    "threads:DcorhIVk1bR": 1793729171417,
+    "threads:DdsdN2aCRSk": 1793729171417,
+    "threads:DcPZgGBkvY2": 1793729171417,
+    "threads:DOSHbAFjAw5": 1793729171417,
+    "news:CBMiigFBVV95cUxOaEpjWXFwTGVfazZUR3c1QnlVRkx6anRoVlpfVEl1WnhvZDVhdWFKREswNHZxeFY2Z2ZHa1BiSzJHdkRSOEVIdG1ZUi1ONHhRRllRanpKYkZRUmpjRWdrSzFKTFVsWElSYjNoMDc1cmp2ZTQ4eTZwbDhIOVZ0NHU2YWdkNld0dGlNa1E": 1793729171417
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "Perkuat Bela Negara dan Kedisiplinan, Puluhan ASN Tanah Bumbu Ikuti Latsarmil Komcad 2026 - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTU5kRVpUZFlGMXJIWnR2S2ttckwtMlpxWGdBYUs1a24yVUZqd2hsYXAtNmdWYzJKODZkUDNiUVA0eWRaQkp0N1J1Q2NGZFMyQWo0ZkxtMlhWcDdvbUZjMHRIQncyOTRQVWJxLTlGWXliSG1jU0RwSGM0MGpwUzRmTzBIMEJPaHJ4S2x0OVBkVlRJbFRTYnNsQ2NRRWNlNE8xY01kMEFvR3VQZy01aWJn?oc=5",
-      "d": 1793710131000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29349,10 +29344,20 @@
       "d": 1793719055000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "klikmu.co",
+      "x": "PCIM Hungaria Siapkan Pendampingan Beasiswa bagi Warga Indonesia - klikmu.co",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEpjWXFwTGVfazZUR3c1QnlVRkx6anRoVlpfVEl1WnhvZDVhdWFKREswNHZxeFY2Z2ZHa1BiSzJHdkRSOEVIdG1ZUi1ONHhRRllRanpKYkZRUmpjRWdrSzFKTFVsWElSYjNoMDc1cmp2ZTQ4eTZwbDhIOVZ0NHU2YWdkNld0dGlNa1E?oc=5",
+      "d": 1793727840000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
