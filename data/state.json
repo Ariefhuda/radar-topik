@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdQfD9OEo6p": 1792492253858,
-    "threads:Detn_tTD9pi": 1792492253858,
     "threads:DetoVJNoJ3i": 1792492532711,
     "threads:Detn7MtmcbB": 1792492532711,
     "threads:Detm_YHjFfu": 1792492532711,
@@ -27579,39 +27577,17 @@
     "news:CBMixAFBVV95cUxNcmhxSk56cEVERGNpRVJYYUFsMTJMdkRub3Rtbi0tZ1kxU2t3enhBWHhvRVpwdl9obWFlUWUxS0VoaHVObmpDVFI3bGJkZzM5RE5mMGdJeGN2ZU9QYVBhRmtfZ1VBUWhycFBxbGlwUEFPZ1BnQlZ5bEE1ZFh2amk5X0FwVmV5OHc4Q3dqMTdFTk81VnhvdWMyOXdkeVBmMldwUW1BcFI1cjZzVzBPN0tlelY3a0ZIV1Y5RHVnSzZEVzRjX29N": 1793701541930,
     "news:CBMipwFBVV95cUxOS05ETmJITm95YjVucEJDbE5icXpQU1o3VFdJcGRCLVd1RlhlUWVscUlBcExmYzhjeHlQT2RpMWZwYnJKX1M3d3BRVUwzOGVlZUdIZkFjS2RReWd1QlZqLTdnWGk3SzhNZjJuazY2a1QwMkw4b2hsSEZ4VXBiaGl4YXhuUjhFYzE1OEphaXEzcVBCSXlUa0lYeGNraUR4eUpHSkVSdFBLTQ": 1793701541930,
     "news:CBMitwFBVV95cUxPSmpkZjFGN2wzWFg2ZFkzYldWV3k1WVFPaGEyMGxRQ3Q4azRGS3JHZnp4OV9FZ1FqajVDWmppRHBYaWF1dkRVRC0wOGh6THNHcXBzRGx3UzF1RFplYnFDdm1uTDZTUHZiaWdhYnVyckUtVUdyUTR1SkllajM3YWVINS1CZDlBU0dXSWVveWN5RERUU1JWTEtMRklQMFVhRy1ibDA4eUdsUnQ2Y2JMVXMwRGtXNkFKM3PSAbwBQVVfeXFMUGhWZnpVMUM5RG0yaVRjUnJXNjl6ZkJGMGlIYVVraEw0ZzVLS1dEUzNHelNDeXRZUV9uSmZzMTh0V3lieUV6Y0k5ZHNmdnNsN3ZoRXlrUWYtUjRZbGF5Rl9BSC1TakdfNmx3SDZwNkhYVmpLaVFmWThMWHZmUXhuZExWN3BYRVVES0tPbFFTdTc2QkFPQXJTSXZGSUhNdUVibzMxQzduRnJuQnJGd0RqbnZjRmE3WTRDc0YxSWc": 1793701541930,
-    "news:CBMi5AFBVV95cUxNMGhCeUFDOHpnT3dwUC1yYzdYZFRGMUNzZ1J0czNXblNRM0tCeWxROFNUZVQ4eDhjNUhueWt3d05qcTA4M1MwZWtrT2QwM2lnY2tON04tdkVaUGVZd3N6S3pGOHktNWlOaWtSLWR3eVR2a3VJMmUwUnk4STA2dnUxTkJCNVl6cjRrQTFLVWtBbjlNVHB5Q2dsZ25DLUdrZ1JLaWwwQy1UOHRETWh0M3p2cE5FWDBSZzVoanY5Y0RwLXVkNWpRZmlMa1J0N3BRWnR3R2diRDFjN3BmWmFELU96SGFodlHSAeoBQVVfeXFMT3FOUmJOVVo0V0FQSWkzYlVJVkJObEM0enV6ZDI3OUp4NVludHE0ZXZDNmFiTFcxNmtjVlFxeTlGNk10NXZhSFcxeWZQT0NxamtnMHBlQVpveG9qSFkwRXU3Wko0cVhvWkxmd2NPeGppa1hENUZsT3B2RmFjcEhhbmR2bFZOQWRRUWFjVi1tTmVVdWJUUU8ybmlTMVRkUThmVXZvNkpCSTRCNUlMT2JnSHIzU1FMTFNITjRpUkF2S09xTmxTWlJXSWZJWFVGYVZzalhrVHFIYk9nT09KblFiaVB2ejdMMFRaWU13": 1793701541930
+    "news:CBMi5AFBVV95cUxNMGhCeUFDOHpnT3dwUC1yYzdYZFRGMUNzZ1J0czNXblNRM0tCeWxROFNUZVQ4eDhjNUhueWt3d05qcTA4M1MwZWtrT2QwM2lnY2tON04tdkVaUGVZd3N6S3pGOHktNWlOaWtSLWR3eVR2a3VJMmUwUnk4STA2dnUxTkJCNVl6cjRrQTFLVWtBbjlNVHB5Q2dsZ25DLUdrZ1JLaWwwQy1UOHRETWh0M3p2cE5FWDBSZzVoanY5Y0RwLXVkNWpRZmlMa1J0N3BRWnR3R2diRDFjN3BmWmFELU96SGFodlHSAeoBQVVfeXFMT3FOUmJOVVo0V0FQSWkzYlVJVkJObEM0enV6ZDI3OUp4NVludHE0ZXZDNmFiTFcxNmtjVlFxeTlGNk10NXZhSFcxeWZQT0NxamtnMHBlQVpveG9qSFkwRXU3Wko0cVhvWkxmd2NPeGppa1hENUZsT3B2RmFjcEhhbmR2bFZOQWRRUWFjVi1tTmVVdWJUUU8ybmlTMVRkUThmVXZvNkpCSTRCNUlMT2JnSHIzU1FMTFNITjRpUkF2S09xTmxTWlJXSWZJWFVGYVZzalhrVHFIYk9nT09KblFiaVB2ejdMMFRaWU13": 1793701541930,
+    "threads:DedYvMUk-Dz": 1793701849688,
+    "threads:DfRmZnmmJEb": 1793701849688,
+    "threads:DfQtvztAeDD": 1793701849688,
+    "threads:DfRFRW4mhDr": 1793701849688,
+    "threads:DfRp8I_kr2J": 1793701849688,
+    "news:CBMitwFBVV95cUxPMWlsV0JqZTdPQ2xlOHNyTDdSbVV6NTlRT3Niald4TGkzOXM2YmVYaHk0VS02M01BZzhpME9VdEhJRFRzZ25Hdy1DUlVUbWQtbkF4MnFJTWl4VGVrYVFWVGJsSmtKUURpM0VkLTFYZlJqMzhaTEpXYXpndzBDNm1lZml1RFo5TnNId2JNRnZsMGxNRFI4X1F2LXcxMHRIZXQxZ1VQN1VKVzlhYlhObnZfTkxJSFJNUzDSAbcBQVVfeXFMTzFpbFdCamU3T0NsZThzckw3Um1VejU5UU9zYmpXeExpMzlzNmJlWGh5NFUtNjNNQWc4aTBPVXRISURUc2duR3ctQ1JVVG1kLW5BeDJxSU1peFRla2FRVlRibEprSlFEaTNFZC0xWGZSajM4WkxKV2F6Z3cwQzZtZWZpdURaOU5zSHdiTUZ2bDBsTURSOF9Rdi13MTB0SGV0MWdVUDdVSlc5YWJYTm52X05MSUhSTVMw": 1793701849688,
+    "news:CBMipAFBVV95cUxNeXVQWTBzSk9wNVpFX2lCTGswcjJRZ1dlWlZUVV9JdXk4Q2x5SXk1b21aV08zOFkwTEpLVWF4aDhZOFEzVTlmVi1ucWlLcXRqdzJOVlEzQ2ctbmxnTGllMUN1NDYwelZkc3VUZnVYWUxJVE5zNVVFSldIc1JXc0tWaTg3TVg5ajVMLXlEa1ppN09XYWNwMS1sZWp6eXVwSU1odm1oUA": 1793701849688,
+    "news:CBMihwFBVV95cUxQeVpSWmFBY2NXTHBVZDJWTDE4QVVQUWxBSmJKUTZQZk9MTWJUcHE3WkhJVi1PSHNQY2I4VGdqVGFZSjR2bTBkNG5XZDhrV3A4enhWWFNnNWEtNmJET2oyNGpzNFZhZnZlblhXeE9PTFZuR1BobVVBR3pyQ3NGakM3bWpnTjJSZUk": 1793701849688
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfReYq2D1WK",
-      "d": 1793695231000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfReXQYD8bB",
-      "d": 1793695219000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 PEJUANG CPNS, YUK GABUNG! 🎯 Dapatkan bank soal, try out, dan webinar GRATIS untuk persiapan CPNS! 💪📚 Jangan berjuang sendirian, persiapkan dirimu mulai sekarang! ✨Link grup d",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfReNaYDyHC",
-      "d": 1793695139000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29081,10 +29057,40 @@
       "d": 1793693796000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Tirasonline.com",
+      "x": "Ini Pesan Bupati Jember Saat Sosialisasikan Berobat dan Melahirkan Gratis - Tirasonline.com",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWlsV0JqZTdPQ2xlOHNyTDdSbVV6NTlRT3Niald4TGkzOXM2YmVYaHk0VS02M01BZzhpME9VdEhJRFRzZ25Hdy1DUlVUbWQtbkF4MnFJTWl4VGVrYVFWVGJsSmtKUURpM0VkLTFYZlJqMzhaTEpXYXpndzBDNm1lZml1RFo5TnNId2JNRnZsMGxNRFI4X1F2LXcxMHRIZXQxZ1VQN1VKVzlhYlhObnZfTkxJSFJNUzDSAbcBQVVfeXFMTzFpbFdCamU3T0NsZThzckw3Um1VejU5UU9zYmpXeExpMzlzNmJlWGh5NFUtNjNNQWc4aTBPVXRISURUc2duR3ctQ1JVVG1kLW5BeDJxSU1peFRla2FRVlRibEprSlFEaTNFZC0xWGZSajM4WkxKV2F6Z3cwQzZtZWZpdURaOU5zSHdiTUZ2bDBsTURSOF9Rdi13MTB0SGV0MWdVUDdVSlc5YWJYTm52X05MSUhSTVMw?oc=5",
+      "d": 1793700356000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Holopis.com",
+      "x": "Imam Sebut RT Inggris Akan Dibuka untuk Umum, Terinspirasi Kampung Pare - Holopis.com",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXVQWTBzSk9wNVpFX2lCTGswcjJRZ1dlWlZUVV9JdXk4Q2x5SXk1b21aV08zOFkwTEpLVWF4aDhZOFEzVTlmVi1ucWlLcXRqdzJOVlEzQ2ctbmxnTGllMUN1NDYwelZkc3VUZnVYWUxJVE5zNVVFSldIc1JXc0tWaTg3TVg5ajVMLXlEa1ppN09XYWNwMS1sZWp6eXVwSU1odm1oUA?oc=5",
+      "d": 1793701844000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pikiran Lampung",
+      "x": "Pemprov Lampung Perkuat Pengendalian Inflasi dan Dukung Sertifikasi Tanah Gratis bagi MBR - Pikiran Lampung",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeVpSWmFBY2NXTHBVZDJWTDE4QVVQUWxBSmJKUTZQZk9MTWJUcHE3WkhJVi1PSHNQY2I4VGdqVGFZSjR2bTBkNG5XZDhrV3A4enhWWFNnNWEtNmJET2oyNGpzNFZhZnZlblhXeE9PTFZuR1BobVVBR3pyQ3NGakM3bWpnTjJSZUk?oc=5",
+      "d": 1793701637000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
