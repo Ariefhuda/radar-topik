@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetuCCFDD-I": 1792496142634,
-    "threads:Db5lMA0iUiF": 1792496142634,
-    "threads:DetuVREEu7_": 1792496142634,
-    "threads:DZznKr7E8zF": 1792496142634,
-    "news:CBMiqgFBVV95cUxOa3BsWWFjdVRCZk5BYlViOG11SFpwZE5RM25YT3hfbUxsYlNHVWJRSWNhNmtIZ2o1T3FoYk1ydWFkNW5Id3ZacW5LNTlwUVZmUVdlRDlMNkZkaUNmdzIzTnc4WmhZSGliRFh2ZDJ1RHpScFc1dFVpZmJxcG5keDl1bC1mSmJxaWtrVnRjTTRhd0ZXQ2lXQjg3b0U0dlZEODl3RkhHOVctZnQ1UQ": 1792496142634,
     "threads:DetvvKugLrZ": 1792496451971,
     "threads:DetwCsXH0vN": 1792496451971,
     "threads:Detv_Ttnxws": 1792496451971,
@@ -27607,49 +27602,21 @@
     "threads:DfRwMRjkx5V": 1793705137575,
     "threads:DfRwbyvGNtn": 1793705137575,
     "threads:DfRxWXxGbPW": 1793705137575,
-    "news:CBMixAFBVV95cUxQX1BfeklIazBoWDlkVWs1RXc5TXc5Q2QtV0pVaXVlc2d1bTVsSTE3VmFHLTI1dVVwWFFwOGJUaDZKLTM4cVoyYzNrWGZ3UDZqNFMxbHA4UmJUY1RaLWUzZUYyVlA0ZFA4WGZSR1ZaeXZoeWxGaWZjSC13b2tOQUpCUnU1Y1pyaEllTmRNTkpveXpNUnRPRUhUZVdBMkFlVnpxaTR4N242M3lkT3ZCblNiclBhLS1PZTJtenhKVlE4dWZhb09G0gG3AUFVX3lxTFBDdTA2UkU1WmZycTNkUDE5VTFwSGdTeS04aGJGallsUGgtRWVvNjd5dGszT0prNlZaMHdzQjd4enFOZDdrVFpZNTlJMGpLY2JodmVESXlfcmVFRll4TmZKX1hnZHM4NnR3WHhpZFNVVkpiS0pzdVFFX3Bjck9HSUJTLTZSR1B5bmIxNEpqbWlLNjY4WU1Ia2VJTXRmYzVxTU1qaDhZc1pseHY1MjZ0RkRZU1pCZHl3aw": 1793705137575
+    "news:CBMixAFBVV95cUxQX1BfeklIazBoWDlkVWs1RXc5TXc5Q2QtV0pVaXVlc2d1bTVsSTE3VmFHLTI1dVVwWFFwOGJUaDZKLTM4cVoyYzNrWGZ3UDZqNFMxbHA4UmJUY1RaLWUzZUYyVlA0ZFA4WGZSR1ZaeXZoeWxGaWZjSC13b2tOQUpCUnU1Y1pyaEllTmRNTkpveXpNUnRPRUhUZVdBMkFlVnpxaTR4N242M3lkT3ZCblNiclBhLS1PZTJtenhKVlE4dWZhb09G0gG3AUFVX3lxTFBDdTA2UkU1WmZycTNkUDE5VTFwSGdTeS04aGJGallsUGgtRWVvNjd5dGszT0prNlZaMHdzQjd4enFOZDdrVFpZNTlJMGpLY2JodmVESXlfcmVFRll4TmZKX1hnZHM4NnR3WHhpZFNVVkpiS0pzdVFFX3Bjck9HSUJTLTZSR1B5bmIxNEpqbWlLNjY4WU1Ia2VJTXRmYzVxTU1qaDhZc1pseHY1MjZ0RkRZU1pCZHl3aw": 1793705137575,
+    "threads:DfRyZjXAcTq": 1793705740002,
+    "threads:DfRxnU_EuLv": 1793705740002,
+    "threads:DfRxdfVGEWT": 1793705740002,
+    "threads:DfRxL2pmNoB": 1793705740002,
+    "threads:DfRx9oeETGE": 1793705740002,
+    "threads:DfRx2ktEddi": 1793705740002,
+    "threads:DfRxixDiCpu": 1793705740002,
+    "threads:DfRyGyGDzmY": 1793705740002,
+    "threads:DfRx_Vln3g7": 1793705740002,
+    "threads:DfRxbM_D8Uz": 1793705740002,
+    "news:CBMingFBVV95cUxNYk1fdlVhWGJfc1poZjdrZlFxS1N1ckw0bzBiQnVlOUtMQW1XSkx3WTZFZFQ3bXJVTmY5QlJlZkdXM2dfakF4MV9ReWc4bVdjVlpsRUVhQmsySVlJUlhGdnIxRHN6QzNCMHRfMGlKOC1BM1M3b3g3TFJ6M25MQmFFQVlHcUpReUlQTEQ3WGZIX0xmbzZtU1hHZFZfeTgydw": 1793705740002,
+    "news:CBMiqwFBVV95cUxOMWIwMGhHM0piQ1VQNmYzT0NHeWhrR3dwcS1TZGt0LS1QaFRGZDUtdGpsR3FFaXlHY1FuZnBuUEVyTHQtZk12RVVybEhQdVJsR2E1NEl4US1jeG45Slp3eDlhVjk1QnJnc0ZrMUJIVWlmSDRBUXpiZHJaczlQVDNiQlgzU2VjN3BJRFVmeWpBMXRzcXFSS1N1UDRXUlA2QW1vMmNyaVdMazJKUWc": 1793705740002
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfRgZztGdOm",
-      "d": 1793696289000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfRgYyCmXM1",
-      "d": 1793696280000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandiritokuteiginou",
-      "x": "Komen \"KELAS\" — kami kirim info Kelas Gratis 1 Minggu + link pendaftarannya ke DM kamu. 1 Frasa Kerja Jepang per Hari 🇯🇵 少々お待ちください (Shōshō omachi kudasai) — \"Mohon tunggu sebenta",
-      "u": "https://www.threads.com/@mandiritokuteiginou/post/DfRheQ5k4ht",
-      "d": 1793696855000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandiritokuteiginou",
-      "x": "Progres kecil tetap progres. Satu kata hari ini, satu langkah lebih dekat. Huruf yang dulu terasa asing, kini bisa dibaca. Itu bukan hal kecil — itu bukti kamu benar-benar bergerak",
-      "u": "https://www.threads.com/@mandiritokuteiginou/post/DfRhaHSE9pZ",
-      "d": 1793696830000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29109,16 +29076,56 @@
       "d": 1793699100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, saran aku nih kk upgrade skill digital marketing dan bisnis online. Supaya nanti bisa jual produk sendiri secara online, bisa dropship tanpa harus stok barang, bisa affili",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfRyGyGDzmY",
+      "d": 1793705570000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@djogha.sadewa",
+      "x": "🚀 PUNYA PENGHASILAN TAMBAHAN TANPA HARUS RESIGN? MEMANG BISA? Pernah kepikiran punya bisnis online sendiri, tetapi bingung harus mulai dari mana? Atau ingin punya penghasilan tamb",
+      "u": "https://www.threads.com/@djogha.sadewa/post/DfRx_Vln3g7",
+      "d": 1793705509000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, saran aku nih coba nambah skill digital marketing dan bisnis online. Supaya nanti kk bisa jualan produk sendiri secara online, bisa dropship tanpa harus stok barang, bisa",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfRxbM_D8Uz",
+      "d": 1793705213000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Warta Rakyat",
+      "x": "Wabup Rocky: Seragam Gratis Jadi Investasi Pendidikan Generasi Karimun - Warta Rakyat",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWIwMGhHM0piQ1VQNmYzT0NHeWhrR3dwcS1TZGt0LS1QaFRGZDUtdGpsR3FFaXlHY1FuZnBuUEVyTHQtZk12RVVybEhQdVJsR2E1NEl4US1jeG45Slp3eDlhVjk1QnJnc0ZrMUJIVWlmSDRBUXpiZHJaczlQVDNiQlgzU2VjN3BJRFVmeWpBMXRzcXFSS1N1UDRXUlA2QW1vMmNyaVdMazJKUWc?oc=5",
+      "d": 1793701983000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793684138495
+    "reddit": 1793705740002
   }
 }
