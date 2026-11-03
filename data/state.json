@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeskO1Sj8Qs": 1792456853761,
-    "threads:DeskMcrj4va": 1792456853761,
-    "threads:DeskIRLH7yK": 1792456853761,
-    "threads:DeskHQXD3fD": 1792456853761,
-    "threads:Desj_JfE7j3": 1792456853761,
-    "threads:Desi2wtEkyp": 1792456853761,
-    "news:CBMiygFBVV95cUxOV1dBdkdJQWZIbWJWWHpoam44aHpWOVdsYnM2NHNsUXU5QWNJcGEwRWtENHo4d1Z1a2h5Z2xyRTZNN2tCQURXY1VDQU81T0Y1cmdQV1pXWlplclRfZi14Rm9UZ0ZfNERWSzctR3laaTB2eG9KcTF1aHlVWHppWG9rLTlqb21MX3F4ZFo0aVdBSnFVTWFLR2pmR3JOb3JWZ3I1MVdmMl9BREhIbDltR2VyNDIyRVFnWGJVbWtCbjJ3cERRdEFXLWhOakVn0gHPAUFVX3lxTE9TQ1VKeXczQi15WGFKU2NEdG5ZdUU2UUt5eEtqcGh4bVNIZ2IycFVqRzI2aGNUaTVHb1RBbVdLaTZoTU5WM1lkcDJIckZOalloRjVmR0c3X29rdk1WRGZNTERuNTd5N0ZTLVJnbXp0ekx5SXJBWkgzT2JoRnl4bDhhTDUzNHJHXzBYZGNkYlNpZUg3VmJTZjltZnk0WHJHLXlKeXA4TXdrX29Md3VCbmFkaUM2ZzZjM3huUVF5SXhZSlZST0Q2bWx4dDVabUZfTQ": 1792456853761,
     "threads:Desj0pSky7G": 1792457141090,
     "threads:DcW_DGxE490": 1792457141090,
     "threads:DQNxaFAgYd1": 1792457141090,
@@ -27293,49 +27286,21 @@
     "threads:DYAJoBwkzWM": 1793666139118,
     "threads:DcLDGSME4Ju": 1793666139118,
     "news:CBMi0wFBVV95cUxNVVEySWhzc2hOYVpTeFV2NjFOdDJYYlZRN0I5ZkYwWWZiYzEyRkJnR0tmTE5FcldWY0NnZ1hsWmVDNDhJX3BQSURCakRINE9xdXBNRkJCUmhPUjhvOG1pZUo2QTdRZmdtZnRhM1g0c25CMldzQWdHNUN4UjJaTF9nVmk5ZnpDc3l2UlgzVm11WmNFd3QxaVVPV252bFZYNExnRmtYdWpKN19kR3ZaczNTSE9qR2xNUlJhQ25takRRR1dWaHl1cDdjY2hOVGRJWWJOaHlF0gHKAUFVX3lxTE9DVTFYLUVjSzVGeVRkV2Y3bFloMVI4ZkRyTXpQOVlobVhGbHhyZVlIVjdYbFB5R25wY1AzUkc5MVR0OV80XzB4X0dYVTJhZU13cE45cVplbm5Ec19XX1hWZjdGa0JqUXFvM21Qb2pCNUpnRHVPbzdRSmU4cnhJVkx3SzkybWJEenRRbXJwUGpicGFIZ0htV08xT196QXkzdzhiNm1JMUhKYThydjNYRGp2WVBEQ2d1OW1xZDg3b3RCR05remJwaEIxTkE": 1793666139118,
-    "news:CBMi1gFBVV95cUxQcUlkSldUeC0tUHpaUDZ0Mm9FWFNBTktNSXpxbWQ5RjY3XzZ4dkVSWXZNcjh2cWZod0gwOVlXNzh4QV9ibEE0dEFxWlc3UDhSYnl2cEthc3JCX0ZXOE1wVG90alJGZ2NVa0Q1YVJlVWNWNndRZmlMVEQ5a3ZoR2FoTTJGemZHS3pzSkJYMldGVkVwc2pPUWRsVklzZUxvVW1WbF9EN1NkZU5XWjVMWEZOdEZzbEZDVVk2RFByZ3pKTi1aRHE3bC05OGUtcHh6ZURDM1IyZml30gHWAUFVX3lxTFBxSWRKV1R4LS1QelpQNnQyb0VYU0FOS01JenFtZDlGNjdfNnh2RVJZdk1yOHZxZmh3SDA5WVc3OHhBX2JsQTR0QXFaVzdQOFJieXZwS2FzckJfRlc4TXBUb3RqUkZnY1VrRDVhUmVVY1Y2d1FmaUxURDlrdmhHYWhNMkZ6ZkdLenNKQlgyV0ZWRXBzak9RZGxWSXNlTG9VbVZsX0Q3U2RlTldaNUxYRk50RnNsRkNVWTZEUHJnekpOLVpEcTdsLTk4ZS1weHplREMzUjJmaXc": 1793666139118
+    "news:CBMi1gFBVV95cUxQcUlkSldUeC0tUHpaUDZ0Mm9FWFNBTktNSXpxbWQ5RjY3XzZ4dkVSWXZNcjh2cWZod0gwOVlXNzh4QV9ibEE0dEFxWlc3UDhSYnl2cEthc3JCX0ZXOE1wVG90alJGZ2NVa0Q1YVJlVWNWNndRZmlMVEQ5a3ZoR2FoTTJGemZHS3pzSkJYMldGVkVwc2pPUWRsVklzZUxvVW1WbF9EN1NkZU5XWjVMWEZOdEZzbEZDVVk2RFByZ3pKTi1aRHE3bC05OGUtcHh6ZURDM1IyZml30gHWAUFVX3lxTFBxSWRKV1R4LS1QelpQNnQyb0VYU0FOS01JenFtZDlGNjdfNnh2RVJZdk1yOHZxZmh3SDA5WVc3OHhBX2JsQTR0QXFaVzdQOFJieXZwS2FzckJfRlc4TXBUb3RqUkZnY1VrRDVhUmVVY1Y2d1FmaUxURDlrdmhHYWhNMkZ6ZkdLenNKQlgyV0ZWRXBzak9RZGxWSXNlTG9VbVZsX0Q3U2RlTldaNUxYRk50RnNsRkNVWTZEUHJnekpOLVpEcTdsLTk4ZS1weHplREMzUjJmaXc": 1793666139118,
+    "threads:DfQncGTiem0": 1793666462526,
+    "threads:DfQnbHgCa8D": 1793666462526,
+    "threads:DfQnMZkktV0": 1793666462526,
+    "threads:DfQmfX0mWhW": 1793666462526,
+    "threads:DfQmITbgpZT": 1793666462526,
+    "threads:DfQmc5iiivJ": 1793666462526,
+    "threads:DfQmMlGiDCp": 1793666462526,
+    "threads:DJYz5jSRRmD": 1793666462526,
+    "threads:DfQmim8j-8z": 1793666462526,
+    "news:CBMiwAFBVV95cUxNNFdibXFfUWxmZ2ZRNVB4WTk1UmZ3TWJpMFVRaFVaZENrV0RuWEF2Y29hanoxMjFLZmZhZllYYVJKcjhyR3JRbjVaU19MTUZkTjh4LUJrZUlXSTBWRjJ3YzdCZWNIY3pTZUE4WlBUQm5OMVQ5enFaVkozWHN2a1RoVk5pa1kzY1BfOWFlcDBMa3hraEZ6QjAxVXcwRW1mTHVQenoyakUzWkJTdk9qRXZDaWF4YnhiaGxtOHlBVTBpWVM": 1793666462526,
+    "news:CBMi7AFBVV95cUxQNHJrSnI3VVdPYkM3RkRHaDNHRjBYZTN3ZExXaFVyQ0lnZHlBRFpRZWR0X3pPUDN1UGtkZTlZVzVkYjlrMmFyWWJYSk9XeC1IV2RmYXNkQkV0ZW9iY2V4bEN4RW9UT2hxYjVSVWN4ZTU5QjBHaVRBR21EWDc4bEQ2TlhaWmQ2YUNuM0MtN3B1N1drM1NSRkdtUHdfOHl5aDVHclp6bG5PZkstZG4zczNtSHdmS3pNTkJEZ2FCOTNxc1N6RXNCek1vN0VOMDRkOWpob3JqaklfTnNrWDZ3R1dFZl84XzFIZTZUNUk3cdIB8gFBVV95cUxQU2FBR3l5Ml82NkZTbnNPOGdCMXJzWDQ2SnRIWDRHY2lzWW9CaUFHY2FJeFpYa09oWl9sZUY1eUVFdE9UZWI0RE95MG9TLXlzdzloME9jeDVJa2hNLXFtMkVUZTA0dENMUHkwYUxxZlFwS2wwQTZ2Mm5LMVE3eElVS0lIcDV3UGhNemNyRXZTM2pMVDNtcEk0ZnZNdXZabkpaSWFRaWluMWRyQnd6Vlo0NWEzaV9oQjNSQWtNWlAtTl9IVllxeHotTTE1WjhpVllVamJrdkp0TnRLZ0k4VGRDQ1FZWFBXNWhfTmRkMUozQXdXZw": 1793666462526,
+    "news:CBMirwFBVV95cUxPYV9rejFuVjhIVUN5SWhDRHRfSGdXX3h0dndQOGxYZWIwOE03ektkNjhaYjV6VUJJdE11djFadURTMEQzVTBnaEhtNEFBRk91cFpwV1lzWnZ5b083MmhjcEdXclkta0tOVWpJeVdMWm1tV2txMHJJb0FaS1Z4cFo5bHFwaEtMd2YzMnhscEJXaTVmZ2M5UXE3Z1B2MDdNRV9Nc0lYeVVJQV9vYWhZRjd3": 1793666462526
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Bansos Cair November 2026, Cek Besaran yang Diterima Berdasarkan Desil - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeTZuMTBVSzZQM29uWlN0UDctSUpBcVltNGl4MzZpMzFTSC1LdXVjT3I2MXNSV2d1VmVsbEdyMzgzYU54cTVCVG9fd1RLeEN0RmE0dWpRY0hsTGdYRzRFd0F6Mk9MOC1nd003TWZMalpoMW9tNmdtNnl2ajA3NDRvbmg0MU9lSlZYMm1pNnVadDQ3ZVRUb2lhZ0p5OHNnVlg3b251b0otR0gwUm1qY1hSZUtVaHbSAboBQVVfeXFMTkllWGVLVVppdW8zVlY2TE1pbUNFOERCWE1FNW9Lc09oWmpXVnNfeEE1X1I4Z2ZoS2t5d2RfUmxEZk8tMzNEVXgtbE9YaTdreU9VU1RJUHpsSmZWMnA4ZEpmcFlnRkZpd1RPaTljczhoVGNDWE9rd2Q3WVR5OERNYzlWQ1J1Q3p0UjVKT2pRZzI3OUNib0llVHg0RG5keExZUzVaYnd1Nm1yemFPR3M0UWV5T2FqektYejZR?oc=5",
-      "d": 1793628051000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "economy.okezone.com",
-      "x": "Ini Link Resmi dan Cara Aktivasi Bansos Digital yang Akan Meluncur Mulai 10 November - economy.okezone.com",
-      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS2s0STFjR2FMZ3FvcXRwREQ1RTNPSEI5VjlVZDRSQS1NOFBPOHd3RjlnT2JnTTVqVVdveTFGR255SUZ3RThKTGVWYy1GSUZkcTVLUnJzMjZ4X0lvOHFhbThVcXRIc2phM2hoVGN4aGtfWEh0UnIzejU1RWQ5R1FvcVJ0aDktRDlna3NjMVdXQWJzcTN3MkMwMzVWYXhRdDVuVThuSmEyNl9UdDljSWJldnd2Z2xCZzhCUE11T3JyM3VMWnVlcnhERU9QbWVtU0RKenNoSjFxSGh0cHlpU3fSAdwBQVVfeXFMUFQ4Y3FMbE10TFg0MHRwQ3JzTGZwWWxJa2lUcmV4ZmdsZWZQRHBsdDJoUmFISGdMVGlFOVFjVHFPc295Y2lUQmNTWkFsWUtvQVlnejRuT0hZcTFFSGd3dDhIT1RDcW90ODY3SFhITWFLUEp5bXA1NUtLV0FDaTRFVXlNYUNyNWZlNHk3d1pZdmRXb3V1cGc0d3ktc0NXekZ6X0ZSVUtIc19GNUdaX0Rpc0FINXdmeFJVbWpvTDR3VEtnYXVpa2lxZEJzNy1IMWZnNW1fT2xNXzZyMG9teA?oc=5",
-      "d": 1793633737000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@muchtardgbella",
-      "x": "Informasi Selengkapnya Silahkan Ikuti Pelatihan Bisnis Online GRATIS Tanpa Ribet, Klik link Bio dibawah ini sekarang : 👇https://vismaya.id/pelatihan-bisnis-gratis/?ref=muchtardg.b",
-      "u": "https://www.threads.com/@muchtardgbella/post/DfPrFtGgDwa",
-      "d": 1793634785000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Suara Merdeka Jakarta",
-      "x": "Masih Bingung Cara Edit Foto? Kenalin 4 Fitur Canva dan Fungsinya yang Bikin Foto Lebih Profesional - Suara Merdeka Jakarta - Suara Merdeka Jakarta",
-      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQanZncmhHMUo1TVIwZHZUcVFWaTlsS2JpZkRTeVZLclh6a2FRTTdaYlNVeXhYNllJbmtuSk5lUDdlRDBWTnJYa0NTd1ZLbzFNUDVGb0dqZG9aR2RzVWJjWU1XMWJkTE9rSnJWX2k3ODhVSE9CRnc1d1c1YzRGM3A0UjRrNGVuUGlFTnlsazVvS0I0Y2E5WlBSeTdQRDVYeXZaMEF5bXNmbTZybkh5WTJBX0lPOFBFTWpMaElyUFo4cGU2VUFyTmY1SDRoVFpwajd6VGwzXzc1M2pTLThfWkRnQnM4M1RvS3F3LUdfSUJmNEdINThydl9Z0gH3AUFVX3lxTFBqdmdyaEcxSjVNUjBkdlRxUVZpOWxLYmlmRFN5VktyWHprYVFNN1piU1V5eFg2WUlua25KTmVQN2VEMFZOclhrQ1N3VktvMU1QNUZvR2pkb1pHZHNVYmNZTVcxYmRMT2tKclZfaTc4OFVIT0JGdzV3VzVjNEYzcDRSNGs0ZW5QaUVOeWxrNW9LQjRjYTlaUFJ5N1BENVh5dlowQXltc2ZtNnJuSHlZMkFfSU84UEVNakxoSXJQWjhwZTZVQXJOZjVINGhUWnBqN3pUbDNfNzUzalMtOF9aRGdCczgzVG9LcXctR19JQmY0R0g1OHJ2X1k?oc=5",
-      "d": 1793596920000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28795,10 +28760,50 @@
       "d": 1793661210000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ukhtirahmawati38",
+      "x": "Bismillah..... selamat pagi warga Bikin video animasi seperti ini ternyata sangat mudah loh, bisa dari hp dan bahkan untuk pemula sekalipun. Ada yang mau ikut belajar bikin Animasi",
+      "u": "https://www.threads.com/@ukhtirahmawati38/post/DfQmim8j-8z",
+      "d": 1793666140000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "SMK Angkasa 1 Juara GYC 2026 Free Fire, Raih Beasiswa Kuliah Gratis di UNAS - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFdibXFfUWxmZ2ZRNVB4WTk1UmZ3TWJpMFVRaFVaZENrV0RuWEF2Y29hanoxMjFLZmZhZllYYVJKcjhyR3JRbjVaU19MTUZkTjh4LUJrZUlXSTBWRjJ3YzdCZWNIY3pTZUE4WlBUQm5OMVQ5enFaVkozWHN2a1RoVk5pa1kzY1BfOWFlcDBMa3hraEZ6QjAxVXcwRW1mTHVQenoyakUzWkJTdk9qRXZDaWF4YnhiaGxtOHlBVTBpWVM?oc=5",
+      "d": 1793658300000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Ayo Bandung",
+      "x": "Gubernur DKI Jakarta Pramono Anung Mempertimbangkan Usulan 76 Taman Dibuka 24 Jam, Ternyata Program Inovasi - Ayo Bandung - Ayo Bandung",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNHJrSnI3VVdPYkM3RkRHaDNHRjBYZTN3ZExXaFVyQ0lnZHlBRFpRZWR0X3pPUDN1UGtkZTlZVzVkYjlrMmFyWWJYSk9XeC1IV2RmYXNkQkV0ZW9iY2V4bEN4RW9UT2hxYjVSVWN4ZTU5QjBHaVRBR21EWDc4bEQ2TlhaWmQ2YUNuM0MtN3B1N1drM1NSRkdtUHdfOHl5aDVHclp6bG5PZkstZG4zczNtSHdmS3pNTkJEZ2FCOTNxc1N6RXNCek1vN0VOMDRkOWpob3JqaklfTnNrWDZ3R1dFZl84XzFIZTZUNUk3cdIB8gFBVV95cUxQU2FBR3l5Ml82NkZTbnNPOGdCMXJzWDQ2SnRIWDRHY2lzWW9CaUFHY2FJeFpYa09oWl9sZUY1eUVFdE9UZWI0RE95MG9TLXlzdzloME9jeDVJa2hNLXFtMkVUZTA0dENMUHkwYUxxZlFwS2wwQTZ2Mm5LMVE3eElVS0lIcDV3UGhNemNyRXZTM2pMVDNtcEk0ZnZNdXZabkpaSWFRaWluMWRyQnd6Vlo0NWEzaV9oQjNSQWtNWlAtTl9IVllxeHotTTE1WjhpVllVamJrdkp0TnRLZ0k4VGRDQ1FZWFBXNWhfTmRkMUozQXdXZw?oc=5",
+      "d": 1793604104000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Suara Pantura",
+      "x": "Pemprov Jateng Perkuat Dukungan Pesantren hingga Beasiswa Santri - Suara Pantura",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYV9rejFuVjhIVUN5SWhDRHRfSGdXX3h0dndQOGxYZWIwOE03ektkNjhaYjV6VUJJdE11djFadURTMEQzVTBnaEhtNEFBRk91cFpwV1lzWnZ5b083MmhjcEdXclkta0tOVWpJeVdMWm1tV2txMHJJb0FaS1Z4cFo5bHFwaEtMd2YzMnhscEJXaTVmZ2M5UXE3Z1B2MDdNRV9Nc0lYeVVJQV9vYWhZRjd3?oc=5",
+      "d": 1793604221000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
