@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetbisCE3dM": 1792486238865,
-    "threads:DetcbYDEkAd": 1792486238865,
-    "threads:Detci2onybJ": 1792486238865,
-    "threads:DetcgBdnwIP": 1792486238865,
-    "threads:DetcVThkQiy": 1792486238865,
-    "threads:Detbu9CkeMB": 1792486238865,
-    "threads:DetbgsvkZ62": 1792486238865,
-    "threads:Detb_-TE5Jv": 1792486238865,
-    "news:CBMisAFBVV95cUxPb3Q0dm9zdHhORnRvYlZVZWJyc1ZlLU9Oam12ZDZpS2FKMUl0aG1aNDlyeEVTWDBjNUVadlBNeEt4cUhoSnhPcS1xX21yNlhJd3lKeEZqeHJFZHdRV3FOT0dXczh2VTJERkROUnNRYTQ5YTNSRF9YN1dIakQ4OHV2MHJqNkN0aHNHU09KRlBqY1lNWkpiQngyZW5HTS1oeWNCVE5aMWstcDE3UXRtbDFxNw": 1792486238865,
-    "news:CBMi0gFBVV95cUxQOTFRNDJGWThMOHRQSGJ3UGl6bVNRdDFfSHdhS3hiNC00RHVOeFpMQW5GNG5sSmZUeHE4cjBwS2U0ckVZem9JQlZVZmhGVUM5dFF3SXFvYi0zQXdqQWY2WGxxUlVqOElnNVRiOTBIVDZCWkJTSExyeTlXUkR5S0x5NUNIcDZkdnVielVydWtFVkZBYmdFa0FnMG5pTWtJT0pXMXJBNkhubFVkWUhpLVZWaEtIOXJOSEdsVms3RkVyMGZia04zaE55aW83bUpCWXBaRVE": 1792486238865,
-    "news:CBMixAFBVV95cUxQc1dJUjdtelB6Ujh5Z2ZSazltV0NnWWY4blVjZlJxX2lEWEotSzJPLVNQMThqYWlJWndZUm9XYUdzY0Z3OWtUSmV2bmF6MTJadUZXbnhfVGo3SkVjdkRJOGJUZW1JQjB1YWxZWU45M2RMTmhDMHlmZkNaWW5KcVhjQW9NTkNOTXd6bFgybTVlTU9xY05McTN0aHN0NEVyc05abDBnS29aMUFramlPSEdlVV9XekMzRmEwb25kckxQcGc1TzYw": 1792486238865,
-    "news:CBMiZkFVX3lxTE94VWx4RTVuQXBnLXNHMHBZaUViMEM5UERiWkZ0bU9OVDkwbWNXZUZielhRNmpXV3ZwbjNMc0FQVnpmcFZRcHdqLXg0Y1VNS2JNa1RkUDlraThVQnR1clIyMGpkU053Zw": 1792486238865,
     "threads:Detb1Qnk5HP": 1792486544258,
     "threads:Detc_HLH749": 1792486544258,
     "threads:Detb1m3INHs": 1792486544258,
@@ -27533,39 +27521,23 @@
     "news:CBMirwFBVV95cUxNSGlydTFyMjNuVUZ5VDNjQTVaQS11cXFPUTQ5eE00Y0JLZHVZSXJ3MnltQjh5QjRwdEhubnhVaVhSRGxFbldXcUM4S2hQOGtrYm5Od2RVdlA5TDB5WEN3YkZQUnU0NnVJOFU5VUdZWFo3aU5jUW1ZLVJyYkJ6akNEdktKOW5xZFBEY25VYjRlMTMyeWMtZ1hBeHJFQjlYUmtla0UzYWdsYU9vM3g4QWRz0gGvAUFVX3lxTE1IaXJ1MXIyM25VRnlUM2NBNVpBLXVxcU9RNDl4TTRjQktkdVlJcncyeW1COHlCNHB0SG5ueFVpWFJEbEVuV1dxQzhLaFA4a2tibk53ZFV2UDlMMHlYQ3diRlBSdTQ2dUk4VTlVR1lYWjdpTmNRbVktUnJiQnpqQ0R2S0o5bnFkUERjblViNGUxMzJ5Yy1nWEF4ckVCOVhSa2VrRTNhZ2xhT28zeDhBZHM": 1793695543965,
     "news:CBMihwFBVV95cUxOTi1YLVVJLTZtNC1iTldqaFpiMjRDUmkyUTVVSzUtSVJhR2gwc0NIdGZVbWJnYWxKOVBldkk0Ry1pZ2M0ZGFreEJobkZVN004dWozMUdBSk9SMnR1cnpCaHZIRVJJVW5LNC1JaDQxS2RHdFBlc2pSRWFoZl9hc3o4Nm1yZjJDX1k": 1793695543965,
     "news:CBMicEFVX3lxTE93dDRoWjJuMnNEMGJLSGFYMU5Ua3Z5VTJqeXFScjRMU2ZWbFRtRUExVlpXcGFuRVVDNU5WX3FReHdzazhQb19mRXYycVM0TXlZQkZSRURLSkNua0I4bUdraWZnX01DV0lUcW1ET2JTOWLSAXBBVV95cUxPd3Q0aFoybjJzRDBiS0hhWDFOVGt2eVUyanlxUnI0TFNmVmxUbUVBMVZaV3BhbkVVQzVOVl9xUXh3c2s4UG9fZkV2MnFTNE15WUJGUkVES0pDbmtCOG1Ha2lmZ19NQ1dJVHFtRE9iUzli": 1793695543965,
-    "news:CBMizwFBVV95cUxNVWdoZDU2MzZVM2tvWEMwbl9keV9DQmpXTjdjYk9LNDRacWh5S0JDM0NuaVUzRk9qTkhhQk44Qk5QMGxZX29qRXV5dmxNdWJFQkNPaklEYkR2WXpTbGRUZFc0YU4xMlZnVzZEeEM5d3ZBaTJoelRXaE1qX2ZLdFhJZUdfYTdscFNlOUFHVFNqVXZ3ZkJ6T19MUWVYTHpfUXJIRl9hUGgyNnFVbmNQOVdWSDYxcXA5ZEYwemFwaWlqQ1JaWVhjQVpWSV9jdmZkRUXSAdYBQVVfeXFMUDd1OXphU3hmcHFkcC12M3VnbWs1RVZteHJzNmdacGpFZzRMN25vWXRzcFlKRE1qSVdSWS1UVm9NeXRmekU3dHZ6TWp4TUJsc3M5VUNMYUpvRmJTeFBvNDROS09Ta2pfTk94U3h6VnVuWmxURjNHMmdMYXBZRnNGS0ViWmtuODg2VXlLLWZmTDBHZEluNU5IN0U1MjNFTlRtWkp6djV6cXpzNmJGQVRnY2tRRjlZcXVMRHoxLWc2ejFBZ2doc0l1MkZpMVdYYzVweVJ2UHFjdw": 1793695543965
+    "news:CBMizwFBVV95cUxNVWdoZDU2MzZVM2tvWEMwbl9keV9DQmpXTjdjYk9LNDRacWh5S0JDM0NuaVUzRk9qTkhhQk44Qk5QMGxZX29qRXV5dmxNdWJFQkNPaklEYkR2WXpTbGRUZFc0YU4xMlZnVzZEeEM5d3ZBaTJoelRXaE1qX2ZLdFhJZUdfYTdscFNlOUFHVFNqVXZ3ZkJ6T19MUWVYTHpfUXJIRl9hUGgyNnFVbmNQOVdWSDYxcXA5ZEYwemFwaWlqQ1JaWVhjQVpWSV9jdmZkRUXSAdYBQVVfeXFMUDd1OXphU3hmcHFkcC12M3VnbWs1RVZteHJzNmdacGpFZzRMN25vWXRzcFlKRE1qSVdSWS1UVm9NeXRmekU3dHZ6TWp4TUJsc3M5VUNMYUpvRmJTeFBvNDROS09Ta2pfTk94U3h6VnVuWmxURjNHMmdMYXBZRnNGS0ViWmtuODg2VXlLLWZmTDBHZEluNU5IN0U1MjNFTlRtWkp6djV6cXpzNmJGQVRnY2tRRjlZcXVMRHoxLWc2ejFBZ2doc0l1MkZpMVdYYzVweVJ2UHFjdw": 1793695543965,
+    "threads:DfRfnS4FJOr": 1793695856286,
+    "threads:DfRe8hoGAsY": 1793695856286,
+    "threads:DfRfmbQkfoo": 1793695856286,
+    "threads:DfRfhxpk06O": 1793695856286,
+    "threads:DfRfa77DMvu": 1793695856286,
+    "threads:DfRfQzuEqdZ": 1793695856286,
+    "threads:DfRfQS3oILg": 1793695856286,
+    "threads:DfRfByAExOv": 1793695856286,
+    "threads:DfReld1I13h": 1793695856286,
+    "threads:Dd1d0WGgHMN": 1793695856286,
+    "news:CBMixAFBVV95cUxNWnN3YmlhWU5mUVo5Q1ZneHdkcDBnb1ZKN3hOa0dGc21RLWl6ZkYwYWhjdVIyYUUySE5vWm56LXgwUkFublJQOWdNUG12QjJxQUlsd2g2QmtYSnJfRFNsLVF1aXJadEstVE45NlVEUmlxcFZoTDMtb2M5UUZWbW5pWWZxT1pzbnRRU2dxNWJBdFQzalVmX0M0bWdrVjBxUW82dWV3NUFyRkd0Z215V01uc2sxdXQ1SXE1dEMxMDlGcXFIeHpT0gHKAUFVX3lxTFBMdDdtRjNYUV9xRUxtdzNHOWltbFU2ei1ZN2JyMnRqcmZ0bWhTVTRpVU9MMG04NFU1V1QyV3VTLW9Md0tZNFFCWGNvcDR6eWpsRkFTQXMxWHctTkwxR2E4WVhzQjBCcG1tUmJwbjl3QmM5dDlSWEQ5ZGxQX0RfTXZNZXY0QWR1QXdpSXd5NVh1VXNNTm9jNjVrMC0walRGNlo5MWNkay1WTjlwakF3eHhjSENhendBdnF3cnhDQ2VTT0NFSEwzQm1CTnc": 1793695856286,
+    "news:CBMi1AFBVV95cUxPM1liQ0RPdi1IaXRySXlqOTR5WkpSX0RqUE5iUEJMVEdUUFVIMzZXMVhmdUwtbl9pVzh4Z1FQU1Z2RTh0cVZNN25faGJIU2pkZzZYSThqTm50ZlhRVTYxTHFBendtWU9OTHFPQ2VjMVd5czhjQnk4ZGF4TTI1b0NuSVpRSnlDQmJOZGMzb2t3ZG5IUDZjQzR6Wk5NalhKeUpiWHQwemVkU1pLbkJWcnVKVGU3WkktU0Z3OGFRc241VlBoR3Q0a0daN1kyMkJXZnZBaldLYw": 1793695856286,
+    "news:CBMiU0FVX3lxTFBFWV9IbHI1U0poelZZT1FTaEl0STlOTUw5cGd1NmRyZ0VHU2xfNENvSUUxekd2UUtPa3l4UXZqY3J4OHl0RXdxZHRoREQ5anJnY2Zj": 1793695856286,
+    "news:CBMia0FVX3lxTFA2Q2V5TlIzRThoUlFRczlnQXllZ21Cek9Cai1YajlKWWxKaEI4ZWtUWlhoekUwOUd5LVNDYWo5R0VMb2FRc2xVM2FEZVNNdjhzdTM5YUZ0cEZhX3BjcXpzcFpxbXNBVzJnVjFz": 1793695856286
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak menurut ku usaha yang bagus adalah usaha yang dijalankan 😄. Semua usaha pasti ada resikonya kak, tergantung kita mau milih menjalani atau tidak. Sebaiknya pilih yg resiko ",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfRRI_uD8Bm",
-      "d": 1793688287000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@setyaningrummeity",
-      "x": "Yang pengen tau dunia HR dan ingin belajar tentang HR, webinar gratis selama 1th, bedah loker, bimbingan dan konsultasi via WAG setiap hari, yuk merapat ketik HRGROW",
-      "u": "https://www.threads.com/@setyaningrummeity/post/DfRQjjkn2B1",
-      "d": 1793687980000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, bisa banget kalau pengen dapat penghasilan tambahan buat di rumah. Kk bisa nambah skill digital marketing dan bisnis online. Yang nantinya bisa kk gunakan untuk jualan pr",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfRQjc4j-br",
-      "d": 1793687979000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29035,10 +29007,40 @@
       "d": 1793693289000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "PELNI Crewing Buka Lowongan Kerja 13 Posisi Pegawai Laut, Cek Syarat dan Cara Daftarnya! - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM1liQ0RPdi1IaXRySXlqOTR5WkpSX0RqUE5iUEJMVEdUUFVIMzZXMVhmdUwtbl9pVzh4Z1FQU1Z2RTh0cVZNN25faGJIU2pkZzZYSThqTm50ZlhRVTYxTHFBendtWU9OTHFPQ2VjMVd5czhjQnk4ZGF4TTI1b0NuSVpRSnlDQmJOZGMzb2t3ZG5IUDZjQzR6Wk5NalhKeUpiWHQwemVkU1pLbkJWcnVKVGU3WkktU0Z3OGFRc241VlBoR3Q0a0daN1kyMkJXZnZBaldLYw?oc=5",
+      "d": 1793691862000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "شبكة تواصل الإخبارية",
+      "x": "Cara Cek Desil November 2026 Lewat HP - شبكة تواصل الإخبارية",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFWV9IbHI1U0poelZZT1FTaEl0STlOTUw5cGd1NmRyZ0VHU2xfNENvSUUxekd2UUtPa3l4UXZqY3J4OHl0RXdxZHRoREQ5anJnY2Zj?oc=5",
+      "d": 1793695372000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "CentralBatam",
+      "x": "Kemensos Buka Cara Cek Desil Kesejahteraan Lewat NIK KTP - CentralBatam",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2Q2V5TlIzRThoUlFRczlnQXllZ21Cek9Cai1YajlKWWxKaEI4ZWtUWlhoekUwOUd5LVNDYWo5R0VMb2FRc2xVM2FEZVNNdjhzdTM5YUZ0cEZhX3BjcXpzcFpxbXNBVzJnVjFz?oc=5",
+      "d": 1793695469000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
