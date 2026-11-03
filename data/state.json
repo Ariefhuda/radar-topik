@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetK-kSE1mJ": 1792477847475,
-    "news:CBMiwAFBVV95cUxQZnM3RHY1Y2IycTcxa3BTRmc3elNsYlJDcDlqbHRxT1NGSkpPSTRZSmlCeE5iMkZFZzJVQjBXY0VncFZKdC1BWmloaGRGazVwckNkbDlQTmhrNm5fQ0FVNGMweDl5MG54NDdIYnRTNUNYZEprOHNEaThULVY2b0VVcXpQSlhVRERUX1FwMUZmTHpYbjFnNHlWcFJsaHkxTVlxQVQ5YVFjNnJRLXVIM3FDN3preEZtWUJ5eER1Wm1DVEzSAcABQVVfeXFMUGZzN0R2NWNiMnE3MWtwU0ZnN3pTbGJSQ3A5amx0cU9TRkpKT0k0WUppQnhOYjJGRWcyVUIwV2NFZ3BWSnQtQVppaGhkRms1cHJDZGw5UE5oazZuX0NBVTRjMHg5eTBueDQ3SGJ0UzVDWGRKazhzRGk4VC1WNm9FVXF6UEpYVUREVF9RcDFGZkx6WG4xZzR5VnBSbGh5MU1ZcUFUOWFRYzZyUS11SDNxQzd6a3hGbVlCeXhEdVptQ1RM": 1792477847475,
-    "news:CBMiuwFBVV95cUxQMEZSWmI5aGFMNlJSR2VSN05PS245UnBpQzFWMEp3R1ZKaDdBNnhkWVNDb3JIcnpNTTZDc3NaTk51dUJ6NHFqRjVVMUlHUjlFR3NyYnJfR3JDa3gyWmF4cm5icmF2aThMbzlqS19RTW9yRHRpVXpyVDZwblhEcFVOWmNBRGt0aHBHNngxNFRuXzFYd2h5czZfQzVRSXJtZ004NnB5UU5fRTNTZVhva0prWjVZdm1YRTZRb05r0gHAAUFVX3lxTFBmczdEdjVjYjJxNzFrcFNGZzd6U2xiUkNwOWpsdHFPU0ZKSk9JNFlKaUJ4TmIyRkVnMlVCMFdjRWdwVkp0LUFaaWhoZEZrNXByQ2RsOVBOaGs2bl9DQVU0YzB4OXkwbng0N0hidFM1Q1hkSms4c0RpOFQtVjZvRVVxelBKWFVERFRfUXAxRmZMelhuMWc0eVZwUmxoeTFNWXFBVDlhUWM2clEtdUgzcUM3emt4Rm1ZQnl4RHVabUNUTA": 1792477847475,
-    "news:CBMieEFVX3lxTFAwQTI5ZGFjZXJEckNvTUtqWVR2a3djQ3pJdjkwN2czMnF3OGs1NlJPbE9mQkhqNkxYeldXWmc0QjFZdVdUMTRCMWVNSGhNVFYwSHQ3WXNwSm1RRWQ5dlZVVEVrREhjWDVaaDBuY2NQRWlOLU1uS0tBQQ": 1792477847475,
-    "news:CBMiwAFBVV95cUxPV3N5MngzQnFfTWM2NW9RcDJUN1BwR2d5S0tjUXJrTVE3Q0xzZloxTjJkdzU3RkFOXzQ2UGhNdG1aS1R6dHZiX0M4a2lUMHJVVTVrYUJuZjdQRXdOUG9MenRrWGpsaGZTWEFXX0hlY2FHZC1KV0RXeXNqOXNZQ0dQX3NSQ2VNYlBYa0wySGppQU5IN0w5eFpndDNEMnFrdmNnUXhVbjZhZmprc2REMjVCS25oZDZ6Ny1yNUdnWXBmRjQ": 1792477847475,
     "threads:DetMje3Eejo": 1792478142678,
     "threads:DetM7XHGtQg": 1792478142678,
     "threads:DetMg8UmkRL": 1792478142678,
@@ -27476,69 +27471,31 @@
     "threads:DfROAs4GAFS": 1793686874868,
     "news:CBMi9wFBVV95cUxOelUzbGRNNU1UemVPaXJzNWJsZGx3VVpob3dMcWVBS2R1Vk9WemNEVno2ZHc3QTBPSFR6ZldNa1lOaG5ndHFSSWhOV3lFbFRWSHVoUGhjZW8xSTZaQURpMTRrN0ZwYmJDV0RJQTRaTUprUUtJa0F3N2VaWkY1bDRfZkFtZHBkVy1NYklWZmEweUtVUzA1SHlWenhhQ1Jqb1EwTmtjMGpGZjFmQ19NclRpNkdDLWVPTThIeDVrTEdFRUhPR2V2S0NDMDJxYUZFNDJtQldJMi1VeG1BR0V4VnNkV2w3aHRiZlE4LXRFVVJzSlR3aUhzM1Y40gHwAUFVX3lxTE15TjBjM1NqWnlkbEJoSG1qMkozU2VEVDY3N3hjZTlIMThrV0F4Y3plRFZoM3N5LW1EUnY5RVc5Ui15b3ZzUWgwU3FjeWpSM1pJTHVEVlZhaVdwTlNoLVNvWEpZaG9XUFp6YzBqczZUWGNGN1pzV3VKci1HUHV1eUNqZ2p3a3BlN2Vlb25zcmJWWGlzMU1RVzhaRGdnMWRSZWhoQ3Q0MGNqdUktSUtNam4yN1JwUWg5R1V4RDdqb2lVdE93VW1XTms3am1mdEMyMlJDX0wwTVo0OWoweWxvdWZuSllKYzlIVFFsU0hkLWd6Yg": 1793686874868,
     "news:CBMitgFBVV95cUxPV1AxcFBSNGtjTTlSdGx5dUdLTm9SVnEtbXFIYUdZTGJvQS0wWFlmV3hLNVpSMEpUVy1sc09ZYUtydDdXU214OXFyYm9iX2ZtRFF4eERMM1JkbE56UE1zcTdHUHd1QlFxZ0dDTzlxU3NRcXNyYXVtekhPakJwU3l0SUFXYU5JRlNNX2ZUaWlTNDVIbUc5NWIzN3VaWmIwZ2MzVEJtdTZfS05KQ0JjX2JxQkYzdkZ5UQ": 1793686874868,
-    "news:CBMi2gFBVV95cUxNUmc3UEJsYTl5a0ZnMnJMR01uN1owRkI0dW9UV3Z0UWU4MWxxeFozbXdickJRdlZxYzdQbDNUOWRUTTY4X2JUQUtqZGtUT1JMaEIwQ2owbVlxamtMZG0wSjZHTjlJY3NDR3pOUWZDVkdBNjZNWWQ1bGhfenZjcU1WTWQwWWRkbzZoSjlBWUdETHVEd0lOeHlZWDdTLXRFaTJQcEhCSVZnYTRvbF9JbTBTRFg5bjVFcWRTU3pJWWtnWGhRdWVrR1FOUnAtMHZhcXRrNVhWeGROSlMwZ9IB3wFBVV95cUxQTjdKT3NsazBiaDdmcklmYWxKeHhlQ1pKakhzVURUUWZMVk5RWWFVMHpSakNXb1lJTTJHT0NhOWNMS3hkeVBHRmpFeWRnaTJMa1lWeXloZ2dlTDJyeGxka1JKNW1PQWtWRWhKWHoxUHdQdk4tWG81TWhxNm5sbDVyNkd6ZUtMNGppWi04bEZFT0ZJMTc0ZFhMdnMzNUVFQngwSkY0b2NOTnN0cy16b0p0WXhCa1RtVDVrdEhaR2RRTnpJNUZsc2Jkc0VlQkROMFFCek82NjNqT01FNjFDdFNj": 1793687136908
+    "news:CBMi2gFBVV95cUxNUmc3UEJsYTl5a0ZnMnJMR01uN1owRkI0dW9UV3Z0UWU4MWxxeFozbXdickJRdlZxYzdQbDNUOWRUTTY4X2JUQUtqZGtUT1JMaEIwQ2owbVlxamtMZG0wSjZHTjlJY3NDR3pOUWZDVkdBNjZNWWQ1bGhfenZjcU1WTWQwWWRkbzZoSjlBWUdETHVEd0lOeHlZWDdTLXRFaTJQcEhCSVZnYTRvbF9JbTBTRFg5bjVFcWRTU3pJWWtnWGhRdWVrR1FOUnAtMHZhcXRrNVhWeGROSlMwZ9IB3wFBVV95cUxQTjdKT3NsazBiaDdmcklmYWxKeHhlQ1pKakhzVURUUWZMVk5RWWFVMHpSakNXb1lJTTJHT0NhOWNMS3hkeVBHRmpFeWRnaTJMa1lWeXloZ2dlTDJyeGxka1JKNW1PQWtWRWhKWHoxUHdQdk4tWG81TWhxNm5sbDVyNkd6ZUtMNGppWi04bEZFT0ZJMTc0ZFhMdnMzNUVFQngwSkY0b2NOTnN0cy16b0p0WXhCa1RtVDVrdEhaR2RRTnpJNUZsc2Jkc0VlQkROMFFCek82NjNqT01FNjFDdFNj": 1793687136908,
+    "threads:DfROvqXmZad": 1793687451225,
+    "threads:DfRPdkSn-HG": 1793687451225,
+    "threads:DfROBwomN1w": 1793687451225,
+    "threads:DfRPiF1m6be": 1793687451225,
+    "threads:DfRPQmcGebu": 1793687451225,
+    "threads:DfRPLrJnOnQ": 1793687451225,
+    "threads:DfRPI_qIfNM": 1793687451225,
+    "threads:DfROzrTEVeZ": 1793687451225,
+    "threads:DfROxgImlEN": 1793687451225,
+    "threads:DfROsNOnYKg": 1793687451225,
+    "threads:DfROV8zEoEM": 1793687451225,
+    "threads:DfRONygm0Az": 1793687451225,
+    "threads:DfRPTwYCLVu": 1793687451225,
+    "threads:DfRPUq1krrf": 1793687451225,
+    "threads:DfRKqsYCQEa": 1793687451225,
+    "threads:DfRPiP2DxcZ": 1793687451225,
+    "threads:DfRPmBfiV-0": 1793687451225,
+    "news:CBMi8wFBVV95cUxNeklJY1FVWkdTVHBCWmVOZlc1cml0ckZIdS1xZ3dWRTJaSlY4TTByNkUzaThPVTFsU1lxTWxmY1JyQUtGZlJwOHlCYnJWUk5BLXNmVUxGQnhvejBVOXk0UVVZQm5IWk1uU0tTc1VlMHFMdzZ1SDVZUm1WbDl2cUVlbjdCa0s3R2dJWUU0dXB1ZElSRzF6UTBZWUlYTWNNRHdkWkt4U3ROaXlpU2lob1hwQkZvUmU5ZVRJN0hyNGtUVjFWY09NSUtHa25pUmpsRUFsVHpoX2s0ZXdWYjJJblhTbmNSdG50RnNPTkhRSUUtLUpqWDjSAfgBQVVfeXFMUDVUVkVkMHRjZmM4UHlpRzVBVF9malFyZElSUkVVWnhvVm1jVDM3d2gwTDJCRjVSd2xBSGhYcm9qNXNvd0pmWUNMR0psUVA4NjRudG5BcVhyTTUzTGxNYzM3cDYxSlVtN09SX2FCanBoSERPMV9GTndPNmFtVXc4SWMtd3NLY0g5QkxCWHZfZFhOWnRxVGpIUjJ3cGNjY2VOOXJIYTRVVXhZczhZc01PUWFfZjVvTkJDdFlZMFhYb1dLcnZHdF93bzBCM2FnSXpDU3lFS1VDM2xzVkVDU2pRR0FiNVZWcHVUYUJyMGNva2dvb3A1Qnp6Sjk": 1793687451225,
+    "news:CBMipAFBVV95cUxPeVZnUmxZUVVXU2JsTDgxdjlLclJzbVVSX2dXcnczb0ZhemEybWFBb2ViakNsa0p6YWo3dnRZRGhOaGp6dF9aMmdRUEgyVFZGQnV0c0I3Sm9sZHF3aU9ZV0ZiR0VPZHp5a1lLeHhFUzhCZVhPbVloV3ZvWkxSN19LN0tNWEE0Q1JPOU03aUNWbmo0TlBzYzVPOXZZVVF1RzNmOXp3StIBkgFBVV95cUxPSDVRY3FBUnI1SnVWaHphelk1bFhSSTNVR19FbGM5d2tYNm43MHd1bFlfVXhRemNGd1lnY0NQNDVzUTBHcnZ1WXV6T1ZwMnFCS0EwdWJORGVzalpIazdjN18xVFRkNldXQjJJcUhnbFJ1c3BPSTNwZUJMcmk0Y0x2T0d4R3VhemZsS2xId2hRTC1mUQ": 1793687451225,
+    "news:CBMiygFBVV95cUxQcUVPLTBiTHdWTi15Ym85RlhfSzFuYkU4U0gyb0RydkdJQ2ZieDZUTnRBMThSbmFTX3lQNENJS1M3NlJsVUdkWWJDTnlpaDJrM3FTdDJJV19jZGZaZ0JSMFJMRUtxVlFoYVp0SkxndFpIUVZWMUVKTDVzYXJXb1NydU4wLXFLQm1LUEtWNW50M3lWUG5ESHpSTVp1UDlsU3gzUGFvY3dTNWJIQXQxU21vMWdJejRQc0pxTExEX00tY0hKVHdvcU1IalZ3": 1793687451225,
+    "news:CBMirAFBVV95cUxQU2VBMnZ2Umx6YjdSYXFkWk5hMDJhWGxTbU51VHJKTHJDUUNHaTBHLUdUQ0tYMmpteFk5aDBRYklZdm5FcnpnY1dBcDZXQWMwR21MQkRHRXVQOGFqdHQ4cllYT1VZUVdiUXBlQWRsNWg2UWZaVG1IU1dONzg5b0NrRUM4WkRVcXZWSktzZWpLSEFSY2tLcExmM0lpbEpLbUVzVTBWRUd0bmZ0blp5": 1793687451225,
+    "news:CBMi3AFBVV95cUxPUGxYUEMxc18zQ0NKQTREdnktN1hTcXhoeGU3M1dXNDhvYzl4UFNIT2FwX1FVTzdnSUstWmpYbFQtRDc4UDI2NjZiS0VxcE92UW1fd1hyWWZ2ZFFKVFBsZkRTaVZacU1CQVBNc21mSUxFNjF2SU81Q3E0TDM3amdjVXdOQ042MVU0TDdhejRZQjYxOHlBcDN0NmZzMXVrT1NBaVFHeWwxTndSUzlMWXFXeElwcjc0ZjVYbWZkQTVEeVU2NjE5bC0wTGZ1Vmx3UzBxUnhRZ19qQ2Q0MG010gHiAUFVX3lxTE1xbEYySmN2aHl3TWhFcXEtMUdyc195LU9MZ0tDUVBBVEtDOXRIMWJnRWdjaWtuenVIY0kwc2J0Z1ptemhLRUgydzJ0MWtoX01salpITExCTGVqV19XQU5Ja0Nuc1NJWHhET3B3Z3NUUUdlbm4zeXdpc2NwR1psX1JWM1dNZTF3dWpwYnltbm1NV0VjVjRfYmE4Y3dwTEFuU3ZaN2hOX3BVV3UxZ2Z1bUhBUVMwVFdQd2I1endCQnhWZ0NwdGhnaGIzbGhKN1FSVTU3SzlyaUpBNXFMR3RWcDBVRHc": 1793687451225
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@arsiseducationofficial",
-      "x": "📞 Kalau ada panggilan soal beasiswa kuliah di China, jangan buru-buru di-reject! 🇨🇳🎓 Arsis Education siap membantu kamu merencanakan studi di China, mulai dari program bahasa M",
-      "u": "https://www.threads.com/@arsiseducationofficial/post/DfQ-H_lCVhS",
-      "d": 1793678317000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@naadoctorr",
-      "x": "ada kah yang mau ambil kedokteran atau residensi di rusia dengan beasiswa pemerintah? aku lagi open mentoring 200k aja, aku himbing dari awal pendaftaran, essay, interview dan ada ",
-      "u": "https://www.threads.com/@naadoctorr/post/DfQHrPvj20K",
-      "d": 1793649770000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ladangkecil",
-      "x": "Nah kan br aja mention semalam. Temen2 yang pakai BPJS PBI (atau saudara kalian), semoga pada aware untuk cek kepesertaan kalian. Bulan2 lalu rame soal desil yg tiba2 naik, ramenya",
-      "u": "https://www.threads.com/@ladangkecil/post/DfQ-5PdE93C",
-      "d": 1793678720000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Universitas Muhammadiyah Sidoarjo",
-      "x": "Sambut Kader Baru, UKM Paduan Suara Umsida Ajarkan Dasar-Dasar Musik - Universitas Muhammadiyah Sidoarjo",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xbHppUnhZRHE2TXRSOHdWZVljU2d2akw5SENiUnFlRFh0VDNjaDFTbUZWaUlvN19PQ3F3QWR1ZE1FaWp6UmNVSVJOc3plWVBtTGJwck1lTmZQc0xGYXctZHNoaXRWRmF0bDdvc29JOGJoZUtldG85aEtjYw?oc=5",
-      "d": 1793609137000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@the_empatics.id",
-      "x": "Pelatihan kak, yess gratis🤩",
-      "u": "https://www.threads.com/@the_empatics.id/post/DfQ_2SrGbAA",
-      "d": 1793679221000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@risneyyy",
-      "x": "1. buat bimbel di daerah kumuh di medan 2. buat pelatihan futsal utk anak2 kurang mampu 3. membantu pengentasan stunting di 1 kelurahan di Jkt 4. buat bimbel di darah kumuh di Jkt ",
-      "u": "https://www.threads.com/@risneyyy/post/DfQ_zqSgXZB",
-      "d": 1793679199000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28978,10 +28935,70 @@
       "d": 1793684461000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba nambah ilmu skill digital marketing dan bisnis online. Yang nanti nya kita bisa jualan produk sendiri secara online, bisa juga jadi dropship dan affiliate. Affil",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfRPiP2DxcZ",
+      "d": 1793687445000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@classai_id",
+      "x": "Catatan sebelum bayar: uji coba gratis 7 hari hanya ada di paket tahunan, bulanan tidak. Solusi buku pelajaran cuma untuk buku berbahasa Inggris. Dan set buatan pengguna lain tetap",
+      "u": "https://www.threads.com/@classai_id/post/DfRPmBfiV-0",
+      "d": 1793687495000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Ketik",
+      "x": "Keren! Santri 12 Pesantren di Lima Provinsi Digembleng Menulis Buku - Ketik",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVZnUmxZUVVXU2JsTDgxdjlLclJzbVVSX2dXcnczb0ZhemEybWFBb2ViakNsa0p6YWo3dnRZRGhOaGp6dF9aMmdRUEgyVFZGQnV0c0I3Sm9sZHF3aU9ZV0ZiR0VPZHp5a1lLeHhFUzhCZVhPbVloV3ZvWkxSN19LN0tNWEE0Q1JPOU03aUNWbmo0TlBzYzVPOXZZVVF1RzNmOXp3StIBkgFBVV95cUxPSDVRY3FBUnI1SnVWaHphelk1bFhSSTNVR19FbGM5d2tYNm43MHd1bFlfVXhRemNGd1lnY0NQNDVzUTBHcnZ1WXV6T1ZwMnFCS0EwdWJORGVzalpIazdjN18xVFRkNldXQjJJcUhnbFJ1c3BPSTNwZUJMcmk0Y0x2T0d4R3VhemZsS2xId2hRTC1mUQ?oc=5",
+      "d": 1793687100000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Radarbangsa.com",
+      "x": "Peluang Kerja Lokal Digenjot, Kemnaker Gandeng IWIP Siapkan Pelatihan Gratis hingga Beasiswa - Radarbangsa.com",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcUVPLTBiTHdWTi15Ym85RlhfSzFuYkU4U0gyb0RydkdJQ2ZieDZUTnRBMThSbmFTX3lQNENJS1M3NlJsVUdkWWJDTnlpaDJrM3FTdDJJV19jZGZaZ0JSMFJMRUtxVlFoYVp0SkxndFpIUVZWMUVKTDVzYXJXb1NydU4wLXFLQm1LUEtWNW50M3lWUG5ESHpSTVp1UDlsU3gzUGFvY3dTNWJIQXQxU21vMWdJejRQc0pxTExEX00tY0hKVHdvcU1IalZ3?oc=5",
+      "d": 1793667720000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Radarbangsa.com",
+      "x": "Kemnaker: Batas Akhir Lamar Lowongan MagangHub Batch 3 pada 4 November - Radarbangsa.com",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2VBMnZ2Umx6YjdSYXFkWk5hMDJhWGxTbU51VHJKTHJDUUNHaTBHLUdUQ0tYMmpteFk5aDBRYklZdm5FcnpnY1dBcDZXQWMwR21MQkRHRXVQOGFqdHQ4cllYT1VZUVdiUXBlQWRsNWg2UWZaVG1IU1dONzg5b0NrRUM4WkRVcXZWSktzZWpLSEFSY2tLcExmM0lpbEpLbUVzVTBWRUd0bmZ0blp5?oc=5",
+      "d": 1793682120000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Mau Nonton Konser Internasional di Lombok? Ini Cara Aman Beli Tiket dan Atur Jadwal - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUGxYUEMxc18zQ0NKQTREdnktN1hTcXhoeGU3M1dXNDhvYzl4UFNIT2FwX1FVTzdnSUstWmpYbFQtRDc4UDI2NjZiS0VxcE92UW1fd1hyWWZ2ZFFKVFBsZkRTaVZacU1CQVBNc21mSUxFNjF2SU81Q3E0TDM3amdjVXdOQ042MVU0TDdhejRZQjYxOHlBcDN0NmZzMXVrT1NBaVFHeWwxTndSUzlMWXFXeElwcjc0ZjVYbWZkQTVEeVU2NjE5bC0wTGZ1Vmx3UzBxUnhRZ19qQ2Q0MG010gHiAUFVX3lxTE1xbEYySmN2aHl3TWhFcXEtMUdyc195LU9MZ0tDUVBBVEtDOXRIMWJnRWdjaWtuenVIY0kwc2J0Z1ptemhLRUgydzJ0MWtoX01salpITExCTGVqV19XQU5Ja0Nuc1NJWHhET3B3Z3NUUUdlbm4zeXdpc2NwR1psX1JWM1dNZTF3dWpwYnltbm1NV0VjVjRfYmE4Y3dwTEFuU3ZaN2hOX3BVV3UxZ2Z1bUhBUVMwVFdQd2I1endCQnhWZ0NwdGhnaGIzbGhKN1FSVTU3SzlyaUpBNXFMR3RWcDBVRHc?oc=5",
+      "d": 1793661966000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
