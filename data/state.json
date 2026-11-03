@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DedYvMUk-Dz": 1792490149646,
-    "threads:Detiy7Lkz0H": 1792490149646,
-    "threads:DetinuVE2xp": 1792490149646,
-    "threads:DetidaZE2Lj": 1792490149646,
-    "threads:DetjqxyG5DD": 1792490149646,
-    "threads:DesrTlHk1xx": 1792490149646,
-    "threads:DetI5cEgRxS": 1792490149646,
-    "threads:DetjokRj6p1": 1792490149646,
-    "threads:DetjZK_j3mw": 1792490149646,
-    "threads:DetjRDmE2ak": 1792490149646,
-    "threads:DetjAVOH3Vc": 1792490149646,
-    "news:CBMilgFBVV95cUxNakpTUGFzM3RTam1Yay1iYmhob3FKY3VNT1k5OUpLUktaTjhkMXh6YlRoUDdBdVp4dEVTMmxWT2hDcUwxck5yZUZLcWlVZVNfZ2o5aEVTb1djUEczUkpjYWxWampEZ2ZIOGdIbG83TEQ3b0Jnajk1Sk95U3A0LUR4MHo4SnNrQ25BX193OEdyRkxjc1paSFE": 1792490149646,
-    "news:CBMirgFBVV95cUxNODV4VTFnOENvTkhpLXJUcnlMd1JNNnRqbVJUUGNvT0hiZzduT2ItaUFiaWJjTlJvNF9LVVBoQTl1bEZlUldya3ZaYlQ2VWUxeFZYaGpncjV1eS10Zmo5aXRTR1VubFZiOFdZV2pDQURJaERfb0lTcjZtLUF4RFpUV1J6SGFDQW1OZ0pCYmNRd3Q5TkZjdmktMWRvbVR4SWZHU01OSEJ0bGZkLU1TTnfSAbMBQVVfeXFMTi1HbU9LTFZfbURVMEp5aXpieU0yN25JQU5kdmFSVkFSbEJ2bHNfSWZ5RXp0a1JYYmM2R3B5bWNvVUJZUEVlMmNOTVAyY3dPV1Jlek00bXVwLUd2R3ItS1JRZVlNLW9QX18zd2t3VzVfa1FEUldocm5TdlNlX1lPN1I5dnRyOEZrangwZlpGYWRxbVduQ1E2Z1BLejlqSTNId2toc2JVd3JqNF9PV0tMNF9SNjA": 1792490149646,
     "threads:DetNQkIESil": 1792490456251,
     "threads:DetjxkJD_Ld": 1792490456251,
     "news:CBMiuAFBVV95cUxNVW45MklZM2gwNzlERmM0SnJBS0RtbEZ5dzBnay05Z1NiTlZZR19zbHQ2aVVaN0ZFR3RFUXl0SEhSS3ZLMFJFTEhNOE5pTllYaW1xZ3VWZkZhQktrek50cWtUTzRGMzd3al9lSTZ3ZDlyZm14YUZKVGdkckZrT3lwcXhCNHNrVU9GcnpEc0pLSjdORVM1Z25xUlowVkNnU3VrT3VTdExnWGhyLWpPVzA0SzJFSUJCaGNT0gG4AUFVX3lxTE1VbjkySVkzaDA3OURGYzRKckFLRG1sRnl3MGdrLTlnU2JOVllHX3NsdDZpVVo3RkVHdEVReXRISFJLdkswUkVMSE04TmlOWVhpbXFndVZmRmFCS2t6TnRxa1RPNEYzN3dqX2VJNndkOXJmbXhhRkpUZ2RyRmtPeXBxeEI0c2tVT0ZyekRzSktKN05FUzVnbnFSWjBWQ2dTdWtPdVN0TGdYaHItak9XMDRLMkVJQkJoY1M": 1792490456251,
@@ -27568,19 +27555,22 @@
     "news:CBMiwAFBVV95cUxOQXQzMG5Jbm95SWE0eDdRODdpYVJjbThrRlY4X2tUMG5aT3dEZGdLX3JteWN4cHJsaDNRclh6aEJKLUJDYWstVng2eWZkTUpCaGFwQ2Y1RC1oRDYwaEt5RnBoUThfRXQzMzJuTm80YV8wTWRtaUl4eE5JOWE5TXMwejdkOGZzSzJzNE4xVDlDRC1aLTBUcjJwTHFwNEVLWmRYOEliZV8tSmdTZFFFVWY2TEtUZjhDNi1FbnBzUzRnZkXSAccBQVVfeXFMUDU5dVZtMGUwV1VBRlhhMnlUbWZNYnR3OXlSTjRUOTVJc3IzVEhXNmFiX3M1ZDA5RFNZaEhhZFRXb0dKTW1CNkhWNWZwc05EUEgxRnNlSThYY3ZiWGk1SWpDaVhMcUNUNHhqa2poUkNoYWVod0VUdHk5VFBQbmEtWEY5SUdQZTJGUjNOaWk4QWFDd2ROYnFENF83c1dOeVFVbGg2X0NZeGRmR3hwb3BGbkM2b3poZ1MzcmZ0VDhBR3JVN3B5OUoxbw": 1793699147786,
     "threads:DfRlZjLDOSX": 1793699447917,
     "news:CBMivAFBVV95cUxOVnBEYVhlMll6UVFPX3lLYzQtdnRCUU1kcFFxM0VMRTMzN05scWJUODE2LXdCSjJMLVpUTGJ1QWg2QXlld3l1VDZrSW1JU3pmRzU4QlViS2JzbnJJVDdoenYyczEyWHZzYkFkakNBR1VCVTZjVF9BdGZMZTJPdWstZE5ZVHFiVll2XzlpNnllWm5DZjNNSzh4RlNlY3hJeU44emd0UkNsMDl6T2FEeW9RbDhaY05rN1JRWHlzMNIBvAFBVV95cUxOVnBEYVhlMll6UVFPX3lLYzQtdnRCUU1kcFFxM0VMRTMzN05scWJUODE2LXdCSjJMLVpUTGJ1QWg2QXlld3l1VDZrSW1JU3pmRzU4QlViS2JzbnJJVDdoenYyczEyWHZzYkFkakNBR1VCVTZjVF9BdGZMZTJPdWstZE5ZVHFiVll2XzlpNnllWm5DZjNNSzh4RlNlY3hJeU44emd0UkNsMDl6T2FEeW9RbDhaY05rN1JRWHlzMA": 1793699447917,
-    "news:CBMiowFBVV95cUxNN1l1NU9zNDlzNW5ybEFBQU0tWlBxNVM5WkN3Z2JCbEhnUlRPOVhnZ3p6V0hxVHdpaGItVEpVZ1kyNHRkcnp0QW5LcXBkUW43QlE4SC1lM1FURzJ0LUtkQVhaQXpJZm5zeWhNMlB3a3c4RGc0WDZoUWY0TlBjMlRReE5NNFJhR2FWRFNaRUlLbm1ncEtNbXpVTmF2TG45c0RFUE1N0gGjAUFVX3lxTE03WXU1T3M0OXM1bnJsQUFBTS1aUHE1UzlaQ3dnYkJsSGdSVE85WGdnenpXSHFUd2loYi1USlVnWTI0dGRyenRBbktxcGRRbjdCUThILWUzUVRHMnQtS2RBWFpBeklmbnN5aE0yUHdrdzhEZzRYNmhRZjROUGMyVFF4Tk00UmFHYVZEU1pFSUtubWdwS01telVOYXZMbjlzREVQTU0": 1793699447917
+    "news:CBMiowFBVV95cUxNN1l1NU9zNDlzNW5ybEFBQU0tWlBxNVM5WkN3Z2JCbEhnUlRPOVhnZ3p6V0hxVHdpaGItVEpVZ1kyNHRkcnp0QW5LcXBkUW43QlE4SC1lM1FURzJ0LUtkQVhaQXpJZm5zeWhNMlB3a3c4RGc0WDZoUWY0TlBjMlRReE5NNFJhR2FWRFNaRUlLbm1ncEtNbXpVTmF2TG45c0RFUE1N0gGjAUFVX3lxTE03WXU1T3M0OXM1bnJsQUFBTS1aUHE1UzlaQ3dnYkJsSGdSVE85WGdnenpXSHFUd2loYi1USlVnWTI0dGRyenRBbktxcGRRbjdCUThILWUzUVRHMnQtS2RBWFpBeklmbnN5aE0yUHdrdzhEZzRYNmhRZjROUGMyVFF4Tk00UmFHYVZEU1pFSUtubWdwS01telVOYXZMbjlzREVQTU0": 1793699447917,
+    "threads:DfRm3kEEnSi": 1793699744837,
+    "threads:DfRm607GuXd": 1793699744837,
+    "threads:DfRmmChiRen": 1793699744837,
+    "threads:DfRmjpiEthA": 1793699744837,
+    "threads:DfRmgtwE2IH": 1793699744837,
+    "threads:DfRma3jE228": 1793699744837,
+    "threads:DfRmtjqFJhG": 1793699744837,
+    "threads:DfRmrNRFOGz": 1793699744837,
+    "threads:DfRmo1ZlAKd": 1793699744837,
+    "threads:DfRmcO9FBpM": 1793699744837,
+    "threads:DfRmfcOETqD": 1793699744837,
+    "threads:DfRm9NnE2aP": 1793699744837,
+    "reddit:t3_1xmor5n": 1793699744837
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Radar Cirebon Televisi",
-      "x": "Syarat Ikut Uji Emisi Gratis di Depok 5 November, Ada Kuota 200 Kendaraan - Radar Cirebon Televisi",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFpJRzRzWmFSOWcweGFHM2tlaEp6X2VzRDFmSmlUT2tIR25qM2lpYkFCTUk4SWtvUnpDSVpoRkdveXUwWUtjeWNET1NVS2dkWkptcHEwVUVzZjNRQkRweGc3MXJJRnk3eE01Zkd6a2gwbGw2bXoxX3BLbHlpaUNXeHF6cjF6cWpaaG5JOVVjSDFlSHF5aHhta3ZjYjlWZjVRT0dfVjY4NkJWbHBTS3o3NFRn?oc=5",
-      "d": 1793693716000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29070,10 +29060,20 @@
       "d": 1793693289000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@leniikarlina",
+      "x": "Ka aku tinggal dikampung, sekolah negeri sekarang gratis, ada program pkh, ada mbg, lalu setelah lulus untuk desil 1-3 dapat pelatihan kerja bisa langsung kerja.",
+      "u": "https://www.threads.com/@leniikarlina/post/DfRm9NnE2aP",
+      "d": 1793699724000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
