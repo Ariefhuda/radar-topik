@@ -27907,19 +27907,11 @@
     "threads:Dc3d_oQkhOT": 1793738448005,
     "threads:DfSwzABk5-b": 1793738448005,
     "threads:DeB60vomSBq": 1793738448005,
-    "news:CBMiqAFBVV95cUxQNTFTdWRRWFJEVWFrVVZxNW0xZ1R6cFZiR01qOTJlNDhMczQ0MnhjQTNiUlVxV1J5RWZ6UjNYbm0xM0NCOW9KUzJKbi1KcFFPWllzRWt2TDBrXzl4emhhQ2VGSTNxSnlzVjlXSnlSekM0ZmkyTHNGbkFOSGxRbGhSUDhpaS1FUkUtdkRkYnJMMkNGRzlFcFNGUVdMRW93eU5nNklDNkl4MlHSAaMBQVVfeXFMTTdZdTVPczQ5czVucmxBQUFNLVpQcTVTOVpDd2diQmxIZ1JUTzlYZ2d6eldIcVR3aWhiLVRKVWdZMjR0ZHJ6dEFuS3FwZFFuN0JROEgtZTNRVEcydC1LZEFYWkF6SWZuc3loTTJQd2t3OERnNFg2aFFmNE5QYzJUUXhOTTRSYUdhVkRTWkVJS25tZ3BLTW16VU5hdkxuOXNERVBNTQ": 1793738448005
+    "news:CBMiqAFBVV95cUxQNTFTdWRRWFJEVWFrVVZxNW0xZ1R6cFZiR01qOTJlNDhMczQ0MnhjQTNiUlVxV1J5RWZ6UjNYbm0xM0NCOW9KUzJKbi1KcFFPWllzRWt2TDBrXzl4emhhQ2VGSTNxSnlzVjlXSnlSekM0ZmkyTHNGbkFOSGxRbGhSUDhpaS1FUkUtdkRkYnJMMkNGRzlFcFNGUVdMRW93eU5nNklDNkl4MlHSAaMBQVVfeXFMTTdZdTVPczQ5czVucmxBQUFNLVpQcTVTOVpDd2diQmxIZ1JUTzlYZ2d6eldIcVR3aWhiLVRKVWdZMjR0ZHJ6dEFuS3FwZFFuN0JROEgtZTNRVEcydC1LZEFYWkF6SWZuc3loTTJQd2t3OERnNFg2aFFmNE5QYzJUUXhOTTRSYUdhVkRTWkVJS25tZ3BLTW16VU5hdkxuOXNERVBNTQ": 1793738448005,
+    "threads:Dbp38NQjzrQ": 1793738749813,
+    "news:CBMiwAFBVV95cUxPLTdsZnF5bWphS0VVTFFNR0U4dWxjcXgzRzRYLUE3dTJ6TzcyS2JvUEZMWmRzcGRKT29wejNMVmxwYVU2T1Nsdl9lMEMtSkpWT3FSaFJVdjczbUhvZTNqMkhiMDFub1RFUnJyRGJ3bzlZczRjd3BsUkdlN3VOWDROX1FRN2szZVlzSUtyX3h1SU5YRnlqYXJWbC0tWlRDQ0ttTldaQkZlYmtjaVhHaUpiZ1ZHZ0F0a2ZZVHN6OGQ5Vkw": 1793738749813
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@silalahisibarani",
-      "x": "Cuma mengingatkan 5 bansos cair bulan November - Pkh dan Bpnt tahap 4 - Pkh dan Bpnt tahap 3 kks baru - BLT dana desa 300 - 900 - Bantuan BSU - Beras 30kg Penerima bantuan reguler ",
-      "u": "https://www.threads.com/@silalahisibarani/post/DfR_1GnHfJM",
-      "d": 1793712765000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29409,10 +29401,20 @@
       "d": 1793693100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "BUALBUAL.com",
+      "x": "Warga Riau Bisa Cek Kesehatan Gratis! Dinkes Umumkan Jadwal dan Beragam Layanan November - BUALBUAL.com",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTdsZnF5bWphS0VVTFFNR0U4dWxjcXgzRzRYLUE3dTJ6TzcyS2JvUEZMWmRzcGRKT29wejNMVmxwYVU2T1Nsdl9lMEMtSkpWT3FSaFJVdjczbUhvZTNqMkhiMDFub1RFUnJyRGJ3bzlZczRjd3BsUkdlN3VOWDROX1FRN2szZVlzSUtyX3h1SU5YRnlqYXJWbC0tWlRDQ0ttTldaQkZlYmtjaVhHaUpiZ1ZHZ0F0a2ZZVHN6OGQ5Vkw?oc=5",
+      "d": 1793737769000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
