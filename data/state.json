@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DegqlBdic_1": 1792532755265,
     "threads:Deu1idzjouQ": 1792533038658,
     "threads:Deu1pD4jRj3": 1792533336926,
     "threads:Deu1lbJEb1g": 1792533336926,
@@ -27936,29 +27935,14 @@
     "news:CBMivwFBVV95cUxNb25RRmk3dVlyZ0h5REVJVGR6Rm9CeDVhNnV2a3luQmJWZ291Mlo3TjZKYkgta2xsV1hScmtrQzRfeXBxTEZZWXVzMHRiU1FoVFRrTzFvVzNkbk1SUHYydmdGWl91UUdEMjlpSjlmZ0xGenVQLUNXVGV1UFk1NEl3Y005SFBkSzZUUXJtTDRRRGxvZERzdWtlR19iTl9jSmVEVlQ2ZUY4V3BUNG1LdFFyX191UjV4TDQ4U3F4Y0Vmcw": 1793741465569,
     "threads:DfS3bOxAICM": 1793742054508,
     "threads:DfS3w4qAfMS": 1793742054508,
-    "threads:DfS2qAjEhJ-": 1793742054508
+    "threads:DfS2qAjEhJ-": 1793742054508,
+    "threads:DfS3j3GDkKd": 1793742347665,
+    "threads:DfS2xPZgcgN": 1793742347665,
+    "threads:DYUNQ7FCMLy": 1793742347665,
+    "threads:DfRudSGj50W": 1793742347665,
+    "threads:DfS3VO6kyDb": 1793742347665
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yuditirawan14",
-      "x": "Wah cocok banget kak! 😁 Pengalaman marketing otomotif bisa jadi modal untuk mengembangkan skill digital marketing. Kebetulan tanggal 13 ada webinar gratis Mahir Digital. Kakak bis",
-      "u": "https://www.threads.com/@yuditirawan14/post/DfSAX79k3LW",
-      "d": 1793713051000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yuditirawan14",
-      "x": "Wah, berarti tinggal memperkuat strategi konten dan marketing-nya nih kak 😊 Kebetulan tanggal 13 aku mau mengadakan webinar gratis Mahir Digital tentang digital marketing. Bisa be",
-      "u": "https://www.threads.com/@yuditirawan14/post/DfSATUck7h1",
-      "d": 1793713013000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29438,10 +29422,30 @@
       "d": 1793740869000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@luthfinuruul",
+      "x": "Info Penting Untuk Seluruh Guru Di Bandung Raya ‼️ Dibuka Pendaftaran Untuk Seminar Pendidikan STEM bersama Dosen sekaligus Ketua STEM Center UPI Biaya Pendaftaran : GRATIS Terbuka",
+      "u": "https://www.threads.com/@luthfinuruul/post/DfRudSGj50W",
+      "d": 1793703657000,
+      "urgent": true,
+      "warn": true
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kpop.yumm",
+      "x": "Yuk kak sama aku 🫶 Cek utasku yg disematkan ya, itu biasanya jd day 1 buat murid regulerku Kelas gratis tp materinya daging pol Aku banyak megang amanah para orangtua, anak2 yg be",
+      "u": "https://www.threads.com/@kpop.yumm/post/DfS3VO6kyDb",
+      "d": 1793741864000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
