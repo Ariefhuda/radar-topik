@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuIa6MlK6Q": 1792509646705,
-    "threads:DeuH5uzGIgJ": 1792509646705,
-    "threads:DeuHlPUksFF": 1792509646705,
-    "news:CBMi2gFBVV95cUxNeGR0X2szZ3FaQXZ5cjFOeC1zQ1l3Y24wMjFmVWNER0NzcmdwX2NPTjJ2Y0gzX2E2UVBhajBiaTJWeTNtcWM1MXNKcnFDcVpGem8tNmNlLXJ3MDI4dzIzUWxfalRpYXd4Z29wRXZLSnIyRVl0d0I3YUNFbDNOazNzVkZJNVVRNENQc1hFOEFWN0lFdVEyZDdDV1BlRGJXbGFuWHhQQURsOGN3SUxEOXNFZVlyTEhIdElBdVRKclc0VVYxSG1jWm1OakluQU1WSVA0SzloRkQ2Zk0xZ9IBzAFBVV95cUxQZWZkSUNtcVZVOE53Mm4tT0Zpd3otX3VnLWJlblhKcW5HMXB5UWh1YVJHcHlUUXJNSGF4cUd0WUdHWC1JTDhkQzFzTGYtVTFIWUNzendfbU9Lem1naEJJTVRFcW9LZFU5bmNNSTlhWFdnVXMzeG5ETndFVHZDUEIxSnR1YUQxWVhDRjQ5YjZLNGhsWTRSWk5hcG9BM0VzWjFVbTNfY1BLWlVyS253bkhEWDlOR1Z4SmF0bnNPV213c2ItLXdJX1FRWHBNNVI": 1792509646705,
-    "news:CBMi9AFBVV95cUxQOXp6QmZWUnF0bkNfQklWczZ2cTJhbldMeEtuMVJxVDM1SVNaVzFLUno2bmpYX3hUX3FKT1VEV05aZFUzT3IybE5CS2FfRHdTWDNjbWJwTnNJemtmQ1dwX1N3bnlleGl6enN4dXRyOXlnbUdVNGhwSnZtYUEyaERiMG9WbkQ1QkxOaUZtUDBtY3FlSlptSHhaOU02RmRVd3lLTlNaT3F5RzQ5WFVuTnQ5MUIwLTFOQ3gtd0wxaTczZjk2aWk5SDRaalFwemFCam95VU9Bc3JCV00zU1VMbkhCd3J1M1p6ZjVpc1Y2SVdTRFM5Wl9Q0gH6AUFVX3lxTE1FelBER0t4X2pWZGxKbzlzSFRJc0F0NkdfZVJGSEZLTXBzaHktVW1xRkJzRjJ1QjJ1SzA5VzlJSVV0bE1fR3Jma0J6YVdpLXc4c0RiQTlQRFhYTHpyZjNKc05sN3dOSGZQd0ZlZDZBQTBDQkJfQXRYQUZLSE9jdzgxYzZLZEYxRmsxd2hucGxHSy14dGhRYmxuNndNcXpfMm4wMWdRUnlVeXMtUF9EUEFUdlgweU5MYTFBMlN0czdGdVY3VDdUWkVGX3hmS25QcDRtVFhNYkFZX1pTcWVpdEhhZ2c2T1kwaHVSaExiZlBPQ2R4eVp3WmpGX3c": 1792509646705,
-    "news:CBMimwFBVV95cUxPT2hKTFRhS2habjI5VFdBUlg0ZlZpcTE2N0xNREEzYmpYMkJrR19DaG50ZjdSRkl2Y1V6eWRYQlpUYVFJV3NQLTByMHVYQVFuamtxYzJVRVV5Y1dPTlp0WENLRHhXTVhhSC1CdGFRNFNld2RCcVZJQ1E2dndLdTh1Ui1rZlgtYXZtS3JJeElIWi0zNUYyQXN3SGg2QQ": 1792509646705,
     "news:CBMinwFBVV95cUxQU3h3VnhmSHFlRF9WWHlwQk9WR3NXX1RfQjZKU2swZEpCVHNuU3puTWpPNGZ4azBlVGs1UXhYZ0FmTWdHZkVJVEhtZ3FvMzhpRWxhdi1yaDAySWZhRWcwSkxiRXh1N09zcmpnOXl1OHRFWkZVQnhpM1A1Qy01NWVVZnJMRTZVRllEd2VaTC1PU25TMmtmNWxlT3dzU3ZCX1k": 1792509939477,
     "news:CBMivAFBVV95cUxPUTY2ZTBkVmtuU0lVd0J3ZXgzODlpNGtuUkFkWVJERE9YRFZkVEFzZmhreUZ0Y0l1NVA1LTdpSHZPbVcyR1J5dS1ZcXZLNmVDS0VaLVF2OWJnaFV5bXFvSGdQMkY2RmNFYTQ4VGlOM2h6b1FHMm1BNmkxTkc0VnRfNWNsekpCczRKbFJTUnV5TGQtMW4tMWU3dUxNNFo0V1dhcWpFWi1uNUp4aDBoSkFHVU5NbTZJVXF3WC1fQdIBwgFBVV95cUxOd2o3X2h1aUEwSExqVUROcjhscTNkbnRQNFowT2dTRGpYMC1DbV8xZXBieVBkU2d2NEEzOHFZNzZUUzg2X2duV1JaUjNHdEpyV1ZTRG93bGN2eFRfY3E4d1gwd0VTdGp5cVJ5Q3dhMFM2Qm9jZkV2VkkwNlZKYWdVYTBVT1dxc2E2eFZGczl4OVpRXzVucVdGNFFGSXJoeloxWUhRS2txZ1RybTFoVXkwY09UY3d5ZURob1FzZWRrYlZFdw": 1792509939477,
     "news:CBMisgFBVV95cUxPd3dzSnFYcXdVSjlHMWtTNFJSNk1ibnEzMnF2LWFVLTh5RU0yRUxnLTUwTEZlaU1RSDJLczY0M0Y4MDBja3BjekpfYnZiYklHcG11UkFiV21nLXFmS0JHcExGSTYwNEpPQ2ZPTnVvdVF5c0VrTUU0Q19iT245Y0JFSXA5U18zanJydVFlWEtqVTlieXo4VGtJcmxwV09RRk5JZC0xN3R1cWFMeWhrT1MwOV930gG3AUFVX3lxTFBrRDRqbkpWRHBNWE5rX2pla1JKbFRyZ1NyN0N6Y0JXMUhZVy1EbGFwUTczUWQ2dXhmTVhKT19ldEIySWEzUDZjZzVib3ZGSE1TRGZLaFJhQmttQ2plYzlURVZobVNmWnBXbHI1V1VOYmY1aWhObEJRQkdRY2RwSE5oeURpclhDWS1iNXBST0hNVWdVLWlwcjlpeUt3aXJPQVh4c1AzTHdfTGZCOHZVVHBObk15bUh6OA": 1792509939477,
@@ -27687,49 +27681,21 @@
     "news:CBMitgFBVV95cUxQNk9Kd0RINHpwUURveVQ3UG1zazBjRmNINGtrQy1xRk5MLV9nZXFzbU14UE5NSDRLc0U1dUVxd1F0R1N2QmZQMXJnT0ZuSjZ3TTYtSTM0ZkNicGVyZC1MbzlTckFXVmJ3U0l3bGRfc3BjaTBUNlE3SHo3NDNpYkVQcHNTYXdwTUV3NmdtNC12OFJZSThCVk1YeWdMbEtfNUxLaEhDZ0dTeThQU0R4Q1JfUmNpVjZmZw": 1793718646730,
     "news:CBMikwFBVV95cUxPS3gxOWt3emZTMHN2QU9TOElyVGZvZWp4eGRxaUp4X3dWRGgyRkJickdqbEpsVzNKUzJSTFpaU2REQmZqeWNXMm1KLVNmWkdyM01BdThWSHI0UkJjN3dVRTBQZUVyUDNUdTZSQUozc2pZYUF0amNjRXczV09fbFpQQUtmMjZkR1VYYXV0Q1VLVU9kNFE": 1793718646730,
     "news:CBMipgFBVV95cUxPeEk2SndpRTIwVTlnQ1NtSXVnWkNyX1BHdHBNZ1FObF9zeEpmY3Ixb00yR3Nad3RlY2NVYTZrOHcxZllGTXltQk1ESmhrUmxOVmpDa0dIallxaHNtOUVGX2NXZm50dVN3c0EzSWlTb2w3VXI5NU84QUVMTFphenNFbW5McEJGcENIUlIySDBRbVRyblJJN2xNSmdMRHB3OS05SGNuejhR": 1793718646730,
-    "news:CBMi3wFBVV95cUxQLWEyS01uSWpUMmZUaUFGTzl4bjAwT29DUjNXNmQ3Tk1RSUFjanZaRGxuaVNOc2F4cFdqMlNRbVo4NFp6UG9hWkV0RTZFXzlXOWVKZmpaYXVmMWpNVk1lTk1TLTFIb25TZ2xNb3JmYjFDOVRtR2JMbGFtWmlTcGtwUk44Y0hzclZnRE13ZnZ2b0tMR2VoMzYxczVxWDRHXy1pZlBZS1dDMnlyWDJKV1JiUTN1ZDlmMmNMQnFOd0RVa0FwalF3OG94cXlsTktmQWkya1g5YmVJd1NXVzNuWnJv": 1793718955757
+    "news:CBMi3wFBVV95cUxQLWEyS01uSWpUMmZUaUFGTzl4bjAwT29DUjNXNmQ3Tk1RSUFjanZaRGxuaVNOc2F4cFdqMlNRbVo4NFp6UG9hWkV0RTZFXzlXOWVKZmpaYXVmMWpNVk1lTk1TLTFIb25TZ2xNb3JmYjFDOVRtR2JMbGFtWmlTcGtwUk44Y0hzclZnRE13ZnZ2b0tMR2VoMzYxczVxWDRHXy1pZlBZS1dDMnlyWDJKV1JiUTN1ZDlmMmNMQnFOd0RVa0FwalF3OG94cXlsTktmQWkya1g5YmVJd1NXVzNuWnJv": 1793718955757,
+    "threads:DfSMHlqgzuh": 1793719255138,
+    "threads:DfSLxLPDelZ": 1793719255138,
+    "threads:DfSLdKslb8x": 1793719255138,
+    "threads:DfSLM7DFNPy": 1793719255138,
+    "threads:DfR5h1CGw4Y": 1793719255138,
+    "threads:DfR-rcLmw_f": 1793719255138,
+    "threads:DfSLDSkjhyE": 1793719255138,
+    "threads:DfSMOdbEat1": 1793719255138,
+    "threads:DfSL5BWEsop": 1793719255138,
+    "news:CBMi4wFBVV95cUxNbThyMi1YdExpdllCdE5TLUZKT3gwOFBkS1FnOEtTRE5XSkJXMzgtVUVzUlZvTmhOUW81V1Q1RDBBRzZ5NGtJRlFNT0p1Z0NPV3NaSGd0bS13dHV5R0tqWFY2blhpMmQxLVJYTFRHWjM5b09YZy1CdFA1RlJORGx1Smc2anZmcEVPX0Z4NG5NU0VKVTRnZ2c3cEpsTV9lZjk5UFFxR3pSUVAxSlYxa0tnbTgtQ1dyU3RKbC1CbVpHOXVVZmZPcEtKeVMtZHdvOERNSjVZd3dSMkQ1RFA3UnFSVHRGdw": 1793719255138,
+    "news:CBMiqgFBVV95cUxPTU50TURXVXg0M0FMVXVBQnY3WkxObmNxMnpzMGtLS2ZVYlZpWW1CeVhjeC1Oc2pmM2FuX0ZlQ29QbE5ZaVZfa3RqYzZwYVlYMkRoeG44cTkxVGY3T1hjRHBZbTZiMUEtRXQ2eUlyMTZkMkk1bEZPRXRRNlozeEozUGd0ZXk2aGFnM19ld0xBdXluUGR6bG00bjhESENadWdXck01bmM2TkJzUdIBrwFBVV95cUxNSGlydTFyMjNuVUZ5VDNjQTVaQS11cXFPUTQ5eE00Y0JLZHVZSXJ3MnltQjh5QjRwdEhubnhVaVhSRGxFbldXcUM4S2hQOGtrYm5Od2RVdlA5TDB5WEN3YkZQUnU0NnVJOFU5VUdZWFo3aU5jUW1ZLVJyYkJ6akNEdktKOW5xZFBEY25VYjRlMTMyeWMtZ1hBeHJFQjlYUmtla0UzYWdsYU9vM3g4QWRz": 1793719255138,
+    "news:CBMi4AFBVV95cUxNcnhhcGM0bnk0SFlJd2VkTlZrUFFTWU1UeV82VFhIbHVyc25qd1ZOR3hBa1pHcTJJZTk2RFRad2tnT29aVW41TWtBb3NGZ0VtcGNQM3JJN2RiVVNIQTY4ZThnU3NSclRxNEdpSnY4RUtwVlJCVEtXSzUtNEFpRmhJQl9acS1QTElRTDljakl4M3l3VkU4NTE3R1p3bU00U24xRERYc0tBcHNpQkY4WXBvTUZUdmJTUzd3ajRZNFlfeXRLTFFZRklldUVUTWxudHBraktlb1dwbEM0b2xOV3laONIB5gFBVV95cUxNVXFoSHBUaGVhaHRRNVJMSkJnUFdKY2hManRhZXVDT3ZZa3d1RXYzMldFc0ZXZDhKZjRhUnpmNGYtNU1zU0xXTmZRTG1QamsyZUdMdGloMHJOamg2NnF1aVFkVWNuS18yQmg4RG1ZQ1gyZFNBOEkxZE9mTFhHZ2dPQUVkcnhZU3JkQnVscEhvdy10MnNnUFgxbDNMV3p6OUtKLTNPdVVEVWpOb3FFX0RubVk3YlJyMDR1WnZLaDNRVEY0U1VRUGphNkUxR1pQT1RFUHFfRUFKbjFzUEFfbjZKLWhDeW94dw": 1793719255138
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfR5aZ8n4tj",
-      "d": 1793709401000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ekocuan1",
-      "x": "Webinar gratis EkoCuan memang bisa diikuti tanpa bayar. Tapi kalau rasa malas bisa ikut gratis juga, mungkin admin sudah punya banyak sertifikat 😂 https://akses.zoomdaging.co/aff/",
-      "u": "https://www.threads.com/@ekocuan1/post/DfR4p1nDRlX",
-      "d": 1793709003000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bp3mi_riau",
-      "x": "Ikut program SMK GO Global aja bisa dapat pelatihan gratis, sertifikasi, akomodasi sampai kesempatan job matching dengan user luar negeri lamgsung. Nantikan oembukaan batch selanju",
-      "u": "https://www.threads.com/@bp3mi_riau/post/DfR49mRk-ex",
-      "d": 1793709165000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bp3mi_riau",
-      "x": "Ikut program SMK GO Global aja bisa dapat pelatihan gratis, sertifikasi, akomodasi sampai kesempatan job matching dengan user luar negeri lamgsung. Nantikan oembukaan batch selanju",
-      "u": "https://www.threads.com/@bp3mi_riau/post/DfR48uSE2h1",
-      "d": 1793709158000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29189,10 +29155,50 @@
       "d": 1793689773000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@abits.me",
+      "x": "Kiri video mentahnya, kanan hasil editnya. Semua editan ini dikerjain Claude, gue cuma ngarahin. Teks yang muncul per kata pas diomongin, motion graphic, sound effect, sampai mixin",
+      "u": "https://www.threads.com/@abits.me/post/DfSMOdbEat1",
+      "d": 1793719266000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@plstineale_",
+      "x": "Halo! Aku ale, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Excel",
+      "u": "https://www.threads.com/@plstineale_/post/DfSL5BWEsop",
+      "d": 1793719089000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Olenka",
+      "x": "JEC Gelar Seminar Vision of A Champion, Dorong Perhatian pada Kesehatan Mata Pesepak Bola - Olenka",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTU50TURXVXg0M0FMVXVBQnY3WkxObmNxMnpzMGtLS2ZVYlZpWW1CeVhjeC1Oc2pmM2FuX0ZlQ29QbE5ZaVZfa3RqYzZwYVlYMkRoeG44cTkxVGY3T1hjRHBZbTZiMUEtRXQ2eUlyMTZkMkk1bEZPRXRRNlozeEozUGd0ZXk2aGFnM19ld0xBdXluUGR6bG00bjhESENadWdXck01bmM2TkJzUdIBrwFBVV95cUxNSGlydTFyMjNuVUZ5VDNjQTVaQS11cXFPUTQ5eE00Y0JLZHVZSXJ3MnltQjh5QjRwdEhubnhVaVhSRGxFbldXcUM4S2hQOGtrYm5Od2RVdlA5TDB5WEN3YkZQUnU0NnVJOFU5VUdZWFo3aU5jUW1ZLVJyYkJ6akNEdktKOW5xZFBEY25VYjRlMTMyeWMtZ1hBeHJFQjlYUmtla0UzYWdsYU9vM3g4QWRz?oc=5",
+      "d": 1793690790000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Riau Pos",
+      "x": "Pengadaan Seragam Gratis SMPN Se-Rohul Dikawal Kejari dan Inspektorat, Ini Penjelasan Kadisdikpora - Riau Pos",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnhhcGM0bnk0SFlJd2VkTlZrUFFTWU1UeV82VFhIbHVyc25qd1ZOR3hBa1pHcTJJZTk2RFRad2tnT29aVW41TWtBb3NGZ0VtcGNQM3JJN2RiVVNIQTY4ZThnU3NSclRxNEdpSnY4RUtwVlJCVEtXSzUtNEFpRmhJQl9acS1QTElRTDljakl4M3l3VkU4NTE3R1p3bU00U24xRERYc0tBcHNpQkY4WXBvTUZUdmJTUzd3ajRZNFlfeXRLTFFZRklldUVUTWxudHBraktlb1dwbEM0b2xOV3laONIB5gFBVV95cUxNVXFoSHBUaGVhaHRRNVJMSkJnUFdKY2hManRhZXVDT3ZZa3d1RXYzMldFc0ZXZDhKZjRhUnpmNGYtNU1zU0xXTmZRTG1QamsyZUdMdGloMHJOamg2NnF1aVFkVWNuS18yQmg4RG1ZQ1gyZFNBOEkxZE9mTFhHZ2dPQUVkcnhZU3JkQnVscEhvdy10MnNnUFgxbDNMV3p6OUtKLTNPdVVEVWpOb3FFX0RubVk3YlJyMDR1WnZLaDNRVEY0U1VRUGphNkUxR1pQT1RFUHFfRUFKbjFzUEFfbjZKLWhDeW94dw?oc=5",
+      "d": 1793718181000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
