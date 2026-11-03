@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiwwFBVV95cUxON2xlYkJDdk5CV05hT1FDWW51SVJPT2tNQjhHTmV6NkNfS1JPXzJ3amlGelQtbXh6QU4wbjJzMXMyWlU3SFRDTVNTbk1mcVh1WFprdWJBSHE1eWg2cm1yd2dVUnpldXlHMGxsenppTkd1dzVHSkQwS3BoOGxrOGhab2EzR2VscF9LVm16eUFNOGlBd0w5N0RPUlp5RWx2Q1prdFdJaDUwaHpXNzlHT2Z1YjNJZ3o3M2JnWDZqQkNEZzJYcEU": 1792476938061,
-    "news:CBMihAFBVV95cUxOamxDM1dneDR4TFFYZVZ0Y0w3WFNqRGdnZ2Y2NFh5YVZZYUZ3eklqSmR3YU9iZkxsSU4wdmtGVEN5ZEgwc2czdExVSDdkam5oUDBIdjVHTm5EM3hvSUNZbl9Wdl9RR0YwSG9Zd0xXUkRXaVh2U1ZCckx2VTdRWmVlVkFka04": 1792476938061,
-    "news:CBMiuwFBVV95cUxPWDNrWF9WNVV1Y3hNM3ZJaFpGWEJIdFdRNm9uWFFST0h1R1dSd2hXOEVMcjg0N09oN2dvV2JWTHNuVEdGaUVDN05ZTkZBMHB2a1YtLVRkTmJIVnlDdTRYalc2Q2Z1YU5NUzl6T1c2LVNxNVgxUFZTQWpZcE5nNUxDWlNuNVliR3Y0WU1WRmI0WnNncEdlODFVcW1ialpEa2hYX0wzRTVLUHlVcHRJdFR2UzNveHV3bklENEgw": 1792476938061,
-    "news:CBMikwFBVV95cUxPbVdZNlJKb3p2cjhIX21BRFU4Z1NmWWc5Z1p4aERkR3hjblZNZFVfSGZwbGVycDZSelhUeC1VTmt3ZmR3V0lZUUpCRXFjQWhYdENqM3NSTnZGeEhfVWx3NmVkUGpHV1JrOWFxMkNaNVBtYnRrcmd2dVBYNXNtSjZ3SDJtbWx2a21SRWRiUkhHOUh6ckk": 1792476938061,
     "threads:Dd_PwjME1Qo": 1792477242463,
     "threads:DetKWSaklHW": 1792477242463,
     "threads:DetLD4jimPw": 1792477242463,
@@ -27475,29 +27471,17 @@
     "news:CBMi0gFBVV95cUxPLWcxR2FQTjJ1R0hxaHNMVFQzNTFORGVXdnJkMEZVTV9odVYzc0dFSXNrblVIZXpFS3YtMEJibGYzX2NnNThUV1Nab05VRnBFV2hDSFVSUGhsbll6MURxZGliSElfazlISUZnc0VaMFBDRHZsa0hvdU5ZdHN6TXYzYkFBY3Z2R05OSU5peGhjN3FleGYxS2EtV2JtbFY3a29saGQwb1V4aE16X2RuRnJQNHpTMlZFRWRtVV9TbzRYcGl6U0VndHM0VjRjalItOThBVGfSAdIBQVVfeXFMTy1nMUdhUE4ydUdIcWhzTFRUMzUxTkRlV3ZyZDBGVU1faHVWM3NHRUlza25VSGV6RUt2LTBCYmxmM19jZzU4VFdTWm9OVUZwRVdoQ0hVUlBobG5ZejFEcWRpYkhJX2s5SElGZ3NFWjBQQ0R2bGtIb3VOWXRzek12M2JBQWN2dkdOTklOaXhoYzdxZXhmMUthLVdibWxWN2tvbGhkMG9VeGhNel9kbkZyUDR6UzJWRUVkbVVfU280WHBpelNFZ3RzNFY0Y2pSLTk4QVRn": 1793685943378,
     "news:CBMixAFBVV95cUxQaTR5YzVudjUwd19fM0F0WUZOZDV5Z21lUTJoLVRLdEYxOU5LSDRTXzE5XzhwT2l3Z0NjeTNLckdPM2RuNDQxSkhwdEEtcl9sZE1yeFZveDBZX2tRNWdlMEZjRFFzZHFJTnNCN0lHWldlVTRCaUpyYnZBOHNJZHpYQkxOczZhdnh5bUdYUUNEQ0FVNkc4elZPc1NLTGx1aVpjSkpzSi1aWER5RGVSQjZLTFZORXI2WVRJcHlPSExINnlPcVdK0gHEAUFVX3lxTFBpNHljNW52NTB3X18zQXRZRk5kNXlnbWVRMmgtVEt0RjE5TktINFNfMTlfOHBPaXdnQ2N5M0tyR08zZG40NDFKSHB0QS1yX2xkTXJ4Vm94MFlfa1E1Z2UwRmNEUXNkcUlOc0I3SUdaV2VVNEJpSnJidkE4c0lkelhCTE5zNmF2eHltR1hRQ0RDQVU2Rzh6Vk9zU0tMbHVpWmNKSnNKLVpYRHlEZVJCNktMVk5FcjZZVElweU9ITEg2eU9xV0o": 1793685943378,
     "news:CBMifkFVX3lxTE1ETDhGdjZ2MkZrT3JaX080SS1ZMmwxOGxDNUVsVnNndDdUWVZXU0lxc0k5MjItSGFYM3hHeEp2VEFVd1FNdFN1X2ZkajBVODItNGNMMWtXSVJaZnpvc2hvbF9EYUttblY4NExIdTdkRU1fbUhDTmN6MW9tdXIzUQ": 1793685943378,
-    "threads:DfO15snkmuH": 1793686242734
+    "threads:DfO15snkmuH": 1793686242734,
+    "threads:DfRNguJkUzx": 1793686540218,
+    "threads:DfRNsBKkm9Z": 1793686540218,
+    "threads:DfRNgHrnUxj": 1793686540218,
+    "threads:DfRNLLWlCUP": 1793686540218,
+    "threads:DfRNKBPGqVD": 1793686540218,
+    "threads:DfQOKfmja2c": 1793686540218,
+    "news:CBMizAFBVV95cUxQcFJILTVVY0pYLXVSWlRSdEJhM3ZDdFZIbXdWcl92U3I1cnZ2UjNXZXduX3pUNUtaMHZ6alJyRndLOFktY1hxS3E4bDlFd1FELTg2dGozaGR2ZW1Ya2E5bnlZaUQ4SDI5dldNbVZ5V0xmZERDS0dTQWotLXpkX1FMM0pCU3VaU2c1Y2lfSzBESW1CVGYxUDlRTnZnYjF2T1FaT0Q1UGhFSGljYXJQeWM1c3hRQ090ZlhBaTA2TFVLWDc1SlB6SHlzaGM3dDfSAdIBQVVfeXFMTy1nMUdhUE4ydUdIcWhzTFRUMzUxTkRlV3ZyZDBGVU1faHVWM3NHRUlza25VSGV6RUt2LTBCYmxmM19jZzU4VFdTWm9OVUZwRVdoQ0hVUlBobG5ZejFEcWRpYkhJX2s5SElGZ3NFWjBQQ0R2bGtIb3VOWXRzek12M2JBQWN2dkdOTklOaXhoYzdxZXhmMUthLVdibWxWN2tvbGhkMG9VeGhNel9kbkZyUDR6UzJWRUVkbVVfU280WHBpelNFZ3RzNFY0Y2pSLTk4QVRn": 1793686540218,
+    "news:CBMiyAFBVV95cUxPcGtndXFQTW85Qk53X1JwczZnRnNYQXo2UXBvQmZSeUhRY0gxYkZ6Y1RjdGd3NTNoanZEM2R3QU9XQ0t4cWE2ZTZhUDBkNlBwVGlzU1ZHZTc5Mm1CU0d0bmRBM0hGOHJWTlNMdUExVVplZERMR2xnLXFDMUxybHpjSnY3V2hTaHRnckRGUXVVR29NOWw5OVZrelVPOGdweXhxa29TLXJZQkpScHBybURnaWRGVTNBeXI3blFPcmZheUxwRmdMbHFPYQ": 1793686540218
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ppkdjakut",
-      "x": "Mungkin salah satunya bisa ikut pelatihan kerja Gratis dari Pemprov DKI Kak, misal pelatihan di PPKD Jakut.",
-      "u": "https://www.threads.com/@ppkdjakut/post/DfQ-c1eEmaf",
-      "d": 1793678488000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@pijitin.bdg",
-      "x": "Bukannya ga mau bayar pajak. Tapi kontribusi apa yang negara kasih untuk para tukang pijit ini?? Pelatihan gratis? Sertifikasi gratis? Promosi gratis? Bantu cariin customer? Menjam",
-      "u": "https://www.threads.com/@pijitin.bdg/post/DfQ-bG-gTwJ",
-      "d": 1793678474000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28977,10 +28961,30 @@
       "d": 1793606897000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kalangan Jambi",
+      "x": "Pemerintah Bidik 3 Juta Sertifikat Rumah Gratis untuk MBR pada 2027 - Kalangan Jambi",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFJILTVVY0pYLXVSWlRSdEJhM3ZDdFZIbXdWcl92U3I1cnZ2UjNXZXduX3pUNUtaMHZ6alJyRndLOFktY1hxS3E4bDlFd1FELTg2dGozaGR2ZW1Ya2E5bnlZaUQ4SDI5dldNbVZ5V0xmZERDS0dTQWotLXpkX1FMM0pCU3VaU2c1Y2lfSzBESW1CVGYxUDlRTnZnYjF2T1FaT0Q1UGhFSGljYXJQeWM1c3hRQ090ZlhBaTA2TFVLWDc1SlB6SHlzaGM3dDfSAdIBQVVfeXFMTy1nMUdhUE4ydUdIcWhzTFRUMzUxTkRlV3ZyZDBGVU1faHVWM3NHRUlza25VSGV6RUt2LTBCYmxmM19jZzU4VFdTWm9OVUZwRVdoQ0hVUlBobG5ZejFEcWRpYkhJX2s5SElGZ3NFWjBQQ0R2bGtIb3VOWXRzek12M2JBQWN2dkdOTklOaXhoYzdxZXhmMUthLVdibWxWN2tvbGhkMG9VeGhNel9kbkZyUDR6UzJWRUVkbVVfU280WHBpelNFZ3RzNFY0Y2pSLTk4QVRn?oc=5",
+      "d": 1793682812000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Update Lokasi untuk Pengambilan Bansos Beras 30 Kg November 2026, Bisa Lewat KopDes - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGtndXFQTW85Qk53X1JwczZnRnNYQXo2UXBvQmZSeUhRY0gxYkZ6Y1RjdGd3NTNoanZEM2R3QU9XQ0t4cWE2ZTZhUDBkNlBwVGlzU1ZHZTc5Mm1CU0d0bmRBM0hGOHJWTlNMdUExVVplZERMR2xnLXFDMUxybHpjSnY3V2hTaHRnckRGUXVVR29NOWw5OVZrelVPOGdweXhxa29TLXJZQkpScHBybURnaWRGVTNBeXI3blFPcmZheUxwRmdMbHFPYQ?oc=5",
+      "d": 1793686536000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
