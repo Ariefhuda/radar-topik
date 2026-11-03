@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuxewSE8P0": 1792531536976,
-    "threads:DaYZp5zkzvj": 1792531536976,
-    "threads:DbdIZLekmoZ": 1792531536976,
     "threads:DeuOI9LilTK": 1792531845717,
     "threads:DeuzQa_oCaG": 1792531845717,
     "threads:DeuyofXGAQq": 1792531845717,
@@ -27931,19 +27928,11 @@
     "threads:DfS0IkbDuAt": 1793740847614,
     "threads:DfS1YNPEy8G": 1793740847614,
     "threads:DfS1WDrk-mB": 1793740847614,
-    "threads:DfS0AbiErJb": 1793740847614
+    "threads:DfS0AbiErJb": 1793740847614,
+    "threads:DfS19K_Eoxy": 1793741154153,
+    "news:CBMipgFBVV95cUxOdjBQVUNwN0w4cjNHUnAwOGZlVFhuV3RyLTctMXNfRkdzUUlfV0ZDUHNGVHViY1FfcmFjMmE1SGducDVNSmdMMDJFWkhWcEVnNW9qOVVONmJycm1tRnEzOFhGVGplNk5aMUVlSUV3SnRBYlY1VndjNkg0TFRVelZjZGo0M0QtN0N6THFzTkFMbkZkN1MzTnpod05LS1I2bmlTR3RIWUhB0gGrAUFVX3lxTE9ONTBHaUlReDdWejFBenhTcmd5MThSLVBnMXloNVBYQV9jQ2tjOEM3NENmcFFGWU9mREJjUlhBU3lBNmlIX0w5ZGNKekc2d0JzaVdKRjNVQzR6bl9VdXhIQkFUaWpSR2FtOTNnWDFEMU53MTZZTUU1dmdKZjZJcVd1YlZMTnBjdGcyRDF3Nkc3aXh0YUhLNzBDNFBneUotQlRoWXdBdEN4UkEwNA": 1793741154153
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak bisa coba jualan online, kk upgrade dulu skill digital marketing dan bisnis online. Yang nanti kk bisa jual produk sendiri secara online, bisa dropship tanpa harus stok bar",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfSAuNTD0FG",
-      "d": 1793713233000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29433,10 +29422,20 @@
       "d": 1793740121000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Apakah ASN Bisa Dapat BSU Rp900 Ribu? Cek Penjelasannya - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdjBQVUNwN0w4cjNHUnAwOGZlVFhuV3RyLTctMXNfRkdzUUlfV0ZDUHNGVHViY1FfcmFjMmE1SGducDVNSmdMMDJFWkhWcEVnNW9qOVVONmJycm1tRnEzOFhGVGplNk5aMUVlSUV3SnRBYlY1VndjNkg0TFRVelZjZGo0M0QtN0N6THFzTkFMbkZkN1MzTnpod05LS1I2bmlTR3RIWUhB0gGrAUFVX3lxTE9ONTBHaUlReDdWejFBenhTcmd5MThSLVBnMXloNVBYQV9jQ2tjOEM3NENmcFFGWU9mREJjUlhBU3lBNmlIX0w5ZGNKekc2d0JzaVdKRjNVQzR6bl9VdXhIQkFUaWpSR2FtOTNnWDFEMU53MTZZTUU1dmdKZjZJcVd1YlZMTnBjdGcyRDF3Nkc3aXh0YUhLNzBDNFBneUotQlRoWXdBdEN4UkEwNA?oc=5",
+      "d": 1793706847000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
