@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Desr3tCE1RR": 1792461338737,
-    "threads:DFW2Fens9Sv": 1792461338737,
-    "news:CBMixAFBVV95cUxNTXpNRGRHeFNNeUdnTVZkWW9rTW9HbzRCUzVaMEhOUERQMlEyZE5CRU14VmNqNW1hZ1paVG5xNHNjbEZrZjZXNjA3Smk4U3BhbjNURWd2MkNUWDFCTlNHamZVMEtCTldCeWpCSXV6em5TY1RhMmkxcW5XbVhUeDIzOTNPWEd3THlYWTVUN0NyNF9oMUNqbVNwRDhaSVBubUxQSzVpWDd0ZjRmUXM5NDNDaHN4LS1Id2FjWFFsSFA0U0trR0cx": 1792461338737,
-    "news:CBMi7AFBVV95cUxObllTcmdNUEFNVHE4OVJhSTJyeWZtTFN5dkVSaWUtOThFZHg2TXV1Ul8yMzFnaTB5ZUM1RExNQVZ2MjBMMVJWU2JfUFZabHhBUnZwVlNCcjllVHZYalg5ZGdidzF4TzZuZTRJWGdJVm1fMmt2WEdselpxalF0a1hxRFFxZnc0amNfaEdFQTlJVWh4VXBaNjU3Sldra1BPaUdVOFliNURHd05taFA2QTRBbVdkNWxyZnF4d1NCVWsycVlydF8tWlRrSDNGRnZzUEUzUGYyVzFVWlJweXg4ckNFWEhNNVlOS3pTZW9mTNIB7AFBVV95cUxObllTcmdNUEFNVHE4OVJhSTJyeWZtTFN5dkVSaWUtOThFZHg2TXV1Ul8yMzFnaTB5ZUM1RExNQVZ2MjBMMVJWU2JfUFZabHhBUnZwVlNCcjllVHZYalg5ZGdidzF4TzZuZTRJWGdJVm1fMmt2WEdselpxalF0a1hxRFFxZnc0amNfaEdFQTlJVWh4VXBaNjU3Sldra1BPaUdVOFliNURHd05taFA2QTRBbVdkNWxyZnF4d1NCVWsycVlydF8tWlRrSDNGRnZzUEUzUGYyVzFVWlJweXg4ckNFWEhNNVlOS3pTZW9mTA": 1792461338737,
-    "news:CBMiygFBVV95cUxNWHR4Nmd2dnd4ZnYwRE1tZ0VJcGplRHhKemI5OWw5YWhad1R3Q1lGQnotY3pVT0RSUHc2djVnV3ZtMTVuWEJfZjBzdzZ4ekJWV2tyZHhWMU9KMEtybk04TTM1MlVickRFU0VvSXdHbkl3bFhKemZka1NLeVBMcjZCb1dQd1dKVHVrNnFEdl9lR0VtNnRabTlNT2xjUzlZT2RVVDMxVlRWazdEWHdXbDhpOGxsMlEyYk9xUU43MzdzUzFSYnFfbHhDeFpn0gHPAUFVX3lxTFBTZl83WTI1OGFEU191VFdSdU4yTjRJYU00WlcxYzFOdGN2YU81X0RoSWpXWm1fQ3pXU1M0WWJLTU9EcUhJdW9CcHEtSHdoejdiZEZxWmt0T3k1LUJwUUlzd0pia0ZXOFVDZTRlZlBNLWpZakZKc1MyLXBRamYxYlRabXNSRmkzaWFhX0FoQ3BJaTZVbGpldTZnUmxIQlZpUDV0QzFkcWRYT1JWVlRSY2NYVjVua0k2NlByRGZRSEpYeXVUdFVaX2UtMHE3ZklWNA": 1792461338737,
     "threads:DestatXAbKI": 1792461657931,
     "threads:Dess55VgW7T": 1792461657931,
     "threads:DessxavDr_f": 1792461657931,
@@ -27330,7 +27325,23 @@
     "threads:Dd8gwLZmplG": 1793670645917,
     "threads:DFhIe2uOuJs": 1793670645917,
     "threads:DdL1PcxEtVN": 1793670645917,
-    "news:CBMi5wFBVV95cUxNb1llMVdNSlpfcEZUakp2U1FqeUIzVnlrWFJRTGNMT1hEN210d2F1ZTMxc2VmU2ZFbWpDWmFGXzJjMDNaa2VfR1RXbzlpZHZHZGNFR0d2RlJtcGVKd254UDFkS016eFRqRVNxMFI5elhMa1RocWRZdEhKLXhHcXppRkZXU3JIQ2VpRVk2UnBLVGc3YXp4TllsamxiSE94YzZJQlhCRDc1cWZMTnhpY3VPZkk2VUpsVjdMbWJULWc0STFRQkRuSmY1MElRZWVJTWVWN1ZaZ2hERWMzM2pqTGlWamJ1cVotU1U": 1793670645917
+    "news:CBMi5wFBVV95cUxNb1llMVdNSlpfcEZUakp2U1FqeUIzVnlrWFJRTGNMT1hEN210d2F1ZTMxc2VmU2ZFbWpDWmFGXzJjMDNaa2VfR1RXbzlpZHZHZGNFR0d2RlJtcGVKd254UDFkS016eFRqRVNxMFI5elhMa1RocWRZdEhKLXhHcXppRkZXU3JIQ2VpRVk2UnBLVGc3YXp4TllsamxiSE94YzZJQlhCRDc1cWZMTnhpY3VPZkk2VUpsVjdMbWJULWc0STFRQkRuSmY1MElRZWVJTWVWN1ZaZ2hERWMzM2pqTGlWamJ1cVotU1U": 1793670645917,
+    "threads:DXix7E5ka2G": 1793670938459,
+    "threads:DfQvsdDE9vo": 1793670938459,
+    "threads:DcDaW78mhEi": 1793670938459,
+    "threads:DfQvaysAZ7B": 1793670938459,
+    "threads:DfQvTmFAYbt": 1793670938459,
+    "threads:DfQuqAAgUvy": 1793670938459,
+    "threads:DfQvmBADLK1": 1793670938459,
+    "threads:DfQvb70EXsM": 1793670938459,
+    "threads:DfQvLwlkjl-": 1793670938459,
+    "threads:DeUyu9XCpRY": 1793670938459,
+    "threads:DfQwO0uD7AG": 1793670938459,
+    "threads:DfQwNAuDwMs": 1793670938459,
+    "threads:DfQwAY6jxBK": 1793670938459,
+    "threads:DfQv8xbD_Ox": 1793670938459,
+    "threads:DfHqT4JmaZb": 1793670938459,
+    "news:CBMimgFBVV95cUxOR3AtNUNSSGtQSWk2V0RHQUo5WmF6SEdpa0FINk1oQl91Q1VaUk44ZVpzZFV3aEs1QmE1ci1pZ25NdGZvMWNSQ2ZPV3pKLU42YjBLRHZUZENrRmJ3aXE2bWIwSG1sX2xCMUNnOW9aSk9DeUZQTUt3WnZwZ1doaWRvd1NVd2k5Y2JOTVdYTzNqZ1lkbEFIVHpzN09B0gGKAUFVX3lxTE53RXowbFpLMU1aSThsY2FTZExoTm92WEo0dW9LZE9COUhaS1pfMHNfZmdtVDFUVkJtMGhEczZrWDlUWHc0LWZMUEFLYklzNjR2RVhEbnFHQXc3QWxnUmpJd2NoTEVlTHlOYTVhSjZDdjF0b2RyWjZDRWRPd0VqUDdsa1BsMWlMMFdQUQ": 1793670938459
   },
   "digest": [
     {
@@ -27772,10 +27783,60 @@
       "d": 1793603100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfQwO0uD7AG",
+      "d": 1793671033000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfQwNAuDwMs",
+      "d": 1793671018000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfQwAY6jxBK",
+      "d": 1793670915000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfQv8xbD_Ox",
+      "d": 1793670885000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "landbank.co.id",
+      "x": "12 Wakil Indonesia Siap Berlaga di Korea Open 2026 - landbank.id - landbank.co.id",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3AtNUNSSGtQSWk2V0RHQUo5WmF6SEdpa0FINk1oQl91Q1VaUk44ZVpzZFV3aEs1QmE1ci1pZ25NdGZvMWNSQ2ZPV3pKLU42YjBLRHZUZENrRmJ3aXE2bWIwSG1sX2xCMUNnOW9aSk9DeUZQTUt3WnZwZ1doaWRvd1NVd2k5Y2JOTVdYTzNqZ1lkbEFIVHpzN09B0gGKAUFVX3lxTE53RXowbFpLMU1aSThsY2FTZExoTm92WEo0dW9LZE9COUhaS1pfMHNfZmdtVDFUVkJtMGhEczZrWDlUWHc0LWZMUEFLYklzNjR2RVhEbnFHQXc3QWxnUmpJd2NoTEVlTHlOYTVhSjZDdjF0b2RyWjZDRWRPd0VqUDdsa1BsMWlMMFdQUQ?oc=5",
+      "d": 1793611560000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
