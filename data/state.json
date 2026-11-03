@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMitAFBVV95cUxNczNJZEpRVEVOd1FhV3o4LTNUUU5oTGtQbmRFM1ZWZHdoalc4SW94X3N3MjNmWUNMbGR1VmtQYUc4Zjd1YVlJOVF4YXZqZTgxRGJ1V2xNM1ZiX0FuYUhmUHVGZnRIN0tLMGYwM0dDUk5VSkxaaWtRV3NLQnp5ZElnb1VkdzVnT1JPY09INFNWZ1hQVmJGcWYxY2tUb1RSYjZwQWxKSjAyV3JINnVyQ1EyOHhHTGfSAbQBQVVfeXFMTXMzSWRKUVRFTndRYVd6OC0zVFFOaExrUG5kRTNWVmR3aGpXOElveF9zdzIzZllDTGxkdVZrUGFHOGY3dWFZSTlReGF2amU4MURidVdsTTNWYl9BbmFIZlB1RmZ0SDdLSzBmMDNHQ1JOVUpMWmlrUVdzS0J6eWRJZ29VZHc1Z09ST2NPSDRTVmdYUFZiRnFmMWNrVG9UUmI2cEFsSkowMldySDZ1ckNRMjh4R0xn": 1792533654265,
     "threads:Deu2Z8Hjcxt": 1792533942508,
     "threads:Deu20f7guh4": 1792534242575,
     "threads:Deu3DjEkren": 1792534242575,
@@ -27933,28 +27932,19 @@
     "threads:DYUNQ7FCMLy": 1793742347665,
     "threads:DfRudSGj50W": 1793742347665,
     "threads:DfS3VO6kyDb": 1793742347665,
-    "threads:DfS5HqNDt7U": 1793743065564,
-    "threads:DfS4wDCoJjt": 1793743065564,
-    "threads:DfS4pH1DSIy": 1793743065564,
-    "threads:DfS4XqDkmxY": 1793743065564,
-    "threads:DfS4R0emxSw": 1793743065564,
-    "threads:DXT4zPOgSPU": 1793743065564,
-    "threads:DEwwfq5zB7J": 1793743065564,
-    "threads:DegqlBdic_1": 1793743065564,
-    "news:CBMi0AFBVV95cUxNYW5OVHVBc3Z6d1ZkbTZsdXJMeURuSlgtcXlKQzlRd3JBbXBHclpyd3pJLWRlOVhrOVEtODc1UGVQRjU0cTFLRlRSdmRNWlpqV0Y5cXQxTlhXM2Z3bjFIblV6V2xFb1piUDNtRUlBMnBaMWIxQ0ZHMjFKMFdNaDkzQlBWM0txZzZpNlBxd0N4U2l2bUV4Tzh5MWhqc1pIVS1iSjBsemRxSWVrN2QyY0U1eHdzZHh6b0NXSmt4SVFNZFFHdXJLVTJyejNKbE84Vi1W0gHQAUFVX3lxTE1hbk5UdUFzdnp3VmRtNmx1ckx5RG5KWC1xeUpDOVF3ckFtcEdyWnJ3ekktZGU5WGs5US04NzVQZVBGNTRxMUtGVFJ2ZE1aWmpXRjlxdDFOWFczZnduMUhuVXpXbEVvWmJQM21FSUEycFoxYjFDRkcyMUowV01oOTNCUFYzS3FnNmk2UHF3Q3hTaXZtRXhPOHkxaGpzWkhVLWJKMGx6ZHFJZWs3ZDJjRTV4d3NkeHpvQ1dKa3hJUU1kUUd1cktVMnJ6M0psTzhWLVY": 1793743065564,
-    "news:CBMiygFBVV95cUxPQ095N2hyMEJ5TUs1c1Z2Sk83UlJ5NWN6cDB0OEJZcFViLU1pSExFOXFkRjJNNlpKUkE4NUxfcWF3X21IWlZPOG1lNGJQaHlaTFljSWlNNDBJbW1XaXE4Y2FRNTUwZUExS3ZUVTl0T1NadFVoV0toZFVnczlscDZSWGw1dmN2VDc4Z3pGOTV6TzlVRENsUVhKUWNjYjI1UVlMQjY4M244RGlzVlN2aWQ4UDk5amwyZjZHQ0FJQmd4T0FLaHVMTUk2eC1R": 1793743065564
+    "threads:DfS5HqNDt7U": 1793742857956,
+    "threads:DfS4wDCoJjt": 1793742857956,
+    "threads:DfS4pH1DSIy": 1793742857956,
+    "threads:DfS4XqDkmxY": 1793742857956,
+    "threads:DfS4R0emxSw": 1793742857956,
+    "threads:DbwEgu7jp7Y": 1793742857956,
+    "threads:DegqlBdic_1": 1793742857956,
+    "news:CBMi0AFBVV95cUxNYW5OVHVBc3Z6d1ZkbTZsdXJMeURuSlgtcXlKQzlRd3JBbXBHclpyd3pJLWRlOVhrOVEtODc1UGVQRjU0cTFLRlRSdmRNWlpqV0Y5cXQxTlhXM2Z3bjFIblV6V2xFb1piUDNtRUlBMnBaMWIxQ0ZHMjFKMFdNaDkzQlBWM0txZzZpNlBxd0N4U2l2bUV4Tzh5MWhqc1pIVS1iSjBsemRxSWVrN2QyY0U1eHdzZHh6b0NXSmt4SVFNZFFHdXJLVTJyejNKbE84Vi1W0gHQAUFVX3lxTE1hbk5UdUFzdnp3VmRtNmx1ckx5RG5KWC1xeUpDOVF3ckFtcEdyWnJ3ekktZGU5WGs5US04NzVQZVBGNTRxMUtGVFJ2ZE1aWmpXRjlxdDFOWFczZnduMUhuVXpXbEVvWmJQM21FSUEycFoxYjFDRkcyMUowV01oOTNCUFYzS3FnNmk2UHF3Q3hTaXZtRXhPOHkxaGpzWkhVLWJKMGx6ZHFJZWs3ZDJjRTV4d3NkeHpvQ1dKa3hJUU1kUUd1cktVMnJ6M0psTzhWLVY": 1793742857956,
+    "threads:DfRxlBjk8Vk": 1793743267601,
+    "threads:DfS5VPpk7-d": 1793743267601,
+    "news:CBMinwFBVV95cUxPbTNlVDYyWmk4dTk1Y3JpUVhia3k1MnhxMUl0V05pUW5aQkk3dVFKeGllc08tUnFoRmRsbC1WMkV4eVMtcVpKaEQ2dnVVZUMxT19qMFhzaGgtTGFVTFdsbnpPZlVHS1VOV3NfLWczaHppdHdfOEs0REVraGJQeTBPa3FNX2xnZnZQdGFmMGZWZ3U0MU1IeWFMNXJhcC1ibnM": 1793743267601
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yuditirawan14",
-      "x": "Wah, berarti produknya punya banyak kategori ya kak 😁 Justru penting belajar cara promosi yang tepat supaya calon pembeli tertarik, bukan sekadar melihat postingan jualan. Kebetul",
-      "u": "https://www.threads.com/@yuditirawan14/post/DfSAJogE-k9",
-      "d": 1793712933000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29437,17 +29427,27 @@
     },
     {
       "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Suara Pantura",
-      "x": "Bupati Tegal Anggarkan Rp4 Miliar untuk Revitalisasi Jalan Dr. Sutomo Slawi pada 2027 - Suara Pantura",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ095N2hyMEJ5TUs1c1Z2Sk83UlJ5NWN6cDB0OEJZcFViLU1pSExFOXFkRjJNNlpKUkE4NUxfcWF3X21IWlZPOG1lNGJQaHlaTFljSWlNNDBJbW1XaXE4Y2FRNTUwZUExS3ZUVTl0T1NadFVoV0toZFVnczlscDZSWGw1dmN2VDc4Z3pGOTV6TzlVRENsUVhKUWNjYjI1UVlMQjY4M244RGlzVlN2aWQ4UDk5amwyZjZHQ0FJQmd4T0FLaHVMTUk2eC1R?oc=5",
-      "d": 1793734382000,
+      "s": "threads",
+      "a": "@for.j_only",
+      "x": "Warisan Pak jokowi : • 2.400KM jalan tol baru • 6.000KM jalan nasional • 366.000 jalan desa • 1.731KM jalur KA • MRT, LRT, Woosh • 50 bandara & pelabuhan •1,9jt meter jembatan • 53",
+      "u": "https://www.threads.com/@for.j_only/post/DfRxlBjk8Vk",
+      "d": 1793705293000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@septiankalvani",
+      "x": "Sertifikat gratis? Bayar lah ogeb. Ane bayar 950k. Tp emang terbantu sih walaupun ngurusnya banyak bypassnya dan banyak yg ngeluh orang BPN 🤣🤣🤣",
+      "u": "https://www.threads.com/@septiankalvani/post/DfS5VPpk7-d",
+      "d": 1793742913000,
       "urgent": false,
       "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
