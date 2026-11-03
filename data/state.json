@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuG5pxjdWa": 1792508741884,
-    "threads:DeuGtb4GZlt": 1792508741884,
-    "threads:DeuHIAXDtgU": 1792508741884,
-    "threads:DeuGn6fCfXo": 1792508741884,
-    "threads:DeuGlKRAVQC": 1792508741884,
-    "threads:DeuGPhyiSJa": 1792508741884,
-    "threads:Det4pxWDumK": 1792508741884,
-    "threads:DeuG5fjmlUb": 1792508741884,
-    "threads:DeuGS2Io7Tc": 1792508741884,
-    "threads:DeuHHG_Er5G": 1792508741884,
-    "threads:DeuGldiEs2U": 1792508741884,
-    "threads:DeuGQZXEtTy": 1792508741884,
-    "threads:DeuGsG1Ev0n": 1792508741884,
-    "news:CBMipwFBVV95cUxNbkZEN2lFcTB1Si14UmNPU3pMODY5Z2JvS3EyWnBIR0c4Nk4tUGVYRGZyM0JGSUxmaV9lUXdndHBuZDVnOHNRajg2Ml9fcmRQLXpnak85V0lnd1pJQUVZZEJxS0U3VDdZc2FZRnF3MlhYWTdxTW44bXZRa0M2eEJUb1J0czJYeXFpVkR3a1dsLVJNd0tqSlZkZC1weWpKUmcwTWdVYTZJWQ": 1792508741884,
-    "news:CBMiygFBVV95cUxQbVdrNWxDdmE2MVJtVF8xU3FSRFM4XzZPbTZVZWNaS3p5NHJ0MmJSdFhZcWxQOVdkSmE2S0NxbFQtdFhLYXVkeFRoNFBFbXVpYjB5d3hMbWg1RnBpN0llM0ZEQXBXNkptZkNXQzAzdjQwNVJMRVY2aGwyZ3dEdUVNSlJjdWlRODNnTTBmRkZ5ejVXM20tYmtrcE5aZ2gtMGt6djVPU3hUS1FNdTNPY3ZFVGJwSEJ4N1RwcDljZEZaUTFJUVM5VkNLUFNn0gHKAUFVX3lxTFBtV2s1bEN2YTYxUm1UXzFTcVJEUzhfNk9tNlVlY1pLenk0cnQyYlJ0WFlxbFA5V2RKYTZLQ3FsVC10WEthdWR4VGg0UEVtdWliMHl3eExtaDVGcGk3SWUzRkRBcFc2Sm1mQ1dDMDN2NDA1UkxFVjZobDJnd0R1RU1KUmN1aVE4M2dNMGZGRnl6NVczbS1ia2twTlpnaC0wa3p2NU9TeFRLUU11M09jdkVUYnBIQng3VHBwOWNkRlpRMUlRUzlWQ0tQU2c": 1792508741884,
     "threads:DesQRhek5ge": 1792509076738,
     "threads:DcvsRlII9Cw": 1792509076738,
     "threads:DeuHxq8D5pj": 1792509076738,
@@ -27682,29 +27667,25 @@
     "threads:DfJQaICHyUI": 1793718057798,
     "news:CBMi1AFBVV95cUxQLWN2NFJPT19VUl9TZ1E0LVZJcjhaLURXcEJZWG1hTEFaeTlDUVdHTThfdXRHR2kxU05JcWJuZERfa0dmSVlhbU9GcjVMSEtfS1pSSjZCbmhSRGNpdDA2eTlfbjdPaVdna1l5WE16ZE9GZTBxTVNnREFGYkxVZ2c3bUd4cEc4dnByVmJEWWwtaExwblkzNU1nSVV4YUFBdlk2b1RpUHFKUzJLcU9VSkV6Sjl0NmNwQ2JxS2ZXeGtqMFhPVVBQRVZzQmdKZEl2N0xLeTd1NA": 1793718057798,
     "news:CBMizwFBVV95cUxOdElKVWRuTWNZMlV1TlNiOWpheGhfWE0tN0JyeW1OaHVoZnZUempjTWx3ZlJlZXktcWVOQ2hPU2k3UUNUNUVMYmhtaXp3UTY0eGdDQ1pfUW04NzIzQWhULXlibmwyYWpzQ2hJSXlJSzNvd3VXT2MwYW9MU1BXUWdEM1dlaWdSTGZPWU9aYi1kRjU1a19Nd2s4dkw2RjM5YW5FNkdaaklpMmhBbDctVnpLZUxoTkZGc1IzblAwNnpwTHRCU1JqaWUzbWFuc1diREU": 1793718057798,
-    "news:CBMivAFBVV95cUxNQlJIUEVsWDFrMW40eVpobnNkbmxSekpZZUpvVENMUDNjQTZYTVBjeUZoMVlkeWNQWUFkczFWWDRyMXZxd0lVSS15emFOTG9mVTEycm1MT2NabDRvV3E5dHdDOGhrOW1DTWRDQjBPNnFfTjg0aDF6ZjF1VFNYdEpfVzk4dDVoMzROUFlieW1LR19TZ3B3SDB2S0ZPRDBEZWVCRklVSXhiZ1Ewb3NWWjBiTndmNkdLcUJyZHFDa9IBrwFBVV95cUxNRjJtTndZNzRwQWlCaGxzYk10TXBReTFPY2xGaHFpNXRIMzhUUHJVVUFBUW1rTFZZRHBjdkJsM2QxRnBlMkcxbzhpZC1lVVFiYXhWVFBXYTYyLWZLYk5oVDJybThnN21idmsza3UyU2ZjMWlXNmw3WHBVS3JGaXdoWmViQXZ0M3dqcE5acWtTU3h0NGg3THRTMU02MkU1WmlDV3Y5eUZlOG5NbktGY2RF": 1793718057798
+    "news:CBMivAFBVV95cUxNQlJIUEVsWDFrMW40eVpobnNkbmxSekpZZUpvVENMUDNjQTZYTVBjeUZoMVlkeWNQWUFkczFWWDRyMXZxd0lVSS15emFOTG9mVTEycm1MT2NabDRvV3E5dHdDOGhrOW1DTWRDQjBPNnFfTjg0aDF6ZjF1VFNYdEpfVzk4dDVoMzROUFlieW1LR19TZ3B3SDB2S0ZPRDBEZWVCRklVSXhiZ1Ewb3NWWjBiTndmNkdLcUJyZHFDa9IBrwFBVV95cUxNRjJtTndZNzRwQWlCaGxzYk10TXBReTFPY2xGaHFpNXRIMzhUUHJVVUFBUW1rTFZZRHBjdkJsM2QxRnBlMkcxbzhpZC1lVVFiYXhWVFBXYTYyLWZLYk5oVDJybThnN21idmsza3UyU2ZjMWlXNmw3WHBVS3JGaXdoWmViQXZ0M3dqcE5acWtTU3h0NGg3THRTMU02MkU1WmlDV3Y5eUZlOG5NbktGY2RF": 1793718057798,
+    "threads:DfSJcDbmS9L": 1793718338865,
+    "threads:Deai8Otkx0l": 1793718338865,
+    "threads:DfSKGvcmE5r": 1793718338865,
+    "threads:DfSKij4GM8n": 1793718338865,
+    "threads:DfSKoUCFMn-": 1793718338865,
+    "threads:DfSKhqVlczB": 1793718338865,
+    "threads:DfSKaOolAbv": 1793718338865,
+    "threads:DfSKYFwkbet": 1793718338865,
+    "threads:DfSKJFnAbng": 1793718338865,
+    "threads:DfSJ_blEk9k": 1793718338865,
+    "threads:DfSJ9muiEU0": 1793718338865,
+    "threads:DfSJz_FmxmS": 1793718338865,
+    "threads:DfSJutWASvr": 1793718338865,
+    "news:CBMif0FVX3lxTFB1Y0VwVHYtWUhpeW9FSHNHWHRkakNBRUFtaWJPX2ZaS1ZudWFfOEY1VkFBa0FGNk1qVnJyMm5iQkFENU9Lc0FjejdQcmY5MmFKT3hJb2RoS1dDUTFheUVhZms4TVlUaFBNRTJBWUhMM3daeTl0UVE2M3FudHNQRVk": 1793718338865,
+    "news:CBMisAFBVV95cUxPSXhjT1lSWnNhZzVfcUczLTBXVmFTQTFzcFU2S3ZkeWVwQlNLaVAzSGx0N2owcDVqejlrRXhPNHFSUGF2cFBIQWNfRF81RUdDMGhpUzYzUWZFa0hVODZZQUx5a1c2a2JYSDhtWWFiZkhNWDN1TGRfeEZmLWN3cmhPalppSExBTWpGYTVMcUxmMEoxMEVUdU5odEs2bDRKSjZCSjg1dTZOMFlfT25PTmxhZA": 1793718338865,
+    "news:CBMi4AFBVV95cUxOQ0JIUjA2YkY3YVk2bGZkQXR1V1hCcXRLbE5MQTE5alJqNmdmdExpRk50N0pjZURsUGxlZkhRei1yUzBTTW9qaG1JTWxLTVV6ckRUQjJ2VWdkY0NKZ3UyYlktSUhMZjA4Njl0U1FhLWNxWnY0LW1UNmdiU2VpSE82SlFKNXZsdEpOUjlRSUkyUHo5TFVGYlk3QzRENHNNZXp6SjN5Wm9jakQ3S2JwYjRZb0tuTktQWVM1TlBYUmVWTDM0ZUIxWDdfUFAyN0FkdFBtc0hCNUtVQkRYUDFaVzBKRtIB5gFBVV95cUxOR3VDWTk0Y1dVSEIxamVqQmREOUV2a3N3M1U2NDc4bkR2RGluT1FlRFN2ZktRc0VHNTNfcDBmQzBBYmVpVXN4U2VsSmMxS1NJZ2lyRUNPZUZlLXgzRmw3c0ZyZDJsbUVoZjF3THJTQ1RXaXRGUG5tcnR2d1VyMTMwR3FHRU9yS21YVjFqSFJBS3phVGg3LUhMQXNlalg0c2JycnRNd3RVcE5oalV3S2FCUk9vUk1RR09DTERVVmExbmF3WlphYlVjRWwxVEZvMHFQSlk5bjBNQ20tcUZTWU1KSTA3bUZ5dw": 1793718338865
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qyupit123",
-      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
-      "u": "https://www.threads.com/@qyupit123/post/DfR5199nxvY",
-      "d": 1793709627000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak, saran aku nih skill digital marketing dan bisnis online. Karena kalau sdh belajar skill itu nanti kk bisa jual produk sendiri secara online, bisa dropship yg tanpa harus s",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfR51gyj3SC",
-      "d": 1793709623000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29184,10 +29165,30 @@
       "d": 1793717585000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BAZNAS",
+      "x": "TELAH DIBUKA BEASISWA RISET BAZNAS TAHUN 2026 - BAZNAS",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXhjT1lSWnNhZzVfcUczLTBXVmFTQTFzcFU2S3ZkeWVwQlNLaVAzSGx0N2owcDVqejlrRXhPNHFSUGF2cFBIQWNfRF81RUdDMGhpUzYzUWZFa0hVODZZQUx5a1c2a2JYSDhtWWFiZkhNWDN1TGRfeEZmLWN3cmhPalppSExBTWpGYTVMcUxmMEoxMEVUdU5odEs2bDRKSjZCSjg1dTZOMFlfT25PTmxhZA?oc=5",
+      "d": 1793712164000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Persiapan Jelang Pembukaan Jalur Rapor Menuju PTN, Simak Perkiraan Jadwal SNBP 2027 Berikut Ini - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ0JIUjA2YkY3YVk2bGZkQXR1V1hCcXRLbE5MQTE5alJqNmdmdExpRk50N0pjZURsUGxlZkhRei1yUzBTTW9qaG1JTWxLTVV6ckRUQjJ2VWdkY0NKZ3UyYlktSUhMZjA4Njl0U1FhLWNxWnY0LW1UNmdiU2VpSE82SlFKNXZsdEpOUjlRSUkyUHo5TFVGYlk3QzRENHNNZXp6SjN5Wm9jakQ3S2JwYjRZb0tuTktQWVM1TlBYUmVWTDM0ZUIxWDdfUFAyN0FkdFBtc0hCNUtVQkRYUDFaVzBKRtIB5gFBVV95cUxOR3VDWTk0Y1dVSEIxamVqQmREOUV2a3N3M1U2NDc4bkR2RGluT1FlRFN2ZktRc0VHNTNfcDBmQzBBYmVpVXN4U2VsSmMxS1NJZ2lyRUNPZUZlLXgzRmw3c0ZyZDJsbUVoZjF3THJTQ1RXaXRGUG5tcnR2d1VyMTMwR3FHRU9yS21YVjFqSFJBS3phVGg3LUhMQXNlalg0c2JycnRNd3RVcE5oalV3S2FCUk9vUk1RR09DTERVVmExbmF3WlphYlVjRWwxVEZvMHFQSlk5bjBNQ20tcUZTWU1KSTA3bUZ5dw?oc=5",
+      "d": 1793699898000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
