@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Desg12zk4L3": 1792455046688,
-    "threads:DesgAJ_k2qE": 1792455046688,
-    "threads:DeshAqRk-ts": 1792455046688,
-    "threads:DeshBrmE6oR": 1792455046688,
     "threads:Ddpd_Mkjz4c": 1792455342549,
     "threads:Desg2zGEywh": 1792455645585,
     "threads:Dauc1wXFT1v": 1792455645585,
@@ -27265,79 +27261,17 @@
     "threads:DfQi9GVj6hk": 1793664335580,
     "threads:DfQiIYsD77h": 1793664335580,
     "threads:DfG0XRkkioM": 1793664335580,
-    "threads:DXJOb8IGSih": 1793664335580
+    "threads:DXJOb8IGSih": 1793664335580,
+    "threads:DfQjcJ2kpnt": 1793664660664,
+    "threads:DfQhjPME02_": 1793664660664,
+    "threads:DU-XuvAEda5": 1793664660664,
+    "news:CBMitgFBVV95cUxQYW92WVhDZUtLazV3b0R3VmYwWUtjYVBFVFJUbFk2TUlEOWVTZW14cnVnX2FKNWdXSV91UlRnRldZMWt2TE1ZY2lGT0FvVlRZaHZSdXpiZHdRa2RKVDBELUNUbzZEdW1wX2ZyT0d6dWE0ejAxUWdCTXA5T05FNUtKYWtnSlpkenhMMElYaWtYM0VsRkpfMXdnQXZkbEdXQV9zY2pwTl93WEloNXNRbkMweEdiMzZldw": 1793664660664,
+    "news:CBMipwFBVV95cUxQc051eTVfVFJaLUdYMWJDcVZNZ2Y4VEo4U2h5ejQ2OUluQUpKRF9EemlpOXJOT3k1UmhfU0VwaENxYXB6anRxemVib2g4TzZ4REdZOUl5Q0l0Q2RRSXE4MFVlQ29ManlEa1hQM1QzdWFRVzJwSXhyTFJXOVVQTFJscUhZTmFUYlZ6NjZCYlZiaUJqQ2N2Y1VtYVBiWmRtN2Z6YXExWHdFMA": 1793664660664,
+    "news:CBMivwFBVV95cUxPLUFXS2I3SWdPMWVaRVdrd3ZRZE41dzNBR2F6dU5YbjJzakNtUDBqS0FVdnpzYjgwam41Yy1Lb2hrSnBFUkQ3QUY5UFJWdk9sQ2RmY3h3WUtXRThVendsZmwwS3dIeVZRRWd3VWVJc3h4c1Z0eDNreG5oeUhVWHROVVdDOTc1VmRPVkhzUVVJT2QxMUVWcHI3NW82SmpPRzhGSV9WZW1FazBlWTBSd3NfSkJBc2NIS3ZHTUo1dVlHSQ": 1793664660664,
+    "news:CBMiyAFBVV95cUxNUmFNWUxBNXVUTTBkRlI1ZElxUldmUnBsc2p0ZGo1Rjg2V1JQS1JKeTBkZEpZc21tYW1JQnhyX3BYak4xVGRNS0YxTTZCTVZ6R00yaWtFZ21wY2FqX0RvbjRlSHZIYnliYmxhNXZWRU1IWmdTTFkzQ2FyRjBSclRfeWJpWi0xZVRTSzl1b1pxS2hYNkNpY2RneWdEaXhoMmwzM0htOFUtNm1ZT3pyUC1EaWhVdXphRTFjV0V3R19YNDgtUkxTY1ctaNIBzgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUQ": 1793664660664,
+    "news:CBMi0gFBVV95cUxOVWE1ZmVsMk5FUE5zcVBhYndYTzBaR3hVMl9ZM01RYXpIOVd3NHRKM19nTnBSOHExR2FCd2ZET1lwLXRyenFNRmRhTGlydlpFLWFDdnhkbm1SMG4wY1ZlX19nak9EV0FOeVVFazNfOGdmU1lodGFfbXhJMTVMTXl6VDVwUDd6aWdjUk5ad2NoTmlsbXdPbUZFSHF2cnVITVpaYXg2R1dRNVNYWVJET1pjY0dnb19UVWs5cjZjSS1vNzFTQ1FobjVVd1hSX3A4dkJsQ0HSAdcBQVVfeXFMUEZrRnVLbktrdEM1OHBVQ1h0aF9BdmtpYXJxbW5FYVZOTjhTQmdfOXhNYjBSZFozWWxpRERQRTEyNEl6YTY3S285RmhIZVlJM3l0VWhtalEtcGJ6SkVyU0QyMGhmZ0hLdkdmZ1gtZ3NFRDIySHloMElseUZfNFpUVkk3dkpjZEFibENUWTdnaGxUam1DZ09vcWFkU0ttVURTRmFwMXFoNjZLUkQ3bldCRTB2Q2Z0SnNUTWl4MWc1OWlfNG94Wk51eTZ4UFJMMzNzZnJZMWF6UDg": 1793664660664
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dhumaconsulting",
-      "x": "Silahkaan join kak, kami sesama HR siap mendengar curhatanmu tanpa nge-judge kak 😃. Kita ada kelas gratis sebulan sekali juga, silahkan DM jika minat ya",
-      "u": "https://www.threads.com/@dhumaconsulting/post/DfPiqcdmCSM",
-      "d": 1793630365000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mindoeducation",
-      "x": "Yuk warga thread yang sedang cari kerja atau yang mau switch career atau mungkin lagi gabut dan pengen nambah ilmu. Cuss join pelatihan gratis dari Mindo",
-      "u": "https://www.threads.com/@mindoeducation/post/DfPlFVJHeLp",
-      "d": 1793631634000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nur_noer_",
-      "x": "Lagi ada pelatihan barista gratis tapi di Ciamis, coba cek2 repostan akunku, ada info loker dan pelatihan gratis",
-      "u": "https://www.threads.com/@nur_noer_/post/DfPkWe6ARKW",
-      "d": 1793631250000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@jiw1933",
-      "x": "Itu Ade gw baru beli baru 2 kali d pake buat masak sayur gw ambil trus gw lubangin pake paku jdi deh pot yg warnanya ungu. Yg ijo itu buat tempat nasi ibu gw baru beli blom d pake ",
-      "u": "https://www.threads.com/@jiw1933/post/DfPj_BgEhBd",
-      "d": 1793631058000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ai_rohani123",
-      "x": "Gak ada yang gak mungkin di dunia ini selama kita mau berjuang, belajar, bertumbuh. untuk menjadi lebih baik. hutang itu hina gelap ilmu itu cahaya pastikan kita belajar untuk mena",
-      "u": "https://www.threads.com/@ai_rohani123/post/DfPktqWjXFR",
-      "d": 1793631442000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@iswa_0208",
-      "x": "Untuk teman2 yang sudah bergabung di kelas gratis 7 hari bertumbuh di threads, mohon maaf, sementara pembelajaran ditunda dulu ya, karena sedang ad gangguan teknis. Semoga lekas pu",
-      "u": "https://www.threads.com/@iswa_0208/post/DfPkn_Ln5t6",
-      "d": 1793631393000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@donutcuz",
-      "x": "halo aku ada info loker nih wfh, bukan judol atau jual kelas, gratis. khusus perempuan umur 22-37, gajiannya perminggu sebanyak itu ayokk yg mau lumayan banget buat penghasilan, no",
-      "u": "https://www.threads.com/@donutcuz/post/DfPkhZTH9pq",
-      "d": 1793631339000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28767,10 +28701,80 @@
       "d": 1793663640000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@osiriscodecom",
+      "x": "Hari 1-7: qwen3.8-flash, hy3, mimo-v2.6-flash. All $0. Sisa saldo: $5 utuh. Bansos Osiris, limited time. Cek @osiriscodes_bot.",
+      "u": "https://www.threads.com/@osiriscodecom/post/DfQjcJ2kpnt",
+      "d": 1793664329000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anolyvyiii",
+      "x": "Bukak aplikasi cek bansos atau website e kak",
+      "u": "https://www.threads.com/@anolyvyiii/post/DfQhjPME02_",
+      "d": 1793663336000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "ANTARA News Mataram",
+      "x": "Polda memastikan penyelidikan pungli beasiswa KIP Unbim masih berjalan - ANTARA News Mataram",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYW92WVhDZUtLazV3b0R3VmYwWUtjYVBFVFJUbFk2TUlEOWVTZW14cnVnX2FKNWdXSV91UlRnRldZMWt2TE1ZY2lGT0FvVlRZaHZSdXpiZHdRa2RKVDBELUNUbzZEdW1wX2ZyT0d6dWE0ejAxUWdCTXA5T05FNUtKYWtnSlpkenhMMElYaWtYM0VsRkpfMXdnQXZkbEdXQV9zY2pwTl93WEloNXNRbkMweEdiMzZldw?oc=5",
+      "d": 1793661725000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "MAN 3 Bungo",
+      "x": "Pendaftaran Olimpiade Sains Siswa Nasional ke-17 Resmi Dibuka - MAN 3 Bungo",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc051eTVfVFJaLUdYMWJDcVZNZ2Y4VEo4U2h5ejQ2OUluQUpKRF9EemlpOXJOT3k1UmhfU0VwaENxYXB6anRxemVib2g4TzZ4REdZOUl5Q0l0Q2RRSXE4MFVlQ29ManlEa1hQM1QzdWFRVzJwSXhyTFJXOVVQTFJscUhZTmFUYlZ6NjZCYlZiaUJqQ2N2Y1VtYVBiWmRtN2Z6YXExWHdFMA?oc=5",
+      "d": 1793632197000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "Kuliah di Eropa Mahal? Cek 4 Fakta Ini Biar Kamu Gak Asal 'Judging' - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLUFXS2I3SWdPMWVaRVdrd3ZRZE41dzNBR2F6dU5YbjJzakNtUDBqS0FVdnpzYjgwam41Yy1Lb2hrSnBFUkQ3QUY5UFJWdk9sQ2RmY3h3WUtXRThVendsZmwwS3dIeVZRRWd3VWVJc3h4c1Z0eDNreG5oeUhVWHROVVdDOTc1VmRPVkhzUVVJT2QxMUVWcHI3NW82SmpPRzhGSV9WZW1FazBlWTBSd3NfSkJBc2NIS3ZHTUo1dVlHSQ?oc=5",
+      "d": 1793664360000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Kelumajang",
+      "x": "Gus Fawait Dorong Juara Atletik Jember Dapat Beasiswa, Target 20 Ribu Anak pada 2029 - Kelumajang - Kelumajang",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmFNWUxBNXVUTTBkRlI1ZElxUldmUnBsc2p0ZGo1Rjg2V1JQS1JKeTBkZEpZc21tYW1JQnhyX3BYak4xVGRNS0YxTTZCTVZ6R00yaWtFZ21wY2FqX0RvbjRlSHZIYnliYmxhNXZWRU1IWmdTTFkzQ2FyRjBSclRfeWJpWi0xZVRTSzl1b1pxS2hYNkNpY2RneWdEaXhoMmwzM0htOFUtNm1ZT3pyUC1EaWhVdXphRTFjV0V3R19YNDgtUkxTY1ctaNIBzgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUQ?oc=5",
+      "d": 1793631756000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Aspirasiku",
+      "x": "Lowongan Kerja PT Garuda Daya Pratama Sejahtera Dibuka, Penempatan di Kota Tangerang - Aspirasiku - Aspirasiku",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWE1ZmVsMk5FUE5zcVBhYndYTzBaR3hVMl9ZM01RYXpIOVd3NHRKM19nTnBSOHExR2FCd2ZET1lwLXRyenFNRmRhTGlydlpFLWFDdnhkbm1SMG4wY1ZlX19nak9EV0FOeVVFazNfOGdmU1lodGFfbXhJMTVMTXl6VDVwUDd6aWdjUk5ad2NoTmlsbXdPbUZFSHF2cnVITVpaYXg2R1dRNVNYWVJET1pjY0dnb19UVWs5cjZjSS1vNzFTQ1FobjVVd1hSX3A4dkJsQ0HSAdcBQVVfeXFMUEZrRnVLbktrdEM1OHBVQ1h0aF9BdmtpYXJxbW5FYVZOTjhTQmdfOXhNYjBSZFozWWxpRERQRTEyNEl6YTY3S285RmhIZVlJM3l0VWhtalEtcGJ6SkVyU0QyMGhmZ0hLdkdmZ1gtZ3NFRDIySHloMElseUZfNFpUVkk3dkpjZEFibENUWTdnaGxUam1DZ09vcWFkU0ttVURTRmFwMXFoNjZLUkQ3bldCRTB2Q2Z0SnNUTWl4MWc1OWlfNG94Wk51eTZ4UFJMMzNzZnJZMWF6UDg?oc=5",
+      "d": 1793613600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
