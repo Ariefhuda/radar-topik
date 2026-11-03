@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesoR05GP_b": 1792459247233,
-    "threads:DesoFa3GZ57": 1792459247233,
-    "threads:Desob-xjMYF": 1792459247233,
-    "news:CBMisAFBVV95cUxOODZHTDFjUG45S3QyQVVCdDFMRzJGQUN0T00xRk1BbVRsU3U1WTQxcDgxSGZ2ejhVeUdKZURzT2lnc1FVX3dqUjhtZFdMdjA2UXJIQ0R2VWlBcF9WanRjOXNqUlpVQVNRZURGNi1CTzFBN2NTM2pGa0cxWkU0VE8tNllaOWlPd09YLTlId2pUeTVEc0dpUVJIWGh5LXg1U3BwSkVZYXdPOVNSN3ZXRjAtONIBsAFBVV95cUxOODZHTDFjUG45S3QyQVVCdDFMRzJGQUN0T00xRk1BbVRsU3U1WTQxcDgxSGZ2ejhVeUdKZURzT2lnc1FVX3dqUjhtZFdMdjA2UXJIQ0R2VWlBcF9WanRjOXNqUlpVQVNRZURGNi1CTzFBN2NTM2pGa0cxWkU0VE8tNllaOWlPd09YLTlId2pUeTVEc0dpUVJIWGh5LXg1U3BwSkVZYXdPOVNSN3ZXRjAtOA": 1792459247233,
     "threads:DespE3EE30Z": 1792459538542,
     "threads:Deso2udIwzZ": 1792459538542,
     "threads:DesoIy5E9au": 1792459538542,
@@ -27333,7 +27329,15 @@
     "threads:DfQqRv4C_ar": 1793668581483,
     "news:CBMi2gFBVV95cUxOZlZDb1JoLTdsa1ZPVGMxbUFQU0J1YWRnS1dhVXgtMzl1NElRVlVXN3planJCZHlzT3M3UDNTdTFCREdxMzZQc2tsNEY3S0ZEeEdyeGJXTzRhcHNTYjFCNU5VQ1MtUUo2S3psY0JMOFdicHIySmZReFpnVjBHMklja3NQd2I3c1QycVcyaXlvZ1RGQ2tJTmlPSzdlZUlqRzJHNVA4UkJIUmZ1RnBlOUU1c1MzQnpwcVR5ZzlkelVxRUpSN2VYZEVrRjBmc0U2MEE0QmhjNGoxN0FrQdIB2gFBVV95cUxOZlZDb1JoLTdsa1ZPVGMxbUFQU0J1YWRnS1dhVXgtMzl1NElRVlVXN3planJCZHlzT3M3UDNTdTFCREdxMzZQc2tsNEY3S0ZEeEdyeGJXTzRhcHNTYjFCNU5VQ1MtUUo2S3psY0JMOFdicHIySmZReFpnVjBHMklja3NQd2I3c1QycVcyaXlvZ1RGQ2tJTmlPSzdlZUlqRzJHNVA4UkJIUmZ1RnBlOUU1c1MzQnpwcVR5ZzlkelVxRUpSN2VYZEVrRjBmc0U2MEE0QmhjNGoxN0FrQQ": 1793668581483,
     "news:CBMiwgFBVV95cUxPVFIzNXktb2lqS2d4SS1uVDNzRHBzVUJ3eEhSeWxwamxkbi1GRm9UVHNFb0JRZ1czZE9OeTNnamdJbFdVNzR5eUpxTVhiLUJtbjlLSU5YY09qN2hjYmU3R1E5dDBwT1I4Rm9qaEZGeHFOVTNGYWZjVnBfNUN4eUttNlVkbWpTR2dTMW0zSDhkdlNzak4yQXJxaHlOTzVzRnNOZXU4ZXVIUWNkVUxPaWRKWjFXUTJtdzlQQnVZeTNjME5Pdw": 1793668581483,
-    "news:CBMi3wFBVV95cUxQNmZXMmJtX1k4bWpsMjN6S0RqRjk3bm4wRG10T0xoaDUxN3oxclhEVm84aEx1YlU0VWIxZ2lwUENCaFY3OHJ5NU5UWmpXanJvLURHR3ZyeElVYXhrblhKcC1NaVdYRUp5a19FM3lLakcyOWZlN0hfcnlqcDBTa1J4a3hEb3VMMktoUlgwOVFQUWx4bjg3R2JMZDFGbVZ0aERrZWNwYVF5ckdXWEM5YkNuVnBJTC00VlIzeXNHZlNIYWVNLVYzZXZZRVNoQjZiYUZhUkdKaGo1MkRkWEJPVlA00gHkAUFVX3lxTFBwMVlvQmUtMC1Ea1pmcXBsTXhkOHpyUlVJSm95TUFhS0hRcGRZZFN0N3NFbXhzQ25PLTB2c2tCcTBVTi1CWVNYZDlBbE9DUU85VlFHdXVMVXphVHZjU1F4Yy1YSXVPc0p1THFuWUNXM0ZpeVV6R0puNlZoSXM5S2RSNVd3allCeW40aXJ6dVhtd3ZwN3pLUklSUlFhR19sYzhkbVdWVHVjdlhNdzAxNElud2RmUmttRDhKbWp2ekhaenpkV0xBUWRhYkxpcGttRk9BVUo2WXRPUl9jTXJvN09MSHZoZQ": 1793668581483
+    "news:CBMi3wFBVV95cUxQNmZXMmJtX1k4bWpsMjN6S0RqRjk3bm4wRG10T0xoaDUxN3oxclhEVm84aEx1YlU0VWIxZ2lwUENCaFY3OHJ5NU5UWmpXanJvLURHR3ZyeElVYXhrblhKcC1NaVdYRUp5a19FM3lLakcyOWZlN0hfcnlqcDBTa1J4a3hEb3VMMktoUlgwOVFQUWx4bjg3R2JMZDFGbVZ0aERrZWNwYVF5ckdXWEM5YkNuVnBJTC00VlIzeXNHZlNIYWVNLVYzZXZZRVNoQjZiYUZhUkdKaGo1MkRkWEJPVlA00gHkAUFVX3lxTFBwMVlvQmUtMC1Ea1pmcXBsTXhkOHpyUlVJSm95TUFhS0hRcGRZZFN0N3NFbXhzQ25PLTB2c2tCcTBVTi1CWVNYZDlBbE9DUU85VlFHdXVMVXphVHZjU1F4Yy1YSXVPc0p1THFuWUNXM0ZpeVV6R0puNlZoSXM5S2RSNVd3allCeW40aXJ6dVhtd3ZwN3pLUklSUlFhR19sYzhkbVdWVHVjdlhNdzAxNElud2RmUmttRDhKbWp2ekhaenpkV0xBUWRhYkxpcGttRk9BVUo2WXRPUl9jTXJvN09MSHZoZQ": 1793668581483,
+    "threads:DfQrfGLk8e9": 1793668842910,
+    "threads:DfQqxy_D928": 1793668842910,
+    "threads:DfQq03Pn45x": 1793668842910,
+    "threads:De6JGn3mWz6": 1793668842910,
+    "threads:DXRlt7_EaWd": 1793668842910,
+    "threads:DR9HMvIgRpp": 1793668842910,
+    "threads:Db4_Bj9D30u": 1793668842910,
+    "threads:DfQr9PXE-Hj": 1793668842910
   },
   "digest": [
     {
@@ -27575,10 +27579,40 @@
       "d": 1793667753000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yayleindonesia",
+      "x": "mau dapet informasi parenting lengkap dari A-Z? moms cukup komentar \"MAU\" nanti aku kasihtau cara gabungnya di DM🤭 Moms bisa dapatkan informasi parenting lengkap dan GRATIS hanya ",
+      "u": "https://www.threads.com/@yayleindonesia/post/DfQqxy_D928",
+      "d": 1793668174000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rs.aryni_",
+      "x": "Heyyyy warga liatttt ada seminar gratis nih, pengen ngajak warga sini ikut kegiatan ini, yukkk. Intip strategi investasi ala narasumbernya dikala market yg masih unstable. Klu udh ",
+      "u": "https://www.threads.com/@rs.aryni_/post/DfQq03Pn45x",
+      "d": 1793668199000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Tergantung jalurnya: PPG Guru Tertentu (yang sudah mengajar / Dalam Jabatan): gratis, full beasiswa pemerintah, tidak dipungut biaya apa pun. PPG Calon Guru / Prajabatan: biaya kul",
+      "u": "https://www.threads.com/@meta.ai/post/DfQr9PXE-Hj",
+      "d": 1793668792000,
+      "urgent": false,
+      "warn": true
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
