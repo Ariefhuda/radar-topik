@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetHb1SiX2k": 1792475460271,
-    "threads:DetHPuHIOuC": 1792475460271,
-    "news:CBMiqgFBVV95cUxOZDdaMVRNZVhsU1Fka3huQXBjcU8yMW1XLTl3M21VLTlSSkpHZmxMZjBiWldGclF4NWt6a1dzcXFmdk95MzRxQUFOYWFoN1hDUEliNjdhblNwZ3Q1OF9vYUV4Mi1hcGY0RWxxUklJMElFN0VDQ0dxM0Ribm1kSU1TcDZPWU4yNF9nSS02dEplN1JRODhFU1NyUFhKT1NkSFFRc1N1X0NrSDRnd9IBrwFBVV95cUxQbFByYzBTZGFZWEhoXy1HY18xcHNuQ3pVVVNYZnNlV1FjTm9YRFk3WVZvemFFcDN0WXpwOFd6cEw1N0hVZzFiTTNLeWgzVm1SZWYyMjNmQ3RTWDZ4RkRGLTR5T0x1TlQ5cVN1TFJ2VExHcERyRjI1eW5UTVRsQ1BqWWkwb2g1cWEtMzlHTkh1Sm1ReXBQVUJPU0E0V09ERmtJakhKX1hYM20wLTNGNy1Z": 1792475460271,
-    "news:CBMi7wFBVV95cUxPenFJWS0xLXd4OFhsTkF1TlUzYXlXSmJsaTV5dGx2ZHBtM3N3QTlXYnBxQjlHOUtoX1ZxT0ZGNjd6cFVrTnlsQkFmSURiTy1pS1BjRk5nc3ZHdDRCRGp0WFdvTzhNU0YxQWwzcmExVXU0XzRtUWpNRWdyU3hTbzZQN3pUTHdVWFYzMVo1RHJRQ0tSdGJlZ29Fb1FHTWRkRVU5RlNuVmgwNDlWOXVkYndXckphM0NPV3Y4ZXhNV09xeFJUOWhwV0ZMYnJLekpIY21SZjJOSC03Wk03UUJ4eHhhTExvSGdlOU1kLVlYVXNDMNIB7wFBVV95cUxPenFJWS0xLXd4OFhsTkF1TlUzYXlXSmJsaTV5dGx2ZHBtM3N3QTlXYnBxQjlHOUtoX1ZxT0ZGNjd6cFVrTnlsQkFmSURiTy1pS1BjRk5nc3ZHdDRCRGp0WFdvTzhNU0YxQWwzcmExVXU0XzRtUWpNRWdyU3hTbzZQN3pUTHdVWFYzMVo1RHJRQ0tSdGJlZ29Fb1FHTWRkRVU5RlNuVmgwNDlWOXVkYndXckphM0NPV3Y4ZXhNV09xeFJUOWhwV0ZMYnJLekpIY21SZjJOSC03Wk03UUJ4eHhhTExvSGdlOU1kLVlYVXNDMA": 1792475460271,
     "threads:DetHJLOkwdG": 1792475735764,
     "threads:DetIKxmH-e-": 1792475735764,
     "threads:DetH2i0Ghts": 1792475735764,
@@ -27449,39 +27445,23 @@
     "threads:DfRJqrEjAhy": 1793684740805,
     "news:CBMifkFVX3lxTE41UEtSV2xabkV3RXhUeVRzVGljX1NqcVg2OTQ1RTNEVlFMaFlhQVFVOFNZNlVQNGZRRk05TUwyYmpscW9fNTRQdll6bjFiN1RWTFdaTGtReWFZRDVfcGgxZnJ0eHFsTXNCWHVRaldxMEZlaEtralVRRzh2MHBCZw": 1793684740805,
     "news:CBMi3wFBVV95cUxPbG1IcEhVY2NzbGJramJtUHlTbHg3NTF4ekx6S3JCNkJhb1p6MXpjNjBRcW5MZzRXa0owQXAxS2NFTUVtc0NMQ2wzeF9qakl1bEcweFVVVHJ3N25IbDE3MVZkYWJSY08tNDF2MURWMGpRRzlXWE9fZXhEaTV5eWFOSlBZV001MGpfVlZGS3luRkp3NHdubWhtc1JRQ3IwbDdVRUxjMXhPMk5mZ25vbmJDcnMtV0VuQjRUckNVMUN0cm1SX2tLSGVIbkEybzNlVjVta2VKVXAwbWtfREt3SnpB0gHfAUFVX3lxTE9sbUhwSFVjY3NsYmtqYm1QeVNseDc1MXh6THpLckI2QmFvWnoxemM2MFFxbkxnNFdrSjBBcDFLY0VNRW1zQ0xDbDN4X2pqSXVsRzB4VVVUcnc3bkhsMTcxVmRhYlJjTy00MXYxRFYwalFHOVdYT19leERpNXl5YU5KUFlXTTUwal9WVkZLeW5GSnc0d25taG1zUlFDcjBsN1VFTGMxeE8yTmZnbm9uYkNycy1XRW5CNFRyQ1UxQ3RybVJfa0tIZUhuQTJvM2VWNW1rZUpVcDBta19ES3dKekE": 1793684740805,
-    "news:CBMivwFBVV95cUxOejBCTHp1dHRWYkhob1dLWjJmc0w3cW9VYlo0cWYyd0VuSkdLaUVVZ0FGSk9EcGEzX2hmaC0yUDFXNW5ENkxTVXk2SFZ3Rm9lUldycW52bTQwbGFYQjdzNE5ERFZ3aktERkpNZXBZQzdIT2dZTGtsWmNrWUQtb1JmNkhQYmhFd0s1TTF1UkpOUkZ2d215Q00tZUs0M1hxb3U3UFJibGFUQnVsUTR1UEtZeEZJb3EyNUJDdGd3bHRyMNIBxAFBVV95cUxQaTR5YzVudjUwd19fM0F0WUZOZDV5Z21lUTJoLVRLdEYxOU5LSDRTXzE5XzhwT2l3Z0NjeTNLckdPM2RuNDQxSkhwdEEtcl9sZE1yeFZveDBZX2tRNWdlMEZjRFFzZHFJTnNCN0lHWldlVTRCaUpyYnZBOHNJZHpYQkxOczZhdnh5bUdYUUNEQ0FVNkc4elZPc1NLTGx1aVpjSkpzSi1aWER5RGVSQjZLTFZORXI2WVRJcHlPSExINnlPcVdK": 1793684740805
+    "news:CBMivwFBVV95cUxOejBCTHp1dHRWYkhob1dLWjJmc0w3cW9VYlo0cWYyd0VuSkdLaUVVZ0FGSk9EcGEzX2hmaC0yUDFXNW5ENkxTVXk2SFZ3Rm9lUldycW52bTQwbGFYQjdzNE5ERFZ3aktERkpNZXBZQzdIT2dZTGtsWmNrWUQtb1JmNkhQYmhFd0s1TTF1UkpOUkZ2d215Q00tZUs0M1hxb3U3UFJibGFUQnVsUTR1UEtZeEZJb3EyNUJDdGd3bHRyMNIBxAFBVV95cUxQaTR5YzVudjUwd19fM0F0WUZOZDV5Z21lUTJoLVRLdEYxOU5LSDRTXzE5XzhwT2l3Z0NjeTNLckdPM2RuNDQxSkhwdEEtcl9sZE1yeFZveDBZX2tRNWdlMEZjRFFzZHFJTnNCN0lHWldlVTRCaUpyYnZBOHNJZHpYQkxOczZhdnh5bUdYUUNEQ0FVNkc4elZPc1NLTGx1aVpjSkpzSi1aWER5RGVSQjZLTFZORXI2WVRJcHlPSExINnlPcVdK": 1793684740805,
+    "threads:DfRJqUckxk9": 1793685043332,
+    "threads:DfRKxt8k9vP": 1793685043332,
+    "threads:DfRJ_aMlCwK": 1793685043332,
+    "threads:DfRJKTlEuE1": 1793685043332,
+    "threads:DfRLI2-Egqb": 1793685043332,
+    "threads:DfRLC1nD0qi": 1793685043332,
+    "threads:DfRK_eqHyX6": 1793685043332,
+    "threads:DfRA3r7m_XI": 1793685043332,
+    "threads:DfRKNA0DfmU": 1793685043332,
+    "threads:DfRKHr8mbQN": 1793685043332,
+    "news:CBMiqwFBVV95cUxNbWpQUHphYkYxR0hwZWp3S25NeDFfLVIyVlRKQm1Lbm9TRG0zZXE2MHZCNUdRbkNGeWlQXzE2a0dvTm5DTmRkWjlJRjc1WkZUOFJyZkdJcENKVzliSEM3NFVTWE1EWFFBSUpCejJnYXd2UmZYeDFYRDJrMmRLM1FUcVZzZ0hGUGw5eFNMUHF4UmhCM2JNWm1XdkoteHh2dDhSM25jVTYtMmNFSVU": 1793685043332,
+    "news:CBMipAFBVV95cUxPT2NycHpoMnhXSkdaaC1UckdDbDU2WHZ0d3hQM0dYbURIN3pxZkV6eVlKVzFFNENmcG9aSVdKZnJHdVZJT09ZeWFqdzhhVURfY3QyaS14YlJwOWtHS19WRTdjcDRVWWtmZ2xxazdVMnU1eXFSSU1Cbkxmb29XSEhkMXVVbUlQUW56TXIycXJkNFJtQzVzNnBDdFA0cnpfVVJvWWc2dQ": 1793685043332,
+    "news:CBMi0gFBVV95cUxNQjJpUXpsQzF5MnJ5WFpkaGoycUpqcHpSbl85cWU0Zktsa09IbExFbHMwNldpbFB0OTdvUDdwb3pJdEFHeU1zazdjSDRkSXVYQWM3Nzl0QWMzcms4a1hXSTlWb2ZqM2FPYURQSG9xdXUyREZnQVZESDMyZ2xvaWdhVFFsbkpWakY2M19SYjd1M0lvbWN0eHlMU3FIRFN2LV9xTHVDTktYNE1ycGp0VmM2TUNqWi1TU2ZIZUtMVlQydUxlUmViY0VMR3c3UWREa2cxRVE": 1793685043332,
+    "news:CBMiqgFBVV95cUxNS1E0ckNyY3RBQ1ZyR3BhWFVXT3hDLWQyQUlvNUFGTkRCSDFodEFsN1h2b2doWUJYR2dsbXlMS1JlV00wNFBOQ1lJbjBuMTZwWG5IRUpmYWRnQVllVkhFRDZvVEFYMTl0TjJlaklnVFFFSGt6ZmhyTVNCa2ZXTHpfMEQ3TXNPY1RLb1o0Z2oyclA5QTFqUXZQcWdYVW5meDVHMy1mQWNIMnItQQ": 1793685043332
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sempoaasma_jambi",
-      "x": "Parents, ada info seru nih! 🥰🧮 Aku lagi buka kelas sempoa ONLINE untuk si kecil yang mau belajar berhitung sambil melatih fokus dan konsentrasi. Buat yang mau coba belajar langsu",
-      "u": "https://www.threads.com/@sempoaasma_jambi/post/DfQfr-bH0aq",
-      "d": 1793662359000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@barokah6707",
-      "x": "kepoin BSU yuuk... bsu cair 900.000 periode okt.nov.des'26 prioritas bsu karyawan aktif di bpjs ketenagakerjaan dg upah/ gaji 3.5 jt dan tdk sedang menerima banso s lainnya. bagaim",
-      "u": "https://www.threads.com/@barokah6707/post/DfQ3PJ9Gdec",
-      "d": 1793674706000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Redaksi 8",
-      "x": "Hotspot Masih Terdeteksi, Bpbd Balangan Perpanjang Siaga Karhutla Hingga Akhir 2026, Dapat Dukungan Banpres Rp10 Miliar - Redaksi 8",
-      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVUFQZFZLNi1sRXdhSXZSNi0xcWhBYkZuM1k5LVZmRHJMRDR5ci1ScDJXVEdFNTRqQ1JQaWVHc0NmWERoWDFYLUNOckt0Y2ppb25TNThvVXhPdkw4VWE0RjJTdGR5Vjc4MWM3djd2LTYzZThxNjMxd0NVd1QxTmVRdVYxRUh2XzJMdG5iZVhmQnVmanpQb0daWDAtRzYtTy1vck9xdHNsS2VHQ0VZanZyNHFaOEJQXzFBRk05c0tYOEJLQXVaYTJfUGlYVHhISmNQOWdKeC1B?oc=5",
-      "d": 1793675337000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -28951,10 +28931,40 @@
       "d": 1793681378000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Vietnam.vn",
+      "x": "Kepolisian komune Bảo Lâm 1 menyelenggarakan seminar dan kompetisi untuk mempelajari Peraturan Kepolisian Rakyat. - Vietnam.vn",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2NycHpoMnhXSkdaaC1UckdDbDU2WHZ0d3hQM0dYbURIN3pxZkV6eVlKVzFFNENmcG9aSVdKZnJHdVZJT09ZeWFqdzhhVURfY3QyaS14YlJwOWtHS19WRTdjcDRVWWtmZ2xxazdVMnU1eXFSSU1Cbkxmb29XSEhkMXVVbUlQUW56TXIycXJkNFJtQzVzNnBDdFA0cnpfVVJvWWc2dQ?oc=5",
+      "d": 1793681915000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kendarikota.go.id",
+      "x": "Sekda Kendari Ikuti Rakor Pengendalian Inflasi Daerah Tahun 2026, Perkuat Sinergi Jaga Stabilitas Harga - Kendarikota.go.id",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjJpUXpsQzF5MnJ5WFpkaGoycUpqcHpSbl85cWU0Zktsa09IbExFbHMwNldpbFB0OTdvUDdwb3pJdEFHeU1zazdjSDRkSXVYQWM3Nzl0QWMzcms4a1hXSTlWb2ZqM2FPYURQSG9xdXUyREZnQVZESDMyZ2xvaWdhVFFsbkpWakY2M19SYjd1M0lvbWN0eHlMU3FIRFN2LV9xTHVDTktYNE1ycGp0VmM2TUNqWi1TU2ZIZUtMVlQydUxlUmViY0VMR3c3UWREa2cxRVE?oc=5",
+      "d": 1793684292000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "BeritaSatu.com",
+      "x": "Cara Aktifkan Kembali Status Bansos yang Dinonaktifkan Kemensos - BeritaSatu.com",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1E0ckNyY3RBQ1ZyR3BhWFVXT3hDLWQyQUlvNUFGTkRCSDFodEFsN1h2b2doWUJYR2dsbXlMS1JlV00wNFBOQ1lJbjBuMTZwWG5IRUpmYWRnQVllVkhFRDZvVEFYMTl0TjJlaklnVFFFSGt6ZmhyTVNCa2ZXTHpfMEQ3TXNPY1RLb1o0Z2oyclA5QTFqUXZQcWdYVW5meDVHMy1mQWNIMnItQQ?oc=5",
+      "d": 1793684640000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
