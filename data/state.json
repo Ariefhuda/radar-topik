@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeUyu9XCpRY": 1792461056953,
-    "threads:DessVzdAaQE": 1792461056953,
-    "threads:DesrHaZAaH6": 1792461056953,
     "threads:Desr3tCE1RR": 1792461338737,
     "threads:DFW2Fens9Sv": 1792461338737,
     "news:CBMixAFBVV95cUxNTXpNRGRHeFNNeUdnTVZkWW9rTW9HbzRCUzVaMEhOUERQMlEyZE5CRU14VmNqNW1hZ1paVG5xNHNjbEZrZjZXNjA3Smk4U3BhbjNURWd2MkNUWDFCTlNHamZVMEtCTldCeWpCSXV6em5TY1RhMmkxcW5XbVhUeDIzOTNPWEd3THlYWTVUN0NyNF9oMUNqbVNwRDhaSVBubUxQSzVpWDd0ZjRmUXM5NDNDaHN4LS1Id2FjWFFsSFA0U0trR0cx": 1792461338737,
@@ -27326,7 +27323,14 @@
     "news:CBMiggFBVV95cUxPSXVveFgtcV9tWjF5T3RDZzQxVnpNcmdqNk5LNi1yTDlNbC01bGhjYzBISElvREhtZ0ZsTXN3Ymh2RnFEZV9UUXI1RzRydzRaU3FOTFNSa0xoVE5aYTJrb1cwZW54MDdRWHV4N3VnUENINXU5WTR6UjFhaDVUbXhSc0h3": 1793670356156,
     "news:CBMipgFBVV95cUxOYTdnNXZHdHl4TUpteTVheWZpVEFlbkNibUhqcEFOTG53bmZZT2tPbGFvYkh4TFRxd0pfZEsxVWxIUE5QaUhaemxwU2FTX3NFZXRzZXAwcVFGUDR1S182SmZBV1V4WEpvWUItQy1GMXQ1UV9EbEk1NUticEdZbHc0YmRSUmZocEV6aGRGQnhMNzJKc2RYd0g3bkdHWkV6V2ctelA0UEhB": 1793670356156,
     "news:CBMiwAFBVV95cUxOVmVIQThsazYxenlLNnZkX1hjOTBCbWJPQlNKMURsQll1TWVldUYzRUk1UjRpaGFJbUpjQjlpRkNMbFpmRXV0eXNuMGVLVWZ4YzZYYWJ3cW94TGxjSWE1YWlBOFRUdU9NTV82SzJDUVB1Z0pLMXBUVUI1ZjlESHZubXJjMkUtZTRZTEptc3YtSHFIZjNobHRCYzl5RVp2NmJTLTJwcnZpOXR4aEF2SVEyUHdsRERPZ2VILTVNNi1tcVHSAcABQVVfeXFMTlZlSEE4bGs2MXp5SzZ2ZF9YYzkwQm1iT0JTSjFEbEJZdU1lZXVGM0VJNVI0aWhhSW1KY0I5aUZDTGxaZkV1dHlzbjBlS1VmeGM2WGFid3FveExsY0lhNWFpQThUVHVPTU1fNksyQ1FQdWdKSzFwVFVCNWY5REh2bm1yYzJFLWU0WUxKbXN2LUhxSGYzaGx0QmM5eUVadjZiUy0ycHJ2aTl0eGhBdklRMlB3bERET2dlSC01TTYtbXFR": 1793670356156,
-    "news:CBMi0wFBVV95cUxONzlTZHJ3ZU5jWU5qWGxRb09za0tUMVV3QlJLR1NySzNrQ2hXTHlnM1pwZWoybGdMa3h3dFZjRDdRSXR3WHl3UEJsNENUUmN4YzJDTEVSZUFxQXBwWHFyU0ludHh3c0JSTk1wcVlZa2hlWllWdWFhZ0YzUWVEcXV4cHBwRXFTZnZZTmRnUnl6dktYdHBmWjQ1V3Ywd3JJaXBJQ0hGcXQ1S2o1T3VKaE56cXdtUGZYaXhXTUlMc2dZT0NSV0N5UklaYTFnTE9sUUpLOE5F0gHTAUFVX3lxTE43OVNkcndlTmNZTmpYbFFvT3NrS1QxVXdCUktHU3JLM2tDaFdMeWczWnBlajJsZ0xreHd0VmNEN1FJdHdYeXdQQmw0Q1RSY3hjMkNMRVJlQXFBcHBYcXJTSW50eHdzQlJOTXBxWVlraGVaWVZ1YWFnRjNRZURxdXhwcHBFcVNmdllOZGdSeXp2S1h0cGZaNDVXdjB3cklpcElDSEZxdDVLajVPdUpoTnpxd21QZlhpeFdNSUxzZ1lPQ1JXQ3lSSVphMWdMT2xRSks4TkU": 1793670356156
+    "news:CBMi0wFBVV95cUxONzlTZHJ3ZU5jWU5qWGxRb09za0tUMVV3QlJLR1NySzNrQ2hXTHlnM1pwZWoybGdMa3h3dFZjRDdRSXR3WHl3UEJsNENUUmN4YzJDTEVSZUFxQXBwWHFyU0ludHh3c0JSTk1wcVlZa2hlWllWdWFhZ0YzUWVEcXV4cHBwRXFTZnZZTmRnUnl6dktYdHBmWjQ1V3Ywd3JJaXBJQ0hGcXQ1S2o1T3VKaE56cXdtUGZYaXhXTUlMc2dZT0NSV0N5UklaYTFnTE9sUUpLOE5F0gHTAUFVX3lxTE43OVNkcndlTmNZTmpYbFFvT3NrS1QxVXdCUktHU3JLM2tDaFdMeWczWnBlajJsZ0xreHd0VmNEN1FJdHdYeXdQQmw0Q1RSY3hjMkNMRVJlQXFBcHBYcXJTSW50eHdzQlJOTXBxWVlraGVaWVZ1YWFnRjNRZURxdXhwcHBFcVNmdllOZGdSeXp2S1h0cGZaNDVXdjB3cklpcElDSEZxdDVLajVPdUpoTnpxd21QZlhpeFdNSUxzZ1lPQ1JXQ3lSSVphMWdMT2xRSks4TkU": 1793670356156,
+    "threads:DfQu10Aj1wQ": 1793670645917,
+    "threads:DfQusTPEixm": 1793670645917,
+    "threads:DbYiPy4Eqmf": 1793670645917,
+    "threads:Dd8gwLZmplG": 1793670645917,
+    "threads:DFhIe2uOuJs": 1793670645917,
+    "threads:DdL1PcxEtVN": 1793670645917,
+    "news:CBMi5wFBVV95cUxNb1llMVdNSlpfcEZUakp2U1FqeUIzVnlrWFJRTGNMT1hEN210d2F1ZTMxc2VmU2ZFbWpDWmFGXzJjMDNaa2VfR1RXbzlpZHZHZGNFR0d2RlJtcGVKd254UDFkS016eFRqRVNxMFI5elhMa1RocWRZdEhKLXhHcXppRkZXU3JIQ2VpRVk2UnBLVGc3YXp4TllsamxiSE94YzZJQlhCRDc1cWZMTnhpY3VPZkk2VUpsVjdMbWJULWc0STFRQkRuSmY1MElRZWVJTWVWN1ZaZ2hERWMzM2pqTGlWamJ1cVotU1U": 1793670645917
   },
   "digest": [
     {
@@ -27738,10 +27742,40 @@
       "d": 1793665405000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@dpw.pkbkepri",
+      "x": "BPJS PBI tiba-tiba nonaktif, padahal masih membutuhkan layanan kesehatan? Jangan panik dulu. Jangan pula langsung beranggapan bahwa kita sudah tidak berhak mendapatkan bantuan. Ada",
+      "u": "https://www.threads.com/@dpw.pkbkepri/post/DfQu10Aj1wQ",
+      "d": 1793670304000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@dennisgavin3007",
+      "x": "Cek bansos di web nya",
+      "u": "https://www.threads.com/@dennisgavin3007/post/DfQusTPEixm",
+      "d": 1793670226000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Cara Daftar Beasiswa Cendekia BAZNAS 2026, Mahasiswa S1 dan S2 Bisa Dapat Uang Saku hingga Rp24 Juta - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb1llMVdNSlpfcEZUakp2U1FqeUIzVnlrWFJRTGNMT1hEN210d2F1ZTMxc2VmU2ZFbWpDWmFGXzJjMDNaa2VfR1RXbzlpZHZHZGNFR0d2RlJtcGVKd254UDFkS016eFRqRVNxMFI5elhMa1RocWRZdEhKLXhHcXppRkZXU3JIQ2VpRVk2UnBLVGc3YXp4TllsamxiSE94YzZJQlhCRDc1cWZMTnhpY3VPZkk2VUpsVjdMbWJULWc0STFRQkRuSmY1MElRZWVJTWVWN1ZaZ2hERWMzM2pqTGlWamJ1cVotU1U?oc=5",
+      "d": 1793603100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
