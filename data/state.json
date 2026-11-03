@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Db902KoASIe": 1792469149949,
-    "threads:Des7cbXkVNZ": 1792469149949,
-    "threads:Dd1d0WGgHMN": 1792469149949,
-    "threads:Des7mgYj00y": 1792469149949,
-    "threads:Des7Te6ipkV": 1792469149949,
-    "threads:Des7UFgFfXv": 1792469149949,
-    "threads:Des7O6Aj0yu": 1792469149949,
-    "threads:Des7C9GAUrl": 1792469149949,
-    "threads:Des7PeaCVv1": 1792469149949,
-    "news:CBMizAFBVV95cUxQNFp3eU9SeXdTSEhQZGQ2a1kxa3pua3VSZkd0SmFSbWhpOU1MQmdPYkxGZEg5bkg0SWhJU1g1Qzk5bU1TNl9KR05jMVhlRTJmZXF1eTAxUDVFQzZWN0dlOEFPMFkxdmZrZHNuSlVPa25xMnFBS0o3UGZjOGRkM202TG55MGRwaWUyVUdZLTU3RE85U010bUFSeU5DVHZCOEFMclduTEQwSkRCOTV0c0ZRR0hVZVFaZl81a3pHX0JqejVaMmZWWjR0dmM3Y1LSAdIBQVVfeXFMTWRBSnNrWEpoeExYaVBaS3g0dzQtQzE3OUg2dzRTUGlfSnpYQkZBTHJ6LVFxWXpJN21YTTl4UzdFQkxLR01udDB6OG0zVlNQOWpOdHBWckJGenNORjZRc3pyOW9zTm1oZkJGR3J0LUJ5VHBBaHJHV1Nham53b0hhWEpKbjgxZTg2NWdqVEltVTFfQmk3dDJBZDAzMDhfSjVuVTJ6Zmg1OW8xVUlHUHI4X0N3R3QweGZIcWZJOFQtSnY2cFJyYWUzUExhMjltUlo1Nmtn": 1792469149949,
-    "news:CBMi0gFBVV95cUxPbVZBNml3UDFGczRETjFpNU5DSWh2UGVIT2RUcTdzdmpsczhTd1ltVXN4RGJjRGxSRjVOSWxqQ2puY1RxdjFScVN4QUFjNUF2MWF5dW9pZFM3dU9PaDc5dTJSa3pJNXF0SGthS1JCay1Edmg0eExoVFVyVnoxMFdqalJEaUdYT0R5S1Z4MWMwUklYaG1BMElURlhpSFVlYl9lU2pTbnVubUVsRXlJQWhIOTNXa2NlUDJ6WUkwWV9VZHFHSS1ESnlLWHA0YjRQcHFkM0E": 1792469149949,
-    "news:CBMi5gFBVV95cUxQMDRWZ0xTbDNUcFhGM0UtajAyYzdPUERabF9GWnpoblFwZXZFaWtiMlVweEYySkhGVEk1eXRwNXRBb0pISFFydno0clRVUThOTEkxSDUyYVNYckRLdWJZOTl5N2R2SmNoTXBzMHRBTjRkbjVQTnpMcGhWNVFsc09najJaRVA5U0hzZnNicm1xcXZLNENONkwxcDA4TnhPNmVWSjNnN3llWWdnbFlOd2VfdWtPcE5IYnNaOUYxRjRlMU5PTDZBV0xMMXdyZExPc2VqN3B2cWx3Mmx2ekNNR2pteENheDRiZ9IB3wFBVV95cUxOUVJxMUtiQWtkc1NDVFlzNllDM3NUZnU4ZEozZ1ZyM0ZaRVI0MVBMRGJiRDZYM2lzU1pnQ0s4LWVwM1NkZmR0aUN4U3RGRkVESDhZWHVLRWUyNEZuQTlOSFZzYm13ZS1OR0F6eTlmTVJqTUNLQWx6NG1zRldjM1NOdHBBQTBTTV9HWHZkMS1naUZuVEVpZzhUNF9xOVdUSkh3NGN0TEp5RVRHTThzaER1aXJoZkpBd0lsUlFDSzIxZUp1QTJCZXpxWFBaMVo1WTlUc09mbXljUl9JeVZTXzRr": 1792469149949,
     "threads:Des8CuIAUlg": 1792469455570,
     "threads:Des7y6yGE0W": 1792469455570,
     "threads:DeruwrZD9zf": 1792469744118,
@@ -27435,39 +27423,14 @@
     "threads:DKOE1sxockU": 1793678459753,
     "news:CBMifkFVX3lxTFBWbDkwMndpX2QzWDFnck83NDhFN2U1aDBaNzNWX0Z4V3FTM05aNlZYWG54Q01idUFXNGFEaUhIT1c5RWdhQVlkOUYzSVhUWDJhQjhaRHBydUFrMk1VTWFKYnU2UUpsbHdLMVJLNGdIbGswc19jLTRJdkcxNVlqZw": 1793678459753,
     "news:CBMinAFBVV95cUxQTTBKWEJWdDFxVHZJd0ZzYjZaVUR5aW9kRmtPcl9XR054Z1FWdF9yR3hGemFsUjBkaWJJcTZadjBud2RYVl9adG96UWFIRG53WjFDcGRMbExPVE9mMDR6alZSNVZheVZlS01xSm9OY2V1TXFGQ0RFanZrRG0yaE1OSmVsR0UtN1FqNnlCNTBfbWN4cE9oeklYbUYtdlbSAZsBQVVfeXFMTnpYZUFyRVA5amgzSER0TWRVcS1vSVNmOEh5VzBvRnRGR3Y2SFhWdm0yV1laVEVXZEtWRVJ6M2NXRHNKVnVieWtYeFlPUGxBZzFVV3dXd3ZTN2djeFIzTW9UMUxPZzk5cTVtRlhxUUFIUHRLdzFwQnpoem1mTFdzNXl0Qk9FVElPdVBfR0FCSy00T2RFY013VkVYb0U": 1793678459753,
-    "news:CBMizAFBVV95cUxOTEo0V1gxc2MwQU1kVnoyS0d3a2hLRVp3UVZHSE9GVExJX0Judl9CczhCRXpEUEN5MzROSVRjOGIyVlBOb3E1QUM5RnFhU3d1VEk2ajJaQnJGRjlpQlB6OGpfRmRjSXRtanZzVlJ2X3FERmZOMjctZWpzX2pFV1FtQjFqVl9QQkI0NDVEdngxLTZCZDJRMDk1YzZfckR5SmZpV0p1ZzVFcTRXZXlIUEJEVUtXOVRmY2dOVXpxcExOZ1lOMUlUcW5ENFY1Sm8": 1793678459753
+    "news:CBMizAFBVV95cUxOTEo0V1gxc2MwQU1kVnoyS0d3a2hLRVp3UVZHSE9GVExJX0Judl9CczhCRXpEUEN5MzROSVRjOGIyVlBOb3E1QUM5RnFhU3d1VEk2ajJaQnJGRjlpQlB6OGpfRmRjSXRtanZzVlJ2X3FERmZOMjctZWpzX2pFV1FtQjFqVl9QQkI0NDVEdngxLTZCZDJRMDk1YzZfckR5SmZpV0p1ZzVFcTRXZXlIUEJEVUtXOVRmY2dOVXpxcExOZ1lOMUlUcW5ENFY1Sm8": 1793678459753,
+    "threads:DfQ-H_lCVhS": 1793678758032,
+    "threads:DfQHrPvj20K": 1793678758032,
+    "threads:DfQ-5PdE93C": 1793678758032,
+    "threads:DfG5Dp7k036": 1793678758032,
+    "news:CBMijwFBVV95cUxQNjkzbzhBS3pCdkdyYXpneV9yaXBUM1hkTGdLVHFCeG8ycjJpSmI4OVFka0ppTndrMGtDR0EyZVh5Z3Z4NlJjUFl6WEJhWTdEVllyemlObVNQcGRENzViazJiV0RtNzBwNTd6Y3g1WEJIMWx4bDNuWGtOalhvOHVKMlRkSGsxczNkb25odnkxOA": 1793678758032
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfQwO0uD7AG",
-      "d": 1793671033000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfQwNAuDwMs",
-      "d": 1793671018000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "📢 Pejuang CPNS, Yuk Gabung! 🎯 Mau persiapan CPNS lebih terarah? Yuk, join grup kami! 🎓 🎁 Gratis Webinar 📚 Gratis E-book CPNS 💪 Tips & trik persiapan seleksi ✨Link grup dibawa",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfQwAY6jxBK",
-      "d": 1793670915000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28937,10 +28900,40 @@
       "d": 1793673336000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@arsiseducationofficial",
+      "x": "📞 Kalau ada panggilan soal beasiswa kuliah di China, jangan buru-buru di-reject! 🇨🇳🎓 Arsis Education siap membantu kamu merencanakan studi di China, mulai dari program bahasa M",
+      "u": "https://www.threads.com/@arsiseducationofficial/post/DfQ-H_lCVhS",
+      "d": 1793678317000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@naadoctorr",
+      "x": "ada kah yang mau ambil kedokteran atau residensi di rusia dengan beasiswa pemerintah? aku lagi open mentoring 200k aja, aku himbing dari awal pendaftaran, essay, interview dan ada ",
+      "u": "https://www.threads.com/@naadoctorr/post/DfQHrPvj20K",
+      "d": 1793649770000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ladangkecil",
+      "x": "Nah kan br aja mention semalam. Temen2 yang pakai BPJS PBI (atau saudara kalian), semoga pada aware untuk cek kepesertaan kalian. Bulan2 lalu rame soal desil yg tiba2 naik, ramenya",
+      "u": "https://www.threads.com/@ladangkecil/post/DfQ-5PdE93C",
+      "d": 1793678720000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
