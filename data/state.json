@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdFhUYaAZfB": 1792498459194,
-    "threads:DetztsEj-ny": 1792498459194,
-    "threads:DetzSavjn4i": 1792498459194,
-    "news:CBMipAFBVV95cUxOX29XaHJ4ZGtmUXIwUGc4T1d6TTZldU1nNE5MWTFvZjM3TWtIWC04VnFxWlU5cTBWbGlGVmZyYVlsV2RibjRuSzdvQWlSZFd1cU1RSHhGQ1laRHlMNklpU1dyVzBZQnNKUlY1ZDNxWUFRRXQzZW5uQVpMcThKQUNRbEVmUTNVMGRvd0JvdC0yT1JUUEtWYlF3WXVnSFltQXR2dlFPVw": 1792498459194,
-    "news:CBMi5wFBVV95cUxNTTJhbWpxUUZqRWg1eUVmQXBfc1hMMmFfbEp3RmF4TmxucXdtaXV5YlNMcXdubUQyY0VRT3lmOWQyREdWLWdiVDl5WjNuajdCVHVoS2ZoVzdEcnhzOXIwcUN5cDVMSmpIamR3aEVVYk9rbEx3bUJ2d0xyM0NXR3phNldaaldOVjFkLUZSZVZsM1lDc0xLOVFsNm5UYnR4LXVuT1gtWTd0OTRScDFvLXVJWVVva3U4YUhaRWk2bTdRYlNZLXBERDNueFZlY3VuSjVPVTdaaVFrZUhUSXdkNXp6eU5aYXJfQzjSAewBQVVfeXFMTjFrX25UNUpCNG5OMUJncHVJNFdlNU1BVE1BMkM4WjZobHZ6Xzl4VVkxNHpDaUZMa0syai1lZGpnaGdndXVQLTBpQVNFb3ROLXVnT3V4LU5MS1ZzalBndHdYTFdsc19vbTdnVGYyajBKamx0c3JDbDBvdXFTWUlzTDVyaGxLaG5HYkE4VG02ZVJtREFWb0lva3JCeGxLUkpMdnc4eGVRbmFXVk5Zbmd0R1d6VnRxbmhsR0hBQ21uazdWd2cwVFRGSGlnRy1oX0dNTEtSNzV2bmNKNjNZZjA2d3BTc0lTdDl5WFJoZzU": 1792498459194,
     "threads:DetyeH4I6lf": 1792498865601,
     "threads:DetySDPIFr7": 1792498865601,
     "threads:DetyCQNmXhg": 1792498865601,
@@ -27605,7 +27600,22 @@
     "threads:DfR1hGFiCCp": 1793707854922,
     "news:CBMitwFBVV95cUxOeHRISjRnX1R3VlQ5XzhWWWNoZTlLWjRXR2tBRXNNZmwtVHlIWWYzNnZNUXZZblNHZWNNRjloTnh5S2VhUGNGcVA2UWsyNTkxVHBJM2xYWU0wRDRGeG9FY2lDa1dVT2lHdmE5VGdTLTJNd2tySktIUVppZ19XRklHTDBqa3E1aFozU3NFQzZfcFp3Q3dONkJwdUZ4UTRTa2ZXcktxcGl0Zy0tY2p2RF9BR0M2OHUyRknSAbYBQVVfeXFMT2xrcmNlY0hNbm54dE1tZXU3UVl1bmpNVXVZOHE1dVJrOHlGMHVXcmR3eW1jREFORGJ3MkhDMjAteEVzcHJrcWFlLWNLdUl4cTVtQklkeDJ2ODFoRnJ2LWI0MW54Tk9oZHRUOEc0dzV3dXUwRHRWMVdoNDZOZVpwT1FfWmNZT0d4QU1TRnBHbUJWSWJaYnk5Yi1BMEFyWWszMGFIZF9BTi16MUI5Um5tbXVsR3FWeUE": 1793707854922,
     "news:CBMirAFBVV95cUxOczZ2NWRRcW8wbFA3bmdVSEcyS3BwdF9CUGsxNHIySmFzTUVtcFM1Ml9ULWlwM19WUHdNRnd6TEphTUV5TnVQelA5ZEpDdzc3ZGY3Rjhfb0dGN3c1YXliUGRJUU05YnlTTkNqRk1xTG5lNHlSckZncWRwUTJvcnlfTk1SM19USURaREpHdDcySGVRZ1IzM0hOdXZRay14UU5aaEliTWhYaUROQU1U": 1793707854922,
-    "news:CBMixwFBVV95cUxPeUJBN0FCd1J2eEhBYUhsdThlWkhBNEdvdTJzRXFCTGtKbVlVRXBYcGRNejg3SDlSUTFvSndVTFRFZmthOUJxQmF0ZUp1WnVobll1d1VSSzhnYjQ5SG00S3lwT3NEMmFTLUJPTlNJSXZaQktuTFFDTUxwWWU5ak1wQnNnaTRTdkhJTm1raU5vZjc2RHZ6Tl8ydHp4eDhSZmctZnctQlVMWTRlazZ0YUlGejZGX0lWblJvRVdiUGlraUM3VGNiT1I4": 1793707854922
+    "news:CBMixwFBVV95cUxPeUJBN0FCd1J2eEhBYUhsdThlWkhBNEdvdTJzRXFCTGtKbVlVRXBYcGRNejg3SDlSUTFvSndVTFRFZmthOUJxQmF0ZUp1WnVobll1d1VSSzhnYjQ5SG00S3lwT3NEMmFTLUJPTlNJSXZaQktuTFFDTUxwWWU5ak1wQnNnaTRTdkhJTm1raU5vZjc2RHZ6Tl8ydHp4eDhSZmctZnctQlVMWTRlazZ0YUlGejZGX0lWblJvRVdiUGlraUM3VGNiT1I4": 1793707854922,
+    "threads:DOpxyC_Ed7u": 1793708165786,
+    "threads:DfR2Ck4mTS3": 1793708165786,
+    "threads:DfRufIHjQoK": 1793708165786,
+    "threads:DfOItDGE0KN": 1793708165786,
+    "threads:DfR1rtSnKTA": 1793708165786,
+    "threads:DfR1lyGExT7": 1793708165786,
+    "threads:DfRwXYJmEQl": 1793708165786,
+    "threads:DfRwUmcGNf0": 1793708165786,
+    "threads:DfR2xgkk_YR": 1793708165786,
+    "threads:DTpIabmExee": 1793708165786,
+    "news:CBMiygFBVV95cUxPUFpWLXlWMEtqM1E1YnlSb0E4TVBscjNidGNkWjVqWHNsUmZxUjJDR0E0WGpSRGs5QWEyVVQ2NEQwMTVSZ1dhMGxzclM1ZWNrd3dfemFQNzFsaEM3ZUN1M0ZDNEZXX2RYdENvZy10ZnNLaVQzS0tGcC1oc05uU3c1Y0diS0l3U0pVU1dJOW5GYVB1bEpTUkx1Wnp6VTYxYnBhVlo0eGdtMF9aLWh1T0VVVFZUZlZzY0o4ZHUwLXd6YVUybkkwOVpyYlBR": 1793708165786,
+    "news:CBMingFBVV95cUxPaUI5dFJhblZxQ3lST1pVV2hnb1pOS0M4N28yMTMtWkhHZkxLM2FtTzF0d0VqNklJTndzdmR1VlJiekVYZC01aXlYdmZpdkpEeUh5TFJyaUJROEh1OGY0QXZfT3RSb1ZFQTQzeFFVT09tMVl3UGJsWlBsNnJZYTZxVU5OLWhRUzRVN0JHSjVpaHVFVnpEX3IwajBMYllxdw": 1793708165786,
+    "news:CBMitgFBVV95cUxOXzd1azlZTHlNSUg1aXNDUktpVXpXRWtfbV9SbHV5VGdDQnprYjlVMURHbjI0eC1IbzJ4N1pWRDFmTGN5U2RHWE43ZFFtSkFLTUJ0U19Gd0FOSzZrbEZCSXp6YU9zclEtME43ZW1xMXJwZ0ZOcnM3ZFZvajFQS3B5M3lmRmpJbXI5OXBNMEZ6YkVETEdnVjlyMjRnZkpJTmJuejRmbHhFQ0JLcG1XRFJjcUJUUml1Zw": 1793708165786,
+    "news:CBMi0wFBVV95cUxQc0lmZG9leTlBRlpLVl90eEtxS1BzUlY2QXdMRlduRDdiU0R4eU1GeWZXN216OUxWbnJQbFhDUEsyN3RHNktHNi0tbnUtZVpURUs4Qk1YZnp3Vlp1MGNvdXlMa1pVclphUjEyT3NyM2hNbzM4T1E1WDFrYmpIbmFCTXliSHNkV1lNN3djZHJjU1p4X19PVExkTlhSTGNrMjNoWlZ4OEpxeDZqdGlCUFVSUnF0V1pvSVNTaEJoeDVwZDdjLVpwbUc0NC1pZ1JNdU1IamNZ0gHYAUFVX3lxTE81LWI0VnNPQVdaTXA5eUstMTVtTlU5T05mTmkxV0xPbEJmc3JhUExKSTZkQ3UyaEdoWEdIVU1GaUlVWDJILXcyak5QSS1MSG5rRDBvVUZqZEtHNFdmdGoyOW42Y3lrMGhjNFFWcm5XbjZIN0haWE43UlAtRDkwRXF1UUJSVlJaZ25jbHI2QjB4czJMeTZnTGFVTEwwdVpvaUc5S3Q3dDNSWkk3Q1JqVkdoY0tzdTh0bWJGUDhZSnd1YVQ5azdSdnhYSHdtMEs5elNMOERHLU85WA": 1793708165786,
+    "news:CBMitwFBVV95cUxQQ3UwNlJFNVpmcnEzZFAxOVUxcEhnU3ktOGhiRmpZbFBoLUVlbzY3eXRrM09KazZWWjB3c0I3eHpxTmQ3a1RaWTU5STBqS2NiaHZlREl5X3JlRUZZeE5mSl9YZ2RzODZ0d1h4aWRTVVZKYktKc3VRRV9wY3JPR0lCUy02UkdQeW5iMTRKam1pSzY2OFlNSGtlSU10ZmM1cU1Namg4WXNabHh2NTI2dEZEWVNaQmR5d2vSAbcBQVVfeXFMUEN1MDZSRTVaZnJxM2RQMTlVMXBIZ1N5LThoYkZqWWxQaC1FZW82N3l0azNPSms2Vlowd3NCN3h6cU5kN2tUWlk1OUkwaktjYmh2ZURJeV9yZUVGWXhOZkpfWGdkczg2dHdYeGlkU1VWSmJLSnN1UUVfcGNyT0dJQlMtNlJHUHluYjE0SmptaUs2NjhZTUhrZUlNdGZjNXFNTWpoOFlzWmx4djUyNnRGRFlTWkJkeXdr": 1793708165786
   },
   "digest": [
     {
@@ -27657,10 +27667,120 @@
       "d": 1793707680000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@journeybyalesha",
+      "x": "Kak, kalau tertarik jadi reseller atau dropship SR12, boleh banget! 😊 Bisa juga ikut webinar gratis dulu untuk mengenal produk dan sistem kemitraannya. Yuk, gabung grup webinar ag",
+      "u": "https://www.threads.com/@journeybyalesha/post/DfR2Ck4mTS3",
+      "d": 1793707633000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@saifus_salam",
+      "x": "Jadikan siraman bunga sebagai pengingat bahwa apa yang ingin tumbuh dalam hidup harus dirawat setiap hari. Afirmasi bukan jaminan uang datang secara ajaib. Tetapi pikiran yang lebi",
+      "u": "https://www.threads.com/@saifus_salam/post/DfRufIHjQoK",
+      "d": 1793703672000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sertifikatkucom",
+      "x": "Sertifikat buat acaramu yang mana? 👀 Seminar, lomba, pelatihan, relawan, magang… lebih dari 100 template siap pakai, semuanya gratis, dan tiap sertifikat dapat nomor unik + QR ver",
+      "u": "https://www.threads.com/@sertifikatkucom/post/DfR1rtSnKTA",
+      "d": 1793707449000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiritokuteiginou",
+      "x": "Satu berkas lagi, satu halaman lagi. Lelahmu malam ini sedang menyiapkan jalanmu. Lelah bukan berarti tidak mampu — lelah adalah tanda kamu sedang benar-benar berproses. Istirahat ",
+      "u": "https://www.threads.com/@mandiritokuteiginou/post/DfR1lyGExT7",
+      "d": 1793707411000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Yuk join belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfRwXYJmEQl",
+      "d": 1793704657000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Yuk join 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4 Kelas",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfRwUmcGNf0",
+      "d": 1793704635000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@global_partner_bridge",
+      "x": "Siap berkarir ke Jepang tahun ini? LPK GLOBAL PARTNER BRIDGE membuka Pendaftaran Siswa Baru Batch 2! Dapatkan Beasiswa LPK dan Beasiswa Perusahaan. Pendaftaran GRATIS, hanya 6 Bula",
+      "u": "https://www.threads.com/@global_partner_bridge/post/DfR2xgkk_YR",
+      "d": 1793708017000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Beritajakarta.id",
+      "x": "16 Warga Rawa Badak Utara Ikuti Pelatihan Gratis Tata Rias - Beritajakarta.id",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUI5dFJhblZxQ3lST1pVV2hnb1pOS0M4N28yMTMtWkhHZkxLM2FtTzF0d0VqNklJTndzdmR1VlJiekVYZC01aXlYdmZpdkpEeUh5TFJyaUJROEh1OGY0QXZfT3RSb1ZFQTQzeFFVT09tMVl3UGJsWlBsNnJZYTZxVU5OLWhRUzRVN0JHSjVpaHVFVnpEX3IwajBMYllxdw?oc=5",
+      "d": 1793705880000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "PusaranMedia.com",
+      "x": "Pemkab Kerahkan Satgas MBG untuk Inspeksi dan Nilai SPPG yang Beroperasi di PPU - PusaranMedia.com",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzd1azlZTHlNSUg1aXNDUktpVXpXRWtfbV9SbHV5VGdDQnprYjlVMURHbjI0eC1IbzJ4N1pWRDFmTGN5U2RHWE43ZFFtSkFLTUJ0U19Gd0FOSzZrbEZCSXp6YU9zclEtME43ZW1xMXJwZ0ZOcnM3ZFZvajFQS3B5M3lmRmpJbXI5OXBNMEZ6YkVETEdnVjlyMjRnZkpJTmJuejRmbHhFQ0JLcG1XRFJjcUJUUml1Zw?oc=5",
+      "d": 1793677500000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Batas Timor",
+      "x": "Program Bedah Rumah Diperluas, ATR/BPN Gratiskan Sertipikat Tanah bagi Warga Penerima Manfaat - Batas Timor - Batas Timor",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0lmZG9leTlBRlpLVl90eEtxS1BzUlY2QXdMRlduRDdiU0R4eU1GeWZXN216OUxWbnJQbFhDUEsyN3RHNktHNi0tbnUtZVpURUs4Qk1YZnp3Vlp1MGNvdXlMa1pVclphUjEyT3NyM2hNbzM4T1E1WDFrYmpIbmFCTXliSHNkV1lNN3djZHJjU1p4X19PVExkTlhSTGNrMjNoWlZ4OEpxeDZqdGlCUFVSUnF0V1pvSVNTaEJoeDVwZDdjLVpwbUc0NC1pZ1JNdU1IamNZ0gHYAUFVX3lxTE81LWI0VnNPQVdaTXA5eUstMTVtTlU5T05mTmkxV0xPbEJmc3JhUExKSTZkQ3UyaEdoWEdIVU1GaUlVWDJILXcyak5QSS1MSG5rRDBvVUZqZEtHNFdmdGoyOW42Y3lrMGhjNFFWcm5XbjZIN0haWE43UlAtRDkwRXF1UUJSVlJaZ25jbHI2QjB4czJMeTZnTGFVTEwwdVpvaUc5S3Q3dDNSWkk3Q1JqVkdoY0tzdTh0bWJGUDhZSnd1YVQ5azdSdnhYSHdtMEs5elNMOERHLU85WA?oc=5",
+      "d": 1793697423000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Palpos",
+      "x": "Bansos 2026: Cek Saldo KKS Terbaru, PKH Tahap 4, BPNT Rp600 Ribu hingga Beras 30 Kg - palpos.disway.id - Palpos",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3UwNlJFNVpmcnEzZFAxOVUxcEhnU3ktOGhiRmpZbFBoLUVlbzY3eXRrM09KazZWWjB3c0I3eHpxTmQ3a1RaWTU5STBqS2NiaHZlREl5X3JlRUZZeE5mSl9YZ2RzODZ0d1h4aWRTVVZKYktKc3VRRV9wY3JPR0lCUy02UkdQeW5iMTRKam1pSzY2OFlNSGtlSU10ZmM1cU1Namg4WXNabHh2NTI2dEZEWVNaQmR5d2vSAbcBQVVfeXFMUEN1MDZSRTVaZnJxM2RQMTlVMXBIZ1N5LThoYkZqWWxQaC1FZW82N3l0azNPSms2Vlowd3NCN3h6cU5kN2tUWlk1OUkwaktjYmh2ZURJeV9yZUVGWXhOZkpfWGdkczg2dHdYeGlkU1VWSmJLSnN1UUVfcGNyT0dJQlMtNlJHUHluYjE0SmptaUs2NjhZTUhrZUlNdGZjNXFNTWpoOFlzWmx4djUyNnRGRFlTWkJkeXdr?oc=5",
+      "d": 1793699100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
