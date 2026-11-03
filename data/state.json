@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetCKDUCHzH": 1792473052210,
-    "threads:DetCDRvDVNl": 1792473052210,
-    "threads:DetBq8sEwNz": 1792473052210,
-    "threads:DetCEVHIPXm": 1792473052210,
-    "threads:Des0Nh7FEWt": 1792473052210,
-    "threads:DetCIYFkxQc": 1792473052210,
-    "threads:DetBzp0Evhn": 1792473052210,
-    "threads:DetA63sEbz3": 1792473052210,
-    "news:CBMiqwFBVV95cUxPUnZtLXpfWk5hbHloVi1Rd1RJSHpUekNNeUVlS2RZUTJDUm1qUHMwaGhyOTdpQWdCM1AybFU2Nm5UQV9WRHRVSGM4dWpfU1hwV1M1Qko4Y3RnMFNtRFM0MWRNSXI4cmMxRHlhY0tyMFZYT1kxX1dVb3pYeVQ5Y0xpaHludWRGVVl2RVhMaXpGMHhCOG11THpxOUg3cjFlcHcwTzVLWEN1b2hKNkU": 1792473052210,
-    "news:CBMiwAFBVV95cUxOZjdYcVROYXU2T05JXzlodkhVX1dmdjRIQng3LVk3Sk9INVhMMHM4bV82TUZnNkZod3YzdjJqbktVR3Rtb2FKa0V4dFhRNkxOaTNBNmNReEZuNFBQUlBDY0c0bDgxOTVlNXU5encxMHlReW51UnFreFJUMVQ5WUJIbjRZa2NyTFpQd0c4MDljcVVFQU1IS0VodXk3azk1Z0NyQlBkV3l6VFJDTTlrNEZDNnh5Skh2bWZMTm1MSG9YTVA": 1792473052210,
-    "news:CBMisgFBVV95cUxONTFHUzFlZk0wc2VqNVFpdGpOQ3ROOEtCWHg5TDFtcFNpOGxEa2VVTjVWWHhZMUY3a3JaWFVialdua09jajE4R0gxV1pQNTlQcEhnRFIxS00xcWh4UkNUeDg3TXViZHM2SnBXNVJoU0pJOG9YaEcxd3J3UDN0NHB1b3ZzZmxpUzlvQTdweW1xMjFYNVRGVjc1X2lnZUJqaFljaXM3QXhDNkItVV9KYzY0RjVB0gGyAUFVX3lxTE41MUdTMWVmTTBzZWo1UWl0ak5DdE44S0JYeDlMMW1wU2k4bERrZVVONVZYeFkxRjdrclpYVWJqV25rT2NqMThHSDFXWlA1OVBwSGdEUjFLTTFxaHhSQ1R4ODdNdWJkczZKcFc1UmhTSkk4b1hoRzF3cndQM3Q0cHVvdnNmbGlTOW9BN3B5bXEyMVg1VEZWNzVfaWdlQmpoWWNpczdBeEM2Qi1VX0pjNjRGNUE": 1792473052210,
-    "news:CBMiwAFBVV95cUxOWnFEZW5iWDc1Ml93LVMwUDlxc2lBNjY4LTZTeXJtNE15RFhZbHJGMmpBcFZxeGxCTlhmeHdDV2dmeGxMaVpKOFp0bEhSeF9Mc3VZZ09SVGRWWFRvYkUzYy16YWhvQlhrY00zc29xYTBpc09SdTllTU13M29yZXRVQmdSb1gzS0NJeklVMS1UYnpXWnV4N0xsd1pTcXR3RHR4RVF6RUd3VWFhc1lJVjJfY21pSVhRd0RHOVE3d3plWDc": 1792473052210,
     "threads:DQ-uAb1GMk5": 1792473341515,
     "threads:DYlEpOmlNoH": 1792473341515,
     "threads:DetDSzeGWAw": 1792473341515,
@@ -27437,59 +27425,14 @@
     "threads:DfRFqMIiem9": 1793682349261,
     "threads:DfRE5e7E8gr": 1793682349261,
     "threads:DeTOQ3YkYNd": 1793682349261,
-    "threads:Db0GrhCHV-x": 1793682349261
+    "threads:Db0GrhCHV-x": 1793682349261,
+    "threads:DfRFmHxHWBA": 1793682643637,
+    "threads:DfRGPDvjx-c": 1793682643637,
+    "news:CBMiiwFBVV95cUxPUnJrQWMwVHV5UVM3S01CcGR1cU83bnUyREdOdDJLY1hJdllJZkM2R3hiNWR4ZWJzblF5eGFDM2dRajl6ZmR2aUN2Y19nQVZxMHZjY1RpNW1pMjR1UnBBUVlpZk80SzJfeHNwUHdia1NES2R1NUpGMXN6SzVBNXBtTWc5RmdwNUpDSXJ3": 1793682643637,
+    "news:CBMixgFBVV95cUxPQjQtVnJqdVhPYnNwdUU1ZzRfMlB1dF9xZmZrcDd1LVBYaVBpUXZIbjM1dWhoU1dFSzNwTUNQNUsyajVTcXZqRV9oNGd2VlJuREM4WGx3RVlTQnNxckQ1T3lBNGhhN21YMWt5VHcyaS0tY3Vmcld5T3B3NU5xa2JhOVQ2eE5OYWdHMl9UdkFpQ0NYZ3JEQ0RrZFY1YkJob3piWS1PTEFYcEY3OS1LVVRmcVoyeUtOVGt0X25sSDZOZmZxWTlhYlE": 1793682643637,
+    "news:CBMi0wFBVV95cUxNTm5sckpISjFYdGRpV29UY1lxSHpzMklHb2JGM0JYdlhLN1RWZHprSE92UzFNeDlSZ0tickNBMkVhSFh5YmxpMUZ3bFhySVh3Sk53bjlraEMxZ2RLbDYtUW0wS19wQTN4MTZTamhQczloNjNRVW8tckF5WXNDSTI3aHhyaUVINVRfem5mQ1FHVTI5V1ZGbzJSM290ZGlWUnNScjRMUVEtN2I0V1NJUUtYYVkzZEcyOWhWSE4ydWlMVjdySVRnWjNwU1RUM050RmJOWlhR": 1793682643637
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak dropship itu kita jualan tanpa stok barang, jadi kita promosikan barang orang. Caranya kalau mau jadi dropshipper, kk riset dulu produk yg laku d marketplace. Kalau sdh dap",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfQ3mgnD_-L",
-      "d": 1793674897000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@va.nusya",
-      "x": "From Exploring to Career Ready! Bagi kamu perempuan Indonesia yang ingin mempersiapkan diri masuk ke dunia kerja atau berencana untuk switch career, program ini dirancang khusus un",
-      "u": "https://www.threads.com/@va.nusya/post/DfQ4P5lGJvS",
-      "d": 1793675236000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@va.nusya",
-      "x": "From Exploring to Career Ready! Bagi kamu perempuan Indonesia yang ingin mempersiapkan diri masuk ke dunia kerja atau berencana untuk switch career, program ini dirancang khusus un",
-      "u": "https://www.threads.com/@va.nusya/post/DfQ4B-qmEqP",
-      "d": 1793675122000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@va.nusya",
-      "x": "Halo Bapak/Ibu Guru hebat! 👋 Ingin meningkatkan keterampilan AI sekaligus mendapatkan sertifikasi internasional resmi? Yuk, ikuti webinar dan pelatihan online: 🎓 AI for Teachers:",
-      "u": "https://www.threads.com/@va.nusya/post/DfQ378UmN9i",
-      "d": 1793675073000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@va.nusya",
-      "x": "From Exploring to Career Ready! Bagi kamu perempuan Indonesia yang ingin mempersiapkan diri masuk ke dunia kerja atau berencana untuk switch career, program ini dirancang khusus un",
-      "u": "https://www.threads.com/@va.nusya/post/DfQ300jGJgO",
-      "d": 1793675014000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28939,10 +28882,60 @@
       "d": 1793681868000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@asep.komarudin80",
+      "x": "Perhatian! Segera Daftar Ulang Bansos 2027 Kesini! #cekbansos #ubahdesil #daftarperlinsos #semuaorang #usulbansos",
+      "u": "https://www.threads.com/@asep.komarudin80/post/DfRFmHxHWBA",
+      "d": 1793682234000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sakinahbe_",
+      "x": "Aplikasi cek bansos kak, kalau tidak mau download apk.nya bisa di web cek bansos",
+      "u": "https://www.threads.com/@sakinahbe_/post/DfRGPDvjx-c",
+      "d": 1793682569000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pemerintah Kabupaten Sinjai",
+      "x": "Asisten II Setdakab Sinjai Ikuti Zoom Rapat Pengendalian Inflasi Dan Program Sertifikat Tanah Gratis - Pemerintah Kabupaten Sinjai",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnJrQWMwVHV5UVM3S01CcGR1cU83bnUyREdOdDJLY1hJdllJZkM2R3hiNWR4ZWJzblF5eGFDM2dRajl6ZmR2aUN2Y19nQVZxMHZjY1RpNW1pMjR1UnBBUVlpZk80SzJfeHNwUHdia1NES2R1NUpGMXN6SzVBNXBtTWc5RmdwNUpDSXJ3?oc=5",
+      "d": 1793682420000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Tribunkaltim.co",
+      "x": "Link Daftar Beasiswa Riset BAZNAS 2026, Tersedia untuk Mahasiswa hingga Lembaga Riset - Tribunkaltim.co",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjQtVnJqdVhPYnNwdUU1ZzRfMlB1dF9xZmZrcDd1LVBYaVBpUXZIbjM1dWhoU1dFSzNwTUNQNUsyajVTcXZqRV9oNGd2VlJuREM4WGx3RVlTQnNxckQ1T3lBNGhhN21YMWt5VHcyaS0tY3Vmcld5T3B3NU5xa2JhOVQ2eE5OYWdHMl9UdkFpQ0NYZ3JEQ0RrZFY1YkJob3piWS1PTEFYcEY3OS1LVVRmcVoyeUtOVGt0X25sSDZOZmZxWTlhYlE?oc=5",
+      "d": 1793682024000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "Universitas Pertamina Buka Jalur Rapor 2027, Dapat Potongan SPI hingga 55 Persen - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm5sckpISjFYdGRpV29UY1lxSHpzMklHb2JGM0JYdlhLN1RWZHprSE92UzFNeDlSZ0tickNBMkVhSFh5YmxpMUZ3bFhySVh3Sk53bjlraEMxZ2RLbDYtUW0wS19wQTN4MTZTamhQczloNjNRVW8tckF5WXNDSTI3aHhyaUVINVRfem5mQ1FHVTI5V1ZGbzJSM290ZGlWUnNScjRMUVEtN2I0V1NJUUtYYVkzZEcyOWhWSE4ydWlMVjdySVRnWjNwU1RUM050RmJOWlhR?oc=5",
+      "d": 1793678932000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
