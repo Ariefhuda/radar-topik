@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetxS9yjF_N": 1792497341638,
-    "threads:Detw5iaoK01": 1792497341638,
-    "threads:DenlZwrGW_7": 1792497341638,
-    "threads:DetSzqGG_R5": 1792497341638,
-    "news:CBMirwFBVV95cUxQOXZDc25xdjV5aVZfSWt6SjFHa01pQk9HZGd5NHBWNFAxdkVjZHhVeThsQlMzQlN1SmFDRmNLaWZfYTJmRjBhNEF0U21PUmtaUXJNdUZLWWRqbU1xVEZoQzJjbllWbkVhaGtqNzh5Nk54Rjd6OXZvWm51cWQ4Q2g1eTVicDRla0t2cmxiQ1NOYnd1VVRvQ3VCQkpnUWFJZXZ4bFNsNUplYmJkQVgyM2FJ": 1792497341638,
-    "news:CBMiqgFBVV95cUxQYUFwd2x0Y21Sd2lYRTRjRlM2cXU0TVJtOXluOWR0dlJFMXRSMUtnQktfYlFOWnQ5cXRiS3ZURU5EQ1pRU0lYUUVjMy1tV0hZUnJVbDdnRlFLMGlwaFE1MkYzeXB1NTBsNXZOWGNDMkIyNGFpb0U0YjNZaFBpelBlN3lyOFRUZkdiZjl6aUpsdHU1YjdlNEo5UHZBM25kdW8zbWFNXy1CVjFRQQ": 1792497341638,
     "threads:DetxQPyj-fZ": 1792497660027,
     "threads:DetyV-TEwr3": 1792497660027,
     "reddit:t3_1xaq0a2": 1792497660027,
@@ -29115,7 +29109,7 @@
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
