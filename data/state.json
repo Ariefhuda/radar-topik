@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DessiwnE9Kd": 1792461945354,
-    "threads:Desth5Ykgl5": 1792461945354,
-    "threads:Dess8HLk1Zt": 1792461945354,
-    "threads:DestMVoGGy2": 1792461945354,
-    "threads:DcGLlRnE48j": 1792461945354,
-    "news:CBMitAFBVV95cUxQdWR6TGt6SWxVYk9YamVyVjZxNWFrQzZRM0lETjVlaDNKaXdNSWlhSDJocHYtSmVjblducXhZOHNNUnBHZzFqWkZza2RnREFLeExxQ09tN1JPVFJRbEhQWHhsM29KeWF2ZzlYZVR0N0dtUG00ZF9JNnplOFBsLUhaanJSeDE2eDQyeURoUlNXOGhhNWZtbEN2X1ZtR1BhYWVoSHZBdWExX1JqVUhKRnZtaEEwcWM": 1792461945354,
     "threads:DesuWEFAatm": 1792462246401,
     "threads:Destc18k0Up": 1792462246401,
     "threads:DJ02JO-ygbN": 1792462246401,
@@ -27336,7 +27330,17 @@
     "threads:DfQuu2En8-m": 1793671260281,
     "threads:DeJBtl-Ag8W": 1793671260281,
     "threads:DfQv3SKkSn8": 1793671260281,
-    "news:CBMisAFBVV95cUxOVF9FT3BRdjk0WHRUWkNqVEdpNy1MR1pDVks1T0p6TFdRYjA0T0kzUklWb2JYOG10QTZqQjJqaGpoUzd6c2lPcV9LcjQzNko0cnRpT3hMVWpKa3c0WF9JZDk1d0hNREl3UWxEUnQyMkhRcUVZUUhsQy1qVnZkNzBXeC12a2RpR0Q0eWRfemZDbHdPczQtRUYydG5MalJGamU5NUFKUEdYWU5GSGRTMGJZZA": 1793671260281
+    "news:CBMisAFBVV95cUxOVF9FT3BRdjk0WHRUWkNqVEdpNy1MR1pDVks1T0p6TFdRYjA0T0kzUklWb2JYOG10QTZqQjJqaGpoUzd6c2lPcV9LcjQzNko0cnRpT3hMVWpKa3c0WF9JZDk1d0hNREl3UWxEUnQyMkhRcUVZUUhsQy1qVnZkNzBXeC12a2RpR0Q0eWRfemZDbHdPczQtRUYydG5MalJGamU5NUFKUEdYWU5GSGRTMGJZZA": 1793671260281,
+    "threads:DY8-pvrkgoX": 1793671558481,
+    "threads:DUUK2f-kkou": 1793671558481,
+    "threads:DdwEl4LmBQs": 1793671558481,
+    "threads:DbTnzYVE9Nu": 1793671558481,
+    "threads:DawlsQmEanv": 1793671558481,
+    "threads:DfQwi8FE6RD": 1793671558481,
+    "threads:DfQxD01G73y": 1793671558481,
+    "threads:DfQw0BQiBSk": 1793671558481,
+    "threads:DfQwiGfmogm": 1793671558481,
+    "news:CBMixwFBVV95cUxOTDh1ZkdqVmF4blp5RVhERzd2SXBrWXNHa1dfdVk4V2tRU2tWanFSc2NiRXVUTk9CSXZEWGpoQkx4YWtFN0xKNmt3Mlc0X0EzT1BCcGJ0NDZFTmVXSUZnZEh6dllXd0RyaFRpdkVZSFRxbGVZQlNTcF9WeUhQM3J0N1VMVkpnWEhtdTlpZzBXdnV1aFctaW9CMW8zbUprbVFzVlhfN1A3RVpJVEU3eTN1VkwwT3p1bElxckF1RWJYdlVybElIWDVz": 1793671558481
   },
   "digest": [
     {
@@ -27858,10 +27862,20 @@
       "d": 1793670591000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "Pendaftaran Sekolah Cendekia BAZNAS 2027: Syarat, Jadwal, dan Cara Daftar - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDh1ZkdqVmF4blp5RVhERzd2SXBrWXNHa1dfdVk4V2tRU2tWanFSc2NiRXVUTk9CSXZEWGpoQkx4YWtFN0xKNmt3Mlc0X0EzT1BCcGJ0NDZFTmVXSUZnZEh6dllXd0RyaFRpdkVZSFRxbGVZQlNTcF9WeUhQM3J0N1VMVkpnWEhtdTlpZzBXdnV1aFctaW9CMW8zbUprbVFzVlhfN1A3RVpJVEU3eTN1VkwwT3p1bElxckF1RWJYdlVybElIWDVz?oc=5",
+      "d": 1793671440000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
