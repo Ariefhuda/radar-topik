@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DesvLBUgUwO": 1792467335737,
-    "threads:Des3yGjFBcn": 1792467335737,
-    "threads:Des3j1Nkipo": 1792467335737,
-    "news:CBMie0FVX3lxTE56cy1DQkRpOFhBdGEwYml1MjZ1MFJpaVhpTzJ1dExTVlcwUVhFNElrOVRGejhsX1JRSllQQkdsSlVtYXlldlJ3QWt2dkkzUl9hSGU4d09IOGE2aU9hUUNlUXNhMnp0eWlvSTFPQWdnTHkteTM4OTZWcTVfMA": 1792467335737,
-    "news:CBMitAFBVV95cUxQQWp1SHJGeXIwNkk0TEpOOXVEd243RGhlS01taTR5RkZaMnFLSWZZM2tabFdkTmJzZ1owc3FRbnNjV2dKWDJtUGxPeUlOSklLVHRQekxKaXhmRGdjUEUyTkNWTmZ5eVAycTZhUkdheXNPTDU0UDlYZmgzckpQY1dqcXNlT0ZPLXhWdmhqMjNNMU8xdmEyRmtaT0tCQzJveXRqQXhJbEJkU2hFbnQtUXdZUDRYN1TSAboBQVVfeXFMUGFRb09PRHVmSDlZZS00cS0xSjRObXZsSnRqZDROeTlnM3BCYzR5YU52VU82WF82OVhCZDdzT1pwamNwbUxld0xtV3Y4Q3NNZ3J2dVhsQURrOWNtdFFud2NIeE1aY0puZ3V0dWtWcjJ3ZE90R0Vvek1HWFBpZzk2UG9tb093Tkd5RF9QUDRmWXl3bkxDYmtGcnpheW1PYXFLa1h3Skphc1ZiNkRkUS1MTkRVSWhfclMwSHJ3": 1792467335737,
     "threads:DUenIGmEvz2": 1792467637699,
     "threads:Des378mmi8H": 1792467637699,
     "threads:Des47lWgRS7": 1792467637699,
@@ -27408,39 +27403,28 @@
     "threads:DfONsdYj_Na": 1793676652838,
     "news:CBMieEFVX3lxTFB5eFFwTGpMcWc5dUl3NUhxRkJIZlh1UTN0ZkROWjhqSkpnVk8wUTVDRk50Rl9YWWpYS3I1VDQ0YUI5VmZuSW1tRkIyMmVncFFvYVo2c2JXa1FDY3lfSC1CY3JuR0VTQk1adzhEWGdKQS1FeUJPV19DRQ": 1793676652838,
     "news:CBMibEFVX3lxTFBJVWYxeVl2WkhfQ0VTNC10TVBhMkdZbDhpdzJfYmpRazh4QVhwOF9TWHJDWjhzTWhtOHJ4UG15SXh0SlZHSjBTR3ZoSGNEV1hTa3ctS0NObkZGSFc5UG5ER0NVclFrSFhPeWdzeA": 1793676652838,
-    "news:CBMiyAFBVV95cUxQQTFYeTBvTHRReW81QUdfdExXZTNyOFpPT3Y4TFZ2XzViM3ZPQnFicDhlM1gwbWlKYjhpWnZzWHYwZWV2cXpaZGhVeUhvSmViZGJZX2RZbENMZkR6Y2dVNTQtOWpPWFpPTkVKc0Z3MlEyc0NsdTRabEc0VEtrcHlGZ0poNzQ4a0lkUjdSWkRUbWpGZlBzWnR2MlVuX1RyNU9KM0I5Q0JyVTNKOUhlNjFOZmpha0NzaTc2dDFtZTFXRUhDdWFsdGF0cNIBzgFBVV95cUxPTG8xenhubXZXTDNnZS02ZklwMG1ON2JuWDhFdUNabjNoeFJJWkZFTnU3empMQklfSjNMR1VuZkszcnZpalhjMFpKX0RVS2x6d1JFRzNPak5WTmZIOXAtTU0zaWlGeEtwbU9Va1lUYmFjZDJXZndPZ3FNNWdvdDgzY2hvSl9nNU00VmxBWmFnV1NXMlpoOXQxWEYteE9TcEQ4cnNLeFY0dFNWRTAzd2o1WW1HdF93V19UamlhRGM3YjhwOEo3RDl1cUJDT3NUdw": 1793676652838
+    "news:CBMiyAFBVV95cUxQQTFYeTBvTHRReW81QUdfdExXZTNyOFpPT3Y4TFZ2XzViM3ZPQnFicDhlM1gwbWlKYjhpWnZzWHYwZWV2cXpaZGhVeUhvSmViZGJZX2RZbENMZkR6Y2dVNTQtOWpPWFpPTkVKc0Z3MlEyc0NsdTRabEc0VEtrcHlGZ0poNzQ4a0lkUjdSWkRUbWpGZlBzWnR2MlVuX1RyNU9KM0I5Q0JyVTNKOUhlNjFOZmpha0NzaTc2dDFtZTFXRUhDdWFsdGF0cNIBzgFBVV95cUxPTG8xenhubXZXTDNnZS02ZklwMG1ON2JuWDhFdUNabjNoeFJJWkZFTnU3empMQklfSjNMR1VuZkszcnZpalhjMFpKX0RVS2x6d1JFRzNPak5WTmZIOXAtTU0zaWlGeEtwbU9Va1lUYmFjZDJXZndPZ3FNNWdvdDgzY2hvSl9nNU00VmxBWmFnV1NXMlpoOXQxWEYteE9TcEQ4cnNLeFY0dFNWRTAzd2o1WW1HdF93V19UamlhRGM3YjhwOEo3RDl1cUJDT3NUdw": 1793676652838,
+    "threads:DfQ2-qenwro": 1793676950994,
+    "threads:DfQj5chn6d6": 1793676950994,
+    "threads:DfPcDwyD4NP": 1793676950994,
+    "threads:DfQ53sCFHzV": 1793676950994,
+    "threads:DfQ7W6GCcjn": 1793676950994,
+    "threads:DfQ7V7wEghN": 1793676950994,
+    "threads:DfQ7Q7RG2-V": 1793676950994,
+    "threads:DfQ7BXjCTXX": 1793676950994,
+    "threads:DfQ6RSIk8mx": 1793676950994,
+    "threads:DfQ6LJ0EjIP": 1793676950994,
+    "threads:DfQ6HgTG-P8": 1793676950994,
+    "threads:DfQ6e9ZG_-v": 1793676950994,
+    "threads:DfQxowkjtnA": 1793676950994,
+    "threads:DfQ7YznIJKA": 1793676950994,
+    "threads:DfQ7RXNkg0M": 1793676950994,
+    "threads:DfQ7Ks1EZRZ": 1793676950994,
+    "threads:DUZlpJGErqP": 1793676950994,
+    "threads:Ddp5FzKk57G": 1793676950994,
+    "news:CBMi3wFBVV95cUxOX09Ub0M3dHpIWno4Zmd4Z0V1d1dtZl9IakZVMVFmcHJUWWdYcnNmdG5ueDZkU3lJamxQUi1STDlla21mOUNmcXRXb0VpWGxORTBwN3gwTW5Ic2xvZUdNUWFfd0pPUnVmNWJia0ZBcFZsVGhfMG5ZeEVoQlMtR0N0SF91U2tPeU1nRnVleWxGa1hyNFBBUUtxRzRZbUtHUTlFV2F2eHg1NlMtTW1wNHhfTHpXMjNEUDRSRzNjM3plMEtTV1hqUjNVU3hZWXNfVVJqRmU2anZFRWxIbmh1ZWFF0gHfAUFVX3lxTE5fT1RvQzd0ekhaejhmZ3hnRXV3V21mX0hqRlUxUWZwclRZZ1hyc2Z0bm54NmRTeUlqbFBSLVJMOWVrbWY5Q2ZxdFdvRWlYbE5FMHA3eDBNbkhzbG9lR01RYV93Sk9SdWY1YmJrRkFwVmxUaF8wbll4RWhCUy1HQ3RIX3VTa095TWdGdWV5bEZrWHI0UEFRS3FHNFltS0dROUVXYXZ4eDU2Uy1NbXA0eF9MelcyM0RQNFJHM2MzemUwS1NXWGpSM1VTeFlZc19VUmpGZTZqdkVFbEhuaHVlYUU": 1793676950994
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Ini 4 Tanda Rekening KKS Lolos Verifikasi dan Dapat Bansos November 2026 - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1Z2b1ZyOGZucUg5aTJiQ21IMU5CclMzNW11dXdTOHdYR015TXBQLXE2VG52eVZqQW1SbHV1VTRFMU1Tb2lnRmtSaVk2Zmo1dE1rRm5PQlhFd1AwLW4ycVhhdEtxWkl2ZkJmc2hEaWNXUUhRMnUwX1k3OWk1Z3lrWDJVVEw0NXIzWHljaS1rS0JHLVcxMUVKX1oyWm83ZnVHOThhd0tOTWE1aWRmV1UyUFBSRjU4aGFpVDU3WXNB0gHDAUFVX3lxTE0tTlhLemFNU2hZOFJiRmZsRGlfckI0X0JzTHhmQmtiU3ZrLXNPRUtlRzlVbXlzVExzeUVUUGtCMkVxelY4TW1EMll5MDh6UmZ4ckVjTV9ZUnVjbFlXTlpBb2pQRXRIV3lXeDRlRnJNdDJKLUhaYmZiRXpBTGNKNG1TY1NmdHE3VlpZWTRJbklvVVI1NEcyVWkxOXQ1UHh2Rlc3SU11WjQ5bEQzSXVHME0ydmZqR0Z4Z2tVc1FwUDg0UGVybw?oc=5",
-      "d": 1793667763000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@insantama.tangsel",
-      "x": "Audiensi Leadchamp #3 Angkatan 6 SDIT Insantama Tangsel *The Struggle Generation* Sabtu, 31 Oktober 2026 Created by: Ibu Indah Mawardini __________________ 📢 *Dibuka Pendaftaran B",
-      "u": "https://www.threads.com/@insantama.tangsel/post/DfQqOYKmX7V",
-      "d": 1793667884000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@bisakerjacom",
-      "x": "Kesempatan emas buat kamu yang mau SERTIFIKASI BNSP Gunakan keberuntunganmu untuk memperebutkan hadiah manis ini di Mini Bootcamp: Introduction to Data Analytics 🎫 Pendaftaran aka",
-      "u": "https://www.threads.com/@bisakerjacom/post/DfQqm60E3P3",
-      "d": 1793668085000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28910,10 +28894,40 @@
       "d": 1793676477000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qyupit123",
+      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
+      "u": "https://www.threads.com/@qyupit123/post/DfQ7YznIJKA",
+      "d": 1793676882000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rospita_attahiyah",
+      "x": "GRATIS PELATIHAN FIRST AID",
+      "u": "https://www.threads.com/@rospita_attahiyah/post/DfQ7RXNkg0M",
+      "d": 1793676821000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@instareducation",
+      "x": "Punya visi memajukan pendidikan teknologi anak? Mari berpartner dengan Instar Education! Cocok untuk pemilik bimbel, yayasan pendidikan, komunitas edukasi, maupun investor perorang",
+      "u": "https://www.threads.com/@instareducation/post/DfQ7Ks1EZRZ",
+      "d": 1793676767000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
