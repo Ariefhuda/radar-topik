@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DespE3EE30Z": 1792459538542,
-    "threads:Deso2udIwzZ": 1792459538542,
-    "threads:DesoIy5E9au": 1792459538542,
-    "threads:Desn-gHk3qg": 1792459538542,
-    "threads:DespKuLgf14": 1792459538542,
-    "threads:Deso4kMkyCm": 1792459538542,
-    "threads:DbflJIFIDT3": 1792459538542,
-    "news:CBMivgFBVV95cUxPQ0VJNlp3NVFmV1hna3NiSWRTSFpNMS1DUnAxU1JyVVQzUWtiM00ySy1XVi1yUjhZeUJqdTJTa1hJT0dhOU1Sb2lNeS1jN3NyeDA2amYwbmFoMjV0OG1MNFFHMG1acnBVX2VZRWZxeU5WU3ZndWlwQ3pNd2lPVTg2enUwU0t2Sk1HRzB5LVFaRkZzVWRUYUVaejBjeGtVOEFJQVczQmZhQk1pVHdkYnNCQkpFQTVyN3VsU3NmeDZn0gHDAUFVX3lxTE5IYTlwdDBSUlZYd1RIcDFXZlJNa3gxdW5Uck0tWi05YVpqR0VpUm9Gbi1oVE9rRzNBV1pYNHJHUEY0VTN0aWo3MWJzaG5rV0sxRE9qX3M1RkxnMU5pTmVsZ0llbjAtVERWWEVzT05HMFlvLWZSYjZDeDBQWUlnel9nOTc3d1hNSlQxaDdPbFFSLS1vQ2RhTlVZV2xOZDZWbU1UTk5ETGtqNzNFcmY5LW90R1dVU3dTU2dzRVE4MUh1STh1TQ": 1792459538542,
     "threads:DbWvqkzk37-": 1792459845022,
     "threads:DEG1oGPTWNu": 1792459845022,
     "threads:Dcf8yuhFjXE": 1792459845022,
@@ -27337,7 +27329,9 @@
     "threads:DXRlt7_EaWd": 1793668842910,
     "threads:DR9HMvIgRpp": 1793668842910,
     "threads:Db4_Bj9D30u": 1793668842910,
-    "threads:DfQr9PXE-Hj": 1793668842910
+    "threads:DfQr9PXE-Hj": 1793668842910,
+    "threads:DfQq_yPGU2x": 1793669137677,
+    "news:CBMiqwFBVV95cUxPNTJOSkd4NmJvTzdPQ01rMTYxTFhyVlN2X3ZxNVY0LWJOejM1emtzeDV0OXQ5SF96U3JYN2xEdVdmYXpvVXVmRGE2bmg1YktsdEM1cDdQRXNKc3oyU2ROd0JRSFl0YTl3Ul8yV2h5ay10SlhoQ0x2MnQzRGgzbzBSQlhPZ3huUk9TWlVISTdXdDR5R21wZUxmT3pTcm52VjB0X2I5QUpfLTJzMkU": 1793669137677
   },
   "digest": [
     {
@@ -27609,10 +27603,20 @@
       "d": 1793668792000,
       "urgent": false,
       "warn": true
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "BeritaSatu.com",
+      "x": "Cara Cek dan Link Lapor Kendala Bansos 2026 Gagal Salur Terbaru - BeritaSatu.com",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTJOSkd4NmJvTzdPQ01rMTYxTFhyVlN2X3ZxNVY0LWJOejM1emtzeDV0OXQ5SF96U3JYN2xEdVdmYXpvVXVmRGE2bmg1YktsdEM1cDdQRXNKc3oyU2ROd0JRSFl0YTl3Ul8yV2h5ay10SlhoQ0x2MnQzRGgzbzBSQlhPZ3huUk9TWlVISTdXdDR5R21wZUxmT3pTcm52VjB0X2I5QUpfLTJzMkU?oc=5",
+      "d": 1793668860000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
