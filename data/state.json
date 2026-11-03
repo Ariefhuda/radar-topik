@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DYIZLQSEww7": 1792516512382,
     "threads:DeuVjSFCTmG": 1792516906868,
     "threads:DeuW0_SEfRq": 1792516906868,
     "threads:DeuWA_JCLmA": 1792516906868,
@@ -27814,29 +27813,23 @@
     "news:CBMi0AFBVV95cUxQWmRWdGplWHM0MGZ0RTQzcjRhWUhRVlhQT1lqSVg2eU5oVXBkVEhpNGVUeGhfMGg4alkzRERlOGt5V19pdWZHMlI5WmE4bXNCYWlPWnYtTi03TGlUMTlTYkp0TzB3Z3pJVVRYejA4bVV4V1RHUnBzN2pRZndsVFhYLVpGaWV1TURzbk1Ca3JTU3ZjMmotV2JHeWIzMzdHOUdKV1hkYnpiQy1ZdlBuN3FBOVlsMXdLTngyeU9uSmJqMTNncy1XQUtKTGxsQmx5bXdT": 1793725842639,
     "news:CBMiwgFBVV95cUxOQXgtNkFvSGRWYTRTVVduczFwLWlwWXJWWGNiMExiWlpOVXJGOV8tNHFxQlNuM28zbTJrcWpiOVd0VWw0U1hNZmpYQkhLSDZCaklhbGRaMkFQMHhvLUVIUjFjLXFObVA0ZjNSSUZrUlotaHgtbnRaeml2UzdKRnJMZkdZbEFEOWxMUWNPNnFkQWtZS2RHdE4yYlJFODFYOFY3cHBETndXWGhGM01RSmRrOXV1UVhlUlZDazEzQ0JjaGtNZ9IBxwFBVV95cUxQZW0yR3VTdzFQdkVYLWYyNy1acUZGdFRUem9WYVFCV1lVcTROMkRScjdfSzJtS0U3OUdsY0NaaXZSSFhYV3FnSjlfQ2ExaXJFelNtS284SDdESi13VkRQdC1NVHBPRVdCZDRLVGFUd3FkNHpPRUtyT2ljMWJ0SldWTVA0UkUtdG1jRUlueUJyNFJuQjRjOXJLTE83bFFnd2x5RXJhckYyVmpaOFJ5NnZiYXVHb2tkMFBYNlJuQ29vU2l4THBQbGgw": 1793725842639,
     "news:CBMiyAFBVV95cUxNR2FnS3hSdzd5QlM5Q3JUVWhvVkxBY1pyVlZFcF9QMmFHRU1TeFRtSWktd3hLZmU2TDlQcEdXYlFFY2pCRjVSa0RWZmgzZHRPRGNHNDlkRVQtVmtLaVVsNUFUd3VGUkFJOUtuOEJGOU5ZNWRQUm0xQy1wbXN5aE9wSTRZZmVQUkV4dGh1c21Pd04xeVlHMjA3bXM5NXJKY1JrNTdQVmN4QXBoQ3l3SFdxRGpiT09MWW1OYVFaQS1rR2Fici0zcGZ6a9IByAFBVV95cUxNR2FnS3hSdzd5QlM5Q3JUVWhvVkxBY1pyVlZFcF9QMmFHRU1TeFRtSWktd3hLZmU2TDlQcEdXYlFFY2pCRjVSa0RWZmgzZHRPRGNHNDlkRVQtVmtLaVVsNUFUd3VGUkFJOUtuOEJGOU5ZNWRQUm0xQy1wbXN5aE9wSTRZZmVQUkV4dGh1c21Pd04xeVlHMjA3bXM5NXJKY1JrNTdQVmN4QXBoQ3l3SFdxRGpiT09MWW1OYVFaQS1rR2Fici0zcGZ6aw": 1793725842639,
-    "news:CBMi1AFBVV95cUxQNl9ueW9RYlhQbXZyZXNuVHR6Z2ZqbmJqVUJuMTUwbGZieDVfaFZQRzNMT0t0dE8wLWo3bDdPOFlCa01HbEdienM0ZUpnZ3hDVHRHYjNwYXlQZ0pvLW5SWTgwYmgzVy1UYXpZNmxjeERIZmVvN0FvWEhGcnRkb1NHLVg4bDVaVVgwNEZvQlI2YjBmSy05T2Y4QUVuZDFRY19DRnZTZWpJbUdYRVozd2ZrTGV0UVFaU2c3RnEwR2l1Y1Ftal9DcDJhZ2NLaElROE5qQVJ3Qw": 1793725842639
+    "news:CBMi1AFBVV95cUxQNl9ueW9RYlhQbXZyZXNuVHR6Z2ZqbmJqVUJuMTUwbGZieDVfaFZQRzNMT0t0dE8wLWo3bDdPOFlCa01HbEdienM0ZUpnZ3hDVHRHYjNwYXlQZ0pvLW5SWTgwYmgzVy1UYXpZNmxjeERIZmVvN0FvWEhGcnRkb1NHLVg4bDVaVVgwNEZvQlI2YjBmSy05T2Y4QUVuZDFRY19DRnZTZWpJbUdYRVozd2ZrTGV0UVFaU2c3RnEwR2l1Y1Ftal9DcDJhZ2NLaElROE5qQVJ3Qw": 1793725842639,
+    "threads:DfSY6zQE7uZ": 1793726140008,
+    "threads:DfSZZGRmmUO": 1793726140008,
+    "threads:DfSZUPAFtpb": 1793726140008,
+    "threads:DfSZJJ9kvO2": 1793726140008,
+    "threads:DfSZBJQOH8k": 1793726140008,
+    "threads:DfSYsv5CVW5": 1793726140008,
+    "threads:DfSYk1Yia4w": 1793726140008,
+    "threads:DfSQ_pbmwe0": 1793726140008,
+    "threads:DfSYJVBmmKO": 1793726140008,
+    "threads:DfSYCWukV22": 1793726140008,
+    "threads:DfSZRFzkqLc": 1793726140008,
+    "threads:Det4sDOCcBd": 1793726140008,
+    "threads:DfSYmfeH_kc": 1793726140008,
+    "threads:DfSML-IGVni": 1793726140008
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bdrss19",
-      "x": "Kalo nakes bisa ikut pelatihan diluar non nakes yg gratis juga GK yaa? Apa harus sesuai yg sesuai bidang ?",
-      "u": "https://www.threads.com/@bdrss19/post/DfR76FOEv-l",
-      "d": 1793710709000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@pia.hanum_mc",
-      "x": "Event Kementrian Ekonomi Kreatif lagi banyak banget memberikan pelatihan- pelatihan secara Teknis untuk memajukan para UKM si segmen Kreatif. Pia Hanum berkesempatan memandu acaran",
-      "u": "https://www.threads.com/@pia.hanum_mc/post/DfR8gc3krY4",
-      "d": 1793711025000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29316,10 +29309,30 @@
       "d": 1793725427000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hilya_sszi",
+      "x": "Info pelatihan gratis kependidikan, dll yg bersertifikat",
+      "u": "https://www.threads.com/@hilya_sszi/post/DfSYmfeH_kc",
+      "d": 1793725753000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@em.my.gination",
+      "x": "Ada yang perlu kelas English 1:1 (online, bukan grup). Fleksibel. After working hours. Budget : adaptif. Konsultasi gratis sekaligus coba kelas 30 menit (online). Bukan kelas buru2",
+      "u": "https://www.threads.com/@em.my.gination/post/DfSML-IGVni",
+      "d": 1793719244000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
