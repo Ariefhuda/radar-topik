@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeuKPh2kcJ8": 1792510251100,
-    "threads:DeuJu7LFVCA": 1792510251100,
-    "threads:DeuJFmdmWLH": 1792510251100,
-    "threads:DeuKW-aEZ_3": 1792510251100,
-    "news:CBMiwAFBVV95cUxPRG80c09oRGlaZmc2NURpem1FV0JTTEQwVlRsOExZVjhQV0tmai1RRW9kRFVFUi1yN1pPVjZhTzVFcktaWDhzX2JKR1ZOSmJJVW5KZnpTOGltWVF1Z2hXRE1UQlBhSTJsWUQ5Zk5GUWdrU01ob25mc1JsemZsOFZJc3NNLVdFNDY0M09vTGFPSXJETEUxNjM4clFQTXpsSXB0NzN2QVN2NFV2WnN1U05xdE5WSzhVdGN4VERNWTFzZTDSAcABQVVfeXFMT0RvNHNPaERpWmZnNjVEaXptRVdCU0xEMFZUbDhMWVY4UFdLZmotUUVvZERVRVItcjdaT1Y2YU81RXJLWlg4c19iSkdWTkpiSVVuSmZ6UzhpbVlRdWdoV0RNVEJQYUkybFlEOWZORlFna1NNaG9uZnNSbHpmbDhWSXNzTS1XRTQ2NDNPb0xhT0lyRExFMTYzOHJRUE16bElwdDczdkFTdjRVdlpzdVNOcXROVks4VXRjeFRETVkxc2Uw": 1792510251100,
     "threads:DeuKTrcIwOq": 1792510539774,
     "threads:DeuJ46EIwc3": 1792510539774,
     "threads:DeuJmmFH7nl": 1792510539774,
@@ -27691,39 +27686,18 @@
     "news:CBMi4wFBVV95cUxNbThyMi1YdExpdllCdE5TLUZKT3gwOFBkS1FnOEtTRE5XSkJXMzgtVUVzUlZvTmhOUW81V1Q1RDBBRzZ5NGtJRlFNT0p1Z0NPV3NaSGd0bS13dHV5R0tqWFY2blhpMmQxLVJYTFRHWjM5b09YZy1CdFA1RlJORGx1Smc2anZmcEVPX0Z4NG5NU0VKVTRnZ2c3cEpsTV9lZjk5UFFxR3pSUVAxSlYxa0tnbTgtQ1dyU3RKbC1CbVpHOXVVZmZPcEtKeVMtZHdvOERNSjVZd3dSMkQ1RFA3UnFSVHRGdw": 1793719255138,
     "news:CBMiqgFBVV95cUxPTU50TURXVXg0M0FMVXVBQnY3WkxObmNxMnpzMGtLS2ZVYlZpWW1CeVhjeC1Oc2pmM2FuX0ZlQ29QbE5ZaVZfa3RqYzZwYVlYMkRoeG44cTkxVGY3T1hjRHBZbTZiMUEtRXQ2eUlyMTZkMkk1bEZPRXRRNlozeEozUGd0ZXk2aGFnM19ld0xBdXluUGR6bG00bjhESENadWdXck01bmM2TkJzUdIBrwFBVV95cUxNSGlydTFyMjNuVUZ5VDNjQTVaQS11cXFPUTQ5eE00Y0JLZHVZSXJ3MnltQjh5QjRwdEhubnhVaVhSRGxFbldXcUM4S2hQOGtrYm5Od2RVdlA5TDB5WEN3YkZQUnU0NnVJOFU5VUdZWFo3aU5jUW1ZLVJyYkJ6akNEdktKOW5xZFBEY25VYjRlMTMyeWMtZ1hBeHJFQjlYUmtla0UzYWdsYU9vM3g4QWRz": 1793719255138,
     "news:CBMi4AFBVV95cUxNcnhhcGM0bnk0SFlJd2VkTlZrUFFTWU1UeV82VFhIbHVyc25qd1ZOR3hBa1pHcTJJZTk2RFRad2tnT29aVW41TWtBb3NGZ0VtcGNQM3JJN2RiVVNIQTY4ZThnU3NSclRxNEdpSnY4RUtwVlJCVEtXSzUtNEFpRmhJQl9acS1QTElRTDljakl4M3l3VkU4NTE3R1p3bU00U24xRERYc0tBcHNpQkY4WXBvTUZUdmJTUzd3ajRZNFlfeXRLTFFZRklldUVUTWxudHBraktlb1dwbEM0b2xOV3laONIB5gFBVV95cUxNVXFoSHBUaGVhaHRRNVJMSkJnUFdKY2hManRhZXVDT3ZZa3d1RXYzMldFc0ZXZDhKZjRhUnpmNGYtNU1zU0xXTmZRTG1QamsyZUdMdGloMHJOamg2NnF1aVFkVWNuS18yQmg4RG1ZQ1gyZFNBOEkxZE9mTFhHZ2dPQUVkcnhZU3JkQnVscEhvdy10MnNnUFgxbDNMV3p6OUtKLTNPdVVEVWpOb3FFX0RubVk3YlJyMDR1WnZLaDNRVEY0U1VRUGphNkUxR1pQT1RFUHFfRUFKbjFzUEFfbjZKLWhDeW94dw": 1793719255138,
-    "news:CBMiywFBVV95cUxNenBvdTVBQkl6a0xXekpsY3ktczN5M3RFSFhtemNWU0dHX1N4b2NiRXZMVFQ4cTg1RGw2bXh2bGc5ODExV21lYUdUU1QzXzZRbmNvMy0yNkpMblR4UlhNeGpmN0RiQUExcnFfakRNbExYYkR0NDk0YVdheDgzelE3M2ROWVVqME8yTFZlMm5WVlJYa2JDYVhIeFZaVTFjVDhOQjA4V0hsRV9CQ0p4VDA0ZndyX3NJZXRJWFRiWFB4c19teUtodDNJRFpZQdIB0AFBVV95cUxNX0x5ME9zekplbHQ4MjBhVEZEZFhWZE9OblcyR1U1T1cyVWUtMmlPZmpKWFh4QjJOUlU4R0RBRUgxVEYtMzZ5SjhYMG9Vdll3dVRuYWJLQlBmMVhJQjZHeGxQWGVSUlBQdmc1TXdTbkxoUlhrMm91LVBaQkJSeHlWbHowa1lOYXZjci01Wm9lMm4xOGxaY3hyTzBqb0c3UXgwS2Y1MnNwOF9WbWFrLTRFYU9zeW1qcTRQdWp6UkdIY3hYek14SzBWcE5LRWJJSVpy": 1793719542926
+    "news:CBMiywFBVV95cUxNenBvdTVBQkl6a0xXekpsY3ktczN5M3RFSFhtemNWU0dHX1N4b2NiRXZMVFQ4cTg1RGw2bXh2bGc5ODExV21lYUdUU1QzXzZRbmNvMy0yNkpMblR4UlhNeGpmN0RiQUExcnFfakRNbExYYkR0NDk0YVdheDgzelE3M2ROWVVqME8yTFZlMm5WVlJYa2JDYVhIeFZaVTFjVDhOQjA4V0hsRV9CQ0p4VDA0ZndyX3NJZXRJWFRiWFB4c19teUtodDNJRFpZQdIB0AFBVV95cUxNX0x5ME9zekplbHQ4MjBhVEZEZFhWZE9OblcyR1U1T1cyVWUtMmlPZmpKWFh4QjJOUlU4R0RBRUgxVEYtMzZ5SjhYMG9Vdll3dVRuYWJLQlBmMVhJQjZHeGxQWGVSUlBQdmc1TXdTbkxoUlhrMm91LVBaQkJSeHlWbHowa1lOYXZjci01Wm9lMm4xOGxaY3hyTzBqb0c3UXgwS2Y1MnNwOF9WbWFrLTRFYU9zeW1qcTRQdWp6UkdIY3hYek14SzBWcE5LRWJJSVpy": 1793719542926,
+    "threads:DfSMudDEwtR": 1793719848556,
+    "threads:DfSNa37n1YW": 1793719848556,
+    "threads:DfSM9RTDUXB": 1793719848556,
+    "threads:DfSMdCHFBWO": 1793719848556,
+    "threads:DfSLHRAHM3N": 1793719848556,
+    "news:CBMiqwFBVV95cUxQVGF6bHJ2X2g4Y1VjM0FpWHhtSEdKTU1FM01UOFpIcVpHX0V1ZWxEUHZJbkNHNFVsZjZSSjFsV1FXUURYcWJBc2NLTWxBRGRFTXVNSFpsSEZoQ1h0UXBGVURCUGxPYXJLUEhWNXNwcWd0NDRmNThfU1l1a240NTFFeTAzUWJ3UlE4b0FhQjNVazlVR0xZdjV3cEd3ZG91a1htN2FzREVmVFY2ZFk": 1793719848556,
+    "news:CBMipgFBVV95cUxPSUpQNUs4SE12TU01RlFOUVd2Ql9MMDUzZTB6c2pOd2gyM0FSRnp5OGRxUVJmbDVxamZLSEMyZVJTR2pzS2NPRnowdkNLQ2N4ODFpTW5iZjd5QkNDZEhlV2ZDS0czMGFmV3lGQ3FrSnJjcHVqX3hNaXpraGUtS24wcHhSTUQzREthc0lWLWh5YmxBTzcxTE5GZ25oM2RUM0NtT2c5YmFB0gGqAUFVX3lxTE1wUm9zbk1zNE5HM1lST3RfLUJJRVpuREVqQ01MeWVfLTFjRUc2a0M1dFNTeVFNNnE1WEdsLTIyZklpRzNpNklIYUk4dDNLdy1rS0NQeENyS1o5S0JjWU1DT18yd3d5MG1OZktEdkdyaFFnR2xZc3FXbHZDWHczbmxnUFhCdWdrT0c1dkxvRGMyZktzb3JacWl5dVBXN0FTbkdHYVZ5VmhtYTZn": 1793719848556,
+    "news:CBMitwFBVV95cUxPUkhxTlRjQ3pBU2FwWTZnQndyU3QxUUVkWXZIazNpQnVfbnZaRFVsZVpMTzlxajQ3clRNRE9GWmZNbjFFV041dk5QVEktX3dRRXVaS1V0VEt0c2J4ZzdDSEdnZUxoa3VydmJubGRVSmcxZXJLbDB1SzlDYnF2d1RWVktHdHZMc3ZQT2taTS1CcXRFUTNRc2tVZ3d4dElnMmk5cVlQQmkyTGpBWXBJclg3cldvUTNvS0U": 1793719848556,
+    "news:CBMiugFBVV95cUxOVUw2blNNWlhGRGhFWkFLN01oWWwzdjRlVGU0YmdwUnZhMk5yOXlJQlRHampVWEoxTnVIUGlXSnY0SmozZ1FqZkpTbnVxYzdYNi0waFVWdDk1cjViY1lRSFgyT3JkWnZnb2NLbEk5Z3REY01vSkxWWTZQTmNMOS1ld2JPX005clZUNEpCOVppc2pocnNaWk5DM1J4ZVdWTVoxdHlEcjY1dUk4RW05UHA5dUY4WXA2S2U1eXc": 1793719848556
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bp3mi_riau",
-      "x": "Ikut program SMK GO Global aja bisa dapat pelatihan gratis, sertifikasi, akomodasi sampai kesempatan job matching dengan user luar negeri lamgsung. Nantikan oembukaan batch selanju",
-      "u": "https://www.threads.com/@bp3mi_riau/post/DfR4jE7k1Bw",
-      "d": 1793708948000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@griya_produktif",
-      "x": "🚀 Bikin Video Keren Cuma Pake AI? BISA BANGET! 🎬✨ Mau belajar bikin konten video aesthetic & profesional tanpa perlu ribet syuting atau punya kamera mahal? 🎨🤖 Yuk, ikutan KELAS",
-      "u": "https://www.threads.com/@griya_produktif/post/DfR5O2QE871",
-      "d": 1793709306000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@griya_produktif",
-      "x": "🚀 Bikin Video Keren Cuma Pake AI? BISA BANGET! 🎬✨ Mau belajar bikin konten video aesthetic & profesional tanpa perlu ribet syuting atau punya kamera mahal? 🎨🤖 Yuk, ikutan KELAS",
-      "u": "https://www.threads.com/@griya_produktif/post/DfR4Zwuk8cU",
-      "d": 1793708871000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29193,10 +29167,40 @@
       "d": 1793667900000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BANYUMAS EKSPRES",
+      "x": "Beasiswa PhD Coventry-Singapura Dibuka, Tersedia 6 Proyek Penelitian Menarik - BANYUMAS EKSPRES",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSUpQNUs4SE12TU01RlFOUVd2Ql9MMDUzZTB6c2pOd2gyM0FSRnp5OGRxUVJmbDVxamZLSEMyZVJTR2pzS2NPRnowdkNLQ2N4ODFpTW5iZjd5QkNDZEhlV2ZDS0czMGFmV3lGQ3FrSnJjcHVqX3hNaXpraGUtS24wcHhSTUQzREthc0lWLWh5YmxBTzcxTE5GZ25oM2RUM0NtT2c5YmFB0gGqAUFVX3lxTE1wUm9zbk1zNE5HM1lST3RfLUJJRVpuREVqQ01MeWVfLTFjRUc2a0M1dFNTeVFNNnE1WEdsLTIyZklpRzNpNklIYUk4dDNLdy1rS0NQeENyS1o5S0JjWU1DT18yd3d5MG1OZktEdkdyaFFnR2xZc3FXbHZDWHczbmxnUFhCdWdrT0c1dkxvRGMyZktzb3JacWl5dVBXN0FTbkdHYVZ5VmhtYTZn?oc=5",
+      "d": 1793664154000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Lokasi Pengambilan Bansos Beras 30 Kg November 2026, Bisa Lewat KopDes - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkhxTlRjQ3pBU2FwWTZnQndyU3QxUUVkWXZIazNpQnVfbnZaRFVsZVpMTzlxajQ3clRNRE9GWmZNbjFFV041dk5QVEktX3dRRXVaS1V0VEt0c2J4ZzdDSEdnZUxoa3VydmJubGRVSmcxZXJLbDB1SzlDYnF2d1RWVktHdHZMc3ZQT2taTS1CcXRFUTNRc2tVZ3d4dElnMmk5cVlQQmkyTGpBWXBJclg3cldvUTNvS0U?oc=5",
+      "d": 1793719459000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Jadwal Pencairan Bantuan PIP November 2026 dan Cara Cek Status Penerima - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUw2blNNWlhGRGhFWkFLN01oWWwzdjRlVGU0YmdwUnZhMk5yOXlJQlRHampVWEoxTnVIUGlXSnY0SmozZ1FqZkpTbnVxYzdYNi0waFVWdDk1cjViY1lRSFgyT3JkWnZnb2NLbEk5Z3REY01vSkxWWTZQTmNMOS1ld2JPX005clZUNEpCOVppc2pocnNaWk5DM1J4ZVdWTVoxdHlEcjY1dUk4RW05UHA5dUY4WXA2S2U1eXc?oc=5",
+      "d": 1793719626000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
