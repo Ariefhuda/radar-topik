@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DetTY7ln0ou": 1792481743865,
-    "threads:DetTQuLAfFN": 1792481743865,
-    "threads:DetTtkkE-VF": 1792481743865,
-    "threads:DetTb5UAQog": 1792481743865,
-    "threads:DetS9qsDVHu": 1792481743865,
-    "news:CBMizgFBVV95cUxOUnhQeHF5STJ6aFl5RjlaZkpDSkQ1RkpHeGZfWmxXekJqR3gxU0lOVXlfSm1DMVFTWDVHTW1nQkdrTnpGRGZzVG1UeWc0eHNHbzFjRy1jbDk5QnRaaGh2WEppX0J2MGswVHRaU1h0STRaN0ViQ3JlWFdBSFBwbjNSdnNvYktxX05CbWRzazRwaWE3R0UyblJ2UWdEcGNhVmIwVUdDSThYTmRLSndOdk9GNjBOSG9uclNvQTFRYmJSemZseDFoNmNBa3VTU25HQQ": 1792481743865,
-    "news:CBMiqgFBVV95cUxPZ2p3bEdERU80UHZoMGJLZEx3Ry0xTnJxSU5NbzRDa1ZKTHF3eXdrLVRaN1I1YzVJSV9BQmFYVTEtWFEwNVU2N2lzOXhDUkQ5S1V1LS1NaUFpT2hZM0RrYUFQVGpRcnhGVktFWnEwVUZtdFlfWVAyZWkxUndjZEE2Z3JvVTlEN2xnVXBhanNFcHpVUXM1X081Nkg1SHZxR3VhejJFR1hCTkUwUQ": 1792481743865,
-    "news:CBMitwFBVV95cUxQV0JmMmM3NENzYVZDTWs4MEs2WktOMVBaTHpkSzIzNVFSaFR5dldSTER2TkZ4TGxrODJkVk1oRnVBcWhoVkcwV2lkTE52cjZIak5iY2RaSnkyQ2I1NkJUeGppeXV5NWZJS2J1OFF3MmZjaUt0WlBoYVEtU24wTTFTN0Y1cjdwRG9XYzNoVk9ZMjIzX0tJNGRRWVM3QjFUQmtFd0tUTGpVRU9LaXhLd25CSC0xOUdiQVk": 1792481743865,
-    "news:CBMiuwFBVV95cUxNYWJYYmtIRUhQdTM3SWY4TVJ6YXI4M0hTemFoanJmLURoNkNLX1ozUjRnSEJpY3NWaURsbGRjVHlQazlESGZCeHNUWHBISi1ZRTktQi1sWTQzZXZzZ3dEeVBUbnpXU3JzUUpYNU56eGpzcEVVaVAzWnNTeUlDTmZnZGpOcXNlcU5VWE00WTFfeXUzSWE3OTBLanVXU2hNSlphNzdEdS0xU2VkdEdsSlpCUWk4UUNYZTZ0RkRn": 1792481743865,
-    "news:CBMiuwFBVV95cUxQcWpyZ3RjdnRxTGlFRkVTckdJaDBMaDlQTGJHaDlUWVdETzl2RzJWVzk3MVBUdm9seVJxU3JNMDhlV1E3R0lkQlJvMjU1UU5kMnRkRENBMjlhd3dsSEJwQ2RZNjFfZFJra01Sb2hmSkd5bXotc24zOUVRMFBFbm4zc1hIVnBGNWRPbzREWkdPU1BnVHZvRmFiOThjaUNxTWtlaExybU81cDdLVTFRM0FvbmJxYTc2ckVGRGVN0gHAAUFVX3lxTFB2TndUd2dsZk1FQlZmcTRiMHRGX28zMmxYVDRVbHN1WTNyTDZlbjhvRGtmYl8wNXRvS3VjbVJ2ZTltV2dlVnR0dVAtUnpMVkR4VWE0b0hvRVpGM1Jyd1JCRTBWbU5fdXNpQjZuX2hoT3dnaEdFM1BlM2hucTh1WlFvWDFVMXRrdnRlbXloYlJvbFpUanJ0d1ZYai04aTI1TUhLMjR2bnJuV0drdlBRU2M2ZlBvNFp2a2Z4VDRRYURRaQ": 1792481743865,
     "threads:DetT7uAgSa2": 1792482048328,
     "threads:DetT2qeIJp1": 1792482048328,
     "threads:DetTUIVFhVk": 1792482048328,
@@ -27533,79 +27523,17 @@
     "threads:DfRVmc5IeJd": 1793691076637,
     "threads:DfRVksGofVQ": 1793691076637,
     "news:CBMilgFBVV95cUxQbVBVdXdBNHZ2eURwYWJkcnZoMmtJWVpoWjRYYmJBdEUycTJDcGlPS0ctcERXeThUa01IRVZsVWtSelJjRlAyWDlENlpEZFJUWm5nTHFpV0hZdGh3QzZweFY5aEFsODItSGFBSVRDVFBkS2NrWTJnNzRiMl9WTF9kMnpkUk5EQ2hYUFZRcEJ6c1BTV0NIRlE": 1793691076637,
-    "news:CBMi3wFBVV95cUxQU3lyRW1LY2EyQ3B0RFVrQkEtUGhSSi1IMlg1NmN3MjF2Q09QSXEwbjBxb1lROGQ0VFFvZ1IwSG1qUlNDTjhWQlYtT2hfQ3R6bkpxS2NfMktxM1FHOF9nQTFvNmdLQUVVSmswU1BibGNXellJMTQ3b1pIanJtVnY1cDlBMTJUSEMzVEgwWk55OEI5Ti1lZldLeS1tVVg2dlJ3T2JNWi1BMUZxczJWTVRTTmZjTk5ZWlhIYlNTbkwwcExXT2VwNC1jQkR6cjF6c1ZpSXdpREExeDNlWnJmREVR0gHkAUFVX3lxTE9qcmRBRHpLQnhFY21OMzZzQXh0SFUzTGRzYWNSZlpBVTlGdVU4eEVmbHlwd1cyeEVkb0QxRVNKVjN5X3RFYzB4NU15Y256V05wdVprZElFOEJsVFhMR0tCN0t4MVdnZTN3ckhJdHRycHNXT3lkZHJkejNNUTlZNlVHNnpWa3hYQlVGZXZwUzlfejU5YzcxeExpaS1xQVRST2REWDJKR3g1WXpUMzRvTnM4My1EQ3pZb2JKMnZrcHNiQzZjc2Z1eDU4SXVvMVBybElHbm10RWlkbGUtaTZKek1yek5kRw": 1793691076637
+    "news:CBMi3wFBVV95cUxQU3lyRW1LY2EyQ3B0RFVrQkEtUGhSSi1IMlg1NmN3MjF2Q09QSXEwbjBxb1lROGQ0VFFvZ1IwSG1qUlNDTjhWQlYtT2hfQ3R6bkpxS2NfMktxM1FHOF9nQTFvNmdLQUVVSmswU1BibGNXellJMTQ3b1pIanJtVnY1cDlBMTJUSEMzVEgwWk55OEI5Ti1lZldLeS1tVVg2dlJ3T2JNWi1BMUZxczJWTVRTTmZjTk5ZWlhIYlNTbkwwcExXT2VwNC1jQkR6cjF6c1ZpSXdpREExeDNlWnJmREVR0gHkAUFVX3lxTE9qcmRBRHpLQnhFY21OMzZzQXh0SFUzTGRzYWNSZlpBVTlGdVU4eEVmbHlwd1cyeEVkb0QxRVNKVjN5X3RFYzB4NU15Y256V05wdVprZElFOEJsVFhMR0tCN0t4MVdnZTN3ckhJdHRycHNXT3lkZHJkejNNUTlZNlVHNnpWa3hYQlVGZXZwUzlfejU5YzcxeExpaS1xQVRST2REWDJKR3g1WXpUMzRvTnM4My1EQ3pZb2JKMnZrcHNiQzZjc2Z1eDU4SXVvMVBybElHbm10RWlkbGUtaTZKek1yek5kRw": 1793691076637,
+    "threads:DfRWjNLk9UT": 1793691340488,
+    "threads:DfRWaWok9ky": 1793691340488,
+    "threads:DfRWAF-n8Cp": 1793691340488,
+    "threads:DfRWdn8khbu": 1793691340488,
+    "news:CBMi5gFBVV95cUxPRGpJeGR6YmNlZ0NabnZjQkhrRm93OFdGcy0xSVFlbllaa3d0MllXR2hXV2Qtamp0WmlqR2N1bm1qa2xsRGdnYXZzcmtTdWUxUW5BUkxMOS15VXFXTnF1SjBEU3hIVmtDUGRfd0o3UWRDc2k2bVpiU0tXR21mNHd1Q2hZZHdUSWh1Ry12LVNyS190Vk5VYzI1OGFxeGtfZGNXd2l5ZDI4bjA3NWRNdGdFVkR6R1hXOGhybUo4UTdWZDVibER6bGdjcUlQUGVFcnExNkxNZFM4aWNUT28wa0pGQi1UWFMyQQ": 1793691340488,
+    "news:CBMirAFBVV95cUxOLTlKWi13RERhOVV1R0ZvaWVyUklocUdDV19sMTM2aVJUbzNfWU53NkxUTy1oVVJFa0JpVnVGYW9KZDl2MmRqMU15dFJSWFJFVnRSaDhYQlNCVF9WZnBIaWx2cjRtNndRRVZCNXhfQm14VnFpb3FybnllQ2lqQURFaU9Cd2pzdkVLLXA4QVMyWnN0Rzdtb3lMTU9oUWp0amxYSzlScG0tS0xoMHYx0gGsAUFVX3lxTE4tOUpaLXdERGE5VXVHRm9pZXJSSWhxR0NXX2wxMzZpUlRvM19ZTnc2TFRPLWhVUkVrQmlWdUZhb0pkOXYyZGoxTXl0UlJYUkVWdFJoOFhCU0JUX1ZmcEhpbHZyNG02d1FFVkI1eF9CbXhWcWlvcXJueWVDaWpBREVpT0J3anN2RUstcDhBUzJac3RHN21veUxNT2hRanRqbFhLOVJwbS1LTGgwdjE": 1793691340488,
+    "news:CBMikAFBVV95cUxQaHNqV3ppMk10bHNaNDRYX0E3bnZjb2FyX21jQmFiZTZkdzVJbjZyR0tkNG44c2F3VWJCVkctQml3REFaUGpRNm1UX2JwZXlTUUIzcTFRZWIza0twLTNLdGhWYWg0cDBBMV9CczVjT0E5c2o4ZWNwY3ZRdDFMRnJZM2ZiYXFocWhrcXRwYjNaWGg": 1793691340488,
+    "news:CBMiqgFBVV95cUxNdDJFdkhWOEk4MWJyYnlTekFVbjJiaExyRUVGWmtDY2ZjbnAxWmZCajc3N0EyZFdET0s0dGctQVVhVEpYZWlLS1FDd19ncjlWM01GQzNPYS1tbm1NMVB6ckY4d25BY21maVVRWUtJQUxUUk9HLUh5dmdPVFd2YmJMNUM1dkpwcnhQMG8tQUNORkdBeWJGNU9HN09mbEw0cXlMOHZJbmlwMnpnZw": 1793691340488
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@vickylaurentina",
-      "x": "Belajar SEO dari YouTube aja cukup nggak? - YouTube: fleksibel, bisa belajar kapan aja. - Kursus online: cocok buat yang butuh materi sambil dikasih PR. - Webinar: bisa belajar ber",
-      "u": "https://www.threads.com/@vickylaurentina/post/DfQ6xVon_yE",
-      "d": 1793676559000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nadhirafairuzana",
-      "x": "Di utasku yang tersemat, berbagai pelatihan gratis bahkan bersertifikat, tinggal pilih kak mau ikut bidang apa kak",
-      "u": "https://www.threads.com/@nadhirafairuzana/post/DfRF1K7ie_0",
-      "d": 1793682357000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nadhirafairuzana",
-      "x": "Di utasku yang tersemat, berbagai pelatihan gratis bahkan bersertifikat, tinggal pilih kak mau ikut bidang apa kak",
-      "u": "https://www.threads.com/@nadhirafairuzana/post/DfRFzToiYXF",
-      "d": 1793682342000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nadhirafairuzana",
-      "x": "Di utasku yang tersemat, berbagai pelatihan gratis bahkan bersertifikat, tinggal pilih kak mau ikut bidang apa kak",
-      "u": "https://www.threads.com/@nadhirafairuzana/post/DfRFqMIiem9",
-      "d": 1793682267000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@janaizcom",
-      "x": "081221000499 IG : janaizjanaiz www.janaiz.com Gratis pelatihan",
-      "u": "https://www.threads.com/@janaizcom/post/DfRE5e7E8gr",
-      "d": 1793681868000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@asep.komarudin80",
-      "x": "Perhatian! Segera Daftar Ulang Bansos 2027 Kesini! #cekbansos #ubahdesil #daftarperlinsos #semuaorang #usulbansos",
-      "u": "https://www.threads.com/@asep.komarudin80/post/DfRFmHxHWBA",
-      "d": 1793682234000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sakinahbe_",
-      "x": "Aplikasi cek bansos kak, kalau tidak mau download apk.nya bisa di web cek bansos",
-      "u": "https://www.threads.com/@sakinahbe_/post/DfRGPDvjx-c",
-      "d": 1793682569000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29035,10 +28963,80 @@
       "d": 1793666328000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@_neurogenius",
+      "x": "Hai mom, kalau di kami justru terbalik hehe Harga dulu terus baru tawarkan webinar gratis dan disitu org tua jadi tau worth it nya training otak kanan kami hehe",
+      "u": "https://www.threads.com/@_neurogenius/post/DfRWjNLk9UT",
+      "d": 1793691123000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, kk bisa nambah skill bisnis online dan digital marketing. Yang nantinya bisa kk gunakan untuk berjualan produk sendiri secara online, bisa untuk dropship, atau bisa juga ",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfRWaWok9ky",
+      "d": 1793691050000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jakarohmana",
+      "x": "Kepada Yth. Ayah Bunda Di tempat SAYA GA BOSEN2 NGINGETIN! JANGAN BURU-BURU MENGANGGAP ANAK KURANG PINTAR kalau masih sulit menghafal. Kenalkan dulu cara kerja otak dan teknik meng",
+      "u": "https://www.threads.com/@jakarohmana/post/DfRWAF-n8Cp",
+      "d": 1793690835000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@veassist.id",
+      "x": "Dicari freelancer untuk Redseller RedDoorz jangan khawatir nanti akan dapat pelatihan dari RedDoorz selama 7 hari, job simpel bisa sambil rebahan, tidak ada target penjualan, fokus",
+      "u": "https://www.threads.com/@veassist.id/post/DfRWdn8khbu",
+      "d": 1793691077000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BANYUMAS EKSPRES",
+      "x": "Beasiswa POSCO 2027 Segera Dibuka, Kuliah S2-S3 di Korea Gratis Plus Uang Saku - BANYUMAS EKSPRES",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTlKWi13RERhOVV1R0ZvaWVyUklocUdDV19sMTM2aVJUbzNfWU53NkxUTy1oVVJFa0JpVnVGYW9KZDl2MmRqMU15dFJSWFJFVnRSaDhYQlNCVF9WZnBIaWx2cjRtNndRRVZCNXhfQm14VnFpb3FybnllQ2lqQURFaU9Cd2pzdkVLLXA4QVMyWnN0Rzdtb3lMTU9oUWp0amxYSzlScG0tS0xoMHYx0gGsAUFVX3lxTE4tOUpaLXdERGE5VXVHRm9pZXJSSWhxR0NXX2wxMzZpUlRvM19ZTnc2TFRPLWhVUkVrQmlWdUZhb0pkOXYyZGoxTXl0UlJYUkVWdFJoOFhCU0JUX1ZmcEhpbHZyNG02d1FFVkI1eF9CbXhWcWlvcXJueWVDaWpBREVpT0J3anN2RUstcDhBUzJac3RHN21veUxNT2hRanRqbFhLOVJwbS1LTGgwdjE?oc=5",
+      "d": 1793660484000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "FinansialFokus.com",
+      "x": "Cara Cek Penerima Bantuan Pemerintah 2026 Online - FinansialFokus.com",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHNqV3ppMk10bHNaNDRYX0E3bnZjb2FyX21jQmFiZTZkdzVJbjZyR0tkNG44c2F3VWJCVkctQml3REFaUGpRNm1UX2JwZXlTUUIzcTFRZWIza0twLTNLdGhWYWg0cDBBMV9CczVjT0E5c2o4ZWNwY3ZRdDFMRnJZM2ZiYXFocWhrcXRwYjNaWGg?oc=5",
+      "d": 1793684923000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "FinansialFokus.com",
+      "x": "Jadwal Pencairan Bantuan Pemerintah Tahap 1 2026 Kapan? Simak ini! - FinansialFokus.com",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDJFdkhWOEk4MWJyYnlTekFVbjJiaExyRUVGWmtDY2ZjbnAxWmZCajc3N0EyZFdET0s0dGctQVVhVEpYZWlLS1FDd19ncjlWM01GQzNPYS1tbm1NMVB6ckY4d25BY21maVVRWUtJQUxUUk9HLUh5dmdPVFd2YmJMNUM1dkpwcnhQMG8tQUNORkdBeWJGNU9HN09mbEw0cXlMOHZJbmlwMnpnZw?oc=5",
+      "d": 1793685609000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
