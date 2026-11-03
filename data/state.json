@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DY3uPmZFIqP": 1792524040136,
-    "threads:DUjyqXkka_m": 1792524040136,
-    "news:CBMixwFBVV95cUxOdVlOOE1JQVktY3F1R01VSVFMdklmQWFBVXVKeVZmLS05N0ZGeUNBRmFqc2lDQmljUmpjUzBNZHhIbUhtQzE4LWJWM3VtWlJBYmZJSlNod0pQbEVLOTBEemktNjdaMllxMUNLdUtlX3BoRkh4N0ZxdGF1S01pdUlMdTZQcFFPZUo5Ni1Ock1pOEs3QkFLd2NBUGJqTzdHcnRMVlFWU2hhVFJCVGkzeXFuSVR6azZtWkpuRXpDR2EtR2NLMWpZYTVN0gHMAUFVX3lxTE5XSHppSEZRbUxJclVkTmJ2bGxraldveHZFbUFVNEJnSDlHWmtibTEtTTR3RXBjRGRDWDBkTUg0WEt5M1l3TDVYMFdSUUN0dzMxV285WWtER2JnSWl3ZzZXWHdTWlJEMDgzVENmOTE0eVJ1NG96bkZFMlpZTm5WcHVTa0hEUDdROVhDUlowYXNoYmxwTHhZMklpNFJXQ2ZuY3Zob3pHZ3Q2dTBzd1JKZ214SGJGQXF2aUhRblJTWmVUeWp6RzZZUGZuZ2c1VQ": 1792524040136,
     "threads:Dd0neDjCPJR": 1792524341407,
     "threads:DeulVqHk-9i": 1792524341407,
     "threads:DeulPMwk69e": 1792524341407,
@@ -27876,29 +27873,11 @@
     "threads:DfPT_YMGIMF": 1793733357153,
     "threads:DdbRx8ZiFMY": 1793733357153,
     "threads:DfSmLRyE3WY": 1793733357153,
-    "threads:DeN4d_PFBSN": 1793733357153
+    "threads:DeN4d_PFBSN": 1793733357153,
+    "threads:DfSnVJKks-L": 1793733652179,
+    "news:CBMivAFBVV95cUxOQnRfVklvNTVnMGM5TG1FaHV5cl9uUmdvbWI1MmJuNzJ4anNmMzE0UFlBSEozckZkM3BNei1WLUliYUN6d0gxaVZ6X1dobl9XcVpyR2k0WDJtaERHbnRxWExFYjlGOFQ3a1BRSVZaQ2RiekM4S3NaSUpvakJEbE83NGEtaUZjYmROVkI3dHBGV3hiMS1YdUhsZFRvSnQ3NnA4dmRyRVJscXNuTGx6NUtvZnJSMkd6RlRqSWV0Mg": 1793733652179
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Bisa — itu jalur formalnya. Jalur sanggah desil tidak harus lewat aplikasi Cek Bansos, kamu bisa mulai dari RT/RW bawa KK-KTP ke Kelurahan untuk Musdes/Muskel. Hasil musyawarah itu",
-      "u": "https://www.threads.com/@meta.ai/post/DfR8MmMjfda",
-      "d": 1793710861000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sakirsyarian",
-      "x": "Bansos dari ZCODE balik lagi, guys! 😭 Kali ini dapet 300 juta free token GLM-5.3-Flash. Mulai tersedia malam ini pukul 22.00 sampai besok pagi pukul 08.00. Lumayan banget. Bisa se",
-      "u": "https://www.threads.com/@sakirsyarian/post/DfR8FgTGvJB",
-      "d": 1793710808000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29378,10 +29357,30 @@
       "d": 1793732870000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "2025 realisasi pajak cuma Rp1.917,6 triliun atau 87,6% dari target APBN Rp2.189,3 triliun, jadi shortfall Rp271,7 triliun kata Kemenkeu. Dipake buat APBN 2025 sebagai sumber utama ",
+      "u": "https://www.threads.com/@meta.ai/post/DfSnVJKks-L",
+      "d": 1793733475000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Hasanah.id",
+      "x": "Bansos PKH dan BPNT Tahap 4 Cair pada November 2026, Begini Cara Cek Penerima Lewat HP! - Hasanah.id",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnRfVklvNTVnMGM5TG1FaHV5cl9uUmdvbWI1MmJuNzJ4anNmMzE0UFlBSEozckZkM3BNei1WLUliYUN6d0gxaVZ6X1dobl9XcVpyR2k0WDJtaERHbnRxWExFYjlGOFQ3a1BRSVZaQ2RiekM4S3NaSUpvakJEbE83NGEtaUZjYmROVkI3dHBGV3hiMS1YdUhsZFRvSnQ3NnA4dmRyRVJscXNuTGx6NUtvZnJSMkd6RlRqSWV0Mg?oc=5",
+      "d": 1793712840000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
