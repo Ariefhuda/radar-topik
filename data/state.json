@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeujB-Pii70": 1792523739892,
-    "threads:DeuiZKUnPpI": 1792523739892,
-    "threads:DeujDY5EmSq": 1792523739892,
-    "threads:DdwG5-jmO0k": 1792523739892,
     "threads:DY3uPmZFIqP": 1792524040136,
     "threads:DUjyqXkka_m": 1792524040136,
     "news:CBMixwFBVV95cUxOdVlOOE1JQVktY3F1R01VSVFMdklmQWFBVXVKeVZmLS05N0ZGeUNBRmFqc2lDQmljUmpjUzBNZHhIbUhtQzE4LWJWM3VtWlJBYmZJSlNod0pQbEVLOTBEemktNjdaMllxMUNLdUtlX3BoRkh4N0ZxdGF1S01pdUlMdTZQcFFPZUo5Ni1Ock1pOEs3QkFLd2NBUGJqTzdHcnRMVlFWU2hhVFJCVGkzeXFuSVR6azZtWkpuRXpDR2EtR2NLMWpZYTVN0gHMAUFVX3lxTE5XSHppSEZRbUxJclVkTmJ2bGxraldveHZFbUFVNEJnSDlHWmtibTEtTTR3RXBjRGRDWDBkTUg0WEt5M1l3TDVYMFdSUUN0dzMxV285WWtER2JnSWl3ZzZXWHdTWlJEMDgzVENmOTE0eVJ1NG96bkZFMlpZTm5WcHVTa0hEUDdROVhDUlowYXNoYmxwTHhZMklpNFJXQ2ZuY3Zob3pHZ3Q2dTBzd1JKZ214SGJGQXF2aUhRblJTWmVUeWp6RzZZUGZuZ2c1VQ": 1792524040136,
@@ -27875,19 +27871,14 @@
     "threads:DfSl1qOk_mu": 1793733055955,
     "threads:DfSlniiJeDB": 1793733055955,
     "threads:DfSli5EtBv8": 1793733055955,
-    "threads:Deobjkno3cl": 1793733055955
+    "threads:Deobjkno3cl": 1793733055955,
+    "threads:DfSmcQelp3C": 1793733357153,
+    "threads:DfPT_YMGIMF": 1793733357153,
+    "threads:DdbRx8ZiFMY": 1793733357153,
+    "threads:DfSmLRyE3WY": 1793733357153,
+    "threads:DeN4d_PFBSN": 1793733357153
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@wahyoedoank",
-      "x": "Bapak Ibu, kalau status PBI muncul masa tenggang 90 hari sampai 1 November 2026, jangan panik, tapi segera cek statusnya dan perbarui datanya ke desa atau Dinas Sosial, bawa KTP da",
-      "u": "https://www.threads.com/@wahyoedoank/post/DfR9TGmj8Ru",
-      "d": 1793711441000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29377,10 +29368,20 @@
       "d": 1793725048000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@decemberrainxx",
+      "x": "Kataku rugi banget yang kemarin ga kedapetan harga promo & kelas gratis😔 biaya les sungguh mahal. Kemarin harga yang promo bahkan tidak cukup untuk membayar langganan aplikasi mee",
+      "u": "https://www.threads.com/@decemberrainxx/post/DfSmLRyE3WY",
+      "d": 1793732870000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
