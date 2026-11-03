@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Ddpd_Mkjz4c": 1792455342549,
     "threads:Desg2zGEywh": 1792455645585,
     "threads:Dauc1wXFT1v": 1792455645585,
     "threads:DesWWEJEnMm": 1792455645585,
@@ -27269,39 +27268,19 @@
     "news:CBMipwFBVV95cUxQc051eTVfVFJaLUdYMWJDcVZNZ2Y4VEo4U2h5ejQ2OUluQUpKRF9EemlpOXJOT3k1UmhfU0VwaENxYXB6anRxemVib2g4TzZ4REdZOUl5Q0l0Q2RRSXE4MFVlQ29ManlEa1hQM1QzdWFRVzJwSXhyTFJXOVVQTFJscUhZTmFUYlZ6NjZCYlZiaUJqQ2N2Y1VtYVBiWmRtN2Z6YXExWHdFMA": 1793664660664,
     "news:CBMivwFBVV95cUxPLUFXS2I3SWdPMWVaRVdrd3ZRZE41dzNBR2F6dU5YbjJzakNtUDBqS0FVdnpzYjgwam41Yy1Lb2hrSnBFUkQ3QUY5UFJWdk9sQ2RmY3h3WUtXRThVendsZmwwS3dIeVZRRWd3VWVJc3h4c1Z0eDNreG5oeUhVWHROVVdDOTc1VmRPVkhzUVVJT2QxMUVWcHI3NW82SmpPRzhGSV9WZW1FazBlWTBSd3NfSkJBc2NIS3ZHTUo1dVlHSQ": 1793664660664,
     "news:CBMiyAFBVV95cUxNUmFNWUxBNXVUTTBkRlI1ZElxUldmUnBsc2p0ZGo1Rjg2V1JQS1JKeTBkZEpZc21tYW1JQnhyX3BYak4xVGRNS0YxTTZCTVZ6R00yaWtFZ21wY2FqX0RvbjRlSHZIYnliYmxhNXZWRU1IWmdTTFkzQ2FyRjBSclRfeWJpWi0xZVRTSzl1b1pxS2hYNkNpY2RneWdEaXhoMmwzM0htOFUtNm1ZT3pyUC1EaWhVdXphRTFjV0V3R19YNDgtUkxTY1ctaNIBzgFBVV95cUxPcThJQi1MOHBmMEF4aTF5RFRXYlFBT2pIZlVfRTQ0ODhseWNpWDVvcVMtZE1URlpuUzBfZWFjVlhrdGs1YUZaWXFESTdBWml2RHU5S0hkU1hyTHhNTDFwbVlzcjEyLTA0b1hya1Rzd0pFVkNRZzZhcTN0MzlQYnNoZlpYZVdzWjdvRlpNaHQ0YjdpblJpWGV5N2lQalFFLTZFcUc4Ui1OdW9YYkxOZlVWNmI0MmR4amZrb1hrcW5lbEhYbEk5X21naUZqS3dZUQ": 1793664660664,
-    "news:CBMi0gFBVV95cUxOVWE1ZmVsMk5FUE5zcVBhYndYTzBaR3hVMl9ZM01RYXpIOVd3NHRKM19nTnBSOHExR2FCd2ZET1lwLXRyenFNRmRhTGlydlpFLWFDdnhkbm1SMG4wY1ZlX19nak9EV0FOeVVFazNfOGdmU1lodGFfbXhJMTVMTXl6VDVwUDd6aWdjUk5ad2NoTmlsbXdPbUZFSHF2cnVITVpaYXg2R1dRNVNYWVJET1pjY0dnb19UVWs5cjZjSS1vNzFTQ1FobjVVd1hSX3A4dkJsQ0HSAdcBQVVfeXFMUEZrRnVLbktrdEM1OHBVQ1h0aF9BdmtpYXJxbW5FYVZOTjhTQmdfOXhNYjBSZFozWWxpRERQRTEyNEl6YTY3S285RmhIZVlJM3l0VWhtalEtcGJ6SkVyU0QyMGhmZ0hLdkdmZ1gtZ3NFRDIySHloMElseUZfNFpUVkk3dkpjZEFibENUWTdnaGxUam1DZ09vcWFkU0ttVURTRmFwMXFoNjZLUkQ3bldCRTB2Q2Z0SnNUTWl4MWc1OWlfNG94Wk51eTZ4UFJMMzNzZnJZMWF6UDg": 1793664660664
+    "news:CBMi0gFBVV95cUxOVWE1ZmVsMk5FUE5zcVBhYndYTzBaR3hVMl9ZM01RYXpIOVd3NHRKM19nTnBSOHExR2FCd2ZET1lwLXRyenFNRmRhTGlydlpFLWFDdnhkbm1SMG4wY1ZlX19nak9EV0FOeVVFazNfOGdmU1lodGFfbXhJMTVMTXl6VDVwUDd6aWdjUk5ad2NoTmlsbXdPbUZFSHF2cnVITVpaYXg2R1dRNVNYWVJET1pjY0dnb19UVWs5cjZjSS1vNzFTQ1FobjVVd1hSX3A4dkJsQ0HSAdcBQVVfeXFMUEZrRnVLbktrdEM1OHBVQ1h0aF9BdmtpYXJxbW5FYVZOTjhTQmdfOXhNYjBSZFozWWxpRERQRTEyNEl6YTY3S285RmhIZVlJM3l0VWhtalEtcGJ6SkVyU0QyMGhmZ0hLdkdmZ1gtZ3NFRDIySHloMElseUZfNFpUVkk3dkpjZEFibENUWTdnaGxUam1DZ09vcWFkU0ttVURTRmFwMXFoNjZLUkQ3bldCRTB2Q2Z0SnNUTWl4MWc1OWlfNG94Wk51eTZ4UFJMMzNzZnJZMWF6UDg": 1793664660664,
+    "threads:DfQkT8jEmLs": 1793664946155,
+    "threads:DfQkrgpkxBt": 1793664946155,
+    "threads:DfQkNSZGqih": 1793664946155,
+    "threads:DfQjeRaj3Lj": 1793664946155,
+    "threads:DfQjH-vjiuO": 1793664946155,
+    "threads:DfQjGu6kR5z": 1793664946155,
+    "threads:DfQkSK3Dj8N": 1793664946155,
+    "news:CBMitgFBVV95cUxNNFJnOVk5UnpwZ1V5cVRJbVV0NEV1dUVvdTRDcHg3a3RGTTdXNWVSX0dkNVJrTXlXV3lOV25UcmxWTXZXaTlCbU1yRHk2bEZJXzROLW9WckpzU2lOem11Vm55WFdWYUxYWWFYRzg4Z2tmNG5XbDUxcGg1Y0F3SXVEMmFtU3NJMnFRbWJVeklWM3dYd1k5LW8yVlNPSzJJLXBUVERla3lYRXpMMHQ4U1N2aHZmeW1sUdIBuwFBVV95cUxOYlZQd2hiQ1E4U213VTFyOWV2enBMMWg3emtZX1ZtcjNOMFBhZlcwREFGSU5JdEgzNWtxVjU0Z0d5dHJvaVZxS2NoakpnMVFSZmg0dHB6QjBuSkRFYmpxM29qWTBidnBjLVV6MVNfTE9Gcko3X3ROSEhkR1RjdmprcFN0QXhRUVVPRXVMSUplaGxCdnlWblQ5Mkl2ajFrSVozQmtHSktfMEdkR2xNdEFLeGFrQ0sxRi13TjdN": 1793664946155,
+    "news:CBMipwFBVV95cUxOSXhqeF9yeGlkeEtaTkhtLTVfTzNrYVpkN3lZYlo2aVI3MFdaUHQ1eC1pc2tTRVJHRmU1YjNmTGFERjVjdm1Vd25IS3NWRHY4VTVaYl80OGNHRGpqcFdKYktyQ1REd29tM1FlWkNhTzA4VUdoS2Q0RUJJcGlTeGVPV1dVcWNUbjJvMThKcFoyV0p3MkxaWGRNLS01OXBQSzA3RkpaMmprd9IBrAFBVV95cUxQSGdQSnhhc2ZKdktYbHMxaTYwQlpuclVQSng1d29oWjhzYVVSaDVkVlBiOTFNQmRwYVFlMFE1Y0Q4c25vX0RPX3QybGVRUVVyU0NxZzU1NjAzUWI3Y3ZjRlpOMjVqLWg4V0E4anNzVUI3NXdqVUp0eDIyVnZyOHdGcWthTHU5bXBsT2hMbDU1OXNfNnN3T1FCdFA4ZF9qLUh5MjR2WWJ0dGhMdFVT": 1793664946155,
+    "news:CBMi0gFBVV95cUxQSS1OaEZqYXNnSHFZamQtcWhKdVpKTkpyUDk2cmhIcWRNV29SWlZYNmRVZFRVbU4xdWJBTWQ0VF9ubmFSN2N0TjlIOXkzT1g4NHF4a2RiWWRlbjhHWkk5STZ2YUE2V2lNZDAxbFZ1OWlEcDVCdHB2eXpUSW9PNG5EeFFQUTNZVlFaQmdXTkhOY3ZjS3lDYW1sVUpid3FkQzYwZGl4Ny0xdS1zWXFQWVEzYVNPWHFlWGExejhYZ0JfLTNlX2VlYzdZaEREenI0RWh3b1E": 1793664946155
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@donutcuz",
-      "x": "halo aku ada info loker nih wfh, bukan judol atau jual kelas, gratis. khusus perempuan umur 22-37, gajiannya perminggu sebanyak itu ayokk yg mau lumayan banget buat penghasilan, no",
-      "u": "https://www.threads.com/@donutcuz/post/DfPkbyrH4eX",
-      "d": 1793631293000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@donutcuz",
-      "x": "halo aku ada info loker nih wfh, bukan judol atau jual kelas, gratis. khusus perempuan umur 22-37, gajiannya perminggu sebanyak itu ayokk yg mau lumayan banget buat penghasilan, no",
-      "u": "https://www.threads.com/@donutcuz/post/DfPkGReH_0b",
-      "d": 1793631117000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@donutcuz",
-      "x": "halo aku ada info loker nih wfh, bukan judol atau jual kelas, gratis. khusus perempuan umur 22-37, gajiannya perminggu sebanyak itu ayokk yg mau lumayan banget buat penghasilan, no",
-      "u": "https://www.threads.com/@donutcuz/post/DfPkFOknyF_",
-      "d": 1793631108000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28771,10 +28750,40 @@
       "d": 1793613600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "detikcom",
+      "x": "5 Bansos Cair November 2026 dan Panduan Cek Nama Penerimanya, Apa Saja? - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFJnOVk5UnpwZ1V5cVRJbVV0NEV1dUVvdTRDcHg3a3RGTTdXNWVSX0dkNVJrTXlXV3lOV25UcmxWTXZXaTlCbU1yRHk2bEZJXzROLW9WckpzU2lOem11Vm55WFdWYUxYWWFYRzg4Z2tmNG5XbDUxcGg1Y0F3SXVEMmFtU3NJMnFRbWJVeklWM3dYd1k5LW8yVlNPSzJJLXBUVERla3lYRXpMMHQ4U1N2aHZmeW1sUdIBuwFBVV95cUxOYlZQd2hiQ1E4U213VTFyOWV2enBMMWg3emtZX1ZtcjNOMFBhZlcwREFGSU5JdEgzNWtxVjU0Z0d5dHJvaVZxS2NoakpnMVFSZmg0dHB6QjBuSkRFYmpxM29qWTBidnBjLVV6MVNfTE9Gcko3X3ROSEhkR1RjdmprcFN0QXhRUVVPRXVMSUplaGxCdnlWblQ5Mkl2ajFrSVozQmtHSktfMEdkR2xNdEFLeGFrQ0sxRi13TjdN?oc=5",
+      "d": 1793664008000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Bansos November 2026: BSU Kemnaker, PKH, BPNT, hingga Beras - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXhqeF9yeGlkeEtaTkhtLTVfTzNrYVpkN3lZYlo2aVI3MFdaUHQ1eC1pc2tTRVJHRmU1YjNmTGFERjVjdm1Vd25IS3NWRHY4VTVaYl80OGNHRGpqcFdKYktyQ1REd29tM1FlWkNhTzA4VUdoS2Q0RUJJcGlTeGVPV1dVcWNUbjJvMThKcFoyV0p3MkxaWGRNLS01OXBQSzA3RkpaMmprd9IBrAFBVV95cUxQSGdQSnhhc2ZKdktYbHMxaTYwQlpuclVQSng1d29oWjhzYVVSaDVkVlBiOTFNQmRwYVFlMFE1Y0Q4c25vX0RPX3QybGVRUVVyU0NxZzU1NjAzUWI3Y3ZjRlpOMjVqLWg4V0E4anNzVUI3NXdqVUp0eDIyVnZyOHdGcWthTHU5bXBsT2hMbDU1OXNfNnN3T1FCdFA4ZF9qLUh5MjR2WWJ0dGhMdFVT?oc=5",
+      "d": 1793664000000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Cara Cek Desil 1–4 Pakai KTP untuk Penerima Bansos PKH, BPNT, dan BLT Kesra Rp900 Ribu - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSS1OaEZqYXNnSHFZamQtcWhKdVpKTkpyUDk2cmhIcWRNV29SWlZYNmRVZFRVbU4xdWJBTWQ0VF9ubmFSN2N0TjlIOXkzT1g4NHF4a2RiWWRlbjhHWkk5STZ2YUE2V2lNZDAxbFZ1OWlEcDVCdHB2eXpUSW9PNG5EeFFQUTNZVlFaQmdXTkhOY3ZjS3lDYW1sVUpid3FkQzYwZGl4Ny0xdS1zWXFQWVEzYVNPWHFlWGExejhYZ0JfLTNlX2VlYzdZaEREenI0RWh3b1E?oc=5",
+      "d": 1793664876000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-02-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
