@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DashQW8E13Y": 1792535136508,
     "threads:Deu4Bxqiavv": 1792535445971,
     "threads:Deu6dtZk_WP": 1792535445971,
     "news:CBMif0FVX3lxTFAwcXpXYjdQdzZzajlyRk5WcjlSTzFCYy1VcHJzaVJDSHRDQ1YwbF9ZRjNlT1JWMmtpazZjNGhTWjYwakRtYmlCMlNkalJpUnBtbXdpQlN1aExNSDNlcGFmc19LeC1KZlNKZlRzWXJ6WTltMGNyM0NiV09LYmd0Wms": 1792535445971,
@@ -27955,29 +27954,11 @@
     "news:CBMiygFBVV95cUxPQ095N2hyMEJ5TUs1c1Z2Sk83UlJ5NWN6cDB0OEJZcFViLU1pSExFOXFkRjJNNlpKUkE4NUxfcWF3X21IWlZPOG1lNGJQaHlaTFljSWlNNDBJbW1XaXE4Y2FRNTUwZUExS3ZUVTl0T1NadFVoV0toZFVnczlscDZSWGw1dmN2VDc4Z3pGOTV6TzlVRENsUVhKUWNjYjI1UVlMQjY4M244RGlzVlN2aWQ4UDk5amwyZjZHQ0FJQmd4T0FLaHVMTUk2eC1R": 1793744444951,
     "news:CBMizwFBVV95cUxPTXdDamhwSGdXQXJEcGw5X0lINF9tS1FWYUllakRhN1IySzltSkprbDBnQ1RLd0t3ZjRvVWdTVnhlSVdqTjBNczlfNWZMY1piV0Qwbk9kc3JGTE1hMllQZlFKcWFGcmFfSWJSa0VBS2dtQzktTlpFTGk2c0oxN0xaUi02aS1HYzNTalRhYVljbENfUGljbGZHSDZLaG5ockRDNlhrQm03SEVxS3VoMzFnQklGWUpqeld1RjlmZ1dXT3drMnYxY2lBejZfaVR0enfSAdQBQVVfeXFMUEFOTnU1TnVsSl9lbmZGRmQ5bjhhZkxKcmVPb3c1c3Z2LWV1QlZ5eGJ3eHg0dnpMTWVfTnFURzl6VG5KYm9mSmYtTmFGVTNjVWM3S0dhT2p5dmFjRHd2YWh0NjFUaGMyUldFTFNqeEQ5WWZjQ3VabHc3LWZONDFlMDRPU0drMW1lejNKYnA0VUFOMjJOZVFTa25hWWpWLVlQSHFxSUVkcDFlZENkS19SQWRlcUVaNkFWeDNzY2NCZlh5S3oxcG9nS3YxWDJ0YTBaa1ZGNzY": 1793744444951,
     "news:CBMi3gFBVV95cUxNLWFSQnYwbmo4djhKZFJFdTZJTml4Vnh0RHg2cUtGMXhNZ1lVblhMRXhFTlJaOV9UTkNqS0R0TXRVOVl3RWR1UWNYam14TkxCaXcxaGxOYVJrcmUwSEE5WDRZSUgxUkMyZ21udkJsVmgySWRxUXVkVUE1N2l5X0xCYi1STzdmejVGRVFUQWVucGpwcl9waVJqSzFoUnRoS3M3QUk1Q2hQTjcwVThUT2FkSU5JRVRjVFJjeEZQQ2RqdUlINkpuOWtpaFNRMnJCQVdsZlNPUFVGazRiMnI2TWfSAeMBQVVfeXFMUFkwejBUbWRfLTFOUFVBamw1OUM0bzQwLXhmb2w0M3hVengwMEM4a0xIVDhmWWNsNnF1dnV4b1ZiRUwtQWg3TnptZURHSVdRYlUwS1ZweFZaQXI0OGVkTUEzQmZwNWg0c2UxbGtQMTZzc2FoMm9CTVZndWNpckxMY2ZDZEhYRk9nTUc3UG1maFZzdlVVbk5fSy1TSEh1SGMyNXRkWUpoZWswcG14Nm9qWWYwRHZrOXYyS0U5UjMxeEVDbGR1SGdFX0lldGJ2eE5tLWlCcHFMTnBzZy0yS3phX3M1REU": 1793744444951,
-    "news:CBMi1gFBVV95cUxPbGV0S3FwakRHUGRzOTF2ejl4SHREcVpNT29tOEZ2Tjd2MFo2cmUydzBYSU1jNnhSUDBuN0toMEhpTy1XTnVHTDYwaVcwdml3RDM1c0lwSldTd1lNTVhHcWNLVE5OTkZ1bWVGNFpSc29kQ28tM0tDSVBkYV9vTXFneW5VdG1MaGxoczlVMURKUzdpUUNXaEJPZkFCSlhvblFEUGRMY29FanB3ME4zR3RGamd3MklnRE1GaThuZ29sbHJvT0hYMlk0TFQ2WkdzTzRpbGFmMS130gHbAUFVX3lxTFAtM3Q1dGtpTVFlTmdQY1FXN1l4WDQ3UlE0WWdWcHZiSF8yaEhidkdvdXI5MmhCWkZGS1hXRWRIb0FnN3hRZFY5VERSR2JYUTVuRjkwTVh3aGhhdV9GU21lNE04cXFKb25aTlFSUmh6QklleG9CVUFoM2JMWm01cEdsbHJWejFmLXN1RGxBVTdkVklzYms1Sk5TbXNlNFJYb3N5ZnhaNUg0UGNJZUl3ajNaSVVlb1R5SjgxWVZWNWdMNF9mX0hHTTdDZXBMN1JZU1I1MWxVWlBidnJ1dw": 1793744444951
+    "news:CBMi1gFBVV95cUxPbGV0S3FwakRHUGRzOTF2ejl4SHREcVpNT29tOEZ2Tjd2MFo2cmUydzBYSU1jNnhSUDBuN0toMEhpTy1XTnVHTDYwaVcwdml3RDM1c0lwSldTd1lNTVhHcWNLVE5OTkZ1bWVGNFpSc29kQ28tM0tDSVBkYV9vTXFneW5VdG1MaGxoczlVMURKUzdpUUNXaEJPZkFCSlhvblFEUGRMY29FanB3ME4zR3RGamd3MklnRE1GaThuZ29sbHJvT0hYMlk0TFQ2WkdzTzRpbGFmMS130gHbAUFVX3lxTFAtM3Q1dGtpTVFlTmdQY1FXN1l4WDQ3UlE0WWdWcHZiSF8yaEhidkdvdXI5MmhCWkZGS1hXRWRIb0FnN3hRZFY5VERSR2JYUTVuRjkwTVh3aGhhdV9GU21lNE04cXFKb25aTlFSUmh6QklleG9CVUFoM2JMWm01cEdsbHJWejFmLXN1RGxBVTdkVklzYms1Sk5TbXNlNFJYb3N5ZnhaNUg0UGNJZUl3ajNaSVVlb1R5SjgxWVZWNWdMNF9mX0hHTTdDZXBMN1JZU1I1MWxVWlBidnJ1dw": 1793744444951,
+    "threads:DfS688jkuHY": 1793744743373,
+    "news:CBMieEFVX3lxTE1NOWxYeWlUWExzcFhKYmhzRTdXMEFwMHotVlhzZmFCVkZFSGk0LXNrVy1LeWx5M2JvM0VIbjZBT3dXeUk4MnJzXy1rdFFPbUptUXl0QS1qVzFuVF9sX29KaDAyUHZ4YkZmVENjYWZydzdXWGRBNFJERA": 1793744743373
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@anggaalfiansah26",
-      "x": "Biasanya pemda ngadain pelatihan gratis + uang saku dan sertifikat BNSP. Bisa cek di BLK/PPKD daerah masing-masing.",
-      "u": "https://www.threads.com/@anggaalfiansah26/post/DfSAqjRHUG3",
-      "d": 1793713203000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "daulat.co",
-      "x": "Kendalikan Harga Pangan, Sekjen Kemendagri Minta Pemda Atasi Hambatan Distribusi - daulat.co - daulat.co",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzBEUUJIWUFYRXh6cmpQQ2xpTGRXZjdHMmRLRWtHaWtrWXkxQmo5QURxR3hCeFpCd0ZBbFNsM1RjckxVSVV3eWN0WHhpdjBNWmRWMjUxUGNCVTFRUnFWaDVpTklPeUdWUnN3cXRrR0UxQThKWlZPeEF2dmd6SlU4RWFwanFnLWtFdlRyY3BiR09VSDhVWmpqdWNRNV9JYVpZWWtpWEJDNHYzSEU1ZXhNWFZpTTBqdFlHTDdoTWNB0gHDAUFVX3lxTE5XMndGZFNsSmpkUGRjU3Z2UlhBT3FUUE80LWV0UTlaVHE4UXJ0V1J5OTZ4M1hLZzJSYmJjSmozbEJaV1JqR2dFMTJaLXE0aER4YUpBSUxoS2szZ1JmeVE4bE9icGJDLUdvMldkRlR2cmVVcVg3M0h4aDFuWFNsVXoxUWwzV1pUOUtJOFNKdkRZZXU2dlB6TnRtbnRzZzd3ZjZNa3RtX1l1UUdlSlMwQUZHM2pqNHdGcmlhdV9wa0ZPaUlMWQ?oc=5",
-      "d": 1793701727000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -29457,10 +29438,30 @@
       "d": 1793743979000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@umar_gmp_properti",
+      "x": "Assalamualaikum wr wb warga Threads. Mau punya rumah dengan fasilitas lengkap...? Grand Mahkota 2 Babelan Bekasi Booking satu Rp1jta All in Dp 0% Sertifikat SHM Angsuran Terjangkau",
+      "u": "https://www.threads.com/@umar_gmp_properti/post/DfS688jkuHY",
+      "d": 1793743763000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "BAZNAS Buka Beasiswa Riset 2026 untuk 308 Penerima - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NOWxYeWlUWExzcFhKYmhzRTdXMEFwMHotVlhzZmFCVkZFSGk0LXNrVy1LeWx5M2JvM0VIbjZBT3dXeUk4MnJzXy1rdFFPbUptUXl0QS1qVzFuVF9sX29KaDAyUHZ4YkZmVENjYWZydzdXWGRBNFJERA?oc=5",
+      "d": 1793744580000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
