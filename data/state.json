@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DT71-Cmkwv2": 1792612544792,
     "threads:DYi4Dosm3v-": 1792612853626,
     "news:CBMi6AFBVV95cUxNOHMxSEN6TFJiWk80MUVUSHBvX1VTbk9tZU1mVFp6Yng0UTZUYVIwcmpDQ3VId081aU1QRXd2THFrRkJLOC02M2tma05qOVRiTTcwZjF5bFZzc2F1ZDlZckVraTVybWJ5M19kYkQ5QTIyd21HSTQySFhET19LN2gyMUZRWUhPMjRKMl9IYWV0cUwtUzlOM3lmTU91Mk40Y1hnbmltSnUxNFBvSUNzOWdfUVF4UTBaY1ROcHloaU1CVUdkR3hCdmYyTGkxSFJSanFvVkR2eUM5cmMwRWlBVWdFSGQzYkRxUzhC0gHuAUFVX3lxTFA2SUJMcno5c0dvbEM2NzFlY2lucjB6RnRfRGdxOEd5Y1BuUTM1bi01ZmFtaXNJLXVFUkdiRnp0NmpnSXBiMDlQRXQ5dHV6OHdjSm0wbzFHRGRPVXVORGVnVF9TY3VzQmxibldwektqeTBEOHh5UnE1blktUXc0UG9HV0R5Zy14MDgxZjQzM2ljbEFoMG9YU2xWVXlLN3hqdl9aQ3lZSy1tRERjeTQ1cmk3TGo2ekxUZnpXWHlJM1BZNlFqOW9tRVJncTRzQUhMTGkyTzFnQXlkQUswQXRHS1ZSWFhhVnRiOVJCQTJtUEE": 1792612853626,
     "threads:DbQWy_6EhRU": 1792613139375,
@@ -26859,29 +26858,15 @@
     "threads:DfVQB1alEdD": 1793821849203,
     "threads:DfVPZFpv0yz": 1793821849203,
     "threads:DfVPQYSjx6W": 1793821849203,
-    "news:CBMiuAFBVV95cUxPM1N0cUgtUW8xUWJWRnUtTkVScExKS29mb2NFaHZFT0hZWXZ2cFZjQ01xR0pQaFYtbWF4TTRMUWV1aDNBaU1SR2ktbUNaQUlDN0stczNvT1h2c0VRc1o1SWpnOVQ1RVVmcldVZXdVMzRhcEg0djh6WGNDNklNQnd1ZlRfUzVETUY5eVAzS0ViMWd2Y0VfNDVFYmpjUHlIem94djZRcmNqejFKekxTekpLM3k5RTI1SWhH": 1793821849203
+    "news:CBMiuAFBVV95cUxPM1N0cUgtUW8xUWJWRnUtTkVScExKS29mb2NFaHZFT0hZWXZ2cFZjQ01xR0pQaFYtbWF4TTRMUWV1aDNBaU1SR2ktbUNaQUlDN0stczNvT1h2c0VRc1o1SWpnOVQ1RVVmcldVZXdVMzRhcEg0djh6WGNDNklNQnd1ZlRfUzVETUY5eVAzS0ViMWd2Y0VfNDVFYmpjUHlIem94djZRcmNqejFKekxTekpLM3k5RTI1SWhH": 1793821849203,
+    "threads:DfVGpCoE3Bn": 1793822135097,
+    "threads:DeiCezek5yc": 1793822135097,
+    "threads:DfVQNxtk15Y": 1793822135097,
+    "news:CBMi5wJBVV95cUxPcVdmbWQtRzk0REowWWZjTE8zNDRwSUs2WmFEdGV3cDhZTHk3bGUwZnZoUXgxbjJYN2M4ZFRabnVmVllUSnA5dXVsRWs0SWpBYnk0MWRoZDd2MWFWbVByZDRZQ1ZKUG5ENXJVTUowNHBBU1F3YXNyLXJFVU1BcXIzc0k4cFl2aEZ3MUtWWHJlbWpYNzM0bFNNMFRMSGFUNWJjTjk5YzBFQ1cxWkJDSExMZENHenZGRUVPbGNEdXRhbkxNNWZPTGVvMDNIdDdra0cyYUNSN2E0VDBobkN4MFhpSHM0YzlEVkJKaHpyR1lSQ1Z0ak94TnB5b09HNFJwUE9fMVQ4VHR0ZE0zTWZYM0NOQ2h6R0tOOE0yN1Q1YnoteDBobXBMc3RodlAzc1lVdGk4OUtCZzAxQ0MwRzU1alFjci1SbWVZMUppMUk4QU15ODBaeHVZLXNpdWNEQ2hqX2ozdWdyUzhxUQ": 1793822135097,
+    "news:CBMi5AJBVV95cUxPY04tUnJpdmd0MTQxTUtjQ3pqSTRvM09odUhKNFlKUWpsOFd0cUhzYkhqM0MzemlzbUpCNktsM1k5UEptaHJwbVVaNEhIRkdybTRHWWZjSGZWelZZTXVmeHp5VDBoUlhxS0huTGFGQlMwOVV1YkpQZ2VfZnBQeWlqb2hxVUxRbks5d082dmE2QUgwUzBTVkNIQjI0VXhSSFg1cXRWRFFXOF9wdjRNQmxtNVVBSFIwY0Zrb1VndU1JQThzZXo4cUs2bWNiZnNwUzI1b3hpdlBFT1BrYXltZzVJZ09OdmRuV2I2VUJYa0d6UDJ5aWdTbEVQRUsyeWota2JKNmJOdWx5a0hUVmwtWmx3VUVOdEpiMEl0bVE3TUxQaFdVVGtidTJHNDVUQ3UydklxUUZfR0dJc2pDTkR1TV91aDFBdzZVcTZLaUhSdFZDbEtLY2FfQjh0YXk2RFlwTkwxeF9uZw": 1793822135097,
+    "news:CBMi2gFBVV95cUxQM05tNzUyTzZNSkpDNl9sVlpDSkdFLUpzMDRqNXBhN1hfZDRvSjVRZ1lSekRfYTQ2M1pUMHF2c3N0dTEtb1lVdjdGOHBka2lMYUtGNlZ2a2lEcWlCakVWVG9WNnNKeHN2VWU2Qi15S2FQX2t1ZTJfQXhydmJlTWc4ZHdXdFo4d3lDbDVjRFJSNFI4bENHbUgwMUdwRUdRSmZQUThLejZVR1M4LXhweFNndVhmcnVvTEFNOTV2QllWYjNUNHJ3Yzc4S1dnZTNQbmtOeG9RT3FsTUEtZw": 1793822135097
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Galamedia News",
-      "x": "Cara Cek Desil November 2026 Lewat HP Pakai NIK KTP, Cek Status DTSEN Keluarga Kamu Sekarang - Galamedia News",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWEdKVFJ1ZXl5VF90T0Z6azZ2NDZvWFJjbWVFRDc3MWZHNVFmQVVaWDl2STdVNGdYdEw1WDhtcHNmLVBmQkJLUmtmeEFpNEsxdWhvTGpnb2ZhTHJmMFVJYmduZDBVYzRqbTJhZkRaZkxCUzVPZXA2V05NQjF5VlBZZnlQdTQ3WjZvc1R2Xzl1bGhqVG85SjZaUkptWFRtV0NDRm5renVfUDd5cUZmN3Y2SUlyaTNHU2lsU3VIVnc3Tl9JRUZFR20tdEtTcnlndWVMbjRVaDE0WFhsUkVSWVdTSg?oc=5",
-      "d": 1793758235000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Arah Pantura",
-      "x": "Cara Lapor Bansos Salah Sasaran Online 2026, Ini Bukti dan Penyebab Sanggahan Ditolak Kemensos - Arah Pantura",
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUVXSm5ESmN5dmM2NFhmeVZNVFBVZzdjOXk3T19wZldNbWNCX3dlb3FiMFFaZWFMZ3VzdmNhYlhZWjJhRUN3Ul9vQU95aTFxdUtmVnZhS3RIZUtfX3E1cU1pUWJrWFBrM1pOS0d3Q0R3WDFYOU12dlF6dDcyanFnNjJSWEhmX01qUHZyaHpzc1luMWRmVXRjWndnejN5RmtqX1g2aXBTWVhGN0swenNtaGgxZTNjQXg4?oc=5",
-      "d": 1793772087000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28361,10 +28346,30 @@
       "d": 1793785329000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qyupit123",
+      "x": "teman-teman yang mau masuk grup CPNS 2027 GRATIS, isinya ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan webinar g",
+      "u": "https://www.threads.com/@qyupit123/post/DfVQNxtk15Y",
+      "d": 1793822019000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "MTsN 2 Kota Jambi",
+      "x": "Optimalkan Peran Guru BK, MGBK Provinsi Jambi Selenggarakan Webinar Menjadi Guru BK Profesional - MTsN 2 Kota Jambi",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM05tNzUyTzZNSkpDNl9sVlpDSkdFLUpzMDRqNXBhN1hfZDRvSjVRZ1lSekRfYTQ2M1pUMHF2c3N0dTEtb1lVdjdGOHBka2lMYUtGNlZ2a2lEcWlCakVWVG9WNnNKeHN2VWU2Qi15S2FQX2t1ZTJfQXhydmJlTWc4ZHdXdFo4d3lDbDVjRFJSNFI4bENHbUgwMUdwRUdRSmZQUThLejZVR1M4LXhweFNndVhmcnVvTEFNOTV2QllWYjNUNHJ3Yzc4S1dnZTNQbmtOeG9RT3FsTUEtZw?oc=5",
+      "d": 1793794371000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
