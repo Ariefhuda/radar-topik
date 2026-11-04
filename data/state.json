@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMipAFBVV95cUxQWHZoYkh4VVlVcFRHRlNsTTF2ekFKUFV2NklIZWVzWFpQbmZfMm44YzZhSi02cTNQQUZ4QnFlOS1KVldVV05uSHRJU3ZFWXloT2pUbWE1Q2phaHpJYmw5UGRhS0pDd2h5TlpqUGx6VUFHcUpDQjBQb00wNHdGZEZlZ2lEWVpKR1hPcDFKbnRwWVE0MUh6aTMtZFNyN2ZQM3FZWVNXVw": 1792623935743,
     "threads:DevETEjEz5u": 1792624540073,
     "threads:DGaxCRmzvx6": 1792624540073,
     "news:CBMivgFBVV95cUxPS1d4UTM5eVB4WnZKU2VaaWRzZ0QzRjROeklORFIyUDJwMzlfb05STGE3Q2g5UnlzQXZJOUV2Qko0ZVNSQVNtZVUwTFNEVFhRRTg0RzlVSzNsTkk4clVZR1BzZDNxTGFMZEVza01PLUF0VEVEOVFRSkdQZm1xQ19ZSkRqUjhzSHh1aUNSN2w2RFNFanBWM1lMUFlkZU9yb3FEZV9CenZiTUZVTWFmems5dVh0LThNSGRubXZoRWxn": 1792624540073,
@@ -27024,49 +27023,15 @@
     "threads:DfVlOcSo0EM": 1793833257055,
     "news:CBMimAFBVV95cUxNNUQyNVg1dFFkcFhlU1FMbE1lMWZCbjJTMWM0T2J1OGc2WlZhUDd0MVZ6aGQ4OGhkd0NVSWVCdHdGazVKdVg3S0FVenMzbUIzSWx0dl9XVGFWMnhkM3hwRE0yOGtUaFJjdGdhd1ZoYUtSdlN6R3RIaDZqSklvOEMzS05TQ2w1dGhCb2lUa0xzQTBleU5NdFg0bA": 1793833257055,
     "news:CBMizAFBVV95cUxQRUNLWTJEeEV3VUYtZmctckp4dEFhMTZVdFFHM3V3MzIyaHFjaGFiV2wxcjBaTlFhY0dqbVo4MzVBeE04cVBEV1h5OGkxSzNJNGJpQ01qdWFCR2IwZW9NZ1AtVFdzN1BnNVJieFA3UHdfTEd4Vnctb1h6YXhiNGhMYWU1UDloN0V6LTVfaUNpcWhINUduVWRtN3VmUk9CWTVvWW5yMFd2dk96aExjZXpIZWQzWUNSRmhqdE54X0JRU1hIMFktQ2NSMFloTHDSAdIBQVVfeXFMTzN0SjhzWG5pcVRJSldpdldWZW9HM24ycjBMZGhHc2RkQUVQRWhLLW9UdjVPZGZtOUl2emNyRlBXRHRGb2ZKT2RvMy1uc2l1R2RyUE9haXBpdW1wbGFnMzFjcXpyQnNRdlVEbjZoNkpCZ2Nxd2tuVUV3b09iNzlmUnZjZVhBYXdlSmN0ai1XRUZCYTF4aU9IODVxQ1N3S0c1T3BsUkdlX3dZMjJnbnZEMi1JNXNVZ2dtVkF5ZXdzR29oU3J1bmNKNlF3ejdBZzBpNmxB": 1793833257055,
-    "news:CBMiywFBVV95cUxOSmE1MGJxU2RJRmp3ZmUtajZuc1lrdjhINHgweHNmZkoxcGRNczBDZWlUQTk1RDJ1ZGladzRwbWhjY3ZNTUFPZlJjZFc2Zm9pRnRzQjROcm8xcUZ1bDFJcTcyei1NSTRYSWdVQk0yczZuS09LQ2cxSnl4OTVCeE9wa3RVN2JaaDBoY21RUVVEOFl0WmpqbU1pc1RlLVBBWkRlOHd5TjBGb1FwaVNyWGw1d2taQlNLZXQzcHZfV0N3Qy1kbUtlZ2M2NFg0ONIB0AFBVV95cUxOYjlMNFFhRHJETTEyTnNFYV85NjkwWlBJSTNheHhVRGsycW1iUlR0QzVXUHlZU2hjcDE3QkgtNVN1VHBfRGhMX2lQZ1FGbENOQVBWNU9kSjNicUZabnd2ZnNVc2NyU0RqMmJsRC1mRWE4NFVTd1N1dlYwbk9wdkU4aEtJVEx5Zmc3QmF1bHlnQ1RWLWJZZDRzMnRqMUZsUDdRQ3BuUm4zaVBMUlBEVGlVaE01UDlYYXVMVk9saGRwc0h1elhYNFNQNUItT1hFR0p4": 1793833257055
+    "news:CBMiywFBVV95cUxOSmE1MGJxU2RJRmp3ZmUtajZuc1lrdjhINHgweHNmZkoxcGRNczBDZWlUQTk1RDJ1ZGladzRwbWhjY3ZNTUFPZlJjZFc2Zm9pRnRzQjROcm8xcUZ1bDFJcTcyei1NSTRYSWdVQk0yczZuS09LQ2cxSnl4OTVCeE9wa3RVN2JaaDBoY21RUVVEOFl0WmpqbU1pc1RlLVBBWkRlOHd5TjBGb1FwaVNyWGw1d2taQlNLZXQzcHZfV0N3Qy1kbUtlZ2M2NFg0ONIB0AFBVV95cUxOYjlMNFFhRHJETTEyTnNFYV85NjkwWlBJSTNheHhVRGsycW1iUlR0QzVXUHlZU2hjcDE3QkgtNVN1VHBfRGhMX2lQZ1FGbENOQVBWNU9kSjNicUZabnd2ZnNVc2NyU0RqMmJsRC1mRWE4NFVTd1N1dlYwbk9wdkU4aEtJVEx5Zmc3QmF1bHlnQ1RWLWJZZDRzMnRqMUZsUDdRQ3BuUm4zaVBMUlBEVGlVaE01UDlYYXVMVk9saGRwc0h1elhYNFNQNUItT1hFR0p4": 1793833257055,
+    "threads:DfVl9E9Cemc": 1793833569153,
+    "threads:DfVlkgZiC5U": 1793833569153,
+    "threads:DfVk1DPEryC": 1793833569153,
+    "news:CBMiwwFBVV95cUxOUUhfaDZjeUpzZEwtaTR5UU1IOTY3bTEwRnhnNGpfNFFGUi1vVFBDLWhISENydzNYOF9ReklDTXA4SlFJOElxcW10ZGhHSmdVZDJ1di1YUEpDUkFsOGd2MEwtc09YcUw2S0c1MjlRS0tRVmUwd2l6UlpYSG9hTWZBWUNiY1haWEFfcVVqVThJdWFySE1qTTZBZEhwVzNROWw5dWY3dmJOTFEyVGVpS2haOEdFNElmaTIxZHZVa0h0VFZ0MU0": 1793833569153,
+    "news:CBMiywFBVV95cUxPbG44My0wbkczM21KSmRacmRGRFVGVHQtOHFpUWJvZ2dlZG9INDVvSmdDdXRUQnZwTWtIOHZNbTRnaEI0LVREQ0VfLWZWeF8zNDFtUDk4RVZTRFRyOU0tbm00Y2hZNVNQcmFUM0tidGlUZlhqblR2ZnR4Wm9kcWRwSlIzVDR4VXdpeW1DX0gwZkhpX3VPazNGSkRQLXgtN0VpMDZaSlhWcnEwazBWaEJIbDMyRXdpWUFMb3EyTE1XWU4yNkVVSTZNM1dqWQ": 1793833569153,
+    "news:CBMipgFBVV95cUxOWHBDMXBjRkUwVkVLNUJkTWlXcVVOaUI4RTlxeTJCUVNzckxFemZwcWxJWUI0eEZUTzNsMldWWWlEMklodXNqMnVOTkZid2lVYVlHYXN1cnBmeUxlZjZWQ2hlTjhnY3ExUmdSb25vLXhBTTFESER4RENwazgydUl5a0xzaE5seFJVNUkxUkpyeFBOLW1nTHAtd1Q4RjYzQ2N6ZmhRRDV3": 1793833569153
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@yurbishadaqat",
-      "x": "Beasiswa Meraih Mimpi Segera Dibuka!! Mimpimu untuk meraih pendidikan kini selangkah lebih dekat. Persiapkan dirimu, Tingkatkan Prestasimu, rapihkan Berkasmu, dan bulatkanlah Tekat",
-      "u": "https://www.threads.com/@yurbishadaqat/post/DfUWVSfAiUh",
-      "d": 1793791681000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@daengnacong",
-      "x": "📢 BEASISWA YATIM PEMPROV SULSEL 2026 DIBUKA! Program Beasiswa Yatim dan/atau Piatu TA 2026 untuk jenjang SD/MI, SMP/MTs, dan SMA/SMK/MA. 🎓 Beasiswa Umum: berprestasi akademik/non",
-      "u": "https://www.threads.com/@daengnacong/post/DfUJkpyEaQ2",
-      "d": 1793784985000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@apt_mojakochip",
-      "x": "Kami informasikan bahwa PMB UNU Jogja T.A 2027/2028 Gelombang Awal resmi dibuka mulai hari ini 4 November s.d 30 Desember 2026. UNU Jogja menyediakan pilihan beasiswa, di antaranya",
-      "u": "https://www.threads.com/@apt_mojakochip/post/DfTrHknkWsf",
-      "d": 1793769017000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@fauzialiana",
-      "x": "🇩🇰 4. University of Southern Denmark (SDU) SDU menawarkan beasiswa untuk program tertentu, termasuk beberapa program S1 bagi mahasiswa non-EU/EEA. Namun, beasiswa hanya tersedia ",
-      "u": "https://www.threads.com/@fauzialiana/post/DfTph9Uj4Ka",
-      "d": 1793768183000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28526,16 +28491,56 @@
       "d": 1793775644000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@f.a.zahra",
+      "x": "Kak, kalau fluent English, sebaiknya submit cv langsung ke website resmi spa spa luar negeri. Terus kakak cek info bbpvp kota kakak barangkali ada pelatihan spa gratis, atau sertif",
+      "u": "https://www.threads.com/@f.a.zahra/post/DfVk1DPEryC",
+      "d": 1793832827000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Infokini.id",
+      "x": "Pendaftaran Pelatihan Vokasi Nasional Batch 7 Resmi Dibuka, Kemnaker Imbau Warga Segera Daftar - Infokini.id",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUhfaDZjeUpzZEwtaTR5UU1IOTY3bTEwRnhnNGpfNFFGUi1vVFBDLWhISENydzNYOF9ReklDTXA4SlFJOElxcW10ZGhHSmdVZDJ1di1YUEpDUkFsOGd2MEwtc09YcUw2S0c1MjlRS0tRVmUwd2l6UlpYSG9hTWZBWUNiY1haWEFfcVVqVThJdWFySE1qTTZBZEhwVzNROWw5dWY3dmJOTFEyVGVpS2haOEdFNElmaTIxZHZVa0h0VFZ0MU0?oc=5",
+      "d": 1793752648000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Poskota",
+      "x": "Kendalikan Harga Pangan, Sekjen Kemendagri Minta Pemda Perkuat Kerja Sama dengan Daerah Pemasok - Poskota",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbG44My0wbkczM21KSmRacmRGRFVGVHQtOHFpUWJvZ2dlZG9INDVvSmdDdXRUQnZwTWtIOHZNbTRnaEI0LVREQ0VfLWZWeF8zNDFtUDk4RVZTRFRyOU0tbm00Y2hZNVNQcmFUM0tidGlUZlhqblR2ZnR4Wm9kcWRwSlIzVDR4VXdpeW1DX0gwZkhpX3VPazNGSkRQLXgtN0VpMDZaSlhWcnEwazBWaEJIbDMyRXdpWUFMb3EyTE1XWU4yNkVVSTZNM1dqWQ?oc=5",
+      "d": 1793778732000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat Sumsel",
+      "x": "Tanda Rekening Siap Menerima Bansos PKH, BPNT Cair November 2026 - Akurat Sumsel",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHBDMXBjRkUwVkVLNUJkTWlXcVVOaUI4RTlxeTJCUVNzckxFemZwcWxJWUI0eEZUTzNsMldWWWlEMklodXNqMnVOTkZid2lVYVlHYXN1cnBmeUxlZjZWQ2hlTjhnY3ExUmdSb25vLXhBTTFESER4RENwazgydUl5a0xzaE5seFJVNUkxUkpyeFBOLW1nTHAtd1Q4RjYzQ2N6ZmhRRDV3?oc=5",
+      "d": 1793833200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793811966590
+    "reddit": 1793833569153
   }
 }
