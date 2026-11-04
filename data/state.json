@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMivgFBVV95cUxNZ2d1NHV6N3N0WkNHUmFFS0ZWUTNacG5QRDBQTTF1NzlDaFZQYTl5cTZjZjByT1pHMXpveXJOTVFlUnpaclJibUtKZ2lNSEo4OU12ckdDS2JYZ1czTFhrVVg4MXdBQmdFLXBlQ3N4RDVFdDd3SkFLNE56RW16bG1LTlgydkpzckhvX3BmWHJUNnh3aEhra1pNeXBqOTkzc1JIZWd4V19XMmtacm5wSmJZSjdtalY4ZzlXaWtHTUpR0gHDAUFVX3lxTE9CMjZTdlAwWE9aWUl5VXVaSmw1MnB4QTdid1V1QXJDVk1BM0lCb09SU2JHd1NXaW1xcE5CQVoyc1QwSHBqZmIwY2N0NkpjR01vWTZHTlpoc3dZX3BkOE9hSnJCYUFCaExNd01RVGFfQ2VtQ0RHcVRmODhoR3dZN1ctTVYxalpEUkk1a1I2MXFWVnNhb01saEMyVndXYmRzSFNCYUFXMXN4bE9RYlZhN0RudXVKeWxQcjVqZjdnSlhoQjh0OA": 1792620945011,
-    "news:CBMiuwFBVV95cUxQRFluQ2x4Y3FtMVNpR1BnbVNHX3BhUjNUT1hSdFAtX3l1UzFacFFqTHg5Z3V3b3BGeW05MFFsUS11RkNULUNfTkM5YVRuZkdmMzF4WnlJTXJlQ0IyeFhWZGpBd3prdkZYOXRjdW9GdTRlUUt2YnFNZzROS2JKamZhcDFKNTRmSGdYVGVKdWMtOE5fa195bl9WcElLOW4zUXNDYmpmay1NS1M5OWtRVUhJWDJiRTZMZUxpN1RF": 1792620945011,
     "news:CBMizgFBVV95cUxNeFdXZDI3UGhSZExsT0Z6cG1NTHRhZXUwbGNHTGV5OVZJZFZOWEtJUk9MeE9aZmtiWnRqdWdFZk5DU0p3UmFBNWV1a08zaVd2cGZNTGk5WE9JU3g1QzBaV1czSzB0SEFzdEhSb3I1UllxY3Y0aS1PVDRSM1ZCMjlRbmpHbU45NHJVelZjTzhkak1IdEZ0VWQtYkJRbUpMeWJSN0Zwam9Vbk1KVDhnZTM2REtEZkR6MXlyVi1POVhkbFMzMUZyVVBaajhTLXkzQdIBzgFBVV95cUxNeFdXZDI3UGhSZExsT0Z6cG1NTHRhZXUwbGNHTGV5OVZJZFZOWEtJUk9MeE9aZmtiWnRqdWdFZk5DU0p3UmFBNWV1a08zaVd2cGZNTGk5WE9JU3g1QzBaV1czSzB0SEFzdEhSb3I1UllxY3Y0aS1PVDRSM1ZCMjlRbmpHbU45NHJVelZjTzhkak1IdEZ0VWQtYkJRbUpMeWJSN0Zwam9Vbk1KVDhnZTM2REtEZkR6MXlyVi1POVhkbFMzMUZyVVBaajhTLXkzQQ": 1792621243187,
     "threads:DbE1XhIDZkx": 1792621546388,
     "news:CBMilwFBVV95cUxNb1Z4S3kxZHhGMy1pVkw5RmJKVUJjS3Z4NVVmb053WnJqbXBuWmxtcm8xdXBCY0RrZldBUVlURlBpem1pc0lYT1VFMGR1cTZzT0tyNkFIMTB4bUFrRE16OUFMVkVUdG5hUWp2SWI2eDgxSEVic0tWd05kN2JxeEt2dV9OaHNjZG9IV0NsaTNHNXBGZEJsRmtj": 1792621546388,
@@ -26985,49 +26983,17 @@
     "threads:DfVexMDks-6": 1793830299816,
     "threads:DfVYlEjGsoF": 1793830299816,
     "threads:DfVemPyATLH": 1793830299816,
-    "threads:DfVeRS9m2nA": 1793830299816
+    "threads:DfVeRS9m2nA": 1793830299816,
+    "threads:DfVgVdNGt3F": 1793830541912,
+    "threads:DfVgL9dH3TW": 1793830541912,
+    "threads:DfVfLtnFvW8": 1793830541912,
+    "threads:DfVevCqAGQ_": 1793830541912,
+    "threads:DfVgJ92E9Hc": 1793830541912,
+    "threads:DfVfYjREkGh": 1793830541912,
+    "threads:DfVef9_kXlf": 1793830541912,
+    "news:CBMi2gFBVV95cUxQbDdIRWZYbkgtN0diMVUzaU9Dam9Qc2kzeEhWZU8tWXZxMGxIV3VGRk1NOEVhUDk2LVcwZU80ZVBHRDJpcVRCbnlrdzY5WjFnNURUR0llSmkwUW51aFVZODRneWYzYVZSOEdja3JYY0UtaTN5bjRycXlaRUZDQV9LMk5mQlRPd01xaUxCbTh2cnVKU2otclRSMUtYMU1UZkg3bVFKYVJ5WFNUU3RHdjJvdEgtVmpzelBfNUZkeXluWmlOb09ya044UmsxTmpyRmNjaEZXZGRHM3psUdIB3wFBVV95cUxQWjR1Z0RRMHF0Wjd6bWpmd1dTTHBQZy1SczhKNWVQV3N2ZEdMUDhxYWkyX3NfNDNGVm9fMlZudUNTOTdPbjJYQWhiRW1lQ3RLZzdSSG5TLVhLem4tcEZlaF9NWlo1TWVSaXMwSVBFemhjSGZzeXdxUHl4OXFtUEkybmxwOS1MX0NHYlBzUE9mTXNHcUZMX0x1WGlZUTJwWXVkNEZKQzlHaUVpZ0RqUk9NUWRtYWtYT1FqeUMzV29tcnJESDJNQ3plWi1QTEJReWt4ak4ycDZubzhTMFNpQVlr": 1793830541912
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@spacefairway",
-      "x": "ini mah sekedar unek² liar aja yak.. kita tau mbg itu bisa dibilang visioner, namun utk skrng yg kita butuhin bukan itu sebagai fondasi generasi \"emas\".. yg jelas kita butuhin itu ",
-      "u": "https://www.threads.com/@spacefairway/post/DfU4Yzdk0fW",
-      "d": 1793809527000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ummiaulia28",
-      "x": "Besok jum'at malam akan ada kelas GRATIS bikin animasi AI + canva pro GRATIS lagi. Siapa yang mau ikutan belajar? Yuk merapattt☝🏻 Kalau mau bisa follow dan komen yaa 👇🏻",
-      "u": "https://www.threads.com/@ummiaulia28/post/DfUvYFSn6dq",
-      "d": 1793804802000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@azraasalsabila",
-      "x": "Hai! aku Azra, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Excel",
-      "u": "https://www.threads.com/@azraasalsabila/post/DfUs0GAD0Nf",
-      "d": 1793803459000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@waridizm",
-      "x": " Tetangga ini di Kalibata, belajarnya bisa di tempat kami atau diundang. Kalau mau kelas gratis juga kami suka ngadain.",
-      "u": "https://www.threads.com/@waridizm/post/DfUphJYk2Sc",
-      "d": 1793801731000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28487,10 +28453,50 @@
       "d": 1793829202000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sedikit.memori",
+      "x": "Temen\" barangkali ada yang tau info pelatihan caregever gratis boleh komen yaa, terimakasih 🙌🏻",
+      "u": "https://www.threads.com/@sedikit.memori/post/DfVgJ92E9Hc",
+      "d": 1793830377000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@faarida463",
+      "x": "Halo! Mau info nih, mumpung ada pelatihan gratis khusus cewek dari Perempuan Inovasi GENerasi AI 2026 x IBM SkillsBuild. Lumayan banget buat nambah skill digital & AI, dibimbing me",
+      "u": "https://www.threads.com/@faarida463/post/DfVfYjREkGh",
+      "d": 1793829972000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lowker_batam_hari_ini",
+      "x": "✨ PELATIHAN & SERTIFIKASI TEKNISI PERANCAH (SCAFFOLDING) GRATIS BATAM ✨ Dibuka pendaftaran pelatihan gratis dari Professional Project Institute ✅ Syarat: KTP Batam, min SMA, pas fo",
+      "u": "https://www.threads.com/@lowker_batam_hari_ini/post/DfVef9_kXlf",
+      "d": 1793829509000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Kabar Mojokerto",
+      "x": "Cara Mendapatkan Beasiswa Riset BAZNAS 2026, Bantuan Mahasiswa S1 hingga S3 Capai Rp10 Juta - Kabar Mojokerto - Kabar Mojokerto",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDdIRWZYbkgtN0diMVUzaU9Dam9Qc2kzeEhWZU8tWXZxMGxIV3VGRk1NOEVhUDk2LVcwZU80ZVBHRDJpcVRCbnlrdzY5WjFnNURUR0llSmkwUW51aFVZODRneWYzYVZSOEdja3JYY0UtaTN5bjRycXlaRUZDQV9LMk5mQlRPd01xaUxCbTh2cnVKU2otclRSMUtYMU1UZkg3bVFKYVJ5WFNUU3RHdjJvdEgtVmpzelBfNUZkeXluWmlOb09ya044UmsxTmpyRmNjaEZXZGRHM3psUdIB3wFBVV95cUxQWjR1Z0RRMHF0Wjd6bWpmd1dTTHBQZy1SczhKNWVQV3N2ZEdMUDhxYWkyX3NfNDNGVm9fMlZudUNTOTdPbjJYQWhiRW1lQ3RLZzdSSG5TLVhLem4tcEZlaF9NWlo1TWVSaXMwSVBFemhjSGZzeXdxUHl4OXFtUEkybmxwOS1MX0NHYlBzUE9mTXNHcUZMX0x1WGlZUTJwWXVkNEZKQzlHaUVpZ0RqUk9NUWRtYWtYT1FqeUMzV29tcnJESDJNQ3plWi1QTEJReWt4ak4ycDZubzhTMFNpQVlr?oc=5",
+      "d": 1793781632000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
