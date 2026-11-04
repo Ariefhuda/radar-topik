@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevJRRBFei2": 1792543541894,
-    "threads:DevJOW1kzwg": 1792543541894,
-    "threads:DevI-84k84m": 1792543541894,
-    "threads:DevJskkD71v": 1792543541894,
-    "threads:DevJtbCGRqE": 1792543541894,
-    "threads:DevJFRzD074": 1792543541894,
-    "threads:DevJjCkkw_C": 1792543541894,
-    "threads:DevJqc7j0P-": 1792543541894,
     "threads:DevJbfmm0Fe": 1792543841555,
     "news:CBMi4gFBVV95cUxPQjFuTW8zem0xdHU1aWtSaVhKTnhkUFBGalp4a1NacGtHaG9yMGU5QjJfZDVlR0dUeVZkbHFNNmpEckZLYjFiRWF4cEdiZjhtQTQzY2xEQzQ4ajhxQUlkTlFmTUpVSmhhNWFod3oyY2ZZYUtYbXo4YnBfLWpDSk92X1NHUDdYdktwM2lMUjk5bGRWaHBOMVpJM3pkVDdUb3JVTmxNZjNXcENHTmhHQV8xbVZQdXFHaDhScjA3SjJhTVRWQ1hEVVZFV1BNdHIzVWpsRl9ybGtQbzV6Ui1SWXFxbjh3": 1792543841555,
     "news:CBMibkFVX3lxTE5walpJcUdLTHJKSkdhSU9wSFRsZUpRQ3BTSUl5SVZYUllDdm5JLUQtLWNabUxkbzBudkM5UzB5TzhXQ2pHcmVWM1ZCTFlYOXR6SGFtYnE3UHBVX1BKRHptTmlCd1RzekJ6SV9WUWRn": 1792543841555,
@@ -27942,19 +27934,15 @@
     "threads:DfTLIrXn_v7": 1793752545513,
     "threads:DfTLCu4kxba": 1793752545513,
     "threads:DfTK3Y-gSLl": 1793752545513,
-    "threads:DfTK-_SEktN": 1793752545513
+    "threads:DfTK-_SEktN": 1793752545513,
+    "threads:DfTLhjnD8MG": 1793753142735,
+    "threads:DfTM_bCkZNz": 1793753142735,
+    "threads:DfTMj9qiKDL": 1793753142735,
+    "threads:DfTMHNkEp-c": 1793753142735,
+    "threads:DfTLyIaAC1v": 1793753142735,
+    "news:CBMisgFBVV95cUxPaUFNSXBIZnBLYV9kLUpXOWV5d0JOcGRudVNock9kNEd2X0ZXVFZ2QTZWOElqNnZuWkQ1UmJRSmdSU3FyR19ZRk1rcFgzcWdxOURDaUFnWlRWOXN6Z1FvRWJZLVlUcXJxMFdtUFdndnZ2QkRvaFVmRkRWQnM3OFJjemZiN0MyMW03TU1RRGZKWk91Qnd4QnpScVBDQnpUX0N6cHkxU0ZOWUhUVmljeFhaOXFR": 1793753142735
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@na.nachn_",
-      "x": "guys, aku ada info pelatihan GRATIS 100% nih! Buat kalian yang pengin belajar AI, cara bikin prompt yang efektif, sampai vibe coding (bikin website/aplikasi pakai AI). Cocok banget",
-      "u": "https://www.threads.com/@na.nachn_/post/DfSI4QdmmNu",
-      "d": 1793717510000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29444,10 +29432,20 @@
       "d": 1793752168000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Di Balik Sepiring Makan Gratis uuu - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUFNSXBIZnBLYV9kLUpXOWV5d0JOcGRudVNock9kNEd2X0ZXVFZ2QTZWOElqNnZuWkQ1UmJRSmdSU3FyR19ZRk1rcFgzcWdxOURDaUFnWlRWOXN6Z1FvRWJZLVlUcXJxMFdtUFdndnZ2QkRvaFVmRkRWQnM3OFJjemZiN0MyMW03TU1RRGZKWk91Qnd4QnpScVBDQnpUX0N6cHkxU0ZOWUhUVmljeFhaOXFR?oc=5",
+      "d": 1793749818000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
