@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "reddit:t3_1xbwyzd": 1792611643449,
-    "news:CBMisAFBVV95cUxQLXFfN29DdFZmbDNBS0JybmY4MlFlbWxLYmJNcFl6MHFXakRiYlFlM2EyODl4VFZTNFp2VDFlQXNjVGE1bmE3T3NoU3JidXRFQ0h6ZXFnMVRxYlNjNTdKbDIzN3JBcjE3T2VhV04zT1ZZa0hkQUpqVXM4X1NDWWJsWGtmMzY1ZW9wYnhtTmJZUWgycWpyNjlXdUpjdzR1SW5sS1VEZ0ZYN0hXZjJPcVMxR9IBtgFBVV95cUxNNzJmV3FQR2pRY1hlYnhvbEh3ay1PX3VEYTNEWTViT2VaVlBSa0xiQUJRbDZOSTBoSzA5MjU1cGJfTHZPYXhvd0xrQlNpb2tzSUtnWUlCdm1mVTBEUGh4UG44RmFPM1plTkprZnhGa2VEb1hycThNMjZqek0zYjRsckIwa2NPbkJJa1JhZ0ZWTVpMWDQ0MDVQTFY1cjNJUlNYZm1xNWRCLVhvNF83LXo0REFOWlF2Zw": 1792611643449,
-    "news:CBMinwFBVV95cUxOLVR4QW4xSXVBaGl5cTZNcDh4QzlRbE1BcUJUOHBjemlUVGNBT3F1cmhVS2VfRnJkVE9lY0QzRFFGNVlLOUg4eGk1LXdVaXoxSDkyZjIyUGMyZUx6elV2TUtheHgyZDJZZlZCbG5YelRFMVJYcXFuUjl2WEw3UGw1Y0ZDY001Tk1zWG9CZFlVc1NOaGdRZ2R5czFEUUprSjA": 1792611643449,
-    "news:CBMi1wFBVV95cUxQeVV2SXByUndVQzlHamxIX21EMk8zVnFxajZmaFNvNFROS0g2dGdKVmhjcndmVDZneWx6YzM1MFBBcGdFd21YQ2NKMWVNMDBfb1dMRHhWWVdOOXlRamJob3BLZmF2Q3Nob0ZfT2NYSnhzZGdIRFpzbFVfbTg4Sm5aY2IxNzRIT0hXbkNKamhxNmRJWk4zQ0RjTmp2THNMeFRqSVU4ZWFNbjgyMERxa3pYcGNvSzF5SzB5QTBxQlhScDY3NklzZThhVGVuOERfX1YtYk1hQW43NNIB3AFBVV95cUxOODZuSVk2NDhNUlhnTlJVMlBZeGZfLTF1eTA4czhfX2ZOWlVVSklweHpUN2JURHNKQ1JJYlpRWTg1QkhPVmpqRnVuNzhiWUk0SWRyVFE1X3diQ25xZ2IzbFIxcS1hTy1yaHlUQmVzNUNyRFpkbjJDM0x1d1drbHNWc0RzNlRoX3dFdkZFQ0NkOTR4VFZCY2NJcDI2U3JKbVJUSzFMN1c5Q2J2ZXRfbnhuRVB3dThPQ3ZjVlVQeUhhZGlQWHh6R2FUTEJlaWFlT1VUMGpXWnRaLTY5Rm9V": 1792611643449,
-    "news:CBMilwFBVV95cUxQem1ES2ZYXzB4dnBpSF9oM0hwVllyQ3RkN0tMaXJXU01jRjl2dnFEalpCQWlhOHhvWmJOY0YxcEYyN2hTRTdYeWl6NzV3THJHRTJFVkcxUk9UWkh6dGNVUGw0ZlFkYlVKZWVUSDFoM2drTm1PMTJlSkFPY2VmNndMMjE1UDJMbHNkMFdBcVZzZW9ua25KU1FJ0gGTAUFVX3lxTE5kS09RVkxFUUFIVE4wRm5lOWJfcTBBcG1GNnpTcHdyOWJiSUtYWTNZNkJFaEN5V3ZGNjFFT1JaQnNNNGFyckFjdEV3R3Ywem5LeDFrODFMc1RVcWwyTHNwa1JOMG9DRFRHSWphREYtZC1vRzlVTUljenF0UkNfdTQzMkc5aUVVM3FydE13Z2FYUEJfRQ": 1792611643449,
     "news:CBMiuwFBVV95cUxQaW04RFRhQU1MZER1aWZ3Y2kyNWNldUFQclZtSDN0N1RXZmdEQndKdkJVaW1TVFM4eHVRYU9IYVFxVEg4THRybm5DeW55WGREaGpWYTZXVE10SHhTeDhiV01OV0t5ZFV6bDFfbHQteF8tWnJ6dFpfa21OQjJRUDE1MUpHalJOR1RCeExGVE40ZGF3azVwaXhsT2o5OHFGSWNjaWFlMmc3MTdiTTVEVElKakRtWGFnajZJNlhj0gG7AUFVX3lxTFBpbThEVGFBTUxkRHVpZndjaTI1Y2V1QVByVm1IM3Q3VFdmZ0RCd0p2QlVpbVNUUzh4dVFhT0hhUXFUSDhMdHJubkN5bnlYZERoalZhNldUTXRIeFN4OGJXTU5XS3lkVXpsMV9sdC14Xy1acnp0Wl9rbU5CMlFQMTUxSkdqUk5HVEJ4TEZUTjRkYXdrNXBpeGxPajk4cUZJY2NpYWUyZzcxN2JNNURUSUpqRG1YYWdqNkk2WGM": 1792611949307,
     "threads:DT71-Cmkwv2": 1792612544792,
     "threads:DYi4Dosm3v-": 1792612853626,
@@ -26852,39 +26847,18 @@
     "threads:DYTff4LFICz": 1793820649464,
     "news:CBMiqgFBVV95cUxPaW9jN1Juai03N3VPUjVYNFFtRTV0S1pTcndiXzFBdDQwcDRwNElDcmpfa0VlRVhLbUtRNncyZEZZUzF3dUNzU0RFY0duekNLRjh0dy1BNGF3T2N2Tlk5dFBMcWhzNVV2STR6ZWczYkI4VV9WVVVnVFFXQlBhYTBHeUdlandGaVNpTlp5cW5vLThxbmFXdUxrQkF1WUV3RVUzZ0FXdnhVWDZWZw": 1793820649464,
     "threads:DfT4Yywj32O": 1793820935024,
-    "threads:DfT5PMcIEXj": 1793820935024
+    "threads:DfT5PMcIEXj": 1793820935024,
+    "threads:DfVOqt7FuFQ": 1793821245486,
+    "threads:DfVNknNmjGn": 1793821245486,
+    "threads:DfVNWE5EXaz": 1793821245486,
+    "threads:DfU6q5mEouV": 1793821245486,
+    "threads:DfUqa-umTsC": 1793821245486,
+    "threads:DFg0DEkSImu": 1793821245486,
+    "threads:DdJVcKZEvJQ": 1793821245486,
+    "news:CBMisAFBVV95cUxQLWdZZER1ZXNfOEFLSkZweG80V3lURGhqZEdGcVBTdnpoZ2djd1htWWx1VHZFQ21FU0pGenJCZXNObldZZGJuOU9KN0xnUU9MdFNiYlE5U0hRR1RWbnB6WDFCdXhqWFBucDdDaDVPTHNvZ2daTkJpcnUzSm1DbUJVTjZTY1hXelliNkZxSEhIMjJlMk9MNU1keHFmQlZISHpNT0k1bExMcDVvQUJxTlBnNA": 1793821245486,
+    "news:CBMiogFBVV95cUxNZllpVWpiQXNjaE8zMEZidFAtS1I3eDQwdnJDNENGMloxYjNoSUtmQW5SYTRQX0c5UTZFdDNRQnlaTmdLaUxFejRxT1QtWUFhdFpYbUpIQk1ucmhjTWlrMEpEMUotM0hZZXVMQzJNTFJEQmk2SzQ1ZUFkRFZibFgxVlBsNC1PRHo2U1g2MWlZT3VVajY4Tkd1OUJOWUFoR25TUmfSAaIBQVVfeXFMTWZZaVVqYkFzY2hPMzBGYnRQLUtSN3g0MHZyQzRDRjJaMWIzaElLZkFuUmE0UF9HOVE2RXQzUUJ5Wk5nS2lMRXo0cU9ULVlBYXRaWG1KSEJNbnJoY01pazBKRDFKLTNIWWV1TEMyTUxSREJpNks0NWVBZERWYmxYMVZQbDQtT0R6NlNYNjFpWU91VWo2OE5HdTlCTllBaEduU1Jn": 1793821245486
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "tvOneNews",
-      "x": "Cara Cek Desil Penerima Bansos PKH dan BPNT, Bisa Diakses Lewat HP - tvOneNews",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVlyYzBkaVJETmZmOC13TUtjanRyRXM0aE5kS01oT1ZETDloU3JLYVpaT3M5M1Z5RkNucExtWUpBNHAzeWJkQXBQZW4tTXVvWHNOdDdKY2Uyc2g5dG5rTHI4YnV5Z1p6WWxTbkd3X2NSWVhMZ2Vrb19hdWJyQnBvU2M5UE1kaFNYMl9yemt5cnRFT1RaOEo2QmxBT2RJZmJrQVU5NmZnM01iMDhUbUVnNjUtN1PSAboBQVVfeXFMTmRjSUtWV0Ywa1l5eklxN0haSWpxQ2pQckpDUjVDY3E0QmdMeTItY3E0Ulo1bmFBTmZFcEFPa1BoY0RvaG94TERLRW1Nc0wteXZNUlBOS1hhdkE3Y1puSENJMXktNUU3MHltSjJzeWRpOUUyMWhOMGgwdU1LRGJkZVlha3RRUlZsOC0xejhyazJvakZJbGZBSDg2bEg3b2tOU2d3S3ZQcENMX2xQZmVnazYzZFFPOEFmWkpB?oc=5",
-      "d": 1793760000000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Solo",
-      "x": "Pendaftaran Bansos November 2026 Dibuka, Ini Link Resmi Portal perlinsos.kemensos.go.id dan Cara Daftar Lewat - Radar Solo",
-      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOGRuMWI4MkZGakp3TmczMDl4bXRWYlB1RHdSZFNPODBKWkY3dXZCUmVMSHZlbjZFV3dJWGMtcHQtNktodGJkTGJXMUJJVFBMWEtUTXVWWGYtU3ZRdmh3bDFEcDEydzZMMGlsWV9odDRZajlWWVdDbHlzcVFGU0RYMDdnYnk5TkRPM1VLZ0xOc0IwbF8yRHVTdWZPZ2VUVV9XanRJSWNOcmhCYWR4TTROdDJUMUJBdWF1OTdUY0s2NlpPSHJ5SFBCVEZiVFRXYUxiX29lZ1FjQlhhOWFwOW1kR09GejkxQkNibnJr0gHwAUFVX3lxTE8zZXpUdjR3cGQzMDZJdkR5SkxsM3Jqa0xsMlczS2ZuU1piODdra3Y2MWczcWNFVXJMSUVfcmVJSjhtb1ZFRVZpbDRFVXdFWU1SNkZYYThPYWwxOFNQQzFOQlhnc3JMemppS013cWNMWURMWEV3Y2JTRmh2S0gxdENmS3ZFaVBXN1d0X1c0dXRPYmxmMHdtNGFQMmpNcFlVblQ0UDd1NnpyYkZsaWt6X0hMR3hha1pmQ3k3SjhiRWNReHVxRnZfam1UWFZIdXd2SU5BRnFwWVk0bGQ4b0dBWUp6NXRmaGlHWWNtWU9pN2FJUw?oc=5",
-      "d": 1793763081000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Bansos Beras 30 Kg November 2026, Tak Semua Warga Bisa Dapat! Ini Kriteria Penerima - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1gwbUFBUFVOdm9EbmdxVWJOVmVfV2luR1l2Q3Rla1Vna3pJTlVwNXpOelVpa3Q0d0NHMHdMc0RPdjN4NW5vTkpJWXR2ZDZEZEFETGxCVm1uSFQxVFlBd2E5SHRpZmlCUzJkMU1VVVNqdUZWa2U1Snp2dzJMNWx5cENHOTZqdnVqYlFTZTl1ZThvX2JwZUh5LVI0Ti1SS1RBM2VYMTBmay12c0c5N2xLWWRQTkFKQUdGWElraFppSTVjVXBZd3N3dzY2cDZSbjDSAdQBQVVfeXFMT0RRMzg3NHpfMHFiOHJsVi1fSU1kdTBiNWNoSld2bmQ2SUw3STBrQmc0RS1jR3lGYjBfd1ZWYjktaFJpNmRUMGplY3lPcWJuMG1HcFVXamZjZnJORUl4X2YwYlFCVjlnZ2d3UVRMbzc3X0dFUFd3U0pfNXJsX2pSVnI2XzFYMzByaW04WUd6WTJ4YzBRUjU2YnNjcm12d1NjUk0wVGNmMVJSTkRNWXpYZUhIWG5nVm42VXdRQ093bzFoSGI4MG9SVUs5dmxqdnBRS2ZPenQ?oc=5",
-      "d": 1793769603000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28354,10 +28328,40 @@
       "d": 1793799480000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@omih.erni.rahmayanti",
+      "x": "Setor hasil🤭 Lumayan lah yaaaaa.. Ilmu lagi (hari kedua pelatihan) #pelatihangratis",
+      "u": "https://www.threads.com/@omih.erni.rahmayanti/post/DfUqa-umTsC",
+      "d": 1793802205000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Pemerintah Provinsi Banten",
+      "x": "Pelatihan Kerja Gratis APBN 2026 Resmi Dibuka! Ini Syarat dan Jadwalnya - Pemerintah Provinsi Banten",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWdZZER1ZXNfOEFLSkZweG80V3lURGhqZEdGcVBTdnpoZ2djd1htWWx1VHZFQ21FU0pGenJCZXNObldZZGJuOU9KN0xnUU9MdFNiYlE5U0hRR1RWbnB6WDFCdXhqWFBucDdDaDVPTHNvZ2daTkJpcnUzSm1DbUJVTjZTY1hXelliNkZxSEhIMjJlMk9MNU1keHFmQlZISHpNT0k1bExMcDVvQUJxTlBnNA?oc=5",
+      "d": 1793817787000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "IDX Channel",
+      "x": "Kemnaker Buka Pendaftaran Vokasi Batch 7 hingga Pekan Depan - IDX Channel",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZllpVWpiQXNjaE8zMEZidFAtS1I3eDQwdnJDNENGMloxYjNoSUtmQW5SYTRQX0c5UTZFdDNRQnlaTmdLaUxFejRxT1QtWUFhdFpYbUpIQk1ucmhjTWlrMEpEMUotM0hZZXVMQzJNTFJEQmk2SzQ1ZUFkRFZibFgxVlBsNC1PRHo2U1g2MWlZT3VVajY4Tkd1OUJOWUFoR25TUmfSAaIBQVVfeXFMTWZZaVVqYkFzY2hPMzBGYnRQLUtSN3g0MHZyQzRDRjJaMWIzaElLZkFuUmE0UF9HOVE2RXQzUUJ5Wk5nS2lMRXo0cU9ULVlBYXRaWG1KSEJNbnJoY01pazBKRDFKLTNIWWV1TEMyTUxSREJpNks0NWVBZERWYmxYMVZQbDQtT0R6NlNYNjFpWU91VWo2OE5HdTlCTllBaEduU1Jn?oc=5",
+      "d": 1793765580000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
