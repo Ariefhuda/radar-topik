@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeBlykvCVE7": 1792626956862,
-    "threads:DereihsCe4g": 1792626956862,
     "news:CBMiU0FVX3lxTFBvNkdZWkhmRWdyS0RwSExGalNhSGRDTHZkVW42WUdGdXZLX2VYYzFCRndmQk9NOU9mVnBDZmxRbmtCeHBwQzZfdlpkRWQ4MlRQMnJr": 1792627261439,
     "news:CBMihAFBVV95cUxQZDZYekxlMjFvU3F0N3BiVm5NQWxxa2k0bFFWRU5LbmNUZVpTSjBvNU5YZ0JBN0l1dFhMengyQkV1V3ZILXllbGFHOHdVZkczOWZ1ZW85WkotS0E4ZFRSR0stcW1ET2NRT3pnYXZxVERfVEZYWGZfSHpRdDFqUjJLbHY4Y1g": 1792627261439,
     "news:CBMiywFBVV95cUxNem5QSEpVTWNBbk9rVDJjOU9qdUtHaWFlc1dacFBpQ3lQbFBSbWdVSGlyUjZZZ2xtdXpVRG93NmRzZFNxLTRvWnh1VjV3TDgwd1N0QmtESjA4akVILWR0c2lTQncwSU1EZmpPeEF4TDVFd2NwWFRfSWtrdzJnTlRXNTl6U19UYTgwYTRVVUx3bi1mazRHR3BJSGMzYmdJTFRWeS1NMmRTWkhRNDBGX3NFU2hocFJWc3ZJQVlsZnNnS09sNEpNZTFyS1dxZw": 1792627261439,
@@ -27077,49 +27075,15 @@
     "news:CBMiiwFBVV95cUxNOXNnU25tNF9CLW56Zmx1bkdINndGSlRIYnVfVlI3QXdHV04wcEJkd0VFcmVTNktGRjdxSUNUTDJuNUZESDRtdno4RFlkYUdlV1g3V0tZRTRVNXFfUVgybk50NWgzWGlveE5ZQU5tZU9JeU9hRnJwZkZLZ3pJREtjelVRaW9OYl9tdGdV": 1793836358192,
     "news:CBMi1gFBVV95cUxQS0luWE1PYWQzek01ekR4Y1FSVWJZNk9fblVsM2xJYzZxODhUbV9fdWRYYkdSdmN5N1EzaWhPRDd6ejdXdktrdW1PalhWUGlpZmNxbER6UnVObzZLQUozMF8wc0tDRnpCbzR5aVdGWWVBOXBqYmxJQVhTUHJmQ2dDR2M4cFJRck9sLUVtQzRRSTdDdUxSU09MYnM3TExiS3U0cG1fdDN5SUEyRThJSlo2MmZlemdzLUI4aWlGLXUwcUVNRnBUckhBV0dvdEtlY1NudWtON3VB0gHWAUFVX3lxTE14MlVETGo4TVJScFIwVktGVTJSZkFRNlBnUVFwOUdFQnpFQUlhUWowS05ESzE2cFN1bU9RVjE3YnBzQU5ia2djOFdkTV9PUFJpek5uVGRhcUFEUnFkQ3FHeHljZ0dUWGlOTkZ6SU5lcGxVWjlRR1FFQ0pHTlY2dE53OGpBSkVmWHg3SFR1bDRPdl9rXzdXU3RKdUYzaUlkUEFWbnBmYzJITGMxUXJCR3Yxb1BGQ2JrV3YxY082UnE5dmJKX1cwUGZJam1aVW4tQnVjY1ZIYXc": 1793836358192,
     "news:CBMiyAFBVV95cUxOOUk3YzN3YVdfcTM5Mi1ZSjJKczlERzFxZTZNUFg1THNtcGNNQXBCd05XSS1IUFBlQk9YTXl1emhZZndEYzFDRWMtVjRTR2tNUlhjNVRHLTdweVVFRmo5MDRzYVRVWldTUjVSZmx0NWFKbk5KVlhCdDg1ZENabHdSVGtwNVlkMFZHMGJzUUpmQl9zVVVOSlZVSXRxTV9RZU55ekQwWnBVYjlUOGhmdDdyMUh0SXJ6eXZmVmdEbmRiTW9nYTR5NkpkatIByAFBVV95cUxOOUk3YzN3YVdfcTM5Mi1ZSjJKczlERzFxZTZNUFg1THNtcGNNQXBCd05XSS1IUFBlQk9YTXl1emhZZndEYzFDRWMtVjRTR2tNUlhjNVRHLTdweVVFRmo5MDRzYVRVWldTUjVSZmx0NWFKbk5KVlhCdDg1ZENabHdSVGtwNVlkMFZHMGJzUUpmQl9zVVVOSlZVSXRxTV9RZU55ekQwWnBVYjlUOGhmdDdyMUh0SXJ6eXZmVmdEbmRiTW9nYTR5Nkpkag": 1793836358192,
-    "news:CBMiuwFBVV95cUxQOGU0VnVsaHFDRlBxNjRPdTlzcG5QeFQ3LUFrRnBIdm5HQUpjT1F5cFpBVFBCU0paMmtqNTFVN1FqT0xKcXNJOEhJN3pHYmM4VzBhMzk2clpsSnBRMXY5MXRvVWhXUUE0M1hTY09qREs5UFJ5OERialBfclpOQ1NzUDNvbVBKZktTWENkbXpGZ3pxWVlDeTg5RTRWanpJNnREeUlJUFI3VHJQUUx6SlJKMmNrOVpVWXRHMGtv0gHAAUFVX3lxTFB4WGpiVkZFbmxlNkdTU0tLS0NMSFVrdWFwX2YtQ1lKcjgzZGRQRVhoY21jMmpxUENjNWg5VmpPSlQ5MTJmc0Q4REpQTnJabmJySHhHSjJDcEFoVS0wbW05QjJ4LU9aZmxvN2lYT2drWE9kQ0tSYW96Mk9lRjhTbFBvOF81WTJkN3Frb2d1TTNscTk4aHoyeVhfUm5TdWU0T25GTmE2YllMQkFCN3B0VzU5YlUwSWNMWGc3UlVEdnVkZw": 1793836358192
+    "news:CBMiuwFBVV95cUxQOGU0VnVsaHFDRlBxNjRPdTlzcG5QeFQ3LUFrRnBIdm5HQUpjT1F5cFpBVFBCU0paMmtqNTFVN1FqT0xKcXNJOEhJN3pHYmM4VzBhMzk2clpsSnBRMXY5MXRvVWhXUUE0M1hTY09qREs5UFJ5OERialBfclpOQ1NzUDNvbVBKZktTWENkbXpGZ3pxWVlDeTg5RTRWanpJNnREeUlJUFI3VHJQUUx6SlJKMmNrOVpVWXRHMGtv0gHAAUFVX3lxTFB4WGpiVkZFbmxlNkdTU0tLS0NMSFVrdWFwX2YtQ1lKcjgzZGRQRVhoY21jMmpxUENjNWg5VmpPSlQ5MTJmc0Q4REpQTnJabmJySHhHSjJDcEFoVS0wbW05QjJ4LU9aZmxvN2lYT2drWE9kQ0tSYW96Mk9lRjhTbFBvOF81WTJkN3Frb2d1TTNscTk4aHoyeVhfUm5TdWU0T25GTmE2YllMQkFCN3B0VzU5YlUwSWNMWGc3UlVEdnVkZw": 1793836358192,
+    "threads:DfVsDHLjcCa": 1793836534587,
+    "threads:DfVrulbveQ5": 1793836534587,
+    "threads:DfVrpEDgDqR": 1793836534587,
+    "threads:DfVrOjeDkIP": 1793836534587,
+    "threads:DfVrBZClYJ0": 1793836534587,
+    "news:CBMitwFBVV95cUxOeVJibHhvZHV4cEs1RlJUTzREeFRiLWZ2Vmx0dU13NDA0RnY4c2lLV1FvU3owMzhTdTl6YTJiR3FKWlN3Q3lPZTdGSklWVlN5bTZ4eTMyWjlqN2syU181X2RqajBkb0tZdHg1YU52NVpIVl9xaVRGWUhPQ2xDV3ZqakFaUFl4QTRtbU92c3VnT0puTUNSa05EUUFndV80VnZJWWpHWEFHUEF5S3dET0ZLbTVfVGtFMms": 1793836534587
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@whoisnaf",
-      "x": "Iya mksd aku cba kamu ke kelurahan buat urus beb krna aku jg ga prnh dpt bansos tp krna urgent jdi di bantu kelurahan buat pake bansos sekalian di bantu aktifin bpjs pbi nya,cb kam",
-      "u": "https://www.threads.com/@whoisnaf/post/DfUpt98E4Vq",
-      "d": 1793801836000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@mikaylaarsyifa11",
-      "x": "Turunin desil dulu kak, ajukan pembaruan desil bisa lewat apk cek bansos atau bisa juga dateng ke balaidesa/kelurahan/dinsos",
-      "u": "https://www.threads.com/@mikaylaarsyifa11/post/DfUn8wUE1vV",
-      "d": 1793800908000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@whoisnaf",
-      "x": "Hi ka,coba kamu ke kelurahan mu minta di urus bpjs PBI kalo kamu masuk ke desil 1-5 nnti bpjs mu aktif ko,atau nnti bisa juga klo dirujuk ke rumah sakit pake bansos dari kelurahan ",
-      "u": "https://www.threads.com/@whoisnaf/post/DfUn6evk70C",
-      "d": 1793800890000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@cerybellek",
-      "x": "Turut prihatin, Kak. Kalau ada kekeliruan data desil, langsung ajukan sanggah lewat fitur \"Usul Sanggah\" di aplikasi Cek Bansos Kemensos atau minta Musdes/Muskel di Kelurahan. Pemu",
-      "u": "https://www.threads.com/@cerybellek/post/DfUnIS6D1io",
-      "d": 1793800479000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28609,10 +28573,20 @@
       "d": 1793835962000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "KilasJatim.com",
+      "x": "Pemkab Sidoarjo Perketat Pengawasan SLHS, 142 Dapur SPPG Sudah Kantongi Sertifikat - KilasJatim.com",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVJibHhvZHV4cEs1RlJUTzREeFRiLWZ2Vmx0dU13NDA0RnY4c2lLV1FvU3owMzhTdTl6YTJiR3FKWlN3Q3lPZTdGSklWVlN5bTZ4eTMyWjlqN2syU181X2RqajBkb0tZdHg1YU52NVpIVl9xaVRGWUhPQ2xDV3ZqakFaUFl4QTRtbU92c3VnT0puTUNSa05EUUFndV80VnZJWWpHWEFHUEF5S3dET0ZLbTVfVGtFMms?oc=5",
+      "d": 1793836358000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
