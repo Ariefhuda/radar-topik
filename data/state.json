@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevESKhk5YG": 1792541440627,
-    "threads:DevFDOik234": 1792541440627,
-    "news:CBMizAFBVV95cUxPQmFHZWcxSWpabm05aDB1eExoZzdFeGdoRWpGeUQ5ZmRYdGJaQnh3QjhDdHJTU09PNzBtWG05dEhqRUZrN2xUSEhadGFfa2tqMmhlSXo2R3NzTmwycWk5OUU3WGhmbk45bkc0Nk1hTS1HZ2hzdGxzc3UxVVJHaDE0ZllGRUhmeEtvX05hanNxWDlXS3NhT2VFM1RmeUNoVG43TXFyZVVzdDViZzdTVUpwVlhwdVJ2dTBGdFdWMXhHdzdjQ1RVaHhsdHVsVEU": 1792541440627,
     "threads:DevGRT3E9yC": 1792541741331,
     "threads:DYXCdcBk_PV": 1792541741331,
     "threads:DSu5m62E8j5": 1792541741331,
@@ -27916,29 +27913,22 @@
     "threads:DfTG5ZDjtIt": 1793750132850,
     "threads:DfTGuo3H8Sk": 1793750132850,
     "threads:DfTGiPKGF0E": 1793750132850,
-    "threads:DfSRRrZDWJE": 1793750132850
+    "threads:DfSRRrZDWJE": 1793750132850,
+    "threads:DfTILKRAUMR": 1793751040946,
+    "threads:DfTH-h8kgXZ": 1793751040946,
+    "threads:DfTIxSooMNr": 1793751040946,
+    "threads:DfTIYh7jZ8-": 1793751040946,
+    "threads:DfTINitGcGy": 1793751040946,
+    "threads:DfTICrDk3pp": 1793751040946,
+    "threads:DfTH77qDV--": 1793751040946,
+    "threads:DfTH5ikgY-2": 1793751040946,
+    "threads:DfTHvEKFXYo": 1793751040946,
+    "threads:DfTHZ9Nkk5c": 1793751040946,
+    "threads:DfTI3ILks7P": 1793751040946,
+    "threads:DfTIfUSAUjd": 1793751040946,
+    "news:CBMikwFBVV95cUxPN2t5ZTZFUzNDLVdyQnhhS0VlNVlGSVB3amsyTm5SX2dyanBxeGVobDhuMmwyWXJaTFBjMS1KbWNqZ2MyUnViR1Vwem5OdzVYRG5kWGhUcmFpb3RZY1QxbHFIc3oyTGhHSjBfX0xkNGVmaFd6NVNLdDk2TEFHNlFzdmNGWDlRaWozOFRKTjhKTDJEMVk": 1793751040946
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@cookiessala",
-      "x": "Warga wargi cinere dan sekitarnya☎️ Ada yang mau ikutan class Yoga tgl 4 November jam 9 pagi area gandul cinere ?? pokoknya kelas GRATIS, mat & props sudah disediakan, kalian tingg",
-      "u": "https://www.threads.com/@cookiessala/post/DfSGiXfmfno",
-      "d": 1793716282000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@cookiessala",
-      "x": "Warga wargi cinere dan sekitarnya☎️ Ada yang mau ikutan class Yoga tgl 4 November jam 9 pagi area gandul cinere ?? pokoknya kelas GRATIS, mat & props sudah disediakan, kalian tingg",
-      "u": "https://www.threads.com/@cookiessala/post/DfSGgy1mXwT",
-      "d": 1793716269000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29418,10 +29408,30 @@
       "d": 1793746800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau bun? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo bunda mau yuk samaan belajar+prakt",
+      "u": "https://www.threads.com/@thegrown.energy/post/DfTI3ILks7P",
+      "d": 1793751055000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@anugrahdesain",
+      "x": "🌸 Pengen belajar AI dari nol cukup modal HP? Yuk, gabung di Kelas Gratis Bareng Anugrahdesain! ❤️ Belajar gambar AI, video animasi, desain, dan produk digital bersama-sama. Tidak ",
+      "u": "https://www.threads.com/@anugrahdesain/post/DfTIfUSAUjd",
+      "d": 1793750874000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
