@@ -26892,19 +26892,18 @@
     "threads:DfVTwr3jVLK": 1793824262567,
     "threads:DfVTcfgk4B6": 1793824262567,
     "threads:DfVTS5WE7tz": 1793824262567,
-    "threads:DfVT4I0jqoc": 1793824262567
+    "threads:DfVT4I0jqoc": 1793824262567,
+    "threads:DfDZer3E297": 1793825172609,
+    "threads:DfBj0kXmZeH": 1793825172609,
+    "threads:De-42zZE-5w": 1793825172609,
+    "threads:DfVVhsYj0Mw": 1793825172609,
+    "threads:DfVVhk_jxFW": 1793825172609,
+    "threads:DfVVI67jEEq": 1793825172609,
+    "threads:DfVVGWXm8Pg": 1793825172609,
+    "news:CBMigwNBVV95cUxQTjhUbUZ3b3VHODVuZHZmM0U2Q21UR3g5UVZMTVdWVFhya3BZS05hclFLRjNiajE5cWthWnhPYXk3QjZHOXBjRjBDSWpHeU1JOEJGRlA3LUN6RXZNQ05fN243WTVFQzUtQlFXMVA0Sm10MmhLOUtjQTRzaEZyWEM4OFBkWFpHY2dZbnRWNEJlOXVBanF3bW9ycnFTclZyVHpHQmV0aEpsZmgzMVZaM3Jnb0RXb1NXWXNXWWdlNmNpRmhHb2hrdE5aTUdkZkNHX21SN19xSnRmWmw4bGNGUlJ2Z1lkdWZfMzdoQjdjQ195aGIzeVRxcVgwcDFMbnNqNkJyYnpmN0tZVEwxTENFajJoX2tOYlZDamZCalFQTUNxS185Qi00cUdHQk1CSXotZ3Q0MEZFcDhiS2NFRG9wSEtKbl96bmFTcnFOY0lVWU9DWTMzUzV1NUkwREh1SjFhbkZjZmZ1T1VFcWpkM2JkUkY4cUpGSlBwamlEVEpXWkhLVVprelU": 1793825172609,
+    "news:CBMi1wFBVV95cUxOT0k5UEFuN0l1OENEOXdOR3NPYm1ra0gxeWRWUXcxLVdod1Y4aDVYOFJyRjMwTktveDE1MWlKUXRZM045UTBqWFRDOUI1OHVoVEEyX1FxeVd0cEthUnd4NlZreWZGT20tVkxLbkFPc3ZtbXpLaXFSM3FHeVo3ekNDeEdNZms0Ul9JRW9MX05QbEN4LXNjS1FVcUZkeW5Ha3dQSnZmUE1uRm1zNDdSTkVfd1c0OWRuUVBFRWtEMlRneU0xV3Nsc0pLc214Snp3bFNmcTRjUW1vdw": 1793825172609
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, untuk freelance saat ini banyak jenisnya. Kalau saran aku nih, kk bisa upgrade skill digital marketing dan bisnis online dulu. Nanti itu akan memudahkan kk untuk jual pro",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfU6encjwQm",
-      "d": 1793810623000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28394,10 +28393,20 @@
       "d": 1793823942000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunpontianak.co.id",
+      "x": "Apakah Nama Anda Lolos Verifikasi? Cek Pembaruan Data BSU di bsu.kemnaker.go.id Hari Ini - Tribunpontianak.co.id",
+      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT0k5UEFuN0l1OENEOXdOR3NPYm1ra0gxeWRWUXcxLVdod1Y4aDVYOFJyRjMwTktveDE1MWlKUXRZM045UTBqWFRDOUI1OHVoVEEyX1FxeVd0cEthUnd4NlZreWZGT20tVkxLbkFPc3ZtbXpLaXFSM3FHeVo3ekNDeEdNZms0Ul9JRW9MX05QbEN4LXNjS1FVcUZkeW5Ha3dQSnZmUE1uRm1zNDdSTkVfd1c0OWRuUVBFRWtEMlRneU0xV3Nsc0pLc214Snp3bFNmcTRjUW1vdw?oc=5",
+      "d": 1793824389000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
