@@ -26834,19 +26834,17 @@
     "threads:DfVKA8vjBoA": 1793819135306,
     "threads:DeqAgzFk6aF": 1793819135306,
     "threads:DfVJu92EgsM": 1793819135306,
-    "news:CBMitwFBVV95cUxNSjh1U3FOeHkzSVJ0bWkxWXM4NkJyamU0bDI5amJCWGFKR3F0NFNzb1VnU0FEOTBkX0xLc2xDd3RhTXJLSUVDVEV5MmZwN25EeldsZWhZTFdlOUVxNlBZNkRxMGdrM2d5NXhNYnFNdWY0Y2xfdHM0eXllNGZSOW5mWXBUTE16aHVDV1k3dU1JQTdReE5wcE1MYksxNkJkOXZfUDBBM2ZZQ1ctME5TWGk3Zm04Ukt0bEU": 1793819135306
+    "news:CBMitwFBVV95cUxNSjh1U3FOeHkzSVJ0bWkxWXM4NkJyamU0bDI5amJCWGFKR3F0NFNzb1VnU0FEOTBkX0xLc2xDd3RhTXJLSUVDVEV5MmZwN25EeldsZWhZTFdlOUVxNlBZNkRxMGdrM2d5NXhNYnFNdWY0Y2xfdHM0eXllNGZSOW5mWXBUTE16aHVDV1k3dU1JQTdReE5wcE1MYksxNkJkOXZfUDBBM2ZZQ1ctME5TWGk3Zm04Ukt0bEU": 1793819135306,
+    "threads:DYD4t2EkkG6": 1793819737437,
+    "threads:DcPsyO0CbKJ": 1793819737437,
+    "threads:DfVLl6NPcjf": 1793819737437,
+    "threads:DfVLrIbmyIW": 1793819737437,
+    "threads:DfVLa7Cj6fM": 1793819737437,
+    "threads:DfVLKjwmDAy": 1793819737437,
+    "threads:DfVLE5elZK_": 1793819737437,
+    "threads:DfThDfAj42q": 1793819737437
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunnews.com",
-      "x": "Syarat dan Proses Pencairan BSU November 2026 untuk Karyawan Swasta - Tribunnews.com",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2c5Z2dxU3VfVHpwZmV0N2pOSXJRSlgxWGN0Z1RBaEZ0QXRtcVBnTFFral9ZSVJaLUpKNUg5MEJxOW1va2pzakd4RXg1UVJDZjgyenpkS0lSVzBwQWo0dU1mSENZUU9oTFZ4dXhHRndXbGVZV3ZjNU5qWW1UeVJzQVVuSnVWMEhibVNhS0tiZFBaRk5Xb01IRFlDU05HNDhsUkFneUdjOVdzVmxKdG5TeDNVd1M?oc=5",
-      "d": 1793805390000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28336,10 +28334,20 @@
       "d": 1793818621000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@marthakurnia",
+      "x": "Akan ada webinar tentang rehabilitasi polineuropati diabetik pada 14 Nopember, gratis dan kuota terbatas. Yang berkenan bisa DM yaa..",
+      "u": "https://www.threads.com/@marthakurnia/post/DfThDfAj42q",
+      "d": 1793763739000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
