@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DbE1XhIDZkx": 1792621546388,
-    "news:CBMilwFBVV95cUxNb1Z4S3kxZHhGMy1pVkw5RmJKVUJjS3Z4NVVmb053WnJqbXBuWmxtcm8xdXBCY0RrZldBUVlURlBpem1pc0lYT1VFMGR1cTZzT0tyNkFIMTB4bUFrRE16OUFMVkVUdG5hUWp2SWI2eDgxSEVic0tWd05kN2JxeEt2dV9OaHNjZG9IV0NsaTNHNXBGZEJsRmtj": 1792621546388,
     "threads:Ddi8hKCFCv4": 1792621852436,
     "threads:Del30QAE8Ao": 1792622743994,
     "threads:DeoLHe6Cawu": 1792623041827,
@@ -26994,19 +26992,15 @@
     "threads:DfVfUs5jDHR": 1793830849358,
     "threads:DfVgOX-mXR4": 1793830849358,
     "threads:DdX5SDsgGUD": 1793830849358,
-    "threads:DGN2vVdx2OI": 1793830849358
+    "threads:DGN2vVdx2OI": 1793830849358,
+    "threads:Dew2XUMGV2h": 1793831157072,
+    "threads:DfVg3HmHyMC": 1793831157072,
+    "threads:DfVhNuajaiN": 1793831157072,
+    "threads:DfVgZfkgbr3": 1793831157072,
+    "threads:DfVg8eOlM9g": 1793831157072,
+    "news:CBMiwwFBVV95cUxNR0JCbERsTUt3blR4MzFIZ2R0aDFMclVKYkVqa1llWGNDWVlrU21YUTdNcHRfMm5rMjNUUmJmcmhOVWNiSFgtNHJQVWFPaVd0Y0JXSGljS2k1MmRpNG8zajZYX29RYkVualdBQTZDYTI3aGpjdWNCRlMyazhDUVdUTkY5cTR0U09iWG5FQ01BSFAxLU1udVVuUzRydi1oNURNVFhfNElIWGxGaEZSdTdRRTZtSXJyTng5ZEE1U3ZSYnFSSGfSAcgBQVVfeXFMTjlJN2Mzd2FXX3EzOTItWUoySnM5REcxcWU2TVBYNUxzbXBjTUFwQndOV0ktSFBQZUJPWE15dXpoWWZ3RGMxQ0VjLVY0U0drTVJYYzVURy03cHlVRUZqOTA0c2FUVVpXU1I1UmZsdDVhSm5OSlZYQnQ4NWRDWmx3UlRrcDVZZDBWRzBic1FKZkJfc1VVTkpWVUl0cU1fUWVOeXpEMFpwVWI5VDhoZnQ3cjFIdElyenl2ZlZnRG5kYk1vZ2E0eTZKZGo": 1793831157072
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mbk.riefaajah",
-      "x": "Salah satu materi yang aku bagikan di kelas gratis ke4, adalah cara bikin animasi for affiliate. Buruan deh yang mau ikut kelas gratisnya, bisa langsung wa ke 085731475675",
-      "u": "https://www.threads.com/@mbk.riefaajah/post/DfUjbjQkv8E",
-      "d": 1793798607000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28496,10 +28490,20 @@
       "d": 1793829940000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.tv",
+      "x": "Cara Cek Desil 1-4 untuk Dapat Bansos PKH, BPNT, dan Beras di cekbansos.kemensos.go.id - Kompas.tv",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0JCbERsTUt3blR4MzFIZ2R0aDFMclVKYkVqa1llWGNDWVlrU21YUTdNcHRfMm5rMjNUUmJmcmhOVWNiSFgtNHJQVWFPaVd0Y0JXSGljS2k1MmRpNG8zajZYX29RYkVualdBQTZDYTI3aGpjdWNCRlMyazhDUVdUTkY5cTR0U09iWG5FQ01BSFAxLU1udVVuUzRydi1oNURNVFhfNElIWGxGaEZSdTdRRTZtSXJyTng5ZEE1U3ZSYnFSSGfSAcgBQVVfeXFMTjlJN2Mzd2FXX3EzOTItWUoySnM5REcxcWU2TVBYNUxzbXBjTUFwQndOV0ktSFBQZUJPWE15dXpoWWZ3RGMxQ0VjLVY0U0drTVJYYzVURy03cHlVRUZqOTA0c2FUVVpXU1I1UmZsdDVhSm5OSlZYQnQ4NWRDWmx3UlRrcDVZZDBWRzBic1FKZkJfc1VVTkpWVUl0cU1fUWVOeXpEMFpwVWI5VDhoZnQ3cjFIdElyenl2ZlZnRG5kYk1vZ2E0eTZKZGo?oc=5",
+      "d": 1793830800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
