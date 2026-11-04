@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Del30QAE8Ao": 1792622743994,
     "threads:DeoLHe6Cawu": 1792623041827,
     "threads:Dd9W7Pvo-y8": 1792623041827,
     "news:CBMi7gFBVV95cUxPWV9KZWh0ck5MbS03TjVMMDd5a3dNWmNZbTltYzZTSHhyNEJkU1NGMFFvTFAtTlpkOFpqNllBRkgwTF9lYlAwSVJSb3lMQlRnOWIyWnFQeVJZMkdJeW1pOUZxUENVcHkydEJZbll4cG10Xzk5NW9UamxVLUdQODFHaGFDODVZNVJwN1d1TDZ1b2RlRWtFTDBzU0ZkV2cwSDJNVnY2VUx2c2pSSjRtWWtvVDNpNEJxSXFQbzFhUlJGMWtTTWZvazFGaTFxZFdKV05VQlFKUE40cTBUWVRkOGFYaHM0N1RLSk1EbzdsMkV30gHuAUFVX3lxTE9ZX0plaHRyTkxtLTdONUwwN3lrd01aY1ltOW1jNlNIeHI0QmRTU0YwUW9MUC1OWmQ4Wmo2WUFGSDBMX2ViUDBJUlJveUxCVGc5YjJacVB5UlkyR0l5bWk5RnFQQ1VweTJ0QlluWXhwbXRfOTk1b1RqbFUtR1A4MUdoYUM4NVk1UnA3V3VMNnVvZGVFa0VMMHNTRmRXZzBIMk1WdjZVTHZzalJKNG1Za29UM2k0QnFJcVBvMWFSUkYxa1NNZm9rMUZpMXFkV0pXTlVCUUpQTjRxMFRZVGQ4YVhoczQ3VEtKTURvN2wyRXc": 1792623041827,
@@ -27007,29 +27006,13 @@
     "threads:DfVh96QiKT9": 1793831736150,
     "threads:DfVOkPfj7LX": 1793831736150,
     "threads:DfVhudqj2om": 1793831736150,
-    "threads:DeqARTNCXb_": 1793832042318
+    "threads:DeqARTNCXb_": 1793832042318,
+    "threads:DfVjmHxgSc7": 1793832352465,
+    "threads:DfVi1OGExqv": 1793832352465,
+    "threads:DaIlCUmiVAh": 1793832352465,
+    "news:CBMiwwFBVV95cUxNTHBOU0FIdEJLT0VYMDk1SmwySUNxXzZWZzZ1OUtNdkgxZ2t6QUt5UVBkandBY0hLWVRfZm5TUjIwMVJ0VGd4U1dOeHFwSUdFSEM2SkpUNU4tRDZTWFJlOU0tTk5KYl9ZYUVVNnhjTmUwYUg4dXk4NjlMVWJhTERQNWNrc3p3Nm5CN1lKbTFfdi1wbzk4OUcxUW5ZNjNqOHp5ZzluVjE1bVlCbUpwUGhPcVRzYm53NEVTeXEwS3BKN0g4ZVnSAcgBQVVfeXFMTTZwX0dvV2NFMk1pUGZCRHAyRldDdUkyeUl1RUl6WFYwajlTcm9QRG04RE1fNnNLLU1LQW9kZ3ZvWDc5WW5LVk9OTDdJMm9ZNGJ0ZmR2TW44czN3d09Pd1E4ZTJQUkMzNzBjbWFUdW1mck5zc3o0c3N4VWhjeE5VNkdjakNHaTdSdXNIM2VpWlJxM2xjZC05Nkl2R0s3VGFEMnN1RFRNVndZUGdzV0dhUzgzSUxmVXRLVUZ5cmJyS1lGYXVlNFE5OEM": 1793832352465
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nisaaaamalia",
-      "x": "Halo! Aku Amalia, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Ex",
-      "u": "https://www.threads.com/@nisaaaamalia/post/DfUaAVPk1Zi",
-      "d": 1793793598000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@riza_assyifa",
-      "x": "Mommy mommy yg punya anak ada yang mau ikut KELAS GRATIS? Syaratnya cuma: 👶🏻Anak usia 2-12 tahun 📍yg berdomisili Tangerang Selatan Untuk kelasnya ada Gymnastic, Sensory, Les Eng",
-      "u": "https://www.threads.com/@riza_assyifa/post/DfUZP6xk2_8",
-      "d": 1793793201000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28509,17 +28492,36 @@
       "d": 1793831283000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kompastv",
+      "x": "Cara Cek Desil 1-4 untuk Dapat Bansos PKH, BPNT, dan Beras di cekbansos.kemensos.go.id http://dlvr.it/TWBsT9",
+      "u": "https://www.threads.com/@kompastv/post/DfVjmHxgSc7",
+      "d": 1793832246000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos 2027 Wajib Pakai IKD, Ini Cara Daftar Perlinsos Digital Cepat Cair - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHBOU0FIdEJLT0VYMDk1SmwySUNxXzZWZzZ1OUtNdkgxZ2t6QUt5UVBkandBY0hLWVRfZm5TUjIwMVJ0VGd4U1dOeHFwSUdFSEM2SkpUNU4tRDZTWFJlOU0tTk5KYl9ZYUVVNnhjTmUwYUg4dXk4NjlMVWJhTERQNWNrc3p3Nm5CN1lKbTFfdi1wbzk4OUcxUW5ZNjNqOHp5ZzluVjE1bVlCbUpwUGhPcVRzYm53NEVTeXEwS3BKN0g4ZVnSAcgBQVVfeXFMTTZwX0dvV2NFMk1pUGZCRHAyRldDdUkyeUl1RUl6WFYwajlTcm9QRG04RE1fNnNLLU1LQW9kZ3ZvWDc5WW5LVk9OTDdJMm9ZNGJ0ZmR2TW44czN3d09Pd1E4ZTJQUkMzNzBjbWFUdW1mck5zc3o0c3N4VWhjeE5VNkdjakNHaTdSdXNIM2VpWlJxM2xjZC05Nkl2R0s3VGFEMnN1RFRNVndZUGdzV0dhUzgzSUxmVXRLVUZ5cmJyS1lGYXVlNFE5OEM?oc=5",
+      "d": 1793831706000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793811966590,
-    "news": 1793832042318
+    "reddit": 1793811966590
   }
 }
