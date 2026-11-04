@@ -26842,7 +26842,10 @@
     "threads:DfVLa7Cj6fM": 1793819737437,
     "threads:DfVLKjwmDAy": 1793819737437,
     "threads:DfVLE5elZK_": 1793819737437,
-    "threads:DfThDfAj42q": 1793819737437
+    "threads:DfThDfAj42q": 1793819737437,
+    "threads:DfJsnS-kh30": 1793820056420,
+    "news:CBMiuwFBVV95cUxPbWpJdEVXeENZQVcydEoyaFc0aGd4aE5jRngwNEJyTlZYUDBnckRobG5ZOHA4R1lEUlI3cGhIQWctRWl1akYwTlB4SzVVUmNwRnJDclFBdjM4N2NseFFtUTJGX092UUdIUE5fc0JsTTJhanV2bU83NGFDdUhVTFgwSnQ0RUFLR0FMd21QZmo1dmJSbElPVVotR2JVUG5Jc2p5LXY0TGYxZ1pfNmlZc1dvUnhtR0xDLV9LR3NB": 1793820056420,
+    "news:CBMibkFVX3lxTE1fNFZ2WjlJYlBoVDRucDhiYlNMZjM2WWc0TU90Ml9kWDJKMTg5VGdGbnFHOEpsRHM0N3JOVEpyOTJEUHVyTkJpOTNMelNNenJ5MlpQNkN0OFI2VWVxT2ozTTFDVENoc3NJdUNlLVZn": 1793820056420
   },
   "digest": [
     {
@@ -28347,7 +28350,7 @@
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
