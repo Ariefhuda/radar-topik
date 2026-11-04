@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevJbfmm0Fe": 1792543841555,
-    "news:CBMi4gFBVV95cUxPQjFuTW8zem0xdHU1aWtSaVhKTnhkUFBGalp4a1NacGtHaG9yMGU5QjJfZDVlR0dUeVZkbHFNNmpEckZLYjFiRWF4cEdiZjhtQTQzY2xEQzQ4ajhxQUlkTlFmTUpVSmhhNWFod3oyY2ZZYUtYbXo4YnBfLWpDSk92X1NHUDdYdktwM2lMUjk5bGRWaHBOMVpJM3pkVDdUb3JVTmxNZjNXcENHTmhHQV8xbVZQdXFHaDhScjA3SjJhTVRWQ1hEVVZFV1BNdHIzVWpsRl9ybGtQbzV6Ui1SWXFxbjh3": 1792543841555,
-    "news:CBMibkFVX3lxTE5walpJcUdLTHJKSkdhSU9wSFRsZUpRQ3BTSUl5SVZYUllDdm5JLUQtLWNabUxkbzBudkM5UzB5TzhXQ2pHcmVWM1ZCTFlYOXR6SGFtYnE3UHBVX1BKRHptTmlCd1RzekJ6SV9WUWRn": 1792543841555,
-    "news:CBMi1gFBVV95cUxOR25ZMEJPeUNTaUdDU2pkUk03Z1lQbzBjdGMwODhUbm1HTkp5X0p3RzBWTlE5a3FwR0tvTzl4ZmR4SkFkNFliZ3NFWlUxS01meXlaRmdzY0NVbU1oNGF3ZUpIcTVrdVJic3EycmEtVzdBQ21WUDFHYXpZa0FmVGlIek42NG0yVVcwTjVEbHU3dFEyemZnMUJwdVdGcjhKNkRVdW1sMVV6eEc3VExrdi0xRkJtNmt3cExnUDFIRUlPNFpWT0Z6WmRzOHZfeVhRamt5UmFkc2NR": 1792543841555,
-    "news:CBMiggFBVV95cUxQOVFvMG85azA3NTI2RDdpalBOOG9yZldiX3NoN0RoUUNaUDFqZWJ4RWJmOWpKZkFZUEhUYWg5RkpKQ3dKMk1tSllZajVRYTlsZjg1dHlYU3ZnbFJOd2lINHVYQzRfNlgxWkNMVXh0SDJEbXUtcFpCUzhJZ0FicmdmSkxR": 1792543841555,
     "threads:DevJtfRkifO": 1792544139886,
     "threads:DevKfPvkrkO": 1792544139886,
     "threads:DevKFIyEmMo": 1792544139886,
@@ -27940,79 +27935,19 @@
     "threads:DfTMj9qiKDL": 1793753142735,
     "threads:DfTMHNkEp-c": 1793753142735,
     "threads:DfTLyIaAC1v": 1793753142735,
-    "news:CBMisgFBVV95cUxPaUFNSXBIZnBLYV9kLUpXOWV5d0JOcGRudVNock9kNEd2X0ZXVFZ2QTZWOElqNnZuWkQ1UmJRSmdSU3FyR19ZRk1rcFgzcWdxOURDaUFnWlRWOXN6Z1FvRWJZLVlUcXJxMFdtUFdndnZ2QkRvaFVmRkRWQnM3OFJjemZiN0MyMW03TU1RRGZKWk91Qnd4QnpScVBDQnpUX0N6cHkxU0ZOWUhUVmljeFhaOXFR": 1793753142735
+    "news:CBMisgFBVV95cUxPaUFNSXBIZnBLYV9kLUpXOWV5d0JOcGRudVNock9kNEd2X0ZXVFZ2QTZWOElqNnZuWkQ1UmJRSmdSU3FyR19ZRk1rcFgzcWdxOURDaUFnWlRWOXN6Z1FvRWJZLVlUcXJxMFdtUFdndnZ2QkRvaFVmRkRWQnM3OFJjemZiN0MyMW03TU1RRGZKWk91Qnd4QnpScVBDQnpUX0N6cHkxU0ZOWUhUVmljeFhaOXFR": 1793753142735,
+    "threads:DfTNbB8iPys": 1793753481862,
+    "threads:DfTMLtuksjl": 1793753481862,
+    "threads:DfTKuGwmJ20": 1793753481862,
+    "threads:DfTKqqdmJnk": 1793753481862,
+    "threads:DfTMSS1AZlC": 1793753481862,
+    "threads:DLh-KOySPMC": 1793753481862,
+    "threads:DfTMHalm5Cu": 1793753481862,
+    "threads:DfS_q-Qk3yi": 1793753481862,
+    "news:CBMi3wFBVV95cUxOSHZGemd5dGxmcE44R1otNzlXXzUxU0NydWd3WF9QV3ZBbEw2MkJRdDNfcEpnMmlhNEtFVmVnR1dKM05NNkx4ajZUMlY4TkdMNHpZWGNqU2J6WXFEZ0FWNGVuX0pzUWhFT0JscVVReU94STZtem04cTFLYWRtTTlfc2lxYlJnemEzQ2pfeGdjZ1djbjhqNERCSFNtMXBTT1c4a25TLVBUbDRYTFIzaFpvdUloUHJ1QU5ZODFmaVUzWm9kdEZ3RklLd09tZjZ1SzNLNjhrVUJ2UnYzM09tTHNZ0gHkAUFVX3lxTFA5YXpOOEFnSEN0NURQeW5vak5ieUxMbU1iNkotN25hb21PSkJfc1EyVlF0VHNBV1h6SUJURHZZWVpoaDJzcmNmZ0NmTzYtRkdnNFNTNDhnSnFrV0hpVHp1ZTA2OWxvTktHWjVMa0x2WHMzUW9aMXhsZlpER0hXQmpoNEZpR2ZwRmZoanpwQlVjQU5VYVI0VjB3aV91ZTdFallrOGdCSThUcHhvc1JCOXpwT19uRVUwTGJtLXVia1ZMZkZfRjBRcWhsLXdOU0cyeDBweTFnT3RGeWVPODZVNmhHWHMzTQ": 1793753481862,
+    "news:CBMingFBVV95cUxNSDdrRTIyQ18wZjJ2MTljR0hQZHhEd3FOQThwZVJzSk1QZDR1N1VyUVNYRUo5RFB3dHJqS05qRVpQWUtndmhhNVduUWdMaG9NRnRaWm5wbG9qS2l2YnZLbmZNT1B6ME43LWU0NndUSkhURVMtUGhKUnQzMFpmXzR5c3J3NTFTSk9QdUgyZWRxU2gxSmFfZ1ZnbXRsSTJ1QdIBngFBVV95cUxNSDdrRTIyQ18wZjJ2MTljR0hQZHhEd3FOQThwZVJzSk1QZDR1N1VyUVNYRUo5RFB3dHJqS05qRVpQWUtndmhhNVduUWdMaG9NRnRaWm5wbG9qS2l2YnZLbmZNT1B6ME43LWU0NndUSkhURVMtUGhKUnQzMFpmXzR5c3J3NTFTSk9QdUgyZWRxU2gxSmFfZ1ZnbXRsSTJ1QQ": 1793753481862
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arsanti24",
-      "x": "Follow BBPVP di IG kak.. tiap tahun ada pelatihan gratis",
-      "u": "https://www.threads.com/@arsanti24/post/DfSIgIxI9S3",
-      "d": 1793717312000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Riau Pos",
-      "x": "Efisiensi Anggaran, Seragam Gratis Siswa SMAN Plus dan SMAN Boarding Lainnya Dibatalkan - Riau Pos",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd1dMdGhmTW1VdjI2Ymt0U05LUGJKaWZKaVI2b3NXSWZqWWdDZTR4dGpjM3hBSGZxUWYyY0xORjNXcWJ5WnA4ZEZCeVR0RE9RSnNiQ3FhdkdieGh3V0dRWXhMN2RtMDJLZFZtS0FFUlU5d1pHd1VVbmY4RDZRWktuZWJRNjFjSjl3MW1rMHdBaGZ6Q0NCYkJ1ckhWZV9EZ3lVS2VLTDBURUVTWTlva3BZbkotWVVqcmlURnVEeldjRGpCVDVuTGsxQmZUdVczc0HSAc8BQVVfeXFMTndXTHRoZk1tVXYyNmJrdFNOS1BiSmlmSmlSNm9zV0lmallnQ2U0eHRqYzN4QUhmcVFmMmNMTkYzV3FieVpwOGRGQnlUdERPUUpzYkNxYXZHYnhod1dHUVl4TDdkbTAyS2RWbUtBRVJVOXdaR3dVVW5mOEQ2UVpLbmViUTYxY0o5dzFtazB3QWhmekNDQmJCdXJIVmVfRGd5VUtlS0wwVEVFU1k5b2twWW5KLVlVanJpVEZ1RHpXY0RqQlQ1bkxrMUJmVHVXM3NB?oc=5",
-      "d": 1793710854000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Pojoksatu",
-      "x": "Beasiswa Pemerintah Rusia 2027 Dibuka 15 November, S1 hingga S3 Gratis Kuliah, Ini Fasilitasnya - Pojoksatu",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlgxcHgxSTdxeUYwRnBadVZMZGxBYzJhU0tmMnpHSEZYNWZYNU94M0lBUWQ0Z01wcTd4aGstdjVJUEpDekREZmZxNzNiNnN2aVFTVF9WcmJJZVBydi0zY20zYTJjVElpVzRiOFE2dWdJTENrUXlyV0dybzdKYjZrX3hCUENFS3VUZ2ZtLTRCbHA3YmxHR1dVOUwzQl84UFZwU21Da3pjLTZhZks0dWI1S0JlVldsRkgzaU9sa1p3?oc=5",
-      "d": 1793717520000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@d3qu.e_e.n",
-      "x": "Beasiswa ginian ada tanggal serentak nya gak kak ? Atau mereka buka pendaftaran masing2 ??",
-      "u": "https://www.threads.com/@d3qu.e_e.n/post/DfSI8GnmqJo",
-      "d": 1793717541000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "TINTAHIJAU.com",
-      "x": "90 Institusi Pendidikan Tinggi Eropa Hadir di EHEF 2026, Buka Peluang Beasiswa bagi Pelajar Indonesia - TINTAHIJAU.com",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdElKVWRuTWNZMlV1TlNiOWpheGhfWE0tN0JyeW1OaHVoZnZUempjTWx3ZlJlZXktcWVOQ2hPU2k3UUNUNUVMYmhtaXp3UTY0eGdDQ1pfUW04NzIzQWhULXlibmwyYWpzQ2hJSXlJSzNvd3VXT2MwYW9MU1BXUWdEM1dlaWdSTGZPWU9aYi1kRjU1a19Nd2s4dkw2RjM5YW5FNkdaaklpMmhBbDctVnpLZUxoTkZGc1IzblAwNnpwTHRCU1JqaWUzbWFuc1diREU?oc=5",
-      "d": 1793717585000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "BAZNAS",
-      "x": "TELAH DIBUKA BEASISWA RISET BAZNAS TAHUN 2026 - BAZNAS",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXhjT1lSWnNhZzVfcUczLTBXVmFTQTFzcFU2S3ZkeWVwQlNLaVAzSGx0N2owcDVqejlrRXhPNHFSUGF2cFBIQWNfRF81RUdDMGhpUzYzUWZFa0hVODZZQUx5a1c2a2JYSDhtWWFiZkhNWDN1TGRfeEZmLWN3cmhPalppSExBTWpGYTVMcUxmMEoxMEVUdU5odEs2bDRKSjZCSjg1dTZOMFlfT25PTmxhZA?oc=5",
-      "d": 1793712164000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Gora Juara",
-      "x": "Persiapan Jelang Pembukaan Jalur Rapor Menuju PTN, Simak Perkiraan Jadwal SNBP 2027 Berikut Ini - Gora Juara - Gora Juara",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ0JIUjA2YkY3YVk2bGZkQXR1V1hCcXRLbE5MQTE5alJqNmdmdExpRk50N0pjZURsUGxlZkhRei1yUzBTTW9qaG1JTWxLTVV6ckRUQjJ2VWdkY0NKZ3UyYlktSUhMZjA4Njl0U1FhLWNxWnY0LW1UNmdiU2VpSE82SlFKNXZsdEpOUjlRSUkyUHo5TFVGYlk3QzRENHNNZXp6SjN5Wm9jakQ3S2JwYjRZb0tuTktQWVM1TlBYUmVWTDM0ZUIxWDdfUFAyN0FkdFBtc0hCNUtVQkRYUDFaVzBKRtIB5gFBVV95cUxOR3VDWTk0Y1dVSEIxamVqQmREOUV2a3N3M1U2NDc4bkR2RGluT1FlRFN2ZktRc0VHNTNfcDBmQzBBYmVpVXN4U2VsSmMxS1NJZ2lyRUNPZUZlLXgzRmw3c0ZyZDJsbUVoZjF3THJTQ1RXaXRGUG5tcnR2d1VyMTMwR3FHRU9yS21YVjFqSFJBS3phVGg3LUhMQXNlalg0c2JycnRNd3RVcE5oalV3S2FCUk9vUk1RR09DTERVVmExbmF3WlphYlVjRWwxVEZvMHFQSlk5bjBNQ20tcUZTWU1KSTA3bUZ5dw?oc=5",
-      "d": 1793699898000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29442,10 +29377,80 @@
       "d": 1793749818000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau bun? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo bunda mau yuk samaan belajar+prakt",
+      "u": "https://www.threads.com/@thegrown.energy/post/DfTKuGwmJ20",
+      "d": 1793752030000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau bun? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo bunda mau yuk samaan belajar+prakt",
+      "u": "https://www.threads.com/@thegrown.energy/post/DfTKqqdmJnk",
+      "d": 1793752001000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hari.yang.bahagiya",
+      "x": "Jgn kasih gratis kak, Maaf para calon client/Org yg memandang seolah tidak ada harga/Value utk Kaka, saran utk pemula Kaka mengikuti pelatihan/ambil clas publik speaking nanti dr s",
+      "u": "https://www.threads.com/@hari.yang.bahagiya/post/DfTMSS1AZlC",
+      "d": 1793752850000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ukhtirahmawati38",
+      "x": "Bismillah.....selamat pagi warga Disini adakah yang mau ikut belajar bikin Animasi seperti ini Aku mau ngadain kelas GRATIS bikin animasi cuma modal canva dan cara dapat cuan hanya",
+      "u": "https://www.threads.com/@ukhtirahmawati38/post/DfTMHalm5Cu",
+      "d": 1793752817000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aicreator_bynurma",
+      "x": "💙 Aku mau share info menarik nih! Ada FREE CLASS BELAJAR AI bersama Digital by Nurma. Kita akan belajar : ✨ Skill tools AI (ChatGPT, Gemini, Meta AI) ✨ Dari View Jadi Cuan ✨ Optim",
+      "u": "https://www.threads.com/@aicreator_bynurma/post/DfS_q-Qk3yi",
+      "d": 1793746237000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Melintas",
+      "x": "TKA Hari Kedua di SMKN 1 Magelang, Murid Kelas XII Hadapi Bahasa Inggris dan Survei Lingkungan Belajar - Melintas - Melintas",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSHZGemd5dGxmcE44R1otNzlXXzUxU0NydWd3WF9QV3ZBbEw2MkJRdDNfcEpnMmlhNEtFVmVnR1dKM05NNkx4ajZUMlY4TkdMNHpZWGNqU2J6WXFEZ0FWNGVuX0pzUWhFT0JscVVReU94STZtem04cTFLYWRtTTlfc2lxYlJnemEzQ2pfeGdjZ1djbjhqNERCSFNtMXBTT1c4a25TLVBUbDRYTFIzaFpvdUloUHJ1QU5ZODFmaVUzWm9kdEZ3RklLd09tZjZ1SzNLNjhrVUJ2UnYzM09tTHNZ0gHkAUFVX3lxTFA5YXpOOEFnSEN0NURQeW5vak5ieUxMbU1iNkotN25hb21PSkJfc1EyVlF0VHNBV1h6SUJURHZZWVpoaDJzcmNmZ0NmTzYtRkdnNFNTNDhnSnFrV0hpVHp1ZTA2OWxvTktHWjVMa0x2WHMzUW9aMXhsZlpER0hXQmpoNEZpR2ZwRmZoanpwQlVjQU5VYVI0VjB3aV91ZTdFallrOGdCSThUcHhvc1JCOXpwT19uRVUwTGJtLXVia1ZMZkZfRjBRcWhsLXdOU0cyeDBweTFnT3RGeWVPODZVNmhHWHMzTQ?oc=5",
+      "d": 1793748641000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Medialokal.co",
+      "x": "6 Bansos Cair November 2026, dari PKH hingga BSU Kemnaker Rp900.000 - Medialokal.co",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDdrRTIyQ18wZjJ2MTljR0hQZHhEd3FOQThwZVJzSk1QZDR1N1VyUVNYRUo5RFB3dHJqS05qRVpQWUtndmhhNVduUWdMaG9NRnRaWm5wbG9qS2l2YnZLbmZNT1B6ME43LWU0NndUSkhURVMtUGhKUnQzMFpmXzR5c3J3NTFTSk9QdUgyZWRxU2gxSmFfZ1ZnbXRsSTJ1QdIBngFBVV95cUxNSDdrRTIyQ18wZjJ2MTljR0hQZHhEd3FOQThwZVJzSk1QZDR1N1VyUVNYRUo5RFB3dHJqS05qRVpQWUtndmhhNVduUWdMaG9NRnRaWm5wbG9qS2l2YnZLbmZNT1B6ME43LWU0NndUSkhURVMtUGhKUnQzMFpmXzR5c3J3NTFTSk9QdUgyZWRxU2gxSmFfZ1ZnbXRsSTJ1QQ?oc=5",
+      "d": 1793748061000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
