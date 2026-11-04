@@ -26811,19 +26811,17 @@
     "threads:DfVGgM-F1Pm": 1793817337362,
     "threads:DfVGbtOkW4d": 1793817337362,
     "threads:DeOgiTSktxD": 1793817337362,
-    "threads:DfRpPx5IOT4": 1793817637909
+    "threads:DfRpPx5IOT4": 1793817637909,
+    "threads:DfULpCSmJn3": 1793817939313,
+    "threads:DfUdqV_CTyM": 1793817939313,
+    "threads:DfUdf2niQh6": 1793817939313,
+    "threads:DfUaRpAxP1e": 1793817939313,
+    "threads:DfUZGPwGUB2": 1793817939313,
+    "threads:DfUYdLZG3As": 1793817939313,
+    "threads:DfUXBOxn-hf": 1793817939313,
+    "threads:DfUT5iYjyrY": 1793817939313
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunnews.com",
-      "x": "7 Langkah Pengecekan Bansos PKH November 2026 Langsung dari Laman Resmi Kemensos - Tribunnews.com",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGZfZUVtdEF4MlQ0TXFNLTBIZl9qQldsUWtwSkdkd2pnLXFPR29GOHRqV1JEam01MW9wSDlGczdZQmhwMzcxQjhrc1Z4VFh4QVdvdnh2NjBuaUZ5TWVhRjktbUdvQlhmR2lGazNxUTMxeDVsVXdEQUlSRWZiSHl5YkJhV3Z1TFVxSEUwQ1VtanF5VndDZ2ozRmQ5Um9KYXJRT2JFVERJVzJ4alItRzM1OVJrYXRNVzM3eU83WjU0OS13MmtaekE?oc=5",
-      "d": 1793776872000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28313,10 +28311,20 @@
       "d": 1793805269000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@tamala_vi",
+      "x": "Bismillah…. Emak-emak yg anaknya dapat bansos dana Pip… Uda di cek blon atm nya… Tadi siang ada yg cek kartu pip.. Ea ada saldo yg masuk semalam tgl 3 nopember… ✨Uda pada di cek bl",
+      "u": "https://www.threads.com/@tamala_vi/post/DfULpCSmJn3",
+      "d": 1793786067000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
