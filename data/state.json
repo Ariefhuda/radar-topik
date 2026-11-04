@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dexl3f7k_Oz": 1792625738601,
-    "threads:Dexa2EaEdIz": 1792625738601,
-    "threads:DdmnZoMDAN0": 1792625738601,
-    "news:CBMiZEFVX3lxTE9vNzlJWDdkU2ZSeFlqM2szUVZSUm1Bd2d6eU04dUI1UDVuTlBid09EYXFRRjZPWlhnWWVrZ2RyMWlvSmFoT2RNbENEVUdJSTF3MHY2U0kwSXY1ZXAzWWdNcmhPZ1I": 1792625738601,
-    "news:CBMieEFVX3lxTE9ULW9aVkN1SVlmbm5IRXBFTGtjSTlPUGhHbmJaYTVRMUZxYnIwajBRd25sZTJzUnlqZ2ZVWjhFQnBhdVV5eXRCUFJSd0ZnM3VJMUhXOGJsR3hCTlJqU21VYnBpMjh6WTU3Q1M2VE9UR1I0OHNwbXNwbg": 1792625738601,
     "threads:DexlZD6kzva": 1792626039761,
     "threads:DaETUXUD9IN": 1792626539429,
     "threads:DZeqat-idr9": 1792626539429,
@@ -27052,39 +27047,15 @@
     "threads:DKE580hSswp": 1793835045555,
     "threads:DfVoDZ0k_xy": 1793835045555,
     "news:CBMilAFBVV95cUxNTEo4WEgyQkRrRDliNkxPOHMxUzlfOUFwRVlRV1A0MndGY3RYSnVPYy1CZXd5ODU5Q2czd0pnTGFKUHRTaEotRFJvMHJUSGZfczZhUUtFeGd0WXQybEVZRzgxdTJEOUdVbWltS0VqMDA2dTQycFQtQjlDT3FpdU1fUHNiSDd5WHdySzlsTGEtMXZraXdp": 1793835045555,
-    "news:CBMizwFBVV95cUxPcWU1Y09meERYYjRDMExWTVhzb1A5Nlo0UmpIREdwMkxNdDNVb1huNURKSnl3UXlFMDN3R1pEQnJ2d092QnQ3b2RoSUcwdm16NU9UYWZTaGtJZHlkTnpBQzBRZG85ckNSNzhuYnlpNzRaTlpZUHY2WEM5MkQ1ejdtbnVjUHAyOG9PeURpMmIzSlVYTWJrY2tVaS11ZHhHcFFjVExiVXBIYlJnbFNHem9udml6NGRNT0VYbGtnWmtwZUFPY2o5SFRMTHRZUG1jZ1U": 1793835045555
+    "news:CBMizwFBVV95cUxPcWU1Y09meERYYjRDMExWTVhzb1A5Nlo0UmpIREdwMkxNdDNVb1huNURKSnl3UXlFMDN3R1pEQnJ2d092QnQ3b2RoSUcwdm16NU9UYWZTaGtJZHlkTnpBQzBRZG85ckNSNzhuYnlpNzRaTlpZUHY2WEM5MkQ1ejdtbnVjUHAyOG9PeURpMmIzSlVYTWJrY2tVaS11ZHhHcFFjVExiVXBIYlJnbFNHem9udml6NGRNT0VYbGtnWmtwZUFPY2o5SFRMTHRZUG1jZ1U": 1793835045555,
+    "threads:DdJQkg5CYEO": 1793835341974,
+    "threads:DfVoGNKgYGv": 1793835341974,
+    "threads:Dev7ayVj9QX": 1793835341974,
+    "news:CBMi9gFBVV95cUxQVFpibGROX01qTFhITmxzSlFpOWNveEtoVnZxeHB5angwU1BXM1A1Rm1yM1NUSHZBbFgzMnlkWWxJWmw4U3piWFBQWWpzVTUxWk9IZnlTSWUwNXBnRElhS3gtQ0VTbFNfc2FRbEJvVTl6SklrUUNMWXBUSzBLbHR2eFpIcmgxbl9lMU5RZWRFTXVFUDY3WjhaNllvZm5XcjRXQ2ZYUTh4aUZhU25pWFNnenR3MjVWay1Kd0dqWkMzMGk1ZlFEaDd3WUJ2THBKVXNubW1fNjJsZmVabkljSnFrY3ZTNV9zbTNOeFNmcGtQandnV3lRLUE": 1793835341974,
+    "news:CBMizwFBVV95cUxPRkVvRmRpMUdpQ3pxTHFjaVRhekFLdW52dGlsVkR5NW5Cc0x0QlcwTTl4QmsyOVJyZDdJanpiLTRaWjdTNjF2czZqckZtYjNUUDE3NzQzRnpLbXFNdllTd3FtMU1jRWdCLXlWS09tV3loTnV4LWt4cDZjWm5UN2Q4N1JfUHdCZjJsOEpVbUwtNnpiVTZLTEMyRXVmekx6U0hhc0ZZWFk3YjE3S1NGcnhieUFrLWU1dDNRU2Ziay1aVXpzOXhqYnQ4MER4Zmc5d2s": 1793835341974,
+    "news:CBMi3wFBVV95cUxOZ2Y5OGhsVmZ4bTZCRUliTUNBMUlIT2RFNzBGNzA0TmU2ZzlwYWZIaUo3anplLWJ3T3l1dzlWZkdveWptaHJzNGEyNjlSajJESVVBY1U0V0duaTdTR19oZmdCTVFwS2VTeHNPdTdiX2hBRzhxejI5WEp3MlFzMks4RmJaLXRqVWVpTWR3azVvSi1BRVpaOENhaHJzRmxhQXR6cWNhblNiMy1CYm1aOU1fekZuTk1pMVpGb25ueUNldTNvZjFQbEVma01CQjBiM2xtLUZvc2I0YVh6MGVIV3JB0gHkAUFVX3lxTE9zSUduajg3VWlpV0FJQXA0X0hjWXRNdENRMzVCV3VaQUJqR1VxREtzaFBIZHNsbFlPbWZzTXVkbjd6ZVViVUpBaWl6dDRyV1lVQlRtYXdNTXFxSTVHZE4xcGtRMHctWksxUF9WQTQ1Wmpwd3hMQ0JKLURpZ0hHT1AzZmNSSUhIYlNHNWpuclNLR1UxOE94eGF4SEs2TFlQcVo4b0JuVU92VXNzaDBrdXR5VDFPY2dHTmVuMUJXYThvbTAxRG85WVh1WUpUZS1vY1RNdEVFNm9Od3pmNTJ0R0luREJnTQ": 1793835341974
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@zhongpath",
-      "x": "Halo, Threads! 👋🇨🇳 Kenalan yuk! Kami ZhongPath. Kami hadir untuk membantu pelajar Indonesia mengenal lebih dekat berbagai kesempatan pendidikan di China. Mulai dari study camp, ",
-      "u": "https://www.threads.com/@zhongpath/post/DfUX58ID4u8",
-      "d": 1793792497000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Kalau semua serentak menolak bayar pajak, negara langsung kehabisan napas - yang paling parah kena imbasnya itu rakyat jelata, bukan Presiden atau konglomerat. Data APBN 2024: 82,4",
-      "u": "https://www.threads.com/@meta.ai/post/DfUspCMgEpg",
-      "d": 1793803368000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@khobir72",
-      "x": "Alhamdulillah,,informasiny bansos pangan beras 30 kg sudah cair dibanten👍gimana dengan daerah kalian?",
-      "u": "https://www.threads.com/@khobir72/post/DfUhi3pmfq8",
-      "d": 1793797551000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28554,10 +28525,40 @@
       "d": 1793775082000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@asepkomarudin80",
+      "x": "Awas Info Penting! Ada Yang Tiba-Tiba Terdaftar BPJS PBI/KIS/Gratis? CEK SEKARANG! #ubahdesil #desilnaik #perubahandesil #pembariandesil #bansos",
+      "u": "https://www.threads.com/@asepkomarudin80/post/DfVoGNKgYGv",
+      "d": 1793834542000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Segera Cek Desil 1-4 Pakai NIK agar Bansos PKH, BPNT, dan BLT Kesra Rp900 Ribu Cair - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkVvRmRpMUdpQ3pxTHFjaVRhekFLdW52dGlsVkR5NW5Cc0x0QlcwTTl4QmsyOVJyZDdJanpiLTRaWjdTNjF2czZqckZtYjNUUDE3NzQzRnpLbXFNdllTd3FtMU1jRWdCLXlWS09tV3loTnV4LWt4cDZjWm5UN2Q4N1JfUHdCZjJsOEpVbUwtNnpiVTZLTEMyRXVmekx6U0hhc0ZZWFk3YjE3S1NGcnhieUFrLWU1dDNRU2Ziay1aVXpzOXhqYnQ4MER4Zmc5d2s?oc=5",
+      "d": 1793834723000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos PKH dan BPNT Tahap 4 2026 Cair Pekan Ini? Cek Arti Status SIKS-NG dan Saldo KKS Terbaru - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2Y5OGhsVmZ4bTZCRUliTUNBMUlIT2RFNzBGNzA0TmU2ZzlwYWZIaUo3anplLWJ3T3l1dzlWZkdveWptaHJzNGEyNjlSajJESVVBY1U0V0duaTdTR19oZmdCTVFwS2VTeHNPdTdiX2hBRzhxejI5WEp3MlFzMks4RmJaLXRqVWVpTWR3azVvSi1BRVpaOENhaHJzRmxhQXR6cWNhblNiMy1CYm1aOU1fekZuTk1pMVpGb25ueUNldTNvZjFQbEVma01CQjBiM2xtLUZvc2I0YVh6MGVIV3JB0gHkAUFVX3lxTE9zSUduajg3VWlpV0FJQXA0X0hjWXRNdENRMzVCV3VaQUJqR1VxREtzaFBIZHNsbFlPbWZzTXVkbjd6ZVViVUpBaWl6dDRyV1lVQlRtYXdNTXFxSTVHZE4xcGtRMHctWksxUF9WQTQ1Wmpwd3hMQ0JKLURpZ0hHT1AzZmNSSUhIYlNHNWpuclNLR1UxOE94eGF4SEs2TFlQcVo4b0JuVU92VXNzaDBrdXR5VDFPY2dHTmVuMUJXYThvbTAxRG85WVh1WUpUZS1vY1RNdEVFNm9Od3pmNTJ0R0luREJnTQ?oc=5",
+      "d": 1793833830000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
