@@ -26824,19 +26824,10 @@
     "threads:DfVIUeJDcJn": 1793818240287,
     "threads:DfVICs3DkJQ": 1793818240287,
     "threads:DfVJCxkDyIa": 1793818240287,
-    "news:CBMiugFBVV95cUxOdUN4WTl6SVpqbTVUUDJaTUNKeVIycXBaLXR0c1UzTTBPZkViMDZyek5Vck5wM2xsSTdrek9sTlJ2alNDVDVRRVNtRTB5NWN4Q0FhMjdGclNCYm9CcWF3aHJiZHRsUDVvZU9obGF0WU1JM0VfYzJkM2V4Vmd0Q3ZERHZDT0VJOXF1U1lTaEE4U19SQTNsVlEycjJaQzBsSjdsU05la0pidHNORlVNeWNRWjdGcWRLOXg5b3c": 1793818240287
+    "news:CBMiugFBVV95cUxOdUN4WTl6SVpqbTVUUDJaTUNKeVIycXBaLXR0c1UzTTBPZkViMDZyek5Vck5wM2xsSTdrek9sTlJ2alNDVDVRRVNtRTB5NWN4Q0FhMjdGclNCYm9CcWF3aHJiZHRsUDVvZU9obGF0WU1JM0VfYzJkM2V4Vmd0Q3ZERHZDT0VJOXF1U1lTaEE4U19SQTNsVlEycjJaQzBsSjdsU05la0pidHNORlVNeWNRWjdGcWRLOXg5b3c": 1793818240287,
+    "news:CBMi0wFBVV95cUxNTXJRb2QxUGtLZ0UyenpuRTlvRFhkQkNNQVYxSDhMMEU5OEJCT3p5aTN0LUlSTVVIYVE5dzNQem5Dc0daX2I4SWJ5YldsZmpkN1VRb0w0aEdQMTliNzc2dmlrZll2SzlvUmZKNjZlb1dTaFg0TFU3aGc2clZtaC1HZ1cwc25RdHZZZE9lSmFjcURuWWJiV0xveFhEbFBOT3I5bFBjVkNlN1Z2QzI3VE9wUGJybExYMVFZaVVRZ1ItRW5jcHR0YkVzX0lvNE5VOTYtcE5N": 1793818534484
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribun Gorontalo",
-      "x": "Bansos Khusus Janda di Gorontalo, Cek Cara Pengusulan Penerima Bantuan! - Tribun Gorontalo",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRkZlMlJRUTlnWm8tRzZOTm5jQlV3VzRPdGNjdnRNcmE5bjhVYTAzQmR0ZHJhYmMtMkxkRUVwMTluS1BZb3A1b3o4MHFtVGdvSF9fVDFGT0xGalVJVWh2QzNBdnhtNWFKU0U4OXo3NXBNeldPLS1SZjZ0Q1lsSWZLc3l3M3BfMWZOLUM5UFN5cXJQNkE3dlFaRjNZSzdveVJNYWYxQlNLUG5nNXAtamNIQXd4YTB0aFVwTDlzQlhLRVBWbUx0d19J?oc=5",
-      "d": 1793775114000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28326,10 +28317,20 @@
       "d": 1793786067000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Hadirkan Pangkas Rambut Gratis, Lapas Saparua Sambut Hari Bhakti ke-2 - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXJRb2QxUGtLZ0UyenpuRTlvRFhkQkNNQVYxSDhMMEU5OEJCT3p5aTN0LUlSTVVIYVE5dzNQem5Dc0daX2I4SWJ5YldsZmpkN1VRb0w0aEdQMTliNzc2dmlrZll2SzlvUmZKNjZlb1dTaFg0TFU3aGc2clZtaC1HZ1cwc25RdHZZZE9lSmFjcURuWWJiV0xveFhEbFBOT3I5bFBjVkNlN1Z2QzI3VE9wUGJybExYMVFZaVVRZ1ItRW5jcHR0YkVzX0lvNE5VOTYtcE5N?oc=5",
+      "d": 1793817780000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
