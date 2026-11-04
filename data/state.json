@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevETEjEz5u": 1792624540073,
-    "threads:DGaxCRmzvx6": 1792624540073,
-    "news:CBMivgFBVV95cUxPS1d4UTM5eVB4WnZKU2VaaWRzZ0QzRjROeklORFIyUDJwMzlfb05STGE3Q2g5UnlzQXZJOUV2Qko0ZVNSQVNtZVUwTFNEVFhRRTg0RzlVSzNsTkk4clVZR1BzZDNxTGFMZEVza01PLUF0VEVEOVFRSkdQZm1xQ19ZSkRqUjhzSHh1aUNSN2w2RFNFanBWM1lMUFlkZU9yb3FEZV9CenZiTUZVTWFmems5dVh0LThNSGRubXZoRWxn": 1792624540073,
     "news:CBMiwgFBVV95cUxPNk1OZUZsaVhyMW5XbDhvbHV4ZG5ubW5YWnhxSmxZdGpnTEdEQjNEc1R1bFlJRDBTUnpySFh2TUdvX0VZNDgzRjhndFNCYjAxdXROdmQ2NkpqdzVyYlRpc2pQRkhCNXk0TEJzRzA4aUNnNlVDdjZtZU0wZkxhdmZhdjBVYTlLbTNpMGFCQUo1MFNRV2FpdGdXVXd0YWZ3N0NhZVBGX0FxOXk4SkplRU1ZWTlGSV9PXzZBZHFtOUdnWjYtUdIBxwFBVV95cUxPeXMzdG5qODhVOW1fQ2tVUDJVSHgzbi1wS2ZjTDdTWmFoTVNnc0trYXU4R3hMTWhDQ2pEdFVJdGlYU1BuT2VDSC1pb3ZYeGtQOElmbFhTM19DRFpMOUZUMDJLYndfZVdFaEE1cTBVNzRvcXdqTXB6MXUzSjlUWG1oSDdSSkVHWnJRNGQwbjN2dVAxcGIxVE5EQ1M4TnBneVgtUURHNGFUcld3aHZRc3YydFBsVlRvTlcwUm9GU09FTnUxODNHblNj": 1792624840362,
     "news:CBMiZ0FVX3lxTE03dHpSbWhSWENnRldiUVBPeU4zLXpLS0tTV1AzeGtYV1BfelRrNWNMRzEtcjF0WFFfOTB4R3p0YnBKTDh6TkpFZHlvQXNTU0VZX2tYdVBjM3BuODhuUnh0RnY0NFdpdnc": 1792624840362,
     "news:CBMirAFBVV95cUxPYVZ2LVdLLVhKRWRzdXBUbWFZYkN0Ulp0MWRHNG9WYU9PMnZYTGVHcVQxbWRMckE5cDBXLUlqRXh2LThDVDB6djc2ZzdtVjZxeDJ6ejVkX3VjWFBYMERRNlZVc01rb0l6MjBBaS1uSFdfT1hKMlp6Z0s3N1FaWkZGbVZRVS1vbTVQeFhfY3hJSkx6S3VRVlc0V2N2a0EybjlWdUlwWkk5TTZtSDRF0gGsAUFVX3lxTE9hVnYtV0stWEpFZHN1cFRtYVliQ3RSWnQxZEc0b1ZhT08ydlhMZUdxVDFtZExyQTlwMFctSWpFeHYtOENUMHp2NzZnN21WNnF4Mnp6NWRfdWNYUFgwRFE2VlVzTWtvSXoyMEFpLW5IV19PWEoyWnpnSzc3UVpaRkZtVlFVLW9tNVB4WF9jeElKTHpLdVFWVzRXY3ZrQTJuOVZ1SXBaSTlNNm1INEU": 1792624840362,
@@ -27033,19 +27030,22 @@
     "threads:DfVlcZ9nzI8": 1793833840126,
     "news:CBMihAFBVV95cUxPRGdZZ3Rqd2FZTV9KX19hbnh6RWcwQV9kODllM3N2bjZUT09HenFvUFR2aHljWWljNWN6WnNnR09uXzEybU43emVBX3R2aDRrc2YwbjA1UkhGNktkUDlZV2g0MjFuVXgwVGZ3RTZoRUpxNUlkbnVHTFg2X1B2cFpYU2JTSkk": 1793833840126,
     "news:CBMi3AFBVV95cUxOSDdsTUlOTzUtb3d3cnB3eXc1bWxRNGFrZWR5OFU0dVVIcDFIejVfWS1GUWV2MVlTYXg4TDRlS01yMV9nR0RrWWFDSUZtc195aDNFdHpTOTdhcWlpTk9lTk4wNzdvR2tXV0hUeWNxZkx1Njd1SXVKcmJoV09uRHY5R1NXM052dm9SZ3QyTC0wOEljaW9GYm1VUFZqTHZlRC1kUGNFVE85MVEzU3JoN3lHSG9JUzE1S1ZjTlBZNWxzZmpHVkpSN05lMlk2VFIybVhpNWRVdWhNWXkxSDJu": 1793833840126,
-    "news:CBMivAFBVV95cUxQRXlEMnVoTTZUWkdMYzRRQldVQjZwU0NMU2R0dnZnOHZCa3lRbjMzNDdQcmM2LU5US3RpcDY1ckdTSThBVkQtSXBDME1kVEctX3VhN2RYbHZhblFnN2FxLUVYX0RVRTRKUG9MR1dLRGQweElpaXRfakp0RVJheXY4cENWLTVYOW1uM1htXzFuQzZmM0l4TTlDMjdWdUpPUDNaYzBjcUV2MVdXbjBsVlR4d1ZFd2tDSW1VOEhxLdIBwgFBVV95cUxNYVA3dEpvNXpkQks0cmFlVDRoZW5tVmNsdU93NkdrazNCc2NoaXprR1UyeThfSmIzbGNVaFpnZnZSOTVEby1wb1R0Y0VNdmZ5cWVXd2psNjR6MWR6aWdrTjU0bEJBUG5rSmJjdHlfU1I1c0JLc2FDUnJCV3hXMEh5dUNPSEdSb3VTWjdUa043ZWlvTF9BR2RVQjhpSWVrenMzZWFjV0RLMkYwdXdfM3R2VERhNVM3TnNyb3NBTF94NmJ0dw": 1793833840126
+    "news:CBMivAFBVV95cUxQRXlEMnVoTTZUWkdMYzRRQldVQjZwU0NMU2R0dnZnOHZCa3lRbjMzNDdQcmM2LU5US3RpcDY1ckdTSThBVkQtSXBDME1kVEctX3VhN2RYbHZhblFnN2FxLUVYX0RVRTRKUG9MR1dLRGQweElpaXRfakp0RVJheXY4cENWLTVYOW1uM1htXzFuQzZmM0l4TTlDMjdWdUpPUDNaYzBjcUV2MVdXbjBsVlR4d1ZFd2tDSW1VOEhxLdIBwgFBVV95cUxNYVA3dEpvNXpkQks0cmFlVDRoZW5tVmNsdU93NkdrazNCc2NoaXprR1UyeThfSmIzbGNVaFpnZnZSOTVEby1wb1R0Y0VNdmZ5cWVXd2psNjR6MWR6aWdrTjU0bEJBUG5rSmJjdHlfU1I1c0JLc2FDUnJCV3hXMEh5dUNPSEdSb3VTWjdUa043ZWlvTF9BR2RVQjhpSWVrenMzZWFjV0RLMkYwdXdfM3R2VERhNVM3TnNyb3NBTF94NmJ0dw": 1793833840126,
+    "threads:DfVmtO2Dc8O": 1793834138193,
+    "threads:DfVm3rPgalT": 1793834138193,
+    "threads:DfVm_FtE4jV": 1793834138193,
+    "threads:DfVmxIHgmOx": 1793834138193,
+    "threads:DfVmutrDLWD": 1793834138193,
+    "threads:DfVmuibknXI": 1793834138193,
+    "threads:DfVmha0j4bN": 1793834138193,
+    "threads:DfVmOF9kwzx": 1793834138193,
+    "threads:DfVmIKrAW7G": 1793834138193,
+    "threads:DfVmDTZluRS": 1793834138193,
+    "threads:DfRF2s4EnAG": 1793834138193,
+    "threads:DfVnE4_k7uB": 1793834138193,
+    "news:CBMigwFBVV95cUxNRDhTb3ROaDlUR1dyVWMwVHVQcGNpeTFpYzd1MkcyUExtWUhHNVJTOExsYVkwQ1MwTFkyNWwzUHdReEtseG1QdkdnT0F2Um52NmN4XzJGeE1nR0xLVlYwdl9laXZ3ZWtsejZ2ZEtQc1ZFeERhTlV4WlRhclRaS21LQ0hBNA": 1793834138193
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@qinq_aldyth_yuwono",
-      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
-      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfUwVElI7_N",
-      "d": 1793805302000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28535,10 +28535,20 @@
       "d": 1793833608000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@veracharita",
+      "x": "Lowongan 100 terapis massage home care. Bagi hasil 70%. Fasilitas pelatihan gratis. Jabodetabek. Khusus yang amanah, tidak punya niat khianat, biar barokah. Hub @latifaacademy @cha",
+      "u": "https://www.threads.com/@veracharita/post/DfVnE4_k7uB",
+      "d": 1793834005000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
