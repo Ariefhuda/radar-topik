@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DevINuRmE1P": 1792542940238,
-    "threads:DevHidhAeez": 1792542940238,
-    "threads:DevHigmgSFw": 1792542940238,
-    "news:CBMi0wFBVV95cUxNVlRfcnRmcWdLc3NldjU1bGpWcTlOZERaeUhGRGg0d1BEMHpTQUdYUUNoZ205M19wSXhVM1ZaNk5veWJ0X3F1MkU1VE5mYmhld1pEdmgwZkFyMlBpVkk4VTJUVXhNUHFyNGw4T2dBeGIzb3kxblRlVVpGa3dKOFdSRnI0ZGFVSXJHUm1obG1IMkQ0VnhBVWFybi1rbVRhU2x0YVFFeS1pekNzS3hIRzhKQW02SVY2R1owU2JiRG9OM3ZwZDdkYUtoSHBOcDlwYmRnLThR": 1792542940238,
     "threads:DevJN0qGhkI": 1792543243382,
     "news:CBMi4AFBVV95cUxOVnJOMGZhdFMwUzFBUm9wUG9yZWxwUk5mMlhtaW5YN2JmbXVnWW1xUzV3b0g3Ri1SZEFHRFZJOHBxTkF2VDVydzRaSzRzRS1Uc2p6bWt0UWtnUGFRdU5RczR2bUVzaDdLZG1xak1Hb1hBOTI2bE5JMnVmd1d1WFNRaHNpczFZWG5zQjNLd3JPblRHM1h4d3M2SkhzWVFYaHRvUXY1VkxRMDVtZWNsU0x1RHc3bG1ja0dpRzloYm5CWnA1QTZfSlNMSEdwdV80eWVVRWZxZ3FNVGVMdEgtSEtDMw": 1792543243382,
     "news:CBMi2AFBVV95cUxNdFFBRm9xVV92REh5aWszWUE5a2VuZEd1NEtfbUdhOFJCVE5TWTl0YkhCU0lCcVNkb2dZd3BrZTVxVmZ6aU1FUGVfMWlrVlAzbFVEZnFHdkI2N1hiSjEyeUc3LXF3SkxteEdUSE1HaDJfY1oxZE5YNWdPRlBCREhjMDE5b1A5ZGZIYWFySER0ZkNBRXNTOHUxNUxMX3d1UU5ZUkxHaURxa3ZDamphNlhwRlFCZmJsNzBmSG4tNFUzNWFCNG1fZG5RVzFuQXpobFVqVXR0MHV6VXHSAdgBQVVfeXFMTXRRQUZvcVVfdkRIeWlrM1lBOWtlbmRHdTRLX21HYThSQlROU1k5dGJIQlNJQnFTZG9nWXdwa2U1cVZmemlNRVBlXzFpa1ZQM2xVRGZxR3ZCNjdYYkoxMnlHNy1xd0pMbXhHVEhNR2gyX2NaMWROWDVnT0ZQQkRIYzAxOW9QOWRmSGFhckhEdGZDQUVzUzh1MTVMTF93dVFOWVJMR2lEcWt2Q2pqYTZYcEZRQmZibDcwZkhuLTRVMzVhQjRtX2RuUVcxbkF6aGxValV0dDB1elVx": 1792543243382,
@@ -27930,19 +27926,30 @@
     "news:CBMi4AFBVV95cUxPZU5nSFRpaV9SYjBHUEQtV1hyaG1PdDJNNVZOaEx0N29SN1hoTUlfc3RjTktaak1mMkRvR3dpcWhETERMQ0k4VEtSWndYYlBqOWZaUWFybkZjd04tYmJrNmlJcnE4a1BHeThCekhfQ1VfdElrbmxnd3RhOFNTcjJRYzdyWDlGNUN0b0V2eTJqV2RZaTgzcEVtT1V2SHJVMHg1RUZsTFdqS0JMdGxfbjJ0UDFNZ29FaFdsdU1NQmttOUFzUFo5cFh3bHBYZmZjWmotMjZ5c3ZXWk9nX1o5Vml6a9IB5gFBVV95cUxPQlg3c0NNVVpIcVhZYXEyd3ZXZ2E1bXRqdm15MkFiNGF5YUN6Z1hOTVk5a0pVZ3I1bXhWQ0ZGVU12NlNlODQwcDhIeEV6bU5KSnlDcFJJMkJva3htUEtTRG9YS0R1czN4dWtZWGUyWWEzUXFZMDhhMXo2Q2kyYzV1UGZ6NzlTdzlfM1gtVGlKRl9sWU44bXRHRlQxaURzN0FoYjdwSXZxdF9CUVBUQ0pSZ3dMYm1JbVduQVpUVzFJNlFQc2ZFcUljcGx0azNhVno2SnA0dFBiRVBOVWZxa29Jd255czhEUQ": 1793751948693,
     "threads:DfTKshfjW7c": 1793752252358,
     "news:CBMifkFVX3lxTE9yakhMQml3MS1XdVlUbTdMNGpCNzFtQlN3Ym9CaFU1VExIZnAwRUJhMGhwRFIyLWJFOUpKN2FiSUxaTThBWjBUVFA3dWEzUzVVRlFWMmRYdlRmUFVlOXJ1Q2JRc2VoWklPdEhiLXU5c2lnZ2dqa2lnY1NMZjlUQQ": 1793752252358,
-    "news:CBMioAFBVV95cUxOOERZZWlOYldrSy1Wb21ibUFLYU90QU1uQjEtcmpXRkhsamxKNmZXYi1CVlVHQm5sWG9TcElHcmtTOEdwUFpMRGw5akQ3OWJZRUVDUTdCZjdLTW1KYzdxVmlaeDl2VXBYMHN0RFVpc1pab3VvNnIwdkttSGt5eE1XZ05SLWRoUWxBWkFNQ0JqUmp6Zmp2NUQydFNKaGVSaHFu": 1793752252358
+    "news:CBMioAFBVV95cUxOOERZZWlOYldrSy1Wb21ibUFLYU90QU1uQjEtcmpXRkhsamxKNmZXYi1CVlVHQm5sWG9TcElHcmtTOEdwUFpMRGw5akQ3OWJZRUVDUTdCZjdLTW1KYzdxVmlaeDl2VXBYMHN0RFVpc1pab3VvNnIwdkttSGt5eE1XZ05SLWRoUWxBWkFNQ0JqUmp6Zmp2NUQydFNKaGVSaHFu": 1793752252358,
+    "threads:DfTKZslEzll": 1793752545513,
+    "threads:DfTLpQUgUfG": 1793752545513,
+    "threads:DfTLQrHE4oj": 1793752545513,
+    "threads:DfTK7bZE7yQ": 1793752545513,
+    "threads:DfTKW0un5V5": 1793752545513,
+    "threads:DfTLs_HlPpY": 1793752545513,
+    "threads:DfTLqUBj9ST": 1793752545513,
+    "threads:DfTLZxxmYA5": 1793752545513,
+    "threads:DfTLTm3GeCR": 1793752545513,
+    "threads:DfTLFzPkuuR": 1793752545513,
+    "threads:DfTLFrEgVqV": 1793752545513,
+    "threads:DfTK8g_AUmn": 1793752545513,
+    "threads:DfTFEQ4Gbjl": 1793752545513,
+    "threads:DfTKtn5lXKK": 1793752545513,
+    "threads:DfTKm6mjqF0": 1793752545513,
+    "threads:DfTKk7jjKeH": 1793752545513,
+    "threads:DfTKYDRFK2v": 1793752545513,
+    "threads:DfTLIrXn_v7": 1793752545513,
+    "threads:DfTLCu4kxba": 1793752545513,
+    "threads:DfTK3Y-gSLl": 1793752545513,
+    "threads:DfTK-_SEktN": 1793752545513
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, bisa tambah dulu skill digital marketing dan bisnis online. Nantinya bisa buat jual produk sendiri secara online. Bisa dropship tanpa harus stok barang, atau affiliate. D",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfSIUAujz4K",
-      "d": 1793717213000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29432,10 +29439,20 @@
       "d": 1793752016000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cinnamon_26",
+      "x": "🎓 PROGRAM PEDULI PENDIDIKAN ❤️ KELAS GRATIS BERSAMA MR BK! Bimbel & Privat Mr BK membuka kesempatan belajar GRATIS untuk: 📚 Persiapan TKA SD (Kelas VI) Dengan persyaratan: 1. Sis",
+      "u": "https://www.threads.com/@cinnamon_26/post/DfTK-_SEktN",
+      "d": 1793752168000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
