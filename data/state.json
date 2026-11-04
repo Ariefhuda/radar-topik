@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dew_jmsm6qe": 1792605940715,
     "news:CBMi9AFBVV95cUxOdjJxSWU4ZjI0WFhyTXhUaXU5ODlucjJMT3owX19ncjB1eWtaNHRNYi00NUlrdVBna2Z3RWpyT1VPTTVndkprRnhtTmljZElqMkpQSHplMTc5eFlueTQyQnJqSWs2c1RZUlhBNDlGNEktYlR3N0ZBSV9GTE9SVDNCSnJVeTZlWDN6ZzRYSl9Fcm1JdTNjLVp5ZngtUW9YbXNFUm94ZmJXTEpsSUJWQnJEUnpITVdaR1c3N3lOVVV3aUZxdENpSUZod1BSeENlYWNocm1zcWVSWldlNlRBVlhCTDU5dzFjTmx2UTg2Znhoc19tQzY50gH0AUFVX3lxTE52MnFJZThmMjRYWHJNeFRpdTk4OW5yMkxPejBfX2dyMHV5a1o0dE1iLTQ1SWt1UGdrZndFanJPVU9NNWd2SmtGeG1OaWNkSWoySlBIemUxNzl4WW55NDJCcmpJazZzVFlSWEE0OUY0SS1iVHc3RkFJX0ZMT1JUM0JKclV5NmVYM3pnNFhKX0VybUl1M2MtWnlmeC1Rb1htc0VSb3hmYldMSmxJQlZCckRSekhNV1pHVzc3eU5VVXdpRnF0Q2lJRmh3UFJ4Q2VhY2hybXNxZVJaV2U2VEFWWEJMNTl3MWNObHZRODZmeGhzX21DNjk": 1792606254417,
     "threads:DexByiBFW4F": 1792606555690,
     "threads:DexBOjagee8": 1792606555690,
@@ -26762,19 +26761,10 @@
     "threads:DfVCz2Xk2Aj": 1793815249111,
     "threads:DfU35KlkTU0": 1793815249111,
     "threads:Da7rqAxidDo": 1793815249111,
-    "news:CBMihAFBVV95cUxNeGFGWnB2aElvTU9zX2x2X01LTnBGUlNabE9SX1FTQmpTVmtMbEltSmE4dzNOR25JbVNwM1VPV1poNm9GcktjUmNTcERXR0dnSUV3emhyX1NkSjVEUkNLNEpHUlllQ3pvUDNwd01fSnhjV2dqZGR0b2p2OS13MHBjdlBJTVU": 1793815249111
+    "news:CBMihAFBVV95cUxNeGFGWnB2aElvTU9zX2x2X01LTnBGUlNabE9SX1FTQmpTVmtMbEltSmE4dzNOR25JbVNwM1VPV1poNm9GcktjUmNTcERXR0dnSUV3emhyX1NkSjVEUkNLNEpHUlllQ3pvUDNwd01fSnhjV2dqZGR0b2p2OS13MHBjdlBJTVU": 1793815249111,
+    "threads:DfT_-2KEzqK": 1793815541143
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "BeritaSatu.com",
-      "x": "4 Tanda Rekening Lolos Verifikasi KKS, Bansos 2026 Langsung Cair? - BeritaSatu.com",
-      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFV5TXNyR000Z1pvOTFyeWxBNVUyTFlUZUVweWt4czZNRjU5a0hxNnJ5YUF2V1pKZ3FBVjRCUW0xQ1gweE05M2QxNjY2bnh3ZHhCcE1lTmxpSE1aUXFhTUF4QVpRdFRLM0NIV2J1UWxZNHpKOVZTNE1GLWptRDNkcVhqeFdTQThSZjBLZDhpM0VmbWI3NHJncTRqanV2U0Z5bGRIYS04ZnFYblE?oc=5",
-      "d": 1793784060000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28264,10 +28254,20 @@
       "d": 1793812171000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@suarkabarid",
+      "x": "BAZNAS Buka Pendaftaran Bantuan Riset D4–S3 hingga 11 November 2026 Pendaftaran Beasiswa Riset BAZNAS 2026 berlangsung 3–11 November. Bantuan Rp1 juta–Rp30 juta tersedia untuk rise",
+      "u": "https://www.threads.com/@suarkabarid/post/DfT_-2KEzqK",
+      "d": 1793779957000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
