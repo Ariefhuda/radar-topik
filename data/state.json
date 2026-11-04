@@ -27006,7 +27006,8 @@
     "threads:DfViLvpAch5": 1793831736150,
     "threads:DfVh96QiKT9": 1793831736150,
     "threads:DfVOkPfj7LX": 1793831736150,
-    "threads:DfVhudqj2om": 1793831736150
+    "threads:DfVhudqj2om": 1793831736150,
+    "threads:DeqARTNCXb_": 1793832042318
   },
   "digest": [
     {
@@ -28511,13 +28512,14 @@
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793811966590
+    "reddit": 1793811966590,
+    "news": 1793832042318
   }
 }
