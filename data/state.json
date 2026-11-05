@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DddSoK6IIOt": 1792627542304,
-    "news:CBMirgFBVV95cUxNV1dwdEpLQlVTSFQ1Qk9nMnYtOUNxS3MycXgwSWpEYkJQRHlQblN2aEFRdDVPdUR5SDQ2SHpXcmdNcUVxako3cWx2Umt2Q2k0M292dW9yRFJvdE5IeHMtWW1mM05aT0cwMHZXVXZHeldCSW5ObmRPa0YtcUU3TGtjNEtXdF9wdmFCSTdEZElCX2ZnZUdIcmhTMUZ1X1ZqeWw4N2dlbWF2MEZ3b1pWMWfSAa4BQVVfeXFMTVdXcHRKS0JVU0hUNUJPZzJ2LTlDcUtzMnF4MElqRGJCUER5UG5TdmhBUXQ1T3VEeUg0Nkh6V3JnTXFFcWpKN3FsdlJrdkNpNDNvdnVvckRSb3ROSHhzLVltZjNOWk9HMDB2V1V2R3pXQkluTm5kT2tGLXFFN0xrYzRLV3RfcHZhQkk3RGRJQl9mZ2VHSHJoUzFGdV9WanlsODdnZW1hdjBGd29aVjFn": 1792627542304,
     "threads:DevqnTzARUd": 1792627842155,
     "news:CBMi3gFBVV95cUxOaXgxR2tJVzBYc0FjdEJGc1RTUThrZ1EwNHpzWFEwcmExUGFSWm9LeGFJVk5nMXFFamIxTEdrVHo0RTF3TDVleE5NcTgweVA0TmdyMDNyNWN0bTlndXkybWsxOHJqbGlPUE1ZOEdEZEpQUF9HcFJjSlVlWjNsY0dRd0l4MFdMd1NjSVd0MUVqaE1YX2wzUkJKd094X0xrT3QzcUR3eTJ0a1hqSm05YV9ZNVZfZXdRTW1oVE5RMUZsUGlOMENRTDhybWltbjNfM3hrR3M3eWdYMjZnS1JqR2fSAeMBQVVfeXFMTmtPWGxTNExBLXpUakxtajJtS3BEXzdjQzQxcVpaZThGMnUtLTRjWjMzV19vSHNsVW1icFZHRVZrZXl0OXl1M0c1Z3pKVzRiQkY2Z3dPMnlXd0xhZ3hOV2dPaFpuQXI0TkRFWTQ1Um1sZlNaN1pmZGpLb0VNb0V6VDBqQkwzWGRqZUFmMDRuZmFhbk1HR3k0M3Q1aGpQbnduMm5FekV0ZEY0LXVybm4xdmtCSDFQaHZhd2hncnNiS3hBb04zU3Z4YmZWWmxXVGJvUjZmZTdVdDFlQ3Zmc3E5cEcybk0": 1792627842155,
     "news:CBMiqwFBVV95cUxQODMtSHBTRVNIa0VhUXNncEctS1llRFpjc2YwWVRDZjEyN1NZWEF2WVlPdURCNURtd3ZMUFpzWTc4aXJTRlI0MEsyWTNTNUVZY0hMa3VtWWwtV3ZiNHBBZWt1QllsZHJOODNuSzhFYm0zbUVtV2ktRWQyaHd6SlVoX0tXZGU3MkVDb1ZuVkxVSGdFVnZFOUFOLWpHTEVWSkMteUl0V0VTLTlESWPSAbABQVVfeXFMTTNyWDdHa1FiMElMN0lDakRFRU92YlVpN0JjMFVxZ1lDcHpsdkk4bFhHVi1vd0M5d3F1UDh2bDN1UHVWVDRMdFlsajZZdUQtekdLTm10dVdyVzAyQzRBbFpqb2NGUEZoeHFkSlVvM3UzdkVnQWlNSEV4VXZQLWswa3NIS0xtRGxySlVkcWRQdzVFZXBjSjFWSTM4OHhweE5meU0wMk5vdndMcy1CMnRVVTg": 1792627842155,
@@ -27082,19 +27080,12 @@
     "threads:DfVq3ifkl-y": 1793836845883,
     "threads:DfVq_S0Epd_": 1793836845883,
     "news:CBMi6gFBVV95cUxPVkdrZTNFNFVsd0VuUUJPeTZyaFRFMTA1WjRQZm5zUlhqejA3bktSdE90MWJDWUtxWVJabXYtaFowaHZiR1Q3WFdXamI4ZUJ4NkpxOC1GTXdPbFVWVzhTV0hpUFgtZlFRNWUtYjNQMUJQX0dicV9XeHJnV0tDWGtydFB2VXpVMl9oM2dpaU54Y2lnZWZJazVjcURRcWF3ZDRTWGpXRWpFSUI1QWFjUkt6eUhrLWY0ZUd4UFAzVTRUd082d3RwaWhsSFdpQnZaZWQzRGw0SFhpWXI3eVhaVFk3dzhabkZhOVVnTHfSAeoBQVVfeXFMT1ZHa2UzRTRVbHdFblFCT3k2cmhURTEwNVo0UGZuc1JYanowN25LUnRPdDFiQ1lLcVlSWm12LWhaMGh2YkdUN1hXV2piOGVCeDZKcTgtRk13T2xVVlc4U1dIaVBYLWZRUTVlLWIzUDFCUF9HYnFfV3hyZ1dLQ1hrcnRQdlV6VTJfaDNnaWlOeGNpZ2VmSWs1Y3FEUXFhd2Q0U1hqV0VqRUlCNUFhY1JLenlIay1mNGVHeFBQM1U0VHdPNnd0cGlobEhXaUJ2WmVkM0RsNEhYaVlyN3lYWlRZN3c4Wm5GYTlVZ0x3": 1793836845883,
-    "news:CBMiqwFBVV95cUxQR3pkRlNXcVFhTl9hNHMtcjU5NkRKblhWVlZHYmNjNTdwUlc4OVEtZ0hScjVFWkw1UjU4Y2lxTmVNR25FaUVGakhnOElHZkpjaTg5R0s1cVdMWHNEMVB4OGd4Nm5UZnBCak5BdGtJdXZ5TzJfUmlYVEtsNU12RDlrTWRkc1BSa08yMWZOUWRWM0tQN3NPWk5hNWJmaWNzMnRMamo1VGRFTWs2N1U": 1793836845883
+    "news:CBMiqwFBVV95cUxQR3pkRlNXcVFhTl9hNHMtcjU5NkRKblhWVlZHYmNjNTdwUlc4OVEtZ0hScjVFWkw1UjU4Y2lxTmVNR25FaUVGakhnOElHZkpjaTg5R0s1cVdMWHNEMVB4OGd4Nm5UZnBCak5BdGtJdXZ5TzJfUmlYVEtsNU12RDlrTWRkc1BSa08yMWZOUWRWM0tQN3NPWk5hNWJmaWNzMnRMamo1VGRFTWs2N1U": 1793836845883,
+    "threads:DecCFfNj_59": 1793837137812,
+    "threads:DfVsbGgRkCE": 1793837137812,
+    "news:CBMitwFBVV95cUxONGdieEpmVlJYT2JFX0ttWGhENk9kS1lYamp0M01kckphM3JOSno5RWNHV1JrTExEbmNfT0RrUjlUOGpaV0g0YldWWm1NaFdyRGJYbTFoSXlNSl9BUGlNVi1hZmVOa0plUGQ0VUNzdHRQd2xUczR3VVBtYThyT1ZPTFNYSzZkWXF2dVNac2dSQVdjSkNrUkctNk9WdWhOUWphQlktWktyZkQ1VHNicHNGaGExRFl6dFE": 1793837137812
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Desil 2 + ada komponen ibu hamil & balita itu harusnya masuk kriteria PKH, jadi kamu layak diusulkan. Kenapa belum dapet? Karena PKH bukan daftar manual - sistem narik otomatis dar",
-      "u": "https://www.threads.com/@meta.ai/post/DfUZc2iD0Z4",
-      "d": 1793793307000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "@updatepelatihan",
       "s": "threads",
@@ -28584,10 +28575,20 @@
       "d": 1793836732000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Beasiswa Riset Baznas 2026, Link Pendaftaran Beserta Syaratnya - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONGdieEpmVlJYT2JFX0ttWGhENk9kS1lYamp0M01kckphM3JOSno5RWNHV1JrTExEbmNfT0RrUjlUOGpaV0g0YldWWm1NaFdyRGJYbTFoSXlNSl9BUGlNVi1hZmVOa0plUGQ0VUNzdHRQd2xUczR3VVBtYThyT1ZPTFNYSzZkWXF2dVNac2dSQVdjSkNrUkctNk9WdWhOUWphQlktWktyZkQ1VHNicHNGaGExRFl6dFE?oc=5",
+      "d": 1793836799000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
