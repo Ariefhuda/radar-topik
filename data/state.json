@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DbPp8G_klN2": 1792643147302,
-    "threads:DS6wdEpktYn": 1792643147302,
-    "threads:DbrpYLSj0XC": 1792643147302,
-    "news:CBMia0FVX3lxTE83ZmF1bHpwMXNwbkthakc1RXJpV0Q4elNxSmNGbW8wcWlXZk93N0F4NFlwUGIxSWpnd2pZSHUtcURtenNzTE9vcjc4RmVCWC02b185VzM3TUZtLUpQdm1qck1xWjc4S0RuRmZn": 1792643147302,
-    "news:CBMipwFBVV95cUxPRGNpeEVHbmVTU0syZjNNb05GQ2JjWHFxV05JUG9WWW5MVURhdi1vdHJlUUtNeG45ejhnV1V3UXlFc3ZVRHZoa2hUWnZvS0dPR3NPX1ZXQm8xQThRaW9aanRRdHpJX0haMG5JMF9lZW9DZG16azN6czkxY21IZU9Qa0poWHlpY28wb3o1T1ZPMjk4VzFBeWhfZThzQmFmZHg2cXFFUzR2bw": 1792643147302,
-    "news:CBMiwwFBVV95cUxNWkw4dldLM3hLMThFVkFjeWF1MmZ5eFZ1ajFHaXNJUmltSmxJNWpaYjBHUEZkaFUtOEZpdWVoYjZSTFFBX3RpUDdPbm5Db0lyaEdMSm0tVDFhT2taSDZPQXZ4Ml9lSE9JMnlTemd1MTVKUGFQd1pWeTdzN2tzY2JyOVhFRFo3NFBTZXQtV193eU5rR0x5TFZpcGJ1WkxDRGlPa0tUYnFWSVBpMWdiSy04U2tXQ3B6X3BhSExqcGM1NHdRc0U": 1792643147302,
     "threads:DJnpLFBJD3g": 1792643449657,
     "threads:DewUuLCiVfc": 1792643449657,
     "news:CBMiqgFBVV95cUxQX1dCNHJOTUgwYTA0U2lpVVRPOGYxdUpJV3VzNXR6WFo5R2NDM1dLd0had0lsV09rOWdFcUZQWmRyVmJTVk5DVVNOYjZRUWdpSTRwU2pBdG9PSEc5ekRjSDJyQ0JvWmlGcVlOZ0JhUnVhRXZYVHhLbzlzdkxiRVJIQ080NkpESE1DSkhpak81eGRkQ1pMSk9TOGF4b21SRk5JSWsxNUlyTnY4UQ": 1792643449657,
@@ -27325,99 +27319,28 @@
     "threads:DfWKhefnTx3": 1793852454136,
     "news:CBMi1AFBVV95cUxNTTQtMmFjZllSRWxvRGZjVlhaOThva25RRmZYQ0UzUU5mTWtuNWx2SFBwM1Q2XzBNckhnYmxkZEV5ZHhLR0dBMWdjaW5ra0ZoR2xiUGFoVzRFeWJSOV9BdVBiU3FpOTA1b2F1aXQ1UG9pcnZ5eUZON2NsTTFNcFZwcW5MdHF1endXbjJ5YWwyYW1IUGprbEVCNDRwR3l0TTJ6Wlo5WWZ4Z3hxeGhaV0VwZmpBWXhGaG10NkpqWGJ2Nks0MzVfRkZlTk9BQ3RoUHc4S3VQdNIB1AFBVV95cUxNTTQtMmFjZllSRWxvRGZjVlhaOThva25RRmZYQ0UzUU5mTWtuNWx2SFBwM1Q2XzBNckhnYmxkZEV5ZHhLR0dBMWdjaW5ra0ZoR2xiUGFoVzRFeWJSOV9BdVBiU3FpOTA1b2F1aXQ1UG9pcnZ5eUZON2NsTTFNcFZwcW5MdHF1endXbjJ5YWwyYW1IUGprbEVCNDRwR3l0TTJ6Wlo5WWZ4Z3hxeGhaV0VwZmpBWXhGaG10NkpqWGJ2Nks0MzVfRkZlTk9BQ3RoUHc4S3VQdA": 1793852454136,
     "news:CBMipAFBVV95cUxNdFpKOTNXN1VnbHBEU01LTUxwbmw5T1o1ZHVJTUhscWdlZE5IZS1pUTgySWFNWnlkVnNSX0lxcnJla2FGMmt6aVVSNmZubl9IMG9KOTRWLU1yb0JtYUJMVWZSZlNWS2lFOXREVW9Mc2lfSl9WbzU3NkNZU1JhejB0TnRFUWg0dFRkd0lHemtoeFozeEFvRl94LXMxRjJCQjJ2dWVKbA": 1793852454136,
-    "news:CBMi4wFBVV95cUxPQUhUemdSQ2hjcVZvTE9jdEo4SW1yRlk1QlJpblFWWjhoRk1Ra2pxZWFfTlhHaFlfQ3UzZ0xRc2lRTm5mcXFETERtd1lkdUxjMmlYZzZPdVo5c2tyRkNTeXZaWGNPYkFpbWZLSjJJcDltaGNHMTExMVZLeEswMzlLRmthTUFiOV9tVmlCM0l4ekVjdzFlVGZ2RUc3dXB3bFpYVEZ0eUs2cWJjV0c1V2p3cHdUWnZQbEplcUFNZXYtcjgwbUhCY2hrWENpc2pDTjJSMm9aamJLc3dxTTJ6Mk1mQWJUUdIB6AFBVV95cUxQblhwT3RuZEItaHM3UVdENVRDd1JHZThKZHQyaFNwdW01U3dFaVJhT0ptbUFMaFVCaGpoY1FncjFYcmJGWlVBVGtzaFBpaEUxOFd5QnBTVC04Yzc3akRJWXlLdDlmdk14N0FhMU5mVkR1VlhtejJqZ2hGczBPNHBud1V0Z3Bxa1ZnWmlreVdOY3l2eW5iS0d5MU00V1ZwT1RsemdvN3BmTE1vaHBOWnR1dlVBbXNiUlkwUnI0MEtXQkkzaV9KZXFOMGhiM2lULXdGTUkyVWUtVEVnWmJZcEl2aWJQSmY0dzBM": 1793852454136
+    "news:CBMi4wFBVV95cUxPQUhUemdSQ2hjcVZvTE9jdEo4SW1yRlk1QlJpblFWWjhoRk1Ra2pxZWFfTlhHaFlfQ3UzZ0xRc2lRTm5mcXFETERtd1lkdUxjMmlYZzZPdVo5c2tyRkNTeXZaWGNPYkFpbWZLSjJJcDltaGNHMTExMVZLeEswMzlLRmthTUFiOV9tVmlCM0l4ekVjdzFlVGZ2RUc3dXB3bFpYVEZ0eUs2cWJjV0c1V2p3cHdUWnZQbEplcUFNZXYtcjgwbUhCY2hrWENpc2pDTjJSMm9aamJLc3dxTTJ6Mk1mQWJUUdIB6AFBVV95cUxQblhwT3RuZEItaHM3UVdENVRDd1JHZThKZHQyaFNwdW01U3dFaVJhT0ptbUFMaFVCaGpoY1FncjFYcmJGWlVBVGtzaFBpaEUxOFd5QnBTVC04Yzc3akRJWXlLdDlmdk14N0FhMU5mVkR1VlhtejJqZ2hGczBPNHBud1V0Z3Bxa1ZnWmlreVdOY3l2eW5iS0d5MU00V1ZwT1RsemdvN3BmTE1vaHBOWnR1dlVBbXNiUlkwUnI0MEtXQkkzaV9KZXFOMGhiM2lULXdGTUkyVWUtVEVnWmJZcEl2aWJQSmY0dzBM": 1793852454136,
+    "threads:DfWKeoPkc0T": 1793852732892,
+    "threads:DfWKSMXkZhk": 1793852732892,
+    "threads:DfWKGqRDYbc": 1793852732892,
+    "threads:DfWJ_CLDaKs": 1793852732892,
+    "threads:DfWJ2PPjQCx": 1793852732892,
+    "threads:DfWJUYNjbGi": 1793852732892,
+    "threads:DfWIgQbEWn9": 1793852732892,
+    "threads:DfWITJ2k-HD": 1793852732892,
+    "threads:DfWJn9anySU": 1793852732892,
+    "threads:DfWKyNyn4r2": 1793852732892,
+    "threads:DfWJ-zGGToV": 1793852732892,
+    "threads:DfWK5gkGB4R": 1793852732892,
+    "threads:DfWK3JCmEYJ": 1793852732892,
+    "threads:DfWK1B_GJKk": 1793852732892,
+    "threads:DfWKjfpGMzh": 1793852732892,
+    "threads:DfWKfjDmEXu": 1793852732892,
+    "threads:DfWKYommAVQ": 1793852732892,
+    "threads:DfTAvzWAuze": 1793852732892,
+    "news:CBMiqAFBVV95cUxQeGh2S2RpM2NqUDN4NzJJRng5VmdzZWswQ1hGSFJseHBIQ0Rmc3JsWDc3SS1zZVFnLXZIZHhYSi1Tb2gtTFVZM0pZYjdRQ2ZqN1daTTZOMUJzclhsVlotOXRjV2N5NmN1Wld2SFV1YWNwM19EVlU1VlM2cUxPSHI0ODlDSmktVXoxVmd2V2dXX2lvNWlWRzdWTk52ZW5jelhJQ3VtQkxKVTU": 1793852732892
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@wahyu_ptatm",
-      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
-      "u": "https://www.threads.com/@wahyu_ptatm/post/DfV4txMmfsC",
-      "d": 1793843253000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@wahyu_ptatm",
-      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
-      "u": "https://www.threads.com/@wahyu_ptatm/post/DfV4piAGUy2",
-      "d": 1793843218000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kisahparentingku",
-      "x": "Cari followers 1000 itu mudah asal Niche nya udh sesuai, ini salah satu materi yg dipelajari di kelas SHINAI, Kakak ini SDH membuktikan nya ,ini testimoni nya , Yuk yg mau gabung d",
-      "u": "https://www.threads.com/@kisahparentingku/post/DfV7cCWk_Ng",
-      "d": 1793844681000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@megamanik18",
-      "x": "*🌟Program Bahasa Beasiswa Subsidi Intake Maret 2027🌟* 📍TONGREN, GUIZHOU Biaya Kuliah : 3.500元/thn Asrama : 1.200元/thn (kamar untuk 4 orang) Asuransi : 800元/thn Resident Permit :",
-      "u": "https://www.threads.com/@megamanik18/post/DfV8H0YI0au",
-      "d": 1793845039000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Media Pakuan",
-      "x": "Peluang Emas! PT PAMA dan SMA Unggulan Garuda Buka Lowongan Kerja: Kabar Gembira Program Bansos Cair - Media Pakuan",
-      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNmpGUGRCWGhNazlyZzFpZGtsZVVmVmZaX2pIZXd1TVVtQXlFZmpDLXVVVU8za0ktTWc2T1R0bVJZWTJOTWItOGxhNUNSbEJaT0JwZVBRR2R5d1lOdTVCR1ZqZnBIcS1JSXl5cEpSaHRCRUZWeWx5aF9ycDVVdWxWRXViRE5OdE1Jd3NzZ3Myb2UyWDlLTUVRVGZPLXpnNzBDUVIzOGJGZHF6Zk53eUJlZ3pLbUppa0dZUnJSWlhBTkhULWU0WjVLY211UHB5QzE5XzE5anBNSzRGZl9oQUN1RTVOR0l6WGZOekxSNnhqeU0?oc=5",
-      "d": 1793772780000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@suryaqua.id",
-      "x": "☀️ WEBINAR ENERGY TERBARUKAN: YUK IKUTI WEBINAR GRATIS DARI KAMI.... DENGAN TEMA MENUJU INDONESIA MANDIRI ENERGI... Daftar pada link berikut ya... 🔗 Daftar sekarang! https://bit.l",
-      "u": "https://www.threads.com/@suryaqua.id/post/DfV9gosk5pZ",
-      "d": 1793845767000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mylittlemotion",
-      "x": "Warga threads...... Besok Malam Aku mau ngadain Webinar GRATIS Membuat Animasi dg CANVA , 🎁 Bonus Akses Canvapro FREE 🎁 ada yg mau join? Syarat nya mudah cukup follow & Komen 👇\ud83c",
-      "u": "https://www.threads.com/@mylittlemotion/post/DfV9SuemHaA",
-      "d": 1793845653000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak bisa coba bisnis online yuk, kk belajar digital marketing dan bisnis online dulu. Nanti selanjutnya kk bisa jualan produk sendiri secara online, bisa dropship tanpa harus s",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfV9FcKD7V1",
-      "d": 1793845544000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@jellyfish_caregiver",
-      "x": "Loker TG kaigo di Prefektur Saga untuk kalian yang lulusan keperawatan dan kebidanan! GRATIS biaya job matching dan pelatihan bahasa Jepang setelah lulus wawancara. Yuk daftar seka",
-      "u": "https://www.threads.com/@jellyfish_caregiver/post/DfV9Qrto_GI",
-      "d": 1793845636000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28827,10 +28750,100 @@
       "d": 1793849234000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mhabibieofficial",
+      "x": "Mau tahu gak? Gimana cara membentuk anak yang bukan cuma pintar, tapi juga punya adab, akhlak, dan karakter kuat? Mau tahu gak? Cara mendidik anak dengan konsep pendidikan Nabawiya",
+      "u": "https://www.threads.com/@mhabibieofficial/post/DfWJn9anySU",
+      "d": 1793852118000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@makeup_byindy",
+      "x": "Aku butuh model untuk pelatihan siswa pangkas rambut di ARIYANTI BANDUNG (samping istana plaza) potongannya model layer, segi, oval, bob, UNTUK HARI SENIN TGL 9, mulai dari jam 10 ",
+      "u": "https://www.threads.com/@makeup_byindy/post/DfWKyNyn4r2",
+      "d": 1793852726000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bukanobatmu",
+      "x": "hii guru-guru izin share info yaa buat yang cara ngajar atau sekolahnya udah serba digital dan pakai AI, mending ikutan ajang Acer Smart School Awards 2026. pendaftarannya gratis d",
+      "u": "https://www.threads.com/@bukanobatmu/post/DfWJ-zGGToV",
+      "d": 1793852305000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfWK5gkGB4R",
+      "d": 1793852786000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfWK3JCmEYJ",
+      "d": 1793852767000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfWK1B_GJKk",
+      "d": 1793852750000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Dari pada berantem mending kita belajar Ai gratis saja Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing grati",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfWKjfpGMzh",
+      "d": 1793852606000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Sayang mas diriku ga bisa hadir karena diriku ada yg di benci dan kena banned Dari pada berantem mending kita belajar Ai gratis saja Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: A",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfWKfjDmEXu",
+      "d": 1793852574000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Dari pada berantem mending kita belajar Ai gratis saja Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing grati",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfWKYommAVQ",
+      "d": 1793852517000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
