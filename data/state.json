@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dda5WsZk2mc": 1792665956866,
-    "threads:Dex-HMmE1KD": 1792665956866,
-    "threads:Dex4wCbgJ2Q": 1792665956866,
-    "threads:DUuYWOCCRJJ": 1792665956866,
-    "news:CBMizwFBVV95cUxOV3ZicG54b2JjSE1MLUlUcUJicTUzVTF1dXZkUmx4ZUpQRC1UN2QwclpVUUJKSDNCWHd5N3RyeS1IRVpCOHpsSnFLdExoZ1dDbUdxU043M1laZlI0Njl3MUhyZFJOV05teXZlQkFmeWRhN0VSY0c4NTg2Z2JJa0hSV091cjVkeHZBbHZFeFdQemkzUlExNnByQkdBMEZ3MkY4WU9uc3BiWVFxeHZfUXlTTVlzaDVHbDM0ZUlFVVB6dFp6UWhIZlNITjZDMFIzQVHSAc8BQVVfeXFMTld2YnBueG9iY0hNTC1JVHFCYnE1M1UxdXV2ZFJseGVKUEQtVDdkMHJaVVFCSkgzQlh3eTd0cnktSEVaQjh6bEpxS3RMaGdXQ21HcVNONzNZWmZSNDY5dzFIcmRSTldObXl2ZUJBZnlkYTdFUmNHODU4NmdiSWtIUldPdXI1ZHh2QWx2RXhXUHppM1JRMTZwckJHQTBGdzJGOFlPbnNwYllRcXh2X1F5U01Zc2g1R2wzNGVJRVVQenRaelFoSGZTSE42QzBSM0FR": 1792665956866,
-    "news:CBMi4gFBVV95cUxOQ09mR3Q0SVVBSndGYzdraVZXMURxQXIxRkZQRm9RNm5GS09zN1V2VGZnTVNhQS1YNzFUTzlOUGVfanROQVlnYVBqbWNqdkp5S002aTdDbkpma2wwR1lCc05UY1MyNnpDQ1N5SmpYY3lDOEN5Z3BiLTF2VWlBWS1IVG53OEk1NTc5TTZKWTYzRHJ0SHp6V2t5bzBnX093QlNTdzJ1dWUwYjZEUzROVnFyV3ZxSUFpYjhHNS1LZ05la28zVHgwWGEzWUVVMkZyYmE1SEZYVzhnbkdmT3RsWmMzRGx3": 1792665956866,
-    "news:CBMixgFBVV95cUxOYmZPVjFCbkxQSDl5cjRGV0o3TnJYZUVCX3RScEE2alJGZDE3dGx6N0ZPZ3kza1doLVBQaFhwYVp1TlU1ZEZjV0NKZEVScTlYQW1BWl92THV0aDhFWENuQTFodFk2V2VsMGJPUHNWV3NXMU1LaV9wbXVVbW5UQ3dZNXl5M0laWHIxREtOT0JkN3hWT3VtSDZDZjc1Z3FUNEVRSFJsV3JyOTV3WEN3d0ZMVUlqMmtSelFYQURuQVRNU0hRa3pLT0HSAcYBQVVfeXFMTmJmT1YxQm5MUEg5eXI0RldKN05yWGVFQl90UnBBNmpSRmQxN3RsejdGT2d5M2tXaC1QUGhYcGFadU5VNWRGY1dDSmRFUnE5WEFtQVpfdkx1dGg4RVhDbkExaHRZNldlbDBiT1BzVldzVzFNS2lfcG11VW1uVEN3WTV5eTNJWlhyMURLTk9CZDd4Vk91bUg2Q2Y3NWdxVDRFUUhSbFdycjk1d1hDd3dGTFVJajJrUnpRWEFEbkFUTVNIUWt6S09B": 1792665956866,
-    "news:CBMi5wFBVV95cUxPSmVrcTBoN3dfc3hMT19lUlpoTkhqUl9lUkJENnN2dzZIVVBzVDZRWlBPZUViY1RRM0xmRW5CM09FZmEzbFVBU01lRFExZm5XQUtLT0dUZWlYS1BIZnJLNm9OT2JHSjNJNE9reklpSmFKMC1MbUQzZnZOSk1TOThRSWJXVnlwWk1PbEFmcHp6QWNhckVhdEtnNGc3Q2NyMUtTcUV6WEgtdjdGZlBKeFNtUXl1TjVJTVRYam1ybGJjTkNMRnNVdmpXTDBGOEwzS2wycnRqM1pLakx0bU9laG00b3BsTEhTWUk": 1792665956866,
-    "news:CBMi5gFBVV95cUxQVnJzZ1Y1SmRjMmpUN2Fnd0NWcU9GWjZRa1hCd0pBbHE4TUhTOWk0NlR4MXhMY19wblIxYURJNmlFLWEwcWxYd0V5ME9QTGlQREVvSjc5SmFBcGxuOF9NWUtiTFZvcnk2bGJhVDlOZ0I3NVZJMzVMNGhNN1RJWkluMzlCdzZVWWlIN0plRGpzYlBUZ0tFM0otNVFhNjJnRmlSbGphNXo3LUZZbTdPcGFtUEYyU2NxNGFHLU5yMkE1THJCWTVSOVdxYTB1Qk83Zml4Z1c4aU05SGFpcDN6cHdocTNDVFZSUdIB5gFBVV95cUxQVnJzZ1Y1SmRjMmpUN2Fnd0NWcU9GWjZRa1hCd0pBbHE4TUhTOWk0NlR4MXhMY19wblIxYURJNmlFLWEwcWxYd0V5ME9QTGlQREVvSjc5SmFBcGxuOF9NWUtiTFZvcnk2bGJhVDlOZ0I3NVZJMzVMNGhNN1RJWkluMzlCdzZVWWlIN0plRGpzYlBUZ0tFM0otNVFhNjJnRmlSbGphNXo3LUZZbTdPcGFtUEYyU2NxNGFHLU5yMkE1THJCWTVSOVdxYTB1Qk83Zml4Z1c4aU05SGFpcDN6cHdocTNDVFZSUQ": 1792665956866,
-    "news:CBMi-AFBVV95cUxOX1cxWUJUdWtyaXJzWGdTdG5UbHR0SVk0Si11YllQUmpwQkVXVDVSYURBcVVsS0ZuMEFQUVJXNVlDb1ROcTVWVER2ZVZCdXpaNWRONTJRRzRhanhHVGQtUmhYTE9xbWFOYWVmbzNzSWpoanJGVTNENGFPdFNxSmRKZldyLXVJMWt4eUx2SjlldVBLaWQ2M1QtbHdsU1JWNG8tcFdJS01ES0FiSlYtYmsxVDdPd1ZSVTNjZlFWOTZOX2pQVWFzejBpQXZIUkpVVUpVcV9Fc0hjNVJhMXdOSFgtaGIzU1lYcHVVRUd5YTM5RVBNWFRCRy1DTNIB-AFBVV95cUxOX1cxWUJUdWtyaXJzWGdTdG5UbHR0SVk0Si11YllQUmpwQkVXVDVSYURBcVVsS0ZuMEFQUVJXNVlDb1ROcTVWVER2ZVZCdXpaNWRONTJRRzRhanhHVGQtUmhYTE9xbWFOYWVmbzNzSWpoanJGVTNENGFPdFNxSmRKZldyLXVJMWt4eUx2SjlldVBLaWQ2M1QtbHdsU1JWNG8tcFdJS01ES0FiSlYtYmsxVDdPd1ZSVTNjZlFWOTZOX2pQVWFzejBpQXZIUkpVVUpVcV9Fc0hjNVJhMXdOSFgtaGIzU1lYcHVVRUd5YTM5RVBNWFRCRy1DTA": 1792665956866,
     "news:CBMiU0FVX3lxTE1yVktrSXFoc3Y1MWlXY21WZkJoSTFhNHRaNmxYbGxWZ1JKNXphR1Jpdkp5UlVsb19BX3pJWHRSd2Z0bFR1Y0Y5cU95TEpMZFJzNlNB": 1792666246964,
     "news:CBMijAFBVV95cUxNRldyS3ZjM0dGZU5Kd2lTVWNDckg5REtDeDFDUjJRaDA4YU1XcmZGQ0FVLUVIc1dwMTdOcFBwbG5wU0lCVjFGU1JmOFhrUVhvMjJpQVFGV2h2NG9zbzBBRFMxRWJUOENZdE9CbG1yZ1RXSklsY2lLaDRBZVhTQjk5RExCZnFsakVRYXRuaQ": 1792666246964,
     "news:CBMizAFBVV95cUxPcWRUZEdja3NxV3NaZV94MmV4SExTaHZIODRjOXRfMVZ5ckxjUXIwZUVybmo1dmwyOGJmMHJCd2FqQ2VRMHZrOV9qLXdtQ2RNckVMLWFRMnBPaDZhdVFIQktuOU1UeVR3b2RpQlU1SldRbHdyeTg3QnAzS2k3c1V6XzNOc19nSC05R1BTTVFjNUYwblY2SkRvRDZBYWVvSnBzTGFUX2FyTG95RGhBR0FjbDVCWFpHaTNhTnBLTHRPcjlZUTdsb2I4UUt1SnrSAdIBQVVfeXFMUHFDSzhOOE9fbm1Yb2RRdUtNMjROVm9mckVlSkppd0dsek1kNEpkcWpMTFpjZjZFbU54aE9paU0wUTI2TV9xMkM4Mmp4S3NUdm1zM0haRmN3U0hHWEZtdjlSa2hyNTZNZlMxam9qYWY4c3Y0czFZREFQZVB1aDZKeldCaVJBbGN1TmR3ZDJsQ2VtM19kajJmX0N3UUc3ZGc0N3ZVQ3BlRFFlcjZoWDNsZ3g3OG1abjVhcmFZWUE0dVgzUFRzZFl3VW9MSUJFTHdGc3hB": 1792666246964,
@@ -27604,79 +27594,18 @@
     "threads:DXOdIpuDuu0": 1793875251404,
     "threads:DZT0I6Tj9T5": 1793875251404,
     "threads:DfW16pbHEzt": 1793875251404,
-    "threads:DfW1gyNgfpB": 1793875251404
+    "threads:DfW1gyNgfpB": 1793875251404,
+    "threads:DfWGMfFkfXo": 1793875573151,
+    "threads:DfW2VDvGkGX": 1793875573151,
+    "threads:DfW2MxEkpCv": 1793875573151,
+    "threads:DfW2ZZ0Av6h": 1793875573151,
+    "threads:DfW2SjqH776": 1793875573151,
+    "threads:DfW1wCDj_K-": 1793875573151,
+    "threads:DfW2QZumdh9": 1793875573151,
+    "threads:Db7gQp1k8n3": 1793875573151,
+    "news:CBMi3AFBVV95cUxNaU95UzlPVlpSUDlZdU5mQlNyRzdpWG1nNzVzWE5HUDNJX01PaGV5eWhOaFhYc3RJOXlkMFlVTkNUZUpnN2FCaVBMNkJfczQ5M0hwY1lQZDdCbmJIOGJ5blRKVHpWOWd6dUJYQTdYbkZKUXpkelBPUkpkNE92QWM3Yl9oSXgxWDZLTXkwd0tUMDVRMnhuWS1oMXAwdGJaWVU5bHdibUREY0NoYzFvcGJfcWR2NTJERVF0YjJmV3ZjT21RS2hBdlFiT1NNdzlQWTVEbXRGRUlRX3ZCTHYz": 1793875573151
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfWe_C0GJJY",
-      "d": 1793863317000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@fauzangm",
-      "x": "Halo para Bimbel dan Guru Untuk Memajukan Pendidikan Indonesia dan Membantu UMKM pendidikan Indonesia Naik Kelas Saya buat aplikasi Learning Management System Gratis 100% Tersedia ",
-      "u": "https://www.threads.com/@fauzangm/post/DfWeO13oM_p",
-      "d": 1793862922000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Bengkulutoday",
-      "x": "Jaga Kesehatan Warga Binaan, Klinik Pratama Rutan Manna Rutin Gelar Pemeriksaan dan Layanan Pengobatan Gratis - Bengkulutoday",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDBRS0pYTmxQQnFQbXpaSlE4aFg2V1I5Mnl5ZG9Pc2hwanRDR1NfTFl4bGhTWHIzNEJzNjNPRXVoeVVWbTRyN1R1RUV6WEdvNkVYaTY0ZWltRkxwaUN6czU2NXRESW1jOF90WVdyM3VBMV90RG1UUTExTEY0Z2FYWmdQZkNCcFBqWXhuZVZFWjM1YU9aSlNZNlc0SlNqV25KNHNZdl8zNUpIaWtPakUxZlNzQkZybU41bDhCcw?oc=5",
-      "d": 1793863599000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@frieda_trie",
-      "x": "Petugas PkH kak....kan q nurunin desil lwt pembaruan data d cek bansos....trus besoknya q wa petugas PKH minta tolong data q dah masuk blom kak q pmbaruan data...trus d cek d bantu",
-      "u": "https://www.threads.com/@frieda_trie/post/DfWglwsiS86",
-      "d": 1793864159000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Metropolitan",
-      "x": "BLK Kota Tangerang Buka Pelatihan Content Creator Gratis Bersertifikat BNSP, Ini Syaratnya - Metropolitan - Metropolitan",
-      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQXpKVmtvTURILVVsX2MwVEJacklfOG1FRkt3c2JQZGl3Q2tDemY1WVA2ZWktNDFkaDg1VFhaZV9aa2laWThjeWYxY1RuWVZKQlJvZ2oyZlNLSG1BMlRrOGpxUDdYWThBbnlYaVRCWlBaNGxicEduQ1FmSTFBbldubldVcFB3Sy1EQXc2ODFtc01SRVhYWVdoaVRZNlBaNmd6dnBxSTN2cGJHS3lQMzFzX1pLeldUQWd1YThkdUVLLTFlVU9FUzhPZm94ZkNZZ2hMS3hHc1IwaGp3Yms5V1HSAd4BQVVfeXFMTUF6SlZrb01ESC1VbF9jMFRCWnJJXzhtRUZLd3NiUGRpd0NrQ3pmNVlQNmVpLTQxZGg4NVRYWmVfWmtpWlk4Y3lmMWNUbllWSkJSb2dqMmZTS0htQTJUazhqcVA3WFk4QW55WGlUQlpQWjRsYnBHbkNRZkkxQW5Xbm5XVXBQd0stREF3NjgxbXNNUkVYWFlXaGlUWTZQWjZnenZwcUkzdnBiR0t5UDMxc19aS3pXVEFndWE4ZHVFSy0xZVVPRVM4T2ZveGZDWWdoTEt4R3NSMGhqd2JrOVdR?oc=5",
-      "d": 1793861040000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dnaacademy.co.id",
-      "x": "Wah relate banget, banyak yang pengen mulai usaha tapi masih bingung mau jualan apa wkwk. Makanya, sebelum sibuk mikirin mau jualan apa, belajar bangun bisnisnya juga yuk! Aku mau ",
-      "u": "https://www.threads.com/@dnaacademy.co.id/post/DfWggwzmVyq",
-      "d": 1793864118000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@zona_belajarkita",
-      "x": "H-3 WEBINAR ONLINE PUBLIK SPEAKING FOR KIDS. GRATIS Yukk langsung aja gabung di grup pendampingan: https://chat.whatsapp.com/DHQ5rg6PqBtLQ0IgTZ42dX?s",
-      "u": "https://www.threads.com/@zona_belajarkita/post/DfWg5VinZBz",
-      "d": 1793864319000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29106,10 +29035,80 @@
       "d": 1793874060000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rara80451",
+      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@rara80451/post/DfW2VDvGkGX",
+      "d": 1793875556000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aiinuzbalqis",
+      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. Kriteria: usia 21-35 tahun bagi non , ex max 45th , sehat dan niat b",
+      "u": "https://www.threads.com/@aiinuzbalqis/post/DfW2MxEkpCv",
+      "d": 1793875488000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "100 rekrutan itu bukan target harian, tapi hasil dari funnel edukasi yang jalan konsisten - balik logikanya: 100 = traffic x konversi 5-10%. Cara paling bersih: 1. Edukasi dulu, re",
+      "u": "https://www.threads.com/@meta.ai/post/DfW2ZZ0Av6h",
+      "d": 1793875592000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@incezbarbie",
+      "x": "Halo kak @kiranaaisy22 izin ikutan !!! Kalau aku buat organisasi aku namakan *\"Ruang Jeda\"* *Bidang nya*Kesehatan mental & self-development buat anak muda *Tujuannya* Jadi tempat a",
+      "u": "https://www.threads.com/@incezbarbie/post/DfW2SjqH776",
+      "d": 1793875536000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kreatornaikkelaswithai",
+      "x": "Hayukk kak, saya ada kelas gratis kak. Diajarin pake AI dan bisa hasilin cuan lewat affiliate.",
+      "u": "https://www.threads.com/@kreatornaikkelaswithai/post/DfW1wCDj_K-",
+      "d": 1793875253000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@unas1949",
+      "x": "Yang sekarang dibuka namanya BTS kak. Beasiswa Tanpa Syarat. 50% + 10% best. Further information, ketuk dm minnas atau bisa klik link yg ada di Bio yaaa🫰🏻🫰🏻",
+      "u": "https://www.threads.com/@unas1949/post/DfW2QZumdh9",
+      "d": 1793875518000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Tiga Dapur MBG di Sidoarjo Belum Ajukan Sertifikat Higiene Sanitasi - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU95UzlPVlpSUDlZdU5mQlNyRzdpWG1nNzVzWE5HUDNJX01PaGV5eWhOaFhYc3RJOXlkMFlVTkNUZUpnN2FCaVBMNkJfczQ5M0hwY1lQZDdCbmJIOGJ5blRKVHpWOWd6dUJYQTdYbkZKUXpkelBPUkpkNE92QWM3Yl9oSXgxWDZLTXkwd0tUMDVRMnhuWS1oMXAwdGJaWVU5bHdibUREY0NoYzFvcGJfcWR2NTJERVF0YjJmV3ZjT21RS2hBdlFiT1NNdzlQWTVEbXRGRUlRX3ZCTHYz?oc=5",
+      "d": 1793871780000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
