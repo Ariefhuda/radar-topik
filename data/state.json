@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiU0FVX3lxTFBvNkdZWkhmRWdyS0RwSExGalNhSGRDTHZkVW42WUdGdXZLX2VYYzFCRndmQk9NOU9mVnBDZmxRbmtCeHBwQzZfdlpkRWQ4MlRQMnJr": 1792627261439,
-    "news:CBMihAFBVV95cUxQZDZYekxlMjFvU3F0N3BiVm5NQWxxa2k0bFFWRU5LbmNUZVpTSjBvNU5YZ0JBN0l1dFhMengyQkV1V3ZILXllbGFHOHdVZkczOWZ1ZW85WkotS0E4ZFRSR0stcW1ET2NRT3pnYXZxVERfVEZYWGZfSHpRdDFqUjJLbHY4Y1g": 1792627261439,
-    "news:CBMiywFBVV95cUxNem5QSEpVTWNBbk9rVDJjOU9qdUtHaWFlc1dacFBpQ3lQbFBSbWdVSGlyUjZZZ2xtdXpVRG93NmRzZFNxLTRvWnh1VjV3TDgwd1N0QmtESjA4akVILWR0c2lTQncwSU1EZmpPeEF4TDVFd2NwWFRfSWtrdzJnTlRXNTl6U19UYTgwYTRVVUx3bi1mazRHR3BJSGMzYmdJTFRWeS1NMmRTWkhRNDBGX3NFU2hocFJWc3ZJQVlsZnNnS09sNEpNZTFyS1dxZw": 1792627261439,
-    "news:CBMiqAFBVV95cUxOSTQ2TDN3MUhQTTZaUFhSV1YyRU1yWVUyMUpYeWtZM1d0eEM3dlJOQzBqRVF3eUx2V04yNlhNeEk3YVdrTnBaUVdyamlLWHJQUWl2NGdmaS1oRkJqcm1aTnYtamRVTmVWdWQybVNueGQxTkFhVmFxcTJKdElGYm9qMEZkaUhvdUlNMVJaZWNQRjZjZ3h1RHd4Mm1Wa09DcFhlcGRIZ0ZSMmTSAa4BQVVfeXFMTVdXcHRKS0JVU0hUNUJPZzJ2LTlDcUtzMnF4MElqRGJCUER5UG5TdmhBUXQ1T3VEeUg0Nkh6V3JnTXFFcWpKN3FsdlJrdkNpNDNvdnVvckRSb3ROSHhzLVltZjNOWk9HMDB2V1V2R3pXQkluTm5kT2tGLXFFN0xrYzRLV3RfcHZhQkk3RGRJQl9mZ2VHSHJoUzFGdV9WanlsODdnZW1hdjBGd29aVjFn": 1792627261439,
     "threads:DddSoK6IIOt": 1792627542304,
     "news:CBMirgFBVV95cUxNV1dwdEpLQlVTSFQ1Qk9nMnYtOUNxS3MycXgwSWpEYkJQRHlQblN2aEFRdDVPdUR5SDQ2SHpXcmdNcUVxako3cWx2Umt2Q2k0M292dW9yRFJvdE5IeHMtWW1mM05aT0cwMHZXVXZHeldCSW5ObmRPa0YtcUU3TGtjNEtXdF9wdmFCSTdEZElCX2ZnZUdIcmhTMUZ1X1ZqeWw4N2dlbWF2MEZ3b1pWMWfSAa4BQVVfeXFMTVdXcHRKS0JVU0hUNUJPZzJ2LTlDcUtzMnF4MElqRGJCUER5UG5TdmhBUXQ1T3VEeUg0Nkh6V3JnTXFFcWpKN3FsdlJrdkNpNDNvdnVvckRSb3ROSHhzLVltZjNOWk9HMDB2V1V2R3pXQkluTm5kT2tGLXFFN0xrYzRLV3RfcHZhQkk3RGRJQl9mZ2VHSHJoUzFGdV9WanlsODdnZW1hdjBGd29aVjFn": 1792627542304,
     "threads:DevqnTzARUd": 1792627842155,
@@ -27081,39 +27077,14 @@
     "threads:DfVrpEDgDqR": 1793836534587,
     "threads:DfVrOjeDkIP": 1793836534587,
     "threads:DfVrBZClYJ0": 1793836534587,
-    "news:CBMitwFBVV95cUxOeVJibHhvZHV4cEs1RlJUTzREeFRiLWZ2Vmx0dU13NDA0RnY4c2lLV1FvU3owMzhTdTl6YTJiR3FKWlN3Q3lPZTdGSklWVlN5bTZ4eTMyWjlqN2syU181X2RqajBkb0tZdHg1YU52NVpIVl9xaVRGWUhPQ2xDV3ZqakFaUFl4QTRtbU92c3VnT0puTUNSa05EUUFndV80VnZJWWpHWEFHUEF5S3dET0ZLbTVfVGtFMms": 1793836534587
+    "news:CBMitwFBVV95cUxOeVJibHhvZHV4cEs1RlJUTzREeFRiLWZ2Vmx0dU13NDA0RnY4c2lLV1FvU3owMzhTdTl6YTJiR3FKWlN3Q3lPZTdGSklWVlN5bTZ4eTMyWjlqN2syU181X2RqajBkb0tZdHg1YU52NVpIVl9xaVRGWUhPQ2xDV3ZqakFaUFl4QTRtbU92c3VnT0puTUNSa05EUUFndV80VnZJWWpHWEFHUEF5S3dET0ZLbTVfVGtFMms": 1793836534587,
+    "threads:DfVrfmKCTfU": 1793836845883,
+    "threads:DfVq3ifkl-y": 1793836845883,
+    "threads:DfVq_S0Epd_": 1793836845883,
+    "news:CBMi6gFBVV95cUxPVkdrZTNFNFVsd0VuUUJPeTZyaFRFMTA1WjRQZm5zUlhqejA3bktSdE90MWJDWUtxWVJabXYtaFowaHZiR1Q3WFdXamI4ZUJ4NkpxOC1GTXdPbFVWVzhTV0hpUFgtZlFRNWUtYjNQMUJQX0dicV9XeHJnV0tDWGtydFB2VXpVMl9oM2dpaU54Y2lnZWZJazVjcURRcWF3ZDRTWGpXRWpFSUI1QWFjUkt6eUhrLWY0ZUd4UFAzVTRUd082d3RwaWhsSFdpQnZaZWQzRGw0SFhpWXI3eVhaVFk3dzhabkZhOVVnTHfSAeoBQVVfeXFMT1ZHa2UzRTRVbHdFblFCT3k2cmhURTEwNVo0UGZuc1JYanowN25LUnRPdDFiQ1lLcVlSWm12LWhaMGh2YkdUN1hXV2piOGVCeDZKcTgtRk13T2xVVlc4U1dIaVBYLWZRUTVlLWIzUDFCUF9HYnFfV3hyZ1dLQ1hrcnRQdlV6VTJfaDNnaWlOeGNpZ2VmSWs1Y3FEUXFhd2Q0U1hqV0VqRUlCNUFhY1JLenlIay1mNGVHeFBQM1U0VHdPNnd0cGlobEhXaUJ2WmVkM0RsNEhYaVlyN3lYWlRZN3c4Wm5GYTlVZ0x3": 1793836845883,
+    "news:CBMiqwFBVV95cUxQR3pkRlNXcVFhTl9hNHMtcjU5NkRKblhWVlZHYmNjNTdwUlc4OVEtZ0hScjVFWkw1UjU4Y2lxTmVNR25FaUVGakhnOElHZkpjaTg5R0s1cVdMWHNEMVB4OGd4Nm5UZnBCak5BdGtJdXZ5TzJfUmlYVEtsNU12RDlrTWRkc1BSa08yMWZOUWRWM0tQN3NPWk5hNWJmaWNzMnRMamo1VGRFTWs2N1U": 1793836845883
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@icksan_nugraha",
-      "x": "Beta Test V1 dicoba guys bansos seadanya base url = https://ai.sandroid.my.id/v1 api key = sk-sandroid-c9568080871264ae180348ca2ba8323ed44f4d94 model ada deepseek dan qwen dulu unt",
-      "u": "https://www.threads.com/@icksan_nugraha/post/DfUgakrGQYw",
-      "d": 1793796958000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Pajak bea masuk / keluar dan cukai itu masuk kas negara jadi bagian dari APBN sebagai pendapatan negara. Terus APBN itu dipake buat biayain layanan publik: pendidikan, kesehatan, i",
-      "u": "https://www.threads.com/@meta.ai/post/DfUfNcOii6A",
-      "d": 1793796326000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ririnwahyuli94",
-      "x": "Cek ketoko yg Ade kartu PIP SMA🥰☺️ Benyak yg lah berisik🤑💸 #Bansos #PIP #SMA",
-      "u": "https://www.threads.com/@ririnwahyuli94/post/DfUdBkiHQyT",
-      "d": 1793795181000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28583,10 +28554,40 @@
       "d": 1793836358000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@primoes27",
+      "x": "Kak,biasanya ada pelatihan gratis di BLK , Kaka domisili dimnaa",
+      "u": "https://www.threads.com/@primoes27/post/DfVq_S0Epd_",
+      "d": 1793836056000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "KKS Merah Putih Mulai Terisi? Cek Status SIKS-NG Hari Ini, Bansos PKH BPNT Tahap 4 Cair ke Rekening - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVkdrZTNFNFVsd0VuUUJPeTZyaFRFMTA1WjRQZm5zUlhqejA3bktSdE90MWJDWUtxWVJabXYtaFowaHZiR1Q3WFdXamI4ZUJ4NkpxOC1GTXdPbFVWVzhTV0hpUFgtZlFRNWUtYjNQMUJQX0dicV9XeHJnV0tDWGtydFB2VXpVMl9oM2dpaU54Y2lnZWZJazVjcURRcWF3ZDRTWGpXRWpFSUI1QWFjUkt6eUhrLWY0ZUd4UFAzVTRUd082d3RwaWhsSFdpQnZaZWQzRGw0SFhpWXI3eVhaVFk3dzhabkZhOVVnTHfSAeoBQVVfeXFMT1ZHa2UzRTRVbHdFblFCT3k2cmhURTEwNVo0UGZuc1JYanowN25LUnRPdDFiQ1lLcVlSWm12LWhaMGh2YkdUN1hXV2piOGVCeDZKcTgtRk13T2xVVlc4U1dIaVBYLWZRUTVlLWIzUDFCUF9HYnFfV3hyZ1dLQ1hrcnRQdlV6VTJfaDNnaWlOeGNpZ2VmSWs1Y3FEUXFhd2Q0U1hqV0VqRUlCNUFhY1JLenlIay1mNGVHeFBQM1U0VHdPNnd0cGlobEhXaUJ2WmVkM0RsNEhYaVlyN3lYWlRZN3c4Wm5GYTlVZ0x3?oc=5",
+      "d": 1793831431000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Cek Bansos Kemensos BPNT Awal November 2026, Ini 7 Langkahnya - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3pkRlNXcVFhTl9hNHMtcjU5NkRKblhWVlZHYmNjNTdwUlc4OVEtZ0hScjVFWkw1UjU4Y2lxTmVNR25FaUVGakhnOElHZkpjaTg5R0s1cVdMWHNEMVB4OGd4Nm5UZnBCak5BdGtJdXZ5TzJfUmlYVEtsNU12RDlrTWRkc1BSa08yMWZOUWRWM0tQN3NPWk5hNWJmaWNzMnRMamo1VGRFTWs2N1U?oc=5",
+      "d": 1793836732000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
