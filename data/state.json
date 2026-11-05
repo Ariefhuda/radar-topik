@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeJQeKhkeBg": 1792700741980,
-    "threads:DegCXAeGV5s": 1792700741980,
-    "threads:DUkwQhVk0el": 1792700741980,
     "threads:DFEeN-zhXVD": 1792701052361,
     "threads:DezrwpCFaGr": 1792701052361,
     "threads:DexmPjgD_Gg": 1792701052361,
@@ -27761,7 +27758,13 @@
     "threads:DfXVnoCGq0R": 1793909743182,
     "threads:DfX2q32mLvD": 1793909743182,
     "threads:DeoaryHmfs-": 1793909743182,
-    "threads:DcD_f9iDkxX": 1793910045207
+    "threads:DcD_f9iDkxX": 1793910045207,
+    "threads:DfX4EYRk1BN": 1793910340919,
+    "threads:DfX4GdtHybD": 1793910340919,
+    "threads:DfX4DbHj3Z3": 1793910340919,
+    "threads:DfX35NHiSiw": 1793910340919,
+    "threads:DfX3uC6EjjX": 1793910340919,
+    "news:CBMidEFVX3lxTE1oeGU3dk9tYnpQM0FCUm5XNVAzbThyR3FaeE54bjRXTnFSd25wamhlNTB5ZlcxbzNjTDBXanNZX08yVjVkQjFfeUQ0c1pveTRkZ1Q4cVFndm53bkdNTjhBNFZjMjZWcUI0UkpST2k0WlZCRjZm": 1793910340919
   },
   "digest": [
     {
@@ -29243,10 +29246,20 @@
       "d": 1793908202000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "Kemendikti Buka Beasiswa S3 2026 bagi Dosen PTN dan PTS hingga 11 November - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oeGU3dk9tYnpQM0FCUm5XNVAzbThyR3FaeE54bjRXTnFSd25wamhlNTB5ZlcxbzNjTDBXanNZX08yVjVkQjFfeUQ0c1pveTRkZ1Q4cVFndm53bkdNTjhBNFZjMjZWcUI0UkpST2k0WlZCRjZm?oc=5",
+      "d": 1793885820000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
