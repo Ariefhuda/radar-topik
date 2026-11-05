@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdRHNQAlEbB": 1792640448338,
-    "threads:Ddu0xwpGfFE": 1792640448338,
-    "threads:DdM0HN-E-hi": 1792640448338,
-    "threads:DdP3qmqDxZL": 1792640448338,
-    "threads:DN0omY9Ul60": 1792640448338,
-    "threads:DT7RyiqFRsy": 1792640448338,
-    "threads:DXx3KK8E9Yt": 1792640448338,
-    "threads:DXktNOumP4f": 1792640448338,
-    "threads:Da1VLwzkjDt": 1792640448338,
-    "threads:DbshuzNmO1M": 1792640448338,
-    "threads:DVoN7F0EzsX": 1792640448338,
-    "news:CBMi4AFBVV95cUxNXzFROWgxNHFwRWI4WXVLYjhNZXFScFZvT0lCdThrMW9xREgzaVRJTm8wSWZIZG11MDZjQkZWQnBXdU1kclRPbnpGMVptY1pLZTZVNE12N09fVVdHTk9qSmxhZUN1MVRqaHBBRnVOZFJVWXNVdlVSUTVQR0hXVzlPa1VCRXlNVVYzUmNzWWRvZXc3YUFjZS1La2ZXTmVYN09FU216cnI0ZFFibk5CeEtIenNOMG43bXF0eUdReDhlV3RWQ2hsNUdzVnFYWVVOcGZZbzRTRFdkcS01ektPeExHNw": 1792640448338,
     "threads:DXjn9NtlMO9": 1792640738746,
     "threads:DcNhteKCZ9j": 1792640738746,
     "threads:DZvs4hUD_1R": 1792640738746,
@@ -27272,29 +27260,11 @@
     "threads:DfVnAGuEnmW": 1793849738576,
     "threads:DfWEVtbDub1": 1793849738576,
     "news:CBMizgFBVV95cUxQRXYxMXdudFVDWGNGeWppRWVTeWs5S2hoSUlrSi1kSjl6NzJYaE1aV21Td0F5TmFQN3ZrVElPUnJCRm1CaWtLa3U1WDUyODJ1MHVWRDZ2Qk4zSWpSSjRtTm16XzVXNFB5YTVvQTVPVERIV0RBLTVza05RZ0Q2WDBMbTlqTkQyUEtqVDN2V090bUExU1dXbENnNnBiU2JaLTdhTXhKYlliRFVveDdoUWttNnJ2SzZFbUF4TEJkUm9zQzJWQnJIN3RaczA2Z2NfUdIBzgFBVV95cUxQRXYxMXdudFVDWGNGeWppRWVTeWs5S2hoSUlrSi1kSjl6NzJYaE1aV21Td0F5TmFQN3ZrVElPUnJCRm1CaWtLa3U1WDUyODJ1MHVWRDZ2Qk4zSWpSSjRtTm16XzVXNFB5YTVvQTVPVERIV0RBLTVza05RZ0Q2WDBMbTlqTkQyUEtqVDN2V090bUExU1dXbENnNnBiU2JaLTdhTXhKYlliRFVveDdoUWttNnJ2SzZFbUF4TEJkUm9zQzJWQnJIN3RaczA2Z2NfUQ": 1793849738576,
-    "news:CBMixwFBVV95cUxOdmQyVjN4dDFWNC1fUUFzVDFGbmZZZ0pWdENELURzcHRfRGxxNlNac0Y4SjFDclBNdEZERVk4RnBOVEhlNG9ib05icUtCX3hnYV9qRHJuak5DT1FRV0RvR05xSEVsSDg2MGtjMFNzOHM5U0dCb3B3N3JDTmNILUI1Nk5KZnVsdnRtSmRDZmxHWkZjZzg4MGRpcnNkUzV3cG9XekxOS3ZLZ2NZWXRDWjZOb2dUVUo2bERXa2dEVnBJSTBxMVFNSTQw0gHMAUFVX3lxTE1YTmNiYkFDdkRIWE5NU1ptb1dnZW83M1BTVG8ycDd3Q0RnY2dfX1oyRF9RU0RjSVFMNTIzeVdacG80VnJkak05WWx3RkpRMkh2V2pKcHVIa2hOUVFldkhOb1g4ME5Lc0ZERHNLMDF2bE51QzByNURsa3FiclUzN01mWXlFbW9FNThnTGJPWHpXOFprSUNwTV9OZXFkS0d3UmFZQnVEc2JvOV9QczZzbHJmdTJtdFgwaG9INmtVZ3J1OUpzd21QZzh5NjdlRA": 1793849738576
+    "news:CBMixwFBVV95cUxOdmQyVjN4dDFWNC1fUUFzVDFGbmZZZ0pWdENELURzcHRfRGxxNlNac0Y4SjFDclBNdEZERVk4RnBOVEhlNG9ib05icUtCX3hnYV9qRHJuak5DT1FRV0RvR05xSEVsSDg2MGtjMFNzOHM5U0dCb3B3N3JDTmNILUI1Nk5KZnVsdnRtSmRDZmxHWkZjZzg4MGRpcnNkUzV3cG9XekxOS3ZLZ2NZWXRDWjZOb2dUVUo2bERXa2dEVnBJSTBxMVFNSTQw0gHMAUFVX3lxTE1YTmNiYkFDdkRIWE5NU1ptb1dnZW83M1BTVG8ycDd3Q0RnY2dfX1oyRF9RU0RjSVFMNTIzeVdacG80VnJkak05WWx3RkpRMkh2V2pKcHVIa2hOUVFldkhOb1g4ME5Lc0ZERHNLMDF2bE51QzByNURsa3FiclUzN01mWXlFbW9FNThnTGJPWHpXOFprSUNwTV9OZXFkS0d3UmFZQnVEc2JvOV9QczZzbHJmdTJtdFgwaG9INmtVZ3J1OUpzd21QZzh5NjdlRA": 1793849738576,
+    "news:CBMiggJBVV95cUxNUnJPdUhQYkgyTGI5SEE2RzdnVW5MWUJIOFhuRHJhR2NUY2NIZ1BTQjZ4c0ZlZm1CbnVXSkI3X2JGbzV1WE1HM3k0Y0F2MmI4M0xqZUd4ZUxjNDVWUnVydHl6TGpkODJSTGd1MFZmbUhSUWdJLTFWQ1BOX3lVcXFJc0RpVmV6bHZRRE1aMHZzUG5hVTRlN0VCc21LZTF5ZWpXR1BSU1NHNEhaSXdLVzRYZjc4WkhWdVF0QVJSUTMtY1FXM05Md2oteTRfTGZFSWRqanhCLWh2TVlvUGNGRVowbEJiYlphNmVNLTdmRXh4Zmlkei1QQUJNUmJpaXlGeE9pX1HSAYcCQVVfeXFMTVhxSFBlVDZCQXRHcTF5eldCLTE3bWlwVHpIUms0VmZmV2RneHFvNHpPdUQwZ0ZGX0VQcGpORTJBNEUxSkNjdHFhV0hNVGo5b2lDZy1ISjZ6NW54WDBabUluLTdtTk9qczdzRWNMNFV3LVpiLXFveU5VVHhEQjZYXzNuWGFZV0FHR003M3RQSVQtRnowYW1xUzNxZ3RQUVgxNEhtVFYwRmVrYkxRRzg5S3BaMFYzY296NDlxMDdtaE4xd0F0V2VodWR2OUdLUkYxUzk4X0NKajdnVzcyazQ0N0lqalBfRDY3c0hReThrNFNzMXZNVTlPNWFfTnVpNUV3MTFfdlZ4ZHM": 1793850057252,
+    "news:CBMiqAFBVV95cUxNcU5fQndCWmFkNU1YME1UQ0pIQi1ZdGlXT1h2VnNZaGdkWWRtNmctMFFHVGdGWWktd3RxSlRvdTJPX2h4ZEhLVG1yTzh6RnMzTnItTF8yeHZkcnBJQXFXV0RTUTk4Z0d2ZjR1YzhBcHFGdHNJSFY4eWtzcUp2anVoS0VwTWJBd0FqVENGQS1DcG85MWJHczYtYmlVMy1TaTJsWk43TnpBeWPSAa4BQVVfeXFMT1VNSTh4MjlXdVBKa2xRYTdYSFJpMHI1WUd2ODlWRl9iYUc5aElyWjNUVERIdjRfSmVWVVhWaFd4VnhJaThNTDc0ZmRJOTFXdEw0YTRxVDFqbWNCenJ6RDlLVVFkMnp4cTZfLUt3UmcwNDkyWkY5Z3BteHJHRGVHV1liQnBrNGM0cklIQm5WRlVIMHkyRFQwSlo5TS1SczB3SUtLLTZFa1hrZm04eUJR": 1793850057252
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfVz70bj-js",
-      "d": 1793840747000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfVz5V7j1PR",
-      "d": 1793840726000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28774,10 +28744,30 @@
       "d": 1793848677000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kabar Banten",
+      "x": "21 SPPG di Kota Cilegon Kantongi Sertifikat Halal, DPRD Minta Pengelola yang Belum Lengkap Ditindak Tegas - Kabar Banten",
+      "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUnJPdUhQYkgyTGI5SEE2RzdnVW5MWUJIOFhuRHJhR2NUY2NIZ1BTQjZ4c0ZlZm1CbnVXSkI3X2JGbzV1WE1HM3k0Y0F2MmI4M0xqZUd4ZUxjNDVWUnVydHl6TGpkODJSTGd1MFZmbUhSUWdJLTFWQ1BOX3lVcXFJc0RpVmV6bHZRRE1aMHZzUG5hVTRlN0VCc21LZTF5ZWpXR1BSU1NHNEhaSXdLVzRYZjc4WkhWdVF0QVJSUTMtY1FXM05Md2oteTRfTGZFSWRqanhCLWh2TVlvUGNGRVowbEJiYlphNmVNLTdmRXh4Zmlkei1QQUJNUmJpaXlGeE9pX1HSAYcCQVVfeXFMTVhxSFBlVDZCQXRHcTF5eldCLTE3bWlwVHpIUms0VmZmV2RneHFvNHpPdUQwZ0ZGX0VQcGpORTJBNEUxSkNjdHFhV0hNVGo5b2lDZy1ISjZ6NW54WDBabUluLTdtTk9qczdzRWNMNFV3LVpiLXFveU5VVHhEQjZYXzNuWGFZV0FHR003M3RQSVQtRnowYW1xUzNxZ3RQUVgxNEhtVFYwRmVrYkxRRzg5S3BaMFYzY296NDlxMDdtaE4xd0F0V2VodWR2OUdLUkYxUzk4X0NKajdnVzcyazQ0N0lqalBfRDY3c0hReThrNFNzMXZNVTlPNWFfTnVpNUV3MTFfdlZ4ZHM?oc=5",
+      "d": 1793849197000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tvOneNews",
+      "x": "Menemukan Bansos Salah Sasaran? Begini Cara Melaporkannya - tvOneNews",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcU5fQndCWmFkNU1YME1UQ0pIQi1ZdGlXT1h2VnNZaGdkWWRtNmctMFFHVGdGWWktd3RxSlRvdTJPX2h4ZEhLVG1yTzh6RnMzTnItTF8yeHZkcnBJQXFXV0RTUTk4Z0d2ZjR1YzhBcHFGdHNJSFY4eWtzcUp2anVoS0VwTWJBd0FqVENGQS1DcG85MWJHczYtYmlVMy1TaTJsWk43TnpBeWPSAa4BQVVfeXFMT1VNSTh4MjlXdVBKa2xRYTdYSFJpMHI1WUd2ODlWRl9iYUc5aElyWjNUVERIdjRfSmVWVVhWaFd4VnhJaThNTDc0ZmRJOTFXdEw0YTRxVDFqbWNCenJ6RDlLVVFkMnp4cTZfLUt3UmcwNDkyWkY5Z3BteHJHRGVHV1liQnBrNGM0cklIQm5WRlVIMHkyRFQwSlo5TS1SczB3SUtLLTZFa1hrZm04eUJR?oc=5",
+      "d": 1793849460000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
