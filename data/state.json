@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMizwFBVV95cUxPOWlLOXFZY3FjNVVBTXc2cVZEa0h2cURNcWFvcVRhYXI4WGctWERHMDdTZ0NOdDlyNDlpdmF5VUc0SzhpaTYwYWhCT1FUclJWNGI5ZjRidGN0UkljT0Nma3JIWjR4b19uZ0pKb1plZlFyZkV4dWxlUE9BZFJsOEdTZzZ6eHAxTTF0RjM5eWtxbnZtSHlmX1lDeXhBVTl3dUhsTzY1a2tEX3k1RVpPS214OWJkalZjcFlUb2k0Qy11QjFNb0Q1b21JaDZqcHZrdVU": 1792707945834,
     "threads:DeERkLKj7xq": 1792709082550,
     "threads:DbuUJIEEygM": 1792709082550,
     "threads:DerXP_YEyt5": 1792709082550,
@@ -27814,19 +27813,14 @@
     "threads:DfYDqv2GBen": 1793916641795,
     "threads:DfYDWE9Ggev": 1793916641795,
     "threads:DfXLvwPE1FQ": 1793916641795,
-    "news:CBMimgFBVV95cUxPeU00cjM3N0hrLWtSYTc4VEItVFlGLTFhSFVDa1lnYWhMRkZvdmN1ZUhWbkIydVFsRXlHazFHdzA3bVB2ZTBKMWhmZXhYcTFzZUVYM1J2UFcxaHBYejRvVUlpVEFhcXZTOTFNS09fQ3VtZ19pVTFkMS1sWVI3ZW5PRm5kQVBfTzdEUlVzRy01YWg5VDhhTGU5VDdB": 1793916641795
+    "news:CBMimgFBVV95cUxPeU00cjM3N0hrLWtSYTc4VEItVFlGLTFhSFVDa1lnYWhMRkZvdmN1ZUhWbkIydVFsRXlHazFHdzA3bVB2ZTBKMWhmZXhYcTFzZUVYM1J2UFcxaHBYejRvVUlpVEFhcXZTOTFNS09fQ3VtZ19pVTFkMS1sWVI3ZW5PRm5kQVBfTzdEUlVzRy01YWg5VDhhTGU5VDdB": 1793916641795,
+    "threads:DfYFlhfj91r": 1793917536552,
+    "threads:DfYFdjElL0a": 1793917536552,
+    "threads:DfYE8_hCMmZ": 1793917536552,
+    "threads:DfYGPB7Dt7L": 1793917536552,
+    "threads:DceuXI3E-x7": 1793917536552
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@amrubelajarmandarin",
-      "x": "Nihao warga cirebon, gw ada info pelatihan mandarin gratis nih, tapi slotnya ga banyak, syaratnya? follow aja cukup (7 slot aja ya ini) xie xie",
-      "u": "https://www.threads.com/@amrubelajarmandarin/post/DfXM2X5k8tG",
-      "d": 1793887364000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29316,10 +29310,20 @@
       "d": 1793886785000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@esfhaner",
+      "x": "Te invito a mi webinar Gratis Viernes 13 noviembre 21 hs Argentina Cómputos, avances de obras +IA Comenta webinar para más información ℹ️ #ARQUITECTURA #INGENIERÍA #CONSTRUCCION",
+      "u": "https://www.threads.com/@esfhaner/post/DfYGPB7Dt7L",
+      "d": 1793917453000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
