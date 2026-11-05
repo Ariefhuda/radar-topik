@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:C_FiuOhSqZp": 1792634755516,
-    "threads:DdHAu1KEthj": 1792634755516,
-    "threads:DdGb5PDnfv7": 1792634755516,
-    "threads:DVBCSoNkqXq": 1792634755516,
-    "threads:DdQfmKkiTDR": 1792634755516,
-    "threads:DW2tEDgGiIh": 1792634755516,
-    "threads:Db-JzqSI3uU": 1792634755516,
-    "threads:DdN9gRfkh1t": 1792634755516,
-    "threads:DcPz7sAkzYe": 1792634755516,
-    "threads:C9UKQc8RvU4": 1792634755516,
-    "threads:Dd3Zqq9gVt1": 1792634755516,
-    "threads:DSKDePpEc71": 1792634755516,
-    "news:CBMiuAFBVV95cUxPTlJUSHoyMC1CWGFjTnNfMnp5cG12ejNZVlNSSkNoa2NOX3BXd2JHNldueTJFUkdTSjZ3VjA4TW13eFlWTkVSOEJwcTVnc0x1djI5T2RTSVVmbkF6U3hfMWFjZkQzaU5zbkxfZkx1djNXbHAwYThzWDNmNlBJR2t0cnNRZExnUnFUMjdPbDlCUkdJTDU5bFNWN0Q3TlozcVNjb3FFN1dBX3RWZlo5OEtXclVrSXZCS0Y30gG-AUFVX3lxTFA5b0tZVnU2cFl5djc2bmVoWXFMaFNoWXZLMXp5OTlCNUdhN2UtLUtqVUp4RWlYcUN4aS03VktkdmQxTGdfWGMyTWZHRndTWDM5Z1BPVTRRV3doTUd5cENGOERnanp3X3B3S21wMncwOWJ4azB6OU1YLVlxUDdFb0UwdXo5dDVlYzdmejlXbnZkR2FHTlJQdzZMTTkyZWRzOGttSUI4UnhWNm9jaUFzcTI2M1d3NUd2UVpBc09hSFE": 1792634755516,
     "threads:DZMDZfqFJNE": 1792635043697,
     "threads:DdFryD8E0Da": 1792635043697,
     "threads:DbA3YP5AZWo": 1792635043697,
@@ -27206,7 +27193,20 @@
     "news:CBMi1wFBVV95cUxPRktqXzRjYmpVOWdUTzlWZ3RjTG9TMVBaeDhxNldma2pOVjBKVFNkZ0F6TXlYVGdxc1VvaWJaN1kxaEgxZUFMY0JrcWVpT0RsSFpzOWJERXIycXNqazI3cXF3VzB5OVI4ZERvLUZxZEtWeDhsdTZJaUdtd09XbDlDaXVtY29rUHVIVWh2N1FpeFdrdlpVTjVZSVNBMFMtUlJ4dncxQ1BBMmhtZFdJa1FxLTNYa3ZCeGp3NjR3anljeGV0OGRtZWptRndxWHN2U19yYnFlRXl2VQ": 1793843756362,
     "news:CBMi5gFBVV95cUxNVHZIV0c2Yko4S1NnMURLd0EzMkdlb21fRXVkeExmNWNuc25SOEVWRWFmVWF4V0luaDREZkdDakhPc0YzMEdWY0VOWVlqMjhQRHlNbWtIdE9MbDFwdzlzTmw5T2ZKaWRUalVKQXNQZDJSZGNKQXNaaDJPSkI1b2owNEpyUWRxSUw1TGhRQUtfd0ZUN3lFMTViYkJxTW9DbzRmcEJYN042bW9Id2tkS29CdElrd1Bab1pWWElNbTZnYWlJZXpnVG1feGx4VjhuQ3g4UGJ5TnlybFk2WnBnMjZoSHVUSXpVQdIB5gFBVV95cUxNVHZIV0c2Yko4S1NnMURLd0EzMkdlb21fRXVkeExmNWNuc25SOEVWRWFmVWF4V0luaDREZkdDakhPc0YzMEdWY0VOWVlqMjhQRHlNbWtIdE9MbDFwdzlzTmw5T2ZKaWRUalVKQXNQZDJSZGNKQXNaaDJPSkI1b2owNEpyUWRxSUw1TGhRQUtfd0ZUN3lFMTViYkJxTW9DbzRmcEJYN042bW9Id2tkS29CdElrd1Bab1pWWElNbTZnYWlJZXpnVG1feGx4VjhuQ3g4UGJ5TnlybFk2WnBnMjZoSHVUSXpVQQ": 1793844052264,
     "news:CBMiU0FVX3lxTE9TZmlHbFRvN0VvaFJMSjJjSlBWM2ZzejZmampscmROZjc5WFVHajJ3RTNKaXh0LU9fMWp6dWxWVXN2LVE1Yk1KZ0tUR2RSeXBTQ0NB": 1793844052264,
-    "news:CBMiXkFVX3lxTFBBOUNRWEpHcmNPdV9wWjhrMlVJNGcybDYyNkZsTE9YVk1ZZlN5RnkwLXN3LXFwamw0LWlqZlZua3ZKb3lUbXhYVDBybTJtMzAwVHNIcGE5YUtxWmRJaWc": 1793844052264
+    "news:CBMiXkFVX3lxTFBBOUNRWEpHcmNPdV9wWjhrMlVJNGcybDYyNkZsTE9YVk1ZZlN5RnkwLXN3LXFwamw0LWlqZlZua3ZKb3lUbXhYVDBybTJtMzAwVHNIcGE5YUtxWmRJaWc": 1793844052264,
+    "threads:DfV6vJzGoi2": 1793844335827,
+    "threads:DfV6uAnCiEM": 1793844335827,
+    "threads:DfV6nzQj9Yy": 1793844335827,
+    "threads:DfV6otUj3-p": 1793844335827,
+    "threads:DfV6k0rj6fQ": 1793844335827,
+    "threads:DfV6hmBj-l7": 1793844335827,
+    "threads:DfV6aaciMDZ": 1793844335827,
+    "threads:DfV6QbRkiO-": 1793844335827,
+    "threads:DfV6CKxHe5f": 1793844335827,
+    "threads:DfV5aFHj8y1": 1793844335827,
+    "threads:DJyjxupzHyp": 1793844335827,
+    "threads:DfV6hARD4UD": 1793844335827,
+    "threads:DfV0SFlmOzk": 1793844335827
   },
   "digest": [
     {
@@ -27888,10 +27888,30 @@
       "d": 1793843912000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@algonova_indonesia",
+      "x": "Belajar dengan metode Cambridge tanpa harus ke luar negeri? Di Algonova, bisa banget! Kami kasih kelas gratis — klaim sekarang lewat link di bio. Si Kecil bisa mencoba bidang yang ",
+      "u": "https://www.threads.com/@algonova_indonesia/post/DfV6hARD4UD",
+      "d": 1793844197000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmmm08",
+      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
+      "u": "https://www.threads.com/@rohimmmm08/post/DfV0SFlmOzk",
+      "d": 1793840929000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
