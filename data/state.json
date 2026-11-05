@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeQBhiuk8v7": 1792629946037,
-    "threads:DYonIC9EwUa": 1792629946037,
     "news:CBMinwFBVV95cUxNbG5TaklNRk9qNVhuRzNvRDMxS0haOHp0TkF2WlJVSXhlX3FwTkQ3R1NRT3A0b1JFN3hjdGI0ZHJzeGdLc05OVVBjeVpvYkNJM1FPaC1Tb3pEakE3SkdTLVlXcWtGRGY4UlI1YTJIQVh3LWpxV3VVNWFMTXpmSkhNemVQWnB1NVJraXdtNWJyaHZob3lxRkhCSTVVREZONk0": 1792630239951,
     "news:CBMiswFBVV95cUxNM05SeGtRdGJmb3hlMVpGQUFnazRHY0hMdlNNakRfQ0ZrQlVvaEhIenpGQ2hXakhGcHR2N2ljMHY5blQzTUI5MkhMS1B1dG1uME9zQlctaE9WNjhrOTZuU2V2OUdOaWZTSmF2eUk4eFpiSkkxWFdteWFUSk01dkxhbzNSc0RNRzl6YjBOc0NybkpTVTNUbTBoSkFyVm5VTW1PV0RTcExkZUhyUE1WNnBQd01jVdIBuAFBVV95cUxOMENUNVo5cTFycFBFV3JPaFNlUUFoWjdGbHNUdDQtYWx1UkQ3M2VtM1Jrb2o3ZTNWUXVBbC1LX3hJSnFkN21tVHlSRmtWQ0xUTHVIQzVaWXYwd3JuZG9OQ3NHR2xodWQ2Mks1N3R5M2FCMlhiLXE3TFEtVzQ2UlJZdlotNk5ZTXFNUjd6UUM2ZUdqSDRxR3VhNVJqWElmaFBNTS1qUEliRmR5YmtuNndCWWU3TU1UaWdz": 1792630239951,
     "threads:DdEGoRmDwID": 1792630532445,
@@ -27116,49 +27114,13 @@
     "threads:DfLcRKogTey": 1793839238164,
     "threads:DfVw1pHGXRS": 1793839238164,
     "news:CBMimgFBVV95cUxNR0xiZktnNm1vaWNITGdWTTg3bkV1TEtzNHRvNGpkam4wSklSR3NxTmx3U1dURDRNdnN2OXRZZlJPQktwWWFlU1pGV21SSlVJZ3VBM1BjV2FKaUNSbTNaekcyYUxhSDhSUm5QRG9MR2xlQ3Z3czU5NkNaeVk0X3NaTXdibGJVOUkwX09OeVMyUGdiWlF2NlBmanNR": 1793839238164,
-    "news:CBMitAFBVV95cUxPM1BkUDVJQ29RdXRYRm12a0ZfeTlMSW9EVHVSMmQtWG42Um1oY1NXd3J6RkQ1R0ljYnF6SnJtZXdRMWM2VGJxNE1ZTm1WbXg0bHRBVjh5MnZ2X1VodFUzN2dNOHdaWHV3ZkttQlBhMGM3U3V4VFdGSHRJWlRwX0NhN0UtSVFFbU1VZHJPVHI1UEN2QTduMDVlaHMtdkgzejBPUjB3YjJWVUNOSXlNbXhRNE5QTnc": 1793839238164
+    "news:CBMitAFBVV95cUxPM1BkUDVJQ29RdXRYRm12a0ZfeTlMSW9EVHVSMmQtWG42Um1oY1NXd3J6RkQ1R0ljYnF6SnJtZXdRMWM2VGJxNE1ZTm1WbXg0bHRBVjh5MnZ2X1VodFUzN2dNOHdaWHV3ZkttQlBhMGM3U3V4VFdGSHRJWlRwX0NhN0UtSVFFbU1VZHJPVHI1UEN2QTduMDVlaHMtdkgzejBPUjB3YjJWVUNOSXlNbXhRNE5QTnc": 1793839238164,
+    "threads:DfVxYizHwMD": 1793839539546,
+    "news:CBMioAFBVV95cUxPMW9JZFRmMEJLQVZJcUhNU2RzSkEzcXVqLV84X3BLM2Zrb2ptUFRpOFZsQlhhMEZRTmdHOEl4ZHp2Q1FvUEdFRU4zcnRTT2RwTWZJb0M2SGZFRkpxTmpmOHJiZWk0enRtMjRCc1RkSXpjQWlEWno5MWtlRDlFWTJPR01kSVgtSk9xSWJpei1za056MWRnUFdKRWZVbHU3MWdm": 1793839539546,
+    "news:CBMixAFBVV95cUxNamdIWkIwRGZuaTc4V1pTT2RCMEJsTzhPLTJGZGxmWU9iTVhqS2VIdjBUTS1IcUR2TGZOTTVLSjltbENma08zTm1BQWdOcTJ1Q01zZnc5T0k3Qk1nRk1sWV9nRHBhX0Z1b2FBMl85Z00zRUxBaVJEWTZ2VWF1R2ZKNnBtTU95czFKN3ZOelN1MkdLX0hncEJKU0M2OFhPcHBKaS1LZzdhMGk4cDBzd0doblJHTDBhenMwODN4NlQyZWpNRUJy": 1793839539546,
+    "news:CBMiuwFBVV95cUxQSlhxaFlVeEladjF5X1BwbGlQMTNVdmxQX0RrdlNQR3IzZng1aFNwNDctZ0lRdFAtWl9UZUdDc3IybE1XUElCYUJfcU5pbXJycThOMXdaalU4cmozMHJVZWRpcEFwZVRfTWhzTTJnMUtkQk4zT1lOdW03N094X2VDX3pJZUZhTWE4VWE3RGtYTVNqUFFuTkk3ZGt1MldENVI1dGFVRjhaWG9iSTlnRUdkblFiZGdSeGtwTmZj": 1793839539546
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@_danielarisetiawan",
-      "x": "Halo warga threads, kenalin aku Daniel praktisi pengajar anak-anak & pengembangan diri umum dan juga sedang bantu membangun komunitas untuk bertumbuh dan keluar dari hidup yang “st",
-      "u": "https://www.threads.com/@_danielarisetiawan/post/DfUlq9NkxW7",
-      "d": 1793799714000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Hi Girls😍 ayokk daftar program pelatihan karir + mentoring gratis ini dari Perempuan Inovasi GENerasi AI x IBM SkillsBuild! Di sini kamu bakal belajar skill digital & AI, dibimbin",
-      "u": "https://www.threads.com/@faarida463/post/DfVCNYIn-l4",
-      "d": 1793814676000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Hi Girls😍 ayokk daftar program pelatihan karir + mentoring gratis ini dari Perempuan Inovasi GENerasi AI x IBM SkillsBuild! Di sini kamu bakal belajar skill digital & AI, dibimbin",
-      "u": "https://www.threads.com/@faarida463/post/DfVCK-Sn1zp",
-      "d": 1793814656000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Hi Girls😍 ayokk daftar program pelatihan karir + mentoring gratis ini dari Perempuan Inovasi GENerasi AI x IBM SkillsBuild! Di sini kamu bakal belajar skill digital & AI, dibimbin",
-      "u": "https://www.threads.com/@faarida463/post/DfVB6OgHx2-",
-      "d": 1793814519000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28618,10 +28580,50 @@
       "d": 1793839089000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@socsad3",
+      "x": "PENERIMAAN BANTUAN SOSIAL (BANSOS) AGUSTUS 2026 Pemerintah melalui Kementerian Sosial kembali menyalurkan bantuan sosial kepada masyarakat yang memenuhi persyaratan sesuai data res",
+      "u": "https://www.threads.com/@socsad3/post/DfVxYizHwMD",
+      "d": 1793839409000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "MAN 3 Kerinci",
+      "x": "Guru MAN 3 Kerinci Ikuti Pelatihan Nasional Jago Canva - MAN 3 Kerinci",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW9JZFRmMEJLQVZJcUhNU2RzSkEzcXVqLV84X3BLM2Zrb2ptUFRpOFZsQlhhMEZRTmdHOEl4ZHp2Q1FvUEdFRU4zcnRTT2RwTWZJb0M2SGZFRkpxTmpmOHJiZWk0enRtMjRCc1RkSXpjQWlEWno5MWtlRDlFWTJPR01kSVgtSk9xSWJpei1za056MWRnUFdKRWZVbHU3MWdm?oc=5",
+      "d": 1793825357000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Habar Kalimantan",
+      "x": "Wabup Kapuas Ikuti Rakor Pengendalian Inflasi 2026, Bahas Program Sertifikat Tanah Gratis bagi MBR - Habar Kalimantan",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamdIWkIwRGZuaTc4V1pTT2RCMEJsTzhPLTJGZGxmWU9iTVhqS2VIdjBUTS1IcUR2TGZOTTVLSjltbENma08zTm1BQWdOcTJ1Q01zZnc5T0k3Qk1nRk1sWV9nRHBhX0Z1b2FBMl85Z00zRUxBaVJEWTZ2VWF1R2ZKNnBtTU95czFKN3ZOelN1MkdLX0hncEJKU0M2OFhPcHBKaS1LZzdhMGk4cDBzd0doblJHTDBhenMwODN4NlQyZWpNRUJy?oc=5",
+      "d": 1793777451000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Seru.co.id",
+      "x": "Jamin Keamanan MBG, Dinkes Sidoarjo Dampingi Dapur SPPG Kebut Sertifikat Laik Higiene Sanitasi - Seru.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSlhxaFlVeEladjF5X1BwbGlQMTNVdmxQX0RrdlNQR3IzZng1aFNwNDctZ0lRdFAtWl9UZUdDc3IybE1XUElCYUJfcU5pbXJycThOMXdaalU4cmozMHJVZWRpcEFwZVRfTWhzTTJnMUtkQk4zT1lOdW03N094X2VDX3pJZUZhTWE4VWE3RGtYTVNqUFFuTkk3ZGt1MldENVI1dGFVRjhaWG9iSTlnRUdkblFiZGdSeGtwTmZj?oc=5",
+      "d": 1793834363000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-03-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
