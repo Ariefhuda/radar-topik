@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiwgFBVV95cUxNR3lVSElJaUh1bjEtdS1hMTE1amJ4Rm40NmNtcnBuYjFhYkRJbm12dmQ0dUJyMzZuOTFMUEZXMjQ2S0pPM1BqVnBaYklJQlluaWlRdFJWQS1XUHBrN3V3bnlWVklwXzhHdEcxcXBxbGN3aWpUZXZRRE9MWnJQNVNpQ2pucjI3QXJWWGR0RVNtNm52YlEyWWlSRFNJUEZHZ3V6VUtES0pLdGZGckUwQmFXR0xJcHhMNlZSYmY0WXU5Q1BBUQ": 1792650938346,
     "threads:DeyTMAQARQ3": 1792651246803,
     "news:CBMivAFBVV95cUxObDZMY21lZ1JPcUV1bVhueTd0UU9UUzR5Wm5rYXpPdjVTZnJnd3NmWEhYd3RIRWdBUEJ3aWNsbjNPQ3diaFZ2M2ZYdGhZU09XTGJTckdJMkZVaUwxeDBtY0k5QTAwRm1pak4tLWQ5Z3pheTZxdUwzQTdRTVQ4cnczUGU4RTFQT2VHLUhLWWF3S1F0cl9mZi1DUUlLQ0dyQlJiQWMwNF9raTVyWWJhQ3drVU9JRFdVSUtuV2JIUA": 1792651246803,
     "news:CBMisAFBVV95cUxPSjg4RU1nTnRJdEV0cy1MNFphbTNJY0RObWw5YUh5QUFQa0lIVUNqdnFrRy11MlJyU2g2MjFMdFhXTFJxQlkxUjQzbEZOc09hQmQ0WlI1RzVRYldqRmJmd3REUHNhNDVjblFvdDV6a1pmdXhQRi1NZFA5XzQwLVhfMk5FRFE0MGNKX3hpS2RSamwyQjNZb2RQQmZ5ZzZhVzdzanZPOE5XYVVsTlVDU3ZuTw": 1792651246803,
@@ -27455,29 +27454,11 @@
     "threads:DfWYFJXmGso": 1793860248333,
     "threads:DfWYBzlmAdF": 1793860248333,
     "threads:DfWX_qSmM9K": 1793860248333,
-    "threads:DcPz7sAkzYe": 1793860248333
+    "threads:DcPz7sAkzYe": 1793860248333,
+    "threads:DfWYmAhEipC": 1793860535516,
+    "news:CBMia0FVX3lxTE5YaTIydUplRmgyMW9HSldab3V5RThZOTUtU1VvMXN2UXEtdlVlbVd0SU5OaVJWTzE2NmE3OUdtd2tLTlcyaXpFZ2VFRXYxSHhCRXgtOEh0RGxyUUxXZGZwS3VLa0Q5cmxVLTNR": 1793860535516
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Galamedia News",
-      "x": "Cek NIK KTP Anda Masuk Desil Berapa? Ini Daftar Bantuan yang Bisa Didapat - Galamedia News",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNREN2RVZrQmhtcXdNR3B0ZXluVU1oU0tGb2FxMW1NVlBucGhaMHlUMVhfcklKZDRJSDBORUZqQXo0Q0lGcF96cHJONnRVSkd5d2JKQVFzTjVKN3NmaDV2dGtzYnJEOFpnRXg2SDh0NDFaLUtJMVhseUo1cGZMc250bmJILXhwWUxYQzFUb3YwYzVyeGQ1SWFfaTZ2c3ZQVHhEOVc1OGszeDA2a25fT3hkYUFzNktzUFMzS3dybmpHNHhXQWl2dGZV?oc=5",
-      "d": 1793850403000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "NTVNews.id",
-      "x": "Pengadilan Brasil Perintahkan Meta Hentikan Pelatihan AI dengan Konten Media Lokal - NTVNews.id",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR0FnZktjVjBYT3RaNzhGTktoS3lPc2ZVdHhONXVjSmF5RndsTjFsY3NfQzUzNFNzaC0yOGtsd3NNZndCdzBUd2xtdU1xdzFWR01xVkpoRUl1TlRCLWpUQ2ZaM2VwLWRjbDVIbHlHbXZFMWRKWGdtRXhBOTkxc1l6aVpqcm8zR3g0MHZrbjluTVRXWkJfa09NaEQ2QWhURTktWTJ3TGt4enBDT3V3U2NhZ0VWMVZsYXc4ZmczbE82cw?oc=5",
-      "d": 1793850720000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28957,10 +28938,30 @@
       "d": 1793859652000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@tribun_jatim",
+      "x": "Penyaluran bantuan sosial (bansos) pemerintah masih menjadi perhatian masyarakat memasuki November 2026. Dua bantuan yang banyak dinantikan keluarga penerima manfaat (KPM) yakni Pr",
+      "u": "https://www.threads.com/@tribun_jatim/post/DfWYmAhEipC",
+      "d": 1793859967000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Kemdiktisaintek Buka Beasiswa Penyelesaian Studi Doktor - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YaTIydUplRmgyMW9HSldab3V5RThZOTUtU1VvMXN2UXEtdlVlbVd0SU5OaVJWTzE2NmE3OUdtd2tLTlcyaXpFZ2VFRXYxSHhCRXgtOEh0RGxyUUxXZGZwS3VLa0Q5cmxVLTNR?oc=5",
+      "d": 1793855366000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
