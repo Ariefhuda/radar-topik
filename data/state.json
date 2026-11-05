@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeywKFigVbY": 1792701648128,
-    "threads:DVx_DrmEzhO": 1792701648128,
-    "threads:DZ-30sViY1O": 1792701648128,
     "threads:DJvts8sy1GV": 1792701973970,
     "threads:DNf2QuuB6kl": 1792701973970,
     "threads:DSrHACgExt0": 1792701973970,
@@ -27759,7 +27756,17 @@
     "threads:DfX3uC6EjjX": 1793910340919,
     "news:CBMidEFVX3lxTE1oeGU3dk9tYnpQM0FCUm5XNVAzbThyR3FaeE54bjRXTnFSd25wamhlNTB5ZlcxbzNjTDBXanNZX08yVjVkQjFfeUQ0c1pveTRkZ1Q4cVFndm53bkdNTjhBNFZjMjZWcUI0UkpST2k0WlZCRjZm": 1793910340919,
     "threads:Def1kq3ln3G": 1793910643755,
-    "news:CBMi1AFBVV95cUxNdUJuU2EwT3JPdDliVEZ4by1yUzZVS0tWRVV0QXdCRGdMb3dpaGhJVTZXQlJIdGNtM2s2OGR1cGVMcjlldl9xNzdSUGpxZDR1Wlp3MWZtbGRmMUNkbmQ3eUlTV3NoenBtM2ZmMUFFU0R5MktUYVRLYTF0ZWdJblRwanBPZ0hxelFoamU3S2pPUTlVYUJSVHB3R3dWWlNnRW52Z0JFOF9jTDk0ZHFsYU9YVHQ2d1NTRUx6SVJkbXBOS29TWDZxQXpya2RLN0ZzaGItb1Y2cw": 1793910937511
+    "news:CBMi1AFBVV95cUxNdUJuU2EwT3JPdDliVEZ4by1yUzZVS0tWRVV0QXdCRGdMb3dpaGhJVTZXQlJIdGNtM2s2OGR1cGVMcjlldl9xNzdSUGpxZDR1Wlp3MWZtbGRmMUNkbmQ3eUlTV3NoenBtM2ZmMUFFU0R5MktUYVRLYTF0ZWdJblRwanBPZ0hxelFoamU3S2pPUTlVYUJSVHB3R3dWWlNnRW52Z0JFOF9jTDk0ZHFsYU9YVHQ2d1NTRUx6SVJkbXBOS29TWDZxQXpya2RLN0ZzaGItb1Y2cw": 1793910937511,
+    "threads:DfX6BOQk7ZH": 1793911242828,
+    "threads:DfX6R6clQrr": 1793911242828,
+    "threads:DfX6NTmG08p": 1793911242828,
+    "threads:DfX5yk2H3MG": 1793911242828,
+    "threads:DfX6SabEsMw": 1793911242828,
+    "threads:DfX5uTJEkoF": 1793911242828,
+    "threads:DfX5omLj-Ww": 1793911242828,
+    "threads:DfX5cuXkp1N": 1793911242828,
+    "threads:DfX5OEUmV9Y": 1793911242828,
+    "threads:DfX5wwvjvIS": 1793911242828
   },
   "digest": [
     {
@@ -29251,10 +29258,20 @@
       "d": 1793885820000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@esfhaner",
+      "x": "Te invito a mi webinar Gratis Viernes 13 noviembre 21 hs Argentina Cómputos, avances de obras +IA Comenta webinar para más información ℹ️ #ARQUITECTURA #INGENIERÍA #CONSTRUCCION",
+      "u": "https://www.threads.com/@esfhaner/post/DfX5wwvjvIS",
+      "d": 1793910913000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
