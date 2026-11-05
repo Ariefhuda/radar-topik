@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeyLeXmj-Q8": 1792658756307,
-    "threads:DeyA7q4kkga": 1792658756307,
-    "threads:DcxWolQHdpR": 1792658756307,
-    "threads:Dex2OBSmfWu": 1792658756307,
-    "threads:Dex1NRCmcZp": 1792658756307,
-    "threads:Dex0c4tEk96": 1792658756307,
-    "threads:Dexklh-khLP": 1792658756307,
-    "news:CBMigwFBVV95cUxORWRra2JvZHJsQVZVSjlybXFQNWs5aEZONkViMkxORnVTa1lTanhZM1gzWWx6MEx5RXFIbEdOQmx4SUZQRDAwTUNhaThpbUdOeVlHaGZmbkxpWVl3VF9CUEJSS2VKU29zSnpxOHJGWmhxeHVYY0RsR19wLWI2TGJ0YXVnZw": 1792658756307,
     "threads:Dexr9fjE0xD": 1792659386392,
     "threads:DexoSeqkhOg": 1792659386392,
     "threads:DexfCdGE4uA": 1792659386392,
@@ -27542,79 +27534,31 @@
     "news:CBMitgFBVV95cUxOTnU0UWdHVVVlMVFSNi1LWFNJcEpkdE1GXzM1ZHVSOWJxRVctektoS2EwSWVEOG5mWmNBN29zMlgtLTI3SGJxZTBxdEtlVWo5ZnBSMlhQX0swYzVRWjVNR3ZOVU9TcllwQzRKR3VuRFl2eTRnWm1ETWlJMnBiTG90UVVSOGx4NlZqWWhpU2RMdEJWVlFJQmM3Qy00RWwxOHBXS2tqY1BKMkQ0QTNocnU5OVU4emNuQQ": 1793868038389,
     "news:CBMiswFBVV95cUxQenh1VHJudWthZlp4X3hEek9JSjJsenpyRjdvUjItS3BIeTBncmM0NmdfQUFrX2xaZlQzR2FYOWoxVkhtRzRkcU5YZHdrOU1ZTnFfSFhjVGFZbUVWaFZqci1Wc1cyX3EwaVBWUzV1U1doT1JydVFZODZjZWVSTmR4UTl6Q25za2FaVDFBRFRlRDRkYzlRT1U0TGNMdjJnSkZEaFFHVHJoZ2lhVjN5N21ycUExdw": 1793868038389,
     "news:CBMiYkFVX3lxTE1GOVJQTmFvcUstQWJFbTNrMk93a1pzMFNtZFVmbVhiQWdDbkx0NWtKcmozLWIxMkFnNUZUQ1dGMzRJUkFOeEJTYlRXX1gwZ0xZbk5iRlk1NUlEZW1oVTJUWjln": 1793868038389,
-    "news:CBMieEFVX3lxTE1YRzVnUTVESjdVTXAyajU0MnJacXZkODg4WUVkNFlWTUR4ZTlzOXhLMTlHSXdiem1kNnc0NlJacVhQR3d1OXZ6cWZnMlpwQmVmV1FPZWtzUkVqY0tLRXUzbzdjaVp2YWc5amlock5QX2x6alI4X2JYQw": 1793868038389
+    "news:CBMieEFVX3lxTE1YRzVnUTVESjdVTXAyajU0MnJacXZkODg4WUVkNFlWTUR4ZTlzOXhLMTlHSXdiem1kNnc0NlJacVhQR3d1OXZ6cWZnMlpwQmVmV1FPZWtzUkVqY0tLRXUzbzdjaVp2YWc5amlock5QX2x6alI4X2JYQw": 1793868038389,
+    "threads:DfWoTBmlMZA": 1793868341380,
+    "threads:DfWno-6Cfpl": 1793868341380,
+    "threads:DfWncbXIzHt": 1793868341380,
+    "threads:DfWofFHlAf4": 1793868341380,
+    "threads:DfWodbUmnPs": 1793868341380,
+    "threads:DfWob5BDODt": 1793868341380,
+    "threads:DfWoWmBGq9w": 1793868341380,
+    "threads:DfWoUWoGnYJ": 1793868341380,
+    "threads:DfWoQRRmpq_": 1793868341380,
+    "threads:DfWoOswGvgu": 1793868341380,
+    "threads:DfWoJl-Gidp": 1793868341380,
+    "threads:DfWoGy0mqvl": 1793868341380,
+    "threads:DfWoELGmmrK": 1793868341380,
+    "threads:DfWnylQgAdO": 1793868341380,
+    "threads:DeNzr7tINQv": 1793868341380,
+    "threads:DfWolhbEx65": 1793868341380,
+    "threads:DfWoBJJI1Jh": 1793868341380,
+    "threads:DfWR7KCn3FL": 1793868341380,
+    "threads:DfWoxAGE37s": 1793868341380,
+    "threads:DfWniwnEgOE": 1793868341380,
+    "threads:DfWoLdaGdOY": 1793868341380,
+    "news:CBMihwFBVV95cUxQeTVpdFNnTmZZRXRnLWsyY2w0cFFueTUwNVpsekRFQU1RRzBlT1hsSTdYaEg1LVNqcUxocTJlTXVJWWNiLVZhTHM4ejZqUExINHF2ZHpCeHRITkpCV1U0VTBJVklwYTRJX0hOb1ZZdENoTUJ2TTU3T2ZXbVdBTHlualc2OENOVUE": 1793868341380
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@atom.anciz",
-      "x": "Cek BPJS PBI kamu aktif atau tidak sudah ajukan sangga belum coba tulis di kolom komentar yang bingung cara ceknya #BPJSKesehatan #BPJSPBI #PBIJKN #CekBansos #DinasSosial",
-      "u": "https://www.threads.com/@atom.anciz/post/DfVhmVjH2CF",
-      "d": 1793831134000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunjatim.com",
-      "x": "Cara Cek Penerima Bansos PKH dan BPNT November 2026, Lengkap Rincian Nominal Tiap Kategori - Tribunjatim.com",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaG1CNDBnNVpuQ0JOT0JOWko4T0plUFdzVUtmOUpYQkVXeFZ2MlhRMGcxOXl2VTJnY3lGVHdTRW5iT09DTTZMMmIteF9hN0dXamRyZi1ta1NFT2ZSWlpSZURGU3RqR3FUVnBBMi1OTzVaMVpwZWpQdGxjUUFxN3ItTXN5Vnlaai04RGxTX0xWNWstbkRUTVZhdERDQjBnS19pOUZNNU5LVE1KSFlfSlA0Vk9QdV8wbTFEeFd6MHJ4NW1hNlg5b0Y4MHVR?oc=5",
-      "d": 1793858700000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@educativa.id",
-      "x": "banyak banget sih yang ngalamin ganti judul after sempro, makannya sebelum sempro usahain semuanya di crosscheck dulu dan kalo bisa pertanyaan2 ini bisa kamu jawba dan kalo bisa di",
-      "u": "https://www.threads.com/@educativa.id/post/DfWQISxjthA",
-      "d": 1793855529000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nuruddinz0",
-      "x": "Bukan salah kamu mbak. Memang sistem negara kita kayak gitu. Kalau sistemnya bagus, kamu kerja di cafe di sabang atau merauke gajimu 5,5 juta sama di Jakarta kok. Dan lowongannya b",
-      "u": "https://www.threads.com/@nuruddinz0/post/DfWWaXcIDIY",
-      "d": 1793858823000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@zaid.comunication",
-      "x": "Kadang waktu terasa mepet sekali, Cucian belum terjemur, anak mesti diantarkan les, kuah lagi dipanasin didapur... Padahal sekarang ada les yang sifatnya online dan bisa trial kela",
-      "u": "https://www.threads.com/@zaid.comunication/post/DfVrstEj9lX",
-      "d": 1793836428000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@zaid.comunication",
-      "x": "Kadang waktu terasa mepet sekali, Cucian belum terjemur, anak mesti diantarkan les, kuah lagi dipanasin didapur... Padahal sekarang ada les yang sifatnya online dan bisa trial kela",
-      "u": "https://www.threads.com/@zaid.comunication/post/DfVrIWRjya3",
-      "d": 1793836131000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Pojoksatu",
-      "x": "BPNT November 2026 Cair Rp600 Ribu, Ini Cara Cek Penerima Pakai NIK KTP - Pojoksatu",
-      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnVKQ3pqbmt3RFNhM1dubnlZdzV4N2wtZmlySnhVOWxSaWVJYUFOcUZOdm5VdU9rZjhjMDhTemZwNEd0MThCVm1PZDVwUjhpNE1QWEh2ajZtQUN3cXY1RU9Kc2lBQUdPOC0tYy12RHk4MzdlcHB3NmdFaUtEUjJwZ2pvMFFheTI3SWRyOEVGV3pQUkFCRzJveGtLbXpXcDBIdUE?oc=5",
-      "d": 1793859336000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29044,10 +28988,80 @@
       "d": 1793867700000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kelompok25.vinix7",
+      "x": "Halooo kak! 👋 Jangan merasa terlambat yaa, justru ini waktu yang bagus buat mulai upgrade diri! Kakak bisa coba ikut webinar, pelatihan, volunteering, atau belajar skill baru yang",
+      "u": "https://www.threads.com/@kelompok25.vinix7/post/DfWolhbEx65",
+      "d": 1793868351000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@fursaprima.official",
+      "x": "🎁 WEBINAR TRADING GRATIS! FREE E-BOOK & DAPATKAN DOORPRIZE TOTAL RP500.000! Market itu sedang bicara, kamu dengar nggak? 📊 Setiap pergerakan harga punya cerita. Tapi, sudahkah ka",
+      "u": "https://www.threads.com/@fursaprima.official/post/DfWoBJJI1Jh",
+      "d": 1793868053000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@amorristaalfa",
+      "x": "Kelas Menulis Online Gratis dengan tema : BREAKING THE BLOCK akan diadakan hari Minggu, 6 Desember jam 3 sore via zoom meeting guys 😄😉 Kuota terbatas jadi jangan lupa daftar lewa",
+      "u": "https://www.threads.com/@amorristaalfa/post/DfWR7KCn3FL",
+      "d": 1793856470000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lpkintron",
+      "x": "Halo kakk! Tertarik join LPK kami? Walau baru, kami sister company LPK Seikou Global Mandiri (sudah SO). Fasilitas lengkap: kelas & asrama AC + katering gratis (weekday)! Tersedia ",
+      "u": "https://www.threads.com/@lpkintron/post/DfWoxAGE37s",
+      "d": 1793868445000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@digital.financial",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@digital.financial/post/DfWniwnEgOE",
+      "d": 1793867806000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qatot",
+      "x": "Jam 9:35 dikirimi dimsum mbe Onone Dimsum Purworejo. Jam 11:15 konten udah tayang. Jam 15:40 insight udah tembus 5000 lebih. Ngonten di Purworejo ki GUAMPANG BANGET. Bikin kelas gr",
+      "u": "https://www.threads.com/@qatot/post/DfWoLdaGdOY",
+      "d": 1793868138000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Warga Dapat Mengecek Desil Bansos Lewat Dua Situs Resmi - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTVpdFNnTmZZRXRnLWsyY2w0cFFueTUwNVpsekRFQU1RRzBlT1hsSTdYaEg1LVNqcUxocTJlTXVJWWNiLVZhTHM4ejZqUExINHF2ZHpCeHRITkpCV1U0VTBJVklwYTRJX0hOb1ZZdENoTUJ2TTU3T2ZXbVdBTHlualc2OENOVUE?oc=5",
+      "d": 1793868209000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
