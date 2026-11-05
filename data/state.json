@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DaOs6lZEpDI": 1792656651844,
-    "threads:C7y78BBvJqM": 1792656651844,
-    "news:CBMiuwFBVV95cUxNZDBQVGV2NlpxYVAwOUlHMGZmRnRJSGFBX0lsWXd1Qk9vYzJZcGM5dC1JVkFaSHBqcmxTTUdHRWhWZ3ZBTlpLSmwzQU5haHQ0aXRzUWFYM1hTRkJyN0xWNjl5cVoyY29YbGExRkxFNEhfX05EUUVnOVJpU0hfY2gxQVdhYzY3UktyWWhaZ3Rmb0NWZU1HaXpCamN1eWF0M1dfdGxENFowYUZvMlgzT1YxX3lLR3B6UC1SODdz": 1792656651844,
-    "news:CBMioAFBVV95cUxOcl9WaGFVVko5VlFxcW9CS3VIaFZibUhnaXFQTUNoMS1ZUHI3NV9oZUhWQ1hLNF9ETVB1TVYzQ0g1NXZNcU1FOGwzNk84VDBlbVFSVktLOUllZ1RWTVoxclVvZ3lKNnZCMHRRbkpSakZ3ZDZDYmJmcFZZZUtnWlBkMUpCUEYyUGZGRXRrdFk5R3lRRElxU0FwN2RUakFnZVZE": 1792656651844,
-    "news:CBMiqwFBVV95cUxNandBWjcwTlFXblEtdnlrcDRBbVc3UnNVWUE5amlwcFEyVFM5bFNHSzd4YmM4NHZBY08yU0F1eHd0d2pjZWhwT0EzQld6Wlo1V2lqZlRycW9hUDB5M3BVb0dLenVPXzc3YVRnWTdvdkI1OHVtNng5cHJrdmw4WTlJazRvZzdqR0Z3R1A3NHRIbExHTFU4Z2FJS3NzUDhOai16V3p0MDBlRW83akU": 1792656651844,
-    "news:CBMizAFBVV95cUxPVGN5cFo5S0hCQ0ZGZldKX09Ldk9nb2hCX3dUbHBmbkQyRXp1aGRWSEdOUTlTTGtBeTV3Mk81QUJycF9MZmFIUDBSTUY0Z0lVSFhzZDFIUXZzX0pkMXA3VFlPWGNOSERlLXB5YW5xUjV2UlZ6dnFKdXdLaGN2U2oxSFlZZlBfVW9UbTNNbkJkVkRzUDFKR01NbzB2c3lqUTZNQnRKR1B2VmU0MDJlQV9iZ0VSNkdGUlpBeU5RYlF4Y1Vlc2RCdlBZcEdPcTU": 1792656651844,
     "threads:DeyD2ISEkYg": 1792657356609,
     "threads:DeyKZ7qEYKh": 1792657356609,
     "news:CBMi0wFBVV95cUxOOWF3MmVVaW9GYlp2Wkw5OW1YWGgwWU9KNV8xSnlNb3NRRWRUTThTNGdKNi1qcW1qWkdaaGpNdTVCZnFSSGZiMmdxTWIxc0FhelhmOXpiVVJ3YmgtVUx2aEhWSnFRTk4tMFRlU2l0S0dVOGRSdHNreTlKT3hVSGU0eFlpOFd6M2RwX1djdjRGc3poNkI5b1F4REZkZklXR2tyZkFHTUJySk1yR19nVnM5VmxCM0liWjRzSTZkbm1jS1dTZTZpSTVVQ3d0bndsTmdlT3Q4": 1792657356609,
@@ -27577,79 +27571,22 @@
     "threads:DfWj5ghCQWy": 1793865961959,
     "threads:DfWjeTGExrh": 1793865961959,
     "threads:DfWjJn-kbtX": 1793865961959,
-    "news:CBMiygFBVV95cUxNaUR4Q0xvdGVOTk1makVjOTh3X2ViY3NxeG5tWndESmNSeE1pYjh5SnlhdG5FR3dEREsyZUFFSVIxbUdhWUQ1am13SEc1QUQzVnF3ZE9KeXhMOUdBRnpYTGFZbTNweVc2X0VXRGZCQ0lCSUdJY2NOY1pfLTh6T1pPaXVPQUpCUFlCSWdtWXA1WGdpQktTVlcxdkZhcTNpbXVpRzBITGR3Y3ZDS1VFX3F5OTFVWHFJNjRObVFmRWRyX1hwanBMaG0tLW1B": 1793865961959
+    "news:CBMiygFBVV95cUxNaUR4Q0xvdGVOTk1makVjOTh3X2ViY3NxeG5tWndESmNSeE1pYjh5SnlhdG5FR3dEREsyZUFFSVIxbUdhWUQ1am13SEc1QUQzVnF3ZE9KeXhMOUdBRnpYTGFZbTNweVc2X0VXRGZCQ0lCSUdJY2NOY1pfLTh6T1pPaXVPQUpCUFlCSWdtWXA1WGdpQktTVlcxdkZhcTNpbXVpRzBITGR3Y3ZDS1VFX3F5OTFVWHFJNjRObVFmRWRyX1hwanBMaG0tLW1B": 1793865961959,
+    "threads:DfWkgngACV5": 1793866250761,
+    "threads:DfWkR1Fo6bc": 1793866250761,
+    "threads:DfWkIhTmHFI": 1793866250761,
+    "threads:DfWkG-mmOhY": 1793866250761,
+    "threads:DfWkMyfjyqz": 1793866250761,
+    "threads:DfWkIk4D_oh": 1793866250761,
+    "threads:DfWkF9xj-zV": 1793866250761,
+    "threads:DfWkpPjFGhg": 1793866250761,
+    "threads:DfWjSDmH_Ds": 1793866250761,
+    "threads:DfWjK_HkhAm": 1793866250761,
+    "news:CBMitgFBVV95cUxPdFpaRU9uTnE1N2xNZ0hQZ18xQ29sSF9EZlJJLWQxemNibXJJQUVSRTRQU0lKbWJUMzRqU3c1b3RIUXdfQmRnR2JlT0JHM0dKUTVtMFlYYVVfd1h0V0VieTZOQXR4eHk4dFF5MEEyY0tRSE56Wi1SNGp0RkVrbUhiWHRsMHo4emU1emhGeXhpRmo3R1huTDBISk5JN0dwaEVRMUtDRjFGb1p2VE03eU5jV2lRa2xnUdIBuwFBVV95cUxPTjRJWjd6U3FCUENOZkdfNXdjT2lETVJiM3BWbERzNTVxb1hvYjU2OVdvcmVRTHp4UlF2VlB4WjdLN0NyMFBodF9Yakg4cnV6b3dwYThGU2pmcmMtajZCWDFFS05lQnJDMkVxMHNPcnJGZWt4RkpPanJneUxWbGtYOWhlaUVvMVVCdG5fdE9YRzJNbWg1MjBhcmNRRUI0bndPYXRINnpBTFJYcWxKVk1uNi00YVNuU0xOX3Q4": 1793866250761,
+    "news:CBMi3wFBVV95cUxQODJQaWN6WTU0YWhrRklzTWJJb2Z6eTJvY0xCU2NPcUFqaGhtX2RGUm9nUUJlbUtLRWcwbFY0TDMzNUtzR0d4cXNTLWZDYWNuaVhldEpJc1ltbHpLQ1VZZFJGZFYtZ0VBdEVGUThySUx4amlfUTFpZ0ZsOVlPYk1mN0hRSW1DdVFNbDAzWVpTcDJJUDdTY0VxVU11YmZZRGdaYTctcDlYYUprcGNjNFdUbVpyb0Y4bDdwNGJpWk1KNzEzZHphWWxXOXZtOXVQcmtwMm1Lb0lRWWQzbV8zUV9j": 1793866250761,
+    "news:CBMirAFBVV95cUxPVGx4UzFRbXBpZW5qTTJBTlBycjlESHl1dS1mZHJ2b0NpQ2tOallfTktCcllwVWt5S0RPbTFQVDNrbmFCc1pMbFRMMTBUaHBxdGs2Qjdzd3NRY1NRUF9xcWtpSEpta211cUdfX3I3NktybUtmVEptMHRfdWZORkpkRnkzSTNwNXZESDJrazYwX0JJV0FZVWQ0Ykdfbl9zb2pUVjl1aEM5WEdVbW410gGyAUFVX3lxTE92bDdzZjdReFM2YzFGaU9Qd1d5TUctTjRiMXREcVJlcXRRdU5uVWZUU3NwbE9maV9lLVJaNmgyd1NrWmVORDBEcVFJMTdRZ09DT3lHWE1DRVJXVWh2MnpyZGcyZUJZYWN3RjZMVFVBVmNMa09FekZFLW9VTDBVeDd4aDh2ZXg4UGtSbHU2dHIyRDZmc0FmOUx1aGs3VHFCV1VaaXFGbTlNczlTR2NULTVKUnc": 1793866250761
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@encepnurwahidi",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@encepnurwahidi/post/DfWRnO7k-ib",
-      "d": 1793856309000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@molditira",
-      "x": "Pendidikan gratis di sekolah negeri & skrg ada Sekolah Rakyat & Sekolah Garuda Kuliah gratis & dapat uang bulanan dengan KIP & lagi direncanakan semuanya gratis tanpa KIP Kesehatan",
-      "u": "https://www.threads.com/@molditira/post/DfWQ-iYEVrZ",
-      "d": 1793855973000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@suratindong",
-      "x": "Kak, bundling itu skema daftar 2 program sekaligus: satu Beasiswa Kemitraan/Kerja Sama plus satu program Afirmasi/Targeted/Umum tujuan luar negeri. Non-bundling ya daftar 1 program",
-      "u": "https://www.threads.com/@suratindong/post/DfWR0vJDu6d",
-      "d": 1793856419000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ninihyn27",
-      "x": "Kenapa Ya setiap kali kita Bela Jokowi selalu dibilang Cair, Dapat Bansos, amplop.. Apa hanya ini cara mereka membullie ya... Jawaban mereka selalu template kayak gitu.",
-      "u": "https://www.threads.com/@ninihyn27/post/DfWSFc-o0F9",
-      "d": 1793856554000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@arykuswati",
-      "x": "DTSEN ver 4 2026. Periode April Juni Judule menunggu #bansos# #cair#",
-      "u": "https://www.threads.com/@arykuswati/post/DfWRryNmDZx",
-      "d": 1793856344000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ettymeyra22",
-      "x": "Nungguin gajih dari boss memet gtw kapan , bisa gajihan.. 😭 Yoo wiss lah masih ada rezeki, gajihan dari bansos🤲🤑alhamdulillah BPNT aku cair kmrin, dan masya allah tabrakallah sa",
-      "u": "https://www.threads.com/@ettymeyra22/post/DfWRUdzj5lk",
-      "d": 1793856153000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Yang paling kerasa itu program terpadu Sapa Bansos & Bakti Sosial - di tiap kabupaten Pemprov Jatim turun langsung bawa layanan dalam satu lokasi. 1. Perlindungan sosial: PKH Plus ",
-      "u": "https://www.threads.com/@meta.ai/post/DfWR45TgAvS",
-      "d": 1793856451000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29079,10 +29016,80 @@
       "d": 1793865002000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfWkMyfjyqz",
+      "d": 1793866051000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfWkIk4D_oh",
+      "d": 1793866017000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfWkF9xj-zV",
+      "d": 1793865995000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nevaka.dg",
+      "x": "3. Dicoding Platform belajar teknologi berbahasa Indonesia dengan kelas-kelas pemrograman dan data. Beberapa kelas bisa diakses gratis lewat program tertentu. Contoh penerapan: bel",
+      "u": "https://www.threads.com/@nevaka.dg/post/DfWkpPjFGhg",
+      "d": 1793866284000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@faarida463",
+      "x": "Bu saya saranin daftar pelatihan Ai for teacher karena ini ilmu dan materinya bakalan berguna banget untuk memudahkan pekerjaan guru coba cek di link ini mumpung gratis:",
+      "u": "https://www.threads.com/@faarida463/post/DfWjSDmH_Ds",
+      "d": 1793865570000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bellaoktesia",
+      "x": "Lah inkonsisten, jelas2 lu yg bilang “ga ada lapangan kerja yg bisa di apply”, rakyat miskin harus di kasih kerjaan, harus di kasih pelatihan 😂. Jelas2 banyak pelatihan skill grat",
+      "u": "https://www.threads.com/@bellaoktesia/post/DfWjK_HkhAm",
+      "d": 1793865512000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "ANTARA News Jawa Barat",
+      "x": "Universitas Terbuka dukung kuliah gratis perluas akses pendidikan - ANTARA News Jawa Barat",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGx4UzFRbXBpZW5qTTJBTlBycjlESHl1dS1mZHJ2b0NpQ2tOallfTktCcllwVWt5S0RPbTFQVDNrbmFCc1pMbFRMMTBUaHBxdGs2Qjdzd3NRY1NRUF9xcWtpSEpta211cUdfX3I3NktybUtmVEptMHRfdWZORkpkRnkzSTNwNXZESDJrazYwX0JJV0FZVWQ0Ykdfbl9zb2pUVjl1aEM5WEdVbW410gGyAUFVX3lxTE92bDdzZjdReFM2YzFGaU9Qd1d5TUctTjRiMXREcVJlcXRRdU5uVWZUU3NwbE9maV9lLVJaNmgyd1NrWmVORDBEcVFJMTdRZ09DT3lHWE1DRVJXVWh2MnpyZGcyZUJZYWN3RjZMVFVBVmNMa09FekZFLW9VTDBVeDd4aDh2ZXg4UGtSbHU2dHIyRDZmc0FmOUx1aGs3VHFCV1VaaXFGbTlNczlTR2NULTVKUnc?oc=5",
+      "d": 1793865194000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
