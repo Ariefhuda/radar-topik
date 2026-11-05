@@ -27681,19 +27681,13 @@
     "threads:DfXGmTkmXAr": 1793901335413,
     "threads:DfXAPBsGBJv": 1793901335413,
     "threads:DfXAE1vGDNL": 1793901335413,
-    "threads:DfW-2ZOCWRC": 1793901335413
+    "threads:DfW-2ZOCWRC": 1793901335413,
+    "threads:DOXe2tsE3bW": 1793901653025,
+    "threads:DOXfVuWkzb8": 1793901653025,
+    "threads:DOXfcEoE7j7": 1793901653025,
+    "news:CBMi2gFBVV95cUxOSE1yNjZSVVJOVWJlMmxOVllLWi1US2NBUVFwMjM2V3dVYTQ3ZUlFcFpvMHZNV2xRejk1bEhkUWNDcUx5WXVUb09FNmQ2WnQ1b3RXRmQ2WkYwMV9ZQ0JyWk5SMldmM0kwUGY2Yk9uSjZyc2JuY1BGdUNSQklQdGo4YU9kSzlacXQ1d1JVdVlDbTV2QzR0TDR1aFhXcEJzRnBxa1lkVFJKR1BsRlZDbC1UdmlOTnJtTGNNdzJYMjhhWDUyUjZEQTlOZ2ZYbE1XQTg5U09ZY3NLWnNGUdIB3wFBVV95cUxQZFpFZ09pTzMtM0VvR3Nqa2RobjRXN0c5OFhhcWZGMmdkUXl0Wkd3NmZJRlhjT2dvR1BXOHE3eXRtcDVicWRVdFVNYm5VVnFxQV8yVDdHb2hBWjFEcExSM0FLZHNzRXZVYmVCeXV6MjZmMzNHcWZBZW4tZ0pPUWlON2tQalNqSkZhR3JPSjFvNDRjbWRneHVfdFFINWIweG9QM3pIVTBWQnRGdVhGVTUyakdvb0dNTGlCc0QxU2VFdXJZN1gyQVJwSzQzM290OTZuZHB1RnhIQ2VmcmJKRURr": 1793901653025
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@pahamcpns.pahamify",
-      "x": "Halo Kak! Biar makin paham materi kecukupan data, yuk join kelas gratis dari PahamCPNS by Pahamify. Di kelas ini Kakak akan latihan soal bareng Mentor dan pejuang CPNS lainnya. Set",
-      "u": "https://www.threads.com/@pahamcpns.pahamify/post/DfW4VabGh0U",
-      "d": 1793876608000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29183,10 +29177,20 @@
       "d": 1793880038000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Syarat RS-Rutilahu di NTB, Cek Data dan Jalur Pencairan agar Tak Terjebak Pungli - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSE1yNjZSVVJOVWJlMmxOVllLWi1US2NBUVFwMjM2V3dVYTQ3ZUlFcFpvMHZNV2xRejk1bEhkUWNDcUx5WXVUb09FNmQ2WnQ1b3RXRmQ2WkYwMV9ZQ0JyWk5SMldmM0kwUGY2Yk9uSjZyc2JuY1BGdUNSQklQdGo4YU9kSzlacXQ1d1JVdVlDbTV2QzR0TDR1aFhXcEJzRnBxa1lkVFJKR1BsRlZDbC1UdmlOTnJtTGNNdzJYMjhhWDUyUjZEQTlOZ2ZYbE1XQTg5U09ZY3NLWnNGUdIB3wFBVV95cUxQZFpFZ09pTzMtM0VvR3Nqa2RobjRXN0c5OFhhcWZGMmdkUXl0Wkd3NmZJRlhjT2dvR1BXOHE3eXRtcDVicWRVdFVNYm5VVnFxQV8yVDdHb2hBWjFEcExSM0FLZHNzRXZVYmVCeXV6MjZmMzNHcWZBZW4tZ0pPUWlON2tQalNqSkZhR3JPSjFvNDRjbWRneHVfdFFINWIweG9QM3pIVTBWQnRGdVhGVTUyakdvb0dNTGlCc0QxU2VFdXJZN1gyQVJwSzQzM290OTZuZHB1RnhIQ2VmcmJKRURr?oc=5",
+      "d": 1793899657000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
