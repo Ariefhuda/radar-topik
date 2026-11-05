@@ -60,23 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dewbcbvk6w0": 1792646144305,
-    "threads:DewbpXLmlNd": 1792646144305,
-    "threads:Dex72OVGucF": 1792646144305,
-    "threads:Dex7v1kmTZm": 1792646144305,
-    "threads:DeyEBRHlBkD": 1792646144305,
-    "threads:DeyAIEukswB": 1792646144305,
-    "threads:DegNR3Kk_OS": 1792646144305,
-    "threads:DeyG_vaGWyc": 1792646144305,
-    "threads:DeyKmJSmgQ_": 1792646144305,
-    "news:CBMiXEFVX3lxTE42WTJoUEFWTDZPZVQweTNxd0lVXzVHUlZYc3RuOWxySXhRbzdzQ2o2OXByM1F4QnNLejdZYTNMaUZqdlVQelRDRWJRVVpic05faGhva2ZESXU5UnRa": 1792646144305,
-    "news:CBMizgFBVV95cUxOcDJMLUp4VjhJWFFHc1FNY2RkdHJGTVlKRnl3U3dLTWlkaUZJSGxGUkVSX1IxcTVRNW8zbzhqcDJlZzFVczMxeHpzOVFkU2hvV0ZZQ0VBNXdRZDRJWUFybVNtSVA2dFRoR1BWMUdBb1RkQ3VkUEJjMlZPN3pvVnlOdkoxcEhDUUt1bE1aR0JWOGduLWdOWVk5ZzlzWkUwRkQ1SGlQQXFNMFo4c0haejdReDhGTkp4M2JUX3JUdUdrYTh2TkpiQnhRSjFjZnN0QQ": 1792646144305,
-    "news:CBMiU0FVX3lxTFBSY2tHSHM2MWt4bW1ja1duNUlxdDhFOUJtNVd2WkQtRC1uYm5VZkRKZGtnT0VYYnlYeC00cFNkNURYUHFSNXh3NGl6N1RvUzE2UE0w": 1792646144305,
-    "news:CBMijwFBVV95cUxQLWxmcXJSOUFQODJ5UUJ3eUtZYnZFQzRkSEQ1T2EwZ2d3WkRJdkFuSEdnYTJLWG1lYnpfcTB4TVJMb2tRS0YxalpnM29nZDdrMmw2Q0NaUF9BZFVYYWVSM0NFTlQ2bFphUjVqYjlmZWR6b0JDSGJ3SFlsOEZFNXZMSFJHMHdyNzdrdzJ3Um5Zaw": 1792646144305,
-    "news:CBMi2wFBVV95cUxNZmZkVTVFaGdxd0xWOW15VVRvZnN0NGRsWkdRRFhRMWRxZmNJZmpTUF8wRzhLc2gwc0J2bmJ6QlpYZ2NMU1d4Y2dvdnRGXzVHM1EzelE5VklKZUNYajZhOWVsblpEaHpyeXpaUER6X0RXYjVvWElfUmxYWVJHcGdDQUxEQ0VZM25uN2VDTUdLWTROMjZYNHdyazFuNkFQZWk2MGhhdkJzSl9GX05ZMl83NzBtZElJNU10Y1lZNmZqNlA2QWRkV0VyejQwSDRrNFRxOTJzZVZlaGtiV0HSAeABQVVfeXFMTXo4XzFMV0ptcW9nRDdrQlh3NnJqdWxKOGJzbXllaUlIMHRPOXpaSkIzUHdzM0ROeW04VHFsY0hrS3JwMDZrR2NpQlpfUXpQeTJoVzlNR3ZsY05ValhIZm4wWG52YXF5OU9XLWxXd3JSa2tWaVR3ZWhZd0ZjaHJQRzQwMC1oUmVOVEhqSVlVbzRZYmpiR1dpR2hoZHhxdHlWZHRxNEhQeEpMTFJOSlFjTFRaUV9YVUhEZ19FTHN0a3Rmc1prU2xBTjhJd3FlTzRFZ0FZU2J2QTVEVWwyOFJmTk4": 1792646144305,
-    "news:CBMi1gFBVV95cUxQa1l1T0xyVHI0MnU1LTdjbXVMRlI2V21hWm1RUGRQYnhVZ1gxYmVjYzh4bHlTZTdlbGpSUFoyakpyNHU0RUZvVDdPV3N2dnVhNFMzbmlZMFFHZk9iU3RsMFJ2MXNLRm1HUzMtVWRUajBOU0VoUFRLem9hQkd6dUtHeU5ITENzU2JJQ1lQVVR4cW1SQUpaLUhmMlZucFgtUlBrLUg1UWp5Zlh5aXF6eW5NYnVhTUx4SEdGQU9LQnVza0hqZUVtU1ptRWZDRkNjcDRVZjFFNlhR0gHbAUFVX3lxTE5xbmZZV3FHTUhHSXUtOUU2b3M2aVozQkRoNGdOSnlKb1dZbkVRQXROOXRiYzluZDJmbTJuNXBhdnBYOFVSZ0JNSXU2NHQtMWdrOEhDZy1iaHFUTmcxWHNNLXAxOXlaUzlFaFBnSlNxbFBHNHVfWDU4MWJmRldpajhCRExPc3lDT0tlRDRvYkJNcWxmUXljNmpLNjlaeUpvTXRyVTJFYlpWV0RxcnFGSG9QMmViaWFVcnRMWllNcGZOVm9sLVgxcGZZeDJYb2tsczU4ajZMZnZMTzZzVQ": 1792646144305,
-    "news:CBMirAFBVV95cUxNUzFqX081a3p2WFZ5ZjNZcjNjQlVzZ2dCRWhmb19oZnVVcmJJRWV3NjVSdl9ubnMzOWVad0NOYTcxMnNNX0VrVzdvMDFQWVgyWVUycnJCX3dRX0s2ZGdpTTBpWGlvN2dWblBFWGQ4M3RFTjlBdndTWktFMDhkWmdFRm9MTjIyUkVlMjNJR3Z1QjhOYnNpRjNDS3BKWWR2NkMweDMwZjZWbWFRakVv0gGyAUFVX3lxTE5zVl9TOGhYYlpkLTZhS1JMRy1MUUVJdEVmeUlwUUstNUJzODZmUXhmLTVCbXRWUFRzQkQxZ0lfbFo5Q2dYMXRuX1VRSnNWQXluUzM4aEFsN1VPWWpiOHc1RUFqVEJLVFN6N25jZjMxQ0d0MEI2RFR5NkdWUVEtbmVKajlZSF9aX25IZEtlTnppQWprcWdXN1BkRUNScjQ0dVVOazhTX3dCRjgxOS0wMlh4Q1E": 1792646144305,
-    "news:CBMiwAFBVV95cUxOUWJxTVExRGZuaE01NTBjMEJXb2xwR3V4eER4YVdmMHFUYW54bEo1SmF4U2dCVlF3akdsVmZNWGpLWkFsWTVXZUt6c1BxTmx2RnJnMjA2OVE2enZqNndTWWVMend4SFo2V1JOc2VKT0dSZ19HUjdjWXh5Q0ZEblZhSzQxOWIweFZaVkhpUlVMZm9FMVdtTVFhSGVzdm5ONU9OQ2Zybi1JSlFlQkpvV1BPZ05ZTHlWam9CbDY4WVdMazjSAcABQVVfeXFMTlFicU1RMURmbmhNNTUwYzBCV29scEd1eHhEeGFXZjBxVGFueGxKNUpheFNnQlZRd2pHbFZmTVhqS1pBbFk1V2VLenNQcU5sdkZyZzIwNjlRNnp2ajZ3U1llTHp3eEhaNldSTnNlSk9HUmdfR1I3Y1l4eUNGRG5WYUs0MTliMHhWWlZIaVJVTGZvRTFXbU1RYUhlc3ZuTjVPTkNmcm4tSUpRZUJKb1dQT2dOWUx5VmpvQmw2OFlXTGs4": 1792646144305,
     "threads:DeyLM9aoJLa": 1792646452846,
     "threads:Deu-tvPEakW": 1792646452846,
     "threads:Dc2ovTVD4aQ": 1792646452846,
@@ -27392,39 +27375,16 @@
     "threads:DfWPGgeAdmu": 1793855440279,
     "news:CBMi0gFBVV95cUxNdkQwMkdMVGxrZWpUckF0ZXlZaENIZk1nY0J3NlpUTkpxT2JPb3NpSlZ3aElUSFAybU50Ull0UjRkSDg3eWdKNlh2ZEhfa0JlSmpKMWpNU3hsV09ta1NEOTdFQXQxUU9WbFRtMjNtM3Z4SGY2c1VjbkZtU1VSbkJiYW1vVFhMeE0wVkNYc2ozSXhpLTdZbWRGSHZtaExXcko3dTVvMWVrWGd1UnBjVHUzczAxWl9STW5pZDhsQU5CdkREenhtcHVMbnVIbFdHTEs2ZWc": 1793855440279,
     "news:CBMiZ0FVX3lxTFBRRTJOMW1Qb2U0T0FfR1BlOFVfWWFxQVgxU3duSGo1bWRINTNrQlpQQk5wcGpBWjRpZHVtZzZSNFZ4MTR1Ry13bUdPd1phZXFnMkF5SzFRZHJVR1JpeXN0eHJpU1VwTU0": 1793855440279,
-    "news:CBMia0FVX3lxTE9sWVFOVkRidmhDWEpJb3JSQzYxbE54eTZlWE1ab3loQ1M0X1ZPUng5T3l6ejZiLVJTajdCZ1FKY2JRVjdKZkZQdUFhYVVlVFc5dFRhTzItcFAyVFJ0S3MxWWNVV1F5Ym5CWjRF": 1793855440279
+    "news:CBMia0FVX3lxTE9sWVFOVkRidmhDWEpJb3JSQzYxbE54eTZlWE1ab3loQ1M0X1ZPUng5T3l6ejZiLVJTajdCZ1FKY2JRVjdKZkZQdUFhYVVlVFc5dFRhTzItcFAyVFJ0S3MxWWNVV1F5Ym5CWjRF": 1793855440279,
+    "threads:DfWQSSYiHw3": 1793855738560,
+    "threads:DfWO4C6RFjY": 1793855738560,
+    "threads:DfWN52WIDhd": 1793855738560,
+    "threads:DfWQTRXGY3P": 1793855738560,
+    "threads:DfWPOtBEl0c": 1793855738560,
+    "threads:DfWPMsNEq0D": 1793855738560,
+    "news:CBMi1AFBVV95cUxQMDFuRzd0Z21VcmpKNHFsVDVabVlTOFE2RVo5Skw0Zl9uWDBSa0V0aExLWkhqRVlLNGVrNGItRkpBMVhQaFBGSnhod204WVZJN3ZQcjlDbjQzWXpBUUs4bkc1NjZSVV9KbmpJSkp5OEY3dWlXSDlpYURxa19JZndyVnAxT0NhWHBfX1RWSXNUaDBGcklOc0pVYU9xRHZNZW84cm56dl8yUUZOZ1ItVWFxN3FLVXpBRkkwXzBxU3N3ajJtbzlGc3pJRWo0SjJVZUhYelRhR9IB1AFBVV95cUxNTTQtMmFjZllSRWxvRGZjVlhaOThva25RRmZYQ0UzUU5mTWtuNWx2SFBwM1Q2XzBNckhnYmxkZEV5ZHhLR0dBMWdjaW5ra0ZoR2xiUGFoVzRFeWJSOV9BdVBiU3FpOTA1b2F1aXQ1UG9pcnZ5eUZON2NsTTFNcFZwcW5MdHF1endXbjJ5YWwyYW1IUGprbEVCNDRwR3l0TTJ6Wlo5WWZ4Z3hxeGhaV0VwZmpBWXhGaG10NkpqWGJ2Nks0MzVfRkZlTk9BQ3RoUHc4S3VQdA": 1793855738560
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lahirdiplanetmars",
-      "x": "4 tahun lalu, gue masuk Tangga jd barista junior. ga ngerti kopi, ga ngerti cara ngelatte, ga dikasih bikin minuman sm head bar gue, cuma boleh megang kasir. sekalinya bikin minuma",
-      "u": "https://www.threads.com/@lahirdiplanetmars/post/DfWDKJvE6a4",
-      "d": 1793848728000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@farammarr",
-      "x": "Kalau ada pelatihan gratis dari kementerian atau lowongan kerja , info in dong. Pelatihan jahit atau apapun mau,",
-      "u": "https://www.threads.com/@farammarr/post/DfUQdr_lCfb",
-      "d": 1793788595000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "stie stekom",
-      "x": "Apa Tantangan yang Dihadapi Dosen saat Mengikuti Program Pelatihan - stie stekom",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3NWcjdyQ1Z3bVVYTEtxS0JnYlN3cU44YTJYZVN6YTZDSkpzNkVRdXYtbl9CV2dFVUpGN0FFcjdwWjhYY0k1RmxHUGxTUGhTMHRTbUpjYWk1WFI3cVVRM1dRWmxHeE9GTmo2dGM5SkpxOWcxeThoMXBRdjhXcUpfWHpCWllXRTZFNVJMMkN3R0FLU0hQTWtnUDhlR3V4alg4eVB2ZngtNHVDbWNZOUhmWEFyNXhDMy1XYko3YVNNZE1Ndw?oc=5",
-      "d": 1793766805000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28894,10 +28854,40 @@
       "d": 1793855120000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lokerjogja.karirr",
+      "x": "Pernah dilayani CS yang bikin terkesan? Ceritain di komen! Naik Level edisi Customer Service: 5 langkah upgrade skill, kebanyakan gratis. Mulai dari bedah lowongan, target belajar ",
+      "u": "https://www.threads.com/@lokerjogja.karirr/post/DfWQTRXGY3P",
+      "d": 1793855619000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@linda.cecilia.9",
+      "x": "Mau bisnis online tapi bingung mulai darimana? takut gaptek? gapunya produk sendiri? gapunya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langkah awa",
+      "u": "https://www.threads.com/@linda.cecilia.9/post/DfWPOtBEl0c",
+      "d": 1793855059000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cahayainyhnr",
+      "x": "DIBUKA LOWONGAN - TOKIO MARINE MAKASSAR PT Tokio Marine Life Insurance Indonesia Resmi Terdaftar & Diawasi OJK Posisi: Business Partner APA YANG KAMU DAPAT? ✅ Penghasilan Komisi - ",
+      "u": "https://www.threads.com/@cahayainyhnr/post/DfWPMsNEq0D",
+      "d": 1793855041000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
