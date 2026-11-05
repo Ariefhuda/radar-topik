@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMikAFBVV95cUxNS21meThpcXJFWmdZMmFIbkhKZ0t3TFVHa3dGSUQ1c3NWNkJaVXg0QUIzVDlvVW80Z1VZdXJYTm9TVllkN3JsZ3c3ZVBjMHNGaFdkYzUtejd5UDh5QzVqRVRDbEtvM3gyVUYyQm5vNFBaNTFOUm9uMWVTbVIzcFg4d2xhdVZDWFFjUXpVZmtucTQ": 1792664478168,
-    "news:CBMibkFVX3lxTE5DcXp0azhTYUdFYmNmSDk4QXBvUzJ5MndNRTI0RGJDQjdQYmdMSGt1Ymd0bEFzMTBXTTdYWU9PUEdQYzNiN2pJekxOMmRwVW92WHNKbVMxcmxLUHZvRkFIUzlnNzdiZnV4aTBDazln": 1792664478168,
-    "news:CBMiZEFVX3lxTE1RWjFmRnpHYjNDdjk2X1VDTHM5V1VPX29DR2oxWm9KZnBxVTNCZkotTEVQT1VncFAzR29aa2xRMUVKbEtsSmJFTktPb2JJUDUySUpzYV93TXAyZWZjazAtUnAyR0U": 1792664478168,
-    "news:CBMi0gFBVV95cUxQT0ZwN043MHNMSFlvOEtxcnVSU0k3T0p1RGRtb0tZdGRNWVpEUUtGclNDQ0VWX3hCWTBCTlByYXdCcXhRejFRVTlXOTMxaGM5U3pya0lNNjZvc2hoV3I5RkxraHZabVVRVHVWdlZvWlhMSjRjYjRsMTFQZ0t5YjVDcXJnQjRiMmMtRkhkVC0xbEhJUG8yTzROOFMxTzdoWjZsbl90emw2WTV6NVlCZmgyRlNockg1VmZOdzdzaXBrelI3TEQ3RFRIc1lOaWdtd3V3OGfSAcIBQVVfeXFMT3kzUk1reF9nMGpOczlsU1JVcExtWWhEWW5JdHBDb1ZicmNyZHh0WXNlT3hOc1NxVE9xSjVkWFEtdndtSndGM0FYcXN2Nm9LeDExZWVCQ0hCVjNZNVA3Y25lSkhSZ3RsZVJSeGk3ekx1VFV5S1lnOThaWWZCVnhqaG9tV1ZSTm1DS1VQTE9ZNUExZzdWZC1CUlpLN0RDckYxRDdINXdUbFFpcVlxZGdZQkktTHVjZTQtWTNmMktnNGxYZFE": 1792664478168,
     "threads:DdiaM7Pk-6K": 1792664760301,
     "threads:DcSz8MBko-K": 1792664760301,
     "news:CBMiggFBVV95cUxNX1E3ekdMbC1LeUlydjhscGh4TlpUekpad3J1RkpzM3VRZWJxNldReFptNS1CVzdFTDBneFEtMkIxVHIyZ0c4MWt0NXVDcEYxUGRjUFlObm53QmtzOFFiSUFaY0M2b1h2R2Zxei1LM0pGOHpZNHJGMU8xWkkwQTRBQ1B3": 1792664760301,
@@ -27585,69 +27581,19 @@
     "threads:DfWrsgnm2uA": 1793873740457,
     "threads:DfWx2Iugai7": 1793873740457,
     "news:CBMi8AFBVV95cUxQa3FxaDg3YXV2azAxTGQzaGtMSHdhcXNnNDhFV2daSC0xUWN6N01vT3RtMmtFTnZyOERqM1VXVmRnS3hmNGFaX0JiNjN0NjdzY1FnR2d1MTZJZ2RQUUlDMTFKT3NXLTNXS1RmdVZuRm12WHdxN2FBMGtINUc3c2htbTJ1Si1nOElRNF9XZ0twdTNDUVR2eGY0bjNURm5fSmNSOXRHLWFLRmlhRXVZYnpJNllROFdxYUpYN3ZNOFFNSnA1b2hQSldZM25pWTNKZG9nZktIdk5vWWRwSmRVbE4yWTM0aHJ4TW5HUnU4OE9XRDPSAfYBQVVfeXFMTlZ6cWxQQy1uMUtfdkRUcTlUR3d0TGhKajlXbkI0WEVqQVhFNEwtLXlOdWlpZXpBa0ZkZk9hbzgxc2NFZkwxMXd6cW5CM0xvT1FxcHd2VVprU1lpNl95ejZ4aWZBRVVwN0JTcDVzTnFWbmlZbFZ0RXNDTFdXZVlKRzF6VnI4Ulh1Ql9PU1dWWXpHUTQxbXVPcVNTNXQ3a0xocVZaNmJDU2xKNGZ1Zjk4SXBqWTJqanZMa3RqMHJtRVBLVDRQTUktaUZ6M2VMcXFaai1rdHFRaTk3anRLNkx0V29oMXVPRzhLUDR2ZDlra3B0TlZEd2JR": 1793873740457,
-    "news:CBMi1AFBVV95cUxQdEprdDRCSzdkQmd1R2tlUUlveXNIWjRIOVRBNUNjakN3OEM5cWh6clRpT0FmZGJxWVpTYUZyMnBHam5lbTQyV1gxaW9fdDctWTIwc01JeHhaNXM4WlA5THJBV090d2FKaW1jTW9YcjV1U0JQM2FOWmQwcjNVSHUwd3R3NEF0R0Y0VnZMV3M4T3cxTFc4V09LeUJZVTFhdllDWEFRLTMydkxDbkROa1FkRXZBWGdZMjF6ZVg5ZExCVzJxTmxneGhLZm1kYXRLYUJOcWVWaA": 1793873740457
+    "news:CBMi1AFBVV95cUxQdEprdDRCSzdkQmd1R2tlUUlveXNIWjRIOVRBNUNjakN3OEM5cWh6clRpT0FmZGJxWVpTYUZyMnBHam5lbTQyV1gxaW9fdDctWTIwc01JeHhaNXM4WlA5THJBV090d2FKaW1jTW9YcjV1U0JQM2FOWmQwcjNVSHUwd3R3NEF0R0Y0VnZMV3M4T3cxTFc4V09LeUJZVTFhdllDWEFRLTMydkxDbkROa1FkRXZBWGdZMjF6ZVg5ZExCVzJxTmxneGhLZm1kYXRLYUJOcWVWaA": 1793873740457,
+    "threads:DfWy-z_mVBq": 1793874040902,
+    "threads:DfWyVX5iAv8": 1793874040902,
+    "threads:DfWxHiNEQSA": 1793874040902,
+    "threads:DfWwpuViUFj": 1793874040902,
+    "threads:DfWyE3zD-eO": 1793874040902,
+    "threads:DfWyqKunw9-": 1793874040902,
+    "threads:DfWyVBRknSX": 1793874040902,
+    "threads:DfWzCfyGSz4": 1793874040902,
+    "news:CBMivwFBVV95cUxPa0ZPSzlERnE1b01nWTg2T0Z1RFo3eHJTalNEai1VS1dUMUdRTkZObzA3YlFmby1tdlM5TUFSc2pXTUwzeGRQWGItOW1hMFZtekNlcW5HSzFvT1JWck5kc2FOM0JwZExjVlZLR2xHV2Y2OVlNaV9WZkV4VXd0VHA1SktDa0padWhoZWdfM3N5b2MyTnZraV8tb1RfRm53ZHIyb3RvTlIxM1lWdTBSVmh6TmxEXzdJOS1RMExiVmI2NA": 1793874040902,
+    "news:CBMitgFBVV95cUxOYlFaUHU0LTVHQUsxcjlhY0xqNFVwM01qWHVQZnUxaWdaeEtpak5PY3MzVjZ5el95M2Z2TEhSUGRqaXJLUERnMHpORGU2cU15RHdkYTAtWFoyT1VWQlB2bEFEd2hueVdncGNjUTZCd19uTkRnb0w1RkQxUE5DM2tlcHE5V2dudHpJOUdwajFXTjlhN1U1ZVR5V1BDZnpPcW05eC1sOU9YQzZlSDk0aE1ER0pqZTROQQ": 1793874040902
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@eduworld_id",
-      "x": "Singapore Indtitute of Management (SIM) mengundang Kamu untuk join ''𝙊𝙣𝙡𝙞𝙣𝙚 𝙎𝙄𝙈 𝙎𝙘𝙝𝙤𝙡𝙖𝙧𝙨𝙝𝙞𝙥 𝙋𝙧𝙚𝙫𝙞𝙚𝙬 & 𝙋𝙧𝙚-𝘼𝙨𝙨𝙚𝙨𝙨𝙢𝙚𝙣𝙩 𝘽𝙧𝙞𝙚𝙛𝙞𝙣𝙜'' 📅Sa",
-      "u": "https://www.threads.com/@eduworld_id/post/DfWeLwXj8s5",
-      "d": 1793862897000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@abiherman990",
-      "x": "KKS BNI, BRI, mandiri sampai saat ini dijakarta timur cawang masih kosong song, ditempat kalian gmna apakah ad yang udah cair coba dong komen sama sebutin daerah kalian masing2. #p",
-      "u": "https://www.threads.com/@abiherman990/post/DfWfFdWHeFw",
-      "d": 1793863370000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Lutimterkini",
-      "x": "Beasiswa Yatim Piatu Sulsel 2026 Dibuka, Pendaftaran Online 3-20 November - Lutimterkini",
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXh6cnBUQnZHQkk4R1JncFF6TDVGNVNuUG9oX1FRWkZiSE96S1N6UHBXODl6aW5sZnFiWi1sR1BNZ1BnRWtXbmFBR3NnY1VxZ1JycWlqQkplbWE1UE9DTnB5WUxZdnpnc20yRXBGMVEtQVJXUTNYTE9obFFGcEZvVFdJSm1GS0M4WkFNNDFQMFBfNlN2dFFXTmNzQUVjRms?oc=5",
-      "d": 1793841648000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "AFU.id",
-      "x": "Cek Bansos BPNT Tahap 4 November 2026: Cukup NIK KTP, Ini Arti Status yang Muncul - AFU.id",
-      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNam8yXzQ5YmVBWGlTenlaRE9SRGRXQW11STZXSHZLOFRRVnQtOVRNUnBGamRoR21qSVlXX2I1cm9sbGJNTF9FMm8zU0FZMWlKcDNNbmZTSEJRMGFvNzlmbFM2cENEZzJvSWJsVVNONjBkdmFkUFgwZVhielJvUG9vWGZLczQ1eHBNWm5WQVZwLUFyck54NHFqdnA5MWtaR3RKY3FkaQ?oc=5",
-      "d": 1793863102000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bidan_pedia",
-      "x": "H-1 PENDAFTARAN DITUTUP‼️ 📣 WEBINAR CONTRACEPTIVE TECHNOLOGY UPDATE: OPTIMALISASI PELAYANAN KB MODERN 🗓️ Sabtu-Minggu, 7-8 November 2026 🕘 08:30 WIB s/d Selesai 📱 Zoom Meeting ",
-      "u": "https://www.threads.com/@bidan_pedia/post/DfWfkJDjxR1",
-      "d": 1793863623000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Halloo kakk 🥰 Buat kamu yang mahasiswa, fresh graduate, pekerja, atau IRT dan ingin mengembangkan karier, ada beasiswa Career Development GRATIS dari Komunitas Perempuan Inovasi x",
-      "u": "https://www.threads.com/@faarida463/post/DfWf0kRH1sG",
-      "d": 1793863756000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29087,10 +29033,70 @@
       "d": 1793840281000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@semuabisa_cuan",
+      "x": "Halo warga threads. Yang serius mau penghasilan tambahan dari bisnis dan usaha online yuk merapat. Minggu depan aku ada akses webinar gratis belajar bisnis online dan digital marke",
+      "u": "https://www.threads.com/@semuabisa_cuan/post/DfWyE3zD-eO",
+      "d": 1793873327000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@faarida463",
+      "x": "Pelatihan skill gratis mau gak kak? Nanti dapat sertifikat dari IBM",
+      "u": "https://www.threads.com/@faarida463/post/DfWyqKunw9-",
+      "d": 1793873632000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jejakmuslimah.id",
+      "x": "Qodarullah 1000++ member ikut kelas gratis hilang.. Buat member jejak muslimah ikut grup belajar gratis, qodarullah grup dan komunitas tidak bisa diakses lagi karena udah dibanned ",
+      "u": "https://www.threads.com/@jejakmuslimah.id/post/DfWyVBRknSX",
+      "d": 1793873459000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@siti_iflachah",
+      "x": "Bener kak..saya pernah berjumpa beliau ketika penyerahan sertifikat gratis...beliau auranya tenang,bersih,kalem. Bener2 mengayomi banget kelihatannya 🥹🥹",
+      "u": "https://www.threads.com/@siti_iflachah/post/DfWzCfyGSz4",
+      "d": 1793873831000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "MetroTVNews.com",
+      "x": "Jadwal dan Persyaratan Beasiswa Penyelesaian Studi Doktor 2026 Kemendiktisaintek - MetroTVNews.com",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0ZPSzlERnE1b01nWTg2T0Z1RFo3eHJTalNEai1VS1dUMUdRTkZObzA3YlFmby1tdlM5TUFSc2pXTUwzeGRQWGItOW1hMFZtekNlcW5HSzFvT1JWck5kc2FOM0JwZExjVlZLR2xHV2Y2OVlNaV9WZkV4VXd0VHA1SktDa0padWhoZWdfM3N5b2MyTnZraV8tb1RfRm53ZHIyb3RvTlIxM1lWdTBSVmh6TmxEXzdJOS1RMExiVmI2NA?oc=5",
+      "d": 1793872673000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Akurat Jakarta",
+      "x": "Kemdiktisaintek Buka Beasiswa untuk Dosen yang Kesulitan Menuntaskan S3 - Akurat Jakarta",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlFaUHU0LTVHQUsxcjlhY0xqNFVwM01qWHVQZnUxaWdaeEtpak5PY3MzVjZ5el95M2Z2TEhSUGRqaXJLUERnMHpORGU2cU15RHdkYTAtWFoyT1VWQlB2bEFEd2hueVdncGNjUTZCd19uTkRnb0w1RkQxUE5DM2tlcHE5V2dudHpJOUdwajFXTjlhN1U1ZVR5V1BDZnpPcW05eC1sOU9YQzZlSDk0aE1ER0pqZTROQQ?oc=5",
+      "d": 1793873700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
