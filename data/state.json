@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DYpyzv7EjPA": 1792703160125,
-    "threads:Dez3iNNk5j-": 1792703160125,
-    "threads:Deyu-_ECT-9": 1792703160125,
-    "threads:DdnUO-GHXV3": 1792703160125,
-    "news:CBMivAFBVV95cUxPdmZYN0xBa1g4anF4aHd3Yk9DVEhUd0xWMnUwQk9FU3k3WUtsZVN5Y3pqcVRyckdNUjhsdXBfRlhXOUp3eXNHZWdGb1RJNzZTeEJaVDJxMjAwNDluZE80cm9FMURfbE03cDJpN0ktQjM2VlhHTGdLbXlpczFFdG10Y0E4VW9UbDZMXzdocVZmYUExTF9MekZ1WEdBbXQya0R4cnpGeUtydGhlWE43b2duLXNpaVY0TjlwN1dDbNIBvAFBVV95cUxPdmZYN0xBa1g4anF4aHd3Yk9DVEhUd0xWMnUwQk9FU3k3WUtsZVN5Y3pqcVRyckdNUjhsdXBfRlhXOUp3eXNHZWdGb1RJNzZTeEJaVDJxMjAwNDluZE80cm9FMURfbE03cDJpN0ktQjM2VlhHTGdLbXlpczFFdG10Y0E4VW9UbDZMXzdocVZmYUExTF9MekZ1WEdBbXQya0R4cnpGeUtydGhlWE43b2duLXNpaVY0TjlwN1dDbA": 1792703160125,
     "threads:Deq4n05meL1": 1792704227849,
     "threads:Ddk1ssqn0II": 1792704227849,
     "news:CBMiqAFBVV95cUxOX3NvdDJaTW1HWmJwaG53N255UHVyNnprMW9jUUxWRE5IVGs1bEZDMHhqN3BCbjhnMkRySVJTSVdPRld3OWV0MnBBenFITVNCMlZXMFFQSWNHTEZkRndmUFZvdmJLanIzQU96b3BSVEFZOXh2N3lqS18tQklZSnFrczV1OGdONEJDX3ZBM1J3emhfQUoydld3aDd6aWYxeEJZZEUtZ0l4RVM": 1792704227849,
@@ -27762,19 +27757,22 @@
     "news:CBMirwFBVV95cUxQSXRwNG1TTVJFSjdNNUlrMmtQMGY1NGpZVkZkVjRKOXRpZHNUbXVtdFl2S1JfV2dkVkJBNW9YMk45VGRfRFJxRWRFYmdwWGxUbjdNWkkwemNTSUJmTmZYdFNHQUJwd3BWN2k2UEFWUzVBTWRlaF9WcWJ0dzRObXVBR3N1Y0U0OXhCVnVtM05WTGFUaklQV2JNV0Z0V1lBV3d6Sk5aOWh2UFgyNXNGTWZr": 1793911844786,
     "threads:DfX7Vlhkqw4": 1793912135407,
     "threads:DfHNlY1FcXC": 1793912135407,
-    "threads:DezFuZnH6ZK": 1793912135407
+    "threads:DezFuZnH6ZK": 1793912135407,
+    "threads:DfX7tzJDZE_": 1793912754238,
+    "threads:DfX9SOljwCU": 1793912754238,
+    "threads:DfX89BlAPRz": 1793912754238,
+    "threads:DfX9FT6o8WT": 1793912754238,
+    "threads:DfX85RdDKKb": 1793912754238,
+    "threads:DfX8ytggs43": 1793912754238,
+    "threads:DfX8obKEmdz": 1793912754238,
+    "threads:DfX8atOkU5H": 1793912754238,
+    "threads:DfX8Ollm8-H": 1793912754238,
+    "threads:DfX88l8Jxws": 1793912754238,
+    "threads:DewGMKCmk8h": 1793912754238,
+    "news:CBMihgFBVV95cUxPeDVKNGtKellHSGJUV2ZWbjZNWlUtZ0l2QXJrRlpCRnZNT0FTSGlmdFNsbHBSa0NhN3MxWUpxbHMzMWowRl9WN1BJcklXUFd2SWc5VFRqXzUzSXVBR2UyaGlwclJzWXZKdDAwLS0wTDRCZFhfSFV4WVhydUU3VkdIUnhtSXpaZw": 1793912754238,
+    "news:CBMi5AFBVV95cUxNY0VtbWtRbEZZOHlUZ0R6dWZ4SHVyQ0xHRkZpbFNMRUw2V01UT1huZFBQLVBjT2t0ejdoeWxmMTJLWExGWFd3MUl4b2VSRE82WHRueVA2dUhWU2xmdDFLQzhUTHF5cUgzcUJhbXB0T3dpaW9DTVRSVGg4anc0LUdFYThrc3hXb2VvUThMOTE1T0xQM2JNOVFUVHlzaUpkUTVsd0dnSnVRYnI1dk5mWFdzX1FlOVRjdTZwQWJWNldwczJDaHM2Z3ZiX1E5N2tDMnZpMnBCVnpWdzViQ0podmVrenM1NDHSAeoBQVVfeXFMT1ZHa2UzRTRVbHdFblFCT3k2cmhURTEwNVo0UGZuc1JYanowN25LUnRPdDFiQ1lLcVlSWm12LWhaMGh2YkdUN1hXV2piOGVCeDZKcTgtRk13T2xVVlc4U1dIaVBYLWZRUTVlLWIzUDFCUF9HYnFfV3hyZ1dLQ1hrcnRQdlV6VTJfaDNnaWlOeGNpZ2VmSWs1Y3FEUXFhd2Q0U1hqV0VqRUlCNUFhY1JLenlIay1mNGVHeFBQM1U0VHdPNnd0cGlobEhXaUJ2WmVkM0RsNEhYaVlyN3lYWlRZN3c4Wm5GYTlVZ0x3": 1793912754238
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sukses.cpns.27",
-      "x": "Grup CPNS 2027 GRATIS!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal ,tryout dan webinar gratis🤩 silahkan mau silahkan join yaa",
-      "u": "https://www.threads.com/@sukses.cpns.27/post/DfXLLWIEtBx",
-      "d": 1793886487000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29264,10 +29262,20 @@
       "d": 1793891140000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "KKS Merah Putih Mulai Terisi? Cek Status SIKS-NG Hari Ini, Bansos PKH BPNT Tahap 4 Cair ke Rekening - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY0VtbWtRbEZZOHlUZ0R6dWZ4SHVyQ0xHRkZpbFNMRUw2V01UT1huZFBQLVBjT2t0ejdoeWxmMTJLWExGWFd3MUl4b2VSRE82WHRueVA2dUhWU2xmdDFLQzhUTHF5cUgzcUJhbXB0T3dpaW9DTVRSVGg4anc0LUdFYThrc3hXb2VvUThMOTE1T0xQM2JNOVFUVHlzaUpkUTVsd0dnSnVRYnI1dk5mWFdzX1FlOVRjdTZwQWJWNldwczJDaHM2Z3ZiX1E5N2tDMnZpMnBCVnpWdzViQ0podmVrenM1NDHSAeoBQVVfeXFMT1ZHa2UzRTRVbHdFblFCT3k2cmhURTEwNVo0UGZuc1JYanowN25LUnRPdDFiQ1lLcVlSWm12LWhaMGh2YkdUN1hXV2piOGVCeDZKcTgtRk13T2xVVlc4U1dIaVBYLWZRUTVlLWIzUDFCUF9HYnFfV3hyZ1dLQ1hrcnRQdlV6VTJfaDNnaWlOeGNpZ2VmSWs1Y3FEUXFhd2Q0U1hqV0VqRUlCNUFhY1JLenlIay1mNGVHeFBQM1U0VHdPNnd0cGlobEhXaUJ2WmVkM0RsNEhYaVlyN3lYWlRZN3c4Wm5GYTlVZ0x3?oc=5",
+      "d": 1793831431000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
