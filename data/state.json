@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeyMU62E7xS": 1792649442702,
-    "threads:DewrHQIDcOn": 1792649442702,
-    "threads:DdDwQmkk47W": 1792649442702,
-    "news:CBMi2wFBVV95cUxQNzI5UHRnVjVZSXQ0MjAzbV9WSFZaNDhfcWw1VkpkdEdBTjdlNmdtNEZlTm5iRVFWMHBKTFRYaUkyMGdPY2lWbzliTk5YM29lVjNUcUFGdzQ5NlY5eDVJSm5HREZoYi1hNVJaQ3Ywb3F3MG1XeUJWeTQ4THVkejlIaEhudmtYVm9jbHNLNzZxQzk1MnVFSGtPQTRfcnlSZzlpLWF3UXJ3VkdrelZ1ZkhZYjRoSTlJWFNYWEtOQzFRWHl2aGJldkJHN0ZQTWhqdEw3NUhuMWE4UDIzb00": 1792649442702,
-    "news:CBMiU0FVX3lxTE1xS2hzMGxkQ0stSndnNElKMUtEM25Pb0tPczFiS3UxYlBmQWlQc2hIZU9UZ1M5bFZwb3JVRi1uckV0bG9DWlZVV3JPdnZDdTVzb24w": 1792649442702,
-    "news:CBMixwFBVV95cUxNSUVIYnhnQk9iRFc5enRsSDNXTzVhVlZWb1c4VE44TDJFTmVnMXFiSDB2aXVhWVNTa1YycXdEbGNfQ1hPdDlETFdqUXhsZC00VG1TVl9YY05GY19RbGEyemNfZk1mVjd0NzV5X3hJejFQbWZtQVVBRW5odTdMd3dnUDZxYnpNcHZaNWgwcVJaVDQ3NEF1M0lSaUVFa2RINm9ZanVpaTZsSFR5VERCQ09VRVhsVm5iRURQRXNTNU90Z1FRR0pVRGZR": 1792649442702,
     "news:CBMiX0FVX3lxTE02WUpwVGtZaVctRlVoWDB3Ri1tbHZFdDRsd1A0YUR5Wk1iUFBpUjhiOGpZWUdHRGMyRzZTNmtRcG50SmpfU0FJblBLQ1NrdFN2LTBvUjl6MGJvWUk4cjZz": 1792649747847,
     "news:CBMiWEFVX3lxTE9ZV2YtSzUyeVhGVGwzLXdRQ2xYd0QtXzlkbTc1RzJmOHJob0t1eHRZa0o3SjRGU2RsSlhrd01vc1gzazBFVDBSYVZ6bmZna0NmeTFBOU4wc2w": 1792649747847,
     "threads:DeyNc_fk9yo": 1792650044406,
@@ -27422,39 +27416,13 @@
     "threads:DfWVtyQjmOa": 1793858775122,
     "news:CBMiugFBVV95cUxOVktLNW85ZnViZVJoaUVVamVlTmpUUm5kSG5fQ1cxS2tGZTMyYzI4aFp0cnpMdGVZVFRFY2syWTBZeWhlZDdMa3pqd0NCUEFtWUcwbVAxZmRFVWh2NlhZN25IYWlrd1FKaG5ZUWNxNE9kNm9VTG5pN3Q4aTNIYnktdjZWcFd4RUpBU2hVdjctMDFXU2Z1N0N1eXE1NDgxZ1NOU3c5SGN6R1l6ZzRUeDFZNkp4UHhjOEJDU2c": 1793858775122,
     "news:CBMirwFBVV95cUxQUzBoZ012MVk0TUU0Vm9ZaEZQa1FFbU9mNE1UOHBKYms3MUFOTExvUnBaYUJrYnI0Rks0eVAtVDZxNUl1TGRSdWhfWWc0TjNLU1ZrMG5MTHZxbkQ4bzhpZG9ESVlkV29fYnVJQU54YlV1QUhqa182Uy1NektXYVNrNkZwRDN0b2tWNU5kUDNlRXU1MXpvQlU4WTNZd0N2Z3N3b1dWNjVyUXFlY3o4T2s0": 1793858775122,
-    "news:CBMitAFBVV95cUxOTUdNanJFbk93bl9sNXl2NWhCZ2tkRlB0eVZSeXIyTndpeTREOTBxVl95ZXVpd3BwUENVSUl1QXVRWG9OU01DOFdKT1czcmJ6VGtpR1JnRS1aQ0ZIT0RPdEZkTWRKTk1YTU9aZG01TjlPaGtILWU2ZzNKQ2RkdkhIcTh3dm1UbzROY2hQOU5VNWdFcnFfdVNmb3FSR2t0MGNLUkxGVWlCLS1ybmZscjR3T1lOZDTSAboBQVVfeXFMTVlLcWI5ZFFodl9zQVBlOUgxLUhEQVJZZ241VXEyY0s2MmZrM0tRRFZIelBWN3lVQjlBbWxvdVpzcnY1Zjd0ZFJkWUE5aGw2aU5XdVAycWcwWm1SRU9aeDVTMXFfcTI0YzdWUTNYdWFlbDVWcFkxM3V2cG1iOG1WU1ZtOVhsUGtKVTIyekVOdGVaM3VGOWhCNmlRbnFJYmo0NFFCeXR6VUU0emZZU1daWUZxdTdiNkRacUdn": 1793858775122
+    "news:CBMitAFBVV95cUxOTUdNanJFbk93bl9sNXl2NWhCZ2tkRlB0eVZSeXIyTndpeTREOTBxVl95ZXVpd3BwUENVSUl1QXVRWG9OU01DOFdKT1czcmJ6VGtpR1JnRS1aQ0ZIT0RPdEZkTWRKTk1YTU9aZG01TjlPaGtILWU2ZzNKQ2RkdkhIcTh3dm1UbzROY2hQOU5VNWdFcnFfdVNmb3FSR2t0MGNLUkxGVWlCLS1ybmZscjR3T1lOZDTSAboBQVVfeXFMTVlLcWI5ZFFodl9zQVBlOUgxLUhEQVJZZ241VXEyY0s2MmZrM0tRRFZIelBWN3lVQjlBbWxvdVpzcnY1Zjd0ZFJkWUE5aGw2aU5XdVAycWcwWm1SRU9aeDVTMXFfcTI0YzdWUTNYdWFlbDVWcFkxM3V2cG1iOG1WU1ZtOVhsUGtKVTIyekVOdGVaM3VGOWhCNmlRbnFJYmo0NFFCeXR6VUU0emZZU1daWUZxdTdiNkRacUdn": 1793858775122,
+    "threads:DfWWRo6ExaQ": 1793859046705,
+    "threads:DfVhmVjH2CF": 1793859046705,
+    "news:CBMiY0FVX3lxTE13WUFsX19ocUdZdHVGcmdwZDNtQ2RlT3lqOUdKLWxiX1htRVpveWVTX21zZzVaWHUtbFVseFVWOGw3bi1sWnZpTDhfcHQ1bGlCUFRrZnFsTjdyb3lIV1hkUG5sMA": 1793859046705,
+    "news:CBMiygFBVV95cUxOaG1CNDBnNVpuQ0JOT0JOWko4T0plUFdzVUtmOUpYQkVXeFZ2MlhRMGcxOXl2VTJnY3lGVHdTRW5iT09DTTZMMmIteF9hN0dXamRyZi1ta1NFT2ZSWlpSZURGU3RqR3FUVnBBMi1OTzVaMVpwZWpQdGxjUUFxN3ItTXN5Vnlaai04RGxTX0xWNWstbkRUTVZhdERDQjBnS19pOUZNNU5LVE1KSFlfSlA0Vk9QdV8wbTFEeFd6MHJ4NW1hNlg5b0Y4MHVR": 1793859046705
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sukses.cpns.27",
-      "x": "GRUP CPNS 2027 GRATIS!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal ,tryout dan webinar gratis. silahkan mau silahkan join yaa🙌",
-      "u": "https://www.threads.com/@sukses.cpns.27/post/DfWFnTLkoCt",
-      "d": 1793850016000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sunardikakashu",
-      "x": "Webinar Gratis Gurihnya Bisnis Skincare Herbal dan Kosmetik Bareng Kang Dewa Eka Prayoga Yang mau ikutan Komen Mau",
-      "u": "https://www.threads.com/@sunardikakashu/post/DfWFk7TFpqt",
-      "d": 1793849997000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sukses.cpns.27",
-      "x": "GRUP CPNS 2027 GRATIS!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal ,tryout dan webinar gratis. silahkan mau silahkan join yaa🙌",
-      "u": "https://www.threads.com/@sukses.cpns.27/post/DfWFi4AklPf",
-      "d": 1793849979000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28924,10 +28892,40 @@
       "d": 1793858424000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@devstacks_ai",
+      "x": "🚨 DEVELOPER INDONESIA, ADA YANG LAGI BIKIN PROJECT DATA BANSOS? 🇮🇩 Daripada ribet bikin integrasi dari nol, sekarang kamu bisa eksplorasi Bansos API dari Bali Tech Solution! 🚀 ",
+      "u": "https://www.threads.com/@devstacks_ai/post/DfWWRo6ExaQ",
+      "d": 1793858751000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@atom.anciz",
+      "x": "Cek BPJS PBI kamu aktif atau tidak sudah ajukan sangga belum coba tulis di kolom komentar yang bingung cara ceknya #BPJSKesehatan #BPJSPBI #PBIJKN #CekBansos #DinasSosial",
+      "u": "https://www.threads.com/@atom.anciz/post/DfVhmVjH2CF",
+      "d": 1793831134000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunjatim.com",
+      "x": "Cara Cek Penerima Bansos PKH dan BPNT November 2026, Lengkap Rincian Nominal Tiap Kategori - Tribunjatim.com",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaG1CNDBnNVpuQ0JOT0JOWko4T0plUFdzVUtmOUpYQkVXeFZ2MlhRMGcxOXl2VTJnY3lGVHdTRW5iT09DTTZMMmIteF9hN0dXamRyZi1ta1NFT2ZSWlpSZURGU3RqR3FUVnBBMi1OTzVaMVpwZWpQdGxjUUFxN3ItTXN5Vnlaai04RGxTX0xWNWstbkRUTVZhdERDQjBnS19pOUZNNU5LVE1KSFlfSlA0Vk9QdV8wbTFEeFd6MHJ4NW1hNlg5b0Y4MHVR?oc=5",
+      "d": 1793858700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
