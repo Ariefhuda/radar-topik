@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DT-RHLpgRnQ": 1792663275591,
-    "news:CBMisAFBVV95cUxORG95M08yX0lsd1hiQzBvUTVJWWo5akRGNm12V2JHUXZDQzJTaS1iQWEwVGRod21nVWMzMlc4Zk55NmRNMnJKTk9CaEh0NG12bFM4emdxWkhGS0pEMG4ySmpuSVRuMkVpc0ktNWQ1bTMwYXdzQVdTVGN3UXRHVjVXOVNjclVVcGZxVXV5TGRXNW9jVkVDT1BhdF9KVWlnQy1FcURUa2F2LXNPSFdMeDVWdg": 1792663275591,
-    "news:CBMi1gFBVV95cUxNN1pLUWdWV3o2TVROQmZyZ2RfbVZoUUJHRS1NMndQbC1fYW1MaW9TQmttcThOS0hNS1hRY2hWVVBBLUtRSHlMZ3F6T0NUVjd5YThqR3RsdmU2RG5mbjBLSWkzalVCRzNWTUU5bmQwUm9pTVJjaVVOVDR3RDlON0RPdGM3UnVIdkJIaWtxdU5aZUlwb0p3UHFpcndVM0xTUm94Umc3S0xMai1KNVJfTXRnVFFXVGZDY3hoMUtxMWhHTjY5Sk1pVVg3c1NPcWZJSk5IRWlkLVFB0gHWAUFVX3lxTE03WktRZ1ZXejZNVE5CZnJnZF9tVmhRQkdFLU0yd1BsLV9hbUxpb1NCa21xOE5LSE1LWFFjaFZVUEEtS1FIeUxncXpPQ1RWN3lhOGpHdGx2ZTZEbmZuMEtJaTNqVUJHM1ZNRTluZDBSb2lNUmNpVU5UNHdEOU43RE90YzdSdUh2Qkhpa3F1TlplSXBvSndQcWlyd1UzTFNSb3hSZzdLTExqLUo1Ul9NdGdUUVdUZkNjeGgxS3ExaEdONjlKTWlVWDdzU09xZklKTkhFaWQtUUE": 1792663275591,
-    "news:CBMipgFBVV95cUxNWVBFaWpIV2RlamcxTzVWc0EwN1BXNHFhVXlhYUE3ZGZSV3dMSlkzMzRyRlFyUmdrcklpUWpRNldIMlRlOExaZm5RbU9vaEl3M1Eta0NoeVRJUzN5c0tpMUM5NkhhXzloNm1OdDd1UkxNZ0k5U29PdXFtX0lCWS1yZXJXUzJRMzRiWmtldmxKSHkzalFpMUN6b3RFTmttYUQyMzg3SldB0gGmAUFVX3lxTE1ZUEVpakhXZGVqZzFPNVZzQTA3UFc0cWFVeWFhQTdkZlJXd0xKWTMzNHJGUXJSZ2tySWlRalE2V0gyVGU4TFpmblFtT29oSXczUS1rQ2h5VElTM3lzS2kxQzk2SGFfOWg2bU50N3VSTE1nSTlTb091cW1fSUJZLXJlcldTMlEzNGJaa2V2bEpIeTNqUWkxQ3pvdEVOa21hRDIzODdKV0E": 1792663275591,
-    "news:CBMivgFBVV95cUxQdzZsRjdhMmNQRnNLVldEVzN5OGdIcnExTm9KdjFkeFY3LW1Hbk9YQjZjVDh3c0g4Z0ZsX3pfdXh6SVZFdjZWdk9LTGhuVFgwQkQ0U3hTVnpUY2VnRDU2OWlYbG5BSFd0VHJ6NXF4YnhDNE04NGJ0cW1YTzA4VFhBUFFMc29ta0R6RnAyemZOcnNFS0wzeDJITllJam9sMVVVM3NueU5uUlp3ZXpPQXNOZTBhcUR6OEVXS1lPS2pn0gHDAUFVX3lxTE1Ta25nZk8ySTNYRVlwMmRPQnJXMC1DRmljNURJOW1mZjlSeEVFN1Z3bEhhQWU4bl9KN0NpOVJld2dUSE5oUVUtRWk1R2hnbmU2QVN3RlhJdTZUbGlpeERIdFFlbjQtRXVxdzU0U3doNTdpT0hnbEhZLTFKd2ppYWV6cDhWVERYZDBzel9SREZIZWJMQlFXQWFucHJLaVRlb3ZQSFo1UlptWFM3U3pxY2ZoWm5wNWpTNnMtQWE4UHhuOEp3UQ": 1792663275591,
-    "news:CBMi2wFBVV95cUxNeHB4RnFLVm5qN3FXeC1YczZDOVZ0Z3dkNzhoYmQ2T2xKTVN1SHNOYUNiSS02SGdOeWJ3NG9fenprek51YUN4VllkamdrQ20xcW5KNkV0Y2NSaUZwU0ZveEJVZmEwc1VpLTJUSkNUT0FpUkwxRWNOOVFaczcwa2RNVlppbVFkNTJ6RmJiS20zOXRnLXFDRGNGSmthd1hjMllrdS16VFUwcHhMREZXSEU1ME1sMk16OTRPLUVOLVI4UExCb3hrdzdQZmVTVHk5eWpYMDNtVGhZM25MbmfSAdsBQVVfeXFMTXhweEZxS1ZuajdxV3gtWHM2QzlWdGd3ZDc4aGJkNk9sSk1TdUhzTmFDYkktNkhnTnlidzRvX3p6a3pOdWFDeFZZZGpna0NtMXFuSjZFdGNjUmlGcFNGb3hCVWZhMHNVaS0yVEpDVE9BaVJMMUVjTjlRWnM3MGtkTVZaaW1RZDUyekZiYkttMzl0Zy1xQ0RjRkprYXdYYzJZa3UtelRVMHB4TERGV0hFNTBNbDJNejk0Ty1FTi1SOFBMQm94a3c3UGZlU1R5OXlqWDAzbVRoWTNuTG5n": 1792663275591,
     "threads:Dex8MAXmyZC": 1792663849485,
     "threads:Dds2DtvAXbu": 1792663849485,
     "news:CBMiygFBVV95cUxPM01hZmFqS3NGMUNHejN2ZTNwdUVoQTdxLTNuMTduWVJOTDdpc3B4TVZDOTd5WXhuTVBkcXFkak5UUXdBdHZLR0cwYlV4NVBjMVRfanM4b3lkTFlWQU5ydFZOc2FyaC1wYmtPeGU3aHRBVDg2al8xdkFUOTNyWjNDTUtsaG52Q3NiaHpWWjNsQTNPWlJfNFRON1ZYR1FXaUxRNl92clVxSFJweHNMWllZTjd0eFVvNUFjNVFPdlYxajJnZDJKeThpSVJ3": 1792663849485,
@@ -27558,19 +27552,11 @@
     "threads:DaOsQN1E7wX": 1793872535739,
     "threads:DdDJq6NkpBJ": 1793872535739,
     "threads:DfWwTkxmTVW": 1793872535739,
-    "threads:DfWvzHTDRcq": 1793872535739
+    "threads:DfWvzHTDRcq": 1793872535739,
+    "news:CBMieEFVX3lxTE1xQ2R6R1RDVDN0dVhESDBjVy0tdlFQbGVHeU9BNzF5VXQteDZweW9NQkpMdmY1UkFmeFY5TV9NemkyRFVXU2ZFci1rcTM3RmZCRmJRXzhncEVOSmwzSXdlbmtET21raHZ3RnBWRnQ4elJpZkJyaUxyRw": 1793872853697,
+    "news:CBMicEFVX3lxTE9uWFYtWHMya1VRNlVfV1RhZVg0NmNfSzd2SUZYdDM1czFZWGtnazhPYUtWSTJXVWFsck5Ua2RjQVVGSzlfczFUTmNTTk5PMm5LbVJNSi0xendfQmk2dkJhbFg2WXdEdG9rdl9vel9yUWE": 1793872853697
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@theinvestor_id",
-      "x": "Ada kabar dua perusahaan mau merger. Ada yang tanya: bagus nggak buat sahamnya? Jawaban kami: lihat siapa yang digabung. Dua-duanya sehat = bagus. Satu sehat, satu sakit = yang sak",
-      "u": "https://www.threads.com/@theinvestor_id/post/DfWcJbJEudC",
-      "d": 1793862000000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29060,10 +29046,20 @@
       "d": 1793872135000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Kemdiktisaintek Buka Beasiswa Penyelesaian Studi Doktor - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWFYtWHMya1VRNlVfV1RhZVg0NmNfSzd2SUZYdDM1czFZWGtnazhPYUtWSTJXVWFsck5Ua2RjQVVGSzlfczFUTmNTTk5PMm5LbVJNSi0xendfQmk2dkJhbFg2WXdEdG9rdl9vel9yUWE?oc=5",
+      "d": 1793855307000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
