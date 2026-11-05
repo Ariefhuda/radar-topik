@@ -27227,7 +27227,8 @@
     "news:CBMisAFBVV95cUxNWDBLY3BvbXNDZExoNjNDdzM0d2RvcExROTE4NWVIdUliU042Z28tZGJHbWRKT1BrV2d2LW9UdkpZUWtLRzRYOXdraV94bFRfSU5PM29kWkxiUGVDdGl5dkZka1JONTBJUVNIbi1KSVVubUhaQ0NKNWxaLVVEY3lCTDg4eEMzTHVxQWdjMHdlcjZ1eGVnSUNqRE1IWElYejRyeUhtREtUM0RuZFVCclBRVQ": 1793846750930,
     "news:CBMingFBVV95cUxOcGNCX0N1M3QxZmVNZ3owc003TlpjS21DeEFzTE5oYUd2MFd2NWRoeWRqdHdkeWxOemVPYkJTbTdRb1JuWTNVc2FRRjVnSFBwcDBaN25OeFVyWlFOd3JEc1pnR1Q1LUJwVjhxOWtJVkUyNkxleU81bHBoU3BDVkFHSXlOQkk0eUdlWTE5Y19TSTFocTZzSHozcDZqTFZCQQ": 1793846750930,
     "news:CBMi9gFBVV95cUxQcXJwNXdYbnBvQXJNa3JJRmVsT2ZSU1lEXzlKSzljZVJLUXpteEZleWRzRnMyUzhhUmd0cHBVVXdPSFpTY25GbU9zWmxvMkJFUE9vdTBBZjJZbWRmSnVDVUFCOXZ0Ykk5WjY2LUpBR2RwUURnVFVoSDJ5allFNHBfM21Rc3V5UUtIUGhkZU1sZVllYk9IOUFxbkNYRHNKaGd4UkU3THN4WXRJb2NwaEdTQUJHUl9IMTc3eEZYVkZmRHpJOC04WFY3dHdiZ2NrcTJsT2EtbDZQOVhXZW9URkZtdnVua2hidG5tUWZHYzZrblgwUlZQaHfSAfsBQVVfeXFMTnlVY1Y1TWVFcjRseDVWRmI0M2tZSUZyMjVPM2llc0wwa25oVl9rRUtyeHhtOF9yX2NjVVJVTTFWb1hDeW5ybjZFemgyM1REdk81cl9Kcm1vQk5YbG51U1N0eG5ndzIwa3J4dHF3SmFpTWlMdXp1a19heGtwZnh6Wi04SGE2WWU5ejBEeXdWRG9hQU13TU8wU3RVRUNNZUkwOENaUzVhSmZzN1dhSFByM0xWbDVMazBRLWYwamUwUWVaX21oXzY3VDU1MWQ1MkUzX0hQWVlaNEIxSFBKTEtMVVNadVhCbEZqSFlkZWMxbEdqZHVHbmhpTkNZaFU": 1793846750930,
-    "news:CBMingFBVV95cUxQd0NLZ0ltZ2t5MkhqSWJ5LVZuTjZIUmJxZU1aRVc4amw3cDJQMUJZbUVMOG83ZThGMTNOaXpvUHNQQ2hGcHhsWXhWV0FkLTlzb1VVMUwxV21zRlRYVUVueWhEWFptZDhDOEc4bkg4ZEFhMHdkVmhoQjZyOW13N0xNa09uVVMtQnZoUTNxckl5WkxvWlVsMnJXZmg4dTBrUQ": 1793846750930
+    "news:CBMingFBVV95cUxQd0NLZ0ltZ2t5MkhqSWJ5LVZuTjZIUmJxZU1aRVc4amw3cDJQMUJZbUVMOG83ZThGMTNOaXpvUHNQQ2hGcHhsWXhWV0FkLTlzb1VVMUwxV21zRlRYVUVueWhEWFptZDhDOEc4bkg4ZEFhMHdkVmhoQjZyOW13N0xNa09uVVMtQnZoUTNxckl5WkxvWlVsMnJXZmg4dTBrUQ": 1793846750930,
+    "threads:DfV-4axmhM_": 1793847048979
   },
   "digest": [
     {
@@ -28319,16 +28320,27 @@
       "d": 1793846602000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "bisa lewat aplikasi cek bansos (fitur usul/sanggah) kak, atau dateng ke desa/kelurahan. nanti diverifikasi petugas",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfV-4axmhM_",
+      "d": 1793846491000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1793833569153
+    "reddit": 1793833569153,
+    "news": 1793847048979
   }
 }
