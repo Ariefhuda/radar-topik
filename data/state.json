@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DZMDZfqFJNE": 1792635043697,
-    "threads:DdFryD8E0Da": 1792635043697,
-    "threads:DbA3YP5AZWo": 1792635043697,
-    "threads:DcFwotoD4Fa": 1792635043697,
-    "threads:DdmG2B9n3Pi": 1792635043697,
-    "threads:DSUZmmzETvZ": 1792635043697,
-    "threads:DbSKeTZDtFq": 1792635043697,
-    "threads:DZrAn8Bkeq7": 1792635043697,
-    "news:CBMipwFBVV95cUxPRnB5NzdSUFRYcnNsVm0zX01za2lVajRZc2Q2LVZuSnpaNld2YVgtMW41VjFDRHZfS0JfRW1USFhkdE1UV2pTNFltbFIxZWkxdWRUME9JYXhESTd4d2Zka19hMkhWSWJsWXdvb1hGWlotODF1OFAzeFNkdHJHX3MzTEZ0QTdER1NWNVNndzJ0c3RYeE55Qk5MQkFHNGRORHdZYjBCUkNLZw": 1792635043697,
     "threads:DUQkggXEg7r": 1792635340156,
     "threads:DSrQHQpERRj": 1792635340156,
     "threads:Detl2dGIE35": 1792635340156,
@@ -27206,7 +27197,10 @@
     "threads:DfV5aFHj8y1": 1793844335827,
     "threads:DJyjxupzHyp": 1793844335827,
     "threads:DfV6hARD4UD": 1793844335827,
-    "threads:DfV0SFlmOzk": 1793844335827
+    "threads:DfV0SFlmOzk": 1793844335827,
+    "threads:DfV66UUHTLG": 1793844645637,
+    "threads:DfV6fx_k1fb": 1793844645637,
+    "news:CBMisAFBVV95cUxOa1JlRDBhVzBZUDQzN1BwQjhPVUZYWklicHVyLVFULXpIS0p3amVxNTZrQVlKaDF1bDQ1SmVydEF3YVhFZ0lIY2xsWTN5SENsN1FtRm91a2tRV0lQTTJDM2cwNU4tdUJEemxQemY0WTZZdVllUmRsSUYxaG9QMFJsSGlMUVIxWHJQVVNkU2lPMDV6bV8yc0JPNFlRdUV5LURTSEJ3VlFiLTRwd1Y2MUhLNA": 1793844645637
   },
   "digest": [
     {
@@ -27908,10 +27902,40 @@
       "d": 1793840929000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anitazahra925",
+      "x": "cek wee kartu merah putih kalian tanjung pura kabupaten Langkat sudah ada yg cair. #sorotan #bansos #pkh #bpnt",
+      "u": "https://www.threads.com/@anitazahra925/post/DfV66UUHTLG",
+      "d": 1793844405000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mr.sakti93",
+      "x": "gak semua kok kak, Bpjs masih ada yg dapat, cuma memang yg desil 6 - 10 hilang utk bpjsnya, dan emang masalah desil itu masih banyak yg perlu diperbaiki, karena pemerintah menyingk",
+      "u": "https://www.threads.com/@mr.sakti93/post/DfV6fx_k1fb",
+      "d": 1793844187000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun Gorontalo",
+      "x": "Cara Cek Bansos Kemensos Tahap 4 Melalui NIK KTP Secara Mandiri - Tribun Gorontalo",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1JlRDBhVzBZUDQzN1BwQjhPVUZYWklicHVyLVFULXpIS0p3amVxNTZrQVlKaDF1bDQ1SmVydEF3YVhFZ0lIY2xsWTN5SENsN1FtRm91a2tRV0lQTTJDM2cwNU4tdUJEemxQemY0WTZZdVllUmRsSUYxaG9QMFJsSGlMUVIxWHJQVVNkU2lPMDV6bV8yc0JPNFlRdUV5LURTSEJ3VlFiLTRwd1Y2MUhLNA?oc=5",
+      "d": 1793844455000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
