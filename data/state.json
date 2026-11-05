@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DbYWo7Vk3_d": 1792695658186,
-    "threads:DZWIUkCk7Ok": 1792695658186,
-    "news:CBMi0AFBVV95cUxQN0l1V1NRMlRBLTdmajItUGpyUjg0VGZFX2xOYi1tckp2Z2pKUUZad2hGUTU0VnpLVW1sSUZyc0I5MEp4OFZxend3YXVpZl9YdnlfTUtFRXA2Nmt4LTFLMEFjM2xqWUY4cHlEcDE3ZjZicThlMjYyTjl2T2IwVXZmVS1VbElyT2FVMTM5NzNoQ3Z6dWNRRWtqc3hxYk5ERU1NS0pNRHNYd1VQOXhnXzBtcGpZR2NBcU5paEhkeFQzNWwxbUNUM1lKcE1rUWhwdGlO0gHWAUFVX3lxTFBHWFQxcF9NdEZVOTdiQ1pVSkJhblhaZ0tfNkxJeWxwd0Nya084Y2xXLXhqUENsTWxrRk1kUmVQVW1CV0hvOFlNMHFqRVg2QmxOTjNlaGNBU1NWS0ZCX0pMNmtMQk1qb0N5RnNJMnZZbFdhY2NOQl93ZXdHVnFkd3UxU2Vhd2dnMDhySXhDWFNvR2RZTzA0WlhqTXEwS2cxYTg5OEdfV3czeGwxWHN6ZkdnSEJ3bktiTVViVjRqMzJRNm5FNUtkVTBKQ3E2SEQ1dVNHdENPSmc": 1792695658186,
     "threads:DezEMjHjTB6": 1792696569499,
     "threads:Dex9_JIju3Z": 1792696569499,
     "news:CBMinwFBVV95cUxOMm9WbkJrNHBobGE1dndNTllNdmh6WVFfeWtwV0g0Q0ZFY3Jicy1VdmxaaUE5WkJ4aXh1MmZ5bTFnN0J1WXZZbkJhaGVPMjJFZ1lnSXVNVEg1SDdlZUxJV3NTZkJOc0t0ejE2X01NOElVS0xObklkOW1PT1N5bllXOFNiTnFNa0hieWJpSWRQeDR5OWU1Z0ZYbjh0VTZoWXc": 1792696569499,
@@ -27676,89 +27673,18 @@
     "threads:DfXo0xVEY9k": 1793903820146,
     "threads:DfXspdmK_5i": 1793904341265,
     "threads:DfXsoRqj2qs": 1793904341265,
-    "threads:DfXslCskY-j": 1793904341265
+    "threads:DfXslCskY-j": 1793904341265,
+    "threads:DfW39kQk1pA": 1793905262355,
+    "threads:DfXLthuErD5": 1793905262355,
+    "threads:DfXGfibGJp_": 1793905262355,
+    "threads:DfXuiLRga39": 1793905262355,
+    "threads:DeYnbXRCOMt": 1793905262355,
+    "news:CBMiigFBVV95cUxNa3NUVFJUTzVtcks0S2l4cVlMOFBrUVkxalo0dzFYbl9HZkdTaEl1am1qQVpVOU94MzRtSDVrTTdhTE5HT0xTdHlmZWN3NUE3ck9TbVo2Uk9MV3dzRE9DTFJScjVDZEx0U2dtM0stYjlHWnRSRndkb1NFZzgzTG50TTg2dUdWeVU0dmc": 1793905262355,
+    "news:CBMi5AFBVV95cUxNMkpHNFVfc0JJNFEyeWdEcld4bllHOFBsU1ktRGFSM0xPeG9RV0loMXpNek11VGUyNnduWE1vSTRWU084ekM0a1d6TVNHVWh5MTkxTjdGVl8tUWI1Ulh3UVFaUmp0UkNEY3o4MFV6T2ZudEFERGNEYmR1eXFqdWFjSGFIUGg3SFBFUE15d3REa1lkX251eVpQSmRySUVTOWhMVzV5V1VTclZVdTd2WWhqVXBiUWx4SEpKaVNmLU4zT0ZIQ0lnSWlCTnozSDdlRG9QZmxLRTJPNFdsUVd3WEU5WXZiTU3SAeoBQVVfeXFMT1ZGdVRDVHFDQV84U18wX1lRa0lITEhXc3MtT21PeHMyVlEzYXBhdG9LRUJyNmI4RHBvajFOTi1ZSzNBSUdqdTJuZ0M5X0hIMnRhWlBOU2lkRFljTVVJaGhYWHZvNmhPa0FoYzRxdmpoQTREX3pRSGgxSHdQbmVEcTd4aE1zUGx5N2VzY1NFNllMZmxla045QnhjN21FV3o4RlVYRjZpV3NmUjlHcVpUMWhEbkRheHlUNkZkU1ZOcERvdWJQa2RtYXJWOTk5cUJrV0JEV2J5d19kX3g2WGZZZnpfRzlpbTMtZzJn": 1793905262355,
+    "news:CBMizgFBVV95cUxNS2d6QXNILUUyT3lQenZlcGZTZEJuZUs4bVdUNzd0S0htWnNYaUNWSFBDZGg2aDhFcEhCa2UwZEtKNGVjbGVSOXA5cGN0OVJpSjlCejkwdmVYSVBGTVdYcW9pZGEtbDYxdUgxdl8yYlYwS3N3NXU3eld4YzV2NHNEcGJJMnVlaHVRcFdVZGs4T2JyTzBDVUFQV2tWWXA0WklaRXprZ3VuSWJEZUZPNkpvekM4SC1jNGdySGxiZ293ZElKcTdXSDcyeS12eTd6d9IB0wFBVV95cUxONFhiclVqZnlqTUZRZUhkUDVydDA3NHYzUUNyYjliUFZKUVRpdUJzdFF1YlpKQTFVZk9nZEtXNGNVSTNPU3BqTG1rc29JMXR0V0s3R1BPVVlCQU1OdXBhZEpJVXJwNkFXLVkyT3QwYWFjWUYyWk02SXlBLXYxTWNHc1ZHaGtxaGVwTTFCY1dLMjNTNDdialp5RC1oMy1BZ0NVaUZGblJxTGk5YzBHbEJaQldsXzJkWEppSVRyeEFiU2U4UzMxTC1sWUNMdEtWMXR1NHQ0": 1793905262355,
+    "news:CBMi2gFBVV95cUxNNlRlbEZkbXpiaS01aWlVWkthZUtQQ2xud010VUFtUzVwekZwdWl4Z21xWU9IODRPSE9aOEZSYVdsbzgwaFpVM1IwdTJ0VnNPS1ZldVVtU2RSSE9rREhhaXBaSTdqeVExakpCdnRTTGkxVk5qSzlYOGNWMmoyUlRzdEEzM0tWb1I5WnZqcGozQzJsVERIQ0taRG83bENaTmNYZ2JzZlZnUmlQemV6TTBpa3doX0wxWTVQVkN1TDVZOG1HVUxXVVhKMktWWjFqYUY2WHdlaXNJZXZtQdIB3wFBVV95cUxQb0EyOWlINU1KVEJ4U3RwNXhUNUxPRzludFNnZFJCdjJYN0E2T0tCNDk1NzQ4eERwdFdwUGxqa1pHbGhSTy1QeEkxSmNVbmdDTGJ2akxZR04ycnJEZkdGTXhMTVRlNGVFMkVIOXdjVExza0hQdUZhREVmZG9hTHVVVHc4T3IzUllubXBYVTJyQnZHeVhDUk93Yjd0TzF4Nm1kRHJGZkN3ZThMcHA3TW9ZckgzOVhmeE8yRlFlU1F4MkJmWTlGZWc5OFdpQXRYa1RMalh3cWd3NEo0bWt6N2tB": 1793905262355
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandarinwithlili",
-      "x": "Hi ka, kantor ku institusi pelatihan Mandarin Profesional yang tercatat di ASEAN Records ka, Sertifikat HSK nya diakui secara global, kelas nya online dan fleksible, kebanyakan stu",
-      "u": "https://www.threads.com/@mandarinwithlili/post/DfW5evmmHBs",
-      "d": 1793877209000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@edukasi.beasiswaugm",
-      "x": "Yayasan Amanah Peduli Cendekia Indonesia (YAPCI) dan International Open University (IOU) membuka pendaftaran beasiswa bagi guru dan tenaga pendidik. Melalui kemitraan ini, lembaga ",
-      "u": "https://www.threads.com/@edukasi.beasiswaugm/post/DfW5l5wmLAD",
-      "d": 1793877267000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Kompas.tv",
-      "x": "LPDP Buka Beasiswa Program Doktor di University of Queensland, Berikut Syarat dan Manfaatnya - Kompas.tv",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUERJZUhOb3pGckxUUk5nQ253TjBTWmJPdjJKVVJlMzNjUXRGN1hwSTFzQlFmU0Rpbk5uQ2U1UDc0UkVKUXAxWEVyekNwY2VQOXZCOERUYVpaU0p6R3U3WTc3Uzgtc1ByaXNwUGhiaU9KMDRxei04MDBtcVlfS1FORlFhV1c0QzA0THpSQU1aN1A2SmdsU0Z5YnMyWjZxSVJKLWtab2FPd1FHVUE0XzZ2Y0twMzV1c0h4cmxXRG5VQll6ZnB4SVdIUkVRTErSAdIBQVVfeXFMUDRBZzRIdHdVcUgtM2dTOVZxQ21TTndwWlJhMklRRjdsMVY1NXlKXzZyU2dUNk9jaXZrMlFLM0Z2N3EyQTZpcHZvZTYyV0ZuczNWNzd0WGRmVEhXSkVSRGxSMlFORkJGMjFUanFnNzhQcGl6VXZHcFRqNXQwUVBZZHdwaDN3RTZ6OUx6NUk3X1lzY0lZVWJhWUxraGhGNXVObGlWeDZnUnBGUHM4clJGbjBSYUhZY3ViSkhDR01GZVBtRlo2cGJOcU4xLU85VE9uenl3?oc=5",
-      "d": 1793872800000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@jakarohmana",
-      "x": "Ternyata yang paling berat dari mendampingi anak belajar bukan saat anak susah menghafal... Tapi ketika sudah diajari berkali-kali, sudah belajar berjam-jam, tetapi besoknya lupa l",
-      "u": "https://www.threads.com/@jakarohmana/post/DfW689Rn_3q",
-      "d": 1793877980000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@anhamunawir",
-      "x": "🍰✨ YUK, BELAJAR MINI COOKING AI BARENG! Malam ini saya mau mengajak teman-teman yang tertarik membuat video ASMR Mini Cooking menggunakan AI. Untuk permulaan, saya akan bagikan 1 ",
-      "u": "https://www.threads.com/@anhamunawir/post/DfW7vWhARvr",
-      "d": 1793878393000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@anhamunawir",
-      "x": "✨ MAU BELAJAR AI TAPI MASIH BINGUNG MULAI DARI MANA? Yuk, ikut KELAS GRATIS! 🥰 Di kelas ini kamu bisa mulai belajar: 🌸 Mengenal AI untuk pemula 🌸 Membuat gambar menggunakan AI \ud83c",
-      "u": "https://www.threads.com/@anhamunawir/post/DfW7Xlfgapo",
-      "d": 1793878198000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@anhamunawir",
-      "x": "✨ MAU BELAJAR AI TAPI MASIH BINGUNG MULAI DARI MANA? Yuk, ikut KELAS GRATIS! 🥰 Di kelas ini kamu bisa mulai belajar: 🌸 Mengenal AI untuk pemula 🌸 Membuat gambar menggunakan AI \ud83c",
-      "u": "https://www.threads.com/@anhamunawir/post/DfW7AStgReR",
-      "d": 1793878008000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfW620zmHQR",
-      "d": 1793877930000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29178,10 +29104,90 @@
       "d": 1793902031000,
       "urgent": false,
       "warn": true
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@validnews",
+      "x": "Punya UMKM kuliner tapi masih terkendala biaya sertifikasi halal? Lewat program SEHATI 2026, pemerintah menyediakan 1,35 juta kuota sertifikat halal gratis, didukung 364 Lembaga Pe",
+      "u": "https://www.threads.com/@validnews/post/DfW39kQk1pA",
+      "d": 1793876412000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@kantahkabbenermeriah",
+      "x": "#Repost @inspector_rumah with @use.repost ・・・ Sertifikat tanah gratis dari pemerintah? Hampir. 😅 Ada biaya persiapan resmi Rp150–450 ribu (tergantung provinsi). Lebih dari itu tan",
+      "u": "https://www.threads.com/@kantahkabbenermeriah/post/DfXLthuErD5",
+      "d": 1793886767000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@edukasi.beasiswaugm",
+      "x": "Pemerintah Kabupaten Karawang membuka pendaftaran Beasiswa Karawang Cerdas Tahun 2026, terdiri dari jalur keluarga ekonomi tidak mampu, jalur anak berkebutuhan khusus /penyandang d",
+      "u": "https://www.threads.com/@edukasi.beasiswaugm/post/DfXGfibGJp_",
+      "d": 1793884031000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@melekbeasiswa",
+      "x": "Adaaa kakkkk^^ Jurusan Linguistik juga ada di beberapa universitas luar negeri, termasuk Türkiye, Rusia, dan Hungaria kakk 🥹 Kalau di Türkiye, contohnya ada Boğaziçi University da",
+      "u": "https://www.threads.com/@melekbeasiswa/post/DfXuiLRga39",
+      "d": 1793905024000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Gelumpai.ID",
+      "x": "Pemprov Banten Wajibkan Dapur Makan Bergizi Gratis Punya SLHS - Gelumpai.ID",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3NUVFJUTzVtcks0S2l4cVlMOFBrUVkxalo0dzFYbl9HZkdTaEl1am1qQVpVOU94MzRtSDVrTTdhTE5HT0xTdHlmZWN3NUE3ck9TbVo2Uk9MV3dzRE9DTFJScjVDZEx0U2dtM0stYjlHWnRSRndkb1NFZzgzTG50TTg2dUdWeVU0dmc?oc=5",
+      "d": 1793884989000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Bansos YAPI untuk Anak Yatim Piatu, Periksa Data dan Penyalur agar Terhindar dari Pungli - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMkpHNFVfc0JJNFEyeWdEcld4bllHOFBsU1ktRGFSM0xPeG9RV0loMXpNek11VGUyNnduWE1vSTRWU084ekM0a1d6TVNHVWh5MTkxTjdGVl8tUWI1Ulh3UVFaUmp0UkNEY3o4MFV6T2ZudEFERGNEYmR1eXFqdWFjSGFIUGg3SFBFUE15d3REa1lkX251eVpQSmRySUVTOWhMVzV5V1VTclZVdTd2WWhqVXBiUWx4SEpKaVNmLU4zT0ZIQ0lnSWlCTnozSDdlRG9QZmxLRTJPNFdsUVd3WEU5WXZiTU3SAeoBQVVfeXFMT1ZGdVRDVHFDQV84U18wX1lRa0lITEhXc3MtT21PeHMyVlEzYXBhdG9LRUJyNmI4RHBvajFOTi1ZSzNBSUdqdTJuZ0M5X0hIMnRhWlBOU2lkRFljTVVJaGhYWHZvNmhPa0FoYzRxdmpoQTREX3pRSGgxSHdQbmVEcTd4aE1zUGx5N2VzY1NFNllMZmxla045QnhjN21FV3o4RlVYRjZpV3NmUjlHcVpUMWhEbkRheHlUNkZkU1ZOcERvdWJQa2RtYXJWOTk5cUJrV0JEV2J5d19kX3g2WGZZZnpfRzlpbTMtZzJn?oc=5",
+      "d": 1793903536000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Penerima PKH di Lombok Perlu Paham P2K2, Cek Data, dan Waspadai Pungutan - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2d6QXNILUUyT3lQenZlcGZTZEJuZUs4bVdUNzd0S0htWnNYaUNWSFBDZGg2aDhFcEhCa2UwZEtKNGVjbGVSOXA5cGN0OVJpSjlCejkwdmVYSVBGTVdYcW9pZGEtbDYxdUgxdl8yYlYwS3N3NXU3eld4YzV2NHNEcGJJMnVlaHVRcFdVZGs4T2JyTzBDVUFQV2tWWXA0WklaRXprZ3VuSWJEZUZPNkpvekM4SC1jNGdySGxiZ293ZElKcTdXSDcyeS12eTd6d9IB0wFBVV95cUxONFhiclVqZnlqTUZRZUhkUDVydDA3NHYzUUNyYjliUFZKUVRpdUJzdFF1YlpKQTFVZk9nZEtXNGNVSTNPU3BqTG1rc29JMXR0V0s3R1BPVVlCQU1OdXBhZEpJVXJwNkFXLVkyT3QwYWFjWUYyWk02SXlBLXYxTWNHc1ZHaGtxaGVwTTFCY1dLMjNTNDdialp5RC1oMy1BZ0NVaUZGblJxTGk5YzBHbEJaQldsXzJkWEppSVRyeEFiU2U4UzMxTC1sWUNMdEtWMXR1NHQ0?oc=5",
+      "d": 1793902258000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Penerima Bansos Meninggal Dunia? Lakukan 4 Langkah Ini agar PKH dan BPNT 2026 Tidak Hangus - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlRlbEZkbXpiaS01aWlVWkthZUtQQ2xud010VUFtUzVwekZwdWl4Z21xWU9IODRPSE9aOEZSYVdsbzgwaFpVM1IwdTJ0VnNPS1ZldVVtU2RSSE9rREhhaXBaSTdqeVExakpCdnRTTGkxVk5qSzlYOGNWMmoyUlRzdEEzM0tWb1I5WnZqcGozQzJsVERIQ0taRG83bENaTmNYZ2JzZlZnUmlQemV6TTBpa3doX0wxWTVQVkN1TDVZOG1HVUxXVVhKMktWWjFqYUY2WHdlaXNJZXZtQdIB3wFBVV95cUxQb0EyOWlINU1KVEJ4U3RwNXhUNUxPRzludFNnZFJCdjJYN0E2T0tCNDk1NzQ4eERwdFdwUGxqa1pHbGhSTy1QeEkxSmNVbmdDTGJ2akxZR04ycnJEZkdGTXhMTVRlNGVFMkVIOXdjVExza0hQdUZhREVmZG9hTHVVVHc4T3IzUllubXBYVTJyQnZHeVhDUk93Yjd0TzF4Nm1kRHJGZkN3ZThMcHA3TW9ZckgzOVhmeE8yRlFlU1F4MkJmWTlGZWc5OFdpQXRYa1RMalh3cWd3NEo0bWt6N2tB?oc=5",
+      "d": 1793831329000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
