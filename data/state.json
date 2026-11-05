@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiqgFBVV95cUxQaFY1RHNCUEhGMk1rRTJCUkxJNzFCdl9IbjR6TmFCXzd6b3ZhVk9Fa3V0ZlpFakhyWmpzSzFlUWpyZUtiY0xfTS0tcHlTTTdPRktqMGFkTzZVYmE1cFhBN255UW5yYjNRZ3lKN21Uam9jMlNValZ1dXB5OFRJUjcyY2RDOWMta0MzY2t0NzZ1M3NaUkRYcHd2YVJLVHRvSUhldzBzSTZqR0tud9IBnwFBVV95cUxPaWJuMnAxZGEyNWtqdDIyWjJjY25zTDQ4QzF5N1l5S0JhemZEWjUtUTQ1dkxwdjNwUk1DcjhsZlU1N0FJRkdDSDNubzdzNUtZNEFGbEFVdXB3WVpCcGJlMnNETTZLTndfM01wQnpQNDVtRGxfMTBLZ2VrTnAwODVxdTh1OTRQWFZvWTBjTzRWczFDSDF0Q01PaEVGa2oxMmM": 1792652769237,
-    "news:CBMi3gFBVV95cUxOaHZ0ekwzRHZYTXZremVhNTFDT0dkZWpTbEtGZXYxRzMzeTlPRVU3ZnJRUl9HaER2eUZTS1NXSVhvWnEwTThNLU84Vy1hTm45dGJZWmlRRmJQUjlpa3E2N2JXeElGRTM5azlKTVlWOGZPYkxJcjBGWmpDYVUxaTBFdkhwM0lxcGZWTURtbEhNc19zWGtJVmtDNDY4TXdFa1JkS3ozX2lxcVQxWHZndXVMMl85M3VXMkFQeWtfcVRiVlhidmpVR0JTVFhnbktmTDRKVEh5TWlHLUFQRUh3RXfSAeMBQVVfeXFMTWNESXFtcEpBV3J3ckg0MjhFSnZiZWxiX09ueVZEcHhyWHVPYmZNZUg5T2NNSnhrYmw3Z0FQNHJqR0RLZm9HX2c2TVZjNk50Yk9yaHdfN3BkSHAwTTRDb1BXWFBEaUY4NmNwX1RLNzBHZHhxN1ZkSzdpV2E0WlJJVWRJV3RadW4tb2FtS2JfTHBCWWxnVXdoYkc5eDhlSFNMeGxMT0dWV3hTSTlvLTZock50bU1HV2VTLU5xal9zdFh5U1pMMElscnJaYmEyMGduTDFWTlBpOHpfSUkwUTFDS2hpSWc": 1792652769237,
-    "news:CBMi2wFBVV95cUxNaDJseEJOU3h3UDVoaWxPOHJlLTI1blhkV1NyNjhHSVFuaFZWZFRrNEZUOXRtSGV1S200dVkzOW1iZ0sxTmVyRWlKVEs5ZWVPd29oSV9VMW5VNlJrcldCX3RYQ3RFQm1aX2tTWElZQnhRUE5IbG5sS3hYRzhkUWl0WVhuMU9aTXpBYk9SR1FQekJFVkZXUXV2SmZyRlRzeVlsTno4d0FVWjFVSV9Dc2FBUVlGWFU4Q3BxUkNxemdYdUNpV2RVcGpmdFdTbFZIeHdrQXpRLVptcnJITUHSAeABQVVfeXFMTXptQlRlNl9vc2UtMEtEZDJtUjB5MnZfa09zQTl1aVdRR2FyeS1abTRvVWFYX0c4WUNkNDNfNlpSODQ0a3hDRGdLcWZyY184My1ydWlRaGh0blNtZm1YOWZGOXhyNW1rUmpXOER3NHZ6am5yOXZTZXdIeG9WTndrRFI5Xzk5UHd2ZjlDNGk5aEh2T3RrdnMyUEVycUZhUU9EQThpZUI5N0JWQ05DSy1yUW43YVlwalRrUUVybXdyYkRwNkZNZUowM1M3U0RLZmdZNnI1RllPN05aYlVYaUI2S1Q": 1792652769237,
     "threads:DeyYwXRAbR8": 1792653352957,
     "threads:DeyPEIagFyi": 1792653352957,
     "news:CBMiaEFVX3lxTFAxWmMtR3huUFFZTENTTG1vNHpsOERjRmZmZWNxY3MxQS1aUGdXNGtJTDJOSC1OeXpFNFg0N24zVjNpaFJfMV9qczZyNWVIblNFVmVGV3J6c0QyeWdheVRQZjJlYUJMQ0VJ": 1792653352957,
@@ -27501,69 +27498,26 @@
     "threads:DfWbV60oFw3": 1793861739617,
     "news:CBMiwAFBVV95cUxPQ18wTTdybXZVVlctc0NWLUFPS2RpN1VGUXRwdzYwZ2NUUmEzWDNTVUpUc1J5ZGNwaUtUNEhxZHVSaF9YMVF6b0taWmVjZ1ZDTUpEV0w0SEtJXzQ3VDVKMGVjNnhVQU9KM1lmc28tUWRDTGxGMi0xbTN0eGxpRXpNaERDNmozVkZCbGJHWnkyZEhJeEViYjlXM1ZZMzdaTzFnWUhUNjBhd25RMnRmSjZhTHoxa0tEZm5SODZ1NC1HRnc": 1793861739617,
     "threads:DfWcbWOASDT": 1793862057626,
-    "threads:DfWbsLCExDp": 1793862057626
+    "threads:DfWbsLCExDp": 1793862057626,
+    "threads:DfWcKzGmVbD": 1793862332682,
+    "threads:DfWdHofk8rZ": 1793862332682,
+    "threads:DfWc3k0HHqD": 1793862332682,
+    "threads:DfWceJhlHwQ": 1793862332682,
+    "threads:DfWcc3BkzJs": 1793862332682,
+    "threads:DfWcL8AEmiQ": 1793862332682,
+    "threads:DfWcKwLkpnT": 1793862332682,
+    "threads:DfWb6-TASLg": 1793862332682,
+    "threads:DfWb5L1GVIO": 1793862332682,
+    "threads:DfWbpP7iUxK": 1793862332682,
+    "threads:DfWb8GfEa6R": 1793862332682,
+    "threads:DfWcJbJEudC": 1793862332682,
+    "threads:DfWcc0Bj0Y9": 1793862332682,
+    "threads:DfWcVFNErAZ": 1793862332682,
+    "threads:DfWcJrTEtD5": 1793862332682,
+    "news:CBMivAFBVV95cUxNV1dBNFpXV3cxcFNVZm9RRHVQaHYxNm82aUhJaXMwOGsxNy1MNWdDQ3BVWFAxZndfOGFTRGxwM0ZVZVhJRXpIQVVVRFdSaWo5ZVBSVFJuVk5zaEtvakZYQnpteFh2bzBkNGhYTFRORW9oaC05RnpSRnR6eGdLM0ZLV0t3anVWSFVONHVJVkl6SF9kOUJ4TkVTNFlxbllYVWVRZ1A0bjFQcXdEMnR6RVNlUmFNYlhRb0o1UENfLQ": 1793862332682,
+    "news:CBMi0AFBVV95cUxOaDBNZkpfZFBzcnVHRndoZ3BfSnNtcThxb3hCRVk0SGotbElXSTFEYnl2ZUxkV2ozYU5sUDZBem45S1Zza0l4VlpDYkY4NWZpT29NeFcwU2ZmWU9HM21GMmZxYTRjRTZkeGJkMDQzcXVoV0t1dXRJb3JseWp0V2VXdzZlR1N5UmZMbGFnakRnRy1kSEgwc28zbGVCUXdJX1B4RG1lX0J1RE9vemtKLThmVG1NZnZTTk9YbG1kX3ZBN2RWRWF3cC0wZktxd1E0UF90": 1793862332682
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Dari pada berantem mending kita belajar Ai gratis saja Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing grati",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfWKYommAVQ",
-      "d": 1793852517000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rara80451",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@rara80451/post/DfWLwKdGuXt",
-      "d": 1793853234000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sandra_hendrix_",
-      "x": "¿Sabes cuántas transacciones necesitas para llegar a tu meta de 2027? Guarda este post, llénalo y vete preparando para este webinar que va a estar buenísimo 🚀 Si no lo tienes clar",
-      "u": "https://www.threads.com/@sandra_hendrix_/post/DfWLR0ElTcM",
-      "d": 1793852986000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, bisa coba bisnis online, no scam ya. Kk bisa tambah skill digital marketing dan bisnis online. Nanti kalau kk sdh ada skill tsb, kk bisa jual produk sendiri secara online",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfWLIGSD1u5",
-      "d": 1793852906000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@makeup_byindy",
-      "x": "Aku butuh model untuk pelatihan siswa pangkas rambut di ARIYANTI BANDUNG (samping istana plaza) potongannya model layer, segi, oval, bob, UNTUK HARI SENIN TGL 9, mulai dari jam 10 ",
-      "u": "https://www.threads.com/@makeup_byindy/post/DfWL4irn_lS",
-      "d": 1793853303000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lokerbogor.karir",
-      "x": "Akun bisnis siapa yang konten jualannya paling kamu suka? Naik Level edisi Digital Marketing! 🚀 5 langkah upgrade skill: * Bedah 5 lowongan incaran dan cari skill yang paling dibu",
-      "u": "https://www.threads.com/@lokerbogor.karir/post/DfWKuBvD1KK",
-      "d": 1793852692000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29003,10 +28957,70 @@
       "d": 1793861976000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@theinvestor_id",
+      "x": "Ada kabar dua perusahaan mau merger. Ada yang tanya: bagus nggak buat sahamnya? Jawaban kami: lihat siapa yang digabung. Dua-duanya sehat = bagus. Satu sehat, satu sakit = yang sak",
+      "u": "https://www.threads.com/@theinvestor_id/post/DfWcJbJEudC",
+      "d": 1793862000000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiritokuteiginou",
+      "x": "H-31 MENUJU JLPT 🇯🇵 10 kosakata waktu yang dipakai tiap hari: 今日・明日・昨日・朝・夜・今・毎日・午前・午後・来週 — contoh kalimat & mini-kuis (jawaban: A. あした = besok). Satu topik kecil tiap pagi, kita ",
+      "u": "https://www.threads.com/@mandiritokuteiginou/post/DfWcc0Bj0Y9",
+      "d": 1793862002000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nistianadraf",
+      "x": "Belajar ngonten kak, aku jg lagi belajar, aku ikutan kelas gratis kak, beneran gratis, kalo mau dm aku aja kak, biar bisa aku kirim link nya",
+      "u": "https://www.threads.com/@nistianadraf/post/DfWcVFNErAZ",
+      "d": 1793861925000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nurulfikriujungberung",
+      "x": "Gais ada mau coba ikut kelas gratis ga buat persiapan PAS di NF?👀💚💙",
+      "u": "https://www.threads.com/@nurulfikriujungberung/post/DfWcJrTEtD5",
+      "d": 1793861832000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suarabantennews.com",
+      "x": "BLK Kota Tangerang Buka Pelatihan Content Creator Gratis, Pendaftaran hingga 6 November 2026 - Suarabantennews.com",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1dBNFpXV3cxcFNVZm9RRHVQaHYxNm82aUhJaXMwOGsxNy1MNWdDQ3BVWFAxZndfOGFTRGxwM0ZVZVhJRXpIQVVVRFdSaWo5ZVBSVFJuVk5zaEtvakZYQnpteFh2bzBkNGhYTFRORW9oaC05RnpSRnR6eGdLM0ZLV0t3anVWSFVONHVJVkl6SF9kOUJ4TkVTNFlxbllYVWVRZ1A0bjFQcXdEMnR6RVNlUmFNYlhRb0o1UENfLQ?oc=5",
+      "d": 1793862232000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Inforiau",
+      "x": "Cek Bansos Kemensos Go Id Kini Mudah: Cukup Pakai NIK KTP, Ketahui Status Desil Kesejahteraan Keluarga Anda - Inforiau",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaDBNZkpfZFBzcnVHRndoZ3BfSnNtcThxb3hCRVk0SGotbElXSTFEYnl2ZUxkV2ozYU5sUDZBem45S1Zza0l4VlpDYkY4NWZpT29NeFcwU2ZmWU9HM21GMmZxYTRjRTZkeGJkMDQzcXVoV0t1dXRJb3JseWp0V2VXdzZlR1N5UmZMbGFnakRnRy1kSEgwc28zbGVCUXdJX1B4RG1lX0J1RE9vemtKLThmVG1NZnZTTk9YbG1kX3ZBN2RWRWF3cC0wZktxd1E0UF90?oc=5",
+      "d": 1793862144000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
