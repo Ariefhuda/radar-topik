@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dex8MAXmyZC": 1792663849485,
-    "threads:Dds2DtvAXbu": 1792663849485,
-    "news:CBMiygFBVV95cUxPM01hZmFqS3NGMUNHejN2ZTNwdUVoQTdxLTNuMTduWVJOTDdpc3B4TVZDOTd5WXhuTVBkcXFkak5UUXdBdHZLR0cwYlV4NVBjMVRfanM4b3lkTFlWQU5ydFZOc2FyaC1wYmtPeGU3aHRBVDg2al8xdkFUOTNyWjNDTUtsaG52Q3NiaHpWWjNsQTNPWlJfNFRON1ZYR1FXaUxRNl92clVxSFJweHNMWllZTjd0eFVvNUFjNVFPdlYxajJnZDJKeThpSVJ3": 1792663849485,
     "news:CBMiswFBVV95cUxNaTE1VXM0MFE3VldDZ05XT2dUeFdSTmIySm9Ib3IzRFVQRGdTNXJ0S1NHdDY4dlZyQnJ2UG1sZ0llemhFRWdaRFJLVVkwbkNkNV8wM2Q5UlpUZWl2aHdTSXdZZzNqZ0w1TWx4dmNUcElLT0YtME4xXzQ0MkNwZ05JdkpZN2RLWTAzYXpvOTJhUUpMMGVBSURFWDNoSkgwdTBsMWJtMXRzNFo3T0FmYUVuVmtFRdIBswFBVV95cUxNaTE1VXM0MFE3VldDZ05XT2dUeFdSTmIySm9Ib3IzRFVQRGdTNXJ0S1NHdDY4dlZyQnJ2UG1sZ0llemhFRWdaRFJLVVkwbkNkNV8wM2Q5UlpUZWl2aHdTSXdZZzNqZ0w1TWx4dmNUcElLT0YtME4xXzQ0MkNwZ05JdkpZN2RLWTAzYXpvOTJhUUpMMGVBSURFWDNoSkgwdTBsMWJtMXRzNFo3T0FmYUVuVmtFRQ": 1792664166379,
     "news:CBMihwFBVV95cUxOLW5BMGdfOHNpbFN3NlJkbTlnVzdfT2dkdDl4VGJvMnJyazVjblZRcmRzNFo1WnlDRVNOa0U2RUc1VTVMa3BVZVhpd1UwaUhXby1KVUplbE1jVFBtNmV4ZGJ5NE1oZmdONlo2anRGSWFxaU1jc3hORzdyZHhxQlg5cU4tXzdyTm8": 1792664166379,
     "news:CBMia0FVX3lxTE9VbXR1NDdrbGNtMmFCOTVBZmgySk5ZQjF0S3NKaWhmNTAwdE9aV3lMUWxDTHN6R3VVSUVTbXJQajFiMk5TNjFBS3NtRDdRU3F0ZG9iOXZBdFRtWmtKUm1FZXU3Z1pmWlZiSWZN": 1792664166379,
@@ -27577,39 +27574,14 @@
     "news:CBMikwFBVV95cUxPUm9TS2RGNGtHRmdXdEJnUkV5cURiNDZBWGVzQXhUVmc1R3B1UnJGNFlvX0FLYmt1OFhKMFF2eE92MkZDZU1aNmtwTU01cVRjR1JPSDdkQzZYRzlqcVVGNlR2T181djZIOWlXOXZJdDA0OHNTLTNkejhVVWk2bFJLTkI5SXhNbUFKOUpvZ09KRk9ldnc": 1793873131431,
     "news:CBMivgFBVV95cUxPSHk2Rnh2UTViRDZMV25DUEZ6dHQxOFJNUGJpVDdqbnV2MUVldkJUa0dqQ2Z3TjgtZ2VyX2JxcFRnWkd3UDc4Q2wxVjdnTkd3YjV2dml3WEpjOWNncktXVHkyNmhDRFZqbDgyaTkySGU1bFNncXhycDVsUFhzdmh4RjRBQUF5dDl2alpHTUM5Zk1xRlh1OW4xdVYxOVpEQUNGQVJ6c3ljTEtnTE1XZkNJc29kOGVPcXRUX0N5Rmln0gG-AUFVX3lxTE9IeTZGeHZRNWJENkxXbkNQRnp0dDE4Uk1QYmlUN2pudXYxRWV2QlRrR2pDZndOOC1nZXJfYnFwVGdaR3dQNzhDbDFWN2dOR3diNXZ2aXdYSmM5Y2dyS1dUeTI2aENEVmpsODJpOTJIZTVsU2dxeHJwNWxQWHN2aHhGNEFBQXl0OXZqWkdNQzlmTXFGWHU5bjF1VjE5WkRBQ0ZBUnpzeWNMS2dMTVdmQ0lzb2Q4ZU9xdFRfQ3lGaWc": 1793873131431,
     "news:CBMi1wFBVV95cUxQczBHbmFfSmVWR1hQVklPSWU5ZFNMVGN3TXJObkdmbTZVZm9IMzBVbi1HaGpyanVLNllEZXlRUmdfZGlZd3U5eUNHUGlsc1pYSWNtX0RRUVlaTXdMUWE1d3Q4V3V1WWN0X0VOYWlBdGpvZ21JdUF6VGNJQnZ2dTRNMnI5T3NXQWlHQjkxY0d2WWR1UVB6Q0RteE1JUTR1b2hUNVZXbkRTemhuUlhwb3NVZlZOeWhIdEdGN3hSNE9MV0gyMWJsQm1hNEJqNDEyakYtRndQdERZNA": 1793873131431,
-    "news:CBMiiAFBVV95cUxNT2dXZEd0ZWhRY1ZrNF9Cd2UwdTNIbVRoR2tXZEREbVQxeWREakJ4OEdlRFVrVWFSU09RQWg3U2FZc0o0YVgxc1hkbUxmY2Z0Skw5eURVd0FaZUVGQm9QUmtJMmtjcmpGXzdSS2liS043R2FYa0ZSc3hjLVZyRHkwQkU4Ul90M2Q1": 1793873131431
+    "news:CBMiiAFBVV95cUxNT2dXZEd0ZWhRY1ZrNF9Cd2UwdTNIbVRoR2tXZEREbVQxeWREakJ4OEdlRFVrVWFSU09RQWg3U2FZc0o0YVgxc1hkbUxmY2Z0Skw5eURVd0FaZUVGQm9QUmtJMmtjcmpGXzdSS2liS043R2FYa0ZSc3hjLVZyRHkwQkU4Ul90M2Q1": 1793873131431,
+    "threads:DfWxIDbgK7a": 1793873442698,
+    "threads:DfHCdDWkj8E": 1793873442698,
+    "threads:DevQgClEwZB": 1793873442698,
+    "news:CBMi9gFBVV95cUxOVnpxbFBDLW4xS192RFRxOVRHd3RMaEpqOVduQjRYRWpBWEU0TC0teU51aWllekFrRmRmT2FvODFzY0VmTDExd3pxbkIzTG9PUXFwd3ZVWmtTWWk2X3l6NnhpZkFFVXA3QlNwNXNOcVZuaVlsVnRFc0NMV1dlWUpHMXpWcjhSWHVCX09TV1ZZekdRNDFtdU9xU1M1dDdrTGhxVlo2YkNTbEo0ZnVmOThJcGpZMmpqdkxrdGowcm1FUEtUNFBNSS1pRnozZUxxcVpqLWt0cVFpOTdqdEs2THRXb2gxdU9HOEtQNHZkOWtrcHROVkR3YlHSAfYBQVVfeXFMTlZ6cWxQQy1uMUtfdkRUcTlUR3d0TGhKajlXbkI0WEVqQVhFNEwtLXlOdWlpZXpBa0ZkZk9hbzgxc2NFZkwxMXd6cW5CM0xvT1FxcHd2VVprU1lpNl95ejZ4aWZBRVVwN0JTcDVzTnFWbmlZbFZ0RXNDTFdXZVlKRzF6VnI4Ulh1Ql9PU1dWWXpHUTQxbXVPcVNTNXQ3a0xocVZaNmJDU2xKNGZ1Zjk4SXBqWTJqanZMa3RqMHJtRVBLVDRQTUktaUZ6M2VMcXFaai1rdHFRaTk3anRLNkx0V29oMXVPRzhLUDR2ZDlra3B0TlZEd2JR": 1793873442698,
+    "news:CBMioAFBVV95cUxOSTBRNEZQNFJuTncyMThmSXN6dmNlOFJ5cmpjNno4ZFlHZmVsbjBmSU0yZXY2Q1pMbWJPd3RycDBKajlzNC1TQkcwbnZLdHQwaXNDclF1RmtZV19STW1QYkVwWWRXNXQybU1mSENISlBsaTdOUWF2b3V5LWZEdEtnVEliRTNJVTVyRk44VlJ1NEprX0NZX2Y2MmhzdFU2TEdj": 1793873442698
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@el.nesia",
-      "x": "🌏 Mau kerja di luar negeri? Jangan asal berangkat! Yuk ikut webinar GRATIS #KaburAjaDulu bareng Radityo Susilo (Co-Founder & CEO Gapai). Bahas cara menemukan lowongan resmi, jalur",
-      "u": "https://www.threads.com/@el.nesia/post/DfWd9hUk5wN",
-      "d": 1793862781000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfWe74OmDvb",
-      "d": 1793863291000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmmm08",
-      "x": "Yuk belajar ai 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat sertifikat berstandar global? Keuntungan: ✅ 4",
-      "u": "https://www.threads.com/@rohimmmm08/post/DfWexmcGAfB",
-      "d": 1793863207000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29079,10 +29051,40 @@
       "d": 1793868204000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@kobieducation",
+      "x": "Warga threads yang lagi berburu beasiswa ke luar negeri khususnya yang biasa nungguin LPDP S2 & S3 tiap tahunnya, MinBi mau nginfoin lagi kalo LPDP itu ga cuman jalur reguler yang ",
+      "u": "https://www.threads.com/@kobieducation/post/DfWxIDbgK7a",
+      "d": 1793872828000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kabar Priangan",
+      "x": "Disnaker Kota Tasikmalaya Buka Job Fair Batch 2, Siapkan Pelatihan Gratis Kerja ke Jepang - Kabar Priangan",
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnpxbFBDLW4xS192RFRxOVRHd3RMaEpqOVduQjRYRWpBWEU0TC0teU51aWllekFrRmRmT2FvODFzY0VmTDExd3pxbkIzTG9PUXFwd3ZVWmtTWWk2X3l6NnhpZkFFVXA3QlNwNXNOcVZuaVlsVnRFc0NMV1dlWUpHMXpWcjhSWHVCX09TV1ZZekdRNDFtdU9xU1M1dDdrTGhxVlo2YkNTbEo0ZnVmOThJcGpZMmpqdkxrdGowcm1FUEtUNFBNSS1pRnozZUxxcVpqLWt0cVFpOTdqdEs2THRXb2gxdU9HOEtQNHZkOWtrcHROVkR3YlHSAfYBQVVfeXFMTlZ6cWxQQy1uMUtfdkRUcTlUR3d0TGhKajlXbkI0WEVqQVhFNEwtLXlOdWlpZXpBa0ZkZk9hbzgxc2NFZkwxMXd6cW5CM0xvT1FxcHd2VVprU1lpNl95ejZ4aWZBRVVwN0JTcDVzTnFWbmlZbFZ0RXNDTFdXZVlKRzF6VnI4Ulh1Ql9PU1dWWXpHUTQxbXVPcVNTNXQ3a0xocVZaNmJDU2xKNGZ1Zjk4SXBqWTJqanZMa3RqMHJtRVBLVDRQTUktaUZ6M2VMcXFaai1rdHFRaTk3anRLNkx0V29oMXVPRzhLUDR2ZDlra3B0TlZEd2JR?oc=5",
+      "d": 1793869200000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat.co",
+      "x": "Cara Cek Desil Bansos 2026 Lewat NIK KTP, Bisa Online Pakai HP - Akurat.co",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTBRNEZQNFJuTncyMThmSXN6dmNlOFJ5cmpjNno4ZFlHZmVsbjBmSU0yZXY2Q1pMbWJPd3RycDBKajlzNC1TQkcwbnZLdHQwaXNDclF1RmtZV19STW1QYkVwWWRXNXQybU1mSENISlBsaTdOUWF2b3V5LWZEdEtnVEliRTNJVTVyRk44VlJ1NEprX0NZX2Y2MmhzdFU2TEdj?oc=5",
+      "d": 1793852428000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
