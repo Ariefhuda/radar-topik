@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeyMk6hn4US": 1792650340310,
-    "news:CBMiZ0FVX3lxTFA1VXhLMHpQM093SVBneXdGR21mblRHMnV0NlJqdDQxWlFzTk85Y0xIYmEzQldUdWtrbEhmeERxNnYzcEFUeXVoZ1pRMmZUOHRQVlVWc2l0a0ZkN2FnSkI1alBud3VDLVU": 1792650340310,
-    "news:CBMisAFBVV95cUxNRjBETEhOWU5mNi1keUV5SmlHSmxKY09JQ0FJeXdqV0VxUWkzbmd0Mm1BdjZ5SkV5Wm1LYnJaWnN0enRyVUJQMzNFX1FDM2ZOd0JuNEtwR1lyTlRXNzdycS1aSk1xMWpNS2RKZ3BUUjR0X1pPRjdUa2VOcUlPWFFmOXNyVHhnLW0yM0Npc1FMdVlnVXM5UG5rWHRaRU0tb2Q3M0h3ZmFFSEVxbEhBbFRNSg": 1792650340310,
-    "news:CBMijAJBVV95cUxPMXB0OGxpVEhFVXNuTkREelZGYUctZnVLbXl4RW9oU2Y3ODBoUVJjZ2g5WHBpN0o5Q2VXTERvd2pCOE1PYTlBNGNLd2NPT25lZTE4V3ExUksxSDd3WnptcmhqRHJ0M3VJTWx5aVg1U1pTRmFBMFFxYXBMSV9kb1pyMTdLRm0tTzUwSEpvREhvV2toeWZ3bUpOVjR1Z3p2ZGowa1ZkZ05Ick4xMnRGamNVZnRSdmlNZTFDeVQxYWpqWHJPbzNtb0ZVMXVYN3pOTVdPRGVaSnVlRFk3anRDc2dWTWYtVmtWZnllMUppeHdVREx0VE5MREUzMFpnQTV3aHVqdFlxS0NGd0RKMkwy0gGMAkFVX3lxTFBIN0s5MEVzc1h3ZENNRmtXT1J0eGNjVGJZNlBSWTQwOUhISmhrSi1FZ0NyamFjZ29iZVh5aDNLX3M5cEZfMHVnQXFQQW5Hc3BVRzh4bnlwYWZjQU9xekx1S2lmTkFuSHBkaVZCLXJiNUMtQi0teG9mem9QWk9aYXQ5MjRHbDRvU2stTm5lNVdwcm9hY1RDeUxQclhsWGloVUNpdUVFa3RYUEpqTTlQT3BMWXhSc3hUM2lXOGVsaXBlOHFfdzJBbU5kd3hBMlZkUDM3Sm1ZT0VBdnVTSXdEZGREVUMtYWQxSHF2dkpqbjdDRW1QOWRNYXc1UC1wSG55WXh0SGl1RlJnZHNUbkQ": 1792650340310,
-    "news:CBMi0gFBVV95cUxNVG1RNVc2blM0QXlEWlJFNWhyTWFsLVBPcHdMOWlaZFhzMFZVUEwwVVNCYTVudFJQeHdpSjdfeG5aa0pzcHRLX1lqNm5LRHBmVjcwbER1X2xXenNlMnNobHZBVERUUFJ0SUVKMzIxOWxEV0RjVWhKQzdZck5YZDNjV0RONmV4ekZDVzdRblhWVkVMS0dCNGdpMFNIbURjczZWaUVsX1A0V1hvcjVZcXhoLWZvLTJxOThSS1ZQZTJ0VkFVNDNxVHhHU3dfVGJmWnMtZlHSAdIBQVVfeXFMTVRtUTVXNm5TNEF5RFpSRTVock1hbC1QT3B3TDlpWmRYczBWVVBMMFVTQmE1bnRSUHh3aUo3X3huWmtKc3B0S19ZajZuS0RwZlY3MGxEdV9sV3pzZTJzaGx2QVREVFBSdElFSjMyMTlsRFdEY1VoSkM3WXJOWGQzY1dETjZleHpGQ1c3UW5YVlZFTEtHQjRnaTBTSG1EY3M2VmlFbF9QNFdYb3I1WXF4aC1mby0ycTk4UktWUGUydFZBVTQzcVR4R1N3X1RiZlpzLWZR": 1792650340310,
     "news:CBMiuAFBVV95cUxPd2tlVEgzakYzcnFZa2FPNHNmZE1XLXF2emJQOUtpZ0k4b2JCRDdoLTltZGNJRnJ5OFR3TEM3M0Y2Sjl2akhxZUdOR1lVbktTUE1kVDBRRUZGZlU2aVlnNlNBSG9jMm9CTERvZDh3S1ExZXpBTTFVeDJMbDZnOUYyVmVVTWRMVFFTd0ZVWXZCLXJNMEVuakJRbXU4MmdNdmFMdGhQNU1ISFRiZ2VWNW1aTV92cVUzaFJz": 1792650650093,
     "news:CBMizgFBVV95cUxNX1NiRHc1ZFlweFJzS1VGZ0p5TWRwRlVKbHRkVWlVZktzWEUxeVVTTnhJZ1F4WUZrZE9WcFJmRGtYRFE4SHdaX1BDR3M2aF9xVUxuTl9Db0llY1E3SWFfaVFUV3I0b0N6RUpVSXZZc05kejZKNlNrTE9QRDRjQ1FEa1VObHItdlp6VU9tcnZhRkZlNGdYTU55c0FJVzBGRnFSVUhSVnlqRWx3LV9pZ25sOXM1WEZMX2o5SmNGeW9LRVBWYkJqalFaTk0zdzFnUQ": 1792650650093,
     "news:CBMixwFBVV95cUxNUEJZbkpGN2FlMklRYnhhVWx5dVBlUWlGQm9fZEtSRXhCdDl0OFl2TUItUVZUUEcyVzRURS00MUhmTWtxUlJ2ZG1PWnNFNURQNUNaTHczMmVEaHRfTEZjdWlZQngxS3JBU2MtNGhDb0otejQ4NnVqSk1EVGF3T1M0U1k3cjNUck9odXlVWVFyb2xQSGlYMUt2TUlzOThTNm5FYWZWdlBRZlN4Y1RNZXIxNktSQ1pkQjQ1TmNyMTNIcWZ1YUdldkM4": 1792650650093,
@@ -27433,29 +27428,26 @@
     "news:CBMijwFBVV95cUxQRHdXV2VRU3EtMGVjMEV6c20zRWs5S1ZYU0tWZVBXNVNaNkpCX2t0S19mM0prOE9hQ1JHSUo1Yk5Xekg3V2otMFpHNlNyNWlPN3phc0pod1JfLTcyTzJFN1pHTEFyUHZaci1UckozbnUwYmFjWWdockIxSEY5SGw4QWtXN3FmeS1kM1FZMk9QRQ": 1793859339447,
     "news:CBMiogFBVV95cUxNWnVKQ3pqbmt3RFNhM1dubnlZdzV4N2wtZmlySnhVOWxSaWVJYUFOcUZOdm5VdU9rZjhjMDhTemZwNEd0MThCVm1PZDVwUjhpNE1QWEh2ajZtQUN3cXY1RU9Kc2lBQUdPOC0tYy12RHk4MzdlcHB3NmdFaUtEUjJwZ2pvMFFheTI3SWRyOEVGV3pQUkFCRzJveGtLbXpXcDBIdUE": 1793859339447,
     "threads:DfWWazGGkqC": 1793859640651,
-    "news:CBMi1AFBVV95cUxPSDZoZDZnejVSSUFFYTNKVWdqRHlQY2VWYjZJcEkxT2Vla3dMNGlsaXhtdldlVXRxSjhFY0pBc09LN181elVTQ3VoaUd1OEFCbkRfa3ctZ0U5S1JFaEhibmlCVXMwRDdTZVI2ZTBPYWEyeWltSG5yZ2NRaVduR0RxVmotQ0VwQmhtNXZLbUM1NERMWm9zOWtDWUV1Sm5yVGRIWGJGOFRpaE1uWnRHRV9Nc2M5RVV3aTRieXhxN3BDcFZUdnhJajZtUDVHX2RXUzZEWWZqVg": 1793859640651
+    "news:CBMi1AFBVV95cUxPSDZoZDZnejVSSUFFYTNKVWdqRHlQY2VWYjZJcEkxT2Vla3dMNGlsaXhtdldlVXRxSjhFY0pBc09LN181elVTQ3VoaUd1OEFCbkRfa3ctZ0U5S1JFaEhibmlCVXMwRDdTZVI2ZTBPYWEyeWltSG5yZ2NRaVduR0RxVmotQ0VwQmhtNXZLbUM1NERMWm9zOWtDWUV1Sm5yVGRIWGJGOFRpaE1uWnRHRV9Nc2M5RVV3aTRieXhxN3BDcFZUdnhJajZtUDVHX2RXUzZEWWZqVg": 1793859640651,
+    "threads:DfWYar6gaC2": 1793859936361,
+    "threads:DfWX_zEE5Y7": 1793859936361,
+    "threads:DfWX2vymFnK": 1793859936361,
+    "threads:DfWYpBKGHve": 1793859936361,
+    "threads:DfWYouDIMIo": 1793859936361,
+    "threads:DfWYZOUGHQV": 1793859936361,
+    "threads:DfWYLjFEm3F": 1793859936361,
+    "threads:DfWYJ4UFgSb": 1793859936361,
+    "threads:DfWYD72GLo8": 1793859936361,
+    "threads:DfWYBV0Em8E": 1793859936361,
+    "threads:DfWXzqAmCdW": 1793859936361,
+    "threads:DfWXqWmneQH": 1793859936361,
+    "threads:DfWXer6FPaB": 1793859936361,
+    "threads:DfUGaollHq6": 1793859936361,
+    "threads:DfTxjZbFIAq": 1793859936361,
+    "news:CBMimAFBVV95cUxOVjVxODhTekw4Rmh0UHZFbDd1ZWZHQjNnN2VkTllVZlB0dWxnT3A4M21JY045V016MkUwMnZVZWlMcFR3MHJ0Z2lVUUFHN0tqcE9JMTBrZl9iSlFUMkZxZmdvZkszMlFxNThJcWYzcWRfbXRHanJVV01YVXp5WXpCNkdBcGZXbVFUWkFRU2EzZm9QOF9uY0RQVg": 1793859936361,
+    "news:CBMixAFBVV95cUxPWjVmWVV5WEZ1ajE2YTVoUEtxNEtLMDk1dlpvQ1RtSW1Ic1FRVGxobUV1WHpvYnN6RkkzRDBqdExHb05XNWRac21mTEJLc1Y4ODZZUlZlR09GSlVJUndsWXIyVHFrZ2dlYUs4NlY4VjcycDBBVEIyLTV1UFdSYmZOWi05MUluU1ZCWnl6WGItaEZxcExVOVBBb3V5S25BWWd5eWc0ZU52aUVJdEVqckxra19oYWtOMnRvYXk3WFZuZWhWRE52": 1793859936361
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfWGDA3mXLm",
-      "d": 1793850243000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@callingvisa",
-      "x": "Halo rekan rekan , Saat ini kami sedang membutuhkan banyak kandidat ART WANITA Dan job jaga, nanny jaga lansia. untuk penempatan Singapore dan Malaysia proses cepat, Kriteria: usia",
-      "u": "https://www.threads.com/@callingvisa/post/DfWGB-smTUN",
-      "d": 1793850234000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28935,10 +28927,30 @@
       "d": 1793858826000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "JurnalPost",
+      "x": "Tim Abdimas FH UPNVJ Edukasi Hukum Waris dan Perlindungan Lansia di GKPI Tangerang - JurnalPost",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjVxODhTekw4Rmh0UHZFbDd1ZWZHQjNnN2VkTllVZlB0dWxnT3A4M21JY045V016MkUwMnZVZWlMcFR3MHJ0Z2lVUUFHN0tqcE9JMTBrZl9iSlFUMkZxZmdvZkszMlFxNThJcWYzcWRfbXRHanJVV01YVXp5WXpCNkdBcGZXbVFUWkFRU2EzZm9QOF9uY0RQVg?oc=5",
+      "d": 1793859877000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "BPNT November 2026 Rp 600.000 Kapan Cair? Ini Jadwal dan Cara Ceknya - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjVmWVV5WEZ1ajE2YTVoUEtxNEtLMDk1dlpvQ1RtSW1Ic1FRVGxobUV1WHpvYnN6RkkzRDBqdExHb05XNWRac21mTEJLc1Y4ODZZUlZlR09GSlVJUndsWXIyVHFrZ2dlYUs4NlY4VjcycDBBVEIyLTV1UFdSYmZOWi05MUluU1ZCWnl6WGItaEZxcExVOVBBb3V5S25BWWd5eWc0ZU52aUVJdEVqckxra19oYWtOMnRvYXk3WFZuZWhWRE52?oc=5",
+      "d": 1793843520000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
