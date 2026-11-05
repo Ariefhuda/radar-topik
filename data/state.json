@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeyGxR6j3zB": 1792658445957,
-    "threads:DeyGhtpj89G": 1792658445957,
-    "threads:DeyFRjCD5G9": 1792658445957,
-    "threads:DeyEwIlD2JP": 1792658445957,
-    "threads:DeyLhgIDCGB": 1792658445957,
-    "threads:DeyEyv2jQlF": 1792658445957,
-    "threads:DeyD1IyIwPq": 1792658445957,
-    "threads:Dex1UR0gZgg": 1792658445957,
-    "threads:DPsTcz3kqMy": 1792658445957,
-    "threads:DeyVcepkTiC": 1792658445957,
-    "threads:Dex5C-4Hx_q": 1792658445957,
-    "threads:Dexu3yGkyxB": 1792658445957,
-    "threads:DeyADLrn6Mm": 1792658445957,
-    "threads:Dex55SUExLU": 1792658445957,
-    "news:CBMivwFBVV95cUxPNGQ0d0Y4bS1IdFJtb3BMVXlaX2pUWkdyZUtKdUxUYng2SXVEWEVOT0ZGaXZQd25hYlVsMzdrSkpDbEtyWk5DckVNUGpXTEZfR1VJZG5XSlFRQkpXOEZYd0c3WU9wT3NjczdyWkgwMEZ4NDF6aEpJSVdtZm96cGZ6T2FMdDlnQ2d0NlVISERPcm5pU2V3T2E0aG90cE1senNaY2o5SDFhU3ZzNVgzQjh5eVhtLVliMzZJb2pwcW1vSQ": 1792658445957,
-    "news:CBMikwFBVV95cUxNRndxbF96ZkRIc0JtQ1lGOUVQVE9Sc2ZsTXN4RnJRYVRPVU55SmNIbDdyUmJIVkFzRDRYYVA5bWdlZmpvNm5GeVRzM2JTZXBtRlhRQzJPRGNPdC1lOHZ1M0N1WkpLNmJqbmlLUC1YS0pTVkJMcjdaV0xSREl6TVhMei1kMHk4RHBDMVlPbjFVZWRqSnM": 1792658445957,
     "threads:DeyLeXmj-Q8": 1792658756307,
     "threads:DeyA7q4kkga": 1792658756307,
     "threads:DcxWolQHdpR": 1792658756307,
@@ -27549,69 +27533,18 @@
     "threads:DfWmZGfD4wM": 1793867734568,
     "threads:DfWnSwLk-ow": 1793867734568,
     "threads:DfWmc5Uk8iA": 1793867734568,
-    "news:CBMiogFBVV95cUxQRlBBNUVqbS1iNXh0bk9ZMkttVHFSYlRhWTB3N1VJY0IxRnl4NEpxZnVfVlZrZnlzM3QwRUdzbGJNbmd6enFqNjdSb05ERERoNEhGOXBZZm9rRlV2LTExdXJYMXlCdzZoTFJKVXIwcFlWWVoxejhKcVJtSzdESDZRUTBnMVZYRWtTWE1NeDNETVltdHlwNy1GUUFOZmtHYXVsY0E": 1793867734568
+    "news:CBMiogFBVV95cUxQRlBBNUVqbS1iNXh0bk9ZMkttVHFSYlRhWTB3N1VJY0IxRnl4NEpxZnVfVlZrZnlzM3QwRUdzbGJNbmd6enFqNjdSb05ERERoNEhGOXBZZm9rRlV2LTExdXJYMXlCdzZoTFJKVXIwcFlWWVoxejhKcVJtSzdESDZRUTBnMVZYRWtTWE1NeDNETVltdHlwNy1GUUFOZmtHYXVsY0E": 1793867734568,
+    "threads:DfWIlelEgv9": 1793868038389,
+    "threads:DfWmrEbgRte": 1793868038389,
+    "threads:DeGpO_tD9Aa": 1793868038389,
+    "threads:DXT0tBDj4JW": 1793868038389,
+    "news:CBMisAFBVV95cUxONm5EUkMzZTRTaGI2WkZkLTVsNng2bkhEM0VBX20xcWxyOG5qbHM2VGRDUS0wcTlnZU5LTU45amtZc2JLRExzVHdURGdMRjlpR1A2VTVqTmJ5bWx5NlZyQVpUd3lKOTZyQXRvYno5R2I1cHdNempoTk9ZbENIWTc5cVdKOExuY05TeUhkOW5PckJ0VklEbDJISGdEZkJJUjYxUXRkYmxPS09XMEUwWFNveQ": 1793868038389,
+    "news:CBMitgFBVV95cUxOTnU0UWdHVVVlMVFSNi1LWFNJcEpkdE1GXzM1ZHVSOWJxRVctektoS2EwSWVEOG5mWmNBN29zMlgtLTI3SGJxZTBxdEtlVWo5ZnBSMlhQX0swYzVRWjVNR3ZOVU9TcllwQzRKR3VuRFl2eTRnWm1ETWlJMnBiTG90UVVSOGx4NlZqWWhpU2RMdEJWVlFJQmM3Qy00RWwxOHBXS2tqY1BKMkQ0QTNocnU5OVU4emNuQQ": 1793868038389,
+    "news:CBMiswFBVV95cUxQenh1VHJudWthZlp4X3hEek9JSjJsenpyRjdvUjItS3BIeTBncmM0NmdfQUFrX2xaZlQzR2FYOWoxVkhtRzRkcU5YZHdrOU1ZTnFfSFhjVGFZbUVWaFZqci1Wc1cyX3EwaVBWUzV1U1doT1JydVFZODZjZWVSTmR4UTl6Q25za2FaVDFBRFRlRDRkYzlRT1U0TGNMdjJnSkZEaFFHVHJoZ2lhVjN5N21ycUExdw": 1793868038389,
+    "news:CBMiYkFVX3lxTE1GOVJQTmFvcUstQWJFbTNrMk93a1pzMFNtZFVmbVhiQWdDbkx0NWtKcmozLWIxMkFnNUZUQ1dGMzRJUkFOeEJTYlRXX1gwZ0xZbk5iRlk1NUlEZW1oVTJUWjln": 1793868038389,
+    "news:CBMieEFVX3lxTE1YRzVnUTVESjdVTXAyajU0MnJacXZkODg4WUVkNFlWTUR4ZTlzOXhLMTlHSXdiem1kNnc0NlJacVhQR3d1OXZ6cWZnMlpwQmVmV1FPZWtzUkVqY0tLRXUzbzdjaVp2YWc5amlock5QX2x6alI4X2JYQw": 1793868038389
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@mars.amh",
-      "x": "Mau magang tapi belum punya PENGALAMAN, emng bisa lolos??🤔 Sini‼️ Gabung MAGANG SKILLWORK, bakal dibimbing sama mentor.... 1. tanpa seleksi 2. wfh 3. bisa konversi sd 20 sks 4. da",
-      "u": "https://www.threads.com/@mars.amh/post/DfWHsoWGhQ9",
-      "d": 1793851108000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@alyshaapriliani",
-      "x": "Alhamdulillah di DTSEN PBI JK y sudah berubah periode nya, berarti itu artinya bansos aka segera cair Semoga di Minggu kedua meleleh #bansos #bpnt_pkh #kemensos #triwulan4",
-      "u": "https://www.threads.com/@alyshaapriliani/post/DfWVtyQjmOa",
-      "d": 1793858458000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Gentra News",
-      "x": "Babinsa Koramil 1608-03/Sape Pastikan Penyaluran Makan Bergizi Gratis Berjalan Lancar - Gentra News",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVktLNW85ZnViZVJoaUVVamVlTmpUUm5kSG5fQ1cxS2tGZTMyYzI4aFp0cnpMdGVZVFRFY2syWTBZeWhlZDdMa3pqd0NCUEFtWUcwbVAxZmRFVWh2NlhZN25IYWlrd1FKaG5ZUWNxNE9kNm9VTG5pN3Q4aTNIYnktdjZWcFd4RUpBU2hVdjctMDFXU2Z1N0N1eXE1NDgxZ1NOU3c5SGN6R1l6ZzRUeDFZNkp4UHhjOEJDU2c?oc=5",
-      "d": 1793858724000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Validnews",
-      "x": "Sertifikasi Halal Dan Persaingan Mendapat Kepercayaan Konsumen - Validnews",
-      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzBoZ012MVk0TUU0Vm9ZaEZQa1FFbU9mNE1UOHBKYms3MUFOTExvUnBaYUJrYnI0Rks0eVAtVDZxNUl1TGRSdWhfWWc0TjNLU1ZrMG5MTHZxbkQ4bzhpZG9ESVlkV29fYnVJQU54YlV1QUhqa182Uy1NektXYVNrNkZwRDN0b2tWNU5kUDNlRXU1MXpvQlU4WTNZd0N2Z3N3b1dWNjVyUXFlY3o4T2s0?oc=5",
-      "d": 1793783700000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bansos BPNT Tahap 4 2026 Per Hari Ini Sudah SPM, Selangkah Lagi SI - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUdNanJFbk93bl9sNXl2NWhCZ2tkRlB0eVZSeXIyTndpeTREOTBxVl95ZXVpd3BwUENVSUl1QXVRWG9OU01DOFdKT1czcmJ6VGtpR1JnRS1aQ0ZIT0RPdEZkTWRKTk1YTU9aZG01TjlPaGtILWU2ZzNKQ2RkdkhIcTh3dm1UbzROY2hQOU5VNWdFcnFfdVNmb3FSR2t0MGNLUkxGVWlCLS1ybmZscjR3T1lOZDTSAboBQVVfeXFMTVlLcWI5ZFFodl9zQVBlOUgxLUhEQVJZZ241VXEyY0s2MmZrM0tRRFZIelBWN3lVQjlBbWxvdVpzcnY1Zjd0ZFJkWUE5aGw2aU5XdVAycWcwWm1SRU9aeDVTMXFfcTI0YzdWUTNYdWFlbDVWcFkxM3V2cG1iOG1WU1ZtOVhsUGtKVTIyekVOdGVaM3VGOWhCNmlRbnFJYmo0NFFCeXR6VUU0emZZU1daWUZxdTdiNkRacUdn?oc=5",
-      "d": 1793858424000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@devstacks_ai",
-      "x": "🚨 DEVELOPER INDONESIA, ADA YANG LAGI BIKIN PROJECT DATA BANSOS? 🇮🇩 Daripada ribet bikin integrasi dari nol, sekarang kamu bisa eksplorasi Bansos API dari Bali Tech Solution! 🚀 ",
-      "u": "https://www.threads.com/@devstacks_ai/post/DfWWRo6ExaQ",
-      "d": 1793858751000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29051,10 +28984,70 @@
       "d": 1793867700000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@chyka.salaga",
+      "x": "Pencairan PPSE... #InfoBansos #KecBolaang",
+      "u": "https://www.threads.com/@chyka.salaga/post/DfWIlelEgv9",
+      "d": 1793851574000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@syelliani1",
+      "x": "Bu, saya msh desil 6 tp suami kerjanya ojol pernah ngajuin kjp ditolak lalu coba urusin tuk daftar perlinsos sdh msh mnunggu dtambah jg msh statusnya tunggu validasi data de aplika",
+      "u": "https://www.threads.com/@syelliani1/post/DfWmrEbgRte",
+      "d": 1793867348000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RM.ID",
+      "x": "Fuji Abdul Rohman dan Dzulfikar Ahmad Tawalla Serukan Persatuan Indonesia - RM.ID",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnU0UWdHVVVlMVFSNi1LWFNJcEpkdE1GXzM1ZHVSOWJxRVctektoS2EwSWVEOG5mWmNBN29zMlgtLTI3SGJxZTBxdEtlVWo5ZnBSMlhQX0swYzVRWjVNR3ZOVU9TcllwQzRKR3VuRFl2eTRnWm1ETWlJMnBiTG90UVVSOGx4NlZqWWhpU2RMdEJWVlFJQmM3Qy00RWwxOHBXS2tqY1BKMkQ0QTNocnU5OVU4emNuQQ?oc=5",
+      "d": 1793865660000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bloomberg Technoz",
+      "x": "Cara Cek BPNT November 20026 Pakai NIK KTP, Bansos Segera Cair? - Bloomberg Technoz",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenh1VHJudWthZlp4X3hEek9JSjJsenpyRjdvUjItS3BIeTBncmM0NmdfQUFrX2xaZlQzR2FYOWoxVkhtRzRkcU5YZHdrOU1ZTnFfSFhjVGFZbUVWaFZqci1Wc1cyX3EwaVBWUzV1U1doT1JydVFZODZjZWVSTmR4UTl6Q25za2FaVDFBRFRlRDRkYzlRT1U0TGNMdjJnSkZEaFFHVHJoZ2lhVjN5N21ycUExdw?oc=5",
+      "d": 1793867880000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Limapagi",
+      "x": "Cara Cek Data Desil Bansos Online Tanpa Aplikasi - Limapagi",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GOVJQTmFvcUstQWJFbTNrMk93a1pzMFNtZFVmbVhiQWdDbkx0NWtKcmozLWIxMkFnNUZUQ1dGMzRJUkFOeEJTYlRXX1gwZ0xZbk5iRlk1NUlEZW1oVTJUWjln?oc=5",
+      "d": 1793868022000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "Cek Bansos Kemensos dan BPS Memudahkan Verifikasi Desil via NIK KTP Tanpa Aplikasi - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRzVnUTVESjdVTXAyajU0MnJacXZkODg4WUVkNFlWTUR4ZTlzOXhLMTlHSXdiem1kNnc0NlJacVhQR3d1OXZ6cWZnMlpwQmVmV1FPZWtzUkVqY0tLRXUzbzdjaVp2YWc5amlock5QX2x6alI4X2JYQw?oc=5",
+      "d": 1793867700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
