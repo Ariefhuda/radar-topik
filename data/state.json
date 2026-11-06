@@ -60,31 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DU-VvvEkTgZ": 1792725935945,
-    "threads:DSqhOTkjCHT": 1792725935945,
-    "threads:Dey9oq5DBNZ": 1792725935945,
-    "threads:De0kgc1idg-": 1792725935945,
-    "threads:Dezh03lE6TI": 1792725935945,
-    "threads:DWpqkMaE38-": 1792725935945,
-    "threads:DXbWFa_FGo-": 1792725935945,
-    "threads:DS7TwsuD1Ah": 1792725935945,
-    "threads:DbdNn1aGT08": 1792725935945,
-    "threads:DdJU18_gdrh": 1792725935945,
-    "threads:De0lXkAEvFw": 1792725935945,
-    "threads:De0lNL5ljLy": 1792725935945,
-    "threads:De0lDoLEjEH": 1792725935945,
-    "threads:De0k_adk87U": 1792725935945,
-    "threads:De0k9v1k3mW": 1792725935945,
-    "threads:De0kxtvE1Xl": 1792725935945,
-    "threads:De0kp1DCRgl": 1792725935945,
-    "threads:De0koVWE9gA": 1792725935945,
-    "threads:De0kjqHE5tN": 1792725935945,
-    "threads:DezxrRMFqXp": 1792725935945,
-    "threads:Dez1WjoAij5": 1792725935945,
-    "threads:De0InqfoPWv": 1792725935945,
-    "news:CBMiaEFVX3lxTE1ROS1BTklMQ2ZjLXhLX0lYTFN2RXktWms3NmltMDZMbjhpTENMRVhGTXUyYVFVU0Y4eTV5M01Ha3VkbEx0dGFXM0puOFBYY0RrRGtOeXhYRk9QS2RGbHVyUWN6NzBEMVFh": 1792725935945,
-    "news:CBMif0FVX3lxTE8wMUlydGhNWFFsMERLVERWUHFacHE5dmFaX0xjY1diS2JlbjNSb0ZpYmc2Mkl1WVpTXzkyQno5S1BtNGR4UW1kZkFZLUxMSUxwZG1Yc18yVndzdmdYdUNzaWJUWHdaOG5IRllHRG43bUFjdnRMZFpGWDMxcEIzMWc": 1792725935945,
-    "news:CBMiwwFBVV95cUxNbkZOUjBkQVdVZE5kamFrdElZS3pJTm1ndEtYQmRiYmRxVVFBRldSVlZmTFFGT2U2OWd4WGpMWXZPNmMzamw3SEJhZjlCd1B1SzdJeWl4Yk5FVG1iV2dqNjJmQ1ctMksySTNTXy1HbjFoUzdxRlhfOEhpSnYydkNPaEpRSDB4UEhMSUtOMDVJdGRnUnJpUF93bEpmS3B6bURZMUdRZWFFc0w3TkVBQWlra1JMazM4VkcwYTZCSEc5YkljQms": 1792725935945,
     "threads:De0lR37E1eT": 1792726254986,
     "threads:De0mEO_nw2c": 1792726254986,
     "threads:De0lkWoEdc-": 1792726254986,
@@ -27763,7 +27738,15 @@
     "threads:DfYnJVggQWy": 1793935250716,
     "threads:DfYn0w1Hz-3": 1793935250716,
     "threads:DKeRamMy-Mo": 1793935250716,
-    "news:CBMicEFVX3lxTFBNbUdpVjRiS3ZQbEI4bEgwaGItUWt0ZHprVnZvMG4wb3ZtdW5SLWdIQU9VSWNxN2g1M284V0YzYWxyZWdWSHVISU1WSGlybEh6b29rdWhnZmpSeFNkSVYxcm1YMGtCNzZ6ZHcwZWJ6OWU": 1793935250716
+    "news:CBMicEFVX3lxTFBNbUdpVjRiS3ZQbEI4bEgwaGItUWt0ZHprVnZvMG4wb3ZtdW5SLWdIQU9VSWNxN2g1M284V0YzYWxyZWdWSHVISU1WSGlybEh6b29rdWhnZmpSeFNkSVYxcm1YMGtCNzZ6ZHcwZWJ6OWU": 1793935250716,
+    "threads:DcpF2O0Egrl": 1793935532966,
+    "threads:DcQHfrkAb4j": 1793935532966,
+    "threads:Dcf-p4XmLbF": 1793935532966,
+    "threads:DcNo6E2kUc0": 1793935532966,
+    "threads:DcNxqHzlPCE": 1793935532966,
+    "news:CBMiigFBVV95cUxPUUVjcnpCUm85bHItQ1VkZGV4NXIzOHg4aVlJcktRUGdsYWU0d0pFSm9FVGgyTnl0QjZZNFg0dkdxcl8wWC11SGc1XzU3TDBnRmFBRGF4NTdlMXpNYlRtQ0w2UDB0b3lPNU1haHEzbzlNcDhkTGMyLW12UUhNeGd2VXlCZXdySWVROHc": 1793935532966,
+    "news:CBMi5gFBVV95cUxNc2hGRE96UFhpQ0Vqdm5jZzhzdFBXWjJscklwYU1QZXNZX0ZDS2ZQQmxpenJfZ2xaUjVBQTlsN1RMYVZTVGZwMUxYWjNZb1diQ05DSVhVdVUyWEZuV21fNURyTC1fTk9rRl9NNlFBWEZyOGZoQ0NmNUZQZ1FaQjg0clhjM2ViX3doU3VuZmJWeEdxTGRFdVl3WVkxQXNzVWlVWXBvaVhyR3R2cExZRFo2OThfXzdQOVhmaHdfOVpoXzlqMnRCRXdrRWlMMUdwUkhZMjRQc2U3UnhjM3ZsNlpTdWt1R1dVQdIB2AFBVV95cUxONEQ1SjM4ZDZkc2xmU2hYVWQ5elJESE5VQjZGRE9Lc3BCSVFYTG9OTmx1ckJYN3plb1hUQl9KRTNLT29IWk1Ua2ZEeVhxX0RPSlZ5RFNUdVFlQTRYV2djM2gtUzdISGlLQVBJWmJtRVplTTRubnBXVnR6NDdQdVlkTl82cV9WclpLM200VXFYaEZvdWpPNHBMWkRPM0NhT3BrUUVIR19BT3JMMjJXLVM3b0xzbUlvaC1fRzY3cHR1R0drSGhlQjduYjFpeHlMLWFqcVlRY2xmTmM": 1793935532966,
+    "news:CBMid0FVX3lxTE1qVkNnQkZuMGdXOVhkdDFsR0g4ejRNZFNjdk1jSTFJbjVvMDhOaWt3NTlMRnFhOTNCazFDWlY3eVBSbnFtRjBzaXljWjFvQkV6aWI0eDhSOFZpV2RnT1c5Um1JbTlmVVh6bXI1bnRMd1dOU25YbkdB": 1793935532966
   },
   "digest": [
     {
@@ -29005,10 +28988,30 @@
       "d": 1793935226000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Jambi Independent",
+      "x": "Beasiswa Fulbright ke Amerika Serikat Dibuka hingga Februari 2027, Ini Syarat dan Cara Daftarnya - https://jambiindependent.disway.id/ - Jambi Independent",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc2hGRE96UFhpQ0Vqdm5jZzhzdFBXWjJscklwYU1QZXNZX0ZDS2ZQQmxpenJfZ2xaUjVBQTlsN1RMYVZTVGZwMUxYWjNZb1diQ05DSVhVdVUyWEZuV21fNURyTC1fTk9rRl9NNlFBWEZyOGZoQ0NmNUZQZ1FaQjg0clhjM2ViX3doU3VuZmJWeEdxTGRFdVl3WVkxQXNzVWlVWXBvaVhyR3R2cExZRFo2OThfXzdQOVhmaHdfOVpoXzlqMnRCRXdrRWlMMUdwUkhZMjRQc2U3UnhjM3ZsNlpTdWt1R1dVQdIB2AFBVV95cUxONEQ1SjM4ZDZkc2xmU2hYVWQ5elJESE5VQjZGRE9Lc3BCSVFYTG9OTmx1ckJYN3plb1hUQl9KRTNLT29IWk1Ua2ZEeVhxX0RPSlZ5RFNUdVFlQTRYV2djM2gtUzdISGlLQVBJWmJtRVplTTRubnBXVnR6NDdQdVlkTl82cV9WclpLM200VXFYaEZvdWpPNHBMWkRPM0NhT3BrUUVIR19BT3JMMjJXLVM3b0xzbUlvaC1fRzY3cHR1R0drSGhlQjduYjFpeHlMLWFqcVlRY2xmTmM?oc=5",
+      "d": 1793935080000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "4 Bansos Kemensos November 2026 yang Bisa Dicek, Terdaftar di DTSEN Belum Tentu Dapat Semua Bantuan - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qVkNnQkZuMGdXOVhkdDFsR0g4ejRNZFNjdk1jSTFJbjVvMDhOaWt3NTlMRnFhOTNCazFDWlY3eVBSbnFtRjBzaXljWjFvQkV6aWI0eDhSOFZpV2RnT1c5Um1JbTlmVVh6bXI1bnRMd1dOU25YbkdB?oc=5",
+      "d": 1793935440000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
