@@ -27619,19 +27619,20 @@
     "threads:DfaX00ZGAae": 1793994635981,
     "threads:DfaXNMyGW8J": 1793994635981,
     "threads:DennklSE_xY": 1793994635981,
-    "news:CBMic0FVX3lxTFBOVVdEVWFKXy0xWS1kcmUxMGhnUTJjZFFCU19zY3NsT3JxTUZsUmdNRFNyZ211djlsbTM5UlkzOEM4dzNvVTlDNHB3N1pkWDFnV25yZ3F2cEdpZ3plbWFKNUYyeVAyTkxUMDB3TDhqSGFCcmM": 1793994947201
+    "news:CBMic0FVX3lxTFBOVVdEVWFKXy0xWS1kcmUxMGhnUTJjZFFCU19zY3NsT3JxTUZsUmdNRFNyZ211djlsbTM5UlkzOEM4dzNvVTlDNHB3N1pkWDFnV25yZ3F2cEdpZ3plbWFKNUYyeVAyTkxUMDB3TDhqSGFCcmM": 1793994947201,
+    "threads:DfaaiYCo8xo": 1793995251866,
+    "threads:DfaamPBAhy-": 1793995251866,
+    "threads:DfaaMS2j4QZ": 1793995251866,
+    "threads:DfaaJ7iERSM": 1793995251866,
+    "threads:DfaZ7wFlBei": 1793995251866,
+    "threads:DfaZw09CaB0": 1793995251866,
+    "threads:DfaZowIk4us": 1793995251866,
+    "threads:DfaZZLKjU3O": 1793995251866,
+    "threads:DfaN3lAGT6h": 1793995251866,
+    "threads:DcvCnlaEtYz": 1793995251866,
+    "news:CBMiwAFBVV95cUxPUHo0XzJBRDZmaVF5R1ViUlJGOUpVZlZnNjFhMnFCOWRDc0VKZ2I3cHEyd01NU1NDYkVNaEVNN2pBRVRRa3ZDQjZXbnVEUjZZbS1lU0RuUG1Bd0xwM0xpQVhLQ0h2cE5wT2EzN3FRQ2E3ZnFOcEpoRU01VU40MExwb2lxRXQ0d3RJYjJpVDBka3ZLaFc1NmlZV2FsRHZLb1RVS3owVzBTdXRlU1RIRzZiek1nTDNka1pzc24zN0JZVC0": 1793995251866
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@aleakhoirunnisa22",
-      "x": "aku kmren isi perlisos pas masih desil 9 ka . nanti ketawan ada bacaan \"berpotensi layak atau tidak\"nyaa . abis isi itu aku langsung ke aplikasi cek bansos buat sanggahan desil .",
-      "u": "https://www.threads.com/@aleakhoirunnisa22/post/DfZkLTXkyk2",
-      "d": 1793966703000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29121,10 +29122,20 @@
       "d": 1793977260000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "DataIndonesia",
+      "x": "Desil DTSEN Berubah? Ini Penyebab, Cara Cek, dan Panduan Perbaikan Data Bansos Lewat HP - DataIndonesia",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHo0XzJBRDZmaVF5R1ViUlJGOUpVZlZnNjFhMnFCOWRDc0VKZ2I3cHEyd01NU1NDYkVNaEVNN2pBRVRRa3ZDQjZXbnVEUjZZbS1lU0RuUG1Bd0xwM0xpQVhLQ0h2cE5wT2EzN3FRQ2E3ZnFOcEpoRU01VU40MExwb2lxRXQ0d3RJYjJpVDBka3ZLaFc1NmlZV2FsRHZLb1RVS3owVzBTdXRlU1RIRzZiek1nTDNka1pzc24zN0JZVC0?oc=5",
+      "d": 1793973442000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
