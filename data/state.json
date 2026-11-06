@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De0l8XSktmO": 1792726539065,
-    "threads:DYe7EgTk5NP": 1792726539065,
-    "threads:De0lYFlkalu": 1792726539065,
-    "threads:DcU20UTI57T": 1792726539065,
     "threads:DeyqZ_3DVOS": 1792726841476,
     "threads:DdqioqkEymr": 1792726841476,
     "threads:DbyFoPfj7SV": 1792726841476,
@@ -27766,7 +27762,13 @@
     "threads:DfYpNLGgYwB": 1793935839168,
     "threads:DVfVgEhkwpT": 1793935839168,
     "news:CBMitwFBVV95cUxQNGJmV3o1ZUoxZ19jcVVpZWlLb0d1RTVqWmhfWWk3c2JCT0ZUelRmMFpxU1NLVDNCcEpjcjZrUUtWVjVaRmRnQ0xkQmpMRU1OVjhEN0I0bzU2TDhFN3RZdDNuRTI4SHdiQ3l0em1WTXhVbUppVFdzZlliYmF2VDRPdnFjWFVYZUtPMXh3OWxLTTFoZF8zbkptVEpmVUh5WkFXZHRoWWVjZFk2VzJkaVlLMXBuNXRjSnM": 1793935839168,
-    "news:CBMibEFVX3lxTE5GT0NKczQxNE1tcFppYktqTjNjY3NubEdhM3FIaHF3cGgtN2stSlVWaFhkUUdiVU1ib2dKdVEzSFp0RmlTWHlqaE1vUHpIandWS0FVdXQ4OWRVdDZoWDJyMFIwWkxOdXFPOFNhMA": 1793935839168
+    "news:CBMibEFVX3lxTE5GT0NKczQxNE1tcFppYktqTjNjY3NubEdhM3FIaHF3cGgtN2stSlVWaFhkUUdiVU1ib2dKdVEzSFp0RmlTWHlqaE1vUHpIandWS0FVdXQ4OWRVdDZoWDJyMFIwWkxOdXFPOFNhMA": 1793935839168,
+    "threads:DerAERZH-JD": 1793936143252,
+    "threads:DeLFerUgTos": 1793936143252,
+    "threads:DfYpFC1n3dY": 1793936143252,
+    "threads:DfYokk8D-Kz": 1793936143252,
+    "news:CBMiugFBVV95cUxOaVpxSHpWZ2Zoa2VpR0M2TEphclBqeUIzblA2OW45ZzNESGZCaUtfVmluSGZQRjJxLXBPdkRlVmZNVDdTSzFGMFBDYllhZjE0b2ZRWmZzUW16TGl3d3B2d1pVcFIwLVVmNFlhT1o1QXlibXpaS2JqaWRsZ1R4SWp0MTRpUG9qdnU0eHNPcVFmX18yRFFhLVhFckc3ZUU2NjgtdEJsZy1IM0pDTVRlcGlVdUxndm1rcGlpTkHSAboBQVVfeXFMTmlacUh6VmdmaGtlaUdDNkxKYXJQanlCM25QNjluOWczREhmQmlLX1ZpbkhmUEYycS1wT3ZEZVZmTVQ3U0sxRjBQQ2JZYWYxNG9mUVpmc1Ftekxpd3dwdndaVXBSMC1VZjRZYU9aNUF5Ym16WktiamlkbGdUeElqdDE0aVBvanZ1NHhzT3FRZl9fMkRRYS1YRXJHN2VFNjY4LXRCbGctSDNKQ01UZXBpVXVMZ3Zta3BpaU5B": 1793936143252,
+    "news:CBMifEFVX3lxTE9zbmdyT0ZmQmdwZWx1SFg1V3NZV0x4dzVNMHJrcXVFU1FPTF8zLWVqVm80MExRdnRlVmVRcExQdmN2MEVpU25FVWxTNk5iOTcyclZ3QWZJdGg2ZWFzVUktSnU1RmJaUHdNbjR5TTZtNmFhOEQxUHZSRDZUNXQ": 1793936143252
   },
   "digest": [
     {
@@ -29168,10 +29170,50 @@
       "d": 1793935527000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@ibecinfo",
+      "x": "Mau beasiswa 100%? Mau beasiswa yang tidak mewajibkan kembali ke Indonesia? BREAKING NEWS! University of St Andrews - St Leonard's Masters Scholarship (International) for January E",
+      "u": "https://www.threads.com/@ibecinfo/post/DfYpFC1n3dY",
+      "d": 1793935718000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@unggulin",
+      "x": "KABAR GEMBIRA BUAT WARGA SULAWESI SELATAN! 📢 ✨Pemerintah Provinsi Sulawesi Selatan resmi membuka pendaftaran Program Beasiswa Yatim dan/atau Piatu Tahun Anggaran 2026! 🎉 Program ",
+      "u": "https://www.threads.com/@unggulin/post/DfYokk8D-Kz",
+      "d": 1793935452000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "surabayapagi.com",
+      "x": "Perketat Keamanan MBG, Pemkab Sidoarjo Dorong 3 SPPG Segera Penuhi Syarat SLHS - surabayapagi.com",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVpxSHpWZ2Zoa2VpR0M2TEphclBqeUIzblA2OW45ZzNESGZCaUtfVmluSGZQRjJxLXBPdkRlVmZNVDdTSzFGMFBDYllhZjE0b2ZRWmZzUW16TGl3d3B2d1pVcFIwLVVmNFlhT1o1QXlibXpaS2JqaWRsZ1R4SWp0MTRpUG9qdnU0eHNPcVFmX18yRFFhLVhFckc3ZUU2NjgtdEJsZy1IM0pDTVRlcGlVdUxndm1rcGlpTkHSAboBQVVfeXFMTmlacUh6VmdmaGtlaUdDNkxKYXJQanlCM25QNjluOWczREhmQmlLX1ZpbkhmUEYycS1wT3ZEZVZmTVQ3U0sxRjBQQ2JZYWYxNG9mUVpmc1Ftekxpd3dwdndaVXBSMC1VZjRZYU9aNUF5Ym16WktiamlkbGdUeElqdDE0aVBvanZ1NHhzT3FRZl9fMkRRYS1YRXJHN2VFNjY4LXRCbGctSDNKQ01UZXBpVXVMZ3Zta3BpaU5B?oc=5",
+      "d": 1793850960000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ChatNews.id",
+      "x": "Cara Cek Desil NIK KTP Penerima Bansos November 2026 - ChatNews.id",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zbmdyT0ZmQmdwZWx1SFg1V3NZV0x4dzVNMHJrcXVFU1FPTF8zLWVqVm80MExRdnRlVmVRcExQdmN2MEVpU25FVWxTNk5iOTcyclZ3QWZJdGg2ZWFzVUktSnU1RmJaUHdNbjR5TTZtNmFhOEQxUHZSRDZUNXQ?oc=5",
+      "d": 1793927190000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
