@@ -27618,7 +27618,14 @@
     "reddit:t3_1xpdmzs": 1793974540870,
     "reddit:t3_1xpdmhr": 1793974540870,
     "reddit:t3_1xpdm5s": 1793974540870,
-    "reddit:t3_1xpdlsx": 1793974540870
+    "reddit:t3_1xpdlsx": 1793974540870,
+    "threads:DfZzSzwiDT3": 1793974841849,
+    "threads:DfZy-orG-XQ": 1793974841849,
+    "threads:DfZyvOTE2We": 1793974841849,
+    "threads:De1vVJFn5cH": 1793974841849,
+    "threads:DfZy2ofjdM3": 1793974841849,
+    "threads:DfGyPzgEeGC": 1793974841849,
+    "news:CBMilAFBVV95cUxNY0licE44bGFtQXVJWExNZnlqLUxBT0FJUHB5TlBoLWhDMUh2akh1cGtIYlFSbEdtdlAtYWV4UzdGdnA2OE1hQ1pFU0VzUXFVeVY3SWYyNFVITWh6Qk1FcG13cmRRLUlvXzZTWGxIbGRic0lGUFlYZEo0cFFvTndhemEzUW5yNjJFY3I2b3M3N09JZkF50gGPAUFVX3lxTE9mSDJJaW5QZE9tREw1R3NzQ3BHUXJFZHlVTWhOekZtNEVIbmdyd1pvbjluckJOdHpfQUtuNWY3Y1hCb2JKN3RMMGpuaG9zYUpJRURTN3lZaDUzc0hOZzlfUzhyc1AyWVNDLVp2MS1odlJwZk1yV2FSRk95QkVRcUNNRXFSV1ZJc3N4SnlhaDhV": 1793974841849
   },
   "digest": [
     {
@@ -28300,10 +28307,30 @@
       "d": 1793967361000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rhayezz",
+      "x": "gila, ekspresi dan gerak kecil di video AI sekarang makin natural. tapi bikin satu klip realistis sama bikin video 6 shot yang nyambung itu dua level beda. kita bedah di webinar gr",
+      "u": "https://www.threads.com/@rhayezz/post/DfZy2ofjdM3",
+      "d": 1793974475000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "VOI.ID",
+      "x": "BPDP Buka Peluang Kampus Baru jadi Mitra Beasiswa Sawit 2027 - VOI.ID",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY0licE44bGFtQXVJWExNZnlqLUxBT0FJUHB5TlBoLWhDMUh2akh1cGtIYlFSbEdtdlAtYWV4UzdGdnA2OE1hQ1pFU0VzUXFVeVY3SWYyNFVITWh6Qk1FcG13cmRRLUlvXzZTWGxIbGRic0lGUFlYZEo0cFFvTndhemEzUW5yNjJFY3I2b3M3N09JZkF50gGPAUFVX3lxTE9mSDJJaW5QZE9tREw1R3NzQ3BHUXJFZHlVTWhOekZtNEVIbmdyd1pvbjluckJOdHpfQUtuNWY3Y1hCb2JKN3RMMGpuaG9zYUpJRURTN3lZaDUzc0hOZzlfUzhyc1AyWVNDLVp2MS1odlJwZk1yV2FSRk95QkVRcUNNRXFSV1ZJc3N4SnlhaDhV?oc=5",
+      "d": 1793961060000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
