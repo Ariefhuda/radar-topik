@@ -27625,7 +27625,9 @@
     "threads:De1vVJFn5cH": 1793974841849,
     "threads:DfZy2ofjdM3": 1793974841849,
     "threads:DfGyPzgEeGC": 1793974841849,
-    "news:CBMilAFBVV95cUxNY0licE44bGFtQXVJWExNZnlqLUxBT0FJUHB5TlBoLWhDMUh2akh1cGtIYlFSbEdtdlAtYWV4UzdGdnA2OE1hQ1pFU0VzUXFVeVY3SWYyNFVITWh6Qk1FcG13cmRRLUlvXzZTWGxIbGRic0lGUFlYZEo0cFFvTndhemEzUW5yNjJFY3I2b3M3N09JZkF50gGPAUFVX3lxTE9mSDJJaW5QZE9tREw1R3NzQ3BHUXJFZHlVTWhOekZtNEVIbmdyd1pvbjluckJOdHpfQUtuNWY3Y1hCb2JKN3RMMGpuaG9zYUpJRURTN3lZaDUzc0hOZzlfUzhyc1AyWVNDLVp2MS1odlJwZk1yV2FSRk95QkVRcUNNRXFSV1ZJc3N4SnlhaDhV": 1793974841849
+    "news:CBMilAFBVV95cUxNY0licE44bGFtQXVJWExNZnlqLUxBT0FJUHB5TlBoLWhDMUh2akh1cGtIYlFSbEdtdlAtYWV4UzdGdnA2OE1hQ1pFU0VzUXFVeVY3SWYyNFVITWh6Qk1FcG13cmRRLUlvXzZTWGxIbGRic0lGUFlYZEo0cFFvTndhemEzUW5yNjJFY3I2b3M3N09JZkF50gGPAUFVX3lxTE9mSDJJaW5QZE9tREw1R3NzQ3BHUXJFZHlVTWhOekZtNEVIbmdyd1pvbjluckJOdHpfQUtuNWY3Y1hCb2JKN3RMMGpuaG9zYUpJRURTN3lZaDUzc0hOZzlfUzhyc1AyWVNDLVp2MS1odlJwZk1yV2FSRk95QkVRcUNNRXFSV1ZJc3N4SnlhaDhV": 1793974841849,
+    "threads:DfZy73Aj4Pr": 1793975146440,
+    "news:CBMibkFVX3lxTE5XbTE5TFIxRGR3M1VzQjdkQ0NXcE5tcFFUZ2JwdHF0NjB4eU9uMzN0TmtTblNKZWpKWWpNdEktUUJwUlZTQjNaNHlnUEV0YmIyQUlPc0tHNVJsQ1R5VUZtV2RzMnZTU1lPUjFhRlNR": 1793975146440
   },
   "digest": [
     {
@@ -28327,10 +28329,30 @@
       "d": 1793961060000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@elzayn.rfsya_",
+      "x": "Saya Pekerja Penerima Upah tapi sya gk dapet BSU min ? Tidak terdaftar d cek bansos juga",
+      "u": "https://www.threads.com/@elzayn.rfsya_/post/DfZy73Aj4Pr",
+      "d": 1793974440000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "obrolanbisnis.com",
+      "x": "Tag: pelatihan gratis Kemnaker 2026 - obrolanbisnis.com",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XbTE5TFIxRGR3M1VzQjdkQ0NXcE5tcFFUZ2JwdHF0NjB4eU9uMzN0TmtTblNKZWpKWWpNdEktUUJwUlZTQjNaNHlnUEV0YmIyQUlPc0tHNVJsQ1R5VUZtV2RzMnZTU1lPUjFhRlNR?oc=5",
+      "d": 1793962427000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
