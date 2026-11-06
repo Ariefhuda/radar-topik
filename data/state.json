@@ -27586,7 +27586,10 @@
     "threads:DfZ4WmpEq3l": 1793977534448,
     "threads:DfZ3_ujCmti": 1793977534448,
     "threads:DfTNyafkqj8": 1793977534448,
-    "threads:DfZudGIo0aX": 1793977534448
+    "threads:DfZudGIo0aX": 1793977534448,
+    "threads:DfZ5M5xgSzK": 1793977841360,
+    "threads:DfZ47_3E5n2": 1793977841360,
+    "news:CBMisgFBVV95cUxOT2R0azJGXy00cF85U2xDTXNlUzJpTWpoUmlZYUJxWW1VVXJ1dXh0T1UwdVhVSi1VZzNzdFN4LVFSMjF5MW02WFh4VFIzbXVGT3diZlUzSVZaLUw2c1djT1BpMW1yVXk5eDBzRkNYWG9HejREOXA5NkxuUXhaWGZBVlQ5SF9iMV9wLS16M3dvZzlBTms5d2Y0MTQ0S3VwbVg3MEVUNGRkSy1PY0pwN2pPOG5n": 1793977841360
   },
   "digest": [
     {
@@ -28528,10 +28531,40 @@
       "d": 1793972091000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@fanierahmawangi_",
+      "x": "kalau sudah ngajuin di apk cek bansos itu wajib ngajuin di perlinsos juga kak?",
+      "u": "https://www.threads.com/@fanierahmawangi_/post/DfZ5M5xgSzK",
+      "d": 1793977726000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ngalongdotcom",
+      "x": "ngalongers! jujur ya, gue baru sadar gue tiap pagi langsung buka situs cek bansos atau bsu kemnaker cuma buat ngecek doang. padahal ini urusan kecil aja, tapi tiap nggak ada langsu",
+      "u": "https://www.threads.com/@ngalongdotcom/post/DfZ47_3E5n2",
+      "d": 1793977594000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tribungayo.com",
+      "x": "Cukup Pakai NIK KTP, Begini Cara Gampang Cek Bansos Kemensos November 2026 - tribungayo.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2R0azJGXy00cF85U2xDTXNlUzJpTWpoUmlZYUJxWW1VVXJ1dXh0T1UwdVhVSi1VZzNzdFN4LVFSMjF5MW02WFh4VFIzbXVGT3diZlUzSVZaLUw2c1djT1BpMW1yVXk5eDBzRkNYWG9HejREOXA5NkxuUXhaWGZBVlQ5SF9iMV9wLS16M3dvZzlBTms5d2Y0MTQ0S3VwbVg3MEVUNGRkSy1PY0pwN2pPOG5n?oc=5",
+      "d": 1793971704000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
