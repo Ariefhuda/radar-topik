@@ -27595,7 +27595,9 @@
     "threads:DfaQeF6o77o": 1793990137175,
     "threads:DfaQUtDnViy": 1793990137175,
     "threads:DfaPVM_ku0f": 1793990137175,
-    "threads:DecXcnCEzi-": 1793990137175
+    "threads:DecXcnCEzi-": 1793990137175,
+    "news:CBMikAFBVV95cUxOOG1nbnExLVAycG0zay1CSHlNUlMyV3J2SGE0WnNodzF0XzFyRWtWQmU4LThoems5c2pkRGJuLV92RHpkY2FocU9KaExWQ3JKMkJ3d2pFTVBfMHBjT2x4VngzY1A1X0k3TEFNcTlOVWt6UVpadWpLVzJkb1N2d3ZkZS0yS1c3aGcyZkJNOXdpelY": 1793990447213,
+    "news:CBMi2gFBVV95cUxPdzZNZ2MtUy1iQU00UTFsdm8tRk05ZlJBU3pwRkFaU1dGZ2daQ1ZQaU5OdVVOdFdtdElmUDJjdFRBRklGaHNLZG9mdzBISmh2UVVjMlhtRThUd3FhSlZJLVB5TkY5czMya01icU9UN3VLdVpnMVVfMGtlUnNhTGp3bnRGeGtoVWV5ZUtmdkdVUDBWOHFFdVB0REZiRWw0UGR5OExLZUhVM1p0NVNtYXhFeko3cks3X1phY3JEemdpQmFjRFhkX2NTT2lTOE5tMGZnbWN2TEU0Q1Z6d9IBygFBVV95cUxNUHQwWmNDOVBpN1lLZHlwUE5QOGo3WWxyc2M5NGZ2cGthV28tQ2dDSEtHZXVyQ29OVjRLeGQxN0FnQ0dGelFFb0pBeXZzTW5kRVluY05BM2NfUVI1dW5SVUlsZk01VHdNY0RTUWF4SjBPR1hMSHVjd2RIM1BVMkJxNkt3WnBmN3J4NVo2RjliTUx4SmFmUUw0RmdleV9sMXVNODYzYU5YS0hXSW1uQXFjaDg2X05fazJvR2JEREdPSmFtam8yZlJFN1hB": 1793990447213
   },
   "digest": [
     {
@@ -29047,10 +29049,20 @@
       "d": 1793977200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Rakyat Bengkulu Online",
+      "x": "Beasiswa S3 untuk Dosen 2026 Dibuka Kemendikti Saintek, Pendaftaran Ditutup 11 November! - rakyatbengkulu.com - Rakyat Bengkulu Online",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdzZNZ2MtUy1iQU00UTFsdm8tRk05ZlJBU3pwRkFaU1dGZ2daQ1ZQaU5OdVVOdFdtdElmUDJjdFRBRklGaHNLZG9mdzBISmh2UVVjMlhtRThUd3FhSlZJLVB5TkY5czMya01icU9UN3VLdVpnMVVfMGtlUnNhTGp3bnRGeGtoVWV5ZUtmdkdVUDBWOHFFdVB0REZiRWw0UGR5OExLZUhVM1p0NVNtYXhFeko3cks3X1phY3JEemdpQmFjRFhkX2NTT2lTOE5tMGZnbWN2TEU0Q1Z6d9IBygFBVV95cUxNUHQwWmNDOVBpN1lLZHlwUE5QOGo3WWxyc2M5NGZ2cGthV28tQ2dDSEtHZXVyQ29OVjRLeGQxN0FnQ0dGelFFb0pBeXZzTW5kRVluY05BM2NfUVI1dW5SVUlsZk01VHdNY0RTUWF4SjBPR1hMSHVjd2RIM1BVMkJxNkt3WnBmN3J4NVo2RjliTUx4SmFmUUw0RmdleV9sMXVNODYzYU5YS0hXSW1uQXFjaDg2X05fazJvR2JEREdPSmFtam8yZlJFN1hB?oc=5",
+      "d": 1793933580000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
