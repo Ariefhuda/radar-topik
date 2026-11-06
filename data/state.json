@@ -27588,7 +27588,14 @@
     "threads:DGp92AMsfYV": 1793991339048,
     "threads:DfaSoaskXCE": 1793991339048,
     "threads:DfaSMpBlOI8": 1793991339048,
-    "threads:DfaSG4Dk6gt": 1793991339048
+    "threads:DfaSG4Dk6gt": 1793991339048,
+    "threads:DfaTITLkSUZ": 1793991650431,
+    "threads:DfaS7qwlvUK": 1793991650431,
+    "threads:DfaTxPGk5YJ": 1793991650431,
+    "threads:DfZ-CKGH4ob": 1793991650431,
+    "threads:DZkb6nyic0G": 1793991650431,
+    "threads:Dd-ruhqieSq": 1793991650431,
+    "threads:DcRZw3NEwrx": 1793991650431
   },
   "digest": [
     {
@@ -29060,10 +29067,30 @@
       "d": 1793977260000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
+      "u": "https://www.threads.com/@updatepelatihan/post/DfaTxPGk5YJ",
+      "d": 1793991655000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@lentera.toefl",
+      "x": "*TES TOEFL GRATIS LENTERA TOEFL INDONESIA* Halo Pejuang TES TOEFL 🙌🏻 Yuk ikuti Tes Toefl Gratis With Lentera TOEFL Indonesia 🤩 📆 Jadwal *Senin dan Selasa 9 & 10 NOVEMBER 2026* ",
+      "u": "https://www.threads.com/@lentera.toefl/post/DfZ-CKGH4ob",
+      "d": 1793980259000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
