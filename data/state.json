@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd_E7BuE3lE": 1792734950099,
-    "threads:DeOURwJFLV3": 1792734950099,
-    "threads:De021HpmfN_": 1792734950099,
-    "threads:De01iRTHSF-": 1792734950099,
-    "threads:Dd8eaEjH2B_": 1792734950099,
     "threads:De032qiD7Tp": 1792735557562,
     "threads:De02e0jkYvq": 1792735557562,
     "threads:De03EN4muli": 1792735557562,
@@ -27716,59 +27711,26 @@
     "threads:DfY3l_PnwiC": 1793943939922,
     "threads:DfY2uEtie1z": 1793943939922,
     "threads:DfY4qJvCIcB": 1793944243873,
-    "news:CBMi-AFBVV95cUxQMHotN1BveWxSRnRaenJnN0VSQUVneFprOVNXRnloaW5nTTlWRURwcFhvcHJxV05ZSjRueHl6YmtTLUZVN01vVHZJbXFkUFg3dm9PdGROb0R5X2NDcXhET0tJa2o2WEc5dWVha2ZESXN1ZlZDX0RXR2NZaElSNEVaVlNyY3J4NzNQc1Q2cE5qZzNMYkhUdnRUWjVKWXhJWHJsQjVleGVkNW5tNHd6SU5RSjI5WERtT19BUzNLdGNKZFFsUGk5SV8tTEJkX3Jkb19WWWlFUzhSbEJrWnYyNVN3RU8tMFNZUjNxMHlNTDhfejZxV3dDNXJ0QtIB_gFBVV95cUxOQ1hFbHZqbVkzbHhhVlY5akx2VHVJczIyeTNFZ2JNdjZNUFZDU0tFck1TZVZZS2RLWmdnVWk5YlhOSnZjWUJxY1dYZHhxTVlKcE1IMmZBZ01KWVlHVms0Y3hKNVA4dG1yUjRwOHRkM05XSkp2SkQ0elI2VGxNUmtNTTRVR2h2dTgxWWhpWm52akEtVkp5ZkNEX0dLTExTTTAyaEY2cEpiQlFhbW9CblkyTDdMUEhxU0VKZGVzOVhMQThQS2VmbDVnUVVrWlhfai1laTlPeURBaFZ2WTNKanZBaXlrRVNVUlRPXy1VOVBQQ1lSM3FPMlZBZUY0aEZoQQ": 1793944243873
+    "news:CBMi-AFBVV95cUxQMHotN1BveWxSRnRaenJnN0VSQUVneFprOVNXRnloaW5nTTlWRURwcFhvcHJxV05ZSjRueHl6YmtTLUZVN01vVHZJbXFkUFg3dm9PdGROb0R5X2NDcXhET0tJa2o2WEc5dWVha2ZESXN1ZlZDX0RXR2NZaElSNEVaVlNyY3J4NzNQc1Q2cE5qZzNMYkhUdnRUWjVKWXhJWHJsQjVleGVkNW5tNHd6SU5RSjI5WERtT19BUzNLdGNKZFFsUGk5SV8tTEJkX3Jkb19WWWlFUzhSbEJrWnYyNVN3RU8tMFNZUjNxMHlNTDhfejZxV3dDNXJ0QtIB_gFBVV95cUxOQ1hFbHZqbVkzbHhhVlY5akx2VHVJczIyeTNFZ2JNdjZNUFZDU0tFck1TZVZZS2RLWmdnVWk5YlhOSnZjWUJxY1dYZHhxTVlKcE1IMmZBZ01KWVlHVms0Y3hKNVA4dG1yUjRwOHRkM05XSkp2SkQ0elI2VGxNUmtNTTRVR2h2dTgxWWhpWm52akEtVkp5ZkNEX0dLTExTTTAyaEY2cEpiQlFhbW9CblkyTDdMUEhxU0VKZGVzOVhMQThQS2VmbDVnUVVrWlhfai1laTlPeURBaFZ2WTNKanZBaXlrRVNVUlRPXy1VOVBQQ1lSM3FPMlZBZUY0aEZoQQ": 1793944243873,
+    "threads:DfY5t5RE-gZ": 1793944536313,
+    "threads:DfY5kTVjwJF": 1793944536313,
+    "threads:DfY5gmIEzbB": 1793944536313,
+    "threads:DfY5co1I8pj": 1793944536313,
+    "threads:DfY5ZVwoxh2": 1793944536313,
+    "threads:DfY5XJRlKIM": 1793944536313,
+    "threads:DfY5N5fDwik": 1793944536313,
+    "threads:DfYxCfUG3v4": 1793944536313,
+    "threads:DfY5nsIjkAg": 1793944536313,
+    "threads:DfY5ZNPmdSp": 1793944536313,
+    "threads:DfY5V8QitF5": 1793944536313,
+    "threads:DfY6ARSmAg4": 1793944536313,
+    "threads:DfY53DZmi47": 1793944536313,
+    "threads:DfY5GjFkx4A": 1793944536313,
+    "threads:DfY5lLSILW5": 1793944536313,
+    "threads:DfY5dQPEViX": 1793944536313,
+    "news:CBMiuwFBVV95cUxPLTFOdzl5MTc0VkRtVnZaWXNHdFNESGhqdnZGOHh6SFFKQkZvd2QyN2RmZ2YtSUZnUlo2TDZTNW5MVktFSWpjVGNhUGFfYnQ3VDQwNmRnV19VOVJRZUdYd3luS1Q0d2pPa0M2RzJIOHJHaEIyVDhaRFFIV0VHNWItNS1MR0pFTjVPU2R5NFRlazdOYzRiN2I1dTlQT01qMHExVXNnaHpuekNFMEgwYU1jMjE4b3MtQU9vc0ZN0gHAAUFVX3lxTE9yd1lRMHBuY08tM0dtUTR6d0ZRaWpXTkhXbHdpRWVPZFN2T0QxWkRJY28xbnA0WG9LTTJlYk0tNVNzYXhEVFloRzhkbE1ZXzlwVkFDOXprWXVmYzFWMW9URXdQUGlXYmd1QThLcnRxX1F4dmc4a1F2d2x5bzNoQnJNcmh0blU0RlNNM2czVVZTRVVPbTlyclQ1R2NZR1BwM2NsYnVOMGYwYms3SDlmdVMtbWU0Ym14akwxNDhwRm05OA": 1793944536313
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfYoFkoD6m2",
-      "d": 1793935198000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfYnJkkj7ws",
-      "d": 1793934707000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@eneng_apt",
-      "x": "Halo kak..klo saran dari aku sih kakaknya belajar digital matketing dari 0, diajarin dan ditemenin mentor sampai berhasil jg, ilmu dan platformnya lengkap seperti kita ambil kuliah",
-      "u": "https://www.threads.com/@eneng_apt/post/DfYnFeNmEmA",
-      "d": 1793934673000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfYmxAID9RD",
-      "d": 1793934506000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfYmukLjzCc",
-      "d": 1793934486000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29218,10 +29180,60 @@
       "d": 1793869013000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
+      "u": "https://www.threads.com/@updatepelatihan/post/DfY6ARSmAg4",
+      "d": 1793944592000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lokerpurworejoupdate",
+      "x": "KUOTA PENDAFTARAN DIKLAT SATPAM MASIH TERSEDIA.. AMANKAN KUOTAMU!!! ✅ Pelatihan profesional ✅ Ijazah resmi ✅ Penyaluran Kerja Gratis Daftar sekarang: 0822-2061-5276 Jangan tunggu n",
+      "u": "https://www.threads.com/@lokerpurworejoupdate/post/DfY53DZmi47",
+      "d": 1793944517000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@encepnurwahidi",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@encepnurwahidi/post/DfY5GjFkx4A",
+      "d": 1793944122000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@diajengikusumawardhani",
+      "x": "Demi Indonesia lebih baik segala upaya ilmu dan pengalaman yang pernah dipakai, aku rela berbagi dengan mereka yang butuh. Buat yang minta kelas tentang digital marketing, bisnis s",
+      "u": "https://www.threads.com/@diajengikusumawardhani/post/DfY5lLSILW5",
+      "d": 1793944370000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@burhanaputra1977",
+      "x": "🚀 Ingin belajar Digital Marketing & AI secara gratis? Gabung ke grup WhatsApp sekarang dan dapatkan tips, materi, serta update kelas gratis yang bisa membantu meningkatkan skill d",
+      "u": "https://www.threads.com/@burhanaputra1977/post/DfY5dQPEViX",
+      "d": 1793944307000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
