@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De1wIykkvWt": 1792766172676,
-    "threads:De1v-hcGJBp": 1792766172676,
-    "threads:De1v-fnGEAJ": 1792766172676,
-    "threads:De1yFiij8wn": 1792766172676,
-    "news:CBMitwFBVV95cUxOX05ldzhBR0R1Tjg0OWt3bHhjNDN3ekxiOXFLOGRwRFJIOFZTbVFGZEoyNnV6dUJjX0M1a3lxU0JLcW1pMHVnVDNCY244ZXpLaWpSQkY2NE90ajRnSHVmc0dqTEVXVFVwbmNTWlRWbXFXbTZCcXRCeHJMb19jTUtRNW0yX3Y0dzQ0NE9nZ3VLU3lfWGU3aTF4X2RMZmFTZERGRm1HMnBUc0hBeTdYcGl6N3ZJd2tyVnc": 1792766172676,
-    "news:CBMirAFBVV95cUxQZGxBbi1Qb0pYYWl2WjZNTF9CTXNjVDZfRWNVNC1SWmlzNVdmcXdlQWNMVTA3SWRXZGJqUmh2eFo0WXJkM0VXWFdUWUNhdGRMbkJ5VnJjUUxDSjlFb2cxOVVDaXJnT0JsQlJIWVVfVHVxNlRXLUtBdkFwdXJONEcta3VxdDN4dzBULUtvdHlwdUVuM0JDV3NTTjRaV3JqZjU4NTdtSnJpNENRcTR4": 1792766172676,
-    "news:CBMi4gFBVV95cUxQX3FjVGVTSUw1NUtYM04tdTVHYXJyVVBLRVRpRVJaTVVZMUtFZzIweTNCLXVPRUU4WGJOMVhXT2xHc2F4YzVSVFlFNnpfajBGVDVTMnhXMjVXUWxjZE5fMnRuWlpPWnd4YWJ5Z0hCQkFNQmcybUcyME5uZVNWVGNDd1FuY1ZMTWhLbTFORmg2YXpaZUlSXzNfRXhHTmQtV19kVTh2SHRXSWVqUDZaY1Z3dVFxYVRnaC1udEpkNWNCZmpQeG92YWZpQXR2YU5iNEFxVzVILTZsMDkwSHZsN2tVdVV30gHiAUFVX3lxTFBfcWNUZVNJTDU1S1gzTi11NUdhcnJVUEtFVGlFUlpNVVkxS0VnMjB5M0ItdU9FRThYYk4xWFdPbEdzYXhjNVJUWUU2el9qMEZUNVMyeFcyNVdRbGNkTl8ydG5aWk9ad3hhYnlnSEJCQU1CZzJtRzIwTm5lU1ZUY0N3UW5jVkxNaEttMU5GaDZhelplSVJfM19FeEdOZC1XX2RVOHZIdFdJZWpQNlpjVnd1UXFhVGdoLW50SmQ1Y0JmalB4b3ZhZmlBdHZhTmI0QXFXNUgtNmwwOTBIdmw3a1V1VXc": 1792766172676,
-    "news:CBMitwFBVV95cUxNV1E4RVZLMXp0OEJNU0VpeEV4d3ZkdjNBREVMUnlzN2JScXlZbTEwSUFqMUtaQl9nMVJqWWJsTkZnMVJDU3ozbGlxTWlGa0VfVkxnS0xXVFpSaTc0S3REa1h0RjB2d1h1OHFzbWhkQjczUXlZV0pfQmI2SkhoR3B0MHo5QXlsVDdBR2FPTzB3c2pmbkxwanhkdDVBcWtPWmxpQ1owbWs2MUpVSDZCTkYtc19nUzJwaEHSAbcBQVVfeXFMTVdROEVWSzF6dDhCTVNFaXhFeHd2ZHYzQURFTFJ5czdiUnF5WW0xMElBajFLWkJfZzFSallibE5GZzFSQ1N6M2xpcU1pRmtFX1ZMZ0tMV1RaUmk3NEt0RGtYdEYwdndYdThxc21oZEI3M1F5WVdKX0JiNkpIaEdwdDB6OUF5bFQ3QUdhT08wd3NqZm5McGp4ZHQ1QXFrT1psaUNaMG1rNjFKVUg2Qk5GLXNfZ1MycGhB": 1792766172676,
     "threads:De1x-oUGQA1": 1792766441483,
     "threads:De1x47eGccx": 1792766441483,
     "threads:De1xvLSmZyC": 1792766441483,
@@ -27614,7 +27606,13 @@
     "threads:DfZ0-bZoyfO": 1793975457868,
     "threads:DfZ0VKjE9xZ": 1793975457868,
     "threads:DfZ0QPxGdtf": 1793975457868,
-    "news:CBMikwFBVV95cUxPeTZCOWlmY0NMeXdHbk5JeTFzWnFac1U1Y2NVU0NhejF5VG9lTjZETGx4VmRoVHppX2FsQWNrdzBLU2hMTlg3UGVENW9ObE1ReDM1TXFvTDZKU0Vpd0xraURaVERtTUlHMWhPQU1zblE0Tzd0SUs2cTVxMWZQR0pKQXg2Tl9HbzdvajdpRWZVRERtNk0": 1793975457868
+    "news:CBMikwFBVV95cUxPeTZCOWlmY0NMeXdHbk5JeTFzWnFac1U1Y2NVU0NhejF5VG9lTjZETGx4VmRoVHppX2FsQWNrdzBLU2hMTlg3UGVENW9ObE1ReDM1TXFvTDZKU0Vpd0xraURaVERtTUlHMWhPQU1zblE0Tzd0SUs2cTVxMWZQR0pKQXg2Tl9HbzdvajdpRWZVRERtNk0": 1793975457868,
+    "threads:DfZ0TrQH6x3": 1793975748438,
+    "threads:DR9FOGpkpcj": 1793975748438,
+    "threads:DfZ1JmYE_Vw": 1793975748438,
+    "threads:DfZ0wNHGZ_Y": 1793975748438,
+    "news:CBMijwFBVV95cUxPZkgySWluUGRPbURMNUdzc0NwR1FyRWR5VU1oTnpGbTRFSG5ncndab245bnJCTnR6X0FLbjVmN2NYQm9iSjd0TDBqbmhvc2FKSUVEUzd5WWg1M3NITmc5X1M4cnNQMllTQy1adjEtaHZScGZNcldhUkZPeUJFUXFDTUVxUldWSXNzeEp5YWg4VdIBjwFBVV95cUxPZkgySWluUGRPbURMNUdzc0NwR1FyRWR5VU1oTnpGbTRFSG5ncndab245bnJCTnR6X0FLbjVmN2NYQm9iSjd0TDBqbmhvc2FKSUVEUzd5WWg1M3NITmc5X1M4cnNQMllTQy1adjEtaHZScGZNcldhUkZPeUJFUXFDTUVxUldWSXNzeEp5YWg4VQ": 1793975748438,
+    "news:CBMizgFBVV95cUxNbHc0ZklQVkNtTWJtYURETU9IcVdENGVZRktTLVJSWTFEYnFrM1JOY0c1LTdoQ01tdE4tT1lkVlU1eUE3NFltUlJydlJ0VlF5dTBRYnhmZV9LTWRsZnIyRjJKOG1GSFZZaXM2VTlJM3JYc0dpUFc3YnNSaFpIdHVBbnVzUnFiMjZxWlpoUUFoc3MtTzRoMktESmR3Q25obm00TWJxWmlwNklKTHBVRGFsUjJDa3c5X0ZGOGx5TVhfWm83TVVNVEVrS1BKaHZkUdIBzAFBVV95cUxNcnRsVUU2bTIzSTV2bUVJc1JucmItZUthUmp5V2ZsU002QkFZVk4yMl94V3RGM2cwY0pCZVZEZ3lCNFVWMnhMaTMwUGZ2eXJlZjhlNThHMzM3OTRIWHNWVEltMUFPZnpOV1podHI1SnYyUjZwY21oMkJCWUlMNUg2MGlQTkVXLU1WWU9Bdm5vYnh3T2ptcEZxWkwzcFZEMURnaUxsLXIzM3hVS1F2RFlndW9KR0thV0FhckdjZF8zSlkyVVFMRE9fVzBpMUI": 1793975748438
   },
   "digest": [
     {
@@ -28376,10 +28374,60 @@
       "d": 1793975100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ayuastuti060",
+      "x": "Lamun uwah ntun peri bansos Jak...e ne Aru cair uwah bansos PKH maupun bpnt,elek laek masih ndkman bdoe brimo olekko ikuti e peri bansos nik ne,akurat doang info info ne,olek ne nd",
+      "u": "https://www.threads.com/@ayuastuti060/post/DfZ0TrQH6x3",
+      "d": 1793975160000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@aleakhoirunnisa22",
+      "x": "setelah cara yg tadi selesai . langsung ke cara kedua . penurunan desil lewat aplikasi cek bansos . percis kaya di bawah ini yaa . aku pakai cara yg A . lewat aplikasi .",
+      "u": "https://www.threads.com/@aleakhoirunnisa22/post/DfZ1JmYE_Vw",
+      "d": 1793975601000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anna_hasanahasan",
+      "x": "Kak, aku udh ada org kelurahan yg krmh buat survei itu brrti udh diurus desilnya ya kak? Apa hrs lewat aplikasi cek bansos?",
+      "u": "https://www.threads.com/@anna_hasanahasan/post/DfZ0wNHGZ_Y",
+      "d": 1793975393000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "VOI.ID",
+      "x": "BPDP Buka Peluang Kampus Baru jadi Mitra Beasiswa Sawit 2027 - VOI.ID",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkgySWluUGRPbURMNUdzc0NwR1FyRWR5VU1oTnpGbTRFSG5ncndab245bnJCTnR6X0FLbjVmN2NYQm9iSjd0TDBqbmhvc2FKSUVEUzd5WWg1M3NITmc5X1M4cnNQMllTQy1adjEtaHZScGZNcldhUkZPeUJFUXFDTUVxUldWSXNzeEp5YWg4VdIBjwFBVV95cUxPZkgySWluUGRPbURMNUdzc0NwR1FyRWR5VU1oTnpGbTRFSG5ncndab245bnJCTnR6X0FLbjVmN2NYQm9iSjd0TDBqbmhvc2FKSUVEUzd5WWg1M3NITmc5X1M4cnNQMllTQy1adjEtaHZScGZNcldhUkZPeUJFUXFDTUVxUldWSXNzeEp5YWg4VQ?oc=5",
+      "d": 1793971443000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Disway",
+      "x": "Identitas Mahasiswi Keperawatan S3 UI yang Ditemukan Tewas di Kamar Kos, Ternyata Penerima Beasiswa LPDP - disway.id - Disway",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHc0ZklQVkNtTWJtYURETU9IcVdENGVZRktTLVJSWTFEYnFrM1JOY0c1LTdoQ01tdE4tT1lkVlU1eUE3NFltUlJydlJ0VlF5dTBRYnhmZV9LTWRsZnIyRjJKOG1GSFZZaXM2VTlJM3JYc0dpUFc3YnNSaFpIdHVBbnVzUnFiMjZxWlpoUUFoc3MtTzRoMktESmR3Q25obm00TWJxWmlwNklKTHBVRGFsUjJDa3c5X0ZGOGx5TVhfWm83TVVNVEVrS1BKaHZkUdIBzAFBVV95cUxNcnRsVUU2bTIzSTV2bUVJc1JucmItZUthUmp5V2ZsU002QkFZVk4yMl94V3RGM2cwY0pCZVZEZ3lCNFVWMnhMaTMwUGZ2eXJlZjhlNThHMzM3OTRIWHNWVEltMUFPZnpOV1podHI1SnYyUjZwY21oMkJCWUlMNUg2MGlQTkVXLU1WWU9Bdm5vYnh3T2ptcEZxWkwzcFZEMURnaUxsLXIzM3hVS1F2RFlndW9KR0thV0FhckdjZF8zSlkyVVFMRE9fVzBpMUI?oc=5",
+      "d": 1793951460000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
