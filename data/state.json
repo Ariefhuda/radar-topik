@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De0vSHVjmb2": 1792731073301,
-    "threads:DUtTDrlE7Yp": 1792731073301,
-    "threads:DXfftCZEzej": 1792731073301,
-    "news:CBMitwFBVV95cUxQV0hsT3VJdXdPMjBIeGp0TlBMTGhzWUo5LTJjdUhRRWNucHBYaXo4UzR5VEFqQ0pOUGVtRFltZE1hUnhJeEsxbE5XXzFTUnlFZWJuaDBzMDA2RXUtTFZJQlZQOHl4STQ0U3B0QXowMDV4SUlnWjFnTjhRZm1JNkJNa3lNZDBtYml2Rm9VVVZvQ01UcW9TVnAwTHVzd09hbWlnTHJRdGtfbWVDVXpKaUk4ZDRVRjBYRTA": 1792731073301,
-    "news:CBMivAFBVV95cUxOR0c5b3lPWllzSm9RaHdMWG9KTjE4X1R1THZfbGdGYmMybnRLR25vLXUxSXB1WVczVU5pVzc2c3dNYktURmZodl9oS1ZIckVSbnFibXRpSF9ndnQzU0FOaGpmUzQ2SXpnZTVpVlBqZ3h6eVVsLUVlQjJ2WHpjX040cGdHY2dqSURneVowTU8xVkQySE9GemRCb3VMR3dYZ19ZUFFJT0EyNnJGZ2IxdFRnb19naVBTZjZXTnBiQdIBvAFBVV95cUxOR0c5b3lPWllzSm9RaHdMWG9KTjE4X1R1THZfbGdGYmMybnRLR25vLXUxSXB1WVczVU5pVzc2c3dNYktURmZodl9oS1ZIckVSbnFibXRpSF9ndnQzU0FOaGpmUzQ2SXpnZTVpVlBqZ3h6eVVsLUVlQjJ2WHpjX040cGdHY2dqSURneVowTU8xVkQySE9GemRCb3VMR3dYZ19ZUFFJT0EyNnJGZ2IxdFRnb19naVBTZjZXTnBiQQ": 1792731073301,
-    "news:CBMirAFBVV95cUxPSUhodVJWanIxbC1mSUNDa3Rqeno3NXNiakQ0ZUVDeEdsNEE3azJGMS03M05pNER0ZzBreVplN1RWMjl6bG9IWHBNNm41b3RUMVViWTk0T1lrUTdmOVdQTUJiUkxhckxLZDB1N2hKdG9wbV8tSzgtN0tJdklEVFRfdWRrSG1COXI3U2JrejZ3ZVJJZFZYMGluLWViTDNqQklDczZrOTlJSVBmS0lv": 1792731073301,
-    "news:CBMiuwFBVV95cUxNSExDbUljel9Hc2lTYmNiZnJVNHlrMGlHTlpqYjI1VjRIV25LMXlNYmc4YXgtbk9zWjI2a0ZWWTAzUHF2bDhTSnpYZjNyNlBGMEpaOTNWM1N2Tl9od1VNWFdQR0k4bWVBSnRaMlJmUGozNG56Y1h2SzJtS3BpV1pyUzFibXRjYXJfMktfT191RDVoSks2ck5tSndRNWFXUkF1VENiTk9WZS1SX2htOURIRVJnNFZOWmJrc2F3": 1792731073301,
-    "news:CBMiU0FVX3lxTFBIQjJTTnRWdFpCb2hBT2dNMkJhbHRtVFVxUzcwMkhqNW5PTmg4aGpwZjZWYzBrVWxSM1NYQjdkdHpoOEZfOGprdGxNNkxOM29TcWJz": 1792731073301,
-    "news:CBMiU0FVX3lxTFBVQzkyTC10eWtsZnBaaXZHdURCSXk4TXBZbTNWUTdkU0pIMGNRTDFRYkxrd2wtS0IwaHBQaVg4eVhxZTN0ZmpaSWhWbkVfNUhvcWpZ": 1792731073301,
-    "news:CBMiYEFVX3lxTE9acy1waW1vakNJV1pZQS1kQ1dqSmlyX0U3SnRGRjJHUWRWTGJCSjFZdVRVT05Odk5OTVRnTTJ0NkJpZ1FIWS1MdVJrQ0xNS19jTDJ3S1QtMlFrVVNqV3pCSw": 1792731073301,
     "threads:DeJyO_PEwH7": 1792731340536,
     "threads:DY0HA3KjAM_": 1792731340536,
     "threads:DeCDLQaH1qE": 1792731340536,
@@ -27784,69 +27774,16 @@
     "news:CBMiogFBVV95cUxQR0VmXzZrTl9QcnJWZFdsOG51SmpNdlFIckFxM0R4a0V1a1BZbXM1OHRvam9mOGVWRXhzekFfenhVemNOQlVXX2s0a3ZlSGhjRnlvUGhIbXV6Yng1OGdTOG1jaVRDVDhyRFhxT185eDBGUTAyMWRhTWlwcXpzVFU5Q1V6ZExFemh5RDhZV293aW11a3Nmb2JhSDNtYm9fNC1UREHSAaABQVVfeXFMUFhFUHI2SGU2a1VUb3kwZ1RBR2RYMFBkU040NDlmcW92QjRJVnc0YnRLV2RfSExkaGxEYUUxcnVseUdDM2l1MUQ3WFowMHBycGRjOGNHU2NGT0RTRmVPaDVjVU51QlFpV3duZ2ZqVm5fSlRCU3p6TFV0MjdERXZ4VHIyRjk2UHJIajU4cWp0cjdGWEVGanpQMTBvOWpnRDJzbA": 1793940357845,
     "news:CBMiqwFBVV95cUxNT1k1RUk3X3FYNTIya2Nla3R0NUt4eGpNSzBiX2tKQ3BJM0Exem5RX3Z0OEZLdi1pUndoQzdreUl4SmxWMm9MWEg4T2hLZVJuaU81UjF5R202WlliNVlfZDlTN0k4SnhCXzJKcC1YYkFuUllhODY4TllsVWliRXFsSFJET2NPWVVINUx3LThySnFmaVJFdHpMa1EyRThpczRXMzh0VEtfTlNzRlE": 1793940357845,
     "news:CBMirgFBVV95cUxQX0NOQ1BQaTBJWDc5QkV6TUluSjBUTEFTSVpwdjljbExWWXl1aGIwckhrY1p5bk9ac0RTRFJSanNrcWduWTFuNVFzSS1IWk9heEdoRnV6ZEFMdGdGRzlySWtjX21wOWZId1B3WlkwbXZHS1NwTVZYX1VSeEVoTmpIdVptRnNqUWcwSk5vRXZCT0VWNUJ6UXYzWTZ3SzBhWTVUUGlZcjZQejU3SUlZVGfSAbMBQVVfeXFMUExLMWJEdHlMeWZaWkNPM0NBSjdMdGxuYW53bnRMa2N3S29mSUhxeHlkb3AxVEhTSERWN3RkZTRKUGlsMXBRbDBzbEdzdXhTU3dZckl2cFllajRtT3QtRWx1OXhEZUNybFQ5WU5nSkZfS0xOVFJlVjBGWXV3Vmp3TXR6dXlqNzkxNUdOUjNPQTgwQWRCM21oTG5oclM0WGZ4Umx1QzBNLTJQSDdtU0NkOTd2d2c": 1793940357845,
-    "news:CBMivAFBVV95cUxQWVhoM0hscG1uSWhzdXF6bmtBSlJrUjRYWEZZV0wwczBseTc4Z3laODBFYXF2Z2tBLW9ZdS1WalF2V0hvRDB1azFSdlFFdVdHNy1xdUJMUDdMc29uSlVOWDhjZDNKQmoxYjNnZE5adGkwWVdWUC1SaGJvRUVhQ0FqYkFYbm94aVlwWlF1Qmp3cEhobW5aUUJPS0VkMWpxWS1PczlkVm44NEd1ajhMS2phZG04RUNBTmtSVU5sOA": 1793940357845
+    "news:CBMivAFBVV95cUxQWVhoM0hscG1uSWhzdXF6bmtBSlJrUjRYWEZZV0wwczBseTc4Z3laODBFYXF2Z2tBLW9ZdS1WalF2V0hvRDB1azFSdlFFdVdHNy1xdUJMUDdMc29uSlVOWDhjZDNKQmoxYjNnZE5adGkwWVdWUC1SaGJvRUVhQ0FqYkFYbm94aVlwWlF1Qmp3cEhobW5aUUJPS0VkMWpxWS1PczlkVm44NEd1ajhMS2phZG04RUNBTmtSVU5sOA": 1793940357845,
+    "threads:DfYxhO3GeOo": 1793940643972,
+    "threads:Db_SccTmEPy": 1793940643972,
+    "threads:DfYx0XhiVkn": 1793940643972,
+    "threads:De0rwraHw4U": 1793940643972,
+    "news:CBMiggFBVV95cUxQRmw2WTZxbndkRThrRTgtbGFkcHpKalltS0RYdm0ySnZhNThFWVZQZUhKZjBiWnBTMDNaaW83ZDF1WXdGT2NOOHRnSDgtRDN6ek9MMVRzTXptYk9OaDRXWGZLTHBmcU1UUm9JTDFsdkUwSXdWWVBLc1EteUNHSkJmZHlR": 1793940643972,
+    "news:CBMivAFBVV95cUxNNnpXRVdVbkFpQVdzTVgxemtHM3QtNXAyMzlCN0pueEdwWFFMQXZHNUJZd2pLbWJJYlFzNDA1ZUlpODNidGkwMUhkTS1NLW8wWm8wbVo3Mk1ZaUs0YklyMWJnZXZTbTF3Q3ZsR1Z3UXBGQl9wM05ReGRHZjhGSDBNTF9LUHgxbW9ITy1PT0VqLS13LVdKQkpuaEdOaTU2MXlFNnJoTHA3U2Y1MmkzdmVnQTBkV0RWTVo5dGlVMg": 1793940643972,
+    "news:CBMixgFBVV95cUxNZFE0UG41MWtlY0JyWS02UlQtemNvWGpDRnlueWtQV0tJRGhpbklfd3ZqSHFXX2FzUEhVSnhhX2p5NzVTSWdNeGN6YjkwX2xVdXU4WTk0NWh3ZHY0U1JGN2RGbWdiTDJFbThQR0hFc1R5d3pZZmhjanlCanpta3BrdnZCUUFkUzdkVktfMFVZZzJOZlBxSDltVC1WTGVOQjBCQ0gxNjRyMEdQY01jd2ZlaTdCVFgyX0xxMjlpVm84TXhjR0c5NWc": 1793940643972
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfYiGs-GYoX",
-      "d": 1793932062000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfYiD-wmVqK",
-      "d": 1793932040000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfYiCgvmV4U",
-      "d": 1793932027000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfYiBRYGU98",
-      "d": 1793932017000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfYiAHBmcap",
-      "d": 1793932008000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfYh-nbmaPy",
-      "d": 1793931996000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29316,10 +29253,40 @@
       "d": 1793935829000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@solusinyata_",
+      "x": "Pernah melihat angka desil di informasi Cek Bansos, tetapi tidak tahu artinya? Jangan asal menyimpulkan. Angka desil bukan nomor antrean bantuan. Dan jangan sampai lo salah membaca",
+      "u": "https://www.threads.com/@solusinyata_/post/DfYxhO3GeOo",
+      "d": 1793940143000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Foto : Cara Cek Bansos Kemensos November 2026, Cukup Masukkan NIK KTP Halaman 1 - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnpXRVdVbkFpQVdzTVgxemtHM3QtNXAyMzlCN0pueEdwWFFMQXZHNUJZd2pLbWJJYlFzNDA1ZUlpODNidGkwMUhkTS1NLW8wWm8wbVo3Mk1ZaUs0YklyMWJnZXZTbTF3Q3ZsR1Z3UXBGQl9wM05ReGRHZjhGSDBNTF9LUHgxbW9ITy1PT0VqLS13LVdKQkpuaEdOaTU2MXlFNnJoTHA3U2Y1MmkzdmVnQTBkV0RWTVo5dGlVMg?oc=5",
+      "d": 1793935829000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-timur.com",
+      "x": "Cara Muda Cek Bansos Kemensos November 2026 Lewat HP: PKH, BPNT, Beras dan PBI-JK Cair - Tribun-timur.com",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFE0UG41MWtlY0JyWS02UlQtemNvWGpDRnlueWtQV0tJRGhpbklfd3ZqSHFXX2FzUEhVSnhhX2p5NzVTSWdNeGN6YjkwX2xVdXU4WTk0NWh3ZHY0U1JGN2RGbWdiTDJFbThQR0hFc1R5d3pZZmhjanlCanpta3BrdnZCUUFkUzdkVktfMFVZZzJOZlBxSDltVC1WTGVOQjBCQ0gxNjRyMEdQY01jd2ZlaTdCVFgyX0xxMjlpVm84TXhjR0c5NWc?oc=5",
+      "d": 1793937302000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
