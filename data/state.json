@@ -27815,19 +27815,11 @@
     "threads:Ded0nL-k1rU": 1793924199279,
     "threads:Dch4SIIAkmC": 1793924199279,
     "threads:DeqYAWzkfwO": 1793924199279,
-    "news:CBMiwwFBVV95cUxNbnQ3bC12UnJldENZeWJ5REZqZVFidUJ2ZEVBa2llbV9sb1V3LThrZ21qTFZ3akkwY2xMXy1EYVRSU2xNWGZ2TzY4Y3FESlc1Uk1YMkVQZTc5VnFtSm0xREF1LWJQOWJyRTkzd2o4WTJrRVprbktERWptVlN0NzNHbVlGWlhxTWtIOHRoWDdGcmhFV2lrdDFmdVRtcnlJRF9iQnhhYk8yaTg4RGR1TGFKVW9Fb3RTSDI2YThwMnc1QVZ3cnc": 1793924199279
+    "news:CBMiwwFBVV95cUxNbnQ3bC12UnJldENZeWJ5REZqZVFidUJ2ZEVBa2llbV9sb1V3LThrZ21qTFZ3akkwY2xMXy1EYVRSU2xNWGZ2TzY4Y3FESlc1Uk1YMkVQZTc5VnFtSm0xREF1LWJQOWJyRTkzd2o4WTJrRVprbktERWptVlN0NzNHbVlGWlhxTWtIOHRoWDdGcmhFV2lrdDFmdVRtcnlJRF9iQnhhYk8yaTg4RGR1TGFKVW9Fb3RTSDI2YThwMnc1QVZ3cnc": 1793924199279,
+    "threads:DfYTbAFGHCo": 1793924434728,
+    "threads:DdpOpr3oH7w": 1793924434728
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@qinq_aldyth_yuwono",
-      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
-      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfXJfNWI7KX",
-      "d": 1793885601000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29317,10 +29309,20 @@
       "d": 1793923739000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@budiyantibaudi",
+      "x": "Pengusulan PBIJK, PKH dan sembako masih terbuka yaaa, bisa melalui operator SiksNG desa/Dinas Sosial atau aplikasi cek bansos.. segera ajukan usulan sebelum penginputan berakhir di",
+      "u": "https://www.threads.com/@budiyantibaudi/post/DfYTbAFGHCo",
+      "d": 1793924364000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
