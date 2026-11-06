@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De0jcXaEg9l": 1792725041838,
-    "threads:De0HPEXEukY": 1792725041838,
-    "threads:DZwpk1MEqx2": 1792725041838,
-    "news:CBMiU0FVX3lxTFBGeTlpSFlwRDVQVlFUYzRYcFF2c3NZOW9iOTlIeDl6VWN5ajdHeEJiZVhzeC1lb256ajE4NlZCa2JKaE1YWEJYRF8xMFRZdXZrYnBr": 1792725041838,
-    "news:CBMiuwFBVV95cUxNSV9RamsweTZ6NGEySTBKVGlIY0JaQ2hnZXV5V1ZDZ2ZYWFdZTGZhQzZzYWFPVkdvZXJFTTRxaDMtZnRkOU9HQ0dBWHZIRW1PaVJCMFFTbFRMTThqckVNQkRsQzdxSU1lVHYxOTNzTGlidnpCcC1heEd0ZG9aSE9EeWtucUEtdUtXeXVkd2c3em1YNmJVZm9KekplY0oyR2JxNUJOSU9KdHgtcEZTVzZKaENFUmJhY0N6NkVV0gG7AUFVX3lxTE1JX1FqazB5Nno0YTJJMEpUaUhjQlpDaGdldXlXVkNnZlhYV1lMZmFDNnNhYU9WR29lckVNNHFoMy1mdGQ5T0dDR0FYdkhFbU9pUkIwUVNsVExNOGpyRU1CRGxDN3FJTWVUdjE5M3NMaWJ2ekJwLWF4R3Rkb1pIT0R5a25xQS11S1d5dWR3Zzd6bVg2YlVmb0p6SmVjSjJHYnE1Qk5JT0p0eC1wRlNXNkpoQ0VSYmFjQ3o2RVU": 1792725041838,
-    "news:CBMi0wFBVV95cUxORDAyMnVZcXZkTWFCZUFXV0tBdzVyczJHV0ZYdzVPeG5ublluenM4T1ZScUI5bXRkQXVMTWlsMmxLR0xUZGFkOFFZY2hJLUpWQUd4WS1KbXdrclFOZG5YTXpJcFhpcVBaSXZvOUtIdlBueEdxd1RDZkhNUk1aZzY3dTBLT0gtRi1KbGpfZ285RkZIeHVpOFJLRDAxLW9VQndpZG1kVUYzenJKRGZqUVFKN1pPXzY1OHJodFdZdXZOSmN6Wnp3UnB2UnNVRDIxRExVUlhj": 1792725041838,
     "threads:DeyNBZ3gSK8": 1792725338172,
     "threads:DeyWjgen9k0": 1792725338172,
     "threads:De0fMLwE__h": 1792725338172,
@@ -27769,7 +27763,18 @@
     "news:CBMi1AFBVV95cUxPSWN5ZTJNNnRrbEdUbzhsdEpoMnd2dmtST3Q0aW40azgtWE5PYVRqT1d5T2tySzZqM3hSMWdRRmlQMWJZUnY2c2RvNDgzSHd3RFlpdFdBQzU4aExkVncxaWZGYW1qNUNjRmFVeE9fYlBYS0JrM0kwcHFwVk1iTkhqbUstSUx2Qjk1UlZGVXVGQ1lINkRhQTd2UFFyM1ZDR1NmNnJnaTBvajJxTnZJcmR4SGFiMlZFMDFVWjNrX0RKQWJrcENEbDVSUm1na1hiU1BzZTQxQQ": 1793934341865,
     "news:CBMi7gFBVV95cUxOUk9vV2JWYlU5UElhSERKRjBKdUlBdjE0ZF8zOGxqOVRVWWZ2d0Fndzk4RDdDOGY2OGFjZ1AzUWdfNnNZM2toek5CZlhZUV9XZWFURTJWZzlUQjlJSi1HZjViODZUeE4wUDRJM2FuV2ZRVURBNm12VjBDWHdJZmVMV1NqLXBuMG5VeXloRkxNUXY2UUhOZ3RIdkE1X1Vlb0Q3ZEM1Y1R1U1d2Wktudy1HRTB2Mk5lX0h5MXRUVG9NS2tYM3lROHFvb0tyUUlIVlBDaHdxSEdUTzhkcEtMSmwyY0VJbHJQcXpXblhiZW1R": 1793934341865,
     "news:CBMi2gFBVV95cUxNdk9xWVFzMzlNWHdUaW9nWFhGb3U3dUhVcm5sVVZheXdSZXhBTHQybG9DQUJMUThyZTF1T3BmZ2xNc3dyclo0ajBHQjhzeGpzVWo2WXExTGIyNWtIMW9uSWVjbXg5b1VEZV94VHdVczZuRG8yRjBSYjFTaDNPWUZwR19GR3Q3eThvS092SDlsa3ZTSko5Y2hua1lUVElBSlA0bElHTUZiczI5TGxhMTlwYkJnSmZkWTA2dE03U0VnaTE1Q0F2Nk1UQmlrQ3J4ZU5aaDhGOVY2M2FpUQ": 1793934341865,
-    "news:CBMizAFBVV95cUxNQ0plRGdyLUhNVTBrNzB3NDF4OHFHbmQxY3B4NVIyYmR3UUVIQ2ZjU0ZVcnEzS3ZFVlNtUWowYXNyNjhvX3Y4X180OVE3OVk3ejZTMENoOXBxNUpXQTgzM2ZCS3REdUlPMmM0UDZPWGVoSVpiSkFWY21yRGswaWFSSEwwVlVQbS1ublM0cS1XcS1BSHZlajdxUExRVF9WbVZ5UmdMNnRNSzhZTDN5alk0UkktWmtaSWR4bFJqVk8zZkRwVVdMc0dSa2o4VXfSAcsBQVVfeXFMUHIxUjl6NktmeUVSNjM3bnVxWTFRVzdRVTRsX1hUYlJyWFY2bVFFSkF5bTB0NFJUNnJkbVQxdXFvOHlLdnZzU3VCX1k5S2RhUnlmSGFoRjJIZVlVbTNrdnluUFhEWlFweFRfcUViOC04emVCZWstZFZjX3BqdGk3WDN3SGpFNVhZaXM2aWFVcGVTU0JPYUVnUHVUcFo3X05SeHdlQ2g2ZXNwRllDMTFoVVFQUk1DTjVTX01UVU5CclRBYVc0TjVEUm9SbFE": 1793934341865
+    "news:CBMizAFBVV95cUxNQ0plRGdyLUhNVTBrNzB3NDF4OHFHbmQxY3B4NVIyYmR3UUVIQ2ZjU0ZVcnEzS3ZFVlNtUWowYXNyNjhvX3Y4X180OVE3OVk3ejZTMENoOXBxNUpXQTgzM2ZCS3REdUlPMmM0UDZPWGVoSVpiSkFWY21yRGswaWFSSEwwVlVQbS1ublM0cS1XcS1BSHZlajdxUExRVF9WbVZ5UmdMNnRNSzhZTDN5alk0UkktWmtaSWR4bFJqVk8zZkRwVVdMc0dSa2o4VXfSAcsBQVVfeXFMUHIxUjl6NktmeUVSNjM3bnVxWTFRVzdRVTRsX1hUYlJyWFY2bVFFSkF5bTB0NFJUNnJkbVQxdXFvOHlLdnZzU3VCX1k5S2RhUnlmSGFoRjJIZVlVbTNrdnluUFhEWlFweFRfcUViOC04emVCZWstZFZjX3BqdGk3WDN3SGpFNVhZaXM2aWFVcGVTU0JPYUVnUHVUcFo3X05SeHdlQ2g2ZXNwRllDMTFoVVFQUk1DTjVTX01UVU5CclRBYVc0TjVEUm9SbFE": 1793934341865,
+    "threads:DfRj0-JgWSM": 1793934647861,
+    "threads:DfYmfW8k4wK": 1793934647861,
+    "threads:DfYmBAjGXtm": 1793934647861,
+    "threads:DfYl4J-GacF": 1793934647861,
+    "threads:DfYkYLiAc4e": 1793934647861,
+    "threads:DRlpJv9mDVz": 1793934647861,
+    "threads:Db1ttmgEsTm": 1793934647861,
+    "threads:DSqhaxXE5GM": 1793934647861,
+    "threads:DXGmImHE2-J": 1793934647861,
+    "news:CBMijwFBVV95cUxNSDdWaDBRcWwxM1VTUHVEamhSaExtY0xoVndDTmQwXzFIdFU5Zy1hc0lDMWljYl9kZjVtVXp3RUpJcWRWUXNJdmY5b3l6YmRiRE9UTXVuem5PTzJwa0xqODYweVhEdWVVMGVsNkgwUFk0bnJ0MVk3cFJ5bl9mZjVJTjhzOFNvZmJwRHJyNm9Xaw": 1793934647861,
+    "news:CBMiygFBVV95cUxQM2VLUnhobjFtRXpialg3MDByRjNEZVhJN1VjSHd4WGFBY1pHeU1kQWFuNkcwSTlRLUE0NGVCVzRTRDdZZEJyWmNBZ19jS3ZXUzlvVkxTbm5YLTJWeWt3cTVTTHNQaGUxaUE1dUFXQWJkMk9hd3poNDVmQmFfQ0ROZmYyRjZnMTZPWGJPb0Y2Yi01cGtVMk9BNHp6aHRWbTdEWmhBMjFnNXBCMkdZTGtYd3draXVfM2ZvZDA1TDdlWGFqUDFKeldoZ3VR0gHPAUFVX3lxTFBaNlhfWUFaTlhiTEFqQnNkTURwaHlaa09nYlRIc19qNDB1VG56bnhsd1dPZVBlckFvRVVPS0VSS3Z3MXJacWZiM0JRTnpER0tsNjZGcVJBNzBGeEZFc1FYZkFRMWhndkhoRzEzZmJGS0EyaXVCbUlzcDBzN3JqQU5idTg2OVJrYkxWR1UzZGg2a2NMVUxBYWVPRWVrWkdsNHhBeUZBWEJwY0lqcmlSVHExcW1XTkR3bHc4ci00UGxycjR4YjUxakR6Z09lNDducw": 1793934647861
   },
   "digest": [
     {
@@ -28821,10 +28826,60 @@
       "d": 1793889540000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@guidofamula",
+      "x": "Berkat salah satu program beliau, bagi\" sertifikat gratis, benar\" meringankan kami, gak kebayang kalau urus sendiri bisa habis berapa duit.",
+      "u": "https://www.threads.com/@guidofamula/post/DfYmfW8k4wK",
+      "d": 1793934361000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@wigiwigel.foundation",
+      "x": "Wigiwigel Foundation sedang mencari mahasiswa yang tertarik pada isu sosial dan berkomitmen untuk berkontribusi kepada masyarakat. Yuk daftar sekarang! 🗓️ *Pendaftaran: 5-20 Novem",
+      "u": "https://www.threads.com/@wigiwigel.foundation/post/DfYmBAjGXtm",
+      "d": 1793934112000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@wigiwigel.foundation",
+      "x": "Halo Mahasiswa Jogja! Wigiwigel Foundation sedang mencari mahasiswa yang tertarik pada isu sosial dan berkomitmen untuk berkontribusi kepada masyarakat. Yuk daftar sekarang! 🗓️ *P",
+      "u": "https://www.threads.com/@wigiwigel.foundation/post/DfYl4J-GacF",
+      "d": 1793934040000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@dikanandaaa_",
+      "x": "Halo teman-teman, ada yang mengalami kendala serupa? Sesuai informasi resmi di website Kemdiktisaintek, pendaftaran Beasiswa Program Doktor Penyelesaian Studi di Dalam/Luar Negeri ",
+      "u": "https://www.threads.com/@dikanandaaa_/post/DfYkYLiAc4e",
+      "d": 1793933254000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "17 Juta KK Daftar Perlinsos Digital, Simak Syarat dan Cara Registrasi Ulang Online - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM2VLUnhobjFtRXpialg3MDByRjNEZVhJN1VjSHd4WGFBY1pHeU1kQWFuNkcwSTlRLUE0NGVCVzRTRDdZZEJyWmNBZ19jS3ZXUzlvVkxTbm5YLTJWeWt3cTVTTHNQaGUxaUE1dUFXQWJkMk9hd3poNDVmQmFfQ0ROZmYyRjZnMTZPWGJPb0Y2Yi01cGtVMk9BNHp6aHRWbTdEWmhBMjFnNXBCMkdZTGtYd3draXVfM2ZvZDA1TDdlWGFqUDFKeldoZ3VR0gHPAUFVX3lxTFBaNlhfWUFaTlhiTEFqQnNkTURwaHlaa09nYlRIc19qNDB1VG56bnhsd1dPZVBlckFvRVVPS0VSS3Z3MXJacWZiM0JRTnpER0tsNjZGcVJBNzBGeEZFc1FYZkFRMWhndkhoRzEzZmJGS0EyaXVCbUlzcDBzN3JqQU5idTg2OVJrYkxWR1UzZGg2a2NMVUxBYWVPRWVrWkdsNHhBeUZBWEJwY0lqcmlSVHExcW1XTkR3bHc4ci00UGxycjR4YjUxakR6Z09lNDducw?oc=5",
+      "d": 1793933661000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
