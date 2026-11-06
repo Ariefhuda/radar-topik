@@ -27557,7 +27557,11 @@
     "threads:DfZu-BSG6sK": 1793983541966,
     "threads:DfaB_38it56": 1793983541966,
     "threads:DfaBLtDsQJP": 1793983541966,
-    "threads:DfaBOWSDEnt": 1793983541966
+    "threads:DfaBOWSDEnt": 1793983541966,
+    "threads:DfaEHMaj7BE": 1793983838380,
+    "threads:DfaEe3bFEYd": 1793983838380,
+    "news:CBMiR0FVX3lxTE1qdXN0d016SEJLbVdJRTRLSm9Hcm94MURmV2FfWnNfSk9ybm9IWWNVSzNLOGpjZmhqX1VQV0lBaEphR0tkZnZ3": 1793983838380,
+    "news:CBMioAFBVV95cUxPb1daTUdtQlJ2ZjVQNUFhTDRWRWQ3cnI0cXNuM1NER0NETlFaTzZQZGJUcTlVYW5yQ0M0dk1YM2NvNjBpN2ZfTzBaakwtU0loYW5sdC1MNi1kTTY2cmpNUDhRekJ3dmhDOFZzN3ZHXy1HN29yaF9UZ1BaOWJUNUJIWXdaODhJcFBwcGllVXZOSHBKR2tiLW1mOGNqTmZ5bTEt": 1793983838380
   },
   "digest": [
     {
@@ -28819,10 +28823,50 @@
       "d": 1793982915000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zulardis",
+      "x": " 🎓 *WEBINAR GRATIS: BASIC DATA SCIENCE! * 🚀 Ingin mengenal lebih jauh tentang Data Science dan mempersiapkan diri menghadapi kebutuhan industri masa depan? Saatnya tingkatkan pen",
+      "u": "https://www.threads.com/@zulardis/post/DfaEHMaj7BE",
+      "d": 1793983446000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@manuri.istaada",
+      "x": "Kabur kerja ke KL aja, gratis pelatihan dan biaya pemberangkatan, Dapat uang saku pula",
+      "u": "https://www.threads.com/@manuri.istaada/post/DfaEe3bFEYd",
+      "d": 1793983640000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "CekFakta",
+      "x": "Cekfakta.com - CekFakta",
+      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qdXN0d016SEJLbVdJRTRLSm9Hcm94MURmV2FfWnNfSk9ybm9IWWNVSzNLOGpjZmhqX1VQV0lBaEphR0tkZnZ3?oc=5",
+      "d": 1793941477000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bewara",
+      "x": "Bansos PKH Tahap 4 2026 Kapan Cair? Ini Jadwal Terbaru dan Cara Cek Penerimanya - Bewara",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1daTUdtQlJ2ZjVQNUFhTDRWRWQ3cnI0cXNuM1NER0NETlFaTzZQZGJUcTlVYW5yQ0M0dk1YM2NvNjBpN2ZfTzBaakwtU0loYW5sdC1MNi1kTTY2cmpNUDhRekJ3dmhDOFZzN3ZHXy1HN29yaF9UZ1BaOWJUNUJIWXdaODhJcFBwcGllVXZOSHBKR2tiLW1mOGNqTmZ5bTEt?oc=5",
+      "d": 1793983806000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
