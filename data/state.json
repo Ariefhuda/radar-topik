@@ -27776,7 +27776,18 @@
     "threads:DfYc09ymTZn": 1793929537733,
     "threads:DfYdDQcCSWj": 1793930134088,
     "threads:DfYds9Zj46y": 1793930134088,
-    "threads:DfYeUPhI_K2": 1793930447092
+    "threads:DfYeUPhI_K2": 1793930447092,
+    "threads:DfYeZCsk5uZ": 1793930732162,
+    "threads:DdZGQUkm7Jm": 1793930732162,
+    "threads:Dex0Dx3mZoJ": 1793930732162,
+    "threads:DfYfHlmGHvZ": 1793930732162,
+    "threads:DfYfqVUnTvP": 1793930732162,
+    "threads:DfYd0tQkg3D": 1793930732162,
+    "threads:DfYdKgzjski": 1793930732162,
+    "threads:DfYc9P-ktll": 1793930732162,
+    "threads:DfYc5cxga0C": 1793930732162,
+    "news:CBMiqgFBVV95cUxPT2w4TlpBcXozQ19kbXoxVjVVbjhqMTBDRXhiRVZiMFRmdzZZMEU1MEszUWFGMHZJNkt2ZnAwX256THFqN2wzTEJRWklSVFFHVlNmdDhCUnlWUGkwcm53anlmb2dPTmpQNndPcHVPNGk1eUZKTDdrREx5TURRSDBXOGdzTnVQNk5aQ201WmVCZjlrUGd1Q29sT2VnN2l6bUlKamxiLW5RSDFYQQ": 1793930732162,
+    "news:CBMivwFBVV95cUxNNVZsLXQwSEMxMVBpS1hTQ3o0WFo5Ukp6U09ZWVpRWW50cHJFczhlb0JKV0J5MjlTTnRzQnItRzVVckpwTl80NjlwcVR1MGN5eTg4VDhUazU1YlNPazhDRmd3alZZT29SemlkOXozQ1FuM3hKNkdyY1h1WElXeS0wS0V6cHZraHBhX20wUWtkN3dtY1NDeGRBcnpRaFhodlgyeFlIdmQ3bmZCSjZWYzZZSUFTWklRTG50aTZhWVQtNNIBxAFBVV95cUxPRlN3UDZBbHdyNGJvVlFnaS1laWJLUHB4dnNGWGpPTlFRZUdxeTRYS1l4RTBzRU9MMk5BNU9LTEFSTmFqMGRBYlNYZ2Qycm9pa2Q1SkxLMmxSWnM1RWxwdm03UkI4Wm1iMUpQYTBOU3NKMGNwUzZpSUtyQ0VKY3UyS3pHQjR1UVFUdVRtMUxRblpVUmhJWU1PaUNhOXE0TWpnM0k3ZmhhdkFiX0hmNUpqR3NmbjAtREVKeXNmV0ZSVkNQUFZM": 1793930732162
   },
   "digest": [
     {
@@ -28228,10 +28239,20 @@
       "d": 1793930076000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Cek Desil NIK KTP Penerima Bansos PKH BPNT November 2026, Simak Panduannya! - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVZsLXQwSEMxMVBpS1hTQ3o0WFo5Ukp6U09ZWVpRWW50cHJFczhlb0JKV0J5MjlTTnRzQnItRzVVckpwTl80NjlwcVR1MGN5eTg4VDhUazU1YlNPazhDRmd3alZZT29SemlkOXozQ1FuM3hKNkdyY1h1WElXeS0wS0V6cHZraHBhX20wUWtkN3dtY1NDeGRBcnpRaFhodlgyeFlIdmQ3bmZCSjZWYzZZSUFTWklRTG50aTZhWVQtNNIBxAFBVV95cUxPRlN3UDZBbHdyNGJvVlFnaS1laWJLUHB4dnNGWGpPTlFRZUdxeTRYS1l4RTBzRU9MMk5BNU9LTEFSTmFqMGRBYlNYZ2Qycm9pa2Q1SkxLMmxSWnM1RWxwdm03UkI4Wm1iMUpQYTBOU3NKMGNwUzZpSUtyQ0VKY3UyS3pHQjR1UVFUdVRtMUxRblpVUmhJWU1PaUNhOXE0TWpnM0k3ZmhhdkFiX0hmNUpqR3NmbjAtREVKeXNmV0ZSVkNQUFZM?oc=5",
+      "d": 1793930400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
