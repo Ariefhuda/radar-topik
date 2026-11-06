@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DRSyiO8E9Q_": 1792721471975,
-    "threads:DXCRttFGnIE": 1792721471975,
-    "threads:De0b063kv4g": 1792721471975,
-    "threads:Deyk3U3E45-": 1792721471975,
-    "threads:De0cCbJDUx9": 1792721471975,
-    "threads:De0b2ZXEm1b": 1792721471975,
-    "threads:De0bWockzbP": 1792721471975,
-    "threads:De0czBelWBb": 1792721471975,
-    "threads:De0bzy9GmKO": 1792721471975,
-    "threads:De0a5RlkRfv": 1792721471975,
-    "news:CBMiugFBVV95cUxQTHBvaVV2SVFOb3ZNNW1Yc2tsSmVpcWgxUzlwLW9RcG1Gc0Vhc1hqa0JWdTY4N0NJNG5PRllrbDZDYmJsRldoZmZZaGpDdGdvb3FWRjRNTm8zNVQ1SVY3Xy0wU2pGUmRwVUZQdUZOdlI1R0tjVldpWVhMOVhYRjlWQ2M5WGtNN1oySXZaaDM4cFNTTEhSQVUweXY2V3VUTjhZTmM5UlpBeEpqZWxaSjlzcjJoVDY5RzdaTWc": 1792721471975,
-    "news:CBMib0FVX3lxTE1nWm5Cc0hOZS1qTGxvZTRkNGptX0ZBMDByaXFCRTAyUjk4OEhMRm92bk5rOVZpMFJSTFJxZHc1cVVnS0tLRzdFVFVJdW1pZjgtSkJlcmN5QTlXM1VUcFRxdm1Kb3R1cmN1b3Z0SWRlNA": 1792721471975,
-    "news:CBMiU0FVX3lxTE4zTUcyS3J0X0dVeXhOOGlsVmdGbVVxaUgzNHhUcDBMQjFiVTZBTXc4ZDZKSG5ydWN6dTlkb0xJQ2VOa2N3ZGo5dFNiUEF6LXR5LTE0": 1792721471975,
-    "news:CBMidEFVX3lxTE1FbVROVHVWOUNRd3p3cllmdFROYkpDU0Q3dmdZdXVCZlI3V2dRYnd3R3V1bWRicHlhbTJPcERabElITDMzYmhBc00yRjVmUHFvT2ZuLVVWMzVGbGlYNGlkeW5GWmx3RjZJWUgwcG9IM3FJTElE": 1792721471975,
-    "news:CBMixAFBVV95cUxOUUZ1cURRMDNtY1FJQzNDRVRVSEtIaGlfYWJjT3NrWktsVjk0T2Y4bjdqcnNRZ1RLR05sUmxFZllBYXJDaDFtcm9Vem14c2g0ZTBicnVGYjVkRGt1bXVUakFUZU9lc0czU3dfZlFSRGtXaGJSX3RpY05keEo1SE1FOWdoc3BnMkUwTy1sNmMwWEhPTW5ZTnZJT25wWFV5dUpyLXBzMzlKdnJWWE05LUFzUnNGQjhQcmxMS2hwMWcyLVg5TXVY": 1792721471975,
-    "news:CBMiwAFBVV95cUxOb3FkYjR2THE0eThBY20zdTA1cTBxYVNwWEJVZ1JTTTFWRFdNMXZZX3V3dzNncW9GWWtJYmdlOU4yLV9zMUhxRG8tYmNYUmYxZFRRQ1FkcEdTc2pibXNxU2EzZHhWQ0NzMnVSVnRaZzRGY05tMzB5Y04zeTZmcDFlcW1IODBHZXgxTHI0TjZnOGJCcEJ5Y3lMRlgzNXlsUzdYNXFadUNxSVZuWGNUWksxd1JLaVNQMk1PdmhpQjV1WDA": 1792721471975,
     "threads:De0cTAqj7uC": 1792721740886,
     "threads:De0a3coiIbh": 1792721740886,
     "threads:De0dejQmflF": 1792721740886,
@@ -27787,7 +27771,18 @@
     "threads:DfYc9P-ktll": 1793930732162,
     "threads:DfYc5cxga0C": 1793930732162,
     "news:CBMiqgFBVV95cUxPT2w4TlpBcXozQ19kbXoxVjVVbjhqMTBDRXhiRVZiMFRmdzZZMEU1MEszUWFGMHZJNkt2ZnAwX256THFqN2wzTEJRWklSVFFHVlNmdDhCUnlWUGkwcm53anlmb2dPTmpQNndPcHVPNGk1eUZKTDdrREx5TURRSDBXOGdzTnVQNk5aQ201WmVCZjlrUGd1Q29sT2VnN2l6bUlKamxiLW5RSDFYQQ": 1793930732162,
-    "news:CBMivwFBVV95cUxNNVZsLXQwSEMxMVBpS1hTQ3o0WFo5Ukp6U09ZWVpRWW50cHJFczhlb0JKV0J5MjlTTnRzQnItRzVVckpwTl80NjlwcVR1MGN5eTg4VDhUazU1YlNPazhDRmd3alZZT29SemlkOXozQ1FuM3hKNkdyY1h1WElXeS0wS0V6cHZraHBhX20wUWtkN3dtY1NDeGRBcnpRaFhodlgyeFlIdmQ3bmZCSjZWYzZZSUFTWklRTG50aTZhWVQtNNIBxAFBVV95cUxPRlN3UDZBbHdyNGJvVlFnaS1laWJLUHB4dnNGWGpPTlFRZUdxeTRYS1l4RTBzRU9MMk5BNU9LTEFSTmFqMGRBYlNYZ2Qycm9pa2Q1SkxLMmxSWnM1RWxwdm03UkI4Wm1iMUpQYTBOU3NKMGNwUzZpSUtyQ0VKY3UyS3pHQjR1UVFUdVRtMUxRblpVUmhJWU1PaUNhOXE0TWpnM0k3ZmhhdkFiX0hmNUpqR3NmbjAtREVKeXNmV0ZSVkNQUFZM": 1793930732162
+    "news:CBMivwFBVV95cUxNNVZsLXQwSEMxMVBpS1hTQ3o0WFo5Ukp6U09ZWVpRWW50cHJFczhlb0JKV0J5MjlTTnRzQnItRzVVckpwTl80NjlwcVR1MGN5eTg4VDhUazU1YlNPazhDRmd3alZZT29SemlkOXozQ1FuM3hKNkdyY1h1WElXeS0wS0V6cHZraHBhX20wUWtkN3dtY1NDeGRBcnpRaFhodlgyeFlIdmQ3bmZCSjZWYzZZSUFTWklRTG50aTZhWVQtNNIBxAFBVV95cUxPRlN3UDZBbHdyNGJvVlFnaS1laWJLUHB4dnNGWGpPTlFRZUdxeTRYS1l4RTBzRU9MMk5BNU9LTEFSTmFqMGRBYlNYZ2Qycm9pa2Q1SkxLMmxSWnM1RWxwdm03UkI4Wm1iMUpQYTBOU3NKMGNwUzZpSUtyQ0VKY3UyS3pHQjR1UVFUdVRtMUxRblpVUmhJWU1PaUNhOXE0TWpnM0k3ZmhhdkFiX0hmNUpqR3NmbjAtREVKeXNmV0ZSVkNQUFZM": 1793930732162,
+    "threads:DfYbuZuD30S": 1793931040334,
+    "threads:DfYfexRj8Ry": 1793931040334,
+    "threads:DfYe75yCAuJ": 1793931040334,
+    "threads:DfYfeV8mbZP": 1793931040334,
+    "threads:DfQfrhhk34j": 1793931040334,
+    "threads:DfYgRrvI0jy": 1793931040334,
+    "threads:DfYgP48o7rO": 1793931040334,
+    "threads:DfYftkAI3ii": 1793931040334,
+    "threads:DfYfqbwo7my": 1793931040334,
+    "threads:DfYfksFI9WJ": 1793931040334,
+    "threads:DfYfjkLI_r-": 1793931040334
   },
   "digest": [
     {
@@ -28249,10 +28244,110 @@
       "d": 1793930400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kreatornaikkelaswithai",
+      "x": "⚠️PENGUMUMAN! WhatsApp Group mengalami kendala teknis. Untuk mengikuti webinar kelas animasi, silahkan akses melalui tautan berikut 👇 https://sahabatmarketing.myscalev.com/link-zo",
+      "u": "https://www.threads.com/@kreatornaikkelaswithai/post/DfYbuZuD30S",
+      "d": 1793928717000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@agastyagold",
+      "x": "Gold SAVER vs Gold INVESTOR. Apa beda gold saver & Gold investor? Gold saver fokus pada GRAM. Investor fokus pada PROFIT. Saver ingin menyimpan emas selamanya untuk masa depan kelu",
+      "u": "https://www.threads.com/@agastyagold/post/DfYfexRj8Ry",
+      "d": 1793930686000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bbhidop",
+      "x": "Pendaftaran Pelatihan Vokasi Nasional Kemnaker Batch 6 sudah tutup: cuma dibuka 14 hari, 1 sampai 14 Oktober 2026. Pelatihannya gratis, lengkap dengan makan siang dan bantuan trans",
+      "u": "https://www.threads.com/@bbhidop/post/DfYe75yCAuJ",
+      "d": 1793930425000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@beasiswapasca",
+      "x": "Kuliah S2/S3 di Amerika. Gratis. Bukan mimpi. Beasiswa Fulbright 2027–2028 resmi dibuka! Yang ditanggung: - Kuliah penuh - Biaya hidup di AS - Tiket PP Indonesia–AS - Visa J-1 & as",
+      "u": "https://www.threads.com/@beasiswapasca/post/DfYfeV8mbZP",
+      "d": 1793930683000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@qinq_aldyth_yuwono",
+      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
+      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfYgRrvI0jy",
+      "d": 1793931103000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@qinq_aldyth_yuwono",
+      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
+      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfYgP48o7rO",
+      "d": 1793931089000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@qinq_aldyth_yuwono",
+      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
+      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfYftkAI3ii",
+      "d": 1793930807000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@qinq_aldyth_yuwono",
+      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
+      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfYfqbwo7my",
+      "d": 1793930782000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@qinq_aldyth_yuwono",
+      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
+      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfYfksFI9WJ",
+      "d": 1793930735000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@qinq_aldyth_yuwono",
+      "x": "大家早上好！lagi bingung cari les mandarin? Laoshi lulusan Tiongkok, bersertifikat HSK 6 dan sudah berpengalaman mengajar selama 14 tahun di sekolah maupun kursus mandarin.. 1. Les onlin",
+      "u": "https://www.threads.com/@qinq_aldyth_yuwono/post/DfYfjkLI_r-",
+      "d": 1793930725000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
