@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De1g1gMCcQ0": 1792758364751,
-    "threads:De1i4AziQn8": 1792758364751,
-    "threads:De1i3Jbj61b": 1792758364751,
-    "threads:De1hgomjxss": 1792758364751,
-    "news:CBMijwFBVV95cUxPcTJwcVpEQVIzNHkwdV9vZnNGdG12Q0pXcERyY29VWDloVVpPLWJGdllKWDFWZ2JsRS1kYko5cjFOMVFEaDlEdlh4dEVZOXNEczNyTll0S3ZYWDl1YktlUTVKSzJCbFZwaVZKM1MtcUY5RVJyazVzN3U3VmFFaWhhZm1IQ09wTGxRd1BBSWM3RQ": 1792758364751,
-    "news:CBMixwFBVV95cUxOWFdackEwVkhZYkdBeTZvenI5Z3ByOHBNVlJibmJxS1ZIMF9YYUFnclAxT0ZoRzBfNkRFOXY3YWthdW8zdTFKSENPVGgtQ0pSSVBuOEdoOFQwR1I2NXowQXlQZU9LRV96TVJlRGtzYnZrM3dBeGFzV0Uwc25BN21DSEk3VDBkX2t0TXhlWVY1VkZHLWJ0MjJ2Z3FqX3RtVldzZ3laSGNiVFV4SG54X1M3SlBib0p3VGltTFRJMFFST0Jyck9xbWMw0gHMAUFVX3lxTE9RZjMteHpDdExIdjRqSm9LWHZjbF9mdTA2MUpFeGNaUTJKakM1d18zZHRLa1A4Qk5ZeFpXWm5wdEJEODdDSWY5dGhXZFlLTTVpV1hYYlJFalRWTUxDTmF0SV9TY3hjNVZ0SlV1dm51SDIzOW9TcUNYbVVzMW12YjI1LS1KUkc5b1VkSWI3M3lqRXZrU0dIQngwTU9HSmQxNUlxVDdMMlhoS24ySjl0X0NqZ2E2LTJ2RHpScjBDQi1BZGZnaFZlTlo4bDB2MA": 1792758364751,
-    "news:CBMixgFBVV95cUxObUJhMnRRZU9uT25ZdnJYUkNxWVdpMDVLVHlzWlRhUzU5cWYtTXVzdjdQRXNpQS1KQi1IdlU2dGRyeUU2RzdPUlkyVGJwRDQ0U2w3UTdKaVlmNTNsZ1dQWkJTMXQyZDNOdkdSLUJSemUtcTNJQjAzRjgzelRBdDV5WFFPajE0elJrc0xKZXdGckFsUzJaWV9NZHRmLVRxUUZFREpFeWdCemlvcWc0Q2QxbjFKQ01rQS1mUE9fcnZINi1scmVicFHSAcsBQVVfeXFMTlBrRm02Q0dBMXV6UURVbEN1NlZjd3Q1NUUxTk94S0RyMlFleGEycUpkakNwQjVSbE5lRTI5TjBISGV3Z2dFVVRZS3FoOWRnZFF6bDNwY2U3YVpBUFhERVdSVW1jZ05IV2hJUld3WEcyMGpuWVBhN1N5V2xjMUVObzlEZmNuR3R3eHVzNS13WHJ0R2RqSUFRbUhrRG9uc3VXTGRxaDRwdEhhYWJKaEpaQkdDSUtYRzd6eE5kUkxvTnN6MzItS2g5VUdtbDg": 1792758364751,
-    "news:CBMiqAFBVV95cUxPaWRYNFk5T3o1VVlxVVJFNlk0LWVaZk0tQ1g0WmF4YUoxR1E0X3RWejV0cWRtNjROMkFkaWVpZk1sS1NIdDVfYm96T3ZlVFNkYWdBMjI0YWZqRGlnVkhzYmJfbjk4R3I0NkxWa2RkdmhCUkZ6NzA0Z3o0ekpvRlByQmhmLVZMNW5fdWtDTFdMaUd5b1djTFZaRGdKYXVxa2h3blJkQ2JpRFPSAa4BQVVfeXFMTjRrV1k1X3RFb1I4WEtJM3hFUEp1NE93RXoyclREeENpaEZiakQ3dEgxMzZqSkpWanh2VEpaVFA1RUFtYUR2cTRqRDBCczd3emNDNVpIbG5WUWx6X3hwNS1XQ0RqVDdBcFRpZnRrd1I0cE9kT1p5NG4wUTlrZFZNQ2dEamRQc3pXYjh1NXpjNERGNzBLZTBTSUp3TGpOY3BGa1RRRGxYVUc4bF9BMVVB": 1792758364751,
     "threads:De1iJM5GI9S": 1792758651217,
     "threads:De1j991ExdW": 1792758651217,
     "threads:De1juR2gf5_": 1792758651217,
@@ -27638,11 +27630,81 @@
     "news:CBMiqAFBVV95cUxPaVBiYmNXa0F2czB4YVEwZWNoZldfeWk4aFlZN3BacGd4TnhFMkN1a2xrSEFMMkRyYndocDFWMk4yRzB6ckZ3T1VMNUZrdV9QRHJyOEVyNzV5UXRpTF9LR1hybHZ1cFBVQzBxc1F6Vk9BNmhZM1F1MUVJUTVaazNpM2xyV0RjSzRJalN1bEp2UHNkQW1WaGRLVzdKbEpQZ2tGNS1xR19GWnc": 1793967703129,
     "news:CBMiwwFBVV95cUxNd0lFRHVhZzhDblN5VGtCV0pIMG9hR29IS0MtdHJ6Um1ianVPS3dDSkUydkhQTmI1VHZGSlFURWw1QXNJRWV4UDNCQUlxTTZudmtpOWNUY3J0YXJoZU9OOHZlVVZySzIzem45VUlKMFIybHowVEhFcVVua20xUHZ0d0hsS2hLbkpVZ1RlOVlJal94Q0R4Yk1hTy1VbUprWXV5YU55MEhOSnN1NU8wbHR2Smd4eFc0X3hmY1g5WVZEU2d2MWs": 1793967703129,
     "news:CBMi0wFBVV95cUxNR3NTVUFIaTc2bHJxOTl6UjktU0ZyQnBFSEtRMFNnZmFhelBOTXo4cDlSRXdiWmF4b2tCUGxUcDE0UjE0RGxUMktPMzBOREZhOUJxbzlRTUN5b0ctR3ZvbFpyVGxQUW9KOG5RWVl0Tm1zNHUwX1JFZzNkaUZTVGdGY1NPRVVtQmZBMjJabjU0TmVGYVdseExrTlBFWFJVMTVFR0lObkhVRmxZemhIMVlxbEFxZzlZbzcxZXBiVERpMzVDVGktTklmWFRXd1drRmMtaVFJ0gHYAUFVX3lxTE15SnJXXzg5b0tlUHk1ODdGZU9CcTV4UzNLTEpWcV9wdUJIQllUSmY4TEpVMUxzVXd6Q1VIV0dEX3FXME9sNDh6dEZHX25yWkIzdW1SS3dzVHdtdEV2NTZqelM0MjlNOXo5QU1pWWRXRUlad3g1MzdIeUl4WXN6ZTlWaGRJQmtSczZ1MkhxcGxFUklkNWlGOGw4dElIQzNGak9LTkJuZFZGaF9vY3RZT0dEdzJkd0lCeC1wSEE4MUZjeFZGREF5RkRhOEY4TW5MeDZqbjFCaXRvcg": 1793967703129,
-    "news:CBMi0AFBVV95cUxPVUZnbVBtWVNBTzhuVTJPZklRWVdUWXg2eEFMRzdXcVFfdkpYSE1lQnN5YlNncl9fcWs1bklmYm5zdS1xZDA2RVM4V21Lb010UHpiZkJ4cG9XQ01JbDY3Q2lzeHlRckFfQWhvMUNKczAtUTdxWldITXRJNE5oM1F1T01RWmxzc19HSGYzandYQWVTbnV0Q0lpUHNpbzVqd0dFam1LODJWTDRMWjBha04wcHdSVGlaZG9KdU1RaFFfQnJtWTA1c3pRQTJEakdiXzRr0gHWAUFVX3lxTE1hOTZqNllsVmRVeEZaclZQejEyXzF5MU9IakVWNmtRUmJoYWhmTmkzNVVDT1FCYjRod2dlQzM3SV9pX21sVVZodEE5ckZiNnJWOVJwVzYwNnJ2bmJnMTVIV3ZPY0RDdldneFBYcVFzUlY0d3Y5WEhRQ08tSWNTVXNRRUh6cWx0Y3dhZEJLc1VOUUw5Q1NRekVncFg3YVFwdmE3NlF3cEJzU2R2bG1uLS1jaGRjcHJ6VzV5Z2JZYnJ3WGNwR0QzcXFqYWNvZGp3LUZ4NlpJR1E": 1793967703129
+    "news:CBMi0AFBVV95cUxPVUZnbVBtWVNBTzhuVTJPZklRWVdUWXg2eEFMRzdXcVFfdkpYSE1lQnN5YlNncl9fcWs1bklmYm5zdS1xZDA2RVM4V21Lb010UHpiZkJ4cG9XQ01JbDY3Q2lzeHlRckFfQWhvMUNKczAtUTdxWldITXRJNE5oM1F1T01RWmxzc19HSGYzandYQWVTbnV0Q0lpUHNpbzVqd0dFam1LODJWTDRMWjBha04wcHdSVGlaZG9KdU1RaFFfQnJtWTA1c3pRQTJEakdiXzRr0gHWAUFVX3lxTE1hOTZqNllsVmRVeEZaclZQejEyXzF5MU9IakVWNmtRUmJoYWhmTmkzNVVDT1FCYjRod2dlQzM3SV9pX21sVVZodEE5ckZiNnJWOVJwVzYwNnJ2bmJnMTVIV3ZPY0RDdldneFBYcVFzUlY0d3Y5WEhRQ08tSWNTVXNRRUh6cWx0Y3dhZEJLc1VOUUw5Q1NRekVncFg3YVFwdmE3NlF3cEJzU2R2bG1uLS1jaGRjcHJ6VzV5Z2JZYnJ3WGNwR0QzcXFqYWNvZGp3LUZ4NlpJR1E": 1793967703129,
+    "threads:DfZbjr8myXY": 1793967935826,
+    "threads:DfZmTLaHxW4": 1793967935826,
+    "threads:DfZlnOPDzza": 1793967935826,
+    "threads:DfZkLTXkyk2": 1793967935826,
+    "threads:DfZj9apEztQ": 1793967935826,
+    "threads:DfZk6WcI_Hd": 1793967935826,
+    "news:CBMiuwFBVV95cUxNbjlvaXNtNkNaRTZsWW1pUHlzV25Xa25zWjl6NWR1Y1prbGRaZmxjdWM1S1owWThZcHFjc01hS0kyNkRsbmJYSVVGNTZMdjZiMkNtSEhXMTZ3TmVsUXhpdGFMSWJoQmhERXNScTZRODl1ZEFfdktxY0NkVUdrZ1FFZk1IUTgwN0ZEd3pKOC10Mk1GdFVRSTVOb2duT21fSTE2cGxCb3Z2RkRjR0JLVDRPdmdzWmdteVNDUHkw": 1793967935826,
+    "news:CBMiwgFBVV95cUxON3BLQUR2aWJhYnM5cU91UVpGejlzTWRkTjRjNERFLThWTUlVN3J0Yks4VWlsOGU3UktEU29kSDExUDd4U19HVHlDYS1hdDZabzFFMVkzZFpLYXNlRTdvVlRVYUdseXJ6dVpWaUdFbDdHRFc5TC1uQnR3R21OX01rUHYzY25Rb3kwNTN0bHJjZWpsLTljUG9Cd1JXOXc1TGZxdmwzX29FR05maUszVno4WVBJQ3ZRVUhQdWlDOU93SllLUQ": 1793967935826,
+    "news:CBMivwFBVV95cUxNUGhVYVpORmxxQkJObDBVdW1ZbDlvQmg4eURSLVlwS2tYZDVBRUtpb3YxbHNlQTJDamdoOWlLREhKTjZFSjFwNDVnQ2JULTNOYUZJc25nVnFHMTFfbnl6Y2FzTjhZYmZYRDY4V0lma0h0OUpSUE1KMWx5TW54eXJZd2dHZl83VF85QnVVd09DOU5tOXg3ckdCbkc5SnJMNDZvSzVSYzVpd19PdlhsYTRUZVNKcmZwd1E5WXdBcUdqZw": 1793967935826
   },
-  "digest": [],
+  "digest": [
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@beritasatu",
+      "x": "Bansos Rp 600.000 Ada Lagi pada November 2026? Begini Cara Ceknya https://www.beritasatu.com/ekonomi/3039186/bansos-rp-600000-ada-lagi-pada-november-2026-begini-cara-ceknya?utm_sou",
+      "u": "https://www.threads.com/@beritasatu/post/DfZbjr8myXY",
+      "d": 1793962234000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@flower_landds",
+      "x": "Wah lma juga yà. Kk urutannya bkim ikd. Trus ke cek bansos dn perlingsos bukàn?",
+      "u": "https://www.threads.com/@flower_landds/post/DfZmTLaHxW4",
+      "d": 1793967816000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kanieadidonn09",
+      "x": "Kak aku udh bikin akun cek bansos, trs lupa pasword gimna yaa??",
+      "u": "https://www.threads.com/@kanieadidonn09/post/DfZlnOPDzza",
+      "d": 1793967456000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@aleakhoirunnisa22",
+      "x": "aku kmren isi perlisos pas masih desil 9 ka . nanti ketawan ada bacaan \"berpotensi layak atau tidak\"nyaa . abis isi itu aku langsung ke aplikasi cek bansos buat sanggahan desil .",
+      "u": "https://www.threads.com/@aleakhoirunnisa22/post/DfZkLTXkyk2",
+      "d": 1793966703000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@jarecah",
+      "x": "cah! Gue kira kuliah itu harus cuci tangan sendiri terus, tapi tiap malam pas males ngerjain tugas langsung HP gue nyala 'cek bansos'. Ternyata emang banjir program pemerintah buat",
+      "u": "https://www.threads.com/@jarecah/post/DfZj9apEztQ",
+      "d": 1793966595000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "news.fin.co.id",
+      "x": "Mahasiswi S3 UI Penerima Beasiswa LPDP Ditemukan Tewas di Kos Depok, Ini Kronologinya - news.fin.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGhVYVpORmxxQkJObDBVdW1ZbDlvQmg4eURSLVlwS2tYZDVBRUtpb3YxbHNlQTJDamdoOWlLREhKTjZFSjFwNDVnQ2JULTNOYUZJc25nVnFHMTFfbnl6Y2FzTjhZYmZYRDY4V0lma0h0OUpSUE1KMWx5TW54eXJZd2dHZl83VF85QnVVd09DOU5tOXg3ckdCbkc5SnJMNDZvSzVSYzVpd19PdlhsYTRUZVNKcmZwd1E5WXdBcUdqZw?oc=5",
+      "d": 1793958122000,
+      "urgent": false,
+      "warn": false
+    }
+  ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
