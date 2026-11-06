@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De2q87IE47e": 1792796769879,
-    "threads:DebyOV1H1El": 1792796769879,
-    "threads:De2rwxSFMtB": 1792796769879,
-    "threads:De2ft_lEuoP": 1792796769879,
-    "threads:De2YL20midG": 1792796769879,
-    "threads:De2RvHklNIi": 1792796769879,
-    "threads:De2sX3VkYCr": 1792796769879,
     "threads:De2tRHnE1eu": 1792797041977,
     "threads:DbgDvT9naBK": 1792797041977,
     "news:CBMiuwFBVV95cUxQeDNfeE5LVVdfbEY0NThPb1d3NjEwVkpESjYtNlVDXzRmeWlzZEdVdFBNaGhid095SmF0bnBfYmhtNmdZMUZtQzZyMnd2XzZPcHBWQWpBc1JFOWgzR0xMRGdGWkNSLUlOWGJGSUFHNWpQTlY1bkNXRVBqYXMxSkd6MEJwb2N5NUw4U1U0b2FwaThTRWlfbTctdzluYnpXY3hET1EtSjdpUFhld1l3WnMzQlZua2dQZVhRZmdB": 1792797041977,
@@ -27672,29 +27665,17 @@
     "threads:Dfau6yIlLN7": 1794006102262,
     "threads:DfauA44mYX_": 1794006102262,
     "threads:Dfaid8mgfMI": 1794006102262,
-    "threads:DfatH3oFM5B": 1794006102262
+    "threads:DfatH3oFM5B": 1794006102262,
+    "threads:Dfavfk3FVix": 1794006332848,
+    "threads:DfavQSKB_6Z": 1794006332848,
+    "threads:DfavOwzmW9K": 1794006332848,
+    "threads:Dfauc2CCJN7": 1794006332848,
+    "threads:DfauLl4GtjZ": 1794006332848,
+    "threads:DcQvc27FE80": 1794006332848,
+    "threads:DfavxrCmQPG": 1794006332848,
+    "threads:Dfavjv7jxNI": 1794006332848
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aicreator_bynurma",
-      "x": "Modal : Prompt AI + Canva Waktu bikin : 27 menit Hasil : Jadi 12 lembar worksheet Anggur Ceria ini 🍇 Kemarin ada yang beli di Lynk aku IDR 15rb, padahal bikinnya sambil nunggu ana",
-      "u": "https://www.threads.com/@aicreator_bynurma/post/DfZqM2rk9-F",
-      "d": 1793969861000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@abiherman990",
-      "x": "Saya doakan semuanya kepada yang punya kartu merah putih Ini alias kartu bantuan sosial sebagian bagi seluruh warga Indonesia Raya semoga cair semuanya segera dicairkan Amin yang u",
-      "u": "https://www.threads.com/@abiherman990/post/DfZshabmYTQ",
-      "d": 1793971079000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29174,10 +29155,30 @@
       "d": 1794005334000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@terasdigitalkit",
+      "x": "DM aku ya kalo mau ikut kelas gratis.",
+      "u": "https://www.threads.com/@terasdigitalkit/post/DfavxrCmQPG",
+      "d": 1794006338000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@tyans6",
+      "x": "alhamdulillah saya sebagai rakyat solo dibantu sertifikat gratis dari jaman pak jokowi jadi walikota.. dari mager sari diberi sertifikat gratis oleh beliau .. dan semua birokrasiny",
+      "u": "https://www.threads.com/@tyans6/post/Dfavjv7jxNI",
+      "d": 1794006224000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
