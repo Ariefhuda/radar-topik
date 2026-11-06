@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De2xVdXDVB2": 1792799439595,
-    "threads:De2vFgxoCD1": 1792799439595,
-    "news:CBMizwFBVV95cUxQc0NMaHdBQW4tOEdQUEtTSjN3ZXpNcU9GY3Zpc3NRcnBHb2F5VGMtdGpYYW5nbmtQZl9OR1JIM0xNbjVLZTBEdHZ5VmR4VmVEek8wVFh6X0Y0dVJFbGl6UmI2amQ2clYyYm5QRzlJTWxreU1LZEpOSjJoLTg0UHJMUUt3LUtveWd6OWVHYnNaV0t6Y3F2WWlfS3AtNUVuNlRfQTBkeVo4MF90OExMQWxvYnl3SUE4SmdYbmFfSFhNejNTTk1MWURiYjN4SzNVTlnSAdQBQVVfeXFMTXV6bGhrYW1yNDZTZ2pWbU41SWdYa1R0QnFRWWhTTk5rdWFva2Q5ODRwaHpMaWZ4MHhydnNsa082bkE5OEtyZTNJdWxfM0JpbkxkSWtKSW5Bb3gwRnVVZjBWYmE2ak50cFNrZm8yV2N1dEpXcC1VcEhQdzFoeGctZXIxVVQ3S1pjN3Z6QlRkd0IxVUp0bEJrajBqbHJfekRnejZ0M0lxdVd2b21zUDVPamgtbkw3WFRwNUNlUlFJeFhGQmhkeHlYck9DVVRsZXRhbE0yNGY": 1792799439595,
-    "news:CBMi5AFBVV95cUxQeG1nT1NkdkYzTkI1SDJMQ1FickkwdEU0MC00Um5KUzZQcFF4enVTeVljbU1CWEFqLWJLVFRhUHVXX05GczhOcDFpZEloa2JRWUxQS2lqdjhkc3l1amFYYWp2ellMMkJ5ZVROLUFCV0l5ZUozN3lqUTRyMEFaRU5kZ2E1cERRR2lZUm5KMXhNcDc5dXYxcTdkeTFOSU56WUxYbTRyU1VkV0VINm9YOUs4a0pVYVB4eldHM290UVp4RkNqNHBMdDN1akZhQVVvS3VuVExOZG9QYXB2Z3hJOWxxUTJ4LU_SAeoBQVVfeXFMTkh3NjhQWlFKeExjX3oxWDIwUUxaWnVDbEk5QXFpT2RnRGdnRjhnREtsYWlJdnczNWNURHFBNlpoQXc0bndkWUczRUxmM0R2UkQxN0ZRQktfYmc3Si1tcjZzZU1lbHRSVGd2Yk5EN09aanNrZ1JyNVFoZ3JOaWV5VTRGVi1rVkEwY0tmQUYzWE9TSTdmcTdkVEZEQ1RkTTdvN0JUMWlCQkNqWWFzLTBMdHRWWVpQQ1VIRXoyNEZLYzFNYWJweXJtZG9YSU5qSWRKcWNSa2picFhfczktTE42d1VVQ2pCT1BoNll3": 1792799439595,
-    "threads:De2xPMPDj_m": 1792799759029,
-    "threads:De2xkaTE5rH": 1792799759029,
-    "threads:De2w9XhE0zi": 1792799759029,
-    "threads:De2wvgYE7XE": 1792799759029,
-    "threads:De2xXiRAWnZ": 1792799759029,
-    "threads:Deva8U2E-Mn": 1792799759029,
-    "news:CBMi8gFBVV95cUxOT2paejViUU9yUmhycWd1djZPNlZqSl9fZnFjc1hIcVp1UmhYRW1TYVRCVmlzV2kwVEUtQldzQzBqekU1ZnZuNGtoV1FDY2F3TC10Q3JhazVmaVo0WGhDRjhITnpNNlNMSlRrZWtFUy1NUjE5SElOY2l5SEhoUTVoXzRrblhRQ083YTg2RzkySGFOcmZScmNwSElDcEY2dGgtQlpGcG1wM0tjZG5mS2d5UEdsb1JJSjhSQU9JeExXVTQzczFWVnVwYUJ3Y24xMXVGb2EwZHdSM0xFeWdYaUx1OGJQQ1FqMGxhdnZKQkdHenBxQdIB8gFBVV95cUxOT2paejViUU9yUmhycWd1djZPNlZqSl9fZnFjc1hIcVp1UmhYRW1TYVRCVmlzV2kwVEUtQldzQzBqekU1ZnZuNGtoV1FDY2F3TC10Q3JhazVmaVo0WGhDRjhITnpNNlNMSlRrZWtFUy1NUjE5SElOY2l5SEhoUTVoXzRrblhRQ083YTg2RzkySGFOcmZScmNwSElDcEY2dGgtQlpGcG1wM0tjZG5mS2d5UEdsb1JJSjhSQU9JeExXVTQzczFWVnVwYUJ3Y24xMXVGb2EwZHdSM0xFeWdYaUx1OGJQQ1FqMGxhdnZKQkdHenBxQQ": 1792799759029,
-    "news:CBMi7gFBVV95cUxOdVpXa1ppNG9lTUZ1T29EazhqYVpSMXpPQVotVTliUzZRNDNWdU1SNFlJZ1NHMzZhLUJ0Q2hnTzdqRlJvZS1USnEwbHJuUWlfaU1nLWp4NkJIUTB2YU50TjNzU29qWWE3cV9Jb3dXcURUWjU4dTBfWGh0U3hzM1kxTExJWFRSLWgxUTNiVzFkaDMydnlUcHFBYVU2R29PUE5YTGk4Z0F2Mk1xQ21UM3lWcDJjY0FHeDA3MDZsYUw0TXF3Q1JuajlWLV9jYlJvd29xTlpIazJsM0FSM25aalJVZjNoVmVmbDN6T3RvZElB0gHzAUFVX3lxTFBUWkdPWnp0QXZFZk5Da2lRcGtCRzhzU0RfTFRieVhwNzFna3FQcmlRNndUMVBEblRHM3NmcGZZZTJQNld2VVlXVi1IMGRKM0hFbzJNbmlLRnBiV3FDbVFmWnpCMXQ5SWFEclpjY3o1N195bkpNMDJpakp3MDRUNEdHSXBfM0NGWGZvMGxiMGRXWmV4SHl1dmdzX3hzai0wMGx3MHlCRkJLRlpJREtYanBSQV81VXdoOGYzcWlYMXVoMWZzcmtKay0xbFFCMEg1RHFiaXlWM0JFbEJieThzRXV5RjBKQzdEemZaUlNSOTFzS2hwVQ": 1792799759029,
     "threads:De2zUYgn_PK": 1792800252299,
     "threads:De2w74FD5Em": 1792800252299,
     "threads:De2wv96n3Ab": 1792800252299,
@@ -27674,89 +27662,18 @@
     "threads:Dfa0P9Kj3EN": 1794008756477,
     "threads:DfazfCqgWmi": 1794008756477,
     "threads:DfaybOtATso": 1794008756477,
-    "news:CBMiuAFBVV95cUxPcExUZWNvczdjcFhKZWc1QU5zNFpoZ1drOUw2LWhfdjYtSHk2djdrcS1tRExrZFd3MFNNQU5sV0VSM2VRaHM0WUVCNS03T0NVZmpNTjIxY1g5cFFKUE5NMmFlX182STEwX2JnRGVmMk45Ujg1VVV6b0hudnYzd0tvY2xWbE5EX2lsSVRCYzZFZDNHbnlVS2RBLXhsU2ZHR0d4RWVKNDlienhyMDZOQ0VrSnZrdDJVS1NK": 1794008756477
+    "news:CBMiuAFBVV95cUxPcExUZWNvczdjcFhKZWc1QU5zNFpoZ1drOUw2LWhfdjYtSHk2djdrcS1tRExrZFd3MFNNQU5sV0VSM2VRaHM0WUVCNS03T0NVZmpNTjIxY1g5cFFKUE5NMmFlX182STEwX2JnRGVmMk45Ujg1VVV6b0hudnYzd0tvY2xWbE5EX2lsSVRCYzZFZDNHbnlVS2RBLXhsU2ZHR0d4RWVKNDlienhyMDZOQ0VrSnZrdDJVS1NK": 1794008756477,
+    "threads:Dfa0_-pk_Da": 1794009438748,
+    "threads:Dfa0Y7YH_gY": 1794009438748,
+    "threads:Dfa0JpEicZi": 1794009438748,
+    "threads:Dfa0JiXCVG6": 1794009438748,
+    "threads:DfaxqKamaQ8": 1794009438748,
+    "threads:Dfaxp5Ok-XP": 1794009438748,
+    "threads:DfazG78k3V_": 1794009438748,
+    "news:CBMivAFBVV95cUxOcWpOMUduVmpOdGRWOVNNdEZ6dkdfSE9UVU9Ka0dObTFCbWJnWEFUWFBfa2o3dWZnLUxkZjdJb1NfdHFlMFBlNGpIalRCbmoyc3gyM1NnNGw3M3IzNjZaX3FwSVB1LXJEQUlESXZGWlM0VzlGakgtRlFXTVZQcUFWUDhBMkl0cG80MHV2R2tWX2dlX0IwSUx6SkM4c3ZfRzBCWGN6S2FyenM2WHNYWHRYcGl0YjBUXzE3Q3liMw": 1794009438748,
+    "news:CBMiogFBVV95cUxOeGZYcE52QWo1V2JQeV9IaDdGX2VXSEVMRHl1SkdSSlVQWHByMW5EUlpnNUFXRlF4TUluNzBISDYzMWZfTXYtdXRFNlIxd2tWZGlqMWtBQVVGS0g1T0xZbWppQ181Tm54N0N1bUpGcjFuLVd0QWJlUHl5OGR6ZzJzUktfYWlCVmloeFpJSE5UX29YdWU1OTdZanNqZ1VuZXBXSWc": 1794009438748
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@amin_alhafidz23",
-      "x": "Assalamualaikum, Wr.Wb Baitul Mal Gayo Lues, kembali membuka pendaftaran Beasiswa Penyususan Skripsi Stara 1 (S1) Jangan lewatkan kesempatan baik ini. Manfaatkan program beasiswa i",
-      "u": "https://www.threads.com/@amin_alhafidz23/post/DfZt9ZbiQuF",
-      "d": 1793971833000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@frieda_trie",
-      "x": "Desil q 6 kak pnyebab e meteran listrik da 3 y yg 2 mteran setan....q cek kode salah melulu....itu da pmbaruan data lwt cek bansos...",
-      "u": "https://www.threads.com/@frieda_trie/post/DfZt-gwif4C",
-      "d": 1793971841000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@abiherman990",
-      "x": "*1. Buat yang paling rame hari ini:* > INFO BANSOS 6 NOVEMBER 2026 📢 > PKH + BPNT Tahap 4 lagi diproses, cairnya bertahap ya Bun, beda daerah beda tanggal. > Yang mau cek saldo KK",
-      "u": "https://www.threads.com/@abiherman990/post/DfZt5LfHTxR",
-      "d": 1793971797000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@tribungayocom",
-      "x": "https://gayo.tribunnews.com/news/55025/cukup-pakai-nik-ktp-begini-cara-gampang-cek-bansos-kemensos-november-2026",
-      "u": "https://www.threads.com/@tribungayocom/post/DfZt1J9lCDJ",
-      "d": 1793971764000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Riau24.com",
-      "x": "Lapas Kelas IIA Bengkalis Gelar Sosialisasi Bantuan Hukum Gratis bagi WB - Riau24.com",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnV3VDRuWGRkRUtWcHBITlpqOHRmdkZpZFVHNEJhWHNrNi1uS0pxd25qd1I5emVRRnFWWGRWZTlmeFI1VlZCeG5fMmx4ZmZ4ZTdTQjJ6RlR4Z0J3eHB1MnBsRGdQaV9JbGJHY2lVS0dJZ29PcFE2c3B3VzBfR3ltYUt1ai12TXA0b2hnZVdYN0d0dHItelNXTElTVmRHUzEtRFpvVHNOSWtDbTFIMVhKV3F2QVZ4RUtUM3JYVHZZQ0p5RUNwbEE?oc=5",
-      "d": 1793951460000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Palpos",
-      "x": "Bansos 2026: Ini Jadwal Pencairan BPNT Tahap 3 2026, Cara Cek Penerima dan Bantuan Rp600 Ribu Cair Agustus - palpos.disway.id - Palpos",
-      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVUhzQ3poUFJuT2MxN2dFNG11SjY0TndlVXJ3YmJwQm5CTUpkM2RyTC16X2c0SXFMZHBETmNDa0FWRWFYdWRaSVAxVmU1SjB4cTNkVWFodWRURTRBOGlPbFlSYlc1Y3ZJOHUyc0NzTXFVcnc0eTNCQ3N5RDF6aVNaN1BfZGh1Y2V2eUx0MUJNMUJOZ3RFQjFvLXAxQ2VvdW9rY2RNMUJWT1BKM0t3eWotMmw3SFRaY1dwVExEOXdnamFUenJNcUI2MGYyd25vcW5jVUJyRHNXN1NiUVJua280eWM1cjjSAdcBQVVfeXFMTmNQbFY3cGNjTVVFRVhRNTRfcTJiNkZ4aTI2U3FaVDJreExrX2dibGFvcjZlRFhmaDNrUFA0bE1lREJHazJCQngwTFg4YWpleUxHSmRGUlR1Q3RJaUlaNmpFTGhuQ21FRTMxWlBPYXVZT3VWT1p6b1JlMFpKX2t6anl4YmZTb3ExVk0tV0pYaG10eDVybmFrREhLSG5MeWItd25raDRXR3hPeVB1NGVZUEtSZVJCOENmVVpMMUlwRVBYZHVadm5XcnY0MHlIdkFWQTctVy11ejA?oc=5",
-      "d": 1793963899000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunsumsel.com",
-      "x": "Cara Cek Bansos PKH dan BPNT November 2026 Lewat HP, Sudah Cair atau Belum? - Tribunsumsel.com",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjlqcU5TVW5tcW9XQURvSVdwdFoxWkg2a2FHWWY1RExRZmVIcFlNdWtOZHN5R21uNkhLM19vZHRJVzV2SHNyTWlMQnNUZWxXR0hlYzRCOFB3aEY3aGJPTXBlYUpVOXd2UGtyeFhCNmdGU2d3VkM1NTdUU1NRSS1LQ2JRX1JWbjJweE5SdGd0QTgza3JCQ3VVZWg4a1ZLdi0xYnFOWVVuaFlGYmI0dnpOaElBYnhkSEoxblUzdg?oc=5",
-      "d": 1793971614000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sindu.prayogaaa",
-      "x": "“INFO WEBINAR ONLINE” Pengen punya penghasilan tambahan tapi bingung mulai dari mana? Yuk, belajar DIGITAL MARKETING dari NOL! 🔥 WEBINAR GRATIS untuk pemula. Cocok buat karyawan m",
-      "u": "https://www.threads.com/@sindu.prayogaaa/post/DfZv1EQD2Vh",
-      "d": 1793972812000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29176,10 +29093,90 @@
       "d": 1794008811000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@frieda_trie",
+      "x": "Tnyakan kak ma ptugas pkh trdekat mbk .....dta mbk dah masuk blom d dta pkh....d situ ntar tw desil u....kmrn q jg gtu desil 6-10 q pmbaruan data melalui cek bansos....besoknya q t",
+      "u": "https://www.threads.com/@frieda_trie/post/Dfa0_-pk_Da",
+      "d": 1794009077000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@jeriaprianaa",
+      "x": "Nurunin desil gimana, gw udah nurunin lwt prlnsos, app cek bansos, gak trn2. Apakah harus ada cap dan ttd lurah biar turun cepet",
+      "u": "https://www.threads.com/@jeriaprianaa/post/Dfa0Y7YH_gY",
+      "d": 1794008757000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Itu bukan PDF resmi pemerintah, met — itu template meme viral \"Objek Ini Dibeli Dengan Uang Pajak Rakyat\" yang dibuat netizen buat nyindir stiker bansos. File print-ready nya pada ",
+      "u": "https://www.threads.com/@meta.ai/post/Dfa0JpEicZi",
+      "d": 1794008632000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Itu promo target, bukan link umum. Caranya cek akun kamu sendiri di http://chatgpt.com -> Upgrade Plan. Kalau kamu kebagian, di kolom Plus bakal ada badge WAKTU TERBATAS dan tombol",
+      "u": "https://www.threads.com/@meta.ai/post/Dfa0JiXCVG6",
+      "d": 1794008631000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@malawali.id",
+      "x": "🆕 BANSOS AI: tokengratis.id Direktori API AI gratisan karya kreator Indo. ✅ 22 provider, 298 model gratis ✅ Gemini, Groq, OpenRouter, Mistral, NVIDIA NIM ✅ Cari by model, context ",
+      "u": "https://www.threads.com/@malawali.id/post/DfaxqKamaQ8",
+      "d": 1794007325000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@maliahnenengatu",
+      "x": "apk cek bansos ku GK bisa di buka knp ya?",
+      "u": "https://www.threads.com/@maliahnenengatu/post/Dfaxp5Ok-XP",
+      "d": 1794007323000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Nuansa Realita News",
+      "x": "Pemkab Karawang Resmi Buka Pendaftaran Beasiswa Kacer 2026, Sediakan Berbagai Jalur Khusus - Nuansa Realita News",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcWpOMUduVmpOdGRWOVNNdEZ6dkdfSE9UVU9Ka0dObTFCbWJnWEFUWFBfa2o3dWZnLUxkZjdJb1NfdHFlMFBlNGpIalRCbmoyc3gyM1NnNGw3M3IzNjZaX3FwSVB1LXJEQUlESXZGWlM0VzlGakgtRlFXTVZQcUFWUDhBMkl0cG80MHV2R2tWX2dlX0IwSUx6SkM4c3ZfRzBCWGN6S2FyenM2WHNYWHRYcGl0YjBUXzE3Q3liMw?oc=5",
+      "d": 1794009018000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "File Satu",
+      "x": "Dorong Akses Pendidikan, Pemkab Karawang Buka Pendaftaran Beasiswa Kacer 2026 - File Satu",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGZYcE52QWo1V2JQeV9IaDdGX2VXSEVMRHl1SkdSSlVQWHByMW5EUlpnNUFXRlF4TUluNzBISDYzMWZfTXYtdXRFNlIxd2tWZGlqMWtBQVVGS0g1T0xZbWppQ181Tm54N0N1bUpGcjFuLVd0QWJlUHl5OGR6ZzJzUktfYWlCVmloeFpJSE5UX29YdWU1OTdZanNqZ1VuZXBXSWc?oc=5",
+      "d": 1794009069000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
