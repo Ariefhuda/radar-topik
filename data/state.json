@@ -27775,7 +27775,8 @@
     "threads:DevS6GTCpav": 1793929537733,
     "threads:DfYc09ymTZn": 1793929537733,
     "threads:DfYdDQcCSWj": 1793930134088,
-    "threads:DfYds9Zj46y": 1793930134088
+    "threads:DfYds9Zj46y": 1793930134088,
+    "threads:DfYeUPhI_K2": 1793930447092
   },
   "digest": [
     {
@@ -28217,10 +28218,20 @@
       "d": 1793929754000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@ditmawaugm",
+      "x": "Kesempatan beasiswa datang lagi! 👀💚 Beasiswa Hana Bank hadir buat kamu yang ingin terus berprestasi tanpa khawatir soal biaya pendidikan. Catat tanggalnya, ya! Pendaftaran dibuka",
+      "u": "https://www.threads.com/@ditmawaugm/post/DfYeUPhI_K2",
+      "d": 1793930076000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
