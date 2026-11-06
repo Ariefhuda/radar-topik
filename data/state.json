@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De2sA6ejzbK": 1792797351512,
-    "news:CBMilwFBVV95cUxQM1dCSVkxdVZWVjVXbjVSS3VheVNVWndsb3ZPRUl1ZEE3ZS1mUFZnbkEzZVVienliVWxCU1doSDlveTN2dnctNU5nRlYtS3hTVWxaNkNtLUFsMUowTGdKTkZHSG9oWGNVbEFPLVhuZ0xsMEpfbWJaY2lmNFRWdXB2c2YxeXk3dmJWX0locXdHbmxnc0R4X0tV": 1792797351512,
     "threads:DezAMpFjxSf": 1792797639466,
     "threads:DbNqEeiAkXc": 1792797639466,
     "threads:DaCLnEmga0L": 1792797639466,
@@ -27668,19 +27666,18 @@
     "threads:DfavxrCmQPG": 1794006332848,
     "threads:Dfavjv7jxNI": 1794006332848,
     "threads:DfavfOrGCj0": 1794006645745,
-    "threads:Dd23mDgCGfd": 1794006645745
+    "threads:Dd23mDgCGfd": 1794006645745,
+    "threads:DfawfOst2oP": 1794006961272,
+    "threads:DfawdMjk7T1": 1794006961272,
+    "threads:DfawVLXDdTw": 1794006961272,
+    "threads:DfawMYiiC9Q": 1794006961272,
+    "threads:DfawAXZFf_2": 1794006961272,
+    "threads:DfaweeMGf3Y": 1794006961272,
+    "threads:De1uEFiFFuF": 1794006961272,
+    "threads:DfawUgyH7aw": 1794006961272,
+    "threads:DdkgdQwGBYH": 1794006961272
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "theacehpost.com",
-      "x": "Wamenag Dorong Pemerintah Sediakan Beasiswa Kedokteran untuk Putra Daerah - theacehpost.com",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzJBbG9qVVNQUVFSS3Rwb25QaURFcWYwRVpLSWVZRk1jUUQ5V2E3ZWlIa1JLUGJZTmhyTHdzdmlaUU1fVGl2akw3NkFtOG5ud1BqZHNrZ1hlaElMMWpwenY0MkxwMkZ5aUo4UWd2Q1pGajNzQmNuMzBteHRMcG9aZFpRbGtUTVk5d2s1RGZOUTdYYjVhTVY4dUFnWGVMNUFzOVFUU01oU2UzZ2NIMmk5SFNVb9IBsAFBVV95cUxPODNobUtyMGpnYlZxdkJqRENZZ05BSk9RMVZqYmhqNXdlZ2E1VFI2WVZ2VnZRcmMxRXJ3R090bkdLSGgtQ2lxUFZLNVc5TWJjMXVUaWw2NndDN0hSYW45MHU4WUxtTGRhYjlId2hZdU54ZzBjaU5ycjI3RmxVa1JxMHBwVlpCQzJ4UFVGRjN3S3BlZXBEUWk4UGt5YnJnRGtrRXoxVGEwd0dwem1wNjBXcA?oc=5",
-      "d": 1793969712000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29170,10 +29167,20 @@
       "d": 1794006188000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@indoblade",
+      "x": "Ekonomi lagi nggak gampang, kita semua ngerasain 🥲 Kebetulan ada rencana bikin pelatihan GRATIS di Pati buat yang pengin upgrade diri biar lebih gampang dapat kerja atau penghasil",
+      "u": "https://www.threads.com/@indoblade/post/DfawUgyH7aw",
+      "d": 1794006624000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
