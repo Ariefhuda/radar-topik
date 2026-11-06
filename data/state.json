@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DMdfVknTQSQ": 1792731669097,
-    "threads:DbDD6_QoIM1": 1792731669097,
-    "threads:DMKanb8OzPt": 1792731669097,
-    "threads:C-XBTQNMLPf": 1792731669097,
-    "threads:DLhf3nAxheR": 1792731669097,
-    "threads:Dek6zb7E4w2": 1792731669097,
-    "threads:DetXU7Njytp": 1792731669097,
-    "threads:De0vlfllCy8": 1792731669097,
-    "threads:DSlyR0Nlgc3": 1792731669097,
-    "threads:Dd5DCuqHzyZ": 1792731669097,
-    "threads:DZAOWnrjc39": 1792731669097,
-    "threads:De0wnV4DHPC": 1792731669097,
-    "threads:DcVuOG9kQVr": 1792731669097,
-    "news:CBMiZkFVX3lxTE5qa0pUSHdsRDV5WHhNemFIejAxcXNTSHd3MUJIWGlFaC1lcTdtX1JUdDJoZzhTZWpQYUJ0OU5DWEF0dVNrbE1YcWxNdEg3V1BiVWFlQTZHc2JoOTBPWGh4RG5PbTFpZw": 1792731669097,
-    "news:CBMiygFBVV95cUxPS0F1WU5jNVdLTkUwQ2lHRHExekdwMTJMaVpGZUtOZVVhcC1DVk14SGFhY2ppV1pSYjJHd1NNMDZDOW5qZFluSTNUTnNZaVJ1a0ZTVEpLY2VQb1ZjcDR6SGJxNlZNYVBUTGdmNzRMU05NbGJ1NFJfRVZqMmFleTJuYm5IT0NoN0g2TXpWREJLWnZ0RXlJbFljLUJJMkJCZ05YM05ydy04elMtTkpITlRUNGdtLWMtR0xfaENubkNnRDZsS25QQ29mWHh30gHPAUFVX3lxTE5Ramk1eUhfaFp3ZzAyVFZ6cGNFX3dhTEJPZk92MmRxMC15MlhCXzdkbXlmOWd2YTc3a1Fjc3RwVXZhbGNrX2dNcEc5WS1RUUVnTXNkZ2xMTEdGTmU3UUJ3NjZNT1hLaXNVTnM5X1B3ZVJIZTFYT28weS1IazBlbF84eHNoSmpObFNZb04ydGFjNk1yeUFiUG42VlpmakcxaXUwNUJhYWhrZkY0blFDcXMyMXFCS1p0SHFPNzNUOElyZzF1WDVVNm9yUjAxY2V4VQ": 1792731669097,
-    "news:CBMi2gFBVV95cUxQYWZORF9aaE9JX3cwbUJyS1BZRUdYUW1kVlRTTTZvcDFRaS1kNHg1d0lNZC0tbVhwVW1ZbzRrRDNKajdObW9EWUpBN2NXMlpCSUNnVnl6cDFEaEpmRl9haERpTnpXazZHQkYtTFZkOWhCd3VBRXlEdVRTa1U2Smk4R2ZKMnRWNDg3YzRxSHJHT0hEQ2RNNmdiUklvb3VLZFhjU3FDVzJuT1F0WXFoTzZBQlhLOTU4a0RQM0Q5emY4eHZaWThxLWRhbGJyQzhzV1NTQVpZOVg2SnNOUdIB3wFBVV95cUxNS3lzNUVlOWItSnNjMkdTbE9RQzl0WktLa08zTmtHdWRnbkpUd2o4SVdOQTZQbVNGUmYxRW4xRk1SSERNR0NhdlRGbVplOFRBSDZqZmdpNllzMFlHZmtMVUJwR0RJbjdGX010OWZDZ1RtbkROd3NXMVpUTTY5X3lqd1Bka2hoV3RzVWFtdnFfN2dJbEJCalctS0JjT1NhSks4bDUyYTlPckpxSmNZczB6dDFfUVI3YUFQUE1IZmJhUzQ3dHZ0Rl9kaFlhRVhFWUE5UFY3YzAtaGRHQkhEcEp3": 1792731669097,
     "threads:DdqeoVek7ma": 1792731937455,
     "threads:De0wz9WlJxD": 1792731937455,
     "threads:De0v8J4FHQ6": 1792731937455,
@@ -27763,69 +27747,16 @@
     "threads:DfYzMeZialc": 1793940938747,
     "news:CBMiswFBVV95cUxPLUg4bUtvMFRCVW5uYWxsLXJuV2J1RkF4b1k4eXcwVDV0NERVZHFKVXdCWG1LcnQxZk1nZmV1MWFuNHZDMkJMNmFNTTBrUGVpNG43UUZRdnVmQVNuX1RocXZEalBLSmJ3czBkVEJlM192d0hFb0dHMzhueXJhUUFVT0FKbE05aC12SVNhaDBveXV3WW4yYjI1WWpVWTZTem93UGhKWlRHZEJxTGo2dVVpTUk3Yw": 1793940938747,
     "news:CBMiyAFBVV95cUxPZW1PRS1BdnhPZ2J5bFZyV0o3RDBnSUxkVnFuV0ZwN2JvUldzcjVPdnVyWlNjMzNBei1CQTdfMnVuTnI1d2NUdktWbWtoZ3dWY2VlbmhSOW9NVU1qZFcwdzB0Z2JhdDVvSGpyMWVkYWVuOEJVZWExRDFWQlZFNGEzMVZHeFFLUVJObGQxZVN0TkxrMkI1Ri1NU0ZyNUVHQjdncXRwQTBRa2YtY1Jha29zZ2VsTHFlYWdHaWtVb0pTdHQ1VjFRUVRqVw": 1793940938747,
-    "news:CBMivAFBVV95cUxNeDRON1hCbzhDbVNpTFBOdmJBVlQ1VEI3WXVjR1NGTjItRFlNd056N3R6RGpXaUEyN0I1aF9CeEFzNkRuYkFzcHZOQmN6RVdhaFFqQ00tQTBzTU9COTNZeXNaY2hqZHZnNjBIVVR2ck1zcGNZenA2T2tYQnlDNHZfQzg2QVBJb0ZVR242WkpqS19mSXVIUV84Wjc4VXNCZEtIa0xBcmhpQjh2Z0VzbHZTWWpFNDN5WkdtaUtkWQ": 1793940938747
+    "news:CBMivAFBVV95cUxNeDRON1hCbzhDbVNpTFBOdmJBVlQ1VEI3WXVjR1NGTjItRFlNd056N3R6RGpXaUEyN0I1aF9CeEFzNkRuYkFzcHZOQmN6RVdhaFFqQ00tQTBzTU9COTNZeXNaY2hqZHZnNjBIVVR2ck1zcGNZenA2T2tYQnlDNHZfQzg2QVBJb0ZVR242WkpqS19mSXVIUV84Wjc4VXNCZEtIa0xBcmhpQjh2Z0VzbHZTWWpFNDN5WkdtaUtkWQ": 1793940938747,
+    "threads:DZW7IQVmkKv": 1793941244686,
+    "threads:DfYzlOtla87": 1793941244686,
+    "threads:DfYyfFZjinv": 1793941244686,
+    "threads:DfYzyDuH5Za": 1793941244686,
+    "threads:DfYzbGPHb10": 1793941244686,
+    "threads:DfYzVIlEx3K": 1793941244686,
+    "threads:DfYzQjdk9ij": 1793941244686
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "InfoPublik",
-      "x": "[HOAKS] Tautan Bansos Pelajar dari Kemensos - InfoPublik",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEZNWk9WNG1WTS15MGdOdk90LWd5cGRZLWpLOWNWUTRLNmxHRXlBZ2hFVkhsWnZpYklpaUFzaFFlbmh5OG02MmVBRGlLWDAtcVFzZFdERXJoTHZpLXIteXpNaW4yOF9yQlllU3gyb1FOaUU3cjlNa1pCS3hYTEdWTlloVlhaOTlkOXhSSm9BZnV6Nm8?oc=5",
-      "d": 1793932200000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@alfalinksurabaya",
-      "x": "Kalau mau mempersiapkan S2 di luar negeri, paling awal bisa mulai dari menentukan jurusan dan negara tujuan yang sesuai dengan background pendidikan serta rencana karier ke depanny",
-      "u": "https://www.threads.com/@alfalinksurabaya/post/DfYiTPLIz5Z",
-      "d": 1793932165000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@fleurdelune.0104",
-      "x": "Halo, Kak! Salam kenal! 😊 Aku dari Office of International Affairs, Thammasat University, Thailand. Kami akan membuka pendaftaran beasiswa Thammasat International Student Recruitm",
-      "u": "https://www.threads.com/@fleurdelune.0104/post/DfYh4bKmewJ",
-      "d": 1793931945000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@neng_sitsit05",
-      "x": "Di aplikasi cek bansos kak gampang",
-      "u": "https://www.threads.com/@neng_sitsit05/post/DfYinRlk1AJ",
-      "d": 1793932329000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Kompasiana.com",
-      "x": "Rutan Tanjung Redeb Bagikan Sarapan Gratis kepada Masyarakat - Kompasiana.com",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWlhaWx1SHVVczA0Z19jeFl3WWprR1p3X0JqN2F5UVFSQklzY1U5TTVvWlJ5bWlBU3I5NEdVc0Rlc3hHNXBwWDJ1ZWpkU2tOQWdxZ01pRm1wdm1fTlhMNG1manEwY1JCNXpFeGg1Z2NMS3NZVG50OEFOc1VwbTFraDRTUUJsYkpGRjROUTNFckYwYk1fc3RLSHZqNkdqcy1kQ2xBT0pRSThXSzJQVzlPbHB6aEJHWE45cEZVaTNSZlI2UlEwelh0VkdCcw?oc=5",
-      "d": 1793931032000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfYk_m8D01L",
-      "d": 1793933577000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29265,10 +29196,70 @@
       "d": 1793935829000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@santrigo.official",
+      "x": "Kenapa ini menarik? Masih banyak yang ngira lulusan pondok pilihannya terbatas: lanjut ngaji atau jadi guru agama. Angka di atas nunjukin peta yang lebih lebar. Ada yang ke Maroko ",
+      "u": "https://www.threads.com/@santrigo.official/post/DfYzlOtla87",
+      "d": 1793941228000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@berita_mahasiswa",
+      "x": "BAZNAS resmi membuka Beasiswa Riset 2026 untuk 170 mahasiswa S1-S3, 50 kelompok riset, dan 88 penulis artikel ilmiah. Bantuan disalurkan satu kali lewat transfer bank untuk kampus ",
+      "u": "https://www.threads.com/@berita_mahasiswa/post/DfYyfFZjinv",
+      "d": 1793940654000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ariskayuli95",
+      "x": "cek bansos di google pagi tadi udah DTSEN ver 4. siang ini coba cek ke ATM, alhamdulillah udah cair sembako 600.000",
+      "u": "https://www.threads.com/@ariskayuli95/post/DfYzyDuH5Za",
+      "d": 1793941331000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@balitechsolution",
+      "x": "🚨 249 JUTA TOKEN AI TERSEDIA?! 😱🔥 BROOO, INI SERIUS BUAT DEVELOPER INDONESIA! 🇮🇩 Gue lagi buka akses program BANSOS AI lewat Bali Tech Solution. 💚 249.951.772 token tersedia ",
+      "u": "https://www.threads.com/@balitechsolution/post/DfYzbGPHb10",
+      "d": 1793941142000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@vibe.codingbali",
+      "x": "🚨 249 JUTA TOKEN AI TERSEDIA?! 😱🔥 BROOO, INI SERIUS BUAT DEVELOPER INDONESIA! 🇮🇩 Gue lagi buka akses program BANSOS AI lewat Bali Tech Solution. 💚 249.951.772 token tersedia ",
+      "u": "https://www.threads.com/@vibe.codingbali/post/DfYzVIlEx3K",
+      "d": 1793941093000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@devstacks_ai",
+      "x": "🚨 249 JUTA TOKEN AI TERSEDIA?! 😱🔥 BROOO, INI SERIUS BUAT DEVELOPER INDONESIA! 🇮🇩 Gue lagi buka akses program BANSOS AI lewat Bali Tech Solution. 💚 249.951.772 token tersedia ",
+      "u": "https://www.threads.com/@devstacks_ai/post/DfYzQjdk9ij",
+      "d": 1793941055000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
