@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DOXfZQbE4Yr": 1792734646350,
-    "threads:C2trWcKvLCp": 1792734646350,
-    "threads:C3Xj4l2ypbI": 1792734646350,
-    "threads:De02ADkn_G9": 1792734646350,
-    "threads:De015deE7rh": 1792734646350,
-    "threads:De01LY7DVyv": 1792734646350,
     "threads:Dd_E7BuE3lE": 1792734950099,
     "threads:DeOURwJFLV3": 1792734950099,
     "threads:De021HpmfN_": 1792734950099,
@@ -27720,29 +27714,11 @@
     "threads:DfY3HeggSYF": 1793943939922,
     "threads:DfY34pKEy5H": 1793943939922,
     "threads:DfY3l_PnwiC": 1793943939922,
-    "threads:DfY2uEtie1z": 1793943939922
+    "threads:DfY2uEtie1z": 1793943939922,
+    "threads:DfY4qJvCIcB": 1793944243873,
+    "news:CBMi-AFBVV95cUxQMHotN1BveWxSRnRaenJnN0VSQUVneFprOVNXRnloaW5nTTlWRURwcFhvcHJxV05ZSjRueHl6YmtTLUZVN01vVHZJbXFkUFg3dm9PdGROb0R5X2NDcXhET0tJa2o2WEc5dWVha2ZESXN1ZlZDX0RXR2NZaElSNEVaVlNyY3J4NzNQc1Q2cE5qZzNMYkhUdnRUWjVKWXhJWHJsQjVleGVkNW5tNHd6SU5RSjI5WERtT19BUzNLdGNKZFFsUGk5SV8tTEJkX3Jkb19WWWlFUzhSbEJrWnYyNVN3RU8tMFNZUjNxMHlNTDhfejZxV3dDNXJ0QtIB_gFBVV95cUxOQ1hFbHZqbVkzbHhhVlY5akx2VHVJczIyeTNFZ2JNdjZNUFZDU0tFck1TZVZZS2RLWmdnVWk5YlhOSnZjWUJxY1dYZHhxTVlKcE1IMmZBZ01KWVlHVms0Y3hKNVA4dG1yUjRwOHRkM05XSkp2SkQ0elI2VGxNUmtNTTRVR2h2dTgxWWhpWm52akEtVkp5ZkNEX0dLTExTTTAyaEY2cEpiQlFhbW9CblkyTDdMUEhxU0VKZGVzOVhMQThQS2VmbDVnUVVrWlhfai1laTlPeURBaFZ2WTNKanZBaXlrRVNVUlRPXy1VOVBQQ1lSM3FPMlZBZUY0aEZoQQ": 1793944243873
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Cara Cek Bansos Kemensos November 2026, Cukup Masukkan NIK KTP - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDlpZ2RnUGJSY3hoR3h0Uk52bktiTEZjdVZfUmk1cVZFNHhubGpNc1Ffc1pNdEM0SDdSMW96dXRjZUdGQnlyV0thV3lBSVJyVkdRb1FnWFhKdjBCUDNyRFV3cnNpMlp2QnhMS0QyZzR5UlNaUERRb2YxTkpaT0tEdEJNcHNfc2ptanhGem9QOWtDLXhSSVJmdDZIdDJpSThxQm1KalpvV05CNHNsekRPQ2xR?oc=5",
-      "d": 1793934840000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kabar24",
-      "x": "Desil 5 Bisa Dapat Bansos Apa? Cek Skema Bansos Terbaru November 2026 - Kabar24",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGpkNV90Q012dE1HWHB0aW40S3FvUFNELW1yeEdzUGNwVmFfTXBCVTEwN0VOeFVvbDk3Q1NtSHhTZmdWMjVEcFY1TE1hN21zb2RYbnVKWDd0cGlVbGtGWk1LcUx4U3A1OHZCcWFwb0pFQzNPaVFTSWxtV0VaN3JoSDVxY19QbGxpRUM2ejcwdWZkdHROci1SdDhVVUxYa0J4dDYzRXNKd0hFMXQxRV94RGFpOEpLMDA1YnpObnhR?oc=5",
-      "d": 1793934605000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29222,10 +29198,30 @@
       "d": 1793942870000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Ada, dan itu yang jadi bedanya sama anggapan \"pajak dikelola DJP\". Pajak kamu bayar lewat bank/pos persepsi pakai kode billing -> masuk Rekening Kas Negara di BI, DJP cuma dapat te",
+      "u": "https://www.threads.com/@meta.ai/post/DfY4qJvCIcB",
+      "d": 1793943887000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Implementasi Pembelajaran STEM Siapkan Manusia Penyelesai Masalah ... Rakernas Kepala Sekolah Seluruh Indonesia Berkomitmen... - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMHotN1BveWxSRnRaenJnN0VSQUVneFprOVNXRnloaW5nTTlWRURwcFhvcHJxV05ZSjRueHl6YmtTLUZVN01vVHZJbXFkUFg3dm9PdGROb0R5X2NDcXhET0tJa2o2WEc5dWVha2ZESXN1ZlZDX0RXR2NZaElSNEVaVlNyY3J4NzNQc1Q2cE5qZzNMYkhUdnRUWjVKWXhJWHJsQjVleGVkNW5tNHd6SU5RSjI5WERtT19BUzNLdGNKZFFsUGk5SV8tTEJkX3Jkb19WWWlFUzhSbEJrWnYyNVN3RU8tMFNZUjNxMHlNTDhfejZxV3dDNXJ0QtIB_gFBVV95cUxOQ1hFbHZqbVkzbHhhVlY5akx2VHVJczIyeTNFZ2JNdjZNUFZDU0tFck1TZVZZS2RLWmdnVWk5YlhOSnZjWUJxY1dYZHhxTVlKcE1IMmZBZ01KWVlHVms0Y3hKNVA4dG1yUjRwOHRkM05XSkp2SkQ0elI2VGxNUmtNTTRVR2h2dTgxWWhpWm52akEtVkp5ZkNEX0dLTExTTTAyaEY2cEpiQlFhbW9CblkyTDdMUEhxU0VKZGVzOVhMQThQS2VmbDVnUVVrWlhfai1laTlPeURBaFZ2WTNKanZBaXlrRVNVUlRPXy1VOVBQQ1lSM3FPMlZBZUY0aEZoQQ?oc=5",
+      "d": 1793869013000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
