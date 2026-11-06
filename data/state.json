@@ -27642,29 +27642,13 @@
     "threads:DfahIf-CczN": 1793999439657,
     "threads:DfaiZJ0gSDY": 1793999439657,
     "threads:Dfahl2-jBGh": 1793999439657,
-    "threads:DfahcyJGbLn": 1793999439657
+    "threads:DfahcyJGbLn": 1793999439657,
+    "threads:DY8mbFKGPiJ": 1793999739820,
+    "threads:DHj6GY6zsFh": 1793999739820,
+    "news:CBMibkFVX3lxTE02Y2d4NmZhU0ZKTy11eVB4REpfbV9HdU9uNUUybFZoSzBWVGV0andSQ09KcklOZVhra1NBOExOSDR1VXk4ZGVCTUpMV2FIWllfLVZQQWJnYXlsRmt2MjBOUzlYRkNqRHp6MFZpVGRR": 1793999739820,
+    "news:CBMihwFBVV95cUxNNlBndUlUUDJrR2NmSDlQZ1l2dUtqbzFWeTRpRVNpOGg5UjdXRVZiVEQ1QW1rdmhSUTRiYXNBZ21LZS1zS1JnYUlsVGFiLXZLTnMteDJmMkJweVlyMUREVjVmQlhiQlo1SjFmbVhTRmR1MkJDVER1MURUaTJIXzE3cXU3eWYxM0k": 1793999739820
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yayan_rachmad",
-      "x": "Daripada MBA,Sama KOKOPKOKOPAN. mending kasih fasilitas pelatihan gratis di setiap daerah. Pancing anak2 desa buat upgrade skill. Kirim tenaga2 ahli berkompetensi dg gaji gedhe bua",
-      "u": "https://www.threads.com/@yayan_rachmad/post/DfZoaxUiUra",
-      "d": 1793968926000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@priceactionwarrior",
-      "x": "Trade Insight · GBPUSD H4 · harga naik. Kenapa harga bergerak: Liquidity adalah sebuah proses manipulasi market sebelum terjadi pembalikan arah atau reversal, nah biasanya di tanda",
-      "u": "https://www.threads.com/@priceactionwarrior/post/DfZmxtmib7d",
-      "d": 1793968075000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29144,10 +29128,30 @@
       "d": 1793996999000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pemerintah Provinsi Banten",
+      "x": "Yuk Ikut Bimtek Menulis Gratis! - Pemerintah Provinsi Banten",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02Y2d4NmZhU0ZKTy11eVB4REpfbV9HdU9uNUUybFZoSzBWVGV0andSQ09KcklOZVhra1NBOExOSDR1VXk4ZGVCTUpMV2FIWllfLVZQQWJnYXlsRmt2MjBOUzlYRkNqRHp6MFZpVGRR?oc=5",
+      "d": 1793990831000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Liputan Khusus Dua Tahun Prabowo-Gibran Halaman 14 - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlBndUlUUDJrR2NmSDlQZ1l2dUtqbzFWeTRpRVNpOGg5UjdXRVZiVEQ1QW1rdmhSUTRiYXNBZ21LZS1zS1JnYUlsVGFiLXZLTnMteDJmMkJweVlyMUREVjVmQlhiQlo1SjFmbVhTRmR1MkJDVER1MURUaTJIXzE3cXU3eWYxM0k?oc=5",
+      "d": 1793999671000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
