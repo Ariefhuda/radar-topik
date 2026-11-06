@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DUku628Ev_m": 1792717541219,
-    "threads:De0VinMjkAS": 1792717541219,
-    "threads:De0VVgpEihz": 1792717541219,
-    "news:CBMidkFVX3lxTFBWa1JYX3NxSkJKUE52cWw2UGwtVTVTc3NJWHYwaFpRMHB3RXcxREUyYXNsWlRGa0c1Zl94bHJNV01ERk1GSlQtQVZ6d09IYzg1aDhyaXNWaXUtanYzc0NFMUN1cmt3X24xNUttVEZ0Z3BQcEsyRGc": 1792717541219,
-    "news:CBMi2gFBVV95cUxNb2I0YTF3T3FVUnhJeGIxanRrSHF3eWpmb2tVNnFGME9RRHlHWlIyUXhtS0FRMHBtMWJvU1F0T2puLUlDQm5QNnpnOHplU01tSmdWSUNwSkhNRExrT2s1WHVObktEOUNXMlpueXZEWTlwQ3dwVGM5VFpheEI0UHFzeElIb3lObEswampvdjE2V2htQVAyVF81VG1vcE1aWnFoMVFDMEtGOFIyRDB0QUFuYmVqcUVaRzRIUnFYdS1GVGJINGpFNUpDeUQxTzNaem5hWU9iTW41R3cxUQ": 1792717541219,
     "threads:De0WDqnk2xV": 1792718292615,
     "threads:De0W1QEHKRA": 1792718292615,
     "threads:De0WqNRgQGh": 1792718292615,
@@ -27783,11 +27778,48 @@
     "threads:DerXP_YEyt5": 1793926867291,
     "threads:DfYXN6jHcEN": 1793926867291,
     "threads:DfYXzhzmBIa": 1793926867291,
-    "news:CBMivgFBVV95cUxQcHY4MGpTMHlnZmsxUVRGV2R1TTJDNzdSaDlPZjQ2V2JPZnF6NF9QZkl6cV9nVXlmZURPMHNlVDlvcHROTkMtM3J0YlY3bGhaVE5vWFpxMEZNd0lfa1RzNERiZGMzU1J0Vm9kZnl3dnJjb2JjM0ExX0c0REVFT0d5RWU1bXFXOG5ITDgtSzBtWmVRdHJlY0dFYlZqNXFoakNnajV2Snp3dGJHTGZmbWR4QlZoamFRMjB1M1I2V2pn": 1793926867291
+    "news:CBMivgFBVV95cUxQcHY4MGpTMHlnZmsxUVRGV2R1TTJDNzdSaDlPZjQ2V2JPZnF6NF9QZkl6cV9nVXlmZURPMHNlVDlvcHROTkMtM3J0YlY3bGhaVE5vWFpxMEZNd0lfa1RzNERiZGMzU1J0Vm9kZnl3dnJjb2JjM0ExX0c0REVFT0d5RWU1bXFXOG5ITDgtSzBtWmVRdHJlY0dFYlZqNXFoakNnajV2Snp3dGJHTGZmbWR4QlZoamFRMjB1M1I2V2pn": 1793926867291,
+    "threads:DcIVXr1j9kG": 1793927138808,
+    "threads:DfYWdK1HWrd": 1793927138808,
+    "threads:DfYWYVHgaUA": 1793927138808,
+    "threads:De0SzbQEl17": 1793927138808,
+    "threads:DfXDPSXlHAX": 1793927138808,
+    "news:CBMiywFBVV95cUxQTUNhSktVa2xEZ3RXbnRVcXpJby1Edm1mRTNTX2N1Nl9tWkZ1U1NfVF94eWdGQTd2dlI5bU5SdzYtaTVRVkVhOUw2dzVHMXZsamlfOGoyVlJadXlBZFJFemdub2VwT1RHa3F2QmxMQ0V0T25PR21xWmR5eWFxR1g0YjJCdWZEeVp3czAyVWNobHo5M0ZSTXktMXkxWWRVbjVjaldEOW5DcWJtQ0M0TTQxUmhrQmJHUEVMYnZqelB1ei1PTk9oY0lOMkxkOA": 1793927138808
   },
-  "digest": [],
+  "digest": [
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@beritasatu",
+      "x": "Bansos 2026 Beras 30 Kg Mulai Disalurkan, Cek Cara Mengambilnya https://www.beritasatu.com/ekonomi/3039000/bansos-2026-beras-30-kg-mulai-disalurkan-cek-cara-mengambilnya?utm_source",
+      "u": "https://www.threads.com/@beritasatu/post/DfYWdK1HWrd",
+      "d": 1793926002000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@fanierahmawangi_",
+      "x": "kak mau tanya klo yang di apk cek bansos berapa lama yaa? aku udah 2 minggu gaada kelanjutannya",
+      "u": "https://www.threads.com/@fanierahmawangi_/post/DfYWYVHgaUA",
+      "d": 1793925915000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Pojoksatu",
+      "x": "Kemdiktisaintek Buka Beasiswa Penyelesaian Studi S3 2026, Dosen Kampus Dalam dan Luar Negeri Bisa Daftar - Pojoksatu",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUNhSktVa2xEZ3RXbnRVcXpJby1Edm1mRTNTX2N1Nl9tWkZ1U1NfVF94eWdGQTd2dlI5bU5SdzYtaTVRVkVhOUw2dzVHMXZsamlfOGoyVlJadXlBZFJFemdub2VwT1RHa3F2QmxMQ0V0T25PR21xWmR5eWFxR1g0YjJCdWZEeVp3czAyVWNobHo5M0ZSTXktMXkxWWRVbjVjaldEOW5DcWJtQ0M0TTQxUmhrQmJHUEVMYnZqelB1ei1PTk9oY0lOMkxkOA?oc=5",
+      "d": 1793927058000,
+      "urgent": false,
+      "warn": false
+    }
+  ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
