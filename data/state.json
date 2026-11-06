@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "reddit:t3_1xdoih4": 1792786322428,
-    "news:CBMilAFBVV95cUxPN2k3Wjd1Nnd6ZGFlM2l2d1J4bENJdnBNaVlQLV8tb3lHQXhZcGZXSzZ0Rk01ajVoOEQ4ZWN2WFdNWWtEMVVvcmJzVUJqWEFDd1V3aDZkbzk3cUhCc1JxV3FDOG91aWZCQ25tSHVEcVNtYTVvUFNZRUllRi1sczhGc08wWTQzbHJJUHEzTXM0eUpMTHl3": 1792786322428,
-    "news:CBMi4AFBVV95cUxOZnZuN3kzRmVaQ2Zjc05HMTEyd0lQQzNuSzRCV01faG9aSDAzcGpwLTNPNmxLSkdxZGJnVFdhbF9mbnpTWW9WTWp1TzFmZ2xqY0pCcW9Sck1LMldELU1Za2xNT012OHkweXA3YUlDVk80aFJydHlqRWtqbVNRTHNocExEcWc4RnhZbS1vbDNDajVGT2Rmem5NUWFGZ2lKaWJFMHZtQ05qTndURk5xc2o4a0RqSWpxanhXQnFqR1hfQlEwR29XQXRuZE13a0FUSVlCQjkyMHJrYVJDTWV1bnU4dA": 1792786322428,
     "threads:De2XDN9k8xx": 1792786554922,
     "threads:De2YM7NGggq": 1792786554922,
     "threads:De2JV7BjfUF": 1792786554922,
@@ -27631,19 +27628,15 @@
     "threads:DfaN3lAGT6h": 1793995251866,
     "threads:DcvCnlaEtYz": 1793995251866,
     "news:CBMiwAFBVV95cUxPUHo0XzJBRDZmaVF5R1ViUlJGOUpVZlZnNjFhMnFCOWRDc0VKZ2I3cHEyd01NU1NDYkVNaEVNN2pBRVRRa3ZDQjZXbnVEUjZZbS1lU0RuUG1Bd0xwM0xpQVhLQ0h2cE5wT2EzN3FRQ2E3ZnFOcEpoRU01VU40MExwb2lxRXQ0d3RJYjJpVDBka3ZLaFc1NmlZV2FsRHZLb1RVS3owVzBTdXRlU1RIRzZiek1nTDNka1pzc24zN0JZVC0": 1793995251866,
-    "threads:Dfaa25Skcnr": 1793995535045
+    "threads:Dfaa25Skcnr": 1793995535045,
+    "threads:Dfabh--IF0y": 1793995839000,
+    "threads:DfabTxDCXZs": 1793995839000,
+    "threads:DfabW0loIT_": 1793995839000,
+    "threads:Dfaa-CWCThe": 1793995839000,
+    "news:CBMiYkFVX3lxTE5tYWtRZFdBelJkamdXV2tGNFY4MjFiTERZNi0weXBDa0xua3hTTTFXb29FRkJkSVZReTYtcEtmcnFnOEZJbTZGMTIwU01vdWwwMGxndTZMTXlkME05NmUzNlR3": 1793995839000,
+    "news:CBMitAFBVV95cUxOUTFHVC1tVHhfZ0dQVzl6YURkOEdsLWlzdlFzM2wyb1VzOVd4VFlwNllnTlo5NE9nU0JmYzRTOXF4R2ZHdDJKdlpqM1g1WGp1OHlmVGxoRXhMemVuaUxiY3czdjlqNzdfVlRJeVF5eVNVWWlvbkx2T2VvdXEtYnRSOUZtVDU2Z0FNZXlWd2h5MjNsTEVuQkhjREpTbmppUjNmeXhoV2lYWC1yWGlBUmlhZHpzWXc": 1793995839000
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "news.fin.co.id",
-      "x": "Mahasiswi S3 UI Penerima Beasiswa LPDP Ditemukan Tewas di Kos Depok, Ini Kronologinya - news.fin.co.id",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUGhVYVpORmxxQkJObDBVdW1ZbDlvQmg4eURSLVlwS2tYZDVBRUtpb3YxbHNlQTJDamdoOWlLREhKTjZFSjFwNDVnQ2JULTNOYUZJc25nVnFHMTFfbnl6Y2FzTjhZYmZYRDY4V0lma0h0OUpSUE1KMWx5TW54eXJZd2dHZl83VF85QnVVd09DOU5tOXg3ckdCbkc5SnJMNDZvSzVSYzVpd19PdlhsYTRUZVNKcmZwd1E5WXdBcUdqZw?oc=5",
-      "d": 1793958122000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29133,10 +29126,20 @@
       "d": 1793995371000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat.co",
+      "x": "Cara Cek Desil Bansos Pakai NIK KTP, Ketahui Status dan Peluang Penerimaannya - Akurat.co",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTFHVC1tVHhfZ0dQVzl6YURkOEdsLWlzdlFzM2wyb1VzOVd4VFlwNllnTlo5NE9nU0JmYzRTOXF4R2ZHdDJKdlpqM1g1WGp1OHlmVGxoRXhMemVuaUxiY3czdjlqNzdfVlRJeVF5eVNVWWlvbkx2T2VvdXEtYnRSOUZtVDU2Z0FNZXlWd2h5MjNsTEVuQkhjREpTbmppUjNmeXhoV2lYWC1yWGlBUmlhZHpzWXc?oc=5",
+      "d": 1793945100000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
