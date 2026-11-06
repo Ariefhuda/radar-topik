@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DezAMpFjxSf": 1792797639466,
-    "threads:DbNqEeiAkXc": 1792797639466,
-    "threads:DaCLnEmga0L": 1792797639466,
-    "threads:DeypBnxkjwL": 1792797639466,
-    "threads:De1wuV5j49m": 1792797639466,
-    "threads:De2r9Rcjy6w": 1792797639466,
     "news:CBMisgFBVV95cUxOTE9zTWtURm82TmFFWlNlNFRsTmQ1NE13elFlRjlzVlI5MldWVkZCQy1wUVNlcFk1dTZyNDF5Y0dVTjFaS25IZHFYMHlHN0VoV05IeWo2TFJVMTBlSzRDOHBONkxhNm02d210UUx0V05Ud1ExelZISU5oUFl4T0hDRUQzRXc2TDR4V29JdlE2UVZwVlJDeFg0MWd3bldOVU9sWmNzNFNvci1zaXFxMDRfcGtn0gG3AUFVX3lxTE85blRNdXhJcWY5WnhVeEtXZjZRZjZ1X2hlbEF5NVJiNXNFQ3NULW5sWEZ2dGNNWXVmTkhMMDlhT2I2SG01LTBwbkxkUXJieXpqcWRMbE9CV0JTRjQtY09fWUNfYjBSZktvM0VzX0ZCWVh2c0NYYUxTLTZrWk1MbHBQQUhQRFBUZmwyM1Q0UEp1S0lYNXdsTW9Xa3JUVEFqRUtFTTVRRmxodG5xbW1FYmFsdkxxQzRlYw": 1792797939187,
     "threads:De2v3UICY9J": 1792798758788,
     "threads:De2oJlFj2eX": 1792798758788,
@@ -27675,39 +27669,12 @@
     "threads:DfaweeMGf3Y": 1794006961272,
     "threads:De1uEFiFFuF": 1794006961272,
     "threads:DfawUgyH7aw": 1794006961272,
-    "threads:DdkgdQwGBYH": 1794006961272
+    "threads:DdkgdQwGBYH": 1794006961272,
+    "threads:DfaxC3NAbvw": 1794007239237,
+    "threads:DfaxBUVgQp5": 1794007239237,
+    "threads:Dfaw-tZgUXc": 1794007239237
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@suaraasmara",
-      "x": "besst! Cuma gue atau semua orang keluarga emang gak pernah ngaku kalau lagi capek sama keuangan orang tua? Kemarin gue lihat tante gue di minimarket lagi ngomel sendiri soal tagiha",
-      "u": "https://www.threads.com/@suaraasmara/post/DfZsnznk3xJ",
-      "d": 1793971136000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@shinta_chningrum",
-      "x": "Aku mau masuk lewat IKD di aplikasi cek bansos kq ga bisa ya kak?",
-      "u": "https://www.threads.com/@shinta_chningrum/post/DfZray7mvYq",
-      "d": 1793970499000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@anget.media",
-      "x": "Cek NIK di DTSEN Kemensos lagi viral dan bikin amarah warganet meledak. Banyak pekerja gaji pas-pasan kaget NIK-nya dicap Desil 6 sampai 10 alias dianggap mampu. Akibatnya BPJS PBI",
-      "u": "https://www.threads.com/@anget.media/post/DfZq1WBBzOA",
-      "d": 1793970218000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29177,10 +29144,40 @@
       "d": 1794006624000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mikhailarizky",
+      "x": "Di aplikasi Cek Bansos kak di play store",
+      "u": "https://www.threads.com/@mikhailarizky/post/DfaxC3NAbvw",
+      "d": 1794007004000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mikhailarizky",
+      "x": "Di aplikasi Cek Bansos kak di play store",
+      "u": "https://www.threads.com/@mikhailarizky/post/DfaxBUVgQp5",
+      "d": 1794006991000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mikhailarizky",
+      "x": "Diaplikasi Cek Bansos kak ubah mandiri aja",
+      "u": "https://www.threads.com/@mikhailarizky/post/Dfaw-tZgUXc",
+      "d": 1794006970000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
