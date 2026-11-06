@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dcdt1zzD_7z": 1792776428422,
-    "news:CBMiqwFBVV95cUxOc1Fwb2VYRENGb2c5NEhoRUtITWJQdHdCVHowQzg3T2RpeVVkVGlRSlg4VnhodUdYa3RoRHdRbnBndmhPSzZUS1JxRDM4dVNpYk1YTkc2bmRXUGlwWWkwWGJ1U2ZDdHl1NUVLQ2hZRllOOU4wSS13ZGxkWGptQlhXdzlnd2VYZzh0aDdEV1RVb0U4Ui1MRlRVMTRZOG9WMnJNWlM5Y0pOakFwNzjSAbABQVVfeXFMT3F5ZnRibHNqLW9CcWJyY09KWTJRU1lEVVlvbnpDdlVNcUJTM0tsZlpDcTZTZG5sMUpxN0xTVHBwdkoweXhtdGdmMHB6ckRDQmw5MWpQT3FsbVdmMkFGTmJhVVBYaFAtYXRTQ2UzVWQtZVVEazZ6d0FkdjdpdTEzUGtmb2RxOFBxSnVHalVXUmRWcWVsU2JZOUM3WFN0VWJfYVM0bWhsX2c0SmxjVkxrYnM": 1792776428422,
-    "news:CBMiwwFBVV95cUxNMjN3WlNudVg4SElaNW9FaUVBUUdHZVBsOHVNNEZLUV9jdFNWaW1VTERWOFpqdVlQak44Rk11SWp6REl2b0NCNXYxTjY0eDZxUk9BS0p2U29RYzMwSVdaajlGNHRPMWktR2YxTU5qVi16ZXVVdTBzZGpDeEdzdm9rWEhhclZWTEpBMkd1NXdDN3lkSG84WWEwc1NBbzNhdHo1Zjl6NVUzRndCQ0k1TjZOTDFKclRxZXhDMGJjeVZEdUo5dUU": 1792776428422,
-    "news:CBMi1AFBVV95cUxPdnhJZlJabkZHbFhIanJaTUNKOUxNczVDazlsRnk4OElOeDhxN09DTkgyUVpBQURoRlBRWmhFWDBab0FZVmNhTVQ3MTdHV2hwZzJac2hLMGJlZHRSUG9CRXBmY0EzVFA0Ym1VN04wc183LWhHZTItUm1peW1tWTFzRGVJTkh3TllKZzBfbGF6cmJpZ29MTl8wV0R6S2FkLVItZFBsdTREWjY3UzJrNkNmNV90bUQtYTBSUV93dnZPUTV0RExlekNWMlJnRU81eFFoQ0FOZNIB2gFBVV95cUxOWHQtT2xrV0Y5ck9UVng2allXQlUzQTdwQXQ2WFBjZkxVWU11aHNicklmUFI4ejg2YnBlUnE3Mlp0VnRpVHl5VmVoSlpPOWNjMlp3RzRaRHlxUnZVUGs3RTlQMmdrTlZBSlhBbUk1WHJnX0hHM2VkODRmZmtYOE9Jc0k5SGJqR25Dc2k0U0ctUU1EcXlyMXBiQjVURG9zLW1vRGNtTThwMlBLZE1NcmpJY0kwMnhabE1mRnRRWUIzOWFnWjRZMi1sYzl6VUVMSWVKYWhOcG5tOWlYQQ": 1792776428422,
     "threads:De2Ggo0k06V": 1792776844470,
     "threads:De2FkfIEtBj": 1792776844470,
     "threads:De2GouSFuka": 1792776844470,
@@ -27572,7 +27568,21 @@
     "threads:DfaILFKG3-w": 1793985702247,
     "threads:DfaIJ4zD4Vf": 1793985702247,
     "news:CBMitgFBVV95cUxNNTFHSEgxVlFXeW9KRU5MbDB1d3hEQndZcFNzd0dQblY4MktPVVFYendPYkRxV25kVndhbUhUMTBUMWpBRUhaeVM0UXQwVTlMdE82WXA1WWNBTW9tR1VCcUlBb1BLZlVOTER2QnNnNmpPM1FRS1hjVDFhZ2ZXS3dXUkQ3dUprcVZKaGtMREttWVUxMHZyaVBSUmdXVmdmNDQ5S0tkTmd5WDVjeHJTZ2xuYzVTcGFnZw": 1793985702247,
-    "news:CBMiowFBVV95cUxNa2JHeG5PNFNERzllWEtxVkVUNllsUzc4dDlhUW15QjRkd2ZqeUpQc2Y2eXc2d1JsczRWTXNZek9RdmZ6UUx6Q21BOU1CRzBqVzZ4VDduaklMV1ViRlJxYzFkT3AxaE9ibXY3bU13T1V2RFh3ZkV2RzF6QjU0cVR6akpYWTRvTzJ0REtoTHROQ3NxazdEMjExdWZrczdTb3pDZWtR": 1793985702247
+    "news:CBMiowFBVV95cUxNa2JHeG5PNFNERzllWEtxVkVUNllsUzc4dDlhUW15QjRkd2ZqeUpQc2Y2eXc2d1JsczRWTXNZek9RdmZ6UUx6Q21BOU1CRzBqVzZ4VDduaklMV1ViRlJxYzFkT3AxaE9ibXY3bU13T1V2RFh3ZkV2RzF6QjU0cVR6akpYWTRvTzJ0REtoTHROQ3NxazdEMjExdWZrczdTb3pDZWtR": 1793985702247,
+    "threads:DfaH5BYGwWD": 1793985939471,
+    "threads:DfaH45SG39a": 1793985939471,
+    "threads:DfaHOjyiSYs": 1793985939471,
+    "threads:DfaHKUplGgQ": 1793985939471,
+    "threads:DfaGmrXCKqc": 1793985939471,
+    "threads:DfaIleLiX2F": 1793985939471,
+    "threads:DfaIg7NAp_S": 1793985939471,
+    "threads:DfZqYXdjlPL": 1793985939471,
+    "threads:DfaG1KRgYOK": 1793985939471,
+    "threads:De0bUP5kooz": 1793985939471,
+    "threads:DdkmYD8IOxp": 1793985939471,
+    "news:CBMieEFVX3lxTE4tUHd4dXNGUkVGQTJpal9uY0o0VGc1SDFEVXFILU82Ml9KaDdfeGVoRXRLak9Zbkx0cjhJYWl3ckVIelNueEdCaHNaMkFSOWVjY3RsblRTR2xvNE1URWgxQlRSa0txc0NtbDFEQVhYaTNYVS1pcVVvdw": 1793985939471,
+    "news:CBMiuAFBVV95cUxNVHpWX0RmWEdTeWlaNEppajRORW1saWpiTVFBaDlNUmNMRnFBV0JyUG1IQkR4RkRjR2VHTmMwSGhZZTZmbmhLcXd0bWg3N3doNDJkRVB4OHFocW5ILVhfMU9vaU5CY0x0aFExVHBTdDZIdkZNaS1TOTkyMlh6MHptZjc5Q2ZZMm12LTg1ZlNIVzZLNXhjNl9UY0FKMjlBT1JldjctMVY0dXVhR09BRF9IUFlLV0E3NjFG0gG4AUFVX3lxTE1UelZfRGZYR1N5aVo0SmlqNE5FbWxpamJNUUFoOU1SY0xGcUFXQnJQbUhCRHhGRGNHZUdOYzBIaFllNmZuaEtxd3RtaDc3d2g0MmRFUHg4cWhxbkgtWF8xT29pTkJjTHRoUTFUcFN0Nkh2Rk1pLVM5OTIyWHowem1mNzlDZlkybXYtODVmU0hXNks1eGM2X1RjQUoyOUFPUmV2Ny0xVjR1dWFHT0FEX0hQWUtXQTc2MUY": 1793985939471,
+    "news:CBMinwFBVV95cUxPMkxWU0tSSXRCWnRNZndBWjViNndhaVZsblktT1ZrU0dBQjQ4Mk0xUzFURTdSY08xUVdRU0FWemdEODlxTVp4bmdsVWRjeVpwYkkwa29ObUJ4Tld6V2pBb3JBcUxvbU1Tbk5DY1Z0M3g5SDI3MG85ZGZnSTJ5bEhCa3FGZUthemY3encteXlwNzBneVhFbmp4amRWTWtqQmc": 1793985939471
   },
   "digest": [
     {
@@ -28924,10 +28934,50 @@
       "d": 1793979354000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Fungsinya buat bantu korban penipuan digital — korelasi data kayak no HP, rekening, jejak digital buat lacak pelaku, buktiin transaksi, dan jaga bukti biar bisa dibawa ke polisi. B",
+      "u": "https://www.threads.com/@meta.ai/post/DfaIg7NAp_S",
+      "d": 1793985754000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@pixelstudio.mjk",
+      "x": "Saatnya kembangkan kreativitas dan kemampuanmu di dunia YouTube! ✨ Belajar lebih fokus dengan sistem 1 Peserta, 1 Mentor melalui kelas online maupun offline. Info kelas & konsultas",
+      "u": "https://www.threads.com/@pixelstudio.mjk/post/DfZqYXdjlPL",
+      "d": 1793970257000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yudho.brighton",
+      "x": "*BAYANGIN KALAU TAHUN INI JADI AWAL PERJALANAN SUKSESMU! * ✨ Dari belajar bisnis, memperluas koneksi, sampai membuka peluang penghasilan dari industri properti. Semua bisa dimulai ",
+      "u": "https://www.threads.com/@yudho.brighton/post/DfaG1KRgYOK",
+      "d": 1793984871000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "kayonews.co.id",
+      "x": "Jadwal Pencairan PKH Tahap 4 Tahun 2026, Anak SD hingga Lansia Dapat Berapa? - kayonews.co.id",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkxWU0tSSXRCWnRNZndBWjViNndhaVZsblktT1ZrU0dBQjQ4Mk0xUzFURTdSY08xUVdRU0FWemdEODlxTVp4bmdsVWRjeVpwYkkwa29ObUJ4Tld6V2pBb3JBcUxvbU1Tbk5DY1Z0M3g5SDI3MG85ZGZnSTJ5bEhCa3FGZUthemY3encteXlwNzBneVhFbmp4amRWTWtqQmc?oc=5",
+      "d": 1793984700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
