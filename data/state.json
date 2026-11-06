@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De1_6cfEiJM": 1792773649247,
-    "news:CBMiyAFBVV95cUxQWDZsdDdURDZNdUFSM0hZNjdzM0JlNHFnWG90b1prNUpnRmQxWUF1aFRoeWdQdkZ5R2luNXEtOGZpdW9SdFpyVEc4bUFhX19QQWJRUDQ2QU5KaElOOGhjWVgyVFpsMHFySDg5TnM4VHY3YWxMUHpNdGFNRW9FX2x0eTdiX1BxaG8tc2pkbVE3UURBMlY3TVNnbDBGc3U1ZGFRdzlQU3hJRFJoR1ZuZW0zS25zUVdDaDY5eDhyYUtGQTlwaXR2RjlrdNIByAFBVV95cUxQWDZsdDdURDZNdUFSM0hZNjdzM0JlNHFnWG90b1prNUpnRmQxWUF1aFRoeWdQdkZ5R2luNXEtOGZpdW9SdFpyVEc4bUFhX19QQWJRUDQ2QU5KaElOOGhjWVgyVFpsMHFySDg5TnM4VHY3YWxMUHpNdGFNRW9FX2x0eTdiX1BxaG8tc2pkbVE3UURBMlY3TVNnbDBGc3U1ZGFRdzlQU3hJRFJoR1ZuZW0zS25zUVdDaDY5eDhyYUtGQTlwaXR2RjlrdA": 1792773649247,
     "threads:De2BGNojHqz": 1792773977638,
     "threads:De2AcJ5AXL_": 1792773977638,
     "threads:De2AXk8EQNh": 1792773977638,
@@ -27548,7 +27546,12 @@
     "threads:DUUox0aCSC0": 1793982937047,
     "threads:DfaBRXSEswP": 1793982937047,
     "threads:DfaBI1TEjZ_": 1793982937047,
-    "threads:DfZk-6QlM0a": 1793982937047
+    "threads:DfZk-6QlM0a": 1793982937047,
+    "threads:Dc3h6zric4X": 1793983239873,
+    "threads:DfTz0FSku9i": 1793983239873,
+    "threads:DfaDG5jCWwC": 1793983239873,
+    "threads:DfaCsjomSKR": 1793983239873,
+    "threads:DfaDFxEicO7": 1793983239873
   },
   "digest": [
     {
@@ -28780,10 +28783,40 @@
       "d": 1793967125000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "cara cek 1 menit: buka cekbansos.kemensos.go.id → pilih provinsi, kab/kota, kecamatan, desa → ketik nama persis kayak di KTP → isi captcha → cari data. bisa juga lewat aplikasi Cek",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfaDG5jCWwC",
+      "d": 1793982926000,
+      "urgent": false,
+      "warn": true
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@iguana.54477488",
+      "x": "Assalamualaikum, cek Nama bapak/ibu siapa tau terdaftar bansos PKH Dan BLT BURUH,GURU HONORER,PNS,P3K,DAN PPPK yang cair di seluruh Indonesia Program PRESIDEN DAN KEMENSOS Cara daf",
+      "u": "https://www.threads.com/@iguana.54477488/post/DfaCsjomSKR",
+      "d": 1793982704000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "siapa yg dapet? sejak pakai DTSEN, PKH & BPNT reguler fokus ke desil 1–4. kata kabar24 (bisnis), desil 5 udh ga dapet BPNT, tp msh mungkin dapet PBI JK atau bantuan daerah, tergant",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfaDFxEicO7",
+      "d": 1793982915000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
