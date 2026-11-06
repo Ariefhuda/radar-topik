@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De01BpVDy1c": 1792734065084,
-    "news:CBMipAFBVV95cUxNN2E2dTdzbHU2eW1uUTdkX2lRUk1saWpJZGtxVXFPcUdSbms0WnloOERrTXc4VVh0V2ZWQkRQSlpQRzNmNDFWcTd2YVVSeHlJbmFFMVlNV1MtVlRKV1BuMGVmcE85X0pfQXkxR1E0RmNzTlpmU2toOXlUMzlzb05FYWVsekI2ZngtWHJrYXR1dmgtY1JqdXVLT3JWMjZZWFhHTlNSQg": 1792734065084,
-    "news:CBMiwwFBVV95cUxPTnFlc1poVk03YzlOck9lS3JOT3l1Nkx4NGEtamEyWWpNSmw4TldyT1RLdFE1U1h3aHQ5YkFxdFJGZFFEejh0UlhYbk9kSFRQMmVHcE5fUFpnaVhYTzhaMGlzVUhkVUdVWEVDZjlwSFJPcl9wOVpoNjc2MHZVNC1KLUtSU1lfY1FhUGJ2N2JHal9ESFRla1E2NngtTXBDRHpfeEVSMkdXVGMtUVM2bWNFWHZvZGlXUThMb0sydHBNWC1WXzjSAcgBQVVfeXFMT2NQMHRhWmFxZlRiWU5vNHlBWE4ySmRhNUIwMXM0MzZKUk9PWkJBa2lmTzFxWnVQZmxFcTJobk9rRU9fVTJqb0FCOGdVcWY2QTBrdGdtdWJfUVJHMDdxNHJZRmRMakI1OTZNV2laMXNYSmRBd0tWNWlUaFZMSnlqa0paUzVpZWRZX1h3cFk3WHc4MGxPa2VpdVcybzlTMktkNkJyLUl5dW5uT2dzVXRtUVFZOVJRRmp5ZFMwQnhFd2dCeldTcTBUc18": 1792734065084,
     "threads:De01cOYj-ui": 1792734340391,
     "threads:De01ZvhkbSl": 1792734340391,
     "threads:De01MiwoJeR": 1792734340391,
@@ -27723,39 +27720,24 @@
     "threads:DfY2VKOGobA": 1793943337806,
     "threads:DfY1_kjCZGH": 1793943337806,
     "news:CBMi9wFBVV95cUxNVXI5MTdwUXhiQkNfQ2EwNVlrUENtdVlzUzNJZW9mWGVuQjhQOWVaTGZ1Y3B2VHlobUl3eHI1TkFjQ0N4bjRrSzZyTTRxdThXUnpwQ0hHbVFoeDQtLS1LQWpIQ19pU2lfYlNqNjUxWEI5RW1laUtjSFJDWFNuS0hoYlVDQU9jdkVMaGh6WFJRN3BMbldqZ2pSYlE3SXVQSXk4ZVQ2WHhDZ3JYQ3RBcnVRQmZTRkE1eUZVbjhaWXNkMGZteE9DVWpPOUlMU3B0SmtELU95djVxX0tqemRZcThjZTdpUDFzVU9oY2pVcE1iSjQ3bUZDWGxv": 1793943337806,
-    "news:CBMi5gFBVV95cUxOc0JSNUZfeWd0aHBWYUFjRFJtRzRCLTRCd2hFSkZROUpaeFQtSEo1bjZUTzNOdUd6TFpKWmhRWm9SNlN5Qlh1YUY4Ri1zSDIweF9Ib2FHWWhuclFhSVZhcVM5VGt1LVpacC1teC15MVJiWmQxaVh6LUVUalFHY1NlOGpRX012OFk4NVZ2UjA4dkQtUmoxZHBWSlZGZklWWFVob0Rsd0ZFM21BLUZwcUhLMm1menBfM3R2UXlTX2JsVkJDQnJzSjhxR2hfYTZzSXIzS2k2bHVLUDNlRmlLMXV5aGdKSEJIQdIByAFBVV95cUxPS0hCMkhRLVJlSnh5VFBJUThRV25yTnRuZWc5Nkk3VEpZV0xvQktwT1RTRmFRaUVHWkwwNXluSy1lc09pRkRoMlFNNG94bGJDX3NWbktVOWtQRUQyRDRJbjZRVGNiWjdDTGQ4OEprbVFmT19UNVN2dlV4V2w2a09KX1c5NmNZc1hwalhXZWh6T0Zub2gwMFVaR2szQ24zV1JEbFJDaGU2X0F1NjNoaHRLdUFjaGhtMjNIUzRkWTJSX0EwT180OHpKbg": 1793943337806
+    "news:CBMi5gFBVV95cUxOc0JSNUZfeWd0aHBWYUFjRFJtRzRCLTRCd2hFSkZROUpaeFQtSEo1bjZUTzNOdUd6TFpKWmhRWm9SNlN5Qlh1YUY4Ri1zSDIweF9Ib2FHWWhuclFhSVZhcVM5VGt1LVpacC1teC15MVJiWmQxaVh6LUVUalFHY1NlOGpRX012OFk4NVZ2UjA4dkQtUmoxZHBWSlZGZklWWFVob0Rsd0ZFM21BLUZwcUhLMm1menBfM3R2UXlTX2JsVkJDQnJzSjhxR2hfYTZzSXIzS2k2bHVLUDNlRmlLMXV5aGdKSEJIQdIByAFBVV95cUxPS0hCMkhRLVJlSnh5VFBJUThRV25yTnRuZWc5Nkk3VEpZV0xvQktwT1RTRmFRaUVHWkwwNXluSy1lc09pRkRoMlFNNG94bGJDX3NWbktVOWtQRUQyRDRJbjZRVGNiWjdDTGQ4OEprbVFmT19UNVN2dlV4V2w2a09KX1c5NmNZc1hwalhXZWh6T0Zub2gwMFVaR2szQ24zV1JEbFJDaGU2X0F1NjNoaHRLdUFjaGhtMjNIUzRkWTJSX0EwT180OHpKbg": 1793943337806,
+    "threads:DfY1299k9KI": 1793943654240,
+    "threads:DfY4Dm4I6E-": 1793943654240,
+    "threads:DfY4SQMl7Hz": 1793943654240,
+    "threads:DfY4AQAFB9A": 1793943654240,
+    "threads:DfY32aQlpcN": 1793943654240,
+    "threads:DfY3jHeD_1h": 1793943654240,
+    "threads:DfY3FWIAUnz": 1793943654240,
+    "threads:DfY2je2iM_6": 1793943654240,
+    "threads:DfY2NxqkwoS": 1793943654240,
+    "threads:DfY2Nn1m8cm": 1793943654240,
+    "threads:DfYLgTBILvM": 1793943654240,
+    "news:CBMiowFBVV95cUxNOGlnS1E3U1owbXlkMXpPdnFJa3ZfSk9lUFJNZ3FYSEhWREE4S1N6WmMtUnpQaVdPdk1uWi1IRGdNQnNpUXpIeENCM09fTG1mWUNVN2g3SmtXa0pIcTJqYXFDUUVNMlVFY2s5VzFpZV9CRFFMYXFsVXBSNUVqNnJHc2NfWGNFcTFBazdIbUI2TXVhRnlPajZmR0x3WUZSMmd3M0hr": 1793943654240,
+    "news:CBMitAFBVV95cUxPYkY4ZmRpVTJTbFdfSzNvU2ZqeGZwNGc5VTdPZVB2bkxXbFc1VUJwYkpuaUlzem16ZDNHTlBhZ3hFSXphMS1IOEM3MlBZekRhYzFoNEZPR2FWNzZhMWpDM0hMUlo2QjJuMmc2N3ZDeFc4eVBBUEpaemkzWThQMjNQOWE0OWtqeEJaXzV4Q2hCMmJwOVpTSGo3X3ZMdGo3Y3NyUFJSNS03Wnk0M3NINUVEVk9HSXPSAbQBQVVfeXFMT2JGOGZkaVUyU2xXX0szb1NmanhmcDRnOVU3T2VQdm5MV2xXNVVCcGJKbmlJc3ptemQzR05QYWd4RUl6YTEtSDhDNzJQWXpEYWMxaDRGT0dhVjc2YTFqQzNITFJaNkIybjJnNjd2Q3hXOHlQQVBKWnppM1k4UDIzUDlhNDlranhCWl81eENoQjJicDlaU0hqN192THRqN2NzclBSUjUtN1p5NDNzSDVFRFZPR0lz": 1793943654240,
+    "news:CBMiqAFBVV95cUxPRm9ZVFpBcjBkVldGOWtkeW9nNy1qb0o2YU5MR21scXpvTlRVNktVU0dYZmlVRnZlYWtYeDFZSmRGSU0yOXNTaWVuLW1fWFVXczZVTHR3OEVnRkVFT1JBbTY0aGoyck9Eajd6aGlhbUhJNXM4UmtMamJid3QzYk5BRW9YbmU2Zi1qZ05udGtkZG9KQ1NlRjVCckt0WFpDZTlGeUhwbENtRnA": 1793943654240,
+    "news:CBMiWEFVX3lxTE5hcU9nTndib3pCcHlhVkxteFprZklYVjcxbDBzYWZ3RXVBWWlIUGhGajlsVmJVWGdOYkpyQ3dCbW54cjlYMUs2VXRaNktieEw0QkdQdHhUSm8": 1793943654240
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Baca Koran Linggau Pos",
-      "x": "SMPN4LubukLinggauTindakLanjutiProgramPemkotBagikanSeragamGratisuntuk190Siswa - https://linggaupos.bacakoran.co/ - Baca Koran Linggau Pos",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0plRGdyLUhNVTBrNzB3NDF4OHFHbmQxY3B4NVIyYmR3UUVIQ2ZjU0ZVcnEzS3ZFVlNtUWowYXNyNjhvX3Y4X180OVE3OVk3ejZTMENoOXBxNUpXQTgzM2ZCS3REdUlPMmM0UDZPWGVoSVpiSkFWY21yRGswaWFSSEwwVlVQbS1ublM0cS1XcS1BSHZlajdxUExRVF9WbVZ5UmdMNnRNSzhZTDN5alk0UkktWmtaSWR4bFJqVk8zZkRwVVdMc0dSa2o4VXfSAcsBQVVfeXFMUHIxUjl6NktmeUVSNjM3bnVxWTFRVzdRVTRsX1hUYlJyWFY2bVFFSkF5bTB0NFJUNnJkbVQxdXFvOHlLdnZzU3VCX1k5S2RhUnlmSGFoRjJIZVlVbTNrdnluUFhEWlFweFRfcUViOC04emVCZWstZFZjX3BqdGk3WDN3SGpFNVhZaXM2aWFVcGVTU0JPYUVnUHVUcFo3X05SeHdlQ2g2ZXNwRllDMTFoVVFQUk1DTjVTX01UVU5CclRBYVc0TjVEUm9SbFE?oc=5",
-      "d": 1793889540000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@guidofamula",
-      "x": "Berkat salah satu program beliau, bagi\" sertifikat gratis, benar\" meringankan kami, gak kebayang kalau urus sendiri bisa habis berapa duit.",
-      "u": "https://www.threads.com/@guidofamula/post/DfYmfW8k4wK",
-      "d": 1793934361000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@wigiwigel.foundation",
-      "x": "Wigiwigel Foundation sedang mencari mahasiswa yang tertarik pada isu sosial dan berkomitmen untuk berkontribusi kepada masyarakat. Yuk daftar sekarang! 🗓️ *Pendaftaran: 5-20 Novem",
-      "u": "https://www.threads.com/@wigiwigel.foundation/post/DfYmBAjGXtm",
-      "d": 1793934112000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29225,10 +29207,40 @@
       "d": 1793873400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Koran Jakarta ®",
+      "x": "Paduan Shibori & Batik Betawi di Fashion Show DKI, DWP Jakpus Tampil Memukau - Koran Jakarta ®",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkY4ZmRpVTJTbFdfSzNvU2ZqeGZwNGc5VTdPZVB2bkxXbFc1VUJwYkpuaUlzem16ZDNHTlBhZ3hFSXphMS1IOEM3MlBZekRhYzFoNEZPR2FWNzZhMWpDM0hMUlo2QjJuMmc2N3ZDeFc4eVBBUEpaemkzWThQMjNQOWE0OWtqeEJaXzV4Q2hCMmJwOVpTSGo3X3ZMdGo3Y3NyUFJSNS03Wnk0M3NINUVEVk9HSXPSAbQBQVVfeXFMT2JGOGZkaVUyU2xXX0szb1NmanhmcDRnOVU3T2VQdm5MV2xXNVVCcGJKbmlJc3ptemQzR05QYWd4RUl6YTEtSDhDNzJQWXpEYWMxaDRGT0dhVjc2YTFqQzNITFJaNkIybjJnNjd2Q3hXOHlQQVBKWnppM1k4UDIzUDlhNDlranhCWl81eENoQjJicDlaU0hqN192THRqN2NzclBSUjUtN1p5NDNzSDVFRFZPR0lz?oc=5",
+      "d": 1793875620000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Berita jejaring",
+      "x": "Update Bansos PKH dan BPNT Tahap 4 2026: Proses Pencairan dan Syarat Penerima - Berita jejaring",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRm9ZVFpBcjBkVldGOWtkeW9nNy1qb0o2YU5MR21scXpvTlRVNktVU0dYZmlVRnZlYWtYeDFZSmRGSU0yOXNTaWVuLW1fWFVXczZVTHR3OEVnRkVFT1JBbTY0aGoyck9Eajd6aGlhbUhJNXM4UmtMamJid3QzYk5BRW9YbmU2Zi1qZ05udGtkZG9KQ1NlRjVCckt0WFpDZTlGeUhwbENtRnA?oc=5",
+      "d": 1793943448000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Limapagi",
+      "x": "Cek PKH November 2026 dan Jadwal Pencairan Tahap 4 - Limapagi",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hcU9nTndib3pCcHlhVkxteFprZklYVjcxbDBzYWZ3RXVBWWlIUGhGajlsVmJVWGdOYkpyQ3dCbW54cjlYMUs2VXRaNktieEw0QkdQdHhUSm8?oc=5",
+      "d": 1793942225000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
