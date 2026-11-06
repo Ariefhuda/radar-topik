@@ -27630,19 +27630,10 @@
     "threads:DfaZZLKjU3O": 1793995251866,
     "threads:DfaN3lAGT6h": 1793995251866,
     "threads:DcvCnlaEtYz": 1793995251866,
-    "news:CBMiwAFBVV95cUxPUHo0XzJBRDZmaVF5R1ViUlJGOUpVZlZnNjFhMnFCOWRDc0VKZ2I3cHEyd01NU1NDYkVNaEVNN2pBRVRRa3ZDQjZXbnVEUjZZbS1lU0RuUG1Bd0xwM0xpQVhLQ0h2cE5wT2EzN3FRQ2E3ZnFOcEpoRU01VU40MExwb2lxRXQ0d3RJYjJpVDBka3ZLaFc1NmlZV2FsRHZLb1RVS3owVzBTdXRlU1RIRzZiek1nTDNka1pzc24zN0JZVC0": 1793995251866
+    "news:CBMiwAFBVV95cUxPUHo0XzJBRDZmaVF5R1ViUlJGOUpVZlZnNjFhMnFCOWRDc0VKZ2I3cHEyd01NU1NDYkVNaEVNN2pBRVRRa3ZDQjZXbnVEUjZZbS1lU0RuUG1Bd0xwM0xpQVhLQ0h2cE5wT2EzN3FRQ2E3ZnFOcEpoRU01VU40MExwb2lxRXQ0d3RJYjJpVDBka3ZLaFc1NmlZV2FsRHZLb1RVS3owVzBTdXRlU1RIRzZiek1nTDNka1pzc24zN0JZVC0": 1793995251866,
+    "threads:Dfaa25Skcnr": 1793995535045
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@jarecah",
-      "x": "cah! Gue kira kuliah itu harus cuci tangan sendiri terus, tapi tiap malam pas males ngerjain tugas langsung HP gue nyala 'cek bansos'. Ternyata emang banjir program pemerintah buat",
-      "u": "https://www.threads.com/@jarecah/post/DfZj9apEztQ",
-      "d": 1793966595000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29132,10 +29123,20 @@
       "d": 1793973442000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@poya_mothig_poya_hoho",
+      "x": "Aku penerima UC. Suamiku kerja full time, anak 1 under 16. Aku kerja lepasan. Krn suami kerja fulltime, aku ga dikejar-kejar suruh kerja. Bansos lainnya adalah, bisa daftar adult e",
+      "u": "https://www.threads.com/@poya_mothig_poya_hoho/post/Dfaa25Skcnr",
+      "d": 1793995371000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
