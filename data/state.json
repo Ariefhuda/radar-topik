@@ -27618,19 +27618,19 @@
     "threads:DH9l5hyzt_2": 1793993739620,
     "threads:DfaWv3GDFb5": 1793993739620,
     "threads:DfaXROsn8Jo": 1793993739620,
-    "threads:Ddq5zDcCYE3": 1793994038122
+    "threads:Ddq5zDcCYE3": 1793994038122,
+    "threads:DerGqi7lLTM": 1793994343013,
+    "threads:DfaTGKkk0xc": 1793994343013,
+    "threads:DfaY6iiEy7Y": 1793994343013,
+    "threads:DfaYiIqlsMN": 1793994343013,
+    "threads:DfaYgLFGVAc": 1793994343013,
+    "threads:DfaYO3JlPX_": 1793994343013,
+    "threads:DfaYJilH0EI": 1793994343013,
+    "threads:DfaX5eSm0_l": 1793994343013,
+    "threads:Dd8NJz7Dxl9": 1793994343013,
+    "news:CBMi2wFBVV95cUxOV2ZuVW9rdGhIdjJVUDJZNEdEX0ZiUWxBLVpuLUx2dURUdEthcmpYTlo4LXUtWVFhNlVVbDRCYkJnSzlIQzRtVmxKMS0tejNldUxVZ0ljSmRYZ3VJZzRHZXV3cGtWbFhjRE9Cbkk2Yk01RXkzZ21VeHJTZzN0SHo3ODVqbE9fOEM1V2R6RUgtdEVmUk1UN3pVSkVObVYyc3A0V1lCejRWMFBZSi1SR1l0MkxwdV9LcUdISFUzY1BPR0plaUM5MVoweHB3RS1VOHBDMHYtVmN3VlMzbmvSAdsBQVVfeXFMTldmblVva3RoSHYyVVAyWTRHRF9GYlFsQS1abi1MdnVEVHRLYXJqWE5aOC11LVlRYTZVVWw0QmJCZ0s5SEM0bVZsSjEtLXozZXVMVWdJY0pkWGd1SWc0R2V1d3BrVmxYY0RPQm5JNmJNNUV5M2dtVXhyU2czdEh6Nzg1amxPXzhDNVdkekVILXRFZlJNVDd6VUpFTm1WMnNwNFdZQno0VjBQWUotUkdZdDJMcHVfS3FHSEhVM2NQT0dKZWlDOTFaMHhwd0UtVThwQzB2LVZjd1ZTM25r": 1793994343013
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@kanieadidonn09",
-      "x": "Kak aku udh bikin akun cek bansos, trs lupa pasword gimna yaa??",
-      "u": "https://www.threads.com/@kanieadidonn09/post/DfZlnOPDzza",
-      "d": 1793967456000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29120,10 +29120,20 @@
       "d": 1793993490000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Radar Cirebon",
+      "x": "Kabar Baik! Kemenaker Siapkan Pelatihan Gratis untuk 2.000 Warga Kabupaten Cirebon, Anggaran Rp10 Miliar - radarcirebon.disway.id - Radar Cirebon",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2ZuVW9rdGhIdjJVUDJZNEdEX0ZiUWxBLVpuLUx2dURUdEthcmpYTlo4LXUtWVFhNlVVbDRCYkJnSzlIQzRtVmxKMS0tejNldUxVZ0ljSmRYZ3VJZzRHZXV3cGtWbFhjRE9Cbkk2Yk01RXkzZ21VeHJTZzN0SHo3ODVqbE9fOEM1V2R6RUgtdEVmUk1UN3pVSkVObVYyc3A0V1lCejRWMFBZSi1SR1l0MkxwdV9LcUdISFUzY1BPR0plaUM5MVoweHB3RS1VOHBDMHYtVmN3VlMzbmvSAdsBQVVfeXFMTldmblVva3RoSHYyVVAyWTRHRF9GYlFsQS1abi1MdnVEVHRLYXJqWE5aOC11LVlRYTZVVWw0QmJCZ0s5SEM0bVZsSjEtLXozZXVMVWdJY0pkWGd1SWc0R2V1d3BrVmxYY0RPQm5JNmJNNUV5M2dtVXhyU2czdEh6Nzg1amxPXzhDNVdkekVILXRFZlJNVDd6VUpFTm1WMnNwNFdZQno0VjBQWUotUkdZdDJMcHVfS3FHSEhVM2NQT0dKZWlDOTFaMHhwd0UtVThwQzB2LVZjd1ZTM25r?oc=5",
+      "d": 1793977260000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
