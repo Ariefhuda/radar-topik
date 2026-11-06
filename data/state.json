@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMi_AFBVV95cUxPV21EQW5NOTdRSmRiZ2pCMkpGQzNVMVBERkJLWG16d2lpVXBBQkxjcXVxZDJyeU5YUF9LMllDX1QyemJEaGdHRVBnUWlQbUJZaUU1Wkd1QU5ORmE5UUZhanMwZTBLWFhhcXJyZnNENG41d3hHZkc5YXVqanVNTGV2QXAyZURkRnF5ZGJPdjQ2TEZteDExcE1vSTl1XzJraWg5NEcxdVN6S0g1QklEcFd4S1F4RHhGUVlXODdZQTBuN2NUdTZhX1hWY0I4TnNnZGFtVnhyMzJteFlJVXNyLTN1c3lHbWFKdGpIUEVlblc5T00wc3NONUlQeE5WNGPSAfYBQVVfeXFMUG9zN0xaakRIQzREbUQxMjVGS2VFWVpIZk1CTHdwNjAyRmxmOUlFRXdNNFZsRDBveWxDUHB3UU5CUDFfVGlBT19lX0ZROU1tRXQtUjMxMUZ5a3k4UmVsNnVYNnU0aU0zSS1FVFdud1Z1VVNZYm9mVE0zNkZLZll2b0h1R19nZm1MLWJVbGxNbWEyQmhFZDR4cTNaUzRCMkkxcWFKdWVhMzFMb0ZheTljR0daZy1pT1FuTTc5dWxrM0prNDAxZWtUaHR6eTlXdk9aVDlKTDdieG4tWHlsYVgwa0ltSm9jVUxteFdlTUI0OVpTbEw3Rzdn": 1792791335365,
     "threads:De2jfooE5lt": 1792791999896,
     "threads:De2icOMiQxW": 1792791999896,
     "threads:De2fV1hgayq": 1792791999896,
@@ -27637,27 +27636,26 @@
     "threads:DHj6GY6zsFh": 1793999739820,
     "news:CBMibkFVX3lxTE02Y2d4NmZhU0ZKTy11eVB4REpfbV9HdU9uNUUybFZoSzBWVGV0andSQ09KcklOZVhra1NBOExOSDR1VXk4ZGVCTUpMV2FIWllfLVZQQWJnYXlsRmt2MjBOUzlYRkNqRHp6MFZpVGRR": 1793999739820,
     "news:CBMihwFBVV95cUxNNlBndUlUUDJrR2NmSDlQZ1l2dUtqbzFWeTRpRVNpOGg5UjdXRVZiVEQ1QW1rdmhSUTRiYXNBZ21LZS1zS1JnYUlsVGFiLXZLTnMteDJmMkJweVlyMUREVjVmQlhiQlo1SjFmbVhTRmR1MkJDVER1MURUaTJIXzE3cXU3eWYxM0k": 1793999739820,
-    "threads:DfakuGVDwaX": 1794000591956,
-    "threads:Dfake05jBtj": 1794000591956,
-    "threads:DfakcpIG-Xi": 1794000591956,
-    "threads:DfajaA6mDDB": 1794000591956,
-    "threads:Dfaiy-RH7Lp": 1794000591956,
-    "threads:DfaixyAgREi": 1794000591956,
-    "threads:DfaivkejM_X": 1794000591956,
-    "threads:Dfabl5EDgH-": 1794000591956,
-    "news:CBMickFVX3lxTE54dTMzT1hmemVYVkR4WnZaZGRKeHVtbnNPRy1ZN2ZUMlUtTldNeDNUZ2Y4T0M1MUlSRTBsUk03RzdXb3NwdjB4aGdTX3MtcnJ6Y1NUd3VMTk5RaTN2eWl3R1NqV19xRHFVbGh0aWlQVENXQQ": 1794000591956
+    "threads:DZhekoDFBGq": 1794001292865,
+    "threads:DVZ5DzODzUK": 1794001292865,
+    "threads:DXhc6OJCcjK": 1794001292865,
+    "threads:DaIh5dGmXp0": 1794001292865,
+    "threads:Dc-jzQHkiZO": 1794001292865,
+    "threads:DfamMRYEUAD": 1794001292865,
+    "threads:DfalcrtlG_5": 1794001292865,
+    "threads:DfalIWIE7PG": 1794001292865,
+    "threads:DfakuGVDwaX": 1794001292865,
+    "threads:Dfake05jBtj": 1794001292865,
+    "threads:DfakcpIG-Xi": 1794001292865,
+    "threads:DfajaA6mDDB": 1794001292865,
+    "threads:Dfaiy-RH7Lp": 1794001292865,
+    "threads:DfaixyAgREi": 1794001292865,
+    "threads:DfaivkejM_X": 1794001292865,
+    "threads:Dfabl5EDgH-": 1794001292865,
+    "news:CBMickFVX3lxTE54dTMzT1hmemVYVkR4WnZaZGRKeHVtbnNPRy1ZN2ZUMlUtTldNeDNUZ2Y4T0M1MUlSRTBsUk03RzdXb3NwdjB4aGdTX3MtcnJ6Y1NUd3VMTk5RaTN2eWl3R1NqV19xRHFVbGh0aWlQVENXQQ": 1794001292865,
+    "news:CBMi2wFBVV95cUxQWXg1VVgxd29LVWxqdy1aLXBkVjVOSklqTG1QdTBERzVLR3JfOEM4N0wxcW1ycDNwUEMzWktOXzN5U3MzRU5pb1JkdFZfcUxITm5LNWpQTkNQNUxMZWJMa05RX0paSjJvNDNjMDNKUVh0Q0x2VG5ZR25Na1hTSzFnMUI4U2hfZ3cyMmhZQmM4TldmcC1YNUNPVE9rdzd1Z0F0dnM1M0hzQmlsTlM3YmY3clJUV2tlS0hlZ3VSekQ5UWEteC1OdTZrTEtLMkgtWVlBcDZYNHNZVkVmQkE": 1794001292865
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Cek 4 Tanda BPNT November 2026 Segera Cair, Jangan Keliru Mengartikan Status SPM! - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXBQUVNTZFJmcWd6TDU4VnJ0NXg5VTRwcWZidDZUR3QtWFlSSnZEbEM1THM4Vk5XQTY4RDUyWWJWV0xOODl6Ullhc004ZkNZZEY1b0NJWWZGeTc2U1JfRmY1OXlzMmtPbU9VUk96QmpGMFJRSlgzYmtQWmxNRHpzSnFNdGdfMG13dkFsY0NlNkxFZ2RRNE9LM1ZCRGJpVlZEeHhLSURKNktkZmVQR2pZOFJCWnVUMmplWDExeko0bFRRbVFYRmdn0gHMAUFVX3lxTE5WUWw3NW53RlV2MFF0U0gtM05ybFdNOWd1YlZkMEFHWE43aVFpS3VoU1NuNFVtdnc3LXFZYkZreGhSdkpOR3FVYU00cmRINTFPaVA2Wjk1aGViREotQ2VRdkM5THVSYTNXRlNVblg4c2RBV0hWQ0xENnM1Rlk0NzVUaXBDVDIxZUNMRlAycldDRjVuWDh0R05fby0tWkV0RVFOU05UUHRQWFFlNC1fYTVaZVFLeFZ1MFZZQ20xNFNKWlJIcVdKbm5HdC1mVQ?oc=5",
-      "d": 1793967832000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29145,6 +29143,16 @@
       "x": "Liputan Khusus Dua Tahun Prabowo-Gibran Halaman 14 - Kompas.com",
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlBndUlUUDJrR2NmSDlQZ1l2dUtqbzFWeTRpRVNpOGg5UjdXRVZiVEQ1QW1rdmhSUTRiYXNBZ21LZS1zS1JnYUlsVGFiLXZLTnMteDJmMkJweVlyMUREVjVmQlhiQlo1SjFmbVhTRmR1MkJDVER1MURUaTJIXzE3cXU3eWYxM0k?oc=5",
       "d": 1793999671000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Cara Cek Bansos Resmi dari Kemensos yang Cair Bulan November 2026 dan Kriteria Penerimanya - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWXg1VVgxd29LVWxqdy1aLXBkVjVOSklqTG1QdTBERzVLR3JfOEM4N0wxcW1ycDNwUEMzWktOXzN5U3MzRU5pb1JkdFZfcUxITm5LNWpQTkNQNUxMZWJMa05RX0paSjJvNDNjMDNKUVh0Q0x2VG5ZR25Na1hTSzFnMUI4U2hfZ3cyMmhZQmM4TldmcC1YNUNPVE9rdzd1Z0F0dnM1M0hzQmlsTlM3YmY3clJUV2tlS0hlZ3VSekQ5UWEteC1OdTZrTEtLMkgtWVlBcDZYNHNZVkVmQkE?oc=5",
+      "d": 1794000626000,
       "urgent": false,
       "warn": false
     }
