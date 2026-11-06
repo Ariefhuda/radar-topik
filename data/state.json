@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De2eSLuCgzD": 1792789253650,
-    "threads:De2c6zYCeAM": 1792789253650,
-    "threads:De2csXUD2Ka": 1792789253650,
-    "threads:De2cjllDPBw": 1792789253650,
-    "threads:De2dUO0DuIT": 1792789253650,
-    "threads:Dey608Zj48Z": 1792789253650,
     "threads:DavKjw4gR9m": 1792789552798,
     "news:CBMiuwFBVV95cUxQZG1iZVgxZHBCLUhNcEtzYlk2NjlnMUhyQW1pdXpFc3EyMUhnQmF1OGVfUy1aZ2VTbG91TEVfUzRFUWJLdkgzNVBsM2U5bnBLMXo2OG5JMW03TU9pYXU1U1F5X3BJYU1HZDVwaUl0c1BDUjh6a0FWV0xyOEx2Y2d1WEpaWG1zeTBuMVlwNXlrcHVIbjdVNV8wdm5oeEppOHdZQ0V2OTJ6dkhTVXktX09KTlBjS0NqejI4VVlR0gG7AUFVX3lxTFBkbWJlWDFkcEItSE1wS3NiWTY2OWcxSHJBbWl1ekVzcTIxSGdCYXU4ZV9TLVpnZVNsb3VMRV9TNEVRYkt2SDM1UGwzZTlucEsxejY4bkkxbTdNT2lhdTVTUXlfcElhTUdkNXBpSXRzUENSOHprQVZXTHI4THZjZ3VYSlpYbXN5MG4xWXA1eWtwdUhuN1U1XzB2bmh4Smk4d1lDRXY5Mnp2SFNVeS1fT0pOUGNLQ2p6MjhVWVE": 1792789552798,
     "threads:De2fY2CiZrw": 1792789837960,
@@ -27640,7 +27634,12 @@
     "threads:DfHErpMGt1U": 1793998542706,
     "threads:Dfag7LxDKx9": 1793998542706,
     "threads:DfagduNGZcm": 1793998542706,
-    "threads:DfagRI2ow6J": 1793998542706
+    "threads:DfagRI2ow6J": 1793998542706,
+    "threads:DfahZ2BD1f7": 1793998853233,
+    "threads:DASX5c8SOcN": 1793998853233,
+    "threads:DeYOwQzEoES": 1793998853233,
+    "threads:DMw6h36TVny": 1793998853233,
+    "news:CBMid0FVX3lxTE9DcnVLM2VVSVlVXzBuRnphNXlWa0U0amtpOUJhRElzOWJ1SVBIaktYY3Q5cjhpMGdHTVVwUEc1VEJ4czJNNmpGVl9xZnVkanpxc3VpR2x1aEVYazFWdEtFUUM1alBhdm4wdDNfbHd4WEIxZ1dOS2Nj": 1793998853233
   },
   "digest": [
     {
@@ -29145,7 +29144,7 @@
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
