@@ -27582,7 +27582,9 @@
     "threads:DdkmYD8IOxp": 1793985939471,
     "news:CBMieEFVX3lxTE4tUHd4dXNGUkVGQTJpal9uY0o0VGc1SDFEVXFILU82Ml9KaDdfeGVoRXRLak9Zbkx0cjhJYWl3ckVIelNueEdCaHNaMkFSOWVjY3RsblRTR2xvNE1URWgxQlRSa0txc0NtbDFEQVhYaTNYVS1pcVVvdw": 1793985939471,
     "news:CBMiuAFBVV95cUxNVHpWX0RmWEdTeWlaNEppajRORW1saWpiTVFBaDlNUmNMRnFBV0JyUG1IQkR4RkRjR2VHTmMwSGhZZTZmbmhLcXd0bWg3N3doNDJkRVB4OHFocW5ILVhfMU9vaU5CY0x0aFExVHBTdDZIdkZNaS1TOTkyMlh6MHptZjc5Q2ZZMm12LTg1ZlNIVzZLNXhjNl9UY0FKMjlBT1JldjctMVY0dXVhR09BRF9IUFlLV0E3NjFG0gG4AUFVX3lxTE1UelZfRGZYR1N5aVo0SmlqNE5FbWxpamJNUUFoOU1SY0xGcUFXQnJQbUhCRHhGRGNHZUdOYzBIaFllNmZuaEtxd3RtaDc3d2g0MmRFUHg4cWhxbkgtWF8xT29pTkJjTHRoUTFUcFN0Nkh2Rk1pLVM5OTIyWHowem1mNzlDZlkybXYtODVmU0hXNks1eGM2X1RjQUoyOUFPUmV2Ny0xVjR1dWFHT0FEX0hQWUtXQTc2MUY": 1793985939471,
-    "news:CBMinwFBVV95cUxPMkxWU0tSSXRCWnRNZndBWjViNndhaVZsblktT1ZrU0dBQjQ4Mk0xUzFURTdSY08xUVdRU0FWemdEODlxTVp4bmdsVWRjeVpwYkkwa29ObUJ4Tld6V2pBb3JBcUxvbU1Tbk5DY1Z0M3g5SDI3MG85ZGZnSTJ5bEhCa3FGZUthemY3encteXlwNzBneVhFbmp4amRWTWtqQmc": 1793985939471
+    "news:CBMinwFBVV95cUxPMkxWU0tSSXRCWnRNZndBWjViNndhaVZsblktT1ZrU0dBQjQ4Mk0xUzFURTdSY08xUVdRU0FWemdEODlxTVp4bmdsVWRjeVpwYkkwa29ObUJ4Tld6V2pBb3JBcUxvbU1Tbk5DY1Z0M3g5SDI3MG85ZGZnSTJ5bEhCa3FGZUthemY3encteXlwNzBneVhFbmp4amRWTWtqQmc": 1793985939471,
+    "threads:DfaI2YNDa2L": 1793986245611,
+    "news:CBMipgFBVV95cUxONXY4UDFITk1IaXRTQUhsWmZWS2dJOWFXdnViS1pHYjVKQ3F1aXZ4eVRoNmJTQV9NVkVXV2YwRmltTG9Qa19QZV93TzN4REdTeExyZm9rTERJdXFITDFUaVBCZzE1Z1RvM0NXNF92QW1neUtyRGlpdFI5b2oxMS02T2JxUDVsR3BoeXFCbjdNTUF5XzBDVHAySUxNeEphbFZUM19CVEtR": 1793986245611
   },
   "digest": [
     {
@@ -28974,10 +28976,20 @@
       "d": 1793984700000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Valid — ini kebijakan resmi yang lagi jalan. PBI JK memang cuma untuk desil 1-5 di DTSEN, yang naik ke desil 6-10 dikasih masa tenggang 90 hari kalender buat benerin data lewat des",
+      "u": "https://www.threads.com/@meta.ai/post/DfaI2YNDa2L",
+      "d": 1793985930000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
