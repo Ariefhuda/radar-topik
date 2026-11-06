@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd0MyLpgT-N": 1792713821166,
-    "threads:DezWuN4Cerg": 1792713821166,
-    "threads:DezskU2DMak": 1792713821166,
-    "threads:Dc7ZFWsk3mQ": 1792713821166,
-    "threads:De0Lf_Lk0kF": 1792713821166,
-    "threads:Dez5oLXD9pS": 1792713821166,
-    "news:CBMicEFVX3lxTE1XQ3lwSU9JNl9CTFc4a2xfQWU0TWxwRUNzMUxDbzlyRlEzOTdROHVYbjlkQzN6NE9TaTdvVHJ4SHNhanpobE5ESkZjNE5BUDJrTWM0VEtUMjVnTFl2TEJaU0VhYnNFOGVoVnNmX1RZSE4": 1792713821166,
-    "news:CBMi6gFBVV95cUxPNDIzUEhPT1Q3aVVpWkYyTE5jbmtycGVESjhjWlpKeHBsa19CQ2MtWFNCYnAwc1BheVpMbkNrWXpjMUdXNnJlZS1NckZUbXBXY0sydFNLQ2RqN0xubVN5TzNnNHNGcmpHVzBiMTJaMzBFUVNPSk9KVUtIMG5lSWFvb2szTEdpR3VqZmlVN2FCOTcxUllKa3ZOcXREQXFYOWxxRE16QkNzNEdFSlhidlVwTDVJY1BKa1RvcGlNZUh6Q0drdE5pUERmTmoxb3dSNkNUanFsRktvcnZfMlNNdFBHWTNmZm1jUjFmNXc": 1792713821166,
     "threads:De0OHSymie1": 1792714737959,
     "threads:DeyPgv0mWzU": 1792714737959,
     "threads:DVJOM_hkpU4": 1792714737959,
@@ -27851,7 +27843,19 @@
     "news:CBMiZkFVX3lxTFBQcVBzeFJMd2sxRlFSUGozRmJBT1JlZUhRWTNuQ2dEUlFsanRyTGs5Uk9Md2JpTzdkSVdpR3dpLU9wYzRIVVp0dHdxQUg3dklzY3lKdXJBWmRjak9vY3F2b01sZHV0QQ": 1793922539976,
     "threads:DfYLqvBE1g0": 1793922982497,
     "threads:DfYPZRDj--B": 1793922982497,
-    "threads:Dd_69MZEokr": 1793922982497
+    "threads:Dd_69MZEokr": 1793922982497,
+    "threads:DfXV4WREznp": 1793923246754,
+    "threads:DfXNBOLk5gF": 1793923246754,
+    "threads:DfYRQ5Tk8mt": 1793923246754,
+    "threads:DdlJtJEiaRC": 1793923246754,
+    "threads:DfYQSz3j7tD": 1793923246754,
+    "threads:DfYRUusDZP2": 1793923246754,
+    "threads:DfYRUgkgtRt": 1793923246754,
+    "threads:DfYRKS_oLpU": 1793923246754,
+    "threads:DfYQsPYiS9b": 1793923246754,
+    "threads:DfYPjfmgYZd": 1793923246754,
+    "threads:DfYQPT8nzjt": 1793923246754,
+    "threads:DfYJTSWj83X": 1793923246754
   },
   "digest": [
     {
@@ -29306,7 +29310,7 @@
     }
   ],
   "lastDigest": "2026-11-05-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
