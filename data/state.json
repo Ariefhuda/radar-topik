@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMixwFBVV95cUxOams0djdLUHI2M0UxbDZqU3JhSWNPX2RVNGRLOEJuZ2stYml1WF8wUG90M09WYUtHci1sWDJjUGFsYk1hQko0NlJpMXhiREwta2x0Y2MxbTBXZDY4eEgyWV9tWWRESVVkYmhnTlUySmFjWVpKaUJrbFhCcm9BdWJ0aGZwY09VemlkX2tCaHBSVDNoRUJpZUFST3BKeDFONFpLTU14OTNmT1EzUHNheE9zWnVNcE5LM19fX21vUEtPakNRbjl4MkVV0gHMAUFVX3lxTFBnc3BiR2xxSFJ6alJ1VEZ3Y2V4MC1MRk1VV0RjZGNhUXJzQ1dJMXJibGRpT2JyLW90dDc1UFVJam52b0thZGxKNzJSWC1MMmpXS1hjX3JxS2ZHMDhFRVJkM1g0QW5mUHJGM0kxX1NRMUloaVNUSTNlTjhLQlhtOHZjUG5YcXFxWHR2RnRmRzFvYkxkZEJyLXNXYVJWZmNWMDQ2T2dlZUQzTlk0dWUxSUxXdlRMYUtmckJhdmM0S09zcC1EVHBLTFI4SVRNdA": 1792811762995,
-    "news:CBMiY0FVX3lxTE1CWXVKMURiTUF5SGl4c3U5b3RVRWdPaHVTM1BTTTItbzdaRDlobmJVN3NzeWpNaFNPdTZUdXIxNTVxOGtSSnJkaFJhSlNzaEF0UFpsQkxCSXNxX3k2U2I4ZEF6TQ": 1792811762995,
-    "news:CBMidEFVX3lxTFAtMzdkaVBoNUh6VnVPNElOc3h2d3NiLXkxWFh3M2VDdXNnOXNYSW9uT3Q1UUoyT2ZxNEw3TWkyOWduMWN4b1FVWVJ4Qmd4eGlwQ1RwNHJZb3BUNGlvZ2pfaFNKYkVSaEFwMXRiMDBJV0dnQ0xC": 1792811762995,
-    "news:CBMiqwFBVV95cUxPTXBLX1RPcFhZSWZhT1lYbTJOMkJZUnpmSlVxdzIxUGJUaE05bjFXb1k1al9lcHlULUFXZTRHUFl5T2hGQ1NBbi1Wc2FkNEdES1ZoMlJxN2pmcVNhcklUMERqdW5TSmIyUUw5ci13VFJ6ckdfNDlfeXpyUU96a1JwNmpCNEU2V2l2cFdjRWo2SURKQ1BER2J0aHVoaDdoNlZiVTJNM3pSLUpjYVHSAasBQVVfeXFMT01wS19UT3BYWUlmYU9ZWG0yTjJCWVJ6ZkpVcXcyMVBiVGhNOW4xV29ZNWpfZXB5VC1BV2U0R1BZeU9oRkNTQW4tVnNhZDRHREtWaDJScTdqZnFTYXJJVDBEanVuU0piMlFMOXItd1RSenJHXzQ5X3l6clFPemtScDZqQjRFNldpdnBXY0VqNklESkNQREdidGh1aGg3aDZWYlUyTTN6Ui1KY2FR": 1792811762995,
-    "news:CBMiuAFBVV95cUxOX3VHR25pVGhIaFdNVl9pWGZpei1SYWVKVXV5NTUwWWFfak0zdjcta1Jaak5HNGhDTVJZbzRJMUZUTTdjSllydkpmVEV2am9sc0tlQzg2QmM3YVI0OXQwSlB4RG5Tbk1JWnFKOWFxS2xyUEJUNGxQaThpUWFpX1p0Q0JKSEFpSEgxVmRyXzdOZF9PM1VDd0lKYVFRbU9xMHh0V3o0dmczNndWZTd1RlVucE9ta2FHOWdk0gG-AUFVX3lxTE1TTGdndUpxUWJuSGtDT2lKZnlZR2VPaHJXYS1nUTVBcW1qcFFOOHlwSFozZ0UtVFJTeFFQV2tKNTMtQ2hGMUhjOWQ3RDRiY1lfcXJmQ2V1Y1ZtYnk1ZWxFU0xRLUVTLW5tcUFpZWdqRDFqWVlLU1dSOEcwSGx4eGRaYUwySkdMMDZjZzVicTVSN1BtbkdsR2RlYk9ydGwteFdKekUyV0RVRzNBcjh0aU1hWUFodjN0akk3Z0dsX2c": 1792811762995,
-    "news:CBMi1wFBVV95cUxQVGRyYmh2R3ZBeUo0RnR6SFhLb3dNNmk4bWk1OTZjeWVVanBJSzNQMlpydnBIOEY1ZmUwTUFuRVctOS1BRlpoV0NMQmwxUzAyaGdtM080UklqeVh0OTdkYkI5ZVhjeXdSbF9GdHRLeWJKbU8yeU82WFZMOER1ZldGVjJONm9zeGRGaHdWUHFOTzhFZUdtMVJOSkdqV2M4NzJranZncnBNNFN1M2h2WTIzZ0w1VVZQNWF5bWZwWDRWTDV0Y19wbE11U1Y2R0o2MkFSckJQMWJDWdIB1gFBVV95cUxPWTNST0dObkRDODhoSXFXS1JSU19OLThRcGpaS3NSYmhJLWxxV3FXNDlyNXFyNXM1cE00NFB1amI5Z1VhdUFteEhJUXVSc2p5NHNKYkw1dGpaWVMzLXQwZXM3NkdMd0NpQ0t0TXQxT1oyZ0FfYkNvc0VyMDVHZ0xKMmc2UlFGdGJmS2xjMGtGZnVnQ1NQdzdpMXRiMmM3NWh1Y28tdE5RUEdsTmNyNzJNMU5VN0RZYTZ5ckM5ZXhSQkY4UmpIaGpWSHNka3VCVFpwSlc4ODZR": 1792811762995,
-    "news:CBMif0FVX3lxTE9ZOVROMzMwRTc3QzRnSDVzUDJIWlViRlA4ZXlhRVdQSGlTNW5SdDRZcmRqMjFIUkV6Ynl1ZFV0Q0VqSEJmNVI1NFpNWTNTeVdmOHFCOUpwT1dsZmttSDlvTTdPclZEUXJYOWlZQ2xmN1lGUjVTd0JBNXVEVnpEdW8": 1792811762995,
     "threads:De3I9NgFJ9o": 1792812043508,
     "threads:De3JmSWGM50": 1792812043508,
     "threads:De3JMiAGu8z": 1792812043508,
@@ -27689,7 +27682,21 @@
     "news:CBMiY0FVX3lxTE1aTFNXaERRWm50cTRTb2lWbktoNGdpZXNSaEIwaTRsTzNsTmlrR29LTFBOdGJRTWJMTldUSDVnSWt3dnZBNnp3ZWtITkV6aTBuN1FnLWUyV25idnJaTEpadGk3cw": 1794020453646,
     "threads:DZyRi-9EgCo": 1794020739046,
     "threads:DfbKTg9lD22": 1794021037853,
-    "threads:DfbLOSiH43D": 1794021037853
+    "threads:DfbLOSiH43D": 1794021037853,
+    "threads:DfbLDdREtdr": 1794021339925,
+    "threads:DfbLaI9DGQl": 1794021339925,
+    "threads:DfbMfjCmvPs": 1794021339925,
+    "threads:DfbLyLpAZGL": 1794021339925,
+    "threads:DfbLErNEqAF": 1794021339925,
+    "threads:DfbLCk1mwFI": 1794021339925,
+    "threads:DfbK5XXCnCx": 1794021339925,
+    "threads:DfbLBeijCIW": 1794021339925,
+    "threads:DfbMdpLEzTJ": 1794021339925,
+    "threads:DfbMKcbH1FZ": 1794021339925,
+    "threads:DfbMBRejx-L": 1794021339925,
+    "threads:DfZM5hukwhM": 1794021339925,
+    "threads:DfbD6Fkk67F": 1794021339925,
+    "news:CBMiswFBVV95cUxQdEZJZTNLZlpNSF9aenRkQkpzZzNXcmVoVUd0T0xrNXNfa3lCeWFfTE9PaERuUzk3cllKTUduaFFGMm5vUm5QNm1pUU84dW9vQXFDek84S0N3NGhMQkdiejdVQ0ozOGg2ZEJtTGIyXzY5QWRUZ0RnR09UQjhDOGtjY0Zod1hyRFVDWEY1VGVmZGFwR3Zycm9NSklnc09xNXA0V1BMbU12SEo1em9JbEQybzBvSQ": 1794021339925
   },
   "digest": [
     {
@@ -28441,10 +28448,60 @@
       "d": 1794016226000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lokergawean.id",
+      "x": "Bisa kok, lokasi tes nggak harus sesuai domisili, selama lokasi tersebut tersedia dan sesuai ketentuan pendaftaran. 😊 Untuk belajar, saranku mulai dari TWK, TIU, dan TKP dulu. Fok",
+      "u": "https://www.threads.com/@lokergawean.id/post/DfbMKcbH1FZ",
+      "d": 1794021221000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, kalau mau jualan tapi modal terbatas, kk bisa coba jualan online dengan sistem dropship tanpa harus stok barang, atau bisa juga dengan affiliate, dengan pemberian sistem ",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfbMBRejx-L",
+      "d": 1794021146000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sensei_academycenter",
+      "x": "Minsei mau umumkan Jumat Berkah🌸😍 Ada yang mau ikut kelas gratis bahasa Jepang batch 2? Untuk semua umur? Mulai dari nol ya, free 1 bulan, dapat sertifikat✅ DM minsei \"mau kelas ",
+      "u": "https://www.threads.com/@sensei_academycenter/post/DfZM5hukwhM",
+      "d": 1793954498000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nadia_umi",
+      "x": "mau kelas gratis minsei",
+      "u": "https://www.threads.com/@nadia_umi/post/DfbD6Fkk67F",
+      "d": 1794016893000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Media Indonesia",
+      "x": "Syarat Skor Minimal TOEFL LPDP 2026: Aturan, Jenis Tes, dan Masa Berlaku - Media Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEZJZTNLZlpNSF9aenRkQkpzZzNXcmVoVUd0T0xrNXNfa3lCeWFfTE9PaERuUzk3cllKTUduaFFGMm5vUm5QNm1pUU84dW9vQXFDek84S0N3NGhMQkdiejdVQ0ozOGg2ZEJtTGIyXzY5QWRUZ0RnR09UQjhDOGtjY0Zod1hyRFVDWEY1VGVmZGFwR3Zycm9NSklnc09xNXA0V1BMbU12SEo1em9JbEQybzBvSQ?oc=5",
+      "d": 1794019208000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
