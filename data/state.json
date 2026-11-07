@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMinAFBVV95cUxQVW9ZbWdjZFZuTG85UFBYbURuYnpnQkhSMnFUSkhIYjUwZFV1eThueER1djZHMkNPX1JjWHFweWp4VlhCeFZWV25ickxfTFhZS1lic3BnTTc4Q1I4Z2NaVmtXWFFVWkNyRUlieHZOOTZjX21iMzhyelY4UWJIdDRXMUlSN3phZzFRM3BaaFlxcmY1b2prcnhzSU5wZ3k": 1792835443834,
-    "news:CBMiuwFBVV95cUxOUV9BOVdHZ0FMMk03dmtVeVJSRXVsLU1LWlFaTC12RG9QaGdNTDBTc1RBZmRtV2VqZW1Zb0ZsaHRCejhWdlJBYk4zLWMwQnA5eVh2Zml2YmpBSmctazdzUlhKS19uZk9kdGJaRjBkOTRUWjdRU2ZSdC1IdEItaXkzclFOMlp2ZWdULUhYcTgzRHFiazhSc3ZQRVNGT2JzYl9DamRoaDk1NjdWamJlRmlycVE2TnBnTmY4MUtB0gG7AUFVX3lxTE5RX0E5V0dnQUwyTTd2a1V5UlJFdWwtTUtaUVpMLXZEb1BoZ01MMFNzVEFmZG1XZWplbVlvRmxodEJ6OFZ2UkFiTjMtYzBCcDl5WHZmaXZiakFKZy1rN3NSWEpLX25mT2R0YlpGMGQ5NFRaN1FTZlJ0LUh0Qi1peTNyUU4yWnZlZ1QtSFhxODNEcWJrOFJzdlBFU0ZPYnNiX0NqZGhoOTU2N1ZqYmVGaXJxUTZOcGdOZjgxS0E": 1792835443834,
     "threads:De32x1QiYxr": 1792835741605,
     "threads:De317jIHdFf": 1792835741605,
     "news:CBMipAFBVV95cUxPVjhLdnJrOXJjbFA5SzF3OFpubWpCUEZTWWI5NHlCeHllTzlhMEtnVlRPNmwwZ2lKaVM5SFgyUE1iZEF0aWd1YU9YTFpXcl9jWnl0LXJicXdyVXVUTHltVDk5b19FMVVMTm4zaHVLWm5JWWU1X0VzbGp6U3BqRTEyTDlFR0FjVFdFSkRKQXNKcFZvYkNCUnhYU3VtUG1YLS1YMDVCUA": 1792835741605,
@@ -27680,49 +27678,14 @@
     "threads:Dfb4uEVksf9": 1794044740239,
     "threads:Dfb4aqxj-Pw": 1794044740239,
     "threads:Dfb4Qc9G1WV": 1794044740239,
-    "news:CBMi2gFBVV95cUxPbjVOeWEyXzhTU1dsWlZnank3Q2xCTGNxZWZGckNJc2xOeHJzTVpwOTI2aFhFX252OVFhWTNUZTZxUkNEUGgzZ2RkMVVZUmYwcW5WVzhFVmlnc1p1blNuUHJ1YUtiVzgwdDJtbGw2N0ItYmNUd19TQjlkdnBWNEQ4bGc1SjNKQjRiUEYwUkdsMVQtdENWam5nTWR3Y21rT2pBUWFBT1V5cDlWVkFPRHVuSTRoQjhHZ0FSQWJpY2haSndKX0pkajBna0RVSDg4OUhsdzViaEtabWFfd9IB3wFBVV95cUxPdC1JaEZTRF9uVTg4YXJWVC16SERTRmgwX245TEhqM3ZUSFJzRm9wQmRfb0pEbVVxTGZyaEMwb2hkMjB1bFkxT2I0Rk50Y2dhTFlwTV9UV3hCeDBGSUUxdW9yNlp4cWpzbU9vc000WjNNdnJfMEhYdFpHRllNcXZlRWFQcFB6ZEotU2JJWExuVTE1UHBiSUFzVkdreXhkX2MwdWZxUDQycVZpTTVlUWs4QXdZbmNTMnhRNlpHZXNjRTR1QTVYQUt0NEFtZlVQbVVFaU1TMkdkdEZWekhmMTIw": 1794044740239
+    "news:CBMi2gFBVV95cUxPbjVOeWEyXzhTU1dsWlZnank3Q2xCTGNxZWZGckNJc2xOeHJzTVpwOTI2aFhFX252OVFhWTNUZTZxUkNEUGgzZ2RkMVVZUmYwcW5WVzhFVmlnc1p1blNuUHJ1YUtiVzgwdDJtbGw2N0ItYmNUd19TQjlkdnBWNEQ4bGc1SjNKQjRiUEYwUkdsMVQtdENWam5nTWR3Y21rT2pBUWFBT1V5cDlWVkFPRHVuSTRoQjhHZ0FSQWJpY2haSndKX0pkajBna0RVSDg4OUhsdzViaEtabWFfd9IB3wFBVV95cUxPdC1JaEZTRF9uVTg4YXJWVC16SERTRmgwX245TEhqM3ZUSFJzRm9wQmRfb0pEbVVxTGZyaEMwb2hkMjB1bFkxT2I0Rk50Y2dhTFlwTV9UV3hCeDBGSUUxdW9yNlp4cWpzbU9vc000WjNNdnJfMEhYdFpHRllNcXZlRWFQcFB6ZEotU2JJWExuVTE1UHBiSUFzVkdreXhkX2MwdWZxUDQycVZpTTVlUWs4QXdZbmNTMnhRNlpHZXNjRTR1QTVYQUt0NEFtZlVQbVVFaU1TMkdkdEZWekhmMTIw": 1794044740239,
+    "threads:Dfb43laFKUX": 1794045039587,
+    "threads:Dfb4R8aGShP": 1794045039587,
+    "threads:Dfb4wbGCfEr": 1794045039587,
+    "news:CBMinAFBVV95cUxPR0w4dENzbk1mQkxMMmNfRXpKYzBEU195eUhDbmxvZGxCSkNZSkJSa25LOGUydThWd1l4UmQ3cXlNcW1xSE9aY2t5ZVZBazdsT1dKekY3SGljcWpMaTJXbWxvZU5TQ1hhVFNNVlVxTk1GTnJLWVVCdmQzeXl5eXJjbFRybzlUSHZvRlpkRUZOYTg4QzFPVk9KWHN1VVDSAZwBQVVfeXFMT0dMOHRDc25NZkJMTDJjX0V6SmMwRFNfeXlIQ25sb2RsQkpDWUpCUmtuSzhlMnU4VndZeFJkN3F5TXFtcUhPWmNreWVWQWs3bE9XSnpGN0hpY3FqTGkyV21sb2VOU0NYYVRTTVZVcU5NRk5yS1lVQnZkM3l5eXlyY2xUcm85VEh2b0ZaZEVGTmE4OEMxT1ZPSlhzdVVQ": 1794045039587,
+    "news:CBMi3wFBVV95cUxPdC1JaEZTRF9uVTg4YXJWVC16SERTRmgwX245TEhqM3ZUSFJzRm9wQmRfb0pEbVVxTGZyaEMwb2hkMjB1bFkxT2I0Rk50Y2dhTFlwTV9UV3hCeDBGSUUxdW9yNlp4cWpzbU9vc000WjNNdnJfMEhYdFpHRllNcXZlRWFQcFB6ZEotU2JJWExuVTE1UHBiSUFzVkdreXhkX2MwdWZxUDQycVZpTTVlUWs4QXdZbmNTMnhRNlpHZXNjRTR1QTVYQUt0NEFtZlVQbVVFaU1TMkdkdEZWekhmMTIw0gHfAUFVX3lxTE90LUloRlNEX25VODhhclZULXpIRFNGaDBfbjlMSGozdlRIUnNGb3BCZF9vSkRtVXFMZnJoQzBvaGQyMHVsWTFPYjRGTnRjZ2FMWXBNX1RXeEJ4MEZJRTF1b3I2WnhxanNtT29zTTRaM012cl8wSFh0WkdGWU1xdmVFYVBwUHpkSi1TYklYTG5VMTVQcGJJQXNWR2t5eGRfYzB1ZnFQNDJxVmlNNWVRazhBd1luY1MyeFE2Wkdlc2NFNHVBNVhBS3Q0QW1mVVBtVUVpTVMyR2R0RlZ6SGYxMjA": 1794045039587
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@duitdrhp",
-      "x": "Minggu ini ada satu acara yang gak boleh kelewat kalau kamu pingin penghasilan tambahan dari HP: seminar GRATIS \"Cuan 1 Juta Perhari Cuma Modal HP\" bareng Pak Joni. Jam 12.30 WITA ",
-      "u": "https://www.threads.com/@duitdrhp/post/DfbfM66jz9S",
-      "d": 1794031211000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@detektiffconann",
-      "x": "gak ada kak, nunggu sih emng, amit2 deh klo bajakan😭😭 klo kepepet bgt yak, tpi klo yg asli tu bisa dapet kelas gratis 10*",
-      "u": "https://www.threads.com/@detektiffconann/post/DfbfW2Vj-fG",
-      "d": 1794031285000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@millanur__",
-      "x": "Mau ikut kelas gratis 🥺🥺",
-      "u": "https://www.threads.com/@millanur__/post/DfbemnTEmjJ",
-      "d": 1794030889000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ferryaldina",
-      "x": "Kalau belum mau ikut kelas privat yang sangat murah, boleh gabung dulu ke kelas gratisnya ya. Gas gabung ya. Ini testimoni yang udah gabung ke kelas privatnya. Join Grup Gratis dul",
-      "u": "https://www.threads.com/@ferryaldina/post/DfbIu8PiEaW",
-      "d": 1794019423000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29182,10 +29145,50 @@
       "d": 1794039453000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@berduri3074",
+      "x": "Kak mau dong yg pelatihan content creator yg gratis",
+      "u": "https://www.threads.com/@berduri3074/post/Dfb43laFKUX",
+      "d": 1794044660000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ton.martono.5",
+      "x": "Minggu depan, kita akan melanjutkan pembelajaran dengan dua topik yang tidak kalah penting. 10 November – Dasar-Dasar K3 Umum 14 November – Emergency Response Plan (ERP) Kedua topi",
+      "u": "https://www.threads.com/@ton.martono.5/post/Dfb4R8aGShP",
+      "d": 1794044352000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiritokuteiginou",
+      "x": "📰 BERITA — Ujian SSW 2 Building Cleaning: pendaftaran ditutup Selasa, 10 November 2026, 17.00 JST. Dibuka kembali 30 Oktober oleh Japan Building Maintenance Association. Dokumen v",
+      "u": "https://www.threads.com/@mandiritokuteiginou/post/Dfb4wbGCfEr",
+      "d": 1794044615000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Majalah PROSEKUTOR",
+      "x": "200.815 UMKM Jateng Kantongi Sertifikat Halal, Taj Yasin Bidik Ekosistem Wisata Ramah Muslim - MajalahPROSEKUTOR.com - Majalah PROSEKUTOR",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdC1JaEZTRF9uVTg4YXJWVC16SERTRmgwX245TEhqM3ZUSFJzRm9wQmRfb0pEbVVxTGZyaEMwb2hkMjB1bFkxT2I0Rk50Y2dhTFlwTV9UV3hCeDBGSUUxdW9yNlp4cWpzbU9vc000WjNNdnJfMEhYdFpHRllNcXZlRWFQcFB6ZEotU2JJWExuVTE1UHBiSUFzVkdreXhkX2MwdWZxUDQycVZpTTVlUWs4QXdZbmNTMnhRNlpHZXNjRTR1QTVYQUt0NEFtZlVQbVVFaU1TMkdkdEZWekhmMTIw0gHfAUFVX3lxTE90LUloRlNEX25VODhhclZULXpIRFNGaDBfbjlMSGozdlRIUnNGb3BCZF9vSkRtVXFMZnJoQzBvaGQyMHVsWTFPYjRGTnRjZ2FMWXBNX1RXeEJ4MEZJRTF1b3I2WnhxanNtT29zTTRaM012cl8wSFh0WkdGWU1xdmVFYVBwUHpkSi1TYklYTG5VMTVQcGJJQXNWR2t5eGRfYzB1ZnFQNDJxVmlNNWVRazhBd1luY1MyeFE2Wkdlc2NFNHVBNVhBS3Q0QW1mVVBtVUVpTVMyR2R0RlZ6SGYxMjA?oc=5",
+      "d": 1794039420000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
