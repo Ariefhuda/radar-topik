@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De25xZ3HwDT": 1792805445896,
-    "threads:De28Y78kqJt": 1792805445896,
-    "threads:De29KpVDsmq": 1792805445896,
-    "threads:De29HFukafa": 1792805445896,
-    "threads:De28pFrjnrN": 1792805445896,
-    "threads:De28W6-kR4L": 1792805445896,
-    "threads:De23BtGmRI_": 1792805445896,
-    "threads:De28UdyE-OA": 1792805445896,
-    "news:CBMixwFBVV95cUxOUGtubjAxN244QUs1SkpUb3JpWmJLYXJFS014YW4xSGQySDZFY2lmdDdrLVNiU2VXejRsQ0NPNWJ3dkkteDFDWHZLdmdtR0VER25HT3g5NWh0MjVmV3JZVHM5Z2I2ZVJfOUVlVHl4d0Rsa1hTdVJKNkJWMGhFeERzTDRNaUtadXltQS1wY2VsMnlGdzdrSUFmWXlYNHhEUnNRanczTWVZR1lkUDlIbGI3SnFkVEFsMEZXOXZteFhRc1BWbC1HYzVj0gHHAUFVX3lxTE5Qa25uMDE3bjhBSzVKSlRvcmlaYkthckVLTXhhbjFIZDJINkVjaWZ0N2stU2JTZVd6NGxDQ081Ynd2SS14MUNYdkt2Z21HRURHbkdPeDk1aHQyNWZXcllUczlnYjZlUl85RWVUeXh3RGxrWFN1Uko2QlYwaEV4RHNMNE1pS1p1eW1BLXBjZWwyeUZ3N2tJQWZZeVg0eERSc1FqdzNNZVlHWWRQOUhsYjdKcWRUQWwwRlc5dm14WFFzUFZsLUdjNWM": 1792805445896,
-    "news:CBMilAFBVV95cUxOYUxZSURjeDN3S3ktWVh2c3VMdWJXUmU4TmlBc1FCTU1PSVE1Q1VxSE9WS2VGdlQ4bzlIcTNqTEVPMlFaR3A2QmpUVWR0M1Fjc01fVjd4bTdFaHlEZk53b2RHMkxBSXNhN0JwR3ZYbVdhUkRVSjZEcmRQc0FYSGRJVEl4dENEeWNXM3RueV9QZl9YTkl6": 1792805445896,
-    "news:CBMi3AFBVV95cUxOaU1landMcnVRTEVGWGNKMW1yQmtYSUdvSmdTTjR2ajNURFB2WW1BSEk1dEdyMjROVVkwbTg4VjRDb0pxNXdvcHVyVWttcjV2V0E4WlJaUHZtN0s4NlB4M0hsa3M2bExqcC1CZUlpYWgtOUhUNnBHWnZGS2E1eFRveHg5LTBWcnpVV09QMTA3OTJ2ZFJvcXE0RDhJQ1ZWdDdHZnNscldxZGt3WktDN01QY2h2eFE4WWQ0UTR0N1dIT3FOVG1RM01ndHpiWHI2Q1Y2bTFZeUkyazJudkZ4": 1792805445896,
-    "news:CBMirAFBVV95cUxNcnZlTzZhODRqQmNidzNQLTdTZGt0UnRIUldLU0FrckM4ZnRoUHhOeWRqRzVUZ3g2b2JWLVcyZ2xOYjlIWVZjUnBXWGpZejlNRGdUUXFPT25hN2hlbC1sUEZkZmlHdklaMGtZTmFvUEhxV2pjdmotZzBUcXEwcEFqTjlUNFJVWDVYWG94N2JOOWZnejMyaWRRSmN3TE5yZHNja2Y0R1paRGtIeU9M0gGsAUFVX3lxTE1ydmVPNmE4NGpCY2J3M1AtN1Nka3RSdEhSV0tTQWtyQzhmdGhQeE55ZGpHNVRneDZvYlYtVzJnbE5iOUhZVmNScFdYall6OU1EZ1RRcU9PbmE3aGVsLWxQRmRmaUd2SVowa1lOYW9QSHFXamN2ai1nMFRxcTBwQWpOOVQ0UlVYNVhYb3g3Yk45Zmd6MzJpZFFKY3dMTnJkc2NrZjRHWlpEa0h5T0w": 1792805445896,
     "threads:De29xihk0AK": 1792805738080,
     "threads:De29bCNEn6e": 1792805738080,
     "threads:De28vRTD1du": 1792805738080,
@@ -27690,7 +27678,11 @@
     "threads:Dfa_9_On1pW": 1794014794933,
     "threads:Dfa-zWhknvc": 1794014794933,
     "news:CBMiaEFVX3lxTE5RMnlSOHVVSllzU0tsZGtLTjBBUjVyeDVNc0hLUVQzdGQxQkFZTDYyQWhnYUtkN0xRaDhRSG5fUHA4dzdGZTdGZHdUMVhLRjNqdVl3eEpsRkZnLVZqazRUdGtVRjE0czZL": 1794014794933,
-    "news:CBMiYEFVX3lxTFB3LUsxUGE0QVJGRW1lMjgxZ3ppM1pxSDR6Z2FjOFFCaHZXV1dxejRLRlFhSlo0V1hqQlBNUTNDNkxSaEJYdGEwR2JSNzlXNmxWc2ZjMk5nNklJQ25HVmRQcA": 1794014794933
+    "news:CBMiYEFVX3lxTFB3LUsxUGE0QVJGRW1lMjgxZ3ppM1pxSDR6Z2FjOFFCaHZXV1dxejRLRlFhSlo0V1hqQlBNUTNDNkxSaEJYdGEwR2JSNzlXNmxWc2ZjMk5nNklJQ25HVmRQcA": 1794014794933,
+    "threads:Dfa_WVxE_us": 1794015042632,
+    "threads:Dfa_u8vEkdI": 1794015042632,
+    "threads:Dfa-S5hnajl": 1794015042632,
+    "news:CBMibkFVX3lxTE1OVG5ydHlRQ1ZKYlVueWFBcllOZkl2MVluZFhzamZPTDRqbS1ycVBTX0txam5TcTdiRURmXzVCaURnd0w3V0V0SklfYU5XWW9vU3pGeFktalRiSlBsLU8tUkVkT09sMkhya3ZCUmFB": 1794015042632
   },
   "digest": [
     {
@@ -27832,10 +27824,50 @@
       "d": 1794014137000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@newshive.id",
+      "x": "Warga dapat memeriksa data bansos melalui kanal resmi dan mengajukan koreksi jika ada ketidaksesuaian. Setiap pengajuan perlu diverifikasi sebelum menjadi dasar penetapan penerima.",
+      "u": "https://www.threads.com/@newshive.id/post/Dfa_WVxE_us",
+      "d": 1794014806000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anitanftriani_",
+      "x": "Aku cuma cek di apk cek bansos aja kak,dan gk dapet apa² desil 1 juga. Aku di garut kak",
+      "u": "https://www.threads.com/@anitanftriani_/post/Dfa_u8vEkdI",
+      "d": 1794014705000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@broomshaus",
+      "x": "dowload apk nya di playstore/appstore. cek bansos",
+      "u": "https://www.threads.com/@broomshaus/post/Dfa-S5hnajl",
+      "d": 1794013951000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Lensa Hukum",
+      "x": "Cara Cek BPNT Rp 600.000 November 2026 Lewat HP - Lensa Hukum",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OVG5ydHlRQ1ZKYlVueWFBcllOZkl2MVluZFhzamZPTDRqbS1ycVBTX0txam5TcTdiRURmXzVCaURnd0w3V0V0SklfYU5XWW9vU3pGeFktalRiSlBsLU8tUkVkT09sMkhya3ZCUmFB?oc=5",
+      "d": 1794014843000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
