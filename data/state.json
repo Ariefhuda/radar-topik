@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4RsXNE-V1": 1792849845049,
-    "threads:De4RS28Dxi8": 1792849845049,
-    "threads:De4QZM7iGIX": 1792849845049,
-    "threads:De4RUIqk4yB": 1792849845049,
-    "threads:De4PlGvFHdd": 1792849845049,
-    "threads:De37AZYk78-": 1792849845049,
-    "threads:De4R4wwgWKH": 1792849845049,
-    "threads:De4Rft0EtjE": 1792849845049,
-    "threads:De4QPJuFGK7": 1792849845049,
-    "threads:De4KyTJGjqn": 1792849845049,
-    "news:CBMinwFBVV95cUxQYktZRTcwbTdMYjRaUmJVRTVzQlNlS094YzdDVi1HWFBUeHBJcTJ1dkdFVzlsZWxXckg3enFUWW5NeS1fWk12Ykg3SlJsVWRxd0JqVUx2dHR0eEVjX3JKOE1jY1FZTzRQYmJGZ0lfalN2VVdyUXE0REhYM21hZVp4dmNBUGZoYjNTU1o5dTZYVHo5VG9HWXVSOEdHVWNQMzg": 1792849845049,
-    "news:CBMiwAFBVV95cUxQcnJxUDlBcGhNV3FHeDNadjV3V1pGSVNLbU9hYzZMV3F1cjdIeWJFNFJtZW9zNWEtOHdSdjd1NE80V3ItVC1iZExoaktyOGwyNDFaQkVhaEh4SENiclhOMmxHNmlCS3YzQ2ZBSWIzcHlkZGtaVWphZGdQZ1h6ckQxQ0ZmTlVWQl9wZzUtbEwydjh1Wk85NXBFRlFBekRVTDM0cmRzejdxWWdTUDg0TlczenAxX3FqZHlEWUxBZzBBTTQ": 1792849845049,
     "threads:De3-txzkues": 1792850143295,
     "news:CBMizgFBVV95cUxPbk1qdzBPMlpRUl9sVVBZcDU2YlJLelY3bzhOWW10V1hXbWlpUEhmMXdoWTdlcVMtOTJ1M3lKRFVTeWtjTUMtT2lCT0hrN2NqbC1iQjIybWtwSl9YSDFTbG80aTh0bm5IU2tkSXVSVHpKMHp3UVNJeU9ob2ZtQ0Q3MkNINHVuTC0zcXEyNGluMkRiMVQ5aUZmTFhQalp4cTBHY2cwTTRVd04tNTFvY0FHemdnaWljOW5QTUhNUWdzTlpVckhkYzVMT082NkhzUQ": 1792850143295,
     "news:CBMidkFVX3lxTE1tVW96MldadjY0MlVkSFY0SC12TGtzMzI2bVBvSnQ3WnNqWWNuWjJfVjRDNVZzMTk0Wm56VzZoUGZ1b0VkZUZ0cGJQZk9zM0xLdXN1ZmdxM05FNUNDX3dONkxWc0hQRldFc3RzMEp1ejFubTF0U0E": 1792850143295,
@@ -27575,7 +27563,23 @@
     "threads:DfcTdF7E2Y_": 1794059142138,
     "threads:DavKjw4gR9m": 1794059142138,
     "news:CBMivAFBVV95cUxNQ1ZBb3FRWmZuNGxPbzJLdWRjWVMzTUZFb2tPQ1pQQlkwU2dJZUw5UURPR19TSnJoc2RveVh0aHFyRjQ3YTdCOWh0Mng0X0dweWdfSDRIYTYzZVgyekN0bUJjeXo4c1M1SDh1d3JFbTRCRFVsam8yUTRsTjh0aVNwMFMzT0d3MU9nd2pfVlF3b0VvVThrN2pHaDY0T1lfU2JjcnZZSXFrT3lUNkkxdWhZNF8tcFk5QlpJUGJXcg": 1794059142138,
-    "news:CBMisgFBVV95cUxONEMwdTJZZjhZOWNMVk5PTm53bmpmeVNLanBFb09ua2lUY01wZHVtM185aG5EcXhpSW56bUJMeW1rMzQ0OHRlWmxISFlySWlLb2g1ZHFVSnEwZU5FeThsempNakg1QVN1RVVacERUZFVaeVZPaDA2NzZqSy1oVTRGVVVmUm1STG1OczVsRnp5TGhpRFFyYUNIR2E2MFM2RU9uVlZSOTA2dUhCNFd1Q2lXWHJn0gG3AUFVX3lxTE4xa2JoNFlScVRCYVZmODdZbjNaV3kwQWJ6MkZJVmtSQ2JGZGxubkJ4TUptYmdreXJoU0NleHQ5eHBQVzg0aHdvbUxzaWVtUk45YWdsaGYtMzNqYlRzaW5HeGc5dU41TU1CNEg1Q0lCZ21KRS1NbTFuQ2NjVUtqWml0VVMxc1BLQW5XOUhkSURoemg4a2dsYzZ2TFQxWXZ4VnVHcEFqVmRHTnpsa1JYYVIwMW1fdzNOZw": 1794059142138
+    "news:CBMisgFBVV95cUxONEMwdTJZZjhZOWNMVk5PTm53bmpmeVNLanBFb09ua2lUY01wZHVtM185aG5EcXhpSW56bUJMeW1rMzQ0OHRlWmxISFlySWlLb2g1ZHFVSnEwZU5FeThsempNakg1QVN1RVVacERUZFVaeVZPaDA2NzZqSy1oVTRGVVVmUm1STG1OczVsRnp5TGhpRFFyYUNIR2E2MFM2RU9uVlZSOTA2dUhCNFd1Q2lXWHJn0gG3AUFVX3lxTE4xa2JoNFlScVRCYVZmODdZbjNaV3kwQWJ6MkZJVmtSQ2JGZGxubkJ4TUptYmdreXJoU0NleHQ5eHBQVzg0aHdvbUxzaWVtUk45YWdsaGYtMzNqYlRzaW5HeGc5dU41TU1CNEg1Q0lCZ21KRS1NbTFuQ2NjVUtqWml0VVMxc1BLQW5XOUhkSURoemg4a2dsYzZ2TFQxWXZ4VnVHcEFqVmRHTnpsa1JYYVIwMW1fdzNOZw": 1794059142138,
+    "threads:DfcUG9gkl3U": 1794059439977,
+    "threads:Dfbjx9FG0Ql": 1794059439977,
+    "threads:DfcVJ3RD-Mg": 1794059439977,
+    "threads:DfcUs1hFHJS": 1794059439977,
+    "threads:DfcUO9OGrLx": 1794059439977,
+    "threads:DfcT_zcjDDC": 1794059439977,
+    "threads:DfcT0iyjLMy": 1794059439977,
+    "threads:DfcTojpEeJG": 1794059439977,
+    "threads:DfcT8x7EqDG": 1794059439977,
+    "threads:DeRetmXkhrR": 1794059439977,
+    "threads:DVqBJ8zkXFQ": 1794059439977,
+    "threads:DfcUj4sH6FF": 1794059439977,
+    "threads:DfcULh9Aa_j": 1794059439977,
+    "threads:DfcUEdvj4V6": 1794059439977,
+    "threads:Dcz5YZxGWb4": 1794059439977,
+    "threads:De30swOj6dy": 1794059439977
   },
   "digest": [
     {
@@ -28097,10 +28101,40 @@
       "d": 1794058355000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@faarida463",
+      "x": "Perempuan hebat, saatnya naik level! ✨ Ikut Beasiswa Career Development dan dapatkan sertifikat internasional dari IBM SkillsBuild secara GRATIS! Pelatihan karir praktis, mentor pr",
+      "u": "https://www.threads.com/@faarida463/post/DfcUj4sH6FF",
+      "d": 1794059179000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@s.ssiy__",
+      "x": "Mau Ikut Kelas Gratis",
+      "u": "https://www.threads.com/@s.ssiy__/post/DfcULh9Aa_j",
+      "d": 1794058979000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nadyashf",
+      "x": "I do believe setiap org jg pasti punya titik terendah & kisah perjuangannya masing-masing. Dan ntah kenapa, aku personally merasa termotivasi kalo ngedengerin kisah pejuang beasisw",
+      "u": "https://www.threads.com/@nadyashf/post/DfcUEdvj4V6",
+      "d": 1794058921000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
