@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4gcPKDfEG": 1792857659607,
-    "threads:De4gYAjnbp7": 1792857659607,
-    "news:CBMiY0FVX3lxTFBnV2NuQWE5MGxORHJmZTVZTFNVZ29naEtmVVNCbjNqSVVkSTgwbUk1Vld3SWdWc25feG1lM1haSHRCcTVfSnNMLVlCMnpnVm1QMXdROFRSLTRzZ1Z6UXk5QW9fWQ": 1792857659607,
-    "news:CBMilgFBVV95cUxNd1EzbFJranA4TnpLQXJyejNTNGtWZkFBSS01dEI3VjhMLWJSSXFIMmM5cXd6Um5VcEY3SDE2UWM0bkQ5em1LM1M2MWNVcDA4dGEzM0ZMNzJySWV2OE9YZ09ZZE96WExic3RsNm5Uc3pfY0hkbmY5SzgtZFlMTWw2UUVOVWs1NkY1VlJuREV0bHEyU25kWmc": 1792857659607,
     "threads:De4SuyUEm8d": 1792858241866,
     "threads:De4hxyuEbiE": 1792858241866,
     "threads:De4huoclO-v": 1792858241866,
@@ -27661,7 +27657,11 @@
     "threads:Dfci07emkHe": 1794066941899,
     "threads:DfcgrqmD62K": 1794066941899,
     "threads:DfciYdrEi84": 1794066941899,
-    "threads:DfciOxLEoI_": 1794066941899
+    "threads:DfciOxLEoI_": 1794066941899,
+    "threads:DfcjU_BE8_g": 1794067252099,
+    "threads:DGw-1hRxA9q": 1794067252099,
+    "news:CBMi6AFBVV95cUxQZmIzeWpESW9FVUY0eEhXX3ZpTTZRNXBjSUlRMG1sWktDTGNUSjloN2phTVVsTHJOSUdHLWxIbUEwaHpyNTJBMnZfdlcycDNwWFlYQXhDOHFDZE9HYWtYNm5MLTNqdldxeDd0Y0c5Q3BrZjVKdVZSRG93UVo3MnN5eGhUUG1rcTlSQ1U5MnRCaUszQ3kxVnZmaFFvMjFBMGtCTy1PQTQ4emNDS2pvOU9fWlliRUR6MXNSUDBuc3l5ZXBDUWU0UWJkQ2lHYjgyNG9mUWtPSDlJdzZJMkhjaGZrcHUxZTZYRk9n": 1794067252099,
+    "news:CBMi1gFBVV95cUxPUE05MVZQN0dZLUN2MUV3cTc4emMxRUVhZk1wNEU2MDJTOXdud0VfMndjVnpzazV3Tm1fRGNjbzJqWTRLb2hZcFlzZlQ1ZDk5c1UzeS0tS0F4TVhOOUt3TlV4UGc1SS1qUTd6bllYOFM1RUYtQzJtWk9fWTJBWDEyMUxHQ0s5RGVWRVdaV0N1OHIyTFMwelRHNHd5dnZjUkNTOXA0ZkxFZGk4X0xyQ3pPeVhSRnB5ZERMMTNSR25URm9tMUN6aDVaTTRuXy1oMDhWZ3hCMFpR0gHbAUFVX3lxTE5Md0xwZHhYZVo5dlZ5OU5fcElETHgtTWN3MWl4bmtPVkxldXJWMXFkNmNrWFpsQWwtaEFXUmdJNWxpdG1PdmpXakZEU0RoWGVTWTBvT2JxLWtIeG00OWNUaW9OUm55VGl5elVUa2hMYW4zNnpDYkJiTnRZSlhQN05EYnRzbm1lbGZxc3EwMjA0bnZkWVhBTDd0STljbktsTUEyZVZSOGY0eURlczlFSXJnY3hSWnhJX3pScU55TE1VdVpCVHpMd25FQUFuWko3QzJIYm9XcWNibXVLdw": 1794067252099
   },
   "digest": [
     {
@@ -28893,10 +28893,20 @@
       "d": 1794066346000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@harani_taun",
+      "x": "Kaka dari pembaruan desil di aplikasi cek bansos sampai berubah desil, berapa lama ya ka?",
+      "u": "https://www.threads.com/@harani_taun/post/DfcjU_BE8_g",
+      "d": 1794066921000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
