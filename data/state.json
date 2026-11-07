@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMi2AFBVV95cUxNMDJYNlU2OVpXTXc1YmFGNFhNRU9vbTF0NWJLZ2Vlcm00allKU29LaE93cWQwMGtGZGxkdjFYVXhXNHVGR2N2b2tyTmthSzlxS05JZUhwUTZ6MzNnWFNDVTk4d3VGaDA1NHhUNGtlYTlzX01lSzN6a0VLeXVkbzVhNF9HSV9XdFZzQ21FQWNkSUZiYXBLZG9OSHlmNzFWSGRxNk4wTmFSaV9ubDBDcnlad2s4NVFDejJaLW04NUVHVGlndmtYaGpnUW1WU3BpYV9mV2JUb0FtSU7SAdgBQVVfeXFMTTAyWDZVNjlaV013NWJhRjRYTUVPb20xdDViS2dlZXJtNGpZSlNvS2hPd3FkMDBrRmRsZHYxWFV4VzR1Rkdjdm9rck5rYUs5cUtOSWVIcFE2ejMzZ1hTQ1U5OHd1RmgwNTR4VDRrZWE5c19NZUszemtFS3l1ZG81YTRfR0lfV3RWc0NtRUFjZElGYmFwS2RvTkh5ZjcxVkhkcTZOME5hUmlfbmwwQ3J5WndrODVRQ3oyWi1tODVFR1RpZ3ZrWGhqZ1FtVlNwaWFfZldiVG9BbUlO": 1792808737149,
-    "news:CBMiogFBVV95cUxPSTBtd3EzMTBBSmNzTFBrTUNHNzdoV19vVVhpSTRkSWM4akw2V2V6bnpCYjdKRGpibXRzT3JOMkVPSFRhSGlTSTgwLTlNTmRWbUZzMHcxV0NibjdVQ3Z2WDF2UUF2VjNmX0NQUHY3R0ZjemQ0eS1OZkpfWElSbFloMTBOOHd1VVo1MUdKSU5RNmc4QzFHZmJVTGREbmtBVDJuQ1E": 1792808737149,
-    "news:CBMisAFBVV95cUxQYmxyaUFyQnlyR08zZGdEaTFHSXR4ak9LOGszeXNSc09KdjlIcm5wV3IxUWltMFhwM1lpenRmWDNSQm14VTRCYThqNHV1R0cyTXdIckFsbThWNXF1OGV1Zmw0cFZBYzRWNTVhZWJ2cHBPeTF0OTVhbEJZYUZZcXZDQ0tZNWQzZDVSU1JTXzV3UmF1bk5zemlmVjM1Wk9oQVQtUUgzeVo4Z3FHRFBneVpYNA": 1792808737149,
     "threads:De23avQE8Tb": 1792809055572,
     "threads:De3DZ-gCINK": 1792809055572,
     "threads:De3C_W7l0yP": 1792809055572,
@@ -27701,7 +27698,11 @@
     "threads:Dc-CIZ7CbFA": 1794017746276,
     "threads:DfbGEBfGMLL": 1794018036645,
     "threads:DfbFguEE-_j": 1794018036645,
-    "news:CBMipwFBVV95cUxPSmZPdFBremctbTdEOVAwVVU5d0V1N1o1aGRuSmZQQmE1emFmVmNlZnVraUVnZ05IWm41YmhZMVFxei1zQlFCTTBWSU1ZMk5IekFhMDhUMWQ5UFpfbHI0TURjaVlaRXdwcUJ1aXN3WjBnVEh3MHB3Yml5ODFkWEdSbG9OVEdqUVpiUUdCdjhic3FaMi0xUjRkc3lnckV3SzZnOWxtblBldw": 1794018036645
+    "news:CBMipwFBVV95cUxPSmZPdFBremctbTdEOVAwVVU5d0V1N1o1aGRuSmZQQmE1emFmVmNlZnVraUVnZ05IWm41YmhZMVFxei1zQlFCTTBWSU1ZMk5IekFhMDhUMWQ5UFpfbHI0TURjaVlaRXdwcUJ1aXN3WjBnVEh3MHB3Yml5ODFkWEdSbG9OVEdqUVpiUUdCdjhic3FaMi0xUjRkc3lnckV3SzZnOWxtblBldw": 1794018036645,
+    "threads:DfbFgXyjwcv": 1794018335774,
+    "threads:DfbFZanEu5O": 1794018335774,
+    "threads:DfbGpF9EhVG": 1794018335774,
+    "threads:DfbFO97Ep5z": 1794018335774
   },
   "digest": [
     {
@@ -28253,10 +28254,20 @@
       "d": 1794009600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sutankhulifah",
+      "x": "Hidup terasa berat? Energi lelah? Pikiran tak tenang? Pelatihan Activasi 7 cakra Dan akra Ilahi ke-8 GRATIS minggu depan! Dari Rp 500.000 → Rp 0 Join Group WA di Bio! #CakraIlahi #",
+      "u": "https://www.threads.com/@sutankhulifah/post/DfbFO97Ep5z",
+      "d": 1794017588000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
