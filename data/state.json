@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3YfDqD6by": 1792820141621,
-    "threads:De3YFAoo2YO": 1792820141621,
-    "threads:De3WrbXkbOu": 1792820141621,
-    "threads:De3Y8neko0F": 1792820141621,
-    "news:CBMi4gFBVV95cUxQSUNDZGJhZE9KRGQ4amFCQlRpaFVTbl9DOEJCTnAxTzdmMUlQa0lNWEJWSW1DN3k2OHpEc0tvelRoME5Kb1huamt3OEtRdFZ3dmxZZjludW50UDZZVGV4alBGamxCTzR2RVg1MWN1SjBzQnpjN0hVUmNvWTlzWkFRUXl3SjVZb3dTa3FUOFdwTWUyRHpiNUJwaFdaSXlvbU0ydnZZWU5IOTJYaktLb0pGakZUWDRyQU9wOXJhdTcxanExbGVublhiOUdNMUNzM1RqbHNfNDNBUmdISmp5dmNRT0xR0gHnAUFVX3lxTE5Od2RyNlQxZzN1eDRpTXVhbzliREVJQThZX296T1J2UG9jcm5xSzZoLS0xbmpBYUFLb2ZpS2N0bUJ4UEN5Y0YzVXB1bDZzbEVpVXFoRmtFYUJWNkRKRllqQ1VqQm1QNW5POXhRNFdqbEMtZFJlYU5mNnBkSkpON25oTXBYTERMQkdXTVJKbHA2V1RuSS1sYURwQ3FMb0pPZ2Vma3hBVWw0c1M0YktyVlpiNGJPU19qZG0wcXc3REV2LXdCbzV2RXFIMnpkQjBkdWpuM2w4eWdLclBlM3BUcUdsX3Q0NDBUUQ": 1792820141621,
-    "news:CBMinAFBVV95cUxPZDZYSEY3LUNIY3BMZmFHcjVVVk1KWUpiMWV5Y3pEUklnQUlLZFBOWVh3SEJpR2ctT3poNnhkYzhvUzJCbWdCZmNFVVNvSURUd1pxUFh4eFVCX2EwSUtLZW55cTFuMDRrQlNDZ01lQlRnRVJfNUxtQ2hsUGRHdXZvYTlON0lxV1ZPMXk0eDZpTEZLYTF6dWRYXzlBUVLSAZgBQVVfeXFMTTdsN0pNN1Yxbld2RmFJQVQxNWdaVWRiUE92YUlUVlFudk5ibHlGb1NvdFVQbk5XSy1YV2VVU0tncENCZGhfOHY0ZmFEazVQcllNaHhWVXZrYnlQQXNCaWlHNTJnZncxTkQyUGNvQW1mbEJJOUVVTVpnUkhzRG5Ddkh1X3Z2b1F1YUlEU2tZdWhLZGZuQ2Z4MTE": 1792820141621,
     "threads:De3ZQ9wk8gb": 1792820448773,
     "threads:De3QtuJk0Ri": 1792820448773,
     "threads:De3Y5IxE2Ii": 1792820448773,
@@ -27708,49 +27702,15 @@
     "threads:DfbZEjDD2hF": 1794029444414,
     "threads:DfbZA73ox4J": 1794029444414,
     "news:CBMiuwFBVV95cUxNcnZxel8xbzliRVZpOTd1djNHTHA2dWdMOGxCX3NsNlhTQTF0N2NRV1ZnakppYmlxWDdReHlLSUt6QUhvdWlGYnBjcHBnWUNDWmVVWmV6aDJ3S3hSeUZsa05BZWF2V2lDSThmYjVDMk1NdVBWN3p1OWFPejRZQzlRaTZKNkhJYXZMay1fQXVoNW9xUlF0QTFqVDZUZUZSdlhJenFNTTlXTmhFRnBqZjJ3NFZFYlY3cUtMOGhr": 1794029444414,
-    "news:CBMi1AFBVV95cUxNMWE5UEdqbGJLME9SQ3U1ZXAxcF9SWWcyS01lVUx1azRCOVE0SFROQ05pS2NnWDZMWENMVjl4WjdPWFo0WXhCaHdEbnc0eS1kWnFvNDZ6cDlJWVJleGFjeGVINlBMbWN0YmhJYkJXUWNKTGVseUplUW13R2tvXzNodVVXZ05Pb2RlaEZGY1JHRldTUEkyTVQtcDA3Qmh1T2hWb2prTE5BRGtOX1I5Z08xdTNPSE5qUHBWXzZzeXdvWG5MQ1JZejhNMFVTcmRfX2p4S3lFdNIB1AFBVV95cUxNMWE5UEdqbGJLME9SQ3U1ZXAxcF9SWWcyS01lVUx1azRCOVE0SFROQ05pS2NnWDZMWENMVjl4WjdPWFo0WXhCaHdEbnc0eS1kWnFvNDZ6cDlJWVJleGFjeGVINlBMbWN0YmhJYkJXUWNKTGVseUplUW13R2tvXzNodVVXZ05Pb2RlaEZGY1JHRldTUEkyTVQtcDA3Qmh1T2hWb2prTE5BRGtOX1I5Z08xdTNPSE5qUHBWXzZzeXdvWG5MQ1JZejhNMFVTcmRfX2p4S3lFdA": 1794029444414
+    "news:CBMi1AFBVV95cUxNMWE5UEdqbGJLME9SQ3U1ZXAxcF9SWWcyS01lVUx1azRCOVE0SFROQ05pS2NnWDZMWENMVjl4WjdPWFo0WXhCaHdEbnc0eS1kWnFvNDZ6cDlJWVJleGFjeGVINlBMbWN0YmhJYkJXUWNKTGVseUplUW13R2tvXzNodVVXZ05Pb2RlaEZGY1JHRldTUEkyTVQtcDA3Qmh1T2hWb2prTE5BRGtOX1I5Z08xdTNPSE5qUHBWXzZzeXdvWG5MQ1JZejhNMFVTcmRfX2p4S3lFdNIB1AFBVV95cUxNMWE5UEdqbGJLME9SQ3U1ZXAxcF9SWWcyS01lVUx1azRCOVE0SFROQ05pS2NnWDZMWENMVjl4WjdPWFo0WXhCaHdEbnc0eS1kWnFvNDZ6cDlJWVJleGFjeGVINlBMbWN0YmhJYkJXUWNKTGVseUplUW13R2tvXzNodVVXZ05Pb2RlaEZGY1JHRldTUEkyTVQtcDA3Qmh1T2hWb2prTE5BRGtOX1I5Z08xdTNPSE5qUHBWXzZzeXdvWG5MQ1JZejhNMFVTcmRfX2p4S3lFdA": 1794029444414,
+    "threads:DfbcViugfqv": 1794029730876,
+    "threads:Dfbb0hAktQU": 1794029730876,
+    "threads:DfbcAZ5gaqf": 1794029730876,
+    "threads:DfbbftcGd8x": 1794029730876,
+    "threads:DfbcUMUmc6z": 1794029730876,
+    "news:CBMiugFBVV95cUxPYjdLSnhvdy02RG9EWGlwQ21ta2JLbTRDaE0ySWtTeHVocTdaamFxMmZKY29CTEVuSlVDMDY3X0dqSlVaUFIySHpzcENleHZQdkFvLTQtMkctSXlFdUdQeWJiMUpCdlBuZXlaeDlxdXBMSElMRDFVR19fbWhpTThJMDFMZms2empmakRfNEl4Y2s0Zi1tSy1CZHBTVEYzUXg2LXRNMVhQanpKdXRlNTFRbzVFQWs5VjdDSWfSAboBQVVfeXFMT2I3S0p4b3ctNkRvRFhpcENtbWtiS200Q2hNMklrU3h1aHE3WmphcTJmSmNvQkxFbkpVQzA2N19HakpVWlBSMkh6c3BDZXh2UHZBby00LTJHLUl5RXVHUHliYjFKQnZQbmV5Wng5cXVwTEhJTEQxVUdfX21oaU04STAxTGZrNnpqZmpEXzRJeGNrNGYtbUstQmRwU1RGM1F4Ni10TTFYUGp6SnV0ZTUxUW81RUFrOVY3Q0ln": 1794029730876
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Elshinta",
-      "x": "Daftar 5 bansos November 2026: PKH Tahap 4, BPNT, hingga BSU - Elshinta",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl96TGVTaGY0UkJRN1lPekFUT3NRdTlZUkVGc3JWMlBpN05jZGJ2eHdsUEphWnhfUzlFSDFmMy1vVjNfZ05hMlNNZndBRDBieXhBS05pQWdyajJGc2NUU0pVc0FXdHBvaW5KOVdaUko4Sk9TWG1jdGV1c0hVSUwydlFn?oc=5",
-      "d": 1794017445000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Elshinta",
-      "x": "Cara cek desil November 2026 lewat HP pakai NIK KTP, ini langkahnya - Elshinta",
-      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkZ0RW9qODEyNjF0SXlLRzNjUFV2WV9kZXZRTnAxTktaMGdQMlFhd0dDdnVfbjVSbmJyTGZzLVNPLVFlTjM0TDd0Rko4Z3hHMm4zaVBZeW5kdndwVzgtb0E5RE1LV0NkTFRMM29jUVZyM0ZiWmdtanJIcDRXS0xzLWZ3NEZQV3hFazlwNw?oc=5",
-      "d": 1794016839000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbHofXDwN8",
-      "d": 1794018846000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbHkluj9tr",
-      "d": 1794018814000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29210,10 +29170,50 @@
       "d": 1794023020000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arispandhi",
+      "x": "Buat teman2 Samarinda yg lagi butuh pelatihan English for Frontliner Gratis dengan benefit makan siang, uang saku, dan juga sertifikat BNSP. Silakan DM saya utk pendaftaran nya ya.",
+      "u": "https://www.threads.com/@arispandhi/post/DfbcAZ5gaqf",
+      "d": 1794029528000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hanniebisnis",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@hanniebisnis/post/DfbbftcGd8x",
+      "d": 1794029260000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@shirase.id",
+      "x": "kita lagi buka kelas gratis kak",
+      "u": "https://www.threads.com/@shirase.id/post/DfbcUMUmc6z",
+      "d": 1794029690000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Ketik",
+      "x": "Timbulan Sampah Santri Capai 2.000 Ton per Hari, Kemenag Dorong Pesantren Jadi Pelopor Pengelolaan - Ketik",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjdLSnhvdy02RG9EWGlwQ21ta2JLbTRDaE0ySWtTeHVocTdaamFxMmZKY29CTEVuSlVDMDY3X0dqSlVaUFIySHpzcENleHZQdkFvLTQtMkctSXlFdUdQeWJiMUpCdlBuZXlaeDlxdXBMSElMRDFVR19fbWhpTThJMDFMZms2empmakRfNEl4Y2s0Zi1tSy1CZHBTVEYzUXg2LXRNMVhQanpKdXRlNTFRbzVFQWs5VjdDSWfSAboBQVVfeXFMT2I3S0p4b3ctNkRvRFhpcENtbWtiS200Q2hNMklrU3h1aHE3WmphcTJmSmNvQkxFbkpVQzA2N19HakpVWlBSMkh6c3BDZXh2UHZBby00LTJHLUl5RXVHUHliYjFKQnZQbmV5Wng5cXVwTEhJTEQxVUdfX21oaU04STAxTGZrNnpqZmpEXzRJeGNrNGYtbUstQmRwU1RGM1F4Ni10TTFYUGp6SnV0ZTUxUW81RUFrOVY3Q0ln?oc=5",
+      "d": 1793976960000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
