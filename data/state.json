@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiugFBVV95cUxPenJDWjdCNFR6djhTNnh1dFZMM3J4dXdLeXV0RktGRmlqZ0g3TXlQR2NMNDN1UG9BN2hFRFQxZzZKZDBkSjFLRTlibllVSjBCNGg3d1cwVHFDVEtPV1NXa2VNNjlSRWpObUlZdWJuNV9WaGhLbGhxTGVZemFCUVA2dnNxZ0dlc3NMRjRueEJQSFlJdUlZZ1RmOTVEbHVTQWtkWlA0Z2I3bkVWUm9ZOGo5eE9mbUlleHVBTWc": 1792839338363,
-    "news:CBMixwFBVV95cUxOSzhHWUZfcnpIVVgzQU8zaUxaOVFGcUVJTnJxNWQ0UkdnTk5LeEIzZnlybGlsQVJHd0loMjFXZ0RMWHlFR2tTZzhSZjVVUW5lRXJxeUh1aUdQT3NsQVV5aTk4Z3lZamRYelc4b1ZBVnZzcDQ1bG10NkJQNGw2aUlzbVMzeHBmREx5S0V0SHFSczB2Y2pVQ0dyZ0x1Yks4ZEJtSWw4VWpTMnRBMTJ0V1ZYbEcwdlRaVm5CbS1iX0lmNTRIMVZyZHJJ0gHMAUFVX3lxTE9fdkN5amdYOS1sR1hReGdBZmJ2RnlIMEdvd1ZQZWJNWENlVkx5R0Z6a0x3ZlFIZWNaaUNhdFhOcER5b1dxaTl6RkFWVEZZdTVQOWxGTnpkRmtneEc5Y3FRbWdBODVidDJ2RjlxTFBITmYtZmVMTlQ4Sk1LUFFwOVB5RzhKU0xDUGVXdVlKYXFJX1JfLU1iUTBsdVBCT1BFemliQUhPczBMc0JLbzI2WE5WdVBHUWtXaERjb1ZpeWhsVmhHYTRocnJxTUZ1ZQ": 1792839338363,
     "threads:De3-fvbmVs1": 1792839658149,
     "threads:De3-dTaGTGe": 1792839658149,
     "threads:De3-SNlmcJJ": 1792839658149,
@@ -27679,19 +27677,10 @@
     "threads:DfcAdQIiFFe": 1794048647986,
     "threads:DfcAArCo9Jv": 1794048647986,
     "threads:Dfb_viBiabW": 1794048647986,
-    "news:CBMiwgFBVV95cUxNcmpuWml4RFA2ZXo4WmhCNHhuY2tpRnFNbmNydWhJMlFqLUxRYVR5aV9qZWpld2lnU05qeXpVcFFqUUpwUGFISFR1X1RXYmlkMU9jSjZJQ2hIcW1IbjhiVWROSzZDM3M4SVZrQkRSUEU4Y1RVVDUtQ2lHbkdFU0xkelE2WWh4eEdEN0RBcEdUWnBDV1BhV3dPdG1DU3ctdzlBTDBxUU84ZnppSFpKZE92cDNESUZPNEJPSXNJendXNWNyQQ": 1794048647986
+    "news:CBMiwgFBVV95cUxNcmpuWml4RFA2ZXo4WmhCNHhuY2tpRnFNbmNydWhJMlFqLUxRYVR5aV9qZWpld2lnU05qeXpVcFFqUUpwUGFISFR1X1RXYmlkMU9jSjZJQ2hIcW1IbjhiVWROSzZDM3M4SVZrQkRSUEU4Y1RVVDUtQ2lHbkdFU0xkelE2WWh4eEdEN0RBcEdUWnBDV1BhV3dPdG1DU3ctdzlBTDBxUU84ZnppSFpKZE92cDNESUZPNEJPSXNJendXNWNyQQ": 1794048647986,
+    "threads:DfcAkiskkTG": 1794048936301
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@creator_sukses24",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@creator_sukses24/post/Dfbk-6dgY4U",
-      "d": 1794034234000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29181,10 +29170,20 @@
       "d": 1794043875000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ayuthereall.a4",
+      "x": "Ga . Cukup di aplikasi cek bansos buka yg profil trs dibawah desil 6-10 kan ada pembaharuan data klik itu",
+      "u": "https://www.threads.com/@ayuthereall.a4/post/DfcAkiskkTG",
+      "d": 1794048698000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
