@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3lH0ckvQp": 1792826741346,
-    "threads:De3lGnoErQv": 1792826741346,
-    "threads:De3k5RYEtFO": 1792826741346,
-    "news:CBMiqgFBVV95cUxPQW80OThFMExZbE5Kb1o5dVhDZU43MTJISVd5dUFHSk0waXAxVHJGOHhjUzUwa0NlXzdmWHRPd2poamlKWGZNN1pjdEQ0amZhV3RhV3BobTU4QU1aRHpQWDMtV20yb1o3bTlmT1J0MlFCcGQyMW9aS1pmNlFmWG9fXzcxdkYwZE1nUTUtVmlHbXFPOVZRcVJDRGlsTkhHNTl1RDd0Q1JPcENnQQ": 1792826741346,
-    "news:CBMiwgFBVV95cUxPNDJscExlVVk4UXhTS2FIbWltRG9vXzh4REhxXy02Qzdyci14NnkxMFNsSVg4ZWpEQlpUcFlweDlqYUcxaVJBYjkwNVNERkhVOFJHMlgwQVRIMjgwTnBhWF9DUGsweml0VEk0NFJTczFrcGFLbnhzNnF6RDhiNmk5RU92WVk0bkVac1BNZWd1MTN5eVhITHQtRmZ6bG9Iby1BdkJUUXNDU0h5YWw1cVJldFZYU21iLS13YmY4MUtfQVBlZw": 1792826741346,
-    "news:CBMiuwFBVV95cUxNRzk0cjNDZlZmWDBhVF9iZlRNWjd0Z19MRzlvQjktSUlZaHV1VmROWEpNX0NwX21WU2E5RW9vUDhVbTRuNHgxOVBBWnAyc0NNWUFSZ1p4amVpOHpiUFlKU2FVWkNyQnF3aGxnOGFMZHNuV3IxTnBBREVrYjBUM3pKTFk0aWJ6aEUxelNVMWhFSFMyR2tjQkItM2xUcVdpcV8tbkNISTJIYTZlOEJ1XzVmX3RSU1pfNy1ucnVr0gHAAUFVX3lxTE8tcEF3SkZVYlZ5YTNKTWxsVGlhbmtmNGRtSFZZQU1kZm1wMENGcVRVREJha3ZaRnVFWVc4Y0k0Z25XR2tGc2VSLWhuT3hGc3RWVHJuNGVrZGx1VW1RRzV6NEMzOTZzXzRUOGlEWnFKbk4wRWtwbm41dUtjSjVjUGNiZkJPRVQxVElKTkRnY0FIN2xDZUxtNl9CRFgyMnpWSndQU1p6MmRUQmxWMEFocnl5NDltTllzcmctTFJIT3lEbw": 1792826741346,
     "threads:DeOf6UzE__g": 1792827054185,
     "news:CBMi-wFBVV95cUxPTVFsY3UxbkQ0ZnBIS0kwanVCYnVwOVNRekFwcnZpOWxIeDJ4c25Ha0lqNnhuNDBmbXc3TVVVbmR3bVZlcktSWElQZmp3MWluQm8zQ2ZEVTF0Z1pNcjY4ZmtKS3RrNVFQT195b1hYTVJvYmlQYUc5VkYtbUdQa1lyOTgyUGNpWE4zVmJJWV8zUkxoV0N6S3FldkdNbzVLQzRyUUEwdE9VaWo1T09TeXdDMXdmNmM4UW9iTThRUWlraHgydngzNXlxNGY3Y1B2SDFNX0I5aTJWUUhYTWcwYm4xVEFlb1Q1OWZrRDB2NU5pQUlLMmF1dDNzRVRqTQ": 1792827054185,
     "news:CBMihgFBVV95cUxNRnFsUFh2elZWckZ3bS1yM2JnbnBRMDJDNWp2WmVJVE5YT0tMZ3Ntd2NzUUFDeFdUYThnTWd6Yk9sQ2JUOEQwaHNGdGw0M0RpWFF5b2xMaWMzeXZKTmkxS0JjSmZmMWpZUVBpanNidEZuUl9kWW5aQldzSUlBdzhhaVVmaWNmZw": 1792827054185,
@@ -27695,119 +27689,28 @@
     "threads:DfbmgC2D2am": 1794035739091,
     "threads:Dfbnd5WHUZf": 1794035739091,
     "threads:DfbngmXFJnK": 1794036044285,
-    "news:CBMilwFBVV95cUxPak40RnFuaXZsMjVUZi1zSU8zWGVBek1CMzJaQjNZMUlFRzgyQi1yMVdCemVhV09qcmkzeWdsZ2gyUkI1YW5SLWNjSllNTU5xcUljcUg2dklRcVg3ZFBaVVJ4cmhCT3JSWklIc0VZSzNid2VmeXVTRVpja1VPLVRjOHRKcnA1bmRlZUNHS2czeWhtcFd4NnZN0gGmAUFVX3lxTFByMHVsQVQxWW5tVXlHODhYUHpNaUJsSmpjZjNfaFBGbEVuVWxlSG9wczZhb2dFTGpreWctSzlqNUp2Z0Z1cXJUQmdNcU92Nnoza0FDTmFrMmRmVk0tM1ZXVTNzVWdNQUx4ZUJKVXRfMXJKOEFCTzNVMm9SQ3pNc2Nua29HeDRyaTlEd3RNcTFiR3A1bnZBTlhwQTlEM21xM1F6ZjZnQlE": 1794036044285
+    "news:CBMilwFBVV95cUxPak40RnFuaXZsMjVUZi1zSU8zWGVBek1CMzJaQjNZMUlFRzgyQi1yMVdCemVhV09qcmkzeWdsZ2gyUkI1YW5SLWNjSllNTU5xcUljcUg2dklRcVg3ZFBaVVJ4cmhCT3JSWklIc0VZSzNid2VmeXVTRVpja1VPLVRjOHRKcnA1bmRlZUNHS2czeWhtcFd4NnZN0gGmAUFVX3lxTFByMHVsQVQxWW5tVXlHODhYUHpNaUJsSmpjZjNfaFBGbEVuVWxlSG9wczZhb2dFTGpreWctSzlqNUp2Z0Z1cXJUQmdNcU92Nnoza0FDTmFrMmRmVk0tM1ZXVTNzVWdNQUx4ZUJKVXRfMXJKOEFCTzNVMm9SQ3pNc2Nua29HeDRyaTlEd3RNcTFiR3A1bnZBTlhwQTlEM21xM1F6ZjZnQlE": 1794036044285,
+    "threads:DfbneJuHVcz": 1794036332559,
+    "threads:DfboFIIEsqm": 1794036332559,
+    "threads:Dfbo5_OoyZN": 1794036332559,
+    "threads:Dfbo5eaFj4p": 1794036332559,
+    "threads:Dfbohw0mV0u": 1794036332559,
+    "threads:DfbocQECdFM": 1794036332559,
+    "threads:DfboPXEFNSZ": 1794036332559,
+    "threads:Dfbn_vTkXB-": 1794036332559,
+    "threads:Dfbo8aikmim": 1794036332559,
+    "threads:Dfbo6-iEvC-": 1794036332559,
+    "threads:Dfbo47qEtnJ": 1794036332559,
+    "threads:DfbowNykuPp": 1794036332559,
+    "threads:Dfbos1qksI7": 1794036332559,
+    "threads:DfborxuEpAT": 1794036332559,
+    "threads:DfboqDQEtS0": 1794036332559,
+    "threads:DfbooZ7EqEp": 1794036332559,
+    "threads:DfbkxL1ms72": 1794036332559,
+    "threads:DfboWJrD48W": 1794036332559,
+    "threads:DfboDfjkw4u": 1794036332559
   },
   "digest": [
-    {
-      "t": "@updatepelatihan",
-      "s": "threads",
-      "a": "@updatepelatihan",
-      "x": "📱 Pelatihan Gratis Digital Marketing 📱 💡 Daftar Pelatihan: 1. Digital Marketing (Social Media Organic) - 9-13 Nov 2. Persiapan Sertifikasi Digital Marketing Batch 6 - 9, 11, 13,",
-      "u": "https://www.threads.com/@updatepelatihan/post/DfbRd15AcoB",
-      "d": 1794024002000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Bansos PKH dan BPNT Tahap 4 Cair November 2026, Pemilik KKS Baru Dapat Saldo Dobel! - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWhhOVFiWGphU3FrVDlIakVDZExGTzY5LUF6WU9mNmNJN2dGX3lDX1VGdFMzTkRYZ1BlMGdWRmlaX0t4SGlfQjJZd1hVc3drTFd4d1k5Y3paa25MS3lkZzZXTDlGSXFwcGwwdUl1QTlTem91bEg4ZndwMXpvZ2h6UmFQT09IQXR3TjRLMXlXa0dadVpSS2xMMm8xd3RkTG5aWDJuSkdRV0tEcHZHUEY3OVVsM250UVhPT0p5UlpKMWdRa3BzYlc4WGpOYm0wNGPSAdQBQVVfeXFMTTFhOVBHamxiSzBPUkN1NWVwMXBfUllnMktNZVVMdWs0QjlRNEhUTkNOaUtjZ1g2TFhDTFY5eFo3T1haNFl4Qmh3RG53NHktZFpxbzQ2enA5SVlSZXhhY3hlSDZQTG1jdGJoSWJCV1FjSkxlbHlKZVFtd0drb18zaHVVV2dOT29kZWhGRmNSR0ZXU1BJMk1ULXAwN0JodU9oVm9qa0xOQURrTl9SOWdPMXUzT0hOalBwVl82c3l3b1huTENSWXo4TTBVU3JkX19qeEt5RXQ?oc=5",
-      "d": 1794023020000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbSR_tj_oN",
-      "d": 1794024429000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbSQI2Dz-U",
-      "d": 1794024414000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbSORzjyF5",
-      "d": 1794024399000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbOjXwD2Wz",
-      "d": 1794022474000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yesirahmayani",
-      "x": "Yuk kak belajar bareng, kebetulan ygl 13 November nanti aku ada info webinar gratis digital marketing, webinar ini cocok untuk pemula dan masih bingung mau mulai dari mana. Di webi",
-      "u": "https://www.threads.com/@yesirahmayani/post/DfbOftqk42m",
-      "d": 1794022444000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbOaPoD_hL",
-      "d": 1794022399000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@updatepelatihan",
-      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
-      "u": "https://www.threads.com/@updatepelatihan/post/DfbRwNMGC0Y",
-      "d": 1794024152000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dee_detrisa",
-      "x": "Wah keren kak, saya juga sering kasih pelatihan gratis buat UMKM... Aku punya prinsip jangan terlalu money oriented lah, rejeki nggak akan ketuker... Semangat terus kak!! Kapan2 mu",
-      "u": "https://www.threads.com/@dee_detrisa/post/DfbRrlGo8Ri",
-      "d": 1794024114000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@faisbilah",
-      "x": "Nih gak cuma disalurkan aja ya. Tapi ada pelatihan, juga, sembari menunggu interview dengan majikan. Pelatihan tanpa henti terus diberikan hingga suasana di loading dan mess sangat",
-      "u": "https://www.threads.com/@faisbilah/post/DfbRlFyGrHA",
-      "d": 1794024061000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29197,10 +29100,120 @@
       "d": 1794024121000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/Dfbo8aikmim",
+      "d": 1794036311000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/Dfbo6-iEvC-",
+      "d": 1794036299000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/Dfbo47qEtnJ",
+      "d": 1794036282000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/DfbowNykuPp",
+      "d": 1794036211000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/Dfbos1qksI7",
+      "d": 1794036183000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/DfborxuEpAT",
+      "d": 1794036175000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/DfboqDQEtS0",
+      "d": 1794036160000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/DfbooZ7EqEp",
+      "d": 1794036147000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@algonova_indonesia",
+      "x": "Kami bangga bisa membantu anak-anak mengubah ide menjadi proyek nyata. Agam dan Alaric, terus pertahankan prestasi kalian! 🏆 Pengen anak kamu juga bisa membuat proyek nyata yang t",
+      "u": "https://www.threads.com/@algonova_indonesia/post/DfbkxL1ms72",
+      "d": 1794034122000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@achrasz",
+      "x": "Mau ikut kelas gratis",
+      "u": "https://www.threads.com/@achrasz/post/DfboWJrD48W",
+      "d": 1794035997000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@husna_nfh",
+      "x": "Mau ikut kelas gratis",
+      "u": "https://www.threads.com/@husna_nfh/post/DfboDfjkw4u",
+      "d": 1794035845000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
