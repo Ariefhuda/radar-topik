@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De41mDpE8RQ": 1792869078949,
-    "threads:De41I1gE9RI": 1792869078949,
-    "threads:De40z2Zk3ui": 1792869078949,
-    "threads:De41yRBDVHm": 1792869078949,
-    "threads:De41myhH1xR": 1792869078949,
-    "threads:De41X_hiPUL": 1792869078949,
-    "threads:De41VxyD7Ak": 1792869078949,
-    "threads:De40m3lEzff": 1792869078949,
-    "threads:De41bCRk1lD": 1792869078949,
-    "threads:De42qVAkwvr": 1792869078949,
-    "threads:De42d9PE9Ir": 1792869078949,
-    "news:CBMijwFBVV95cUxOb3lmN3hHUVlRVVRxczBRY0pncVJRaUZNOWZORkVaYV9oSEh0bDhnRTItaHFYN3BwMVdyZDVsSzNldHlsMkE5cGp3eXVDVi10WmJJa3E5dHpRV09uUHBhVHJ3RVk1dE9Wc3o2QXZJbDY5Nndlc09iZUJ0T0pCUldtTHA5T05lYTRaU21SeWNwbw": 1792869078949,
     "reddit:t3_1xegwqx": 1792869342317,
     "news:CBMijgFBVV95cUxOcEVFa0dMSV9DZERvX0htN2xKbF93ZUpaNGo0VThublNVN0ZiV21yRzFsdmZXRmpEeUtQRzViZi1Demg1SGNtN1dZc2toa3FrVWdBS0hZa3RiM2cwNXNGSXpUWXZqTHdIMmQ4NlhDN0FROEtLREJfUFZvaE9ycmFocmVvdll2LVROaDJuTENn": 1792869342317,
     "news:CBMiuAFBVV95cUxNaVNtajdQbUxBNmRDR3Ryamp3dWIxV2RJVldyMmhwQ0dXNGFTdjgtekRLbVZfZVhHekt4NlJkN2tPUW9tQWJzRTFhQlBqZ2JWUEVPUzNOME1OQ0NIWkRfOVNFSlM1aFhpUEFKcWxiOWduVXpOZ3FJSzFmdnJmZGJLbHR6MmxUaG5RRVdHdnFqb3hoWFpQakV1YklUVlNwUi1XRjg1RmF6YUFYOUQ5MVhOS2pyTEVIblVo": 1792869342317,
@@ -27702,19 +27690,12 @@
     "threads:Dfc2NsOjegK": 1794078052383,
     "threads:Dfc4oX_o_sf": 1794078338078,
     "threads:Dfc4CXcEnhq": 1794078338078,
-    "threads:Dfc5EnMgZJ1": 1794078338078
+    "threads:Dfc5EnMgZJ1": 1794078338078,
+    "news:CBMieEFVX3lxTE9iSnR3c2g0VTEtMmNuSGxzWjZCMUxFVFFiTTBFX2xzMHBjdjkxd0JWSk9Ha0FxaW0yN2U0bDFiQVZNTkVpYWUyTnRUZmxPdV84Y1RjZ3EzdWgtaVRrbjh5d1otbUdGbGhQRGJ1bzg2R0NHaUlCSHRMeQ": 1794078643130,
+    "news:CBMirwFBVV95cUxPZVZMemhhSV9DNk5TNU1JR3RZTTgzQWlYNG9KVmZuQXZFZzRhWXBKdklBeFhsem1YOHJISjlYcU9KXzhfelgzZ2NjX3lRLWl4YUo5U2Y4SlBIT0Y3UmJuTmdwMzZCN0VNaGI3bVRFRFBZbE5kUEdUSk1vRllfaTNvZnV4WVZLbl91cEZlRzJDeWg3b1g3WlN3XzJpR2luZzhDRWZ3alhJbEhXUFZuaTdn": 1794078643130,
+    "news:CBMiwgFBVV95cUxNdDU1MzBFVmZkbkd5Q1dsdTM3RmQwQWdQeWlsbU9HRTNNMDVaUU9IQVVjQ2xTVC12MWN3emNUdE0zNXNFZ001ZHdON3BzNDlkNVc5MDk2R3hKOHAxV1dQSEowNDd0cHlOOFFqMXlyUE1OTlcwMzFlck9xMEJ5bElBRmtBUkVyWjhXczFfcWo3blJIa3N4djlHdU1oZWFBdGswZlg5ZHB0STMzRHZmS0J2R3NuTGhuYzZ3RzRSZzlmdzh6QQ": 1794078643130
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Benuanta",
-      "x": "Disdikbud Kaltara Dorong Digitalisasi Administrasi Sekolah lewat Absensi Online - Benuanta",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUU9Fdlp6VUVaZWtfMHlNWkFzVTRGOUxMeTA0N3pyRmp3eW1RcUpXaXlJY21JNDFaQWJBMVFnTTg0ZERMb0xJUWdKZmk4d21WbEhIdXBRX1NIc041eVNGNkJKYlBiSlNZMU9JM3pZN2ZpczZtUmNnSldFUm1sZDFURVJlMGEzUGtCUzlxUUl5U1o5U2JnUkRnU2pkU1RqSWcxTU85LWwyQjVILVo2c2k2YVgycWpZQmV3RUtIbQ?oc=5",
-      "d": 1794051036000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29204,10 +29185,20 @@
       "d": 1794078321000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Mattanews.co",
+      "x": "Kesempatan Emas! Pemkab Karawang Buka Pendaftaran Beasiswa Karawang Cerdas 2026 untuk Semua Jenjang - Mattanews.co",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDU1MzBFVmZkbkd5Q1dsdTM3RmQwQWdQeWlsbU9HRTNNMDVaUU9IQVVjQ2xTVC12MWN3emNUdE0zNXNFZ001ZHdON3BzNDlkNVc5MDk2R3hKOHAxV1dQSEowNDd0cHlOOFFqMXlyUE1OTlcwMzFlck9xMEJ5bElBRmtBUkVyWjhXczFfcWo3blJIa3N4djlHdU1oZWFBdGswZlg5ZHB0STMzRHZmS0J2R3NuTGhuYzZ3RzRSZzlmdzh6QQ?oc=5",
+      "d": 1794059080000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
