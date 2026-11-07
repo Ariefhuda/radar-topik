@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5KxeLCUFk": 1792879545083,
-    "threads:De5KLRODxLz": 1792879545083,
-    "threads:De5KBcBoFKd": 1792879545083,
-    "threads:De5JvwKFH2a": 1792879545083,
-    "news:CBMilgFBVV95cUxPNWpwVU1GSUllbVlXS1VEQV9NVGNpUV9ObzFTd093T1ZFaURBTFBGSTRmVjNNREttRU9DZkk3N2h2Q3d6UGFUNTJpdUEwc0kxcEJRS0FoVjQ4TWxQVEwxMFU5LXpCNElqT2hBY2xTNGV6a0JHNGNmd0t3RXNLUzdWUkNlZ0VseW5Ma0dTSzUzNU1fS1lja3c": 1792879545083,
     "threads:De5Ln07Cg6c": 1792880207724,
     "threads:De5LDlHjo1t": 1792880207724,
     "threads:De5LinnkxZa": 1792880207724,
@@ -27695,19 +27690,12 @@
     "threads:DfdLXGzPY_I": 1794088242795,
     "threads:DfdLGwuv7qM": 1794088242795,
     "threads:DfdMw9YEUO-": 1794088850728,
-    "threads:DfdMDu7jA4P": 1794088850728
+    "threads:DfdMDu7jA4P": 1794088850728,
+    "threads:DfdNDi-G0gt": 1794089136262,
+    "threads:DfdMwX1klJQ": 1794089136262,
+    "news:CBMibEFVX3lxTFBmWWVnOE1LNlZpa1M2bmRhWElGNHlpWTFEZ2ozWExtVWZaOV9GaXNpUWd3eGFEcEFHVndWLVVMQUhVSUtkOEh4TWE5azc0WVI0cGJuM2xJcWNaT3dPTGFpM29oVWlPdWdsckhCeg": 1794089136262
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@budiyantibaudi",
-      "x": "Yang masih bertanya bagaimana cara cek desil?? Silahkan membawa KK atau KTP ke operator SiksNG desa/Dinas sosial setempat dan bisa melalui aplikasi cek bansos (download aplikasinya",
-      "u": "https://www.threads.com/@budiyantibaudi/post/DfcNYY8nXoq",
-      "d": 1794055415000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29197,10 +29185,20 @@
       "d": 1794085347000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@timuraya_jaya_lestari",
+      "x": "Tunggu apa lagi? Wujudkan impian sukses finansial dan ubah masa depan keluarga Anda sekarang juga! Kami membuka kesempatan luas dan resmi bagi wanita Indonesia tangguh yang ingin b",
+      "u": "https://www.threads.com/@timuraya_jaya_lestari/post/DfdMwX1klJQ",
+      "d": 1794088641000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
