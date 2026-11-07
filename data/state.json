@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4CI95khJ8": 1792841762240,
-    "threads:De4CQY0j-3g": 1792841762240,
-    "threads:De4B7cQDHIN": 1792841762240,
-    "threads:De4BYC0oCmX": 1792841762240,
-    "threads:De4AyQpFiy1": 1792841762240,
-    "threads:De4AneAD8E2": 1792841762240,
-    "threads:De34ggOG0kY": 1792841762240,
-    "threads:De4CUwEo9M-": 1792841762240,
-    "news:CBMiugFBVV95cUxONktMeEZzVE1ZOFJaMjF3TmVSdE9uaUpHNXFZeHBiMmdsSzV2OVpwZ19DVHVsNHBqei04WHNiSDBxZVNKQU9jb1RlblpmbDRRUERDYndOR0JUMXdvR2RZM3VNUXlta3Q4MmpoYmV5cG1lOGN0ODdFV0JjNzlNVFFMRWxfSFZJUzBRb3FJUGpHSkU4MERsWkZtWFA0MTN4V3lmQ3hDNDJFUmozT1JyQ3RFSlFUTmc5ZkxqaVE": 1792841762240,
     "threads:De4C5YXjvNe": 1792842054354,
     "threads:De4CPJYjWMj": 1792842054354,
     "threads:De4BthPkwml": 1792842054354,
@@ -27667,19 +27658,12 @@
     "threads:DfcEFsElG6G": 1794051049376,
     "threads:DfcEBvmE94G": 1794051049376,
     "threads:DfcEQMcE_YR": 1794051049376,
-    "threads:DZvkaEnE4bT": 1794051049376
+    "threads:DZvkaEnE4bT": 1794051049376,
+    "threads:DfcFiniAd1J": 1794051332672,
+    "threads:DfcE_LIgf7U": 1794051332672,
+    "news:CBMizgFBVV95cUxONFVodzRBUDRPWndRTDQxOGV6QWc1d1lURVpkN3I3dkZubEs4LWJQMWM1NnZ4NzBQY2hMUkp1elB2TXVCVWRqcmI4ZnZabkVYT1hQTWFmNk5JbC1KYjdUY0ZUeGdhSmZlQWlMSlJHTHYtdHF2NG51SlJMZ05temFra2Q5aTJvbTNjNTFxWWZsWE9rc2xPT2dCOXo4Tm1UU2dsUzBQVnR5NUhvQ3hHeWxEaEVzb2JlR2dweG81dnkwbzZWTl9jaFltcDJTMnRCdw": 1794051332672
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "nusaperdana.com",
-      "x": "Bansos PKH dan BPNT Tahap 4 Cair November 2026, KKS Baru Terima Rapel - nusaperdana.com",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPak40RnFuaXZsMjVUZi1zSU8zWGVBek1CMzJaQjNZMUlFRzgyQi1yMVdCemVhV09qcmkzeWdsZ2gyUkI1YW5SLWNjSllNTU5xcUljcUg2dklRcVg3ZFBaVVJ4cmhCT3JSWklIc0VZSzNid2VmeXVTRVpja1VPLVRjOHRKcnA1bmRlZUNHS2czeWhtcFd4NnZN0gGmAUFVX3lxTFByMHVsQVQxWW5tVXlHODhYUHpNaUJsSmpjZjNfaFBGbEVuVWxlSG9wczZhb2dFTGpreWctSzlqNUp2Z0Z1cXJUQmdNcU92Nnoza0FDTmFrMmRmVk0tM1ZXVTNzVWdNQUx4ZUJKVXRfMXJKOEFCTzNVMm9SQ3pNc2Nua29HeDRyaTlEd3RNcTFiR3A1bnZBTlhwQTlEM21xM1F6ZjZnQlE?oc=5",
-      "d": 1794024121000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29169,17 +29153,26 @@
       "d": 1794050629000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Tribunkaltim.co",
+      "x": "Cara Daftar Beasiswa DataPrint 2026, Bantuan Rp500 Ribu untuk Siswa SMP hingga Mahasiswa S1 - Tribunkaltim.co",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONFVodzRBUDRPWndRTDQxOGV6QWc1d1lURVpkN3I3dkZubEs4LWJQMWM1NnZ4NzBQY2hMUkp1elB2TXVCVWRqcmI4ZnZabkVYT1hQTWFmNk5JbC1KYjdUY0ZUeGdhSmZlQWlMSlJHTHYtdHF2NG51SlJMZ05temFra2Q5aTJvbTNjNTFxWWZsWE9rc2xPT2dCOXo4Tm1UU2dsUzBQVnR5NUhvQ3hHeWxEaEVzb2JlR2dweG81dnkwbzZWTl9jaFltcDJTMnRCdw?oc=5",
+      "d": 1794050758000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794030637453,
-    "news": 1794051049376
+    "reddit": 1794030637453
   }
 }
