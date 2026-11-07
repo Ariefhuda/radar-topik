@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5V4GDAfGW": 1792886143775,
-    "threads:De5XBtjGsmr": 1792886143775,
-    "threads:De5W-Qmiall": 1792886143775,
-    "threads:De5WTBTkU6W": 1792886143775,
-    "threads:De5V8pVDxc0": 1792886143775,
-    "threads:De3sQ3SGac7": 1792886143775,
-    "threads:De5WxuEnyYZ": 1792886143775,
-    "threads:DezIqWRD1sb": 1792886143775,
     "threads:De5Xr_jAMLI": 1792886744293,
     "threads:De5YWPNgasU": 1792886744293,
     "threads:De5YecOASQy": 1792886744293,
@@ -27726,19 +27718,14 @@
     "threads:DfdX_L3kjt_": 1794095145973,
     "threads:DfdYw5pko3p": 1794095145973,
     "threads:DfdU-Mokmsr": 1794095145973,
-    "threads:DfdZasYAQ6f": 1794095437377
+    "threads:DfdZasYAQ6f": 1794095437377,
+    "threads:De1_5WOk2Ws": 1794095741371,
+    "threads:DfdZdr9GdwE": 1794095741371,
+    "threads:DfdZbQuIFLt": 1794095741371,
+    "threads:DfdZsM5BLLT": 1794095741371,
+    "threads:DfdZyMoE048": 1794095741371
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@s.ssiy__",
-      "x": "Mau Ikut Kelas Gratis",
-      "u": "https://www.threads.com/@s.ssiy__/post/DfcULh9Aa_j",
-      "d": 1794058979000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29228,16 +29215,26 @@
       "d": 1794095279000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@curhat10101",
+      "x": "Guys pelatihan balance score card yg bagus dan gratis dimana ya?",
+      "u": "https://www.threads.com/@curhat10101/post/DfdZyMoE048",
+      "d": 1794095472000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794074133353
+    "reddit": 1794095741371
   }
 }
