@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4k_J4klaA": 1792860642937,
     "threads:De4nHHgGeLn": 1792861026121,
     "threads:De4loHHn_qC": 1792861026121,
     "news:CBMirAFBVV95cUxOdUd3dVFzcEd4TGVaa3c2VkZocDJreWlJZ0hYdWUxZ0ZKZ3pybXpTY0IxYmV1dkhFZUNNOV9oX3o5b3p6cklNOTk5OVRtREJYQWg5QlNjNnN4UlV2V2hmcWFoTkwxMmNQUW1pdmp1OXRPakdWSWJpQl9QbGdoblljS2VHN01sZGtnc1k0VWlJQ3JRVmQ1MWxjTDdfNEwtM0YxQ2M4VFhzRmRObngx": 1792861026121,
@@ -27665,7 +27664,10 @@
     "threads:Dfcofv8DPiu": 1794069938768,
     "threads:Dfcn9f4Dimu": 1794069938768,
     "threads:DfcpRxKo7OE": 1794069938768,
-    "news:CBMi6wFBVV95cUxQQXRibXU3a3V6eFVCZXRvV2x3aFoxSllPeTEyMXlVTFFDU0hhbXZ4SEFGbDI4MjluMVNhU2w3c19TSENSUWwzaWdtaDgyVmE4Zm1YN3NSeU1WeVVWYUpScjRwdmdQWmtOUWlTdUdMWTdPSlhEell2cDB1UmJEX3Zpb1A3dEV4bk5LdXhLWGUzTXI4WUxuTDF0dHJyUENKZU4xb3ZTR3hxa2NXY01xWG4zQXkxUU5DYVliQm5JY1NRQ2ZJMXhJTDIwaUxyd3NpYWpXVFJaakV5cC1XbUR6clJnWmo4enNVSEx3Zm8w": 1794069938768
+    "news:CBMi6wFBVV95cUxQQXRibXU3a3V6eFVCZXRvV2x3aFoxSllPeTEyMXlVTFFDU0hhbXZ4SEFGbDI4MjluMVNhU2w3c19TSENSUWwzaWdtaDgyVmE4Zm1YN3NSeU1WeVVWYUpScjRwdmdQWmtOUWlTdUdMWTdPSlhEell2cDB1UmJEX3Zpb1A3dEV4bk5LdXhLWGUzTXI4WUxuTDF0dHJyUENKZU4xb3ZTR3hxa2NXY01xWG4zQXkxUU5DYVliQm5JY1NRQ2ZJMXhJTDIwaUxyd3NpYWpXVFJaakV5cC1XbUR6clJnWmo4enNVSEx3Zm8w": 1794069938768,
+    "threads:DfcNQ_3GhGF": 1794070233733,
+    "threads:DR8_L4TgXuP": 1794070233733,
+    "news:CBMiqgFBVV95cUxORHJ3SUdDS29hdG5mbHdVdk41M25fTmV5eU5UTzlTV1RnZGdZOURIQkZPbUNJVnJ3Q2hYekhlY2xaMnJBMkxFWi02UUlKZzZTbm1EVHVmNGo0ZmhiVzBuZmJQaDZiZ1lha3UxNWRTZzNGLW5NbEhPTGZRVGo1aTUtN0xlZXJna3I2aVNKZXlFYUJBYnZFVE5oWlpjbURacVhvbDU3bjN3YWtNZw": 1794070233733
   },
   "digest": [
     {
@@ -29017,10 +29019,30 @@
       "d": 1794041462000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfcNQ_3GhGF",
+      "d": 1794055354000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Inilahkoran.id",
+      "x": "2.000 Warga Cirebon Dapat Pelatihan Vokasi Kemnaker 2026, Siap Masuki Dunia Kerja - Inilahkoran.id",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHJ3SUdDS29hdG5mbHdVdk41M25fTmV5eU5UTzlTV1RnZGdZOURIQkZPbUNJVnJ3Q2hYekhlY2xaMnJBMkxFWi02UUlKZzZTbm1EVHVmNGo0ZmhiVzBuZmJQaDZiZ1lha3UxNWRTZzNGLW5NbEhPTGZRVGo1aTUtN0xlZXJna3I2aVNKZXlFYUJBYnZFVE5oWlpjbURacVhvbDU3bjN3YWtNZw?oc=5",
+      "d": 1794063613000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
