@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4JzrND-fp": 1792846242577,
-    "threads:De4JzsujwqH": 1792846242577,
-    "threads:De4KbZ7I7mf": 1792846242577,
-    "news:CBMi4wFBVV95cUxOSHJ4UDhOS0t4R252X0dLa0NidmlfRDBUZFNRWHZIVGh0eHB0cWZWWHExT2FHZW94akNINTlCbm9uVXg0UG9HbW1Kb09NU2RXakhFOXJvUTg5cmhlbDBLcWcycEx2Wm56ZndZNXpCNFkxRXE1Q3lZWmJrYXBFRDVDNndWdm1mblhrUHd6cTB5TEpSQVc5eUR6ZHJQNmJldVdiWTlEQkhKN0YzXy1Ea2lLUHYyc1p6VllOOVZLZ1RXZXREcG01S3B3cE9hTjlaWTlTSzlkU2JxU0lKRkdrVHZvSC00TQ": 1792846242577,
-    "news:CBMiggFBVV95cUxOZXJPZlVuNERlZjF3MVF2aTgzTm92N0NER2VzNWFfT0Y2ZnRIVl9qZlc4WjBPbDI3Wk9Wbm1vckJzTWxvemtKM29aUkprdGxyQlhJcVkwVEFxa2JjLURYWlczSmNqS2RGbGZwZDRJUm9CS2VkeFhEY0pwVVJJblhNWjJB": 1792846242577,
-    "news:CBMi0gFBVV95cUxQejFaTGFidjlGc0VWa3d4ZUxiQVJYYTh0TUFLcWI0OVdfVmpyMnNUQklzTTBCWnNrYThaX0xjX0lrYzVISGNfbEliT0VJYjZHY1NEcERpV2ppODJWSmFOcFM5TUZjTlVNY1pMa1VOZ2xkM3ZPQWpFaWtGTERLN3ZWeUxUUnN5UHhmMHhqdzhIbjlqQlRITk1ocGhQSldTTW96a0ZTcVQ4MUlycnpHaDJraXpOMGc5eWcwb2hLLVRxaW90U3hWVUZrd0Y5dkZRRnFRa1HSAccBQVVfeXFMTTVkdGsyMmJLeDdycDBmS2NSTFBHRmtuZTJvTzJtdzRiNHhhZUY5bTBaTTBBYTlfd3htX0J5MXJTTmVBLUNCVnVRVFB4U1ZDanBDRzR3U1NuR2E0X19KUWVhaGhDNjVHXzVkUjJQTk94OVdQcnBrUzlaWW9fcFl3MENlU25SbnpFanRHQWxfbW01R2NENWEtMUhGTDA4TXF0amNtT2tSUzhRSXVBNlg0dmFIRHQ4d3JGMnhSbDUwY2IyQVlrdG5kZw": 1792846242577,
-    "news:CBMiowFBVV95cUxPNi1sRUlNeF9Nc250Z0FHemVZM1EyYmNZd2xSVGJXNXNFRU1DZWluakcxdGZuTHljYTNPWUR1dW5VVlFiVk5HTE9UNU5NNnVIOWpnXy13c3J1VGdyYzREZUd5Y0pobnl2RjQtaGg2UWZvRzV0Q3hXdWgyYU10UjM2SXN3eFdxcmhlS1R0Si1TMEs5aUlwV1RhZ3Z0Z0NFU0U5WlJj": 1792846242577,
     "threads:De4LIGPj1FL": 1792846569530,
     "threads:De4K-BIEycP": 1792846569530,
     "threads:De4LQyODsRb": 1792846569530,
@@ -27620,7 +27613,15 @@
     "threads:DfcNrdpidO8": 1794055539865,
     "threads:DfcMMQ4miTI": 1794055539865,
     "threads:DfcNdvRkxhb": 1794055539865,
-    "news:CBMisAFBVV95cUxPdEhYd0N6dW9yVllERkFwTGxxNDlZRXQyc2NoRjRtSVByenZuZnhZWjRNckp5MlZsN1N1V1BEdGtheS1FUUNXWFMzZWlqelQ1dWJCNER1a0pyWVdTVjk3QnpNcFFCQ0ktLWF6aEFGRWhhX1dmaGRTMWdia3NYT2NiVHRUUTBtZE41RklJczJGYlpVX2ZibWh6THV6bnAxVF9lYXA3RlpSdU1vR2JRUHlnYg": 1794055539865
+    "news:CBMisAFBVV95cUxPdEhYd0N6dW9yVllERkFwTGxxNDlZRXQyc2NoRjRtSVByenZuZnhZWjRNckp5MlZsN1N1V1BEdGtheS1FUUNXWFMzZWlqelQ1dWJCNER1a0pyWVdTVjk3QnpNcFFCQ0ktLWF6aEFGRWhhX1dmaGRTMWdia3NYT2NiVHRUUTBtZE41RklJczJGYlpVX2ZibWh6THV6bnAxVF9lYXA3RlpSdU1vR2JRUHlnYg": 1794055539865,
+    "threads:DfcNzhgkt7S": 1794055847030,
+    "threads:DfcNQI_CLOb": 1794055847030,
+    "threads:DfcM_6dj4ua": 1794055847030,
+    "threads:DfcN6QKjrkZ": 1794055847030,
+    "threads:DfcNzUNn_NW": 1794055847030,
+    "threads:DfcOMBOACdQ": 1794055847030,
+    "news:CBMiygFBVV95cUxPNzhOTi00SlFSNklYVUVOWlRxdUpIY25kSG42Q3NGT1lNR1AtRktmZkl3RFVXbUtCUzdDQ3NHM2JnbEtrUk5yWDJzSXFrV1lrMjRTcXZIbk1hWDhhelZQMG9RaTQ0QWF0WmpDbnlGYlVqNzJ0Y3Q3czJKcTRjRTBaZkRqaFpUT1dMRm5rQllDN2xSdlNZbVB4OFp6eHlOWU1RUFNTYlBVaHdaa1JZQ19YSUxJcVhZMEljaHpVSUZ1clN2UVZrQ1U2NkVR": 1794055847030,
+    "news:CBMiqAFBVV95cUxPdlJLVEVZNjFaR3BuV1gwZm9zUzFpdU9hSnliSTNOSE1JT0hHclFnNU9iZmplRHdnZDlib2FtSlJwMy1hWmZOUGlPZzVfVHVkVDNtZXQzdG1MMnhoX0U2SXZRTmdveWRqSUNKcVBrYXhzY3dPZ1BSRzY3elNLdGFEZ2IydVVhb3dZc3VES1d3QXdMZG5Ncm9za1lEZHdaQjExb1ZQbHJoSVnSAa4BQVVfeXFMTzRUWC1XYVgza2Rfc2dNMnZGMlZwbFFnRTdRalpIN1gwWVJlWnU0anJyRS1jMmYtRlBLWENEMC1DazNENHBWQjNlN1o0T0JCdGJkTXV6ZTZwOU84NTJfMkFZaW1TZ2VDSlVhejhnSkZ4Zk90empCY3pTekxsUWJ2QlRnbEc3VU1BOEtUanFjcnUwVGxVc05uNXRaaXNEbDhrS1VuN1RqcTlBQWpqc2h3": 1794055847030
   },
   "digest": [
     {
@@ -27772,10 +27773,50 @@
       "d": 1794055377000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@berkahkori",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@berkahkori/post/DfcN6QKjrkZ",
+      "d": 1794055692000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@journeyhidup",
+      "x": "Coba cari info di daerah mu siapa tahu ada buka atau bikin pelatihan gratis, bisa ikut itu buat cari skill yang baru dan nambah relasi Siapa tahu nanti dpt rezeki bekerja atau dpat",
+      "u": "https://www.threads.com/@journeyhidup/post/DfcNzUNn_NW",
+      "d": 1794055635000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Sekarang gratis 100% / full beasiswa - jadi gak ada biaya masuk. Mulai tahun ajaran 2025/2026 pemerintah menerapkan sistem pendidikan 100% gratis bagi seluruh siswa SMA Taruna Nusa",
+      "u": "https://www.threads.com/@meta.ai/post/DfcOMBOACdQ",
+      "d": 1794055837000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Kabar Bansos Malam Ini: Desil KPM Tahap 4 Sudah Terupdate - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlJLVEVZNjFaR3BuV1gwZm9zUzFpdU9hSnliSTNOSE1JT0hHclFnNU9iZmplRHdnZDlib2FtSlJwMy1hWmZOUGlPZzVfVHVkVDNtZXQzdG1MMnhoX0U2SXZRTmdveWRqSUNKcVBrYXhzY3dPZ1BSRzY3elNLdGFEZ2IydVVhb3dZc3VES1d3QXdMZG5Ncm9za1lEZHdaQjExb1ZQbHJoSVnSAa4BQVVfeXFMTzRUWC1XYVgza2Rfc2dNMnZGMlZwbFFnRTdRalpIN1gwWVJlWnU0anJyRS1jMmYtRlBLWENEMC1DazNENHBWQjNlN1o0T0JCdGJkTXV6ZTZwOU84NTJfMkFZaW1TZ2VDSlVhejhnSkZ4Zk90empCY3pTekxsUWJ2QlRnbEc3VU1BOEtUanFjcnUwVGxVc05uNXRaaXNEbDhrS1VuN1RqcTlBQWpqc2h3?oc=5",
+      "d": 1794055481000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
