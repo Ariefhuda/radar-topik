@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De32x1QiYxr": 1792835741605,
-    "threads:De317jIHdFf": 1792835741605,
-    "news:CBMipAFBVV95cUxPVjhLdnJrOXJjbFA5SzF3OFpubWpCUEZTWWI5NHlCeHllTzlhMEtnVlRPNmwwZ2lKaVM5SFgyUE1iZEF0aWd1YU9YTFpXcl9jWnl0LXJicXdyVXVUTHltVDk5b19FMVVMTm4zaHVLWm5JWWU1X0VzbGp6U3BqRTEyTDlFR0FjVFdFSkRKQXNKcFZvYkNCUnhYU3VtUG1YLS1YMDVCUA": 1792835741605,
     "threads:De32ZtSEn6K": 1792836054329,
     "threads:De33hywDO4v": 1792836054329,
     "threads:De33h0ijO4y": 1792836054329,
@@ -27683,29 +27680,13 @@
     "threads:Dfb4R8aGShP": 1794045039587,
     "threads:Dfb4wbGCfEr": 1794045039587,
     "news:CBMinAFBVV95cUxPR0w4dENzbk1mQkxMMmNfRXpKYzBEU195eUhDbmxvZGxCSkNZSkJSa25LOGUydThWd1l4UmQ3cXlNcW1xSE9aY2t5ZVZBazdsT1dKekY3SGljcWpMaTJXbWxvZU5TQ1hhVFNNVlVxTk1GTnJLWVVCdmQzeXl5eXJjbFRybzlUSHZvRlpkRUZOYTg4QzFPVk9KWHN1VVDSAZwBQVVfeXFMT0dMOHRDc25NZkJMTDJjX0V6SmMwRFNfeXlIQ25sb2RsQkpDWUpCUmtuSzhlMnU4VndZeFJkN3F5TXFtcUhPWmNreWVWQWs3bE9XSnpGN0hpY3FqTGkyV21sb2VOU0NYYVRTTVZVcU5NRk5yS1lVQnZkM3l5eXlyY2xUcm85VEh2b0ZaZEVGTmE4OEMxT1ZPSlhzdVVQ": 1794045039587,
-    "news:CBMi3wFBVV95cUxPdC1JaEZTRF9uVTg4YXJWVC16SERTRmgwX245TEhqM3ZUSFJzRm9wQmRfb0pEbVVxTGZyaEMwb2hkMjB1bFkxT2I0Rk50Y2dhTFlwTV9UV3hCeDBGSUUxdW9yNlp4cWpzbU9vc000WjNNdnJfMEhYdFpHRllNcXZlRWFQcFB6ZEotU2JJWExuVTE1UHBiSUFzVkdreXhkX2MwdWZxUDQycVZpTTVlUWs4QXdZbmNTMnhRNlpHZXNjRTR1QTVYQUt0NEFtZlVQbVVFaU1TMkdkdEZWekhmMTIw0gHfAUFVX3lxTE90LUloRlNEX25VODhhclZULXpIRFNGaDBfbjlMSGozdlRIUnNGb3BCZF9vSkRtVXFMZnJoQzBvaGQyMHVsWTFPYjRGTnRjZ2FMWXBNX1RXeEJ4MEZJRTF1b3I2WnhxanNtT29zTTRaM012cl8wSFh0WkdGWU1xdmVFYVBwUHpkSi1TYklYTG5VMTVQcGJJQXNWR2t5eGRfYzB1ZnFQNDJxVmlNNWVRazhBd1luY1MyeFE2Wkdlc2NFNHVBNVhBS3Q0QW1mVVBtVUVpTVMyR2R0RlZ6SGYxMjA": 1794045039587
+    "news:CBMi3wFBVV95cUxPdC1JaEZTRF9uVTg4YXJWVC16SERTRmgwX245TEhqM3ZUSFJzRm9wQmRfb0pEbVVxTGZyaEMwb2hkMjB1bFkxT2I0Rk50Y2dhTFlwTV9UV3hCeDBGSUUxdW9yNlp4cWpzbU9vc000WjNNdnJfMEhYdFpHRllNcXZlRWFQcFB6ZEotU2JJWExuVTE1UHBiSUFzVkdreXhkX2MwdWZxUDQycVZpTTVlUWs4QXdZbmNTMnhRNlpHZXNjRTR1QTVYQUt0NEFtZlVQbVVFaU1TMkdkdEZWekhmMTIw0gHfAUFVX3lxTE90LUloRlNEX25VODhhclZULXpIRFNGaDBfbjlMSGozdlRIUnNGb3BCZF9vSkRtVXFMZnJoQzBvaGQyMHVsWTFPYjRGTnRjZ2FMWXBNX1RXeEJ4MEZJRTF1b3I2WnhxanNtT29zTTRaM012cl8wSFh0WkdGWU1xdmVFYVBwUHpkSi1TYklYTG5VMTVQcGJJQXNWR2t5eGRfYzB1ZnFQNDJxVmlNNWVRazhBd1luY1MyeFE2Wkdlc2NFNHVBNVhBS3Q0QW1mVVBtVUVpTVMyR2R0RlZ6SGYxMjA": 1794045039587,
+    "threads:Dfb5bMWmJn8": 1794045336476,
+    "threads:Dfb4_-BFGAX": 1794045336476,
+    "news:CBMioAFBVV95cUxNYlNIcDh2S2F1YU5KT1lNUUh5QVU2by1ZeFJyZ0NTbzJjaGNyUjY5YTVlZnVuRFoxcGlJcU1meUw5cDhwTWtzc1NreUNNMURiNGd2MmJiSGZQZ1RNY3hDWWhlZlE2dFhyQXNMMFNhb3dZM1dsTTlEUVlzZkp1ZVA1MVlMbFhSWC1KMDVfalp2TGI3X1VXQ3hSNk9HQ1JreDZT0gGcAUFVX3lxTE9HTDh0Q3NuTWZCTEwyY19FekpjMERTX3l5SENubG9kbEJKQ1lKQlJrbks4ZTJ1OFZ3WXhSZDdxeU1xbXFIT1pja3llVkFrN2xPV0p6RjdIaWNxakxpMldtbG9lTlNDWGFUU01WVXFOTUZOcktZVUJ2ZDN5eXl5cmNsVHJvOVRIdm9GWmRFRk5hODhDMU9WT0pYc3VVUA": 1794045336476,
+    "news:CBMirgFBVV95cUxPWlc5dHhyRU84VThvWDkzdUx5NWI2QmNDeEhnYUJMWUxUYnpPekttLVMxaHhjUF9kVHR1YThubmVYaHJlbUYyLUkyU3hHSUdXelExZVd3NkpLYzlpbXEtcGtMWF9VWU92bWU5SENXSXVXTXVTWHlBLTdRcnJjTzJwcmFlYzlrN1FzQ3hwT2JMN28wU2o0S0VqUWJlMXlaREVraC1fX1hhelpmLXdKQnc": 1794045336476
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@clc_km7pemda",
-      "x": "🍀𝐍𝐎𝐕𝐄𝐍𝐓𝐔𝐑𝐄 (𝐍𝐎𝐕𝐄𝐌𝐁𝐄𝐑'𝐒 𝐀𝐃𝐕𝐄𝐍𝐓𝐔𝐑𝐄 𝐓𝐎 𝐋𝐄𝐀𝐑𝐍, 𝐄𝐗𝐏𝐋𝐎𝐑𝐄, 𝐀𝐍𝐃 𝐆𝐑𝐎𝐖)🍀 𝐷𝐼𝑆𝐾𝑂𝑁 𝑆𝑃𝐼𝑁 𝑃𝐸𝑁𝐷𝐴𝐹𝑇𝐴𝑅𝐴𝑁 20%, 40%, 60%, 80% ✓ G",
-      "u": "https://www.threads.com/@clc_km7pemda/post/DfbU9iYmCmN",
-      "d": 1794025834000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@clcbengkongbatam",
-      "x": "✨ BELAJAR SERU, TUMBUH JADI HEBAT BERSAMA CLC BENGKONG! 📚💛 Setiap anak punya cara belajar yang berbeda. Di CLC Bengkong, belajar dibuat lebih menyenangkan melalui Fun & Creative ",
-      "u": "https://www.threads.com/@clcbengkongbatam/post/DfbSMvmEpfs",
-      "d": 1794024386000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29185,10 +29166,30 @@
       "d": 1794039420000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nisa_khnsa",
+      "x": "Coba pembaruan data pake aplikasi cek bansos, Coba daftar bansos di perlinsos",
+      "u": "https://www.threads.com/@nisa_khnsa/post/Dfb5bMWmJn8",
+      "d": 1794044952000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Arah Pantura",
+      "x": "Cara Mengaktifkan Kembali Bansos yang Nonaktif 2026, Cek Syarat dan Jalur Pengajuannya - Arah Pantura",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlc5dHhyRU84VThvWDkzdUx5NWI2QmNDeEhnYUJMWUxUYnpPekttLVMxaHhjUF9kVHR1YThubmVYaHJlbUYyLUkyU3hHSUdXelExZVd3NkpLYzlpbXEtcGtMWF9VWU92bWU5SENXSXVXTXVTWHlBLTdRcnJjTzJwcmFlYzlrN1FzQ3hwT2JMN28wU2o0S0VqUWJlMXlaREVraC1fX1hhelpmLXdKQnc?oc=5",
+      "d": 1794042662000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
