@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4pDFGFtfj": 1792862142213,
-    "threads:De4oHGPDUUe": 1792862142213,
-    "threads:De4ok_ngUo-": 1792862142213,
-    "threads:De4oVXoAXC7": 1792862142213,
-    "threads:De4n_3lASxo": 1792862142213,
-    "threads:De4ikjukkkZ": 1792862142213,
-    "news:CBMi_gFBVV95cUxNMTNTbVF5UGFVSEhwZjQ2WnlBV01PNDBNTEduVjJKMzJPR1pZZlRWbVhPcDVvTVJVMlh2SXVfOE5JdDIxS3hjTUhlVVA1ZWNWZWcweDhXbnkxa2lBVmRNUXc3aVJGa2E4b2VYZTluU2NYVHpqQUhmQ1hSYUV1cTkwYk5LNC1QU0xsM3BPNkRubndEOTBUNkhLTUs0S0JpdFMxYjNFUGNaS21DUGVCNXNoRmJLQnc5YUIwS0hpcTlEbXBtNWtjS2g5V0pZdEFGRUNMODRBd0FVYUYzVEJzTDZjY2ZDeTdmVm1VNXhQR0IxTnRBQ3YtVU43a0RiWDBFZ9IBgwJBVV95cUxNZHB2eExmTkx2VGlCVjU3enhVNmFOUjFlUmxKNGJwLXRkSnc3aGxNVFV1TlcwU0FySmpzMFZWWHlSZ19wUmhqS01uNmJBeERTeWpLaHo1QVBDUUhkdEVMS0ttV0QxS3hYQk9YaGdzT2RzN2RBSWhWcG0waVhTenhNb252V3ZxM01fYzdMeUVOZlZMX0E3WkVVRVc3S3BTT3RIY2dmcl80Uy1hWWdZSzFjblNYTWRXSVBoY244TjUzaGVYWUFra3NrZTZzMlhYTDJtS1NsMDQyaFByc1NoWUM4c0pDaWxRRlFRNVNYX0dxY0RGbVdqUFlxZzR6OTJpc083R0ww": 1792862142213,
     "news:CBMiYkFVX3lxTFA5Sk1kMUt5ZlRqa0hRbVh5SDcxZEMybjY3M2Z4N0w5cnhVV3RqWmF0WjlRN0dadEZYSzhHeW4zMVRqdzhaVFBCUHBsSGo0Qk1FUmpISW1BRVc4N2xDOTRVdDR3": 1792862449891,
     "threads:De4qbA5FgZg": 1792862746183,
     "threads:De4qBN_kRQM": 1792862746183,
@@ -27674,7 +27667,8 @@
     "threads:DfcqyoOAL-V": 1794071439119,
     "threads:Dfcr6SdkwYj": 1794071439119,
     "threads:Dfcr5qWGUDz": 1794071439119,
-    "news:CBMi4AFBVV95cUxPMHdJWVNmLVNGUFZndVVkUDNYT1N6SEZLMWhmbVBXRGZhRmRLOEl4MDAyRlgwQzRfVnRoRTJfQ2tjQ0ZpVlRMSGlBQVBNQnNPaEpJZ1pJMkkwSVFKUzhJVzFyNjdiaHE3Q25wb3ZLdnVzR0FVb1ljNkhLRzlpM0JUTVA3Rkw4MFd0UjR3NEo0UGQ2OGM5em9fcEpEbXlmaks5ZkxPRXp6VHZPeEFyQWxwelUtdnd4STNzZmQycGpiaHFjY2ZnbzB5UmVPQXk2Ym84bF9rVXgwMmZYTE5Eei03RA": 1794071439119
+    "news:CBMi4AFBVV95cUxPMHdJWVNmLVNGUFZndVVkUDNYT1N6SEZLMWhmbVBXRGZhRmRLOEl4MDAyRlgwQzRfVnRoRTJfQ2tjQ0ZpVlRMSGlBQVBNQnNPaEpJZ1pJMkkwSVFKUzhJVzFyNjdiaHE3Q25wb3ZLdnVzR0FVb1ljNkhLRzlpM0JUTVA3Rkw4MFd0UjR3NEo0UGQ2OGM5em9fcEpEbXlmaks5ZkxPRXp6VHZPeEFyQWxwelUtdnd4STNzZmQycGpiaHFjY2ZnbzB5UmVPQXk2Ym84bF9rVXgwMmZYTE5Eei03RA": 1794071439119,
+    "threads:DfcsGTrmdop": 1794071740320
   },
   "digest": [
     {
@@ -29136,10 +29130,20 @@
       "d": 1793986743000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@barokah6707",
+      "x": "ketika bansos tw 4 dlm ketidak pastian apa yg harus di lakukan...? lebih bijak ya menunggu waktu pencairan. biar terjawab oleh fakta. #bansostw4 #pkh #bpnt",
+      "u": "https://www.threads.com/@barokah6707/post/DfcsGTrmdop",
+      "d": 1794071520000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
