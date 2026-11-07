@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DJvP9SUTPEa": 1792819545515,
-    "threads:Db70eeBmpAS": 1792819545515,
-    "threads:DeOx9qSEwNB": 1792819545515,
     "threads:De3YpAZiTO_": 1792819860232,
     "threads:De3YjUWo9EI": 1792819860232,
     "threads:De3YipnETAV": 1792819860232,
@@ -27702,29 +27699,11 @@
     "threads:DfbWxVnj8c2": 1794028835473,
     "threads:DfbWvS_j_Gv": 1794028835473,
     "news:CBMilAFBVV95cUxOZktQUldyWFZ6d0xVT2pUWDZhdnFVdmIzX0xhZHQyb1luZUVlY0NGaU03RWp6Z2NWblNjM3Fsd3hrSm5BSTk5bHUtelkxNHhfQWNKelY4dHo1VFEwTHFPOWpPc0tLZENhTFlJamcwbWo3eHN0OGpDWnJYN18tSU1KZ1lvVUNWdW1yZ21qdHNXdnF1TUo3": 1794028835473,
-    "news:CBMiqAFBVV95cUxNM2dLZnNhSFJBc1duem5SVVBjNnk2VERzcjRfdDhmUUtLdTB0d1piamFFa3FpQ0cxcXQ5X2RtNE0wRDRtaTR1NVcxcXRjRGhHQXZIM2dKMkVNRkNxZEtlb1gzTVJHWGRaYzJkS3JtcWplQkJvdUhSQ1lEOVFWN2tuN016eVIyWlc5aDlDcFZ0RlllSFEtLUFkWTlEcWJaUU5idkdkTVo0RzM": 1794028835473
+    "news:CBMiqAFBVV95cUxNM2dLZnNhSFJBc1duem5SVVBjNnk2VERzcjRfdDhmUUtLdTB0d1piamFFa3FpQ0cxcXQ5X2RtNE0wRDRtaTR1NVcxcXRjRGhHQXZIM2dKMkVNRkNxZEtlb1gzTVJHWGRaYzJkS3JtcWplQkJvdUhSQ1lEOVFWN2tuN016eVIyWlc5aDlDcFZ0RlllSFEtLUFkWTlEcWJaUU5idkdkTVo0RzM": 1794028835473,
+    "threads:Dfban9RCRpR": 1794029135469,
+    "threads:DfbanxjD6u3": 1794029135469
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Betul kak, Sensus Ekonomi masih cleaning jadi belum masuk DTSEN. Kalau mau update karena data luas rumah 245m itu gak sesuai, ada 3 jalur resmi: 1. Mandiri lewat aplikasi Cek Banso",
-      "u": "https://www.threads.com/@meta.ai/post/DfbFguEE-_j",
-      "d": 1794017734000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Akurat Sumsel",
-      "x": "Rekrutmen CPNS 2026, Mahkamah Agung Buka Lebih dari 4000 Formasi - Akurat Sumsel",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmZPdFBremctbTdEOVAwVVU5d0V1N1o1aGRuSmZQQmE1emFmVmNlZnVraUVnZ05IWm41YmhZMVFxei1zQlFCTTBWSU1ZMk5IekFhMDhUMWQ5UFpfbHI0TURjaVlaRXdwcUJ1aXN3WjBnVEh3MHB3Yml5ODFkWEdSbG9OVEdqUVpiUUdCdjhic3FaMi0xUjRkc3lnckV3SzZnOWxtblBldw?oc=5",
-      "d": 1794009600000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29204,10 +29183,30 @@
       "d": 1794024187000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@zero_irwans",
+      "x": "Nunggu banjir dulu om, rumah2 kerendam, biar bansos dr pusat cair. Cuann",
+      "u": "https://www.threads.com/@zero_irwans/post/Dfban9RCRpR",
+      "d": 1794028803000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Itu Aplikasi Cek Bansos + Portal Perlinsos Digital resmi Kemensos. Yang di screenshot kamu itu tampilan aplikasinya — ada tulisan \"portal Perlinsos!\" di atas, menu Daftar Bantuan, ",
+      "u": "https://www.threads.com/@meta.ai/post/DfbanxjD6u3",
+      "d": 1794028802000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
