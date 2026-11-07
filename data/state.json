@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3a8ZZEmRp": 1792821047862,
-    "threads:De3az0CjXzB": 1792821047862,
-    "news:CBMiogFBVV95cUxPM1hQT2dDbkp2UE81aWNnZEZzdXJkaGczRnIzN0hJaDlIRlFBMWRySGlXQTlyMEhSX21odm5scWViMkVuVXdVZUZvdUI4SUNGQmtWMG1VTFktY0oxcDVWb0dvM0lqUWROakJ4UUxHN2hXOXJjaG5ZcUdXVVlfOERrZFpnd1VPaG5qVkQ4UXN0NXI0eWtMbFEtSTFFRkk2UEpCQlE": 1792821047862,
-    "news:CBMiywFBVV95cUxOME1Ya1A1Z1pqaTJHZDl6WGlsRHdOZ0d2dHRLQ2dJdTJkSVJnZmJGYXlfeDBfNzVwMEYxN1NWbGk1NFo1SjB5cFl3M09IeGlhTGlTOVF5WU9uMEc1OHhTXzNZT1FTSXR3ZXpRRzVkY3lQc2xRVzVIb0QxSUk1VklMOHBidldEVGYzeEdsQUFLNktyS2hVcWhnRXRkNlJsU2tObXg4WDJXY2h4TWd1MWVqU0EtUnQ1Q3RCQ1ByZGxIMXotWTBEVFg5LVVSMA": 1792821047862,
-    "news:CBMirwFBVV95cUxPczQ3LThMU29SRGUzbkdsVEFvWERtcngzZ0hveUljYzVmLW1JOU1seEthV3pqNF9XR0JGY0V2ckYxdUxtT1ZsOElJelgzcHQyVU9FejVyMlJHS0VfYXFYaERtRThzeDdrbjBOWXl2TTlOaDJsODN0NnFGSFh6aVh3MEthT3VMZjB6VUVreFZwVU5MeHZLQWlCczRVMklJSElpUE5HVUx1UmVESC1IWmVB": 1792821047862,
-    "news:CBMiY0FVX3lxTE84Z1Q0emhTaC1lNGVkWi1XRFVYWDVfaUhUQXlYRHpsaVlFZlUyTXRjenBYQ3B4RmJTbTJabmtrQURvRHloTUxCTUJnMGxETXRld1REQkRuanM1NFIzWXJPcnNTaw": 1792821047862,
-    "news:CBMiugFBVV95cUxOdXlFdTNWTzRnNUFBVDd4Tm9rRkwxWjR4R1ozajkzVWZsVWdqS2p0XzZ2ZkdVbkFDUTdpdnM0Q3JLSGxqT0FuS3FJTW02VEIzQlBrWGJINmNWbUJacy11YnMyNW56LXduYkZlVW5CUUthUEtuOC05NUdpYkhEYWVEVlBWOTZGeWZuNzJhY2h5MVdlcjBnRnF1QmRzTzRmakxrLU1SaWZreUJUeWZwUTN3RVlDc2w3aUU5T1E": 1792821047862,
-    "news:CBMiakFVX3lxTE00SUxQcUpRa3hiczJTOEZMNlEtV0paOE45R0c3eXlXcjliWFRXajBGeEdpM20zeVBodGF6bHJPb1dHMWtVMG1Va1hUcWNKOWJncEZDRTFNdFZuS0V6aGpTVi1QUzJxNDVjVGc": 1792821047862,
-    "news:CBMiuwFBVV95cUxNa29MVS02Z2NLWVFZb3hGazduV2p1QzJzRW9XNU5zSE1rNnR3aml5R0lhN1dzSFJoc1pVaXQxVTh0OFFiekhRUjlLU0wweVhQQnQ4R3B0XzJfeDZickQ2SllaaGl4SzctZFprbkQtR2hiMHJKVUU4R2lzOVFSR2EyTzZuT3lTbkdvT3U3V1hualRERzl0VFcwVDRhVmo2OW03NGhTVTZ1UXZjYVcwY19nUUw2V3dfREFianVJ0gHAAUFVX3lxTE9VNFlPd2Z5U1QtOHhWSHQ1ZlpqZ2ZONVpNZ09xS3BBMmtTeGs2aGd6YTIxX0l0SllHN0trUXh2WnNLVGJ3MWlLSnZqME1mTzd4ZGVOc25SVTlIZWU2WUVDRmZDM1NLTTJJRjFmcFpuaWxiT1hSaXcyNWM0TUdaQ2MwODVzT0QyNG54RndHYTNDNm5TMEk3TzJ4QWpzS05OTVFORGFsaDdSUlNyRmxWaVJJZkV0aFM3SG9xSndaSDFucw": 1792821047862,
-    "news:CBMi2gFBVV95cUxPeXhXWlRkcVByOGRTZ2ZoeUstZ2xqbVZHQloyX3FVVUljOGZ0Uk0xTFhKRzFubkE2eGMxN3BidXNZR2RxTzEydzJCUnhrOGNXV1lGanZvSmZ4LWpTOWpjOHM2ODNfVlBVS1dBNXNGWDRmT3dpTFRlVXJfRHZCMmVCbnRfNVU1Y3JyeFZ4ZWsxUlk3MWJ2RHktQWlFcmJ0WHVZam0ySzlCWmRReTlFM0VMM1gtb295QzdqX3NoVl9SZEVfem4xZHp5TVZyVzdzQ3FwTGZGd3Y2dzAzZ9IB3wFBVV95cUxNLTY4cDJBdEQza0xLVlFsSE1DbWFPMnc5ZjBvVU92TlRLa1RONXFOTWlqLWFXdHJ2OUpsNjNKck0wYzN0alIzaWp3QnlFYVl5MWpFNHNuMUVrQklMMXFtTWV2b2FOYnNLSEdnTHktZjBibERxaWlnQWVfelNhSmRwdzVGZEJqRUVMSlVVYk00Ny1lNHdZcE11WTNKd1NZOFVEMzFsYW5VS0NlWklOZkhjOEhUaXQtVnpVZWNBVnZZLXQzS2FkY1FqSS1lenR2U21USXlpVFJqY3Aza0hMcWdr": 1792821047862,
-    "news:CBMiowFBVV95cUxPLWowLVUwazNlNWdXMTl2QkFCODhLMmZQSzlUTUM5dUJKNFpnaUF5cHVPU19Od2l4ci1xZXVUdkctM2FuZlo0X1lPNDZqR3VIYWZ6bXM1S2ZTUVgtS3pqSVJtV0xsUHRkTEhZUEhGcXNyM0JuWjd0VDhmUVZFZDBGT2x4UE1pWDlDUloyOTNsTzRLQ1BXWG9rMUpYNndLeDVKd21N": 1792821047862,
     "threads:De3akH4EbX0": 1792821340146,
     "threads:De3bBxekc6Q": 1792821340146,
     "threads:De3ast7lvby": 1792821340146,
@@ -27699,29 +27688,11 @@
     "threads:DfbcgGICQNd": 1794030342318,
     "threads:DfbceoOAacG": 1794030342318,
     "news:CBMi1AFBVV95cUxPUVJhOGFQMjZDdG9ZN2tBWlJHbkFNQVJmck0wXzFWZnYzaDdFNjVXNDd4TnBTTThreGR6cjY5cHhHSW0wSUVWTzFlNkppQVFJeFdTaTlXSjJCZy1rcXVzenlXcUQtMHVkdzEzLUs3TFc0RS1ES0J4M3UwZl96Z0FqY0RKU1o4dzNtdU9LQkFUVmhTY2xhU3FPd3lsZnR4bElDZDQyd2NZQTlrdkhCanhuY1lUbUpTeE5LWGY0SW1Va1JYal9KUWh1cHhOcGxDR3RlYjZMT9IB2gFBVV95cUxPME5RM0cxRDVMMzJYMFllRGt5Yko4bWtVTU9HVTEtUjJ6dEQ0cWdDY0kweWp6cHY3RENOeTFvOUJpSVBJa0FFQmlocDV0TTU5WUpULV80ckw5dHBiNEhOOUlVUl9yREs3Vk1tT1YwUGFDY2xodF82aG5vam9FTnVqRElaQ3dFckJYUE9iUHhORHNBVmNKNnBtaFczN2FpYUZrbFMwbG5tUk5fSnRWSVMzNFluQTd0cmktb1FlMnFocnRvMW1rUWtCTU5iM3JiNXM0Q3oteVFiYUlUUQ": 1794030342318,
-    "news:CBMirAFBVV95cUxNNDVMX1dsVkVSNHhuNm9pMFFXbF9pUjRPRDl6RXVGczJNUTNuSkN5SVdHS2FoWnR0YllGaXBwQnIzWWo5Q2tKTElHemZFX2VMRXk1cHJtYTZPcFFBeEJ4cm1RZjR5aGZQUHdkTlFJbGpvQmp1OXg0N20yc1NhcExJMTJsVnY3Ylg0czM0WGI0Q1dhaXNSTi1tZUFCbTBlcUVOU3JLYmVkLV9HTmJ50gGyAUFVX3lxTE5lR1l0MzVuZ3cwaHdLY2lvU0N1eGROelJTV1ZMRm4tVDFTSlNJaG9vQ3Jsbk1GY283S1NEWUd5am1xUVVickR2MGh4RnNxWkRDZjVMVjVTS1JybWxpWTk1eWJrY19wTXh6U3VSTXR4OHR3V0FQR2VzSXd2Ty1UTXo1bEVTTkNhUXVMRGNNbl9qS1Ria3EzZGxqRUN5bDdOQlNabk0tWVkzVFBaQlZnTkJ5b0E": 1794030342318
+    "news:CBMirAFBVV95cUxNNDVMX1dsVkVSNHhuNm9pMFFXbF9pUjRPRDl6RXVGczJNUTNuSkN5SVdHS2FoWnR0YllGaXBwQnIzWWo5Q2tKTElHemZFX2VMRXk1cHJtYTZPcFFBeEJ4cm1RZjR5aGZQUHdkTlFJbGpvQmp1OXg0N20yc1NhcExJMTJsVnY3Ylg0czM0WGI0Q1dhaXNSTi1tZUFCbTBlcUVOU3JLYmVkLV9HTmJ50gGyAUFVX3lxTE5lR1l0MzVuZ3cwaHdLY2lvU0N1eGROelJTV1ZMRm4tVDFTSlNJaG9vQ3Jsbk1GY283S1NEWUd5am1xUVVickR2MGh4RnNxWkRDZjVMVjVTS1JybWxpWTk1eWJrY19wTXh6U3VSTXR4OHR3V0FQR2VzSXd2Ty1UTXo1bEVTTkNhUXVMRGNNbl9qS1Ria3EzZGxqRUN5bDdOQlNabk0tWVkzVFBaQlZnTkJ5b0E": 1794030342318,
+    "threads:DfbcojMkmom": 1794030637453,
+    "threads:DfbdYmvCivv": 1794030637453
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Solo",
-      "x": "Desil 5 Bisa Dapat Bansos Apa? Cek Skema Bansos Terbaru November 2026 - Radar Solo",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdncyaUg2d1Z0ZjBwTklrRHR3YS1Xc2NSOWQzNGlMY2pBV1lGZlJJOTctWEFpLXR4UmRYU3NadWN4dTZZRHFOTVplOUVXUnY2RGU2Y1plV1lfMXFrbUMzQnR2ODZZMzBQc0JnTVV1cno2NDhZdnczbFJpM1NWRHFvNWdKMFFOeUVWUlVOa3NRNmt4MXVzRVBSLXk5OXlEaFFaa0V0NTNrZ1hyaXIwQVlNdm9TQlpFelZVdkHSAb8BQVVfeXFMTlBmV1ZWN1pUZjB2QWlac1I1R3NIWjdNY0RienFXRU8xS191QXJxS0xpXzRHckNLZjNKNnpNY3NjbDFPOEZZM0RKN1UyTXpaMGZBb0x1VVUwRDNGZkFQWjlKWTNKa3Z3VGd0ZlJWTzU3UGg2Q1ZSTWNudTYwb0hPS09GZTR3RUVlV1hQZ0pEWG5jdnF4R2hIaVdwWXhwSFZiYjA2VmJpMEJpZEJaZkZsMk1hTlVVZTNweC1aWF8tTEk?oc=5",
-      "d": 1794018970000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@fauziahdesani",
-      "x": "yang mau tarik tunai, transfer, cek bansos PKH BPNT hayu gaskeun 🥰",
-      "u": "https://www.threads.com/@fauziahdesani/post/DfbIqsDGfzp",
-      "d": 1794019389000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29201,16 +29172,36 @@
       "d": 1794027757000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@yurbishadaqat",
+      "x": "Segera Bersiap, karena Beasiswa Meraih Mimpi bersama LAZ Yurbi Shadaqat segera akan dibuka!! Pakai weekend mu untuk merapihkan seluruh berkas, meyakinkan diri, dan membulatkan teka",
+      "u": "https://www.threads.com/@yurbishadaqat/post/DfbcojMkmom",
+      "d": 1794029859000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Syarat utamanya nilai rapor SMP Smt 1-4 untuk 4 mapel: http://B.Indonesia, http://B.Inggris, Matematika, IPA. Jalur reguler: rata-rata minimal 85, tiap semester minimal 80. Jalur p",
+      "u": "https://www.threads.com/@meta.ai/post/DfbdYmvCivv",
+      "d": 1794030250000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794008756477
+    "reddit": 1794030637453
   }
 }
