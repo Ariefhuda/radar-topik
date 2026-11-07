@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiYkFVX3lxTFA5Sk1kMUt5ZlRqa0hRbVh5SDcxZEMybjY3M2Z4N0w5cnhVV3RqWmF0WjlRN0dadEZYSzhHeW4zMVRqdzhaVFBCUHBsSGo0Qk1FUmpISW1BRVc4N2xDOTRVdDR3": 1792862449891,
     "threads:De4qbA5FgZg": 1792862746183,
     "threads:De4qBN_kRQM": 1792862746183,
     "threads:De4pwujjM2Q": 1792862746183,
@@ -27668,7 +27667,22 @@
     "threads:Dfcr6SdkwYj": 1794071439119,
     "threads:Dfcr5qWGUDz": 1794071439119,
     "news:CBMi4AFBVV95cUxPMHdJWVNmLVNGUFZndVVkUDNYT1N6SEZLMWhmbVBXRGZhRmRLOEl4MDAyRlgwQzRfVnRoRTJfQ2tjQ0ZpVlRMSGlBQVBNQnNPaEpJZ1pJMkkwSVFKUzhJVzFyNjdiaHE3Q25wb3ZLdnVzR0FVb1ljNkhLRzlpM0JUTVA3Rkw4MFd0UjR3NEo0UGQ2OGM5em9fcEpEbXlmaks5ZkxPRXp6VHZPeEFyQWxwelUtdnd4STNzZmQycGpiaHFjY2ZnbzB5UmVPQXk2Ym84bF9rVXgwMmZYTE5Eei03RA": 1794071439119,
-    "threads:DfcsGTrmdop": 1794071740320
+    "threads:DfcsGTrmdop": 1794071740320,
+    "threads:Dfcrd5tChdx": 1794072038969,
+    "threads:DfctQVqj5md": 1794072038969,
+    "threads:DfctFJPIYIz": 1794072038969,
+    "threads:Dfcs9qxk3bo": 1794072038969,
+    "threads:Dfcs0WaILjc": 1794072038969,
+    "threads:DfcssADDRkc": 1794072038969,
+    "threads:DfcsmssvU-D": 1794072038969,
+    "threads:DfcsePtQ7Y5": 1794072038969,
+    "threads:DfcjAGMm7O6": 1794072038969,
+    "threads:DfcsgLkjzNI": 1794072038969,
+    "threads:DfcsQBij5ia": 1794072038969,
+    "threads:DfcsQZhE1Lz": 1794072038969,
+    "threads:DfcsBrZiWJk": 1794072038969,
+    "threads:Dfcr6UhGrr8": 1794072038969,
+    "news:CBMikwFBVV95cUxObWkwdWVOVlpPc2swRUdrb3J1bDRLYnZERGtrZVZOaVZ2RHhka3o2NDZVLVFxVnF4YmkydkhrbUlJS3V6QlFUekY4elFUVGxTZXFiT0VpUzdUemZRZXZEbFlWd0p2eEdIY1ZSeFlHeGZFZVk5MGpJZEZxd0lNYmpsOERqZEtfT3pjMEI1QmhxUWE3UDg": 1794072038969
   },
   "digest": [
     {
@@ -29140,10 +29154,20 @@
       "d": 1794071520000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "games.gg",
+      "x": "Path of Exile 2 Rilis Gratis 11 Desember: Kelas & Pengepungan Baru - games.gg",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWkwdWVOVlpPc2swRUdrb3J1bDRLYnZERGtrZVZOaVZ2RHhka3o2NDZVLVFxVnF4YmkydkhrbUlJS3V6QlFUekY4elFUVGxTZXFiT0VpUzdUemZRZXZEbFlWd0p2eEdIY1ZSeFlHeGZFZVk5MGpJZEZxd0lNYmpsOERqZEtfT3pjMEI1QmhxUWE3UDg?oc=5",
+      "d": 1794068297000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
