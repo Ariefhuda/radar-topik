@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4MGktn0xw": 1792847148579,
-    "threads:De4MBpCAP0x": 1792847148579,
-    "news:CBMihgFBVV95cUxQN2gxTERzOFV4R3F4RXFxX1Rqd1p0NjRBSnJ1VHZ2ZE9DY1FJRTJDMjgteUNlajFkWkJxRlMxaGdXSThmaWRWMHpTM0xaYzFJYXdvS2JWSHpwdlNXS2lUc1piandTS0dkMF9KaXl2MW5VcXNNVzdJTHRGNTV1Wl9wdGQ4bkw4Zw": 1792847148579,
-    "news:CBMimwFBVV95cUxNV2c1ZFpNZWNpWDN4V25LUjNHekx6OVNrNVZQdzladm9xNnZ0T2JTRlZUWFludXpJbnJOQThyZUxsOXdnZUEzT05yak5oRTNuajEzNFJkTTNGN2VEWkI3bDJpaEE4Um5WRHg2bmpWVXo2RVdQYXV5QUhSazZ2d2VKY0drYURCSm00MkFzR2IxNFpIOVBlRFFsZ2hkRQ": 1792847148579,
-    "news:CBMiwAFBVV95cUxPT2tNOG4wVHVXUnhyNFpucXNPM3RMRVpiQWR3YkQxc1ExN0MwZWJRT1RTSXZPblpFc0dFLTEwU1FFVUN6bHNENnZqV1dMWUQxNUxHZUFFZk9jWjdNLVpoYzhpRG5ZQ084RmZta0xVeXVYRHM3WGlJOUc3ZzNtdkE5enVaTTdfaHlhZU95bnpHd3JzNWtOb05LUDNGMlBiTEVhcHZEQXhDZ0pLNUFXOWFSTTdKWmhlUmJnZWhvLUoxakI": 1792847148579,
-    "news:CBMitwFBVV95cUxQc0VXNUVINU9HVVBtSkFHUmllQVktbkZCZVhlakxuUXFsUlhpZERvRXdHdGJtalJkalFqVTNsams4OWdJWTlWcGRvUWlvUENESzBYRndjSmRnNGpoWkFwMjJvSXBkdVotMko4MUhmMFYwTzlfN2I3SXBuN21FTFJ0Y25ueUprM0kxWHd3TFc0cG45QjhkVGpaZmdvMGp6T1NUV1lYc1hpblhSdGV2OV9ILU5tSElsck0": 1792847148579,
     "threads:De4MnqKE9Fn": 1792847443327,
     "threads:De4Mai1ESJ_": 1792847443327,
     "threads:De4MiEskZws": 1792847443327,
@@ -27618,7 +27612,10 @@
     "threads:DfcOzS8iTLY": 1794056460806,
     "threads:DfcPWdbEhCF": 1794056460806,
     "threads:DfcOemNI55h": 1794056460806,
-    "news:CBMiugFBVV95cUxNa0FrME1SNkpSRzRuc2xQMmxoa0tyVzZOcmo1V0hIbmJKTFBaS1NPMXpYdzZuekFrX2ktWGFGeHdQbkFoRk45NDFQX3d4TVRhb05jNWhwRzZRNFJFdkVaWWlwZG9JUE9uMTMyM3hMTFNZcEhEcmd3c01pZWtTbFZrUnIxZE0zSGRRbWtKU205RE9Pa3Zxc1RYeVZGa2NIYjlGMkV3VzdyZGo4RDJIenpnd2pMWUxaV3Nfb2c": 1794056460806
+    "news:CBMiugFBVV95cUxNa0FrME1SNkpSRzRuc2xQMmxoa0tyVzZOcmo1V0hIbmJKTFBaS1NPMXpYdzZuekFrX2ktWGFGeHdQbkFoRk45NDFQX3d4TVRhb05jNWhwRzZRNFJFdkVaWWlwZG9JUE9uMTMyM3hMTFNZcEhEcmd3c01pZWtTbFZrUnIxZE0zSGRRbWtKU205RE9Pa3Zxc1RYeVZGa2NIYjlGMkV3VzdyZGo4RDJIenpnd2pMWUxaV3Nfb2c": 1794056460806,
+    "threads:DfcO3RElDhn": 1794056735626,
+    "news:CBMisAFBVV95cUxQUlV5TW5NRGJVamI3QzhSM2xmV2w1c2ZNUUpXZ0hzd2NPZ0preHBPNFdiRWFDTXRNTVdFcFpiZlpCak9tU282Sk9UNHdaZjhKanBWMU9rc21feDR2U3AwSXZEQkZuaVA5TFBfY0d0Mno4RDFyOVY1TloxdVVJdHlGZUlJekdvMHNsN3Y3bFhuZ1BOLWNsMXRERHVSVlZNSEN6Q09NWDNpUkpZX1hGOVJfcg": 1794056735626,
+    "news:CBMihwFBVV95cUxON0s4SkRpb0hvSWJOVWVKdTBrR3dKTUZXU2pGcVBoeUEwWms5cHktS09vZ1NNZU1fbGxEa0tCU2lEd1NXeEVLNDNRczhmdnFBdVZFWVRZZmkzOUZ2a3N3bWMwT2xvT3NuTlM0WHdBZG12b2puQ3Q3MS1BLTVDQnJzNmowTE9SVFU": 1794056735626
   },
   "digest": [
     {
@@ -27870,10 +27867,40 @@
       "d": 1794055990000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@felli_ade.i.r",
+      "x": "Masukin sendiri, bukan sensus. Kalo hasil sensus itu bisa 3 tahun lagi hasilnya. Input data/ perubahan data bisa pakai aplikasi cek bansos, perlinsos dan di web dtsen-form.bps.go.i",
+      "u": "https://www.threads.com/@felli_ade.i.r/post/DfcO3RElDhn",
+      "d": 1794056192000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Media Cirebon",
+      "x": "Kemenaker Gelontorkan Rp10 Miliar untuk Pelatihan Vokasi 2.000 Warga Kabupaten Cirebon - Media Cirebon",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUlV5TW5NRGJVamI3QzhSM2xmV2w1c2ZNUUpXZ0hzd2NPZ0preHBPNFdiRWFDTXRNTVdFcFpiZlpCak9tU282Sk9UNHdaZjhKanBWMU9rc21feDR2U3AwSXZEQkZuaVA5TFBfY0d0Mno4RDFyOVY1TloxdVVJdHlGZUlJekdvMHNsN3Y3bFhuZ1BOLWNsMXRERHVSVlZNSEN6Q09NWDNpUkpZX1hGOVJfcg?oc=5",
+      "d": 1793970491000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Muhammadiyah Sumatera Utara",
+      "x": "Cek Desil NIK Penerima Bansos PKH BPNT November 2026 – Artikel BLOG - Universitas Muhammadiyah Sumatera Utara",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0s4SkRpb0hvSWJOVWVKdTBrR3dKTUZXU2pGcVBoeUEwWms5cHktS09vZ1NNZU1fbGxEa0tCU2lEd1NXeEVLNDNRczhmdnFBdVZFWVRZZmkzOUZ2a3N3bWMwT2xvT3NuTlM0WHdBZG12b2puQ3Q3MS1BLTVDQnJzNmowTE9SVFU?oc=5",
+      "d": 1794053151000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
