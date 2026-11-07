@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4nskdmaDO": 1792861564619,
-    "threads:De4nebGmVZt": 1792861564619,
-    "threads:De4nFJ2mfzU": 1792861564619,
-    "threads:De4ISq4D1b1": 1792861564619,
-    "threads:De4ISqCj3bj": 1792861564619,
-    "news:CBMimgFBVV95cUxNU0FoRUduNGlnbUJKTWNhSElSZUZXTFhmOFo5eWJ0b0tGczlmaUtxbDlyU0NWaE1ucEhFeEY5RDB5cURYZHZQNkNmd05JUjZfS0VSWk5sMTVrdWxsTTNOa2dTaFFIMTZyRWxhMTdqRV9QaHRFMjZkV1hDOE10NkN1MXNWY3NwaWh0alBsRjI0S0hvV3BVdGhzWExB": 1792861564619,
     "threads:De3-LcbG8UE": 1792861847700,
     "threads:De4n74djeXH": 1792861847700,
     "threads:De4n6Zgn8Va": 1792861847700,
@@ -27673,7 +27667,11 @@
     "threads:DfcpeyPDlca": 1794070855710,
     "threads:Dfcp_YlDDrm": 1794070855710,
     "threads:DfcpYQqo9G9": 1794070855710,
-    "news:CBMi1wFBVV95cUxNZzBtZlVHS3FyRzM3VGpEWDNMZFBFNDUwdXBrLVJlSWh0UFlJNUNiaW1yZS0xTVBVZ1NBTXd5bTY1Ty1OMFExQ2dwZE0za1BPQnhIWnVoYnNyVlBQb1U2U2hoSENJblZhV2Q3UXhiQVFWMDgyanFXSFB6TEx5eV9hVXNiU0VmTGszRlFRRnBuZnR0U0lKTVY0V1VSV1hjeGlMQ09Kd09KUVhCRUcyU2VfWjREZmpGZk44STZVMlU5RE5JU19McnVVSlc2VUJtOGE5bEJxY01STdIB1wFBVV95cUxNZzBtZlVHS3FyRzM3VGpEWDNMZFBFNDUwdXBrLVJlSWh0UFlJNUNiaW1yZS0xTVBVZ1NBTXd5bTY1Ty1OMFExQ2dwZE0za1BPQnhIWnVoYnNyVlBQb1U2U2hoSENJblZhV2Q3UXhiQVFWMDgyanFXSFB6TEx5eV9hVXNiU0VmTGszRlFRRnBuZnR0U0lKTVY0V1VSV1hjeGlMQ09Kd09KUVhCRUcyU2VfWjREZmpGZk44STZVMlU5RE5JU19McnVVSlc2VUJtOGE5bEJxY01STQ": 1794070855710
+    "news:CBMi1wFBVV95cUxNZzBtZlVHS3FyRzM3VGpEWDNMZFBFNDUwdXBrLVJlSWh0UFlJNUNiaW1yZS0xTVBVZ1NBTXd5bTY1Ty1OMFExQ2dwZE0za1BPQnhIWnVoYnNyVlBQb1U2U2hoSENJblZhV2Q3UXhiQVFWMDgyanFXSFB6TEx5eV9hVXNiU0VmTGszRlFRRnBuZnR0U0lKTVY0V1VSV1hjeGlMQ09Kd09KUVhCRUcyU2VfWjREZmpGZk44STZVMlU5RE5JU19McnVVSlc2VUJtOGE5bEJxY01STdIB1wFBVV95cUxNZzBtZlVHS3FyRzM3VGpEWDNMZFBFNDUwdXBrLVJlSWh0UFlJNUNiaW1yZS0xTVBVZ1NBTXd5bTY1Ty1OMFExQ2dwZE0za1BPQnhIWnVoYnNyVlBQb1U2U2hoSENJblZhV2Q3UXhiQVFWMDgyanFXSFB6TEx5eV9hVXNiU0VmTGszRlFRRnBuZnR0U0lKTVY0V1VSV1hjeGlMQ09Kd09KUVhCRUcyU2VfWjREZmpGZk44STZVMlU5RE5JU19McnVVSlc2VUJtOGE5bEJxY01STQ": 1794070855710,
+    "threads:DfcrBz_EsIF": 1794071134943,
+    "news:CBMikwFBVV95cUxQYTA0ZjhzVmo4X2NDZ19ETHlCY0t6Z1U1LXlhcmRaUDBGcnhtTHRJdzBJTG4xWkYzZ3NhWkREcWl6Vk9zem5rMEE5R1JvX3A2MFcyenlmanRuZ252SjFPRGx4Ynl6TEJJZlh2a3hlbWMtWmxzSlExckpGd1Zjb3pkY1hYdEd6OXZ2b2dfNzJnQVlDbXM": 1794071134943,
+    "news:CBMi1gFBVV95cUxOVjZVVXBTMUR1UFhIYVNPb05pX01tbHBTaE5ZRWctOGlRdTVpMVQ4WW5XQVdlMUdia1JOWWtvMUxTZ2lRckhjeTEybDBOQjRKNVBBN3Y0V1NyaEdRbG5VNHhrS1hibWE0NXN0REFmcFBSWC1QaTNrVW9GcC1UWDAzZHN6b09NdTZMOHB1d1pWeVF2eEMzay1TZHZPS1V6R1BnS3ZnQjIzcklNcXZKYjUyY1RVTFNiQzEwVEd6NDZDMkY4cm9hTDVKNDVaVjFIbFdLNlFYcTNR": 1794071134943,
+    "news:CBMi3gFBVV95cUxOVVl2R3VEelgxR0hybmdfMlJXTlRGY1pjc3U1ZXFNMWJSS2FRdUlwZk1sMDNOdkRJemlpTTFUbGNZd3lUUTRSUjVuYWUtRElIcEZkVzE2LUs4M001cmtMb2JTNHl3YklBQnRacU94TzRWU2dicWotYkE2dDA2eXduOW5TaTc1TDcwN1RrSHJmcnYxRWgyNkFhRVR3ZjN3OENybEJKa3piZ202bjlMckU1ZlpndVYtaDZnMlhQeDNwbjhpVV9MT3ZKZ2NJRURKSjVIUnlpM1NpaXowaE94eXc": 1794071134943
   },
   "digest": [
     {
@@ -29075,10 +29073,50 @@
       "d": 1794031200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@arahpantura.id",
+      "x": "Cara Mengaktifkan Kembali Bansos yang Nonaktif 2026, Cek Syarat dan Jalur Pengajuannya https://arahpantura.id/cara-mengaktifkan-kembali-bansos-yang-nonaktif-2026-cek-syarat-dan-jal",
+      "u": "https://www.threads.com/@arahpantura.id/post/DfcrBz_EsIF",
+      "d": 1794070958000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "www.topik.id",
+      "x": "Cara Cek Status Exclude Bansos Lewat HP 2026, Ini Link Resmi Kemensos - www.topik.id",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTA0ZjhzVmo4X2NDZ19ETHlCY0t6Z1U1LXlhcmRaUDBGcnhtTHRJdzBJTG4xWkYzZ3NhWkREcWl6Vk9zem5rMEE5R1JvX3A2MFcyenlmanRuZ252SjFPRGx4Ynl6TEJJZlh2a3hlbWMtWmxzSlExckpGd1Zjb3pkY1hYdEd6OXZ2b2dfNzJnQVlDbXM?oc=5",
+      "d": 1794071060000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Pencairan Bansos PKH dan BPNT Sudah Tahap Verifikasi Rekening, Link & Cara Cek Nama Penerima Bantuan - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjZVVXBTMUR1UFhIYVNPb05pX01tbHBTaE5ZRWctOGlRdTVpMVQ4WW5XQVdlMUdia1JOWWtvMUxTZ2lRckhjeTEybDBOQjRKNVBBN3Y0V1NyaEdRbG5VNHhrS1hibWE0NXN0REFmcFBSWC1QaTNrVW9GcC1UWDAzZHN6b09NdTZMOHB1d1pWeVF2eEMzay1TZHZPS1V6R1BnS3ZnQjIzcklNcXZKYjUyY1RVTFNiQzEwVEd6NDZDMkY4cm9hTDVKNDVaVjFIbFdLNlFYcTNR?oc=5",
+      "d": 1794070770000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Pencairan Bansos BPNT hingga PKH Kuartal IV 2026, Berikut Link dan Cara Cek Nama Penerima Bantuan - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVVl2R3VEelgxR0hybmdfMlJXTlRGY1pjc3U1ZXFNMWJSS2FRdUlwZk1sMDNOdkRJemlpTTFUbGNZd3lUUTRSUjVuYWUtRElIcEZkVzE2LUs4M001cmtMb2JTNHl3YklBQnRacU94TzRWU2dicWotYkE2dDA2eXduOW5TaTc1TDcwN1RrSHJmcnYxRWgyNkFhRVR3ZjN3OENybEJKa3piZ202bjlMckU1ZlpndVYtaDZnMlhQeDNwbjhpVV9MT3ZKZ2NJRURKSjVIUnlpM1NpaXowaE94eXc?oc=5",
+      "d": 1794039126000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
