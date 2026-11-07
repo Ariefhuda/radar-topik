@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMioAFBVV95cUxNWG43Vk16VGFzb3R3bEt5MTFNS2ZZdzNjNENjNkV1aW45MHB6bUt0SHE5U1hXRlpRUzN4V3VXcFhHT1lFdmNOYXlOR1RieTFOdTJ4dFlHQWtsa3pzZDFJa21sODdfcFJKZWI3UUVxQ1ZGTnRZME55eDRHdC1hRVhLRXBQQWM1c2lvZkJsZlFSeHBHRkFqZjhCaE01NTIzWnFQ": 1792875942874,
-    "news:CBMivgFBVV95cUxQOGpzWGlzVGRmS2ROLWQ5Mm5IQkRpbnBjT213NFUzbDNmNnRUTzVhOGVYVkl5MW5lTllQNmhTalJyaGF0T2VOenFNV3Z1NG4wVUswakpOT21tS2ppRzBlMHR5dnZYRzNMbXQzSzN3M3Zqb3NEMDJzU0t1OWJQSmtxSGZUbUEzclFWcnhfZ0FnVVNCUlpnaWhQRUZNWlZMS215ZXJsc0dnNlZvRjFzSGNQUXI5REswcENYWlc4MDB3": 1792875942874,
     "threads:De5EVAVGewN": 1792876541880,
     "threads:De5EQxWmxhz": 1792876541880,
     "threads:De5EM3JGSU4": 1792876541880,
@@ -27691,19 +27689,10 @@
     "threads:DfdGHlQklEF": 1794085251924,
     "threads:DfdFqTDGKGW": 1794085251924,
     "threads:DfdFoutFt9x": 1794085251924,
-    "threads:DfdFLkfGHE2": 1794085251924
+    "threads:DfdFLkfGHE2": 1794085251924,
+    "news:CBMitgFBVV95cUxNTjJQam1kb2Z5cVRndVlJYi1ITHJrWnN3X1RONjBtWnJkQlFSZ0pXcHpkOF9xbUFtN19ELVlXWUF6aGJrWWlBVEtvcmhIeVZhYXNYX004SnZ0MExEb3pldlMwZV9rSE02WGJmSXpzbnVlSXZyWlR5cFZ6eXhQaXhzR1JRNWkwVGswNXlIOWJES29USWNZYjZjNW9OMWc5czdkLTNScDc5QWN6UmotaHUwdVZRby0xdw": 1794085532629
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@just.lelyyy",
-      "x": "Ak udah 1 bulan lewat aplikasi cek bansos masih terpantau belum berubah.",
-      "u": "https://www.threads.com/@just.lelyyy/post/DfcNqDuGUjr",
-      "d": 1794055559000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29193,10 +29182,20 @@
       "d": 1794077022000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Komputama Cilacap",
+      "x": "Apakah Bansos PKH dan BPNT Tahap 4 Sudah Cair? Simak Jadwal dan Skema Penyalurannya - Universitas Komputama Cilacap",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTjJQam1kb2Z5cVRndVlJYi1ITHJrWnN3X1RONjBtWnJkQlFSZ0pXcHpkOF9xbUFtN19ELVlXWUF6aGJrWWlBVEtvcmhIeVZhYXNYX004SnZ0MExEb3pldlMwZV9rSE02WGJmSXpzbnVlSXZyWlR5cFZ6eXhQaXhzR1JRNWkwVGswNXlIOWJES29USWNZYjZjNW9OMWc5czdkLTNScDc5QWN6UmotaHUwdVZRby0xdw?oc=5",
+      "d": 1794085347000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
