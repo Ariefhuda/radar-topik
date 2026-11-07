@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMizwFBVV95cUxQSVkxMkhUTU5lby1yazRXekZVZHo0Z2VrMHdVX0tNejJjMnV5djI3T1UwYjU0c01DWENNOHNvMVBoT2IwM3RiOW5DUThCcnZiMnB5Y19KbzhVSEVENk1KaHE2T3pLaHI3U1Itbi1wTWlISDludjhXLWM4OTZJTnBfRHhkWTg4U3lOWVZrMlB0NjhxemhlWnluQkdzNkVCN2JjcjB1c0xaQWEzNVpWc290UWgxak12VHRyb21kaVFJbm5tdk9MZnhKOG8yMjk2YkHSAc8BQVVfeXFMUElZMTJIVE1OZW8tcms0V3pGVWR6NGdlazB3VV9LTXoyYzJ1eXYyN09VMGI1NHNNQ1hDTThzbzFQaE9iMDN0YjluQ1E4QnJ2YjJweWNfSm84VUhFRDZNSmhxNk96S2hyN1NSLW4tcE1pSEg5bnY4Vy1jODk2SU5wX0R4ZFk4OFN5TllWazJQdDY4cXpoZVp5bkJHczZFQjdiY3IwdXNMWkFhMzVaVnNvdFFoMWpNdlR0cm9tZGlRSW5ubXZPTGZ4SjhvMjI5NmJB": 1792830656795,
-    "news:CBMiwwFBVV95cUxQUGdyVU5OUWxSQVVhcUhHckVrSWdCSVd1elFTaDA4a2I3aFlRNFo2Mk50SWRRTmhnRG5ZaUFjUVRVNFFlR3F0RHNKYkhDXy1VUHZLOGNGZGNtQlFBUEcxenBpM3BWSmVvOGNNWFQ5YVd0bzBTTzBkLUhzOHdXZUhYOFdGelRiVVZFdVZqc2ozQU8yVEZhZGsyOXhNXzRPcm14RFhIRDBxclY1MmhLVm1KckIxQlo0eWJhZVdINWhyMjRXR1U": 1792830656795,
-    "news:CBMitgFBVV95cUxNb0tVV05LUXlpMGZYclB4Z0hTb0hEdmdSbm1VcDZhWGc1QzJ0Y1pGQ1h0bHp5Y2J4UDhjaEd4SV9NSmdGam1DV2ZTSk5mRVkxampsU0JsTmdkb2Vob0VacDBWd0VjdFR3ZzV0aTVlcUpKVzUybGVHeHFfM25IZGZIejNKUnNSbTF6OU9waWltVGlqTjQzWFRrdldGWHVDeHdIQ3hfN291dG1fZ2JJOWpzY3ZQWkp0Zw": 1792830656795,
-    "news:CBMiyAFBVV95cUxQRW1SMW9RQlEtMFRyWGRNSktFeDVwNWNrR3l5S3UwZE5KYm5VU3o0dlZaaDdWRnRRMG5ndnc0c1lqaFFQS1owX0EzcThLSG9rUGV6aDdWdzdCc1JTVkZ6QllFNEJmdVdEWDItMUJfSGhQTUh5anBZcjVRTWI4NzV2ME5pOVlleGJaLUY2ZTRXVzFkdE5xbmtFU1pOdVpxcVRjNVVwSDVvZzBPaXI3ZnI4NW9nUmR1V05vbDhLVlY4TzZvQi1GbVpGUdIByAFBVV95cUxQRW1SMW9RQlEtMFRyWGRNSktFeDVwNWNrR3l5S3UwZE5KYm5VU3o0dlZaaDdWRnRRMG5ndnc0c1lqaFFQS1owX0EzcThLSG9rUGV6aDdWdzdCc1JTVkZ6QllFNEJmdVdEWDItMUJfSGhQTUh5anBZcjVRTWI4NzV2ME5pOVlleGJaLUY2ZTRXVzFkdE5xbmtFU1pOdVpxcVRjNVVwSDVvZzBPaXI3ZnI4NW9nUmR1V05vbDhLVlY4TzZvQi1GbVpGUQ": 1792830656795,
     "threads:De3tvYCEntb": 1792830943097,
     "threads:De3tjZqEnrm": 1792830943097,
     "threads:De3t1bjGanO": 1792830943097,
@@ -27680,109 +27676,21 @@
     "threads:DfbvgvEkWeY": 1794039942654,
     "news:CBMirwFBVV95cUxQRzRtY2R4X3RQZ053WEp3aVItX2JjS1lPajNNRzI0QVlqbHJmQ2VNbTlVb1JRV0RkTlFCN0U4YkxBWFVlVjA0dXhhTzFzSmptTFFzMXVINF9qRUNlWGZ0TTFfdWppamV4aXpVUkR4N1JRTHdreDVNenNEbjdIWUpVMzZ3UURfUGp6VjVKb3lUVXYwNjJWOGVJRmhQUnR5M3ZXMnBrYjBkY0pPSlk4dTcw0gG0AUFVX3lxTE1jTm1SQ0hDSmowdjZVQ3l0RzRKbVRfWVpTNEJyVE5Wb2hOQ2ZmeEtiWjkzUE1nVTMxNC11eE1IYktWdXZqWVhIS2xLc2FPSG4wMWJ6QTN4QUh5ZlJNSklJbHdrS0Q2alI2SEVRSnBBOEg5UnM3S0xzUHh3ODZ6dF9fYlhoVWh4ZWRrTUFPbXBRM01PZTk0Y0JtX0ZYa2wxUXk2MlBjYktmUm81ZUo4emtZX2k3Rw": 1794039942654,
     "news:CBMi2gFBVV95cUxNTzJUVHNGa0tOYnc3d0dpZ2xTVVJxb1ZFRXFZNjdjVnhhVE51RDFmM2ttNWszOWdKSEJvWEtILW01ODBBODVUX1VmRmZ4czRxZmhpTno5ZGNhMmEwNWNDaEF5Y3hERHpLdEpNU1AzdWtRa2VNbWJDai1uSU1yU1ZGdC13UUpTRXJ3cFpLNEFHLWotMEd0TG03azhMNzYyWWVJTDNsRHJCT1JMdmVMODZBWG5iUjZIc2NfY202U2Y4RzZEY2Z3dXpwWjZYZ1dKX25vdEVweVZiakJNZw": 1794039942654,
-    "news:CBMiogFBVV95cUxPOVFaU1ZUNGxlbjVPZWR1T3J0UERHdXkxTGgwRjhDXy1LdDByRFFqbzRWbUh3SjRaeTRjVFJHNGIwY0lBc1M1aEZtV3NWWXRfUzg0SDg1UGN6WVBfUTNIT2VLNnNWOVJ3aktyYmVGNXNmdGZPOVlMMHZZLTEwQ3RyekRQeks1Uk1zUGszMzB3bndGeldLdXlRNmxFYWE2Tjdabnc": 1794039942654
+    "news:CBMiogFBVV95cUxPOVFaU1ZUNGxlbjVPZWR1T3J0UERHdXkxTGgwRjhDXy1LdDByRFFqbzRWbUh3SjRaeTRjVFJHNGIwY0lBc1M1aEZtV3NWWXRfUzg0SDg1UGN6WVBfUTNIT2VLNnNWOVJ3aktyYmVGNXNmdGZPOVlMMHZZLTEwQ3RyekRQeks1Uk1zUGszMzB3bndGeldLdXlRNmxFYWE2Tjdabnc": 1794039942654,
+    "threads:DfbwGU2IKnd": 1794040242604,
+    "threads:Dfbv5b5E1rR": 1794040242604,
+    "threads:DfbwZV0FE1b": 1794040242604,
+    "threads:DfbwRYZlMoQ": 1794040242604,
+    "threads:DfbvtllFCja": 1794040242604,
+    "threads:DfbvhsvlPRS": 1794040242604,
+    "threads:DfbwD4Zmc-T": 1794040242604,
+    "threads:DfbvMSEFDD0": 1794040242604,
+    "threads:DfbvUCiGtDY": 1794040242604,
+    "threads:DfbwjcGGEwT": 1794040242604,
+    "threads:Dfbvvk4k-rW": 1794040242604,
+    "news:CBMixgFBVV95cUxPSS0zOW9KeS1FNGx1OFVpUnpZdGIxZGV3QzJRNW5SekxQYkE4SWpVSzM3N3pUR0JNd3Y5T28yRVBZeWpzQjg4N0FtanpRbVZ5dU92S3NfckFMcjNGZXJZZEw0LVFsWW1Icm5FNFd5N3RVN0xGMzk0RHgxbVVKN2RWclN4UkNnWlhndVdqMnU2cHFQQ08zelk0QWtnbmw2d3BWVk1aMHZsZlU2TDJvb1VuR0I2SG1GdlN6UjdBdWRsalFTZnhqVEHSAbsBQVVfeXFMTkRLblZuM3NPVTVvbUg0d1VqOW1ha3l6V05SMmttQjZ1R000dnVuM05MZE5qV292QS1rUk9FQW5FOV9zWUhRS1R0S3psbEdvV0RNZ3FYbjQ4bUJSaDZWSnNMR2NKYTJ0QWZwbTJmbUIyWFhIN1FtS1BuNzlXWnE4ZTRYLWRnUnFLR0JfelF3SWFXTkxfNndBYUdod1Q3QVBSMzk5NGlDYjVzS09iSF9QVkVrTGc3eUhxbEFmaw": 1794040242604
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@huffadz_tahfizh",
-      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
-      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfbVBTNEcLl",
-      "d": 1794025865000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@huffadz_tahfizh",
-      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
-      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfbVAWIEffl",
-      "d": 1794025857000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@huffadz_tahfizh",
-      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
-      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfazmEyE1CX",
-      "d": 1794008341000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@huffadz_tahfizh",
-      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
-      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfazlQGE2Nd",
-      "d": 1794008334000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbWpvYD89m",
-      "d": 1794026721000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbWlZ1D-yY",
-      "d": 1794026685000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbWhPDj0IH",
-      "d": 1794026651000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandirimultievent",
-      "x": "Bingung cari tempat sewa kursi kuliah yang nyaman dan berkualitas untuk acara Anda? 🪑✨ ​Di Mandiri Jaya Kolaborasi, kami siap melayani kebutuhan seminar, pelatihan, dan ​workshop ",
-      "u": "https://www.threads.com/@mandirimultievent/post/DfbWuEAHaMF",
-      "d": 1794026756000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@loker_babysitterindonesia",
-      "x": "Di sini, bukan cuma disalurkan untuk bekerja, tapi juga terus dibekali pelatihan sambil menunggu interview dengan majikan. Jadi, selama di lodging dan mess, waktunya tetap produkti",
-      "u": "https://www.threads.com/@loker_babysitterindonesia/post/DfbV_A8o7-d",
-      "d": 1794026371000,
-      "urgent": true,
-      "warn": true
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@pertiwiiiiq",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@pertiwiiiiq/post/DfbWYlZEfid",
-      "d": 1794026580000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29182,10 +29090,110 @@
       "d": 1794038400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elephant.2937551",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@elephant.2937551/post/DfbwZV0FE1b",
+      "d": 1794040218000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elephant.2937551",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@elephant.2937551/post/DfbwRYZlMoQ",
+      "d": 1794040153000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elephant.2937551",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@elephant.2937551/post/DfbvtllFCja",
+      "d": 1794039859000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elephant.2937551",
+      "x": "lPejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥 https://ch",
+      "u": "https://www.threads.com/@elephant.2937551/post/DfbvhsvlPRS",
+      "d": 1794039762000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@timuraya_jaya_lestari",
+      "x": "Jujurly, ngeliat teman-teman yang bela-belain kerja ke luar negeri terus bisa ngirim uang ke kampung, beliin orang tua rumah, atau nabung buat modal usaha sendiri itu keren banget.",
+      "u": "https://www.threads.com/@timuraya_jaya_lestari/post/DfbwD4Zmc-T",
+      "d": 1794040042000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kusumax9",
+      "x": "Mudah kakaa.. tinggal datang kekantor, daftar, lalu tes kesehatan, lolos lsg masuk pelatihan dan tinggal di mess dan makan gratis, full dana talang dan uang saku. Dm aja ya kak bua",
+      "u": "https://www.threads.com/@kusumax9/post/DfbvMSEFDD0",
+      "d": 1794039587000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zalmon_sky",
+      "x": "Mau ikut kelas gratis",
+      "u": "https://www.threads.com/@zalmon_sky/post/DfbvUCiGtDY",
+      "d": 1794039650000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@unmasdenpasar",
+      "x": "Hai Sobat Unmas! 👋✨ SPMB Unmas Denpasar Gel. 1 RESMI DIBUKA (30 Okt – 20 Des 2026)! 🚀💫 Kenapa Unmas? * Fakultas & prodi melimpah 📚 * Kelas fleksibel (Pagi, Sore, Bilingual) 🏫 ",
+      "u": "https://www.threads.com/@unmasdenpasar/post/DfbwjcGGEwT",
+      "d": 1794040301000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@hanifproduktif",
+      "x": "“Potong Rp50 ribu ya, Bu, buat administrasi.” Bansos nggak boleh dipotong siapa pun, dengan alasan apa pun. BPNT tahap 4 ini haknya Rp600 ribu utuh. Isinya: angka resmi PKH dan BPN",
+      "u": "https://www.threads.com/@hanifproduktif/post/Dfbvvk4k-rW",
+      "d": 1794039876000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nova.grid.id",
+      "x": "Bansos PKH Tahap 4 2026 Kapan Cair? Ini Jadwal November, Nominal dan Cara Cek Penerima - nova.grid.id",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSS0zOW9KeS1FNGx1OFVpUnpZdGIxZGV3QzJRNW5SekxQYkE4SWpVSzM3N3pUR0JNd3Y5T28yRVBZeWpzQjg4N0FtanpRbVZ5dU92S3NfckFMcjNGZXJZZEw0LVFsWW1Icm5FNFd5N3RVN0xGMzk0RHgxbVVKN2RWclN4UkNnWlhndVdqMnU2cHFQQ08zelk0QWtnbmw2d3BWVk1aMHZsZlU2TDJvb1VuR0I2SG1GdlN6UjdBdWRsalFTZnhqVEHSAbsBQVVfeXFMTkRLblZuM3NPVTVvbUg0d1VqOW1ha3l6V05SMmttQjZ1R000dnVuM05MZE5qV292QS1rUk9FQW5FOV9zWUhRS1R0S3psbEdvV0RNZ3FYbjQ4bUJSaDZWSnNMR2NKYTJ0QWZwbTJmbUIyWFhIN1FtS1BuNzlXWnE4ZTRYLWRnUnFLR0JfelF3SWFXTkxfNndBYUdod1Q3QVBSMzk5NGlDYjVzS09iSF9QVkVrTGc3eUhxbEFmaw?oc=5",
+      "d": 1794030365000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
