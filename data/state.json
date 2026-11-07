@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3-txzkues": 1792850143295,
-    "news:CBMizgFBVV95cUxPbk1qdzBPMlpRUl9sVVBZcDU2YlJLelY3bzhOWW10V1hXbWlpUEhmMXdoWTdlcVMtOTJ1M3lKRFVTeWtjTUMtT2lCT0hrN2NqbC1iQjIybWtwSl9YSDFTbG80aTh0bm5IU2tkSXVSVHpKMHp3UVNJeU9ob2ZtQ0Q3MkNINHVuTC0zcXEyNGluMkRiMVQ5aUZmTFhQalp4cTBHY2cwTTRVd04tNTFvY0FHemdnaWljOW5QTUhNUWdzTlpVckhkYzVMT082NkhzUQ": 1792850143295,
-    "news:CBMidkFVX3lxTE1tVW96MldadjY0MlVkSFY0SC12TGtzMzI2bVBvSnQ3WnNqWWNuWjJfVjRDNVZzMTk0Wm56VzZoUGZ1b0VkZUZ0cGJQZk9zM0xLdXN1ZmdxM05FNUNDX3dONkxWc0hQRldFc3RzMEp1ejFubTF0U0E": 1792850143295,
-    "news:CBMiywFBVV95cUxNeDB2RUNJZFRBWXo0OFZkUGNaU25tV05xOG5Jay1rcGpaU1hUbmxHWERnYVB2YXM2WG9HUXBEQTRRTGlsRDZUUFBseXZOMVBqUG1HT0xicndfeF9FOGRYZko3a1JMYjd3SEZhN2RIX3pLUEhJc3NNbUxZdmUtWWV0R3dhdkJBMTJ6RnpaNkk4WGlrN2pQcC0tcHFtSEt6UDFMS2t6V2lYbEpFaUFYVnJYRFYtcXpsZWJWTzNlaWNwWllzUVM4bkVoN3lWNNIBywFBVV95cUxNeDB2RUNJZFRBWXo0OFZkUGNaU25tV05xOG5Jay1rcGpaU1hUbmxHWERnYVB2YXM2WG9HUXBEQTRRTGlsRDZUUFBseXZOMVBqUG1HT0xicndfeF9FOGRYZko3a1JMYjd3SEZhN2RIX3pLUEhJc3NNbUxZdmUtWWV0R3dhdkJBMTJ6RnpaNkk4WGlrN2pQcC0tcHFtSEt6UDFMS2t6V2lYbEpFaUFYVnJYRFYtcXpsZWJWTzNlaWNwWllzUVM4bkVoN3lWNA": 1792850143295,
     "threads:De4SximGTx6": 1792850472014,
     "threads:De4TGQvCIO4": 1792850472014,
     "threads:De4S39tjFkQ": 1792850472014,
@@ -27579,7 +27575,15 @@
     "threads:DfcULh9Aa_j": 1794059439977,
     "threads:DfcUEdvj4V6": 1794059439977,
     "threads:Dcz5YZxGWb4": 1794059439977,
-    "threads:De30swOj6dy": 1794059439977
+    "threads:De30swOj6dy": 1794059439977,
+    "threads:DW3YGLwkryN": 1794059748231,
+    "threads:DYCcY6Skzhk": 1794059748231,
+    "threads:DS2ipUPDJOM": 1794059748231,
+    "threads:DZEL8JDk6OT": 1794059748231,
+    "threads:DZty1X9Hwp7": 1794059748231,
+    "threads:DQ-Z89aEgBb": 1794059748231,
+    "news:CBMivgFBVV95cUxQcjNqdjZEM09VLXA3YjBPVkR5MS1WTF9GNko2Z0ZibC1vWHpRTi1xUjFwUXg0bG1PdzdHdC1jTzVBU3M2djJaVXVoazNsOTNVdzM4SFBfTmsyQXpfMzdKWjRsRDQtelNXMmFDaWVDMmJEZjNic3VMdW9yeGRGZHh2WnNZUXNfUGVERk5kQVdQcGdPS1RDU1JQNU0yYm1aLW9qM0VzZXZSRmxQdnFrSHpxMVZlTXVWd19zdEg5VG1B0gG-AUFVX3lxTFByM2p2NkQzT1UtcDdiME9WRHkxLVZMX0Y2SjZnRmJsLW9YelFOLXFSMXBReDRsbU93N0d0LWNPNUFTczZ2MlpVdWhrM2w5M1V3MzhIUF9OazJBel8zN0paNGxENC16U1cyYUNpZUMyYkRmM2JzdUx1b3J4ZEZkeHZac1lRc19QZURGTmRBV1BwZ09LVENTUlA1TTJibVotb2ozRXNldlJGbFB2cWtIenExVmVNdVZ3X3N0SDlUbUE": 1794059748231,
+    "news:CBMiYkFVX3lxTE03LW5NZGFNYjhZSy1BRWJHV2x0dHhGYzluSHdSbDMza2RvZldEcUVGaDQ3ZEM4M1dsN3JKdzByUU1pb0lFOE4tbF9WWlFqVVFZS2VrVE9HVGxjcy12cU5zYnNB": 1794059748231
   },
   "digest": [
     {
@@ -28131,10 +28135,30 @@
       "d": 1794058921000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Palpos",
+      "x": "Bansos PKH 2026: Ini Tanda Bantuan PKH Cair Rp3 Juta Dan Sudah Masuk Rekening Penerima - palpos.disway.id - Palpos",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjNqdjZEM09VLXA3YjBPVkR5MS1WTF9GNko2Z0ZibC1vWHpRTi1xUjFwUXg0bG1PdzdHdC1jTzVBU3M2djJaVXVoazNsOTNVdzM4SFBfTmsyQXpfMzdKWjRsRDQtelNXMmFDaWVDMmJEZjNic3VMdW9yeGRGZHh2WnNZUXNfUGVERk5kQVdQcGdPS1RDU1JQNU0yYm1aLW9qM0VzZXZSRmxQdnFrSHpxMVZlTXVWd19zdEg5VG1B0gG-AUFVX3lxTFByM2p2NkQzT1UtcDdiME9WRHkxLVZMX0Y2SjZnRmJsLW9YelFOLXFSMXBReDRsbU93N0d0LWNPNUFTczZ2MlpVdWhrM2w5M1V3MzhIUF9OazJBel8zN0paNGxENC16U1cyYUNpZUMyYkRmM2JzdUx1b3J4ZEZkeHZac1lRc19QZURGTmRBV1BwZ09LVENTUlA1TTJibVotb2ozRXNldlJGbFB2cWtIenExVmVNdVZ3X3N0SDlUbUE?oc=5",
+      "d": 1794054060000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "Cara Cek Desil Bansos Kemensos Lewat NIK KTP - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03LW5NZGFNYjhZSy1BRWJHV2x0dHhGYzluSHdSbDMza2RvZldEcUVGaDQ3ZEM4M1dsN3JKdzByUU1pb0lFOE4tbF9WWlFqVVFZS2VrVE9HVGxjcy12cU5zYnNB?oc=5",
+      "d": 1794016162000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
