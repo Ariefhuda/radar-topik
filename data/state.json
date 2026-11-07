@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De34sFwk4sW": 1792836947886,
-    "threads:De35Pd_gdJ5": 1792836947886,
-    "news:CBMilgFBVV95cUxORXpLclBpMllBQ25PZFoweE5wTWNocjY5YjlfYllPYnY5TUJ3dFY5TWlPMUNFaE1BR1o1b0h3Z1VqRHdWakVuS2VDLUJsQlpmSmJuZWpreTl2RTVTc0xjQUY3anAxd1RqeFROWjFQRVg4RTYwQTVXY0htZzAwckZidHFLVklrUVNIZ2hfT2hDRFg5MTdPRnc": 1792836947886,
-    "news:CBMitAFBVV95cUxOWFNkTUxOczVueDdzbkJnOTUyOGNhcXZKaXIyN3BaNjVuSlNhb2lCVjFVS2RyTXVRVVJ0MXF5X3QxZERZRkw5WnUtU1V4MnNtR1JONnVQV0lnaDh2eWFqb0hudFdVcG1sbTljZm9MV21oR2tKVXNxM3FjYmVMTWxDeENycGRIazJ4cmtwWENXN0Z5OENUZWlFb3ktMFROTUk1aWtxRmRraXVyZXhBenBQRERtSXg": 1792836947886,
-    "news:CBMi2gFBVV95cUxQa2NBQnliR1UtbTZMaURYbnNOeHN3MzZDdHFJaENLNk5haEhfM2xBZ292YmdUMkQwYkkxMWNLT21MLXMxM0Z6UUV0ZzZYbmNFeUMzNjh0NGVSSjJjNGQ5TjNwck1qYlk0ekJxNjYzNFA5aElKbnktaUxTSFpyUWtHS2lkcDdjVGliM0hTZlVhanNlc0hqMHNwVjFjTjFhMGdSaHNoUXlNOU1uNHRVWjNoeDVxeFRtMU9pSGE4STJGM1gzMW5lLU9xX0hDZWFPUFdDXzQ0c3VfOGtaZ9IB2gFBVV95cUxQa2NBQnliR1UtbTZMaURYbnNOeHN3MzZDdHFJaENLNk5haEhfM2xBZ292YmdUMkQwYkkxMWNLT21MLXMxM0Z6UUV0ZzZYbmNFeUMzNjh0NGVSSjJjNGQ5TjNwck1qYlk0ekJxNjYzNFA5aElKbnktaUxTSFpyUWtHS2lkcDdjVGliM0hTZlVhanNlc0hqMHNwVjFjTjFhMGdSaHNoUXlNOU1uNHRVWjNoeDVxeFRtMU9pSGE4STJGM1gzMW5lLU9xX0hDZWFPUFdDXzQ0c3VfOGtaZw": 1792836947886,
     "threads:De34zFYjw33": 1792837252054,
     "threads:De35lb6mMDh": 1792837252054,
     "threads:De35y3HgXj1": 1792837252054,
@@ -27686,99 +27681,22 @@
     "threads:Dfb7IpwmT32": 1794046242758,
     "threads:Dfb7ISzEm5Q": 1794046242758,
     "news:CBMi0AFBVV95cUxPQmxMQzZNMm9yTmJGZWRsMFNhRGJtVFdNVDJJakM0MEVDMXJJNHdiMG9SMXlfcUhGN2RTNWtJS1YxRFNfVTJfOWlHbW0taDNSNHRsT0U1RFVfTGJsTXM0ZHFhNVhqR01ya294dldlSDdhM1RKZ3p3b2c2cllVNGpRYkJ1WHctR0NnNlVydnJIdTVqd3JlcHJqSVZobnYzV3BrQTJPSW5kTzd5cXk3d0VxWUlpckVkeVUtclVNQkZ6amxkU1JuTXRDaUNiMFpMQjNx0gG3AUFVX3lxTFBQQ2hHbDk5eDMtcXZ5T2laQUVBeVlhM0pJc2ZDX29Kc1hrNG00N0FEQ25uem1RTVVoRU1iS1hWNDlzNjhwX3V0SmxnTXgweVRRdWxLb3pVM1N4ZDliRnhJTV91dXFSSFJEX3lOWmYtNGp6SUxRM3N3MzB5bjFNRnEwVDl0WkpLVFpYbjRPdUhDdGp4anNGSklvQ0tNRjhkc1FkNm51MlFDSzIweVNmTkgySGdtSGRJNA": 1794046242758,
-    "news:CBMi4AFBVV95cUxNMEdOdzQ2djNFQmlrTm13NVh2YktQUEFlbFRfck40djdIb1RkTzNnbHduZERzdEEwWWlZanZXVGhfWG5uSkRvTWdocG1tNDFpWEx6RVNTbEl4VHNabXJ6UmxFamF6WkI0V3RQU2dkZ1JKRDNUX29xTWhOSnJCckdGbG1TbEVZNEJIM0dHbm9HMmYwZWFteGU0UkhNeWJUclM3TUVYUDE2U0lBblBLcXI1Wkhhbldobnhpc3c0cWRWSXBpek5oMzRFT3UzenM5QTMwNmh1d0N2Mks0dXhrYThxRQ": 1794046242758
+    "news:CBMi4AFBVV95cUxNMEdOdzQ2djNFQmlrTm13NVh2YktQUEFlbFRfck40djdIb1RkTzNnbHduZERzdEEwWWlZanZXVGhfWG5uSkRvTWdocG1tNDFpWEx6RVNTbEl4VHNabXJ6UmxFamF6WkI0V3RQU2dkZ1JKRDNUX29xTWhOSnJCckdGbG1TbEVZNEJIM0dHbm9HMmYwZWFteGU0UkhNeWJUclM3TUVYUDE2U0lBblBLcXI1Wkhhbldobnhpc3c0cWRWSXBpek5oMzRFT3UzenM5QTMwNmh1d0N2Mks0dXhrYThxRQ": 1794046242758,
+    "threads:Dfb8RADEjGh": 1794046538595,
+    "threads:Dfb70bRkjws": 1794046538595,
+    "threads:Dfb7uSWD0K_": 1794046538595,
+    "threads:Dfb7HggCojn": 1794046538595,
+    "threads:Dfby-SfEtoO": 1794046538595,
+    "threads:Dfb7duMGQPV": 1794046538595,
+    "threads:Dfb7bF2Gf_v": 1794046538595,
+    "threads:Dfb7Z30maeE": 1794046538595,
+    "threads:Dfb7YVimRYm": 1794046538595,
+    "threads:Dfb7WMYGQPd": 1794046538595,
+    "threads:Dfb7R_YGdCY": 1794046538595,
+    "threads:Dfb8QCfk8s7": 1794046538595,
+    "threads:Dfb7O8eCu54": 1794046538595
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandiritokuteiginou",
-      "x": "Mitos: \"dari nol sama sekali, bisa ikut?\" Faktanya: bisa — Trial GRATIS Batch 1 memang mulai dari nol. Sesi 1 aisatsu & perkenalan diri, hiragana baru menyusul di Sesi 2–3. 16–21 N",
-      "u": "https://www.threads.com/@mandiritokuteiginou/post/Dfbflmljy7Q",
-      "d": 1794031418000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@devita_audina",
-      "x": "Aku jadinya pake aplikasi cek bansos tapi ga ada buat masukin suratnya. Sekarang tulisan di apl nya data siap dikirim.",
-      "u": "https://www.threads.com/@devita_audina/post/DfbgfwfFLAm",
-      "d": 1794031882000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@liaa_z123",
-      "x": "gais siapa yang mau ikut seminar?tiket gratis dari aku dm yaa",
-      "u": "https://www.threads.com/@liaa_z123/post/DfbTA46H3LD",
-      "d": 1794024813000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ayahnyadivadhafin",
-      "x": "Webinar yang daftar 50 orangan yang hadir 20 an, bikin lanjutan Webminar sesi 2 pada wa lagi \"boleh ikutan?\" maaf yg boleh ikut hanya yang ikut webminar sesi 1, karena materi lanju",
-      "u": "https://www.threads.com/@ayahnyadivadhafin/post/DfbNSWKGRRx",
-      "d": 1794021810000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@fauzan.propertyconsultant",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@fauzan.propertyconsultant/post/DfbgxXXkryG",
-      "d": 1794032026000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Pemerintah Kota Tangerang",
-      "x": "Berbekal Pelatihan Dinsos Kota Tangerang, Alumni dan AirNav Indonesia Gelar Cukur Gratis di Ponpes Al-Hasyimiyah. - Pemerintah Kota Tangerang",
-      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU3RKQkxaWkJNZ0FCOXdHNWJkTnhYZkJPdURKOENHdEJfRUhpWWlQY0RfZ2p3TWctcnJTeWM1S3NEN2VTZjZsc3dTS2ZEUUpMS3k0Z3EwbUZ2bDBWZzJXT0hLOXlUMUF4NEtySC10aXdJNDNQMzdMclI1c1BpZHV3SWdvTGxDUWk0S29lcE1MX2dodFJFRFFndE9vYTRIRW15bGhQSHJYZm94VlBtUTJsanY3Z0Y5WjF0QmlCZnRTSklwUHkxam1YUGdSSG1pdlVWR3JzYi1lQkpKYjlmUnVUR2tEeG9DTHowTWw5OG52ZFRCdjRsbWc?oc=5",
-      "d": 1794028380000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/Dfbih8rj5Mn",
-      "d": 1794032948000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbieI7j0Q5",
-      "d": 1794032917000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/Dfbib-0D9-i",
-      "d": 1794032899000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29188,10 +29106,100 @@
       "d": 1794046125000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bhpmedan_kemenkum",
+      "x": "WEBINAR BHP MEDAN “Menjaga yang Tak Lagi Mampu, Melindungi Hak yang Tetap Ada (Pengampuan sebagai Pencegah Sengketa Harta Keluarga)” Hadir bersama para narasumber dari BHP Medan, I",
+      "u": "https://www.threads.com/@bhpmedan_kemenkum/post/Dfby-SfEtoO",
+      "d": 1794041569000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/Dfb7duMGQPV",
+      "d": 1794046021000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/Dfb7bF2Gf_v",
+      "d": 1794045999000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/Dfb7Z30maeE",
+      "d": 1794045989000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/Dfb7YVimRYm",
+      "d": 1794045977000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/Dfb7WMYGQPd",
+      "d": 1794045959000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wahyu_ptatm",
+      "x": "Halo Sobat Pekerja Migran! 👋 Ingin bekerja di luar negeri secara resmi, aman, dan tanpa rasa cemas? PT Antar Tenaga Mandiri siap memfasilitasi keberangkatan Anda ke negara tujuan ",
+      "u": "https://www.threads.com/@wahyu_ptatm/post/Dfb7R_YGdCY",
+      "d": 1794045925000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kh.2123711",
+      "x": "Kalau kakaknya perempuan cb hub ini kak @kholearning ada kelas gratis jg",
+      "u": "https://www.threads.com/@kh.2123711/post/Dfb8QCfk8s7",
+      "d": 1794046433000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rosdheeana_aurhel",
+      "x": "Les bahasa Inggris online langsung sama guru asing 😊 Coba kelas gratis di link ini 👉https://s.51kt.com/F4Ydk",
+      "u": "https://www.threads.com/@rosdheeana_aurhel/post/Dfb7O8eCu54",
+      "d": 1794045907000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
