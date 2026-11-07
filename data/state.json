@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3Gxm7EkXU": 1792810538786,
-    "threads:De3F-DGoPVg": 1792810538786,
-    "news:CBMirgFBVV95cUxNZ081N3BnQkFCc1JZdGl4Wlh4bmRMd0ZnbTZHMWU5U1p0WWV4VElPci1WRFlDdW9QTXBINVZLblF5Tjk0V09jRDNqVWpBR01LV2ItVEMybHpKUGxvR3lUcHFLc0hyUVhHYUNtMXE2VTdJZDlLcjJCRUhwUkRFVjVnQ29oWmZiOUJncXdWUmFPdm5saFJKakVrWG1yeUJVYU42UVJaRkVVWWJHSmxDY3c": 1792810538786,
     "news:CBMilwFBVV95cUxQTVNzSDdwYzhnN3ZTYzh4YzZfSXpNWmdacUxhQ21VMUpqdkdFbFJuQmdZSUVHbnFwc0E0VzFMN1k2WGxxT3dJTzlQdWppYVFjUnFlTkZYTEgtUmNWM212am1CdVhxNG8zVmtlVXVCeS1XczE2Sm1fTVN0c0I0X1lJWmN6Y05KTUZrTFJuQnctXzJxN1BsYXBj0gGcAUFVX3lxTFBhdUY4dkt4ODFyTHlQczhPeWN2NDZGb0RSRndGaUlyeEdvLWpUaEp5d2xzeHpwdUdid3FmZEI4T2E5bEk4aEJ6X2FraHFuWDJyZkZUQUltcXVYMFBqVFVpMXZ5NEFnU29CcWg3SmdRTXB4X2psSVYxX1B1VEJuREtuY1AtNlZlY1NGNl9Vd3BFa1A0YUVDSHFVVlZwaA": 1792810879561,
     "news:CBMilwFBVV95cUxNUXVQU1VLc0VVM1hJOV9uYmhVc1lvd3FxRWNYMDY5VGU5RTJsMk5JcE9rcDdiUERDQmQ2OWJ0alVndFBQaTd0VWU5Nmtqb29mY1lFNGRkQkRlSWlEVlRaYWI4alBlUVFKRUFQcDVMclA1WXhGc0dObkNLWDBwQVoyV0VfQzJIZFpfbDVKVjlTVTRTb2tVZGNv": 1792810879561,
     "news:CBMipwFBVV95cUxNTDV2NjJpUmFLNHJxX2hoWE9fQXNpV3hVMFRNOFlNZTVWa1pvS1d3RlNTaWpSQ1FVVVNtXzVMM3Fnd2lUUXdFOURTNFdhcHRjTnlMbWZYbmM1V0p0VUZHZHlqSjBwdWRXZHI0bDZ4emd3UEVLZEFCbDRXZnh6d1B3WE5SbkotaW83blYwc0NSZTlEQlp3VFljLV9mMEhJWmk5VnNHb19VQQ": 1792810879561,
@@ -27709,7 +27706,9 @@
     "threads:DCWfWW1JTlE": 1794019835409,
     "threads:DfbJCJMmRDv": 1794019835409,
     "threads:DfbI_eoE22H": 1794019835409,
-    "news:CBMic0FVX3lxTE11b2RSMkFVemZrNWYzajJzTmxXUXZ4MlF3Z3FYbktweWk2NzBFY3RST0pZZmxYUEdndlBMNXN4NkQxMVZ3ZGw0R2tiekU3LTVaU2xNSThqV0pVVFhkMDVteTcyMnpYTm42NjZ5NUlZdlpPb2M": 1794019835409
+    "news:CBMic0FVX3lxTE11b2RSMkFVemZrNWYzajJzTmxXUXZ4MlF3Z3FYbktweWk2NzBFY3RST0pZZmxYUEdndlBMNXN4NkQxMVZ3ZGw0R2tiekU3LTVaU2xNSThqV0pVVFhkMDVteTcyMnpYTm42NjZ5NUlZdlpPb2M": 1794019835409,
+    "threads:DfbI_3nEgAs": 1794020138268,
+    "news:CBMirwFBVV95cUxOaXUxTWFqZU5FNEUtRl9DVXc1UXA1U0hNSjlUYUo3Z1lIak8wdFJ1bEpac0twX1BPTnJTZ0s0WlJHX3pJYzNXNE5wcktDXzR1QVc1M1BrdTZmZ3o5TVJ4WFZaOGtNMG1kcWw5dm44bTFPZlZ2Y0lBbVQ0bmlQb0FaMGZJNjVtWEE5UVZGU0hFRVJqMjdoVkMzbHh0eHcyS2FvXzJ4LW5odlN3bnp1MXlB": 1794020138268
   },
   "digest": [
     {
@@ -28421,10 +28420,30 @@
       "d": 1794014054000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@talhahahmad30",
+      "x": "Cek bansos https://sinergiupdate.com/cek-bansos-masih-tahap-3-apakah-bpnt-dan-pkh-tahap-4-tetap-cair https://sinergiupdate.com/punya-orang-tua-lansia-cek-cara-mengajukan-bansos-dar",
+      "u": "https://www.threads.com/@talhahahmad30/post/DfbI_3nEgAs",
+      "d": 1794019562000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Indopolitika.com",
+      "x": "Dewan Rapiudin Akbar Dorong Perpustakaan dan Pembentukan Lembaga Pendamping Beasiswa - Indopolitika.com",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXUxTWFqZU5FNEUtRl9DVXc1UXA1U0hNSjlUYUo3Z1lIak8wdFJ1bEpac0twX1BPTnJTZ0s0WlJHX3pJYzNXNE5wcktDXzR1QVc1M1BrdTZmZ3o5TVJ4WFZaOGtNMG1kcWw5dm44bTFPZlZ2Y0lBbVQ0bmlQb0FaMGZJNjVtWEE5UVZGU0hFRVJqMjdoVkMzbHh0eHcyS2FvXzJ4LW5odlN3bnp1MXlB?oc=5",
+      "d": 1794016200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
