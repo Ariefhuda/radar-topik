@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5BZpUD0MH": 1792875047656,
-    "threads:De5AhEsE9Om": 1792875047656,
-    "threads:De5B--ek-zv": 1792875047656,
-    "threads:De5BajRjHJD": 1792875047656,
     "threads:De5DUT7DEdJ": 1792875664264,
     "threads:De5DS-EGnN4": 1792875664264,
     "threads:De5C_-zExbM": 1792875664264,
@@ -27691,29 +27687,11 @@
     "threads:DfdEhSWmZu8": 1794084340411,
     "threads:DfdEQieAY7F": 1794084340411,
     "threads:DfdDhflEide": 1794084340411,
-    "threads:Dd5h9HVGt34": 1794084340411
+    "threads:Dd5h9HVGt34": 1794084340411,
+    "threads:Dfa08EIAWp3": 1794084636923,
+    "threads:Dfc2dVtgJQx": 1794084636923
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Sekarang gratis 100% / full beasiswa - jadi gak ada biaya masuk. Mulai tahun ajaran 2025/2026 pemerintah menerapkan sistem pendidikan 100% gratis bagi seluruh siswa SMA Taruna Nusa",
-      "u": "https://www.threads.com/@meta.ai/post/DfcOMBOACdQ",
-      "d": 1794055837000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Kabar Bansos Malam Ini: Desil KPM Tahap 4 Sudah Terupdate - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlJLVEVZNjFaR3BuV1gwZm9zUzFpdU9hSnliSTNOSE1JT0hHclFnNU9iZmplRHdnZDlib2FtSlJwMy1hWmZOUGlPZzVfVHVkVDNtZXQzdG1MMnhoX0U2SXZRTmdveWRqSUNKcVBrYXhzY3dPZ1BSRzY3elNLdGFEZ2IydVVhb3dZc3VES1d3QXdMZG5Ncm9za1lEZHdaQjExb1ZQbHJoSVnSAa4BQVVfeXFMTzRUWC1XYVgza2Rfc2dNMnZGMlZwbFFnRTdRalpIN1gwWVJlWnU0anJyRS1jMmYtRlBLWENEMC1DazNENHBWQjNlN1o0T0JCdGJkTXV6ZTZwOU84NTJfMkFZaW1TZ2VDSlVhejhnSkZ4Zk90empCY3pTekxsUWJ2QlRnbEc3VU1BOEtUanFjcnUwVGxVc05uNXRaaXNEbDhrS1VuN1RqcTlBQWpqc2h3?oc=5",
-      "d": 1794055481000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29193,10 +29171,30 @@
       "d": 1794063623000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@denashya",
+      "x": "‼️ GRATIS ‼️ Siapa tau ada yg butuh disini☝️ Hari ini jam 10 PAGI WIB aku mau ngadain webinar kuliah dan beasiswa S1 di LUAR NEGERIII https://uni-hamburg.zoom.us/j/64275729948?pwd=",
+      "u": "https://www.threads.com/@denashya/post/Dfa08EIAWp3",
+      "d": 1794009045000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rizki89455",
+      "x": "Guys, ada yg mau ikut kelas bikin animasi AI gratis . buat akses belajarnya. Yang mau bisa follow ,repost postingan ini biar yang lain kebagian juga, dan komen yaaa GRATIS !!! Nant",
+      "u": "https://www.threads.com/@rizki89455/post/Dfc2dVtgJQx",
+      "d": 1794077022000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
