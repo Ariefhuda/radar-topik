@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3-LcbG8UE": 1792861847700,
-    "threads:De4n74djeXH": 1792861847700,
-    "threads:De4n6Zgn8Va": 1792861847700,
-    "news:CBMigwJBVV95cUxNZHB2eExmTkx2VGlCVjU3enhVNmFOUjFlUmxKNGJwLXRkSnc3aGxNVFV1TlcwU0FySmpzMFZWWHlSZ19wUmhqS01uNmJBeERTeWpLaHo1QVBDUUhkdEVMS0ttV0QxS3hYQk9YaGdzT2RzN2RBSWhWcG0waVhTenhNb252V3ZxM01fYzdMeUVOZlZMX0E3WkVVRVc3S3BTT3RIY2dmcl80Uy1hWWdZSzFjblNYTWRXSVBoY244TjUzaGVYWUFra3NrZTZzMlhYTDJtS1NsMDQyaFByc1NoWUM4c0pDaWxRRlFRNVNYX0dxY0RGbVdqUFlxZzR6OTJpc083R0ww0gGDAkFVX3lxTE1kcHZ4TGZOTHZUaUJWNTd6eFU2YU5SMWVSbEo0YnAtdGRKdzdobE1UVXVOVzBTQXJKanMwVlZYeVJnX3BSaGpLTW42YkF4RFN5aktoejVBUENRSGR0RUxLS21XRDFLeFhCT1hoZ3NPZHM3ZEFJaFZwbTBpWFN6eE1vbnZXdnEzTV9jN0x5RU5mVkxfQTdaRVVFVzdLcFNPdEhjZ2ZyXzRTLWFZZ1lLMWNuU1hNZFdJUGhjbjhONTNoZVhZQWtrc2tlNnMyWFhMMm1LU2wwNDJoUHJzU2hZQzhzSkNpbFFGUVE1U1hfR3FjREZtV2pQWXFnNHo5MmlzTzdHTDA": 1792861847700,
     "threads:De4pDFGFtfj": 1792862142213,
     "threads:De4oHGPDUUe": 1792862142213,
     "threads:De4ok_ngUo-": 1792862142213,
@@ -27671,7 +27667,14 @@
     "threads:DfcrBz_EsIF": 1794071134943,
     "news:CBMikwFBVV95cUxQYTA0ZjhzVmo4X2NDZ19ETHlCY0t6Z1U1LXlhcmRaUDBGcnhtTHRJdzBJTG4xWkYzZ3NhWkREcWl6Vk9zem5rMEE5R1JvX3A2MFcyenlmanRuZ252SjFPRGx4Ynl6TEJJZlh2a3hlbWMtWmxzSlExckpGd1Zjb3pkY1hYdEd6OXZ2b2dfNzJnQVlDbXM": 1794071134943,
     "news:CBMi1gFBVV95cUxOVjZVVXBTMUR1UFhIYVNPb05pX01tbHBTaE5ZRWctOGlRdTVpMVQ4WW5XQVdlMUdia1JOWWtvMUxTZ2lRckhjeTEybDBOQjRKNVBBN3Y0V1NyaEdRbG5VNHhrS1hibWE0NXN0REFmcFBSWC1QaTNrVW9GcC1UWDAzZHN6b09NdTZMOHB1d1pWeVF2eEMzay1TZHZPS1V6R1BnS3ZnQjIzcklNcXZKYjUyY1RVTFNiQzEwVEd6NDZDMkY4cm9hTDVKNDVaVjFIbFdLNlFYcTNR": 1794071134943,
-    "news:CBMi3gFBVV95cUxOVVl2R3VEelgxR0hybmdfMlJXTlRGY1pjc3U1ZXFNMWJSS2FRdUlwZk1sMDNOdkRJemlpTTFUbGNZd3lUUTRSUjVuYWUtRElIcEZkVzE2LUs4M001cmtMb2JTNHl3YklBQnRacU94TzRWU2dicWotYkE2dDA2eXduOW5TaTc1TDcwN1RrSHJmcnYxRWgyNkFhRVR3ZjN3OENybEJKa3piZ202bjlMckU1ZlpndVYtaDZnMlhQeDNwbjhpVV9MT3ZKZ2NJRURKSjVIUnlpM1NpaXowaE94eXc": 1794071134943
+    "news:CBMi3gFBVV95cUxOVVl2R3VEelgxR0hybmdfMlJXTlRGY1pjc3U1ZXFNMWJSS2FRdUlwZk1sMDNOdkRJemlpTTFUbGNZd3lUUTRSUjVuYWUtRElIcEZkVzE2LUs4M001cmtMb2JTNHl3YklBQnRacU94TzRWU2dicWotYkE2dDA2eXduOW5TaTc1TDcwN1RrSHJmcnYxRWgyNkFhRVR3ZjN3OENybEJKa3piZ202bjlMckU1ZlpndVYtaDZnMlhQeDNwbjhpVV9MT3ZKZ2NJRURKSjVIUnlpM1NpaXowaE94eXc": 1794071134943,
+    "threads:Dfcrw3slfsx": 1794071439119,
+    "threads:DfcrDRHjXNR": 1794071439119,
+    "threads:DfcrAQEiKOd": 1794071439119,
+    "threads:DfcqyoOAL-V": 1794071439119,
+    "threads:Dfcr6SdkwYj": 1794071439119,
+    "threads:Dfcr5qWGUDz": 1794071439119,
+    "news:CBMi4AFBVV95cUxPMHdJWVNmLVNGUFZndVVkUDNYT1N6SEZLMWhmbVBXRGZhRmRLOEl4MDAyRlgwQzRfVnRoRTJfQ2tjQ0ZpVlRMSGlBQVBNQnNPaEpJZ1pJMkkwSVFKUzhJVzFyNjdiaHE3Q25wb3ZLdnVzR0FVb1ljNkhLRzlpM0JUTVA3Rkw4MFd0UjR3NEo0UGQ2OGM5em9fcEpEbXlmaks5ZkxPRXp6VHZPeEFyQWxwelUtdnd4STNzZmQycGpiaHFjY2ZnbzB5UmVPQXk2Ym84bF9rVXgwMmZYTE5Eei03RA": 1794071439119
   },
   "digest": [
     {
@@ -29113,10 +29116,30 @@
       "d": 1794039126000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ayuca_123",
+      "x": "Mau ikut kelas gratis",
+      "u": "https://www.threads.com/@ayuca_123/post/Dfcr5qWGUDz",
+      "d": 1794071416000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Dampingi Gubernur Banten, Wali Kota Cilegon Pantau Sekolah Gratis, MBG dan SPMB di Kota Cilegon - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMHdJWVNmLVNGUFZndVVkUDNYT1N6SEZLMWhmbVBXRGZhRmRLOEl4MDAyRlgwQzRfVnRoRTJfQ2tjQ0ZpVlRMSGlBQVBNQnNPaEpJZ1pJMkkwSVFKUzhJVzFyNjdiaHE3Q25wb3ZLdnVzR0FVb1ljNkhLRzlpM0JUTVA3Rkw4MFd0UjR3NEo0UGQ2OGM5em9fcEpEbXlmaks5ZkxPRXp6VHZPeEFyQWxwelUtdnd4STNzZmQycGpiaHFjY2ZnbzB5UmVPQXk2Ym84bF9rVXgwMmZYTE5Eei03RA?oc=5",
+      "d": 1793986743000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
