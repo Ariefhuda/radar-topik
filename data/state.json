@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMixAFBVV95cUxPWVVJaGN2c2o1OUNLNEdlRDNEdjFjWTJQSlNTbWV5ci1aSWZwOTlKcktmcmkwYW5ybFJxTnBvN01JTDgzcnJlcFJQS21GbUxJSFNKUW1TRGJlSTl2S21fWVRtUEhadnF0MDRqM2t2cUJORXBLRXUxZEM3Ulo3NTRZbERjNWxQOVZ1WTNPVnFGVnVJeGcxNkJ1Z2lkZlZPQW5FNHhvcXFIbF9zaWMweU1saXZ1azdWVzBTa3Rob3Y3alFMMF9r0gHEAUFVX3lxTE9ZVUloY3ZzajU5Q0s0R2VEM0R2MWNZMlBKU1NtZXlyLVpJZnA5OUpyS2ZyaTBhbnJsUnFOcG83TUlMODNycmVwUlBLbUZtTElIU0pRbVNEYmVJOXZLbV9ZVG1QSFp2cXQwNGoza3ZxQk5FcEtFdTFkQzdSWjc1NFlsRGM1bFA5VnVZM09WcUZWdUl4ZzE2QnVnaWRmVk9BbkU0eG9xcUhsX3NpYzB5TWxpdnVrN1ZXMFNrdGhvdjdqUUwwX2s": 1792868659336,
     "threads:De41mDpE8RQ": 1792869078949,
     "threads:De41I1gE9RI": 1792869078949,
     "threads:De40z2Zk3ui": 1792869078949,
@@ -27700,19 +27699,12 @@
     "threads:Dfc4fY2KAYT": 1794078052383,
     "threads:Dfc3pvBI6Ne": 1794078052383,
     "threads:Dfc3lqbDIJl": 1794078052383,
-    "threads:Dfc2NsOjegK": 1794078052383
+    "threads:Dfc2NsOjegK": 1794078052383,
+    "threads:Dfc4oX_o_sf": 1794078338078,
+    "threads:Dfc4CXcEnhq": 1794078338078,
+    "threads:Dfc5EnMgZJ1": 1794078338078
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "ANTARA News Jateng",
-      "x": "Pemprov Jateng catat sekitar 200 ribu UMKM kantongi bersertifikat halal - ANTARA News Jateng",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDhIdmVIbkpRaDVmYUpVMTlUa3hBNVY0THFMRHlpZjI5d3plMHhkdlYyenZYbEZOTGd1UnA0STZQZzdBTHVwRmhkRjA3Slk2YlNFYnpNZkNXdk13alZSeFBGZGdlYVBUNmdwWmxDVGo3YW1iemM3Mm9wVHdQRUJlN0MtWDliN2d3RTZ3bWFybVRGaVAyYjFXQTVDQWI1WHdTWE5mN1lRU1ItZHZYQUp4MDd4b2tIUQ?oc=5",
-      "d": 1794053889000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -29202,10 +29194,20 @@
       "d": 1794077125000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@gpnegara",
+      "x": "Saya ingin mengajak 5 UMKM untuk bertumbuh bersama. ❤️ Saya membuka kesempatan bagi 5 UMKM terpilih untuk mendapatkan pelatihan GRATIS seputar Social Media & Digital Marketing. Kit",
+      "u": "https://www.threads.com/@gpnegara/post/Dfc5EnMgZJ1",
+      "d": 1794078321000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
