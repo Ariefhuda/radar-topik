@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DP2M38tknbk": 1792823446031,
-    "threads:De3eRwQlJGc": 1792823446031,
-    "threads:De3e0BmlMsN": 1792823446031,
-    "threads:De3fax9kUth": 1792823446031,
-    "news:CBMizgFBVV95cUxQRm94dGxROXRSYTVuUEpPRTNzUDJ6dW9zRDNGVV9HRTFZcnBVWkpDeGNHT2Vkc2VxbXh1aTBqaDNwUzRZM09IZ2tBRGNhZlltazNYMU85UENYVl9ZQWhSLXozQnZ1U3IwQ1oxaFk0akkta1Y0NnE0SmpsUk51RHhTSUdEUWc0S1Y3SWZWeHVmT19mUmJkNk1fM21kcGlCUmVxNGV6SkQ0NzZ2Y2dwMzVEdjNmSlV6cWdoM0NacjU3OHp3MUJ2V3BmMms3SnhmZ9IB0wFBVV95cUxPMDVGY1lUTFNZTDV6bHRXVFpESHN3UGdPdXU0NHRYRV9kZ0VLYVQwYUl1el9BcVNhRHUyMk9MVkdKLTA1VEk5Y0poZ29aR1h1RzlOd08tRUd1ZTlCb1otM1pDdE5mYkZHTGdkWEM1Z1B5b1lDM0MzRjVVcVZVTnNJYTZmVU1COFdHaWhCOXpYOF9GV1Rrc09kTU92LWdNd2ZxX3M5elpId3pWXzZBTTl6MHBYbXVkaE44c0VXdFBwV0x4bmhOMG5KMmtsbWM1ZlFVLW8w": 1792823446031,
-    "news:CBMiuwFBVV95cUxNRjZoYjhXZUM1Qm0xQ2xXdDZaV2lTUDN4RUNmMG1rbHZMTmxpdEJXZEM1MVpZblh5X1NuaGdLUTdGUDJXVVVoeHRlajRKYlRYUVlNRklOeTRfdEktYmxMSzlPUG9nZk1CRlZwX0xzaFY3WmxJVXhjLUtEeHMzRFVCal9zd0tWcXRSZUhJQjZhUkV3dUdtY21jNHg0Rk9GejRKbVZjY21MOVlpdF9Gc3JUUF9naFMtbnBkNWdz0gHAAUFVX3lxTE40SXlOVzV4Yjd2a0toZ1dvSGVzOHlxcV8tYTVDd2ZrV2NOQmVoZ1B6ck8xcU9SMC1sd0NsYURkRjJaS1lxd0p1SnNpSnNjOXFmcmtTRUtlakhVUGVaWTY2Q013X1Npc1NLRTFVUEhYbnFGTjA4d0xPTzZJNnhPSGJpVkhjaDNHOHBJb2QzR3ZFQllRZzROSldDWUVqS1c5V2pXYlpzY0plV19EYms3QzBiYkktWEhQbWhnUGw3NC1kZA": 1792823446031,
     "threads:De3fnYIiJ8O": 1792823744884,
     "threads:De3fGacknwK": 1792823744884,
     "threads:De3fD_VEUTr": 1792823744884,
@@ -27697,19 +27691,10 @@
     "threads:DfbTA46H3LD": 1794032751751,
     "threads:DfbNSWKGRRx": 1794032751751,
     "threads:DfbgxXXkryG": 1794032751751,
-    "news:CBMisAFBVV95cUxOSzRXSzlUWnBIc1pPa3ZMRUc0cFZoc3BCdU4zdnlNMmU1ZXpNU2d2V1d3OThSNXpDa2VuYm1BeU9ONHhHcURCR3dPZmlKd20wX0RUTnI1U3VlNC1qdlpIUXRoSVBMMWhvQmlfa3BIQzNadC1WaHYycGM2OWk3dkVaQ0I3STRZNTBsaFRjUHRhQ25aX1hfNXlUYWVmb3pYUkdDM0xPMThqaUtXUHlIcTNQVA": 1794032751751
+    "news:CBMisAFBVV95cUxOSzRXSzlUWnBIc1pPa3ZMRUc0cFZoc3BCdU4zdnlNMmU1ZXpNU2d2V1d3OThSNXpDa2VuYm1BeU9ONHhHcURCR3dPZmlKd20wX0RUTnI1U3VlNC1qdlpIUXRoSVBMMWhvQmlfa3BIQzNadC1WaHYycGM2OWk3dkVaQ0I3STRZNTBsaFRjUHRhQ25aX1hfNXlUYWVmb3pYUkdDM0xPMThqaUtXUHlIcTNQVA": 1794032751751,
+    "news:CBMi9gFBVV95cUxQU3RKQkxaWkJNZ0FCOXdHNWJkTnhYZkJPdURKOENHdEJfRUhpWWlQY0RfZ2p3TWctcnJTeWM1S3NEN2VTZjZsc3dTS2ZEUUpMS3k0Z3EwbUZ2bDBWZzJXT0hLOXlUMUF4NEtySC10aXdJNDNQMzdMclI1c1BpZHV3SWdvTGxDUWk0S29lcE1MX2dodFJFRFFndE9vYTRIRW15bGhQSHJYZm94VlBtUTJsanY3Z0Y5WjF0QmlCZnRTSklwUHkxam1YUGdSSG1pdlVWR3JzYi1lQkpKYjlmUnVUR2tEeG9DTHowTWw5OG52ZFRCdjRsbWc": 1794033043069
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbNNauD8RE",
-      "d": 1794021770000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29199,10 +29184,20 @@
       "d": 1794032026000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Pemerintah Kota Tangerang",
+      "x": "Berbekal Pelatihan Dinsos Kota Tangerang, Alumni dan AirNav Indonesia Gelar Cukur Gratis di Ponpes Al-Hasyimiyah. - Pemerintah Kota Tangerang",
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU3RKQkxaWkJNZ0FCOXdHNWJkTnhYZkJPdURKOENHdEJfRUhpWWlQY0RfZ2p3TWctcnJTeWM1S3NEN2VTZjZsc3dTS2ZEUUpMS3k0Z3EwbUZ2bDBWZzJXT0hLOXlUMUF4NEtySC10aXdJNDNQMzdMclI1c1BpZHV3SWdvTGxDUWk0S29lcE1MX2dodFJFRFFndE9vYTRIRW15bGhQSHJYZm94VlBtUTJsanY3Z0Y5WjF0QmlCZnRTSklwUHkxam1YUGdSSG1pdlVWR3JzYi1lQkpKYjlmUnVUR2tEeG9DTHowTWw5OG52ZFRCdjRsbWc?oc=5",
+      "d": 1794028380000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
