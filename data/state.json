@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3060Bn39b": 1792834855713,
-    "news:CBMiU0FVX3lxTE5Tc1RWdXczbTlNQU1jbUpXRmdpV0xkLXhaVENDeFd2Zml6eG9KNzVjQkF2cERwRWRhUDRQWWFfajlmSnhqMGZZR1J6eHFIUnltUEVN": 1792834855713,
-    "news:CBMihwFBVV95cUxOYms3YmtQbTlyMG1yM2RVTEd4LXFWSFFPblRMTDFXNkEtVjdlWEcwVUNweFROZXVBMldKenZPZXdhN3ZMdjJIeHdpaWRmZUtHd3lnWllOLVV6Y1pXSjUwZ09DbzhVbUhqeFhMdEZqRlI0bUVpUm90bHZPMUcxeDR0ckJvVXEtaUk": 1792834855713,
-    "news:CBMiwAFBVV95cUxPaGkwM25aQzIyZlNwTGRUMzJqTkdiTG1IUVVpczFDVHFYN3Yycl9mNExfVzExbk1jRmUweUZsdVRLMHgyMnJCbjZZZWRad2g3bDBmNmNiVVo4SDhSV0pqSVV0b1dKNmJCTk93VlBiS1dicG5DVGl3VTF5ODFuZ2t3a1NfUXNEeUNwUG9LekN1TUdQVHFvOU01ZkczdXp0OV8wUHU5ZFpQbVlzNkZtWHpOdjlzeG1ESS0zajFGMWlOeTXSAbQBQVVfeXFMT1dCMC1kUjhyNTdKSDl2MzNfSnhqVFY4OUVwV0FsRkhLNERyZFFnRDFhZkxNb2hIWkgxanZiNlZTV3p4d3B2U0h3Qm9qeXdzb1dVTkQ4bGpRXzh3WkF3cHBicjdyb2hqVjhWaWowWjlTeTU3RWdWb3VrOW51ZFp4bVpSNFVCaFBTd0FwaXZVcXZYR2xpSndFM2hkUnp5ektvU0FHOEl2NGc1T2pmcVJMNkpfZ3lS": 1792834855713,
     "threads:De31YEYGJ-w": 1792835146315,
     "threads:De31E_XD6oD": 1792835146315,
     "threads:De31v1PD4fA": 1792835146315,
@@ -27680,79 +27676,16 @@
     "threads:Dfb3UEwCZWV": 1794044137695,
     "threads:Dfb38vzk7Ay": 1794044137695,
     "threads:Dfb3Rlpj-b3": 1794044137695,
-    "news:CBMiqgFBVV95cUxPT0hJZlJxS3RSWFI4RVhHVUZxYUhWdnc3a3BnMWJKZ3pVQ25nVVAzYk9Ed29rakVwQ2I5cjlaWHYxWU11ODlPeDV0amVCQVl3Vm9DemJ5b2t0TUFmbDl4dnowMVh4alpIR2poQnhteno1UTlNSndwMTJiRE5KSERsRTZpTm90dVFvYTFUUVV0dkMtd2hKQ3JCTXY2OFlQd1dobElCZ05IWkpSZw": 1794044137695
+    "news:CBMiqgFBVV95cUxPT0hJZlJxS3RSWFI4RVhHVUZxYUhWdnc3a3BnMWJKZ3pVQ25nVVAzYk9Ed29rakVwQ2I5cjlaWHYxWU11ODlPeDV0amVCQVl3Vm9DemJ5b2t0TUFmbDl4dnowMVh4alpIR2poQnhteno1UTlNSndwMTJiRE5KSERsRTZpTm90dVFvYTFUUVV0dkMtd2hKQ3JCTXY2OFlQd1dobElCZ05IWkpSZw": 1794044137695,
+    "threads:Dfb4WZok8I1": 1794044437984,
+    "threads:Dfb4dXQEzCK": 1794044437984,
+    "threads:Dfb4Wz3mvOy": 1794044437984,
+    "news:CBMipgFBVV95cUxQa05ySmxKcG5jdjJiQ3JYVXlnUGE2QkdjYnZoMTVjcTZNbFhYVEVoX1dDSFl5bzk3NEFpcGRJejlOSER5eGhKaDE5cmF3WnN4QnhzQTVSdWZ0N0EwcHVfWXd1UmoxcjBlMFVjbGozZ01KM3Fla1IwUi1zalc0ZmgyS2hxVmUxOTBXclBodEQyMl8zSFdFVXFTVTZiekxvd3FWRlB2aXF30gGmAUFVX3lxTFBrTnJKbEpwbmN2MmJDclhVeWdQYTZCR2NidmgxNWNxNk1sWFhURWhfV0NIWXlvOTc0QWlwZEl6OU5IRHl4aEpoMTlyYXdac3hCeHNBNVJ1ZnQ3QTBwdV9Zd3VSajFyMGUwVWNsajNnTUozcWVrUjBSLXNqVzRmaDJLaHFWZTE5MFdyUGh0RDIyXzNIV0VVcVNVNmJ6TG93cVZGUHZpcXc": 1794044437984,
+    "news:CBMinAFBVV95cUxORzJaYVRXZ0lmMzZCZjI3WWFNeEdTSFpybXg4YktKWk9FWEJROHZiV1k3SlBXaFdUQ29SNU43ZFZuTkJZazVPaVp4Z1FmX09oNnMyUjVBVmJLRU5nejBhTEJoS0xkRHVqcTZNS19LYWFSX3NwcF8wcE1IZjBkc2RZQ2JCVkNEVmhlS2RUYVlEcGNNdlNJVDNSSV81cGM": 1794044437984,
+    "news:CBMi6AFBVV95cUxNTEk1Y29ncEw3ZTVpRmlGS2tIQTFESzZLNWpmUjNWdWhJc0s0Rm85eml4R0kxWXVscXBJT2ZkVk53MlpuVkhUM3ZXYVRUM2tyYmdaYUVzT1NmNVFaREdRNm56bVM4T19rd214cGVsdHAtd0F3dUMzdEk1QnQ0am90N3dDemhmR2FMTHJXNmNmVVNTVXVxckJLQ2xCMlR3Mnp1REU3Tng4MVZvQkxmbHAzdGhVR3ZkQVFWYmkyTlVBRHN3QXJFa0F3YldPdVhFSDRYTkI5NkhaU3dpdmdrTU5PLWl3Tm9KT2kx": 1794044437984,
+    "news:CBMisgFBVV95cUxOOXhfWDU3N1JJM2E2QkZuUkNSMy1Dc2M1OTdGdG9yOUNndEF2NW9IS1JfTGtyUXA0bkR6SU85TzVHUHJEdk9QSDctay10djNTUTd3cVQ0RFluWXd2WFplV2Mwb1VzaHhHVU5Db3hGNjhWQWRkS1NETHpIWkEtRDRha1Z5SUhzdnpOVUlnR1JpdHNRMzgzR3VObFA3LVhycXdORFBycHk2TFJPSGZYZE1rai1n": 1794044437984
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@abits.me",
-      "x": "Before vs after. Kiri podcast mentah, kanan diedit pakai Claude jadi cerita ilustrasi animasi. Ilustrasinya digambar sendiri, gerakannya nyambung tiap pindah scene, monolognya teta",
-      "u": "https://www.threads.com/@abits.me/post/Dfbcn5Yk2my",
-      "d": 1794029866000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@abits.me",
-      "x": "Nanti ada webinar gratis buat yang mau belajar ngedit kayak gini. Join grupnya di sini: https://chat.whatsapp.com/LE4WsjX5lOtIjnh8qMTYrT",
-      "u": "https://www.threads.com/@abits.me/post/DfbcgGICQNd",
-      "d": 1794029790000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@cuannetwork",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@cuannetwork/post/DfbceoOAacG",
-      "d": 1794029775000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "ANTARA News Jawa Barat",
-      "x": "Cara cek nama penerima bantuan lewat aplikasi cek bansos kemensos - ANTARA News Jawa Barat",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDVMX1dsVkVSNHhuNm9pMFFXbF9pUjRPRDl6RXVGczJNUTNuSkN5SVdHS2FoWnR0YllGaXBwQnIzWWo5Q2tKTElHemZFX2VMRXk1cHJtYTZPcFFBeEJ4cm1RZjR5aGZQUHdkTlFJbGpvQmp1OXg0N20yc1NhcExJMTJsVnY3Ylg0czM0WGI0Q1dhaXNSTi1tZUFCbTBlcUVOU3JLYmVkLV9HTmJ50gGyAUFVX3lxTE5lR1l0MzVuZ3cwaHdLY2lvU0N1eGROelJTV1ZMRm4tVDFTSlNJaG9vQ3Jsbk1GY283S1NEWUd5am1xUVVickR2MGh4RnNxWkRDZjVMVjVTS1JybWxpWTk1eWJrY19wTXh6U3VSTXR4OHR3V0FQR2VzSXd2Ty1UTXo1bEVTTkNhUXVMRGNNbl9qS1Ria3EzZGxqRUN5bDdOQlNabk0tWVkzVFBaQlZnTkJ5b0E?oc=5",
-      "d": 1794027757000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@yurbishadaqat",
-      "x": "Segera Bersiap, karena Beasiswa Meraih Mimpi bersama LAZ Yurbi Shadaqat segera akan dibuka!! Pakai weekend mu untuk merapihkan seluruh berkas, meyakinkan diri, dan membulatkan teka",
-      "u": "https://www.threads.com/@yurbishadaqat/post/DfbcojMkmom",
-      "d": 1794029859000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Syarat utamanya nilai rapor SMP Smt 1-4 untuk 4 mapel: http://B.Indonesia, http://B.Inggris, Matematika, IPA. Jalur reguler: rata-rata minimal 85, tiap semester minimal 80. Jalur p",
-      "u": "https://www.threads.com/@meta.ai/post/DfbdYmvCivv",
-      "d": 1794030250000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Republik Jatim",
-      "x": "Beri Jaminan Hukum dan Keamanan Menu MBG, Bupati Subandi Minta Dinkes Evaluasi dan Dampingi Berkala 152 SPPG di Sidoarjo - Republik Jatim",
-      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONzdzUHgzNHFlNUg4WHZFUFlmeTBLcjFlQnhaSEw3M0hlT3JMRjE3SEZ5NXVVbFVIazlYMW51VHJ0bEFWbWNGTjFSa29aWFlZR1VuLWlBLUtXUkdwYTFvamNtYklPYTFiN2tmVW5CdHR6UUxEVThaYlAzTDU1QmdPNG1Ua05NcWZVX2R2WVh5MEJ3Z0xGZTktck9UU0pLaWJxQ0MzTFdaLUZRSEg4c2NaRUJrZGRySUt5RTc3VWtNU3ZqUVpOTTk3a1dUcGwwbzdjd2tJVU1Ca04zdVVTbWpVb1U2S1ItdkJLMm44ZNIB8gFBVV95cUxOdElWdjRoODE5YXNqV3FpN2F2eHpfRmNXdkoyazZ4MGI2dnM5MnNnbU9yX2JRaDlNVlFBbUIxdHZFZVUxUFdodlhhMjBrOU5KRXM5Z2NRRDlXTzcyMVNfT3JPSHdMbDBrSjVXeFlibDNKT0ZsclUxU3F5MmpoTk8xdzRtN25Pd08xYk40RC1aTVBiOXdySW41blVpTXpBZDFKNWN3QTIzOFhuQjBFbGFjakQwMlczS29pa3BkM1I2V1NYalpaSHZLZkxJSldKUk9rVU14bWpieFhXbHJ5VVZIVk4ybl9jOTBiOVZibFJtRkZiZw?oc=5",
-      "d": 1794030300000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29182,10 +29115,80 @@
       "d": 1794043824000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@suratindong",
+      "x": "Teman satu kos sempat patah hati karena pendaftaran LPDP Tahap 2 sudah tutup sejak Juli. Ternyata masih ada jalur lain: LPDP Co-Funding, 7 program S2/S3 bareng kampus mitra, pendaf",
+      "u": "https://www.threads.com/@suratindong/post/Dfb4WZok8I1",
+      "d": 1794044391000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nayymaris",
+      "x": "singkat saja ,UDAH CAIR APA BELOM? Gausah SOK jadi pentolan buat mimpin DEMO , MENDINGAN LU KERJA KATA GUA . INGET YA GAUSAJ FOMO 3 JARI, NTAR KALO DAPET BANSOS TRUS ANAK LU DAPET ",
+      "u": "https://www.threads.com/@nayymaris/post/Dfb4dXQEzCK",
+      "d": 1794044445000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@inilensky",
+      "x": "Kak, kalo seminggu yg lalu udh melakukan sanggahan buat desil lewat aplikasi cek bansos, apakah harus melakukan penyanggahan desil lg lewat perlinsos? Atau nunggu aja hasil dari sa",
+      "u": "https://www.threads.com/@inilensky/post/Dfb4Wz3mvOy",
+      "d": 1794044391000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Magelang Ekspres",
+      "x": "200.815 UMKM di Jateng Kini Sudah Kantongi Sertifikat Halal - magelangekspres.disway.id - Magelang Ekspres",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa05ySmxKcG5jdjJiQ3JYVXlnUGE2QkdjYnZoMTVjcTZNbFhYVEVoX1dDSFl5bzk3NEFpcGRJejlOSER5eGhKaDE5cmF3WnN4QnhzQTVSdWZ0N0EwcHVfWXd1UmoxcjBlMFVjbGozZ01KM3Fla1IwUi1zalc0ZmgyS2hxVmUxOTBXclBodEQyMl8zSFdFVXFTVTZiekxvd3FWRlB2aXF30gGmAUFVX3lxTFBrTnJKbEpwbmN2MmJDclhVeWdQYTZCR2NidmgxNWNxNk1sWFhURWhfV0NIWXlvOTc0QWlwZEl6OU5IRHl4aEpoMTlyYXdac3hCeHNBNVJ1ZnQ3QTBwdV9Zd3VSajFyMGUwVWNsajNnTUozcWVrUjBSLXNqVzRmaDJLaHFWZTE5MFdyUGh0RDIyXzNIV0VVcVNVNmJ6TG93cVZGUHZpcXc?oc=5",
+      "d": 1794041220000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Pandeglang Kejar Pembangunan Sekolah Rakyat di Labuan - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzJaYVRXZ0lmMzZCZjI3WWFNeEdTSFpybXg4YktKWk9FWEJROHZiV1k3SlBXaFdUQ29SNU43ZFZuTkJZazVPaVp4Z1FmX09oNnMyUjVBVmJLRU5nejBhTEJoS0xkRHVqcTZNS19LYWFSX3NwcF8wcE1IZjBkc2RZQ2JCVkNEVmhlS2RUYVlEcGNNdlNJVDNSSV81cGM?oc=5",
+      "d": 1794043980000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Teropong Indonesia News",
+      "x": "Semangat Hari Pahlawan : Polrestabes Surabaya Pasang 1.000 Alarm Motor Gratis, Ajak Warga Peduli Kamtibmas - Teropong Indonesia News",
+      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTEk1Y29ncEw3ZTVpRmlGS2tIQTFESzZLNWpmUjNWdWhJc0s0Rm85eml4R0kxWXVscXBJT2ZkVk53MlpuVkhUM3ZXYVRUM2tyYmdaYUVzT1NmNVFaREdRNm56bVM4T19rd214cGVsdHAtd0F3dUMzdEk1QnQ0am90N3dDemhmR2FMTHJXNmNmVVNTVXVxckJLQ2xCMlR3Mnp1REU3Tng4MVZvQkxmbHAzdGhVR3ZkQVFWYmkyTlVBRHN3QXJFa0F3YldPdVhFSDRYTkI5NkhaU3dpdmdrTU5PLWl3Tm9KT2kx?oc=5",
+      "d": 1793988005000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "ANTARA News Jateng",
+      "x": "PMB UMS 2027/2028 dibuka, tawarkan beragam jalur seleksi dan beasiswa - ANTARA News Jateng",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXhfWDU3N1JJM2E2QkZuUkNSMy1Dc2M1OTdGdG9yOUNndEF2NW9IS1JfTGtyUXA0bkR6SU85TzVHUHJEdk9QSDctay10djNTUTd3cVQ0RFluWXd2WFplV2Mwb1VzaHhHVU5Db3hGNjhWQWRkS1NETHpIWkEtRDRha1Z5SUhzdnpOVUlnR1JpdHNRMzgzR3VObFA3LVhycXdORFBycHk2TFJPSGZYZE1rai1n?oc=5",
+      "d": 1794038372000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
