@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5UolaFXIy": 1792885623500,
-    "threads:De5U8n8EmW8": 1792885623500,
-    "threads:De5VQQ9ErUb": 1792885623500,
-    "news:CBMi1gFBVV95cUxObGE2emdOa0NISUJmd2laMS16WGg5ZC1iNVpwRzRQc1JhWkFsVWppVThPRFdqZlplMWN3TnpCTmdScmU3THlzQmJoNkRGMk1ENnY1OXVySzAyTDA5ajJTUTNybkZTRzg1eG9sd3pBUFdKVWVJZzZEZUNGYldDV1hnV3NSbmdocExtNlFoX01lWVhiT1FoTGM1Vnd2b0lzX2VjOEEtdGltc01jUDREaWp2b0EzWGxJc3ZvSGpsQzRZS29UaW1ueHgySmJGYkpTQjRabEtvdFRn0gHWAUFVX3lxTE5sYTZ6Z05rQ0hJQmZ3aVoxLXpYaDlkLWI1WnBHNFBzUmFaQWxVamlVOE9EV2pmWmUxY3dOekJOZ1JyZTdMeXNCYmg2REYyTUQ2djU5dXJLMDJMMDlqMlNRM3JuRlNHODV4b2x3ekFQV0pVZUlnNkRlQ0ZiV0NXWGdXc1JuZ2hwTG02UWhfTWVZWGJPUWhMYzVWd3ZvSXNfZWM4QS10aW1zTWNQNERpanZvQTNYbElzdm9IamxDNFlLb1RpbW54eDJKYkZiSlNCNFpsS290VGc": 1792885623500,
     "threads:De5V4GDAfGW": 1792886143775,
     "threads:De5XBtjGsmr": 1792886143775,
     "threads:De5W-Qmiall": 1792886143775,
@@ -27724,49 +27720,14 @@
     "threads:DfdU1Imgpv6": 1794094843864,
     "threads:DfdUzcumqXe": 1794094843864,
     "threads:DfdUwWFm4p5": 1794094843864,
-    "threads:DfdUrqEF7a2": 1794094843864
+    "threads:DfdUrqEF7a2": 1794094843864,
+    "threads:DfdXXF3k8hw": 1794095145973,
+    "threads:DfdYNSFiXZM": 1794095145973,
+    "threads:DfdX_L3kjt_": 1794095145973,
+    "threads:DfdYw5pko3p": 1794095145973,
+    "threads:DfdU-Mokmsr": 1794095145973
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@4nhd1",
-      "x": "Cek bansos niknya terdaftar pkh dkk ga, klo iya wassalam",
-      "u": "https://www.threads.com/@4nhd1/post/DfcUMp3H6Pz",
-      "d": 1794058988000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@hellapras",
-      "x": "cek bansos terakhir di postinganku",
-      "u": "https://www.threads.com/@hellapras/post/DfcTdF7E2Y_",
-      "d": 1794058599000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Mattanews.co",
-      "x": "Kesempatan Emas! Pemkab Karawang Buka Pendaftaran Beasiswa Karawang Cerdas 2026 untuk Semua Jenjang - Mattanews.co",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1ZBb3FRWmZuNGxPbzJLdWRjWVMzTUZFb2tPQ1pQQlkwU2dJZUw5UURPR19TSnJoc2RveVh0aHFyRjQ3YTdCOWh0Mng0X0dweWdfSDRIYTYzZVgyekN0bUJjeXo4c1M1SDh1d3JFbTRCRFVsam8yUTRsTjh0aVNwMFMzT0d3MU9nd2pfVlF3b0VvVThrN2pHaDY0T1lfU2JjcnZZSXFrT3lUNkkxdWhZNF8tcFk5QlpJUGJXcg?oc=5",
-      "d": 1794059080000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Progres Bansos Tahap 4 Per Hari Ini: PKH dan BPNT Masih Belum SI - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEMwdTJZZjhZOWNMVk5PTm53bmpmeVNLanBFb09ua2lUY01wZHVtM185aG5EcXhpSW56bUJMeW1rMzQ0OHRlWmxISFlySWlLb2g1ZHFVSnEwZU5FeThsempNakg1QVN1RVVacERUZFVaeVZPaDA2NzZqSy1oVTRGVVVmUm1STG1OczVsRnp5TGhpRFFyYUNIR2E2MFM2RU9uVlZSOTA2dUhCNFd1Q2lXWHJn0gG3AUFVX3lxTE4xa2JoNFlScVRCYVZmODdZbjNaV3kwQWJ6MkZJVmtSQ2JGZGxubkJ4TUptYmdreXJoU0NleHQ5eHBQVzg0aHdvbUxzaWVtUk45YWdsaGYtMzNqYlRzaW5HeGc5dU41TU1CNEg1Q0lCZ21KRS1NbTFuQ2NjVUtqWml0VVMxc1BLQW5XOUhkSURoemg4a2dsYzZ2TFQxWXZ4VnVHcEFqVmRHTnpsa1JYYVIwMW1fdzNOZw?oc=5",
-      "d": 1794058355000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29226,10 +29187,50 @@
       "d": 1794094431000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kreatornaikkelaswithai",
+      "x": "Silahkan join Webinar GRATIS di sini 👉 https://s.id/wagroupwebinargratis Dapatkan Canva Pro GRATIS selama webinar!!",
+      "u": "https://www.threads.com/@kreatornaikkelaswithai/post/DfdYNSFiXZM",
+      "d": 1794094647000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@vibeakademikbahasa",
+      "x": "大家好！👋🏻 Teman-teman jangan lupa ya HARI INI ada trial class GRATIS 🤩 🗓️: Minggu, 8 November 2026 🕒: 15.00–16.15 WIB Via Zoom Meeting Yuk yang masih mau daftar bisa komen atau D",
+      "u": "https://www.threads.com/@vibeakademikbahasa/post/DfdX_L3kjt_",
+      "d": 1794094530000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sheilaaaan",
+      "x": "izin nambahin bagian pengalaman kerja ditambahkan persentase yang terukur, deskripsi diri dipersingkat lagi di sesuaikan dengan kualifikasi lowongan yang tersedia, ikut pelatihan g",
+      "u": "https://www.threads.com/@sheilaaaan/post/DfdYw5pko3p",
+      "d": 1794094937000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ario_muhammad87",
+      "x": "Di edufic, kami membantu anak bertumbuh melalui pembelajaran yang membangun: ✨ Kepercayaan diri untuk terus belajar ✨ Karakter dan adab sebagai fondasi hidup ✨ Ilmu yang menguatkan",
+      "u": "https://www.threads.com/@ario_muhammad87/post/DfdU-Mokmsr",
+      "d": 1794092949000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
