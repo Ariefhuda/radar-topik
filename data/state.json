@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De49SAfIIiT": 1792872648642,
-    "threads:De48VqvgQmY": 1792872648642,
     "threads:De491SQlZRS": 1792872940309,
     "threads:De49qegjxun": 1792872940309,
     "threads:De48x2RjGfO": 1792872940309,
@@ -27690,29 +27688,12 @@
     "threads:Dfc_XARGaHA": 1794081936907,
     "threads:Dfc_FbvkSxl": 1794081936907,
     "threads:Dfc-4tVDlqa": 1794081936907,
-    "threads:Dfc-keXnxyj": 1794081936907
+    "threads:Dfc-keXnxyj": 1794081936907,
+    "threads:DfcNSBuGsw2": 1794082241596,
+    "threads:DfcdCUdHzRa": 1794082241596,
+    "news:CBMilAJBVV95cUxOLTJUbDNRRzh4cjh6enJ5djZ6a2R2ZHpvRzFsMHg4Q2IyWkw0UFN4MnBFNHdVYTZURGs2LVVmVGptRUtwZHVTYndXdGZaX1c1a210QUxFWXZIYkF2WExLUXN2blU2dWIwaFdTWG44U2FVMkJrNVVZbkdZSzViV2dqeVlab09LLUJLc2l0UUNGUHBtWUJ1TVhFQWRFV2RscTBUOVFhZUptOHBVYTVKNDRmdzJCenpkYVdwQTJhNDI0UFhEQkZKNWlIQy02VndFZ2dia3dCU1pOTFhSNXotcUNvejlKWHJRb0JaN21DRWpGbjdSaVVvT1hyV3FCSHVLa0RvTWl1X0dDOUVoOXRXZW80MG9TdkE": 1794082241596
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@berkahkori",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@berkahkori/post/DfcN6QKjrkZ",
-      "d": 1794055692000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@journeyhidup",
-      "x": "Coba cari info di daerah mu siapa tahu ada buka atau bikin pelatihan gratis, bisa ikut itu buat cari skill yang baru dan nambah relasi Siapa tahu nanti dpt rezeki bekerja atau dpat",
-      "u": "https://www.threads.com/@journeyhidup/post/DfcNzUNn_NW",
-      "d": 1794055635000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29192,10 +29173,30 @@
       "d": 1794079403000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfcNSBuGsw2",
+      "d": 1794055362000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@amihabangadek12_",
+      "x": "Valid yaaa DTSEN Sudah Versi 4😆 Artinya acuan data dtsen periode 4 sudah terlihat😄 Sudah bisa dicek masing-masing Desilnya yaa #dtsen #kemensos #bansos",
+      "u": "https://www.threads.com/@amihabangadek12_/post/DfcdCUdHzRa",
+      "d": 1794063623000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
