@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DezYnBJE2ZV": 1792806645479,
-    "news:CBMi0wFBVV95cUxORWs3Tnp6c2tzeEhxeWdUVWdvbkw4T2hIa2RfZnJvamY4eFFjWW9CVDFOeXQ1MlVrcE0wZjRTakxSRUJUZ01BVXdrNlhmVnBrVWttdDRXbVFDaXBmbE9tek1FNW1iUHplS1RsOHBqT0tqdnNSWktqQ2Z2blllT1dpb0dScWhHNUNWWHFPOElUZ0Q0WFg5UlVGeTd6ZzZBdF9zaURLQnhsY2pvRjdPVzVvSHJpcndYc0FXREppU05pZFNDVkdtbVQ5SEJIclktd25XVmVB0gHYAUFVX3lxTE04ZVM3aFd1WU8zbDZTYW43U1NPb0hvTEZoQ2pJbDBTZTExX05SbHpjcTZ2UkpEcFFCbmxyekdMR0piajZWSE1uRk53bWJOQVN6VzQ5cmdzcV80bl8yZnNYaVpoTUx1NlJwX3BFdjlHc0VJd3lVUkJURDBmMU1oTUtuRGhodVBNbnlFZEFZaGpkb2JXWldLbEx6eG5jUm5nZUtRMlM1Q0I5V0dBWHRMN2Z2Q1ROWGZLMF9ncUYzTk1jSTFfMlR0NnRzNm10cUxKN0pCSHJyWlpGOQ": 1792806645479,
     "threads:De3A_VngVcr": 1792807573653,
     "threads:De3A0iqkTRU": 1792807573653,
     "threads:De2-jtUEpMS": 1792807573653,
@@ -27695,7 +27693,14 @@
     "threads:DfbBW_6jORf": 1794015946453,
     "threads:DfbBWW7GmQ-": 1794015946453,
     "threads:DfbBK-REuE8": 1794015946453,
-    "news:CBMitgFBVV95cUxNLWhUbnphanFSTWVlQVV2a09zQkxSOHdtc2pUdllFeUdpV2JmTmRFS18zdjB0bXRpSlh5U0daVzlBb19EcmRkYjQwNVdEYTMwT1MwUGtRVEFTV1ZKbFREVWxFM3F4Z051MDlST0RoLVhzYU1NUFMzckQ5Z08tM0Q3NzMxd0NVNWt3RFVoaEZycS1GUWU5eEFodmxpRFBHUk5tRGJYeEhiOTFOWkFRd0xNUmk1akdDZw": 1794015946453
+    "news:CBMitgFBVV95cUxNLWhUbnphanFSTWVlQVV2a09zQkxSOHdtc2pUdllFeUdpV2JmTmRFS18zdjB0bXRpSlh5U0daVzlBb19EcmRkYjQwNVdEYTMwT1MwUGtRVEFTV1ZKbFREVWxFM3F4Z051MDlST0RoLVhzYU1NUFMzckQ5Z08tM0Q3NzMxd0NVNWt3RFVoaEZycS1GUWU5eEFodmxpRFBHUk5tRGJYeEhiOTFOWkFRd0xNUmk1akdDZw": 1794015946453,
+    "threads:DfbCoIyEZso": 1794016260070,
+    "threads:DfbBkivj1Y0": 1794016260070,
+    "threads:DeeGWOnnDNn": 1794016260070,
+    "news:CBMipwFBVV95cUxQX1QtbkJZc0tKOE41UGpvb1pJWG1YNTNpNnhKSVFvVjZnU0IwRnJBNkpZcTVYejdCR3dTSTd3Z0Z1YUhqYTRoSEhUSWRkdXJSalpCdEVwd0gzNXhVNTBrMVN0MDdrcTJGc2Jka01fVDE2MC1ucTlpYTF4NGltSGpWLTRYMDVCaE1PczRybkFhek1zU0kwbDF0dEhPZ3E4TzduTmdKUWdlVQ": 1794016260070,
+    "news:CBMigwFBVV95cUxQMDhDTnAtazE4MDEwNmIyc3dobTAtalJTa3pabWRkejNyNF83TGd6X05XcWQyQjN2b0JHajFUUktjMkMtYUVDYkZxSDFJMGJaOWhLZTM2OUk2S2hCOFhGbkJ4eFpEWWFXWHdBcFJoNDVhTF9lV0xtOUwwMi13cUxOUDRJRQ": 1794016260070,
+    "news:CBMivAFBVV95cUxNX29GbnBFbFVnTUpmbjdCMzdlWUp1VXlKOHlhSkZGbzZSZWFlMUc4VWdzRTFSM3JhSHc2dmZqbXlTWXRrRHhtcGkzVHV5NVJhRUZ1RG1hek5NTm94VmsycTRWQUV6ckNDLURvdFBhTGQtT3RRRVk1U2plWmtXdHdVaVMwYUZ2TllOVm14QThVbzRpbHQ3T2pfNkNEZ3BRZjdCTGU4QlNTbWR1NFc4U1paQXBpWU0tYmM5NW9URQ": 1794016260070,
+    "news:CBMiqAFBVV95cUxORlZfSzlnZlhublF1Mk9RdVQ1a2lCSTlhOFZXd0Z6STlBNW1VWHdnX09mdGNQakUzU0dmNmE5V1RDVzBKeE1BN0JFNk5ZMjY0VU1iUVF2VHFUWFUxYUpVNnFhVnJvZ2hPUEViQjhvR0NFalVJMG5KVlVydE1MMFdybDU1dXdORjVRNHhOWFZyYlVEbENJOHpEMEpBYXg1d2JKeE9PLWtzN0HSAZ4BQVVfeXFMTks2dGpYdTZDVFEwa0tucHBOdmQ5bU1ZcnR6VW9qd1NxZkt1WXpnZTZ3bUdzbkZ6WExnbnlJOFJZVDVMZU0wRTROUlRRTjcwWFhORVNqbnJ5LXBjWkVseFhpb1V0TUVWbW10b2lTcWxXeC05TDJTNlNiRk1JaS1IRTJPWURzT3Bxa0pKY3ZTbThKVl80S01MTFV2endEN3c": 1794016260070
   },
   "digest": [
     {
@@ -27937,10 +27942,70 @@
       "d": 1794015900000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lokergawean.id",
+      "x": "5️⃣ Telat ngurus berkas Cek dokumen dan syarat formasi dari jauh-jauh hari ya. 💡 Tips dari aku: mulai dari yang nilainya paling rendah, jangan semuanya dipelajari rata. Aku sering",
+      "u": "https://www.threads.com/@lokergawean.id/post/DfbCoIyEZso",
+      "d": 1794016222000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rara80451",
+      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@rara80451/post/DfbBkivj1Y0",
+      "d": 1794015668000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Expose Indonesia",
+      "x": "Pemkab Karawang Resmi Buka Pendaftaran Beasiswa Kacer, Tersedia Jalur Khusus - Expose Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1QtbkJZc0tKOE41UGpvb1pJWG1YNTNpNnhKSVFvVjZnU0IwRnJBNkpZcTVYejdCR3dTSTd3Z0Z1YUhqYTRoSEhUSWRkdXJSalpCdEVwd0gzNXhVNTBrMVN0MDdrcTJGc2Jka01fVDE2MC1ucTlpYTF4NGltSGpWLTRYMDVCaE1PczRybkFhek1zU0kwbDF0dEhPZ3E4TzduTmdKUWdlVQ?oc=5",
+      "d": 1793989891000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Limapagi",
+      "x": "Cara Cek Desil Bansos 2026 Lewat Situs Resmi Kemensos - Limapagi",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMDhDTnAtazE4MDEwNmIyc3dobTAtalJTa3pabWRkejNyNF83TGd6X05XcWQyQjN2b0JHajFUUktjMkMtYUVDYkZxSDFJMGJaOWhLZTM2OUk2S2hCOFhGbkJ4eFpEWWFXWHdBcFJoNDVhTF9lV0xtOUwwMi13cUxOUDRJRQ?oc=5",
+      "d": 1794016102000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Inforiau",
+      "x": "Portal Perlinsos Kemensos Go Id Jadi Kanal Resmi Daftar Bansos PKH dan BPNT, Cek Panduannya - Inforiau",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29GbnBFbFVnTUpmbjdCMzdlWUp1VXlKOHlhSkZGbzZSZWFlMUc4VWdzRTFSM3JhSHc2dmZqbXlTWXRrRHhtcGkzVHV5NVJhRUZ1RG1hek5NTm94VmsycTRWQUV6ckNDLURvdFBhTGQtT3RRRVk1U2plWmtXdHdVaVMwYUZ2TllOVm14QThVbzRpbHQ3T2pfNkNEZ3BRZjdCTGU4QlNTbWR1NFc4U1paQXBpWU0tYmM5NW9URQ?oc=5",
+      "d": 1794016100000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Medialokal.co",
+      "x": "BPNT Tahap 4 2026 Cair Rp 600.000, Cek NIK di cekbansos.kemensos.go.id - Medialokal.co",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlZfSzlnZlhublF1Mk9RdVQ1a2lCSTlhOFZXd0Z6STlBNW1VWHdnX09mdGNQakUzU0dmNmE5V1RDVzBKeE1BN0JFNk5ZMjY0VU1iUVF2VHFUWFUxYUpVNnFhVnJvZ2hPUEViQjhvR0NFalVJMG5KVlVydE1MMFdybDU1dXdORjVRNHhOWFZyYlVEbENJOHpEMEpBYXg1d2JKeE9PLWtzN0HSAZ4BQVVfeXFMTks2dGpYdTZDVFEwa0tucHBOdmQ5bU1ZcnR6VW9qd1NxZkt1WXpnZTZ3bUdzbkZ6WExnbnlJOFJZVDVMZU0wRTROUlRRTjcwWFhORVNqbnJ5LXBjWkVseFhpb1V0TUVWbW10b2lTcWxXeC05TDJTNlNiRk1JaS1IRTJPWURzT3Bxa0pKY3ZTbThKVl80S01MTFV2endEN3c?oc=5",
+      "d": 1794015662000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
