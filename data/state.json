@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3kWHNj5KR": 1792826445968,
-    "threads:De3laK2GS-1": 1792826445968,
-    "threads:De3lPWoFLoe": 1792826445968,
-    "threads:De3lCfsAOAC": 1792826445968,
     "threads:De3lH0ckvQp": 1792826741346,
     "threads:De3lGnoErQv": 1792826741346,
     "threads:De3k5RYEtFO": 1792826741346,
@@ -27697,19 +27693,11 @@
     "threads:DfbmUmLnNEr": 1794035739091,
     "threads:DfbnZzMj50l": 1794035739091,
     "threads:DfbmgC2D2am": 1794035739091,
-    "threads:Dfbnd5WHUZf": 1794035739091
+    "threads:Dfbnd5WHUZf": 1794035739091,
+    "threads:DfbngmXFJnK": 1794036044285,
+    "news:CBMilwFBVV95cUxPak40RnFuaXZsMjVUZi1zSU8zWGVBek1CMzJaQjNZMUlFRzgyQi1yMVdCemVhV09qcmkzeWdsZ2gyUkI1YW5SLWNjSllNTU5xcUljcUg2dklRcVg3ZFBaVVJ4cmhCT3JSWklIc0VZSzNid2VmeXVTRVpja1VPLVRjOHRKcnA1bmRlZUNHS2czeWhtcFd4NnZN0gGmAUFVX3lxTFByMHVsQVQxWW5tVXlHODhYUHpNaUJsSmpjZjNfaFBGbEVuVWxlSG9wczZhb2dFTGpreWctSzlqNUp2Z0Z1cXJUQmdNcU92Nnoza0FDTmFrMmRmVk0tM1ZXVTNzVWdNQUx4ZUJKVXRfMXJKOEFCTzNVMm9SQ3pNc2Nua29HeDRyaTlEd3RNcTFiR3A1bnZBTlhwQTlEM21xM1F6ZjZnQlE": 1794036044285
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sie_val_ven",
-      "x": "Jangan kamu, anakku yang disabilitas berat aja di cek bansos tidak terdata disabilitas pdhl data anakku sudah ada di dinsos tp kenapa g masuk di sistem.",
-      "u": "https://www.threads.com/@sie_val_ven/post/DfbRjoWnxgt",
-      "d": 1794024049000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "@updatepelatihan",
       "s": "threads",
@@ -29199,10 +29187,20 @@
       "d": 1794035537000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "nusaperdana.com",
+      "x": "Bansos PKH dan BPNT Tahap 4 Cair November 2026, KKS Baru Terima Rapel - nusaperdana.com",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPak40RnFuaXZsMjVUZi1zSU8zWGVBek1CMzJaQjNZMUlFRzgyQi1yMVdCemVhV09qcmkzeWdsZ2gyUkI1YW5SLWNjSllNTU5xcUljcUg2dklRcVg3ZFBaVVJ4cmhCT3JSWklIc0VZSzNid2VmeXVTRVpja1VPLVRjOHRKcnA1bmRlZUNHS2czeWhtcFd4NnZN0gGmAUFVX3lxTFByMHVsQVQxWW5tVXlHODhYUHpNaUJsSmpjZjNfaFBGbEVuVWxlSG9wczZhb2dFTGpreWctSzlqNUp2Z0Z1cXJUQmdNcU92Nnoza0FDTmFrMmRmVk0tM1ZXVTNzVWdNQUx4ZUJKVXRfMXJKOEFCTzNVMm9SQ3pNc2Nua29HeDRyaTlEd3RNcTFiR3A1bnZBTlhwQTlEM21xM1F6ZjZnQlE?oc=5",
+      "d": 1794024121000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
