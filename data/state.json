@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3vmi2k7Cg": 1792832668598,
-    "threads:De3xE6Xk-S_": 1792832668598,
-    "threads:De3v1F4lp1G": 1792832668598,
-    "threads:De3vWq1E129": 1792832668598,
-    "threads:De3vPW5E20s": 1792832668598,
-    "threads:De3vLVSE9EC": 1792832668598,
-    "threads:De3u2IEoEI8": 1792832668598,
-    "news:CBMi8wFBVV95cUxNWEJXTE1Ea1VQa1JnLUdrQlJoVjBNZGFDckVhV2JFa1llRFoyaXpJcjEzS2JnN2kzTmtmWjZKem9XVnlEUUpiQW9RWkg5U0NvYkNGTlVqODZVbXVkSFkxY3hPQlM2WWNhYVBmWnZGNlJOeTAtSEJRZGtHRjRnMFpjRkNaUHRFTWV6NF91U0xHWFE3b3BjOEtOTEdZd2Y1Q2JNTWNuUzJZcXA0azd3YnFSZm91WVlPR2FoMEFxdzdKNEQ0UFVDRkhHa3d4ZmhHVTQxaVhVeDlzQmIwenZNSkZrUGc3a1ZkSGk1Z0o0MU5XT1J1d1XSAfgBQVVfeXFMTTBnOTRqRFFxM1Q5QjFzME9RUjNWc1lXY1VoVmVicVNlYWowYmkxZXpjOWZUZy1uek9vYkxSY0ZleFA0cUF5b0Ffd0lHYVowWW0wTE9vR3ZkYkpuRC1CcVFfVUhUS3lGU2RDTHR3ZTlzeHVWQXhPS3FLVm1oSjFueUhrTGxPSDFkbmM3ZWpYTDlmSlc1bnpzYVV2SnlMeFh2a3AwY0tRSjBZZFBybVh0Y0Uxd0plSFJLUGJad3A3NkFCTGZvSENXQURGNS1Ka0dUYk93LUU5ZU5BZV9MSVlSMnZ4UFZKZjhoeTNjWHVIWDUxZm91TjlaeEg": 1792832668598,
-    "news:CBMi0gFBVV95cUxPU2VTMF9QRk90VkdrTEE3OGd1ZGpzcExadE14a0lGQ2R0MGI2d2hpajRhWHNIVE1FakhiNDdETERtX3drZm1GWHpuM0QzcXlkYW9SblZRR0tXZXpIY1NYOU55WmVpMTFvOXFRSDZNU0p6S25jNm84bTRFVHp3SU1HUi1ZcjFoQ3Y4ZUFENHJSNWlLZHVydHFzaGpTY0FYX3RRdjZidlJ4NEdRMTJXcUViNXMzeDlKM1lJQXpERlI0OXlvejN3T3hBTm9TV0RSZHVmM3c": 1792832668598,
-    "news:CBMi1wFBVV95cUxQeWM1bURnMnN0NHZ4a0ZzR01ZVUZsZHdFbVhBOXRiOEJ0dzk0d1RCWFJwb0hYLWVaNEZ1SW92VUZHX1JYbnBaaG50V2gxeUVGXzByZ2FqVkM1dW5JUVJaTUN0MUlHY25tYjNIVzZVdUtEMzlNbEo5VkhVNjczN2VmVEtoSmptbDRqd1RScWJzSzJ1UThPSW9RcWtfUHVrTnZXVVBCVEVjTXNnZDVwV1pCQ2pWOG1kNG10eUZGMDFVNGZMYnRUSTBVa1JDbnJDRGZhaVl2RkFLONIB1wFBVV95cUxQeWM1bURnMnN0NHZ4a0ZzR01ZVUZsZHdFbVhBOXRiOEJ0dzk0d1RCWFJwb0hYLWVaNEZ1SW92VUZHX1JYbnBaaG50V2gxeUVGXzByZ2FqVkM1dW5JUVJaTUN0MUlHY25tYjNIVzZVdUtEMzlNbEo5VkhVNjczN2VmVEtoSmptbDRqd1RScWJzSzJ1UThPSW9RcWtfUHVrTnZXVVBCVEVjTXNnZDVwV1pCQ2pWOG1kNG10eUZGMDFVNGZMYnRUSTBVa1JDbnJDRGZhaVl2RkFLOA": 1792832668598,
     "threads:De3wrKlE3UG": 1792833092461,
     "threads:De3xaChkdlx": 1792833092461,
     "threads:De3xO_XkUn2": 1792833092461,
@@ -27693,49 +27683,14 @@
     "news:CBMitwFBVV95cUxPVUg3eTZ5Vks3V0lWcU9sa1Q4bDZWM1p6NldtVWhIWFoweTdpZGttUWFtZFFvNDNwRGxtSkJxbGl5ZDY2dFprclRZQ1VVcjhTMlZkd2pCTDJRNmozNkhTTXFkbTZYUHNJNlB2blRMaGlJcHpuc0VyRHpNN0Ixd1RpUktvbExXZTFWcFlqSVpfb09uMVZoakgzNEFsNGcwZ0R3VE1BRUVhQVBhMmN4dHlIc05OUUJ3UU3SAaYBQVVfeXFMUGtOckpsSnBuY3YyYkNyWFV5Z1BhNkJHY2J2aDE1Y3E2TWxYWFRFaF9XQ0hZeW85NzRBaXBkSXo5TkhEeXhoSmgxOXJhd1pzeEJ4c0E1UnVmdDdBMHB1X1l3dVJqMXIwZTBVY2xqM2dNSjNxZWtSMFItc2pXNGZoMktocVZlMTkwV3JQaHREMjJfM0hXRVVxU1U2YnpMb3dxVkZQdmlxdw": 1794042047784,
     "news:CBMiwAFBVV95cUxNNGRHOVZHQmR0RTlGQjZVMDIzNnpVdFFzYk1NM2w2YTZ6TDRFTEY0alBDM0RXQjdtRmxpS0Q3SjMxT1pPa2FORUFJODhqcE0yekpNR2MyZlplRVdvLWhYYlQ3QWFGbXgwR3BxVTlyR05mZzhEYk1LRlBOSUVQQ0luWWtwbzhqMXR6SXJxckRMOXpabFh1N1dCM2xzaXhBMlpVaFVTeDBsOVhVTHZ6RlZ1V3lXVThrU0hmcXZrZFNzbkXSAcYBQVVfeXFMTmF4cU5wbFhNb2JGZTBtTmxTTHpsWjBpX2lhWFBDeU5mNGdBamtMRGFsY1A2RE9zaTlTTnRSeW1yN3FSdVJzcWxNUGVpRjFTaUU3XzhNUDRGbHF6bHUzTGFoUWRJaFkzREI4VW1tX2RkSkZycDRtTnNCNldjQl9UdWRJcGVIT0JPOTVINFlXR0puR3VEV1QxTEhIRXJzT25OaE1ZUHExSEQ0NUFJajNDX3V0MEM3clpDVE5YRnRNc2V5eVdSWkJB": 1794042047784,
     "news:CBMiY0FVX3lxTE5iYWVMa1lKc0kwbkpVZnhtWE91Y01GRG93OXlhb1pLS1h3YkZRZnJlNlA1bUVfMGRiZjEzVjU4aXBOeUc2eXc0Q0dWUllyXzZ0T0hPLUNjY0docmVZbDFoeGo4RQ": 1794042047784,
-    "news:CBMisAFBVV95cUxPX0tmdGZaMWlINGdSRjVWZDNOc3V5TnROeGFzamlvdDk4NmhzbjFoYS1Qd05aNmhPZGxoMjlGS1k5NXhIcm4xTVYtRHJsTUlYRVR4NUE4c0NBOFJ6SWFsTGROS1YzZkV1ZDdJbkF3Y21RUWIwY19LUTVVbTc3MnpTRWtCbXJTcHVDOEphSTVUdTgzdk5rdTc5MU1LdFk5QmtRSUh1a204UVJZLVQ4QUtqVw": 1794042047784
+    "news:CBMisAFBVV95cUxPX0tmdGZaMWlINGdSRjVWZDNOc3V5TnROeGFzamlvdDk4NmhzbjFoYS1Qd05aNmhPZGxoMjlGS1k5NXhIcm4xTVYtRHJsTUlYRVR4NUE4c0NBOFJ6SWFsTGROS1YzZkV1ZDdJbkF3Y21RUWIwY19LUTVVbTc3MnpTRWtCbXJTcHVDOEphSTVUdTgzdk5rdTc5MU1LdFk5QmtRSUh1a204UVJZLVQ4QUtqVw": 1794042047784,
+    "threads:Dfb0XXsDclA": 1794042345245,
+    "threads:De3ujbbFOB6": 1794042345245,
+    "news:CBMixwFBVV95cUxPSWVsczRmY0pjUUNmdUcxcUZMcjE4ZkU5Sy1WNnhWVk9JS2xxMktWXzhNeXlIdl84NWMyTHU1T21GUnVVZVpvQmEyd3QxN3RyQTRsZVcyMG1xVFBRQUJxM01rLUJ5Z0phd0Q0QmxSdXRnTjBBb1lORWpTbUlxdVlMZjF2RDJ2ZE1VRzhFMFlIZ0lYRHpUN25mNVllVnNuR1lVUy1DTHA2MWxLU1haQ1g1ZTBpQ1ZELWt1aWhFVGdnamhXTFY2M0lB0gHHAUFVX3lxTE9JZWxzNGZjSmNRQ2Z1RzFxRkxyMThmRTlLLVY2eFZWT0lLbHEyS1ZfOE15eUh2Xzg1YzJMdTVPbUZSdVVlWm9CYTJ3dDE3dHJBNGxlVzIwbXFUUFFBQnEzTWstQnlnSmF3RDRCbFJ1dGdOMEFvWU5FalNtSXF1WUxmMXZEMnZkTVVHOEUwWUhnSVhEelQ3bmY1WWVWc25HWVVTLUNMcDYxbEtTWFpDWDVlMGlDVkQta3VpaEVUZ2dqaFdMVjYzSUE": 1794042345245,
+    "news:CBMiU0FVX3lxTE1VcVMtUUo2VUt3aWZsTnMzN3hTSTNjaF9UYWZOT1BPRDljb2VBMkRwMW9fdktHT1hwN3JadWYtM0pXMGdyeUc3NVhnRUVaMUFTdHpv": 1794042345245,
+    "news:CBMisAFBVV95cUxOajEzS3M2NXBxSklveTkzVzFvb2thLXo2T203N2RpSG51bkRyUEFOSUMzMmpjeWJwOWtCZ2NjdUdkUjRGaldmak4wNEdsQmpjRzdKTzg0MHFIOFRzNm12MmZxWW9KMFhZUVRvQXRCZVExU0FqbTJKMVB3cVYyMG81b18zYmlUNnpiU0NnY3NPWEJQanhYdm91TjE2TWFINWx1aVRXOTRzWTJFQzI3d0FpYw": 1794042345245
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kanal.dof",
-      "x": "mau ikut kelas gratis",
-      "u": "https://www.threads.com/@kanal.dof/post/DfbXCnklD_l",
-      "d": 1794026924000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tukang_renov_",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@tukang_renov_/post/DfbW75_k0qW",
-      "d": 1794026869000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@hesti_lutviani",
-      "x": "Buat kpm yang eksclude jangan diam saja, karena yang melakukan sanggah/stop judol itu real \"cair kembali\" ya, bukan HOAKS, lebih cepat sanggah lebih cepat kembali ke AKTIF bansos N",
-      "u": "https://www.threads.com/@hesti_lutviani/post/DfbYhp3GPKc",
-      "d": 1794027704000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@hesti_lutviani",
-      "x": "Buat kpm yang eksclude jangan diam saja, karena yang melakukan sanggah/stop judol itu real \"cair kembali\" ya, bukan HOAKS, lebih cepat sanggah lebih cepat kembali ke AKTIF bansos N",
-      "u": "https://www.threads.com/@hesti_lutviani/post/DfbXtkaGAaa",
-      "d": 1794027277000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29195,10 +29150,50 @@
       "d": 1794041793000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Itu yang bikin banyak orang bingung - kondisi temanmu jelas prasejahtera tapi tercatat desil 6. Desil itu bukan ukuran miskin absolut, tapi pemeringkatan. BPS meranking semua pendu",
+      "u": "https://www.threads.com/@meta.ai/post/Dfb0XXsDclA",
+      "d": 1794042299000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Suara.com",
+      "x": "200.815 UMKM di Jateng Kantongi Sertifikat Halal, Siap Sambut Pariwisata Ramah Muslim - Suara.com",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWVsczRmY0pjUUNmdUcxcUZMcjE4ZkU5Sy1WNnhWVk9JS2xxMktWXzhNeXlIdl84NWMyTHU1T21GUnVVZVpvQmEyd3QxN3RyQTRsZVcyMG1xVFBRQUJxM01rLUJ5Z0phd0Q0QmxSdXRnTjBBb1lORWpTbUlxdVlMZjF2RDJ2ZE1VRzhFMFlIZ0lYRHpUN25mNVllVnNuR1lVUy1DTHA2MWxLU1haQ1g1ZTBpQ1ZELWt1aWhFVGdnamhXTFY2M0lB0gHHAUFVX3lxTE9JZWxzNGZjSmNRQ2Z1RzFxRkxyMThmRTlLLVY2eFZWT0lLbHEyS1ZfOE15eUh2Xzg1YzJMdTVPbUZSdVVlWm9CYTJ3dDE3dHJBNGxlVzIwbXFUUFFBQnEzTWstQnlnSmF3RDRCbFJ1dGdOMEFvWU5FalNtSXF1WUxmMXZEMnZkTVVHOEUwWUhnSVhEelQ3bmY1WWVWc25HWVVTLUNMcDYxbEtTWFpDWDVlMGlDVkQta3VpaEVUZ2dqaFdMVjYzSUE?oc=5",
+      "d": 1794038514000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "شبكة تواصل الإخبارية",
+      "x": "Jateng Kantongi 200.815 Sertifikat Halal untuk UMKM - شبكة تواصل الإخبارية",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcVMtUUo2VUt3aWZsTnMzN3hTSTNjaF9UYWZOT1BPRDljb2VBMkRwMW9fdktHT1hwN3JadWYtM0pXMGdyeUc3NVhnRUVaMUFTdHpv?oc=5",
+      "d": 1794041934000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Merdeka",
+      "x": "Deretan Hoaks Link Pendaftaran Bansos Uang Tunai, Simak Daftarnya - Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajEzS3M2NXBxSklveTkzVzFvb2thLXo2T203N2RpSG51bkRyUEFOSUMzMmpjeWJwOWtCZ2NjdUdkUjRGaldmak4wNEdsQmpjRzdKTzg0MHFIOFRzNm12MmZxWW9KMFhZUVRvQXRCZVExU0FqbTJKMVB3cVYyMG81b18zYmlUNnpiU0NnY3NPWEJQanhYdm91TjE2TWFINWx1aVRXOTRzWTJFQzI3d0FpYw?oc=5",
+      "d": 1794042000000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
