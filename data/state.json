@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3_9PJHTbL": 1792840848193,
     "threads:De4BcGdk4Pp": 1792841141651,
     "threads:De4BOf1k9gU": 1792841141651,
     "threads:De4BDIFk99m": 1792841141651,
@@ -27668,29 +27667,12 @@
     "news:CBMiiAFBVV95cUxNa1NoQjdBZkdQVjY0T3l2WE50a2N4MnhzNUkyaW5TaW5TNHhCYkp5Uk5sTjlJRlpYZEFBQmNLVUxtTVFRYzNjbllTa0d0YUx0bVZFeVowS25GWkVVVkFiNHVjWVhKTFl0bFNRMjJSVXhFNmJCY3dQU3VGTXBWdXY1TE83WnBzVFl6": 1794050142054,
     "news:CBMi1AFBVV95cUxNRXFpT1lkUWxBaGhuU2xqV0FFN1VDWmlPYkhvS2I4Ni1FakFwb1BFemlDNGxqWjRBNTd2WUtKVkVFcnNmbTdtampUWHVaSkd2QzBaVVV2MmFWVExCYmUtME1FejBxWEJWQldjWHFycjZJY1BQMmZzNjg5alFzdDhSMnJUbDB0ZmdrcW1zZjBWUGVDNENWOTVoNzlqLUNfTWp6akZmX3dYaFpQcFJKSWthTE43OGlkT3VCejZQN0xFejJ1dVRrbm5sNm8td19DMHVLSnlTTw": 1794050142054,
     "news:CBMiuwFBVV95cUxNNUhWdzNyN2hSOTJwa2JaSXZYWVVRUENDaENFV01nYlpnN3FzWlBsZTFRQW55M3RYNF9tZGd0Uk1WNWE3NkZVa284aTJCbXd1WmktX3FGYmRTRzViZm9jZ1BISkhvbk43VjZoa2x5ck9JZkJhV21Vd3lvUXdHSWNzRHNXMHRVb3dnU3VlVUZoLW9XVFFVWkx6ZjVBdmNRNEpCaGdmRFR2TFdQYUpoTXhxNnVqWEJEcUxZcXc0": 1794050142054,
-    "news:CBMi1gFBVV95cUxPUWdTZ0NMY2VCNTJOWXg2Zzd3cnZLWXJ4OEFZektXREdVRUVNckpFYlVEMG1nUHNrLXFPYkF2bGZSSkw3S1hHTzRsT1VwdTdHSVVCaDN2NS1kS1huSndUa3BPcnJ2NFMtNVZ2eHRfTXVFdDRRYjdORUxFbnhPaHlrV1dpenp0cVhtTWRBaFV4N0VqbkE2QVNNaVRKNU5RSTRmN2Y4OEVwWHNTbDJMMjdSVV9NZ05hNzVtYnlqZG5FTHJid20zdFZHdEtmNWlabU5oWTRPWG130gG8AUFVX3lxTE0xME0xZmlGQzhWZnBxUjdGNTkybDlxRUlMd1FsTlFJS3BBYjlPclB3NmpWZDBuQ2V1eE5laXQyYnpERVotaGJCUXF5Vm1PYjRYNUYwWDlWZEpCaElUbVlTZnNpSG9DNktlV2M1Umwyb1YtTGxYUVp5bmVHLXFCbnhzUHlobmpyU3dSQ0ZJcktUU3pPbzJMV181bzZRNW1ncVZhTFFMQ0Vkd0NoQ3hlb3RSTDR0bUVKVFprWUdY": 1794050142054
+    "news:CBMi1gFBVV95cUxPUWdTZ0NMY2VCNTJOWXg2Zzd3cnZLWXJ4OEFZektXREdVRUVNckpFYlVEMG1nUHNrLXFPYkF2bGZSSkw3S1hHTzRsT1VwdTdHSVVCaDN2NS1kS1huSndUa3BPcnJ2NFMtNVZ2eHRfTXVFdDRRYjdORUxFbnhPaHlrV1dpenp0cVhtTWRBaFV4N0VqbkE2QVNNaVRKNU5RSTRmN2Y4OEVwWHNTbDJMMjdSVV9NZ05hNzVtYnlqZG5FTHJid20zdFZHdEtmNWlabU5oWTRPWG130gG8AUFVX3lxTE0xME0xZmlGQzhWZnBxUjdGNTkybDlxRUlMd1FsTlFJS3BBYjlPclB3NmpWZDBuQ2V1eE5laXQyYnpERVotaGJCUXF5Vm1PYjRYNUYwWDlWZEpCaElUbVlTZnNpSG9DNktlV2M1Umwyb1YtTGxYUVp5bmVHLXFCbnhzUHlobmpyU3dSQ0ZJcktUU3pPbzJMV181bzZRNW1ncVZhTFFMQ0Vkd0NoQ3hlb3RSTDR0bUVKVFprWUdY": 1794050142054,
+    "threads:DfcCvaPk4ZO": 1794050438658,
+    "news:CBMibkFVX3lxTE05OWZWYVhSQTVDMGlmMXJ4YTU1MjZQLU5YQnFXbUNoUFVDNnhiME9ZLWNKdG1IeUF5ZmJBN0VSY0tmY21uamRYeXU4NVdwblVlWElEdnFJdGhpSFhnaDJOUGQ2SzB1U1FpN0FLdkpn": 1794050438658,
+    "news:CBMiygFBVV95cUxOWS13MFExY2U5TXk3ZjJrY0ZMQkM1QjJ5dkFLQlFDVHZqb3lxMkMybndSMkVheEhmdnNzelZURGZCRGNjQUJBWU9rd1RSdnBvVGg3bGdqN3d2WEx3aE9Kd0ZtYWI0ckY3TGtjc2JRdXVNN3g2OHQyVHRmOGI0YjFsbVZubXJUVVRQUWNoVWpBSGNfLUJkOXZpakRGaTZTeDdqNDdTdmQ5RTNoSUUzQnl6Y2ZWd1FkamhzS2MwRVJ6TDRBWnJEZGxQbHFn": 1794050438658
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@nunuung_ajja1990",
-      "x": "Mohon pencerahannya bapak-bapak/ibu-ibu Ini gimana ya cara cek desil Keterangan berpotensi layak tapi pas cek desil ,keterangannya desil belum ada pas buka link bps desilnya null J",
-      "u": "https://www.threads.com/@nunuung_ajja1990/post/DfbluZbmEPN",
-      "d": 1794034623000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Ketik",
-      "x": "Proyek Puskesmas Binangun Cilacap Molor, Kontraktor Diberi Kesempatan 50 Hari untuk Selesaikan Pekerjaan - Ketik",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3NQTG4tZVo0S0NkTDVjU2dFbnBsYnJSbHRRamlHcEFNWW5iTjF0UzNKN19TZUVocW9vV3VYekZXQlpaQnpMWnU0eUczV1d3M21TS1YtU3ZKQWdiQnZuZ3FQeHczb2l6WkJ0dWFsUkVybnpjS1hZTzZqdjRXdllqcTFWckRhaGYybGVCMmZaeEloa3R6cWpaQ1BCalNtRkhnbzlaY25mR2ZLZExIWEk0ZjVDOHNxcHJyNkhaWi14dnZfVWPSAcMBQVVfeXFMTUtzUExuLWVaNEtDZEw1Y1NnRW5wbGJyUmx0UWppR3BBTVluYk4xdFMzSjdfU2VFaHFvb1d1WHpGV0JaWkJ6TFp1NHlHM1dXdzNtU0tWLVN2SkFnYkJ2bmdxUHh3M29pelpCdHVhbFJFcm56Y0tYWU82anY0V3ZZanExVnJEYWhmMmxlQjJmWnhJaGt0enFqWkNQQmpTbUZIZ285WmNuZkdmS2RMSFhJNGY1QzhzcXBycjZIWloteHZ2X1Vj?oc=5",
-      "d": 1793977560000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29170,10 +29152,30 @@
       "d": 1794047400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@qianlyn_dev",
+      "x": "Tergantung ya Kak, menurut ku kalau mau fokus bahasa sih bisa ambil les. Kalau mau fokus ke bidang yang btuh keahlian yang terverifikasi seperti dokter atau arsitektur bisa ambil k",
+      "u": "https://www.threads.com/@qianlyn_dev/post/DfcCvaPk4ZO",
+      "d": 1794049836000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "patrolmedia.co.id",
+      "x": "FWB Buka Pelatihan Jurnalistik 20 November Ini di Aston Batam, Peserta Dapat Tiket UKW Gratis - patrolmedia.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWS13MFExY2U5TXk3ZjJrY0ZMQkM1QjJ5dkFLQlFDVHZqb3lxMkMybndSMkVheEhmdnNzelZURGZCRGNjQUJBWU9rd1RSdnBvVGg3bGdqN3d2WEx3aE9Kd0ZtYWI0ckY3TGtjc2JRdXVNN3g2OHQyVHRmOGI0YjFsbVZubXJUVVRQUWNoVWpBSGNfLUJkOXZpakRGaTZTeDdqNDdTdmQ5RTNoSUUzQnl6Y2ZWd1FkamhzS2MwRVJ6TDRBWnJEZGxQbHFn?oc=5",
+      "d": 1794048181000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
