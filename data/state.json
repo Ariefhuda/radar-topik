@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3_QNxkZDM": 1792840544784,
-    "threads:De3_L7_nwyJ": 1792840544784,
-    "threads:De3-8ubgiHX": 1792840544784,
-    "threads:De3-0BpE5di": 1792840544784,
-    "threads:De3_b88EvfZ": 1792840544784,
-    "news:CBMiiAFBVV95cUxQbWdNcGlPV2FTSGNRT1IwLVRsdTR1UF9HWFNlV2JDdWlBZnNMQlhIUmNiUk9VT3JiWF9qazBVWi00STQ5QTdMeWFVYUNuUnhkMXJfUGlhOXRYNGdlQ2lrRktsdG5zMko4MXRJNFJsZ3RtVTA4cXl3UngxVF9ubjZ3cXpaNTVwOS1p": 1792840544784,
     "threads:De3_9PJHTbL": 1792840848193,
     "threads:De4BcGdk4Pp": 1792841141651,
     "threads:De4BOf1k9gU": 1792841141651,
@@ -27658,59 +27652,25 @@
     "threads:DfcA1YjElMm": 1794049533919,
     "threads:DfcBia1grtc": 1794049840800,
     "threads:DfcCXQNj0O-": 1794049840800,
-    "news:CBMiakFVX3lxTFBXcTBvc2xESnQ1YXhfaWZDbm5EaGFrcjdqYUNkbndnMFlEMlNnNllOb0phYVhFd0hCQ1RDUFE4NGNJM2pyM0ZlV2k0ZThkUnJ0VjFfSGVOSE9uNzljOTM5emJJUktDUUZiUFE": 1794049840800
+    "news:CBMiakFVX3lxTFBXcTBvc2xESnQ1YXhfaWZDbm5EaGFrcjdqYUNkbndnMFlEMlNnNllOb0phYVhFd0hCQ1RDUFE4NGNJM2pyM0ZlV2k0ZThkUnJ0VjFfSGVOSE9uNzljOTM5emJJUktDUUZiUFE": 1794049840800,
+    "threads:DfcC2l-ATVk": 1794050142054,
+    "threads:DfcDGl5msX-": 1794050142054,
+    "threads:DfcDSaeG4V2": 1794050142054,
+    "threads:DfcDRIZj3Sd": 1794050142054,
+    "threads:DfcDPO4kThE": 1794050142054,
+    "threads:DfcDJfjCZsc": 1794050142054,
+    "threads:DfcCpI9G0uC": 1794050142054,
+    "threads:DfcCqkwGmDV": 1794050142054,
+    "threads:DfcCJJ1mb8X": 1794050142054,
+    "threads:DfcCczwkzSh": 1794050142054,
+    "threads:DfcCbY7mnRo": 1794050142054,
+    "news:CBMiiwFBVV95cUxQUlg2dmNoUU9Nb0FFMk5CVk9kOVd5MWVRN09mNV9mODhibXJuVmc2YXdKVl9ycDlQVUthNHR6SGx2aEF0ZFpqS0ZRVzdpQlBIRGVOR1RSSUl5VWw5VVhBUnowLWIzLTFvRWdYYnpIWU8wZll4Wmhrb3FNT0R5YW0xOWhXeFJrQnd3RWlB": 1794050142054,
+    "news:CBMiiAFBVV95cUxNa1NoQjdBZkdQVjY0T3l2WE50a2N4MnhzNUkyaW5TaW5TNHhCYkp5Uk5sTjlJRlpYZEFBQmNLVUxtTVFRYzNjbllTa0d0YUx0bVZFeVowS25GWkVVVkFiNHVjWVhKTFl0bFNRMjJSVXhFNmJCY3dQU3VGTXBWdXY1TE83WnBzVFl6": 1794050142054,
+    "news:CBMi1AFBVV95cUxNRXFpT1lkUWxBaGhuU2xqV0FFN1VDWmlPYkhvS2I4Ni1FakFwb1BFemlDNGxqWjRBNTd2WUtKVkVFcnNmbTdtampUWHVaSkd2QzBaVVV2MmFWVExCYmUtME1FejBxWEJWQldjWHFycjZJY1BQMmZzNjg5alFzdDhSMnJUbDB0ZmdrcW1zZjBWUGVDNENWOTVoNzlqLUNfTWp6akZmX3dYaFpQcFJKSWthTE43OGlkT3VCejZQN0xFejJ1dVRrbm5sNm8td19DMHVLSnlTTw": 1794050142054,
+    "news:CBMiuwFBVV95cUxNNUhWdzNyN2hSOTJwa2JaSXZYWVVRUENDaENFV01nYlpnN3FzWlBsZTFRQW55M3RYNF9tZGd0Uk1WNWE3NkZVa284aTJCbXd1WmktX3FGYmRTRzViZm9jZ1BISkhvbk43VjZoa2x5ck9JZkJhV21Vd3lvUXdHSWNzRHNXMHRVb3dnU3VlVUZoLW9XVFFVWkx6ZjVBdmNRNEpCaGdmRFR2TFdQYUpoTXhxNnVqWEJEcUxZcXc0": 1794050142054,
+    "news:CBMi1gFBVV95cUxPUWdTZ0NMY2VCNTJOWXg2Zzd3cnZLWXJ4OEFZektXREdVRUVNckpFYlVEMG1nUHNrLXFPYkF2bGZSSkw3S1hHTzRsT1VwdTdHSVVCaDN2NS1kS1huSndUa3BPcnJ2NFMtNVZ2eHRfTXVFdDRRYjdORUxFbnhPaHlrV1dpenp0cVhtTWRBaFV4N0VqbkE2QVNNaVRKNU5RSTRmN2Y4OEVwWHNTbDJMMjdSVV9NZ05hNzVtYnlqZG5FTHJid20zdFZHdEtmNWlabU5oWTRPWG130gG8AUFVX3lxTE0xME0xZmlGQzhWZnBxUjdGNTkybDlxRUlMd1FsTlFJS3BBYjlPclB3NmpWZDBuQ2V1eE5laXQyYnpERVotaGJCUXF5Vm1PYjRYNUYwWDlWZEpCaElUbVlTZnNpSG9DNktlV2M1Umwyb1YtTGxYUVp5bmVHLXFCbnhzUHlobmpyU3dSQ0ZJcktUU3pPbzJMV181bzZRNW1ncVZhTFFMQ0Vkd0NoQ3hlb3RSTDR0bUVKVFprWUdY": 1794050142054
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "nova.grid.id",
-      "x": "Bansos PKH Tahap 4 2026 Kapan Cair? Ini Jadwal November, Nominal dan Cara Cek Penerima - nova.grid.id",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM3hJb3dIOUF1S3VxcHpvR1JYQ1VZNmhuUkZyZlI5YkdJOE1jM01XdUo5RkR0akg4YXZjWG8taHdoY2FEQjhDX1E0cWVfUkR1TGxUMUkyV3BlalFVa0gzMHNrWUFuRTU3VXRHWV8zY3l3Uk5aVlB5eFRQUkFLeWxlWElLVHlZakt3Z21IalJkZjBnRGk3c2o0YmZrSExOY2xZcnYyZEdvWldzTUJWRTMtUDRHVjF6YTBPNUppYdIBuwFBVV95cUxOREtuVm4zc09VNW9tSDR3VWo5bWFreXpXTlIya21CNnVHTTR2dW4zTkxkTmpXb3ZBLWtST0VBbkU5X3NZSFFLVHRLemxsR29XRE1ncVhuNDhtQlJoNlZKc0xHY0phMnRBZnBtMmZtQjJYWEg3UW1LUG43OVdacThlNFgtZGdScUtHQl96UXdJYVdOTF82d0FhR2h3VDdBUFIzOTk0aUNiNXNLT2JIX1BWRWtMZzd5SHFsQWZr?oc=5",
-      "d": 1794030365000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@updatepelatihan",
-      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
-      "u": "https://www.threads.com/@updatepelatihan/post/DfblWztGB-3",
-      "d": 1794034430000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@updatepelatihan",
-      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
-      "u": "https://www.threads.com/@updatepelatihan/post/DfblVOXmFNF",
-      "d": 1794034417000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ailsasucitra",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@ailsasucitra/post/DfblzpSE0mP",
-      "d": 1794034666000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Medialokal.co",
-      "x": "Cek Desil DTSEN November 2026, Ini Kelompok Prioritas Penerima Bansos - Medialokal.co",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2ZFRlVublAxdkdiWW5kY3diSlAwZkxfVFdPci0yeGlVTUxGZEdWV0hpZXVqdUs0NFNRUkViR2Q3MVIwbVhlc1ZiSUVWcDVBaVNJLTFUTk5LZktIN3VRNTdwNkYxTXF3RDV1d01PcGhQT043UmJVT0pqdXZMZmJRc3VBUHB6Q1N3c0tKTzZLRC03WTJSdFdoemFSUHlPbVVSeEM4S0tLMktwSzJ20gGiAUFVX3lxTFBRYTZPb1FTNWN3clNyeVZDS3Q5X1VCbU1tRm9oNk00WUZHQjQ4UGg2cFZQQnh5d0hneEFvcVdFWWZfaFhndk5zR09JZkRMeHE0OVg2U2RTX29WaF9sX3VFVVo5bFVpZlpGaDJhVGprTHVOUU1tVjR3NEJWMFhuNzF6YzNidUMtNHJOdXVxSzV2bXY0SUNKSXRkMlpfM3FwYUgwUQ?oc=5",
-      "d": 1794020462000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29160,10 +29120,60 @@
       "d": 1794049541000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qianlyn_dev",
+      "x": "Halo Kak, ada Kak. Udh itu, di offer free trial class dulu sebelum mengambil kelas Mandarin di tempat Saya. 😍🥰 kebanyakan dari yang mengikuti uji coba kelas gratis sebanyak 1x in",
+      "u": "https://www.threads.com/@qianlyn_dev/post/DfcCczwkzSh",
+      "d": 1794049683000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rieka_rin",
+      "x": "Mau ikut kelas gratis",
+      "u": "https://www.threads.com/@rieka_rin/post/DfcCbY7mnRo",
+      "d": 1794049672000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Makan Bergizi Gratis: Beban Anggaran atau Peluang Ekonomi? Halaman 1 - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXFpT1lkUWxBaGhuU2xqV0FFN1VDWmlPYkhvS2I4Ni1FakFwb1BFemlDNGxqWjRBNTd2WUtKVkVFcnNmbTdtampUWHVaSkd2QzBaVVV2MmFWVExCYmUtME1FejBxWEJWQldjWHFycjZJY1BQMmZzNjg5alFzdDhSMnJUbDB0ZmdrcW1zZjBWUGVDNENWOTVoNzlqLUNfTWp6akZmX3dYaFpQcFJKSWthTE43OGlkT3VCejZQN0xFejJ1dVRrbm5sNm8td19DMHVLSnlTTw?oc=5",
+      "d": 1793968502000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "MetroTVNews.com",
+      "x": "Beasiswa Riset BAZNAS 2026 hingga 11 November, Cek Syarat dan Cara Pendaftaran - MetroTVNews.com",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUhWdzNyN2hSOTJwa2JaSXZYWVVRUENDaENFV01nYlpnN3FzWlBsZTFRQW55M3RYNF9tZGd0Uk1WNWE3NkZVa284aTJCbXd1WmktX3FGYmRTRzViZm9jZ1BISkhvbk43VjZoa2x5ck9JZkJhV21Vd3lvUXdHSWNzRHNXMHRVb3dnU3VlVUZoLW9XVFFVWkx6ZjVBdmNRNEpCaGdmRFR2TFdQYUpoTXhxNnVqWEJEcUxZcXc0?oc=5",
+      "d": 1794049551000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Disway Malang",
+      "x": "Beasiswa Taibah University Madinah Dibuka, Kuliah Gratis dan Ini Syarat Usia Pendaftar - malang.disway.id - Disway Malang",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUWdTZ0NMY2VCNTJOWXg2Zzd3cnZLWXJ4OEFZektXREdVRUVNckpFYlVEMG1nUHNrLXFPYkF2bGZSSkw3S1hHTzRsT1VwdTdHSVVCaDN2NS1kS1huSndUa3BPcnJ2NFMtNVZ2eHRfTXVFdDRRYjdORUxFbnhPaHlrV1dpenp0cVhtTWRBaFV4N0VqbkE2QVNNaVRKNU5RSTRmN2Y4OEVwWHNTbDJMMjdSVV9NZ05hNzVtYnlqZG5FTHJid20zdFZHdEtmNWlabU5oWTRPWG130gG8AUFVX3lxTE0xME0xZmlGQzhWZnBxUjdGNTkybDlxRUlMd1FsTlFJS3BBYjlPclB3NmpWZDBuQ2V1eE5laXQyYnpERVotaGJCUXF5Vm1PYjRYNUYwWDlWZEpCaElUbVlTZnNpSG9DNktlV2M1Umwyb1YtTGxYUVp5bmVHLXFCbnhzUHlobmpyU3dSQ0ZJcktUU3pPbzJMV181bzZRNW1ncVZhTFFMQ0Vkd0NoQ3hlb3RSTDR0bUVKVFprWUdY?oc=5",
+      "d": 1794047400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
