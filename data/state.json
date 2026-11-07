@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4QQC4Amdu": 1792849554601,
-    "threads:De4RMygktqJ": 1792849554601,
-    "threads:De4Prvfj3IP": 1792849554601,
-    "threads:De4RWjjGdsT": 1792849554601,
-    "threads:De4RO0kmeQV": 1792849554601,
-    "threads:De4OHLokx2H": 1792849554601,
-    "threads:De4QwJZFl8I": 1792849554601,
-    "news:CBMiqwFBVV95cUxQZF9ONlpBY0N3RE1TNHhtX3Y0NWpxZHR2cjVyeGJKMEctdUhxM3Q0d1lxUTVUUE1fVVpUbWRMblNZUEdTYXN6SmVpYWtOUXdTenRXSm1ZWUxHajdoZUN0a0VNNEM0X3IxcThjS1pWczRjczV3Ry0yZ0JuV3BGSzlpU0RzUnl3em1CYmRFM1d2dHM3QkFmYktDcjhKSllkb1loVzh3cDdqX1U0WWM": 1792849554601,
-    "news:CBMiugFBVV95cUxQeEJHcEV4UEV5WG1wUllqS3ZxY3NBVWxKQlZHWE00dkIxV2ZyaEo5NzU4Tm9QWnJGbjJXWDJVWVdHM0VBTEV2NXdxVmxnU0pURVlELTNtQXRYZUJPOV9UTnVxaXZhZnVzUzBiMEhybTNBbjhzVFB2VVc2ZFNWUE1WdEl3RFhhb3lfcnVlZnpxMi1sSVRGbU8yd1REZVJGb2FQMUpVbkVhd0VaWERDbFhOQWtLaUVVdmVXbkHSAb8BQVVfeXFMTklTdVk0elRwekZuLUY2Yzh2TGpxZW9jdUF1ODdVRkZjVnJ0LWhkQ3B5VTdVRHVjYl9NTjNGMHVJMXk1WVRSc0VYRWFoZ041VF96MVJpRzljODFrazJ4WkV5MWo0SEs2cTI1TEJQWUtvM0pOSTc5V0VBV2NSWnlTSFJRNXBpa1ZiS19tSFFpdE80QnVRcnZHUDg1dG8yMlFpOVlUTXpwNG83STZKZk9mMlBSMXY0RDdrVUllSTJRazA": 1792849554601,
     "threads:De4RsXNE-V1": 1792849845049,
     "threads:De4RS28Dxi8": 1792849845049,
     "threads:De4QZM7iGIX": 1792849845049,
@@ -27579,7 +27570,12 @@
     "threads:DfbZL0oD6o6": 1794058847147,
     "threads:DfcTa6KGdgG": 1794058847147,
     "news:CBMicEFVX3lxTE5Va2FlNGhKMWJsYzRacWUzMVRRRF95X010dUREdHJQak5nak4yVFdzUmFaOHJZd19ZSzlQOW5CdV9TaHZnV2dyM0R0OGprUE5xQWhhSmh2OW90X01ldGk5MHFtRWlVTl9uT3YtVXo4bjA": 1794058847147,
-    "news:CBMiXkFVX3lxTE9ISXFETDVFVF90YVh3V0xPNmY5RXA1V0R4ZXFBcWs3Q2FOeUlVbUFNaEdYUWJhMUFEX2VhREdVbWVXbWhEV3JrU0tMRWZGbDcxbmJXWVZEbkJwYmMwT1E": 1794058847147
+    "news:CBMiXkFVX3lxTE9ISXFETDVFVF90YVh3V0xPNmY5RXA1V0R4ZXFBcWs3Q2FOeUlVbUFNaEdYUWJhMUFEX2VhREdVbWVXbWhEV3JrU0tMRWZGbDcxbmJXWVZEbkJwYmMwT1E": 1794058847147,
+    "threads:DfcUMp3H6Pz": 1794059142138,
+    "threads:DfcTdF7E2Y_": 1794059142138,
+    "threads:DavKjw4gR9m": 1794059142138,
+    "news:CBMivAFBVV95cUxNQ1ZBb3FRWmZuNGxPbzJLdWRjWVMzTUZFb2tPQ1pQQlkwU2dJZUw5UURPR19TSnJoc2RveVh0aHFyRjQ3YTdCOWh0Mng0X0dweWdfSDRIYTYzZVgyekN0bUJjeXo4c1M1SDh1d3JFbTRCRFVsam8yUTRsTjh0aVNwMFMzT0d3MU9nd2pfVlF3b0VvVThrN2pHaDY0T1lfU2JjcnZZSXFrT3lUNkkxdWhZNF8tcFk5QlpJUGJXcg": 1794059142138,
+    "news:CBMisgFBVV95cUxONEMwdTJZZjhZOWNMVk5PTm53bmpmeVNLanBFb09ua2lUY01wZHVtM185aG5EcXhpSW56bUJMeW1rMzQ0OHRlWmxISFlySWlLb2g1ZHFVSnEwZU5FeThsempNakg1QVN1RVVacERUZFVaeVZPaDA2NzZqSy1oVTRGVVVmUm1STG1OczVsRnp5TGhpRFFyYUNIR2E2MFM2RU9uVlZSOTA2dUhCNFd1Q2lXWHJn0gG3AUFVX3lxTE4xa2JoNFlScVRCYVZmODdZbjNaV3kwQWJ6MkZJVmtSQ2JGZGxubkJ4TUptYmdreXJoU0NleHQ5eHBQVzg0aHdvbUxzaWVtUk45YWdsaGYtMzNqYlRzaW5HeGc5dU41TU1CNEg1Q0lCZ21KRS1NbTFuQ2NjVUtqWml0VVMxc1BLQW5XOUhkSURoemg4a2dsYzZ2TFQxWXZ4VnVHcEFqVmRHTnpsa1JYYVIwMW1fdzNOZw": 1794059142138
   },
   "digest": [
     {
@@ -28061,10 +28057,50 @@
       "d": 1794058660000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@4nhd1",
+      "x": "Cek bansos niknya terdaftar pkh dkk ga, klo iya wassalam",
+      "u": "https://www.threads.com/@4nhd1/post/DfcUMp3H6Pz",
+      "d": 1794058988000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@hellapras",
+      "x": "cek bansos terakhir di postinganku",
+      "u": "https://www.threads.com/@hellapras/post/DfcTdF7E2Y_",
+      "d": 1794058599000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Mattanews.co",
+      "x": "Kesempatan Emas! Pemkab Karawang Buka Pendaftaran Beasiswa Karawang Cerdas 2026 untuk Semua Jenjang - Mattanews.co",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1ZBb3FRWmZuNGxPbzJLdWRjWVMzTUZFb2tPQ1pQQlkwU2dJZUw5UURPR19TSnJoc2RveVh0aHFyRjQ3YTdCOWh0Mng0X0dweWdfSDRIYTYzZVgyekN0bUJjeXo4c1M1SDh1d3JFbTRCRFVsam8yUTRsTjh0aVNwMFMzT0d3MU9nd2pfVlF3b0VvVThrN2pHaDY0T1lfU2JjcnZZSXFrT3lUNkkxdWhZNF8tcFk5QlpJUGJXcg?oc=5",
+      "d": 1794059080000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Progres Bansos Tahap 4 Per Hari Ini: PKH dan BPNT Masih Belum SI - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEMwdTJZZjhZOWNMVk5PTm53bmpmeVNLanBFb09ua2lUY01wZHVtM185aG5EcXhpSW56bUJMeW1rMzQ0OHRlWmxISFlySWlLb2g1ZHFVSnEwZU5FeThsempNakg1QVN1RVVacERUZFVaeVZPaDA2NzZqSy1oVTRGVVVmUm1STG1OczVsRnp5TGhpRFFyYUNIR2E2MFM2RU9uVlZSOTA2dUhCNFd1Q2lXWHJn0gG3AUFVX3lxTE4xa2JoNFlScVRCYVZmODdZbjNaV3kwQWJ6MkZJVmtSQ2JGZGxubkJ4TUptYmdreXJoU0NleHQ5eHBQVzg0aHdvbUxzaWVtUk45YWdsaGYtMzNqYlRzaW5HeGc5dU41TU1CNEg1Q0lCZ21KRS1NbTFuQ2NjVUtqWml0VVMxc1BLQW5XOUhkSURoemg4a2dsYzZ2TFQxWXZ4VnVHcEFqVmRHTnpsa1JYYVIwMW1fdzNOZw?oc=5",
+      "d": 1794058355000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
