@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3j7UgEcJM": 1792825848609,
-    "threads:De3jKZREa9N": 1792825848609,
-    "threads:De3kQBgk55i": 1792825848609,
-    "threads:De3kORlGhY1": 1792825848609,
-    "threads:De3kMZRmdyQ": 1792825848609,
-    "threads:De3kLXIDzNJ": 1792825848609,
-    "threads:De3jtW9m3H9": 1792825848609,
-    "threads:De3jUPbG2WN": 1792825848609,
-    "threads:De3kWTTk4Jx": 1792825848609,
-    "threads:De3kD8fDeom": 1792825848609,
-    "threads:De3j7VjEtRq": 1792825848609,
-    "threads:De3jnCYk9YC": 1792825848609,
-    "threads:De3jf-BEn7j": 1792825848609,
-    "threads:De3jVjhk7GJ": 1792825848609,
-    "news:CBMixwFBVV95cUxNVFcxQmxLODhhYjF1UjNEWHJCdnI1dnRCQmd4NGJqN3pxNVRXOThQNkg4SHJQNThzSGJHZzJhLXprMXdpZ0Vna3Rlck1BNEFub0tldjhOQzdBVzRfcU9HeTVpMGxSdlJ3NG4xQXM5dTRrUWFXVjZNUG5LYUF6WXo4SjZQVURvQVp6WWhEZDY5aXQ0X3NhaURWZ0RKajRoVkQtS3EzSWxlRmlBU2dvWWhqbkg3SHlHUDNxVW1zZnhMUjFVNWdwTUxn": 1792825848609,
     "threads:De3jlE_mTjg": 1792826154016,
     "threads:De3kux-kvx0": 1792826154016,
     "threads:De3kt-uErri": 1792826154016,
@@ -27711,19 +27696,14 @@
     "threads:DfblVOXmFNF": 1794034842993,
     "threads:DfblzpSE0mP": 1794034842993,
     "news:CBMirAFBVV95cUxOZ2ZFRlVublAxdkdiWW5kY3diSlAwZkxfVFdPci0yeGlVTUxGZEdWV0hpZXVqdUs0NFNRUkViR2Q3MVIwbVhlc1ZiSUVWcDVBaVNJLTFUTk5LZktIN3VRNTdwNkYxTXF3RDV1d01PcGhQT043UmJVT0pqdXZMZmJRc3VBUHB6Q1N3c0tKTzZLRC03WTJSdFdoemFSUHlPbVVSeEM4S0tLMktwSzJ20gGiAUFVX3lxTFBRYTZPb1FTNWN3clNyeVZDS3Q5X1VCbU1tRm9oNk00WUZHQjQ4UGg2cFZQQnh5d0hneEFvcVdFWWZfaFhndk5zR09JZkRMeHE0OVg2U2RTX29WaF9sX3VFVVo5bFVpZlpGaDJhVGprTHVOUU1tVjR3NEJWMFhuNzF6YzNidUMtNHJOdXVxSzV2bXY0SUNKSXRkMlpfM3FwYUgwUQ": 1794034842993,
-    "threads:DfbluZbmEPN": 1794035143850
+    "threads:DfbluZbmEPN": 1794035143850,
+    "threads:DfbmHzPibTK": 1794035437226,
+    "threads:DfbnYwgE5b6": 1794035437226,
+    "threads:DfbnKokEkZt": 1794035437226,
+    "threads:DfbnPIBlejq": 1794035437226,
+    "news:CBMiwwFBVV95cUxNS3NQTG4tZVo0S0NkTDVjU2dFbnBsYnJSbHRRamlHcEFNWW5iTjF0UzNKN19TZUVocW9vV3VYekZXQlpaQnpMWnU0eUczV1d3M21TS1YtU3ZKQWdiQnZuZ3FQeHczb2l6WkJ0dWFsUkVybnpjS1hZTzZqdjRXdllqcTFWckRhaGYybGVCMmZaeEloa3R6cWpaQ1BCalNtRkhnbzlaY25mR2ZLZExIWEk0ZjVDOHNxcHJyNkhaWi14dnZfVWPSAcMBQVVfeXFMTUtzUExuLWVaNEtDZEw1Y1NnRW5wbGJyUmx0UWppR3BBTVluYk4xdFMzSjdfU2VFaHFvb1d1WHpGV0JaWkJ6TFp1NHlHM1dXdzNtU0tWLVN2SkFnYkJ2bmdxUHh3M29pelpCdHVhbFJFcm56Y0tYWU82anY0V3ZZanExVnJEYWhmMmxlQjJmWnhJaGt0enFqWkNQQmpTbUZIZ285WmNuZkdmS2RMSFhJNGY1QzhzcXBycjZIWloteHZ2X1Vj": 1794035437226
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dayofnw",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@dayofnw/post/DfbQtDtGLOA",
-      "d": 1794023602000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29213,10 +29193,20 @@
       "d": 1794034623000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Ketik",
+      "x": "Proyek Puskesmas Binangun Cilacap Molor, Kontraktor Diberi Kesempatan 50 Hari untuk Selesaikan Pekerjaan - Ketik",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3NQTG4tZVo0S0NkTDVjU2dFbnBsYnJSbHRRamlHcEFNWW5iTjF0UzNKN19TZUVocW9vV3VYekZXQlpaQnpMWnU0eUczV1d3M21TS1YtU3ZKQWdiQnZuZ3FQeHczb2l6WkJ0dWFsUkVybnpjS1hZTzZqdjRXdllqcTFWckRhaGYybGVCMmZaeEloa3R6cWpaQ1BCalNtRkhnbzlaY25mR2ZLZExIWEk0ZjVDOHNxcHJyNkhaWi14dnZfVWPSAcMBQVVfeXFMTUtzUExuLWVaNEtDZEw1Y1NnRW5wbGJyUmx0UWppR3BBTVluYk4xdFMzSjdfU2VFaHFvb1d1WHpGV0JaWkJ6TFp1NHlHM1dXdzNtU0tWLVN2SkFnYkJ2bmdxUHh3M29pelpCdHVhbFJFcm56Y0tYWU82anY0V3ZZanExVnJEYWhmMmxlQjJmWnhJaGt0enFqWkNQQmpTbUZIZ285WmNuZkdmS2RMSFhJNGY1QzhzcXBycjZIWloteHZ2X1Vj?oc=5",
+      "d": 1793977560000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
