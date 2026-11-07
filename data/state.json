@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De2-Hzpk6CS": 1792806054122,
-    "threads:De2-B_ejzDX": 1792806054122,
-    "threads:De29ZttDkqL": 1792806054122,
-    "threads:De2-AyMEVrZ": 1792806054122,
     "threads:De29rRREgRR": 1792806340246,
     "threads:De29kfGExkp": 1792806340246,
     "threads:De29fxgkoa0": 1792806340246,
@@ -27698,7 +27694,8 @@
     "threads:DfbA9r3ErTR": 1794015333263,
     "threads:DfbAxkVEzTj": 1794015333263,
     "threads:Dfa0weKmalX": 1794015333263,
-    "news:CBMiswFBVV95cUxNTlNkMDdwWGNlUHNFdEpaTEtXRVoxTURVb3IteGZxRWxhdUFjeXZtdlNFZm5CdmhYTThvUVd2RThIQ012N2l5Q1Y2S0RYci1DWmhaS2F0UEN3Y0xTQTNFNGg2SGp5QkJFZ19lOVhzekRnckdGSGFfOEdYYXBFOFIyaFhVTWlvRVRhY2FfYTZKV2EzUkJQSVhxZDU4YTFlSmU2dzZBZXZBTlRzeXcxOTNtcmZabw": 1794015333263
+    "news:CBMiswFBVV95cUxNTlNkMDdwWGNlUHNFdEpaTEtXRVoxTURVb3IteGZxRWxhdUFjeXZtdlNFZm5CdmhYTThvUVd2RThIQ012N2l5Q1Y2S0RYci1DWmhaS2F0UEN3Y0xTQTNFNGg2SGp5QkJFZ19lOVhzekRnckdGSGFfOEdYYXBFOFIyaFhVTWlvRVRhY2FfYTZKV2EzUkJQSVhxZDU4YTFlSmU2dzZBZXZBTlRzeXcxOTNtcmZabw": 1794015333263,
+    "threads:DfaJ7XGGe9A": 1794015639727
   },
   "digest": [
     {
@@ -27920,10 +27917,20 @@
       "d": 1794013260000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@aqilahif99_",
+      "x": "Yang mau beasiswa full, waktu pendaftaran terbaik itu bulan November - Desember😌 Soalnya kuotanya masih ada☺️ Jadi kalian jangan nyari aku yaa klo deadlinennya dh mepet🙃",
+      "u": "https://www.threads.com/@aqilahif99_/post/DfaJ7XGGe9A",
+      "d": 1793986495000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
