@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De39HZpFHmq": 1792839045325,
-    "threads:De38mn6D4Lg": 1792839045325,
-    "threads:De38G7rDsM2": 1792839045325,
-    "threads:De39Me2E1Dn": 1792839045325,
-    "threads:De388iLE3Cg": 1792839045325,
-    "threads:De38UFzE3MX": 1792839045325,
-    "threads:De38563Gfs_": 1792839045325,
-    "news:CBMixgFBVV95cUxQemlTalVwOHJadGJkRDFLVW50LXpTMVdvSDVNRW5sRHZyNjRaWTFhWXJzUm95Q0J2dkdMRG9XcWwtMDNWNG04NGE0dTJZbUd6Y2NFNkpJTTk1UVFFbWpZdThmMlZyVWY0c3V6M05SSzdva2FEM0hRLWY1QVBfc3cyWEZ6OWZ3S0ZXal9KUzgwZXpUNUtxMFZ6MzRrdGYtanNoT0kwUmhrOExRR0ZpR3cwU195TFlDbFJnUms1S2JLdkdPblhFVWfSAcYBQVVfeXFMUHppU2pVcDhyWnRiZEQxS1VudC16UzFXb0g1TUVubER2cjY0WlkxYVlyc1JveUNCdnZHTERvV3FsLTAzVjRtODRhNHUyWW1HemNjRTZKSU05NVFRRW1qWXU4ZjJWclVmNHN1ejNOUks3b2thRDNIUS1mNUFQX3N3MlhGejlmd0tGV2pfSlM4MGV6VDVLcTBWejM0a3RmLWpzaE9JMFJoazhMUUdGaUd3MFNfeUxZQ2xSZ1JrNUtiS3ZHT25YRVVn": 1792839045325,
-    "news:CBMiwAFBVV95cUxPbWd2OU9TY0xBTXV0RDlKZjl6ZUo3bU9fSGZFcHJOOUVjNkwtSENkMTVHYlp6VDhOY2FIS2JxbEJBc2NRdk5JcVhKYzk5dkJPVW84cklaeEh6ZWpHVDZhNEhOMWNiQ3Z3ODZVMDdpTF9lSEcwSlZVZmxJcVNlaktzWGU2emRqZkc0bXFVMHA3THVwVURqRE05RzdleDBVeUZWOEVfRTF2VGItU1Z5eFFTVXpRdVlDc0hqZzh6M01lUkw": 1792839045325,
-    "news:CBMizwFBVV95cUxQMnVWaFlybmJIT3BuLTdiZE50UjBPdy0xd2hfTEZqQXA3aElka0YwVEdWMlhORU1rQmpVRlNlU0NVNUNmSG9Vdk9MM3BvUGl3ZVVhamNKSHBRLW5XSE11R0FURU84Z2VIelA1OU90WEc3aFN0MVluR2dIWmUxN1NocU9neFhQV2twMjlOenFMWnRYbjN4N2piV1AtOUFmMUtaNFgwdWFxdk93NEtEUDdTemN4NXBFd2lJdWMxcHRpdkxxRWZCUVpxZDZ1RTRTb2M": 1792839045325,
-    "news:CBMinAFBVV95cUxOZXlqaDBHdnRWNXBVbGk3LW9oa2puRnpzTFBhZHBJcHdOSjNBT3JicWdBOGl1d1hZdklET0lWeWRNbEFDNUhBZlRpWDZtSjJ5dnhVOGRtYm0wZlJUOGpCa3U4TmtRZ180RFVCczU2WFFnSXBqamtKTldBdUlGeUZVY0Y0R19seWk4N0pGX21Ycm5hellfcklTeUZvLUQ": 1792839045325,
     "news:CBMiugFBVV95cUxPenJDWjdCNFR6djhTNnh1dFZMM3J4dXdLeXV0RktGRmlqZ0g3TXlQR2NMNDN1UG9BN2hFRFQxZzZKZDBkSjFLRTlibllVSjBCNGg3d1cwVHFDVEtPV1NXa2VNNjlSRWpObUlZdWJuNV9WaGhLbGhxTGVZemFCUVA2dnNxZ0dlc3NMRjRueEJQSFlJdUlZZ1RmOTVEbHVTQWtkWlA0Z2I3bkVWUm9ZOGo5eE9mbUlleHVBTWc": 1792839338363,
     "news:CBMixwFBVV95cUxOSzhHWUZfcnpIVVgzQU8zaUxaOVFGcUVJTnJxNWQ0UkdnTk5LeEIzZnlybGlsQVJHd0loMjFXZ0RMWHlFR2tTZzhSZjVVUW5lRXJxeUh1aUdQT3NsQVV5aTk4Z3lZamRYelc4b1ZBVnZzcDQ1bG10NkJQNGw2aUlzbVMzeHBmREx5S0V0SHFSczB2Y2pVQ0dyZ0x1Yks4ZEJtSWw4VWpTMnRBMTJ0V1ZYbEcwdlRaVm5CbS1iX0lmNTRIMVZyZHJJ0gHMAUFVX3lxTE9fdkN5amdYOS1sR1hReGdBZmJ2RnlIMEdvd1ZQZWJNWENlVkx5R0Z6a0x3ZlFIZWNaaUNhdFhOcER5b1dxaTl6RkFWVEZZdTVQOWxGTnpkRmtneEc5Y3FRbWdBODVidDJ2RjlxTFBITmYtZmVMTlQ4Sk1LUFFwOVB5RzhKU0xDUGVXdVlKYXFJX1JfLU1iUTBsdVBCT1BFemliQUhPczBMc0JLbzI2WE5WdVBHUWtXaERjb1ZpeWhsVmhHYTRocnJxTUZ1ZQ": 1792839338363,
     "threads:De3-fvbmVs1": 1792839658149,
@@ -27676,49 +27665,23 @@
     "threads:Dfb-2RTkgRy": 1794048039885,
     "threads:Dfb9ky2kr4t": 1794048039885,
     "threads:Dfb-UzcEZEh": 1794048039885,
-    "news:CBMiugFBVV95cUxObGdFVTU1bVkxNTJHcnNMVXpNakFPQ1RhLUVYZ0pObjB1aFVsRVFsazFKS2oxODNkYnJxTHAwMGRaNWNVeXhud2dLQ1QyTHRtQl9md0xZblQ4QjdpdVU5S3pmQXlWM0hKbkg3ak5YSzJlbDIxSDRZX3BYcUl5R28xNVVwS1FDSE5VNlNkem82VEpyek5QZ3NQOGlHSHVKWG9HVVBFRUFXQkVsTDNsUHM4NnVGcmt5UHFTdUE": 1794048345208
+    "news:CBMiugFBVV95cUxObGdFVTU1bVkxNTJHcnNMVXpNakFPQ1RhLUVYZ0pObjB1aFVsRVFsazFKS2oxODNkYnJxTHAwMGRaNWNVeXhud2dLQ1QyTHRtQl9md0xZblQ4QjdpdVU5S3pmQXlWM0hKbkg3ak5YSzJlbDIxSDRZX3BYcUl5R28xNVVwS1FDSE5VNlNkem82VEpyek5QZ3NQOGlHSHVKWG9HVVBFRUFXQkVsTDNsUHM4NnVGcmt5UHFTdUE": 1794048345208,
+    "threads:DfcAfl-ivYW": 1794048647986,
+    "threads:DfcAevwGYFJ": 1794048647986,
+    "threads:DfcAckdmbTO": 1794048647986,
+    "threads:DfcAWdKmb0D": 1794048647986,
+    "threads:Dfb-7Ijmnfw": 1794048647986,
+    "threads:Dfb_taHD3pl": 1794048647986,
+    "threads:Dfb_Q0JFMw1": 1794048647986,
+    "threads:DfcAP51lkfl": 1794048647986,
+    "threads:Dfb_OqDj2-6": 1794048647986,
+    "threads:Dfb_1KiGfeJ": 1794048647986,
+    "threads:DfcAdQIiFFe": 1794048647986,
+    "threads:DfcAArCo9Jv": 1794048647986,
+    "threads:Dfb_viBiabW": 1794048647986,
+    "news:CBMiwgFBVV95cUxNcmpuWml4RFA2ZXo4WmhCNHhuY2tpRnFNbmNydWhJMlFqLUxRYVR5aV9qZWpld2lnU05qeXpVcFFqUUpwUGFISFR1X1RXYmlkMU9jSjZJQ2hIcW1IbjhiVWROSzZDM3M4SVZrQkRSUEU4Y1RVVDUtQ2lHbkdFU0xkelE2WWh4eEdEN0RBcEdUWnBDV1BhV3dPdG1DU3ctdzlBTDBxUU84ZnppSFpKZE92cDNESUZPNEJPSXNJendXNWNyQQ": 1794048647986
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ekiramadan_",
-      "x": "Kak mau tanya yg nenek saya malah di cek di cek bansos yg bpnt nya masih april sampe juni , yg juli ags sep nya blm masuk² ... apa kemungkinan gaakan dapet lagi kah?",
-      "u": "https://www.threads.com/@ekiramadan_/post/Dfbi1I4FG7r",
-      "d": 1794033106000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@encepnurwahidi",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@encepnurwahidi/post/Dfbk4Brk9MK",
-      "d": 1794034180000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@soenarto8",
-      "x": "Pelatihan tentang marketing Executif Umroh haji di gedung Bank Mega Syariah Jl. Rasuna said gratis ada yang mau enggak",
-      "u": "https://www.threads.com/@soenarto8/post/DfbkjeOGSGU",
-      "d": 1794034009000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@diam_diam.berkembang",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@diam_diam.berkembang/post/DfbkHejoGhV",
-      "d": 1794033780000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29178,10 +29141,50 @@
       "d": 1794047521000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@abits.me",
+      "x": "Kiri video podcast mentah, kanan hasil editan Claude. Dari obrolan podcast biasa, Claude bikinin jadi cerita ilustrasi animasi. Gambarnya digambar sendiri, gerakannya nyambung tiap",
+      "u": "https://www.threads.com/@abits.me/post/DfcAdQIiFFe",
+      "d": 1794048643000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiritokuteiginou",
+      "x": "hayuk kak, kelas gratis cuma dibuka sampe minggu depan kak",
+      "u": "https://www.threads.com/@mandiritokuteiginou/post/DfcAArCo9Jv",
+      "d": 1794048404000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@berndartff_",
+      "x": "Halo! Aku Bernard Arientio Firoskhan , dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Ma",
+      "u": "https://www.threads.com/@berndartff_/post/Dfb_viBiabW",
+      "d": 1794048264000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Medcom.id",
+      "x": "Beasiswa Jakarta Unggul 2027 untuk S2 dan S3, Anggaran Rp100 Miliar - Medcom.id",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmpuWml4RFA2ZXo4WmhCNHhuY2tpRnFNbmNydWhJMlFqLUxRYVR5aV9qZWpld2lnU05qeXpVcFFqUUpwUGFISFR1X1RXYmlkMU9jSjZJQ2hIcW1IbjhiVWROSzZDM3M4SVZrQkRSUEU4Y1RVVDUtQ2lHbkdFU0xkelE2WWh4eEdEN0RBcEdUWnBDV1BhV3dPdG1DU3ctdzlBTDBxUU84ZnppSFpKZE92cDNESUZPNEJPSXNJendXNWNyQQ?oc=5",
+      "d": 1794043875000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
