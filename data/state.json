@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3CW66mB6o": 1792808443450,
-    "threads:De3C6r1E-mH": 1792808443450,
-    "threads:De3BydknwBb": 1792808443450,
-    "threads:De05wHHlDIi": 1792808443450,
-    "threads:DeyjbWcgXsa": 1792808443450,
-    "threads:De3Avf2CNN2": 1792808443450,
-    "threads:DSxJBrREfMS": 1792808443450,
-    "threads:DYL21tdGV-7": 1792808443450,
-    "news:CBMiZ0FVX3lxTE85WlJ1UTE4TVhZR0ZKNkJPbVA1MnhOY3NaNEFDekdwN0U4R0ZvOHk3cnh0RThXQ1RBbFpQV0ZfQmZCb2VKUFppSXBHQVpjMTdtUGhGQ1F4LWp6LWlZT3U1RTFVTlNuTmM": 1792808443450,
-    "news:CBMiqAFBVV95cUxOQ2JoRzY3MUN3ZUdIRWFBRzhfaFpiR2FZMHJWNTNKbzZjRGFXZ3hfWEhWUHVSUVl1ekZFM0tPV2taWkVaSTE0T1Q2SFdENHJ5a0lfYmJIMnRiWHNaYXV1eDcxRllKcGs0cFVLWERvYmlsNHl6UjdMYW5PNzk3cVJXRXlMeU12aXVISEpncEQ0MXNwbkwtUXlXQnMxcGdqWkJYSGY0S1k1akQ": 1792808443450,
     "news:CBMi2AFBVV95cUxNMDJYNlU2OVpXTXc1YmFGNFhNRU9vbTF0NWJLZ2Vlcm00allKU29LaE93cWQwMGtGZGxkdjFYVXhXNHVGR2N2b2tyTmthSzlxS05JZUhwUTZ6MzNnWFNDVTk4d3VGaDA1NHhUNGtlYTlzX01lSzN6a0VLeXVkbzVhNF9HSV9XdFZzQ21FQWNkSUZiYXBLZG9OSHlmNzFWSGRxNk4wTmFSaV9ubDBDcnlad2s4NVFDejJaLW04NUVHVGlndmtYaGpnUW1WU3BpYV9mV2JUb0FtSU7SAdgBQVVfeXFMTTAyWDZVNjlaV013NWJhRjRYTUVPb20xdDViS2dlZXJtNGpZSlNvS2hPd3FkMDBrRmRsZHYxWFV4VzR1Rkdjdm9rck5rYUs5cUtOSWVIcFE2ejMzZ1hTQ1U5OHd1RmgwNTR4VDRrZWE5c19NZUszemtFS3l1ZG81YTRfR0lfV3RWc0NtRUFjZElGYmFwS2RvTkh5ZjcxVkhkcTZOME5hUmlfbmwwQ3J5WndrODVRQ3oyWi1tODVFR1RpZ3ZrWGhqZ1FtVlNwaWFfZldiVG9BbUlO": 1792808737149,
     "news:CBMiogFBVV95cUxPSTBtd3EzMTBBSmNzTFBrTUNHNzdoV19vVVhpSTRkSWM4akw2V2V6bnpCYjdKRGpibXRzT3JOMkVPSFRhSGlTSTgwLTlNTmRWbUZzMHcxV0NibjdVQ3Z2WDF2UUF2VjNmX0NQUHY3R0ZjemQ0eS1OZkpfWElSbFloMTBOOHd1VVo1MUdKSU5RNmc4QzFHZmJVTGREbmtBVDJuQ1E": 1792808737149,
     "news:CBMisAFBVV95cUxQYmxyaUFyQnlyR08zZGdEaTFHSXR4ak9LOGszeXNSc09KdjlIcm5wV3IxUWltMFhwM1lpenRmWDNSQm14VTRCYThqNHV1R0cyTXdIckFsbThWNXF1OGV1Zmw0cFZBYzRWNTVhZWJ2cHBPeTF0OTVhbEJZYUZZcXZDQ0tZNWQzZDVSU1JTXzV3UmF1bk5zemlmVjM1Wk9oQVQtUUgzeVo4Z3FHRFBneVpYNA": 1792808737149,
@@ -27708,7 +27698,10 @@
     "threads:DfbENh6j_nj": 1794017746276,
     "threads:DfbEJ38j5gV": 1794017746276,
     "threads:DfbEFljjxuz": 1794017746276,
-    "threads:Dc-CIZ7CbFA": 1794017746276
+    "threads:Dc-CIZ7CbFA": 1794017746276,
+    "threads:DfbGEBfGMLL": 1794018036645,
+    "threads:DfbFguEE-_j": 1794018036645,
+    "news:CBMipwFBVV95cUxPSmZPdFBremctbTdEOVAwVVU5d0V1N1o1aGRuSmZQQmE1emFmVmNlZnVraUVnZ05IWm41YmhZMVFxei1zQlFCTTBWSU1ZMk5IekFhMDhUMWQ5UFpfbHI0TURjaVlaRXdwcUJ1aXN3WjBnVEh3MHB3Yml5ODFkWEdSbG9OVEdqUVpiUUdCdjhic3FaMi0xUjRkc3lnckV3SzZnOWxtblBldw": 1794018036645
   },
   "digest": [
     {
@@ -28230,10 +28223,40 @@
       "d": 1794016987000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yanisantrit",
+      "x": "Jujur ya, pernah lihat yang mampu dapat bansos, yang benar-benar susah malah kelewat? 😥 Jangan diam, cek Desil kalian sekarang! Kalian Desil berapa? Sudah usul-sanggah belum? Tuli",
+      "u": "https://www.threads.com/@yanisantrit/post/DfbGEBfGMLL",
+      "d": 1794018024000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Betul kak, Sensus Ekonomi masih cleaning jadi belum masuk DTSEN. Kalau mau update karena data luas rumah 245m itu gak sesuai, ada 3 jalur resmi: 1. Mandiri lewat aplikasi Cek Banso",
+      "u": "https://www.threads.com/@meta.ai/post/DfbFguEE-_j",
+      "d": 1794017734000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Akurat Sumsel",
+      "x": "Rekrutmen CPNS 2026, Mahkamah Agung Buka Lebih dari 4000 Formasi - Akurat Sumsel",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmZPdFBremctbTdEOVAwVVU5d0V1N1o1aGRuSmZQQmE1emFmVmNlZnVraUVnZ05IWm41YmhZMVFxei1zQlFCTTBWSU1ZMk5IekFhMDhUMWQ5UFpfbHI0TURjaVlaRXdwcUJ1aXN3WjBnVEh3MHB3Yml5ODFkWEdSbG9OVEdqUVpiUUdCdjhic3FaMi0xUjRkc3lnckV3SzZnOWxtblBldw?oc=5",
+      "d": 1794009600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
