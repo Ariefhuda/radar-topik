@@ -27726,19 +27726,10 @@
     "threads:DfdW4YEgeO7": 1794094242900,
     "threads:DfdWyrVgQMM": 1794094242900,
     "threads:DfdWt0ogfAG": 1794094242900,
-    "threads:DfdWm8Kgfq4": 1794094242900
+    "threads:DfdWm8Kgfq4": 1794094242900,
+    "threads:DfdXzKIkh3u": 1794094533718
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "ChatNews.id",
-      "x": "Puslapdik Belum Umumkan Jadwal Beasiswa Unggulan 2027 - ChatNews.id",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ISXFETDVFVF90YVh3V0xPNmY5RXA1V0R4ZXFBcWs3Q2FOeUlVbUFNaEdYUWJhMUFEX2VhREdVbWVXbWhEV3JrU0tMRWZGbDcxbmJXWVZEbkJwYmMwT1E?oc=5",
-      "d": 1794058660000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29228,10 +29219,20 @@
       "d": 1794093807000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@talhahahmad30",
+      "x": "bansos cair https://sinergiupdate.com/pkh-dan-bpnt-tahap-4-segera-cair-siapa-saja-yang-berhak-menerima-bansos",
+      "u": "https://www.threads.com/@talhahahmad30/post/DfdXzKIkh3u",
+      "d": 1794094431000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
