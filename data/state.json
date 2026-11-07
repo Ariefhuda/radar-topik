@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De2NeOJkmC0": 1792822560490,
-    "news:CBMi1AFBVV95cUxNN0Y4ZUV0VEVMSTR3QUczcVp1cXhjNFpteE5wRnRrU1hSMWFVZXhrMWJ5VVNxNWxTYUlwX3VoQWtic3Qxc1lyNVZERG9jTDdkbG5zRWFMS0FLNndfNDE3Z3c5dlc5NWZKSWNPWkotbi11UXEzdFB1UjZEZjBiWmNlQkNYdktUM2Y5dzR0eDV3ZndFVWE3OUIyV0Y5cElvM091Ym9JM0l1LWVYMjU0cFNXRWJOQ3E1LXd2bml4MjYyNWdKaU8yS0FxZkVMQmVuQzlIQW5kWdIB1AFBVV95cUxNN0Y4ZUV0VEVMSTR3QUczcVp1cXhjNFpteE5wRnRrU1hSMWFVZXhrMWJ5VVNxNWxTYUlwX3VoQWtic3Qxc1lyNVZERG9jTDdkbG5zRWFMS0FLNndfNDE3Z3c5dlc5NWZKSWNPWkotbi11UXEzdFB1UjZEZjBiWmNlQkNYdktUM2Y5dzR0eDV3ZndFVWE3OUIyV0Y5cElvM091Ym9JM0l1LWVYMjU0cFNXRWJOQ3E1LXd2bml4MjYyNWdKaU8yS0FxZkVMQmVuQzlIQW5kWQ": 1792822560490,
     "threads:De3dGOimMCv": 1792822843438,
     "threads:De3d0HxAc_z": 1792822843438,
     "threads:De3dNxAmDb0": 1792822843438,
@@ -27701,19 +27699,11 @@
     "threads:DfbggH0Et2y": 1794031852058,
     "threads:DfbfjFSE_kJ": 1794031852058,
     "threads:DfbfeP-EgDB": 1794031852058,
-    "threads:Dfbflmljy7Q": 1794031852058
+    "threads:Dfbflmljy7Q": 1794031852058,
+    "threads:DfbgfwfFLAm": 1794032138273,
+    "news:CBMi3wFBVV95cUxOLUdncjdlSW16cjFNalZtTmdoSC1JZEY5OS1abnBiRVpERENyV05VUHE1NGthZTlacUxQNjlKOWxhMVFyYWdGSnc1ckFUeWN6dmlHbFlRSWw2MHNQZnlvblNoRmx5bWpVSGZrXzBpZmdDZnh1UFhSUFZPR0RITGwxY3lhU1BPZE91NWFMbGNuUEtQN3ptMGptc2xpQXpfbnBYXzZBUGx6TnJtRG5mSWhxNExYTzBpRGE1bWMydVpVcENqWXhmM0x5UjZXWk5LdkNQcDM4WGx0VnNUTU9RUnRn": 1794032138273
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfbNvp6D5yh",
-      "d": 1794022051000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29203,10 +29193,20 @@
       "d": 1794031418000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@devita_audina",
+      "x": "Aku jadinya pake aplikasi cek bansos tapi ga ada buat masukin suratnya. Sekarang tulisan di apl nya data siap dikirim.",
+      "u": "https://www.threads.com/@devita_audina/post/DfbgfwfFLAm",
+      "d": 1794031882000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
