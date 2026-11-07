@@ -27686,7 +27686,12 @@
     "threads:DfdDN1sASlS": 1794083734660,
     "threads:DfdC2VwG5Bt": 1794083734660,
     "threads:DfdCxV0DdKY": 1794083734660,
-    "threads:DfdCrDhEtv3": 1794083734660
+    "threads:DfdCrDhEtv3": 1794083734660,
+    "threads:DfZPwh1iU5P": 1794084340411,
+    "threads:DfdEhSWmZu8": 1794084340411,
+    "threads:DfdEQieAY7F": 1794084340411,
+    "threads:DfdDhflEide": 1794084340411,
+    "threads:Dd5h9HVGt34": 1794084340411
   },
   "digest": [
     {
@@ -29191,7 +29196,7 @@
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
