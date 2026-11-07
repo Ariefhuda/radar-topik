@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3blhnnwGz": 1792821957207,
-    "threads:De3cLSRoIVR": 1792821957207,
-    "threads:De3c3QSjz6B": 1792821957207,
-    "threads:De3cFyegXHu": 1792821957207,
-    "threads:De3cVrEIHm9": 1792821957207,
-    "threads:De3bnWGkrgm": 1792821957207,
     "threads:De3Zp43jons": 1792822241373,
     "threads:De3ZqR_EXhg": 1792822241373,
     "threads:De3cEQSAiBV": 1792822241373,
@@ -27700,29 +27694,12 @@
     "threads:DfbU9iYmCmN": 1794031249010,
     "threads:DfbSMvmEpfs": 1794031249010,
     "threads:DfbecnuGjya": 1794031249010,
-    "news:CBMirgFBVV95cUxNajRkaXNCcmFmMjE4dVM3cTd0WWxJaXNYT3lUbFl1NV9pTzE3b0g1U2tpLXRQOFZ5bXprbDAtb1VxMFNqei1kQXpRbEtrVWlOY3UteG9EVGJFQ3RfQUlGQzJDNmNIc2JiYWNBWC1RNFRlelVRV0JNUGl3SmctcThDVkphenVRVHZ5OWVhRkpGd3JZU3VvSWJTQ0tzT1ZqV09iODZ1cVo0Y3RpZFZ0cHc": 1794031249010
+    "news:CBMirgFBVV95cUxNajRkaXNCcmFmMjE4dVM3cTd0WWxJaXNYT3lUbFl1NV9pTzE3b0g1U2tpLXRQOFZ5bXprbDAtb1VxMFNqei1kQXpRbEtrVWlOY3UteG9EVGJFQ3RfQUlGQzJDNmNIc2JiYWNBWC1RNFRlelVRV0JNUGl3SmctcThDVkphenVRVHZ5OWVhRkpGd3JZU3VvSWJTQ0tzT1ZqV09iODZ1cVo0Y3RpZFZ0cHc": 1794031249010,
+    "threads:DfbfSseDlop": 1794031541223,
+    "news:CBMiugFBVV95cUxPVUl6bzRwUkZ4bUFkQVdCSWFiZkdsLVJqU20zYlhwcDlCbVdDUkZFLWFTWVR3QTFfbzNiMVYyS1VXMkdaLWVuVHBmakFyd2VCemN5amhVZjgwbFF4aVVWN2NDelUxZUI4c2RyZGtCMURyd3ZFTjJGNndwenJGNXFUZFpiMUNXZlFYdV93MTJIZkpzNllVdHp1WTBJVElKcjJpa2hHY2pTZjk5SWdTMG9INWMtTGxKSnA0dUE": 1794031541223,
+    "news:CBMimAFBVV95cUxNTnVWdFRaa1Judkx0ZVZyRm83UGxDT2dPeVo2d1hEcEFTUEowbE95UXpoRUhHbFJyX3ZlcUdWSHlyalBGMWdjUG8zdDZUdXF5REFVWm9taTFCRDhCdEw4OXBZajFhLTRRUHdzaGRsR3dyY3hIQzVKR2NZUFp5bVF6dkEwZ1gtUGhxZmxZZXVlemgyM05XYlJUVdIBngFBVV95cUxOWFpucXFqbThESFdYaTBzbG9TQ1p2NDBHYmwyWWVSWXcydUJKb1Q5MWthNnZxRy1uelFhbkJ2akstTU5nYklGYzFnLW45N1Z5MGpiNnpMcmJ0d29MWElfMVpDZDZnYmlVcmVnaFdlczlaQjVQTTdjczZWTUUzOWhqaTFpOVhKNFdKTGNjQVp0c1U3R3dYSkZzbUtOR0JSdw": 1794031541223
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sensei_academycenter",
-      "x": "Minsei mau umumkan Jumat Berkah🌸😍 Ada yang mau ikut kelas gratis bahasa Jepang batch 2? Untuk semua umur? Mulai dari nol ya, free 1 bulan, dapat sertifikat✅ DM minsei \"mau kelas ",
-      "u": "https://www.threads.com/@sensei_academycenter/post/DfZM5hukwhM",
-      "d": 1793954498000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nadia_umi",
-      "x": "mau kelas gratis minsei",
-      "u": "https://www.threads.com/@nadia_umi/post/DfbD6Fkk67F",
-      "d": 1794016893000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29202,10 +29179,30 @@
       "d": 1794028853000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Suara 'Aisyiyah",
+      "x": "Taman Pustaka ‘Aisyiyah Al Arqam Tlogowungu Adakan Pelatihan Pembuatan Buket Uang dan Kerudung - Suara 'Aisyiyah",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVUl6bzRwUkZ4bUFkQVdCSWFiZkdsLVJqU20zYlhwcDlCbVdDUkZFLWFTWVR3QTFfbzNiMVYyS1VXMkdaLWVuVHBmakFyd2VCemN5amhVZjgwbFF4aVVWN2NDelUxZUI4c2RyZGtCMURyd3ZFTjJGNndwenJGNXFUZFpiMUNXZlFYdV93MTJIZkpzNllVdHp1WTBJVElKcjJpa2hHY2pTZjk5SWdTMG9INWMtTGxKSnA0dUE?oc=5",
+      "d": 1794028674000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "selalu.id",
+      "x": "Cara Cepat Cairkan Bansos PKH 2026, Cukup Lakukan Cara Simple Ini - selalu.id",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnVWdFRaa1Judkx0ZVZyRm83UGxDT2dPeVo2d1hEcEFTUEowbE95UXpoRUhHbFJyX3ZlcUdWSHlyalBGMWdjUG8zdDZUdXF5REFVWm9taTFCRDhCdEw4OXBZajFhLTRRUHdzaGRsR3dyY3hIQzVKR2NZUFp5bVF6dkEwZ1gtUGhxZmxZZXVlemgyM05XYlJUVdIBngFBVV95cUxOWFpucXFqbThESFdYaTBzbG9TQ1p2NDBHYmwyWWVSWXcydUJKb1Q5MWthNnZxRy1uelFhbkJ2akstTU5nYklGYzFnLW45N1Z5MGpiNnpMcmJ0d29MWElfMVpDZDZnYmlVcmVnaFdlczlaQjVQTTdjczZWTUUzOWhqaTFpOVhKNFdKTGNjQVp0c1U3R3dYSkZzbUtOR0JSdw?oc=5",
+      "d": 1794030540000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
