@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De23avQE8Tb": 1792809055572,
-    "threads:De3DZ-gCINK": 1792809055572,
-    "threads:De3C_W7l0yP": 1792809055572,
-    "threads:De3CmHLCJlJ": 1792809055572,
-    "threads:De3EQw3iOol": 1792809055572,
-    "threads:De3ECobkRe2": 1792809055572,
-    "threads:DcGX9tkk30n": 1792809055572,
-    "threads:De3ESPlj3nB": 1792809055572,
-    "threads:De20lgKE0vs": 1792809055572,
-    "threads:De3DaOkkzMU": 1792809055572,
-    "threads:De2-sfek2AT": 1792809055572,
-    "news:CBMirgFBVV95cUxQTGRqQndkR2NjcjNQVFRoUENiQnJfSi1TWldhb3E3a2tKUW8yZ2FKTjBiYjdENkZIbjQ2Qzk5SGllWi02a0hYM1BkdmowQV9raXBjMVRQYW9WYkZqTHYyWnJUeHN2QVVzRjV4ZExrdmFmRk5YNzBvUmt3SFduVWxZMUJwVFZ4bE9pMGNuYzhLS2gxeERYSTc2QW1RSWF2ZS04OE1LZTlfaWlscXhFRmc": 1792809055572,
     "threads:De3EurfCWOA": 1792809347971,
     "threads:De3D-T9Abjy": 1792809347971,
     "news:CBMizgFBVV95cUxPajdBdXNIczVHaGhNV3c0S0VLVUpFZWdZZzdaNFJRTVBtejhEVnl4eFFQaVFrRVNGZHhHb05BZ1J5bFBBT2x2T1NzM1ZlRmRnTzlvcG1pWnpKS2N4V1ZPLWtzUTFPQnA5bzJDbS1pOUpBczNheWdWa3ZXX3FHbkU0cEp1R3FObmdkdFAxMGJSWV9pTFpyTWtzNTREODA5R3VuTVJaSDRpazFRV0xBdHFNdUpjTXI5VE5VNzY4Y0hSMFE4MGxrTk9fVzd0eWk1Zw": 1792809347971,
@@ -27702,7 +27690,9 @@
     "threads:DfbFgXyjwcv": 1794018335774,
     "threads:DfbFZanEu5O": 1794018335774,
     "threads:DfbGpF9EhVG": 1794018335774,
-    "threads:DfbFO97Ep5z": 1794018335774
+    "threads:DfbFO97Ep5z": 1794018335774,
+    "news:CBMirwFBVV95cUxNQkR5ZHc0UlJxNWhUVkdMNEdRakZVLVlSeWp1b0Rzejl2QWFZMlExS1VJZlRLelBMczBBcDFLWFVMd0Npa25yUFpxbENUUFJKaVN6U1hmLU5XT21ncllHYi01R2JnS1VFbVdQNG1WV3VHV01fbEsxTE5hRjFzYWE0WWVIS1pWLUJPeVlIOWZ3OVBpY0Nmdmo3blVrN0tDNWVRMlc0eXhrT3RVdTBQVzI4": 1794018654646,
+    "news:CBMiggFBVV95cUxQdl96TGVTaGY0UkJRN1lPekFUT3NRdTlZUkVGc3JWMlBpN05jZGJ2eHdsUEphWnhfUzlFSDFmMy1vVjNfZ05hMlNNZndBRDBieXhBS05pQWdyajJGc2NUU0pVc0FXdHBvaW5KOVdaUko4Sk9TWG1jdGV1c0hVSUwydlFn": 1794018654646
   },
   "digest": [
     {
@@ -28264,10 +28254,30 @@
       "d": 1794017588000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Elshinta",
+      "x": "Cara mencairkan bansos BPNT November 2026 Rp600 ribu lewat ATM - Elshinta",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkR5ZHc0UlJxNWhUVkdMNEdRakZVLVlSeWp1b0Rzejl2QWFZMlExS1VJZlRLelBMczBBcDFLWFVMd0Npa25yUFpxbENUUFJKaVN6U1hmLU5XT21ncllHYi01R2JnS1VFbVdQNG1WV3VHV01fbEsxTE5hRjFzYWE0WWVIS1pWLUJPeVlIOWZ3OVBpY0Nmdmo3blVrN0tDNWVRMlc0eXhrT3RVdTBQVzI4?oc=5",
+      "d": 1794016232000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Elshinta",
+      "x": "Daftar 5 bansos November 2026: PKH Tahap 4, BPNT, hingga BSU - Elshinta",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdl96TGVTaGY0UkJRN1lPekFUT3NRdTlZUkVGc3JWMlBpN05jZGJ2eHdsUEphWnhfUzlFSDFmMy1vVjNfZ05hMlNNZndBRDBieXhBS05pQWdyajJGc2NUU0pVc0FXdHBvaW5KOVdaUko4Sk9TWG1jdGV1c0hVSUwydlFn?oc=5",
+      "d": 1794017445000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
