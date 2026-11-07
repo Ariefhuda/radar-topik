@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiwAFBVV95cUxPS1h1d2FVT1dzZVBQWXpYN2s3SmhWbmJMUVZwWHpCbDhpTzE3MWVJVmFaU0RELXlhd2FsMlJqVUR6VFpwTzFPUm8tdUNoWXhLOHNNMjJNZkFyazVTQlRkdkhYRjlNMGl2SlhxZjdROUY4SXcxVHFwek5BRUZGN29PSUV0QWkya3JZdmVZMXFCYUE4UE1zeDlxY1hoOHhYcDNscjc2eXNYeXJRSmNOczVqZ3hfWU5KWEJPQll5cmg4ZVDSAcABQVVfeXFMT0tYdXdhVU9Xc2VQUFl6WDdrN0poVm5iTFFWcFh6Qmw4aU8xNzFlSVZhWlNERC15YXdhbDJSalVEelRacE8xT1JvLXVDaFl4SzhzTTIyTWZBcms1U0JUZHZIWEY5TTBpdkpYcWY3UTlGOEl3MVRxcHpOQUVGRjdvT0lFdEFpMmtyWXZlWTFxQmFBOFBNc3g5cWNYaDh4WHAzbHI3NnlzWHlyUUpjTnM1amd4X1lOSlhCT0JZeXJoOGVQ": 1792853148285,
-    "news:CBMiwgFBVV95cUxNc0dITl9tVnZKZmVFZi1CWjZjWTVrRE53ZUZocS1Jb0dSNGdzQUc1bnlNTmhPc21ib1FqOWVCV3ZfYzAxRklUbjJRMTRKUW9Lbkwwc1BjRzRFbTlOSGpidFkwM2t0VkMwaWp1QzJ0dXpZNklUTkpEVmJ6eTZ1ZVhURlVtcmtYS05BaFh5cldhQmx1blZKcGZwZGkwem52aGp0Q2VDTHNoVWlNRl92dzFDQURPZ3AxbE9yRldPb3dtRWJRQdIBwgFBVV95cUxNc0dITl9tVnZKZmVFZi1CWjZjWTVrRE53ZUZocS1Jb0dSNGdzQUc1bnlNTmhPc21ib1FqOWVCV3ZfYzAxRklUbjJRMTRKUW9Lbkwwc1BjRzRFbTlOSGpidFkwM2t0VkMwaWp1QzJ0dXpZNklUTkpEVmJ6eTZ1ZVhURlVtcmtYS05BaFh5cldhQmx1blZKcGZwZGkwem52aGp0Q2VDTHNoVWlNRl92dzFDQURPZ3AxbE9yRldPb3dtRWJRQQ": 1792853148285,
     "threads:De4YiWBDr13": 1792853442662,
     "threads:De4YO3OIDlD": 1792853442662,
     "threads:De4X19mFASm": 1792853442662,
@@ -27609,7 +27607,13 @@
     "threads:DfcZ9_OGs1o": 1794062436564,
     "threads:DdKCCcQkj1Q": 1794062436564,
     "threads:Dbzoy4wCl1i": 1794062436564,
-    "threads:DfcZsP0iWjR": 1794062436564
+    "threads:DfcZsP0iWjR": 1794062436564,
+    "threads:DXHz3Wsk02h": 1794062742564,
+    "threads:Ddfn1UPgZdz": 1794062742564,
+    "threads:DYgv9STkZOO": 1794062742564,
+    "threads:DR5xKtKkuPW": 1794062742564,
+    "threads:DfcadBwE3Hy": 1794062742564,
+    "threads:DfcaSRzkxk2": 1794062742564
   },
   "digest": [
     {
@@ -28441,10 +28445,30 @@
       "d": 1794061887000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kesy.abiku",
+      "x": "cek lwat google atau apk cek bansos ka",
+      "u": "https://www.threads.com/@kesy.abiku/post/DfcadBwE3Hy",
+      "d": 1794062268000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kesy.abiku",
+      "x": "bisa ajuin sendiri lwat apk cek bansos atau perlinsos kak klo gk ke kelurahan bisa kak",
+      "u": "https://www.threads.com/@kesy.abiku/post/DfcaSRzkxk2",
+      "d": 1794062180000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
