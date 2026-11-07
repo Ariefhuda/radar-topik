@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3NyIPkc2f": 1792814456161,
-    "threads:De3NKzGjVGx": 1792814456161,
-    "threads:De3ND52Dr0m": 1792814456161,
-    "threads:De3NGuyE8o7": 1792814456161,
-    "threads:De3OVaQALlg": 1792814456161,
-    "threads:De3NQtDn-7v": 1792814456161,
-    "threads:De3NLe9n3fH": 1792814456161,
-    "threads:De3NHT0knOg": 1792814456161,
-    "threads:De3Ob7oEcS2": 1792814456161,
-    "threads:DbCg8eZDQNH": 1792814456161,
-    "threads:De3OXVhCWuQ": 1792814456161,
-    "news:CBMia0FVX3lxTE43dlRMM2VKdHo5TjE3dEdDMEhSMzRDNm1pMlVsTld0MWtsbUVkQnNpbTlPaVo2ZGdwWWRyTWpjS0tnZkt4TG91akl1Uzl6dWV0dWxwdExjeDVrdzExR09kQmVhdGZ6NWc0MlBj": 1792814456161,
     "news:CBMixAFBVV95cUxNWFRMSnY3S28wVzEzeTlVQWxCWjZpNXhaMERTbG5ZN3lCanRVNUQ0UVhCZkFRYWNRRFZMN2FsdFpGNEVuV18xUUt5dE5DZ0R0WmlYSWVXUURxQkZCTVhNSXdZYktxVmJjQU9HZlU2VzluM2E4elcxekJXRVFGRy1YYkxlbW00X3RTWVJDZ1FaVGRaVk9KamVmTnV4RzhFR0pPRVNEMWhKMVlDNENYcF9fdWN4RW9LVVpqVllBNWZVb3F3cDFK0gHKAUFVX3lxTE5LbUdUeUZvcVFyYjZaM0wzbnhBRHU3VTFFOTRMZ3NRamw0UlZEQ3BVY1BsTnhHaWtRSWtqYVBnVjJoRnV1anFPQ1BoWHA5NmNIM21ZOWZLbDEzRTFtejMxNGRzX0tiS2ljTUM2WDMzREZSNnhEWUQ4UTlodFRDR3dlNm9nWUlWcDd2R3lpRURwS3dBcmlMZkdlTFlNY0hHcFFhdW5lUHRkdWt1R3EyMnFDN3dTZVNXRkVwYlo4NFBnR3FRaE5CYjZXU1E": 1792814741524,
     "news:CBMiygFBVV95cUxPVkwwUUxxU1lfMVZrQ190cTV4b09haFpnMEdOd0ViTXJvNERSUTJwbVN3WjhRZ1JvTEZ4Z2tMdWstX3dwbnI2ZDB1anAtRXk5cEQ3U184YWtKZTZRaUhWUnEwcjlBTnVvaWNibVV5VHczaTNpSmdfWTJXb3J6MWswLW9ieEEwbHpjb05PNnBfY0RYbkFPcGtLeHd5NzZGUi1FdVkyNjV2Sy10ZWVlR0dJYzIwOE5wbEw4dk9DcGZSUHBKaUJIZllUSUZB": 1792814741524,
     "threads:De3O420koZb": 1792815040985,
@@ -27708,7 +27696,10 @@
     "threads:DfbP_1oGLFh": 1794023737385,
     "threads:DfbPmepkwbS": 1794023737385,
     "threads:DeCdOVHEnuC": 1794023737385,
-    "news:CBMilwFBVV95cUxNaUM3RHRnSlA0VmJfemZKcGl3SXg5VTNwUS1ReFpIV203SUdtX2J6VTJwRm5xRllzcFRYV2pGN0pnYnBMU29HR2oyZnl4UVdlZzVNQS1KTmFTQkpBeTQ2LVNMbFNUb3RFNzJBMF83M1dDTGtEbHdHczNweHNQeWpsdkY2dFhKMUxSZFZHUUR3YnFrQ3ZiR29Z0gGfAUFVX3lxTFBINVY4dWgzbWdYR0VIUWtpSUVVX21aTTlKaDR1RFM1bkVXamkxZ002WVA0ei1QYTQ0bENKTmllbHRGdlB5NkNYR01pNDktcXRKS1NuLVp1YUxnWWdGQ0RjZGF1WUZhTGhLNTNjU0hhS2J6RHVCdHAxQ1FiUmF0SFo2bGxKTEJSTTIyeHdzdEp2M21oN0xGXzZISGlrYnpwYw": 1794023737385
+    "news:CBMilwFBVV95cUxNaUM3RHRnSlA0VmJfemZKcGl3SXg5VTNwUS1ReFpIV203SUdtX2J6VTJwRm5xRllzcFRYV2pGN0pnYnBMU29HR2oyZnl4UVdlZzVNQS1KTmFTQkpBeTQ2LVNMbFNUb3RFNzJBMF83M1dDTGtEbHdHczNweHNQeWpsdkY2dFhKMUxSZFZHUUR3YnFrQ3ZiR29Z0gGfAUFVX3lxTFBINVY4dWgzbWdYR0VIUWtpSUVVX21aTTlKaDR1RFM1bkVXamkxZ002WVA0ei1QYTQ0bENKTmllbHRGdlB5NkNYR01pNDktcXRKS1NuLVp1YUxnWWdGQ0RjZGF1WUZhTGhLNTNjU0hhS2J6RHVCdHAxQ1FiUmF0SFo2bGxKTEJSTTIyeHdzdEp2M21oN0xGXzZISGlrYnpwYw": 1794023737385,
+    "threads:DfbRjoWnxgt": 1794024056939,
+    "threads:DfbRd15AcoB": 1794024056939,
+    "news:CBMizwFBVV95cUxOQWhhOVFiWGphU3FrVDlIakVDZExGTzY5LUF6WU9mNmNJN2dGX3lDX1VGdFMzTkRYZ1BlMGdWRmlaX0t4SGlfQjJZd1hVc3drTFd4d1k5Y3paa25MS3lkZzZXTDlGSXFwcGwwdUl1QTlTem91bEg4ZndwMXpvZ2h6UmFQT09IQXR3TjRLMXlXa0dadVpSS2xMMm8xd3RkTG5aWDJuSkdRV0tEcHZHUEY3OVVsM250UVhPT0p5UlpKMWdRa3BzYlc4WGpOYm0wNGPSAdQBQVVfeXFMTTFhOVBHamxiSzBPUkN1NWVwMXBfUllnMktNZVVMdWs0QjlRNEhUTkNOaUtjZ1g2TFhDTFY5eFo3T1haNFl4Qmh3RG53NHktZFpxbzQ2enA5SVlSZXhhY3hlSDZQTG1jdGJoSWJCV1FjSkxlbHlKZVFtd0drb18zaHVVV2dOT29kZWhGRmNSR0ZXU1BJMk1ULXAwN0JodU9oVm9qa0xOQURrTl9SOWdPMXUzT0hOalBwVl82c3l3b1huTENSWXo4TTBVU3JkX19qeEt5RXQ": 1794024056939
   },
   "digest": [
     {
@@ -28920,10 +28911,40 @@
       "d": 1794019350000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sie_val_ven",
+      "x": "Jangan kamu, anakku yang disabilitas berat aja di cek bansos tidak terdata disabilitas pdhl data anakku sudah ada di dinsos tp kenapa g masuk di sistem.",
+      "u": "https://www.threads.com/@sie_val_ven/post/DfbRjoWnxgt",
+      "d": 1794024049000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "@updatepelatihan",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "📱 Pelatihan Gratis Digital Marketing 📱 💡 Daftar Pelatihan: 1. Digital Marketing (Social Media Organic) - 9-13 Nov 2. Persiapan Sertifikasi Digital Marketing Batch 6 - 9, 11, 13,",
+      "u": "https://www.threads.com/@updatepelatihan/post/DfbRd15AcoB",
+      "d": 1794024002000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos PKH dan BPNT Tahap 4 Cair November 2026, Pemilik KKS Baru Dapat Saldo Dobel! - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWhhOVFiWGphU3FrVDlIakVDZExGTzY5LUF6WU9mNmNJN2dGX3lDX1VGdFMzTkRYZ1BlMGdWRmlaX0t4SGlfQjJZd1hVc3drTFd4d1k5Y3paa25MS3lkZzZXTDlGSXFwcGwwdUl1QTlTem91bEg4ZndwMXpvZ2h6UmFQT09IQXR3TjRLMXlXa0dadVpSS2xMMm8xd3RkTG5aWDJuSkdRV0tEcHZHUEY3OVVsM250UVhPT0p5UlpKMWdRa3BzYlc4WGpOYm0wNGPSAdQBQVVfeXFMTTFhOVBHamxiSzBPUkN1NWVwMXBfUllnMktNZVVMdWs0QjlRNEhUTkNOaUtjZ1g2TFhDTFY5eFo3T1haNFl4Qmh3RG53NHktZFpxbzQ2enA5SVlSZXhhY3hlSDZQTG1jdGJoSWJCV1FjSkxlbHlKZVFtd0drb18zaHVVV2dOT29kZWhGRmNSR0ZXU1BJMk1ULXAwN0JodU9oVm9qa0xOQURrTl9SOWdPMXUzT0hOalBwVl82c3l3b1huTENSWXo4TTBVU3JkX19qeEt5RXQ?oc=5",
+      "d": 1794023020000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
