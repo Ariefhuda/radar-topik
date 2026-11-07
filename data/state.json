@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3wuYTGTaV": 1792833348719,
-    "news:CBMirAFBVV95cUxQRzVyQy1KMmsxbXYtUUVUYkM1dkcwenI0MjBNVEpBUko2YVRWMkx4dVNlM1JLZGxOcmpLbHQwSkEzN0VadWNJVEJTb3hPaGkwZVM4Vjl3Y2UxWmk1RTdrMUJGa29DeTdxeWI3U0ZNX3M3OFZKOWpCVEstRDk4a0JSUzVMY1l2TjRtbXYtRm5TSmJ1N2FMZEVwdVpOdDB6RDU2Sng2bFhxVFgwaDR10gGfAUFVX3lxTE9oZmoxQVpUQzhCOHVQV1ZEdF9sTTlOLXRGWXQ5MG1OR3NUY2puZ2RJNnIzUU1ZdWcwUTNsMDJVY09ISGhTZnMySEhnSnEwbTZvcVppUTBCNUVnRUd1ZkpCS2JCODRvYmRjTHZseVQtRzBHYjNZTFRTYUV1cUsyX0lPbkhFSTBRQVRjOU5WVFRDMkZEbUpMaks4a3hkZUR3WQ": 1792833348719,
-    "news:CBMi5gFBVV95cUxPTDFuekRuTmFlUWlYOFd4WjR1UzNQQUtra2RuT29hWTlGX1pEUGs0RXNxalJUUEtqcDM4YjQyTkMyOEEtTG5ZWTNNTVQ4MDBJckRRNlJrbThKWEE1c2Rpb3ZZS0s2MkJoTHVNQ2QxNC1PRWZYM080a2VwdzBROW1SUW56MTYwZkpFZzZRbHVDWDRVTy1ZWDA5ZHhwMGFoRXo1dVozaG8yR1lPeXk0QW9YWVB6YVp0aWtUaWhRQTVGTE5vVUtNMTk1czBoS2RTb2Vvc1JOUjc4aUdnMm1MX2VEUmVVNzNJZ9IB5gFBVV95cUxPTDFuekRuTmFlUWlYOFd4WjR1UzNQQUtra2RuT29hWTlGX1pEUGs0RXNxalJUUEtqcDM4YjQyTkMyOEEtTG5ZWTNNTVQ4MDBJckRRNlJrbThKWEE1c2Rpb3ZZS0s2MkJoTHVNQ2QxNC1PRWZYM080a2VwdzBROW1SUW56MTYwZkpFZzZRbHVDWDRVTy1ZWDA5ZHhwMGFoRXo1dVozaG8yR1lPeXk0QW9YWVB6YVp0aWtUaWhRQTVGTE5vVUtNMTk1czBoS2RTb2Vvc1JOUjc4aUdnMm1MX2VEUmVVNzNJZw": 1792833348719,
-    "news:CBMi7gFBVV95cUxNV1RQMmFIczFVSWt0SUpxTUQybWtBRmQzV1JKYnV4dm5RNHRFb0poWUlWOFFHM1h1em9iamIwOGoxNVNQUFZCWVF0R093QlRBR2NGNjB1Ymo4ZnEyaFJHaURsTXlySW55UDBSUUIySjJ4SGo0MXBjNnJWN05oREpnWmtDdjdBM0g4QmZjNm9NVTFDSUNFZGRMYkc0UFV3QWVZNXNHYkdwUVgyUHQ2V2xDMmZjcEF2WTN0ZFZkR1dxWXVfNTBQOGs3WE5uVmh3QkVWUktGTW51S182ck9sZmRQMHdPbXBQNy1xUXg2YkN30gHzAUFVX3lxTFAtekhzQ3BrakE1WEFEbkhPOW5fNXktcEMxNURudDNZTmhJb1BibVFLd1ROWTVSVWF3dDF2STV4ZHdtYjYxSjBvdEJyQ1dpVVM5R3NSNUl3S3VoQWJiTkpzTm4zazctZ1A0ZjJLNXRkZTlneDZOY0NHdW1zUnZpOUdXMnVtTDZxOFFFR1Z4VlJmVktNcEZTTFl4T1NTdUtKVjBDODFaa3lXT1U3Z0UzLWlHNUtYQUZ0UUNSdXo3Rm0td042ckttLXRkZ1A0UkdiNWNVcG94Vjhzc1dQZUN5UnR4MU8zQ2pTTGtBR19pdHVlRk5mYw": 1792833348719,
     "threads:De3y2k4jwlk": 1792833649167,
     "threads:De3yh-REhJe": 1792833649167,
     "threads:De3x-BikYJh": 1792833649167,
@@ -27680,69 +27676,16 @@
     "threads:Dfbzb2vlHK2": 1794042641451,
     "threads:Dfb1DNsGBLj": 1794042641451,
     "threads:Dfb0Hwuk6sQ": 1794042641451,
-    "news:CBMi6wFBVV95cUxQUHNwVHlNX3dISEFkOWZTWlJobWY4R0RXXzl3X0VVeGVYS2doN2daRk9CY3dUTXdIeGY1cDZQREpRWURPV3o4RXhwaElkb1lFMWo1eGxKblU3VlZGeXlIdjNTeUpNZmd4blExVm51aUJtNjNNbk5SNktkV2pEZElVQkJteFRtSnlQc0VwOXJaMlpkQjJSUzRJeGFYdTdwOHJVanJlYXFMNzNKSHQ4ZllXMEFVbnU5NXVKVUtPSWF5M1NBUFdDNnVkLUFVY2pzM1czVDJQbFhaYlEtOWs0THNfd19sUVM2MVNzbEdV0gHwAUFVX3lxTFBVeU05U0lObHQ1VU9TRlF2Q2NhTUktTTFRV01JTG9uWldlVmE1bVdYUjFHZkRqOXV0UHp4aWdBakYxR1RqQ0dXbU91Mnh0amExQ2dVeUVYNHdIU1RoRm5WU3k0R0FneWczUkMwclBheUJkNFprM1hvekhVOUZPdHBBLWRoT0xQX09lcDJTeG9TdUhaV2wwZ0gteHIzbHg5NUhvQTF4Qms5VE92ejRsZ3dHLWNLSWZuZE9xLUZ1YWFUTXNBSzVKZWRhMk9pNC0yVnJxaWZtV0RRSHVCeEg4NmZtdVlwWEdOMHlUaXVQMFlBSg": 1794042641451
+    "news:CBMi6wFBVV95cUxQUHNwVHlNX3dISEFkOWZTWlJobWY4R0RXXzl3X0VVeGVYS2doN2daRk9CY3dUTXdIeGY1cDZQREpRWURPV3o4RXhwaElkb1lFMWo1eGxKblU3VlZGeXlIdjNTeUpNZmd4blExVm51aUJtNjNNbk5SNktkV2pEZElVQkJteFRtSnlQc0VwOXJaMlpkQjJSUzRJeGFYdTdwOHJVanJlYXFMNzNKSHQ4ZllXMEFVbnU5NXVKVUtPSWF5M1NBUFdDNnVkLUFVY2pzM1czVDJQbFhaYlEtOWs0THNfd19sUVM2MVNzbEdV0gHwAUFVX3lxTFBVeU05U0lObHQ1VU9TRlF2Q2NhTUktTTFRV01JTG9uWldlVmE1bVdYUjFHZkRqOXV0UHp4aWdBakYxR1RqQ0dXbU91Mnh0amExQ2dVeUVYNHdIU1RoRm5WU3k0R0FneWczUkMwclBheUJkNFprM1hvekhVOUZPdHBBLWRoT0xQX09lcDJTeG9TdUhaV2wwZ0gteHIzbHg5NUhvQTF4Qms5VE92ejRsZ3dHLWNLSWZuZE9xLUZ1YWFUTXNBSzVKZWRhMk9pNC0yVnJxaWZtV0RRSHVCeEg4NmZtdVlwWEdOMHlUaXVQMFlBSg": 1794042641451,
+    "threads:Dfb1FuJk93V": 1794042938153,
+    "news:CBMimwFBVV95cUxQUE9GRUJLNWxOTHp1WlFCNDZ0RWVldmhQbFUxYWlmai1GUTBwUG5wbE1NQW1xR1Fpa0lqcXNLZWpqTFFWRmxsd2pGVHNEdkJQVTJhSWpEMkdORW94ejNWdUJnQ1pIak9aRjh1UGFuQVlsNDQ2SWlIamN5OVFKVnBoVmVteHJqVHZyMG95THJnU2ZXclE4NFFsWHNLVQ": 1794042938153,
+    "news:CBMiqgFBVV95cUxQMDltbE5Wdm5waWJJN1VpLUFJX3MxVDF1QU1vbWJHYnNlRXliUmRKa2puMWdaQ0o2X1A5S25WSG5CVFJZWVhkYmtscTQyU1pQcGtZS19hVFBxYkFlYmtqdWZ6d3JUNHpqV3VtbGZ2Q1hVSzJKZ0p6Z0l2a00zNUVKdTdqSXQ5cWNwN2ZqZTNVemN1Q0NQYW1QUmdMN0gyOU9NeHlsVDlFc0NsZ9IBrwFBVV95cUxPNk1MTWk2V1VfdGtZb25wanRyNlFHWjNHdVRSQ1RFTlBxMlUwVWVTdG9ULU1PYlN0R0xudXVFY1oxVWZaYlptMUhybEZhcmhRTXQtWFRhNWhBRHZJNTlQc29jSEY3UVFKd0JXXzJGSFE4M25kNk1XUGMwM1ZmLVVJOGhPbDQ4TzFoUkV2OGwyNG0zNmwxRkgyQUd1MGFzLTV0UmlTZWhLVUI5b1pJUDRz": 1794042938153,
+    "news:CBMiZEFVX3lxTFA5VHEweGJzSzVVcDlPOHU1bllnVWtEXzN2MllTeXREX1psd0NjLWdEaTNpWU1uV3U0RjVETUFEUEl3WkhxVl9Wb29OR2JNZlg0QXNkS2Z6TXZaUU1WcjFuVHZSa1M": 1794042938153,
+    "news:CBMiakFVX3lxTE9TcWx4a0R2R1NHdno4UDlhbFhrNHp3enNmVk05TVEtSmFYUHotMXAzR3pIcjVLeU80eEZWc2NtY05KQmdaMzhoMFFuNHZNbzVfV0hDa2o4WjdDeFhFcXU1bXVfQjM1b1IxblE": 1794042938153,
+    "news:CBMiZEFVX3lxTFBPV3J4Ul9aUUQzdWxMaldtOU03TkFKT19LQTM2VHlTQ1RlOXV2eHAxVWEtczVLSTlmTV9pcG43SmRhanl5QmFFRU1OcUNMYWFtZDFLVHF0UVJDRm1sRzdxdUl0UC0": 1794042938153,
+    "news:CBMiYEFVX3lxTE5KZHVqUkxsYXRtTHNfOTZxN3A0cVRScjNMUHItRjdxc0NtUERUQlhRRkdMYVN5ZTlwWHc1MXlIM3ZIeWNlRG1qRU1oTnFUU0R0TTBqaVliZDM0a3M5cFN5Vw": 1794042938153
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Kompasiana.com",
-      "x": "Penuhi Hak Warga Binaan, Rutan Kudus Fasilitasi Bantuan Hukum Gratis Bersam - Kompasiana.com",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMEVySXlDOFhXa2tCRFJsbkJrQW56WnltRGRBeV9jWGtibl9TTTRLMDdHOE9NdXBHc1N6RmxuM0dPQU41TV9YZmlYYUtWdWFCR0QtbWVhY2YwcThTQzRac0hoVEpVMnNGQ1lERnJVZE1RSC02MHpIYndOT3JSeGtpVUhiYjk0ZVJPY3VxbzJrQUc3SmZhcEVfdmxicHRwVm5raU1hNGtPaTNhM2hqbFBtZ1BtMXdvSkJveG94Y2FnTVExT21LVXRSeld6VlpUaEVwdmRNMlRCUlNNRnpSN3FvMw?oc=5",
-      "d": 1794027843000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Bengkulutoday",
-      "x": "Rutan Manna Gelar Bakti Sosial, Bagikan Sembako dan Berikan Pemeriksaan Kesehatan Gratis Sambut Hari Bakti Kemenimipas Ke-2 - Bengkulutoday",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzhoenJsX09sQTEtRWdzeTRIcGRjQWlhb2loQkhOaEZ2N04tTlh5QTFvN2VSNFoyNjFMVmVxVTFhYUJUSG5UZXUydTFRcndwOWlQVnNhYXNrd0hYMU9hTGcydjA0Nl9oTUxhU1hkSGRDc3g4T2lHRW5jYzZ0RGZrWHQyN1RlaWJHUDZrN0tCYXR3RXJXaFdZMGZkU3RFNE5menR2UzBFaUlzblk2aG1QNHhMZkpPalZWYm1hejdJTTJrOXhIVGhPbA?oc=5",
-      "d": 1793955758000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Indopolitika.com",
-      "x": "Dewan Rapiudin Akbar Dorong Perpustakaan dan Pembentukan Lembaga Pendamping Beasiswa - Indopolitika.com",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW41T3NwcmNvOFdoY2ljc2Q2cGhENkU0NmJOR2NwQ0Q2SmxQZ3JfdVFwNmZrdXBhUGtWOEJGY2hYbllhV2hCM3dEY295T050T2R6d2VUR2JuRm5xaHppQ3MyZTM3dE8zUmhDbUF3aUNOTEQtM3hJNzFDRTl0c0N5MF9vM3BLeVNhSVc2bDFwaWxUaXAyVnRqb096UFplZ2N0eTZwNnlvaURxOVZKN0ljWkE2cGI?oc=5",
-      "d": 1794016200000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Jadwal Pencairan Bansos November 2026: PKH BPNT Tahap 4 Cair, KKS Baru BNI Ada Saldo Masuk! - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYU9hQ3N6V081a0N5Z2ZncTFZRnJQYWhxdFUwRjJ1dUp6Y0VUS0RVRXdLQ01oWnVGMnpMRURQN3ZRX2pfckRibVVvdTRZVmoyTzJ4WVpnbktOMV9PRV9LT0pXQnNRV0pIeTlBWGw3aGdKbW9mUE91UGo2akVBY0FpVV91SFdCeXM1b19PV2ZkLXFGYS00TGY0aEsyM0pZdWJDLVBYVHYtc3pKZmh0aE5BV3JhZ2J2SXNjaHhhcTU2MUhrUTNlRjJ5UDF2Y1UxTHRkZmVfcU04UlhyWGtoWXfSAd4BQVVfeXFMUGFPYUNzeldPNWtDeWdmZ3ExWUZyUGFocXRVMEYydXVKemNFVEtEVUV3S0NNaFp1RjJ6TEVEUDd2UV9qX3JEYm1Vb3U0WVZqMk8yeFlaZ25LTjFfT0VfS09KV0JzUVdKSHk5QVhsN2hnSm1vZlBPdVBqNmpFQWNBaVVfdUhXQnlzNW9fT1dmZC1xRmEtNExmNGhLMjNKWXViQy1QWFR2LXN6SmZodGhOQVdyYWdidklzY2h4YXE1NjFIa1EzZUYyeVAxdmNVMUx0ZGZlX3FNOFJYclhraFl3?oc=5",
-      "d": 1794023012000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Bansos PKH dan BPNT November 2026 Segera Cair? Ini 4 Tanda Dana Mulai Diproses - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMGFvOEc3Y2Z1WVZUSV9xdEtIcVZHRUh5YTZDbU51eWpoZjNFNGlMeEtxdmpMUkpRWXhucmVFd3VYVHFPZVUzbkVSM2VqYVdpa2VVRTVLblc5N1J6UzVkUkVod0JtMW9CckxmcmVTSUluYUJTLUxmNEh0bk5rTVI1RW9hcE9tYlk4RVRvcTVxb0k5eDh0M2R1ejNuZHF5ZFZ3YS10QkpVMl9HQXV0XzhmZlhLalZTOGhRa0R4OTZHZnJPQUpO0gHKAUFVX3lxTE9CZk1KSzRSM3AtQ1E4aTl4S0J3SjRVak9hZk5TdGJMSmlyb0VPQnJRbVR4ZlVCb1NxTzVUUG5ULWVzMlNQZl82TVB2a0l5aDliWHB2bUpuT0NvV28tRXRLb1U5QUc0Umg2U2c2Z1dtS1dabzNWSEl3R0tWdGhqZS1iN2xwOG5xQU1ub2cwQXQtbXNQZkx3SHFpSFFmM2lsbmVadzVtVjJzRGtaaFc2UEJQTzk4WG9pNXpETVlCb2o3YklLOVVoOHNpdGc?oc=5",
-      "d": 1794025854000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@uwiiiiiddddd_",
-      "x": "pake aplikasi cek bansos kak, bikin akun atas nama ortu bisa dibantu sama yg ada di kampung atau ke kelurahan/desa aja setiap tgl 1-10 awal bulan",
-      "u": "https://www.threads.com/@uwiiiiiddddd_/post/DfbYsGgie0a",
-      "d": 1794027789000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29182,10 +29125,70 @@
       "d": 1794042171000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@newshive.id",
+      "x": "Fitur Sanggah Cek Bansos menampung laporan warga untuk diperiksa. Laporan tidak otomatis mengubah status penerima, dan data pribadi perlu dijaga. Bansos #CekBansos #Kemensos https:",
+      "u": "https://www.threads.com/@newshive.id/post/Dfb1FuJk93V",
+      "d": 1794042982000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Beasiswa Karawang Cerdas 2026 Dibuka, Siswa SD-SMA Bisa Daftar! - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDltbE5Wdm5waWJJN1VpLUFJX3MxVDF1QU1vbWJHYnNlRXliUmRKa2puMWdaQ0o2X1A5S25WSG5CVFJZWVhkYmtscTQyU1pQcGtZS19hVFBxYkFlYmtqdWZ6d3JUNHpqV3VtbGZ2Q1hVSzJKZ0p6Z0l2a00zNUVKdTdqSXQ5cWNwN2ZqZTNVemN1Q0NQYW1QUmdMN0gyOU9NeHlsVDlFc0NsZ9IBrwFBVV95cUxPNk1MTWk2V1VfdGtZb25wanRyNlFHWjNHdVRSQ1RFTlBxMlUwVWVTdG9ULU1PYlN0R0xudXVFY1oxVWZaYlptMUhybEZhcmhRTXQtWFRhNWhBRHZJNTlQc29jSEY3UVFKd0JXXzJGSFE4M25kNk1XUGMwM1ZmLVVJOGhPbDQ4TzFoUkV2OGwyNG0zNmwxRkgyQUd1MGFzLTV0UmlTZWhLVUI5b1pJUDRz?oc=5",
+      "d": 1794042406000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Pemkab Karawang Buka Beasiswa Karawang Cerdas 2026 - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5VHEweGJzSzVVcDlPOHU1bllnVWtEXzN2MllTeXREX1psd0NjLWdEaTNpWU1uV3U0RjVETUFEUEl3WkhxVl9Wb29OR2JNZlg0QXNkS2Z6TXZaUU1WcjFuVHZSa1M?oc=5",
+      "d": 1794042689000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Pemkab Karawang Buka Beasiswa Karawang Cerdas 2026 - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TcWx4a0R2R1NHdno4UDlhbFhrNHp3enNmVk05TVEtSmFYUHotMXAzR3pIcjVLeU80eEZWc2NtY05KQmdaMzhoMFFuNHZNbzVfV0hDa2o4WjdDeFhFcXU1bXVfQjM1b1IxblE?oc=5",
+      "d": 1794042704000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Lensa Hukum",
+      "x": "Pemkab Karawang Buka Beasiswa Karawang Cerdas 2026 - Lensa Hukum",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPV3J4Ul9aUUQzdWxMaldtOU03TkFKT19LQTM2VHlTQ1RlOXV2eHAxVWEtczVLSTlmTV9pcG43SmRhanl5QmFFRU1OcUNMYWFtZDFLVHF0UVJDRm1sRzdxdUl0UC0?oc=5",
+      "d": 1794042871000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "Pemkab Karawang Buka Beasiswa Karawang Cerdas 2026 - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZHVqUkxsYXRtTHNfOTZxN3A0cVRScjNMUHItRjdxc0NtUERUQlhRRkdMYVN5ZTlwWHc1MXlIM3ZIeWNlRG1qRU1oTnFUU0R0TTBqaVliZDM0a3M5cFN5Vw?oc=5",
+      "d": 1794042741000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
