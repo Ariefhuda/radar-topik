@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4vyMxgXr-": 1792865750676,
-    "threads:De4vHM8DKP_": 1792865750676,
-    "threads:De4uHjhoB9L": 1792865750676,
     "threads:De4wIbWH42e": 1792866050485,
     "news:CBMipwFBVV95cUxQMWJJWmEyWEU1akg1a2E2dGJrVW96MlZqVlFaMi0zNzZxUFE2Wi04NnZncWZGNHFLT21WNkRHNXVsbWdEZE00VmN6Rk9YYmwzRkdsWkhrNVFIUUFKZk1TRGRYdXE1dkR1MnJKS0FJeUJrVHVoQ2d6aHM2NVNrSXpjRWtHb1U3azZDRjBicElhUm9MVF9VU01UTGUxQnhiOXNmd2VZaGREMNIBpwFBVV95cUxQMWJJWmEyWEU1akg1a2E2dGJrVW96MlZqVlFaMi0zNzZxUFE2Wi04NnZncWZGNHFLT21WNkRHNXVsbWdEZE00VmN6Rk9YYmwzRkdsWkhrNVFIUUFKZk1TRGRYdXE1dkR1MnJKS0FJeUJrVHVoQ2d6aHM2NVNrSXpjRWtHb1U3azZDRjBicElhUm9MVF9VU01UTGUxQnhiOXNmd2VZaGREMA": 1792866050485,
     "threads:De4xSvYEzUc": 1792866336922,
@@ -27686,19 +27683,14 @@
     "threads:DfcyFzvEcn9": 1794075036991,
     "threads:Dfcx8xdxcSr": 1794075036991,
     "threads:Dfcx6XVlXCz": 1794075036991,
-    "threads:DfcoJ66m8EC": 1794075036991
+    "threads:DfcoJ66m8EC": 1794075036991,
+    "threads:DfcymRNguRp": 1794075342730,
+    "threads:DfcyXTfGdED": 1794075342730,
+    "threads:Dfcymv3kqlu": 1794075342730,
+    "threads:DdGr9K0jzgP": 1794075342730,
+    "news:CBMihAFBVV95cUxPbUNVVVJJV094Qi1kb3JFcTN0dFVhTkczUm1TVUp5TTdXQ2Nhc2xwNVRlLTJyVV9jSHBXYzRMdlRqcThkTjBWVzgyRjRlM1BxZzMwUE9iS0xtaWg0WlZDMURfODBZdlN5dFUyV0FIUVEyeFFWRHllcjhjbjl5bVJsQUtkSjQ": 1794075342730
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@fauzialiana",
-      "x": "Beberapa beasiswa Eropa untuk intake 2027/2028 mulai membuka pendaftaran pada akhir tahun 2026. Ada yang menawarkan pendanaan penuh untuk S2, ada juga beasiswa pemerintah untuk S1,",
-      "u": "https://www.threads.com/@fauzialiana/post/DfbTyNYD_2S",
-      "d": 1794025217000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29188,10 +29180,20 @@
       "d": 1794073182000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tasyajlnt28",
+      "x": "⚠️ *TELAH DIBUKA PENDAFTARAN MURID BARU TAHUN AJARAN 2027/2028*⚠️ 🎓 *MAU KERJA? MAU KULIAH? ATAU MAU BERWIRAUSAHA? SMA AJA!!* Hai, adik-adik kelas IX SMP/MTs! 👋 Yuk, lanjutkan pe",
+      "u": "https://www.threads.com/@tasyajlnt28/post/Dfcymv3kqlu",
+      "d": 1794074931000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
