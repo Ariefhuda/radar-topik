@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5ULflH7ib": 1792885172612,
-    "threads:De5VW37knuV": 1792885172612,
-    "threads:De5VEVViL-v": 1792885172612,
-    "threads:De5UvLcE25S": 1792885172612,
-    "threads:De5UUH6iGro": 1792885172612,
-    "threads:De5UYSqo-Hv": 1792885172612,
-    "threads:De5T0h5D01v": 1792885172612,
-    "threads:De5TbsPkTfd": 1792885172612,
-    "threads:De5TVmBkka8": 1792885172612,
-    "threads:De5TTVbDxgh": 1792885172612,
-    "threads:De5TRnLCCfW": 1792885172612,
-    "threads:De5SqH4FVzJ": 1792885172612,
-    "news:CBMi3gFBVV95cUxNS3NEWG1mdUZiWG9ZQUxPS0tVcU9kUUxmUXZWWnRrOFo3VFhUak53Ym53cDE1TXo4dk54c3FkNkQ3WDJLZ0hnR0l2dFhnMU9wZ0otNUVfallaN2FYNUg1TEdqTmFMbDJwMWpraW9PQWRDNzdYQVV4UTNGdC1mQ2Naa3dLNFZkNnh5anFKdWs5dWt5WVY1VU12dVkwbHlWVU9xeTRLUGpPa1p5ZWMzbmJxWE1nR2hiUDBVT0VvTGJmVHVUSFJ3enVZMDk3YUx1UnE0cVg5UUI4QmYtQzFBMnfSAd4BQVVfeXFMTUtzRFhtZnVGYlhvWUFMT0tLVXFPZFFMZlF2Vlp0azhaN1RYVGpOd2Jud3AxNU16OHZOeHNxZDZEN1gyS2dIZ0dJdnRYZzFPcGdKLTVFX2pZWjdhWDVINUxHak5hTGwycDFqa2lvT0FkQzc3WEFVeFEzRnQtZkNjWmt3SzRWZDZ4eWpxSnVrOXVreVlWNVVNdnVZMGx5VlVPcXk0S1BqT2taeWVjM25icVhNZ0doYlAwVU9Fb0xiZlR1VEhSd3p1WTA5N2FMdVJxNHFYOVFCOEJmLUMxQTJ3": 1792885172612,
     "threads:De5UolaFXIy": 1792885623500,
     "threads:De5U8n8EmW8": 1792885623500,
     "threads:De5VQQ9ErUb": 1792885623500,
@@ -27727,7 +27714,17 @@
     "threads:DfdWyrVgQMM": 1794094242900,
     "threads:DfdWt0ogfAG": 1794094242900,
     "threads:DfdWm8Kgfq4": 1794094242900,
-    "threads:DfdXzKIkh3u": 1794094533718
+    "threads:DfdXzKIkh3u": 1794094533718,
+    "threads:DfdYpFKE1lI": 1794094843864,
+    "threads:DfD_7tdExCT": 1794094843864,
+    "threads:DfdXj-In6Vp": 1794094843864,
+    "threads:DfdYrqQmR6C": 1794094843864,
+    "threads:DfdYDzMFpIh": 1794094843864,
+    "threads:DfdYAKanEta": 1794094843864,
+    "threads:DfdU1Imgpv6": 1794094843864,
+    "threads:DfdUzcumqXe": 1794094843864,
+    "threads:DfdUwWFm4p5": 1794094843864,
+    "threads:DfdUrqEF7a2": 1794094843864
   },
   "digest": [
     {
@@ -29232,7 +29229,7 @@
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
