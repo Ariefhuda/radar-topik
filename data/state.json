@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DezS1PFDzIV": 1792803338190,
-    "threads:De23JTiGHwo": 1792803338190,
-    "news:CBMixAFBVV95cUxQb0JYNi1QNHQwRGhsZ3VhX0JlZkUyMmpJSGpJZTVRNlA1Rnh0QkN0S3VMR0NQWUloZFBsQi1ZNGp6MmdBbWtWbTlDSjV0TW1RS0pqb2ozVUtsUnNDNUVCTHoxZW93SGtwUG1URHpSSlhwWGNQZTdYUmhsZzBxM2ExUXRKX3FXb2k1V3Z2UGlhdGZxbm0xQkl6ZUJqNEk0emdFNWFhUmdmVFUzZ2dFRXlnWDFyUGoyMjJUWU1FbExPNFE4Q3F2": 1792803338190,
     "threads:DbxOpSsEWX1": 1792803961268,
     "threads:De26FQmE4Wt": 1792803961268,
     "threads:De26B-HEkG9": 1792803961268,
@@ -27681,19 +27678,12 @@
     "threads:Dfa7CoFjwQX": 1794012645008,
     "threads:Dfa7kHomaQh": 1794012645008,
     "threads:Dfa7K0ulhC3": 1794012645008,
-    "threads:Dfa7GwKiamQ": 1794012645008
+    "threads:Dfa7GwKiamQ": 1794012645008,
+    "threads:Dfa8CuqjRZy": 1794012940324,
+    "threads:Dfa6vLzms1R": 1794012940324,
+    "news:CBMitwFBVV95cUxQdmpIbXZ5RFM1YUhjT2h1WnptSHRaZXUtVzNWdkpQMUhuRnZTYjVMVEJ6M3pmNGJKOGN1bTNJaFFuaGd4N1JlWm1LMU4weGJzbWlmcGJFQmRnelZZTEJBdzVjTDhJcWh2eWVUcHFWWnBWUllKWGZPZ1VFUElabXN4eU9hR2hYQi1PV0ZWWERDVmtJeEdEM2owa1hYajl1STdieW5rYU5qTnFjMnUxcmNZNnRmWTkwa00": 1794012940324
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sivaiboy",
-      "x": "Pertama cek bansos dulu apa perlinsos?",
-      "u": "https://www.threads.com/@sivaiboy/post/DfZxZszEihR",
-      "d": 1793973636000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29183,10 +29173,20 @@
       "d": 1794011239000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ukhtirahmawati38",
+      "x": "Bismillah.... Selamat pagi warga Bikin video Animasi seperti ini gak ribet loh, yang penting tau ilmunya. Bahkan untuk pemula sekalipun. Saya akan adain kelas GRATIS belajar bikin ",
+      "u": "https://www.threads.com/@ukhtirahmawati38/post/Dfa6vLzms1R",
+      "d": 1794012570000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-06-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
