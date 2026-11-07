@@ -60,28 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4k1JgGbQ5": 1792859736727,
-    "threads:De4kYW5Gr2o": 1792859736727,
-    "threads:De4kSpRF-MD": 1792859736727,
-    "threads:De4jdu4kluR": 1792859736727,
-    "threads:De4g92alRtG": 1792859736727,
-    "threads:De4kxJxFjGx": 1792859736727,
-    "threads:De4kcMKk7jD": 1792859736727,
-    "threads:De4jRJ7mLEX": 1792859736727,
-    "threads:De4iicajR59": 1792859736727,
-    "threads:De4gNEBk_mQ": 1792859736727,
-    "threads:De4j9RAGTxN": 1792859736727,
-    "threads:De4jyZymU5K": 1792859736727,
-    "threads:De4jvY1mV2d": 1792859736727,
-    "threads:De4jqouGaUV": 1792859736727,
-    "threads:De4joMmGVSM": 1792859736727,
-    "threads:De4jjKwmVD9": 1792859736727,
-    "threads:De4jeqiGdSK": 1792859736727,
-    "threads:De4jcN7GXf9": 1792859736727,
-    "threads:De4jU-HGZK5": 1792859736727,
-    "threads:De4jTx6mcxj": 1792859736727,
-    "threads:De4jP-jGT-4": 1792859736727,
-    "threads:De4jMSAmeJi": 1792859736727,
     "threads:DR8_L4TgXuP": 1792860015287,
     "news:CBMiygFBVV95cUxQbFBUVjhpLUtjMlFZaWZlY01qX25JSFdPRzU2M0dOb0daekNwaGMzemFyc01OZDE4YkZCaUQ0cTgyYzRQNG5Jc0h2czBvd21ZRF85bThTSFh0azMweXZkSU5rQ01HeWJGRkVaUEpaVmszdjRSR045TWk5eVpKeDBUMzR5VjVBLTVvaHJmcW1zWklXdHNrSUFNLTZQUm4walB1STc3bnA5YU1yVFdKMXJ0Qm42THVzeVpVbjNxaWhMbVdKVV9YRGdiNGpn0gHQAUFVX3lxTE9sTmNIdXgtOUtkb1F2NW9qZ21sUUhTUy1oV0JGMG9tN1hldXJmNnZJT29mZ1RaOFJ5N0FjQnNqQWRvVDNYRlRqWjhiZGdRRDBkQ2dCOUFTMmRKcmxNbmJXc2pCYWczbGJJUkQtTFpRNVRIOUlXZGJyY1dsX3RBQ3pkMnBKc0EwZWEyRTJ1cGUtdEZCUEdYcnR5WmVhWkFWSEJnV0M4RTJVMFRJYnh1UllhWVpHYzk3Z2NvNnhlb01vMVdZVWNzT21XdWtqUXFGNlo": 1792860015287,
     "news:CBMisAFBVV95cUxNcFh2YTFHdjczVHkzNW9RNEFRLUlKbnRWUE81NVN3cXNkak9OS2xteS12UTdrYlYxaXRyeG9EbWNHUUZJZkNGdEk1VHVmaEZEV3hrYS1MZXVJTGFLOGJ4RDRrNEZ2ejRiQ3dFdkFZSGgwWkQzQkphaUhzbDFqR1ZwdVVycHRCOW56b09oYVdiY3ZaUE9zQ1FvQjVNbDhnZDZEVVozUDNwUTQ0bXBpcEEzWdIBtgFBVV95cUxQcUZhRXA2UTk2QWx3bWx6bnc3SXJLREsxbWNtbVQ1clRab1dQaW5zbHpMT05GN1pabzR1Q1d2YXJQTlltalItMHA5czN1MmV0YVNGWlBhLThtbDBfdzNqcFgwcUg2RDV1UzFRaVVwS3B6eDFOekhZT2JSS1JlZHJZVHNsZGhXUHJYMGJuWC0zTnFYTlJ2X19selprUVhrbURkRGg0cldna2dZZFdSQmkyYnMyWkcyQQ": 1792860015287,
@@ -27678,7 +27656,12 @@
     "threads:DfclXs9D81M": 1794068436558,
     "threads:DfcmHIfAO50": 1794068436558,
     "threads:DfcmXL6CEok": 1794069049569,
-    "threads:DfcX0BGCOwZ": 1794069049569
+    "threads:DfcX0BGCOwZ": 1794069049569,
+    "threads:Dfcnk5jGtB7": 1794069340825,
+    "threads:Dfcnbvnil2g": 1794069340825,
+    "threads:Dfcm8Wykp8F": 1794069340825,
+    "threads:DfbvS4RDGFK": 1794069340825,
+    "news:CBMiuwFBVV95cUxPUXZQeUE0NC1iWUJWWGluenczWkNlcEVQNkZyeWVYQ2pWZzlVTTVHTW9oQWF6SnlCb2FTSjZ6ZGhReUZjR3dKZmp5X0U5Wk9zTXd5NjU0VGpMYVNQb1YydmxwVFJocDdLVWN1WEFwbUFUdjExWTZKNDVhM2Fjc0VYX2llTm9rM0dqU21MVDZfMUZLUllqM3JtOUlKUWJKQzRjTVZMaGJ1clVVRmFtTzZYSTl3amNhdFFCUFZr": 1794069340825
   },
   "digest": [
     {
@@ -28980,10 +28963,30 @@
       "d": 1794068382000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ukhtirahmawati38",
+      "x": "Bismillah..... Hanya dengan Modal HP + niat belajar = peluang cuan dari rumah. Saya akan buka Kelas belajar Animasi AI GRATIS, dan Free akses Canva Pro untuk prakteknya. Ada yang m",
+      "u": "https://www.threads.com/@ukhtirahmawati38/post/DfbvS4RDGFK",
+      "d": 1794039896000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Hasanah.id",
+      "x": "Bansos November 2026 Bisa Dicek Pakai NIK KTP, Begini Cara Mengetahui Status Penerima! - Hasanah.id",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXZQeUE0NC1iWUJWWGluenczWkNlcEVQNkZyeWVYQ2pWZzlVTTVHTW9oQWF6SnlCb2FTSjZ6ZGhReUZjR3dKZmp5X0U5Wk9zTXd5NjU0VGpMYVNQb1YydmxwVFJocDdLVWN1WEFwbUFUdjExWTZKNDVhM2Fjc0VYX2llTm9rM0dqU21MVDZfMUZLUllqM3JtOUlKUWJKQzRjTVZMaGJ1clVVRmFtTzZYSTl3amNhdFFCUFZr?oc=5",
+      "d": 1794062040000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
