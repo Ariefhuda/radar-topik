@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3akH4EbX0": 1792821340146,
-    "threads:De3bBxekc6Q": 1792821340146,
-    "threads:De3ast7lvby": 1792821340146,
-    "threads:De3aOsVEdvo": 1792821340146,
-    "threads:De3aKaCETXW": 1792821340146,
-    "threads:De3bpoYmtGy": 1792821340146,
-    "threads:De3bE7BE3iO": 1792821340146,
-    "threads:De02tQMk1et": 1792821340146,
-    "news:CBMirAFBVV95cUxQOVViSHNEd3dvMHJCLWxVLVlzb2I0RUtuNGJaeHdtYzAwZ2tIT2E5aVJ5Qm1Sak9LenNYV0dZZXdqbGFxVTFJQXhRT0R4QXkxV2pFc1UtQVpZc0JGLXktTENhWmQycXM5UG12N2ZIdUNKNVJfVGlDTlliUXV0OHBkOGpDZFJ5aVR1X0xFa2Z6UnJyY0x0eFZkQmJFZkszemdTZmNLNEVKMW5KTVdN": 1792821340146,
     "threads:De3blhnnwGz": 1792821957207,
     "threads:De3cLSRoIVR": 1792821957207,
     "threads:De3c3QSjz6B": 1792821957207,
@@ -27690,19 +27681,17 @@
     "news:CBMi1AFBVV95cUxPUVJhOGFQMjZDdG9ZN2tBWlJHbkFNQVJmck0wXzFWZnYzaDdFNjVXNDd4TnBTTThreGR6cjY5cHhHSW0wSUVWTzFlNkppQVFJeFdTaTlXSjJCZy1rcXVzenlXcUQtMHVkdzEzLUs3TFc0RS1ES0J4M3UwZl96Z0FqY0RKU1o4dzNtdU9LQkFUVmhTY2xhU3FPd3lsZnR4bElDZDQyd2NZQTlrdkhCanhuY1lUbUpTeE5LWGY0SW1Va1JYal9KUWh1cHhOcGxDR3RlYjZMT9IB2gFBVV95cUxPME5RM0cxRDVMMzJYMFllRGt5Yko4bWtVTU9HVTEtUjJ6dEQ0cWdDY0kweWp6cHY3RENOeTFvOUJpSVBJa0FFQmlocDV0TTU5WUpULV80ckw5dHBiNEhOOUlVUl9yREs3Vk1tT1YwUGFDY2xodF82aG5vam9FTnVqRElaQ3dFckJYUE9iUHhORHNBVmNKNnBtaFczN2FpYUZrbFMwbG5tUk5fSnRWSVMzNFluQTd0cmktb1FlMnFocnRvMW1rUWtCTU5iM3JiNXM0Q3oteVFiYUlUUQ": 1794030342318,
     "news:CBMirAFBVV95cUxNNDVMX1dsVkVSNHhuNm9pMFFXbF9pUjRPRDl6RXVGczJNUTNuSkN5SVdHS2FoWnR0YllGaXBwQnIzWWo5Q2tKTElHemZFX2VMRXk1cHJtYTZPcFFBeEJ4cm1RZjR5aGZQUHdkTlFJbGpvQmp1OXg0N20yc1NhcExJMTJsVnY3Ylg0czM0WGI0Q1dhaXNSTi1tZUFCbTBlcUVOU3JLYmVkLV9HTmJ50gGyAUFVX3lxTE5lR1l0MzVuZ3cwaHdLY2lvU0N1eGROelJTV1ZMRm4tVDFTSlNJaG9vQ3Jsbk1GY283S1NEWUd5am1xUVVickR2MGh4RnNxWkRDZjVMVjVTS1JybWxpWTk1eWJrY19wTXh6U3VSTXR4OHR3V0FQR2VzSXd2Ty1UTXo1bEVTTkNhUXVMRGNNbl9qS1Ria3EzZGxqRUN5bDdOQlNabk0tWVkzVFBaQlZnTkJ5b0E": 1794030342318,
     "threads:DfbcojMkmom": 1794030637453,
-    "threads:DfbdYmvCivv": 1794030637453
+    "threads:DfbdYmvCivv": 1794030637453,
+    "threads:Dfbes4mE8XB": 1794030931001,
+    "threads:DfbdQSmj6og": 1794030931001,
+    "threads:DfbeY-tEsYp": 1794030931001,
+    "threads:DfbeHZuEmJG": 1794030931001,
+    "threads:DfbeCQ4GHXR": 1794030931001,
+    "threads:Dfbd4FHEZix": 1794030931001,
+    "threads:DfbV95Ym5Wv": 1794030931001,
+    "news:CBMi7AFBVV95cUxONzdzUHgzNHFlNUg4WHZFUFlmeTBLcjFlQnhaSEw3M0hlT3JMRjE3SEZ5NXVVbFVIazlYMW51VHJ0bEFWbWNGTjFSa29aWFlZR1VuLWlBLUtXUkdwYTFvamNtYklPYTFiN2tmVW5CdHR6UUxEVThaYlAzTDU1QmdPNG1Ua05NcWZVX2R2WVh5MEJ3Z0xGZTktck9UU0pLaWJxQ0MzTFdaLUZRSEg4c2NaRUJrZGRySUt5RTc3VWtNU3ZqUVpOTTk3a1dUcGwwbzdjd2tJVU1Ca04zdVVTbWpVb1U2S1ItdkJLMm44ZNIB8gFBVV95cUxOdElWdjRoODE5YXNqV3FpN2F2eHpfRmNXdkoyazZ4MGI2dnM5MnNnbU9yX2JRaDlNVlFBbUIxdHZFZVUxUFdodlhhMjBrOU5KRXM5Z2NRRDlXTzcyMVNfT3JPSHdMbDBrSjVXeFlibDNKT0ZsclUxU3F5MmpoTk8xdzRtN25Pd08xYk40RC1aTVBiOXdySW41blVpTXpBZDFKNWN3QTIzOFhuQjBFbGFjakQwMlczS29pa3BkM1I2V1NYalpaSHZLZkxJSldKUk9rVU14bWpieFhXbHJ5VVZIVk4ybl9jOTBiOVZibFJtRkZiZw": 1794030931001
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@duitdrhp",
-      "x": "Cuan 1 juta per hari, cuma modal HP. Beneran bisa? Joni, digital expert, bakal buktiin langsung di seminar GRATIS ini: 📅 Minggu, 12.30 WITA 📍 Cafe The Saint, Jl. Tukad Barito Tim",
-      "u": "https://www.threads.com/@duitdrhp/post/DfbJDRFjyo7",
-      "d": 1794019598000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29192,10 +29181,20 @@
       "d": 1794030250000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Republik Jatim",
+      "x": "Beri Jaminan Hukum dan Keamanan Menu MBG, Bupati Subandi Minta Dinkes Evaluasi dan Dampingi Berkala 152 SPPG di Sidoarjo - Republik Jatim",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONzdzUHgzNHFlNUg4WHZFUFlmeTBLcjFlQnhaSEw3M0hlT3JMRjE3SEZ5NXVVbFVIazlYMW51VHJ0bEFWbWNGTjFSa29aWFlZR1VuLWlBLUtXUkdwYTFvamNtYklPYTFiN2tmVW5CdHR6UUxEVThaYlAzTDU1QmdPNG1Ua05NcWZVX2R2WVh5MEJ3Z0xGZTktck9UU0pLaWJxQ0MzTFdaLUZRSEg4c2NaRUJrZGRySUt5RTc3VWtNU3ZqUVpOTTk3a1dUcGwwbzdjd2tJVU1Ca04zdVVTbWpVb1U2S1ItdkJLMm44ZNIB8gFBVV95cUxOdElWdjRoODE5YXNqV3FpN2F2eHpfRmNXdkoyazZ4MGI2dnM5MnNnbU9yX2JRaDlNVlFBbUIxdHZFZVUxUFdodlhhMjBrOU5KRXM5Z2NRRDlXTzcyMVNfT3JPSHdMbDBrSjVXeFlibDNKT0ZsclUxU3F5MmpoTk8xdzRtN25Pd08xYk40RC1aTVBiOXdySW41blVpTXpBZDFKNWN3QTIzOFhuQjBFbGFjakQwMlczS29pa3BkM1I2V1NYalpaSHZLZkxJSldKUk9rVU14bWpieFhXbHJ5VVZIVk4ybl9jOTBiOVZibFJtRkZiZw?oc=5",
+      "d": 1794030300000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
