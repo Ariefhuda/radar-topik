@@ -60,23 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3wrKlE3UG": 1792833092461,
-    "threads:De3xaChkdlx": 1792833092461,
-    "threads:De3xO_XkUn2": 1792833092461,
-    "threads:De3wbygk-6-": 1792833092461,
-    "threads:De3wV3fkTjI": 1792833092461,
-    "threads:De3wKNdEcDo": 1792833092461,
-    "threads:De3v66SgfSx": 1792833092461,
-    "news:CBMiakFVX3lxTE1kbWdPZFRJZjJ0cHZnS2xPQWhncVY2UVlIVTFFWFdxeDRsQ0VNdDlBMDBlOWlMYXFJX3lPaVAtX3pmSjkyQ2tlOFhKbFpsUzdpelVZdm9pc2FVUEhBemFoTS1DaC10ZXB1SXc": 1792833092461,
-    "news:CBMivgFBVV95cUxQWDQ5c2FnZlptTENOYUNmaGVKdC1YZ0Y3MWhJVDB3ZkwwaV9JamZ3bzl6bGFGWTlNcEhrSW9kM21adHRnZHhweUdoYTljUVhUWjdJMDFKdXNsRUNPd2RNUFVlR3EwSEFUMWV2OXdoNHJ4dW91RExKeENqOTJQcjNJNkZ4T1MyTUtqejhEbDllQUFFU05QNHFXUTFQWGlFTy1TcWV5MkFSRDZHdGItMk5vSURqV0xwN01RZmVocFhn0gHDAUFVX3lxTE9aYjNPeXBKYU1kMkI4VVhWYWdwTklzeWx0R1JHV2VNOTBEN3BQLWVDUk1FNExqTzlfaGhEYVJiYVZSUGlmUTZmbUNLejhRWkJ4Y0pPeXZqRFhWU1JKOVpUZm5VZzB3MDlDbUFaekJFZDM2UDFpNnlQRWVfM0t5dWJFeU95aDVYaEdqY0tsTUh2QlJNRXFuOGo3SVNkOWtYY1BFQWJOX0tvMy1DU0tXSWdQOGNEMld4YVg5blo0UHJZeGxSVQ": 1792833092461,
-    "news:CBMiZ0FVX3lxTE12UWltSEY0eWk1MWxQS0swWWx1SjFlVzlmT1lrUDAwMF8yNTQyT2owdGNDX3JCcHN1QTliXzlwTWtyQmtMTFNBUUhLSm1nX0Y3VnJXZWVVQVlIY3VKclRva1FBbHowQXc": 1792833092461,
-    "news:CBMi8gFBVV95cUxQSW80dHVXVGRPenltNHVBTmVkUjVSVUc1Ykl6YXk4WEpYNE1SUzdYREZYTVJQbkNMY00xT1MtMWxac3hRR3YtLXhNTnpyRjFZRE5xLVpZcnQxeFdjTG9UcURPbEpUOUR0RFk3RlVrMy1tWXNjbTdNOG82SlJlUGhPOGJQVkJqZklDYzN1YzN3YVRweTlueF90c2w5UzAyb1YzNWFNeEJaQ2M5WU5yZ1gtbWtWM1ZiOVQ0TXJYWW1lZURGbXZpVk96VDRIcHhMQ0x5OVhhU0NWYkd1Z0JBOEFVMGNyeUJYUkpLa0N3MVg1dUxWdw": 1792833092461,
-    "news:CBMizAFBVV95cUxOdW1UYjRDc1VxVHE0UUFOY09NOHVaMkJrRDVpYXZSOVZQQ2Yzby04Y0Q4ZXpBTlhzUkNQZHRCaEY2ZU1aOEplNWxyZ1p3ZV9mSVB5V1F2Zmk1Q0VlYXZYSkxNbDBhRXVDWnczSEJURU1scVZwNVlEcVVPZWJaU2swWWhDa3V3bVdlU2Q4eThxdHRaZkdyQ2F3N296OU5JeWZmYXY4WVl1OXNzdkl4SDJ0VVZDZTBvM1cyWl9NY1RKZFNfME93R2JydS1WM0HSAdIBQVVfeXFMTzZMN25udTUyUHJlSG1qaUZzVFppQnEtMU5FN01kWDdzZ0dJeUFHeGF6bDRiYkw5UEJSVzRnZkU0SmNyQnhPZHUyWmlSMWdnOVdmTmhoVmUtRXh6UnBDR1I2d1ZacEp6Z0U4YjBKbzIzbTV4ZkxEMUt4dGRhMTJrRFJPZWRkTDI0MTFCZElUdEFza3hPSkZfUjVGcTYzeGpHOHZTR0FrTk0tcTdSdHozZ0VlQTlYSUV5TUZkVy1VRzdsYUg4cmlkdWR4WW9ZY1NLQ05n": 1792833092461,
-    "news:CBMif0FVX3lxTE5DU1ZHWEhBZDZEcXlHXzFyMl85d0tkVlFZb1RjZjdPajY5NDhJd2RUUWhEWGZCc0tNSFRZTWZCbm9QMUhkUlRQaEhucDFGbGxyMzkwdndYblV6LWpxNDExU0dqeFNtMFJERnJzajVGRkRhYUh6OHpBMmw5d2hDTVU": 1792833092461,
-    "news:CBMitwFBVV95cUxNcjZoSkNIc1c4cjNyMXRTa05fdm9ONzV1VnlrRURCMldwcUxTczZBUjNMeHFqT2RqM1BabnZQeWFBcWh5YVkxUWQtUjNHUDlUc2JOdTdUZkhkRk5ING4zMVZMQU9sSnpFR3FwVHdidkNrWFk3ZGdXSWdjNDJZSVQtSzM5TnFDVnhWNU9tZnl1N2dvYi1ib2pMcE1KdDljdmVia3RvekdsR0RZUTI0WUJGa0htamM0dVHSAbcBQVVfeXFMTXI2aEpDSHNXOHIzcjF0U2tOX3ZvTjc1dVZ5a0VEQjJXcHFMU3M2QVIzTHhxak9kajNQWm52UHlhQXFoeWFZMVFkLVIzR1A5VHNiTnU3VGZIZEZOSDRuMzFWTEFPbEp6RUdxcFR3YnZDa1hZN2RnV0lnYzQyWUlULUszOU5xQ1Z4VjVPbWZ5dTdnb2ItYm9qTHBNSnQ5Y3ZlYmt0b3pHbEdEWVEyNFlCRmtIbWpjNHVR": 1792833092461,
-    "news:CBMi8wFBVV95cUxPM0hDYWVCRFd2dGNTV3plLXk4UWI1eDFvSE1mOXBILTVsbUg5bFVVaGs2RTNxRFVZcFdma180Ql9uenZXMUdZejd6MmJybHFkeE9NYVZvRkVQUkUwcnRNWnJsRUxmdnN3OEJvSXk3eTVNOEViQzN5N2NRcEVUZk1vSlB3SzBrMTFGY3FIcVhPd2lxaUFPd0VjU1dCVm5NV1VBMmx6VmJvUkdQQm13S2VDTXlibXZCdllieV9uUWVZbzRKS05ScHlEUGN6NDBkRk83LUFuV2ljSWdzd21adlBYQ1RYSDg0OWI5aGdobUFyYlpXVWc": 1792833092461,
-    "news:CBMi2AFBVV95cUxOTEM2UHlUVHZnNUI3SjU4U0dCRU9CT2pXOTFlTXFGczVZQWNmSTBQZE93YWZGek4wX05tSzJNcU13M0UzLWR1LUhOQXRjeVE5bHh3b0tuRUtMOGxDX001eVo3TE1jbk9hSFpSS3hsQVpkWWpITjF6eXRkX2lLNXFmNkZySi1RbFp1NEhRbkdCUzdyNnhWMXpLVjl3V3gtNUFhWjdqdkkyZDJiNkJEbTVmSVk0REFPOWJGdVAtNW9aU0tqckFLSXZQY0ZrUXBQNzBYbXNnUlo1ejc": 1792833092461,
-    "news:CBMitAFBVV95cUxPV0IwLWRSOHI1N0pIOXYzM19KeGpUVjg5RXBXQWxGSEs0RHJkUWdEMWFmTE1vaEhaSDFqdmI2VlNXenh3cHZTSHdCb2p5d3NvV1VORDhsalFfOHdaQXdwcGJyN3JvaGpWOFZpajBaOVN5NTdFZ1ZvdWs5bnVkWnhtWlI0VUJoUFN3QXBpdlVxdlhHbGlKd0UzaGRSenl6S29TQUc4SXY0ZzVPamZxUkw2Sl9neVLSAbQBQVVfeXFMT1dCMC1kUjhyNTdKSDl2MzNfSnhqVFY4OUVwV0FsRkhLNERyZFFnRDFhZkxNb2hIWkgxanZiNlZTV3p4d3B2U0h3Qm9qeXdzb1dVTkQ4bGpRXzh3WkF3cHBicjdyb2hqVjhWaWowWjlTeTU3RWdWb3VrOW51ZFp4bVpSNFVCaFBTd0FwaXZVcXZYR2xpSndFM2hkUnp5ektvU0FHOEl2NGc1T2pmcVJMNkpfZ3lS": 1792833092461,
     "threads:De3wuYTGTaV": 1792833348719,
     "news:CBMirAFBVV95cUxQRzVyQy1KMmsxbXYtUUVUYkM1dkcwenI0MjBNVEpBUko2YVRWMkx4dVNlM1JLZGxOcmpLbHQwSkEzN0VadWNJVEJTb3hPaGkwZVM4Vjl3Y2UxWmk1RTdrMUJGa29DeTdxeWI3U0ZNX3M3OFZKOWpCVEstRDk4a0JSUzVMY1l2TjRtbXYtRm5TSmJ1N2FMZEVwdVpOdDB6RDU2Sng2bFhxVFgwaDR10gGfAUFVX3lxTE9oZmoxQVpUQzhCOHVQV1ZEdF9sTTlOLXRGWXQ5MG1OR3NUY2puZ2RJNnIzUU1ZdWcwUTNsMDJVY09ISGhTZnMySEhnSnEwbTZvcVppUTBCNUVnRUd1ZkpCS2JCODRvYmRjTHZseVQtRzBHYjNZTFRTYUV1cUsyX0lPbkhFSTBRQVRjOU5WVFRDMkZEbUpMaks4a3hkZUR3WQ": 1792833348719,
     "news:CBMi5gFBVV95cUxPTDFuekRuTmFlUWlYOFd4WjR1UzNQQUtra2RuT29hWTlGX1pEUGs0RXNxalJUUEtqcDM4YjQyTkMyOEEtTG5ZWTNNTVQ4MDBJckRRNlJrbThKWEE1c2Rpb3ZZS0s2MkJoTHVNQ2QxNC1PRWZYM080a2VwdzBROW1SUW56MTYwZkpFZzZRbHVDWDRVTy1ZWDA5ZHhwMGFoRXo1dVozaG8yR1lPeXk0QW9YWVB6YVp0aWtUaWhRQTVGTE5vVUtNMTk1czBoS2RTb2Vvc1JOUjc4aUdnMm1MX2VEUmVVNzNJZ9IB5gFBVV95cUxPTDFuekRuTmFlUWlYOFd4WjR1UzNQQUtra2RuT29hWTlGX1pEUGs0RXNxalJUUEtqcDM4YjQyTkMyOEEtTG5ZWTNNTVQ4MDBJckRRNlJrbThKWEE1c2Rpb3ZZS0s2MkJoTHVNQ2QxNC1PRWZYM080a2VwdzBROW1SUW56MTYwZkpFZzZRbHVDWDRVTy1ZWDA5ZHhwMGFoRXo1dVozaG8yR1lPeXk0QW9YWVB6YVp0aWtUaWhRQTVGTE5vVUtNMTk1czBoS2RTb2Vvc1JOUjc4aUdnMm1MX2VEUmVVNzNJZw": 1792833348719,
@@ -27688,59 +27671,18 @@
     "threads:De3ujbbFOB6": 1794042345245,
     "news:CBMixwFBVV95cUxPSWVsczRmY0pjUUNmdUcxcUZMcjE4ZkU5Sy1WNnhWVk9JS2xxMktWXzhNeXlIdl84NWMyTHU1T21GUnVVZVpvQmEyd3QxN3RyQTRsZVcyMG1xVFBRQUJxM01rLUJ5Z0phd0Q0QmxSdXRnTjBBb1lORWpTbUlxdVlMZjF2RDJ2ZE1VRzhFMFlIZ0lYRHpUN25mNVllVnNuR1lVUy1DTHA2MWxLU1haQ1g1ZTBpQ1ZELWt1aWhFVGdnamhXTFY2M0lB0gHHAUFVX3lxTE9JZWxzNGZjSmNRQ2Z1RzFxRkxyMThmRTlLLVY2eFZWT0lLbHEyS1ZfOE15eUh2Xzg1YzJMdTVPbUZSdVVlWm9CYTJ3dDE3dHJBNGxlVzIwbXFUUFFBQnEzTWstQnlnSmF3RDRCbFJ1dGdOMEFvWU5FalNtSXF1WUxmMXZEMnZkTVVHOEUwWUhnSVhEelQ3bmY1WWVWc25HWVVTLUNMcDYxbEtTWFpDWDVlMGlDVkQta3VpaEVUZ2dqaFdMVjYzSUE": 1794042345245,
     "news:CBMiU0FVX3lxTE1VcVMtUUo2VUt3aWZsTnMzN3hTSTNjaF9UYWZOT1BPRDljb2VBMkRwMW9fdktHT1hwN3JadWYtM0pXMGdyeUc3NVhnRUVaMUFTdHpv": 1794042345245,
-    "news:CBMisAFBVV95cUxOajEzS3M2NXBxSklveTkzVzFvb2thLXo2T203N2RpSG51bkRyUEFOSUMzMmpjeWJwOWtCZ2NjdUdkUjRGaldmak4wNEdsQmpjRzdKTzg0MHFIOFRzNm12MmZxWW9KMFhZUVRvQXRCZVExU0FqbTJKMVB3cVYyMG81b18zYmlUNnpiU0NnY3NPWEJQanhYdm91TjE2TWFINWx1aVRXOTRzWTJFQzI3d0FpYw": 1794042345245
+    "news:CBMisAFBVV95cUxOajEzS3M2NXBxSklveTkzVzFvb2thLXo2T203N2RpSG51bkRyUEFOSUMzMmpjeWJwOWtCZ2NjdUdkUjRGaldmak4wNEdsQmpjRzdKTzg0MHFIOFRzNm12MmZxWW9KMFhZUVRvQXRCZVExU0FqbTJKMVB3cVYyMG81b18zYmlUNnpiU0NnY3NPWEJQanhYdm91TjE2TWFINWx1aVRXOTRzWTJFQzI3d0FpYw": 1794042345245,
+    "threads:Dfb1EnDE5Pr": 1794042641451,
+    "threads:Dfb1A5ciSOC": 1794042641451,
+    "threads:Dfb0f6-iXeW": 1794042641451,
+    "threads:Dfb0QCIFIka": 1794042641451,
+    "threads:Dfb0GEyEjxY": 1794042641451,
+    "threads:Dfbzb2vlHK2": 1794042641451,
+    "threads:Dfb1DNsGBLj": 1794042641451,
+    "threads:Dfb0Hwuk6sQ": 1794042641451,
+    "news:CBMi6wFBVV95cUxQUHNwVHlNX3dISEFkOWZTWlJobWY4R0RXXzl3X0VVeGVYS2doN2daRk9CY3dUTXdIeGY1cDZQREpRWURPV3o4RXhwaElkb1lFMWo1eGxKblU3VlZGeXlIdjNTeUpNZmd4blExVm51aUJtNjNNbk5SNktkV2pEZElVQkJteFRtSnlQc0VwOXJaMlpkQjJSUzRJeGFYdTdwOHJVanJlYXFMNzNKSHQ4ZllXMEFVbnU5NXVKVUtPSWF5M1NBUFdDNnVkLUFVY2pzM1czVDJQbFhaYlEtOWs0THNfd19sUVM2MVNzbEdV0gHwAUFVX3lxTFBVeU05U0lObHQ1VU9TRlF2Q2NhTUktTTFRV01JTG9uWldlVmE1bVdYUjFHZkRqOXV0UHp4aWdBakYxR1RqQ0dXbU91Mnh0amExQ2dVeUVYNHdIU1RoRm5WU3k0R0FneWczUkMwclBheUJkNFprM1hvekhVOUZPdHBBLWRoT0xQX09lcDJTeG9TdUhaV2wwZ0gteHIzbHg5NUhvQTF4Qms5VE92ejRsZ3dHLWNLSWZuZE9xLUZ1YWFUTXNBSzVKZWRhMk9pNC0yVnJxaWZtV0RRSHVCeEg4NmZtdVlwWEdOMHlUaXVQMFlBSg": 1794042641451
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yonita2828",
-      "x": "Setiap bisnis besar selalu dimulai dari langkah kecil. 🌱 Gojek menjadi salah satu contoh bagaimana sebuah ide sederhana bisa berkembang melalui inovasi dan konsistensi. Begitu jug",
-      "u": "https://www.threads.com/@yonita2828/post/DfbZdzIGJel",
-      "d": 1794028196000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arief_bekasi",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@arief_bekasi/post/DfbYWKNHXi4",
-      "d": 1794027609000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nadiasaufa2022",
-      "x": "Mau ikut kelas gratis",
-      "u": "https://www.threads.com/@nadiasaufa2022/post/DfbZkfhmcCb",
-      "d": 1794028251000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@keisyasakinaa",
-      "x": "Halo! Aku Keisya Tigo. S , dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Mic",
-      "u": "https://www.threads.com/@keisyasakinaa/post/DfbZX6SgRau",
-      "d": 1794028147000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@alfon_1906",
-      "x": "Dan ini terjadi di hampir seluruh belahan dunia, yang pastinya juga termasuk di Indonesia meskipun kayanya di Indo kita lagi mulai merangkak ya soal AI... Nah melalui threads ini, ",
-      "u": "https://www.threads.com/@alfon_1906/post/DfbY8eMkkGz",
-      "d": 1794027923000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -29190,10 +29132,60 @@
       "d": 1794042000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elephant.2937551",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@elephant.2937551/post/Dfb0QCIFIka",
+      "d": 1794042239000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rudy11294",
+      "x": "Usia 50+ belajar bisnis online dari nol, bisa nggak ya? 🤔 Jujur, saya juga bingung mau mulai dari mana. GAPTEK, takut salah pencet HP. Alhamdulillah kemarin ikut webinar gratis, d",
+      "u": "https://www.threads.com/@rudy11294/post/Dfb0GEyEjxY",
+      "d": 1794042157000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@elephant.2937551",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
+      "u": "https://www.threads.com/@elephant.2937551/post/Dfbzb2vlHK2",
+      "d": 1794041811000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@awdxvt",
+      "x": "Test ombak dulu, kalo aku buka kelas GRATIS untuk para conten creator newbie supaya bisa monetize akunnya atau untuk para UMKM kecil supaya brand nya viral dan datengin omzet dari ",
+      "u": "https://www.threads.com/@awdxvt/post/Dfb1DNsGBLj",
+      "d": 1794042658000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ddk.gunawan",
+      "x": "Saya juga belum berani kalau nggak sesuai kapasitas. Saya sertifikasi Financial Planning, tapi jualan buku jurnal juga lebih sebagai pelengkap kelas gratis yang saya buat. Saya ada",
+      "u": "https://www.threads.com/@ddk.gunawan/post/Dfb0Hwuk6sQ",
+      "d": 1794042171000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
