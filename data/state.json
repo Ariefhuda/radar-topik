@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4DUpEkSmN": 1792842939553,
-    "news:CBMi0wFBVV95cUxNWHZXb2VIci02cDUtbldRMERoTXptYjhuR0ZxcXlGVVhObjA2ckFvXy1CaEM0dFA0UDhjdzVoY0dVQTBoQlhlb1Z3MVAzTzJ0dW13UkhPUmxKNE9ERHlVb0IzRWRNQmJXVnBvcEZnLVhKdVZ2eVFzR09CR09GZTg1OXlhVFEycjR5RGlWQkJkN2NwZFBQWW9SOFQ0c000SVkyM0czU0R4X09Qb2dYMmtTYUpORUZKMEp5bEZOT0dEUndEUkdvM09VREtOSUhibWtJS0Zj0gHYAUFVX3lxTFBvSzlGeWQ2bURWUk1Hd0xJQU1vVHhrWUw2TmpJOTNWVzVjbmtoNWtsekVEZWdMUlBzallQbzhpdjlvdGNSQXRMTmhxT1ZKdXA2eG84VHh4MnBhZ05oXzBQMmtVT2ZTYlJTWjJfbHA1SndncUJGR2ZPWGVSanJQZXV5UWFsNVdPZUt5X0J3QWE0bk1iUVlCZDFuTllvNS1FMnI1WVBMYVJGekxZS0I2M0hCRnZHOGdlT3JkQm02a0NQTWVLMzRlWFk0eUhBUFVFRklGUGNFN2pFTg": 1792842939553,
-    "news:CBMisgFBVV95cUxOdV82el9pRElWVkVFQ09hY1A1NkFIS2w5LUZsNXV4QVJPNTFQSnN3SnFhVWdlR1Vsc1NMdUQ4clVQU09iSzNKSHY4SHN1Ym50LXlwUDg4Z09lU0tLTGRDYmp4ZEZDWEI5dWxkZUdaUGNoSnRnRy1ScW5NSGFETWc1RFdRWmRwQWxLNExTOXAyRmRRRDVGZWk1YVJKbjVkVV9vQi05ejVMVTN1dHQ1UWxYcE1n": 1792842939553,
-    "news:CBMirwFBVV95cUxNM0ktR2JZVWN5MUpDVm11ellNQVluNUdPS2p6aFdDQ2JISGdiRmtQbGtNSUM5cWZDX3lBTGY3ZGU4WmhyUnJMaWZVOHpkU1k2YlNYTmdNTTlVOXkzdXk4WmxidFp5Qk5DdnpOV25pbXZkbF8zN1N3bTVWbVpqY2NqWXFob1pnelB2eXBwd0hYbWwwaktPRllXQkpiMmtMbzRMVzE4czRxTHR3M2dVUEVJ0gG0AUFVX3lxTE1vVGZzTHZJQzFmZUhMeGJ1R3BSY1AxVG1IOHFBN0VMRjZua1BMa3BDSWNaZlBJOVpGb1I1eG03Nzd6QVQ4bEN4S1RyNnNOcDJkdm82SUhaZEVpWnZ2WnVGQTYzLV9CbFRaeFpUd0h4cVl1MmZ0ZEJ3WWwzRmNta2lCX2w3R0RYWGh3X0tkbVNyUWgycUl0YWZLeTZmQWwzWF9DOHVuNEJhZXhKOFJjRE5qTkwtUg": 1792842939553,
     "threads:De4FT0zCqo7": 1792843253426,
     "threads:De4E_mJkqCY": 1792843253426,
     "threads:De4EFenEzxa": 1792843253426,
@@ -27645,39 +27641,13 @@
     "threads:DfcGat6n9B5": 1794051936275,
     "threads:DfbfxpdlCt0": 1794052244466,
     "threads:Dfb8lp8kX9w": 1794052244466,
-    "news:CBMirwFBVV95cUxOa1ktb243S3BkVS1sbmt6YWpoSHZvT3pzRXltQmpSVUMyeXhWQU9TVm5NR0l6eXVoUTI5azN5V2F4VHBZVVNESzJZdmhYdElia1ZoaVRWRENVbjhYb1BhS2g4TWF0MFVFcnVoOFBwYzdVeVVGSExvUEhvUDMxZjJfaEdUOTBBaVphSHE1cWRkTmI4QndYM3R6RHVhRk5HS3d2MXFrVXh2Mm1sM2U0VE5J0gGvAUFVX3lxTE5rWS1vbjdLcGRVLWxua3phamhIdm9PenNFeW1CalJVQzJ5eFZBT1NWbk1HSXp5dWhRMjlrM3lXYXhUcFlVU0RLMll2aFh0SWJrVmhpVFZEQ1VuOFhvUGFLaDhNYXQwVUVydWg4UHBjN1V5VUZITG9QSG9QMzFmMl9oR1Q5MEFpWmFIcTVxZGROYjhCd1gzdHpEdWFGTkdLd3YxcWtVeHYybWwzZTRUTkk": 1794052244466
+    "news:CBMirwFBVV95cUxOa1ktb243S3BkVS1sbmt6YWpoSHZvT3pzRXltQmpSVUMyeXhWQU9TVm5NR0l6eXVoUTI5azN5V2F4VHBZVVNESzJZdmhYdElia1ZoaVRWRENVbjhYb1BhS2g4TWF0MFVFcnVoOFBwYzdVeVVGSExvUEhvUDMxZjJfaEdUOTBBaVphSHE1cWRkTmI4QndYM3R6RHVhRk5HS3d2MXFrVXh2Mm1sM2U0VE5J0gGvAUFVX3lxTE5rWS1vbjdLcGRVLWxua3phamhIdm9PenNFeW1CalJVQzJ5eFZBT1NWbk1HSXp5dWhRMjlrM3lXYXhUcFlVU0RLMll2aFh0SWJrVmhpVFZEQ1VuOFhvUGFLaDhNYXQwVUVydWg4UHBjN1V5VUZITG9QSG9QMzFmMl9oR1Q5MEFpWmFIcTVxZGROYjhCd1gzdHpEdWFGTkdLd3YxcWtVeHYybWwzZTRUTkk": 1794052244466,
+    "threads:DfcHmcWksVp": 1794052537468,
+    "threads:DfcHZvXElO7": 1794052537468,
+    "threads:DfcH3pHEhhB": 1794052537468,
+    "news:CBMivAFBVV95cUxNMTBNMWZpRkM4VmZwcVI3RjU5Mmw5cUVJTHdRbE5RSUtwQWI5T3JQdzZqVmQwbkNldXhOZWl0MmJ6REVaLWhiQlFxeVZtT2I0WDVGMFg5VmRKQmhJVG1ZU2ZzaUhvQzZLZVdjNVJsMm9WLUxsWFFaeW5lRy1xQm54c1B5aG5qclN3UkNGSXJLVFN6T28yTFdfNW82UTVtZ3FWYUxRTENFZHdDaEN4ZW90Ukw0dG1FSlRaa1lHWNIBvAFBVV95cUxNMTBNMWZpRkM4VmZwcVI3RjU5Mmw5cUVJTHdRbE5RSUtwQWI5T3JQdzZqVmQwbkNldXhOZWl0MmJ6REVaLWhiQlFxeVZtT2I0WDVGMFg5VmRKQmhJVG1ZU2ZzaUhvQzZLZVdjNVJsMm9WLUxsWFFaeW5lRy1xQm54c1B5aG5qclN3UkNGSXJLVFN6T28yTFdfNW82UTVtZ3FWYUxRTENFZHdDaEN4ZW90Ukw0dG1FSlRaa1lHWA": 1794052537468
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sonicoperr",
-      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
-      "u": "https://www.threads.com/@sonicoperr/post/DfborxuEpAT",
-      "d": 1794036175000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sonicoperr",
-      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
-      "u": "https://www.threads.com/@sonicoperr/post/DfboqDQEtS0",
-      "d": 1794036160000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sonicoperr",
-      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
-      "u": "https://www.threads.com/@sonicoperr/post/DfbooZ7EqEp",
-      "d": 1794036147000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29147,10 +29117,40 @@
       "d": 1794047400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@manusiarey",
+      "x": "Siapaa yang free malam inii ?? bantu support aku yuu join webinar gradu ku sekalian nambah ilmu kakian hehe 🫰🏼 💰 AI Bisa Jadi Ladang Cuan Women Growth & Transformation Strategis",
+      "u": "https://www.threads.com/@manusiarey/post/DfcHZvXElO7",
+      "d": 1794052280000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sofiahalmer",
+      "x": "PELATIHAN AFFILIATE GRATIS, DI GEDUNG EKA JIWA DEKAT STASIUN JAYAKARTA 081292678242 RABU JAM 11 SIANG",
+      "u": "https://www.threads.com/@sofiahalmer/post/DfcH3pHEhhB",
+      "d": 1794052525000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Disway Malang",
+      "x": "Beasiswa Taibah University Madinah Dibuka, Kuliah Gratis dan Ini Syarat Usia Pendaftar - malang.disway.id - Disway Malang",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTBNMWZpRkM4VmZwcVI3RjU5Mmw5cUVJTHdRbE5RSUtwQWI5T3JQdzZqVmQwbkNldXhOZWl0MmJ6REVaLWhiQlFxeVZtT2I0WDVGMFg5VmRKQmhJVG1ZU2ZzaUhvQzZLZVdjNVJsMm9WLUxsWFFaeW5lRy1xQm54c1B5aG5qclN3UkNGSXJLVFN6T28yTFdfNW82UTVtZ3FWYUxRTENFZHdDaEN4ZW90Ukw0dG1FSlRaa1lHWNIBvAFBVV95cUxNMTBNMWZpRkM4VmZwcVI3RjU5Mmw5cUVJTHdRbE5RSUtwQWI5T3JQdzZqVmQwbkNldXhOZWl0MmJ6REVaLWhiQlFxeVZtT2I0WDVGMFg5VmRKQmhJVG1ZU2ZzaUhvQzZLZVdjNVJsMm9WLUxsWFFaeW5lRy1xQm54c1B5aG5qclN3UkNGSXJLVFN6T28yTFdfNW82UTVtZ3FWYUxRTENFZHdDaEN4ZW90Ukw0dG1FSlRaa1lHWA?oc=5",
+      "d": 1794047400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
