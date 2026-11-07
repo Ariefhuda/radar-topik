@@ -27696,32 +27696,12 @@
     "threads:Dfc0skqCS3F": 1794078935766,
     "threads:Dfc5eVIkwwr": 1794078935766,
     "threads:Dfc5dBpE72F": 1794078935766,
-    "threads:Dfc7zVbiZsv": 1794079719707,
-    "threads:Dfc7rsxCVlp": 1794079719707,
-    "threads:Dfc6lefj1ll": 1794079719707,
-    "threads:Dfc6bSkj_Cy": 1794079719707
+    "threads:Dfc6lefj1ll": 1794079533345,
+    "threads:Dfc6bSkj_Cy": 1794079533345,
+    "threads:Dfc6qy7kwEv": 1794079920187,
+    "threads:Dfc7ItbEvbY": 1794079920187
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Disway Malang",
-      "x": "Mau Kuliah Gratis di Arab Saudi? Ini 5 Syarat Wajib dan Cara Daftar Beasiswa Saudi - malang.disway.id - Disway Malang",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUENoR2w5OXgzLXF2eU9pWkFFQXlZYTNKSXNmQ19vSnNYazRtNDdBRENubnptUU1VaEVNYktYVjQ5czY4cF91dEpsZ014MHlUUXVsS296VTNTeGQ5YkZ4SU1fdXVxUkhSRF95TlpmLTRqeklMUTNzdzMweW4xTUZxMFQ5dFpKS1RaWG40T3VIQ3RqeGpzRkpJb0NLTUY4ZHNRZDZudTJRQ0syMHlTZk5IMkhnbUhkSTTSAbcBQVVfeXFMUFBDaEdsOTl4My1xdnlPaVpBRUF5WWEzSklzZkNfb0pzWGs0bTQ3QURDbm56bVFNVWhFTWJLWFY0OXM2OHBfdXRKbGdNeDB5VFF1bEtvelUzU3hkOWJGeElNX3V1cVJIUkRfeU5aZi00anpJTFEzc3czMHluMU1GcTBUOXRaSktUWlhuNE91SEN0anhqc0ZKSW9DS01GOGRzUWQ2bnUyUUNLMjB5U2ZOSDJIZ21IZEk0?oc=5",
-      "d": 1794045600000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "BERNAS.id",
-      "x": "EHEF 2026 Jakarta Dibuka: 92 Kampus Eropa dan 1.000 Beasiswa per Tahun - BERNAS.id",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEhYd0N6dW9yVllERkFwTGxxNDlZRXQyc2NoRjRtSVByenZuZnhZWjRNckp5MlZsN1N1V1BEdGtheS1FUUNXWFMzZWlqelQ1dWJCNER1a0pyWVdTVjk3QnpNcFFCQ0ktLWF6aEFGRWhhX1dmaGRTMWdia3NYT2NiVHRUUTBtZE41RklJczJGYlpVX2ZibWh6THV6bnAxVF9lYXA3RlpSdU1vR2JRUHlnYg?oc=5",
-      "d": 1794055377000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29201,10 +29181,30 @@
       "d": 1794078521000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mejarela",
+      "x": "Mulut haram siapa sih yang bilang kita yang nganggur gini GA NGAPA NGAPAIN!!?? tiap malam OVT, cari pelatihan gratis buat nambah skill + cari info loker sehari di targetin 5 lamara",
+      "u": "https://www.threads.com/@mejarela/post/Dfc6qy7kwEv",
+      "d": 1794079158000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sutankhulifah",
+      "x": "https://sutankhulifahacademy.id/events/pelatihan-cakra-ilahi-ke-8-gratis/",
+      "u": "https://www.threads.com/@sutankhulifah/post/Dfc7ItbEvbY",
+      "d": 1794079403000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
