@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4DqWYGDAU": 1792842350595,
-    "threads:De4DackgZVl": 1792842350595,
-    "news:CBMiywFBVV95cUxQWnh4T3FvTFhFTHVTbGJ5TjQtMmg2Q0dqYjJ3SlZoOUEzYWlpOWx1TEJxcHAtSXNTRDFoRkNYdGw4c0FvdXQtUE9pQ1Q0TTBDT1lWOGVOX3BTd1FDTC1qU1FDOXNMMXZ3RmZZdk5HTEEtSm1xaGVsLVVidWVsemFnckxOdUNVM0I4bS11M3VJemQwRTUyR3BrTm81NTVqMUx5NHVSb2U2STdFS19TZ2ZReGN5Q291QVRCRzI2T0lkcUwwazdwMFdoV01NWQ": 1792842350595,
-    "news:CBMiiwFBVV95cUxPc05IUkY0Y21fMW96dEZyMFdBTkhQa1habVQ5d0RUQ2pjeFBvN2p5a1pnUEREcTY4UUtXY1VuUnJUdmpsZFdzNzhvTWpJc2dtM0cyZkljRzB6MnRlNmdLczRmTXJRRFhxNWdpdm5DSVB5dTl5MGFYUl94bi04QnJJMzhPVGpnNkZDcE1Z": 1792842350595,
-    "news:CBMisAFBVV95cUxNZFo3cnU4b0FQUklDcGQzMF9KTE5IcVhwZWp4dnA1dGwzb0tSOFZieGUycFJlOGdEMEljTDJMeV95TVIyVEZYR2N6bXFCdTA3Vk4xdjE1UnVGTi00OUdCZnQwZ0ZJdUU3N1p1WlluYUxEenFNdktxV0JyU25YSHVabnU5NjBRMmNwOUFGdzRIVi1uNTdfV2FwRHM1QWEybHJvY0NQMktvQWxSazlKeFh5VQ": 1792842350595,
-    "news:CBMiswFBVV95cUxQVWd4MXJfejlhLURWRGpabl9Wck5xY0NmdHVTRnlHa2xMUkE0Ymc5eDREQU5tV3pYbXlJaV9QREh6Q0FlMkJQeVhkN00yRTVhdDhSTm4zTURqV3VheE1YNmZfM3FST1ZJN2pCcHF6ZEF6YUVYaDY4TUtldERpZjYtQjl2UDVPTnIwaHF5TEs2YXhWbWY0RWQwLTNzcWZ1cWtIbHRITnlLVkx0dHdfNXVJSWdpUdIBswFBVV95cUxQVWd4MXJfejlhLURWRGpabl9Wck5xY0NmdHVTRnlHa2xMUkE0Ymc5eDREQU5tV3pYbXlJaV9QREh6Q0FlMkJQeVhkN00yRTVhdDhSTm4zTURqV3VheE1YNmZfM3FST1ZJN2pCcHF6ZEF6YUVYaDY4TUtldERpZjYtQjl2UDVPTnIwaHF5TEs2YXhWbWY0RWQwLTNzcWZ1cWtIbHRITnlLVkx0dHdfNXVJSWdpUQ": 1792842350595,
-    "news:CBMiU0FVX3lxTE16amdFWTRoWFRkSDV1ZDhOVGxtQ2NIUEJta0FuUERXbVJLemUyVGpHVXcxSGQ2UXRCT28zOUptYkg4d0RrRm1MR2pzS0p3V2U3VUZN": 1792842350595,
-    "news:CBMi3wFBVV95cUxQc2pxcWU3NEJMZDZVbThHSFVMZnktYVpTVkJ2cVc2RVhhQVk5SlZxNlJRenVBZ1AtVlVYc05PNnhCZGZ5OFNZME5wNXhTeFZWMUdyN0xHQ3M2VVgzelpzVDJDTUkwQkp4R2cyU0FjS2lBcTZOZ1h4WmRpeHpBeHEwMWhPWE1WQUxsblhjLXB2OHREQ004dXVRSloxaVNDUjFfM1hEWWwyYVRIRTVnTmpPWDBJODVGZHk0bkZCX2lWRlRFRWE1bmZkOV8tS1RIb0k1bDRTLVVoM2RLa1liQjdz0gHkAUFVX3lxTE1xYndPb0phenJiSTc1ZXBUNFNDbl9ub1NRMU5DRE04VFZJcmxnVXlNMFdILUVXWE1qSWNKQXVPa1ZhajFYMk1yajZ1VzJaZEU0a203RmFRcGxNOU4yTUFNTnZVdV9mN3kzejJIdmc2emZXNUxWalRQdjNPUkdGWGFrejJlRXhHaVBNYmdwUjRUMkcweU5qNXRibjdZaHpRbzA2YTA0S2NiMHlmM0xWQ2lSei1mRzgzdWlhLXFZbExMYjRTOEEzTjA4bnNNUl80NGppUXo2SUJsTDNxUHp3QzlMSjczMw": 1792842350595,
-    "news:CBMiygFBVV95cUxOdzVSX09USGFLRnU1QjJnTGJLNDl4eDFIVE5YdEZua1pSYzJoR05xakg2TlQ3ZHU4Zk94LWxrLW52TXNnYzdSbXZpM3oyVVlmZVZjTWhkcUhHc2s3eVYwV0RKVXpINUlpUjFBQU5lblJIYndpV2diMzhxblpqUF9LRE5RVlhITmY5Q2Fvc0doT2dtZUczZ0VhekdacjVldjhPZ1FQZ1JIUjc5MFJlbWVBakxoWkQzcnNzUW1qRlFVeXlTQTJCdFBhNnNB": 1792842350595,
-    "news:CBMiuAFBVV95cUxNNEhIMmNpQ0Yybll3d3oyTExxbGFBUGRkcUt2NC0wbGwyWElic1ZnX3d1SWhyR014djNsNzl4Y0ZJaUVKOUlSSE9zbjBmZU82TzFqMV9NaWs0eDM1eUZlSjRYMlFXMFBYQklwSDdSWVdrWkY4MG5iYXczdzFkRm1fOGdaQjZ1R3NISHlQSjJpZWhjTUxTV0VnSVZiMnlJcVEyYnJyeTZwVUlEZHpBMHVZWVQycTRxaXEt": 1792842350595,
     "threads:De4Dms_k-Jb": 1792842649551,
     "threads:De4EKU1EWcF": 1792842649551,
     "threads:De4EHuboM5P": 1792842649551,
@@ -27659,29 +27649,11 @@
     "threads:DfcFnwQjktj": 1794051640602,
     "threads:DfcFCXOFkAY": 1794051640602,
     "threads:DfcGVbGlH0h": 1794051640602,
-    "news:CBMinAFBVV95cUxPaFhyeWxDc2ZnaWpxMmJ5dGo4aHJzY2xMSE5oUnlvVXRMV0Rzb0xRZFZSQ2p0QzBjVnNUSzZ2anNHcWNYek1IU0ZueHNaUEF2NkU0NHNiTlZQeDlOTWtXMk5leGgtWUtpNVpubjZCTHJRdk5RbFhOdjhvODJnbUFpQml0WTMxb0tYVWpyaXJId2pKRWluamR2WWhNWDk": 1794051640602
+    "news:CBMinAFBVV95cUxPaFhyeWxDc2ZnaWpxMmJ5dGo4aHJzY2xMSE5oUnlvVXRMV0Rzb0xRZFZSQ2p0QzBjVnNUSzZ2anNHcWNYek1IU0ZueHNaUEF2NkU0NHNiTlZQeDlOTWtXMk5leGgtWUtpNVpubjZCTHJRdk5RbFhOdjhvODJnbUFpQml0WTMxb0tYVWpyaXJId2pKRWluamR2WWhNWDk": 1794051640602,
+    "threads:DfcFXqNH7pk": 1794051936275,
+    "threads:DfcGat6n9B5": 1794051936275
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sonicoperr",
-      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
-      "u": "https://www.threads.com/@sonicoperr/post/Dfbo47qEtnJ",
-      "d": 1794036282000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sonicoperr",
-      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
-      "u": "https://www.threads.com/@sonicoperr/post/DfbowNykuPp",
-      "d": 1794036211000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29161,10 +29133,30 @@
       "d": 1794051240000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@mochdnyltfi",
+      "x": "🇨🇳 KULIAH DI CHINA TANPA HARUS PUNYA HSK & TOEFL! 🎓🔥 Kesempatan emas! Beasiswa kuliah D-3 di China, Intake Oktober 2027. ✨ Tanpa HSK & TOEFL ✈️ Tiket pesawat ke China 🏠 Asrama",
+      "u": "https://www.threads.com/@mochdnyltfi/post/DfcFXqNH7pk",
+      "d": 1794051214000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ftri5218",
+      "x": "Mungkin nanti cair lewat kantor pos kak kaya bansos dlu",
+      "u": "https://www.threads.com/@ftri5218/post/DfcGat6n9B5",
+      "d": 1794051763000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
