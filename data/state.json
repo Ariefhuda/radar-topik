@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3KdQLmZ3S": 1792812940551,
-    "threads:De3KL8PjN6B": 1792812940551,
-    "threads:De3K9cqk2la": 1792812940551,
-    "threads:De3KfbLjyju": 1792812940551,
-    "threads:De3Iy_RE2Uq": 1792812940551,
-    "threads:De3LtBjE7ZX": 1792812940551,
-    "threads:DaOsQI2E1vs": 1792812940551,
-    "news:CBMic0FVX3lxTE9GTEFjTTJWNkZ0SWNoTTZYREZVSFA3VElLM0UxLXJuMzNIOVJpby1GMktxMTNRVk4zbjZrcDlCYllSS29ubDlSUDNJMWxkek16V3l6T0ROV015UFVuaTFNTEExZU1OcDhKRXpKNWYtbW90QmM": 1792812940551,
-    "news:CBMickFVX3lxTE41UFNhUmVoWmVyT0dyeGxvNDBZaHBtRTU3RFdqNFItYTJNOTNCTHFqN1ZBU2gyVzRPMWUyMUh2S3V1RG5GVTB3SmJGc3BmVGRfUXdlSzhZaVVEcGlHM1RjbjZWVWI2TXd5Ukh0S2FoaUE4Zw": 1792812940551,
     "threads:DeJx_uACXTo": 1792813242604,
     "threads:De3MfVDDgIX": 1792813544830,
     "threads:De3MR6CDZtj": 1792813544830,
@@ -27705,7 +27696,10 @@
     "threads:DfbOELrk4wx": 1794022243751,
     "threads:DfbM7DOk_8a": 1794022243751,
     "threads:DfbCY1gkgsz": 1794022243751,
-    "threads:DfbNIUtkVX0": 1794022243751
+    "threads:DfbNIUtkVX0": 1794022243751,
+    "threads:DfbNbn3EyAj": 1794022536080,
+    "threads:DUtTDrlE7Yp": 1794022536080,
+    "news:CBMifEFVX3lxTFBXcWJYQ0dGcmRxM0U1b19GZGxhQk1YUE5ydjNLU3ZJUTNUaHpHZTF6YW9fenJTWTQzZUJPQmFPQTl4MlVkRUxkdnB0ZlBhRHJTQU1ld29nX2I2NDN3cU14VEphNDFxcU16UXp0UXBYalFLVTY3UVBrVllKQUY": 1794022536080
   },
   "digest": [
     {
@@ -28697,10 +28691,30 @@
       "d": 1794021731000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yanthie_yamonsy",
+      "x": "Ini salah satu aja ya kak ? Klonudah lewat cek bansos berarti ngga usah lewat web perlinsos?",
+      "u": "https://www.threads.com/@yanthie_yamonsy/post/DfbNbn3EyAj",
+      "d": 1794021886000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "BPNT Rp 600.000 November 2026 Belum Tentu Cair Meski Nama Terdaftar, Ini Cara Cek NIK KTP - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXcWJYQ0dGcmRxM0U1b19GZGxhQk1YUE5ydjNLU3ZJUTNUaHpHZTF6YW9fenJTWTQzZUJPQmFPQTl4MlVkRUxkdnB0ZlBhRHJTQU1ld29nX2I2NDN3cU14VEphNDFxcU16UXp0UXBYalFLVTY3UVBrVllKQUY?oc=5",
+      "d": 1794022440000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
