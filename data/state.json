@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3Zp43jons": 1792822241373,
-    "threads:De3ZqR_EXhg": 1792822241373,
-    "threads:De3cEQSAiBV": 1792822241373,
-    "threads:De3NphonwiS": 1792822241373,
-    "threads:De3dUMPEhEA": 1792822241373,
-    "threads:De3cGxyklA1": 1792822241373,
-    "threads:De3cCz8kQCV": 1792822241373,
-    "threads:De3cQ5QEmGe": 1792822241373,
-    "news:CBMizgFBVV95cUxPWHJqenp5LUY1MVFsZUp3cm80c3dmUDY2VHREYi1BRHEyLVIwbjM1M1BYUUJzMUNzczlGeWNiWjZBcVRpdXZHXzZ4VW45cWZLQk5aR1dkVERnOVpFM054aS1yMnF4Mk50SmFUUERXOVI4bWNkaEdTOHduN19DcnM2aUFBZUZHVlRCeFFmYV9CcnBTamZ1cHBBbTFMcU5NM2NpVS15U0prdlZ5R0FWMVBMalV4ZjhVWU9IY1Rvck1jX0h3cU0tT3R1ZEdZTjc3d9IB0wFBVV95cUxOXzg3SWJZTWlUb3ZGbFVoWE5rbzlPMjViUjkxaHdtQV82Q2lTRXhqX3djdlRMX2FlVkVaZU9NWkxDREZDOHQxTDRoN1JjRnA0WlRMWi1PSzFON2dIaVlUZ3A4QUN5Vk5kZlhCd0U0NndnLXhla3ZUaHdrTmliLThPV2hGa1B0WG5yeGFudXk3U3VEbFVXVWNaNVhBOC1YNklyX2VEQ014WnM0VlNQNi1XTmZwS1h4ZlRJZmlUOUZ6TEJUTDNZaGNDRFpkU09QSEs5NWFn": 1792822241373,
     "threads:De2NeOJkmC0": 1792822560490,
     "news:CBMi1AFBVV95cUxNN0Y4ZUV0VEVMSTR3QUczcVp1cXhjNFpteE5wRnRrU1hSMWFVZXhrMWJ5VVNxNWxTYUlwX3VoQWtic3Qxc1lyNVZERG9jTDdkbG5zRWFMS0FLNndfNDE3Z3c5dlc5NWZKSWNPWkotbi11UXEzdFB1UjZEZjBiWmNlQkNYdktUM2Y5dzR0eDV3ZndFVWE3OUIyV0Y5cElvM091Ym9JM0l1LWVYMjU0cFNXRWJOQ3E1LXd2bml4MjYyNWdKaU8yS0FxZkVMQmVuQzlIQW5kWdIB1AFBVV95cUxNN0Y4ZUV0VEVMSTR3QUczcVp1cXhjNFpteE5wRnRrU1hSMWFVZXhrMWJ5VVNxNWxTYUlwX3VoQWtic3Qxc1lyNVZERG9jTDdkbG5zRWFMS0FLNndfNDE3Z3c5dlc5NWZKSWNPWkotbi11UXEzdFB1UjZEZjBiWmNlQkNYdktUM2Y5dzR0eDV3ZndFVWE3OUIyV0Y5cElvM091Ym9JM0l1LWVYMjU0cFNXRWJOQ3E1LXd2bml4MjYyNWdKaU8yS0FxZkVMQmVuQzlIQW5kWQ": 1792822560490,
     "threads:De3dGOimMCv": 1792822843438,
@@ -27697,49 +27688,22 @@
     "news:CBMirgFBVV95cUxNajRkaXNCcmFmMjE4dVM3cTd0WWxJaXNYT3lUbFl1NV9pTzE3b0g1U2tpLXRQOFZ5bXprbDAtb1VxMFNqei1kQXpRbEtrVWlOY3UteG9EVGJFQ3RfQUlGQzJDNmNIc2JiYWNBWC1RNFRlelVRV0JNUGl3SmctcThDVkphenVRVHZ5OWVhRkpGd3JZU3VvSWJTQ0tzT1ZqV09iODZ1cVo0Y3RpZFZ0cHc": 1794031249010,
     "threads:DfbfSseDlop": 1794031541223,
     "news:CBMiugFBVV95cUxPVUl6bzRwUkZ4bUFkQVdCSWFiZkdsLVJqU20zYlhwcDlCbVdDUkZFLWFTWVR3QTFfbzNiMVYyS1VXMkdaLWVuVHBmakFyd2VCemN5amhVZjgwbFF4aVVWN2NDelUxZUI4c2RyZGtCMURyd3ZFTjJGNndwenJGNXFUZFpiMUNXZlFYdV93MTJIZkpzNllVdHp1WTBJVElKcjJpa2hHY2pTZjk5SWdTMG9INWMtTGxKSnA0dUE": 1794031541223,
-    "news:CBMimAFBVV95cUxNTnVWdFRaa1Judkx0ZVZyRm83UGxDT2dPeVo2d1hEcEFTUEowbE95UXpoRUhHbFJyX3ZlcUdWSHlyalBGMWdjUG8zdDZUdXF5REFVWm9taTFCRDhCdEw4OXBZajFhLTRRUHdzaGRsR3dyY3hIQzVKR2NZUFp5bVF6dkEwZ1gtUGhxZmxZZXVlemgyM05XYlJUVdIBngFBVV95cUxOWFpucXFqbThESFdYaTBzbG9TQ1p2NDBHYmwyWWVSWXcydUJKb1Q5MWthNnZxRy1uelFhbkJ2akstTU5nYklGYzFnLW45N1Z5MGpiNnpMcmJ0d29MWElfMVpDZDZnYmlVcmVnaFdlczlaQjVQTTdjczZWTUUzOWhqaTFpOVhKNFdKTGNjQVp0c1U3R3dYSkZzbUtOR0JSdw": 1794031541223
+    "news:CBMimAFBVV95cUxNTnVWdFRaa1Judkx0ZVZyRm83UGxDT2dPeVo2d1hEcEFTUEowbE95UXpoRUhHbFJyX3ZlcUdWSHlyalBGMWdjUG8zdDZUdXF5REFVWm9taTFCRDhCdEw4OXBZajFhLTRRUHdzaGRsR3dyY3hIQzVKR2NZUFp5bVF6dkEwZ1gtUGhxZmxZZXVlemgyM05XYlJUVdIBngFBVV95cUxOWFpucXFqbThESFdYaTBzbG9TQ1p2NDBHYmwyWWVSWXcydUJKb1Q5MWthNnZxRy1uelFhbkJ2akstTU5nYklGYzFnLW45N1Z5MGpiNnpMcmJ0d29MWElfMVpDZDZnYmlVcmVnaFdlczlaQjVQTTdjczZWTUUzOWhqaTFpOVhKNFdKTGNjQVp0c1U3R3dYSkZzbUtOR0JSdw": 1794031541223,
+    "threads:Dfbf5MvGa-7": 1794031852058,
+    "threads:Dfbf2Y3HZsd": 1794031852058,
+    "threads:DfbgX_WIxcM": 1794031852058,
+    "threads:DfbgXUdk7tZ": 1794031852058,
+    "threads:DfbgJaNkp20": 1794031852058,
+    "threads:DfbgK9KjA3z": 1794031852058,
+    "threads:DfbgJcyicuW": 1794031852058,
+    "threads:DfbfwfjHzSV": 1794031852058,
+    "threads:Dfbe6Y0Gfz1": 1794031852058,
+    "threads:DfbggH0Et2y": 1794031852058,
+    "threads:DfbfjFSE_kJ": 1794031852058,
+    "threads:DfbfeP-EgDB": 1794031852058,
+    "threads:Dfbflmljy7Q": 1794031852058
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Media Indonesia",
-      "x": "Syarat Skor Minimal TOEFL LPDP 2026: Aturan, Jenis Tes, dan Masa Berlaku - Media Indonesia",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEZJZTNLZlpNSF9aenRkQkpzZzNXcmVoVUd0T0xrNXNfa3lCeWFfTE9PaERuUzk3cllKTUduaFFGMm5vUm5QNm1pUU84dW9vQXFDek84S0N3NGhMQkdiejdVQ0ozOGg2ZEJtTGIyXzY5QWRUZ0RnR09UQjhDOGtjY0Zod1hyRFVDWEY1VGVmZGFwR3Zycm9NSklnc09xNXA0V1BMbU12SEo1em9JbEQybzBvSQ?oc=5",
-      "d": 1794019208000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Maaf ya bikin kesel, bukan maksudku jawab ngasal. Di tampilan yang aku dapat di Threads ini, postingan enka_ristra yang kamu tag itu kebacanya cuma teks \"Alhamdulillah ❤️🙌\" aja — ",
-      "u": "https://www.threads.com/@meta.ai/post/DfbMcpID8jU",
-      "d": 1794021371000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Foto : Cara Cek Bansos Rp 600.000 November 2026, Cukup Masukkan NIK KTP Halaman 3 - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTQxT1lqWjc3LW5oWXdXckFzcVFrWDkwSzE5UWVsWkxFYXpYY280RDg2NFdFQ1pUZEs2azI3MnItS3ItN05mOXZyRGJ5bU9CVF95ODRqeFMyUGJibHVhNTFzejl0VURpUW9Sdy1YR0FPbDRKWjk0ZWo0Tjg1cFlMal9BakJUZHRaVmtWR0l0azduaXkxaDkwbG9RUkNCbDhBRXZPS0oySkFqLXRaWVM0cGFPTERWY2NLNWp4blF3?oc=5",
-      "d": 1794014087000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Medcom.id",
-      "x": "BSU Rp900 Ribu Segera Cair, Cek Syarat yang Ditetapkan Kemenaker - Medcom.id",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEMxdVpvOFJWRkw2dm9KeDVaalVzWGZIeG5MMzhrLUh1WXVFcWNMQTZERV9DemVZMXdTcmhQSHFLeHlidWRpdGkySkl2UVU3bklQQXNFVklWMUtUYmxvcWltS1VhYzQ1X0xzSFdwSDJJMUx4RjdFY0lSeFYzaGRFZEhRNGZabjVQQ242WWxYSWF3MWJ2czNqaWU5eFppU0NQN1VJdllEdWFDZUctcXdISA?oc=5",
-      "d": 1794021480000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29199,10 +29163,50 @@
       "d": 1794030540000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@husnaismii",
+      "x": "Buat yang mau WHV, Study, atau kerja ke LN dan lagi menimbang-nimbang untuk test bahasa Inggris PTE or IELTS. Aku bakal adain free webinar buat kupas tuntas PTE itu apa? Scoring ny",
+      "u": "https://www.threads.com/@husnaismii/post/DfbggH0Et2y",
+      "d": 1794031885000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@golddrip.coffee",
+      "x": "Warga jakarta kalo ada pelatihan content creator gratis dapet uang saku dan banyak benefit lainnya pada mau join ga?",
+      "u": "https://www.threads.com/@golddrip.coffee/post/DfbfjFSE_kJ",
+      "d": 1794031385000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiri_berkahi_digital",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@mandiri_berkahi_digital/post/DfbfeP-EgDB",
+      "d": 1794031345000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandiritokuteiginou",
+      "x": "Mitos: \"dari nol sama sekali, bisa ikut?\" Faktanya: bisa — Trial GRATIS Batch 1 memang mulai dari nol. Sesi 1 aisatsu & perkenalan diri, hiragana baru menyusul di Sesi 2–3. 16–21 N",
+      "u": "https://www.threads.com/@mandiritokuteiginou/post/Dfbflmljy7Q",
+      "d": 1794031418000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
