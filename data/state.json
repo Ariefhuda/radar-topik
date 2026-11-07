@@ -27633,7 +27633,12 @@
     "threads:DZrpVUoGkgL": 1794064839742,
     "threads:Dfcd-1PEgwO": 1794064839742,
     "threads:Dfce5A-k3iW": 1794064839742,
-    "threads:DVGnu12DcdC": 1794064839742
+    "threads:DVGnu12DcdC": 1794064839742,
+    "threads:DfJZ13NkpFC": 1794065139006,
+    "threads:Dfcf3ftEuq3": 1794065139006,
+    "threads:C7vWCEotD7q": 1794065139006,
+    "threads:DZywpG0k659": 1794065139006,
+    "threads:DfcdSxgE9a3": 1794065139006
   },
   "digest": [
     {
@@ -28645,10 +28650,20 @@
       "d": 1794064595000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@fairuz.jinan.501",
+      "x": "mohon maaf kak, ijin bertnya punya ibuku kk, tunggal, status janda. tapi cek bansos desil tidak d temukan itu bgaimana ya ??",
+      "u": "https://www.threads.com/@fairuz.jinan.501/post/Dfcf3ftEuq3",
+      "d": 1794065106000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
