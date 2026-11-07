@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De3QPD7Dh5R": 1792815566262,
-    "threads:De3QDdEDnES": 1792815566262,
-    "news:CBMiqwFBVV95cUxPanlSd2ZNb0V4dnNGUFEzb0M3LUdGQ3c5NTJ4TkdONUtGNE5ESXhRZS0tY0NCVkVQU0F1X3pINVhmMlcyLU1kRTRxTUJQdHdQd3BrSjNpOXJobUdNaWN1MmFYS0NBNS1HLXh3RFcxc21EN1Bld1JKMFVXZXpnYmJSMUszWlR4T19yUGJ0ODNDY3N1M3dtanFSUllrWDhpWmJ0ZGpiZXdsdXpaTk0": 1792815566262,
-    "news:CBMiuAFBVV95cUxON1ZCbVRqWHoxQXJtcVkySFJQX2NZQ0VNMXJJSWFpdUlEYkhNeFViOG1obEMtVGhkQWwwa0Y2cXVMTERaZ2NKcDZwOUxJTUdTYnhiS0xZelNSQ1gxakFZajFPWUJWbkdaZE44bjRrT1lSS2xuaWowNW9KWHA2dXhyOU1kOXg0NnhWX1VlVkFNNnUtRUxoYW1NUVJmcmh1Q3ZzWFA1endmZkJoR19YZDdQVzkyU3dpTUp50gG4AUFVX3lxTE43VkJtVGpYejFBcm1xWTJIUlBfY1lDRU0xcklJYWl1SURiSE14VWI4bWhsQy1UaGRBbDBrRjZxdUxMRFpnY0pwNnA5TElNR1NieGJLTFl6U1JDWDFqQVlqMU9ZQlZuR1pkTjhuNGtPWVJLbG5pajA1b0pYcDZ1eHI5TWQ5eDQ2eFZfVWVWQU02dS1FTGhhbU1RUmZyaHVDdnNYUDV6d2ZmQmhHX1hkN1BXOTJTd2lNSnk": 1792815566262,
-    "news:CBMi0AFBVV95cUxNVjdhV0NKM1A4T3BBX2ZrRXJyclEwdEN2SVdPTnVrUHE1TlNoMnByTDh4azlCVWFfeTNadzJzOGxVVzNQQnBWSElpZTctckFIWW02SE1haFpkc3RZN05xT004YVZET09wMlU1MUQ5VUNjMUhsR2RvYi1ycEJCUmRON1lGem9GUDUwbjZjY3oxdUtzRXdMZDRWRXRsV0VqMjdrbkZQem9EMHRsXzlVU2l1VE9xRUhFbDhkekExTXhQUGZhSXFGd2RqOUQ4R1lPQUNI0gHQAUFVX3lxTE1WN2FXQ0ozUDhPcEFfZmtFcnJyUTB0Q3ZJV09OdWtQcTVOU2gycHJMOHhrOUJVYV95M1p3MnM4bFVXM1BCcFZISWllNy1yQUhZbTZITWFoWmRzdFk3TnFPTThhVkRPT3AyVTUxRDlVQ2MxSGxHZG9iLXJwQkJSZE43WUZ6b0ZQNTBuNmNjejF1S3NFd0xkNFZFdGxXRWoyN2tuRlB6b0QwdGxfOVVTaXVUT3FFSEVsOGR6QTFNeFBQZmFJcUZ3ZGo5RDhHWU9BQ0g": 1792815566262,
-    "news:CBMiiAFBVV95cUxNeVpmTTUxZkVMUXh5eUV2QUgtaThmckZWaEFmVFpTaEpjbDJtN0pRMFUxYVpuRjVkMlFSUnRlSHdXcWcwVFJfbDQ5MWpidm1sUGlwWERoTDh6VTlkNU9PMW8tY2cwZVdHTFhXMFF6dnlTdmpxbTJjWk5aM1pkSUR3ZE8waTUtYkZE": 1792815566262,
-    "news:CBMihgFBVV95cUxOcWxtelFRUTh3Vnc4N1NRcXQxM1VoSmZtTVBFaTBxTzhYazJuRGh4c1FMZ2phOGVJYXpxdjV1LTNSZV9JVlliU2lqUHpqbTZqUkFJUjBySndXQllWQnJ5anRTX2ozd0g4SWlmbEF0LVVFRnJySGl5aVRYbF8xMHd6bmF5WThBZw": 1792815566262,
-    "news:CBMixAFBVV95cUxPOXl3b0RJcFZNTEpkdnVXelpYcTR3cm9LeHRlQjZ6WkVDTmxaQkZiRXk1MmFNbllzUmJkeC1xbTlieWZfSTAtN19HeWFPc0NHWGpwSFNwX2pZNHFRSFpYT1lrbEVCTzlyUGNKcW81bU1EYXdXd01HejBPajNpSTlWT3pVNVhtcFI4YTI5YkpjWXI3ZmtJZzlSQXRKeWp3aVNCQXZOb21XR3Zzbjc2cWFpWl9yeTRJOHBteDljanZKMFZpSExi0gHKAUFVX3lxTE1EWjZ2R3F6M1M0Y0lXdXRTUk9DRDNLMDhJeDVHdHpSQmRYelQxNllBZllLd3d5Sm9LNkxYZTE1OHpvbW1RQm1ETFNBdUVuSXpGeGtnOVctTmZIUnhlZUY5cmZXRjRsVkxvV2ZKNVdjN0ZkZloxWmpZeFp6RWk5aTlmYWY2UkdvQlEyZzI5QnF6djZQS3dtZHZwbFRtM01LM0VFellBLXFjTUxrMDRkWWtLWVhPWnNUUnJkTGZ6V01QN0djZ05La3JXUHc": 1792815566262,
     "threads:De3Ql4Cj1Qb": 1792815964170,
     "threads:De3RXF4j9F9": 1792815964170,
     "threads:De3RKAbD_W_": 1792815964170,
@@ -27707,49 +27699,21 @@
     "threads:DfbTUzrEmKC": 1794024935587,
     "threads:DfbTQSrGgVh": 1794024935587,
     "news:CBMisAFBVV95cUxNbC04UGFKS3ZodkYzQ2NmYXh3SHlZRmpWRHRSSXFYVW5tWjlUUlZuQzRWcnRTMlFWM0lIZkFQQndiOGVWUkl6TjREVGUzWmZENFIyUm1uMk5RdWQyb0lSbjZDbktULVQwUWc5Z0RMM2pKcmltOHE5ZEdGRFp3bGZuU20wYXI5RklDdXBfeDhQWEl2R1dNRG84aGUxQ2FtdVo2TGVfaHM2QkV4UWJtWGxMa9IBrwFBVV95cUxOWVMyZy15aXhMMGFrbWoxZ20zRkx4QVB4S05LcTlPa0IzQk94cW1ZQ1hZR0ozUzZET1pER0ZmNmlwYzZXZThJOWhZR2dxSjlna0pqb0JvNXFrOUw0QzBwN0hZVVhpdUZiU1BIdDVsNHJ0dFJvQWpDbE9FRXR1NlRUa1YzRXNZMzhaMVJFQjhtZ1V2QnROWElmeFZvQktCX1o1elpMbDJQOW9DU1UwVVJJ": 1794024935587,
-    "news:CBMivwFBVV95cUxPQ3hsc0NHN0tsbmwyS2djX2FjV3B3SjB1WWZZcXJYMmNzWDFoUlZabHAzbjdydlJWQ09KdFNDaGFSaURiZmUwMWhiRHlMUVN4bl8zQXl4MThpMDRkN2VDUEVDX1RGTDJ0TFdVcnlmRzRDRGVyTkpnOEh1RjBRZVpJSUdvaURYejRsaG81cHBnRWdjMVZGdWxEQWVFTUVGYzh5MmdYY2xGbHpmQ0xsdnk1MmU0QnBCTTdOQnhmV1Fybw": 1794024935587
+    "news:CBMivwFBVV95cUxPQ3hsc0NHN0tsbmwyS2djX2FjV3B3SjB1WWZZcXJYMmNzWDFoUlZabHAzbjdydlJWQ09KdFNDaGFSaURiZmUwMWhiRHlMUVN4bl8zQXl4MThpMDRkN2VDUEVDX1RGTDJ0TFdVcnlmRzRDRGVyTkpnOEh1RjBRZVpJSUdvaURYejRsaG81cHBnRWdjMVZGdWxEQWVFTUVGYzh5MmdYY2xGbHpmQ0xsdnk1MmU0QnBCTTdOQnhmV1Fybw": 1794024935587,
+    "threads:DfbTmzUjufu": 1794025235551,
+    "threads:DfbS5kgH3NW": 1794025235551,
+    "threads:DfbTU13iS2R": 1794025235551,
+    "threads:DfbTUC8EuX1": 1794025235551,
+    "threads:DfbSdUGE6lh": 1794025235551,
+    "threads:DfbSYSdAQF-": 1794025235551,
+    "threads:DfbSxHkj9EP": 1794025235551,
+    "threads:DfbTyL8j1uu": 1794025235551,
+    "threads:DfbTyQADzC5": 1794025235551,
+    "threads:DfbTyLfD7vm": 1794025235551,
+    "threads:DfbTyL1D35E": 1794025235551,
+    "threads:DfbTyMBj9aL": 1794025235551
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lokergawean.id",
-      "x": "Kesalahan yang sering aku lihat dari peserta baru: 1️⃣ Cuma ngafalin materi, padahal pola soalnya yang penting 2️⃣ Latihan tanpa timer 3️⃣ Nggak evaluasi hasil latihan 4️⃣ Nyepelei",
-      "u": "https://www.threads.com/@lokergawean.id/post/Dfa9p_PHyap",
-      "d": 1794013616000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rara80451",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@rara80451/post/Dfa9fqGD9Za",
-      "d": 1794013531000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rara80451",
-      "x": "Pejuang CPNS 2027.Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@rara80451/post/Dfa9PZgDwNk",
-      "d": 1794013398000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lokergawean.id",
-      "x": "Kalau baru pertama kali ikut CPNS, saran kakak jangan buru-buru beli banyak buku dulu ya. 😊 Mulai dari pahami kisi-kisi SKD: TWK, TIU, dan TKP. Bisa cari materi dan latihan soal d",
-      "u": "https://www.threads.com/@lokergawean.id/post/Dfa9J94nyZv",
-      "d": 1794013353000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29139,10 +29103,120 @@
       "d": 1794024597000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@withpaulina",
+      "x": "Guys, just share info ya 👇 Halo rekan-rekan freelancer 👋 Tetap semangat mencari cuan 💪 Ada webinar gratis guys, nambah skill AI plus kesempatan raih cuan dari program affiliate.",
+      "u": "https://www.threads.com/@withpaulina/post/DfbS5kgH3NW",
+      "d": 1794024753000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@llynndaa_",
+      "x": "mau ikut kelas gratis",
+      "u": "https://www.threads.com/@llynndaa_/post/DfbTU13iS2R",
+      "d": 1794024977000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@fajarcici09",
+      "x": "Mau ikut kelas gratis",
+      "u": "https://www.threads.com/@fajarcici09/post/DfbTUC8EuX1",
+      "d": 1794024970000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@shila_mashila",
+      "x": "mau ikut kelas gratis",
+      "u": "https://www.threads.com/@shila_mashila/post/DfbSdUGE6lh",
+      "d": 1794024522000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rindasetya.pendamping",
+      "x": "Mau ikut kelas gratis ...tapi saya ibu2 apakah boleh 🙏🏻",
+      "u": "https://www.threads.com/@rindasetya.pendamping/post/DfbSYSdAQF-",
+      "d": 1794024481000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@mc_sea13",
+      "x": "I don't know Pak....tapi mereka ada staff muter nawarin sertifikat gratis. Dan itu bener bener gratis",
+      "u": "https://www.threads.com/@mc_sea13/post/DfbSxHkj9EP",
+      "d": 1794024684000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "• Tunjangan yang diberikan belum tentu menutupi seluruh biaya hidup. Informasi dan pendaftaran: https://stipendiumhungaricum.hu/ 🇪🇺 2. Erasmus Mundus Joint Masters 2027 Negara: B",
+      "u": "https://www.threads.com/@fauzialiana/post/DfbTyL8j1uu",
+      "d": 1794025217000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "Seleksi sangat kompetitif. Pelamar dengan gelar Master sebelumnya atau yang sudah terdaftar di program Master ETH tidak memenuhi syarat ESOP. Informasi resmi: https://ethz.ch/stude",
+      "u": "https://www.threads.com/@fauzialiana/post/DfbTyQADzC5",
+      "d": 1794025218000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "Benefit: • Biaya kuliah. • Tunjangan bulanan. • Akomodasi. • Asuransi kesehatan. • Kursus bahasa Turki selama satu tahun. • Tiket pesawat sesuai ketentuan program. • Penempatan uni",
+      "u": "https://www.threads.com/@fauzialiana/post/DfbTyLfD7vm",
+      "d": 1794025217000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "Persyaratan juga berbeda-beda, tetapi umumnya mencakup: • Gelar Sarjana atau setara. • Transkrip akademik. • CV dan motivation letter. • Sertifikat kemampuan bahasa Inggris jika di",
+      "u": "https://www.threads.com/@fauzialiana/post/DfbTyL1D35E",
+      "d": 1794025217000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "🇪🇺 PUNYA TARGET KULIAH DI EROPA TAHUN 2027? CATAT 4 BEASISWA INI DARI SEKARANG! Beberapa beasiswa Eropa untuk intake 2027/2028 mulai membuka pendaftaran pada akhir tahun 2026. Ad",
+      "u": "https://www.threads.com/@fauzialiana/post/DfbTyMBj9aL",
+      "d": 1794025217000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
