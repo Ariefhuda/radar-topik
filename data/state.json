@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De4LIGPj1FL": 1792846569530,
-    "threads:De4K-BIEycP": 1792846569530,
-    "threads:De4LQyODsRb": 1792846569530,
-    "threads:De4KnORAseU": 1792846569530,
-    "threads:De4DVBbGzqQ": 1792846569530,
-    "news:CBMisgFBVV95cUxNU1dKTGdjQ3ZMTGhQcWUxOUNETDVzbHI1Z0htbGxHNEhubHpfYVpyNWZ4TXFDdHVJOENBN1J2SjgzR3VCeHdTSTB3VkRuX3BQZmtNcXFwbmRBek1NM3R6eGF3YWRWQlJtVzAwa25ZSENuNFVVa0xkZG5Fc1VENDk1enQ4VWxPTnlpZ0hoYWJUbGZfSEYtQTVqa1N3Qno4VVBlZTJzYlJYbE4yRDNpRUpYZUR30gGiAUFVX3lxTE5ZMGtHM0l4MlpMVDdqODRCUE95enFhazZoaE12YTVLR3ZUdXFJWlZaTEVFSFdJMFl0WmVTRlB2N2ZHc0VsVTFNd0h2WTZSUU5DOGR4enZ1UlNuV0JkSjhWSkpiNFRzQzVFQmJTUGp2bTFJZHZfb1lRYjhWUkdod0xqbDJ6U0ltcFNPb0hFM2pfWEw4SGx5UXREVjRQSzRWdkxBdw": 1792846569530,
-    "news:CBMimAFBVV95cUxPZUE0d3lqMEFEbEdZYlJfckFXVGNzTFNxRkFxYVNLRG5BZVVIUlhvT3k1T0lWUTJCeklhRHlCTFplTU1sanlvZDFGVFFmVGxWU1BHSk8wMzV0dG5nUHl2NnNoY0s3eHMtZEFuOFJvY0JubDRWaDRHQkRLMm8zNm4tX2x1Q3cwTHE1ajFhX3lMcUZMQnJUcDJrTw": 1792846569530,
     "threads:De4MJGRFhny": 1792846854991,
     "threads:De4MIHIgWBJ": 1792846854991,
     "threads:De4MKP3jzD3": 1792846854991,
@@ -27621,7 +27614,9 @@
     "threads:DfcNzUNn_NW": 1794055847030,
     "threads:DfcOMBOACdQ": 1794055847030,
     "news:CBMiygFBVV95cUxPNzhOTi00SlFSNklYVUVOWlRxdUpIY25kSG42Q3NGT1lNR1AtRktmZkl3RFVXbUtCUzdDQ3NHM2JnbEtrUk5yWDJzSXFrV1lrMjRTcXZIbk1hWDhhelZQMG9RaTQ0QWF0WmpDbnlGYlVqNzJ0Y3Q3czJKcTRjRTBaZkRqaFpUT1dMRm5rQllDN2xSdlNZbVB4OFp6eHlOWU1RUFNTYlBVaHdaa1JZQ19YSUxJcVhZMEljaHpVSUZ1clN2UVZrQ1U2NkVR": 1794055847030,
-    "news:CBMiqAFBVV95cUxPdlJLVEVZNjFaR3BuV1gwZm9zUzFpdU9hSnliSTNOSE1JT0hHclFnNU9iZmplRHdnZDlib2FtSlJwMy1hWmZOUGlPZzVfVHVkVDNtZXQzdG1MMnhoX0U2SXZRTmdveWRqSUNKcVBrYXhzY3dPZ1BSRzY3elNLdGFEZ2IydVVhb3dZc3VES1d3QXdMZG5Ncm9za1lEZHdaQjExb1ZQbHJoSVnSAa4BQVVfeXFMTzRUWC1XYVgza2Rfc2dNMnZGMlZwbFFnRTdRalpIN1gwWVJlWnU0anJyRS1jMmYtRlBLWENEMC1DazNENHBWQjNlN1o0T0JCdGJkTXV6ZTZwOU84NTJfMkFZaW1TZ2VDSlVhejhnSkZ4Zk90empCY3pTekxsUWJ2QlRnbEc3VU1BOEtUanFjcnUwVGxVc05uNXRaaXNEbDhrS1VuN1RqcTlBQWpqc2h3": 1794055847030
+    "news:CBMiqAFBVV95cUxPdlJLVEVZNjFaR3BuV1gwZm9zUzFpdU9hSnliSTNOSE1JT0hHclFnNU9iZmplRHdnZDlib2FtSlJwMy1hWmZOUGlPZzVfVHVkVDNtZXQzdG1MMnhoX0U2SXZRTmdveWRqSUNKcVBrYXhzY3dPZ1BSRzY3elNLdGFEZ2IydVVhb3dZc3VES1d3QXdMZG5Ncm9za1lEZHdaQjExb1ZQbHJoSVnSAa4BQVVfeXFMTzRUWC1XYVgza2Rfc2dNMnZGMlZwbFFnRTdRalpIN1gwWVJlWnU0anJyRS1jMmYtRlBLWENEMC1DazNENHBWQjNlN1o0T0JCdGJkTXV6ZTZwOU84NTJfMkFZaW1TZ2VDSlVhejhnSkZ4Zk90empCY3pTekxsUWJ2QlRnbEc3VU1BOEtUanFjcnUwVGxVc05uNXRaaXNEbDhrS1VuN1RqcTlBQWpqc2h3": 1794055847030,
+    "threads:DfcNqDuGUjr": 1794056139996,
+    "threads:DfcNYY8nXoq": 1794056139996
   },
   "digest": [
     {
@@ -27813,10 +27808,30 @@
       "d": 1794055481000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@just.lelyyy",
+      "x": "Ak udah 1 bulan lewat aplikasi cek bansos masih terpantau belum berubah.",
+      "u": "https://www.threads.com/@just.lelyyy/post/DfcNqDuGUjr",
+      "d": 1794055559000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@budiyantibaudi",
+      "x": "Yang masih bertanya bagaimana cara cek desil?? Silahkan membawa KK atau KTP ke operator SiksNG desa/Dinas sosial setempat dan bisa melalui aplikasi cek bansos (download aplikasinya",
+      "u": "https://www.threads.com/@budiyantibaudi/post/DfcNYY8nXoq",
+      "d": 1794055415000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
