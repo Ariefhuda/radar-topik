@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcSzWO6EzKZ": 1792810258791,
-    "news:CBMikAFBVV95cUxNbXpYUkh3UzBZYWN3dW44Vks1a19iM2REalNXWjhqVnhUWHo4NUc3dEk5SGJIdDlqN2MwTmlaYWtkT0RvdnV6T1d5d3E3dEdOdF8tNDBBcWh4eF8yMlZMeG9oQmlWTmZLVlUzeXk3dGNOTUdyRGtxX1pyY0tmaUprQ0R2NGFDVzE3bUlJTFBDNk4": 1792810258791,
-    "news:CBMitwFBVV95cUxPOXB3b0xuWFh0aUNHNHpIbXUwbVhvOE5jbC11X3U5NEJnTFFhRVBqWUI1Smtpb1RIWXJhLUp4U2dqbklCMzk1ZFJJWUdxZ3NmT1otT0k5a25lMUNCOHBpUnlRV1JOcUlrVGlKaHptTXdyMHJndmF2M3RVSTB2Zklkb2h4YjJCTS03NlhlVDBQQy1qalFObWVnMnd1Y1FPZGpwTnZBSF9PVFVQbFNqczY3THFLbERjVFnSAbwBQVVfeXFMTno1RG54U1NENGV5VmlyaGJETGFtdlNIRVpFZnpDdnRjcXVpcXRrVVA4cTF1Vl9SdTFmdkY0ZHZVWnpPWEJYWjVQcHJPRU56NzJ2TzNMNjUyUUdHYkx0cDR2NGJIeHpwN0plNjYwM3pwdjlxSlJ3d3hPYWczMEtmVU44blNocUozcFg3ZTlhbDBqMkd5VzNPRXVsYWhyWUIwZWtPNG9tV0c3ZUJhY3pqUHpSaDY5eGJ0MktiVWs": 1792810258791,
-    "news:CBMizgFBVV95cUxQZkM3NHlhWVBUVXNwX1F2d3dMdzh4WDZRdVRqb0g0NWxkMFU2Q1NELTlYNU8ybVhkbF93WUxXUlluNXpNUC04TnpZdno1Y2VhR0lESGdjYjlRZzN3NHA3ZHV2N2YwdnhxajBrMGtkQ2Z3SjdMem8zRm91UWtZQnhpbm5QQTktWmY5bUYtZXV5dnNVeU1FRjh2WDRkbzZPRVlvN3ZMemRBWDc0QktPdFZwYzNoQlRtWlJ4emNSRmNpTzNCWVNHZ3BqVTZfT3NRd9IBzgFBVV95cUxQZkM3NHlhWVBUVXNwX1F2d3dMdzh4WDZRdVRqb0g0NWxkMFU2Q1NELTlYNU8ybVhkbF93WUxXUlluNXpNUC04TnpZdno1Y2VhR0lESGdjYjlRZzN3NHA3ZHV2N2YwdnhxajBrMGtkQ2Z3SjdMem8zRm91UWtZQnhpbm5QQTktWmY5bUYtZXV5dnNVeU1FRjh2WDRkbzZPRVlvN3ZMemRBWDc0QktPdFZwYzNoQlRtWlJ4emNSRmNpTzNCWVNHZ3BqVTZfT3NRdw": 1792810258791,
     "threads:De3Gxm7EkXU": 1792810538786,
     "threads:De3F-DGoPVg": 1792810538786,
     "news:CBMirgFBVV95cUxNZ081N3BnQkFCc1JZdGl4Wlh4bmRMd0ZnbTZHMWU5U1p0WWV4VElPci1WRFlDdW9QTXBINVZLblF5Tjk0V09jRDNqVWpBR01LV2ItVEMybHpKUGxvR3lUcHFLc0hyUVhHYUNtMXE2VTdJZDlLcjJCRUhwUkRFVjVnQ29oWmZiOUJncXdWUmFPdm5saFJKakVrWG1yeUJVYU42UVJaRkVVWWJHSmxDY3c": 1792810538786,
@@ -27697,7 +27693,23 @@
     "threads:DfbHhSoj3Kf": 1794019245207,
     "news:CBMinwFBVV95cUxQWHdfNnh0Z2VsczNYNkNnSVliMUU2aE9uZU5yZEJLWk80em9RRXUwbVJIaGtMUFlzWTJFV3dmLXBOQXJOazVOaFFmX0I2blp0VFFTcGM4eF93T3NLWWh2bjFFODNSdGxGWVVSazl5bjlvTEpIVDB5aVg4dFp5ZXdnUkRWOG5ZUUF5aEdMNzJOMFhVTHVua3AxZUVtNFIyc0U": 1794019245207,
     "news:CBMiugFBVV95cUxQdncyaUg2d1Z0ZjBwTklrRHR3YS1Xc2NSOWQzNGlMY2pBV1lGZlJJOTctWEFpLXR4UmRYU3NadWN4dTZZRHFOTVplOUVXUnY2RGU2Y1plV1lfMXFrbUMzQnR2ODZZMzBQc0JnTVV1cno2NDhZdnczbFJpM1NWRHFvNWdKMFFOeUVWUlVOa3NRNmt4MXVzRVBSLXk5OXlEaFFaa0V0NTNrZ1hyaXIwQVlNdm9TQlpFelZVdkHSAb8BQVVfeXFMTlBmV1ZWN1pUZjB2QWlac1I1R3NIWjdNY0RienFXRU8xS191QXJxS0xpXzRHckNLZjNKNnpNY3NjbDFPOEZZM0RKN1UyTXpaMGZBb0x1VVUwRDNGZkFQWjlKWTNKa3Z3VGd0ZlJWTzU3UGg2Q1ZSTWNudTYwb0hPS09GZTR3RUVlV1hQZ0pEWG5jdnF4R2hIaVdwWXhwSFZiYjA2VmJpMEJpZEJaZkZsMk1hTlVVZTNweC1aWF8tTEk": 1794019245207,
-    "threads:DfbIqsDGfzp": 1794019536700
+    "threads:DfbIqsDGfzp": 1794019536700,
+    "threads:DfbJDo1ifSI": 1794019835409,
+    "threads:DfbJBzBj7EL": 1794019835409,
+    "threads:DfbI9YMEmcz": 1794019835409,
+    "threads:DfbItulvNVS": 1794019835409,
+    "threads:DfbIVc5EsDb": 1794019835409,
+    "threads:DfbIK_hE5ns": 1794019835409,
+    "threads:DfbIGDiiGQB": 1794019835409,
+    "threads:De3FrVHGmsM": 1794019835409,
+    "threads:C9hMCqkPTI1": 1794019835409,
+    "threads:DeW2ybhAQdw": 1794019835409,
+    "threads:DfbJDRFjyo7": 1794019835409,
+    "threads:DMaPW4GTbCa": 1794019835409,
+    "threads:DCWfWW1JTlE": 1794019835409,
+    "threads:DfbJCJMmRDv": 1794019835409,
+    "threads:DfbI_eoE22H": 1794019835409,
+    "news:CBMic0FVX3lxTE11b2RSMkFVemZrNWYzajJzTmxXUXZ4MlF3Z3FYbktweWk2NzBFY3RST0pZZmxYUEdndlBMNXN4NkQxMVZ3ZGw0R2tiekU3LTVaU2xNSThqV0pVVFhkMDVteTcyMnpYTm42NjZ5NUlZdlpPb2M": 1794019835409
   },
   "digest": [
     {
@@ -28369,10 +28381,50 @@
       "d": 1794019389000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@duitdrhp",
+      "x": "Cuan 1 juta per hari, cuma modal HP. Beneran bisa? Joni, digital expert, bakal buktiin langsung di seminar GRATIS ini: 📅 Minggu, 12.30 WITA 📍 Cafe The Saint, Jl. Tukad Barito Tim",
+      "u": "https://www.threads.com/@duitdrhp/post/DfbJDRFjyo7",
+      "d": 1794019598000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kpop.yumm",
+      "x": "Kak kalo ibumu gabut mau belajar speaking inggris gratis cek utas gue aja ya, yg utas disematkan 😄 Semua usia bisa dapetin satu kelas gratis gue itu 🙌✨️",
+      "u": "https://www.threads.com/@kpop.yumm/post/DfbJCJMmRDv",
+      "d": 1794019581000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@griya_produktif",
+      "x": "🚀 Bikin Video Keren Cuma Pake AI? BISA BANGET! 🎬✨ Mau belajar bikin konten video aesthetic & profesional tanpa perlu ribet syuting atau punya kamera mahal? 🎨🤖 Yuk, ikutan KELAS",
+      "u": "https://www.threads.com/@griya_produktif/post/DfbI_eoE22H",
+      "d": 1794019559000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Berita Terkini Harian Cara Cek Bansos 600 Ribu November 2026 Terbaru Hari Ini - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11b2RSMkFVemZrNWYzajJzTmxXUXZ4MlF3Z3FYbktweWk2NzBFY3RST0pZZmxYUEdndlBMNXN4NkQxMVZ3ZGw0R2tiekU3LTVaU2xNSThqV0pVVFhkMDVteTcyMnpYTm42NjZ5NUlZdlpPb2M?oc=5",
+      "d": 1794014054000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
