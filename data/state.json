@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5xN_9iI7Q": 1792899948602,
-    "threads:De5wvTNkjlA": 1792899948602,
-    "threads:De5wmb_lLCE": 1792899948602,
-    "threads:De5wcT4GQbi": 1792899948602,
-    "threads:De5wCO_kWiM": 1792899948602,
-    "threads:De5xnoWEyx8": 1792899948602,
-    "threads:De5xeqPkg6M": 1792899948602,
-    "threads:De5xlwnk2CC": 1792899948602,
-    "threads:De5xYL_k1yk": 1792899948602,
-    "threads:De5w6-Wk2B0": 1792899948602,
-    "threads:De5wuZKE_Iq": 1792899948602,
-    "threads:De5whDKE8yi": 1792899948602,
-    "threads:De5wXRtkyqE": 1792899948602,
-    "threads:De5vD51DVI-": 1792899948602,
-    "threads:DeYuwF5kt4e": 1792899948602,
     "news:CBMixgFBVV95cUxNMmtVeVE0ODJwbjNxT05MRTdiN0NXb29jdWFyUVMwTVYwZnBuQ1ZDZElPdXN6NUZ2NEdZZ1hLNUJYWXR4TG9QaDNzTGJrbEU4aWJzeUl0S0FmTVgxUUlyLXlFMDBRUmNLcFZXamhkb0gyOWQ3T0JCd2wyR3BkUzdCT0NSQ3RYT2RkY054Q3E1YlVPNnQ3QmFYVU8yUTFKN2FSZ3hxZlhzS3ZsR0E5T054Mmw4YnRpeGt1aXRVS1dVWmY4LXNobGfSAcsBQVVfeXFMTzh0VmFPbFFjY3l0T2pzZG9LQkNQRHdCUFFtZkNJZjR3SlVTdHVOZ0FuaXdDYjI4SVBZQ3pOdUpzRWkzaDVDTFZpLVN3SGNuZ2hSYm9BcDBlcGVhVnoyMjZpU0U1STJfVXhlcGVpX0twZUR5N00ycE96dFQ4cXg0WW5PYzJlVGNZa24yS05tc0s4Skp0QzdzcTZkaVVxb041ZEtGSTNiWHF3dWV3LVVXVHUxMjByM3R3OHZGNmZudU9MT3BoTEc2MWxDLTg": 1792900242239,
     "news:CBMiywFBVV95cUxQSEdsN0VRaVhJZ0h0N29jQ1BBV1JrMmpDY3Z2Z29pLWJLd0RQWG1hcGV3M0J4alZmTF9IZEpYT3YwWFA3c3NBZlFRSlA0eGNxbnlpMjNReU9LNGliOTlFUDREYnJYOFZfcW1FN01ueDZQRjlwMDNWTURDX0ktZFBZT0hseWR2RFZ3clVnYklJZy1PV01lSzVpeWZpclRtOWwxRlNHUXhINzY2UVljZUhsa3ROWXpCMzlsMWtBcTBMT1BwdDNVUTdibmoxOA": 1792900242239,
     "threads:De5xk2ADmAh": 1792900537705,
@@ -27645,7 +27630,8 @@
     "threads:DfdytKTlymC": 1794109248275,
     "threads:DfdzZSGj2Vj": 1794109248275,
     "threads:DfdzKwRFnbs": 1794109248275,
-    "threads:Dfdy7MCDwo7": 1794109248275
+    "threads:Dfdy7MCDwo7": 1794109248275,
+    "threads:Dfd0w9LndE9": 1794109547719
   },
   "digest": [
     {
@@ -28307,10 +28293,20 @@
       "d": 1794108180000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sepriyanti.yasin",
+      "x": "Cair cek segera di agen terdekat :) #pkh #bansos #bpnt #agenbrilink",
+      "u": "https://www.threads.com/@sepriyanti.yasin/post/Dfd0w9LndE9",
+      "d": 1794109617000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
