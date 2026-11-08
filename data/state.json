@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5fVF6E6Ow": 1792890642033,
-    "threads:De5fs_bo550": 1792890642033,
-    "threads:De5fUXvmomY": 1792890642033,
-    "threads:De5eiNeCQR1": 1792890642033,
-    "threads:De5eIOSDrsf": 1792890642033,
-    "threads:De5dhwmDIcF": 1792890642033,
-    "threads:De5dMtak2mI": 1792890642033,
-    "threads:De5dMEPGYVU": 1792890642033,
-    "threads:De5fOkmmVLc": 1792890642033,
-    "threads:De5fc8rElbJ": 1792890642033,
-    "threads:DKBETJCTEPR": 1792890642033,
-    "threads:DecE6N8CTlR": 1792890642033,
-    "threads:De5fqpTkiU4": 1792890642033,
-    "threads:De5fdGok6ul": 1792890642033,
-    "news:CBMizgFBVV95cUxONWxsZ0pyZ0RpNXdGWWRadHVlREtkcHhSYUo1S2JmVnN6WEh3NWpiVFRyUDU0SmE2NUlVZjVpaHdoZDE1RUhvQjkwdVhjOF9kOEc1SEdtN1RwYjh5Q0ttODJCRUc0Ym93enNuWWp4MENwc1NfMHlPNU9yQ3VmZURIdjdpT0FvVnFYb2drVjlVWUhvaWNFWUZvdnUtMXpIbFdIdGxnb2MxRTVyaW8tWWFFLVhTVjdhdVMzbnhyallXUTZyV3oyUk5VaFZUSzNzQdIBzgFBVV95cUxONWxsZ0pyZ0RpNXdGWWRadHVlREtkcHhSYUo1S2JmVnN6WEh3NWpiVFRyUDU0SmE2NUlVZjVpaHdoZDE1RUhvQjkwdVhjOF9kOEc1SEdtN1RwYjh5Q0ttODJCRUc0Ym93enNuWWp4MENwc1NfMHlPNU9yQ3VmZURIdjdpT0FvVnFYb2drVjlVWUhvaWNFWUZvdnUtMXpIbFdIdGxnb2MxRTVyaW8tWWFFLVhTVjdhdVMzbnhyallXUTZyV3oyUk5VaFZUSzNzQQ": 1792890642033,
     "threads:De5f094FGae": 1792890947648,
     "threads:De5fVLIGBzq": 1792890947648,
     "threads:De5gImGEwUd": 1792891251119,
@@ -27723,7 +27708,25 @@
     "threads:DfdiYaJn_hc": 1794099939578,
     "threads:DfdhsU3gpR1": 1794099939578,
     "news:CBMiugFBVV95cUxORC10Mk8tVk1yRWRLRTFFQU9CN1RmYnN5ZFJJSmNfdXBWV3ZUWi1ra0NERl9WZUUxVFN3dDd2MU9Xbm9vRlFDcE5udlZmeWlXNUVDVHJ2TkFiSXAtOGUyOUtjYXJ5eHZmaGgtMm5OeGd5MGM0emJNcW1PbXhFMDVIbXNBTk9MODVXRVE5TjR3QnY0RV90WU84X2J3WVNDNWdwLWZaT3JGUTV0cDR4Yi1NUmN5WVBOeWV0dXc": 1794099939578,
-    "news:CBMiuAFBVV95cUxQY2hDSXI0YTVmeGtXR0dHbjBGOVp4RzFOdXhSOWlwdkp1VXJDdkF0b3ZPSDN6MUh6aGM0dXZJWTBGbjQ0SUVycEZwc29zQjQ1R3VadFFxZ3NyXzFlSWRDZTlpM1JFay1VZlRNMmstQ1pUb2xGWG1XY19fZ3d4bFl5RFVJbUpaNVY5TXFaeTZ4NzlzenpzejNoWFJZZkxHa1hpdnNmQVlkVUo5MWJ6UlVwUXJKZWRjMlhF0gG-AUFVX3lxTFBMenZHOEYweWRqdTJtZzJxZkY5Um5pOVkya1ZVWXpSZERteVVhYmw1WE1zMHJOUFRrdG5pZG1KdHJ0UE5KM1BjNDNHcm9WS2s4SS1MUmQyUXluRHdEbGJNVzZoUDJiTGg1MzFnQmJVUTQzMFhNM0VnZHk3dUJieGhleW90cEZMQk1LZl9PNFcwaGMxSVFfU045aWFuS3BIdVdYakhPWXVvWmt2UDRqR0dtY1FXdnBQTHpzc1hKOWc": 1794099939578
+    "news:CBMiuAFBVV95cUxQY2hDSXI0YTVmeGtXR0dHbjBGOVp4RzFOdXhSOWlwdkp1VXJDdkF0b3ZPSDN6MUh6aGM0dXZJWTBGbjQ0SUVycEZwc29zQjQ1R3VadFFxZ3NyXzFlSWRDZTlpM1JFay1VZlRNMmstQ1pUb2xGWG1XY19fZ3d4bFl5RFVJbUpaNVY5TXFaeTZ4NzlzenpzejNoWFJZZkxHa1hpdnNmQVlkVUo5MWJ6UlVwUXJKZWRjMlhF0gG-AUFVX3lxTFBMenZHOEYweWRqdTJtZzJxZkY5Um5pOVkya1ZVWXpSZERteVVhYmw1WE1zMHJOUFRrdG5pZG1KdHJ0UE5KM1BjNDNHcm9WS2s4SS1MUmQyUXluRHdEbGJNVzZoUDJiTGg1MzFnQmJVUTQzMFhNM0VnZHk3dUJieGhleW90cEZMQk1LZl9PNFcwaGMxSVFfU045aWFuS3BIdVdYakhPWXVvWmt2UDRqR0dtY1FXdnBQTHpzc1hKOWc": 1794099939578,
+    "threads:DfdiyH2kcKI": 1794100243728,
+    "threads:Dfdh-mSCDrY": 1794100243728,
+    "threads:Dfdh-YJkbsD": 1794100243728,
+    "threads:Dfdhz54uWyq": 1794100243728,
+    "threads:DfdhdLBjwVb": 1794100243728,
+    "threads:Dfdhan0j-Rt": 1794100243728,
+    "threads:DfdguUTjw3X": 1794100243728,
+    "threads:DfdgsPwE1gJ": 1794100243728,
+    "threads:DfdgoMsj9V3": 1794100243728,
+    "threads:Dfdgi3Pjz5J": 1794100243728,
+    "threads:Dfdh_j8knbB": 1794100243728,
+    "threads:DfdhrDziLHE": 1794100243728,
+    "threads:DfdivcnI849": 1794100243728,
+    "threads:DfdiiIJjqmp": 1794100243728,
+    "threads:DfdifWkEn-4": 1794100243728,
+    "threads:Dfdh2fOk_4o": 1794100243728,
+    "news:CBMiVkFVX3lxTE54S3FTcjB2cUphOXFxY2pUWURUTUppM05XWTVEU3pINjMzMVQtNXRkNmZsUTBIREI4OGJmcWlCSXBIYlpxS2RucHR5bjdkQWwzeW9RaU53": 1794100243728,
+    "news:CBMiV0FVX3lxTE5HTWdFa01BVS03Wldmam9zemd2MktOR0Ntd0FKUEhvX2lybTFENVFzNkx4ZzlrbGkzSUpuekhCSFZWc01MQk1id3o3c0Z4SlRvRFlpTDMyTQ": 1794100243728
   },
   "digest": [
     {
@@ -27735,10 +27738,70 @@
       "d": 1794099602000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@somewheremp4",
+      "x": "Pernah dengar ada pelatihan gratis d Surabaya Bisa share kah yg punya infonya🙏🏼🙏🏼",
+      "u": "https://www.threads.com/@somewheremp4/post/DfdivcnI849",
+      "d": 1794100168000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aldarosmasari",
+      "x": "Disini adakah yang mau ikut kelas gratis? Jumat pekan ini aku ngadain kelas bikin animasi cuma modal canva. Ada yang mau join gaa? Free yaaa. Bonus canva pro juga buat akses belaja",
+      "u": "https://www.threads.com/@aldarosmasari/post/DfdiiIJjqmp",
+      "d": 1794100091000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@drarara_rara",
+      "x": "Ikut menyimak atau ikut membaca di kelas-kelas gratis kak, biasanya ada faedah yang bisa diambil, yang tadinya tidak bisa suatu huruf jadi tahu bagaimana cara melafalkannya. Di tel",
+      "u": "https://www.threads.com/@drarara_rara/post/DfdifWkEn-4",
+      "d": 1794100036000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irfanakbrr",
+      "x": "Cara pakainya: 1. Baca, menghafal, atau nulis: pilih hening atau musik tanpa lirik. 2. Lagu berlirik simpan buat kerjaan yang nggak butuh mikir kata, misalnya beres-beres file. 3. ",
+      "u": "https://www.threads.com/@irfanakbrr/post/Dfdh2fOk_4o",
+      "d": 1794099715000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bsinews.id",
+      "x": "Kemensos Salurkan PKH November 2026 Ini Syarat dan Cara Cek - bsinews.id",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54S3FTcjB2cUphOXFxY2pUWURUTUppM05XWTVEU3pINjMzMVQtNXRkNmZsUTBIREI4OGJmcWlCSXBIYlpxS2RucHR5bjdkQWwzeW9RaU53?oc=5",
+      "d": 1794100046000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ChatNews.id",
+      "x": "Kemensos Salurkan Bansos PKH November 2026 Ini Syaratnya - ChatNews.id",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HTWdFa01BVS03Wldmam9zemd2MktOR0Ntd0FKUEhvX2lybTFENVFzNkx4ZzlrbGkzSUpuekhCSFZWc01MQk1id3o3c0Z4SlRvRFlpTDMyTQ?oc=5",
+      "d": 1794099817000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
