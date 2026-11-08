@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5f094FGae": 1792890947648,
-    "threads:De5fVLIGBzq": 1792890947648,
     "threads:De5gImGEwUd": 1792891251119,
     "threads:De5gtrHmBE0": 1792891251119,
     "threads:De5gCxvHVEO": 1792891251119,
@@ -27726,7 +27724,8 @@
     "threads:DfdifWkEn-4": 1794100243728,
     "threads:Dfdh2fOk_4o": 1794100243728,
     "news:CBMiVkFVX3lxTE54S3FTcjB2cUphOXFxY2pUWURUTUppM05XWTVEU3pINjMzMVQtNXRkNmZsUTBIREI4OGJmcWlCSXBIYlpxS2RucHR5bjdkQWwzeW9RaU53": 1794100243728,
-    "news:CBMiV0FVX3lxTE5HTWdFa01BVS03Wldmam9zemd2MktOR0Ntd0FKUEhvX2lybTFENVFzNkx4ZzlrbGkzSUpuekhCSFZWc01MQk1id3o3c0Z4SlRvRFlpTDMyTQ": 1794100243728
+    "news:CBMiV0FVX3lxTE5HTWdFa01BVS03Wldmam9zemd2MktOR0Ntd0FKUEhvX2lybTFENVFzNkx4ZzlrbGkzSUpuekhCSFZWc01MQk1id3o3c0Z4SlRvRFlpTDMyTQ": 1794100243728,
+    "threads:DfdikRvG3l6": 1794100537654
   },
   "digest": [
     {
@@ -27798,10 +27797,20 @@
       "d": 1794099817000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@unirangminang",
+      "x": "Info terbaru,,, Siap2 ya penerima PKH dan BNPT akan segera cair nih🙂🙏 Untuk penerima KPM jangan lupa daftar perlinsos ya⁉️ #pkhdanbnpt #bansos #perlinsos #pengikut",
+      "u": "https://www.threads.com/@unirangminang/post/DfdikRvG3l6",
+      "d": 1794100077000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
