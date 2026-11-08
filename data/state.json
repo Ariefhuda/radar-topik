@@ -27496,7 +27496,22 @@
     "threads:DffE-ZIkbsd": 1794152141852,
     "threads:DffEr46B66d": 1794152141852,
     "threads:DffE5_boB5T": 1794152141852,
-    "threads:DffE2cdjhNp": 1794152141852
+    "threads:DffE2cdjhNp": 1794152141852,
+    "threads:De3954hHQ8z": 1794152443960,
+    "threads:Det-SkVkz_f": 1794152443960,
+    "threads:DffGJPmDDzC": 1794152443960,
+    "threads:DffF3CnDrJx": 1794152443960,
+    "threads:DffF4kBjjYe": 1794152443960,
+    "threads:DffF2J5Gziq": 1794152443960,
+    "threads:DffFqaFmp1J": 1794152443960,
+    "threads:DffFSOAmvMW": 1794152443960,
+    "threads:DZwVQ9HkYCT": 1794152443960,
+    "threads:DffFKd-mqA-": 1794152443960,
+    "threads:DcaCbj0Gna-": 1794152443960,
+    "threads:DffFgLHGYqN": 1794152443960,
+    "threads:DZtUF4lD-9O": 1794152443960,
+    "threads:DezIyHkD4Ka": 1794152443960,
+    "news:CBMiogFBVV95cUxOVk1NY09XUlJCYkZsMzA0cXo1eXB1S3g4b3V3cUcxY0FUMm56YUpycFozZWR3RE5adW5FR2tuZXc1a1h1RzF1U0dHQjBNeF9tLU9YNDlRVmZyUzYydHZWdmFDdU9fUVRDZlVRVzh3ZkZkZXJhY1hxSmRFRVpDX3I1RTY0ZFRJay1idG5kRmYxVHNCaW1ZT3N4MjRZc0hkQkxSRUE": 1794152443960
   },
   "digest": [
     {
@@ -28588,10 +28603,30 @@
       "d": 1794067500000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@atthaya.prithvi",
+      "x": "naik kelotok, ke salon, ikut opentrip ke pulau bakut, baca ke perpus kota di kantor BI bisa jua, cari seminar gratis, kepasar loak, cuci mata ke kedaung/toko perkakas rumah tangga,",
+      "u": "https://www.threads.com/@atthaya.prithvi/post/DffFgLHGYqN",
+      "d": 1794151947000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Rakyat Sulsel",
+      "x": "Pemprov Sulsel Siapkan Pelatihan Gratis bagi Korban PHK - Rakyat Sulsel",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVk1NY09XUlJCYkZsMzA0cXo1eXB1S3g4b3V3cUcxY0FUMm56YUpycFozZWR3RE5adW5FR2tuZXc1a1h1RzF1U0dHQjBNeF9tLU9YNDlRVmZyUzYydHZWdmFDdU9fUVRDZlVRVzh3ZkZkZXJhY1hxSmRFRVpDX3I1RTY0ZFRJay1idG5kRmYxVHNCaW1ZT3N4MjRZc0hkQkxSRUE?oc=5",
+      "d": 1794142080000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
