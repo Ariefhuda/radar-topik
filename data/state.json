@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdiMaEzCU_b": 1792953707701,
-    "threads:De7YA7MDdsD": 1792953707701,
-    "threads:De7X28DDGr5": 1792953707701,
-    "threads:De7XVD8EzVw": 1792953707701,
-    "threads:De7W8eOkQj1": 1792953707701,
-    "threads:De7W1qGCZgl": 1792953707701,
-    "threads:De7WykACA7U": 1792953707701,
-    "threads:De7WV46j7BV": 1792953707701,
-    "threads:De7WOapDajX": 1792953707701,
-    "threads:De7WFP7lM7A": 1792953707701,
-    "threads:De7Vu1xjPM-": 1792953707701,
     "threads:De7YkO1E1kd": 1792954219143,
     "threads:De7YntggjeZ": 1792954219143,
     "threads:De7YeG6gboj": 1792954219143,
@@ -27583,19 +27572,10 @@
     "threads:DffYzzOGIfm": 1794162940586,
     "threads:DfHAQmik4Xy": 1794162940586,
     "threads:DezXCUhn6qi": 1794162940586,
-    "threads:DbUkr7ZE2on": 1794162940586
+    "threads:DbUkr7ZE2on": 1794162940586,
+    "news:CBMiugFBVV95cUxNdnA0cDJ6OFBvRUNMLWFkMFEwcHRUUGdrQlRSYW1hSl9BcnVDNXRQOU9rUnRyckRsdV9nVU84UG1IdkFqSklibm1GcDF3RnplYmc2UnZBZVVSUEh6QTF2TWxjc3hHd1FfY0xzaEJXLWJLdTNadWtqeVRIVG92N3k4UHZJNlB5YUlPWmpZNGRyYnJDNl80bEJZazdxYzlCS0NQc0w5eFZjaDZBNEdoM3Jhc1lqNnhxUVFGdXfSAbgBQVVfeXFMT0V3QlItQnhHbnRUODcwSFZHdnZIMmpRVmw3NEhDNnV0N3pDcVkwMXh6U3hCclR2elFIcVR4QkpCM1lrOGRNRVJqbXRLUkdNRnNnSngybjl0Uzg3ZWQtSmhOTUF5SFB3X3ZvUDdtdUR5NFZQUHlxMm1Ka2pGNC1mOERRMTdrZXY2eDE3bi1Hc0VHQzhjd1NlWTFNUXBIWXBQc1lpYThXODlDU3B4RHgtNHpMam9pX2ljaQ": 1794163238744
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@haiprasti",
-      "x": "Makasih banyak Navia udah ngadain kelas gratis A0 bahasa Jerman malam ini! 🥰🇩🇪",
-      "u": "https://www.threads.com/@haiprasti/post/DfesxURj3rT",
-      "d": 1794138980000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29085,10 +29065,20 @@
       "d": 1794160576000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Bacakoran",
+      "x": "BPDPBukaPeluangPerguruanTinggiBaruGabungProgramBeasiswaSawit2027 - https://radarlebong.bacakoran.co/ - Bacakoran",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnA0cDJ6OFBvRUNMLWFkMFEwcHRUUGdrQlRSYW1hSl9BcnVDNXRQOU9rUnRyckRsdV9nVU84UG1IdkFqSklibm1GcDF3RnplYmc2UnZBZVVSUEh6QTF2TWxjc3hHd1FfY0xzaEJXLWJLdTNadWtqeVRIVG92N3k4UHZJNlB5YUlPWmpZNGRyYnJDNl80bEJZazdxYzlCS0NQc0w5eFZjaDZBNEdoM3Jhc1lqNnhxUVFGdXfSAbgBQVVfeXFMT0V3QlItQnhHbnRUODcwSFZHdnZIMmpRVmw3NEhDNnV0N3pDcVkwMXh6U3hCclR2elFIcVR4QkpCM1lrOGRNRVJqbXRLUkdNRnNnSngybjl0Uzg3ZWQtSmhOTUF5SFB3X3ZvUDdtdUR5NFZQUHlxMm1Ka2pGNC1mOERRMTdrZXY2eDE3bi1Hc0VHQzhjd1NlWTFNUXBIWXBQc1lpYThXODlDU3B4RHgtNHpMam9pX2ljaQ?oc=5",
+      "d": 1794146400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
