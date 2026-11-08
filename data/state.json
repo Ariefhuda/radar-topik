@@ -60,24 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7xW6Rkt1M": 1792967189305,
-    "threads:De7xEMZkm8r": 1792967189305,
-    "threads:De7xEaAkbdm": 1792967189305,
-    "threads:De7w2hJAW6B": 1792967189305,
-    "threads:De7wzdEAeLj": 1792967189305,
-    "threads:De7v-rIk6Vp": 1792967189305,
-    "threads:De7v5wAFSbL": 1792967189305,
-    "threads:De7vu09EtW5": 1792967189305,
-    "threads:De7vd7BmOnG": 1792967189305,
-    "threads:De7vZDonSpz": 1792967189305,
-    "threads:De7vJzBkaiA": 1792967189305,
-    "threads:De7x4KFEre1": 1792967189305,
-    "threads:De7wHj1k8JS": 1792967189305,
-    "threads:Dc0Tu2agCjJ": 1792967189305,
-    "threads:De7yAu1koB1": 1792967189305,
-    "news:CBMirgFBVV95cUxQaTJZZTlaVjVPVEIyS1QwSkhyek5nbGdEX3BPeFF3Y25QaVlyeFRFdXlsdDR5VWd6Z19KZlZ4alFCd05hWmgwWFI0M3hleHdMeEptVUpKLVZ1eGI2c3RHLUJWc0NPa1dPZkNwZnlwM2tNRDR6c0pfUjNYd1VlVVBzeUxIbVd2MmFYOGNvMmkwSTlUSkFRSWw0NEx4aXNQOWlhMDAtWFFQVEVmMldlYVE": 1792967189305,
-    "news:CBMirwFBVV95cUxPR0tWMmxrWnBzbkJQQ2ZJVXlkRDZuZ3kzYUgxYW91QzJwTm5JLXRMempnSXV5cUJxMjdzdGkyWWtWdFhjTl9ZVGdkMUk3VURncUd4angxdGtLaWF1ZDg3bWJ0WlRaVlFnOTRkdHRhUm4wTDAxVzVTVU4teVh1bVVjNnBKSXVOV1F0UUN6VzRsT2podDk4QjlGakJuWmVTaGFFbnMtY0hyTXI3VzkzM3pr": 1792967189305,
-    "news:CBMipAFBVV95cUxOeVd4MXdueUhqZXdxQVl6VVhhWkc4VENXN0NhdUlMWHVtRTNObjVsVW0wcGFGS3k4V0kzSUtac1FweG1MZlgxTnpwd0NJSTdOclZVclY0MzJDc29zNWNCdHBjQWlwOVFJSVFqN3dDenFweXJoRGx6YTg0NmpuU3l6b1RxUjNLZTd4b3ZpNVY5UkhwaHNZS0o4YVgwRTlBbldKX1lMeg": 1792967189305,
     "news:CBMikwFBVV95cUxOZWo2Q3JGSkE4bXZGaXVybkQ3SWhCeWR6ODUzMWFrQzJ3RGtHSmJwQmpPYXVEaEUtX0hvLVViTGJMN3M3aVdlM0NaUmpGSTB5WXBNczdlYWVjY09qdzNIdlVTRDdPWFRBMkNISHlYQUUzMlQxWUZCQXcxZmc5cUVtTnlId0pETjRaWFZhQ3ljb2c4Zkk": 1792967449997,
     "threads:De7x7jmEztm": 1792967741455,
     "threads:De7vR_4HWF0": 1792967741455,
@@ -27610,19 +27592,18 @@
     "threads:DffzkK2jxkw": 1794176445721,
     "threads:DffzVbjlkBQ": 1794176445721,
     "threads:DffzUb-G8ZV": 1794176445721,
-    "news:CBMiugFBVV95cUxNWG9TM2EyVnRUdWgxQVgzTTNFdV95d0JpWm5WZHdMbHYzcVhPRVpGdHpBdnpieE16MnlnbXR6M1Bpa0E0Y0Y5REV4Q1Nhd0x2cjBtVUIxclhCUlY3RWZUOVN5c3RrZ0o1LXFhVWVXaHMyX2l1cTlRVWZ0cXBVbTV3WUZZdHFGTVpTeXViOEZJbHdxa0ItZHAwMEVjd2hja3NHSnRWZ1BKQVkwWjF2Ti05RDY4Z1B6MzlqWEE": 1794176445721
+    "news:CBMiugFBVV95cUxNWG9TM2EyVnRUdWgxQVgzTTNFdV95d0JpWm5WZHdMbHYzcVhPRVpGdHpBdnpieE16MnlnbXR6M1Bpa0E0Y0Y5REV4Q1Nhd0x2cjBtVUIxclhCUlY3RWZUOVN5c3RrZ0o1LXFhVWVXaHMyX2l1cTlRVWZ0cXBVbTV3WUZZdHFGTVpTeXViOEZJbHdxa0ItZHAwMEVjd2hja3NHSnRWZ1BKQVkwWjF2Ti05RDY4Z1B6MzlqWEE": 1794176445721,
+    "threads:Dff0bSllvrt": 1794176740434,
+    "threads:Dffz8ZSESAi": 1794176740434,
+    "threads:Dffz5kdGmxE": 1794176740434,
+    "threads:DdO58DSAcfh": 1794176740434,
+    "threads:DdYMfkWD1Pa": 1794176740434,
+    "threads:Dff0mLYEsah": 1794176740434,
+    "threads:DbuRDLDkwCd": 1794176740434,
+    "threads:DaDZc1cGH28": 1794176740434,
+    "threads:C9KRZeSN2Rj": 1794176740434
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@thegrown.energy",
-      "x": "kebetulan kak, aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan belajar+praktek bareng di webinar gratis 13 n",
-      "u": "https://www.threads.com/@thegrown.energy/post/Dfe1ITNkfkw",
-      "d": 1794143363000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29112,10 +29093,20 @@
       "d": 1794176317000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jakarohmana",
+      "x": "Masya Allah Tabarakallah, dia udah punya bekal luar biasa. Sejalan apa yang sering saya sampaikan di Webinar GRATIS RAHASIA OTAK JENIUS. Alhamdulillah banyak yang terbantu Hafal ja",
+      "u": "https://www.threads.com/@jakarohmana/post/Dff0mLYEsah",
+      "d": 1794176638000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
