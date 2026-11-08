@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7Rb17k-9B": 1792950340629,
-    "threads:De7RMB7k_3L": 1792950340629,
-    "threads:De7Q1phEwd7": 1792950340629,
-    "news:CBMirwJBVV95cUxPRDFPVFBNam5hNXlPR21zdUlfcFhaZVNZbnh5LWV5Y01hcFhYZGhsSndlc2hWT1B3aUxmQzBaWjg3Qmo1b3NLa1BHRmVsbTAxTUhpZXVXN1lMelRkMmJ1SE40eTBfb2F1ZGJEZUtha2M2ZC1VT1MyRU5tMWVvRjRZMkhmTmN5WGJTS2oyUGRHUndITGE0bjZmRzBDRlk2d1A5ZE9KR2RfbWdEOFl0ZGhyX0g5Zy1sTzJDdVNIblNSNFZKeE4tWi1xNHh0WTFwdnBoOFBYTW5WOGlqTk9IOEp0YVVuNG1NbHdhZC1rOG1UcUw5Vmx0TTJyb01GVGs3YnFndmpXeVJENUk1ZDdGU2VXUnpwTmFKbVI0MDJWa05EREZ2VVBRX1c2NXNTRGxvVGM": 1792950340629,
     "threads:De7RUaCgu4b": 1792950642041,
     "threads:DcYbDvwAS3e": 1792950642041,
     "news:CBMitgFBVV95cUxQa2cyT09UZGU0a2NDWVhtMGhybXZGRmI0WHh5WTgweFpWcWdoMXQxUzl6MUtxcVhiWXdhbC0ybUNGbjhJRWE0WUtSSFRCU3ZtQkJnYWIzX2J3SzVPSlBKZjU2UlVEa1hzRnhpOUswN3I1dTVPanljVXEyanNoaVdzMS01dTBOM1dEZjJBeU9fU3RxYTJwSUpyT2xNYVl0bnk1SzluWDVvazdlc1VIUnhRM0xIS0FPdw": 1792950642041,
@@ -27573,7 +27569,12 @@
     "threads:DdqDpeBn85Q": 1794159648932,
     "threads:DffUS-0Aq3a": 1794159648932,
     "threads:DffUNxTmpcA": 1794159648932,
-    "threads:DffTExpuaa3": 1794159648932
+    "threads:DffTExpuaa3": 1794159648932,
+    "threads:DffUh-uGuKE": 1794159937286,
+    "threads:DffTeFJkkdp": 1794159937286,
+    "threads:DffTb3timj4": 1794159937286,
+    "threads:DffGBJLn6un": 1794159937286,
+    "news:CBMiqgFBVV95cUxONTl6cWdzNTFFYl9kbVEySmJTb0ZvdG9UYVg0OVQxaWw4WG9zVk5vekZVeDlGbXZfZ1BhbHEybjFBaGlpWFMzM016VUF1VlE0Y2RSSk1mSUlhcTIyVDhZTlNTTHdxZE1zWGotQWJpSWxjQlJtZFdLTFN3UmRURkp6VjFfamVDN19xMG9NZFhkMndxbTlad2hXTGFNU0EzQWZXa0s5VFN6Y1VxQQ": 1794159937286
   },
   "digest": [
     {
@@ -29065,10 +29066,20 @@
       "d": 1794159091000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@banksampahunitmandiri",
+      "x": "Hari ini ada sesuatu yang baru di BSU Mandiri. Untuk pertama kalinya, kami mengadakan kelas bahasa Inggris gratis bagi anak-anak dan remaja di Sukabumi. Menariknya, pengajarnya, Gu",
+      "u": "https://www.threads.com/@banksampahunitmandiri/post/DffGBJLn6un",
+      "d": 1794152217000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
