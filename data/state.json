@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5nUfXDz8F": 1792894858436,
-    "threads:De5nSOYjSqp": 1792894858436,
-    "threads:De5mcMmE8nr": 1792894858436,
-    "threads:De5mdJLH_rS": 1792894858436,
-    "threads:DY1Isr0ge2-": 1792894858436,
-    "threads:DeS3ml_Hy3k": 1792894858436,
-    "news:CBMi_AFBVV95cUxPZy1hQ015c2ZhSEFvNTc2eTB3SFNEdGJvTDc5T2IzSjItVmF4YzV3cVdEbXMyM3EtNDZLMldCVWVXaHBieGJ1NEVudG1RbHpRbUhzZ1VERWhlckRSbGxDOGR0UTE1OEF2NGtqc0E5R0tfclpFbFk0T1pnTm5qel96M2VQd1NoVGstRUV4V3B0eGVWak9Lc2NBemx0UUlBQkx3UXpEM2NtX1FqRmtPQW11VkxNcUNZdmtPSGFGZWp4RGM4SG5PeU40dHRQSUVSMnZGUW5RdFh3Y3I4Y2ltcV9MMHJDVmlIVDQxejFZZ1pxVDlyenFlalRyd2FfdmTSAfwBQVVfeXFMT2ctYUNNeXNmYUhBbzU3Nnkwd0hTRHRib0w3OU9iM0oyLVZheGM1d3FXRG1zMjNxLTQ2SzJXQlVlV2hwYnhidTRFbnRtUWx6UW1Ic2dVREVoZXJEUmxsQzhkdFExNThBdjRranNBOUdLX3JaRWxZNE9aZ05uanpfejNlUHdTaFRrLUVFeFdwdHhlVmpPS3NjQXpsdFFJQUJMd1F6RDNjbV9RakZrT0FtdVZMTXFDWXZrT0hhRmVqeERjOEhuT3lONHR0UElFUjJ2RlFuUXRYd2NyOGNpbXFfTDByQ1ZpSFQ0MXoxWWdacVQ5cnpxZWpUcndhX3Zk": 1792894858436,
     "news:CBMimgFBVV95cUxPeDNMaWI2QkJNSmEtV040bEpLUG5PT1laNnM4RHdiYklpNUVibUlYWVp0NGk5NUVoZnlvQmduVXdVb2RaQ1k5SVNGU2p1M3NmMVo3VG01MWY5d1R3RkRTQlhhZXVjYWdENzlPUERpUThrQWV2X1h5THZlTERpSG9IM1FrM09BMlk2VVdFeGNpeHlFSE5ZXzFiVzRR": 1792895138927,
     "news:CBMimgFBVV95cUxOQ083dmlyaUF2d2RHU0piNTZoQVlhakNyRW5kVjluamFKTUxvU0szY1dQU3MxRjU1U0ZKTy1RSE83QTkta05YSlpWX3FGejhkQktXa2liaE5Ba1ZBS2tmRU1Ua0thazJHdVNERmJrTTlHdGpQckhXbEhQcDJSQ3I0d1IwUzVfb3dKZndKQ3Iydm91ZWZPNk5YUEpB": 1792895138927,
     "threads:De5obxzivLJ": 1792895448032,
@@ -27695,7 +27688,11 @@
     "news:CBMiuAFBVV95cUxQU3UyX1NPMElvNkF2VmxBTl9mdU9jSm1BNEg2ZWtRZURJT0ltdGRDQmFTS3hFSVltd010a3o0U19ZdFhOQzJJTjA4cXRUY0EtVnlUVXFxN2tyNWtnb1NHZ0NFM3lpeTJ2bXhyTGhBMGFSRkRmOFFxMnVhcTUzaXJqQ211Rjc3Rm00Z2tMbjJYbHFqdXBSVVNjR2NOVXFTSjBxMENSNGtqRU1CSVBKTWVQREUwdFktcjI40gG-AUFVX3lxTE84Z1FKWXYtVjZHbFR2bEFpYmRwUHY5ZTBVbEVrelRMc1ZNQ09MeGJJRV9GRHlQdjRhM202ZkJ5MVZlZnhiemhoY1paN2RVY1JoSkxvSUtEZ004RXhPZ3d6XzhtZVV5Y25YX0phaEJDNVNBTWM0dnZneHprQ1dIQjR4Y1lOUG9SaUdBcmJtMnJiMmVNd0FWSDFmUHd3czBKblc0TTZmaWt6RDE2RmQ5RVNkeFVSbHRwdEdfUGQzRlE": 1794103837595,
     "threads:DeyLs6lGjjY": 1794104140282,
     "news:CBMisAFBVV95cUxQN1hqNlhNeldxdVMtdVpSblZBZjlXR3dFRXZNejFhYks2cXRmSVdPck1RNXJSenBxOWRZaGNESUtVejBsOXlfZDNqSC10ZTZKRERvaTMydFlfOEVlVUhpM2lDaDdyd29jbGlOQkhlRG15Q21UNGFpemdweDZGM0NpTEtOZHFhdERMQ2VfWnVZdXlUQ19yVEdBNllYeWduZVA2S0FOSnMwekNrQXFRTkVQbA": 1794104140282,
-    "news:CBMibkFVX3lxTE1TdEFwSXpuVnFJdTFLbTExd05hMGkzVGNxTWpBcEIxY3Ytdm5wa09yVldSMmJsMnl0aEMxMjdET2NIbGZwRGJkYW5USU96cHlZNkZDZHV6cTk0b3JYZXRfVTQ3UGxWeG1EaGxZM3ZB": 1794104140282
+    "news:CBMibkFVX3lxTE1TdEFwSXpuVnFJdTFLbTExd05hMGkzVGNxTWpBcEIxY3Ytdm5wa09yVldSMmJsMnl0aEMxMjdET2NIbGZwRGJkYW5USU96cHlZNkZDZHV6cTk0b3JYZXRfVTQ3UGxWeG1EaGxZM3ZB": 1794104140282,
+    "threads:DfdpzWsI9Z4": 1794104441179,
+    "threads:DfdptRMmA_x": 1794104441179,
+    "threads:DfdrAnMEhTT": 1794104441179,
+    "threads:DcPhyLIAvQm": 1794104441179
   },
   "digest": [
     {
@@ -28057,10 +28054,30 @@
       "d": 1794103879000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nike.wijayanti",
+      "x": "📢 KLARIFIKASI PERLINSOS - HOAX! Dapat kami informasikan, info yang beredar itu TIDAK BENAR yaa. Data pendaftaran PERLINSOS BELUM dipakai untuk Bansos TW 4 OKT-DES. Data ini untuk ",
+      "u": "https://www.threads.com/@nike.wijayanti/post/DfdpzWsI9Z4",
+      "d": 1794103871000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@colderiver_",
+      "x": "Yang pada heboh pajak larinya ke MBG 😭 Uang Pajak Larinya kemana aja ? (APBN 2026): - Pendidikan: Rp 769 T - gaji guru, BOS, beasiswa - Bansos: Rp 508 T - PKH, BLT, sembako - subs",
+      "u": "https://www.threads.com/@colderiver_/post/DfdptRMmA_x",
+      "d": 1794103820000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
