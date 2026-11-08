@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiqwFBVV95cUxPazI4Y0k3RGlYSFlJN1ViSHFMRUFLckdKU0M2bmZnR3lRZE5zbThDM3VYQTFIenF5TXN6TUxONmR6bjlua1FqNmZyX0hfMkVPNVYxbG5xTEpqbzYxWVlyWXZMR0NlWG55TnB5anRqM0RuSFJVQU1VblpSQjFvUEpXd1E1bDJtRTBWUEdUdUlKTFRSd01BRUd1Y1FNRG9PMmlSZWxVN1lWWTFITXc": 1792927246864,
     "threads:De6lo5Fj7EV": 1792927544471,
     "threads:De6kz3EFtL8": 1792927544471,
     "threads:De6l0aCkzt1": 1792927544471,
@@ -27536,19 +27535,10 @@
     "threads:DfenSugo1mM": 1794136542754,
     "threads:DfeoISRhd3r": 1794136542754,
     "news:CBMidEFVX3lxTE80NkhhT0ZBUmpEYl9ORE1RTVNGMVByNWlONThVQVE1ZnVpQV9jVGpHU0Jodmd3SGVScktnek1LdEhndjNSaFhndnRxdVdnYmM3MzRwYnFpS3VyU1I5MTdialZTWEVqdTVyMDEyQnJHalBFMnQy": 1794136542754,
-    "news:CBMiwgFBVV95cUxPdHB0bllNcHBTLVFQV0RmOHJfMGdMQzNLdnZYUFBmYk9xVkFld1ZhSXFOaGo5MER3X1BMYWo2ejVNZXFRb1d4YlZKS3JWbGN3bTEwVHJGUGpaRWNwenJmUGxMbk0zNHZNWDN2Y2ZrWHh3bWQ2MXBWN1RMRmtoNDdTcVlrRGZKbnByWGQ2aFlnVU4xbjRMMTRpZ0ZnbkZrLW1OVno2TWNnaE1DeE83MlhwMEdyWnZTOHFHZTZuUHVyNXB1QdIBxwFBVV95cUxPX2o5aXlueFF5ZFBoZXE4T0VPWUFXLWFyb3VWTkZqdGNld243LUg0a2E0dDZLdTFMSVlnRTFwVENXdHg1dXdaWUxaMENLQi1TTnNPN1VtUFJsNG15RnZqS0RTZjR1YjFwbjltWGRFYWdsSVYxOFJkZm5Td0dBc194Skg2SDlnd0NGLV9ES3VKOWlaM2YtWk42OENXNHdSWGRjUFhkcUptY25waGVOX3kxUzBnQl9STDZMVS1FMlQtdWZEVVItTFhN": 1794136542754
+    "news:CBMiwgFBVV95cUxPdHB0bllNcHBTLVFQV0RmOHJfMGdMQzNLdnZYUFBmYk9xVkFld1ZhSXFOaGo5MER3X1BMYWo2ejVNZXFRb1d4YlZKS3JWbGN3bTEwVHJGUGpaRWNwenJmUGxMbk0zNHZNWDN2Y2ZrWHh3bWQ2MXBWN1RMRmtoNDdTcVlrRGZKbnByWGQ2aFlnVU4xbjRMMTRpZ0ZnbkZrLW1OVno2TWNnaE1DeE83MlhwMEdyWnZTOHFHZTZuUHVyNXB1QdIBxwFBVV95cUxPX2o5aXlueFF5ZFBoZXE4T0VPWUFXLWFyb3VWTkZqdGNld243LUg0a2E0dDZLdTFMSVlnRTFwVENXdHg1dXdaWUxaMENLQi1TTnNPN1VtUFJsNG15RnZqS0RTZjR1YjFwbjltWGRFYWdsSVYxOFJkZm5Td0dBc194Skg2SDlnd0NGLV9ES3VKOWlaM2YtWk42OENXNHdSWGRjUFhkcUptY25waGVOX3kxUzBnQl9STDZMVS1FMlQtdWZEVVItTFhN": 1794136542754,
+    "threads:DfenZa0mP9w": 1794136842553
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo Bun, kalau pengen punya penghasilan sendiri tapi ga bisa ninggalin anak, ga usah khawatir. Sekarang pilihannya cukup banyak, lho. Nggak harus punya toko fisik. Bisa belajar ju",
-      "u": "https://www.threads.com/@dinnie_ivone/post/Dfd-ZcaDxi2",
-      "d": 1794114668000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29038,10 +29028,20 @@
       "d": 1794135985000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@edukasi.beasiswaugm",
+      "x": "Kementerian Pendidikan Tinggi, Sains, dan Teknologi membuka pendaftaran Beasiswa Program Doktor Penyelesaian Studi di Dalam/Luar Negeri dengan ketentuan 2 skema target penerima bea",
+      "u": "https://www.threads.com/@edukasi.beasiswaugm/post/DfenZa0mP9w",
+      "d": 1794136163000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
