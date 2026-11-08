@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De62E9riYaU": 1792936243572,
-    "threads:De61tgLgZ7N": 1792936243572,
     "threads:De0csejGkoP": 1792936542364,
     "threads:De6vjeAEwmG": 1792936542364,
     "threads:De63CJ9DrAE": 1792936542364,
@@ -27521,7 +27519,11 @@
     "threads:DfeMK9Kk-xz": 1794145546028,
     "threads:Dfe47pHmL7u": 1794145546028,
     "news:CBMitwFBVV95cUxQZF93WUlNaTVOSTc3TFpxQmthSk9KQzdyOVdJRENQaEtNUHBwYmh6TXhkbmFMMUpLeHpCNjFwazJjQ1h0UmQ0R25tQ0FGZ0EtXy01cGJRWGpsbFVPOW9SUERmLTJEMHRhMkdIZm9BdVViMm94S2tFOXVleUNlWlhlTEc4Mi1FaXdTQUJuQXM0Z2o2Nk9nRjBEZzhPd09sVGhvLWdUZy14YUNIVDM1alAwTnJFaE54b0U": 1794145546028,
-    "news:CBMigAJBVV95cUxOTm4wWWQ4UkxTbUVxalFaeFpnbXRLNzlKRHR5WEhlaTVsQm5PajRZcEJ3Szd5cnk5WC1VNXk2cGkwRVdMeG1RUVZzZUVlVHlVd21EZUxBQlZJV3VCakFGT3J5RzdsMnVzazhkVUJPYTBUalZZa3hmdFhqTjllcHZYcDFBM1pROE9YbnJ2bVRvUlVVdmdsTm9GNlpDMHhmenZzU2dRM0Q1YmUxU3htM3Z1MnBkMnQtWnlfa3lNc2VadmtmWUU4U0lNeEpRX0twRkxqZ1h3YTNCSXZFenZaVkxaRjVWQ01fSWY1a0dwY2dEM0tBM3p0amhJazZTWE0zWGct0gGAAkFVX3lxTE5ObjBZZDhSTFNtRXFqUVp4WmdtdEs3OUpEdHlYSGVpNWxCbk9qNFlwQndLN3lyeTlYLVU1eTZwaTBFV0x4bVFRVnNlRWVUeVV3bURlTEFCVklXdUJqQUZPcnlHN2wydXNrOGRVQk9hMFRqVllreGZ0WGpOOWVwdlhwMUEzWlE4T1hucnZtVG9SVVV2Z2xOb0Y2WkMweGZ6dnNTZ1EzRDViZTFTeG0zdnUycGQydC1aeV9reU1zZVp2a2ZZRThTSU14SlFfS3BGTGpnWHdhM0JJdkV6dlpWTFpGNVZDTV9JZjVrR3BjZ0QzS0EzenRqaElrNlNYTTNYZy0": 1794145546028
+    "news:CBMigAJBVV95cUxOTm4wWWQ4UkxTbUVxalFaeFpnbXRLNzlKRHR5WEhlaTVsQm5PajRZcEJ3Szd5cnk5WC1VNXk2cGkwRVdMeG1RUVZzZUVlVHlVd21EZUxBQlZJV3VCakFGT3J5RzdsMnVzazhkVUJPYTBUalZZa3hmdFhqTjllcHZYcDFBM1pROE9YbnJ2bVRvUlVVdmdsTm9GNlpDMHhmenZzU2dRM0Q1YmUxU3htM3Z1MnBkMnQtWnlfa3lNc2VadmtmWUU4U0lNeEpRX0twRkxqZ1h3YTNCSXZFenZaVkxaRjVWQ01fSWY1a0dwY2dEM0tBM3p0amhJazZTWE0zWGct0gGAAkFVX3lxTE5ObjBZZDhSTFNtRXFqUVp4WmdtdEs3OUpEdHlYSGVpNWxCbk9qNFlwQndLN3lyeTlYLVU1eTZwaTBFV0x4bVFRVnNlRWVUeVV3bURlTEFCVklXdUJqQUZPcnlHN2wydXNrOGRVQk9hMFRqVllreGZ0WGpOOWVwdlhwMUEzWlE4T1hucnZtVG9SVVV2Z2xOb0Y2WkMweGZ6dnNTZ1EzRDViZTFTeG0zdnUycGQydC1aeV9reU1zZVp2a2ZZRThTSU14SlFfS3BGTGpnWHdhM0JJdkV6dlpWTFpGNVZDTV9JZjVrR3BjZ0QzS0EzenRqaElrNlNYTTNYZy0": 1794145546028,
+    "threads:Dfe4U3tGogs": 1794145844210,
+    "threads:DaMUVxAiQAG": 1794145844210,
+    "threads:C-aDvjfPxdd": 1794145844210,
+    "news:CBMirAFBVV95cUxNOG84T2tNbDFxeWFDNHlyc0FtYlBFY0pyd2paTjJXd1JmNFlwQWkxdHI4THljZVJQd1o5bGM3eGx3TDBXZk1QWVpsMGtkM0tZS1BhelF4elV5Q2Iyd09WUXNnaThFWi0teFJfNGhub243NkhueUFLMnBOVG9UR2RocG13TzZDNjFLUkY1Wkl3S2w3SnhVSDNlMUVoLVY2WElidjU3LUx0Z3BRbkNY": 1794145844210
   },
   "digest": [
     {
@@ -28003,10 +28005,30 @@
       "d": 1794064740000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/Dfe4U3tGogs",
+      "d": 1794145039000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Pojoksatu",
+      "x": "Tertarik Kuliah di Eropa? Ini 12 Keuntungan yang Bisa Didapat Mahasiswa Indonesia - Pojoksatu",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOG84T2tNbDFxeWFDNHlyc0FtYlBFY0pyd2paTjJXd1JmNFlwQWkxdHI4THljZVJQd1o5bGM3eGx3TDBXZk1QWVpsMGtkM0tZS1BhelF4elV5Q2Iyd09WUXNnaThFWi0teFJfNGhub243NkhueUFLMnBOVG9UR2RocG13TzZDNjFLUkY1Wkl3S2w3SnhVSDNlMUVoLVY2WElidjU3LUx0Z3BRbkNY?oc=5",
+      "d": 1794124465000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
