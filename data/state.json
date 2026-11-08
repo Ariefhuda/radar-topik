@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMi7AFBVV95cUxOYzhtR0JKdEotamI3bF9LRlRDV3Y5eUdwdE4zeE5pbE1aTEp3WVVfRVBqM2NJS0k0c3JudjNnR2tuYkcyQ3BuQzl4czlNZlJfZFZ6S1dXUWlkT3JpNXhQckNFdGliem8tNkN3ejFNRGZqQjUyMUpTSExvX1RkSWtwUEt1X0Z1ZDlIRWVEZE5NdE1RcEo2SG43Q2QwdElaNVB4Mi1aRUdvNlZMdE1rTjJmNGZUcDdGMmgwd0lNelRueTZsRHpjWVZaMW85elg3VHZ6NmdMd3ljdzV6cVgxVGFCX1duUGdfbzRNdnBwTw": 1792928739686,
-    "news:CBMiqgFBVV95cUxOdG0xX2NFUEJ4dGNDdTZ3N0t4VzIzOUhLNUlYeFR2S1dPNnVuOGhkWFQ0TVo2R0JkUGtEOXJNTnlodkZEVmVfVGpLRzVEeXliaVhqOEZuVjlLeS02M0FKMmFQSlhqZWxTczZEUTdBcWdVa0R2X3ZUVS1BTE1wVEV5SVpVenpzeVNsQ0sxQUJfODlWTWFkZHNZTE5Mc08yMWhaVEQydVFzeGk4UQ": 1792928739686,
-    "news:CBMiqwFBVV95cUxQTGJzb2FiTl9Bcm1kbURoYzVIUjNZRmpEZlRwZzFFUE9ldzExc1pYWE1nM0p6UFF0TDl2ODRRVkhvaU8zNktEeTZlaUhyVFVLaURKV2FlNGVVbFlqVHVsT2RKbDcxTjd5ZlJJazZuZEh3NC0yaWpZT0JZa2JyQVdWV2lSZTJFejJtODA4Yk96QWJKQXU2LVUwbG92dDBXbnZMcGtlMnV0cjJTUmPSAasBQVVfeXFMUExic29hYk5fQXJtZG1EaGM1SFIzWUZqRGZUcGcxRVBPZXcxMXNaWFhNZzNKelBRdEw5djg0UVZIb2lPMzZLRHk2ZWlIclRVS2lESldhZTRlVWxZalR1bE9kSmw3MU43eWZSSWs2bmRIdzQtMmlqWU9CWWtickFXVldpUmUyRXoybTgwOGJPekFiSkF1Ni1VMGxvdnQwV252THBrZTJ1dHIyU1Jj": 1792928739686,
     "threads:De4V4M8DxpR": 1792929043390,
     "threads:De6oLI6Ga-g": 1792929043390,
     "threads:De6oGlrmdCq": 1792929043390,
@@ -27544,39 +27541,12 @@
     "threads:Dfeqm56gegt": 1794138043303,
     "threads:DfeqXt0k7Oy": 1794138043303,
     "news:CBMi1wFBVV95cUxQX3JYeVcwdThidTRqMnU3Vkl6UGo2eEwybFNhaDQ1YzRCQlRwaGNscmFYOWNrcmlUN2lZWHlGS0k1c0I2RzNjeEZ2d2JKRHdDS292MFlJSUpmRDRUbzllRTlueldiYWFRZ3g0VWxUU1k5eWp6bGZKN3V1eHk0LUdlektEZjlRQVdwUmZZVVdSdkp3ZFp0VGotYlk3amcwbTIxc21hM0d1WmtiM0p2Mk05ZklMSmsxcmF5cDgxNmxKQjVYdnNNbDJWd2FYTnp3WUdUSUJVbC1TWQ": 1794138043303,
-    "news:CBMisgFBVV95cUxOUWIwdkx3QmhkOVZBYnVBN0VTc3JSQVZGSEIxRzVZZHctVHlnbUhibVhZTGJqOFBSME15c3kyMUlpbGRhN2ZHRVRiQ211RzFvN1o3U0FQSjNZbDRmc2xTMUpMSUxuVHN1LUg1U2IzR0R4TEItYy1scS1NM0dZUVlmTjBrS0VwN1ctUjdGclROT05TclF5MWxPSVJVaURsOGxWR1VpVGluUDRjb2dvU1hNbVZB": 1794138043303
+    "news:CBMisgFBVV95cUxOUWIwdkx3QmhkOVZBYnVBN0VTc3JSQVZGSEIxRzVZZHctVHlnbUhibVhZTGJqOFBSME15c3kyMUlpbGRhN2ZHRVRiQ211RzFvN1o3U0FQSjNZbDRmc2xTMUpMSUxuVHN1LUg1U2IzR0R4TEItYy1scS1NM0dZUVlmTjBrS0VwN1ctUjdGclROT05TclF5MWxPSVJVaURsOGxWR1VpVGluUDRjb2dvU1hNbVZB": 1794138043303,
+    "threads:DferHR-geXt": 1794138344242,
+    "threads:DferRIpmC4o": 1794138344242,
+    "threads:DfeqnKUH95C": 1794138344242
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "JPNN.com Jatim",
-      "x": "ARTI dan Krista Exhibitions Luncurkan KITA Championship, Dorong Teh Lokal Naik Kelas - JPNN.com Jatim",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakRTaTFoRFRoZGRIODdGOGk2LVFLVVlma3NmZndENWdyVldvSWtTSy1QQjAyVkg0Mk0wMVhkMDRuZk90Skp3VUQ4MDlwQ3ZISEh0N1JEOUM2bm9UQ213cXJRWGRiaHM0N1drSGo3TnJReVlKa2kxR2FYaUYzUkdjZWV6c2J1UVFrUHJydW52ZENxZExXQXBVMF9ESVhFZFA5ZHN0U09oek0yaW1jVTROU1B1cEZNSGtzelVjTnlMbXp3V3pW?oc=5",
-      "d": 1794031680000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Desk Jabar",
-      "x": "SUKSES, Gulat Kota Bandung Juara Umum di Porprov Jawa Barat XV 2026 - Desk Jabar",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVllSkNYRDhCUUc3TGs5QkRjMHRGMUdiOWVsZnB6SXZKTVlfamZ1N1NpQnhkQlgtV2xCVTV3S1JQbjRiVWE3Ym8wZzc3NU1leHJVYnJ3TFMySEQ1Y2JaRlgwWjlVNTRobXNNcWIxLWF0VjdLb0ROajVYRUdxTXZCNExLY05CNzNwOXNYYUM3N2Z2OVJ2aXV5c3lsNjFhLS1rQ3RjeWQyWS1JcFVrU0RoSDB3NU11QmxGSkZ4czJLY1VaOFN5aUHSAcsBQVVfeXFMTmJPTzBMYjV0WHpjX2tzeTZCSHpONVFsLUtSc1l4cWtUZV9LbXlZY0h1SkRpZ1lTNjRfSHdValQ2cWttN0s3a3FjSHZPT2JzR2RGT20zZktqQVlZRjI3dDZNbDQ2OXhweE1QV3JyNzVqM1UxZFJVOEVsTTFrR1dYenVVNFBnNjF0S09uaTBSMC1oS2xPU0lfdHcyVlRpS25qUEhaUmRIa2I2QWF5V2dUTnhaOVV1NFV3ZllVMHRXMGFqOUxtYnVlTjMzQms?oc=5",
-      "d": 1794091971000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "Pemprov Jateng catat sekitar 200 ribu UMKM sudah bersertifikat halal - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjFQNGYzQ1RUd0VNS0lmWHNGMmczejFmNnRTdVl5SGpablZFNDFoUkI3LXlQWHF4aG5lOUduUjBIdzhyNUkxV1Vlb1VQUXEtNlBJU1FCa1JvWXN0UDhaU3dkUG94UmRvQkQ2QUZrelNRQmduZE56b2l2SEk1Ul9ld3k4UV9hVTBtamxFNWlmU0p3b2Y5VDE3MUcyWFUyMjZIeGVRN0VrcTNkaGdXdkFwSmp30gGyAUFVX3lxTE5yMVA0ZjNDVFR3RU1LSWZYc0YyZzN6MWY2dFN1WXlIalpuVkU0MWhSQjcteVBYcXhobmU5R25SMEh3OHI1STFXVWVvVVBRcS02UElTUUJrUm9Zc3RQOFpTd2RQb3hSZG9CRDZBRmt6U1FCZ25kTnpvaXZISTVSX2V3eThRX2FVMG1qbEU1aWZTSndvZjlUMTcxRzJYVTIyNkh4ZVE3RWtxM2RoZ1d2QXBKanc?oc=5",
-      "d": 1794050082000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29046,10 +29016,40 @@
       "d": 1794131761000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@medya_sr12",
+      "x": "😊🎞️ *GRATIS KELAS VIDEO ANIMASI AI. Ikutan yuuuk! * ✨ Cukup dengan google dan pakai smartphone ✍🏻 ✨ Benefit Kelas: - 🎨 *Praktik Bikin Video Ai* - ✅ *Pakai Tools AI Gratis* - 📚",
+      "u": "https://www.threads.com/@medya_sr12/post/DferHR-geXt",
+      "d": 1794138112000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@lelysavitri",
+      "x": "Jokowi dengan segara polemiknya tapi kebijakannya masih mending menurutku dari pada sekarang, seenggaknya dulu ga pake desil2an bikin ribet. Seenggaknya dulu anak2ku pernah dapat P",
+      "u": "https://www.threads.com/@lelysavitri/post/DferRIpmC4o",
+      "d": 1794138193000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@mulatsiwibi",
+      "x": "10th berkarya untk negri, menangani badai covid 3th, bangun bendungan, jln nasional, jln tol, lrt, mrt, trans papua, bnm satu harga, bagi2 sertifikat gratis, bagi2 bpjs pbi gratis,",
+      "u": "https://www.threads.com/@mulatsiwibi/post/DfeqnKUH95C",
+      "d": 1794137849000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
