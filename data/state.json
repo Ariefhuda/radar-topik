@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5hJmyjQzG": 1792891537321,
-    "threads:De5gD25k-Rq": 1792891537321,
-    "news:CBMiYkFVX3lxTE11NFFoZmZ4VVY3QU9JSk1PZUlYWUt2VnhHSkZnd3dXOG4zOTNIb2ZxQmh2SjNVZi1tTDgwZUN2YnJkV0FfVUhiSENHMWQ5M01TeHh2S0RXQVZ1dXptbDZkV1pR": 1792891537321,
     "threads:De5hfzRk_Ty": 1792891845356,
     "threads:De5g5-GgYk6": 1792891845356,
     "news:CBMiowFBVV95cUxNanoyRXhKNlVjeFpQNGtrMHlVeVFEOFJ3YW1Ka3F4dk9VSFlNNjNmZ256X19HRmtwMDFyS2FQb2lFU0pZelJISXctSzd1VDBkbVc3blBqOVYzT0tPYlJxa0ZnXzBfREF2VUMtRjctUm10cGdURGVRNm1PUWZsamdHTUFxTVFJbDhlcmNOWjQtTlIxZkhSclNZMDlTX3RTcmVRc2Jj": 1792891845356,
@@ -27731,7 +27728,12 @@
     "threads:DfdjhRqElSD": 1794100837813,
     "threads:DfdjYcuAM_8": 1794100837813,
     "news:CBMitwFBVV95cUxOWkdGVklHN2JTalcydXdSVHBoWkRvY0k4b2JzZGdRUFJ0cG5KcTZJNUxHV2NlZHBjYzRBcjZ4TzFoRUgwVG9IY1dPckxWWjBvdkU2Y2dKT1EyWnZVMUJlZ2FnUXo1WUVfUmdycnA4WVRCOHJvQ1ZmQ040Wkd1WjVNN0dGTFVOQzBOUzljemd4Wi1sS0dKNzJwbEpvLS1xRVUtcFBnNW9CbFBxS0xiWmFHRC12eEM4VXc": 1794100837813,
-    "news:CBMiakFVX3lxTE1ySjljRV9zRlFJSEdYX3l0SmlXWE9LRklUSWhSOXNETk4yNVRGMmNscU14UldELXM0WmItVHM3R2gzdUc1dnBJUENDZk5aV0pZWmxGejZMY2gwRDBvWlExamJ0TWNzamk4S2c": 1794100837813
+    "news:CBMiakFVX3lxTE1ySjljRV9zRlFJSEdYX3l0SmlXWE9LRklUSWhSOXNETk4yNVRGMmNscU14UldELXM0WmItVHM3R2gzdUc1dnBJUENDZk5aV0pZWmxGejZMY2gwRDBvWlExamJ0TWNzamk4S2c": 1794100837813,
+    "threads:DfdjtFtExtX": 1794101139733,
+    "threads:DfdjM-nk5EG": 1794101139733,
+    "news:CBMiiwFBVV95cUxPbmxqaXB5dmFQaWFEUmcxR3lzdE9ZM0llY2t6UUkwQ01mbExIdm5qU05OSzBvdHhoUzhVLUE3VEh0OXg3c2RaN1NiYW1YLWcxMGFfbkY5eTBfYWlveWJWUElzZnV3UGlYQmVsc2lrSzRpTm5UVEFNNzhkUWNsb1hvTi02UVpaUXpXOHJF": 1794101139733,
+    "news:CBMiwAFBVV95cUxNc0lzbGxROWpSTUc4VlM5MVFZTXpObmlHSUtDeFA5Y20zRXdkNHBVbjJvT1dLUVh4QmhtQ1d4c1JMeGFHWmhfTHJpNjlVTFBRdzEyOFFzZG4wcGlWM2FnYVJUV082RW5QMHZ4SnByckoxT2V0eVhISGRlZ3AzQmticDRhNWh6X1RORkhzWFRab2VpbG01TFJLcmk2d1VCTzRkYzZWV29rZlJrQXRPYmlfVnFteWsyVHEyU1NaeWRHclDSAcYBQVVfeXFMUG14eEtCS3NIS0RRNUJ3SEd2S3RXSmhaLWFwOHQxTzgtQlZQTEFVRDNTOWQwRHNVQ0NlNjFuYWJEbWE3WW1aa0NRd0pOQ2dVc0hHY3RmVXVzcHpGSzI2bTFuTTlwSHFBOVdBRnFucjRiTVM2dFJTM2hUVlJmZnVEVDI4czBqampITTlvSUNsM25JLUZJNnVVUTNFdHE0STExcWdqd2lfOU80MFFtUG9zT3RVMXI5TEFuY1NwdGtCWlk5OHFEX193": 1794101139733,
+    "news:CBMitAFBVV95cUxPY0s3MGxNSWFWWlJHbWF0NnRxNUo4eERkeHpMdlR5VnlZU19tNHc0eVl6SWxGV19iR1pVcWUycFBsdEJnOW85TDl0d0FLNDI0ZmREdndCcEExbGFnVVk5bHVQamRkUFlsTTdEbzE1UlJoa1JJRWtWOXBpQjZuV2hIdlhzdjZ2QTA0czRBSVduMjg0Y2RsRzdpdWF1RmRQcTBVZDB1MW53MkZRcDNKX05zdmJiQlbSAboBQVVfeXFMTzNNamN4S3kxY05yLVhHYk5yM216T1Q2TENwdi13ZXlOR1VQUlI2bGgyU3RLd0dnOVA1ajRUMllycVZaZ1BxbktMMjlZdW5KVjhxcDdXM2MtblNoX3ExMkFOM0E3LVJ3OV9HbklxVjAtWE0xMTZrUXZGeGl0NnRyTi11Q1VZQy1sRkNVR2oxSktDNnBKbHc0SzdKSE4xdlZIbkh3Y2JUb2JFajNGRWVBRXlQLVEzdGE4QVBB": 1794101139733
   },
   "digest": [
     {
@@ -27823,10 +27825,50 @@
       "d": 1794100640000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Belajar digital matketing dari 0, diajarin dan ditemenin mentor sampai berhasil, ilmu dan platformnya lengkap seperti kita ambil kuliah Marketing konvensional..semua bidang yang po",
+      "u": "https://www.threads.com/@eneng_apt/post/DfdjtFtExtX",
+      "d": 1794100673000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Barangkali sblm dpt kerja formal, ini bs jd opsi kaka 🙏 zaman sekarang kerjaan nonformal yg memungkinkan adalah cari cuan dari online. sebaiknya cari ilmunya dulu terkait digital ",
+      "u": "https://www.threads.com/@eneng_apt/post/DfdjM-nk5EG",
+      "d": 1794100410000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Manfaatkan AI, Guru Klungkung Ciptakan Cara Asyik Tingkatkan Literasi Siswa - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0lzbGxROWpSTUc4VlM5MVFZTXpObmlHSUtDeFA5Y20zRXdkNHBVbjJvT1dLUVh4QmhtQ1d4c1JMeGFHWmhfTHJpNjlVTFBRdzEyOFFzZG4wcGlWM2FnYVJUV082RW5QMHZ4SnByckoxT2V0eVhISGRlZ3AzQmticDRhNWh6X1RORkhzWFRab2VpbG01TFJLcmk2d1VCTzRkYzZWV29rZlJrQXRPYmlfVnFteWsyVHEyU1NaeWRHclDSAcYBQVVfeXFMUG14eEtCS3NIS0RRNUJ3SEd2S3RXSmhaLWFwOHQxTzgtQlZQTEFVRDNTOWQwRHNVQ0NlNjFuYWJEbWE3WW1aa0NRd0pOQ2dVc0hHY3RmVXVzcHpGSzI2bTFuTTlwSHFBOVdBRnFucjRiTVM2dFJTM2hUVlJmZnVEVDI4czBqampITTlvSUNsM25JLUZJNnVVUTNFdHE0STExcWdqd2lfOU80MFFtUG9zT3RVMXI5TEFuY1NwdGtCWlk5OHFEX193?oc=5",
+      "d": 1794099950000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "CEK SEKARANG! Desil 1-4 Bisa Cairkan Bansos Rp900 Ribu ke Renening? - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0s3MGxNSWFWWlJHbWF0NnRxNUo4eERkeHpMdlR5VnlZU19tNHc0eVl6SWxGV19iR1pVcWUycFBsdEJnOW85TDl0d0FLNDI0ZmREdndCcEExbGFnVVk5bHVQamRkUFlsTTdEbzE1UlJoa1JJRWtWOXBpQjZuV2hIdlhzdjZ2QTA0czRBSVduMjg0Y2RsRzdpdWF1RmRQcTBVZDB1MW53MkZRcDNKX05zdmJiQlbSAboBQVVfeXFMTzNNamN4S3kxY05yLVhHYk5yM216T1Q2TENwdi13ZXlOR1VQUlI2bGgyU3RLd0dnOVA1ajRUMllycVZaZ1BxbktMMjlZdW5KVjhxcDdXM2MtblNoX3ExMkFOM0E3LVJ3OV9HbklxVjAtWE0xMTZrUXZGeGl0NnRyTi11Q1VZQy1sRkNVR2oxSktDNnBKbHc0SzdKSE4xdlZIbkh3Y2JUb2JFajNGRWVBRXlQLVEzdGE4QVBB?oc=5",
+      "d": 1794097886000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
