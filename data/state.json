@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6p3AUkUek": 1792930345775,
-    "threads:De6qzWglEM0": 1792930345775,
-    "news:CBMijgFBVV95cUxNYlRmS1JxM2cwcGFVaU92dFZ3YndRdFZYNURXaHNkZmZvSkY1TkRXamlmQmpPNGR5MEEwTklhX2FNU0wzenp4RkNJekNIY2ZpYmR0SVJzeWFaUEVseVlvckp2bW5EZU9MOU1vdGxZaGtSU3lqVVZOX3o1RkVWWE9zSUdYMnpCbG5BYU90OVZB": 1792930345775,
-    "news:CBMiuAFBVV95cUxQQzk0ZXh2VHYtOEVPYW9vN2lqUk1KMVRxVDdxdEhtQjhxQzNOSHB5bU1HN1RzYUFzYW5XNzFWWXZGVm5NNEJDa1JCeHVGeXVVNHJDQTdPd0MwM0l0NkJJdmJZcEZ1eEFEdF9SODF5X2pvVGMyXzNnWjVCTTNHNXZCY2dPZmlLRzhoSHNlSGg1bGw3MS00R0o3eFo4bWVPOXdzQVhxQVowTElldTJ1Rk5nMDI4TWtaeEY4": 1792930345775,
     "threads:De6rHoCCXYv": 1792930545195,
     "threads:De6q849idC0": 1792930545195,
     "threads:De6q18zCTt8": 1792930545195,
@@ -27541,7 +27537,8 @@
     "threads:DfetMSAgUjJ": 1794139541545,
     "threads:DfenTi8FD0Z": 1794139541545,
     "threads:Dfes8hFE4re": 1794139541545,
-    "threads:DfesxURj3rT": 1794139541545
+    "threads:DfesxURj3rT": 1794139541545,
+    "threads:DfeugpLHTGX": 1794139841440
   },
   "digest": [
     {
@@ -27573,10 +27570,20 @@
       "d": 1794138980000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@miaaudina.z",
+      "x": "Pas cek desil ternyata desil 6, Pantesan gak pernah dapat BANSOS 😢",
+      "u": "https://www.threads.com/@miaaudina.z/post/DfeugpLHTGX",
+      "d": 1794139892000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
