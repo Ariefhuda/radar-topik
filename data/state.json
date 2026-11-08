@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De74uxIExMY": 1792971051773,
-    "threads:De74qpfk04O": 1792971051773,
-    "threads:De74ktyk2WW": 1792971051773,
-    "threads:De74kFWk74L": 1792971051773,
-    "threads:De74KVik3FU": 1792971051773,
-    "threads:De74INOE62n": 1792971051773,
-    "threads:De74B96E5ia": 1792971051773,
-    "threads:De73-0Hk2E2": 1792971051773,
-    "threads:De74DNJE0Ab": 1792971051773,
-    "threads:De7300oExNi": 1792971051773,
-    "news:CBMi4gFBVV95cUxOMDJRVVUzWEl2LW43M0hxbmdqOXlnZEFQTkQ3UXpXWWxRMU5iZXZMaWZKNEhqUmNsSjF3YlRZY1ltZm9TSF9TODJjQzgwelBxQ2FieE4ycXpOZ25EZ0txVlN4Y0R3UWZ6REpqQ1QyYkdKejVrMThVYkVDMWJtQkx0cHJjVHlZYWwzQXlxNU5JTkdvb2ZUYnNJSTdDdHcwVGQzbkViOFJqaVhES2ExVldMekpqTnhZb0cxTi15OFp0dWVGb0lkZTBpQ0RmcXhfdzNDSWdfelJiejlUTkVzVHR2WjJR0gHiAUFVX3lxTE4wMlFVVTNYSXYtbjczSHFuZ2o5eWdkQVBORDdReldZbFExTmJldkxpZko0SGpSY2xKMXdiVFljWW1mb1NIX1M4MmNDODB6UHFDYWJ4TjJxek5nbkRnS3FWU3hjRHdRZnpESmpDVDJiR0p6NWsxOFViRUMxYm1CTHRwcmNUeVlhbDNBeXE1TklOR29vZlRic0lJN0N0dzBUZDNuRWI4UmppWERLYTFWV0x6SmpOeFlvRzFOLXk4WnR1ZUZvSWRlMGlDRGZxeF93M0NJZ196UmJ6OVRORXNUdHZaMlE": 1792971051773,
     "threads:De75Is0k9Cf": 1792971355988,
     "news:CBMiqAFBVV95cUxNRnh6Z2RKTWxzRE5ZQk1OTTZIZUlJNEtYanNOOUpvUlBOR0lMSWw5Zkp4NVZvU2ZQOVJWbG5MYnpkLWRUYlYzNXZSRTE1MkF5ZHpCSDZic2NiSkFIWXoybFB4d1R1YkR2R205QWdNRUNhR1U0WDN5MVJ3SExHWDJyRTdNbHBwLUxxYnpTQ2F3djROdkpPcXF1THlnUld5a3RqdGtWaTQxWU8": 1792971355988,
     "threads:De75oRik6ql": 1792971712214,
@@ -27620,49 +27609,17 @@
     "threads:Dff6JOhlqaY": 1794180334548,
     "threads:Dcz3mi1mA4B": 1794180334548,
     "threads:Dff7o8Inx9U": 1794180334548,
-    "threads:DeRHcQtD9lm": 1794180334548
+    "threads:DeRHcQtD9lm": 1794180334548,
+    "threads:Dff7LaEEvXG": 1794180645668,
+    "threads:Dff7JbuElEX": 1794180645668,
+    "threads:DZJmBdKk52i": 1794180645668,
+    "threads:C7y78BBvJqM": 1794180645668,
+    "threads:DAsPSnhvkxW": 1794180645668,
+    "news:CBMipgFBVV95cUxQeWlaWVVUMmNzTjBYLUgtX2hqTG5NUG9JdnFCNE5VVV9rX1VWR0MtNTNSVXJvR0N3a042WHd2YUdxamlYNm92WkpzZmVzOXhFNVZDeWRmU1Qzck1xaUtxaW52SWJidHdNLWxXczBtZnB6b2ZIRTdKTXJVQUFSeE5PLVllbEk1WWEyYTI3MkxncXJUNVRnRFJyZDV6MWFQTWxkUDY0U0lB": 1794180645668,
+    "news:CBMiqwFBVV95cUxPMnlYN1puN0ZWWGdBQS1HcXB4SUZyYkhUVGh2Q0JYV3RBTGxsWU9HZjc1MC16RVE1aDYtQ3AtYWtfSm43SzlVWjRFX2VqV193WlE0Zi1VRHJJR0NCMk9BYklKRk1vV2lRUVBuZ0wzX2d6U1dBaEFDeW9ib24wbURxdVRFcnpIVVlGMVFBSkYwSWRFWHRfMDdob2lKS1hqdWluOEpyVE1LMk50aFHSAbABQVVfeXFMT0NfVVF1aWdWLUZRZmVTQWV6SmZWenJHdmVxTTdqNXR1VFhMQkFYX3NYdnFtb1hRTHBTWEROclRENHozWkRmLUllcGF1VGUwMGtRbmlkZGk4dHRxYjBndXJfNnRHbEwwM1VMMWFEMTNCeFBudXVSZzJmUHBYMmNMSGZQaTVwUFlMUUJVZmpKZ0RTWEpvYlZzR3RLaThJSzdqWFNLYnRCN1k3WVlSbkVsNUU": 1794180645668,
+    "news:CBMi7AFBVV95cUxOeEpobTFmUGF0eHpEZEoybjZYUXIwazNBYjVvUm5UakV6dzlFeWZLLXhJS2J0Z0tPWW12YllidXRaSTFjSl9MbmFvQlpWbWxFb3FwUFV1TmpkVTNCY283TXFfc1ExVGlBRWpHakFtMXlwaVR6YlFhLU5vMkt3Vk9KOHBWZUtfcGE4aE1jV0MxMFpKRl9fLXFidDlVLWVJM1JXajV6bGdveWlNemE3OHpDVm9WcVV0OWtQQ2Fsc0tRckhNeWp5UmNlbTRmZEEzWHlEa0ZvYWRlMVV6TkwzR0lZWkg4ZHJ6M2Vkbk0xQ9IB7AFBVV95cUxOeEpobTFmUGF0eHpEZEoybjZYUXIwazNBYjVvUm5UakV6dzlFeWZLLXhJS2J0Z0tPWW12YllidXRaSTFjSl9MbmFvQlpWbWxFb3FwUFV1TmpkVTNCY283TXFfc1ExVGlBRWpHakFtMXlwaVR6YlFhLU5vMkt3Vk9KOHBWZUtfcGE4aE1jV0MxMFpKRl9fLXFidDlVLWVJM1JXajV6bGdveWlNemE3OHpDVm9WcVV0OWtQQ2Fsc0tRckhNeWp5UmNlbTRmZEEzWHlEa0ZvYWRlMVV6TkwzR0lZWkg4ZHJ6M2Vkbk0xQw": 1794180645668
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ieiez_",
-      "x": "Menaker Buka Pelatihan Vokasi Nasional 2026, 2.000 Peserta di Cirebon Dapat Pelatihan Gratis",
-      "u": "https://www.threads.com/@ieiez_/post/Dfezvahk3dv",
-      "d": 1794142635000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@missaansriyani",
-      "x": "Kabar baiknya lagi: • Tanpa batasan usia sama sekali • Terbuka untuk semua kalangan & agama • Kamu dapat pendampingan penuh sampai beasiswa turun Faktanya, beasiswa ini nggak bisa ",
-      "u": "https://www.threads.com/@missaansriyani/post/Dfe0v5QlLTr",
-      "d": 1794143163000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Papuapos Nabire",
-      "x": "Kapolres Fasilitasi Pengurusan SIM C Gratis bagi Peserta Pelatihan Tataboga - Papuapos Nabire",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjBidEJkcl9FS1pPYjV3NzZaWEptdm5XNU42Q1FlREJ1UzdpOXNSbXVtZV93bVhDRWlJUmRjQ0M0YzlTRU5QMUZIVDRTMWVTYXZyNi1WbmNSa25icU5LX0toSXVCQkluQkdjZHBlQktCVWJmX1MtVkoxNEVUVVc0NXNoeGFJZlg1RU5LeDhZNnJYWlowcTE1cHdVaU4yOWwxdVQ1cjVaU2pYc3pncGx2aQ?oc=5",
-      "d": 1794114558000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "kabarsulteng.id",
-      "x": "Peringati HKN ke-62, BKK Kelas II Palu Gelar Cek Kesehatan Gratis di Pelabuhan Pantoloan - kabarsulteng.id",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0o4WThuVjNCMW5XcUtKTTc0QUJpMGViZlFNaFVQMkFHRzlHdGtQbUdvc1F1NEFGSWhONE9mbC1GVVV4bjNMWFRYWmF3S28yUjhNd0Zmd21fODUxbWVYb0drU3Z6aHp2dUJIaGlRRUM4Sm5TcjlrbVNhRUx3Z2p6ekNBVUtkSGVLaF9acF9yM3NMdXBXQXNTWWVrX2d0RDMtM3VLVUUzX1ZyRXRfakVSNTVhNlFQVldfdlNVanNXaGMyYjR2bkE?oc=5",
-      "d": 1794143643000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29122,10 +29079,50 @@
       "d": 1794180331000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/Dff7LaEEvXG",
+      "d": 1794180089000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/Dff7JbuElEX",
+      "d": 1794180072000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tvOneNews",
+      "x": "Bansos BPNT Rp600 Ribu Sudah Cair? Begini Cara Cek Lewat HP - tvOneNews",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnlYN1puN0ZWWGdBQS1HcXB4SUZyYkhUVGh2Q0JYV3RBTGxsWU9HZjc1MC16RVE1aDYtQ3AtYWtfSm43SzlVWjRFX2VqV193WlE0Zi1VRHJJR0NCMk9BYklKRk1vV2lRUVBuZ0wzX2d6U1dBaEFDeW9ib24wbURxdVRFcnpIVVlGMVFBSkYwSWRFWHRfMDdob2lKS1hqdWluOEpyVE1LMk50aFHSAbABQVVfeXFMT0NfVVF1aWdWLUZRZmVTQWV6SmZWenJHdmVxTTdqNXR1VFhMQkFYX3NYdnFtb1hRTHBTWEROclRENHozWkRmLUllcGF1VGUwMGtRbmlkZGk4dHRxYjBndXJfNnRHbEwwM1VMMWFEMTNCeFBudXVSZzJmUHBYMmNMSGZQaTVwUFlMUUJVZmpKZ0RTWEpvYlZzR3RLaThJSzdqWFNLYnRCN1k3WVlSbkVsNUU?oc=5",
+      "d": 1794180420000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Begini Cara PNS dan PPPK Daftar Agen Perlinsos Kemensos 2026, Ini Bedanya dengan Aplikasi Cek Bansos - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEpobTFmUGF0eHpEZEoybjZYUXIwazNBYjVvUm5UakV6dzlFeWZLLXhJS2J0Z0tPWW12YllidXRaSTFjSl9MbmFvQlpWbWxFb3FwUFV1TmpkVTNCY283TXFfc1ExVGlBRWpHakFtMXlwaVR6YlFhLU5vMkt3Vk9KOHBWZUtfcGE4aE1jV0MxMFpKRl9fLXFidDlVLWVJM1JXajV6bGdveWlNemE3OHpDVm9WcVV0OWtQQ2Fsc0tRckhNeWp5UmNlbTRmZEEzWHlEa0ZvYWRlMVV6TkwzR0lZWkg4ZHJ6M2Vkbk0xQ9IB7AFBVV95cUxOeEpobTFmUGF0eHpEZEoybjZYUXIwazNBYjVvUm5UakV6dzlFeWZLLXhJS2J0Z0tPWW12YllidXRaSTFjSl9MbmFvQlpWbWxFb3FwUFV1TmpkVTNCY283TXFfc1ExVGlBRWpHakFtMXlwaVR6YlFhLU5vMkt3Vk9KOHBWZUtfcGE4aE1jV0MxMFpKRl9fLXFidDlVLWVJM1JXajV6bGdveWlNemE3OHpDVm9WcVV0OWtQQ2Fsc0tRckhNeWp5UmNlbTRmZEEzWHlEa0ZvYWRlMVV6TkwzR0lZWkg4ZHJ6M2Vkbk0xQw?oc=5",
+      "d": 1794175823000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
