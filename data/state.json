@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7BaagFKPH": 1792941941539,
-    "threads:De7AZxriQ6x": 1792941941539,
-    "threads:De7AkzfEbvL": 1792941941539,
-    "threads:De7AhAvlbHU": 1792941941539,
-    "threads:De7BAgWk0UE": 1792941941539,
-    "threads:De7A4xREywy": 1792941941539,
-    "threads:De7BUCdkoY4": 1792941941539,
-    "threads:De7A87WmJ4m": 1792941941539,
-    "news:CBMiyAFBVV95cUxNQk5aVDRWeFRoQWYzdUQ2VXh4d1J6Nnd3VWVfanBZVTEtZFl4TndmZnJhMF8ydV9TMjItRGRTS1E3VHM2bm9lZG5sc0dKdkdFWHJBN2hZeGVTUUlyNFVRVkpjZVNYQ3FaNS1oZldFX2hTWnJ4Z2RBU1FaUzFHbjFwSGw1bUVCTXpBNGg3cHVTdFp4dVcyeFNUT1FXaFdSWXRPcUVnbUQyUE5WenM0T2RrNWRHeHpTd0FLSXBCYjZfMlk5dkZjVkZSNNIByAFBVV95cUxNQk5aVDRWeFRoQWYzdUQ2VXh4d1J6Nnd3VWVfanBZVTEtZFl4TndmZnJhMF8ydV9TMjItRGRTS1E3VHM2bm9lZG5sc0dKdkdFWHJBN2hZeGVTUUlyNFVRVkpjZVNYQ3FaNS1oZldFX2hTWnJ4Z2RBU1FaUzFHbjFwSGw1bUVCTXpBNGg3cHVTdFp4dVcyeFNUT1FXaFdSWXRPcUVnbUQyUE5WenM0T2RrNWRHeHpTd0FLSXBCYjZfMlk5dkZjVkZSNA": 1792941941539,
-    "news:CBMiqwFBVV95cUxOZnBSME5aeFBxckNRWk5iMDRlaFpfSWx6am51dFJOcUlFbUgzR2FoTEhwcXdMQmlzbGlpcS04UWgxTzkwVVdCcFN5ZURGNzh6VHRKemdXMzAyRzRtN3ZEMVdEYTZfV3hBVm83ZVNHNURjdElJNEdFZHFwZ3pMRHZsY0V4ckJSRDRaSGpNdVRLSEZKWXRGV0llT0c0clFKSGhMQ2dNVU4tZUpSZmvSAasBQVVfeXFMTmZwUjBOWnhQcXJDUVpOYjA0ZWhaX0lsempudXRSTnFJRW1IM0dhaExIcHF3TEJpc2xpaXEtOFFoMU85MFVXQnBTeWVERjc4elR0SnpnVzMwMkc0bTd2RDFXRGE2X1d4QVZvN2VTRzVEY3RJSTRHRWRxcGd6TER2bGNFeHJCUkQ0WkhqTXVUS0hGSll0RldJZU9HNHJRSkhoTENnTVVOLWVKUmZr": 1792941941539,
     "threads:De6vuZmDxp4": 1792942258851,
     "news:CBMirAFBVV95cUxNUXRBNFlUampLMkJMcEFMb0g2OEs3WjdnbjQybVc4V0pDcHYyR2RGb2VmV1ZZdm9UYkdsbElneGJyejFZVkZEZG5WYTZidTdwQ2FlWlhFdVhJWjJYT3BHektmS0htd3NiSUFyRG9JOWxleS1GQVU0cnlMQkdVamRhSUQ2MGtFVVdVN0d1WF92ekZZa0drVl9KTnJfb3UzM3hKQkNFbXdUQjR4MHk5": 1792942258851,
     "threads:De7CEDgkUkm": 1792942555781,
@@ -27496,7 +27486,22 @@
     "threads:Dbo58ZCD5Io": 1794150945934,
     "threads:Dd0ES22D685": 1794150945934,
     "news:CBMikgJBVV95cUxNYVpCTm1rZFpUMmktblZPdFhaN1MwX1ZNbldqX1pReDl4TUhvMEJ2YklEeG9xd1RyM2VSQnRJc1ZMbDY0TTZQM0Z0NXVDSU91bVJURnpjTFo1NnFyNlA0b2FPcE1LWlVoMXBvQ19zcEE1cUgydjJwSlBnbFFpWTdRZXR3ZkgwVHJSYkk0aWhrVjZvakMyMGZZNXZXdlYtWkVoR2VJbklhTVhvcEFiYzY3VmExQU0wZEdxMzhPYXV1bWUyREV5cUhtVE1Xel9BckN3Y29jXzRUbkhkNHA5SXFGWWxsTU9SbEJTZ3FzcGJZT1dmYTlDN1R5Q0RRT3gteEpEWnVxdG1sV05PeXpOZlJQTDhn": 1794151243530,
-    "news:CBMickFVX3lxTE5ZVWkyNUVnYk9sLWlLcjUyRmZtNFdid2NWRUJ5THRjTzRqLUEydmxSckJYeEt2T0NpLUhzbG5RaEVjcGYwb3BxdG0wLWdLSGlOOWl5Y0xpakdFVEZlUVdWYmFnaXhrVlhsQnR1b1MtbDZIdw": 1794151243530
+    "news:CBMickFVX3lxTE5ZVWkyNUVnYk9sLWlLcjUyRmZtNFdid2NWRUJ5THRjTzRqLUEydmxSckJYeEt2T0NpLUhzbG5RaEVjcGYwb3BxdG0wLWdLSGlOOWl5Y0xpakdFVEZlUVdWYmFnaXhrVlhsQnR1b1MtbDZIdw": 1794151243530,
+    "threads:DffEKg7mtrY": 1794151537177,
+    "threads:DffDy2LlFZM": 1794151537177,
+    "threads:DffDsVzFMgE": 1794151537177,
+    "threads:DffErc-COjf": 1794151537177,
+    "threads:DffEq6zG4nv": 1794151537177,
+    "threads:Dfe9hzGGwEs": 1794151537177,
+    "threads:DffEJSdhBnq": 1794151537177,
+    "threads:DffD_HRANbD": 1794151537177,
+    "threads:DffDylJG-1b": 1794151537177,
+    "threads:DffDyJ6Ea75": 1794151537177,
+    "threads:DffEaTWEUIp": 1794151537177,
+    "threads:DffEfFgE3V8": 1794151537177,
+    "threads:DffEj1qDxe2": 1794151537177,
+    "threads:DelB2Kskw6q": 1794151537177,
+    "news:CBMiqAFBVV95cUxQaVBlQlF3MFRtNmZOekRkc0lGXzR2VTBodm8tRjkxRW9ZQmh6NnJEV2ExMVZmSTRkUzhlR1ViVXRIUEZwTDYwdS1SRHZqVnVRTFgweDNWSGFqMlVyUjFiY0hPaUdTYW1ZMU85UVFWN0RlbXJFNmd3cWY1SGRKZGlUUkwxdXhZRXRfd1dCajJjdF9Oa3FNT1ZHQW5Vbi1PWW1QWVdmYkFlbzHSAa4BQVVfeXFMTVkwa0xHa0pxUi0yWkNPZmxLV0JJMGx4MGoxckMwMW95X1IzTU45WWgzWEtuX1h2b1FYVG80anZydkdQSE9JTHBaLUx3ZWhaaFpPNWRYTi1ZVXRFZ0VxNG1Hb3M3OGNmVHVyZmdqNVpqbWRDeDVLYW1FZ0RwQUZYZVZXQ214RWJyYU5wTnpSeEt1Z1ltZmJoTExUSXgzX0Q5SU1LdGpCMXhxSWtVY3Nn": 1794151537177
   },
   "digest": [
     {
@@ -28558,10 +28563,40 @@
       "d": 1794143507000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Kebetulan klo aku lagi ikut komunitas Mahir digital kak, diajarin dan ditemenin mentor sampai berhasil, ilmu dan platformnya lengkap seperti kita ambil kuliah Konvensional..semua s",
+      "u": "https://www.threads.com/@eneng_apt/post/DffEfFgE3V8",
+      "d": 1794151414000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@_.leogurlzz",
+      "x": "Jogja ada LPK/Pelatihan yang gratis gitu gak sih guis??? Info info dong ▓",
+      "u": "https://www.threads.com/@_.leogurlzz/post/DffEj1qDxe2",
+      "d": 1794151453000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Koran Jakarta ®",
+      "x": "Layanan Cukur Gratis bagi Santri oleh Alumni Binaan Dinsos Tangerang - Koran Jakarta ®",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaVBlQlF3MFRtNmZOekRkc0lGXzR2VTBodm8tRjkxRW9ZQmh6NnJEV2ExMVZmSTRkUzhlR1ViVXRIUEZwTDYwdS1SRHZqVnVRTFgweDNWSGFqMlVyUjFiY0hPaUdTYW1ZMU85UVFWN0RlbXJFNmd3cWY1SGRKZGlUUkwxdXhZRXRfd1dCajJjdF9Oa3FNT1ZHQW5Vbi1PWW1QWVdmYkFlbzHSAa4BQVVfeXFMTVkwa0xHa0pxUi0yWkNPZmxLV0JJMGx4MGoxckMwMW95X1IzTU45WWgzWEtuX1h2b1FYVG80anZydkdQSE9JTHBaLUx3ZWhaaFpPNWRYTi1ZVXRFZ0VxNG1Hb3M3OGNmVHVyZmdqNVpqbWRDeDVLYW1FZ0RwQUZYZVZXQ214RWJyYU5wTnpSeEt1Z1ltZmJoTExUSXgzX0Q5SU1LdGpCMXhxSWtVY3Nn?oc=5",
+      "d": 1794067500000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
