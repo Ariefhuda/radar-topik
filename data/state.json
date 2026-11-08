@@ -60,25 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6WrkMGnjQ": 1792920048111,
-    "threads:De6Xzbvk2AP": 1792920048111,
-    "threads:De6Xpibk4en": 1792920048111,
-    "threads:De6XsUsky3e": 1792920048111,
-    "threads:De6XUNVgWwr": 1792920048111,
-    "threads:De6XPMpn6HD": 1792920048111,
-    "threads:De6XEqWGbaa": 1792920048111,
-    "threads:De6XCouleoE": 1792920048111,
-    "threads:De6W-T1Em4k": 1792920048111,
-    "threads:De6WzpfHIUR": 1792920048111,
-    "threads:De6WwiwjtLA": 1792920048111,
-    "threads:De6Wv_MERaN": 1792920048111,
-    "threads:De6Wj5wj9aq": 1792920048111,
-    "threads:DeRIHLkD2az": 1792920048111,
-    "threads:De6Xza-E0O0": 1792920048111,
-    "threads:De6YE_ik7QG": 1792920048111,
-    "threads:DeQyZxbAT75": 1792920048111,
-    "news:CBMidkFVX3lxTE40SERjTnNBRFppUy05QkMybTJ1Q21GOE9ia0kyVFB4TFdseWp4d0Q4dGtiV0hfQVJBSjJEM0s3UlhWakN1RG5HYWUydnVQYUJZNWZiOWRKY1ZEWjBnZlg1OEhBakZKUnZxMEtoeV90MTZPOHVFRWc": 1792920048111,
-    "news:CBMirwFBVV95cUxPVG02ZDY0OWVoX2NxR1FnYTVmQURoM1FER04xaDh1aHJ4MDBJNjNKRlJCRUE5WTJFSGJWYURTNzF1Uy1XN0J0aHNWbGNxWm5xYjRNSi0yMnA4ZDRkTnp1VkFQY281NlNLd1lGaWNQZlFKM1F4Y1JnLVZjZGttSFRJcmtTeFJNT0Z1NHNpc2I0bXFMQW8tTXJ3dEVVcF94b1l0RVNQdHVCVWdOVHdtdXdJ0gG0AUFVX3lxTFBkcGc2MWwxeDBWRUlOVTJpWFMzNVJmakhpMUJwUzN2Qm5nVE13eENkbVRpSWxUb3dYS2p5Y09mcUdNOWFzRk9KYnlKYzhxNmR2NzBTNUZaUGZWUDlORkt3Y0tvRWlzVjBuZ1hPa1FBU1VnMWtQcTIzNTBKY29qaFF3eHphX29UbTNNbV9CdUhZNE9URzlkWGdaR2lXaGhfeGY5dDJBNFlNVWNaZXR1QW5Hakx2YQ": 1792920048111,
     "threads:DWd7Mz2oAs3": 1792920336686,
     "news:CBMitwFBVV95cUxNdGhXOFg5OXREb0NVMjltTFY5aDBHNG02QlN1VjFPZG95eklNd0JqRDNTVzVrRjQ4YWNJbl9tdHlGcGtCczF6V2hfc3JIZXRqaEw1UFNIcFhOOUdReTVVSXNMSFdCNlNZOW11blNRaG1OZXBtMG1OUlJYS2xYTnpXZGlOY09jUkQzelFLZkdkSklfNng0NEU5emhoSF9aWVE3Zi1WSU9jTG0xNGxhay1yVldlNTFYOGc": 1792920336686,
     "threads:De6YByElsgX": 1792920650759,
@@ -27590,49 +27571,18 @@
     "threads:DfeZK3_DOwx": 1794129043556,
     "news:CBMitAFBVV95cUxPVEpGMF9rUEpaT2VaTEltTXhpZEU4bUFXXzh0TkJ0VjF5ZGoybG1NR19oUm1mbDBsZVVJSW9JbGhQaXRhQk5oQlFNME1PWExaNmxBeW80aURNc0tVN20zUE5oOFNGVzdlVDdwV1lCUnVXRXFNbDFhZzltajlqTmZpZThfejZib0xxaTdrSHlSRk5xdG9xU1l1clM0c1R1SUV6bVZwMU1DUmJjbGwzcXlxeU5ZM3M": 1794129043556,
     "threads:DfeaOpEI1Pi": 1794129338246,
-    "threads:DfeZhrJDRfS": 1794129338246
+    "threads:DfeZhrJDRfS": 1794129338246,
+    "threads:DfebFnCHQTF": 1794129642489,
+    "threads:Dfea_WklaKJ": 1794129642489,
+    "threads:DfeaB8xGX44": 1794129642489,
+    "threads:DfeZfe4iJ_F": 1794129642489,
+    "threads:Dfd9Nm_jg0c": 1794129642489,
+    "threads:DfeFN0FiKLi": 1794129642489,
+    "threads:C_phGZWSeoB": 1794129642489,
+    "news:CBMi7AFBVV95cUxPVEdBSk5xWjJqV2tQMll5UWZCZ1JBWjdOaGdSOWRlUkhzRXI3LXdtRW9XZFlKVHM0Smp0OTRtZnYtSzZVNVN6Tm5sSXduU3JzREtYMXMxTXcxd0Q3a0hmaWFNbkpDOUZuV0haakNqQWNlMW5pRzIyRlNEcUk5emJtRkRleUVlenpoWHFMd3d0eWRqWGhvSnJsSF9GU2cxenhxTV83QzdxMDlOVl9mU2otWGhUQWVNZzZnM09qSDJoSE9GTDliSDFlRlJaTHpIX2lqdDJ6WURrS0ZwMUxIZnhwWlJ4ZVFicXVPOUp4UNIB8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUQ": 1794129642489,
+    "news:CBMi6AFBVV95cUxQZlFxV1RTNjEzajliMzNwdENsYmQwTmdnbFJDTWpWTzgxVl90UjE4MEFjV1JmZTA5TWFUSmVLV3hTZlZNdUt6alJ3ZEd5OEdRODFkbHpFakZyaW1iYkNlVlJ6TXBfRUY4bEcybmxvYTJ0UjJBUUhJRUZONW9QZi1JTURDczFQbkd5Zld0emdSTk9BZE9zaThGTEVJeEdXZXJ0XzRjUEFXdDg5OXV2SnVUbUFWQ2lEWXAyRWxhcWJOZF9uRFRPRDNkdGJfQnVua3JTQWlEZ0JvMjM5blAxcjZEc1c1OXppS0c10gHoAUFVX3lxTFBmUXFXVFM2MTNqOWIzM3B0Q2xiZDBOZ2dsUkNNalZPODFWX3RSMTgwQWNXUmZlMDlNYVRKZUtXeFNmVk11S3pqUndkR3k4R1E4MWRsekVqRnJpbWJiQ2VWUnpNcF9FRjhsRzJubG9hMnRSMkFRSElFRk41b1BmLUlNRENzMVBuR3lmV3R6Z1JOT0FkT3NpOEZMRUl4R1dlcnRfNGNQQVd0ODk5dXZKdVRtQVZDaURZcDJFbGFxYk5kX25EVE9EM2R0Yl9CdW5rclNBaURnQm8yMzluUDFyNkRzVzU5emlLRzU": 1794129642489
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@saldi_susaldi",
-      "x": "pemerintah udah turun tangan membantu kamu selesai S3 temankuh, semangat temankuhh.. https://beasiswa.kemdiktisaintek.go.id/ Ketentuan: > Dosen tetap/tidak tetap aktif di bawah Kem",
-      "u": "https://www.threads.com/@saldi_susaldi/post/DfdydL5k5zF",
-      "d": 1794108407000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Warta Lombok",
-      "x": "Cara Mengurus Halal Gratis Sehati untuk Produk Rumahan, Bekal Warung di NTB - Warta Lombok",
-      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjJUZ0tIMkMtaW5rY1Y1aUQ2SnpKN2tCQ2dob1FlLWUwNGRwb0pkM1dncFh1eTlJVklYQ3hGeWdqemJMYzF3c1BXQWsxZGxZMzI2ZXJab0Z3aGdKVk40SkxtaWVNNm5NbktJeXR5OEp1VU1pMVUwVWJZNUc0cGJQNHpkbFpKUEhzZ1lMaXdiSml5LUxId21IQ1BFYzEtcnk2RXBIVVpnYWZRZlVoRmFLX2V3Ulp5RVRfU2pZU1pSbTlseXZ1X1dsQ2ZSNUUxajRtNHhxYzZB0gHbAUFVX3lxTFBjNWY2Wm9wWFBKQ0w2R1M3REpOdjAyWkVucWdna243SktRaWdUaEk5azF1NXZaaWZTVDdCTUhhaW1GUnNJQ2pnX214LVd6VTdON3prQS1XSloyN2RtVWJONnlnQWg2WDJob2FyVDkycm13V3ZVYnhWYm9YV2J4NzhhYXZ4OFd4VmNZUzZaWkI1TTdMcmNlLWJQSjNVbFpscVo2T1VfbmpZMWJtbWJXV3pCUDVjbHlWbnh4R3dHUkJDMkNTY19ZMjN4NE5FMFROWG1lMXZyakdKQmRRbw?oc=5",
-      "d": 1794105729000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Medialokal.co",
-      "x": "DTSEN 2026 Jadi Acuan Bansos, Desil 1-5 Berpeluang Terima PKH dan BPNT - Medialokal.co",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenpvanZmVW9mWXFCWWpMaHRtXzlZN2tlOVFlemZMRDN6bFVHdHdCZ1pJMk9zV2E1bm51aEoyTnYwOXRyMG1wblprRUFBV1pld0trQXM3SFZfNVoxc19PTVRFdDVZWW44aEtRSC1XMmVUTjBJSUJ5T1VkVmxJVHNhZnJrclM4TEtVTnpubVRLdF9DZEp5QTFIRlFYOEFtMjBLRjl0OUk2X1VxVUEzVFHSAaMBQVVfeXFMTndqU3dOaTZvZTNVZjFmOEdQaWhiLWQ4cWxKa2ZDWVJCdVJIbDQ1MTNMYUd3d0daakVHb054MzBIVDk1RmRLQV9sdjRnTlg3UkVBS2VHdkVwZHlsR292SXVuck9OekpUeGhrRnZvbEZjMFdORE91Zm9YQXczQWdBdWpBNWNnSDF4dHJuSExqc2VjNl9BWXJiTHV0TEhOYkJSY1JSVQ?oc=5",
-      "d": 1794097262000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "tvOneNews",
-      "x": "PKH November 2026 Kapan Cair? Cek Jadwal Tahap 4 dan Cara Cek Penerima - tvOneNews",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG83N1J4UlBaZFM0U1BTYkc5SndRY1A3c2RIOUFaZy1EdHRwX3FNN2hfREwyZjRaTkxkemUtSzFLTmJ3WjhZQmNwSW91Q29hV21lejhmQk9qWDdBYmg0QWhscGxldG5qQ3pYNXc4WldHQ1hRMC1RSi1WVmZuMXdPT1JnUVg3UlhRQW5iZHJ2SFNCNjBlcWJVbGtyRExmSE5HcHNVRWt3TzZIRGozRm5jdFloTGdRa29icEHSAb8BQVVfeXFMTnY1QlBnNUtWWC1vS3lnbW51cV8zX1pyX0Z1ODVDQ3R0UlZhbGJVU25oREhCM3VqUzFEVjFMUFB6d1hra01vMFpnRGl4aG41aTE2YTRLbl82RGcwYkxPeGJCZFlGcXN3TmwtVk9VcEl6T002OGtmUHVGbmk3bXc0TjJteTZMdUpyVnptTlFiZVVWYWd2NW1wN0Rjd3Q2SktMel9ubnh1LUdjSlpRdXoxMWJYNWZLQ093b1ZueEpYYzg?oc=5",
-      "d": 1794108180000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29092,10 +29042,50 @@
       "d": 1794128709000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muhammadalha_",
+      "x": "*INFO WEBINAR & TRYOUT GRATIS CPNS 2026/2027!* Buat kamu pejuang NIP yang mau persiapannya makin matang, yuk gabung di komunitas belajar CPNS gratis! *Fasilitas:* • Update info for",
+      "u": "https://www.threads.com/@muhammadalha_/post/Dfd9Nm_jg0c",
+      "d": 1794114046000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kreatornaikkelaswithai",
+      "x": "Yuk belajar animasi AI GRATIS bersama di sini 👉 https://s.id/wagroupwebinargratis",
+      "u": "https://www.threads.com/@kreatornaikkelaswithai/post/DfeFN0FiKLi",
+      "d": 1794118248000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Pemprov Sulsel Sediakan Beasiswa Yatim untuk Peserta Didik SD hingga SMA, Berikut Jadwal dan Syarat Pendaftaran - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEdBSk5xWjJqV2tQMll5UWZCZ1JBWjdOaGdSOWRlUkhzRXI3LXdtRW9XZFlKVHM0Smp0OTRtZnYtSzZVNVN6Tm5sSXduU3JzREtYMXMxTXcxd0Q3a0hmaWFNbkpDOUZuV0haakNqQWNlMW5pRzIyRlNEcUk5emJtRkRleUVlenpoWHFMd3d0eWRqWGhvSnJsSF9GU2cxenhxTV83QzdxMDlOVl9mU2otWGhUQWVNZzZnM09qSDJoSE9GTDliSDFlRlJaTHpIX2lqdDJ6WURrS0ZwMUxIZnhwWlJ4ZVFicXVPOUp4UNIB8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUQ?oc=5",
+      "d": 1794124438000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "PKH BPNT Tahap 4 2026 Cair November: Update Desil BPS Terbaru di SIKS-NG, Ciri KPM Ini Gagal Salur! - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZlFxV1RTNjEzajliMzNwdENsYmQwTmdnbFJDTWpWTzgxVl90UjE4MEFjV1JmZTA5TWFUSmVLV3hTZlZNdUt6alJ3ZEd5OEdRODFkbHpFakZyaW1iYkNlVlJ6TXBfRUY4bEcybmxvYTJ0UjJBUUhJRUZONW9QZi1JTURDczFQbkd5Zld0emdSTk9BZE9zaThGTEVJeEdXZXJ0XzRjUEFXdDg5OXV2SnVUbUFWQ2lEWXAyRWxhcWJOZF9uRFRPRDNkdGJfQnVua3JTQWlEZ0JvMjM5blAxcjZEc1c1OXppS0c10gHoAUFVX3lxTFBmUXFXVFM2MTNqOWIzM3B0Q2xiZDBOZ2dsUkNNalZPODFWX3RSMTgwQWNXUmZlMDlNYVRKZUtXeFNmVk11S3pqUndkR3k4R1E4MWRsekVqRnJpbWJiQ2VWUnpNcF9FRjhsRzJubG9hMnRSMkFRSElFRk41b1BmLUlNRENzMVBuR3lmV3R6Z1JOT0FkT3NpOEZMRUl4R1dlcnRfNGNQQVd0ODk5dXZKdVRtQVZDaURZcDJFbGFxYk5kX25EVE9EM2R0Yl9CdW5rclNBaURnQm8yMzluUDFyNkRzVzU5emlLRzU?oc=5",
+      "d": 1794124494000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
