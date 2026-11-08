@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7OOTyjxax": 1792948845220,
-    "threads:De7OBhID7Vq": 1792948845220,
     "threads:De7PThgE5oC": 1792949451446,
     "threads:De7Pkd2k8J-": 1792949451446,
     "threads:De7PRm5FZR2": 1792949451446,
@@ -27554,7 +27552,18 @@
     "threads:DffQNY0CSYA": 1794158139316,
     "news:CBMivgFBVV95cUxPOGdRSll2LVY2R2xUdmxBaWJkcFB2OWUwVWxFa3pUTHNWTUNPTHhiSUVfRkR5UHY0YTNtNmZCeTFWZWZ4YnpoaGNaWjdkVWNSaEpMb0lLRGdNOEV4T2d3el84bWVVeWNuWF9KYWhCQzVTQU1jNHZ2Z3h6a0NXSEI0eGNZTlBvUmlHQXJibTJyYjJlTXdBVkgxZlB3d3MwSm5XNE02ZmlrekQxNkZkOUVTZHhVUmx0cHRHX1BkM0ZR0gG-AUFVX3lxTE84Z1FKWXYtVjZHbFR2bEFpYmRwUHY5ZTBVbEVrelRMc1ZNQ09MeGJJRV9GRHlQdjRhM202ZkJ5MVZlZnhiemhoY1paN2RVY1JoSkxvSUtEZ004RXhPZ3d6XzhtZVV5Y25YX0phaEJDNVNBTWM0dnZneHprQ1dIQjR4Y1lOUG9SaUdBcmJtMnJiMmVNd0FWSDFmUHd3czBKblc0TTZmaWt6RDE2RmQ5RVNkeFVSbHRwdEdfUGQzRlE": 1794158139316,
     "news:CBMiogFBVV95cUxQNmJfaVc5dDRaTUhLSTNWY3lqX3UzakZTOWJPc21NNUQwQW1WcnhkS0FiNXZwY3VKY05GQjZ5cmtwQnFVMDRwQjNBeFNCUjM1M0pad1lNODE3aEtENHY2T24wQy1nX0NMd2JEY05kUlAzZ0hhR1RLeGthekwyZUhGTVo1d2FjTVNEZ3F3aWpicGYtVG4zR3B2QnFDeTdPRXdIeGfSAaQBQVVfeXFMTWxSaURIdkxNdHNwTkItNUlrY1BoNF82dXNJdV9JZ1d3U3h6dENKSEM4empoWlJrY2M5c2VBWk1mMTI4OE9SenBoVjlEbWpkSjZGUy1udU5WREZScVVweUd4VEo1b2NGMlAzMjJWTjE0LUcwemRWREw3aVlRU3Vka2RleFZYbFNvTzRVVWdxQmpiVjluZkdEOHhDT2c1NVVpb2JReEo": 1794158139316,
-    "news:CBMitgFBVV95cUxQWmhlbU1wX0lyNnRJcHNPVGVzalB1Z3BqVWdoQVl0cVVMaTlFWnM0Vk9NTDRXLV9TaE04dzQwQzdLcUFkNXpxbEdMcWpQeTlycy1LSUh0N3MxTUxveDJ6Y0VQejNEaDJHS2RKamhmYnpoR0M0RVFHcTIzSmt0bGV3bUVTaHduTDZlSGJoSEVXLXNqbHZFV1ItbnNkU3dqUTJua1g3M01ycnBPY2xQNlcySW16T0xTUdIBuwFBVV95cUxQaWpGRzBwR0NyUi0xV3NqU0NXRHF5amlFNHRmX2F6cFZzWVlvSW5uYnB3eWFZTXIyU0taVm8yOEpNdmhBNFRfc2ozT040Tmg0Z1RlME00eFBlTjZxbk1QSVZiOExuNTBvVHFENDdpS2RiNDEtbVFhTUxNMllBVUJqWklEVGtmX1dJOFhmTV9UUjhQQ0xqYkExM25BMndMNzNkRmpTeEYxWDVGazlNclphODRJZWRxVUxmRWJR": 1794158139316
+    "news:CBMitgFBVV95cUxQWmhlbU1wX0lyNnRJcHNPVGVzalB1Z3BqVWdoQVl0cVVMaTlFWnM0Vk9NTDRXLV9TaE04dzQwQzdLcUFkNXpxbEdMcWpQeTlycy1LSUh0N3MxTUxveDJ6Y0VQejNEaDJHS2RKamhmYnpoR0M0RVFHcTIzSmt0bGV3bUVTaHduTDZlSGJoSEVXLXNqbHZFV1ItbnNkU3dqUTJua1g3M01ycnBPY2xQNlcySW16T0xTUdIBuwFBVV95cUxQaWpGRzBwR0NyUi0xV3NqU0NXRHF5amlFNHRmX2F6cFZzWVlvSW5uYnB3eWFZTXIyU0taVm8yOEpNdmhBNFRfc2ozT040Tmg0Z1RlME00eFBlTjZxbk1QSVZiOExuNTBvVHFENDdpS2RiNDEtbVFhTUxNMllBVUJqWklEVGtmX1dJOFhmTV9UUjhQQ0xqYkExM25BMndMNzNkRmpTeEYxWDVGazlNclphODRJZWRxVUxmRWJR": 1794158139316,
+    "threads:DffRhZxHbyV": 1794158438358,
+    "threads:DffQoQvDzOZ": 1794158438358,
+    "threads:DbkrGQJEdvz": 1794158438358,
+    "threads:DXoJGDhEbIw": 1794158438358,
+    "threads:DffEI5qmtrH": 1794158438358,
+    "threads:DffQ22vmoUj": 1794158438358,
+    "threads:Dd1Dznykn-S": 1794158438358,
+    "threads:DffR6-hAQ6T": 1794158438358,
+    "news:CBMi1AFBVV95cUxPdFQwX0NtRHlSZ1J3ZUJmRkhiT3FDeUUxYWNjcXFneU10QUxtR3BpRWZmMVQxTHJNWXM5VGY0ZGxNYTdKTUR3X3FYems0SzJKNW9uTWY5b2FoeTB3Y0c0ZkVvVUVJbEZxX3NkLVJqeEpMQ3pid2FTWHMwdXYzTlZhSG5oX092R2xWbWx5WFBRd0sxUWNrOFd4QlBMOGIwdTBKRktsU3l1ZVdyTHB6N3JsUlozaUVHQ3NqN3BYM05TQUF2eHF6YlBJSzJlNlQtZjdYV21zSA": 1794158438358,
+    "news:CBMi2gFBVV95cUxQeHdzQm9CazJsNUszZjYwVkJMOUxmSTJyb1NLdGljSS1fQ2J6d0ppeFpDaDNDaDZkVDBzQVVXOGhCaHFGVTBXWk03SFFrRGxqRFNXd3l3djVXZF9DcEJ2ME5jUGl6NDZlMnhrY0ExczdmdW4tYXZpOEVMUnlPZWdqWVJUSXRiYjdnb2E2WUZRUXdtU1VQYUJ6TE5URkZjVHZQdUtPU0lHNm9YMC1JWGdRbE1FMkNHS0Zya0g2MXkyZVRDOTdXb3kweEpYdUdIU0tEbVJ2Z1NWVnViQQ": 1794158438358,
+    "news:CBMiuAFBVV95cUxOc3NwVFBzbmRrMnJEbkEwbE9IeDlMQWlTNW9qdGF4WGd0ZkVhbGxmTDBWOGNhUHI5Q0h4a2E3Wmpvekx6ZWpIbkdPbWExeTY5TzRlOGJKM1NnUnl6Ul8tQkhOWWEzc3FJd1R5QTB0Ujl5clEzWWZNUmxYMkd0VVFWODBxRER3M2NNaUxqTzFlekhkNzhnYnNXUlhBODRiY0NSZElVNXlsMklraFVaRFZldVdMWm9SS3pW": 1794158438358
   },
   "digest": [
     {
@@ -28976,10 +28985,60 @@
       "d": 1794124800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@candisoeleman",
+      "x": "Lucu juga nih bikin kelas mentoring bisnis gratis di bintaro, per sesi 4-6 orang/ bisnis / perusahaan seru kali ya…",
+      "u": "https://www.threads.com/@candisoeleman/post/DffEI5qmtrH",
+      "d": 1794151232000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thasyawdy",
+      "x": "Halo! Aku Thasya, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Ex",
+      "u": "https://www.threads.com/@thasyawdy/post/DffQ22vmoUj",
+      "d": 1794157900000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bear.74244157",
+      "x": "Bantuan Sosial (BANSOS) BPNT dan PKH 2026 Ibu Hamil: Rp3.000.000 per tahun (Rp750.000 per tahap) Siswa SMP: Rp1.500.000 per tahun (Rp375.000 per tahap) Siswa SMA: Rp2.000.000 per t",
+      "u": "https://www.threads.com/@bear.74244157/post/DffR6-hAQ6T",
+      "d": 1794158458000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Sekjen DPP GPM Apresiasi Program Distribusi Pupuk Gratis Oleh Bupati Mamasa Halaman 1 - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHdzQm9CazJsNUszZjYwVkJMOUxmSTJyb1NLdGljSS1fQ2J6d0ppeFpDaDNDaDZkVDBzQVVXOGhCaHFGVTBXWk03SFFrRGxqRFNXd3l3djVXZF9DcEJ2ME5jUGl6NDZlMnhrY0ExczdmdW4tYXZpOEVMUnlPZWdqWVJUSXRiYjdnb2E2WUZRUXdtU1VQYUJ6TE5URkZjVHZQdUtPU0lHNm9YMC1JWGdRbE1FMkNHS0Zya0g2MXkyZVRDOTdXb3kweEpYdUdIU0tEbVJ2Z1NWVnViQQ?oc=5",
+      "d": 1794158164000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc3NwVFBzbmRrMnJEbkEwbE9IeDlMQWlTNW9qdGF4WGd0ZkVhbGxmTDBWOGNhUHI5Q0h4a2E3Wmpvekx6ZWpIbkdPbWExeTY5TzRlOGJKM1NnUnl6Ul8tQkhOWWEzc3FJd1R5QTB0Ujl5clEzWWZNUmxYMkd0VVFWODBxRER3M2NNaUxqTzFlekhkNzhnYnNXUlhBODRiY0NSZElVNXlsMklraFVaRFZldVdMWm9SS3pW?oc=5",
+      "d": 1794158453000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
