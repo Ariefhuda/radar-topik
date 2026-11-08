@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5p2NNGmTi": 1792896345778,
-    "threads:De5pyAXmm2Q": 1792896345778,
-    "threads:De5pbkoE3ng": 1792896345778,
-    "threads:De5qLQGiKd9": 1792896345778,
     "threads:De4X_XsCLGF": 1792896646008,
     "threads:De4XWkfkYSm": 1792896646008,
     "threads:De5qFM-GhWP": 1792896646008,
@@ -27684,7 +27680,9 @@
     "threads:Dfds4R6lT_4": 1794105638608,
     "threads:Dfdsc8EmVKg": 1794105638608,
     "threads:DeJevpTjjcI": 1794105638608,
-    "news:CBMiwgFBVV95cUxQQ2lXUHBRREZ5ay0zZHFpZjBKUmptOE9uY3lSWmI2VHE5MDVrQnlGX2FwUW1HVi0wam5RNXhlZ2h0QTdWSVYwa2dFWUhYY3dseUI1NDhCeGpESmxiSFNmMXhZVG8xOG5LRVphLXMzQW9tbk5KYkhCbC1OUzdPUERlODBXS1d6QkFnYWM0SEo1Rm9ON2RtY2lFdUpMMVdWSmhZeDQ2bzFIclZyZ3BXWnBYX2tMVFJyR19Uem01R0ljaHZwZw": 1794105638608
+    "news:CBMiwgFBVV95cUxQQ2lXUHBRREZ5ay0zZHFpZjBKUmptOE9uY3lSWmI2VHE5MDVrQnlGX2FwUW1HVi0wam5RNXhlZ2h0QTdWSVYwa2dFWUhYY3dseUI1NDhCeGpESmxiSFNmMXhZVG8xOG5LRVphLXMzQW9tbk5KYkhCbC1OUzdPUERlODBXS1d6QkFnYWM0SEo1Rm9ON2RtY2lFdUpMMVdWSmhZeDQ2bzFIclZyZ3BXWnBYX2tMVFJyR19Uem01R0ljaHZwZw": 1794105638608,
+    "threads:Dfdt24pAV4U": 1794105939611,
+    "news:CBMingFBVV95cUxPVFg4NklKQlc4ZmZWYUZ3b3dYTFViejB1bmZsZy1Tdmp5elNGOG96dEcxU0doQkE2ZmgzRGRiWUQzelRQbmVlWVBVUWlzZ2lreXJKcUsxUHJNRkpRM3NnVE1QNjhRcUJTLUFQcmVnSWNrUkxzRXZrR2xPODBwYzU0RE80d0dOdzViRmM3SG9sOWFpSFBOOUd6SGJLM2JoUdIBowFBVV95cUxQeTNLUW9LMVJLRWpzdjZTNUxFNGRjLWxDNjFSMkZGZmtPenZ4VWNIMVh4TUc0b19XOHJYNkx6S1dBemRCTUgzS3lxUEN6d2E2WU9iYmp5ZWdjQzNoTHVrUlJtN3IyU1djcU11UjBva044UXBQX25fQmJlZUMtNldoalNwQTBZVjN5QUFWSTB4UnZHSUgtV2RWMnVMTUNJSC12SjJ3": 1794105939611
   },
   "digest": [
     {
@@ -28156,10 +28154,20 @@
       "d": 1794105259000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Indragirione.com",
+      "x": "PKH November 2026 Masih Cair, Cek Status via NIK KTP Sekarang - Indragirione.com",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFg4NklKQlc4ZmZWYUZ3b3dYTFViejB1bmZsZy1Tdmp5elNGOG96dEcxU0doQkE2ZmgzRGRiWUQzelRQbmVlWVBVUWlzZ2lreXJKcUsxUHJNRkpRM3NnVE1QNjhRcUJTLUFQcmVnSWNrUkxzRXZrR2xPODBwYzU0RE80d0dOdzViRmM3SG9sOWFpSFBOOUd6SGJLM2JoUdIBowFBVV95cUxQeTNLUW9LMVJLRWpzdjZTNUxFNGRjLWxDNjFSMkZGZmtPenZ4VWNIMVh4TUc0b19XOHJYNkx6S1dBemRCTUgzS3lxUEN6d2E2WU9iYmp5ZWdjQzNoTHVrUlJtN3IyU1djcU11UjBva044UXBQX25fQmJlZUMtNldoalNwQTBZVjN5QUFWSTB4UnZHSUgtV2RWMnVMTUNJSC12SjJ3?oc=5",
+      "d": 1794100861000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
