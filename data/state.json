@@ -27545,7 +27545,9 @@
     "threads:DEXKgKHSAJ-": 1794156036379,
     "threads:DEBrfTjhYf5": 1794156036379,
     "threads:DbZhRL6E4-i": 1794156036379,
-    "threads:DffM2xHjf1G": 1794156036379
+    "threads:DffM2xHjf1G": 1794156036379,
+    "threads:DffNmYjjz3f": 1794156340091,
+    "threads:DfXHau-EuV9": 1794156340091
   },
   "digest": [
     {
@@ -28847,10 +28849,20 @@
       "d": 1794155802000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@reindeer.2105598",
+      "x": "Sekarang beasiswa luar negeri yang lg dibuka apa ya??",
+      "u": "https://www.threads.com/@reindeer.2105598/post/DffNmYjjz3f",
+      "d": 1794156192000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
