@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De52Q2Ij5pC": 1792902662172,
-    "threads:De52kcwCRO1": 1792902662172,
-    "threads:De52kcACR-8": 1792902662172,
-    "news:CBMiW0FVX3lxTE5qU2xOTDZRb2FUdEhiaGUxTlphWm9scllqRmNuUXFZMTU1ZnM1ZnNfeWxfWDd1TWU5c2laNUVDamZuZl9pQWV5OTFCUC1nY1Z0eWlhX096N1ZLZlE": 1792902662172,
-    "news:CBMiU0FVX3lxTE9HeDFNdWg0RW9KRllETWxieldyUjV6SEM1R0x2Vi02dEkzSkduVlpKSXpvMmROcFlTVUg1NFlhUWNNMGVkbjFENUlSaWxGTkFfODE4": 1792902662172,
-    "news:CBMinAFBVV95cUxNakh4aE1JVFV6OERkV2lkbFJiUkEzU3ozMVhsbUxwdjZWbnluQU53OHI0Q0Y0QXRlSnBxS1R0Um9NOU1KVFpNcEJPUW5YdWpjVklkRGlWRE1ucE1NaTJCZFZ0WnVVOEpOWkpMOTI3bTNXNEhtQ2VpaDIxTlJZMUR2R25ac0pWRldNQS12aGZCenBQUmN1OHFlZnQ1Ukw": 1792902662172,
-    "news:CBMi1gFBVV95cUxQRFFUeU5BZ0ZKQ19ianYzcDFyNkxuMjlQdlp1TERzZVFSRGJQSzREOHJreFpBQ0FheUxFanRBbkVjQktRcEFwSWdUX21OQmU1SVVsZlJzbFZNRTllM3RZYkZDQjgyaVRkMFdXWVFHY3NkRUNEQksyQUtZcEJybkVjUUVod3BXaFlHRG9pc2lPSEtXUlpXSm1uYlZsSjJ2VVJKRzNSak1rVVJWZy1kZnZKN0ZFb0w3VFdpNVNyeHNNem5BU2VVV3VibkZPQTNoWVM4d2FoTEZ30gHWAUFVX3lxTFBEUVR5TkFnRkpDX2JqdjNwMXI2TG4yOVB2WnVMRHNlUVJEYlBLNEQ4cmt4WkFDQWF5TEVqdEFuRWNCS1FwQXBJZ1RfbU5CZTVJVWxmUnNsVk1FOWUzdFliRkNCODJpVGQwV1dZUUdjc2RFQ0RCSzJBS1lwQnJuRWNRRWh3cFdoWUdEb2lzaU9IS1dSWldKbW5iVmxKMnZVUkpHM1JqTWtVUlZnLWRmdko3RkVvTDdUV2k1U3J4c016bkFTZVVXdWJuRk9BM2hZUzh3YWhMRnc": 1792902662172,
     "news:CBMiugFBVV95cUxORHVBUS1MTmFJZV9RX1JjcFhfX0N3ZnFEMkhwSzRpUFNmUXBKbU9XTmt0VTNCSnZ5S2pqSWk5c19WbVNuYTMtbUh4Um5QbmhlSjUwb0tsSG9ldUhNV2stdTQ2REswUnhBNUZISENneFNORnh3YkVXTkl5OE43dmxBc0ltLV9Bby01U1dLbEJtbG1RMWFudDZiMmpPZ1dfMEJSNUllMWF6dkZLbElHRlplX0V1VUt0Z0hQUkHSAb8BQVVfeXFMT2NveXV5SGhKa0FxdjZIQVN6YVBjSEpxMXd0T2RodGhyRVdrblphOGlKckJHOTdKek81OTZGSjFRWFMwRkR2U1dwcG9mdzVOVlJrQmltQi1Zd2hxTU9kRm9XRUVFb2RaWjNlTkJZcDVYRkMtRDdqRERqY2tPb3l6VXRfUmN1TnlfVWQzYXF1V0c0QzVHZWJmSDNHdVVNY0Jqd0R4MWxsdkxzOTZLNUd6TGVoaHFiNjg5T1gwOUk0Qmc": 1792902939051,
     "news:CBMioAFBVV95cUxPQ3JrSF9yRDZlR09hLVRhalVaMmpNT0dtRzlocHkwUzZOdnBkWkJOYzJLZjdPN1ZrU1NrYmhhQXdKTm5KQi1sdlVVWkpYaWNxME9JenVWUV83RkYzazRyeTFpdGJoaXlRS2RXdVljQkVndTd5YkhaQzd1Y1hEbFNyOUNFeWItZHpYMkFiRmVZRXZ2TjdLRGhndHZ5b3JMeXJJ0gGWAUFVX3lxTE5mUzR2bkgweW9ZV2dJMF95S1lHOG9XeXZ3OTlDRERqU2VYVmZtQW5vQVJLcnY2N0h4SFpqeUhVTlJOVTU1N2pnR0lkNjdSY3BZMUQ1cFlFbGxQSVp4U3dhYUhzLUpZV1dTRlBCdXpja3RQeFNsTEVENjVXdlBpaDlrOHZCY25pUmYxYWZWVjNIQnRiZVpKQQ": 1792902939051,
     "threads:De53qB3CFvn": 1792903243415,
@@ -27614,7 +27607,19 @@
     "threads:Dfd41VFAVuo": 1794111940301,
     "news:CBMiqAFBVV95cUxQSkYyZkpCVkhBc1RZaUZ6YjNtbDU5bkx0bEp5eHBreDZTNHdYbm5XZFRNSU9vZGlHYnhHZ0F4OU5tdkxwQ2JmUGtPcHdheHlRVE1ieTFhaG9sczQzQW1Oci1ueUI1cEkwSGZrUzhVYmV1T2pJemRsUGF6Q2Fhd1RmeHZLaUo0Mm1DUVQzZnp0VTduanlHVHVpNFhUbDM2QmN5QUxsa01zemU": 1794111940301,
     "news:CBMipgFBVV95cUxNSVpCQ2F2N3I5WmFHbFVGX3dvcEh3dVk5TWd2d0x1MkF5UV9WdkpiV21pT0FNTUtuZ2stMmhmSVM0bUhWUDl5ZUJrM2U2NWtHNHd1Y0t5M0FiX0VHSGt0MkZ5WTRhUXlqMU0zOU96RzFXcE9Ud3RvNTRQM01udzROcUlYd2FNMkRQcFdBOVBwZ0dJRkltX0VLcXRaZzFLb2p0dTFzNGVn": 1794111940301,
-    "news:CBMizAFBVV95cUxNZ3dTQ3ZpWUtTVmhoVDlJOHRRWlFkOGFKX2R3eC1ZQUFMVzJjZzNuQ2hQVnVhZXZIZFRkOEQ2ejA3MWpmQXlVOFZlYUN1SXR1eGpZNFpSNlBHMEhsVExvdnZJMmZEMW5rMWJEU2UxNGQ2LXNjbmlkY3JqZDFfNkJvWXRRY3E3NjRFVDgyMFF4NTlYRDRqR1Qyd2IzR0N2RVN6dnZjdFROYW9zclJRQllXVWg0YzctV1FkY2ROMDRNMlhJSEs5Ny0xV3EyM0jSAdIBQVVfeXFMTzJsNjVyX2lKbEo4Y3RZYThhbXVMWkFNWDdEck5OV1F5cVBMcWxhNTFVRTBtVVJnYWM3anlRUEtfSlZzczh6bDJ0aE4tdlVmXzVJM2lDS0owMmhvaGtacl91VVk5NHlNRkN2anEzYTJfckF0UEJ0X0pQQlRzV2VkUmhyT29hR1lxTkoxTEhmRTZTS1g0cjUwMnIxVlptMUFFN1ZFWFhZR0ZCQkJkdDhQbmVDQzBiQ3NPdi1vQ0dZR1pMZVBYWGNZS1VYSFdfbjF4Z1hR": 1794111940301
+    "news:CBMizAFBVV95cUxNZ3dTQ3ZpWUtTVmhoVDlJOHRRWlFkOGFKX2R3eC1ZQUFMVzJjZzNuQ2hQVnVhZXZIZFRkOEQ2ejA3MWpmQXlVOFZlYUN1SXR1eGpZNFpSNlBHMEhsVExvdnZJMmZEMW5rMWJEU2UxNGQ2LXNjbmlkY3JqZDFfNkJvWXRRY3E3NjRFVDgyMFF4NTlYRDRqR1Qyd2IzR0N2RVN6dnZjdFROYW9zclJRQllXVWg0YzctV1FkY2ROMDRNMlhJSEs5Ny0xV3EyM0jSAdIBQVVfeXFMTzJsNjVyX2lKbEo4Y3RZYThhbXVMWkFNWDdEck5OV1F5cVBMcWxhNTFVRTBtVVJnYWM3anlRUEtfSlZzczh6bDJ0aE4tdlVmXzVJM2lDS0owMmhvaGtacl91VVk5NHlNRkN2anEzYTJfckF0UEJ0X0pQQlRzV2VkUmhyT29hR1lxTkoxTEhmRTZTS1g0cjUwMnIxVlptMUFFN1ZFWFhZR0ZCQkJkdDhQbmVDQzBiQ3NPdi1vQ0dZR1pMZVBYWGNZS1VYSFdfbjF4Z1hR": 1794111940301,
+    "threads:Dfd202qE-hW": 1794112242784,
+    "threads:Dfd20GLky-n": 1794112242784,
+    "threads:DdJP-VuD_8K": 1794112242784,
+    "threads:Dfd5snok2k1": 1794112242784,
+    "threads:Dfd5VoDGt4B": 1794112242784,
+    "threads:Dfd4vhCDcP3": 1794112242784,
+    "threads:Dfd4XzOGEiG": 1794112242784,
+    "threads:Dfd4zyFzy_A": 1794112242784,
+    "threads:Dfd5BjtoxhY": 1794112242784,
+    "threads:Dfd5X9QH2sX": 1794112242784,
+    "threads:Dfd5SxwkSJW": 1794112242784,
+    "news:CBMimgFBVV95cUxNZE9TWklzenFSYWtsZndTNVNPNzNnUDlhVUZ6Zjh3OWM3LWpudi1OSlY0dmR0dmJPNlRCMUdqMlVkQXFjQU5RWmM0X3lQUkttM3l3T1E0MTN5azJPdXJKMzVzSEMwQnJfOVZvbFdOaU1Sam54dTlNTWt2LWJZbUhwdlNpQ2pRSHhrSTludWt0VmFmVzd2dEE2X05R": 1794112242784
   },
   "digest": [
     {
@@ -28386,10 +28391,40 @@
       "d": 1794111412000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nur.hanifah.ahmad",
+      "x": "2 kali milih jokowi, dan 3 kali tidak memilih Prabowo. Oya pas 2 kali milih jokowi, aku pernah ikut seminar yang membahas jokowi. Itu seminar gratis, di hotel, dapat seminar kit ya",
+      "u": "https://www.threads.com/@nur.hanifah.ahmad/post/Dfd5BjtoxhY",
+      "d": 1794111850000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muh_imamsyaf",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@muh_imamsyaf/post/Dfd5X9QH2sX",
+      "d": 1794112034000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muh_imamsyaf",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@muh_imamsyaf/post/Dfd5SxwkSJW",
+      "d": 1794111992000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
