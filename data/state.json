@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiuAFBVV95cUxNekxFOTdtTDFNZVIxQ0FIR1pIc1ptNW5SSVpCRU5uUHA5QVhSOExaNjB4dVFieE8tQ1BSRF9pUGVQbDZiY0dISm9GM2d2aW9FTGhZeDYtcDhHYW1lUEs0Vk5SWTVmemVhdFJ6Y2tuVlVOOU1pM1JPcWx3Y1dZX0tqVjkxYTNUTDBDNXNzLTJUNS16QVVtTUdZYzYwSDlDcFhaQ01TR2pzWlNrb192cjdBTE1xeVhzYkM5": 1792921243435,
-    "news:CBMiugFBVV95cUxQNzEwV1NiZXdqNnB6YzBXRG5nVERRNGtCTlFuTkVhLUR4dTRfbElKZTdocExoRERleXN2WlBUWUVCXzlMalJGdVpCdTZvckFnZVFNTEhDY256d3BMNlVrRjAwZDNjc213NHNmU3FITHo2dFdNUDEwcUwtaVZIQTVjY2hDWFRkZzQ4Q1NxOXpPVHBSS3BKQ3RHMFJQcnhCWFJpcE51TndmRG5jTGlpRFYxMWk2UDB0TkhxbmfSAboBQVVfeXFMUDcxMFdTYmV3ajZwemMwV0RuZ1REUTRrQk5Rbk5FYS1EeHU0X2xJSmU3aHBMaEREZXlzdlpQVFlFQl85TGpSRnVaQnU2b3JBZ2VRTUxIQ2NuendwTDZVa0YwMGQzY3NtdzRzZlNxSEx6NnRXTVAxMHFMLWlWSEE1Y2NoQ1hUZGc0OENTcTl6T1RwUktwSkN0RzBSUHJ4QlhSaXBOdU53ZkRuY0xpaURWMTFpNlAwdE5IcW5n": 1792921243435,
-    "news:CBMi2AFBVV95cUxNXzI0b2tzNFNXYV9kWk5NRVRRREpLRHp3a2RnTVRock9ZQmFpVUMwajhUdlIwTWdmVXM3clctZ3pBVThveld2UjdWNWE4VGpvaENRci1tTy1ub0xtcGkyc0FZYnJWUXVJenhlb2ZQaTNtVXRTU0JfZ18yRHdVaXdaSmRtT1JkNjRPTWNmMUFOS0ZlNmlxdWhfV2djZ1V6dVlUTkZtXzlma3pHTnRwbHAwUUxfNjRJbHdHRjE4RlQ5M2xDemZoak1ZeFVfQnJBUFJuU28zMjY0Ti0": 1792921243435,
-    "news:CBMiuwFBVV95cUxNRENGai1HM241U3RucHhWX1ZNTGszSHdtVndZS3hvVkZFb21PaGFrZ1RXYXlLUmxTVGxjZG5wTHF5eklzaC1DUGJ3VWt2aGV2RmV5TEY0bWQ4eFkxRHpBNl9oM0RpMUo5ckI0RmJkSHJnVUNfckRNNk5pSTVFMDJ4RG9EX0JLTWx1RXNWVm80dHZoczFsU0JFeFVsbHg1M3Ztd1p4TUVxN2hmWkwwdjAyM3RtUi0tbjd2dUtz": 1792921243435,
-    "news:CBMirwFBVV95cUxQVnRUcDF2UUVCODkwNjNOQXlKdmtSMmIxS180Z3BoVjc3TUROMi15RmJGdzlmUmdwMWdQM2tOQ1l0Z2wzUldvVmRsS29yeGJRcWZrVHpRLWY0Qkp5UElVcDRfQmJ3b0lmT2JiOVBnQkhydTNJdGdDa2plRGszYl9xZlVxZ0JDdTk5eDdvNG9uN2xDS3RoTDBYSkNvUE5ubTZLcVYycVZ3WW1KWlNSREFj": 1792921243435,
     "threads:DeAFeXpDlkI": 1792921542031,
     "threads:De6Z_1aCTwI": 1792921542031,
     "threads:De6Z9tjCWXm": 1792921542031,
@@ -27578,29 +27573,12 @@
     "threads:DfeUU91G8_m": 1794130538267,
     "threads:Dfeby21iTax": 1794130538267,
     "threads:Dfeb9SVnwEy": 1794130538267,
-    "threads:DeIVMshEzFJ": 1794130538267
+    "threads:DeIVMshEzFJ": 1794130538267,
+    "threads:DerdTqlk_wP": 1794130837249,
+    "threads:Dfebtc8icLU": 1794130837249,
+    "news:CBMi4gFBVV95cUxPQjBVSjRjYXd4cXBzbnJyTExod1U0YzFvNGNRNkVvRnQtX0o1bEg2NVBiVHNQUmpxNnBxalVaMDRVVlAwSzd1SENGb211TTBQcy1hbUlzbGxlX2w0VTJIUzYtWW5mUi10TWkzbXh4dUkzWlprSVY0ZV95cW51R0RXOXA1RFVaLVRWajR2MjBBWnU3ZlFIQktJbE51XzZVUEpXRXZNbldlZjhOZk15TTZlQ0RJVl9fZjVHdWZFY3ZZWllpM3pkdFBpYmpEaDhoY19iQ09kTXo1V2FqYWhCQWxlSzhR0gHiAUFVX3lxTE9CMFVKNGNhd3hxcHNucnJMTGh3VTRjMW80Y1E2RW9GdC1fSjVsSDY1UGJUc1BSanE2cHFqVVowNFVWUDBLN3VIQ0ZvbXVNMFBzLWFtSXNsbGVfbDRVMkhTNi1ZbmZSLXRNaTNteHh1STNaWmtJVjRlX3lxbnVHRFc5cDVEVVotVFZqNHYyMEFadTdmUUhCS0lsTnVfNlVQSldFdk1uV2VmOE5mTXlNNmVDRElWX19mNUd1ZkVjdllaWWkzemR0UGliakRoOGhjX2JDT2RNejVXYWphaEJBbGVLOFE": 1794130837249
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Kompas.tv",
-      "x": "Beasiswa CSR PIK2 2026 Universitas Indonesia Masih Dibuka, Dapat Bantuan Finansial hingga Rp5 Juta - Kompas.tv",
-      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1FRcW13WGhEbkNBUER0QVhEZzJid0FmT3hXRVh5cElURUZTelZJQ2MyX3pCOFowTFZiTmJ2R1g0THd3aFU2Y0lodDhsVXVxOXFBRFpUdXZHWnRmam5MSVE4ZnZIYmhMc2xKTHVpNWZUVXZzdUhDWlBvX1hVX0JOS245TkRWeW55QU91bU96Y2prc3lXMkVzVG84a0NFdmJ4NVVWa2dYQ3BVVElwbjhwV21HUk42MVJMaXZNbEI5RjdPbDBwVzE4aXc0clZlOWw2ZFgxTtIB2gFBVV95cUxOZElibmp4OUJ1bnhTckVaTWozdGdhNjQ4anFCeWt4NG1ZNDhyNGZjLUJEX1ZLaWxoY3RuSTk2Mjd0YlhZZDF4RWtaTFpqcFEzWnlzZFFNT2ZlTEFGWlF3UU1OSVBNeXlwVUoyTVhfY25yVG96R0VCNUNRZmtPejNSUGpqaG9udFVCX1VoQnBPMmtiVkc0T2prY0d3SnctcGVtWjJtTUtRTFhGOVBqVzItc0E1UkRCQm9VRkdfOUFwS3NKYTA3aGhGblJEMmRKX3lOekRkSGNyVmtmUQ?oc=5",
-      "d": 1794110400000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@kompastv",
-      "x": "Beasiswa CSR PIK2 2026 Universitas Indonesia Masih Dibuka, Dapat Bantuan Finansial hingga Rp5 Juta http://dlvr.it/TWF9dr",
-      "u": "https://www.threads.com/@kompastv/post/Dfd3MQWm4gD",
-      "d": 1794110953000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29080,10 +29058,30 @@
       "d": 1794130166000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@putushinoda",
+      "x": "https://baznas.go.id/baca-berita/telah-dibuka-beasiswa-riset-baznas-tahun-2026/NFpkeGJNbldLRm81S3FHc2hvc1F6UT09 Beasiswa dan bantuan biaya publikasi paper untuk mhs/i (S1/S2/S3) da",
+      "u": "https://www.threads.com/@putushinoda/post/Dfebtc8icLU",
+      "d": 1794130036000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "PKH BPNT Tahap 4 2026 Cair November: Update Desil BPS Terbaru di SIKS-NG, KPM Ini Gagal Salur! - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQjBVSjRjYXd4cXBzbnJyTExod1U0YzFvNGNRNkVvRnQtX0o1bEg2NVBiVHNQUmpxNnBxalVaMDRVVlAwSzd1SENGb211TTBQcy1hbUlzbGxlX2w0VTJIUzYtWW5mUi10TWkzbXh4dUkzWlprSVY0ZV95cW51R0RXOXA1RFVaLVRWajR2MjBBWnU3ZlFIQktJbE51XzZVUEpXRXZNbldlZjhOZk15TTZlQ0RJVl9fZjVHdWZFY3ZZWllpM3pkdFBpYmpEaDhoY19iQ09kTXo1V2FqYWhCQWxlSzhR0gHiAUFVX3lxTE9CMFVKNGNhd3hxcHNucnJMTGh3VTRjMW80Y1E2RW9GdC1fSjVsSDY1UGJUc1BSanE2cHFqVVowNFVWUDBLN3VIQ0ZvbXVNMFBzLWFtSXNsbGVfbDRVMkhTNi1ZbmZSLXRNaTNteHh1STNaWmtJVjRlX3lxbnVHRFc5cDVEVVotVFZqNHYyMEFadTdmUUhCS0lsTnVfNlVQSldFdk1uV2VmOE5mTXlNNmVDRElWX19mNUd1ZkVjdllaWWkzemR0UGliakRoOGhjX2JDT2RNejVXYWphaEJBbGVLOFE?oc=5",
+      "d": 1794124385000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
