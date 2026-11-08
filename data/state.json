@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7ZmmknTxw": 1792954859180,
-    "threads:De7Rt7sGSzl": 1792954859180,
-    "threads:De7Yf2miBZB": 1792954859180,
-    "threads:De7YZ0Vj5oK": 1792954859180,
-    "threads:De7aLR4CKFf": 1792954859180,
     "news:CBMizAFBVV95cUxNS3poR2k2MldZbmJuaDV4MDc5ZmFjeTB0MFNHc3VSSHQxNW8zT1RBWnJodUZ5a2ZWeTNiNmd6RnhBVUJ1aUIxRndwcHBKbS1XMVMxaFptVXhyRGdZY0Q4czVWOElGZkhIQzlEWDhnYUlaTTY4Z1VzNnVwQUM4SlA1N05jQnBTTlFKZDlXbGtnRm44VmRDaWRnMk1wLVVxSVNwYXNnYjhjeDdEME9FVDd5WWQxVHhhTWtmMnVTUUgtcFcxV203X1pLX3NxTnk": 1792955313548,
     "threads:De7gCbUki2F": 1792958163251,
     "threads:De7ZKcXmbbb": 1792958163251,
@@ -27589,39 +27584,19 @@
     "threads:DFW2Fens9Sv": 1794164137612,
     "threads:DZd8ztcjbNZ": 1794164137612,
     "threads:DS8OIkuDbmy": 1794164137612,
-    "threads:DdgNnfbgbD1": 1794164137612
+    "threads:DdgNnfbgbD1": 1794164137612,
+    "threads:DffdOEKjnty": 1794164449318,
+    "threads:DffcW0mDoZQ": 1794164449318,
+    "threads:Dffb3o-mCFS": 1794164449318,
+    "threads:DffattSiZyc": 1794164449318,
+    "threads:DdoAJ43lIaM": 1794164449318,
+    "threads:Deq3WrOk7RG": 1794164449318,
+    "threads:DUqOn28klyH": 1794164449318,
+    "threads:Dffclhhk20Z": 1794164449318,
+    "threads:DffcTOSk-tG": 1794164449318,
+    "threads:DffcNHMk3Xz": 1794164449318
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "KlikJatim",
-      "x": "Go Internasional Empat Siswa SMK SIG Raih Beasiswa Kuliah di Meishan Vocational & Technical College Tiongkok - KlikJatim",
-      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUXZEMkZJSEgtT1ZfSUc2dkVHeVYtSnFBV0RaNEJZXzlWbzFxaWpfVFd6WTZGTUpkNm1vOHFScDQwWE1yYUh2MUZpVUpjc0JfckdtZnEtczZPMTZLR2RJT2daTUxobVZpVXdFOE5xUXE1Skd4ajk4dlEtRnhXOEtkcE5CMWZZVV9HcHN3NUwzNHlzRXRITFYwU2ROd3NnWHV2eUZHdkh4d3hxZDJrbTlEQWZvV09hYUhRakZuby1wbVh3c1Q2TDMwUHE1Ykh1Tmo5RmFkRGl30gHbAUFVX3lxTE1LX2xJUGZPaUhrUU9DMGNZUlJsa214Yk55Q1RjNEszeFlQX2w0QThuT1pSMXFfTXBqQnR2bnBMWXI1Y2VfRGg5NnFEU3hTMHRhcXZzNzgyREt1NWhCU1lsaHhGb25wQWUyVm9DUXpicEZlamRVa1AyYmVZeDVyMDVQeXBWdmFrVUY1RTkwOVhuUU0yMTJoel9TNDdRdGxhRmI2a2dBWkJCMjJzNGFPLWJqUV9XcFowTXJVZGlTREZjbXo3VEVSZ2hGaVJwRXhSMG5PWEFhYVBfWVlVYw?oc=5",
-      "d": 1794100740000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Demokratis.co.id",
-      "x": "LPDP Izinkan Pelamar S2 Lintas Jurusan Ikut Seleksi Beasiswa - Demokratis.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGWDkzaDhKWFNGV19ZQzVZQlU4dlB1eUNTTHdwTkdiS2JWRXVJblcxYkNtVXF4aHZ5d25kTVRuUDRVNU1nQWNpdTFzbGRSWkNOdV9ZdlU1NnhTbFBKODlla01SUklGZw?oc=5",
-      "d": 1794103763000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Cirebon Times",
-      "x": "LPDP Izinkan Pelamar S2 Lintas Jurusan Ikuti Seleksi Beasiswa - Cirebon Times",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPVEdyQ2o5Y21FYXpIekpMUDl0MG80TFE4R19XNEJIanp4Sy1scmh1ZXQ5VGFReGU2SEtqY19qZzBFRTRYRFBuZXc0TXc2RExOSnl0T25ia1h4bmQ1QnhhOTBfeDhDOUdVcjF1VW8xMTUzUQ?oc=5",
-      "d": 1794103943000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29091,10 +29066,40 @@
       "d": 1794145047000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/Dffclhhk20Z",
+      "d": 1794164050000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DffcTOSk-tG",
+      "d": 1794163900000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DffcNHMk3Xz",
+      "d": 1794163850000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
