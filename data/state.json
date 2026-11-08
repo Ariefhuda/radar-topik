@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De56IiVlcYu": 1792904480418,
-    "threads:De55JhVExIv": 1792904480418,
-    "news:CBMi2AFBVV95cUxQbE9QQlZ6Smh3cUJKdGZ3VFUxSjZoVHd0M0hJYThJbVlOSHlfekdQNE5hSkxfalU4blB4UEJndGV2VlJfOEtVQ1NOMUQ2U1R0NjB3UjhFZ3BlR0RuU2NIZkNoM3dsZERGM3I5b0tlM0RoUXBWZ2NEaENkQXBiZXRlOHVlaWo4N2tTVVZhMGs5U0JpeGtZOUhqdGZ4bzhQRDZSRzN3Uk0yd21PWDBhb0pJRllqTGJEYkxrZl9xaF94TXVPVmZZYmlsWU5sX0NuTnM0NUs3NEZDOU_SAdgBQVVfeXFMUGxPUEJWekpod3FCSnRmd1RVMUo2aFR3dDNISWE4SW1ZTkh5X3pHUDROYUpMX2pVOG5QeFBCZ3RldlZSXzhLVUNTTjFENlNUdDYwd1I4RWdwZUdEblNjSGZDaDN3bGRERjNyOW9LZTNEaFFwVmdjRGhDZEFwYmV0ZTh1ZWlqODdrU1VWYTBrOVNCaXhrWTlIanRmeG84UEQ2Ukczd1JNMndtT1gwYW9KSUZZakxiRGJMa2ZfcWhfeE11T1ZmWWJpbFlObF9Dbk5zNDVLNzRGQzlP": 1792904480418,
-    "news:CBMidkFVX3lxTFBMVmJiOG56QnVuTkI0b2NabnZfZzNJdnloblFkN1VlTW9UMUZCLVB0aEM0R0czb25TcktCZ0FmQUNUWW5GNVVpZ2NSVTdKQjZrWjJHczROVHQtU3RfSHVveUo1UU5LdDluTTF4dElMWldKMG4tcEE": 1792904480418,
-    "news:CBMixAFBVV95cUxNZE9Kc1JGdng1Zk9Kcm10c05TNE1sUjVCcTFwZGNlajNBMWdZMkp1ZWIwQ3l3cGtYZ0tWbEhROWtHdXpWS2p6WUtKRlhEdFhDZHlNbUU3TDlRU3Y3QlhhX0ZYZDFZWFRKRHc0dlV2WHBvUEdTVEVRS1otcXJrVUNENTYtNDNzU21id1pRZ1l2Q0tjdno3WFd0OHdmWlFJY2hSeVktS3V6U0I0UzB4QmtXZG9TUm9KdGtNY01jTmZ5SENzY2xO": 1792904480418,
-    "news:CBMimAFBVV95cUxQQTZYbkpuZ3FoanRjMHlaWE5Ia1dVSzd2WnI4U2t6WnpvU3NrNG9zU3NrU2g2Qndoc3NvZW1LVmJyaU9vN0hJYUhHMENhVDV0LWZYdlhzdV9oWmx2eWNCNWItVlVrUUlfeS1BaVNhR0pwd29wTVZuVWxVQ2NqblQxc1lCRWl4Rkp5M3ZDdzRuWEZfcHJnb0ZIXw": 1792904480418,
     "threads:De56HzhDM-h": 1792904743040,
     "threads:De56riZGQUr": 1792904743040,
     "threads:De56po0iLrg": 1792904743040,
@@ -27638,7 +27632,9 @@
     "threads:Dfd8jXnmuND": 1794113735523,
     "threads:Dfd8ghij7sM": 1794113735523,
     "threads:Dfd8fn_Ggh7": 1794113735523,
-    "threads:Dfd8cUlmviZ": 1794113735523
+    "threads:Dfd8cUlmviZ": 1794113735523,
+    "threads:Dfd9JmSASvK": 1794114048332,
+    "threads:Dfd7-PVl66R": 1794114048332
   },
   "digest": [
     {
@@ -28570,10 +28566,30 @@
       "d": 1794113643000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@duniakampusid",
+      "x": "Yuk, luangkan waktumu untuk belajar bersama DuniaKampus dan Kak Alir Bening! \"Perluas Koneksi, Buka Peluang: Strategi Networking di LinkedIn\" 📆 Jumat, 13 November 2026 ⏰ 19.00 WIB",
+      "u": "https://www.threads.com/@duniakampusid/post/Dfd9JmSASvK",
+      "d": 1794114013000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@kabarsaudicom",
+      "x": "🎓 Mimpi Kuliah S2 atau S3 di Arab Saudi dengan Beasiswa Penuh? Ini Kesempatanmu! King Fahd University of Petroleum & Minerals (KFUPM), salah satu universitas unggulan Arab Saudi, ",
+      "u": "https://www.threads.com/@kabarsaudicom/post/Dfd7-PVl66R",
+      "d": 1794113396000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
