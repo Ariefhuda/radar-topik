@@ -27521,7 +27521,9 @@
     "threads:DffGlqoD56j": 1794153042309,
     "threads:DffG2UokwiC": 1794153042309,
     "threads:DffHq07iCS4": 1794153042309,
-    "news:CBMikAFBVV95cUxNRW5maVlKN1FxU3NCZmFfSVd6MlpXdmEtT29KbFJ1eDg2ZEZQcmpXYW1aaXo1MHVxSVBNTmNER19MaVBmeWJBQWV0MzJXVFdFYm8ydEotYzd6TWJMdzcxam9QdWtSMEN3XzEtaV82VGVyNzJMLVZDRE9WMFIxcG1Xd0dGcGJLOGJ5Ty0yYlZFb28": 1794153042309
+    "news:CBMikAFBVV95cUxNRW5maVlKN1FxU3NCZmFfSVd6MlpXdmEtT29KbFJ1eDg2ZEZQcmpXYW1aaXo1MHVxSVBNTmNER19MaVBmeWJBQWV0MzJXVFdFYm8ydEotYzd6TWJMdzcxam9QdWtSMEN3XzEtaV82VGVyNzJMLVZDRE9WMFIxcG1Xd0dGcGJLOGJ5Ty0yYlZFb28": 1794153042309,
+    "threads:DffGbY2FDsR": 1794153335505,
+    "news:CBMigwFBVV95cUxNS1RqSjVPR2hvc0U5QkFoSElRM3o5OWViVjlLelVfcGRjcTBXMVBrZHQyN0lVV2JVVm1LN2x0cXoyS1JTVHBLN0FFN2NuT3Bibk1RNlZNS1NWUTMxSnFJajlVRGk1RVlOZlVXbGYwQnVob3JjS3A1aXY3RXRsMmVQZ0wyTQ": 1794153335505
   },
   "digest": [
     {
@@ -28683,10 +28685,20 @@
       "d": 1794130920000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kemensosrii",
+      "x": "Bantuan Sosial (BANSOS) BPNT dan PKH 2026 Ibu Hamil: Rp3.000.000 per tahun (Rp750.000 per tahap) Siswa SMP: Rp1.500.000 per tahun (Rp375.000 per tahap) Siswa SMA: Rp2.000.000 per t",
+      "u": "https://www.threads.com/@kemensosrii/post/DffGbY2FDsR",
+      "d": 1794152432000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
