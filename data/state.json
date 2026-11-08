@@ -27617,7 +27617,12 @@
     "threads:Dfd0_ZoneIB": 1794110457015,
     "threads:Dfd2Q7FCLqQ": 1794110457015,
     "threads:Dfd2T7uAbox": 1794110457015,
-    "news:CBMihwFBVV95cUxPekVYYTBnSHdZRkhTUnJlQmd5ZGh2RzJtNFEyS3hjVlB3MkNQdF9JdnozTG1tNzR0czRlT053S3FwcXZKZzRnX3hsREloaGxicjJpeDlDYXdNR1ZSb3NSM1d1Nk1sbmlySlItVDdmLUF1eG5mV0VELWtiWFdONjdMOXZzbUxOWEk": 1794110457015
+    "news:CBMihwFBVV95cUxPekVYYTBnSHdZRkhTUnJlQmd5ZGh2RzJtNFEyS3hjVlB3MkNQdF9JdnozTG1tNzR0czRlT053S3FwcXZKZzRnX3hsREloaGxicjJpeDlDYXdNR1ZSb3NSM1d1Nk1sbmlySlItVDdmLUF1eG5mV0VELWtiWFdONjdMOXZzbUxOWEk": 1794110457015,
+    "threads:Dfd2f4HD3f9": 1794110735876,
+    "threads:Dfd2b40FXrT": 1794110735876,
+    "threads:Dfd2UvIALrm": 1794110735876,
+    "threads:Dfd2LIGjqUr": 1794110735876,
+    "news:CBMi1AFBVV95cUxNM1FRcW13WGhEbkNBUER0QVhEZzJid0FmT3hXRVh5cElURUZTelZJQ2MyX3pCOFowTFZiTmJ2R1g0THd3aFU2Y0lodDhsVXVxOXFBRFpUdXZHWnRmam5MSVE4ZnZIYmhMc2xKTHVpNWZUVXZzdUhDWlBvX1hVX0JOS245TkRWeW55QU91bU96Y2prc3lXMkVzVG84a0NFdmJ4NVVWa2dYQ3BVVElwbjhwV21HUk42MVJMaXZNbEI5RjdPbDBwVzE4aXc0clZlOWw2ZFgxTtIB2gFBVV95cUxOZElibmp4OUJ1bnhTckVaTWozdGdhNjQ4anFCeWt4NG1ZNDhyNGZjLUJEX1ZLaWxoY3RuSTk2Mjd0YlhZZDF4RWtaTFpqcFEzWnlzZFFNT2ZlTEFGWlF3UU1OSVBNeXlwVUoyTVhfY25yVG96R0VCNUNRZmtPejNSUGpqaG9udFVCX1VoQnBPMmtiVkc0T2prY0d3SnctcGVtWjJtTUtRTFhGOVBqVzItc0E1UkRCQm9VRkdfOUFwS3NKYTA3aGhGblJEMmRKX3lOekRkSGNyVmtmUQ": 1794110735876
   },
   "digest": [
     {
@@ -28309,10 +28314,20 @@
       "d": 1794110404000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Kompas.tv",
+      "x": "Beasiswa CSR PIK2 2026 Universitas Indonesia Masih Dibuka, Dapat Bantuan Finansial hingga Rp5 Juta - Kompas.tv",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1FRcW13WGhEbkNBUER0QVhEZzJid0FmT3hXRVh5cElURUZTelZJQ2MyX3pCOFowTFZiTmJ2R1g0THd3aFU2Y0lodDhsVXVxOXFBRFpUdXZHWnRmam5MSVE4ZnZIYmhMc2xKTHVpNWZUVXZzdUhDWlBvX1hVX0JOS245TkRWeW55QU91bU96Y2prc3lXMkVzVG84a0NFdmJ4NVVWa2dYQ3BVVElwbjhwV21HUk42MVJMaXZNbEI5RjdPbDBwVzE4aXc0clZlOWw2ZFgxTtIB2gFBVV95cUxOZElibmp4OUJ1bnhTckVaTWozdGdhNjQ4anFCeWt4NG1ZNDhyNGZjLUJEX1ZLaWxoY3RuSTk2Mjd0YlhZZDF4RWtaTFpqcFEzWnlzZFFNT2ZlTEFGWlF3UU1OSVBNeXlwVUoyTVhfY25yVG96R0VCNUNRZmtPejNSUGpqaG9udFVCX1VoQnBPMmtiVkc0T2prY0d3SnctcGVtWjJtTUtRTFhGOVBqVzItc0E1UkRCQm9VRkdfOUFwS3NKYTA3aGhGblJEMmRKX3lOekRkSGNyVmtmUQ?oc=5",
+      "d": 1794110400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
