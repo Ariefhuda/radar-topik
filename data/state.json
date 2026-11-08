@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7Lu0JioRE": 1792948240530,
-    "news:CBMixwFBVV95cUxNSHd1YmhzbmFRcUxvUnhTQkZTOWxHd09kbDdRUU9rMUlSbkpNczJLdmV5eUo1N0dQeWttdWFhVW5sTU9DajE3S3BjWk5WdUh5cHpiUzNsRDNta0VZTzl6NnFBazctb1ZiSnVFeXVWN2xWZ1lEamVuZEc3WW5pMFd0aTk5LXp2ODVsUF9BWDRCaDRDbUxxMmxoZ3dRckE4ZFFfT0c0MjFxMS11MXlmUVI1OHByTnpIODA3VkZpM1gxOWZJSXVyM0F3": 1792948240530,
     "threads:De7OHTLkpx2": 1792948545139,
     "threads:De7N9x1Fufa": 1792948545139,
     "threads:De7NmRZjYwN": 1792948545139,
@@ -27546,7 +27544,11 @@
     "news:CBMijwFBVV95cUxQX2F2TUJ6cERKaWlUTVp5VGkyQzg3TUxiMC11NmIwNzZraUtqcWs0eVRiZkdpWVJPcUlWcDBFOERBTjdjejB3X0FRZDNLM2FkLURDc3NTTG5ZTFRRU25XTVo2WHRqNnVIb3FCWjRYTXB5VEZ0RzllN3BoWHpxZVhPNG40dDJWU2JVMUF6WkRZQQ": 1794157534027,
     "news:CBMie0FVX3lxTE5ad2I2c3B2RWJqeVYzdUZkS3hnWENHYnRIWVVEOWk0SVl3VTdzNXB0M1RDZzdDSjNzRG9NOHBOWm1MYUdKWHdPeHRxOFphcTdiWUd3ZU8yRlBYbmp2UHhDQUtGUF8tRTVaTWlFQ2g5ajB0UHdJLS13WGtHQQ": 1794157534027,
     "news:CBMilAJBVV95cUxPcjI4blRhU2VNd1ZZXzdFU3FmblIxWXhuUTFvYkxZSnhrSU50LXZVRXR5TTVMTm01QWd6aFVSdHpjYS1OVkQzcTduRV8tOEt2TktncXJPS3hGemxRSWFSdGpzcm1WRzRTd19fNDVpSlJla1lXX2xHS1FGUGE3YktSZDJMTGluaVBjNzhiQ3drbkxuU3VDWGk2OEFrU0tTb3lSMUtfMjV1QVhCVTJpLWRkNG96a2ZLbWotR0tTb3I3eGdJbnFIdzdDdnJVR0FMYk14NUdCb0ZEbTY4LWtEb1NXSlZIUlBzVUppLXAtdkM5ZEd2QUJNRHJSTjNIQkpYWUxUOXZPLU5Kc2Q2R2RaY2V0QmZya1g": 1794157534027,
-    "news:CBMilgFBVV95cUxOLVF3cWxvTld3S2I2UTBRTUJjQ0pRZl95MFY4eDl3ZUk0ZlpyY1lGbWx2ZEd3WGFITUVNWTNCcWVHcW5LdmdXUXEtbTR2cW1SVGJHQ0l6YmczWWluMkJVX0lCTEpzb21HeGpSckRNSGU0Nnlaa05LSDgtMGhFandQZVVPMnpXVU5TOFkzdnJSdDh4QlozWXc": 1794157534027
+    "news:CBMilgFBVV95cUxOLVF3cWxvTld3S2I2UTBRTUJjQ0pRZl95MFY4eDl3ZUk0ZlpyY1lGbWx2ZEd3WGFITUVNWTNCcWVHcW5LdmdXUXEtbTR2cW1SVGJHQ0l6YmczWWluMkJVX0lCTEpzb21HeGpSckRNSGU0Nnlaa05LSDgtMGhFandQZVVPMnpXVU5TOFkzdnJSdDh4QlozWXc": 1794157534027,
+    "threads:DffO3wpD1-N": 1794157839940,
+    "threads:DJEBH6OooFD": 1794157839940,
+    "news:CBMivAFBVV95cUxPQkZvejlLdS1kbGtrQmlENjByejdGOWdhaWxYYkthTlluMUVERGxqR1o4YVdkQ2ZVaDhQTkdUdnVpSkVMSTI5QWxlQWtGR1djSjMxUEZTVjYyX0NwYmpyaGZ6VVJRRHpBbmxBUXJEMGZGVG1sUFJHaWVxU3Y2cndjNW8xQXZFc2xDdkFKMklySmFwY1FvcVdvRGprM2dhNk40M1lnMkVkenFjR0xNV2VCc3pnaUFNVVZPUEhNaw": 1794157839940,
+    "news:CBMirAFBVV95cUxNR05JbGc5ekh3ZE1FdlNlclhCSjhNQU54MTIyckVXcUxLQ2o0VXktbnd3OW9OSS12TlZ0RUtVQjV0MWZkUG80TkVsQ3cxc1JNdVppR2JFbXJacXRobmdVR3dJSDVPcGN2RUZLRTVyY2paR1FkT20tSDhQcm1Ed0kyY0tsdDdGb3JtbHFURmhNQTNtbmV4SzBSdTNjMDlxZFBrZjE0ZDVRbGUtMnpB": 1794157839940
   },
   "digest": [
     {
@@ -28918,10 +28920,30 @@
       "d": 1794150154000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@bimas_santori",
+      "x": " oses tanpa dp(0%) ASN,TNI,POLRI&P3K Swasta Dp 10% dari harga SHM(Sertifikat) GRATIS silahkan boking hub marketing 0822 4931 2235",
+      "u": "https://www.threads.com/@bimas_santori/post/DffO3wpD1-N",
+      "d": 1794157321000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat.co",
+      "x": "Cara Cek Desil Bansos Online Tanpa Aplikasi Lewat Website Kemensos dan BPS - Akurat.co",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR05JbGc5ekh3ZE1FdlNlclhCSjhNQU54MTIyckVXcUxLQ2o0VXktbnd3OW9OSS12TlZ0RUtVQjV0MWZkUG80TkVsQ3cxc1JNdVppR2JFbXJacXRobmdVR3dJSDVPcGN2RUZLRTVyY2paR1FkT20tSDhQcm1Ed0kyY0tsdDdGb3JtbHFURmhNQTNtbmV4SzBSdTNjMDlxZFBrZjE0ZDVRbGUtMnpB?oc=5",
+      "d": 1794131761000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
