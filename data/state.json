@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6YByElsgX": 1792920650759,
-    "threads:De6Yso_E0UU": 1792920650759,
-    "threads:De6ZEzViELm": 1792920650759,
-    "threads:De6YndkIPsT": 1792920650759,
-    "threads:De5--COmxSS": 1792920650759,
-    "threads:De6YNLlkUtu": 1792920650759,
-    "threads:De6ZMxBEn1g": 1792920650759,
-    "news:CBMigwFBVV95cUxQSHhiamJTWlFPQjFUUS0ydFJROTdaX3U1ZFFXLThrMDk1ZE9KWnNmNzV1dzFJLVlxZUoydUJndWI2c1Q2cVhxeG5UT0RFYWV3U3FtQ2VLdE5BZnF4bFNId05OVm5tOXVodk9vUVk4NUhsei1qTy1vN1JDeXlPUlZuLS1IQQ": 1792920650759,
     "threads:De6Ym15k0DK": 1792920942980,
     "threads:De6ZZvUE5-8": 1792920942980,
     "threads:De6Y5XzCV_p": 1792920942980,
@@ -27581,39 +27573,12 @@
     "threads:DfebMc4D-j4": 1794129944125,
     "threads:C_phGZWSeoB": 1794129944125,
     "threads:DearNFfj8pA": 1794129944125,
-    "news:CBMi3AFBVV95cUxOU0kxMENuRkhlYjhBcXd3YVpCbTUyUGdmVE1Ham1LNmNfUS1ScW44WjNwQl8tUE1JRVlQbkRhZ01ZU0NQX0wwMURjbFlSMHlrYmlqRm5FQ21uRWdxM01yT2dncUloUHBqbTZIUC12a1VkQ0lLMjJEcUpnQnVMNVNHV0RtSWZKTmlBb0ZfZTJOaEpIaGtMcEh6czVqQU43bFhxTEYwbC01cFlMM2c0Z3VTS0hMY3U3aVpGYTUwQzFjRXJRNm5SeDVtWFNFMXlFOU9SZjVPYmlFR29zcmc50gHiAUFVX3lxTE9CMFVKNGNhd3hxcHNucnJMTGh3VTRjMW80Y1E2RW9GdC1fSjVsSDY1UGJUc1BSanE2cHFqVVowNFVWUDBLN3VIQ0ZvbXVNMFBzLWFtSXNsbGVfbDRVMkhTNi1ZbmZSLXRNaTNteHh1STNaWmtJVjRlX3lxbnVHRFc5cDVEVVotVFZqNHYyMEFadTdmUUhCS0lsTnVfNlVQSldFdk1uV2VmOE5mTXlNNmVDRElWX19mNUd1ZkVjdllaWWkzemR0UGliakRoOGhjX2JDT2RNejVXYWphaEJBbGVLOFE": 1794129944125
+    "news:CBMi3AFBVV95cUxOU0kxMENuRkhlYjhBcXd3YVpCbTUyUGdmVE1Ham1LNmNfUS1ScW44WjNwQl8tUE1JRVlQbkRhZ01ZU0NQX0wwMURjbFlSMHlrYmlqRm5FQ21uRWdxM01yT2dncUloUHBqbTZIUC12a1VkQ0lLMjJEcUpnQnVMNVNHV0RtSWZKTmlBb0ZfZTJOaEpIaGtMcEh6czVqQU43bFhxTEYwbC01cFlMM2c0Z3VTS0hMY3U3aVpGYTUwQzFjRXJRNm5SeDVtWFNFMXlFOU9SZjVPYmlFR29zcmc50gHiAUFVX3lxTE9CMFVKNGNhd3hxcHNucnJMTGh3VTRjMW80Y1E2RW9GdC1fSjVsSDY1UGJUc1BSanE2cHFqVVowNFVWUDBLN3VIQ0ZvbXVNMFBzLWFtSXNsbGVfbDRVMkhTNi1ZbmZSLXRNaTNteHh1STNaWmtJVjRlX3lxbnVHRFc5cDVEVVotVFZqNHYyMEFadTdmUUhCS0lsTnVfNlVQSldFdk1uV2VmOE5mTXlNNmVDRElWX19mNUd1ZkVjdllaWWkzemR0UGliakRoOGhjX2JDT2RNejVXYWphaEJBbGVLOFE": 1794129944125,
+    "news:CBMi7AFBVV95cUxPYkVYU3dkdkpkVzdXZFB5TXVVbEJNVWYwTzRFajhUMUtNcTB1NmNXb0dDLVRRcFRYMklpcUlGY1QwZFJHZTUtLVFHTGlFSE84UDdFdWh4bmREcDNpOFZlTVVoU1ROUG4xc2ZqRVFiU3ZwdjExSU91VFhCek1vNGZRc2V6SGJEY2JuUUhWYk9BeTRLUWlLazQ3UFZUbTdiTS1ZT2M1U1hmRkJCSEFVN2ZCandSQVB4R3dCNWxKMk54VVdvTVVvMm5kX1B6Z210NEUtd3pfWm00ZndNUGpteTJwU28wTFI2U0NNZnhfb9IB8gFBVV95cUxQNC1BNmlOWHBORWhNeXI0b3ZGTXpadlM4cm8ydnJoWDAxbUZQeEhIWUZIcHdTZThFOVU1a1AxNTFLY3dLYXdNZlRJVGNVS0haQlpPa0hndC1qdzJJbENCLW5UeEJ0SW1nX0d3cGJ4ai0zOGY0LVVraW5rVXNUaG9XN0doTk96T3I3NVBmV25kX2xmOGpVbDFtTXNoLWVqTUlsQmNkLVFwRjFhUEgyQ3hqYmtwb1M0bnRKNjdRaVpqUXc0WVhCNlJ2aExwdk9Ca0lmbkQxZzhValZ6YVB4anFabml5TnJ3b09IZDV6cFp5dEhmZw": 1794130244491,
+    "news:CBMi7AFBVV95cUxPVEdBSk5xWjJqV2tQMll5UWZCZ1JBWjdOaGdSOWRlUkhzRXI3LXdtRW9XZFlKVHM0Smp0OTRtZnYtSzZVNVN6Tm5sSXduU3JzREtYMXMxTXcxd0Q3a0hmaWFNbkpDOUZuV0haakNqQWNlMW5pRzIyRlNEcUk5emJtRkRleUVlenpoWHFMd3d0eWRqWGhvSnJsSF9GU2cxenhxTV83QzdxMDlOVl9mU2otWGhUQWVNZzZnM09qSDJoSE9GTDliSDFlRlJaTHpIX2lqdDJ6WURrS0ZwMUxIZnhwWlJ4ZVFicXVPOUp4UNIB8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUQ": 1794130244491,
+    "news:CBMi4wFBVV95cUxQeTRXak9NYTZTWDRweU5ET0lENUg3djRuQjNYaXlkeUxKc3dneHhCbkVuNUdsdmc4YW9vVDNoNzVrUWd3T0JReElRZlFyaHUyM1BwZUV5M2Y0Zko5WEZER2d1dEJwVWRpQm9CcmZmcWZPRWJzdUhJRlphYjhGdUV3c2FfVkktUWVEc1JaWGpvcXJqSmczM21kcE9kamEtdGprV0NSSXBid2hadWRqRDlSSGI4d09uc25RZy0zUUl0Q0dJeUFaTk1KU25CRzBRenlKZkpmZnRNaHVZUnhSaG9UcDdORdIB6AFBVV95cUxQZlFxV1RTNjEzajliMzNwdENsYmQwTmdnbFJDTWpWTzgxVl90UjE4MEFjV1JmZTA5TWFUSmVLV3hTZlZNdUt6alJ3ZEd5OEdRODFkbHpFakZyaW1iYkNlVlJ6TXBfRUY4bEcybmxvYTJ0UjJBUUhJRUZONW9QZi1JTURDczFQbkd5Zld0emdSTk9BZE9zaThGTEVJeEdXZXJ0XzRjUEFXdDg5OXV2SnVUbUFWQ2lEWXAyRWxhcWJOZF9uRFRPRDNkdGJfQnVua3JTQWlEZ0JvMjM5blAxcjZEc1c1OXppS0c1": 1794130244491
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "tvOneNews",
-      "x": "PKH November 2026 Kapan Cair? Cek Jadwal Tahap 4 dan Cara Cek Penerima - tvOneNews",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG83N1J4UlBaZFM0U1BTYkc5SndRY1A3c2RIOUFaZy1EdHRwX3FNN2hfREwyZjRaTkxkemUtSzFLTmJ3WjhZQmNwSW91Q29hV21lejhmQk9qWDdBYmg0QWhscGxldG5qQ3pYNXc4WldHQ1hRMC1RSi1WVmZuMXdPT1JnUVg3UlhRQW5iZHJ2SFNCNjBlcWJVbGtyRExmSE5HcHNVRWt3TzZIRGozRm5jdFloTGdRa29icEHSAb8BQVVfeXFMTnY1QlBnNUtWWC1vS3lnbW51cV8zX1pyX0Z1ODVDQ3R0UlZhbGJVU25oREhCM3VqUzFEVjFMUFB6d1hra01vMFpnRGl4aG41aTE2YTRLbl82RGcwYkxPeGJCZFlGcXN3TmwtVk9VcEl6T002OGtmUHVGbmk3bXc0TjJteTZMdUpyVnptTlFiZVVWYWd2NW1wN0Rjd3Q2SktMel9ubnh1LUdjSlpRdXoxMWJYNWZLQ093b1ZueEpYYzg?oc=5",
-      "d": 1794108180000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@sepriyanti.yasin",
-      "x": "Cair cek segera di agen terdekat :) #pkh #bansos #bpnt #agenbrilink",
-      "u": "https://www.threads.com/@sepriyanti.yasin/post/Dfd0w9LndE9",
-      "d": 1794109617000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@asep.komarudin80",
-      "x": "Bingung ngecek desil dan bansos ada di kolom komentar cek dan sampaikan hasilnya di kolok komentar",
-      "u": "https://www.threads.com/@asep.komarudin80/post/Dfd0_ZoneIB",
-      "d": 1794109736000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "@updatepelatihan",
       "s": "threads",
@@ -29083,10 +29048,40 @@
       "d": 1794124385000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Sumut Pos",
+      "x": "Tzu Chi Gelar Bakti Sosial Kesehatan di Lapas Tebingtinggi, 350 Warga Binaan Jalani Pemeriksaan Gratis - Sumut Pos",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYkVYU3dkdkpkVzdXZFB5TXVVbEJNVWYwTzRFajhUMUtNcTB1NmNXb0dDLVRRcFRYMklpcUlGY1QwZFJHZTUtLVFHTGlFSE84UDdFdWh4bmREcDNpOFZlTVVoU1ROUG4xc2ZqRVFiU3ZwdjExSU91VFhCek1vNGZRc2V6SGJEY2JuUUhWYk9BeTRLUWlLazQ3UFZUbTdiTS1ZT2M1U1hmRkJCSEFVN2ZCandSQVB4R3dCNWxKMk54VVdvTVVvMm5kX1B6Z210NEUtd3pfWm00ZndNUGpteTJwU28wTFI2U0NNZnhfb9IB8gFBVV95cUxQNC1BNmlOWHBORWhNeXI0b3ZGTXpadlM4cm8ydnJoWDAxbUZQeEhIWUZIcHdTZThFOVU1a1AxNTFLY3dLYXdNZlRJVGNVS0haQlpPa0hndC1qdzJJbENCLW5UeEJ0SW1nX0d3cGJ4ai0zOGY0LVVraW5rVXNUaG9XN0doTk96T3I3NVBmV25kX2xmOGpVbDFtTXNoLWVqTUlsQmNkLVFwRjFhUEgyQ3hqYmtwb1M0bnRKNjdRaVpqUXc0WVhCNlJ2aExwdk9Ca0lmbkQxZzhValZ6YVB4anFabml5TnJ3b09IZDV6cFp5dEhmZw?oc=5",
+      "d": 1794123906000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Pemprov Sulsel Sediakan Beasiswa Yatim untuk Peserta Didik SD hingga SMA, Berikut Jadwal dan Syarat Pendaftaran - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEdBSk5xWjJqV2tQMll5UWZCZ1JBWjdOaGdSOWRlUkhzRXI3LXdtRW9XZFlKVHM0Smp0OTRtZnYtSzZVNVN6Tm5sSXduU3JzREtYMXMxTXcxd0Q3a0hmaWFNbkpDOUZuV0haakNqQWNlMW5pRzIyRlNEcUk5emJtRkRleUVlenpoWHFMd3d0eWRqWGhvSnJsSF9GU2cxenhxTV83QzdxMDlOVl9mU2otWGhUQWVNZzZnM09qSDJoSE9GTDliSDFlRlJaTHpIX2lqdDJ6WURrS0ZwMUxIZnhwWlJ4ZVFicXVPOUp4UNIB8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUQ?oc=5",
+      "d": 1794124438000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "PKH BPNT Tahap 4 2026 Cair November: Update Desil BPS Terbaru di SIKS-NG, Ciri KPM Ini Gagal Salur! - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeTRXak9NYTZTWDRweU5ET0lENUg3djRuQjNYaXlkeUxKc3dneHhCbkVuNUdsdmc4YW9vVDNoNzVrUWd3T0JReElRZlFyaHUyM1BwZUV5M2Y0Zko5WEZER2d1dEJwVWRpQm9CcmZmcWZPRWJzdUhJRlphYjhGdUV3c2FfVkktUWVEc1JaWGpvcXJqSmczM21kcE9kamEtdGprV0NSSXBid2hadWRqRDlSSGI4d09uc25RZy0zUUl0Q0dJeUFaTk1KU25CRzBRenlKZkpmZnRNaHVZUnhSaG9UcDdORdIB6AFBVV95cUxQZlFxV1RTNjEzajliMzNwdENsYmQwTmdnbFJDTWpWTzgxVl90UjE4MEFjV1JmZTA5TWFUSmVLV3hTZlZNdUt6alJ3ZEd5OEdRODFkbHpFakZyaW1iYkNlVlJ6TXBfRUY4bEcybmxvYTJ0UjJBUUhJRUZONW9QZi1JTURDczFQbkd5Zld0emdSTk9BZE9zaThGTEVJeEdXZXJ0XzRjUEFXdDg5OXV2SnVUbUFWQ2lEWXAyRWxhcWJOZF9uRFRPRDNkdGJfQnVua3JTQWlEZ0JvMjM5blAxcjZEc1c1OXppS0c1?oc=5",
+      "d": 1794124494000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
