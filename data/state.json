@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMibkFVX3lxTFA4Q1p6ODZpS0xkOENyQzJ6VU9zZVZSQ2REMjRtRjRacnBLb2RWeFo1NTVVclI1ajZaQXJnMGdyRjZJdGkxOGRnbGp3UVUwWU5MT1lmMzdQOW9WNHA1RGN5Yy0xd3BOMGNmY2UxS0VB": 1792906539297,
-    "news:CBMid0FVX3lxTE5qeWZrNEtkN2xuNVJEMlY4NC1JUEdVNUNETUNsNFpocUZDVEVGQ2JVU1lhQzMyNkppXzh5eENzaFF6VC05ZGRSRFZGaS03TFBSRm5tVVhZbTUtallFRlUxeUo5eVZUZmY4c2M2MkszajlNSFMxckdj": 1792906539297,
-    "news:CBMi2gFBVV95cUxOSEJmZTlVVTl0ZVdNQjNBd1BqenJBMi1HWHhYUGxRdU4tekpCbVlocGNJTXRDenYtMVJWWkxWQkpQRWhwVS0tQnVXVGdRVlhlY21xYW00OUd3bmtTWHlCZ1czQnotZC1XY1J3REczVUYza3dDYTBTaVQ1VnV3cUxLQjgtampSM3FjcXowakRZVVQ0amFQVWQxYWd1Q2VwSEdhclhIYWE2dnA1UWs2YTFIYlBXTng2Y0pNRy1zWnJvOTN4LVBnSEZ1T0hOX1lNbS1tdXAyenpMdmhrZ9IB3wFBVV95cUxQMmRZN0E0X3AxRk1zblNiOFo4dFA1d0FTMjRSMWlVdDJHN2lVaVR4TVZudGljSHpDNEZRMGp1c0NCNTZWN1BuQy0zb0ZJb3pYQ082am8tQTI3UjhBTFlDNERDYVU5andaMDllMERWUW1jdy15ZTJZME9mYWl6NE1lbmxDbTZITF9ieGNKaWhyR0ZpcDRGSy1iXzA4X3dTVUd1R2tUR1Joc180ZkZyc1p2Zm5LeTVxcTk4YUtXZWFtc0lyNUZTMlZEaHNhQ3g4b0FoT2xSY3RrbkdUN3ZvU1A0": 1792906539297,
     "threads:De59lDZE6Hu": 1792906849615,
     "threads:De5-UJgk5CR": 1792906849615,
     "threads:De5-KRJjw66": 1792906849615,
@@ -27623,7 +27620,16 @@
     "threads:DfeAKn6AT_5": 1794115853014,
     "threads:Dfd_2JxHDpJ": 1794115853014,
     "threads:Dfd_n-4kbTT": 1794115853014,
-    "news:CBMifkFVX3lxTE4xTTV5ZXJyQ3d1d19xdEltT2lEbUEzeVV4LWdqZDhMRWlBY3EtSDdjWlNSZWVfaWFwU2J6SFp6UHNNYXB3S25LRS0yMS1mTGk3Zk10X2MySW9KWXYxZDlsSUU0c2pGaWl1WlN1eFMzTHVZTE5YWDMtUEFJa1dxUQ": 1794115853014
+    "news:CBMifkFVX3lxTE4xTTV5ZXJyQ3d1d19xdEltT2lEbUEzeVV4LWdqZDhMRWlBY3EtSDdjWlNSZWVfaWFwU2J6SFp6UHNNYXB3S25LRS0yMS1mTGk3Zk10X2MySW9KWXYxZDlsSUU0c2pGaWl1WlN1eFMzTHVZTE5YWDMtUEFJa1dxUQ": 1794115853014,
+    "threads:DfeACJMI942": 1794116132197,
+    "threads:Dfd_s7QI6ze": 1794116132197,
+    "threads:DfeAvxFj5iz": 1794116132197,
+    "threads:DfeBKbxDtlu": 1794116132197,
+    "threads:DfeAya1CT8H": 1794116132197,
+    "threads:DfeAsiUIEEA": 1794116132197,
+    "news:CBMixAFBVV95cUxPakRTaTFoRFRoZGRIODdGOGk2LVFLVVlma3NmZndENWdyVldvSWtTSy1QQjAyVkg0Mk0wMVhkMDRuZk90Skp3VUQ4MDlwQ3ZISEh0N1JEOUM2bm9UQ213cXJRWGRiaHM0N1drSGo3TnJReVlKa2kxR2FYaUYzUkdjZWV6c2J1UVFrUHJydW52ZENxZExXQXBVMF9ESVhFZFA5ZHN0U09oek0yaW1jVTROU1B1cEZNSGtzelVjTnlMbXp3V3pW": 1794116132197,
+    "news:CBMixgFBVV95cUxQSVllSkNYRDhCUUc3TGs5QkRjMHRGMUdiOWVsZnB6SXZKTVlfamZ1N1NpQnhkQlgtV2xCVTV3S1JQbjRiVWE3Ym8wZzc3NU1leHJVYnJ3TFMySEQ1Y2JaRlgwWjlVNTRobXNNcWIxLWF0VjdLb0ROajVYRUdxTXZCNExLY05CNzNwOXNYYUM3N2Z2OVJ2aXV5c3lsNjFhLS1rQ3RjeWQyWS1JcFVrU0RoSDB3NU11QmxGSkZ4czJLY1VaOFN5aUHSAcsBQVVfeXFMTmJPTzBMYjV0WHpjX2tzeTZCSHpONVFsLUtSc1l4cWtUZV9LbXlZY0h1SkRpZ1lTNjRfSHdValQ2cWttN0s3a3FjSHZPT2JzR2RGT20zZktqQVlZRjI3dDZNbDQ2OXhweE1QV3JyNzVqM1UxZFJVOEVsTTFrR1dYenVVNFBnNjF0S09uaTBSMC1oS2xPU0lfdHcyVlRpS25qUEhaUmRIa2I2QWF5V2dUTnhaOVV1NFV3ZllVMHRXMGFqOUxtYnVlTjMzQms": 1794116132197,
+    "news:CBMisgFBVV95cUxOcjFQNGYzQ1RUd0VNS0lmWHNGMmczejFmNnRTdVl5SGpablZFNDFoUkI3LXlQWHF4aG5lOUduUjBIdzhyNUkxV1Vlb1VQUXEtNlBJU1FCa1JvWXN0UDhaU3dkUG94UmRvQkQ2QUZrelNRQmduZE56b2l2SEk1Ul9ld3k4UV9hVTBtamxFNWlmU0p3b2Y5VDE3MUcyWFUyMjZIeGVRN0VrcTNkaGdXdkFwSmp30gGyAUFVX3lxTE5yMVA0ZjNDVFR3RU1LSWZYc0YyZzN6MWY2dFN1WXlIalpuVkU0MWhSQjcteVBYcXhobmU5R25SMEh3OHI1STFXVWVvVVBRcS02UElTUUJrUm9Zc3RQOFpTd2RQb3hSZG9CRDZBRmt6U1FCZ25kTnpvaXZISTVSX2V3eThRX2FVMG1qbEU1aWZTSndvZjlUMTcxRzJYVTIyNkh4ZVE3RWtxM2RoZ1d2QXBKanc": 1794116132197
   },
   "digest": [
     {
@@ -28705,10 +28711,80 @@
       "d": 1794060841000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, untuk jaman sekarang banyak peluang mencari penghasilan dari bisnis online. Sekarang ada beberapa pilihan yang bisa dipelajari, seperti affiliate, reseller, dropship yaitu",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfeAvxFj5iz",
+      "d": 1794115899000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@berkahkori",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@berkahkori/post/DfeBKbxDtlu",
+      "d": 1794116118000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@the.alamri.project",
+      "x": "Halo teman-teman Threads, mau tanya dong. Ada yang punya informasi tempat atau lembaga yang mengadakan pelatihan barista secara gratis, khususnya di area Jakarta? Kalau bisa dari l",
+      "u": "https://www.threads.com/@the.alamri.project/post/DfeAya1CT8H",
+      "d": 1794115921000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sentrisna",
+      "x": "Pelatihan jadi reseller aja kak aku punya rekomendasi gratis jd bisa di lihat dulu kalau cocok masuk ga cocok, hempas hehe",
+      "u": "https://www.threads.com/@sentrisna/post/DfeAsiUIEEA",
+      "d": 1794115873000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "JPNN.com Jatim",
+      "x": "ARTI dan Krista Exhibitions Luncurkan KITA Championship, Dorong Teh Lokal Naik Kelas - JPNN.com Jatim",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakRTaTFoRFRoZGRIODdGOGk2LVFLVVlma3NmZndENWdyVldvSWtTSy1QQjAyVkg0Mk0wMVhkMDRuZk90Skp3VUQ4MDlwQ3ZISEh0N1JEOUM2bm9UQ213cXJRWGRiaHM0N1drSGo3TnJReVlKa2kxR2FYaUYzUkdjZWV6c2J1UVFrUHJydW52ZENxZExXQXBVMF9ESVhFZFA5ZHN0U09oek0yaW1jVTROU1B1cEZNSGtzelVjTnlMbXp3V3pW?oc=5",
+      "d": 1794031680000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Desk Jabar",
+      "x": "SUKSES, Gulat Kota Bandung Juara Umum di Porprov Jawa Barat XV 2026 - Desk Jabar",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVllSkNYRDhCUUc3TGs5QkRjMHRGMUdiOWVsZnB6SXZKTVlfamZ1N1NpQnhkQlgtV2xCVTV3S1JQbjRiVWE3Ym8wZzc3NU1leHJVYnJ3TFMySEQ1Y2JaRlgwWjlVNTRobXNNcWIxLWF0VjdLb0ROajVYRUdxTXZCNExLY05CNzNwOXNYYUM3N2Z2OVJ2aXV5c3lsNjFhLS1rQ3RjeWQyWS1JcFVrU0RoSDB3NU11QmxGSkZ4czJLY1VaOFN5aUHSAcsBQVVfeXFMTmJPTzBMYjV0WHpjX2tzeTZCSHpONVFsLUtSc1l4cWtUZV9LbXlZY0h1SkRpZ1lTNjRfSHdValQ2cWttN0s3a3FjSHZPT2JzR2RGT20zZktqQVlZRjI3dDZNbDQ2OXhweE1QV3JyNzVqM1UxZFJVOEVsTTFrR1dYenVVNFBnNjF0S09uaTBSMC1oS2xPU0lfdHcyVlRpS25qUEhaUmRIa2I2QWF5V2dUTnhaOVV1NFV3ZllVMHRXMGFqOUxtYnVlTjMzQms?oc=5",
+      "d": 1794091971000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "ANTARA News",
+      "x": "Pemprov Jateng catat sekitar 200 ribu UMKM sudah bersertifikat halal - ANTARA News",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjFQNGYzQ1RUd0VNS0lmWHNGMmczejFmNnRTdVl5SGpablZFNDFoUkI3LXlQWHF4aG5lOUduUjBIdzhyNUkxV1Vlb1VQUXEtNlBJU1FCa1JvWXN0UDhaU3dkUG94UmRvQkQ2QUZrelNRQmduZE56b2l2SEk1Ul9ld3k4UV9hVTBtamxFNWlmU0p3b2Y5VDE3MUcyWFUyMjZIeGVRN0VrcTNkaGdXdkFwSmp30gGyAUFVX3lxTE5yMVA0ZjNDVFR3RU1LSWZYc0YyZzN6MWY2dFN1WXlIalpuVkU0MWhSQjcteVBYcXhobmU5R25SMEh3OHI1STFXVWVvVVBRcS02UElTUUJrUm9Zc3RQOFpTd2RQb3hSZG9CRDZBRmt6U1FCZ25kTnpvaXZISTVSX2V3eThRX2FVMG1qbEU1aWZTSndvZjlUMTcxRzJYVTIyNkh4ZVE3RWtxM2RoZ1d2QXBKanc?oc=5",
+      "d": 1794050082000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
