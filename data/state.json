@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiggFBVV95cUxNZ3FNeWNYbTBTNTl4T1pDUHVTLURGMHVraDRnM1JIaXFsNERaT1ZheVFxWWh2Mmxwc0w1UkdTTjdkeEMxN0F0TDUzUXZoUXU1akxzNEpPWWNwNkhMRkxvWm1EUlFSLVV5NUpLVEQ3Nk5xdnF1ZGExQjk1RXJOMXJ6aWh30gGHAUFVX3lxTE5NaTZIM2VjcFFOYnBHS28td0xwblZCV1pFMEdVYUlvTXZxWVp0d293T1EwWlBQMXgwbXZuX0Z2bTRGV0stUlhfOGVvejVqWnVvb0xtbUh1LWF2MlZSSklhb1JBZ2RKcy0ycnZlTzZBQXE5M0lJN2tXSGRpYXJvSFBQQkZNYXhMMA": 1792887341219,
-    "news:CBMiggFBVV95cUxNX01lQWtNNnpGeG1aVEFDSlp6WUl3WXNGOUluYTE5dm41NlItRXVaY1ZTQ2cyWHRBOFBvdDQxNFBtaGIySEtKcU9rYWs4QWxlc0RvQ1hBdW1iYjFKUEZVaExLNGVOeUhMWGpCMFFDYlNJNDV3RmFXb0d4dW16NnJ5dXhB": 1792887341219,
     "threads:De5Zt3uEwRC": 1792887659073,
     "threads:De5ZmmrE_WW": 1792887659073,
     "threads:De5ZiBak7x9": 1792887659073,
@@ -27723,19 +27721,12 @@
     "threads:DfdbgtRmw-7": 1794096641315,
     "threads:Dfdbg_QEuwP": 1794096641315,
     "threads:DVxuiAAEX61": 1794096641315,
-    "threads:DelJ8bMEwud": 1794096641315
+    "threads:DelJ8bMEwud": 1794096641315,
+    "threads:DYTBda6FADs": 1794096948066,
+    "threads:DcPfn5Rgh9m": 1794096948066,
+    "news:CBMixwFBVV95cUxQN2FZVUN4dm9yMmhJMVV6cUI1ZFlpOEJ0dTFvTTk0eGVTVW5NbU04M3Q5SmFBU04zMHZzY2Yzbkh6azJjdHZhd1hBQUJ6Y3NDdTJUQXpMNS1USGxWRkRLSm15V1BQMjFQV05XeWlKLWk0eWRyOFYyWEZETFkwOXNjMnpaekNYRTBzMk1CUE1zNGVIckdsZ2FsSzNEVmpOX2NuMGU5MHMzRXJlUkFnby1ULXcyVFg0amh5Qkp4S25MVmd4bFp4V2Fz0gHMAUFVX3lxTE9pOU96LW5sbkpHb2lscm1Id2dNNk5nWU80ZGx0eTJkMWRlOWJOXy1QVGZUVTR6Y1FBeFRwVTBtaDB4Q3l4N29fQk01THlQRU1kZDY5bl9jQWpXVHF0a3FtNThwajVadGFOV096WXZXMlpCWmxLaEhhV2dTX3A4RDI1a09NM0VpSVdiTWI3Y0Zqc0RtOXRtZGFJSkxBUXNiei04V1B3Z0RWMDlwY280VlFnMmdxSG8xQlE1bUVUeFlzV0pnZm9rZ3NsaXZLbA": 1794096948066
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "SuaraGarut.ID",
-      "x": "Cara Cek Desil Bansos Kemensos Lewat NIK KTP - SuaraGarut.ID",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03LW5NZGFNYjhZSy1BRWJHV2x0dHhGYzluSHdSbDMza2RvZldEcUVGaDQ3ZEM4M1dsN3JKdzByUU1pb0lFOE4tbF9WWlFqVVFZS2VrVE9HVGxjcy12cU5zYnNB?oc=5",
-      "d": 1794016162000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29225,10 +29216,20 @@
       "d": 1794096379000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Update Daftar 5 Desil Prioritas Penerima Bansos PKH, BPNT, dan BLT Kesra Rp900.000 - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2FZVUN4dm9yMmhJMVV6cUI1ZFlpOEJ0dTFvTTk0eGVTVW5NbU04M3Q5SmFBU04zMHZzY2Yzbkh6azJjdHZhd1hBQUJ6Y3NDdTJUQXpMNS1USGxWRkRLSm15V1BQMjFQV05XeWlKLWk0eWRyOFYyWEZETFkwOXNjMnpaekNYRTBzMk1CUE1zNGVIckdsZ2FsSzNEVmpOX2NuMGU5MHMzRXJlUkFnby1ULXcyVFg0amh5Qkp4S25MVmd4bFp4V2Fz0gHMAUFVX3lxTE9pOU96LW5sbkpHb2lscm1Id2dNNk5nWU80ZGx0eTJkMWRlOWJOXy1QVGZUVTR6Y1FBeFRwVTBtaDB4Q3l4N29fQk01THlQRU1kZDY5bl9jQWpXVHF0a3FtNThwajVadGFOV096WXZXMlpCWmxLaEhhV2dTX3A4RDI1a09NM0VpSVdiTWI3Y0Zqc0RtOXRtZGFJSkxBUXNiei04V1B3Z0RWMDlwY280VlFnMmdxSG8xQlE1bUVUeFlzV0pnZm9rZ3NsaXZLbA?oc=5",
+      "d": 1794096841000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
