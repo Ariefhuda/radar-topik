@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De75oRik6ql": 1792971712214,
-    "threads:De76XSXGN3S": 1792971712214,
-    "threads:De76HTCFBT4": 1792971712214,
-    "threads:De75hP-jgTf": 1792971712214,
-    "threads:De75RdvjiKW": 1792971712214,
-    "threads:De75G0SipAE": 1792971712214,
-    "threads:De744VBlFTZ": 1792971712214,
-    "threads:De755LUiRgD": 1792971712214,
-    "threads:De76VhuEweH": 1792971712214,
-    "threads:De76GceEifM": 1792971712214,
-    "news:CBMinAFBVV95cUxNU2ppSkRkQ0Y0QjBpN2w3MzR0ZVl2WUpTSEw5MndMRWoxcmVpcTVYcUhUWThWZjgxUGQ3Wl9telBGV2FEWjI2MFB2ekVUSzV6TUZBcE9WVk1jalZ5cVNLLUloTlNiQlcxTW41d2UyWGtIZnp0LUNkVU8zODhyYWN6Q2lQTzNubXVpTW56VklJREdjWExzckYyM3FNTno": 1792971712214,
     "news:CBMixwFBVV95cUxNRHR2QzZ4elNJYXZzLWc4dy1DeVR1Nk5yVnR4WkpwVk1WeFk0aWFld3h0X3lQdTlvSjM2Qm1JVHZRdmo1clMzeGVkUDJYcGRfSVIycUF4V3ZVNFlwSHR1enQ2TVo0RnFxWHdGbDRIRGw2NDBDR1FCNE9sUFQxdk9sS1NmZ09qRm5SWUptZEpwLTRuM19WaHgtSzF1M2w3Y2FQbXpjYlZaanBTY3VWRTNwYU5aU2pJVnoxWHJjazBNTlg3Y2RRVGpR": 1792971939478,
     "news:CBMie0FVX3lxTE4zbDBPUE1iOHlNV0tCMGhCM0tqZC1kTXg2VndjUE90aXpGNllyRkE0eVNlV2gtOFhRSmN3RGctSTBnZXV2dzZJeHFQRDN5Z2RyLVQyX3pzQ1AzalNSQWtFRUdPSVpZTGFVOG5ZNnB4X1EzMlRraHFJeXdvQQ": 1792971939478,
     "threads:De77mktGnOS": 1792972244033,
@@ -27616,34 +27605,18 @@
     "news:CBMipgFBVV95cUxQeWlaWVVUMmNzTjBYLUgtX2hqTG5NUG9JdnFCNE5VVV9rX1VWR0MtNTNSVXJvR0N3a042WHd2YUdxamlYNm92WkpzZmVzOXhFNVZDeWRmU1Qzck1xaUtxaW52SWJidHdNLWxXczBtZnB6b2ZIRTdKTXJVQUFSeE5PLVllbEk1WWEyYTI3MkxncXJUNVRnRFJyZDV6MWFQTWxkUDY0U0lB": 1794180645668,
     "news:CBMiqwFBVV95cUxPMnlYN1puN0ZWWGdBQS1HcXB4SUZyYkhUVGh2Q0JYV3RBTGxsWU9HZjc1MC16RVE1aDYtQ3AtYWtfSm43SzlVWjRFX2VqV193WlE0Zi1VRHJJR0NCMk9BYklKRk1vV2lRUVBuZ0wzX2d6U1dBaEFDeW9ib24wbURxdVRFcnpIVVlGMVFBSkYwSWRFWHRfMDdob2lKS1hqdWluOEpyVE1LMk50aFHSAbABQVVfeXFMT0NfVVF1aWdWLUZRZmVTQWV6SmZWenJHdmVxTTdqNXR1VFhMQkFYX3NYdnFtb1hRTHBTWEROclRENHozWkRmLUllcGF1VGUwMGtRbmlkZGk4dHRxYjBndXJfNnRHbEwwM1VMMWFEMTNCeFBudXVSZzJmUHBYMmNMSGZQaTVwUFlMUUJVZmpKZ0RTWEpvYlZzR3RLaThJSzdqWFNLYnRCN1k3WVlSbkVsNUU": 1794180645668,
     "news:CBMi7AFBVV95cUxOeEpobTFmUGF0eHpEZEoybjZYUXIwazNBYjVvUm5UakV6dzlFeWZLLXhJS2J0Z0tPWW12YllidXRaSTFjSl9MbmFvQlpWbWxFb3FwUFV1TmpkVTNCY283TXFfc1ExVGlBRWpHakFtMXlwaVR6YlFhLU5vMkt3Vk9KOHBWZUtfcGE4aE1jV0MxMFpKRl9fLXFidDlVLWVJM1JXajV6bGdveWlNemE3OHpDVm9WcVV0OWtQQ2Fsc0tRckhNeWp5UmNlbTRmZEEzWHlEa0ZvYWRlMVV6TkwzR0lZWkg4ZHJ6M2Vkbk0xQ9IB7AFBVV95cUxOeEpobTFmUGF0eHpEZEoybjZYUXIwazNBYjVvUm5UakV6dzlFeWZLLXhJS2J0Z0tPWW12YllidXRaSTFjSl9MbmFvQlpWbWxFb3FwUFV1TmpkVTNCY283TXFfc1ExVGlBRWpHakFtMXlwaVR6YlFhLU5vMkt3Vk9KOHBWZUtfcGE4aE1jV0MxMFpKRl9fLXFidDlVLWVJM1JXajV6bGdveWlNemE3OHpDVm9WcVV0OWtQQ2Fsc0tRckhNeWp5UmNlbTRmZEEzWHlEa0ZvYWRlMVV6TkwzR0lZWkg4ZHJ6M2Vkbk0xQw": 1794180645668,
-    "threads:Dff8RdbiYsL": 1794181127955,
-    "threads:Dff8Ic8EjQy": 1794181127955,
-    "threads:DcJ_ZCZE_cd": 1794181127955,
-    "threads:DdwAf3eFssm": 1794181127955,
-    "threads:Dff8oFYFvkc": 1794181127955,
-    "threads:Dff77U2mVR6": 1794181127955
+    "threads:Dff8RdbiYsL": 1794180934413,
+    "threads:Dff8Ic8EjQy": 1794180934413,
+    "threads:Dff8oFYFvkc": 1794180934413,
+    "threads:Dff77U2mVR6": 1794180934413,
+    "threads:Dff873BjXGO": 1794181327803,
+    "threads:Dff8U5EElVs": 1794181327803,
+    "threads:Dff8E-LjfWw": 1794181327803,
+    "threads:Daf-O5Nkkmb": 1794181327803,
+    "threads:Dff8TbKEvly": 1794181327803,
+    "threads:Dff9yxvnW_A": 1794181327803
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ummukhaa_",
-      "x": "بسْـــــــــــــــــــــم اللّهِ الرَّحْمَنِ الرَّحِيْم *Hadiri & Ikuti..!! * *DAUROH PELATIHAN PERAWATAN JENAZAH MUSLIMAH SESUAI SYARI'AT* 💗 *KHUSUS MUSLIMAH* 💗 📢 *\"MEMULIAKANM",
-      "u": "https://www.threads.com/@ummukhaa_/post/Dfe1qlHH9m8",
-      "d": 1794143644000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Demokratis.co.id",
-      "x": "Mahasiswa RI Raih Beasiswa dan Magang di Swedia - Demokratis.co.id",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTHl5aEloRnlFc2xMSFJjTWpUNGpoTjFvVk5ZdjViVkdMR3luLUtFRjRqNlJ0M2tTSFZoeG5sN0gwOTNVbFY2SW80dThvSHR2Q3hha3hwNTd6QzlCWnhmZUl1bnBFX0NGOXRDeg?oc=5",
-      "d": 1794143622000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -29123,10 +29096,30 @@
       "d": 1794175823000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@kholearning",
+      "x": "Bismillah Kita buka program beasiswa for kids nih Khusus untuk 3 orang yg beruntung Persyaratan : - usia 7 - 12 tahun - komitmen menyelesaikan kitab ABY lil awlad Jilid 1 - pembela",
+      "u": "https://www.threads.com/@kholearning/post/Dff8TbKEvly",
+      "d": 1794180679000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nuzhaila_flog",
+      "x": "Menunggu jadwal penyaluran bansos tahap 3 dikantor pos yang muncul malah jadwal penyaluran bantuan PPSE🥲, Berharap muncul jadwal solnya sudah bnyak yang bertanya-tanya kapan cair,",
+      "u": "https://www.threads.com/@nuzhaila_flog/post/Dff9yxvnW_A",
+      "d": 1794181461000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
