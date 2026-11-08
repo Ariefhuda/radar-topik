@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7HSH4Aq7D": 1792945312327,
-    "threads:De7HYqwE0VD": 1792945312327,
-    "news:CBMioAFBVV95cUxPX0h4ekVmd1BsMEZwQVpNUHlzZTlocE9QQVB2YU1jZFFuQm0zQTVhSmNUcXRlR3p1MzdfYzY1VFBVUkFQM3kyWWdCQU9aU1BVZl9rZi1jOU5ZQzk4LXlZR1ZaUGVSS0s1aUFxMnFZT0tobGtESmV3Y25Rc05Yc09XRzFGV0J4aURDNm1aSXJzdFN1TjdVVjl1UTFSQ1BMd0oy": 1792945312327,
     "threads:De7HnTemwZ5": 1792945536502,
     "threads:De7HXcXD-_m": 1792945536502,
     "threads:De7HWKwiSSo": 1792945536502,
@@ -27531,7 +27528,10 @@
     "threads:DffKFqmEeM6": 1794154536706,
     "threads:DffJz2Zm-RD": 1794154536706,
     "threads:DffJArkCE4-": 1794154536706,
-    "threads:DffKP7FFZhS": 1794154536706
+    "threads:DffKP7FFZhS": 1794154536706,
+    "threads:DYEEq12Ebh2": 1794154849823,
+    "threads:DSrj9v5E0Gm": 1794154849823,
+    "news:CBMi3AFBVV95cUxPcURTU0RqaVVnZU1tWnNSNUZpdGxpVzhzMjNqVUNmVDlUS0VQdDlTQVBId2ZQeld1ZDRXb2p4ZHRPdlJaaGlsWWplMVBObFZwM0FMLWhoeVZkVC1JMXMzN1ZDRWc3cmlEamJ0SnZvTnQ4NzgtQnB1RW9NMjlOMUp2YlRmc2oyd21nMlJ6Q2lwQUtvelJuNk9zZmlUVUJtZGh2cGhGMjh1WEItNHZ1aHc1LTB3bTViYUdjdEgtVlhoY1Y3dl9pTVpWaW1yV2pmcjdJelA5YXRudkRSUi1x": 1794154849823
   },
   "digest": [
     {
@@ -28793,10 +28793,20 @@
       "d": 1794150381000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Ini Langkah Dinkes Tapin Sikapi Penemuan Kasus Tuberkulosis, Lakukan Pelacakan di Berbagai Lokasi - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcURTU0RqaVVnZU1tWnNSNUZpdGxpVzhzMjNqVUNmVDlUS0VQdDlTQVBId2ZQeld1ZDRXb2p4ZHRPdlJaaGlsWWplMVBObFZwM0FMLWhoeVZkVC1JMXMzN1ZDRWc3cmlEamJ0SnZvTnQ4NzgtQnB1RW9NMjlOMUp2YlRmc2oyd21nMlJ6Q2lwQUtvelJuNk9zZmlUVUJtZGh2cGhGMjh1WEItNHZ1aHc1LTB3bTViYUdjdEgtVlhoY1Y3dl9pTVpWaW1yV2pmcjdJelA5YXRudkRSUi1x?oc=5",
+      "d": 1794150457000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
