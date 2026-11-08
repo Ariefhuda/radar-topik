@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6A6a2nJiC": 1792908645661,
-    "threads:De6A3f3m72p": 1792908645661,
-    "threads:De6BEChk6_e": 1792908645661,
-    "threads:De6CIUkk9YL": 1792908645661,
-    "threads:De6BCIgD9SG": 1792908645661,
-    "threads:De6A9NSjJBz": 1792908645661,
-    "threads:De6CFG9E0xu": 1792908645661,
-    "news:CBMiygFBVV95cUxNNklMX0lDdTRWQ29GLWFWcEJkLXVMczBaVDdVbFFNNUdoN1BkdHJzd3BUcG5wRGNBOFNsVjAxZS0zUHlPakp4VGVuSEIxNE1KWGxjN2haMkhpeGtSLUs2NHM5YUhtSUhDS0h0Y2l4cnNqaXhwQ3E1Zy1IU2xnZGdrNExYTEMtUEd6U2pNMGZJTno5RHFfOWpHcEp3NmJHOXZvWkFUVTI2WjA2NGx6ZFUzOFRWTWwyMElYdHdpRUhyc1ZTX0g0ZWctOTF3": 1792908645661,
-    "news:CBMiyAFBVV95cUxQSkJvVmVHSXF1cndwa3hpci1PWHJ3UGNzTnNWVkNUSnZjZi1OY2J2WEpjTmJKY0lTd29zaXFtdklldEFkR3JxSVhVUHEyMnlMaHctNEE4d1NRWTJMSWJxdDhoaXJleDR4VkFNUFRUNVYyaUFKcWR5SDZkd1ZRWmN6UGtNczFuQzFZaEJwSldXUlk5c18wUThhZUVFYnpGWGxpR0lranQ4akJMLWFMWm9lZllLVnFTamd2TDV5Y094bGYyLWNjRk01WA": 1792908645661,
     "threads:De6BlwwCf9_": 1792908945932,
     "news:CBMi_wFBVV95cUxOU050eFBTeEpnX3NlMVZ4d29lV2xwTzNQSVViMXZDdURHMWgtdXdfeXp1YzlaRmFqLWFEb190V09nQUhBMDY1Z3NKSzZtbzRIUTlFQUJtb2otQnVDcFRsMFpSRUJnVWRGaEhJRWhCSU12eFZIcElVN1FXTmZ1amE5WVUxZnZDaWpINXRzOHhxdkZhR3plbnQ5czBHR2dQM1NQaEdFa2xmTVFIcUdzeDdPU0dFVWJ5d2xpNGpzbm1aUXhwUVJLUkxicW1OaWhjZ0ppbWVsbU5WTE9WRWNvODVpcFBEYkVKRTJyb0sySFpwcmNnODU2MWhzU3g5dkl3bnc": 1792908945932,
     "threads:De6DIz-CYy5": 1792909242472,
@@ -27624,7 +27615,18 @@
     "threads:DfeEIQxgZqI": 1794117933608,
     "threads:DfeDx3lgVb-": 1794117933608,
     "threads:DfeDrzGE7xL": 1794117933608,
-    "news:CBMi1wFBVV95cUxPYng5N1ZieTEwVV9KR0wxWmZtc1JHN1pZcndwSjdGRXRZajRuT2dnYU5FYkRDVl95RFhZVmRiZExFSHF5OGk2VUhZcU5XaHNJODJxdVJYS1dIMjdwaXZVU3NMNEhUUHdCUlozOVhYQTRyNHlzSm5wXzRmTzVna3I1VlNvc21vQXBseFdhcG11Zkt2ZXhuZnpKeWtTSHQ1RmlZOFJoN1RTZE1JTnAxbGZCRmhJbElsWExUVzhaVEk3d0t0U2N0V3gwdHZUVlRvSGZGaFNnVTN1Yw": 1794117933608
+    "news:CBMi1wFBVV95cUxPYng5N1ZieTEwVV9KR0wxWmZtc1JHN1pZcndwSjdGRXRZajRuT2dnYU5FYkRDVl95RFhZVmRiZExFSHF5OGk2VUhZcU5XaHNJODJxdVJYS1dIMjdwaXZVU3NMNEhUUHdCUlozOVhYQTRyNHlzSm5wXzRmTzVna3I1VlNvc21vQXBseFdhcG11Zkt2ZXhuZnpKeWtTSHQ1RmlZOFJoN1RTZE1JTnAxbGZCRmhJbElsWExUVzhaVEk3d0t0U2N0V3gwdHZUVlRvSGZGaFNnVTN1Yw": 1794117933608,
+    "threads:DfeErOVppZa": 1794118248068,
+    "threads:DfeEtFokeYQ": 1794118248068,
+    "threads:DfeEVqEz4jq": 1794118248068,
+    "threads:DfeEVyNlGKl": 1794118248068,
+    "threads:Dfd6k82m5Rn": 1794118248068,
+    "threads:DfeEJEoiYJm": 1794118248068,
+    "threads:DfeD5n3HMYY": 1794118248068,
+    "threads:DfeEihSIJSR": 1794118248068,
+    "threads:DfeEoizICCT": 1794118248068,
+    "threads:DfeEpJ7Ebbn": 1794118248068,
+    "threads:DfeEeYCmBFS": 1794118248068
   },
   "digest": [
     {
@@ -28926,10 +28928,50 @@
       "d": 1794106800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@qyupit123",
+      "x": "GRUP CPNS 2027!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan bank soal,tryout dan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@qyupit123/post/DfeEihSIJSR",
+      "d": 1794117888000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@diam_diam.berkembang",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@diam_diam.berkembang/post/DfeEoizICCT",
+      "d": 1794117937000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@editby.nj",
+      "x": "its okay kok kak kalo umur 24 belum jadi apa apa. yang penting jangan menyerah kak. mulai cari cari kelas gratis atau ningkatin skill supaya bisa kerja tanpa harus ikut orang ✨ sem",
+      "u": "https://www.threads.com/@editby.nj/post/DfeEpJ7Ebbn",
+      "d": 1794117942000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zahroturriyad",
+      "x": "Bersahabat sejak 2014... Lewat apa bersahabatnya? Tentu saja lewat Facebook Secara bukan pemain TikTok yang joged melet-melet dan ngulet-ngulet di TikTok Pembicaraan selalu intens ",
+      "u": "https://www.threads.com/@zahroturriyad/post/DfeEeYCmBFS",
+      "d": 1794117854000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
