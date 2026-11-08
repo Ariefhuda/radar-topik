@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMioAFBVV95cUxOSDNYb0tmSnljQ2pnbHBIbTdLRGt3dVNRWmFYbzJpN3NUZjcyUHNYNC1kMFNxc3ZVcTB3N19ad0pkc2hXSEFLWHNsbklOZlhlUklDSTg1UHNPTFQ5Y09YLVQ5UGp2VlRrS1g0UlBtRG05blZDOW15SmI0MDBEX1NSRmw1Y0tpeEwzVFFwdHFzbXAxdGM5Z0ZBV0tRMDRqaGFG": 1792903560192,
-    "news:CBMirAFBVV95cUxQdXV1VGdCODdOaVFNZHVhV3dGLWF4Z1lKZzlLQkNOVFpiUTFFLTJsVTRRcDJfVlB6Q0hIbHo1blVQSW9qMk9rMzk3WXlNZlJMSFJWNkFTWmxCNmFHajBKTEd0UVNHRkFhR0FYTVZwNGpxZjBxY253NGhYeU01UHB0V2c5MndBVS1qaHk1T2t1bTRtSGZkMG9idEFhTkFBWnp0TGs3aTZwaGFnNWxJ": 1792903560192,
     "threads:De54fE9kYKy": 1792903841859,
     "threads:De54AU-j34R": 1792903841859,
     "threads:De5od78HWWT": 1792903841859,
@@ -27628,7 +27626,13 @@
     "threads:Dfd6hniFKzu": 1794112841281,
     "threads:Dfd6f8_lJs_": 1794112841281,
     "threads:Dfd6fHqlJ2K": 1794112841281,
-    "news:CBMi1wFBVV95cUxON1MtdHRlUEZVd2hWbExHNDhkSVBrVmxySFQ4R3I1M2ZHUEp1RzIzMnV3b2dWMEdpc0lneVVPWUpiZGVSTXJDYWE3Z0diZXRGYXNBd1NGXzQyZ3FVYmdNNFZhUUl2dnpKWnZfQjBPM3p5djFZRUI4bkNHUzZjX0ZBVFBlTFF2ZVRkUHl3NXdXbDEzTGNHTnVZRXVzdFpqQktSbXBfTjRpUzFqc2RkQ0JrRHk5Wi1JMmVrZ3RGY0NpQ3NrVnA5bk9OekJraU95Mk5NOVA2MWtuONIB3AFBVV95cUxORWZmNlNueVdxaVFQSnhKWkhDS1J0WFJ5MXBpcFN2aUhxcDgzN0hkYTc4UkxKUEFqVGFRdXBlMUQxOFU5RjRRWmxpMVlrRi1uZ3ZCZURtREt0eWRfZThDRGdqSkVCNHZuTzFzU1g5VVBCaTZpdkdNRlQ2Ym5hX0oyNXpEbnNQNWVubUNQcG9HS1pCTlZsQ2xWUUxrUUJnSG45N0I1bEl4dnhvQkh2a0ZNVFJ2ZjhzSXViSnFFdkx2NnM4MHEycFJkaHpRLWhaT0FWWFZXQnNrcVFvOThH": 1794112841281
+    "news:CBMi1wFBVV95cUxON1MtdHRlUEZVd2hWbExHNDhkSVBrVmxySFQ4R3I1M2ZHUEp1RzIzMnV3b2dWMEdpc0lneVVPWUpiZGVSTXJDYWE3Z0diZXRGYXNBd1NGXzQyZ3FVYmdNNFZhUUl2dnpKWnZfQjBPM3p5djFZRUI4bkNHUzZjX0ZBVFBlTFF2ZVRkUHl3NXdXbDEzTGNHTnVZRXVzdFpqQktSbXBfTjRpUzFqc2RkQ0JrRHk5Wi1JMmVrZ3RGY0NpQ3NrVnA5bk9OekJraU95Mk5NOVA2MWtuONIB3AFBVV95cUxORWZmNlNueVdxaVFQSnhKWkhDS1J0WFJ5MXBpcFN2aUhxcDgzN0hkYTc4UkxKUEFqVGFRdXBlMUQxOFU5RjRRWmxpMVlrRi1uZ3ZCZURtREt0eWRfZThDRGdqSkVCNHZuTzFzU1g5VVBCaTZpdkdNRlQ2Ym5hX0oyNXpEbnNQNWVubUNQcG9HS1pCTlZsQ2xWUUxrUUJnSG45N0I1bEl4dnhvQkh2a0ZNVFJ2ZjhzSXViSnFFdkx2NnM4MHEycFJkaHpRLWhaT0FWWFZXQnNrcVFvOThH": 1794112841281,
+    "threads:Dfd64NglHVE": 1794113138993,
+    "threads:Dfd6a8eEYZF": 1794113138993,
+    "threads:Dfd6XKgEUeq": 1794113138993,
+    "threads:Dfd6QiaETtR": 1794113138993,
+    "threads:Dfd6N1pkeVP": 1794113138993,
+    "threads:Dfd6Ky9kaN8": 1794113138993
   },
   "digest": [
     {
@@ -28450,10 +28454,70 @@
       "d": 1794105729000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@manuri.istaada",
+      "x": "Mau kerja informal di KL? Gratis pelatihan Gratis biaya pemberangkatan Dapat uang saku Tidak potong gaji DM ya",
+      "u": "https://www.threads.com/@manuri.istaada/post/Dfd64NglHVE",
+      "d": 1794112822000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
+      "u": "https://www.threads.com/@rohimmm235/post/Dfd6a8eEYZF",
+      "d": 1794112583000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
+      "u": "https://www.threads.com/@rohimmm235/post/Dfd6XKgEUeq",
+      "d": 1794112552000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
+      "u": "https://www.threads.com/@rohimmm235/post/Dfd6QiaETtR",
+      "d": 1794112497000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
+      "u": "https://www.threads.com/@rohimmm235/post/Dfd6N1pkeVP",
+      "d": 1794112475000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
+      "u": "https://www.threads.com/@rohimmm235/post/Dfd6Ky9kaN8",
+      "d": 1794112450000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
