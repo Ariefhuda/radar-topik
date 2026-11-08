@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De57Gi0klyN": 1792905649120,
-    "threads:De56OH9CnU-": 1792905649120,
-    "threads:De578yWIFhi": 1792905649120,
-    "threads:De57aTgoKLl": 1792905649120,
-    "threads:De57Nr4E0DB": 1792905649120,
-    "threads:De57B9vEzoD": 1792905649120,
-    "threads:De565daGF0j": 1792905649120,
-    "threads:De57wAOEsJN": 1792905649120,
-    "threads:De57nkoEgUb": 1792905649120,
-    "threads:DcPzRP7j8op": 1792905649120,
-    "news:CBMiywFBVV95cUxPU3g0V0ZYUV9aMlZqeUY2UGR2VXUyVlZ2QjdlbFBJMkd6UHJWLXhjd3JlcGdrMURUOVpVSUdTWFNzRW1sN1lhaDJOY1FIMlBhSmM2c3VtWVpmSm4wTW9yNW5fUXc3QS0yN2RGc0tTdXp3V0FmelhaN0puaFlEbzZSWkpMMVlOdnFrN2gtbklqdHNVd1puNzN3U0N3bkpOQ3BFR1gyUFV2VzNoTXE0R1M2N0FmWExzRVFlRUtsRjZHYnBDaG9Pd0I1azI2RQ": 1792905649120,
     "threads:DeyV4-jkRpl": 1792906271255,
     "threads:De59kVHmtv2": 1792906271255,
     "threads:De59XaDEiDh": 1792906271255,
@@ -27621,7 +27610,23 @@
     "news:CBMirAFBVV95cUxPeVB0Wk9uSWxxQ2x3b2VvdF9yQTh6ekF5OTFmZEpmVmUtZF9kdTd2UWpiam96bzBrU3RzV1k4ejNBTjRmOUNCNkVCUXhnaU1xVkF2ZW1FNGdpd2RQNDFBTXJsV1BUSjBfdXFfc3dLQUpIVnBfSWR1cndoZEhLQ0ZoTWJOV2FScTRlQnRib0lwVzlseFhVTUZhMTRQcmlvRXFxNTFZTUtjZ0JBaXcy": 1794114642208,
     "threads:Dfd-6P4m2D8": 1794114941762,
     "threads:Dfd-gWAG76Q": 1794114941762,
-    "threads:Dfd-Ca1gReW": 1794114941762
+    "threads:Dfd-Ca1gReW": 1794114941762,
+    "threads:Dfd-i0YFBFL": 1794115248512,
+    "threads:Dfd8TswkxKJ": 1794115248512,
+    "threads:Dfd_gYZoGj4": 1794115248512,
+    "threads:Dfd_QVLmsHw": 1794115248512,
+    "threads:Dfd_DiIEfeT": 1794115248512,
+    "threads:Dfd-c1ZmpBh": 1794115248512,
+    "threads:Dfd_lTxo4ga": 1794115248512,
+    "threads:Dfd_eNrI2Uh": 1794115248512,
+    "threads:Dfd_HINESz1": 1794115248512,
+    "threads:Dfd-zhFDECg": 1794115248512,
+    "threads:Dfd-vysltBb": 1794115248512,
+    "threads:Dfd-ZcaDxi2": 1794115248512,
+    "threads:Dfd1MrjE9JM": 1794115248512,
+    "threads:Dfd_nNVjScD": 1794115248512,
+    "news:CBMiugFBVV95cUxNUzdlQWgxVVhaWVZzT1lyTlQxQmJoQzl6cXM2ME9iMFRVYzVNVVp5Z2pTa2tNT1ZpRFFJQzJPR0xvQ29DZlNZR2JjTDZZZVFrM1NIWU1BN2g1QV9KNEhfUWswcUszMzlETnptTS1DTHdfRTdnS24xeEhTVS1BSS1DUmxoWEhKWXlQWlZZYVVXejBfRnR3TkZaUkdOZlVtd1Q3c052VVhYZVNxeVFEZHVzQmVWbjJVMDBfWWc": 1794115248512,
+    "news:CBMiywFBVV95cUxQWEd3RVdmdnFPUGo5ajR5U283S2ZQLWRZdnZqVUk3bGs2OUUtRVFtQXZqTkRzVUV5R1V2bDZ0UUVqaWNjc2E5RDQ5TjhmLS0zazJqNDNxNG55UXdaRkdKcjNoS2ZVYVZ3WWxOVDZJaGNPdm5jUHBUZ0RnWEdyRThOVjJ3VWQ5MDhyT3FkanYzMU9jNUd1MVVJcFhwb25Xc1VvM0NMRkx5RzRjMjFxQkNiS1lHRHNnT08tZk52SzVxSWlER0JjQkRfYWMtSdIB0AFBVV95cUxQNWt6NlgxWVZIT1ppX0xJaEZHSnlUTUFIbjkzanc5VmNSaVZJWTBDQjZYejh3U2swYjYwNnNZRFc3Mkg5dlJWNTBiR2x3d295ZEJNZDBCLU1DZGc0Q1JybTRNRkNtZWNYWE0xbm5IdWVsUTRNMVNQRVd1dkl2NWw2MUFBOE8yclVYZzNoU05uZVJHVi1FTHBtVVhhVWgwZTF3M281a19nN093bTNWOUtUN2M5V3pGTjVHN0pvY1VSajRadXNiUG92XzJpQnRMZlZ4": 1794115248512
   },
   "digest": [
     {
@@ -28633,10 +28638,60 @@
       "d": 1794114937000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo Bun, kalau pengen punya penghasilan sendiri tapi ga bisa ninggalin anak, ga usah khawatir. Sekarang pilihannya cukup banyak, lho. Nggak harus punya toko fisik. Bisa belajar ju",
+      "u": "https://www.threads.com/@dinnie_ivone/post/Dfd-ZcaDxi2",
+      "d": 1794114668000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bisnis_sehatku",
+      "x": "Halo sahabat Threads, Kelas Skincarean bisa di ikutin siapapun baik Pria maupun wanita GRATIS , pokok nya bawa diri saja ya ke kantor CARANYA DM DAFTAR Dari Kak Mur",
+      "u": "https://www.threads.com/@bisnis_sehatku/post/Dfd1MrjE9JM",
+      "d": 1794109844000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@linda.cecilia.9",
+      "x": "Mau bisnis online tapi bingung mulai darimana? takut gaptek? gapunya produk sendiri? gapunya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langkah awa",
+      "u": "https://www.threads.com/@linda.cecilia.9/post/Dfd_nNVjScD",
+      "d": 1794115307000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "IndramayuJeh",
+      "x": "Menaker Buka Pelatihan Vokasi Nasional untuk 2 Ribu Peserta di Cirebon - IndramayuJeh",
+      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzdlQWgxVVhaWVZzT1lyTlQxQmJoQzl6cXM2ME9iMFRVYzVNVVp5Z2pTa2tNT1ZpRFFJQzJPR0xvQ29DZlNZR2JjTDZZZVFrM1NIWU1BN2g1QV9KNEhfUWswcUszMzlETnptTS1DTHdfRTdnS24xeEhTVS1BSS1DUmxoWEhKWXlQWlZZYVVXejBfRnR3TkZaUkdOZlVtd1Q3c052VVhYZVNxeVFEZHVzQmVWbjJVMDBfWWc?oc=5",
+      "d": 1794051420000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "CNN Indonesia",
+      "x": "Dukung Wisata Ramah Muslim, 200.815 UMKM Jateng Raih Sertifikat Halal - CNN Indonesia",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWEd3RVdmdnFPUGo5ajR5U283S2ZQLWRZdnZqVUk3bGs2OUUtRVFtQXZqTkRzVUV5R1V2bDZ0UUVqaWNjc2E5RDQ5TjhmLS0zazJqNDNxNG55UXdaRkdKcjNoS2ZVYVZ3WWxOVDZJaGNPdm5jUHBUZ0RnWEdyRThOVjJ3VWQ5MDhyT3FkanYzMU9jNUd1MVVJcFhwb25Xc1VvM0NMRkx5RzRjMjFxQkNiS1lHRHNnT08tZk52SzVxSWlER0JjQkRfYWMtSdIB0AFBVV95cUxQNWt6NlgxWVZIT1ppX0xJaEZHSnlUTUFIbjkzanc5VmNSaVZJWTBDQjZYejh3U2swYjYwNnNZRFc3Mkg5dlJWNTBiR2x3d295ZEJNZDBCLU1DZGc0Q1JybTRNRkNtZWNYWE0xbm5IdWVsUTRNMVNQRVd1dkl2NWw2MUFBOE8yclVYZzNoU05uZVJHVi1FTHBtVVhhVWgwZTF3M281a19nN093bTNWOUtUN2M5V3pGTjVHN0pvY1VSajRadXNiUG92XzJpQnRMZlZ4?oc=5",
+      "d": 1794113198000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
