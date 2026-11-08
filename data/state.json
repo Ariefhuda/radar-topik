@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De69N3tmEiv": 1792940139752,
-    "threads:De69WHAH-Tz": 1792940139752,
-    "threads:De69njlGuOp": 1792940139752,
-    "threads:De6-CT-D5CK": 1792940139752,
-    "threads:De692WAkQoq": 1792940139752,
-    "threads:De69WyRCVg-": 1792940139752,
-    "threads:De69GrZGK5l": 1792940139752,
-    "news:CBMivgFBVV95cUxON1Y5VU1oWi00VkZfUm1sR1E2Wm5iZ2RUck0waVNaLVRXMVE3eXZhdWQxMTJnVkVIaWZ4bnFhY3JiOE1BRHdhOFJXVmNVTk1RZlRKOTFjeGFqVEdIOEotaE5LUzZjOUZtQzZodXRVVzMwdU8wQllKM1pwV3lTU0kwZzJsS3VJNmtieTVveDhnZUVSS1YwQ0tlMGpmSDBhRlZKQUJHWm4zSXJSc1A4SVZLN0lZZlZ4M2NDeGMtcXZn": 1792940139752,
-    "news:CBMilgFBVV95cUxNektDLXpGRDdxOGtvWWhDMkJMNWU0YVFITjZaOWxYMFRzLXhKQUl3MEJ6Q3N3N0tOV3NkckFhUm95SUljT1M3OUYyNnROTHhCZGszUkhQTFR1RDFBSXhRNjI3dFZORjdXTkhnQWdyWFNZUk14ZDRMRTY3czRkWTZ3M19qNVh6TmJlV1ZGM3QtRzBIaVRQYXc": 1792940139752,
-    "news:CBMitwFBVV95cUxOLUFtM1ZxWG9CVWlSTXJzSnliTkVjejZwZFQ4YkUtNVJ5eXN1LWZmTVZyb21GZmh4c1NOSFBVZGhKY0piU25qM3NPemV3Ulo3ck9fWFZ0dHFjMFczZmRfOEZEblNiOWhKODRnTWVfMWhNVno4MWxucXVtMVNyd3JxMENvLW5rbW5zbHkweHVKWnNoeGFLZGZTczlCQTJpQTZSTkVIMUhpWU5ZUHFGNl9adC1YbU93cFk": 1792940139752,
     "threads:De6-beLGYKQ": 1792940469827,
     "threads:De696Sgk0a_": 1792940469827,
     "threads:De69c0fADg7": 1792940469827,
@@ -27504,7 +27494,9 @@
     "threads:Dfe_PIxkckb": 1794149439005,
     "threads:Dfe-4umkYJf": 1794149439005,
     "threads:DeIUmbsE9pz": 1794149439005,
-    "threads:Dfe_bUDGSvz": 1794149439005
+    "threads:Dfe_bUDGSvz": 1794149439005,
+    "threads:DffAFJ5E5qD": 1794149737781,
+    "threads:DeK8d9pEtMz": 1794149737781
   },
   "digest": [
     {
@@ -28476,10 +28468,20 @@
       "d": 1794148762000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@hallodayanaa",
+      "x": "Terserah dibilang naif atau sok baik, tapi sampai mencuri buat makan apalagi udah sepuh gitu yaa dimaafin, cek ke rumahnya kondisinya seperti apa, kalau memang kesulitan tugas kepa",
+      "u": "https://www.threads.com/@hallodayanaa/post/DffAFJ5E5qD",
+      "d": 1794149104000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
