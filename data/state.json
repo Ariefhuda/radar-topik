@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMia0FVX3lxTE9Odjh4NDdsSU5UV2JiSE5xblYzVXpkN25XM2kwdG9RR0pRNnhmUm9YQTJqSkstXzQyN1U0N05tZEdwcGQzejhqaGo3WUR1MmZ4aFhydVk1X3RyOXExbTFEN2tpT2tlMFZrODhn": 1792922749119,
     "threads:De6dUhWmOI3": 1792923049554,
     "threads:De6deoQkUxc": 1792923049554,
     "threads:De6c9LLHyFy": 1792923049554,
@@ -27571,39 +27570,12 @@
     "threads:DZAjB_qkiGc": 1794132053928,
     "news:CBMi_gFBVV95cUxORHRKdUQxelBnYjhXejQyNzBCb2IyTHZnWEhrTmtjU3lLcWVfODBzM2tCLTVmeEI4bUR6RzJySjNDWlhCRzBnYWVsNlJaMVpBVTU5Ym8zX1VmZTRwcjBKYWZPQi05ZWNwVS1YZTlNaGtQWk05OGZObHRPcG15eHRzTXpjVmFRcXh4dWJ0VkNic0VRLVc1TjEtVTgtVzBIQXBVRXVRTE1sNEU4SFgzNEE2dzFXUlZWcTVzSy16WWFLS21xNjdhM0tzZUU2clRoWkdMR040LXgzRGZudHM3WFYtTGFnNi11YkNBSEk0VEJZT1VDcFNrRVJHTklTUnVkd9IB_gFBVV95cUxORHRKdUQxelBnYjhXejQyNzBCb2IyTHZnWEhrTmtjU3lLcWVfODBzM2tCLTVmeEI4bUR6RzJySjNDWlhCRzBnYWVsNlJaMVpBVTU5Ym8zX1VmZTRwcjBKYWZPQi05ZWNwVS1YZTlNaGtQWk05OGZObHRPcG15eHRzTXpjVmFRcXh4dWJ0VkNic0VRLVc1TjEtVTgtVzBIQXBVRXVRTE1sNEU4SFgzNEE2dzFXUlZWcTVzSy16WWFLS21xNjdhM0tzZUU2clRoWkdMR040LXgzRGZudHM3WFYtTGFnNi11YkNBSEk0VEJZT1VDcFNrRVJHTklTUnVkdw": 1794132053928,
     "news:CBMi2gFBVV95cUxQUFBuX0ZWamdJaUNqS3BOOHU2emJmMVEtUGxWaFpmdXE2dkZERUpBLUtieXlzUDRyWmFnNmFFT1Y2SEo4NUJfU0JVQ2pXOElQbDBncGVsd1ZtR2Iza3JNNDV6YV9aWE01bkV5UTJ3TnFEcGNTTWluQ2YwdHZuSUFCbVVKS044MmpaejJaTklpUVVIeDZrVnNzU3JKdzBzUEZtQTIzbUsyc0Fhdlo4Vl8ySFFLY0kybTRhc3J0bEFDVW1ZSGRsUzdhRzdaSUxPVEZ1SXA4dGVnaTgzQdIB3wFBVV95cUxPbllscG5qYWQ1QXZMbjNGOHRRaVlDRjE3X0FkNHJkVTQ0T2RzVmp3anRfWHBDOEJFeHZhVzZYMlZuZEhBZ2NSZmgzUHVYUXQ2R2Y2Vm1WUGdZMHkwMFpEWU1BLTJORTZrLW1SX2d3MmktRl9yV3BGeXcxV1pFYm1UWk5aX2xKTWx5bmktLV9wYXVJTU1uM3FRenNKM1g2dFZkcE4yNl8yYU9PcmZGQ19lb1BzMDBnVVpBbWI0Njd2dFJyWnduT2FWdzVVQXFEaWc3OVZhYkV5WjQ3NmhsOXpJ": 1794132053928,
-    "news:CBMivwFBVV95cUxOWWQweUg5NmpFcXU2cE9hcUI0V2dnbGhIMkVNV2lEV2F3N0dfdVl3N1ZfMzgwRVdaRFJ3UU9tbDc0eEE5ajJLUVN6dGZfdE9lakNSa2FyejR3RTF3MllVYVd2cDBweld3NzZhaFJNYXhOaVFuc2ZBeTd4TWZPNFhLUXV6NTBJdWZHQlJyLU85TmhxaDgzYV9SUk1DVWxWZ0hXVHo5WUYzaHZEbW5YNmU1aFY5amZCRXRQMWwtR1Nfa9IBxAFBVV95cUxNNnFaTXB2TlhOS3NYVjlLUmlyZUpqZTNyVk9aMWh6ZzhKclhUQmtHU21nQ1N6ZzFxQnF2WW0tQWRwZFdlOXlPNi1XUTExTnBTcWVWOFQ3bUNvSUhvRXZMVXFpVFRJT0ZQRjVJdnpldnJhbzBCZU5lcHYwRXpWTEd6THpsQTk4Sm1kZlRCZUttb3dlQk5LZzJjME4xbEtyaDh6TEdmMmh5MEtDclNPRDltZnIyWFpqYXZBSjBFMENzMDlocnI1": 1794132053928
+    "news:CBMivwFBVV95cUxOWWQweUg5NmpFcXU2cE9hcUI0V2dnbGhIMkVNV2lEV2F3N0dfdVl3N1ZfMzgwRVdaRFJ3UU9tbDc0eEE5ajJLUVN6dGZfdE9lakNSa2FyejR3RTF3MllVYVd2cDBweld3NzZhaFJNYXhOaVFuc2ZBeTd4TWZPNFhLUXV6NTBJdWZHQlJyLU85TmhxaDgzYV9SUk1DVWxWZ0hXVHo5WUYzaHZEbW5YNmU1aFY5amZCRXRQMWwtR1Nfa9IBxAFBVV95cUxNNnFaTXB2TlhOS3NYVjlLUmlyZUpqZTNyVk9aMWh6ZzhKclhUQmtHU21nQ1N6ZzFxQnF2WW0tQWRwZFdlOXlPNi1XUTExTnBTcWVWOFQ3bUNvSUhvRXZMVXFpVFRJT0ZQRjVJdnpldnJhbzBCZU5lcHYwRXpWTEd6THpsQTk4Sm1kZlRCZUttb3dlQk5LZzJjME4xbEtyaDh6TEdmMmh5MEtDclNPRDltZnIyWFpqYXZBSjBFMENzMDlocnI1": 1794132053928,
+    "threads:DfeOWwBkTLr": 1794132336015,
+    "threads:DfefWJlI-lo": 1794132336015,
+    "news:CBMiwwFBVV95cUxQekpPZDVrZmQ4WExBNWx4TWpybjExQkctNzN6VGtyNVNJWGpJTURrMWlFeDNFREJobkRwb0kyb1pIWHBrc05MYzR0UlVZQXNDOEkzRmhpdWZKV2NuaXF0Qms4UkowQkFsNjc5Q2FvOE9jMDgtM3pjZlBkeFRGb0pTS042QjJhc3lRRHlhVFRNQTFWZzNaX3d6Y3FuVTAwSzR2N3FHTVc0cjY3Q1BKRDBEdFJERnVJQUlicmx1WlVmOXBCdGPSAcMBQVVfeXFMUHpKT2Q1a2ZkOFhMQTVseE1qcm4xMUJHLTczelRrcjVTSVhqSU1EazFpRXgzRURCaG5EcG9JMm9aSFhwa3NOTGM0dFJVWUFzQzhJM0ZoaXVmSldjbmlxdEJrOFJKMEJBbDY3OUNhbzhPYzA4LTN6Y2ZQZHhURm9KU0tONkIyYXN5UUR5YVRUTUExVmczWl93emNxblUwMEs0djdxR01XNHI2N0NQSkQwRHRSREZ1SUFJYnJsdVpVZjlwQnRj": 1794132336015
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Warta Lombok",
-      "x": "Cara Mengurus Halal Gratis Sehati untuk Produk Rumahan, Bekal Warung di NTB - Warta Lombok",
-      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYzVmNlpvcFhQSkNMNkdTN0RKTnYwMlpFbnFnZ2tuN0pLUWlnVGhJOWsxdTV2WmlmU1Q3Qk1IYWltRlJzSUNqZ19teC1XelU3Tjd6a0EtV0paMjdkbVViTjZ5Z0FoNlgyaG9hclQ5MnJtd1d2VWJ4VmJvWFdieDc4YWF2eDhXeFZjWVM2WlpCNU03THJjZS1iUEozVWxabHFaNk9VX25qWTFibW1iV1d6QlA1Y2x5Vm54eEd3R1JCQzJDU2NfWTIzeDRORTBUTlhtZTF2cmpHSkJkUW_SAdsBQVVfeXFMUGM1ZjZab3BYUEpDTDZHUzdESk52MDJaRW5xZ2drbjdKS1FpZ1RoSTlrMXU1dlppZlNUN0JNSGFpbUZSc0lDamdfbXgtV3pVN043emtBLVdKWjI3ZG1VYk42eWdBaDZYMmhvYXJUOTJybXdXdlVieFZib1hXYng3OGFhdng4V3hWY1lTNlpaQjVNN0xyY2UtYlBKM1VsWmxxWjZPVV9ualkxYm1tYldXekJQNWNseVZueHhHd0dSQkMyQ1NjX1kyM3g0TkUwVE5YbWUxdnJqR0pCZFFv?oc=5",
-      "d": 1794105729000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@manuri.istaada",
-      "x": "Mau kerja informal di KL? Gratis pelatihan Gratis biaya pemberangkatan Dapat uang saku Tidak potong gaji DM ya",
-      "u": "https://www.threads.com/@manuri.istaada/post/Dfd64NglHVE",
-      "d": 1794112822000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rohimmm235",
-      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
-      "u": "https://www.threads.com/@rohimmm235/post/Dfd6a8eEYZF",
-      "d": 1794112583000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29073,10 +29045,40 @@
       "d": 1794051051000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfeOWwBkTLr",
+      "d": 1794123034000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@anggreini_shella",
+      "x": "Coba cek nama kelen masing masing wee ini BANSOS udah keluar, mana tau nama kelen keluar kan alhamdulillah 😁 Cek link dibawah ini!! https://tinyurl.com/DataWargaMiskinDS2026 #bans",
+      "u": "https://www.threads.com/@anggreini_shella/post/DfefWJlI-lo",
+      "d": 1794131943000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Disway Malang",
+      "x": "Ingin Kuliah Gratis di Arab Saudi? Siapkan 7 Dokumen Ini, Hafalan Al-Qur'an Jadi Nilai Tambah - malang.disway.id - Disway Malang",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekpPZDVrZmQ4WExBNWx4TWpybjExQkctNzN6VGtyNVNJWGpJTURrMWlFeDNFREJobkRwb0kyb1pIWHBrc05MYzR0UlVZQXNDOEkzRmhpdWZKV2NuaXF0Qms4UkowQkFsNjc5Q2FvOE9jMDgtM3pjZlBkeFRGb0pTS042QjJhc3lRRHlhVFRNQTFWZzNaX3d6Y3FuVTAwSzR2N3FHTVc0cjY3Q1BKRDBEdFJERnVJQUlicmx1WlVmOXBCdGPSAcMBQVVfeXFMUHpKT2Q1a2ZkOFhMQTVseE1qcm4xMUJHLTczelRrcjVTSVhqSU1EazFpRXgzRURCaG5EcG9JMm9aSFhwa3NOTGM0dFJVWUFzQzhJM0ZoaXVmSldjbmlxdEJrOFJKMEJBbDY3OUNhbzhPYzA4LTN6Y2ZQZHhURm9KU0tONkIyYXN5UUR5YVRUTUExVmczWl93emNxblUwMEs0djdxR01XNHI2N0NQSkQwRHRSREZ1SUFJYnJsdVpVZjlwQnRj?oc=5",
+      "d": 1794046200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
