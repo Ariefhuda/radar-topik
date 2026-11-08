@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6R4ZKn2t2": 1792917059653,
-    "threads:De6SG1oE79t": 1792917059653,
-    "threads:De6RrvKk-il": 1792917059653,
-    "threads:De6SBorERDF": 1792917059653,
-    "threads:De6IsOMG2on": 1792917059653,
-    "threads:De6RA28k7cN": 1792917059653,
-    "threads:De6RsbCHF2-": 1792917059653,
-    "threads:DGFm0q0SzK4": 1792917059653,
-    "threads:DGgaXodTsrO": 1792917059653,
-    "threads:De6RrVsETvi": 1792917059653,
-    "news:CBMi1AFBVV95cUxOR0wyUDhpck9Ua0JIaUhhUFY0eUhUaHoyS1lveHA4QjJReU8yUGRtMmRfSm9CaUZGQmNqZlpFcjd1dHhTbkt4Q0pnTXF1OEgyWjloSWc4b3N6QnF0aXc3S25XM25HTnFxNXI1VDhpU1dpQzBjZUdVSElRc25XdElsMExGUzJ0T2QxNldBT0RJeV95QWhUMjBVR3piLU5IRWRQMXZqSUFjUWEtYVMybFVya0Z0SXdha2E5Szl5TUlzb1VpWXZRU3lvT0dJR29ySDdVSVBTcdIB2gFBVV95cUxQQnl0ZjVMZjhPbzRWVWNJV05URW1HV1A1WjlkY0N1S2lMdzRYb01oN1l5eVduQmNjWmRTUlVlZUdJRjBPWjVzUkRlWGZxckNTQmJvaEtJUVpYWjFfaW85VGJ1MXpZajJoOTBkcUMwcTN5eFMydG5OUzBpNmdlQUxVZlQ2X3hPM1ZCdXFscnRYRGJTRXVFVmlUWmFQTjhoUlp5Tzg0ZzFBSjJISlVwNDJROVRGZzhCemNYbXh6elVnSE4ycnVGa3Fac1FMNjV4dG5pZ1djajJUMWhqQQ": 1792917059653,
-    "news:CBMiX0FVX3lxTE5tRHozNWlxbUUyZlB5UHN1TlYwd1N6T0tRdFdYQngxLXRCTWNyUHg1Mkh3czFobDhycnBnaVItWTRJOHBqSWg4RjBkM0tUQVF4RTlLZklVT2g1S2NYeUVZ": 1792917059653,
     "threads:Dd0MhSekxE4": 1792917337290,
     "threads:De6Rw7Em0E-": 1792917337290,
     "threads:De6SlL9ia6N": 1792917337290,
@@ -27604,19 +27592,11 @@
     "threads:DfeUsjIFRKB": 1794126335266,
     "threads:DfeUUtSE4Xd": 1794126335266,
     "news:CBMiigFBVV95cUxPV2g1emZGeXppc2NCUFBlaHFqZGdrR0dMLVNRQ0NJeXRlT081NFMxTm5FNVc5VlFocDdzUlBPRHkxOVI4WnR1OU1HZWFwbUhlS3B2QndoSm1RQ3hIZE1ZQzh1dHQyYWswM2s5OU9MRkUwWUdKd1czb05WWDZWVEtLNUctUW44am1TcWc": 1794126335266,
-    "news:CBMitAFBVV95cUxQSktaQU1GN0RWZi1CV04zQXZiNW9XbURVdExpVzNFRndENkVrbVdUSUZ0ZWlTZElMUklLLS1seXdmaVZwQTFvYTdVM2R0X2s4dkthS0F0M2I1X3V3LWRBTm9kQUg4VmVvX3Zkbjl1XzBfLVR0U0pycFBUcmlZeEFVbXU4ZVBPNTRFZDlvei1xczk4bVU5S245S0pzb1Q2dkdXQ0F6a3hKdkhfSlVvb215bzE3M1DSAboBQVVfeXFMUHBCbzZ5UjJWUXZiLWlnX1h4R0xZc2gyMGpucXZVRU9qZnVLVDZONnRrZUhWcnpXNEhWZWtIYlp4WGhMbEpGSXN2X3l4WDlVeTZ4bWh3X1d6Y2dyeWhNTXRoaUl4TU1pVDR1aHFEaGFtSWNDYXhpX3BmNUNEdU50dGNmRzZMTmVGbkZ4LTRoTjdSUkxLY1VLd0tjMklTTXlKcG5tSFZpSGhVeGxHR1lBTzd3VzEyc2lCNE9R": 1794126335266
+    "news:CBMitAFBVV95cUxQSktaQU1GN0RWZi1CV04zQXZiNW9XbURVdExpVzNFRndENkVrbVdUSUZ0ZWlTZElMUklLLS1seXdmaVZwQTFvYTdVM2R0X2s4dkthS0F0M2I1X3V3LWRBTm9kQUg4VmVvX3Zkbjl1XzBfLVR0U0pycFBUcmlZeEFVbXU4ZVBPNTRFZDlvei1xczk4bVU5S245S0pzb1Q2dkdXQ0F6a3hKdkhfSlVvb215bzE3M1DSAboBQVVfeXFMUHBCbzZ5UjJWUXZiLWlnX1h4R0xZc2gyMGpucXZVRU9qZnVLVDZONnRrZUhWcnpXNEhWZWtIYlp4WGhMbEpGSXN2X3l4WDlVeTZ4bWh3X1d6Y2dyeWhNTXRoaUl4TU1pVDR1aHFEaGFtSWNDYXhpX3BmNUNEdU50dGNmRzZMTmVGbkZ4LTRoTjdSUkxLY1VLd0tjMklTTXlKcG5tSFZpSGhVeGxHR1lBTzd3VzEyc2lCNE9R": 1794126335266,
+    "threads:DfeU4H7FZjy": 1794126649543,
+    "threads:DfeUHdsiITs": 1794126649543
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@balilokers",
-      "x": "✨ *WE ARE HIRING – MORE LASER & BEAUTY CLINIC* ✨ Kesempatan bergabung bersama tim MORE Laser & Beauty Clinic di *Ubud, Bali!* Kami sedang mencari kandidat untuk posisi: *PART-TIME ",
-      "u": "https://www.threads.com/@balilokers/post/Dfdsc8EmVKg",
-      "d": 1794105259000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29106,10 +29086,20 @@
       "d": 1794117600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yuli.ekayani",
+      "x": "WHO AM I? SIAPAKAH AKU SESUNGGUHNYA? Mari mengenal diri lebih dalam melalui pemahaman tentang Empat Tubuh Manusia. Sebuah perjalanan untuk memahami siapa diri kita sesungguhnya. KE",
+      "u": "https://www.threads.com/@yuli.ekayani/post/DfeUHdsiITs",
+      "d": 1794126059000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
