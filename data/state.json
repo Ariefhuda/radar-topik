@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7PThgE5oC": 1792949451446,
-    "threads:De7Pkd2k8J-": 1792949451446,
-    "threads:De7PRm5FZR2": 1792949451446,
-    "threads:De7Om5qASG7": 1792949451446,
-    "threads:De7KpyCmGvR": 1792949451446,
-    "threads:De7J4rAmcBg": 1792949451446,
-    "threads:De7O8eGCOeo": 1792949451446,
-    "threads:De7OwvzgAPI": 1792949451446,
-    "threads:De7P7zek4yz": 1792949451446,
-    "threads:De7PKuUkyqj": 1792949451446,
-    "threads:De7O6Q7D4Ro": 1792949451446,
     "threads:Debz-EKk2YS": 1792950042920,
     "threads:De7Q3_RkgDt": 1792950042920,
     "threads:De7QpQKk0rh": 1792950042920,
@@ -27566,7 +27555,25 @@
     "news:CBMiuAFBVV95cUxOc3NwVFBzbmRrMnJEbkEwbE9IeDlMQWlTNW9qdGF4WGd0ZkVhbGxmTDBWOGNhUHI5Q0h4a2E3Wmpvekx6ZWpIbkdPbWExeTY5TzRlOGJKM1NnUnl6Ul8tQkhOWWEzc3FJd1R5QTB0Ujl5clEzWWZNUmxYMkd0VVFWODBxRER3M2NNaUxqTzFlekhkNzhnYnNXUlhBODRiY0NSZElVNXlsMklraFVaRFZldVdMWm9SS3pW": 1794158438358,
     "threads:DPQXQR0Cfd0": 1794158735228,
     "news:CBMitwFBVV95cUxOQk01T05PYnZhNnR6VVJuc1dNdHZTdk9sM1poMXZpLUpkQlhFVWJHbVJtS2lvaFp5dDU1RFBCNmlpSDdlOWs5cDA0UEVELXphSWdXbHVZRkVUSDMyWFNXM3RSMTl0WlAwaWpyNFVDcXd2bUNXXzRaSlEzUzdsU0lrdVU2OUdWal9qRGJVellVVkRMTU1JWlpaQjd5ei1nZGMtVHFBWEpXdnNFYkJTNUQ1Y0JOcDROd1k": 1794158735228,
-    "news:CBMiyAFBVV95cUxPOG5BclF3ODNyZTM0aXVQcjlIdHAzTjBPRndvUjhBUXJtbkU5VXpteWJCS0JTanlkelNIMVltZVJlcC1WVXVVLUFCMlVlSnFXbU5Ld0llY0lRZm9fM2dmWkItQUQtYkxHVHZEWVBhWE96V20xeWE0dXQxMzgwLU8zRjl1ZUE0RksyM0NlQ09vUWxWd253bGpRV3dBTXB4ZE9xMVB0LWFjUEtVWkhZRW00dk5rdVNMY3A1dUZzbXdwdy1SWVVydDU0RQ": 1794158735228
+    "news:CBMiyAFBVV95cUxPOG5BclF3ODNyZTM0aXVQcjlIdHAzTjBPRndvUjhBUXJtbkU5VXpteWJCS0JTanlkelNIMVltZVJlcC1WVXVVLUFCMlVlSnFXbU5Ld0llY0lRZm9fM2dmWkItQUQtYkxHVHZEWVBhWE96V20xeWE0dXQxMzgwLU8zRjl1ZUE0RksyM0NlQ09vUWxWd253bGpRV3dBTXB4ZE9xMVB0LWFjUEtVWkhZRW00dk5rdVNMY3A1dUZzbXdwdy1SWVVydDU0RQ": 1794158735228,
+    "threads:DffS8WdOOf0": 1794159048103,
+    "threads:DffS9UDDzmO": 1794159048103,
+    "threads:DffS6izlkw4": 1794159048103,
+    "threads:DffSnl9kShd": 1794159048103,
+    "threads:DffSmyqGz5k": 1794159048103,
+    "threads:DffSlZPG8NS": 1794159048103,
+    "threads:DffJgpBm5yN": 1794159048103,
+    "threads:DffR8tzE0rl": 1794159048103,
+    "threads:DffRsewj08T": 1794159048103,
+    "threads:DffRqxKDyRC": 1794159048103,
+    "threads:DffRqMuk5-0": 1794159048103,
+    "threads:DffRghemqQX": 1794159048103,
+    "threads:DffSk1NoM98": 1794159048103,
+    "threads:DffSB2Eo2OC": 1794159048103,
+    "threads:DffSBzqAgSK": 1794159048103,
+    "threads:DdTuja-D5_o": 1794159048103,
+    "threads:DeEpwswD29y": 1794159048103,
+    "threads:DffTH4eHyoa": 1794159048103
   },
   "digest": [
     {
@@ -29048,10 +29055,20 @@
       "d": 1794158440000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zurrayusally.a",
+      "x": "[Kelas Gratis] Belajar bahasa korea dari 사자성어 🥰🥰 #한국어 #사자성어 #수업",
+      "u": "https://www.threads.com/@zurrayusally.a/post/DffTH4eHyoa",
+      "d": 1794159091000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
