@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMi0wFBVV95cUxPRF92aGFxaTNtcGJHWnpQUi14OUdXT1VjNG9xRnBLTlNxYllDQjdQeUxDZkwwYzdkWFJYcGdITkl1T3laT3lkZzhwcWxVdVMwRHFpWFhDSkN0NVp0R09URGVqSVhvSDhyZ1lBVUJNZDdBdEs4c1kyUTFJSnpQVFItNG1mTlhBMDI3bnVzTzVreUVPVmt1NEFsRmxyanAwOGRXcHFvZDdodnBMNW1lUFdtdXBKdkU4QkV5UEREeUlCZEFDWnpRVTVaRWo5TG5rTnd2VzMw0gHTAUFVX3lxTE9EX3ZoYXFpM21wYkdaelBSLXg5R1dPVWM0b3FGcEtOU3FiWUNCN1B5TENmTDBjN2RYUlhwZ0hOSXVPeVpPeWRnOHBxbFV1UzBEcWlYWENKQ3Q1WnRHT1REZWpJWG9IOHJnWUFVQk1kN0F0SzhzWTJRMUlKelBUUi00bWZOWEEwMjdudXNPNWt5RU9Wa3U0QWxGbHJqcDA4ZFdwcW9kN2h2cEw1bWVQV211cEp2RThCRXlQRER5SUJkQUNaelFVNVpFajlMbmtOd3ZXMzA": 1792915252020,
-    "news:CBMiWkFVX3lxTE93a2tpTmoyTVAwY01ob3JBRW0yVkRuUk8xNVBxLXZpSkRfVmFOdFVDc25pTHVGU0ZPS1Bvd2tpakp5RC1IN0xIY21ZZUJWWUtpWWdtbm1TR0JqUQ": 1792915252020,
-    "news:CBMiuAFBVV95cUxNREFwenF3bmJYZm0zZXFBODhzbExkRWo3a1lEWjgwd1dhNlFuU3FIVEhjLWhObFJjWVpOM3kteUJPU1V1ZE41cGVVbDZMdGFzQVF0MFRWdWk3MmVlQjRTZ05uaWwyV1pRRGdZNUREbzQxN01qSjE2VEd1eGNrd2pIMnRLUy1DQzlrM3dRZEpGQUxCNlBwX0t4d1dCTVFTcnZFelB1azN3MERKNW8xTTlfX3J1bWhFRkND0gG-AUFVX3lxTE9DVkZBeFRjVEJtUXhGRGJRVXpkOExSSGcxMkFhTEFmYzVIVURHai0xcTdRelhXVDBfSGZHOVdkcENZZVMxVEV2eUY1a3pkazZTMmpXRk5RQ1pmQzc0TXdaZ2lLVFNCeDBMM0Y5amRrS2ZaaXFSVno5QmE3UWpSYkc1TFFjN2FZYjZSWHVaa1pUZzNYVnZwaFlod002WnBxVW5BTmZLZVNjYnd1d2kxLWJMZmt0aUxQQnZUOWd5WkE": 1792915252020,
     "threads:De6OhK0lAUT": 1792915544826,
     "threads:De6OeXjD3wO": 1792915544826,
     "threads:De6OM8ukgls": 1792915544826,
@@ -27612,19 +27609,10 @@
     "threads:DfeQysdDwHU": 1794124250727,
     "threads:DfeQwKDD5gB": 1794124250727,
     "threads:DfeQAKkDz5g": 1794124250727,
-    "threads:DfeP9vhjxA4": 1794124250727
+    "threads:DfeP9vhjxA4": 1794124250727,
+    "news:CBMiogFBVV95cUxNcmxzVGVnTlBHdXB3YnRKUWxuMXJLV3VOSjdabjZHUl9weWt2Sld6VDMtNkYtdXRTWjlaQ3V0RjZjZTR3alY0M3lvWjJWZlNUSTlMUXRNNUNQUUh5TnBEd0U0NUx3bjRCeFNXWnItU2xaazZOUjEwSUFVV1g4ZnJCWm1kb3I0VzMySFlQdndNRFRVTFRRczNYOFVBU3V6Z0RXeWc": 1794124853613
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rara80451",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@rara80451/post/DfdrlKYmtV6",
-      "d": 1794104802000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29114,10 +29102,20 @@
       "d": 1794123878000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "garuda tv",
+      "x": "Pemerintah Tambah Bantuan Bedah Rumah Bogor, Penerima Bisa Dapat Sertifikat Gratis - garuda tv",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmxzVGVnTlBHdXB3YnRKUWxuMXJLV3VOSjdabjZHUl9weWt2Sld6VDMtNkYtdXRTWjlaQ3V0RjZjZTR3alY0M3lvWjJWZlNUSTlMUXRNNUNQUUh5TnBEd0U0NUx3bjRCeFNXWnItU2xaazZOUjEwSUFVV1g4ZnJCWm1kb3I0VzMySFlQdndNRFRVTFRRczNYOFVBU3V6Z0RXeWc?oc=5",
+      "d": 1794124803000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
