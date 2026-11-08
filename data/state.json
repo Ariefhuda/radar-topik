@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7mBYqH_nD": 1792961142787,
-    "threads:De7l0t_iNHP": 1792961142787,
-    "threads:DIx3Wj9RpCN": 1792961142787,
-    "threads:De7lnL4EyDL": 1792961142787,
-    "news:CBMijwFBVV95cUxOSksydmNNckNfTUwtZHZPTkd0WFBfakp2TFladVV1dFo2enAtZTZpZGlFSGwxcVZGemd1SGg1YnVIQVc2eUowTFYtTlBlbndYWTB0SFhEdWNTZWQtanh5OGJDeWJuZGhVY0dsZVBHREs2TlZITUQ4XzNVZHhZVHNUVTJaTmdqZXV3djZMSV9nRQ": 1792961142787,
     "threads:De7VX-Emcy3": 1792961741788,
     "news:CBMi4AFBVV95cUxPd0Nkd3RHcnJpM3hEWXJQME0yeWlEZDVlYUhDSk5EVUZ5YlhQRlhJV1ZnVWpkN3NDNHRxblVUNmRINmx3Q3VudElDZno2VXZsT2h6QTVrSnp3SDU0WkVZWE5qNVQtblFCa0xMdXJZU0dWU01NUHpxazViRHpHRFIweEx5NG9ldVlyalVkdUdYeDVyVmdEbks1Skl1OGhuT2QxM1dqOUUwb3dCeXhHUHJrUUdKNHE1dkpZUHhEb0xxNGNSRTBwa01EV2t5SV9UOHVlVWJBU3FEN29aUi1mT2ltdg": 1792961741788,
     "threads:De7nQCHGi7-": 1792962062448,
@@ -27620,19 +27615,12 @@
     "news:CBMiT0FVX3lxTE9Wb0Y5LUozN3kxdk5XSGVfZEptN3g1c3VvcDF0bU1jbExEWHE1NmtBclp4NTV0Uk9hWjRYSDJKOFk2MHBHSDNJV3A0dlJlUjjSAa4BQVVfeXFMUHYyQWkxWWxLTUtkOTE1ZEZkWk03RkZ1T255TS14UnhRN0xaOEtoMkhoU2d1NmJlbF9jVTZYSnJKVkxic3RKVnZPQ2dXS3N5MEVTRE11aGdOWFJVaHhQRE4wd2hZV09HS2JQMzJXRV85ektyd0wzVmkyWkVtS1ltR19kSGdaa2NBTm5wYUo0NWo0NEFGODh4Ty1JOTdsd3QwME9XNUtrU0VZdGhPa1dR": 1794170140716,
     "threads:Dffo84fmp2Z": 1794170440828,
     "threads:DfflDValEfl": 1794170440828,
-    "threads:Dffk9BdlHvY": 1794170440828
+    "threads:Dffk9BdlHvY": 1794170440828,
+    "threads:DffT75qGyQK": 1794170737457,
+    "threads:Dffn2YviAub": 1794170737457,
+    "threads:DffpHtJEoC4": 1794170737457
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "شبكة تواصل الإخبارية",
-      "x": "LPDP Buka Peluang Beasiswa S2 bagi Pelamar Lintas Jurusan - شبكة تواصل الإخبارية",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJMHllUFRNb2luQzYzZ2NwU1lMV2w2ZmRJRXNUb203bFM3NG5oMUJzUW1Zd0kwRUZXZEo2SDhsNkZ4YUtnajRxaWZ5VmdnTDFXbzBB?oc=5",
-      "d": 1794103976000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -29122,10 +29110,20 @@
       "d": 1794147569000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ekocuan1",
+      "x": "Wah, ga ada loker kak, coba belajar affiliate aja Kalo mau ikut webinar gratis bisa daftar di sini ya https://akses.zoomdaging.co/aff/93169/2370/",
+      "u": "https://www.threads.com/@ekocuan1/post/DffpHtJEoC4",
+      "d": 1794170621000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
