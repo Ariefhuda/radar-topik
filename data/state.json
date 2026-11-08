@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5s63Cj3HY": 1792897540665,
-    "threads:De5sHynEnxI": 1792897540665,
-    "threads:De5tD0viBv8": 1792897540665,
-    "threads:De5s3Xbk6zM": 1792897540665,
-    "threads:De5sRTJG9Sy": 1792897540665,
-    "news:CBMivAFBVV95cUxQZmdYZ1hMa0lUaG9peWJvSVdiSVAzMFNlRkJ5TVJJdFF5eHBtVmEyenJoZXNTQ19QcTBjdnVtdGc5NzJnbFg1WV9SVUxTQl9vUFQtQl9iSTVoVlJGVWRRX3ZDQ25TMXlnQ1BQeFN0d2ZBaDVnakQ2cnRma0xsWUhCbHFIZFYwSXBoRFdDcmZOX2dEQWpiV3hfUmhwX3dUMnZXdTMtS3YtLWxOSXc0Wm9SY3huaGQxZmg2R2dvYw": 1792897540665,
-    "news:CBMiakFVX3lxTE1fZEhIVUJPWVNXM2FDS2ZDRVc2V19YQlFsejg0bURkOW14R1c3YzV6em5uVUxEMzJJdC0wN0paUWdubzNHMHdhdGxidXN6RzhoR3FEdXRGRmRfVy1tZExwR3MtenRKY2kzR2c": 1792897540665,
-    "news:CBMirwFBVV95cUxQLXZrY0NIN2tGZDhEaVA4NXFSdlhGWUVpNlhvcV9UcVRNVW5zZlJqa1Q2SEFzR0kwTHVjRkJzVTBDcW5ieG9mRUdtWUVvUDR6ZGN6VnZ6RnhGVFljZU9YanlpX19jRlB0Q1JEZU1SNDlsTGk4U3NHV2ZRb3pKUXV3Wm5CSHFsclVreVYxbTM0UVhwMnE3ZWhWNjl5ZnkyZlJaUkNJYTQ0bUZObXFtRkx30gG0AUFVX3lxTFBNcVF1Y05LWjRUdERUN2F1aFJLOHpaR0NWNTRISm9YRGFVLXB6czFmS3d2cTQyVlM0NnJVYXdpUTk0ak1QWnRKYWVJTjlrajRXT1hBZ3JMOGMwQzVxOHNCTE1HbXlGSFhVcjlnaWduRC1FeTBFU2VUQkFBc2JVZXoxdVdMeHdxUFI1MGFuY0R6TldYVDF5aWZTaHQ2Rm93UWd6UUk4SzdJdERRR0xWN2NXZWxoaw": 1792897540665,
-    "news:CBMiwgFBVV95cUxQZF9qLThHSHlkMHQ3UnlIZFpKVW02X1BzSl9sbjFUYWVNRHJfZ1RBUWFtRE1OWGZYdUNtX3VseUtHNnY5ejM3U2NLeDNhb3pSMUNHRVd4N1BzZ0hHdmtHVWllY1JVZURHN3dHbTNSdkdHMS1kTlpoaXFTQVM2NTRNTlp4OW42UExGc01ra1VzMXhFcE9OdFVvS1F4dmVpRm1jelBPa2VGTmdXd1YtSUhtMkFsaUpwRkt0MFpVSk9wRFpZZ9IBxwFBVV95cUxQX3dtRndFUGJuNFZEd1VhcjFza05vRGhNQ0JlVXhHTDhrYkNWN2NsTXNSSXd1UjFReW9CQjdfdFhZckFxZTZrMF82MW1UNEpQNWEwZnNiVmlNTGtBdGpTbGpOQl9iaUZIc0xCc2ctVGY5d01RSW02YUM3ZGhKcDNaY01rNXF2NklkTWhfcG1oRTVwczJyLVRTNXJmUUs1dmpha1g5eFRHdzdmYXJLNzNxblBLNmRVNnZSU2U4Yk5BMkdBNGUyd293": 1792897540665,
     "threads:De5ssTngdK_": 1792897849262,
     "threads:De5tVIDmk6m": 1792897849262,
     "threads:De5szT5mJ6y": 1792897849262,
@@ -27664,7 +27655,12 @@
     "threads:DfdvpJdD7re": 1794106849155,
     "threads:Dfdvjv6ke4E": 1794106849155,
     "threads:Dfdu_niP8OM": 1794106849155,
-    "threads:DfdueOMiKE_": 1794106849155
+    "threads:DfdueOMiKE_": 1794106849155,
+    "threads:DfdvtDShMts": 1794107140183,
+    "threads:Dfdvcj3AV14": 1794107140183,
+    "threads:DfdvcxgD7Py": 1794107140183,
+    "news:CBMid0FVX3lxTE5vUG1oZjVJV05aNzJNZDNOQlRhNVJsZjlGT25Fd2NORU42Nk5IN3JuTkUxSWU3UTFxZUhKMlZNTnVnR056N0MtNWpqMHBqTlA0VG5DNG42MWxCaUV5Y29udEZGV2FpX2NyVVhiaWNyR0VmbEF5b3dn": 1794107140183,
+    "news:CBMiuwFBVV95cUxQZXZfMlJ6bHR4NWozWlFUSkowbklweEVkMzRQeFdpSWFFVTItczlpYW5jVld4VFpMc3dDZlNGU2trUkJCcEZySkV0QnM1UENlbGg2WnJ3UklIbFYxcktLYTZtS1F1NjB0RmdrVmNLdW96SE5MZ0hWT2FwdUxWN0hZZy1LSkZtclVGRTdMMmp0LTYyUGczNjdFMmZDLTNLNXM0bVhFUDFEU3NQREFzeG9tUUZYbnZxcTk4bjlv": 1794107140183
   },
   "digest": [
     {
@@ -28156,10 +28152,50 @@
       "d": 1794105966000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ditekindo",
+      "x": "Mau jadi web developer tapi dompet lagi kosong? freeCodeCamp kasih kelas gratis plus sertifikatnya! • freeCodeCamp • Mulai dari HTML • Kerjakan Project • Belajar Konsisten • Gabung",
+      "u": "https://www.threads.com/@ditekindo/post/Dfdvcj3AV14",
+      "d": 1794106829000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@idr_tan22",
+      "x": "Faktanya di LN harga pokok naik pak skrg, bbm krisis diluar sana, warga SG pun berbondong beli bahan pangan ke Batam. Bantuan BSU bentar lagi cair, cpns dibuka apa ga coba? Atau se",
+      "u": "https://www.threads.com/@idr_tan22/post/DfdvcxgD7Py",
+      "d": 1794106831000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Genz.id",
+      "x": "JBL Authentics 30, Speaker Bluetooth Berdesain Retro - Genz.id",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vUG1oZjVJV05aNzJNZDNOQlRhNVJsZjlGT25Fd2NORU42Nk5IN3JuTkUxSWU3UTFxZUhKMlZNTnVnR056N0MtNWpqMHBqTlA0VG5DNG42MWxCaUV5Y29udEZGV2FpX2NyVVhiaWNyR0VmbEF5b3dn?oc=5",
+      "d": 1794106996000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Poskota",
+      "x": "Cara Cek Bansos November 2026 Pakai NIK KTP, Simak Langkah dan Kriteria Penerimanya - Poskota",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXZfMlJ6bHR4NWozWlFUSkowbklweEVkMzRQeFdpSWFFVTItczlpYW5jVld4VFpMc3dDZlNGU2trUkJCcEZySkV0QnM1UENlbGg2WnJ3UklIbFYxcktLYTZtS1F1NjB0RmdrVmNLdW96SE5MZ0hWT2FwdUxWN0hZZy1LSkZtclVGRTdMMmp0LTYyUGczNjdFMmZDLTNLNXM0bVhFUDFEU3NQREFzeG9tUUZYbnZxcTk4bjlv?oc=5",
+      "d": 1794107137000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
