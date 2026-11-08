@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De69e_WGd1O": 1792939847387,
     "threads:De69N3tmEiv": 1792940139752,
     "threads:De69WHAH-Tz": 1792940139752,
     "threads:De69njlGuOp": 1792940139752,
@@ -27496,7 +27495,16 @@
     "threads:DBKUy91TQVC": 1794149141168,
     "threads:DffASGamxxD": 1794149141168,
     "threads:DffAOgNiB6f": 1794149141168,
-    "threads:Dfe_hEOIJLC": 1794149141168
+    "threads:Dfe_hEOIJLC": 1794149141168,
+    "threads:Dfe_0u6lLCi": 1794149439005,
+    "threads:Dfe_qIiEXnC": 1794149439005,
+    "threads:Dfe_mKfke_G": 1794149439005,
+    "threads:Dfe_jfsEVY_": 1794149439005,
+    "threads:Dfe_WBgERHl": 1794149439005,
+    "threads:Dfe_PIxkckb": 1794149439005,
+    "threads:Dfe-4umkYJf": 1794149439005,
+    "threads:DeIUmbsE9pz": 1794149439005,
+    "threads:Dfe_bUDGSvz": 1794149439005
   },
   "digest": [
     {
@@ -28398,10 +28406,80 @@
       "d": 1794148145000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau kak? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja kantoran buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan bela",
+      "u": "https://www.threads.com/@thegrown.energy/post/Dfe_qIiEXnC",
+      "d": 1794148883000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau bun? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo bunda mau yuk samaan belajar+prakt",
+      "u": "https://www.threads.com/@thegrown.energy/post/Dfe_mKfke_G",
+      "d": 1794148851000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau kak? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan belajar+prakt",
+      "u": "https://www.threads.com/@thegrown.energy/post/Dfe_jfsEVY_",
+      "d": 1794148829000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau kak? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja kantoran buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan bela",
+      "u": "https://www.threads.com/@thegrown.energy/post/Dfe_WBgERHl",
+      "d": 1794148718000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau kak? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja kantoran buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan bela",
+      "u": "https://www.threads.com/@thegrown.energy/post/Dfe_PIxkckb",
+      "d": 1794148662000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@thegrown.energy",
+      "x": "kalo affiliate, dropship gitu mau kak? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan belajar+prakt",
+      "u": "https://www.threads.com/@thegrown.energy/post/Dfe-4umkYJf",
+      "d": 1794148478000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dulunyakriwil",
+      "x": "Kelas Gratis Mat Pilates hari ini. Karena dadakan jadi Cuma 4 orang. Tapi feel nya masih seru banget & tetep Pedes ❤️‍🔥🌶️ 🥵",
+      "u": "https://www.threads.com/@dulunyakriwil/post/Dfe_bUDGSvz",
+      "d": 1794148762000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
