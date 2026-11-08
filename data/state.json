@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMikwFBVV95cUxOZWo2Q3JGSkE4bXZGaXVybkQ3SWhCeWR6ODUzMWFrQzJ3RGtHSmJwQmpPYXVEaEUtX0hvLVViTGJMN3M3aVdlM0NaUmpGSTB5WXBNczdlYWVjY09qdzNIdlVTRDdPWFRBMkNISHlYQUUzMlQxWUZCQXcxZmc5cUVtTnlId0pETjRaWFZhQ3ljb2c4Zkk": 1792967449997,
     "threads:De7x7jmEztm": 1792967741455,
     "threads:De7vR_4HWF0": 1792967741455,
     "news:CBMiiAFBVV95cUxPOHE3SHNYRXlPeGsxaEpmdU5jUzBLWGV1ek9xN0dCang2SVFMa1ZhVGc4V2FMWWRVSFVhRWdKSFFqZm9TQzZwc2ZHT1M4ZWFzc3lWQng1SmxINmNWeGVtQXBrZGNWRzExT2xxSHNRQXQ1WWVhMkRzY3NVWTFPYldINDlXZHBXN3FN": 1792967741455,
@@ -29106,7 +29105,7 @@
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
