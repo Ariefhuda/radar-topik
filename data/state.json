@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6cIVhmWlw": 1792922452369,
-    "threads:De6b7apGQAR": 1792922452369,
-    "threads:De6bu7nmQzj": 1792922452369,
-    "threads:DeddNSjE3vU": 1792922452369,
-    "threads:De6cZRxAuQy": 1792922452369,
-    "news:CBMiuAFBVV95cUxPY3A3YjdVR0FxMXR6QjlJMnJsUjItcmZ1TUUxVzVEdmR4QXAxUUtqYTJWWV9FZE1MUmNJbXFJZWFxelYycUVhbXhKLVpuRzJMdEpBbzZ6QU1pSmRoaldIOVQyVHBjNjNSMV83ekhDLXUxdlgxTm9JbzI1UDVpSExOVVZxZlhQS09jS1hfMFZIM0xYb0JLUzM3TkVqRVFoaGwwZ3VDTGh5VkhiNk1jc3N1ZzRwZWFaNGtX": 1792922452369,
-    "news:CBMiigFBVV95cUxNakl2d2hTNzFTQUhCME1VSjFDc19zWmd6U3dtaWUwVGFoVkdiVFJoM1g5U0xtUHBnUmY0TVNtM3pUZEQtY1dwcmhvRlZvZGFBUFVCVXBTUEdOWHNDcFBQMlVyM1lTMnNwNlg1TEh4eXhVQm5KdXJ1SFJsRDhEN3ZuWTZmRFhIQm44Mmc": 1792922452369,
-    "news:CBMiuwFBVV95cUxQT3dZZlhCMHhWd1pZZk8yTUszLVNFOWhLSERmYmVIRk9CWC1xS1BpUkotUUdPQzlIOWRRWC1aU3VKUVlOLVdheWlhOFZfXzdBWTZDbkJWMTFLRW1DVVctSUYwdzNqYTN3S09HbllXTF9oMTJja2RaSnVxa2V0bHJEM0l2Z1oxWndOMXU0bWl1QTZMYmQ1ajQybGJXNjUyVlZTMjRhcDZ2V0tsQ2Y2aC1iak43UU9jUHJ1c1J3": 1792922452369,
     "news:CBMia0FVX3lxTE9Odjh4NDdsSU5UV2JiSE5xblYzVXpkN25XM2kwdG9RR0pRNnhmUm9YQTJqSkstXzQyN1U0N05tZEdwcGQzejhqaGo3WUR1MmZ4aFhydVk1X3RyOXExbTFEN2tpT2tlMFZrODhn": 1792922749119,
     "threads:De6dUhWmOI3": 1792923049554,
     "threads:De6deoQkUxc": 1792923049554,
@@ -27564,59 +27556,24 @@
     "threads:DbxXauaIO9m": 1794131442558,
     "news:CBMipAFBVV95cUxNYUlrSWxZNDdrVTJER1J2SUw1Sm1YRHJGUWlRZm5XXzJSRGVPVlZjN2ZGVG1fdHRrUG9Xck9rc1VPUkc3bWxpdFZwdnIwaC1fb2U5YmlVcTh3b3FlQTN1WGFHWllETUY5NkZjSE55U0JaZUJ1dWlWZGtWYWJnWVUwcHpxZHYzVXJkNDc5cXNHQXpjM2ZYaHZjdDRGZGZ6LTJTYVpldQ": 1794131442558,
     "news:CBMi4gFBVV95cUxNUFZDRVlzSHhGV2hQNkp3Q0NURUdYY1NNRGlvUUJLNmoxczU0NVFLQjd3d0hJT2M2RHFfaWlTbHFlVkJVOUFpYWh4dmEtX2JtcUNoZTRqWVlJUTM3NW5NVXUyTHRzZ3JMSGJKa3BPeC1TRUVTZjZBdHR4eGxpbG9fRXpSUTBlVDNCNzdIVjhLNnNjT25iRVRjZXNTeDV6SWlyMUhXSmNaSFFyRFpqZUEzTHlvamJDYXZXOVRrZEQtSFRQU1Q3TVgwV1pkU2J5cEx5SWlyUjd1TXRQZ3F6SVZmREV30gHnAUFVX3lxTE94dTBUUVNNSmx6YVdrbTNTVlFYYkhtek5PbGJ5MzUzc0wyY3cwLWs5MW92TzJnLS1QOEFORlJhaUtScFQ3dkxtUWR5SE15ZGlYM2c4dXdpZTJjTmNXbHByYlctN1RpQ2hhVEFKTDNFZ1BrMDJ5bFlvWGYtS2N5RUFjNFpWSml3aWNxOWRBY21ESy1KbEllTEZ0Tkp1VW8tRHQ0V2VGa05qb1ZkYlI3Z2RLOG1uMlAwWHBiVUhjeDFfX1BGaEl4c2VIQTByQjI1dXlPQnUtanUwblJnZHhwLWY4cGV5d0lfaw": 1794131442558,
-    "news:CBMi6AFBVV95cUxQZlFxV1RTNjEzajliMzNwdENsYmQwTmdnbFJDTWpWTzgxVl90UjE4MEFjV1JmZTA5TWFUSmVLV3hTZlZNdUt6alJ3ZEd5OEdRODFkbHpFakZyaW1iYkNlVlJ6TXBfRUY4bEcybmxvYTJ0UjJBUUhJRUZONW9QZi1JTURDczFQbkd5Zld0emdSTk9BZE9zaThGTEVJeEdXZXJ0XzRjUEFXdDg5OXV2SnVUbUFWQ2lEWXAyRWxhcWJOZF9uRFRPRDNkdGJfQnVua3JTQWlEZ0JvMjM5blAxcjZEc1c1OXppS0c10gHoAUFVX3lxTFBmUXFXVFM2MTNqOWIzM3B0Q2xiZDBOZ2dsUkNNalZPODFWX3RSMTgwQWNXUmZlMDlNYVRKZUtXeFNmVk11S3pqUndkR3k4R1E4MWRsekVqRnJpbWJiQ2VWUnpNcF9FRjhsRzJubG9hMnRSMkFRSElFRk41b1BmLUlNRENzMVBuR3lmV3R6Z1JOT0FkT3NpOEZMRUl4R1dlcnRfNGNQQVd0ODk5dXZKdVRtQVZDaURZcDJFbGFxYk5kX25EVE9EM2R0Yl9CdW5rclNBaURnQm8yMzluUDFyNkRzVzU5emlLRzU": 1794131442558
+    "news:CBMi6AFBVV95cUxQZlFxV1RTNjEzajliMzNwdENsYmQwTmdnbFJDTWpWTzgxVl90UjE4MEFjV1JmZTA5TWFUSmVLV3hTZlZNdUt6alJ3ZEd5OEdRODFkbHpFakZyaW1iYkNlVlJ6TXBfRUY4bEcybmxvYTJ0UjJBUUhJRUZONW9QZi1JTURDczFQbkd5Zld0emdSTk9BZE9zaThGTEVJeEdXZXJ0XzRjUEFXdDg5OXV2SnVUbUFWQ2lEWXAyRWxhcWJOZF9uRFRPRDNkdGJfQnVua3JTQWlEZ0JvMjM5blAxcjZEc1c1OXppS0c10gHoAUFVX3lxTFBmUXFXVFM2MTNqOWIzM3B0Q2xiZDBOZ2dsUkNNalZPODFWX3RSMTgwQWNXUmZlMDlNYVRKZUtXeFNmVk11S3pqUndkR3k4R1E4MWRsekVqRnJpbWJiQ2VWUnpNcF9FRjhsRzJubG9hMnRSMkFRSElFRk41b1BmLUlNRENzMVBuR3lmV3R6Z1JOT0FkT3NpOEZMRUl4R1dlcnRfNGNQQVd0ODk5dXZKdVRtQVZDaURZcDJFbGFxYk5kX25EVE9EM2R0Yl9CdW5rclNBaURnQm8yMzluUDFyNkRzVzU5emlLRzU": 1794131442558,
+    "threads:DE6Uc6tTR5g": 1794132053928,
+    "threads:DY6tUpikmvy": 1794132053928,
+    "threads:DcM7phAAflY": 1794132053928,
+    "threads:DfefKVTEynt": 1794132053928,
+    "threads:Dfefkhkk3bE": 1794132053928,
+    "threads:Dfefezhmooz": 1794132053928,
+    "threads:DfeeldUjDSB": 1794132053928,
+    "threads:Dfeeg15gRim": 1794132053928,
+    "threads:DfeeucYGmKB": 1794132053928,
+    "threads:DfeefnEk2RG": 1794132053928,
+    "threads:DdyIetbk2y_": 1794132053928,
+    "threads:DZAjB_qkiGc": 1794132053928,
+    "news:CBMi_gFBVV95cUxORHRKdUQxelBnYjhXejQyNzBCb2IyTHZnWEhrTmtjU3lLcWVfODBzM2tCLTVmeEI4bUR6RzJySjNDWlhCRzBnYWVsNlJaMVpBVTU5Ym8zX1VmZTRwcjBKYWZPQi05ZWNwVS1YZTlNaGtQWk05OGZObHRPcG15eHRzTXpjVmFRcXh4dWJ0VkNic0VRLVc1TjEtVTgtVzBIQXBVRXVRTE1sNEU4SFgzNEE2dzFXUlZWcTVzSy16WWFLS21xNjdhM0tzZUU2clRoWkdMR040LXgzRGZudHM3WFYtTGFnNi11YkNBSEk0VEJZT1VDcFNrRVJHTklTUnVkd9IB_gFBVV95cUxORHRKdUQxelBnYjhXejQyNzBCb2IyTHZnWEhrTmtjU3lLcWVfODBzM2tCLTVmeEI4bUR6RzJySjNDWlhCRzBnYWVsNlJaMVpBVTU5Ym8zX1VmZTRwcjBKYWZPQi05ZWNwVS1YZTlNaGtQWk05OGZObHRPcG15eHRzTXpjVmFRcXh4dWJ0VkNic0VRLVc1TjEtVTgtVzBIQXBVRXVRTE1sNEU4SFgzNEE2dzFXUlZWcTVzSy16WWFLS21xNjdhM0tzZUU2clRoWkdMR040LXgzRGZudHM3WFYtTGFnNi11YkNBSEk0VEJZT1VDcFNrRVJHTklTUnVkdw": 1794132053928,
+    "news:CBMi2gFBVV95cUxQUFBuX0ZWamdJaUNqS3BOOHU2emJmMVEtUGxWaFpmdXE2dkZERUpBLUtieXlzUDRyWmFnNmFFT1Y2SEo4NUJfU0JVQ2pXOElQbDBncGVsd1ZtR2Iza3JNNDV6YV9aWE01bkV5UTJ3TnFEcGNTTWluQ2YwdHZuSUFCbVVKS044MmpaejJaTklpUVVIeDZrVnNzU3JKdzBzUEZtQTIzbUsyc0Fhdlo4Vl8ySFFLY0kybTRhc3J0bEFDVW1ZSGRsUzdhRzdaSUxPVEZ1SXA4dGVnaTgzQdIB3wFBVV95cUxPbllscG5qYWQ1QXZMbjNGOHRRaVlDRjE3X0FkNHJkVTQ0T2RzVmp3anRfWHBDOEJFeHZhVzZYMlZuZEhBZ2NSZmgzUHVYUXQ2R2Y2Vm1WUGdZMHkwMFpEWU1BLTJORTZrLW1SX2d3MmktRl9yV3BGeXcxV1pFYm1UWk5aX2xKTWx5bmktLV9wYXVJTU1uM3FRenNKM1g2dFZkcE4yNl8yYU9PcmZGQ19lb1BzMDBnVVpBbWI0Njd2dFJyWnduT2FWdzVVQXFEaWc3OVZhYkV5WjQ3NmhsOXpJ": 1794132053928,
+    "news:CBMivwFBVV95cUxOWWQweUg5NmpFcXU2cE9hcUI0V2dnbGhIMkVNV2lEV2F3N0dfdVl3N1ZfMzgwRVdaRFJ3UU9tbDc0eEE5ajJLUVN6dGZfdE9lakNSa2FyejR3RTF3MllVYVd2cDBweld3NzZhaFJNYXhOaVFuc2ZBeTd4TWZPNFhLUXV6NTBJdWZHQlJyLU85TmhxaDgzYV9SUk1DVWxWZ0hXVHo5WUYzaHZEbW5YNmU1aFY5amZCRXRQMWwtR1Nfa9IBxAFBVV95cUxNNnFaTXB2TlhOS3NYVjlLUmlyZUpqZTNyVk9aMWh6ZzhKclhUQmtHU21nQ1N6ZzFxQnF2WW0tQWRwZFdlOXlPNi1XUTExTnBTcWVWOFQ3bUNvSUhvRXZMVXFpVFRJT0ZQRjVJdnpldnJhbzBCZU5lcHYwRXpWTEd6THpsQTk4Sm1kZlRCZUttb3dlQk5LZzJjME4xbEtyaDh6TEdmMmh5MEtDclNPRDltZnIyWFpqYXZBSjBFMENzMDlocnI1": 1794132053928
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Sertifikat Tanah Masih atas Nama Ortu yang Sudah Meninggal Rawan Sengketa! - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3dTQ3ZpWUtTVmhoVDlJOHRRWlFkOGFKX2R3eC1ZQUFMVzJjZzNuQ2hQVnVhZXZIZFRkOEQ2ejA3MWpmQXlVOFZlYUN1SXR1eGpZNFpSNlBHMEhsVExvdnZJMmZEMW5rMWJEU2UxNGQ2LXNjbmlkY3JqZDFfNkJvWXRRY3E3NjRFVDgyMFF4NTlYRDRqR1Qyd2IzR0N2RVN6dnZjdFROYW9zclJRQllXVWg0YzctV1FkY2ROMDRNMlhJSEs5Ny0xV3EyM0jSAdIBQVVfeXFMTzJsNjVyX2lKbEo4Y3RZYThhbXVMWkFNWDdEck5OV1F5cVBMcWxhNTFVRTBtVVJnYWM3anlRUEtfSlZzczh6bDJ0aE4tdlVmXzVJM2lDS0owMmhvaGtacl91VVk5NHlNRkN2anEzYTJfckF0UEJ0X0pQQlRzV2VkUmhyT29hR1lxTkoxTEhmRTZTS1g0cjUwMnIxVlptMUFFN1ZFWFhZR0ZCQkJkdDhQbmVDQzBiQ3NPdi1vQ0dZR1pMZVBYWGNZS1VYSFdfbjF4Z1hR?oc=5",
-      "d": 1794111412000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nur.hanifah.ahmad",
-      "x": "2 kali milih jokowi, dan 3 kali tidak memilih Prabowo. Oya pas 2 kali milih jokowi, aku pernah ikut seminar yang membahas jokowi. Itu seminar gratis, di hotel, dapat seminar kit ya",
-      "u": "https://www.threads.com/@nur.hanifah.ahmad/post/Dfd5BjtoxhY",
-      "d": 1794111850000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@muh_imamsyaf",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@muh_imamsyaf/post/Dfd5X9QH2sX",
-      "d": 1794112034000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@muh_imamsyaf",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@muh_imamsyaf/post/Dfd5SxwkSJW",
-      "d": 1794111992000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@mukho.fifah",
-      "x": "Bawa kk ktp aja ka sama hp si nanti diarahin buat perubahan data online lewat cek bansos jg",
-      "u": "https://www.threads.com/@mukho.fifah/post/Dfd5pkjk7ik",
-      "d": 1794112178000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29066,10 +29023,60 @@
       "d": 1794124494000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tribappeda",
+      "x": "Asalamualaikum sslken yuk kak Saya lagi dikasih kesempatan buat ngundang teman\" utk belajar bareng yg ada mentornya yg ngarahin dan ngajarin lewat webinar gratis, klu kakak mau nan",
+      "u": "https://www.threads.com/@tribappeda/post/DfeeucYGmKB",
+      "d": 1794131617000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@taro17732",
+      "x": "Pengen nangis tapi ga bisa, karena kebodohanku sendiri. Umur udah 30+ nganggur. Pengalamanku banyak tapi aku nol besar kalo buat komunikasi. Sekarang lagi ikut pelatihan basing gra",
+      "u": "https://www.threads.com/@taro17732/post/DfeefnEk2RG",
+      "d": 1794131495000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Lampung Insider",
+      "x": "UTI Gelar Pelatihan Puisi Dwibahasa Gratis, Terbuka untuk Umum dan Berpeluang Terbit dalam Antologi - Lampung Insider",
+      "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORHRKdUQxelBnYjhXejQyNzBCb2IyTHZnWEhrTmtjU3lLcWVfODBzM2tCLTVmeEI4bUR6RzJySjNDWlhCRzBnYWVsNlJaMVpBVTU5Ym8zX1VmZTRwcjBKYWZPQi05ZWNwVS1YZTlNaGtQWk05OGZObHRPcG15eHRzTXpjVmFRcXh4dWJ0VkNic0VRLVc1TjEtVTgtVzBIQXBVRXVRTE1sNEU4SFgzNEE2dzFXUlZWcTVzSy16WWFLS21xNjdhM0tzZUU2clRoWkdMR040LXgzRGZudHM3WFYtTGFnNi11YkNBSEk0VEJZT1VDcFNrRVJHTklTUnVkd9IB_gFBVV95cUxORHRKdUQxelBnYjhXejQyNzBCb2IyTHZnWEhrTmtjU3lLcWVfODBzM2tCLTVmeEI4bUR6RzJySjNDWlhCRzBnYWVsNlJaMVpBVTU5Ym8zX1VmZTRwcjBKYWZPQi05ZWNwVS1YZTlNaGtQWk05OGZObHRPcG15eHRzTXpjVmFRcXh4dWJ0VkNic0VRLVc1TjEtVTgtVzBIQXBVRXVRTE1sNEU4SFgzNEE2dzFXUlZWcTVzSy16WWFLS21xNjdhM0tzZUU2clRoWkdMR040LXgzRGZudHM3WFYtTGFnNi11YkNBSEk0VEJZT1VDcFNrRVJHTklTUnVkdw?oc=5",
+      "d": 1794128518000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Warta Sidoarjo",
+      "x": "Bupati Subandi Minta Seluruh Dapur MBG di Sidoarjo Penuhi Standar Sanitasi - Warta Sidoarjo",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFBuX0ZWamdJaUNqS3BOOHU2emJmMVEtUGxWaFpmdXE2dkZERUpBLUtieXlzUDRyWmFnNmFFT1Y2SEo4NUJfU0JVQ2pXOElQbDBncGVsd1ZtR2Iza3JNNDV6YV9aWE01bkV5UTJ3TnFEcGNTTWluQ2YwdHZuSUFCbVVKS044MmpaejJaTklpUVVIeDZrVnNzU3JKdzBzUEZtQTIzbUsyc0Fhdlo4Vl8ySFFLY0kybTRhc3J0bEFDVW1ZSGRsUzdhRzdaSUxPVEZ1SXA4dGVnaTgzQdIB3wFBVV95cUxPbllscG5qYWQ1QXZMbjNGOHRRaVlDRjE3X0FkNHJkVTQ0T2RzVmp3anRfWHBDOEJFeHZhVzZYMlZuZEhBZ2NSZmgzUHVYUXQ2R2Y2Vm1WUGdZMHkwMFpEWU1BLTJORTZrLW1SX2d3MmktRl9yV3BGeXcxV1pFYm1UWk5aX2xKTWx5bmktLV9wYXVJTU1uM3FRenNKM1g2dFZkcE4yNl8yYU9PcmZGQ19lb1BzMDBnVVpBbWI0Njd2dFJyWnduT2FWdzVVQXFEaWc3OVZhYkV5WjQ3NmhsOXpJ?oc=5",
+      "d": 1794102166000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "SigiJateng.id",
+      "x": "200.815 UMKM Jateng Bersertifikat Halal, Pemprov Bidik Pariwisata Ramah Muslim - SigiJateng.id - SigiJateng.id",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWQweUg5NmpFcXU2cE9hcUI0V2dnbGhIMkVNV2lEV2F3N0dfdVl3N1ZfMzgwRVdaRFJ3UU9tbDc0eEE5ajJLUVN6dGZfdE9lakNSa2FyejR3RTF3MllVYVd2cDBweld3NzZhaFJNYXhOaVFuc2ZBeTd4TWZPNFhLUXV6NTBJdWZHQlJyLU85TmhxaDgzYV9SUk1DVWxWZ0hXVHo5WUYzaHZEbW5YNmU1aFY5amZCRXRQMWwtR1Nfa9IBxAFBVV95cUxNNnFaTXB2TlhOS3NYVjlLUmlyZUpqZTNyVk9aMWh6ZzhKclhUQmtHU21nQ1N6ZzFxQnF2WW0tQWRwZFdlOXlPNi1XUTExTnBTcWVWOFQ3bUNvSUhvRXZMVXFpVFRJT0ZQRjVJdnpldnJhbzBCZU5lcHYwRXpWTEd6THpsQTk4Sm1kZlRCZUttb3dlQk5LZzJjME4xbEtyaDh6TEdmMmh5MEtDclNPRDltZnIyWFpqYXZBSjBFMENzMDlocnI1?oc=5",
+      "d": 1794051051000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
