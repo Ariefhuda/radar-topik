@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5cHlNE9hh": 1792889153359,
-    "threads:De5bvbpE9jl": 1792889153359,
-    "threads:De5cjREjzkS": 1792889153359,
-    "threads:De5cXSkCK19": 1792889153359,
-    "threads:De5bpIUCLHU": 1792889153359,
-    "threads:De5bI3uk-wc": 1792889153359,
-    "threads:De5bAJCEQQZ": 1792889153359,
-    "threads:De5ayH_FKyi": 1792889153359,
-    "threads:De5ajYCE1Hp": 1792889153359,
-    "threads:De5aJBrE0Dl": 1792889153359,
-    "threads:Dei_pvlifH5": 1792889153359,
-    "threads:De5csKyjAkE": 1792889153359,
-    "threads:DeyUWz9iBe_": 1792889153359,
     "threads:De5c6dYE6ZB": 1792889442503,
     "news:CBMiugFBVV95cUxPcENlTXhDZENNRTVyUi01eUE4VGk4NnpjbldZcTg0Q2plVE1VUnVpcXNrQjFEQVFKR014b0VyTXgtd0g3ZzY3YTk1X1FpQXJER1pSVWlpeHZpcUh4U1pZeE9hQXp0aTdSOFpQMUlIM1FBbVk4aHpmdmtrNTFPenVFQkdORFBDTE9nRzFhalZpdWhuMnlWaXFrYU54bmJsRlA0Q2dnbDdaNC1jc1Ffb3YtdENJWjNoWVNfWlE": 1792889442503,
     "threads:De5efrEkggY": 1792890056542,
@@ -27725,19 +27712,13 @@
     "threads:DfdeZjlj18x": 1794098131839,
     "threads:Dfdd2wYj6Ur": 1794098131839,
     "news:CBMivgFBVV95cUxNdkNfUEY4cmVNSkkycDVhSW1wNmRsOUdSSUdyc2hZSnR1M294cVFTbnR1bWdWdjh4SW5NV2NPdTdzMU5jSmNfdm5WWU9ET0FPbDlPSDRkdDFDODZpaGZEZlhKWDdXVkRJdkNCU213eEJPU00tRFIyeU10eTdiSlBqQlZ1LUl2Y2p1bmhrdkRiaGdqY2RRZHhPSnVWTEVXbGEtczA2dkUtQzlFU25fSWZyUjB1QU5LeTZNeGRKN25R": 1794098131839,
-    "threads:DfdfSjhgcTZ": 1794098446508
+    "threads:DfdfSjhgcTZ": 1794098446508,
+    "threads:DfdgBvFlJiY": 1794098741041,
+    "threads:DfdfhIVERlr": 1794098741041,
+    "threads:DfdfdTSAZsw": 1794098741041,
+    "news:CBMiY0FVX3lxTE5VWEFpdmwtZTJYRmlyclpPQVVHMGhvemVvVEltQmRHTlFJVkFZT21TM3JTS0QxSFNWLWp1V2RYalZZUHZMSVVuZjUwVjRzZUhKemlZOHMwcUo0bTVGVEFkWWtyUQ": 1794098741041
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@putrielcavi",
-      "x": "✨ *Raih Kesempatan Beasiswa Pendidikan di Sekolah Tahfizh Sahabat Quran (Boarding School)* ✨ Sekolah berbasis asrama jenjang SMP - SMA yg memiliki program Khusus dalam Hal Al-Quran",
-      "u": "https://www.threads.com/@putrielcavi/post/DfcWIn_n32a",
-      "d": 1794060005000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29227,10 +29208,20 @@
       "d": 1794032340000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "cwibc.co.id",
+      "x": "Kemnaker Buka Pendaftaran Pelatihan Vokasi 2026 Batch 7 - cwibc.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWEFpdmwtZTJYRmlyclpPQVVHMGhvemVvVEltQmRHTlFJVkFZT21TM3JTS0QxSFNWLWp1V2RYalZZUHZMSVVuZjUwVjRzZUhKemlZOHMwcUo0bTVGVEFkWWtyUQ?oc=5",
+      "d": 1794098042000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
