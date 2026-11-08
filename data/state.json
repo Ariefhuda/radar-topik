@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6PmLVjowR": 1792916140153,
-    "threads:De6QIoiEqLT": 1792916140153,
-    "threads:De6P8MYCEJg": 1792916140153,
-    "threads:De6PoQnE-bS": 1792916140153,
-    "news:CBMizgFBVV95cUxOM1NfWEdlWXNHX21LVWxCX1B1b0R2M0tLc3h0UVlUWm1WZURfMDB4alVsc1dySWdpODNCYTNVNnkyRlh4YlVpSDd0YmJIQXd0TXZoOEVfeDdreXgySHZiUi1DTURTaTg5bTRrYVA5ZVZjMUVhV3BkX2l3ZnF4c0xsNkJqc3ZvY285OGZOUjlzbGk0OXliaUJVaFdVdmNBeEhfMmoyNzUtMHpVRzdPMjVZTkRxM0VraW1SNllHVlFDU25ocncxOVdJbVl3TEd1d9IB0wFBVV95cUxPRF92aGFxaTNtcGJHWnpQUi14OUdXT1VjNG9xRnBLTlNxYllDQjdQeUxDZkwwYzdkWFJYcGdITkl1T3laT3lkZzhwcWxVdVMwRHFpWFhDSkN0NVp0R09URGVqSVhvSDhyZ1lBVUJNZDdBdEs4c1kyUTFJSnpQVFItNG1mTlhBMDI3bnVzTzVreUVPVmt1NEFsRmxyanAwOGRXcHFvZDdodnBMNW1lUFdtdXBKdkU4QkV5UEREeUlCZEFDWnpRVTVaRWo5TG5rTnd2VzMw": 1792916140153,
     "threads:De6PzjNjwSG": 1792916462485,
     "threads:De6OQ68lYeD": 1792916462485,
     "threads:De6OblKCA4H": 1792916462485,
@@ -27606,19 +27601,17 @@
     "threads:DfeQ-qrj9cA": 1794125141987,
     "news:CBMiugFBVV95cUxQcEJvNnlSMlZRdmItaWdfWHhHTFlzaDIwam5xdlVFT2pmdUtUNk42dGtlSFZyelc0SFZla0hiWnhYaExsSkZJc3ZfeXhYOVV5NnhtaHdfV3pjZ3J5aE1NdGhpSXhNTWlUNHVocURoYW1JY0NheGlfcGY1Q0R1TnR0Y2ZHNkxOZUZuRngtNGhON1JSTEtjVUt3S2MySVNNeUpwbm1IVmlIaFV4bEdHWUFPN3dXMTJzaUI0T1HSAboBQVVfeXFMUHBCbzZ5UjJWUXZiLWlnX1h4R0xZc2gyMGpucXZVRU9qZnVLVDZONnRrZUhWcnpXNEhWZWtIYlp4WGhMbEpGSXN2X3l4WDlVeTZ4bWh3X1d6Y2dyeWhNTXRoaUl4TU1pVDR1aHFEaGFtSWNDYXhpX3BmNUNEdU50dGNmRzZMTmVGbkZ4LTRoTjdSUkxLY1VLd0tjMklTTXlKcG5tSFZpSGhVeGxHR1lBTzd3VzEyc2lCNE9R": 1794125141987,
     "news:CBMiogFBVV95cUxNbW10aUpWWnJPRHpmbXpYb3d2Ym9lMV9kXzg4djFvdk0zdnpxT1hEcTgxUkFBQk5Cdk5md0ZjcEpObi1UUWZTRmVlbHZWYk02UUcxQXBQUWJYV0lPVzJrbEpHeGc4alN5T0dUQk50S3pZSnlvQ0lJZ2p5ZXBvR1BnN3k1TGZZNHJkZXlYMS1Lb0tZd05yY0FmQy1OUjdhWXJvSEE": 1794125440973,
-    "news:CBMiwgFBVV95cUxPdmpHQkMtSk5KSEIzVFZId3h4cnpCQkk1TGRTckNkbndLTk5FdWZKVWpaNFdfbmYzSFBCUVFBb2hRU1dSLVpIb1NKZkx3S2Rka0FuQmlZSW9wN1dHNmRETjBSMUUyNFRyOVJWdHowdTV1SUZ1WERISGJpci1ybGVzR1ZycHRIbS1wc2t1eE52cEFwdW02REh1bEpCeUY4a2hvdUc4bW9fMnA4bDZOR015a0xfYjBIeDZlamZwODh5Z2hQZ9IBxwFBVV95cUxOY3BFSnVMZzRQWGNHYV9ueDJEWDc5bXY1TDEwd0pvTVV1RnVSMTNwZ19IQWVCODZxREpULXo1d3NpSjhPdUoyYWFEZ3laUVdCTTZXaGU3LUJjb3dlbXJUaS1QZnlWSElBem52WGgzTXFJbTNMSU1WeHc1MTdFX0tRZDY2dkpXNXpFWld5anFfRTNod0xnWkpYdmxFZ1o4QVNGMVhFUXg2QWttTjF3aUYtMGs3dTlHbk9zdzEzQnN2MUQzNG8xMURR": 1794125440973
+    "news:CBMiwgFBVV95cUxPdmpHQkMtSk5KSEIzVFZId3h4cnpCQkk1TGRTckNkbndLTk5FdWZKVWpaNFdfbmYzSFBCUVFBb2hRU1dSLVpIb1NKZkx3S2Rka0FuQmlZSW9wN1dHNmRETjBSMUUyNFRyOVJWdHowdTV1SUZ1WERISGJpci1ybGVzR1ZycHRIbS1wc2t1eE52cEFwdW02REh1bEpCeUY4a2hvdUc4bW9fMnA4bDZOR015a0xfYjBIeDZlamZwODh5Z2hQZ9IBxwFBVV95cUxOY3BFSnVMZzRQWGNHYV9ueDJEWDc5bXY1TDEwd0pvTVV1RnVSMTNwZ19IQWVCODZxREpULXo1d3NpSjhPdUoyYWFEZ3laUVdCTTZXaGU3LUJjb3dlbXJUaS1QZnlWSElBem52WGgzTXFJbTNMSU1WeHc1MTdFX0tRZDY2dkpXNXpFWld5anFfRTNod0xnWkpYdmxFZ1o4QVNGMVhFUXg2QWttTjF3aUYtMGs3dTlHbk9zdzEzQnN2MUQzNG8xMURR": 1794125440973,
+    "threads:DfeTXxSn4eF": 1794125744115,
+    "threads:DfeTDalFKqn": 1794125744115,
+    "threads:DfeTLMYjZe2": 1794125744115,
+    "threads:DfeST1rjuN5": 1794125744115,
+    "threads:DfeSR7dmP3q": 1794125744115,
+    "threads:DfeSC8Cvd6e": 1794125744115,
+    "threads:DfeSFaLEYff": 1794125744115,
+    "threads:DfeTTmslHjh": 1794125744115
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@beasiswapasca",
-      "x": "Beasiswa Riset BAZNAS 2026 dibuka! Lagi garap skripsi, tesis, atau disertasi? Atau artikel jurnalmu sudah accepted tapi biaya terbitnya bikin pusing? - Bantuan dana: S1/D4: Rp4 jut",
-      "u": "https://www.threads.com/@beasiswapasca/post/DfdryCUIOgb",
-      "d": 1794104908000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29108,10 +29101,20 @@
       "d": 1794114000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@evie_1208",
+      "x": "Yuuk kak ada pelatihan gratis free makan dan mess @kastara_ocean_official bekerja sama dengan BP3MI jateng buruan daftar sebelum kuota habis Syarat sehat jasmani rohani dan mau ker",
+      "u": "https://www.threads.com/@evie_1208/post/DfeTTmslHjh",
+      "d": 1794125630000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
