@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMixwFBVV95cUxNRHR2QzZ4elNJYXZzLWc4dy1DeVR1Nk5yVnR4WkpwVk1WeFk0aWFld3h0X3lQdTlvSjM2Qm1JVHZRdmo1clMzeGVkUDJYcGRfSVIycUF4V3ZVNFlwSHR1enQ2TVo0RnFxWHdGbDRIRGw2NDBDR1FCNE9sUFQxdk9sS1NmZ09qRm5SWUptZEpwLTRuM19WaHgtSzF1M2w3Y2FQbXpjYlZaanBTY3VWRTNwYU5aU2pJVnoxWHJjazBNTlg3Y2RRVGpR": 1792971939478,
-    "news:CBMie0FVX3lxTE4zbDBPUE1iOHlNV0tCMGhCM0tqZC1kTXg2VndjUE90aXpGNllyRkE0eVNlV2gtOFhRSmN3RGctSTBnZXV2dzZJeHFQRDN5Z2RyLVQyX3pzQ1AzalNSQWtFRUdPSVpZTGFVOG5ZNnB4X1EzMlRraHFJeXdvQQ": 1792971939478,
     "threads:De77mktGnOS": 1792972244033,
     "news:CBMiqwFBVV95cUxNMkhOdURHNkg3QVRSY2hFbzZMeUlCRzJUQTZXOFZGWThzNjk5N1dlc2cyRzFWUnF5Z09QR2d3SGhRdjlVVW1fNjk1OHNTQ0lXRURFaGgyRThKZzloOWdkQ0FnZnpIZUtieERjQU91dWdla280a0JILVlraUlxb0dMWVhyVGNKajNqd1NpTDZIVzhYMXhiLVE1b3NRSTdIOEVWM0VlcTBWZFF4UG_SAbABQVVfeXFMTXdmZ1F5TG1oZ0taSXotWklMb0J5eEdlX01YVk03TUVvSjNUTUhrYlZ6MVFiMTBLamstc1JsV09mbXdUYXdrT0h6bjQ0SE83R09JMTJSTHhDazBtblhUX0pKQkZEd1FHa2tZeklraERvUXlqNTh0ZlBzd3J2YlZLYXpMUG9hVkhkR0RlTjYyaldfRTc0VGpIdmVMTGZPSmgyYUhJUHNRbzRfOVBCZXlYWVc": 1792972244033,
     "news:CBMiugFBVV95cUxPNXcwZlJIUXJhRHFVdDFwbTFZOTJnNVBOYzRoMk91NW94RnlkU2Fycml2Q2RQa1RhYzNIS2lmQzItZVViSzJhSXJ5TlowT2FLZ3Zhc1Bid2lLTDRLMTNaMHBOZVZDNjV5eXk3VkNXcjFnMnhBbTNtcGFNZDhtZGpYd1dPbHJndHdKZS1pNGtSN0pGX1BBTHVxallCQ0JIYnRqeS1sRVNLM3JBT2g2ZXN3LTEwTkt6VmlmYnfSAbgBQVVfeXFMT2hkcG9RaDJMb1VRSjBkT2ZrU0duNEt6Vm5mYmR2ZkpUeDBCRlB6QUVfbHBZaF9GUXFBMXlJMjhrelFWY29COExjN3JkVFFjTGp2cUEwdmZSd1ZlczluSThhekl2YUxjYVk0ZFV1eTVwNkFUUDA5VlVWOUlfVTdMWHVFWnkzbzFxVHN1anlJdS02NThVTFh5X1pOcG5XUE5RTGNBWGt3R3M5ZnJTX3ZSOVlSR2RZWmU5Mw": 1792972244033,
@@ -27614,19 +27612,10 @@
     "threads:Dff8E-LjfWw": 1794181327803,
     "threads:Daf-O5Nkkmb": 1794181327803,
     "threads:Dff8TbKEvly": 1794181327803,
-    "threads:Dff9yxvnW_A": 1794181327803
+    "threads:Dff9yxvnW_A": 1794181327803,
+    "news:CBMi5wFBVV95cUxNdkZIN0doOEZRS1U3c1l3MHVOTUFwVGVibDdZbWVnMUFjYUlId0dwSWtTdGtLY3k4SWxYMW1NaDNKTDQwTmZBaU5JYVppTnlOUk1CYXpIWHRoZjlkM1BBODlTSndQblF6cDBTbDRvazFDZ1kzUFNjbnBQRnFGZ0NWWkd6Y3Jfbl9BQVNkRDZOdWVtRmFBOXZHVmxzNkdCSmExLVdGaVdzNlF2UWR3aUEzRHdBbUhwa0hzZlJKS3dXMDhoNGUtTjcwY3hDNnFpalFna1p3c2U0ZUNkaXNhUkM0RTNtMHE1OEXSAewBQVVfeXFMTnhKaG0xZlBhdHh6RGRKMm42WFFyMGszQWI1b1JuVGpFenc5RXlmSy14SUtidGdLT1ltdmJZYnV0WkkxY0pfTG5hb0JaVm1sRW9xcFBVdU5qZFUzQmNvN01xX3NRMVRpQUVqR2pBbTF5cGlUemJRYS1ObzJLd1ZPSjhwVmVLX3BhOGhNY1dDMTBaSkZfXy1xYnQ5VS1lSTNSV2o1emxnb3lpTXphNzh6Q1ZvVnFVdDlrUENhbHNLUXJITXlqeVJjZW00ZmRBM1h5RGtGb2FkZTFVek5MM0dJWVpIOGRyejNlZG5NMUM": 1794181535892
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@fandi.pantoel",
-      "x": "Dijual sawah luas 5600 surat sudah di daftarkan ke PTSL sertifikat gratis harga 100 jt nego lokasi desa paspan kecamatan glagah",
-      "u": "https://www.threads.com/@fandi.pantoel/post/Dfe2Z26gdfz",
-      "d": 1794144151000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29116,10 +29105,20 @@
       "d": 1794181461000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Begini Cara PNS dan PPPK Daftar Agen Perlinsos Kemensos 2026, Ini Bedanya dengan Aplikasi Cek Bansos - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdkZIN0doOEZRS1U3c1l3MHVOTUFwVGVibDdZbWVnMUFjYUlId0dwSWtTdGtLY3k4SWxYMW1NaDNKTDQwTmZBaU5JYVppTnlOUk1CYXpIWHRoZjlkM1BBODlTSndQblF6cDBTbDRvazFDZ1kzUFNjbnBQRnFGZ0NWWkd6Y3Jfbl9BQVNkRDZOdWVtRmFBOXZHVmxzNkdCSmExLVdGaVdzNlF2UWR3aUEzRHdBbUhwa0hzZlJKS3dXMDhoNGUtTjcwY3hDNnFpalFna1p3c2U0ZUNkaXNhUkM0RTNtMHE1OEXSAewBQVVfeXFMTnhKaG0xZlBhdHh6RGRKMm42WFFyMGszQWI1b1JuVGpFenc5RXlmSy14SUtidGdLT1ltdmJZYnV0WkkxY0pfTG5hb0JaVm1sRW9xcFBVdU5qZFUzQmNvN01xX3NRMVRpQUVqR2pBbTF5cGlUemJRYS1ObzJLd1ZPSjhwVmVLX3BhOGhNY1dDMTBaSkZfXy1xYnQ5VS1lSTNSV2o1emxnb3lpTXphNzh6Q1ZvVnFVdDlrUENhbHNLUXJITXlqeVJjZW00ZmRBM1h5RGtGb2FkZTFVek5MM0dJWVpIOGRyejNlZG5NMUM?oc=5",
+      "d": 1794175823000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
