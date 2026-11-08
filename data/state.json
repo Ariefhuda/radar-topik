@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6zIcmEZ4C": 1792934742315,
-    "threads:De6y5bAkgNa": 1792934742315,
-    "news:CBMinwFBVV95cUxORkJRTXFyMHBWd1RtOFRyRkdnYWpIcmlQVUYyczc5bFBGdzRZeElLSkNaa1JvUjFnQ3Jmc043dHdiZGFRQW9PV0FRcjVvRXZ4bENqd2JSOFFEM05kUGlwYWFlWlZJSVM4WjhpZE5wWXNBSXl5d1FKdWJ4ZWpiR0ZXam1kRTRxTkJsSWpFbklGdDg3VzFsSFEtd1FqZUVWUzQ": 1792934742315,
-    "news:CBMizAFBVV95cUxNUi1xd04tUU8xb0xGX2dlX2N1a1Y1TkFYZlltSFVqaDFLSUZlRnZwNXpZRDJGUDRpVG9pQWRiX3dnNDBSbmxYVkxuaDlkamEwa2Fxbk9qalpNN2ZMNkUxXzFaS0o5NzhVNmppeTYyS0FVSm1IOFc0MDlPOE1FdzhxQ0JIaGJES1JpOTMtSVdmTjFPbDR3aEIybUpJaDdudEtNTThhbkRjYnI3QVRkeWlrTGN5VDFKWC04blJ0dDI0SkRrUWd4SVdkNFBDRGLSAcwBQVVfeXFMTVItcXdOLVFPMW9MRl9nZV9jdWtWNU5BWGZZbUhVamgxS0lGZUZ2cDV6WUQyRlA0aVRvaUFkYl93ZzQwUm5sWFZMbmg5ZGphMGthcW5PampaTTdmTDZFMV8xWktKOTc4VTZqaXk2MktBVUptSDhXNDA5TzhNRXc4cUNCSGhiREtSaTkzLUlXZk4xT2w0d2hCMm1KSWg3bnRLTU04YW5EY2JyN0FUZHlpa0xjeVQxSlgtOG5SdHQyNEpEa1FneElXZDRQQ0Ri": 1792934742315,
-    "news:CBMirAFBVV95cUxOcVlFdXZUVlRFemJBNXNBU19yN0FlZ0NIVE5vbWdPaUNvX2p3UXpuWTFhQlp6WUFvUjg3bXRHOU1IMFJraVhkNXFBbW1MaGVyN04yN3dJSWxSMXNsY1h5Zzd4ZzhNcUZtZTFYbHdrSXFtNk5oc3c4UHllM01RbkJMR3Bnc09tanRubW9iamxzN0lIWkg4NVZYYnNQSVBrdC1haHdOMGlLWVIxTGJB0gGsAUFVX3lxTE5xWUV1dlRWVEV6YkE1c0FTX3I3QWVnQ0hUTm9tZ09pQ29fandRem5ZMWFCWnpZQW9SODdtdEc5TUgwUmtpWGQ1cUFtbUxoZXI3TjI3d0lJbFIxc2xjWHlnN3hnOE1xRm1lMVhsd2tJcW02TmhzdzhQeWUzTVFuQkxHcGdzT21qdG5tb2JqbHM3SUhaSDg1Vlhic1BJUGt0LWFod04waUtZUjFMYkE": 1792934742315,
     "threads:De6zZpaExDK": 1792935050781,
     "threads:De6zeoHjyQT": 1792935050781,
     "threads:De60XsBDl0x": 1792935050781,
@@ -27514,7 +27509,13 @@
     "threads:DfZg-mpk4Ye": 1794144048369,
     "threads:Dfe1qlHH9m8": 1794144048369,
     "news:CBMiqwFBVV95cUxNdjBuN1N5ZVFYZm00NEtkLV9PWVM2a2UxS19feTJKa29BYUN4dVhtMzlmdGJzV2EyWEJYLS0xdF9SejFmbmpzQXYyRXQ5TWhsbGxXN3gxbmdZdUlBVHFLWF96S3MzeG1kM1NlVzFxd1k3ZnhPdTBfc3UxaTByUUdWOTIwaDVwOTIzTm1NVTUwTnFQTEM0Qk1lNHB6NUlzcGQ2eHczUXMxWW9lcEE": 1794144048369,
-    "news:CBMibEFVX3lxTE9DTHl5aEloRnlFc2xMSFJjTWpUNGpoTjFvVk5ZdjViVkdMR3luLUtFRjRqNlJ0M2tTSFZoeG5sN0gwOTNVbFY2SW80dThvSHR2Q3hha3hwNTd6QzlCWnhmZUl1bnBFX0NGOXRDeg": 1794144048369
+    "news:CBMibEFVX3lxTE9DTHl5aEloRnlFc2xMSFJjTWpUNGpoTjFvVk5ZdjViVkdMR3luLUtFRjRqNlJ0M2tTSFZoeG5sN0gwOTNVbFY2SW80dThvSHR2Q3hha3hwNTd6QzlCWnhmZUl1bnBFX0NGOXRDeg": 1794144048369,
+    "threads:Dfe2Z26gdfz": 1794144337229,
+    "threads:DZnOh6MCfGZ": 1794144337229,
+    "threads:DeB_lAPmA2M": 1794144337229,
+    "threads:DeyBDHPn4uF": 1794144337229,
+    "threads:Dfe1sSPD_ZE": 1794144337229,
+    "news:CBMixwFBVV95cUxNZFFuRDlTS2w2YTBIWXNwVlpfUlVlemxZa0REZlFQVWI0c2R6ZjdobVYwX1BOenZXQklxWnlSUi0xVGN1NF81ODZyQXlMaU1BSDUyVkI0V2VMSnYzZ09YSkpvLW4yQUh0aWJuYkhxN2ZVRFluRDFQRmd6ejVUUTVYY2ItN0RucTFlWjUxSmdnLVZaMkZwa2NsNkxMSW5PMUY1SEZKUVJEMlIzZHVGRGVGUGp2SU14UEhUX0o1cFo5OXF6bjhhSG9z0gHMAUFVX3lxTE5sMEIzX3g3dkZtTEZQQ3hEaEZwV2xZLWFYaDRBeXFwRDBvdldXdjBYUFNudlc3dDBiQWRxTWtkT0M0OXdjellaV29HdlJpQnZvMGxENUpZVXVtbjJGNWFfQkJiLUpZNjNMTkoySEdwOWNzeXpLa0I1NjFUaS1rNENjWkU5cFBsNE5tU3BTYTJmYVdIMnBpYkN3WHdWVXkxLWtOcUE0LTlDMDRCdUVVNF9GT2NCUkQ1U0xXQW05MTVSSkl4VmR2WGN0QWR2dQ": 1794144337229
   },
   "digest": [
     {
@@ -27866,10 +27867,40 @@
       "d": 1794143622000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@fandi.pantoel",
+      "x": "Dijual sawah luas 5600 surat sudah di daftarkan ke PTSL sertifikat gratis harga 100 jt nego lokasi desa paspan kecamatan glagah",
+      "u": "https://www.threads.com/@fandi.pantoel/post/Dfe2Z26gdfz",
+      "d": 1794144151000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rendyarya.y",
+      "x": "Ngomongin akal sehat? Penyadapan prabowo itu bukan soal prabowo pribadi disadap, tapi dia sekarang itu posisi kepala negara, yg mana pasti dia menyimpan rahasia rahasia negara, kal",
+      "u": "https://www.threads.com/@rendyarya.y/post/Dfe1sSPD_ZE",
+      "d": 1794143658000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kabar Fajar",
+      "x": "Kabar Terkini Kasus Dugaan Suap HGB ATR/BPN, KPK Bongkar Keterlibatan Pihak Swasta - Kabar Fajar - Kabar Fajar",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFFuRDlTS2w2YTBIWXNwVlpfUlVlemxZa0REZlFQVWI0c2R6ZjdobVYwX1BOenZXQklxWnlSUi0xVGN1NF81ODZyQXlMaU1BSDUyVkI0V2VMSnYzZ09YSkpvLW4yQUh0aWJuYkhxN2ZVRFluRDFQRmd6ejVUUTVYY2ItN0RucTFlWjUxSmdnLVZaMkZwa2NsNkxMSW5PMUY1SEZKUVJEMlIzZHVGRGVGUGp2SU14UEhUX0o1cFo5OXF6bjhhSG9z0gHMAUFVX3lxTE5sMEIzX3g3dkZtTEZQQ3hEaEZwV2xZLWFYaDRBeXFwRDBvdldXdjBYUFNudlc3dDBiQWRxTWtkT0M0OXdjellaV29HdlJpQnZvMGxENUpZVXVtbjJGNWFfQkJiLUpZNjNMTkoySEdwOWNzeXpLa0I1NjFUaS1rNENjWkU5cFBsNE5tU3BTYTJmYVdIMnBpYkN3WHdWVXkxLWtOcUE0LTlDMDRCdUVVNF9GT2NCUkQ1U0xXQW05MTVSSkl4VmR2WGN0QWR2dQ?oc=5",
+      "d": 1794099396000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
