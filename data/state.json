@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMiugFBVV95cUxORHVBUS1MTmFJZV9RX1JjcFhfX0N3ZnFEMkhwSzRpUFNmUXBKbU9XTmt0VTNCSnZ5S2pqSWk5c19WbVNuYTMtbUh4Um5QbmhlSjUwb0tsSG9ldUhNV2stdTQ2REswUnhBNUZISENneFNORnh3YkVXTkl5OE43dmxBc0ltLV9Bby01U1dLbEJtbG1RMWFudDZiMmpPZ1dfMEJSNUllMWF6dkZLbElHRlplX0V1VUt0Z0hQUkHSAb8BQVVfeXFMT2NveXV5SGhKa0FxdjZIQVN6YVBjSEpxMXd0T2RodGhyRVdrblphOGlKckJHOTdKek81OTZGSjFRWFMwRkR2U1dwcG9mdzVOVlJrQmltQi1Zd2hxTU9kRm9XRUVFb2RaWjNlTkJZcDVYRkMtRDdqRERqY2tPb3l6VXRfUmN1TnlfVWQzYXF1V0c0QzVHZWJmSDNHdVVNY0Jqd0R4MWxsdkxzOTZLNUd6TGVoaHFiNjg5T1gwOUk0Qmc": 1792902939051,
-    "news:CBMioAFBVV95cUxPQ3JrSF9yRDZlR09hLVRhalVaMmpNT0dtRzlocHkwUzZOdnBkWkJOYzJLZjdPN1ZrU1NrYmhhQXdKTm5KQi1sdlVVWkpYaWNxME9JenVWUV83RkYzazRyeTFpdGJoaXlRS2RXdVljQkVndTd5YkhaQzd1Y1hEbFNyOUNFeWItZHpYMkFiRmVZRXZ2TjdLRGhndHZ5b3JMeXJJ0gGWAUFVX3lxTE5mUzR2bkgweW9ZV2dJMF95S1lHOG9XeXZ3OTlDRERqU2VYVmZtQW5vQVJLcnY2N0h4SFpqeUhVTlJOVTU1N2pnR0lkNjdSY3BZMUQ1cFlFbGxQSVp4U3dhYUhzLUpZV1dTRlBCdXpja3RQeFNsTEVENjVXdlBpaDlrOHZCY25pUmYxYWZWVjNIQnRiZVpKQQ": 1792902939051,
     "threads:De53qB3CFvn": 1792903243415,
     "threads:De53lCFD9id": 1792903243415,
     "threads:De53VeBjsRE": 1792903243415,
@@ -27619,7 +27617,11 @@
     "threads:Dfd5BjtoxhY": 1794112242784,
     "threads:Dfd5X9QH2sX": 1794112242784,
     "threads:Dfd5SxwkSJW": 1794112242784,
-    "news:CBMimgFBVV95cUxNZE9TWklzenFSYWtsZndTNVNPNzNnUDlhVUZ6Zjh3OWM3LWpudi1OSlY0dmR0dmJPNlRCMUdqMlVkQXFjQU5RWmM0X3lQUkttM3l3T1E0MTN5azJPdXJKMzVzSEMwQnJfOVZvbFdOaU1Sam54dTlNTWt2LWJZbUhwdlNpQ2pRSHhrSTludWt0VmFmVzd2dEE2X05R": 1794112242784
+    "news:CBMimgFBVV95cUxNZE9TWklzenFSYWtsZndTNVNPNzNnUDlhVUZ6Zjh3OWM3LWpudi1OSlY0dmR0dmJPNlRCMUdqMlVkQXFjQU5RWmM0X3lQUkttM3l3T1E0MTN5azJPdXJKMzVzSEMwQnJfOVZvbFdOaU1Sam54dTlNTWt2LWJZbUhwdlNpQ2pRSHhrSTludWt0VmFmVzd2dEE2X05R": 1794112242784,
+    "threads:Dd0MyLpgT-N": 1794112542148,
+    "threads:DS3nKw2DkSX": 1794112542148,
+    "threads:Dfd5pkjk7ik": 1794112542148,
+    "news:CBMi2wFBVV95cUxQYzVmNlpvcFhQSkNMNkdTN0RKTnYwMlpFbnFnZ2tuN0pLUWlnVGhJOWsxdTV2WmlmU1Q3Qk1IYWltRlJzSUNqZ19teC1XelU3Tjd6a0EtV0paMjdkbVViTjZ5Z0FoNlgyaG9hclQ5MnJtd1d2VWJ4VmJvWFdieDc4YWF2eDhXeFZjWVM2WlpCNU03THJjZS1iUEozVWxabHFaNk9VX25qWTFibW1iV1d6QlA1Y2x5Vm54eEd3R1JCQzJDU2NfWTIzeDRORTBUTlhtZTF2cmpHSkJkUW_SAdsBQVVfeXFMUGM1ZjZab3BYUEpDTDZHUzdESk52MDJaRW5xZ2drbjdKS1FpZ1RoSTlrMXU1dlppZlNUN0JNSGFpbUZSc0lDamdfbXgtV3pVN043emtBLVdKWjI3ZG1VYk42eWdBaDZYMmhvYXJUOTJybXdXdlVieFZib1hXYng3OGFhdng4V3hWY1lTNlpaQjVNN0xyY2UtYlBKM1VsWmxxWjZPVV9ualkxYm1tYldXekJQNWNseVZueHhHd0dSQkMyQ1NjX1kyM3g0TkUwVE5YbWUxdnJqR0pCZFFv": 1794112542148
   },
   "digest": [
     {
@@ -28421,10 +28423,30 @@
       "d": 1794111992000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mukho.fifah",
+      "x": "Bawa kk ktp aja ka sama hp si nanti diarahin buat perubahan data online lewat cek bansos jg",
+      "u": "https://www.threads.com/@mukho.fifah/post/Dfd5pkjk7ik",
+      "d": 1794112178000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Warta Lombok",
+      "x": "Cara Mengurus Halal Gratis Sehati untuk Produk Rumahan, Bekal Warung di NTB - Warta Lombok",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYzVmNlpvcFhQSkNMNkdTN0RKTnYwMlpFbnFnZ2tuN0pLUWlnVGhJOWsxdTV2WmlmU1Q3Qk1IYWltRlJzSUNqZ19teC1XelU3Tjd6a0EtV0paMjdkbVViTjZ5Z0FoNlgyaG9hclQ5MnJtd1d2VWJ4VmJvWFdieDc4YWF2eDhXeFZjWVM2WlpCNU03THJjZS1iUEozVWxabHFaNk9VX25qWTFibW1iV1d6QlA1Y2x5Vm54eEd3R1JCQzJDU2NfWTIzeDRORTBUTlhtZTF2cmpHSkJkUW_SAdsBQVVfeXFMUGM1ZjZab3BYUEpDTDZHUzdESk52MDJaRW5xZ2drbjdKS1FpZ1RoSTlrMXU1dlppZlNUN0JNSGFpbUZSc0lDamdfbXgtV3pVN043emtBLVdKWjI3ZG1VYk42eWdBaDZYMmhvYXJUOTJybXdXdlVieFZib1hXYng3OGFhdng4V3hWY1lTNlpaQjVNN0xyY2UtYlBKM1VsWmxxWjZPVV9ualkxYm1tYldXekJQNWNseVZueHhHd0dSQkMyQ1NjX1kyM3g0TkUwVE5YbWUxdnJqR0pCZFFv?oc=5",
+      "d": 1794105729000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
