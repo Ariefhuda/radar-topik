@@ -27571,19 +27571,12 @@
     "threads:DffUghhCTmB": 1794160533427,
     "threads:DffL55cG9Ph": 1794160533427,
     "threads:DffVe7SIPIy": 1794160533427,
-    "threads:DffWFrSkyCb": 1794160533427
+    "threads:DffWFrSkyCb": 1794160533427,
+    "threads:DffV9hWj1q9": 1794160855490,
+    "threads:DZq8vNogRAj": 1794160855490,
+    "threads:C-CSOVmvCSY": 1794160855490
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nikisetiawan.id",
-      "x": "Makasih kak. Untuk saat ini aku belum mengadakan kelas gratis. Aku pribadi punya pandangan bahwa ilmu itu punya nilai, bukan semata-mata karena materinya mahal, tapi karena ada pro",
-      "u": "https://www.threads.com/@nikisetiawan.id/post/Dfes8hFE4re",
-      "d": 1794139072000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29073,16 +29066,26 @@
       "d": 1794160643000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@bocoranbeasiswa",
+      "x": "Masih ada kesempatan meraih beasiswa Rp500.000! Beasiswa DataPrint 2026 Periode 4 terbuka bagi pelajar dan mahasiswa aktif jenjang SMP, SMA, D3, D4, dan S1 di seluruh Indonesia. ✅ ",
+      "u": "https://www.threads.com/@bocoranbeasiswa/post/DffV9hWj1q9",
+      "d": 1794160576000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794139251553
+    "reddit": 1794160855490
   }
 }
