@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De56OtSldrm": 1792905045906,
-    "threads:De56LdsFXzF": 1792905045906,
-    "news:CBMi0wFBVV95cUxPaUt5NWU1cTJhSnRtTmMzWEl0SWpyVk1ob2ZINi1mZHktZTVEcXk3SC1pa0dXLWlnTGlwdHFYZ0dWdE8xaFg0dk5ZVlZ3cFdEZ1h1bF9oVXZQQ0RiLUI4N0ZNSTVEN1BLTEg0dGpsQTc4V0ljMjFCNFdhSlNvc1AyMWdia2txT3JLaV9uc2YwcHg4VHdpOGtvdHoyMDZ5aEhsbGNxaWlQV2RhckhmOTRTOS1qOWRZNkI5T0x2cFZmQ3lZVVYtTlR2TUVHb3RzdDA0Njhz0gHYAUFVX3lxTFBsT1BCVnpKaHdxQkp0ZndUVTFKNmhUd3QzSElhOEltWU5IeV96R1A0TmFKTF9qVThuUHhQQmd0ZXZWUl84S1VDU04xRDZTVHQ2MHdSOEVncGVHRG5TY0hmQ2gzd2xkREYzcjlvS2UzRGhRcFZnY0RoQ2RBcGJldGU4dWVpajg3a1NVVmEwazlTQml4a1k5SGp0ZnhvOFBENlJHM3dSTTJ3bU9YMGFvSklGWWpMYkRiTGtmX3FoX3hNdU9WZlliaWxZTmxfQ25OczQ1Szc0RkM5Tw": 1792905045906,
     "threads:De550d2mw2T": 1792905341492,
     "threads:De5sWOAiprU": 1792905341492,
     "threads:De570DCn6UX": 1792905341492,
@@ -27623,7 +27620,13 @@
     "threads:Dfd9JJ0HSNh": 1794114333292,
     "threads:Dfd9EqBHe1V": 1794114333292,
     "threads:Dfd9Mf2Guau": 1794114333292,
-    "threads:Dfd9BGdk-As": 1794114333292
+    "threads:Dfd9BGdk-As": 1794114333292,
+    "threads:DUukyK3EosO": 1794114642208,
+    "threads:Dfd-RWGib6u": 1794114642208,
+    "threads:Dfd97-3gck2": 1794114642208,
+    "threads:Dfd9imcDx8v": 1794114642208,
+    "threads:Dfd-DOLoMRt": 1794114642208,
+    "news:CBMirAFBVV95cUxPeVB0Wk9uSWxxQ2x3b2VvdF9yQTh6ekF5OTFmZEpmVmUtZF9kdTd2UWpiam96bzBrU3RzV1k4ejNBTjRmOUNCNkVCUXhnaU1xVkF2ZW1FNGdpd2RQNDFBTXJsV1BUSjBfdXFfc3dLQUpIVnBfSWR1cndoZEhLQ0ZoTWJOV2FScTRlQnRib0lwVzlseFhVTUZhMTRQcmlvRXFxNTFZTUtjZ0JBaXcy": 1794114642208
   },
   "digest": [
     {
@@ -28575,10 +28578,60 @@
       "d": 1794113396000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arief_bekasi",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@arief_bekasi/post/Dfd-RWGib6u",
+      "d": 1794114601000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cuannetwork",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@cuannetwork/post/Dfd97-3gck2",
+      "d": 1794114426000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@armitapaka",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@armitapaka/post/Dfd9imcDx8v",
+      "d": 1794114220000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@cici.windasari",
+      "x": "Orang tua,sodara,tetangga2 saya jg sudah merasakan program sertifikat gratis ini kaaakk",
+      "u": "https://www.threads.com/@cici.windasari/post/Dfd-DOLoMRt",
+      "d": 1794114486000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Pegadaian Syariah Tawarkan Modal UMKM hingga Rp50 Juta di NTB - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeVB0Wk9uSWxxQ2x3b2VvdF9yQTh6ekF5OTFmZEpmVmUtZF9kdTd2UWpiam96bzBrU3RzV1k4ejNBTjRmOUNCNkVCUXhnaU1xVkF2ZW1FNGdpd2RQNDFBTXJsV1BUSjBfdXFfc3dLQUpIVnBfSWR1cndoZEhLQ0ZoTWJOV2FScTRlQnRib0lwVzlseFhVTUZhMTRQcmlvRXFxNTFZTUtjZ0JBaXcy?oc=5",
+      "d": 1794101340000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
