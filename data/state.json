@@ -60,25 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5h6xagV20": 1792892358093,
-    "threads:De5h4L1H-Fe": 1792892358093,
-    "threads:De5jCNAAdIe": 1792892358093,
-    "threads:De5iTsTEQGn": 1792892358093,
-    "threads:De5hq4yGT7q": 1792892358093,
-    "threads:De5hopSAStw": 1792892358093,
-    "threads:De5heD1F2eC": 1792892358093,
-    "threads:De5hYLaDq58": 1792892358093,
-    "threads:C7Z0XYVNpqp": 1792892358093,
-    "threads:De5iqBLDyxo": 1792892358093,
-    "threads:De5inPND-aw": 1792892358093,
-    "threads:De5iQFpj_W7": 1792892358093,
-    "threads:De5iMxdDy3E": 1792892358093,
-    "threads:De5iI4xj-0j": 1792892358093,
-    "threads:De5iFBuD7ye": 1792892358093,
-    "threads:DeXxUAck_gq": 1792892358093,
-    "news:CBMi4AFBVV95cUxNZFlLRkxoa21hdWhNc3Y3SW1iMWxGUW1QeTFJYm9oQ1haN1pqcU9pWS1rOVJWeXlLYnhqQVRyQkxMMlpLQU5vMDhmc09KNDg5OHBocXNpTTdOWHNZU0lERTl3dzB4bUNCWXhNb1g4X3EtdHk2QkF3dTJfWWNVaGtzTVFDSzhtVWpJcUpqMllwUzZ5alIxTk9mbzBQM3loWTIzWVcxVTljYmFXekZNZmJDWFBTTW9MV3hzUWZCRUtwVTBvaUZiQUtZX29fd2o0d2F3WnRaNC1TQy15Wi1VekwtNA": 1792892358093,
-    "news:CBMimwFBVV95cUxPWU1lTWYxS2QtMFN6MWx1YTAxcS11SjFhZVBndmo0b1lHWGlzajB2ZklIeDVCNTM4UGRBVGlNNXZLcC1Hc0FCdmJsaHFLUENKWmItLUdlQ3lGaTg3WmZ1WkJXUExDMU9aTEdudXVCdzVvb0JTSGFkU2g5VDZabkV3VUJQTWdrZmIzWW5TcG5LeEZlSW9lNGV5WTZEOA": 1792892358093,
-    "news:CBMivgFBVV95cUxNTC1tblBLNzZrS25OZDlEbVdaM1dYa2FSRnZFZ1RrbVFhWUUzWlF4YmZ0cVc5ODFpMjAwZHdFRnBqWEdrU0J4cWp6MkxBMGtTckN5QTZEMjl1cFM2MnkwQUJvd0hFT2Z3Um81NFdQSzIta2w1U2gwaG4yRFRHdEhUU3JOT2hPeFBvekxSNWVhc3hiLVpLYnlyLWREUVdUdzRZdTZJbURBOUhuVVhpRklvczhJd1VjTUEtbUVhRG93": 1792892358093,
     "threads:DdBAGEREf3S": 1792892765966,
     "threads:Deyn57bmX_-": 1792892765966,
     "news:CBMirgFBVV95cUxQWVR2UHFqRXFVVk1fbkNOSDBMU3F0QmJuVzM5eHpNa0twc1pKbnhYNkRfbEpuamtvZGhqYlRnbElWWl9Na3pmUWRMMjZyMzI2dEZEak53LU5nVllEVTU5S215U1JaVEJpbHU4Vndnb0loZVlzRVc1SDd2UmI5THpFUS1rREpJNVE5RmJJZ01NYlFZeUsyQU1Xb2s1N09pV3Y0dE5JeWFJNEZ1MXJ5YXc": 1792892765966,
@@ -27748,7 +27729,9 @@
     "news:CBMipwFBVV95cUxQd0R6RUdzeXFqdklTNUdMUmgxSkZjLVBVSFpzNDVOVGRyZ2c5X2RTWFdIS1VKcWlwMHJfXzdadlB1WEk4UFJvZ3Bnb0dtMnhSSWF2M3BMbjAxNnZZd0d5akxJVnZHeXplemUwT2gwdWtKOVZQVVRVc2Jxc3JwclZKNHYwTEJhbzM2elppcnl5WWRVcjdxcmN2RmIxUncxTDdIdXVDNENidw": 1794101735843,
     "news:CBMiZEFVX3lxTE5JTTQ2RE1KXzh3Tm9QS24xckIyb0U5U2NnbVZiZlc4Q2dkNWdHTm5ERzg5Y1ZDb0c5Y3JYWm45aFVQdkZ6dzBJQnpjNnQ4N2FOUnBLdGZLVFhQTlFuMHNsSFlQcFI": 1794101735843,
     "news:CBMiXEFVX3lxTE10QjAweDM4MTQxSzEwcGl6WTFJclZOaHdJd3ctdlNicTd2RG5yc3pVMjQ2WWlYWUVqRGJyZUV4Q0NhRGdmZm1JRGQxeUo0bkgyRFBSZzFnSTN5dUNP": 1794101735843,
-    "news:CBMiwgFBVV95cUxOYlFxOER5Mk9qSUtXaE8xOFlmb1BKejhXUXJMV1g1aVhubVNhZnZ4YXlBNW1pVDhuVzJRMVZ4dEJ3UloyWl9JZGt1S0dZSFZCZVctZ3lablZMYWlKN2JWSlNHekVEaHJCWmN2dGtHNF9HTWx5UktkZmdmQ2pZSXdCdlNwUVlFWkYyZHpmelc0RUk2WFRpUEF2TkxlSXBUaU41NHVIWk1MYWFMamZaOHVaakRodW9HZ2pndHR4UFpSSnNGQQ": 1794101735843
+    "news:CBMiwgFBVV95cUxOYlFxOER5Mk9qSUtXaE8xOFlmb1BKejhXUXJMV1g1aVhubVNhZnZ4YXlBNW1pVDhuVzJRMVZ4dEJ3UloyWl9JZGt1S0dZSFZCZVctZ3lablZMYWlKN2JWSlNHekVEaHJCWmN2dGtHNF9HTWx5UktkZmdmQ2pZSXdCdlNwUVlFWkYyZHpmelc0RUk2WFRpUEF2TkxlSXBUaU41NHVIWk1MYWFMamZaOHVaakRodW9HZ2pndHR4UFpSSnNGQQ": 1794101735843,
+    "news:CBMi3gFBVV95cUxNZVlOdzhpVnJlZXRsZFNFWnpLNUp1S1c4dkRDWFdpVXpVcGtVU1N2RDRXcUw3Wm8ycWFodjE2T0U3aUV3YzVEY0N0SjlJb0xBbzRSZ2lZXzFuT0xCTmc5d2stWlFjbmVnSHVUZVJrZlFWTTlsdnZRcUdMaFBoNmlSNjZIclFrUEhBQ1dwOU1tTTY0UVBnYkg0cGtha1l0NVFBTUIwdmxKN3ZWa3BFdF9KQUR6ek9mVXJUT01lOU9JNS01dHhESWdKWk1iLTNwaVZYZkpla0w5UGR2Sk1yU1E": 1794102047164,
+    "news:CBMiZkFVX3lxTE9JdjVweGpaZFRMaGRMZFVXNDZnbzhDYjFtbUFkcEVoWHBUTFFSVkdBT2tXRktVOV9ZX0xwQ3cxOEpKNU9SRWNNZnVJemhodW1EREVVWG5BM19NNlZXSlpDZFV2WHNZQQ": 1794102047164
   },
   "digest": [
     {
@@ -27930,10 +27913,30 @@
       "d": 1794101400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Kodim 1204/Sanggau Buka Pelatihan KKRI Gelombang VI, Cetak Generasi Muda Tangguh Menuju Indonesia Emas 2045 - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZVlOdzhpVnJlZXRsZFNFWnpLNUp1S1c4dkRDWFdpVXpVcGtVU1N2RDRXcUw3Wm8ycWFodjE2T0U3aUV3YzVEY0N0SjlJb0xBbzRSZ2lZXzFuT0xCTmc5d2stWlFjbmVnSHVUZVJrZlFWTTlsdnZRcUdMaFBoNmlSNjZIclFrUEhBQ1dwOU1tTTY0UVBnYkg0cGtha1l0NVFBTUIwdmxKN3ZWa3BFdF9KQUR6ek9mVXJUT01lOU9JNS01dHhESWdKWk1iLTNwaVZYZkpla0w5UGR2Sk1yU1E?oc=5",
+      "d": 1794058560000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "cwibc.co.id",
+      "x": "Kemnaker Dorong Pelatihan Vokasi Cetak Wirausaha Baru - cwibc.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JdjVweGpaZFRMaGRMZFVXNDZnbzhDYjFtbUFkcEVoWHBUTFFSVkdBT2tXRktVOV9ZX0xwQ3cxOEpKNU9SRWNNZnVJemhodW1EREVVWG5BM19NNlZXSlpDZFV2WHNZQQ?oc=5",
+      "d": 1794101713000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
