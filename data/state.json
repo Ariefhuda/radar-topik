@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De77mktGnOS": 1792972244033,
-    "news:CBMiqwFBVV95cUxNMkhOdURHNkg3QVRSY2hFbzZMeUlCRzJUQTZXOFZGWThzNjk5N1dlc2cyRzFWUnF5Z09QR2d3SGhRdjlVVW1fNjk1OHNTQ0lXRURFaGgyRThKZzloOWdkQ0FnZnpIZUtieERjQU91dWdla280a0JILVlraUlxb0dMWVhyVGNKajNqd1NpTDZIVzhYMXhiLVE1b3NRSTdIOEVWM0VlcTBWZFF4UG_SAbABQVVfeXFMTXdmZ1F5TG1oZ0taSXotWklMb0J5eEdlX01YVk03TUVvSjNUTUhrYlZ6MVFiMTBLamstc1JsV09mbXdUYXdrT0h6bjQ0SE83R09JMTJSTHhDazBtblhUX0pKQkZEd1FHa2tZeklraERvUXlqNTh0ZlBzd3J2YlZLYXpMUG9hVkhkR0RlTjYyaldfRTc0VGpIdmVMTGZPSmgyYUhJUHNRbzRfOVBCZXlYWVc": 1792972244033,
-    "news:CBMiugFBVV95cUxPNXcwZlJIUXJhRHFVdDFwbTFZOTJnNVBOYzRoMk91NW94RnlkU2Fycml2Q2RQa1RhYzNIS2lmQzItZVViSzJhSXJ5TlowT2FLZ3Zhc1Bid2lLTDRLMTNaMHBOZVZDNjV5eXk3VkNXcjFnMnhBbTNtcGFNZDhtZGpYd1dPbHJndHdKZS1pNGtSN0pGX1BBTHVxallCQ0JIYnRqeS1sRVNLM3JBT2g2ZXN3LTEwTkt6VmlmYnfSAbgBQVVfeXFMT2hkcG9RaDJMb1VRSjBkT2ZrU0duNEt6Vm5mYmR2ZkpUeDBCRlB6QUVfbHBZaF9GUXFBMXlJMjhrelFWY29COExjN3JkVFFjTGp2cUEwdmZSd1ZlczluSThhekl2YUxjYVk0ZFV1eTVwNkFUUDA5VlVWOUlfVTdMWHVFWnkzbzFxVHN1anlJdS02NThVTFh5X1pOcG5XUE5RTGNBWGt3R3M5ZnJTX3ZSOVlSR2RZWmU5Mw": 1792972244033,
     "threads:De77t24Eoep": 1792972535130,
     "threads:De77kDjj0SJ": 1792972535130,
     "threads:De77WlaE_13": 1792972535130,
@@ -27613,29 +27610,17 @@
     "threads:Daf-O5Nkkmb": 1794181327803,
     "threads:Dff8TbKEvly": 1794181327803,
     "threads:Dff9yxvnW_A": 1794181327803,
-    "news:CBMi5wFBVV95cUxNdkZIN0doOEZRS1U3c1l3MHVOTUFwVGVibDdZbWVnMUFjYUlId0dwSWtTdGtLY3k4SWxYMW1NaDNKTDQwTmZBaU5JYVppTnlOUk1CYXpIWHRoZjlkM1BBODlTSndQblF6cDBTbDRvazFDZ1kzUFNjbnBQRnFGZ0NWWkd6Y3Jfbl9BQVNkRDZOdWVtRmFBOXZHVmxzNkdCSmExLVdGaVdzNlF2UWR3aUEzRHdBbUhwa0hzZlJKS3dXMDhoNGUtTjcwY3hDNnFpalFna1p3c2U0ZUNkaXNhUkM0RTNtMHE1OEXSAewBQVVfeXFMTnhKaG0xZlBhdHh6RGRKMm42WFFyMGszQWI1b1JuVGpFenc5RXlmSy14SUtidGdLT1ltdmJZYnV0WkkxY0pfTG5hb0JaVm1sRW9xcFBVdU5qZFUzQmNvN01xX3NRMVRpQUVqR2pBbTF5cGlUemJRYS1ObzJLd1ZPSjhwVmVLX3BhOGhNY1dDMTBaSkZfXy1xYnQ5VS1lSTNSV2o1emxnb3lpTXphNzh6Q1ZvVnFVdDlrUENhbHNLUXJITXlqeVJjZW00ZmRBM1h5RGtGb2FkZTFVek5MM0dJWVpIOGRyejNlZG5NMUM": 1794181535892
+    "news:CBMi5wFBVV95cUxNdkZIN0doOEZRS1U3c1l3MHVOTUFwVGVibDdZbWVnMUFjYUlId0dwSWtTdGtLY3k4SWxYMW1NaDNKTDQwTmZBaU5JYVppTnlOUk1CYXpIWHRoZjlkM1BBODlTSndQblF6cDBTbDRvazFDZ1kzUFNjbnBQRnFGZ0NWWkd6Y3Jfbl9BQVNkRDZOdWVtRmFBOXZHVmxzNkdCSmExLVdGaVdzNlF2UWR3aUEzRHdBbUhwa0hzZlJKS3dXMDhoNGUtTjcwY3hDNnFpalFna1p3c2U0ZUNkaXNhUkM0RTNtMHE1OEXSAewBQVVfeXFMTnhKaG0xZlBhdHh6RGRKMm42WFFyMGszQWI1b1JuVGpFenc5RXlmSy14SUtidGdLT1ltdmJZYnV0WkkxY0pfTG5hb0JaVm1sRW9xcFBVdU5qZFUzQmNvN01xX3NRMVRpQUVqR2pBbTF5cGlUemJRYS1ObzJLd1ZPSjhwVmVLX3BhOGhNY1dDMTBaSkZfXy1xYnQ5VS1lSTNSV2o1emxnb3lpTXphNzh6Q1ZvVnFVdDlrUENhbHNLUXJITXlqeVJjZW00ZmRBM1h5RGtGb2FkZTFVek5MM0dJWVpIOGRyejNlZG5NMUM": 1794181535892,
+    "threads:Dff-TCRj7Ci": 1794181837796,
+    "threads:Dff9pzlkiyV": 1794181837796,
+    "threads:DfflrYYAckt": 1794181837796,
+    "threads:Dff1IKgDyer": 1794181837796,
+    "threads:Dff9c2sm2GL": 1794181837796,
+    "threads:Dff-cgHo47v": 1794181837796,
+    "news:CBMixgFBVV95cUxOakRVMVgzeHM3SHBYbkFOeFp2dTBNWGpzQnZVR0Fqa00wVnlZUWNtQ2xOZVR0cmhSQkFHelF3NU1DNTRIVHc1aGNpUXNlM3UzMXhaNzYxaWxhSWJfUVV2b1Z5VzZpSG5tLWV6M0M5c21DU04zWHBWbVZKMXBneTREdVVuUFdXWDRRUXhma3pBYkstNFlZcWhpb2RISkhzY09Edm1OblFGazVybU93THM5bXB4THRZYUZvVzZwMndJTWJPSUZMbkE": 1794181837796,
+    "news:CBMiyAFBVV95cUxOU19pdVVZdVRzSE03UjVPRG1BaHNiUldMMXdkQTU4RjNGNHRKbEVOUVkwcmkza3ZEZERCNVhnaEZRM2tOMnMzakNFZ0dMLTlYZnA0NnFIbFBOX0ozcjFINnE4anZUWWVDcF9kbUNrMmg4Y3RXRUZWbkxYWWdtbG12bmZiNjY5bWhjQ1lOcDU5OGdISWd3QUFfX2dDSi1Hc2NGZ0lmM1lPWnpNbUp2bEEwRnlSSng2eHhPcUFTY1NfNDB2akEtd0ZMVNIBzgFBVV95cUxOdVNNNFNWZHg4UWZkd0ROem5xYWFYdnRicVYyMnhDTDVzeXQtM2NSc3EwaFdDZWRRdUoxUmFPWDJtNzNKeWJsa28ySUlKNmZHZmw0bmRBX1ZrWUhLNldtZzU1dTZKUVpwLXFwOFFKdkVHX0hBdklIeENRd3pnWTVfd2g5bWVPeEIxWVZPR05WSlQ2bElOY2J4dHpNSEVIWkpHNzM5M3dmeWhLcE90cHNtSHVfbVZBRHEzazFMYk1jejFyR29nN2tkNHNRMmlLUQ": 1794181837796
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@rendyarya.y",
-      "x": "Ngomongin akal sehat? Penyadapan prabowo itu bukan soal prabowo pribadi disadap, tapi dia sekarang itu posisi kepala negara, yg mana pasti dia menyimpan rahasia rahasia negara, kal",
-      "u": "https://www.threads.com/@rendyarya.y/post/Dfe1sSPD_ZE",
-      "d": 1794143658000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kabar Fajar",
-      "x": "Kabar Terkini Kasus Dugaan Suap HGB ATR/BPN, KPK Bongkar Keterlibatan Pihak Swasta - Kabar Fajar - Kabar Fajar",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFFuRDlTS2w2YTBIWXNwVlpfUlVlemxZa0REZlFQVWI0c2R6ZjdobVYwX1BOenZXQklxWnlSUi0xVGN1NF81ODZyQXlMaU1BSDUyVkI0V2VMSnYzZ09YSkpvLW4yQUh0aWJuYkhxN2ZVRFluRDFQRmd6ejVUUTVYY2ItN0RucTFlWjUxSmdnLVZaMkZwa2NsNkxMSW5PMUY1SEZKUVJEMlIzZHVGRGVGUGp2SU14UEhUX0o1cFo5OXF6bjhhSG9z0gHMAUFVX3lxTE5sMEIzX3g3dkZtTEZQQ3hEaEZwV2xZLWFYaDRBeXFwRDBvdldXdjBYUFNudlc3dDBiQWRxTWtkT0M0OXdjellaV29HdlJpQnZvMGxENUpZVXVtbjJGNWFfQkJiLUpZNjNMTkoySEdwOWNzeXpLa0I1NjFUaS1rNENjWkU5cFBsNE5tU3BTYTJmYVdIMnBpYkN3WHdWVXkxLWtOcUE0LTlDMDRCdUVVNF9GT2NCUkQ1U0xXQW05MTVSSkl4VmR2WGN0QWR2dQ?oc=5",
-      "d": 1794099396000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -29115,10 +29100,30 @@
       "d": 1794175823000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "mapikornews.com",
+      "x": "Kemitraan PT AMB- Kelompok Tani Matahari Menhul-Tanjabtim: \"Saat Perusahaan Hadir, Petani Naik Kelas\" - mapikornews.com",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakRVMVgzeHM3SHBYbkFOeFp2dTBNWGpzQnZVR0Fqa00wVnlZUWNtQ2xOZVR0cmhSQkFHelF3NU1DNTRIVHc1aGNpUXNlM3UzMXhaNzYxaWxhSWJfUVV2b1Z5VzZpSG5tLWV6M0M5c21DU04zWHBWbVZKMXBneTREdVVuUFdXWDRRUXhma3pBYkstNFlZcWhpb2RISkhzY09Edm1OblFGazVybU93THM5bXB4THRZYUZvVzZwMndJTWJPSUZMbkE?oc=5",
+      "d": 1794181819000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos Akhir Tahun 2026 Cair: Daftar KPM Kriteria Gagal Salur Exclude Tahap 4 - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU19pdVVZdVRzSE03UjVPRG1BaHNiUldMMXdkQTU4RjNGNHRKbEVOUVkwcmkza3ZEZERCNVhnaEZRM2tOMnMzakNFZ0dMLTlYZnA0NnFIbFBOX0ozcjFINnE4anZUWWVDcF9kbUNrMmg4Y3RXRUZWbkxYWWdtbG12bmZiNjY5bWhjQ1lOcDU5OGdISWd3QUFfX2dDSi1Hc2NGZ0lmM1lPWnpNbUp2bEEwRnlSSng2eHhPcUFTY1NfNDB2akEtd0ZMVNIBzgFBVV95cUxOdVNNNFNWZHg4UWZkd0ROem5xYWFYdnRicVYyMnhDTDVzeXQtM2NSc3EwaFdDZWRRdUoxUmFPWDJtNzNKeWJsa28ySUlKNmZHZmw0bmRBX1ZrWUhLNldtZzU1dTZKUVpwLXFwOFFKdkVHX0hBdklIeENRd3pnWTVfd2g5bWVPeEIxWVZPR05WSlQ2bElOY2J4dHpNSEVIWkpHNzM5M3dmeWhLcE90cHNtSHVfbVZBRHEzazFMYk1jejFyR29nN2tkNHNRMmlLUQ?oc=5",
+      "d": 1794176006000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
