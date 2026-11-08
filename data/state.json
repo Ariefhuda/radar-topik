@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De65bLdCeZZ": 1792938341549,
-    "news:CBMiygFBVV95cUxPSGZBUmJub2NnM1NDWTNkMWRuN2Z3UEUyR29haGxLWnFwRnhoSGV3Q3R0MmRJZVlrYXh0dXJfVVhOYmh1dHdYX1ZjV0l5dmhvdjlvMVFqWmMxZl9VUDBGbzQ5b3R4OFA0YzdqQWItMk5GODVaRGlJdjFaSl9VeEpZRXJhQ3VGZVM1aUlQUGQ4c1pxOGV6QVFtUDF6RkFTbFBjcGcxcTd5VExCTnFkNkJjWE5RRFJxaDFVREl4c19YTjVRQXRIVVJCMTBR0gHPAUFVX3lxTE11aHYyVXFXc0FzZG1zNzJpWFQ1RWFHRzhRNUJ6dHpCdWowVldUcXowWjRsbzhDRmg5VlNyVjlaNXJUc2tBVl9WUFhGQXV6S1hYRXJvUHd3OXdVQkhaX3cwb0ItMlFLYjM2TWF6VThKZnA2NDhBY0VEZjZYT2RxX3hFckNFUEF1Vkd3N0NOeU40eTJnWUNTTFNSNmxPZ0pYWklzclRKN2pkRVI5QnhNcU1QRzVYNTljbTlyaEJQZ2hUZFlBSkpsMFYzUVlXTHZ0Zw": 1792938341549,
-    "news:CBMitwFBVV95cUxNTGVxMFV1Z3FQczFDQzB3b20zRXVUZGFtUldoaDFBSkQ2ZGxtalFBWWxENjFKSmplTjQxLUZremdad09XUmFCMUxuX0VvNWJCQ0poR1BHbFVUUFhOZVByTENrV2hEVjFCTUJINF9vUEF3RHQ2TEdUQW43c2xPN3Z0cUNTdlFtb2loQ0tTOFRNMU1RcnpJU1BlOW15OW5rYy1tNUdaZXp6LWhpTV9PNGxUNkRwcGZrN28": 1792938341549,
-    "news:CBMiyAFBVV95cUxPa0xuS0NCMnY3N0JoSk16b1JlS2R2azNJc3lzV3pTXzJRS09qbG4wVUg3WnVac3d4OWY2R3ppNkt6SjlNWVY1bHo3OE5QLWl1dXprNU0yOHJUUC15NXg3dXhoMWhxU0JBbGRvR2N5eXU4TklBdEVJVGhaek1IVUxYUEJfejJqUmpjVHpoRllMeFZLczFkWHItWUdiYXczcGdzbEIyZ0JodkVtS2ZpRF91S1NSVDFUYlNBTVdTWThXR2ZvTWdSeWZqctIBzgFBVV95cUxQSHdTMU1Bd2JpSklkdk80ZnkzU2E1UFRIU3hXbDhiVm40TWxocFVLYm9SV3FScWdVNTdaT1VINGU3emxoTTRrdmg5Wk5SZ0R5Nl9VQUhSNk9CTllnUEVjejd3V2dtMnp4N0lzakZKc256dnRmMWllSXV0YVFlVDBKbVNudEhleDQwOTllX0x4bjlsNzZJWFdCZU81NEROV09Fdk9jaGs2ZkxZNEVPNFB0LS1jTGJCenhuNE5pbzQ4X19UVDRTaFpRUjdRRW5lZw": 1792938341549,
-    "news:CBMickFVX3lxTE14MUptdUs0OEU0NUp4X1NFZnZrcmcxdGo4N1NJNi1NTEZEd3NrbmhGS1ZOaVJfcmNSZzhWRFNvdUNndXNmdEFQRVB5WFRmWXZZZ1ZRaVktV0ZXa3M1alpEV3BLVnlhakt5d2RtMVpFX241Zw": 1792938341549,
     "threads:De668gUmozC": 1792938654246,
     "threads:De67jLkEkkQ": 1792938654246,
     "threads:De67gBdDjT0": 1792938654246,
@@ -27500,7 +27495,19 @@
     "threads:Dfe9P7NoWCD": 1794147638459,
     "threads:Dfe8ok7D5ov": 1794147638459,
     "threads:Dfe8ahljBlN": 1794147638459,
-    "news:CBMi2AFBVV95cUxOd09QRHB2YTMzRE9WTEZRRHo2bGtQRndWWTVRbWN3N3dMejRxQlYxUzNUOVdRX3plTFlLeXp3VWV6eXROVFlzRFpINGNCUTI2Q2RNUkdoOGljOWlMUktxMGFjczllYWYyVk1nN1lacFdIRFE0b2s4SlJvbU1Tam02UFJZZkpodkRKSVZkNjRwY0d3UWY0aWk3MmFvNzdKeG5LczBUamRoMG54YXhiMjVuamFlTU5zLXlnZDZWc0Y0WXhxVmt4MXRmMy1YeElFTmNRZTBReVdIeVk": 1794147638459
+    "news:CBMi2AFBVV95cUxOd09QRHB2YTMzRE9WTEZRRHo2bGtQRndWWTVRbWN3N3dMejRxQlYxUzNUOVdRX3plTFlLeXp3VWV6eXROVFlzRFpINGNCUTI2Q2RNUkdoOGljOWlMUktxMGFjczllYWYyVk1nN1lacFdIRFE0b2s4SlJvbU1Tam02UFJZZkpodkRKSVZkNjRwY0d3UWY0aWk3MmFvNzdKeG5LczBUamRoMG54YXhiMjVuamFlTU5zLXlnZDZWc0Y0WXhxVmt4MXRmMy1YeElFTmNRZTBReVdIeVk": 1794147638459,
+    "threads:Dfe82IyDyVU": 1794147945768,
+    "threads:Dfe9WDxFLen": 1794147945768,
+    "threads:Dfe8dHPk2Ba": 1794147945768,
+    "threads:Dfe96volEuO": 1794147945768,
+    "threads:Dfe95XhlPSH": 1794147945768,
+    "threads:Dfe8d3RivPL": 1794147945768,
+    "threads:DetR04bk1sV": 1794147945768,
+    "threads:DaRYvK3k19x": 1794147945768,
+    "threads:DMXMQnkRhch": 1794147945768,
+    "threads:DT-F25UE5lq": 1794147945768,
+    "news:CBMiywFBVV95cUxOLXI2RXMyd1YtSWF5Qm92czNlVS1fZmFsMUNTOTNIWUFmYmtHc1Y4bTdhU2NhSlEzY292WUt6NXkxLW5JcVhJVzlyTjIxaExXbGZUV2RONDVkeTJPbmxDOEZPdFJtMk1BR196RF9sejBsUFpBQUw0cHFpRmp1aUhBdlRVUlZtdjdpcE9IdzlwZFBwMEhBc1dOVGNvSEFaRW04d3pXd1pMcjhRNjhMQmthSXd0c3FyZ1VDdmMzVWp3ODRTdHZyRkx1UlExYw": 1794147945768,
+    "news:CBMi3wFBVV95cUxPaXdjbWdiVFktTHFmWm9IdFlMZGRGN2wtc1REalNUMGNOV2RoaG5BN2ZjSmdLVGt1X3o0MWpjUF9mY05lWnpwbDRTckRCQm9OaEJjTXJldzlHUzEwclVmU2tZUjZqbnN0ZE0zT09JZXlyNDV5Yk9nRzhOcDQtUzZlMEtJTUZ5cDlVSy0tcFEzaGxXb09CdHpjellnSnc4RU1rM2xQdlhYaFNRUC1WNDY1RmRETVdCdHprczR5SFpocjZOZmpQX3BtVkU4Q19jTjJWcTV0SWRzVEt2cTZSYXVj": 1794147945768
   },
   "digest": [
     {
@@ -28142,10 +28149,80 @@
       "d": 1794147125000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ucapmandarin",
+      "x": "🎉 FREE WEBINAR BAHASA MANDARIN BATCH 3 – DAILY CONVERSATIONS! 🇨🇳 Halo teman-teman Ucap Mandarin! 👋🏻 Ada kabar baik nih! Ucap Mandarin kembali hadir dengan webinar GRATIS untuk",
+      "u": "https://www.threads.com/@ucapmandarin/post/Dfe9WDxFLen",
+      "d": 1794147670000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dy_project_id",
+      "x": "In this economy yah ada yang se GRATIS ini kah? Nah tuh Panduan GUMROAD ane gratisin..dah gitu tambah lagi dibuatin ada Webinar GRATIS juga,dah se GRATIS gini masih ada yg gk ikuta",
+      "u": "https://www.threads.com/@dy_project_id/post/Dfe8dHPk2Ba",
+      "d": 1794147203000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/Dfe96volEuO",
+      "d": 1794147970000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sonicoperr",
+      "x": "🚀 Yuk, jadi Duta Konsumen Aman di konsumenaman.id! Selain belajar mencegah penipuan digital dan mengumpulkan koin & XP, ada benefit menarik lainnya! 🎁 ⭐ 30 peserta terbaik berkes",
+      "u": "https://www.threads.com/@sonicoperr/post/Dfe95XhlPSH",
+      "d": 1794147959000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@abdiansl",
+      "x": "ChatGPT gratis vs Business, bedanya BUKAN di pinter 😳 Yang kamu ketik di akun gratisan bisa dipakai buat latih AI. Kontrak klien? Laporan keuangan? Lewat situ semua. Di Business: ",
+      "u": "https://www.threads.com/@abdiansl/post/Dfe8d3RivPL",
+      "d": 1794147236000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Sederet Bansos yang Cair Akhir Tahun 2026, Berikut Link dan Cara Cek Nama Penerima Bantuan - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXI2RXMyd1YtSWF5Qm92czNlVS1fZmFsMUNTOTNIWUFmYmtHc1Y4bTdhU2NhSlEzY292WUt6NXkxLW5JcVhJVzlyTjIxaExXbGZUV2RONDVkeTJPbmxDOEZPdFJtMk1BR196RF9sejBsUFpBQUw0cHFpRmp1aUhBdlRVUlZtdjdpcE9IdzlwZFBwMEhBc1dOVGNvSEFaRW04d3pXd1pMcjhRNjhMQmthSXd0c3FyZ1VDdmMzVWp3ODRTdHZyRkx1UlExYw?oc=5",
+      "d": 1794147879000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Pencairan Bansos PKH dan BPNT Sudah Tahap Verifikasi Rekening, Link & Cara Cek Nama Penerima Bantuan - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXdjbWdiVFktTHFmWm9IdFlMZGRGN2wtc1REalNUMGNOV2RoaG5BN2ZjSmdLVGt1X3o0MWpjUF9mY05lWnpwbDRTckRCQm9OaEJjTXJldzlHUzEwclVmU2tZUjZqbnN0ZE0zT09JZXlyNDV5Yk9nRzhOcDQtUzZlMEtJTUZ5cDlVSy0tcFEzaGxXb09CdHpjellnSnc4RU1rM2xQdlhYaFNRUC1WNDY1RmRETVdCdHprczR5SFpocjZOZmpQX3BtVkU4Q19jTjJWcTV0SWRzVEt2cTZSYXVj?oc=5",
+      "d": 1794070770000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
