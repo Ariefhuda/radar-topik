@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7puSpoBEm": 1792963245033,
-    "threads:De7prDMDXd8": 1792963245033,
-    "threads:De7piMaEWgK": 1792963245033,
-    "threads:De7pa1_CUDs": 1792963245033,
-    "threads:De7pZt_GiTy": 1792963245033,
-    "threads:De7pUdcFtjt": 1792963245033,
-    "news:CBMi2AFBVV95cUxQNklnTkIwdE8zUkk4SV9KSWNUTGpKNV9tVXFnR1RpeHFHbmdQU0o2NTdiZFpQMnV0NmZEV0ZEdWF4dVJIOXlvbExiR1hNSTFzWXRva3NOTnZnWWpNOHBiY29nQkQ5Nms1aER6Qnhka3dlN0U4M1VoWGdiM3JlRUdxX0JtamgzSE1wX1dxTXJmckFrTGk0TlFIa2pVQXJ3ajJfSnRxNWxxR1I0TmpCdHE4SkZQR3lpX1V6NVFaMWdSOVpXZUpoWUJDYzBLR3U1ZVMxOG5aeWx6ejY": 1792963245033,
     "threads:De7pi5XjJ3f": 1792963544067,
     "threads:De7pTeeE6f6": 1792963544067,
     "news:CBMibEFVX3lxTE40bVlGd2FrSC0yOWNsMGxmbE1QUXJWNWZBYmpMeDFyTVNqVjRvZ0RXVEd0MF8wRjZVMGRmelRMWlV0UXVsbHJUT2thWjZrODREZEFjeS1QTmtCclAySHhDbENTOThCQkFZd19wSQ": 1792963544067,
@@ -27613,19 +27606,15 @@
     "threads:DffrChbmbsk": 1794171934895,
     "threads:Dffqp__koru": 1794171934895,
     "threads:DdOv2x9E4Xt": 1794171934895,
-    "threads:De4gYAjnbp7": 1794172241223
+    "threads:De4gYAjnbp7": 1794172241223,
+    "threads:DfftKn_knvi": 1794172838038,
+    "threads:DfftYIcCHG7": 1794172838038,
+    "threads:DfftVBDlJs5": 1794172838038,
+    "threads:DffsTLvlNxy": 1794172838038,
+    "news:CBMiqwFBVV95cUxPcHhFZlVlMEJHSUFXSjNfTVc0R3hHdjZwQ1ZaYkRCaDY5OUVGQ1g5SzRoakpONHZqOUVhUWhNd0hNVjRPZFNjcXl3d3V1V3VVWWRjU0JndlpTRTN6TFZuczN4dlRlN0VNOTBtRkRVdFNTaHl5cVBMVU01SnRmZkNSNFdyVXlkX2dKRlRpYnp5SmxDWlpEUWRlUTVSYThTUDBuVHJNdW0teUNfUjQ": 1794172838038,
+    "news:CBMivAFBVV95cUxOV3lIVUV2SWlxTldsc1JtcVlDUzY4ajRqMkVXVlliSVR4WHpiR0FtNTlOQXAtbWNuYWh2aVl6X0xKOVFwaUVuZkUxM0U0ajdmQ1V5V3RwTjEyZ2U2eG1jZDJZbGVOQ2NQZnI0REg1bU9wNVU2NnJDOXpBZzRYV0pJZV9nSENvT0tEeUd6cnRGeS1SSkJWclowMHdkcWJYbmlMMW0wZnJURjltb1Q4SGg4OEtiMDYzTUhDa3ctYw": 1794172838038
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Kompasiana.com",
-      "x": "Pastikan warga sehat, Lapas Kelas 1 Surabaya gelar tes kesehatan gratis - Kompasiana.com",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMDVReVNXOTF6ZXpENGdlQWR2UElZSXNXT2dUVTA2NnJWdXQ0Y1F5VkgtQlRsTjNVODZUV2xwMjl2clI5UE1jT0VkRjUtYzN6MjdZSi1LdkUxQjB5clRYRF8wS3k2SW9ZUjdGMnRYNkh0X3NiVUoxZFZGa0hEOXFucHRXbWY1RDRGV19iYXFsZ3Z1MERmNEx1SXJBS0ctQkxoWDBtczlGZW96bDAtNUtyZnA1WXZBWVJzaEd6Ynp6QlhFYU9xQ3VKeDhUR2pyT1BWQ01kcS1lSG9nM3hJUENmZw?oc=5",
-      "d": 1794141679000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29115,10 +29104,20 @@
       "d": 1794170621000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "TangerangNews.com",
+      "x": "Korlantas Polri Bantah Isu SIM Seumur Hidup, Masa Berlaku Tetap 5 Tahun - TangerangNews.com",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV3lIVUV2SWlxTldsc1JtcVlDUzY4ajRqMkVXVlliSVR4WHpiR0FtNTlOQXAtbWNuYWh2aVl6X0xKOVFwaUVuZkUxM0U0ajdmQ1V5V3RwTjEyZ2U2eG1jZDJZbGVOQ2NQZnI0REg1bU9wNVU2NnJDOXpBZzRYV0pJZV9nSENvT0tEeUd6cnRGeS1SSkJWclowMHdkcWJYbmlMMW0wZnJURjltb1Q4SGg4OEtiMDYzTUhDa3ctYw?oc=5",
+      "d": 1794142306000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
