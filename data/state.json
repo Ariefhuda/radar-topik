@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5c6dYE6ZB": 1792889442503,
-    "news:CBMiugFBVV95cUxPcENlTXhDZENNRTVyUi01eUE4VGk4NnpjbldZcTg0Q2plVE1VUnVpcXNrQjFEQVFKR014b0VyTXgtd0g3ZzY3YTk1X1FpQXJER1pSVWlpeHZpcUh4U1pZeE9hQXp0aTdSOFpQMUlIM1FBbVk4aHpmdmtrNTFPenVFQkdORFBDTE9nRzFhalZpdWhuMnlWaXFrYU54bmJsRlA0Q2dnbDdaNC1jc1Ffb3YtdENJWjNoWVNfWlE": 1792889442503,
     "threads:De5efrEkggY": 1792890056542,
     "threads:DewMgOvn8Tg": 1792890056542,
     "threads:De5en1CE1s9": 1792890056542,
@@ -27716,29 +27714,11 @@
     "threads:DfdgBvFlJiY": 1794098741041,
     "threads:DfdfhIVERlr": 1794098741041,
     "threads:DfdfdTSAZsw": 1794098741041,
-    "news:CBMiY0FVX3lxTE5VWEFpdmwtZTJYRmlyclpPQVVHMGhvemVvVEltQmRHTlFJVkFZT21TM3JTS0QxSFNWLWp1V2RYalZZUHZMSVVuZjUwVjRzZUhKemlZOHMwcUo0bTVGVEFkWWtyUQ": 1794098741041
+    "news:CBMiY0FVX3lxTE5VWEFpdmwtZTJYRmlyclpPQVVHMGhvemVvVEltQmRHTlFJVkFZT21TM3JTS0QxSFNWLWp1V2RYalZZUHZMSVVuZjUwVjRzZUhKemlZOHMwcUo0bTVGVEFkWWtyUQ": 1794098741041,
+    "threads:DfdeuSPkmjF": 1794099037024,
+    "threads:DfdeslzklF7": 1794099037024
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@putrielcavi",
-      "x": "✨ *Raih Kesempatan Beasiswa Pendidikan di Sekolah Tahfizh Sahabat Quran (Boarding School)* ✨ Sekolah berbasis asrama jenjang SMP - SMA yg memiliki program Khusus dalam Hal Al-Quran",
-      "u": "https://www.threads.com/@putrielcavi/post/DfcV8dfk2_N",
-      "d": 1794059905000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Mettanews.id",
-      "x": "200.815 UMKM Jateng Kantongi Sertifikat Halal, Taj Yasin Bidik Penguatan Wisata Ramah Muslim - Mettanews.id",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTlrcGFSRE5wV2lpUHBjMWx0VkV0SlJwc3FGV1haLUFMRGRld2o5U1EzYUIta3JFRmxDN1RwX3RwNW51RFhRNmtwT2dXUHduYjJvSEJlazBHSmVKMERmb2o3YUlreEo1dzdFdU13UDRuRGhyT05jMG5Pd1d0NTU5RkxlMGVhYTY5Y2QtRmpENTdxOFl2aVVwT1E4SHIza0FVSlVGRmJmTV9FaXdRWlBhMFQyRQ?oc=5",
-      "d": 1794060262000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29218,10 +29198,30 @@
       "d": 1794098042000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfdeuSPkmjF",
+      "d": 1794098061000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@huffadz_tahfizh",
+      "x": "🌍 HUFFADZ TAHFIZH — Akademi Al-Qur’an Online 📖 Bangun perjalanan bersama Al-Qur’an dengan istiqamah dan tujuan. 👩‍🏫 Kelas privat 1-on-1 pengajar bersanad 30 juz. ✨ Program Tahf",
+      "u": "https://www.threads.com/@huffadz_tahfizh/post/DfdeslzklF7",
+      "d": 1794098047000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
