@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7kETgk8HN": 1792960551672,
-    "news:CBMimgFBVV95cUxPNE1YQjVLaDlpLWJFZUR2RWVheFdOTFRFYS15dmZxaWdHY0JIVk51R1BuaENYRnlXZWJLbkUxdUgySk1aTEJtYUJ3NDg2cGNtVGU4Zm1CdTJoS3U0Z2VDTlZ1V1IwbEdNSGRjQ2poaVJ5aDlMQ2kyVzdzM21fOUI5N3VtTXdCMERNQlhNbThQT3RJRV8zTGNyX0J3": 1792960551672,
-    "news:CBMiugFBVV95cUxNRlhYdG9hZXVMVDFiRTVMWFhwckhkOVRTc05Ldk41dHhnSVRWTGNMM01IMWlmSzFUNG5NWXZna3huS2ZoNmpkbUNXbTczclZLYUpFNkNSckhmZ2xwcHhnMUJSd25oaEJaR081enN5ZkdRdDJGZ1BnUlZFVjk3TzVSclRUclZ0R01TaF9LWHJRTF9XU1l5ckVTMWlpek5tSkV3cExMVW82Qms1N0M0RGY2bks0cFpfVW1sQnfSAboBQVVfeXFMTUZYWHRvYWV1TFQxYkU1TFhYcHJIZDlUU3NOS3ZONXR4Z0lUVkxjTDNNSDFpZksxVDRuTVl2Z2t4bktmaDZqZG1DV203M3JWS2FKRTZDUnJIZmdscHB4ZzFCUnduaGhCWkdPNXpzeWZHUXQyRmdQZ1JWRVY5N081UnJUVHJWdEdNU2hfS1hyUUxfV1NZeXJFUzFpaXpObUpFd3BMTFVvNkJrNTdDNERmNm5LNHBaX1VtbEJ3": 1792960551672,
     "news:CBMi4gFBVV95cUxOcEhFRVVkMEJQZF9jcm1kTnkweURfQV9aT3VPMTBYdEszS3NRaUJEcVNIYlpfV1h1cFVIOWljVFVvQ1hFdV9RYmVwNnRmU0VMUXNWNlVlWFRlV1FqZkNLTUlhNjl0M2MyaDJQa29EZU5EWFVCZ1N0VUdBRGcxS0hDWnRiQmF4eVlWcER1bS1NeVNxS1I3UnhuOGY0TzZvdnpJbVZkZE5BVk9vMVJ0OUhucVUycGttLWd1MHhJclRSVW9UWkJmYU9lWkw0Ukk5d1ZLQjRzbWtTNEE1TXlsUy1PODFn": 1792960849104,
     "threads:De7mBYqH_nD": 1792961142787,
     "threads:De7l0t_iNHP": 1792961142787,
@@ -27617,19 +27614,13 @@
     "threads:Dffm4fBlAls": 1794169843340,
     "threads:DdbNw9RgbN9": 1794169843340,
     "threads:DeI9fa7HYt0": 1794169843340,
-    "threads:Dddox1QGvNb": 1794169843340
+    "threads:Dddox1QGvNb": 1794169843340,
+    "threads:DeSzV_8nd2S": 1794170140716,
+    "threads:DWN40bmGWww": 1794170140716,
+    "news:CBMinwFBVV95cUxPQVNCV3lDaDhxaU43UzZRbFNrNlUyeXRfMUJiZ2syVTd5ZmFzTFE0RUJXUnZraTFXTFowMWY1WDU5Q28yM2U0QndDNkxWWWxBY0ZqblZja3RGX01pamxVc2VFYXNUQnBSRXJUNE5fbmhFQno0TFAzcm1aRlJ2dHkxVVJhbmtlNGZtQU4tcWxfT3MzUU54aTE5ekhodmNWSmc": 1794170140716,
+    "news:CBMiT0FVX3lxTE9Wb0Y5LUozN3kxdk5XSGVfZEptN3g1c3VvcDF0bU1jbExEWHE1NmtBclp4NTV0Uk9hWjRYSDJKOFk2MHBHSDNJV3A0dlJlUjjSAa4BQVVfeXFMUHYyQWkxWWxLTUtkOTE1ZEZkWk03RkZ1T255TS14UnhRN0xaOEtoMkhoU2d1NmJlbF9jVTZYSnJKVkxic3RKVnZPQ2dXS3N5MEVTRE11aGdOWFJVaHhQRE4wd2hZV09HS2JQMzJXRV85ektyd0wzVmkyWkVtS1ltR19kSGdaa2NBTm5wYUo0NWo0NEFGODh4Ty1JOTdsd3QwME9XNUtrU0VZdGhPa1dR": 1794170140716
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "URI yang dimaksud itu Universitas Republik Indonesia ya — ini kampus baru yang diresmikan 22 Juli 2026 untuk mencetak calon pemimpin birokrasi dan BUMN. Jadi wajar kamu ngerasa web",
-      "u": "https://www.threads.com/@meta.ai/post/Dfew-h-jHbJ",
-      "d": 1794141186000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29119,10 +29110,20 @@
       "d": 1794141447000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "riaurealita.com",
+      "x": "Cekbansos.kemensos.go.id 2026: Cara Cek Desil dan Status Penerima Bansos - riaurealita.com",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wb0Y5LUozN3kxdk5XSGVfZEptN3g1c3VvcDF0bU1jbExEWHE1NmtBclp4NTV0Uk9hWjRYSDJKOFk2MHBHSDNJV3A0dlJlUjjSAa4BQVVfeXFMUHYyQWkxWWxLTUtkOTE1ZEZkWk03RkZ1T255TS14UnhRN0xaOEtoMkhoU2d1NmJlbF9jVTZYSnJKVkxic3RKVnZPQ2dXS3N5MEVTRE11aGdOWFJVaHhQRE4wd2hZV09HS2JQMzJXRV85ektyd0wzVmkyWkVtS1ltR19kSGdaa2NBTm5wYUo0NWo0NEFGODh4Ty1JOTdsd3QwME9XNUtrU0VZdGhPa1dR?oc=5",
+      "d": 1794147569000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
