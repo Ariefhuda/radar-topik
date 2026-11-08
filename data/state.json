@@ -27722,19 +27722,10 @@
     "threads:Dfdb-6mDlgE": 1794097245925,
     "threads:DfdbxACkVAK": 1794097245925,
     "threads:DfdbpJ1FELs": 1794097245925,
-    "news:CBMiW0FVX3lxTE1fdDlvLUlrUEs5VVhoNHFhbW1pWmI1b3diNl9icTBmal9PZWxuNm1JVmlJWjFnb3VtQllmZjZzRTJTTmpCR1BadW56R0M1OVlNRmZkN1FEOF9TUU0": 1794097245925
+    "news:CBMiW0FVX3lxTE1fdDlvLUlrUEs5VVhoNHFhbW1pWmI1b3diNl9icTBmal9PZWxuNm1JVmlJWjFnb3VtQllmZjZzRTJTTmpCR1BadW56R0M1OVlNRmZkN1FEOF9TUU0": 1794097245925,
+    "news:CBMirwFBVV95cUxQN3o3ZGJ5eUxKZzN2T28xQlVuTnNIWXFGVDI4WjJwS0c0MER2NlhPd1ByNDQ0SE9LMVk3N2lKWm5jVmF4eURyR2dCWVRQRFp6SUM1bzBNYkRXUjZtZEdJbkFycHJTUHZJUmYzZjZpLU12bG40STAxTkdseFZjdl9CVk44OUJKdjBISktJcUJpQ1lHVjVwMmt1bkhFYmFjS1lIV2JCTHo5ODVGbG9Bc1dv0gG0AUFVX3lxTE1Fc1N4OFplMU9LSW45UWRzTVMyUGpTdngwYk95OURiUFVfQWVMWk9OOWlPMmNDRjhUVVdUOEpqdUczZkRwVjliTXJLenNNZzEtcXpCd0VMZi1RMHVVcjZRbnBGZVNNdUJueUhQTHc0bzFnX3NaSTktNVFGc3BzVjZidUk4TU1JZmpmUmdSVkJRQVNmN0JFV05HS2d3VlBoUk9JZFpEZnNnVFppbzVzckNvT21vQg": 1794097538761
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Hasanah.id",
-      "x": "Cara Cek Status Bansos PKH dan BPNT Tahap 4 2026 - Hasanah.id",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlQ4U19pMDV4bnF4UDFTVHBuendkMG44QlZjNXZlSFl4ejBZNzRZeXdTaFgzN3N6SVFVU09vQi1BNW9kZF9uakl6LXFyYlpqSzB6MnJ3NldCZ0EyLWdkZ3k1OHJSanJzR1VtUDFhakYzemN4X09TTlBIdGRTTW9CTlRXekJTNWhlNHc?oc=5",
-      "d": 1794059700000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29224,10 +29215,20 @@
       "d": 1794096841000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Desil DTSEN 5 Masih Dapat Bansos November 2026. Apa dan Berapa? - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3o3ZGJ5eUxKZzN2T28xQlVuTnNIWXFGVDI4WjJwS0c0MER2NlhPd1ByNDQ0SE9LMVk3N2lKWm5jVmF4eURyR2dCWVRQRFp6SUM1bzBNYkRXUjZtZEdJbkFycHJTUHZJUmYzZjZpLU12bG40STAxTkdseFZjdl9CVk44OUJKdjBISktJcUJpQ1lHVjVwMmt1bkhFYmFjS1lIV2JCTHo5ODVGbG9Bc1dv0gG0AUFVX3lxTE1Fc1N4OFplMU9LSW45UWRzTVMyUGpTdngwYk95OURiUFVfQWVMWk9OOWlPMmNDRjhUVVdUOEpqdUczZkRwVjliTXJLenNNZzEtcXpCd0VMZi1RMHVVcjZRbnBGZVNNdUJueUhQTHc0bzFnX3NaSTktNVFGc3BzVjZidUk4TU1JZmpmUmdSVkJRQVNmN0JFV05HS2d3VlBoUk9JZFpEZnNnVFppbzVzckNvT21vQg?oc=5",
+      "d": 1794097207000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-07-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
