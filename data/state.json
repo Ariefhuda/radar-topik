@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5gImGEwUd": 1792891251119,
-    "threads:De5gtrHmBE0": 1792891251119,
-    "threads:De5gCxvHVEO": 1792891251119,
     "threads:De5hJmyjQzG": 1792891537321,
     "threads:De5gD25k-Rq": 1792891537321,
     "news:CBMiYkFVX3lxTE11NFFoZmZ4VVY3QU9JSk1PZUlYWUt2VnhHSkZnd3dXOG4zOTNIb2ZxQmh2SjNVZi1tTDgwZUN2YnJkV0FfVUhiSENHMWQ5M01TeHh2S0RXQVZ1dXptbDZkV1pR": 1792891537321,
@@ -27725,7 +27722,16 @@
     "threads:Dfdh2fOk_4o": 1794100243728,
     "news:CBMiVkFVX3lxTE54S3FTcjB2cUphOXFxY2pUWURUTUppM05XWTVEU3pINjMzMVQtNXRkNmZsUTBIREI4OGJmcWlCSXBIYlpxS2RucHR5bjdkQWwzeW9RaU53": 1794100243728,
     "news:CBMiV0FVX3lxTE5HTWdFa01BVS03Wldmam9zemd2MktOR0Ntd0FKUEhvX2lybTFENVFzNkx4ZzlrbGkzSUpuekhCSFZWc01MQk1id3o3c0Z4SlRvRFlpTDMyTQ": 1794100243728,
-    "threads:DfdikRvG3l6": 1794100537654
+    "threads:DfdikRvG3l6": 1794100537654,
+    "threads:DfdkDj5EiFK": 1794100837813,
+    "threads:DfdbORhgWdp": 1794100837813,
+    "threads:DfdkIiUko1i": 1794100837813,
+    "threads:DfdkGdYklKg": 1794100837813,
+    "threads:Dfdjv4cjr40": 1794100837813,
+    "threads:DfdjhRqElSD": 1794100837813,
+    "threads:DfdjYcuAM_8": 1794100837813,
+    "news:CBMitwFBVV95cUxOWkdGVklHN2JTalcydXdSVHBoWkRvY0k4b2JzZGdRUFJ0cG5KcTZJNUxHV2NlZHBjYzRBcjZ4TzFoRUgwVG9IY1dPckxWWjBvdkU2Y2dKT1EyWnZVMUJlZ2FnUXo1WUVfUmdycnA4WVRCOHJvQ1ZmQ040Wkd1WjVNN0dGTFVOQzBOUzljemd4Wi1sS0dKNzJwbEpvLS1xRVUtcFBnNW9CbFBxS0xiWmFHRC12eEM4VXc": 1794100837813,
+    "news:CBMiakFVX3lxTE1ySjljRV9zRlFJSEdYX3l0SmlXWE9LRklUSWhSOXNETk4yNVRGMmNscU14UldELXM0WmItVHM3R2gzdUc1dnBJUENDZk5aV0pZWmxGejZMY2gwRDBvWlExamJ0TWNzamk4S2c": 1794100837813
   },
   "digest": [
     {
@@ -27807,10 +27813,20 @@
       "d": 1794100077000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "cwibc.co.id",
+      "x": "Cara Cek Bansos Kemensos November 2026 Lewat HP - cwibc.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ySjljRV9zRlFJSEdYX3l0SmlXWE9LRklUSWhSOXNETk4yNVRGMmNscU14UldELXM0WmItVHM3R2gzdUc1dnBJUENDZk5aV0pZWmxGejZMY2gwRDBvWlExamJ0TWNzamk4S2c?oc=5",
+      "d": 1794100640000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
