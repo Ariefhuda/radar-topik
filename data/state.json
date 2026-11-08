@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6WEOtj3en": 1792919143613,
-    "threads:De6VU0QlorQ": 1792919143613,
-    "news:CBMi2AFBVV95cUxNeTRBbGlaMEc1WEVObENCUDM3eDhsYklxM0JmaXRmZ01BQ0pNLUhucE56S2J5ZTZZRE5TeEZhSW1tb3NLaUtLTWt5b01CZTR2Y0lCajR3TVFkUE93ZWdEeWxWbVhmZ1JMakM2T0htSFdxYm1YN3hrcjhGaG5UNXZwUnNuSXNXeTRYLS1UcFEtNXlCZjFWYXVNbGphWGtFTDFHbzQ0dkx0RkZGZ3NWUXViTHl2ZHFUeGhFc3ZGOWVDd0I0MW9ob2xPN2UwMFFzMHk2ZW92NHJuMTI": 1792919143613,
-    "news:CBMiiAFBVV95cUxQVmF1MG1ZSnZqZ0hNZ0x3RXktYXFJWnQyV2tIVnVHbU5sc2VNSW90QWR0NG9McVpHbDNXcEZVdVRwVllQNk1iV0YxWGhySDFvVG5kZFpyN0Z6U3ppTGpWSm45RXRZdjlqMWVHaDBhejBZMjBXc2FyMkNweEdKQ0xmWkRpM3BZb3RL": 1792919143613,
-    "news:CBMiW0FVX3lxTFBHUi02R1VMLVdLZ1dJb1VUTUZESjNfNjB4azZ3UlFNMm1SeS03UEZ0cEtqUmFmQzg4OVNnNnY5dHJQNTNWZklIc1c1emVwR1JMeEVhOEJPbkh4U2M": 1792919143613,
     "threads:De6VqbtmIET": 1792919486495,
     "threads:De6VpRYG5yH": 1792919486495,
     "threads:De6VlBSGO6M": 1792919486495,
@@ -27582,49 +27577,26 @@
     "news:CBMi1wFBVV95cUxPY0JNbFRyVC1wR0ZvTC1KcEVhSjF0QTVtb1RiVEVNajVCNmMzbi1zbVRCdW5CbmlwMkJ0T19PWHZRSENJOWdldWFwSUhqdHhmM3R0bWQ3azh4S3NhYk9tMm41a1RSclJ1Vk9CeGFKWDN0YzdJdkhiNWZWUlQ1YWNlcnpDYS1rdDJtM016VTg0cnk4OVd2N05yM1dEQjlSOWV3SWRvWVNCa3RZZFR1MzBvNEJhYkw1SUlXX3ZIRFVtYzhMcTlQRWd4cG5QYlR5bDBzRTdhdm1Ecw": 1794128224190,
     "news:CBMi3AFBVV95cUxNTVVfYmY5b3M3OThrWmVHUVJRcHp1SlBJZlphN3RHR2ZJTTdlcmVEczFaRnZGV3dvMUFBR19tLW9VOFF0TkRRYW9OejdYZmo0TjRRb2ZBcFZERmNTcENrYWp2SDBpYnlfbXN6bTA2cDRfcFVzRUlhVnFoODFVS0hkM1QxM1R2bkdUQzBGNlFkU05mcUtYWV9ZUDJSRmdTMTY2ZlpRY0tpcWlwQ0xLRl9Wc0lLRk1kREFhVnRDWkp4cW9FbjhMcVAyZFJKU1phdVJxUnpKcnZtQ0s5Umwy": 1794128458993,
     "news:CBMimwFBVV95cUxPXzEyUjY3bTlhbzVLMFNHemY0RTVyMWg4Wkd1LTFZYi1vUjhDemhjblFoX2xIM2xfSjdYQVpneFRlS2VLV2FNTnVFUnRLN2JtREUyS1VWQk1TblF2MkZBMURTc2tkNU5aYTFKbnNlRjhlVXRxeXBZczFMR21qaG94d0dEbEFzZ1ljeW4wamtVVWJMSUlXd1lOOUhFSQ": 1794128458993,
-    "news:CBMihwFBVV95cUxPMTFWU2FxX2xrOXY0Wkp5bTVRSTZ2dmxnZjhSLUlJb0pWazdWTVI3bk5nNjlJRWRYWXdvd3FFNm5Gd2taa0lGTEFLS3loVkhaS3l5dWxUUFB4elRoX2dSNXlCY1FGbHZwTWxmM3ZuMFRsblRlVEh4WWh3dy0wNTJxQWRZUzh2bFk": 1794128458993
+    "news:CBMihwFBVV95cUxPMTFWU2FxX2xrOXY0Wkp5bTVRSTZ2dmxnZjhSLUlJb0pWazdWTVI3bk5nNjlJRWRYWXdvd3FFNm5Gd2taa0lGTEFLS3loVkhaS3l5dWxUUFB4elRoX2dSNXlCY1FGbHZwTWxmM3ZuMFRsblRlVEh4WWh3dy0wNTJxQWRZUzh2bFk": 1794128458993,
+    "threads:DfeYmkhuXaN": 1794128736485,
+    "threads:DfeYYaAn4mp": 1794128736485,
+    "threads:DfeYW6mmkRd": 1794128736485,
+    "threads:DfeYMeFmoIy": 1794128736485,
+    "threads:DfeYGlBGtJt": 1794128736485,
+    "threads:DfeYsu7DMNv": 1794128736485,
+    "threads:DfeYoSAiLzH": 1794128736485,
+    "threads:DfeYYf9jytS": 1794128736485,
+    "threads:DfeYWf5k4T7": 1794128736485,
+    "threads:DfeY98ckweo": 1794128736485,
+    "threads:DfeY3MCE6Ld": 1794128736485,
+    "threads:DfeYpFvk_3K": 1794128736485,
+    "threads:DfeZRZmE3fc": 1794128736485,
+    "threads:DfeZJjYE9Kc": 1794128736485,
+    "news:CBMinwFBVV95cUxNR2FxbVd5aXVaWDFqbWRTTVdXTnlfeC1xSXR6RjYzLTdiNFhUVXctLXNjQmxoZWZiZy1SSEgyeU1qVl9iSW5EUkdtYTE1VmVaWUlNaVJoRU5JdGNPeV9mWEY3dmp3V2NESDF1NnJVZlBxRVUtSlViQ05SODBXb1hyZjhUX2lBTlA3WXowV3BFN21HcVVsaXZpTUNKOWJldG8": 1794128736485,
+    "news:CBMi8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUdIB8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUQ": 1794128736485,
+    "news:CBMiwgFBVV95cUxPM0RFT1M0N1ZWS3FzaE43d1U4bnFQbUVIYVl3cG9yMjhNb1BrRmQ1Z0FYVDQzRUJobzhBcVZxLTgzSmJPbFVfUGtyd0htT1NuVk9pNVR0dXhqaFlac1VPUFBjNURhdDFrcEpfd1F1dHdKcDlmel9xbzlMVmhiZnJUZC1scjlGdzA1UTJqNGFabHNsdnJiRjBodFhiM1lkZUlsenE0aTVmdjhHUTVCeHB4WUMyVzhaUTBYaldIRU1CcVlJdw": 1794128736485
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribun Gorontalo",
-      "x": "Rekening KKS Anda Sudah Dicek? Ini Update Terbaru Pencairan Bansos PKH dan BPNT Tahap 4 - Tribun Gorontalo",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWERrVTZlWkEyOHRITzBzQ21LQ2Q5T0JzT05qQTY2NkU4ZlZRbWM4Qm11UEZJZGNmN09wSTM4aTVGdEpMTFJXUi1sVjVFcU8yaGFGSjdodmVjWnVYTHlQcEVveF82V1lyWUVWM29OajRHVFZta0xYNFZSM1Rxc3NxM1JIbFZvelN0bnluLVpsZ21vQVJrbi1aTHJnQzNPbVNEU3B1X3BZNzlrSEhmU0lTYmZpSFB2bFlkUldweHJxdTI4ZDlEOHlJbUJVMF84Q1U?oc=5",
-      "d": 1794107615000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@midzign",
-      "x": "yessss akhirnya kebagian bansos juga dari Chat Gpt. Coba di cek dulu akunmu siapa tau dapet bagian bansos chat gpt plus juga https://chatgpt.com/auth/login?next=%2F%3Fcta_tab%3Dper",
-      "u": "https://www.threads.com/@midzign/post/DfdxKZikRZm",
-      "d": 1794107729000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Medialokal.co",
-      "x": "DTSEN 2026 Jadi Acuan Bansos, Desil 1-5 Berpeluang Terima PKH dan BPNT - Medialokal.co",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2pTd05pNm9lM1VmMWY4R1BpaGItZDhxbEprZkNZUkJ1UkhsNDUxM0xhR3d3R1pqRUdvTngzMEhUOTVGZEtBX2x2NGdOWDdSRUFLZUd2RXBkeWxHb3ZJdW5yT056SlR4aGtGdm9sRmMwV05ET3Vmb1hBdzNBZ0F1akE1Y2dIMXh0cm5ITGpzZWM2X0FZcmJMdXRMSE5iQlJjUlJV0gGjAUFVX3lxTE53alN3Tmk2b2UzVWYxZjhHUGloYi1kOHFsSmtmQ1lSQnVSSGw0NTEzTGFHd3dHWmpFR29OeDMwSFQ5NUZkS0FfbHY0Z05YN1JFQUtlR3ZFcGR5bEdvdkl1bnJPTnpKVHhoa0Z2b2xGYzBXTkRPdWZvWEF3M0FnQXVqQTVjZ0gxeHRybkhManNlYzZfQVlyYkx1dExITmJCUmNSUlU?oc=5",
-      "d": 1794097262000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lea_maimun",
-      "x": "SYOK BANGET‼️ CPNS DIBUKA‼️ 😱 Begitu kira-kira reaksi teman-teman sesama pejuang CPNS. Untung aja aku nemu grup yang mempertemukan aku dengan sesama pejuang CPNS. 😁 Jadi, nggak p",
-      "u": "https://www.threads.com/@lea_maimun/post/Dfdx80Xib-V",
-      "d": 1794108142000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29084,10 +29056,50 @@
       "d": 1794106140000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lpkintron",
+      "x": "Halo kakk! Tertarik join LPK kami? Walau baru, kami sister company LPK Seikou Global Mandiri (sudah SO). Fasilitas lengkap: kelas & asrama AC + katering gratis (weekday)! Tersedia ",
+      "u": "https://www.threads.com/@lpkintron/post/DfeZRZmE3fc",
+      "d": 1794128757000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lpkintron",
+      "x": "bisa banget dong kak. Tertarik join LPK kami? Walau baru, kami sister company LPK Seikou Global Mandiri (sudah SO). Fasilitas lengkap: kelas & asrama AC + katering gratis (weekday)",
+      "u": "https://www.threads.com/@lpkintron/post/DfeZJjYE9Kc",
+      "d": 1794128693000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Pemprov Sulsel Sediakan Beasiswa Yatim untuk Peserta Didik SD hingga SMA, Berikut Jadwal dan Syarat Pendaftaran - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUdIB8gFBVV95cUxOclZZZDB6T1NkYU43SGlHVGZ6VlpMaUZVajF1ekM2ckdNS0ZWblpDYkl4elR3YkRibkNlQTdSM1h4NzFjMkFxaWdfZFljZm5Gc0VwckxvaXJfS1JxOERrQWxOWnMxa3kzNjJDb1pha28yMVVzaGpLa1lsMlFrbEd5a1VGQUV6alhBdXRENjlRbk9xenA1RVpuQXVveU5tc0xfRmJCcTZuQVhkVGcxWWxhb250VTI4b1FfdEFhczVCaTVPRXA4NEhUQnJWQjNjRV8xOGh2ZG1Nc29rVmlLdnU4TzNXbW00bXZTOWJob3Vxb05TUQ?oc=5",
+      "d": 1794124380000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Cara Daftar Bansos PKH dan BPNT 2027 di Portal Perlinsos Digital, Cuma 5 Menit! - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM0RFT1M0N1ZWS3FzaE43d1U4bnFQbUVIYVl3cG9yMjhNb1BrRmQ1Z0FYVDQzRUJobzhBcVZxLTgzSmJPbFVfUGtyd0htT1NuVk9pNVR0dXhqaFlac1VPUFBjNURhdDFrcEpfd1F1dHdKcDlmel9xbzlMVmhiZnJUZC1scjlGdzA1UTJqNGFabHNsdnJiRjBodFhiM1lkZUlsenE0aTVmdjhHUTVCeHB4WUMyVzhaUTBYaldIRU1CcVlJdw?oc=5",
+      "d": 1794128351000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
