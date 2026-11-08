@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6D7eDmbmI": 1792910137822,
-    "threads:De6ElqgIAbB": 1792910137822,
-    "threads:De6EpgNk_Yb": 1792910137822,
-    "threads:De6EOEoCtMv": 1792910137822,
-    "threads:De6EM10EtV0": 1792910137822,
-    "threads:De6EH0qj9JL": 1792910137822,
-    "threads:De6DgTaj-1a": 1792910137822,
-    "threads:De6E4YWCXkq": 1792910137822,
-    "threads:De6DZ--jyBN": 1792910137822,
-    "threads:DbEJWrIn4Xc": 1792910137822,
-    "threads:De6D3fagZvp": 1792910137822,
-    "news:CBMiuwFBVV95cUxQaXNOSUVCX0VUS0NMQk93R1pHSDV2VTJrVlVDM21Cd094dUlKUGVYaFNaS1JJZUkyeFE0RWQxeXVzbUFOWEszakh0MVhwa3lGdERiY1ZkLWdtOTZmVzBnbmlrQkU3RlY0aVI1RGtfcXYxOXpuVGtMU2RCbDhVdW9MSmpQWmU0WVVGbW9PUXBHY0NtRGZwcU1jUUY0b1Rvdk5pQlZJeHJuQzRLeHdic0N0MXhtZ2pXU2ZwY3dn": 1792910137822,
-    "news:CBMirAFBVV95cUxNQnpaVHNiXzJSMEFCWW9RRkZpTzByVmVGSjRoRzNJdm1YT0dQSzhOTFZBVVNiNGlDN2RadU9HbHRfNlRueWpWSkJyNE41NUZBS2hsV0hRZXpKZDZBcXlxUzBmUXM3RFExRkFUMXB1V0V5bnNNUUYzMGFFM1ppZjRFdjRMVDdNellsblloSmtKcE9XSlBzY2lNd0dlRmVzUVJhbnNLRUNLSVRLUmZF0gGsAUFVX3lxTE1CelpUc2JfMlIwQUJZb1FGRmlPMHJWZUZKNGhHM0l2bVhPR1BLOE5MVkFVU2I0aUM3ZFp1T0dsdF82VG55alZKQnI0TjU1RkFLaGxXSFFlekpkNkFxeXFTMGZRczdEUTFGQVQxcHVXRXluc01RRjMwYUUzWmlmNEV2NExUN016WWxuWWhKa0pwT1dKUHNjaU13R2VGZXNRUmFuc0tFQ0tJVEtSZkU": 1792910137822,
     "threads:De50qZMG77x": 1792910779938,
     "threads:De6FC6Cjx7M": 1792910779938,
     "threads:De6E1fNETnt": 1792910779938,
@@ -27618,7 +27605,25 @@
     "threads:DfeHJvzAhS0": 1794119442982,
     "threads:DfeGEW3icJ-": 1794119442982,
     "threads:DfeHgSjAXU6": 1794119442982,
-    "threads:DfeHJAqAUMv": 1794119442982
+    "threads:DfeHJAqAUMv": 1794119442982,
+    "threads:DfeHYs4mhSj": 1794119740179,
+    "threads:DfeHTLMk22Y": 1794119740179,
+    "threads:DfeIEJTienh": 1794119740179,
+    "threads:DfeH_0bFsP-": 1794119740179,
+    "threads:DfeHgXik48e": 1794119740179,
+    "threads:Dfd_uj1m2Mf": 1794119740179,
+    "threads:DfeHRYoDh6-": 1794119740179,
+    "threads:DfeGr7KE4md": 1794119740179,
+    "threads:DfeGgklgNm1": 1794119740179,
+    "threads:DfeF37Hk4bM": 1794119740179,
+    "threads:DfeFsdFG21f": 1794119740179,
+    "threads:DfeH4Fqk4HU": 1794119740179,
+    "threads:DfeHqEAD_QD": 1794119740179,
+    "threads:Dfd17RKna1p": 1794119740179,
+    "threads:DfeHFqHE7Lb": 1794119740179,
+    "news:CBMiugFBVV95cUxOOE56OTVVZWtFeTNtUEJuMzNxc0lMcXcyMHB0eVkya1VmQ0lZd21wZHBoOGRScnNfRlFYcHhiMmVKTC1Va1JKQms0RXg3VDhkaVE4TnhFeE1TSmxHSDA4MW96N0RfdF9JTFdsUW1KSk5aVGN5Sks0VkdDU2ZjRUxlYTFuU3FPTUQ4c25Lak5SR09fcDhjUkhzRzFtVzYtUmYxLUR6OXJwZ19jMk95VmxYbU00QktlZUdnRkE": 1794119740179,
+    "news:CBMipwFBVV95cUxORlpTSG9DTzNyaVBSamEtMExxWEJDWnI1aFZ0OC1YQlc2ZVJvQzNGWXl1eEpiVDN2ZWFDWmhfVU84NUdYOVRxTWt1SmhqLWRROHJyRDg4dm5HckZ5eWt3cHlYV1JVeUF4dzVZeGU0b2w0aVB4a1BDOEZ2czlyYjRsWnItNG03TWtUbHdYTklVQ1VRYUNRTzZJR3Z5Sl9MMkdZYS1BMm9IZw": 1794119740179,
+    "news:CBMiV0FVX3lxTFB4OTVJeE1xdGptaC1LOG1sY3dsTVRibnBuYVpIQzhiQ3EtMXJlMXlVOFlpLW43TjIzY3U5bmR3OVc0MUJrd3lPNE9YYmdEOWJGSUw2SHoyUQ": 1794119740179
   },
   "digest": [
     {
@@ -29030,10 +29035,70 @@
       "d": 1794118689000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Barangkali ada yg tertarik ikut Webinar Gratis kaka2 nanti jumat tg 13 Nov? Kebetulan salahsatu yg akan dibahas terkait affiliate...Yuk tinggal klik link dibawah ini ya.. Akses ter",
+      "u": "https://www.threads.com/@eneng_apt/post/DfeH4Fqk4HU",
+      "d": 1794119637000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, kalau bingung mau jualan apa, sebenernya jawaban nya adalah di riset dulu. Produk kategori apa yg ingin dijual lalu di riset yg terlaris yg mana. Baru bisa menentukan mau ",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfeHqEAD_QD",
+      "d": 1794119522000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@theinvestor_id",
+      "x": "Ekspansinya bagus, pendapatannya naik, tapi rupiah melemah dan barangnya impor semua. Kamu beli sekarang atau tunggu? Jawaban kami: boleh beli bertahap, tapi cek porsinya dulu di t",
+      "u": "https://www.threads.com/@theinvestor_id/post/Dfd17RKna1p",
+      "d": 1794110401000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@maisorayya",
+      "x": "📢INFO WARGA KOTA KEDIRI PELATIHAN ROTI DAN KUE GRATIS TIDAK DIPUNGUT BIAYA APAPUN 🙌🏻",
+      "u": "https://www.threads.com/@maisorayya/post/DfeHFqHE7Lb",
+      "d": 1794119224000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Penerima Bedah Rumah di Bogor Didorong Miliki Sertifikat Tanah - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlpTSG9DTzNyaVBSamEtMExxWEJDWnI1aFZ0OC1YQlc2ZVJvQzNGWXl1eEpiVDN2ZWFDWmhfVU84NUdYOVRxTWt1SmhqLWRROHJyRDg4dm5HckZ5eWt3cHlYV1JVeUF4dzVZeGU0b2w0aVB4a1BDOEZ2czlyYjRsWnItNG03TWtUbHdYTklVQ1VRYUNRTzZJR3Z5Sl9MMkdZYS1BMm9IZw?oc=5",
+      "d": 1794119220000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "cwibc.co.id",
+      "x": "Cara Cek Bansos Rp 600 Ribu November 2026 Lewat HP - cwibc.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4OTVJeE1xdGptaC1LOG1sY3dsTVRibnBuYVpIQzhiQ3EtMXJlMXlVOFlpLW43TjIzY3U5bmR3OVc0MUJrd3lPNE9YYmdEOWJGSUw2SHoyUQ?oc=5",
+      "d": 1794119681000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
