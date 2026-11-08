@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5-K9kEwoV": 1792907146866,
-    "threads:De5_IPHjpuq": 1792907146866,
-    "threads:DY_r2qziad2": 1792907146866,
-    "news:CBMixAFBVV95cUxNRF9rTllrSzk5QTdxc0JMMVIyYmNibDlCRktpaHZ1STNqaGM0RXRkbDN6S05nTnF3eEhlTUdPNG1Ed0RCTzJSTDBzREU1VkJqQUZ3TEk0MDNEblRHc3pYQjJBRURFb1kyVmIwSFkyTWl2NndIYU5VUHZ2YU9tZzN2bmo4TGNmN0lSSWNJUkJBN0dOeFdqaUdXZzExWkhhOEx4SDRldWlLZXRFUzRkRVhyd3VJNHcwMW9BZWNyVmp1U21ScFcx": 1792907146866,
-    "news:CBMi3AFBVV95cUxONlVRZkllc01zdFVKdFQydGVPNUlySlJqTEM5Qmd1dVc5UWlXN2hicm5XeF9QTGRSdF9JSWVRSFlVaEFjdk9jbFZiV29kc2lIUGdBbVRaUFJwTzBDbGlYOHZvZDMwWHg1RFdUcVRvaS1sOW5ZOWhEMjZRWWNCV05kcFFLWmxtUUFEVjFSb0ZxVkVJYzhmNlJtcFlSR2hjZVc2RFlZYk1QbDNwUEhEY0hCODNBYm9Na2JVSWZ6aXpLbXAwMHNpOTJ3djlvbTFmUl9hVkdQWG1DN0NHQUlF0gHiAUFVX3lxTE4wMlFVVTNYSXYtbjczSHFuZ2o5eWdkQVBORDdReldZbFExTmJldkxpZko0SGpSY2xKMXdiVFljWW1mb1NIX1M4MmNDODB6UHFDYWJ4TjJxek5nbkRnS3FWU3hjRHdRZnpESmpDVDJiR0p6NWsxOFViRUMxYm1CTHRwcmNUeVlhbDNBeXE1TklOR29vZlRic0lJN0N0dzBUZDNuRWI4UmppWERLYTFWV0x6SmpOeFlvRzFOLXk4WnR1ZUZvSWRlMGlDRGZxeF93M0NJZ196UmJ6OVRORXNUdHZaMlE": 1792907146866,
-    "news:CBMirwFBVV95cUxQMjdsUGFBLXV1dFZERkctQ1hvT2dDVVRad2JuXzY5MTYxUjVhMEN5ZHFZTEExTEcxNFVqaW1FMEozNk5oTm5Zd1B5dlA1YjVZY29SdGpLWWd2TEplNmtKUnA4eHBBaHNtc0IwOVFnV3ZwZTVCRFVxTHRFb25YUFh3VGt0d2JyTEZ1TDdTWVhaRHo3Rk5kSm5MRWJZeEhEQVJyMkd3T1FEc1ZtZVd6RkY0": 1792907146866,
     "news:CBMipAFBVV95cUxNeDYxbXJhclp3U3JGTm5ZUlFyd2doczFkM3dKZmMtZkRLSjBxRlFMeXlfZ09RQldZLUl3eHc1bVM2aVVGXzBNS3VtNXAtT2d1QWt5T01YeDB6OExJQ0h4YWl6aVdFVE1zV0oyeGNJN21zaVk3SWltSkFVWC1DeDhyV09QTndwdXZ1SGQ5TTJOOC1YTm0xeGJON0JsYlNBZ3hnRDRYaA": 1792907444366,
     "news:CBMigAFBVV95cUxQNVkwcGttUjhYYndJaTVHamNhR2UyQ2U2OXcwVzFSUHdPTEM4Nm9FTmptUlh2YzdkX2l0Q0Nha2NvdWEtMUlrZkpPUEU3ZGxPZl9oSzBDSWVwWDJUQWc0UkF4R1hUa0dzdDJkOFZQUVFUT2VON0FnWUctZkNsMmxxSQ": 1792907444366,
     "news:CBMipAFBVV95cUxNRnJiWVBGZUE2dnZ2ZFZza2pBYVJQVjRSUTA3dGlZeFpFXy14Zk14Q0s3blQySV9COEs5UldLdE5nSDFJNkhXaHE4cjI1YS1yVmxyc21jQ0h0aThmNmNqV2NkR3lGM0VYUkJiTkdlNkpUQ05LNUVXaHI0QkM4UHBCTUFMbHBPM01VeWZLQTNJR0tPQzFicU4tcjNuQUk5YUlsekZEN9IBqgFBVV95cUxQdUVURlE1czdUbHBHSlZlTWlZc29mZzVKTElIYjlKQTBqcV83d21fQ2U4amxzLU5UV0hsZm56TmtyVnNSSVFzSGJXTHNiT2FsWnlqMWUzSHl6Q1llaEgyQndyeTJ1bVV1bUdDRkVzM0dQZG5OdjNtcFdrYWgtTXAySGdvU2lmek9feTVJRmJBaXJUSktsU1pHdGFDOVVkZWJvTGhSS2ViaWgzZw": 1792907444366,
@@ -27624,7 +27618,19 @@
     "threads:DfeB5EzgSrd": 1794116441998,
     "threads:DfeAvkrAXC4": 1794116441998,
     "news:CBMipwFBVV95cUxPU2xkUU9xQTlvTHRKazlaTFNJamJHWWVQVUxCMmg5ZTAtM1Y0LXl3S1RqTDZCSS1QZEM0TDE3LVVDLXRFdVFWYzRaemRsRkZKM050Xy1hWHhrU01taG01dnFyOE9FNTdHZjIzdGNwUmlCQ19iSmhTdHZGaF9NMVhHeGtpRmRZQ0c2RzBVd2ZkUWN5alZtOUh0dXhTbFlSaHF1OGttM05Dd9IBrAFBVV95cUxNdkhIRTFwWWZfN3I2Y1RDM1hyY3ZMUXVORC1nTTAtMjBYeklOOGFHWFUtdld5clMtM2hpRWdJbW5RZGM0Z3JienY3dTNXbU5PdWJjZ1BNS2dpZVBXdDQwYTdsOF94RnB6WXVyWVQ2aFNqeU5hc3VEaWlHd1BJUmNtYTNCX2xQa1JIdXFlTWhwYVplZnBlRk9VMVFpajhJdy1zc3k0bGNCVTFDTlk3": 1794116441998,
-    "news:CBMimgFBVV95cUxPNS1zWTRnazNfWlVSUmxFTmw0cmNzVFlqcTRMbDB2SGE4ZHF3VkpyczBPdGl1VGFSWnJfR0RkY01xQ01oSzZWdlJPaDBSQzBpR1lFeUxUZDA4S0dyLTZPNEY0YjZqSGljRzVwYk9yQnNZV01ObDFyRmVhM1JXd09FRHR6R3ptV3BWUG1DcHBPcTctLThMNWRmYjl30gGWAUFVX3lxTFBFYWs5eE1nLW12b3NsTFpPMkNDREszS1QyZ3ZneC1QdUFmN1hVbnRIQjg0bWMwRkpYNDdjdm94emZBTXdxckVHbmtzREd2enladl84QV9nRDVVckRPNHJVYldVTnI5cTZ5OFZhdUhSSl8xdkZJRXZnQzF3OHIweG00ZGc3czNOSFFyN3Y3bllMNG0tdnJ2dw": 1794116441998
+    "news:CBMimgFBVV95cUxPNS1zWTRnazNfWlVSUmxFTmw0cmNzVFlqcTRMbDB2SGE4ZHF3VkpyczBPdGl1VGFSWnJfR0RkY01xQ01oSzZWdlJPaDBSQzBpR1lFeUxUZDA4S0dyLTZPNEY0YjZqSGljRzVwYk9yQnNZV01ObDFyRmVhM1JXd09FRHR6R3ptV3BWUG1DcHBPcTctLThMNWRmYjl30gGWAUFVX3lxTFBFYWs5eE1nLW12b3NsTFpPMkNDREszS1QyZ3ZneC1QdUFmN1hVbnRIQjg0bWMwRkpYNDdjdm94emZBTXdxckVHbmtzREd2enladl84QV9nRDVVckRPNHJVYldVTnI5cTZ5OFZhdUhSSl8xdkZJRXZnQzF3OHIweG00ZGc3czNOSFFyN3Y3bllMNG0tdnJ2dw": 1794116441998,
+    "threads:DfeCB-7jx3x": 1794116739338,
+    "threads:DfeB6SrAdPl": 1794116739338,
+    "threads:DfeBPgBkcmk": 1794116739338,
+    "threads:DfeBG8QoNRr": 1794116739338,
+    "threads:Dfbn8yHmoAQ": 1794116739338,
+    "threads:DfeBV4en6-_": 1794116739338,
+    "threads:DfeBPvzCauT": 1794116739338,
+    "threads:DfeBLBsFlh1": 1794116739338,
+    "threads:DfeBEhQRMDH": 1794116739338,
+    "threads:DfeA7FEI3GV": 1794116739338,
+    "threads:DfeBbcNlLZb": 1794116739338,
+    "threads:DfeCAWNk9Bf": 1794116739338
   },
   "digest": [
     {
@@ -28796,10 +28802,30 @@
       "d": 1794107880000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@berkahkori",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@berkahkori/post/DfeBbcNlLZb",
+      "d": 1794116257000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@jejakmuslimah.id",
+      "x": "Allahumma baarik, mulai maret rutin buka kelas GRATIS buat muslimah mengenal tools AI, sekarang aku lagi cari yang bersedia ikut kelas online via grup wa💌💕 Kalau ada yang mau bol",
+      "u": "https://www.threads.com/@jejakmuslimah.id/post/DfeCAWNk9Bf",
+      "d": 1794116559000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
