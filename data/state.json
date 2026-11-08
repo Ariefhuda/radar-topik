@@ -27530,7 +27530,14 @@
     "threads:DffLN2DEawq": 1794155136991,
     "threads:DffKm3skb3n": 1794155136991,
     "threads:DffKYckg188": 1794155136991,
-    "news:CBMivAFBVV95cUxOckhCX3lEaWhhRDNGM2RrMTJSbHIzTHk4MUVvQ0F6N0sxLVlGZlNlbWJlUWVHVzdkdnQ4X2tIUmx3dlBVdmtrN1pHRVR2VXFhSHhTdzMybmMxeGlaS3lIaGdJOG82aHd1cWhOVFVJUnFvb0JVcy1wT1hzT1RpY0s0UjJJM1RWLWdvdHlHRF9zcXM0dVh2RmlMTlN6UnRyMXd1RkFPWEsybDZmZF9LZEQwYkx6bXlFYWhfRFQ1Ng": 1794155136991
+    "news:CBMivAFBVV95cUxOckhCX3lEaWhhRDNGM2RrMTJSbHIzTHk4MUVvQ0F6N0sxLVlGZlNlbWJlUWVHVzdkdnQ4X2tIUmx3dlBVdmtrN1pHRVR2VXFhSHhTdzMybmMxeGlaS3lIaGdJOG82aHd1cWhOVFVJUnFvb0JVcy1wT1hzT1RpY0s0UjJJM1RWLWdvdHlHRF9zcXM0dVh2RmlMTlN6UnRyMXd1RkFPWEsybDZmZF9LZEQwYkx6bXlFYWhfRFQ1Ng": 1794155136991,
+    "threads:DffLYnhydCe": 1794155444782,
+    "threads:DffLZn9j29D": 1794155444782,
+    "threads:DffKkA1gG9z": 1794155444782,
+    "threads:DclLRCZk9L2": 1794155444782,
+    "threads:DfehjxpE0mH": 1794155444782,
+    "threads:C8dkWClyElO": 1794155444782,
+    "news:CBMi5wFBVV95cUxPaWZyN1Y1WFpDX1A4ZlR2NUdHSFVtSkdOYmMxRVdGZWJjUjZjOE5WUE15WElSc2xlcHJ1V3UwT25KaFVxY1NWclZpR3RKcnV1aXpYTGhyTU5VdUpVSDlYTVI4VDdidXBQMjRlMDZmY2gtS1NMN1pRbVd3ZVB6OE10cWhOU3doN2pmemRIcVRGT3BlaDhUUmktSU10c3JEUmJhOFJNSzNTdURlVFJFbEo4ZTVmRXhpNjJTVi04bzhNZ01BWUZzTEt3NGpWbE5oNWNEYkZtVGl3YkF2OG92SS1PVk1BaFVUX1E": 1794155444782
   },
   "digest": [
     {
@@ -28802,10 +28809,30 @@
       "d": 1794150457000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@endriawan_erwin",
+      "x": "Toko Shopee kamu stuck di angka segitu-gitu aja? Bingung harus gimana in lagi biar penjualan naik konsisten? Di webinar GRATIS ini, Mas Erwin (Seller Shopee sejak 2018, kelola toko",
+      "u": "https://www.threads.com/@endriawan_erwin/post/DffKkA1gG9z",
+      "d": 1794154602000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@smakpdg",
+      "x": "YUK, JOIN WEBINAR KARL FISCHER! GRATIS, BERILMU, DAN BERSERTIFIKAT! Halo, Sobat Industri dan Sobat SMAKers! Bagaimana teknologi mengubah analisis kadar air dari metode manual menja",
+      "u": "https://www.threads.com/@smakpdg/post/DfehjxpE0mH",
+      "d": 1794133102000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
