@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De73yH4ndZl": 1792970735050,
-    "threads:De73rblkZnC": 1792970735050,
-    "threads:De73albDmRB": 1792970735050,
     "threads:De74uxIExMY": 1792971051773,
     "threads:De74qpfk04O": 1792971051773,
     "threads:De74ktyk2WW": 1792971051773,
@@ -27614,19 +27611,18 @@
     "threads:Dff5UQLkn5z": 1794179751769,
     "threads:DeERkLKj7xq": 1794179751769,
     "threads:Ddu3N09mJ2l": 1794179751769,
-    "news:CBMie0FVX3lxTFBwLVlYZzZxQXJLLXcyWXdIckFLZ0Vtc2ZhbS1vMjRKd1BQQnRQYjBxRWVrRm5Mbld3VjRRT0NVemNnMldLWTc5M0lFYmN3SWxUbV92Y0xQNndtLW5Ma2NTc1RsN2xkWi1ySUhGV1I4UDVZVlJxc0JqRHlFOA": 1794179751769
+    "news:CBMie0FVX3lxTFBwLVlYZzZxQXJLLXcyWXdIckFLZ0Vtc2ZhbS1vMjRKd1BQQnRQYjBxRWVrRm5Mbld3VjRRT0NVemNnMldLWTc5M0lFYmN3SWxUbV92Y0xQNndtLW5Ma2NTc1RsN2xkWi1ySUhGV1I4UDVZVlJxc0JqRHlFOA": 1794179751769,
+    "threads:Dff62s1EqwA": 1794180334548,
+    "threads:Dff7RPAEfjG": 1794180334548,
+    "threads:Dff7CwKE9pV": 1794180334548,
+    "threads:Dff66T1GWn2": 1794180334548,
+    "threads:Dff6VH-jl4D": 1794180334548,
+    "threads:Dff6JOhlqaY": 1794180334548,
+    "threads:Dcz3mi1mA4B": 1794180334548,
+    "threads:Dff7o8Inx9U": 1794180334548,
+    "threads:DeRHcQtD9lm": 1794180334548
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@horizons.educenter",
-      "x": "Halo Dokter Estetika, Horizons Academy mencari untuk 2 dokter yang beruntung untuk bisa mengikuti pelatihan ANATOMI kami GRATIS. Terbuka kesempatan untuk kelas di Surabaya (27-28 N",
-      "u": "https://www.threads.com/@horizons.educenter/post/Dfe0oq_lFtk",
-      "d": 1794143104000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29116,10 +29112,20 @@
       "d": 1794179112000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@journeybyalesha",
+      "x": "Kakak bisa ikut webinar gratis dulu supaya lebih paham dan tidak bingung harus mulai dari mana. Saya bantu masukkan ke grup ya. 🤗",
+      "u": "https://www.threads.com/@journeybyalesha/post/Dff7o8Inx9U",
+      "d": 1794180331000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
