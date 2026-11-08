@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De7jRPVCKQL": 1792959645300,
-    "threads:De7jFvika2q": 1792959645300,
-    "threads:De7jDuqmFGZ": 1792959645300,
-    "threads:De7jBSGFV4f": 1792959645300,
-    "threads:De7i2S1jUr0": 1792959645300,
-    "threads:De7iyzID8-N": 1792959645300,
-    "threads:De7iwE1mMMg": 1792959645300,
-    "threads:De7hx9ZI5VE": 1792959645300,
-    "threads:De7hMVQCFrl": 1792959645300,
-    "threads:De7g7dvj6BW": 1792959645300,
-    "threads:De7ikiijNam": 1792959645300,
-    "threads:De7hsJAD46i": 1792959645300,
-    "threads:De7hsW7jN0Y": 1792959645300,
-    "threads:DbCa99FE0bQ": 1792959645300,
-    "news:CBMi2AFBVV95cUxPdG5mVFYzZGxNYUFBbWk5Q1RlTUZXRm9pRzBJY3RZQm9ERU1FSU8xQkRCR01ZUUpUVjVTRzZ6VWtCMG83NjJtcjlkTkF6U1A1Szc2T2o5ZmVQSVZWYWFIanJuc3dqSW14Tm9sNFFVcE5sMGJ6WWNudmxMT0FENmpKaExoRm9TTkpsNExJRDMzX01yRGlNVDFtZjBIZnByVjJMMnlmMkJjZWgza3ZpQXNwY1MzTzUwelRuMkFoRnE1YUt5dEZxSWxBdVFwVXlYeUFMeWVYUVRNTUM": 1792959645300,
     "threads:DdJf6YiiRtY": 1792959935870,
     "news:CBMi1AFBVV95cUxPRllvR1pJZHBCYzZfdkVpdDdLaWpiY09sZFFMUEZtX1FPRzM1NTJGWjdpTTllN0FzMzJhRlBCbmJBUi13cUctVmR3SUdadVhpMWRQemRMSkVrTm15Tzg0d1RUSnhGVWNpcGZyS0hzLW80UGx1OWdDbV8yWXF6ZFVUcnRCckR0NFZMU3NCSnlNU1FjQVV1aTNROVN3QjY2SlR0dlY3ZUdjR24teUZWY2RCd3M2eG5VRnVvY1o5YkgyN2JOUG5LNFRSVW1fMjZqVi1SMWxqcw": 1792959935870,
     "news:CBMipwFBVV95cUxORjA5eDkyWlUyaDBEMExZRGhMcWx4TG5JZTg1aTQzNjNDN1FqY2czbkdiUjVSSF9uZWRTWVRFMG5jaWEzX3ZsLUR6cGpOaXFqcHhHbU1tNENPbUVqU1BGbF91MmdvcFk1X2lmZjA1ZDg1eGlkUjdjNDF1Nmgwc2F0WnlKc0lNdThoTFoyaW10bWZWNjZvRHM2VjVnNFNBbzN0SU1Id0tEWdIBugFBVV95cUxNRlhYdG9hZXVMVDFiRTVMWFhwckhkOVRTc05Ldk41dHhnSVRWTGNMM01IMWlmSzFUNG5NWXZna3huS2ZoNmpkbUNXbTczclZLYUpFNkNSckhmZ2xwcHhnMUJSd25oaEJaR081enN5ZkdRdDJGZ1BnUlZFVjk3TzVSclRUclZ0R01TaF9LWHJRTF9XU1l5ckVTMWlpek5tSkV3cExMVW82Qms1N0M0RGY2bks0cFpfVW1sQnc": 1792959935870,
@@ -27628,39 +27613,15 @@
     "threads:DffliGClLgT": 1794168937874,
     "threads:DfflSeZlJcc": 1794168937874,
     "threads:DfflSapGUsf": 1794168937874,
-    "threads:DfflIZNFGpe": 1794168937874
+    "threads:DfflIZNFGpe": 1794168937874,
+    "threads:Dfflz42DOPP": 1794169242473,
+    "threads:DffleKFjJX4": 1794169242473,
+    "threads:DeguYtugvet": 1794169242473,
+    "threads:DfflDFfk2_T": 1794169242473,
+    "threads:DfflBxUkxKi": 1794169242473,
+    "threads:DfexeYBnzMq": 1794169242473
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Adatah",
-      "x": "Dokumen Perpanjangan Sertifikat HGB Disita, KPK Kembali Periksa Bos Bela Parahiyangan - Adatah - Adatah",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2l5cHo4YlF4dktLYTg0SWlYSmdHa1Y4QXRWa1B1V0VKaTk4dGduOTFncEhCaUdxZlFMaXVENHZWbTNpd3dKM0Rrb214V2FHNDhKOWJfUjdUdHhLTXUzOXBLc2ptZXlqU00xWFN4UXRJX3lIcDZ6VXc3YzctRUF3YTY5VDhwbFBoVmlKMFVNWjJBZGxGNkZRaGhhRzJIY3hZYUs2X2lMMVpqWUZHVXM3VXhuYzZMdjl2SUpNTjkzQjdjNXcxY3fSAcsBQVVfeXFMTS1qZmxUT1QzMnBvRnpYc1BoNEtFV2FzdERKTUt1dXhhQ2wwTXJLTXhQU19zSlpjWFNGRGJjY1R1ZlVBTS1nZXFaSTVoU2paam1zVVRTckI3S0RFX1UyNE9JdHJNZEZCdGtuejJ3eF9iQVRkTF92NGFVYmJUR1hUVS1XNFhLVUE1RmNkSUlkUy1VcEJHRm85d2RYaHVvRklLMzdVRE1UZHFxNnNGV1pIV1ExREVZcEd3eE5yd3N1X3R5djFVNTZ0d3RSQjQ?oc=5",
-      "d": 1794107375000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Lampung Newspaper",
-      "x": "Mahasiswa Unila Antusias Sambut Peluang Beasiswa Studi ke Amerika Serikat melalui AMINEF - lampungnewspaper.disway.id - Lampung Newspaper",
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjZOcXFlUnBtRVhZVVZvMnVPalRJY21QUmYyODRhRG13cDlMYVNOVUxFV0ZYMzlBYUpRcVZQLVhTNnJzZzBPSHprb2NVdko4WnZwOXVlbHZHVkFkM2dPTk56N1MxQ2s3MVlHT3ZLZ2dTV0dmbTBMVnVuUzlUdzZJanBUQWlSYmstMWZCRUltVVJhQUpPUHZMZTJWYUNzeHVfcHZuZjdrREtpMFBkOUFUTHlJWHRFQ1RGUVh5cUtsSnowYmtrb0xfWXUtQUhPQdIBzgFBVV95cUxPZjZOcXFlUnBtRVhZVVZvMnVPalRJY21QUmYyODRhRG13cDlMYVNOVUxFV0ZYMzlBYUpRcVZQLVhTNnJzZzBPSHprb2NVdko4WnZwOXVlbHZHVkFkM2dPTk56N1MxQ2s3MVlHT3ZLZ2dTV0dmbTBMVnVuUzlUdzZJanBUQWlSYmstMWZCRUltVVJhQUpPUHZMZTJWYUNzeHVfcHZuZjdrREtpMFBkOUFUTHlJWHRFQ1RGUVh5cUtsSnowYmtrb0xfWXUtQUhPQQ?oc=5",
-      "d": 1794071520000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Desil 1-4 Diperbarui, Bansos PKH, BPNT, dan BLT Kesra Rp900 Ribu Langsung Cair? - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2o5aXlueFF5ZFBoZXE4T0VPWUFXLWFyb3VWTkZqdGNld243LUg0a2E0dDZLdTFMSVlnRTFwVENXdHg1dXdaWUxaMENLQi1TTnNPN1VtUFJsNG15RnZqS0RTZjR1YjFwbjltWGRFYWdsSVYxOFJkZm5Td0dBc194Skg2SDlnd0NGLV9ES3VKOWlaM2YtWk42OENXNHdSWGRjUFhkcUptY25waGVOX3kxUzBnQl9STDZMVS1FMlQtdWZEVVItTFhN0gHHAUFVX3lxTE9fajlpeW54UXlkUGhlcThPRU9ZQVctYXJvdVZORmp0Y2V3bjctSDRrYTR0Nkt1MUxJWWdFMXBUQ1d0eDV1d1pZTFowQ0tCLVNOc083VW1QUmw0bXlGdmpLRFNmNHViMXBuOW1YZEVhZ2xJVjE4UmRmblN3R0FzX3hKSDZIOWd3Q0YtX0RLdUo5aVozZi1aTjY4Q1c0d1JYZGNQWGRxSm1jbnBoZU5feTFTMGdCX1JMNkxVLUUyVC11ZkRVUi1MWE0?oc=5",
-      "d": 1794135985000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29130,10 +29091,40 @@
       "d": 1794168400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
+      "u": "https://www.threads.com/@updatepelatihan/post/DfflDFfk2_T",
+      "d": 1794168486000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@updatepelatihan",
+      "x": "Halo kak Untuk pendaftaran pelatihan gratis bisa klik link di bio, pilih menu pelatihan gratis",
+      "u": "https://www.threads.com/@updatepelatihan/post/DfflBxUkxKi",
+      "d": 1794168475000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@salsajung",
+      "x": "Bumil tanggal 11 november free ga? Ada kelas prenatal yoga gratis dapet goodiebag dan snack jugaa🤗",
+      "u": "https://www.threads.com/@salsajung/post/DfexeYBnzMq",
+      "d": 1794141447000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
