@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De5o6Tik16T": 1792896041695,
-    "threads:De5p4YgjSVs": 1792896041695,
-    "threads:De5pBYXox72": 1792896041695,
-    "threads:De5pwIkk9VX": 1792896041695,
-    "threads:De5pP2TCdCf": 1792896041695,
-    "news:CBMiY0FVX3lxTFBiTlZZZ3BJNkVuYW1JdFcySVg3anlYdHpMN0Z1TkQ3SG5zR0F4dWo1SmxIZHFfMFBNT2g2NzQzTl8yOE1wbGlKN195SUt1NV9nRkpQTFhLUy1RV1Q3d1JpVVlNQQ": 1792896041695,
-    "news:CBMiwwFBVV95cUxOcGVFS28xak1adHM4aHVPNWFOOUlhbmQwdFRBOGJpSmc4d0JnQ2c4T05tSGxjWGgtRXk0VWxVUFRVTS1yRFdpUGN2Z1hDYW9ubzNtNjFvOFREb3hiSmliSWMzZzZCak9YWWlBa2RRTENjNFhaakNmTmoydHFvdktsQUlIU2NaUjItY29SNXM0bGhFOFdsVjltM2s0QkFoV0dVanJWSXNaNTk2d29nSVZLQkI5SXJNdFZjZFlrUkVNeEtyRjQ": 1792896041695,
-    "news:CBMivgFBVV95cUxOS2ZOQW5sbTFuOEtzUkR1VGJmc0JnOXd3UnM2b1FBQi10SHhNZS1uekZ4SGVzTEgyNC1fcTdNTTRNbEdqX3VTM2dzNXlKRF9mNUpEMFNnUlo0ZUMyWld5NDVMQnFsN2p4WkF6VFZiWDlmczluRGFPclU0dDl0M3NfWkRlOVZKZmVPYy1ERGNDT0RORTNZbkl0aWVTX2FwemdNbkJjZlRnWnlSZGtITEtCTDN5Qm1ObTVYdTQwSHJn0gHDAUFVX3lxTE1sM3phcEdMalZvdFk4REx2dC11S1daeV9idGlWNDJQeDBqZmx5QXpjSmVxWXVzRWVKTUl1b2hnTzVMUjJjOVFQTHJTdVZMMjlZM0FGb084MjgyUGU2R091dVBXTXA5M0JBdDFqYTc0R2hpdktkcV9OV05BbDAtbHd6YUdfWTd3ZEhZcXZ0OWhsY0JhbGNRcFlKVFBUV2tCVS1fc19ZVGl0MHh5QlRoeTZfTDdXTEd5a2VaMTdTeXMwSWlHTQ": 1792896041695,
-    "news:CBMi8AFBVV95cUxPZWdha09MUlNmOWY2bnBWUHExSkNOWTVuZk9PZWNwTGNoSy1vU0pEbllVUXNGM3dsQzR2UTJmOUlIUjROTnhsT25Oa3Bsc1BWV3ljTTBoZkJ5dmtZX014OGdRMkdUcGhOS05lQjExazdRSkkyTm5kYmwwYmVJT2YyRU4wenFQS2MwekszSkduVUtTRFZUeVZmSTY5TGZQSEZ3WjdaX3ZYN1Q1NDNDTHhuOFdmSGc2RHZJSjFfdm5kdzE0WlkyQ0puVGk1LVN6VF83ZjFwazR4MnFVSEZOTFRBcGZmNHB0VFUtcHVQdVhIMVI": 1792896041695,
-    "news:CBMi5gFBVV95cUxPeW9xSmZzLVFpQlZfV0xwaEw3N1UtQUZqN0lyQU52WjR5bktIUUo2LUE5b2ZNRXRrdEUtVE9VeTE2TTdRamR3UTdKdEpPamZkUWZ0YjlvSURkaUFFTjBvdU1ZZE5RdFJKUDNCY3BfdUZzdnpCcWxleGlkYmM0N1RyOFZmT1ZvTkxxa1dUb2RwUXZPenJwTVR1dmNrTXB6eDR0R1JBS0JhTVEwdDA5UEtmTkQtbjltYV9JSUctREVIUVVMVUtucW5zYlBHb3pNY0sxLVl3WTVWaFQ0MGFLdDdhMFppMDNZZ9IB6wFBVV95cUxQTjdvT051SUtOakFCanhqVkVKSkVFdDg4R3h4M1gyeDFPNUZ1ODd3MEFxdndpSHhILWptSlJHb0kxOHhGVndXejYwTkFPeHIxOXhEb0F1OGE0ZERVeXJIVmJvSzJQSHNNS201QWNlMUNXRGwzVVZJSUI0OGpjVmdMRUd2OGs0SnEyMGVfSEdiZkc5Z0pTZjkzdDFEQjBybFZrMWxZVXpKc2VaV3N0TFdKckxkM3Q5ZTVyQW5ka1dTalZpbmpVOURTb1lWeUh1WFh4d2w4SmtGMmpJZzVsOC1xT3N1a21Mcmp2WFFB": 1792896041695,
-    "news:CBMi7AFBVV95cUxOMXlLVndERVpmTE1SQ2VWOFIwNThYUzNMYTFxZ29oNUlwdDk2WVh4Unl6VHMyTjVuR3g4cW8zaHBSVm9ZNWJiRUFFb0dfbC1DLTdqUF9mUWVCejlEMmlINE5wODM3UWNkajgxVmR1YVFIdGY1V0J6SW9xaVRhWlprLUlETEtESGVSOWY1RmRWTlZkOXo2R1pBTU54VHRoV2lZSWdoU21PMFRxb1ZMSlczUXV0UjFhRlpTSHpfNlB3ZHRMYWdiUUFZQTBDWXdmMFhxWkltV0V5WnA1cnhhbEwxbTJsWFRqbWQ1ZGg3RtIB8gFBVV95cUxPOHFoOUIzZ1JyQ1J4WWFxbU1NbmtmRi1ROTBSNDZ5TDluNHNmNlZYSF9ralByeEdfQ3lyOUdWMlFKWHo5blVqNmFnc18zcEU0eDFmRFdKX0k5S2F6ZFMyR1h1RjVwLWhFUF8xXzAxdDFEMEpROVg4cmFRZVYtWWZEem5EdFpQNHRxMGVEbkwxU0NvN0ktRjYzajVFMVBkbWlFTTNSLWp4UWZGMVFzaWhmaE1ReXZ4Z0xhWFR6bVJ6d0g5Qk5YRExVdTk2ckFBWEkyY1lNXzVmZFladXRXWkhSeDJYcjR5czl3Q1JnT2VDcU5WQQ": 1792896041695,
     "threads:De5p2NNGmTi": 1792896345778,
     "threads:De5pyAXmm2Q": 1792896345778,
     "threads:De5pbkoE3ng": 1792896345778,
@@ -27691,7 +27680,11 @@
     "threads:DfdsJxOjgO5": 1794105333716,
     "threads:DfdsGxhm526": 1794105333716,
     "threads:Dfdrx_UDUtO": 1794105333716,
-    "threads:Dfdrpgajczz": 1794105333716
+    "threads:Dfdrpgajczz": 1794105333716,
+    "threads:Dfds4R6lT_4": 1794105638608,
+    "threads:Dfdsc8EmVKg": 1794105638608,
+    "threads:DeJevpTjjcI": 1794105638608,
+    "news:CBMiwgFBVV95cUxQQ2lXUHBRREZ5ay0zZHFpZjBKUmptOE9uY3lSWmI2VHE5MDVrQnlGX2FwUW1HVi0wam5RNXhlZ2h0QTdWSVYwa2dFWUhYY3dseUI1NDhCeGpESmxiSFNmMXhZVG8xOG5LRVphLXMzQW9tbk5KYkhCbC1OUzdPUERlODBXS1d6QkFnYWM0SEo1Rm9ON2RtY2lFdUpMMVdWSmhZeDQ2bzFIclZyZ3BXWnBYX2tMVFJyR19Uem01R0ljaHZwZw": 1794105638608
   },
   "digest": [
     {
@@ -28143,10 +28136,30 @@
       "d": 1794104908000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lkpkusumasarikursusjahitklaten",
+      "x": "Suasana waktu pelatihan menjahit gratis tata busana program pendidikan kecakapan kerja kemendikdasmen 2025 lkp Kusuma sari kursus jahit klaten terbaik #sewing",
+      "u": "https://www.threads.com/@lkpkusumasarikursusjahitklaten/post/Dfds4R6lT_4",
+      "d": 1794105486000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@balilokers",
+      "x": "✨ *WE ARE HIRING – MORE LASER & BEAUTY CLINIC* ✨ Kesempatan bergabung bersama tim MORE Laser & Beauty Clinic di *Ubud, Bali!* Kami sedang mencari kandidat untuk posisi: *PART-TIME ",
+      "u": "https://www.threads.com/@balilokers/post/Dfdsc8EmVKg",
+      "d": 1794105259000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
