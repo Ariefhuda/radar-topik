@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6XyvkEreK": 1792923639207,
-    "threads:De6eQ84GCY7": 1792923639207,
-    "threads:De6eHDYiH8a": 1792923639207,
-    "threads:De6dtTgkvOA": 1792923639207,
-    "news:CBMiuwFBVV95cUxNbHktNEhqcUdqeUhDOC1BaVo0VlZ3OFBTbjRkWm9SSTBOdENMb2h5WTlILTN6RTBfaU5mSHlvZ2lCejA2aE1kNGFEZkNtRlpCMU95bVAwSFZsZnBqdXRYX3hEVGdRZl9IdDlkUG9DVm95d2Z4anR0eXEyU001LTNWbVg3VDREWlhzZG9SMEJOdFUwQkpQZ2x0MEJmb29YTy1lLTNRaTZmSTJBQTNmcmpqSEJ4bWtEV1pvb2tZ0gHAAUFVX3lxTFAtSVE3TFlxRlFyRWUwX3FOdFJab1Z2NEhyLTdZUVRsRVdVOWNvb05oZXl2a0Qxc1lWQnFmQkUtSHVxZ2oxblgzRnl4SlJlSkh4Z1RBNk83VXVNSkxvbTVQNW9SYzdiQ25vSFZxVmk1dEo5YWpnSXQzczhnajJKU2h0Q1JQaGtWZmFQem9HT1RNS3ptMlp1SVd0SzBBNG9OTXBBRUJHbGVkRmZiYVRLamdwVUxGZUlHZjR5S1dlYm02YQ": 1792923639207,
     "threads:De6eSVrkqzq": 1792923939469,
     "threads:DeUK1b0lKaK": 1792923939469,
     "threads:De6d96Cj6vy": 1792923939469,
@@ -29074,7 +29069,7 @@
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
