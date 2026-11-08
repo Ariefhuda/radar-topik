@@ -60,33 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6rHoCCXYv": 1792930545195,
-    "threads:De6q849idC0": 1792930545195,
-    "threads:De6q18zCTt8": 1792930545195,
-    "threads:De6qzbeI-2C": 1792930545195,
-    "threads:De6rYezkfK7": 1792930545195,
-    "threads:De6rESDGGRQ": 1792930545195,
-    "threads:De6qy6ej1u9": 1792930545195,
-    "threads:De6qcvcFMI0": 1792930545195,
-    "threads:De6qY2ECS0i": 1792930545195,
-    "threads:De6qXOokaAo": 1792930545195,
-    "threads:De6r8u1GCBY": 1792930545195,
-    "threads:De6r-LPlOId": 1792930545195,
-    "threads:De6r65XFKO2": 1792930545195,
-    "threads:De6r1M4H4CM": 1792930545195,
-    "threads:De6ryG0H4zq": 1792930545195,
-    "threads:De6rtFtH1nM": 1792930545195,
-    "threads:De6ro5nHwyH": 1792930545195,
-    "threads:De6rlEIn40T": 1792930545195,
-    "threads:De6riFPn7sh": 1792930545195,
-    "threads:De6rfxDH-fB": 1792930545195,
-    "threads:De6rdkIHx2u": 1792930545195,
-    "threads:De6rZgqH4Pg": 1792930545195,
-    "threads:De6rW_7nxw6": 1792930545195,
-    "threads:De6rTuUn61o": 1792930545195,
-    "threads:De6rRM-H4Tx": 1792930545195,
-    "threads:De6rRKAo_DF": 1792930545195,
-    "news:CBMi7wFBVV95cUxQTEhkbXpEaWxnM3VyckFWUXMycVBIX1Y4WmRwS1FjeFhlb3JjeHJJd044dUVZNWU4Y1B6SDZYaUw3NHRRUktqQU45cVFHdWh2VW9BWFJuOE5SV0hXYTNlQmx6NVMwbGtXNUdjT3lsaFM5SnpCLWQ4SXQ5QUhWRG1JRjhpUnI4RnBwemJpWnBSUXNlZGdndm1qR2pXczhoR2JnZ1hPRXhoY3hKLXRSbGxvd0Z4UjI3b1NWdElqeVJtcnRLVW1lNnBlNUZudVlRcGhPNnVBMEtsUVRCWDJral9rODZ1RVNDSFhmRHQyUllJNA": 1792930545195,
     "threads:De6sdHqCSrF": 1792930843555,
     "news:CBMif0FVX3lxTE1DWE1Kd0hPNzQwSWYzQjlnSkJSd3FzaVlDOG4tck4zV2hnaV9aMlBWOXZYa1RJTFFVRnhlYUJIOVh0S1NJenJlQmNKcE01eWxyZ25MR3h1czVBTm5NdE1Tc2tiT294b003bVZsSnhsX2RCRUxic1hhUnZETTF4NEE": 1792930843555,
     "news:CBMiogFBVV95cUxPZmlTb1R0RFBUV09jcnRvYzQ2bkNIMU44MndVbjhVeGF2YjNsb25UVnJJbDVpSm43ZEZMMkdhM3VOaWZvYTNwckdQSXZvcDh3MmRIc0tGUkhPSzVTVTZBOE9xeDJfQmJNaUI3YU1jRTF0YTBlWjNPZ0VOLW9icGhzZno5QjZnUzE1UzBEQVJBX2d5Y25oWS1pVG51NE5udmFpTkE": 1792930843555,
@@ -27538,7 +27511,15 @@
     "threads:DfenTi8FD0Z": 1794139541545,
     "threads:Dfes8hFE4re": 1794139541545,
     "threads:DfesxURj3rT": 1794139541545,
-    "threads:DfeugpLHTGX": 1794139841440
+    "threads:DfeugpLHTGX": 1794139841440,
+    "threads:Dfeu9T4o3OY": 1794140141622,
+    "threads:DfeuIiGGeJT": 1794140141622,
+    "threads:DfevBBPk9Yg": 1794140141622,
+    "threads:DfeuqaQGeH9": 1794140141622,
+    "threads:Dfeuhywm32O": 1794140141622,
+    "news:CBMi1gFBVV95cUxNUXZEMkZJSEgtT1ZfSUc2dkVHeVYtSnFBV0RaNEJZXzlWbzFxaWpfVFd6WTZGTUpkNm1vOHFScDQwWE1yYUh2MUZpVUpjc0JfckdtZnEtczZPMTZLR2RJT2daTUxobVZpVXdFOE5xUXE1Skd4ajk4dlEtRnhXOEtkcE5CMWZZVV9HcHN3NUwzNHlzRXRITFYwU2ROd3NnWHV2eUZHdkh4d3hxZDJrbTlEQWZvV09hYUhRakZuby1wbVh3c1Q2TDMwUHE1Ykh1Tmo5RmFkRGl30gHbAUFVX3lxTE1LX2xJUGZPaUhrUU9DMGNZUlJsa214Yk55Q1RjNEszeFlQX2w0QThuT1pSMXFfTXBqQnR2bnBMWXI1Y2VfRGg5NnFEU3hTMHRhcXZzNzgyREt1NWhCU1lsaHhGb25wQWUyVm9DUXpicEZlamRVa1AyYmVZeDVyMDVQeXBWdmFrVUY1RTkwOVhuUU0yMTJoel9TNDdRdGxhRmI2a2dBWkJCMjJzNGFPLWJqUV9XcFowTXJVZGlTREZjbXo3VEVSZ2hGaVJwRXhSMG5PWEFhYVBfWVlVYw": 1794140141622,
+    "news:CBMiZkFVX3lxTFBGWDkzaDhKWFNGV19ZQzVZQlU4dlB1eUNTTHdwTkdiS2JWRXVJblcxYkNtVXF4aHZ5d25kTVRuUDRVNU1nQWNpdTFzbGRSWkNOdV9ZdlU1NnhTbFBKODlla01SUklGZw": 1794140141622,
+    "news:CBMickFVX3lxTFBPVEdyQ2o5Y21FYXpIekpMUDl0MG80TFE4R19XNEJIanp4Sy1scmh1ZXQ5VGFReGU2SEtqY19qZzBFRTRYRFBuZXc0TXc2RExOSnl0T25ia1h4bmQ1QnhhOTBfeDhDOUdVcjF1VW8xMTUzUQ": 1794140141622
   },
   "digest": [
     {
@@ -27580,10 +27561,40 @@
       "d": 1794139892000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "KlikJatim",
+      "x": "Go Internasional Empat Siswa SMK SIG Raih Beasiswa Kuliah di Meishan Vocational & Technical College Tiongkok - KlikJatim",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUXZEMkZJSEgtT1ZfSUc2dkVHeVYtSnFBV0RaNEJZXzlWbzFxaWpfVFd6WTZGTUpkNm1vOHFScDQwWE1yYUh2MUZpVUpjc0JfckdtZnEtczZPMTZLR2RJT2daTUxobVZpVXdFOE5xUXE1Skd4ajk4dlEtRnhXOEtkcE5CMWZZVV9HcHN3NUwzNHlzRXRITFYwU2ROd3NnWHV2eUZHdkh4d3hxZDJrbTlEQWZvV09hYUhRakZuby1wbVh3c1Q2TDMwUHE1Ykh1Tmo5RmFkRGl30gHbAUFVX3lxTE1LX2xJUGZPaUhrUU9DMGNZUlJsa214Yk55Q1RjNEszeFlQX2w0QThuT1pSMXFfTXBqQnR2bnBMWXI1Y2VfRGg5NnFEU3hTMHRhcXZzNzgyREt1NWhCU1lsaHhGb25wQWUyVm9DUXpicEZlamRVa1AyYmVZeDVyMDVQeXBWdmFrVUY1RTkwOVhuUU0yMTJoel9TNDdRdGxhRmI2a2dBWkJCMjJzNGFPLWJqUV9XcFowTXJVZGlTREZjbXo3VEVSZ2hGaVJwRXhSMG5PWEFhYVBfWVlVYw?oc=5",
+      "d": 1794100740000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "LPDP Izinkan Pelamar S2 Lintas Jurusan Ikut Seleksi Beasiswa - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGWDkzaDhKWFNGV19ZQzVZQlU4dlB1eUNTTHdwTkdiS2JWRXVJblcxYkNtVXF4aHZ5d25kTVRuUDRVNU1nQWNpdTFzbGRSWkNOdV9ZdlU1NnhTbFBKODlla01SUklGZw?oc=5",
+      "d": 1794103763000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "LPDP Izinkan Pelamar S2 Lintas Jurusan Ikuti Seleksi Beasiswa - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPVEdyQ2o5Y21FYXpIekpMUDl0MG80TFE4R19XNEJIanp4Sy1scmh1ZXQ5VGFReGU2SEtqY19qZzBFRTRYRFBuZXc0TXc2RExOSnl0T25ia1h4bmQ1QnhhOTBfeDhDOUdVcjF1VW8xMTUzUQ?oc=5",
+      "d": 1794103943000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
