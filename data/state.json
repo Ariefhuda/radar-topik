@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De6DjQaGfPC": 1792909853329,
-    "threads:De6DogekyY9": 1792909853329,
-    "threads:De6Df65k0Fa": 1792909853329,
-    "threads:De6DanFE-Jb": 1792909853329,
-    "news:CBMilgFBVV95cUxQY1NNdm5TdXkweGZ3NG1ncWc1aVRsdUJEWWw5MWdWaG9MYWxXNkk5el9JQUxjOGNWNk5oS1Y1eGx5Um1DS2FuT3JqMGZ1X2F1SENzUkxpbE5ETjFmYjlaZXZ1bDVyUUpUbEFuR3JtUzVMQWpJb3hObW9BbmVMNWoxMnlWWW9QSjJiUERXTjNWR0cxekhsYVE": 1792909853329,
-    "news:CBMiYEFVX3lxTE1GSXVENE5DQ3c0RUlfT05rMkVfZEtlU21HUUpaRmFLWUt1aFVDem5MNVJxdExMS01pS3BzdGEta1BzcDVfaUJqR0dqZWhPcEFUMEZoN0tadGk4UDdfV0Y2Sw": 1792909853329,
-    "news:CBMi2AFBVV95cUxQXzlMU3Y0OFl5M2dITEtjQzZURGZLbENJUXRMb0UwXy0xNV9FWGwxbFJGOUtuSVdfT0NNaWFUZktkb0t4X1pkdHBCNUhDZUdvSktibmZVNHFCQkxyRzdSSkRoaXN3ZDhRdkcxWF9SeXJDLVRkRTBheE50UTlvM0RCWkFwSXRZcVRKUFpNYTZ4RGt6dVVkZHpnX1FqUHdnOU4wbHVMTDFNYlhyMmpDZ291a0xPS0lUcEJaYUhwLXJRdEdMZDRHVzk5TzVybWRVYmZNOVlPY1hGOVE": 1792909853329,
-    "news:CBMilwFBVV95cUxQaUhuUW4ycmJudng5TUdYQWUwMUxmNklHLU0xMGEzaWg3TDloeHVLM2dDMUMzRFRaQlVUd09NV0xqSDQxWU1yd2xHRFNNTUpibllwalJ0dnhqZloxQzVOSXVaOVBWblhUQkNXdUJaci1rSVhyUUItcVVXbUNRak9RWmt4NHNubUZnaTBGZ05jSEp6eGN2SDFj": 1792909853329,
     "threads:De6D7eDmbmI": 1792910137822,
     "threads:De6ElqgIAbB": 1792910137822,
     "threads:De6EpgNk_Yb": 1792910137822,
@@ -27622,7 +27614,11 @@
     "news:CBMinAFBVV95cUxQZ296d1E0cjBKbE5ScUFmR2hsMFdjRFJVZFNLVnBKZDZ6dm1vWHU2Y2l1Y1plX0hPUUh5UFZhc0g4TTVZRC01RWxPNzE0alkxcGh4bTNFUFhGOUM1WGVZVjRRU3Z3eTdaOFdlR2VSY191MDNMOUNkT0Zza3hWVTJoWk1tVmgwcTEzMFBKcUVDMWpHalpQc3RCLVBSdTE": 1794118843153,
     "threads:DfeGStqD8Nx": 1794119133479,
     "news:CBMinwFBVV95cUxNU0NaMVdYajBIRVI3V21aR2ZPX0xjSmE3dnhPbzBPRXQweXRzT1pkVndkczg5ZkFicmxVUndPVlNqak9hdTU1c1FfbmpVMWVZdnp5WjVaTktDeFFqSWNBcmJKaVNwRlJteFhidHc5LXBfcHpMN3NpVGNzeFQxeXlJR3I2c3JJQ2s1bjJ3TldZRS1vWllWYVNJYnRKYzhuSWc": 1794119133479,
-    "news:CBMi9gFBVV95cUxOZXRDQW1VOUxlXzE4ODFycUJvQUQwdXh4ODluUllCdG4xUmQ1RTZ4ZHlDYVQ3TjBvWG9XNTIyVWVNcUhpLXJQdnRMS1lhRks0VERiTms1eDFucW5XWS1JYUhQeENEaTBRaWNOM2l1bnp6dUNJaGFHZksxempCNk9yRV9EVF93dTJzSWxzdUhtT3hLVWRXYkFyLUY0ZzlWcW53djZnbmZ5RGRxRjVHSDdPUjBod1ZrMnA0VGc2b1pxUUpsU1NDQ3FGQWNlZ095SkVxWDFOZi1FU0JoZ3BtaWgxSVg0NUJubjRqNWpCazdwQVhBYmVfNnfSAe8BQVVfeXFMT3N0OHcxbzRwT2puUTNtMWc2UEZkT0lmOWd4NF8wb0tlOXJIRVUtUnlVcGFuS19MbWZFMHZGRnJ5YXhYOG8wcXpGeUZSaUFKZThsWmZwVjJXRFlWN2lvVnBkbng5eG93aEhuUUhlSzdYSzJJcnlNTGt6VU81anV1cFJOcVVreFd0NF9rWjVkdEZkVmNKU19URUJVa19HX3A4TVpkTktSbnRNRVNxX3UwR3A1NmFPLXNjd1FlU3hNRVlMSW9hMDdScURMTHJlSXFUV1Fnd0N6N1RrVjdXU0lQOTRrTWlnWkVaenhhQzN6SUE": 1794119133479
+    "news:CBMi9gFBVV95cUxOZXRDQW1VOUxlXzE4ODFycUJvQUQwdXh4ODluUllCdG4xUmQ1RTZ4ZHlDYVQ3TjBvWG9XNTIyVWVNcUhpLXJQdnRMS1lhRks0VERiTms1eDFucW5XWS1JYUhQeENEaTBRaWNOM2l1bnp6dUNJaGFHZksxempCNk9yRV9EVF93dTJzSWxzdUhtT3hLVWRXYkFyLUY0ZzlWcW53djZnbmZ5RGRxRjVHSDdPUjBod1ZrMnA0VGc2b1pxUUpsU1NDQ3FGQWNlZ095SkVxWDFOZi1FU0JoZ3BtaWgxSVg0NUJubjRqNWpCazdwQVhBYmVfNnfSAe8BQVVfeXFMT3N0OHcxbzRwT2puUTNtMWc2UEZkT0lmOWd4NF8wb0tlOXJIRVUtUnlVcGFuS19MbWZFMHZGRnJ5YXhYOG8wcXpGeUZSaUFKZThsWmZwVjJXRFlWN2lvVnBkbng5eG93aEhuUUhlSzdYSzJJcnlNTGt6VU81anV1cFJOcVVreFd0NF9rWjVkdEZkVmNKU19URUJVa19HX3A4TVpkTktSbnRNRVNxX3UwR3A1NmFPLXNjd1FlU3hNRVlMSW9hMDdScURMTHJlSXFUV1Fnd0N6N1RrVjdXU0lQOTRrTWlnWkVaenhhQzN6SUE": 1794119133479,
+    "threads:DfeHJvzAhS0": 1794119442982,
+    "threads:DfeGEW3icJ-": 1794119442982,
+    "threads:DfeHgSjAXU6": 1794119442982,
+    "threads:DfeHJAqAUMv": 1794119442982
   },
   "digest": [
     {
@@ -29014,10 +29010,30 @@
       "d": 1794092400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Terbuka - semua rinciannya ada di dokumen publik APBN. Detail gaji, tunjangan, fasilitas Presiden sampai PNS daerah masuk di Belanja Pegawai 2026 yang dipatok Rp580,7 triliun, deng",
+      "u": "https://www.threads.com/@meta.ai/post/DfeHJvzAhS0",
+      "d": 1794119258000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Ya, kalau hitungannya sendirian begitu jadinya. UMP provinsi termiskin Rp2,1-2,3 jt kalau dibagi 1 orang = pengeluaran per kapita Rp2,1-2,3 jt. Itu sudah di atas ambang PBI-JK (des",
+      "u": "https://www.threads.com/@meta.ai/post/DfeGEW3icJ-",
+      "d": 1794118689000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
