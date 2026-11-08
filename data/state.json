@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De62E4mAnYy": 1792935945888,
-    "threads:De61362ACTx": 1792935945888,
-    "threads:De61R_ulpw3": 1792935945888,
-    "threads:De60u9EEx-B": 1792935945888,
-    "threads:De61iyVmWwb": 1792935945888,
-    "threads:DW-73mUD9LH": 1792935945888,
-    "news:CBMizwFBVV95cUxPV0g3WkZwd3NSMDIyWEppYXJ2c0tkMTV6ZG5lRWVsRGNraFAtVUx0WGlIcGRwNmlnUnVKUVY1QlJKY2UtN0t2dEp2WVJMclFOLXV4QjNZSFZ0ZzZSOXFpaWZXa0FwNU50ckNOWlEySGdobHpZMGprTVVuVS15OVowTUdiQi1DTnN2ZlR3MUs2UTJVUVdtT1JxVUtrZXRFMW9lakUxRTJYdzBVR19LLVJrd3lvdmloSDlSUm1qYzVxb2ZFRlBPZlhNUVg0RllRM0nSAbYBQVVfeXFMUEs5TWRqQm1nUThIaGFvVl91MmZqXzdpSlJneFY4ZXJwdDFNR0xTb05oZEVCZE92UVg5dDRQbVpXQWgzZWJ5cmJ3aUo5emNlS0JMZzhpbjFLLTlueTBzZ3ZIaVVNUDB5TVl1bHJsUk5yZGJRVmFtSFNudFBEX0xLOWJEZWltbm9XRmpqV2gzRnFDRlJsVVhocGNsNHRtX054OUtheFZ3cGVIVi1TUUx2a0RWbnlCSnc": 1792935945888,
-    "news:CBMifkFVX3lxTFBESm1YaVgwMV9TTXpacm8zNF92YTBwZjgwTUVWQ1lqWEpOcGlGR1BFTktKZnBaaFc4S3loZVlMNU1LUWJPV0d1bURjT2ZUdDQyUlNXTng1YlBTaU44WkFzTEtuQUo4TFV4QkVmSWgtS1ZEeS1xVzFDY3lhZERsQQ": 1792935945888,
     "threads:De62E9riYaU": 1792936243572,
     "threads:De61tgLgZ7N": 1792936243572,
     "threads:De0csejGkoP": 1792936542364,
@@ -27508,7 +27500,28 @@
     "threads:DZRptpBGclQ": 1794144932704,
     "threads:Dfe3WwejQny": 1794144932704,
     "threads:DeYnbXRCOMt": 1794144932704,
-    "news:CBMizAFBVV95cUxPbDc1TG8xeHpOSnpMQjFqX1FNc2dWMWR1Wlc4ZDhhX1dxVkxSaTdSeVhPS093NWRYa2QxX2d1eTQ5Y3JYZWl3akd4bkkwTXVXWFhuQlcyX3hKOXRZeWxoQlBhdlYzcUwtRGNXZVhnTFQ1cjdXU2FQMFNFUmE2MHhOZlVBNEhkbnpqTklLTW9iZ0dXRnA1WU93WnoxRG15ekxSZ3ZNZmtIZlBTeGVSZmNSMkU3cE1hcFdjQmZ2VnZ5N0o1c2JraHF1RTZESWU": 1794144932704
+    "news:CBMizAFBVV95cUxPbDc1TG8xeHpOSnpMQjFqX1FNc2dWMWR1Wlc4ZDhhX1dxVkxSaTdSeVhPS093NWRYa2QxX2d1eTQ5Y3JYZWl3akd4bkkwTXVXWFhuQlcyX3hKOXRZeWxoQlBhdlYzcUwtRGNXZVhnTFQ1cjdXU2FQMFNFUmE2MHhOZlVBNEhkbnpqTklLTW9iZ0dXRnA1WU93WnoxRG15ekxSZ3ZNZmtIZlBTeGVSZmNSMkU3cE1hcFdjQmZ2VnZ5N0o1c2JraHF1RTZESWU": 1794144932704,
+    "threads:Dfeucg1mryV": 1794145546028,
+    "threads:DehGFt0mqKB": 1794145546028,
+    "threads:Dfe5KDxmA4M": 1794145546028,
+    "threads:Dfe4g9uEWR-": 1794145546028,
+    "threads:DRbM5a_kug1": 1794145546028,
+    "threads:De0gJBHHTFq": 1794145546028,
+    "threads:Den9MqFmct3": 1794145546028,
+    "threads:Dfe5TUBEbW-": 1794145546028,
+    "threads:Dfe5I0Kmgdp": 1794145546028,
+    "threads:Dfe5E_HHDsv": 1794145546028,
+    "threads:Dfe5CkmCUtR": 1794145546028,
+    "threads:Dfe41jRCFF_": 1794145546028,
+    "threads:Dfe4wcGoXfb": 1794145546028,
+    "threads:Dfe4OziD6eh": 1794145546028,
+    "threads:Dfe36cnGJPG": 1794145546028,
+    "threads:Dfe5KWYmut2": 1794145546028,
+    "threads:Dfe4tw3jxXu": 1794145546028,
+    "threads:DfeMK9Kk-xz": 1794145546028,
+    "threads:Dfe47pHmL7u": 1794145546028,
+    "news:CBMitwFBVV95cUxQZF93WUlNaTVOSTc3TFpxQmthSk9KQzdyOVdJRENQaEtNUHBwYmh6TXhkbmFMMUpLeHpCNjFwazJjQ1h0UmQ0R25tQ0FGZ0EtXy01cGJRWGpsbFVPOW9SUERmLTJEMHRhMkdIZm9BdVViMm94S2tFOXVleUNlWlhlTEc4Mi1FaXdTQUJuQXM0Z2o2Nk9nRjBEZzhPd09sVGhvLWdUZy14YUNIVDM1alAwTnJFaE54b0U": 1794145546028,
+    "news:CBMigAJBVV95cUxOTm4wWWQ4UkxTbUVxalFaeFpnbXRLNzlKRHR5WEhlaTVsQm5PajRZcEJ3Szd5cnk5WC1VNXk2cGkwRVdMeG1RUVZzZUVlVHlVd21EZUxBQlZJV3VCakFGT3J5RzdsMnVzazhkVUJPYTBUalZZa3hmdFhqTjllcHZYcDFBM1pROE9YbnJ2bVRvUlVVdmdsTm9GNlpDMHhmenZzU2dRM0Q1YmUxU3htM3Z1MnBkMnQtWnlfa3lNc2VadmtmWUU4U0lNeEpRX0twRkxqZ1h3YTNCSXZFenZaVkxaRjVWQ01fSWY1a0dwY2dEM0tBM3p0amhJazZTWE0zWGct0gGAAkFVX3lxTE5ObjBZZDhSTFNtRXFqUVp4WmdtdEs3OUpEdHlYSGVpNWxCbk9qNFlwQndLN3lyeTlYLVU1eTZwaTBFV0x4bVFRVnNlRWVUeVV3bURlTEFCVklXdUJqQUZPcnlHN2wydXNrOGRVQk9hMFRqVllreGZ0WGpOOWVwdlhwMUEzWlE4T1hucnZtVG9SVVV2Z2xOb0Y2WkMweGZ6dnNTZ1EzRDViZTFTeG0zdnUycGQydC1aeV9reU1zZVp2a2ZZRThTSU14SlFfS3BGTGpnWHdhM0JJdkV6dlpWTFpGNVZDTV9JZjVrR3BjZ0QzS0EzenRqaElrNlNYTTNYZy0": 1794145546028
   },
   "digest": [
     {
@@ -27940,10 +27953,60 @@
       "d": 1794144653000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, bisa coba bisnis online. Yang bisa dimulai dr modal kecil dulu dan resikonya lebih rendah. Misalnya belajar affiliate, dropship tanpa harus stok barang, atau memasarkan p",
+      "u": "https://www.threads.com/@dinnie_ivone/post/Dfe4tw3jxXu",
+      "d": 1794145243000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hasbieasidqi",
+      "x": "Kenapa ya banyak yang Spil komisi gede tapi ujung-ujungnya jualan kelas 🤣 Jarang-jarang ada yang mau ngajarin gratisan 🤭",
+      "u": "https://www.threads.com/@hasbieasidqi/post/DfeMK9Kk-xz",
+      "d": 1794121889000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@edukasikaryapia",
+      "x": "Aku ada kelas gratis kak khusus muslimah yang mau belajar video animasi tema kali ini konten dakwah. Share ke teman teman muslimah ya kakak.",
+      "u": "https://www.threads.com/@edukasikaryapia/post/Dfe47pHmL7u",
+      "d": 1794145356000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "republika.co.id",
+      "x": "PMB UMS 2027/2028 Dibuka, Tawarkan Beragam Jalur Seleksi dan Beasiswa - republika.co.id",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZF93WUlNaTVOSTc3TFpxQmthSk9KQzdyOVdJRENQaEtNUHBwYmh6TXhkbmFMMUpLeHpCNjFwazJjQ1h0UmQ0R25tQ0FGZ0EtXy01cGJRWGpsbFVPOW9SUERmLTJEMHRhMkdIZm9BdVViMm94S2tFOXVleUNlWlhlTEc4Mi1FaXdTQUJuQXM0Z2o2Nk9nRjBEZzhPd09sVGhvLWdUZy14YUNIVDM1alAwTnJFaE54b0U?oc=5",
+      "d": 1794145490000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Suara Merdeka Jakarta",
+      "x": "Eropa Buka Pintu Lebar untuk Mahasiswa Indonesia: EHEF 2026 Hadirkan 92 Kampus dan Jaringan 10 Universitas Lokal - Suara Merdeka Jakarta - Suara Merdeka Jakarta",
+      "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTm4wWWQ4UkxTbUVxalFaeFpnbXRLNzlKRHR5WEhlaTVsQm5PajRZcEJ3Szd5cnk5WC1VNXk2cGkwRVdMeG1RUVZzZUVlVHlVd21EZUxBQlZJV3VCakFGT3J5RzdsMnVzazhkVUJPYTBUalZZa3hmdFhqTjllcHZYcDFBM1pROE9YbnJ2bVRvUlVVdmdsTm9GNlpDMHhmenZzU2dRM0Q1YmUxU3htM3Z1MnBkMnQtWnlfa3lNc2VadmtmWUU4U0lNeEpRX0twRkxqZ1h3YTNCSXZFenZaVkxaRjVWQ01fSWY1a0dwY2dEM0tBM3p0amhJazZTWE0zWGct0gGAAkFVX3lxTE5ObjBZZDhSTFNtRXFqUVp4WmdtdEs3OUpEdHlYSGVpNWxCbk9qNFlwQndLN3lyeTlYLVU1eTZwaTBFV0x4bVFRVnNlRWVUeVV3bURlTEFCVklXdUJqQUZPcnlHN2wydXNrOGRVQk9hMFRqVllreGZ0WGpOOWVwdlhwMUEzWlE4T1hucnZtVG9SVVV2Z2xOb0Y2WkMweGZ6dnNTZ1EzRDViZTFTeG0zdnUycGQydC1aeV9reU1zZVp2a2ZZRThTSU14SlFfS3BGTGpnWHdhM0JJdkV6dlpWTFpGNVZDTV9JZjVrR3BjZ0QzS0EzenRqaElrNlNYTTNYZy0?oc=5",
+      "d": 1794064740000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
