@@ -27485,7 +27485,8 @@
     "news:CBMi2wFBVV95cUxNNnJuNjVvTHNaLVMzYlRUR1g4VnNtMW9heUM5QWV4b0l1VnUyVWJkSlZyZ2lleG15aFFnNm5GZWZhS1dtZUQ2NTdoUGdBQy1QU0dQR3BsMlZBWE5QbEFpTTc1V2VRWF9lNzJETFdlNzNyQkROVTFXTVd4c2tWcE8xSnpvTU1DVnNJS3VfRGhMRDBPQTl2dFpTaEtiVEFYZjlGd3ZiczJGSHRBaktTZjFJRlN6ck1DNnhxaVhXZmVBOHpGSkN6ZzhHNWtJMkYtUXVweXB6QWhQSnpaYm8": 1794237041997,
     "news:CBMimAFBVV95cUxOd2JLZHZJVXgyLUZfa21Sdy11d2FvNW1BSlVaSmQ4MXhYNHhKazNPLWhHWHVSakNraHA1QXlDQko2VzE5ZmpfSzVlQlZtZ0lxczVNU240MmxYRjBhMzlydV9iZ0d6UWVCWk5JVWFKYzJ5U3BYWVk3Zy1MYllTNTBtZXZmVFJYTTFhTUZfbWUwQlBmWjYzci0tRQ": 1794237651039,
     "news:CBMiU0FVX3lxTFBqdDM2dlZIUzQySmY0VjJXemFzUXhHR251eS0xeXdEZ29UNkdvV0tULWdFQ09IMm1jSDVxNmlnVFpGSjU2aDk3WUdMcDdXR2ZyNVBz": 1794238244272,
-    "news:CBMiswFBVV95cUxNTDhRLWFqZmswMmFpWVQ3NFNoMk1rR0dIS19DVUpMQjBDQ0h2ajM5Vnl2blBJa3g2SlZoZW9CTmZxcldQZzh4RDViOUZSZzJpS2VEVDNxVEtoTlV3RG1Jd0pBMnR3V3BOaDBvLTlac2VaMmxtSGdrMGpkejZ3LXpybnExNjh2SVh5amxNZjMzYTBURXg0TkowaXRIc3R0NnBmYlFxWFZ3MklpWThtMHNpYnJETQ": 1794238244272
+    "news:CBMiswFBVV95cUxNTDhRLWFqZmswMmFpWVQ3NFNoMk1rR0dIS19DVUpMQjBDQ0h2ajM5Vnl2blBJa3g2SlZoZW9CTmZxcldQZzh4RDViOUZSZzJpS2VEVDNxVEtoTlV3RG1Jd0pBMnR3V3BOaDBvLTlac2VaMmxtSGdrMGpkejZ3LXpybnExNjh2SVh5amxNZjMzYTBURXg0TkowaXRIc3R0NnBmYlFxWFZ3MklpWThtMHNpYnJETQ": 1794238244272,
+    "news:CBMitwFBVV95cUxOdVgyeGRwaXREMEVCTWhLTGVmRlVoVTMzTUZ3MEZkQzd3NkJsdng2MDdFRHktNk1pR0N3LTZaRmpidjVGdE9TeVVRTnRxdmplLUUtaGpDaUlSUk96Nno3Y3hUdkNhOFBRMnViLWI0cUhWYVlJUWNlSmd0a1IyekJCSkl1VG9nbUVHUXZBZkM4UV9CcGdnWWlFRGFITnkyd19saFc3LTEzNWtaRjFQdjJjc201R0x0UUk": 1794238556695
   },
   "digest": [
     {
@@ -28817,10 +28818,20 @@
       "d": 1794237693000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "harian fajar",
+      "x": "Astra Honda Dream Cup 2026 Hadir di Palopo, Sajikan 16 Kelas Balap dan Hiburan - harian fajar",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVgyeGRwaXREMEVCTWhLTGVmRlVoVTMzTUZ3MEZkQzd3NkJsdng2MDdFRHktNk1pR0N3LTZaRmpidjVGdE9TeVVRTnRxdmplLUUtaGpDaUlSUk96Nno3Y3hUdkNhOFBRMnViLWI0cUhWYVlJUWNlSmd0a1IyekJCSkl1VG9nbUVHUXZBZkM4UV9CcGdnWWlFRGFITnkyd19saFc3LTEzNWtaRjFQdjJjc201R0x0UUk?oc=5",
+      "d": 1794194966000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
