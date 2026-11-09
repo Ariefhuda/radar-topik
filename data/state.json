@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-cy8Xk18A": 1793057144573,
-    "threads:De-cpi4E9eX": 1793057144573,
-    "threads:DdC1gQOCvUu": 1793057144573,
-    "news:CBMi1AFBVV95cUxQMWFCM3RtYjVZS0o5TWJuSlRtbWVPb0RzVUszTzVVNzNSWFE5NmJ0djg3THNhUjhMbnk3QXFVZjU4UFh2UDFDTG1BZ2JtMFBPUWJmaWtySVdla2V1NkVEMkplSkQtTmdHRjNnR3duQVNDdU5lT3BlRFpnRHB5VmNwSTBxY1ZyLWRYeFlIWDc4ZEY2dUk1bFdpLXBLVTFvMy1paUg4SEFYb3BvV19oWUxuZzNFMVM2TE1pNmpuUDF6MEhkeE1fajJpMnRvOHBrNmhncTZXNNIB1AFBVV95cUxQMWFCM3RtYjVZS0o5TWJuSlRtbWVPb0RzVUszTzVVNzNSWFE5NmJ0djg3THNhUjhMbnk3QXFVZjU4UFh2UDFDTG1BZ2JtMFBPUWJmaWtySVdla2V1NkVEMkplSkQtTmdHRjNnR3duQVNDdU5lT3BlRFpnRHB5VmNwSTBxY1ZyLWRYeFlIWDc4ZEY2dUk1bFdpLXBLVTFvMy1paUg4SEFYb3BvV19oWUxuZzNFMVM2TE1pNmpuUDF6MEhkeE1fajJpMnRvOHBrNmhncTZXNA": 1793057144573,
     "threads:De-eSo_DzvU": 1793057670402,
     "threads:De-d6K5im5W": 1793057670402,
     "threads:De-d9jvD5DL": 1793057670402,
@@ -27453,39 +27449,25 @@
     "news:CBMifkFVX3lxTFBLNzlWWjV3eVlvREo3RTRQcW03NmRIeXZiN1dfUVdsaDc2SGxQN1V4TVFSM3loSF8tRmpmenRnMGtlTEN2ZmVsTEp0OFRYdnVwRmhCMUxQYTc4MXdTWUVidjUzcmNNMmxaak13b3R3bzdlQl9kRXVOaW5ZdXJQZw": 1794265843208,
     "threads:Dfid9SIjNVH": 1794266151842,
     "threads:DfieszLk0x2": 1794266151842,
-    "threads:DfieF3gEufb": 1794266151842
+    "threads:DfieF3gEufb": 1794266151842,
+    "threads:DfigOfLEgGw": 1794266735471,
+    "threads:DfigPyZkwoV": 1794266735471,
+    "threads:Dfif_CdG346": 1794266735471,
+    "threads:Dfif3tjHJcb": 1794266735471,
+    "threads:DfifsCZjpYI": 1794266735471,
+    "threads:Dfiful8D61O": 1794266735471,
+    "threads:DfifpCpmecP": 1794266735471,
+    "threads:DfifO6aiViV": 1794266735471,
+    "threads:DfifHazkdC4": 1794266735471,
+    "threads:DfifFRLEwpT": 1794266735471,
+    "threads:Dfie-nyPrwb": 1794266735471,
+    "threads:Dfie-ePk69I": 1794266735471,
+    "threads:Dfie57Zk0aZ": 1794266735471,
+    "threads:DfigdyXk3yD": 1794266735471,
+    "threads:DfigB8ykwzs": 1794266735471,
+    "threads:DfifjxvD5yo": 1794266735471
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Bicara Network",
-      "x": "Beasiswa Fulbright S2 dan S3 ke Amerika 2027 Dibuka Tanpa Batas Usia, Cek Syarat dan Cara Daftar - Bicara Network - Bicara Network",
-      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTcyaFo0aTJLRXlYZ0Z1R05XUXl1MW1UbXp3R1dzc2p0N2dvTTcwWUF3bkRSc1RLZzVHc1pkX0xLZlQ2MG5ZUnoyd1BINUxMd0xYNlJvZF8zN2xyQ3ppbEFKU2JlMU1qUi01NUJBWmZmVWZsQ3Zjc2g4Qng4NFhhbmdLS2ROeFFDMmFyZzFULWg0SnRUY2x6bmZjZkdPbkZYUXIzSlNWdG1nVFB5WUttYWxmZEd3MXhtV0hreW9nZVJ5WjIxOGlvWkdwNnd5RzNxMExmSjdyS0t5cTVsX2lrcXY1OVFQMU01R05N0gHwAUFVX3lxTFB3OHpTQ2wyZ1Q2RjZaYWJacGpldVlCT0x0cVEzU2hqQmVWZ1Y0bEJ3MXptZjZFZEIwWHdES3p6QWl1QS1USVpma2JCQXZ3NGE0bEEyUktUYzJlNnF1UnRPYlVwR2c0OHVKa3YzVGFoSk9tMGNQbVNWX3M3Z2h3d29qM1R5ZWdFOHFzYUZPdXYwVjlYZDY2YWt1Y2xRS1RIMWRhcDItVndMYkxVb0JsMy1ubjNaRGxpWVcybFBLZk5GeGQtemdpTUFCVy1zQmZYeDlqY1VMMU1aRmd3UE5BbzdOMkpCQVlEekJzcVFVSHlfNA?oc=5",
-      "d": 1794203297000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak bisa coba bisnis online. Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online yang nantinya bisa dimanfaatkan untuk",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfhfJ5Qj6di",
-      "d": 1794232505000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@thegrown.energy",
-      "x": "kalo affiliate, dropship gitu mau kak? soalnya aku juga nyempetin waktu 2-3 jam sepulang kerja kantoran buat belajar+praktek affiliate sama dropship. kalo kakak mau yuk samaan bela",
-      "u": "https://www.threads.com/@thegrown.energy/post/Dfhev-Cma5H",
-      "d": 1794232293000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28955,10 +28937,40 @@
       "d": 1794265502000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, affiliate memang saat ini paling banyak di cari untuk mendapatkan tambahan penghasilan. Tapi sebelum mulai saran aku, Kk bisa mulai belajar skill digital dan bisnis onlin",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfigdyXk3yD",
+      "d": 1794266747000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, sebenernya jaman sekarang banyak banget kerjaan yg bisa di kerjakan dari rumah dan waktunya lebih fleksibel. Tidak hanya jual produk digital. Yang penting Kk bisa mulai b",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfigB8ykwzs",
+      "d": 1794266519000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, kalau info lowongan aku sih ga ada, tapi semoga ini bisa jadi pilihan alternatif lain buat kk. Kk bisa coba bisnis online. Yang bisa dikerjakan dr rumah dan waktunya lebih",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfifjxvD5yo",
+      "d": 1794266271000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
