@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8VbtjEsT8": 1792986041972,
-    "news:CBMi4gFBVV95cUxPazc5LVNMNHRobTBjZ0YwV29sYmlqandVMlFPWTdySnZUTWl2dGtIQUdmRkktWTRGekRUTVE0aE84a1RVbDdnT1hjMWp0OXg3NHlaM1VyYmljOE1mdXdvYjd2ZmI5eko1WWJGRFluNVRQSk5HNXJRR1RjRWZwekNRVXZTbTRJV3lXZW1EZ2RDNEdVY3pDQ1N0UWoxWUwySXlsOEl5N1hFNW10MGZfRm5pR0RjOWJGcm42YmVKN25WdmFMeFpCeHFQNGVibi1Gc0hSdG1mdEZ4QkkwcEM2ZzNsS0FB": 1792986041972,
-    "news:CBMi6AFBVV95cUxPR0RiMXp4WWZ3SjRuSTVRcG1FQUVtT2FfaEN3cU9Vc1dVQnRZNzRUQXRPODNkVDN6cFh6U2ZXNzgxR0UzdDJoZllDTXFUbXlzdG9aUkNJTFdKLXBOd3lNelpTQlJYMXpEaXZndm5UOHlNbnlBc1ZBa0JkM1JXaUNzZHdoWk9BcmhYalZCTTNKXzVEV1pRdVVhNmtjNVhSNGMyUmJteGFoaFBxU3RiQzFCTFJwZEpYVFFOLWJKSUxMazFubXFrX25GNkRIUzY3bGdMeUwwZ25pVEtEM3prMFNaajE4djZ1WUVl0gHuAUFVX3lxTFBXdWJPQ3dMNUl1NEJjLTk1bGJLVEIxZDdmdmJid2lEMG56YTg0bzZ4clZIMlprY1MtRkFLMTZ2NFRTVzZxcUxpMmRsaDVCWXRPWGwzdkVTN04xUkRPSndqZU9raUN6Qm45amt6cC1YdXVGS1pHTndzd0ctcE5HT1FOYkJkMWJOVml2aGQtTm1IdmlLLTZuaTdteDJrQ3ktaXdLY1EzWmhHa09mMlBpbEloRnVjV29SNk1ZdVZOeWYxWXJ3TVBqdHpGNzhrTzdncUc4U3dmRHJhdVB1YVliWXFZNmJLQlVJSnl1Q2d4NXc": 1792986041972,
     "threads:De8Vq7Xk22n": 1792986339771,
     "threads:De8VbxBkltK": 1792986339771,
     "threads:De8V5GPjdKh": 1792986339771,
@@ -27712,7 +27709,8 @@
     "threads:DfgJLJ2mr6a": 1794195337325,
     "threads:DfgYRY4lo-i": 1794195337325,
     "threads:Da17df6mkOr": 1794195337325,
-    "threads:DfgXe59Hb_p": 1794195337325
+    "threads:DfgXe59Hb_p": 1794195337325,
+    "threads:DfgX8acj4xm": 1794195643070
   },
   "digest": [
     {
@@ -29124,10 +29122,20 @@
       "d": 1794194928000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rona_rnn",
+      "x": "Online lewat apk cek bansos atau offline kak?",
+      "u": "https://www.threads.com/@rona_rnn/post/DfgX8acj4xm",
+      "d": 1794195170000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
