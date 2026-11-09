@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeVuJWljzgf": 1792995341215,
-    "threads:De8nTB7jmHA": 1792995341215,
-    "threads:De8nJRtnLm2": 1792995341215,
     "threads:De8oQL8AKR-": 1792996005582,
     "threads:De8nJLWE5GV": 1792996005582,
     "threads:De8n_m2kcRQ": 1792996005582,
@@ -27709,19 +27706,11 @@
     "news:CBMiqwFBVV95cUxQOG5CNk5Uam1CRHEwVjJ4UXRhR1VOZk9Pa2pjZkdyUTB6cHR2VldIdm9qckxQSVFObEw5blV5VERwUWRPZ1ZIZEFGRmp5eG5URkMwRDBhWjkyRlBZenRFU0dGZVlYVUlrMmV6VzRFSkxIZGNlT1NjR05ueGxXbTNzeTN1bzJ5ZGxud3VpbWZ3WDJwU0xteEdVSjhJbGloNkFKZkVDQ0FkRG9TY2s": 1794204646402,
     "news:CBMimwFBVV95cUxOdy10Qjc3cFd6c0hWYXRZYTBGdlNhUDNPSXNCcVB5Z1pWcEZuYmdCOVppbjJQU2g0YUI2WVlCTUtNbk1yenJqVDB1Uk92TGdodkR2OE1udW5Rak9NSGxHSGFaOEJPMjJlN1R2ekZiN3R3OUJxNmRqTzkzMDF6VGY0T3pQbnk5aFhjc3BkNm5ERzZVNEN2dy00NEc4MA": 1794204646402,
     "news:CBMizgFBVV95cUxNLWJobmU1YXA1cmpZUzFXdHh6NXFOeU5KOU52TTg1OW9jdHBuSnRSV3hQMlBjckpiSEJUWjJMLUVOSzdKUXRLOXBfSTNrdVNKM2VaSTIxZ052QjZIS3loSmh5dmRFc3NQS2NYWERTNnl2TEpHdlR5WTBQZ3ZxTE5wLU9oYmMxSkhkbHFUczR2d3FQclAxQkFZNkdLN1dtZG85SklvVU9aa19GTEY4MndUUmdjTWd1bjM3elkxMzJTaWpPajJKVzh4UmpUV3dQZ9IB0wFBVV95cUxNaDkwNW9LbGd0STQwVERnRFhiN2daZmRPcGEtdDRRVEp1LXNKSkZwajFjOTN6REtiUmg3ZVI3NG5OVnpiTE1US0FZOGtyOEY2OUxLeUptaHZ3WndjRDB1X3RDZUVvS2s3dGhnOU5aTjhmQnZQVFFkNmxJZm56ZWlxd0ZiYzNyREpYVEluSjlKSzV3dnRjYkg3cFY2M2YwcnVVRWEzTThtSEtXdE5oZzQ2MW0xVEhZOHJ5RzJzdjFITS00V1JaTkluYjNjT1RLOXJkVDQ0": 1794204646402,
-    "news:CBMinwFBVV95cUxOUVhBVjh4ZlV4WGF2TTBGamtIbGQwVTdnVlkxRjd6RXFVaWVsOTNFblIxc25MUy1BSktkMkx4Y05XNWVraTZrQUhkaUdRTnhsSGpMTXVZLVp2MWlRN1FvZlJodEN3ek5NNHZaUnZTOENfSGdMemJobXcyQnZzZ3FLalVPVWlUM0xrMEEzakJRT2lsTmxQTFIwTUFxQnZjbDQ": 1794204646402
+    "news:CBMinwFBVV95cUxOUVhBVjh4ZlV4WGF2TTBGamtIbGQwVTdnVlkxRjd6RXFVaWVsOTNFblIxc25MUy1BSktkMkx4Y05XNWVraTZrQUhkaUdRTnhsSGpMTXVZLVp2MWlRN1FvZlJodEN3ek5NNHZaUnZTOENfSGdMemJobXcyQnZzZ3FLalVPVWlUM0xrMEEzakJRT2lsTmxQTFIwTUFxQnZjbDQ": 1794204646402,
+    "news:CBMiZ0FVX3lxTE93eEprazA5T2xLMUF2QTQyWlJMQ3BsTmZRZ1JsQndEUFlEcW9xczVwbzRQT3BfbzlPWEVxZVZjbXpId1NuYXZSeVh4WExIUmI1cHppQXg0S3oxRkFJM201MzMyRW4yNjg": 1794204941215,
+    "news:CBMitwFBVV95cUxQQ3NSNFZMUmZDY3NXTWo3Q2xKa1pvdVVWalRhSklRM2loLUwwV20wSHVJUjJub0xwN0xHQ3o3Z1JoVjkydkdrbWtyMVpPSXp0OGVrUkRrX05EYkhHcjloU0RnVnFMY1k5VU4xQUFQQ3NGdXZ4X2ttY252SkJJY0RvVkl6V3hfWUxPMjBLcTRObW5uZ0tTTFk3amMwTWlYRk41MjRnZHVlRk9LVmxNaWFlWUtKWDJnUGfSAbcBQVVfeXFMUENzUjRWTFJmQ2NzV01qN0NsSmtab3VVVmpUYUpJUTNpaC1MMFdtMEh1SVIybm9McDdMR0N6N2dSaFY5MnZHa21rcjFaT0l6dDhla1JEa19ORGJIR3I5aFNEZ1ZxTGNZOVVOMUFBUENzRnV2eF9rbWNudkpCSWNEb1ZJeld4X1lMTzIwS3E0Tm1ubmdLU0xZN2pjME1pWEZONTI0Z2R1ZUZPS1ZsTWlhZVlLSlgyZ1Bn": 1794204941215
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@adrian_alaydroes",
-      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
-      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgV0tcE9SJ",
-      "d": 1794194058000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29211,10 +29200,20 @@
       "d": 1794201540000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "4 Tanda Bansos PKH dan BPNT November 2026 Cair Ke Rekening Anda! - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3NSNFZMUmZDY3NXTWo3Q2xKa1pvdVVWalRhSklRM2loLUwwV20wSHVJUjJub0xwN0xHQ3o3Z1JoVjkydkdrbWtyMVpPSXp0OGVrUkRrX05EYkhHcjloU0RnVnFMY1k5VU4xQUFQQ3NGdXZ4X2ttY252SkJJY0RvVkl6V3hfWUxPMjBLcTRObW5uZ0tTTFk3amMwTWlYRk41MjRnZHVlRk9LVmxNaWFlWUtKWDJnUGfSAbcBQVVfeXFMUENzUjRWTFJmQ2NzV01qN0NsSmtab3VVVmpUYUpJUTNpaC1MMFdtMEh1SVIybm9McDdMR0N6N2dSaFY5MnZHa21rcjFaT0l6dDhla1JEa19ORGJIR3I5aFNEZ1ZxTGNZOVVOMUFBUENzRnV2eF9rbWNudkpCSWNEb1ZJeld4X1lMTzIwS3E0Tm1ubmdLU0xZN2pjME1pWEZONTI0Z2R1ZUZPS1ZsTWlhZVlLSlgyZ1Bn?oc=5",
+      "d": 1794201543000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
