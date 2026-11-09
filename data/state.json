@@ -60,23 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8ePQaoF_N": 1792990537887,
-    "threads:De8eQNRoN9E": 1792990537887,
-    "threads:De8d3y8ESDl": 1792990537887,
-    "threads:De8d058DhS_": 1792990537887,
-    "threads:De8dTNZFdCT": 1792990537887,
-    "threads:De8dGLgnHc4": 1792990537887,
-    "threads:De8c2MRE5bh": 1792990537887,
-    "threads:De8crYzE46i": 1792990537887,
-    "threads:De8cTIQEzjN": 1792990537887,
-    "threads:De8dq9Kjz_a": 1792990537887,
-    "threads:De8dJM7AhUd": 1792990537887,
-    "threads:De8eVRPk9RY": 1792990537887,
-    "threads:De8eZizE0mQ": 1792990537887,
-    "news:CBMirwFBVV95cUxQbC1GdkQ3YXdEblFaQ3h3WUVmRkZrR3V3dDhLcjFLTDRud2dqTkFjX2Mxc1pDeVZHdUJCLXJidF9Md3ktTktkSEtGcmFsSTF2dUhCV3QxMnotby15eWRDX21fa3J6MVdkcGwyNXVycHJEZG11SXE0LW5ka3UzSEN0RDVRS2dvNVJCWmJfU2hCQ09MZUhJVHd5Z3ZWcWdCc0FsWmd0QlRIR0l2djQ5WXZV": 1792990537887,
-    "news:CBMitAFBVV95cUxNMG5pazQycmx2M05UUnE1R2V6d1FNdGtoRmZCdFNmRXhCQ1pFdVRhRzVwUW52S1cxWlozM05mem9LT0FRZUdIVjFnYXhjWkhkd2FweGdVZ1hyUTZWZ1BUOG56c2JGV2lkWHNjdmVvVEZPaElMV2RhMTFKZkpHUEJWdkJKY0V1aWo1UDNDNmFjaWZvQTd5eVo3VWwwUWMxaDMyRGVMQkdnUTNOb19IX3QxOWNueDM": 1792990537887,
-    "news:CBMiqAFBVV95cUxPcE1EbkFoZmswcjl4TnhxX1hrR2NEZWJTdmlWcHpBcGE0ejBYRUlxRmlhenpfNl9pdXVtQUtGYnFFczdLemwwVFFBZ01QVm5VeTNZS0R4b01SYVIwMmlJTDZSWnBpOGs0N1dFcGhqdkJ5dlhfVlVLb0ltV281MmtoUy1WZ2x6MmFoaXhIS25ub0YxWGNMRzE5UUhMREVpU1A2QUF6aDZ4RGHSAa4BQVVfeXFMUEJrTTN0NUtNQVZrb1I1V0FLa0pmZGNBREtrbm92eW1fUXAzME0tVXVDd0RkODI4LXNPV0xFM1VCeEVna19JR1FVckZORFBwYVZHb3plMEtYcEYzbkp4MHI1c1hJM0RRT0hrVURrQ0pOclJjTFdmemJjLWp0TjRFQjRzRlpBcWFaRnlNbU4tb0hxS1pHQ3dZb1ZrYXIzZ09SaWRWVHdiSG1BNjRveDdn": 1792990537887,
-    "news:CBMiowFBVV95cUxOUVRYZEtjQjQ5aVNXT1ZxSEJWaFdVR1FldGh3amxTaDAxckFDU2lPYnBieHVMUy1vVUdKR0VwTFFoLWlZMWVkWkRxZ0hjX2h2bWREQUprY0hGZ1ZKNnRwYjlZUWFLQUZsS0xQRUlvSkJmbmNseHhUdTZXNFZieUxkYm9tRzlXWFpxM0NmM2lGeFRBSFZGUWRXOWJ5Z3BFcldwWWVV0gGjAUFVX3lxTE5RVFhkS2NCNDlpU1dPVnFIQlZoV1VHUWV0aHdqbFNoMDFyQUNTaU9icGJ4dUxTLW9VR0pHRXBMUWgtaVkxZWRaRHFnSGNfaHZtZERBSmtjSEZnVko2dHBiOVlRYUtBRmxLTFBFSW9KQmZuY2x4eFR1Nlc0VmJ5TGRib21HOVdYWnEzQ2YzaUZ4VEFIVkZRZFc5YnlncEVyV3BZZVU": 1792990537887,
     "threads:De8eSBRjzv-": 1792990856664,
     "news:CBMitAFBVV95cUxOUUdPMkhOQ0hJQ2pyWTN6TjUzZ2ZJWmV4cUZhR0R0VFNUWHJaZ3JvblFOd09fdHpwX3ZYSjVWbHI5NlNXYl8xdTE4amxadk9MMU5Oc3dDUEFoMTY0ZHBCNFlqenRzVnl3ZjNwMjR5R3ZweVZUNmhwTTJmdDVlenYweUdURUVraEFFTHhpcVBmMm1Yd3dpZVpiaXpaU0FyTXlhTXR3Z3l5Mjk4dk1jVE1ZaXZUczk": 1792990856664,
     "news:CBMi0gFBVV95cUxPMFVSS01pR0Z6T1dJT3BQaTBzZmpOYy1NbzdLZmY2bnFLczh4S3U2UmU2Y2l1cDdpUzc3NEMzdlBaZEV6YWY3NGxRUGM4ZUphR3VXeHF6eU84RWl3YmE2Z21LMWFhS2FTWGF0OVdVajJOMXdSSXExM0FMc0g0QVE1TDlzZkdqUHhDei1SZ2hWWE5DSHctWDU4eGpUTVVkTlJBcmhQU0lpTVF3a0dMR1lYWnIxcXY5c2l5RzdjbUZMRVRYcklJZnIyNmcxaHBuWHRKSVE": 1792990856664,
@@ -27711,29 +27694,14 @@
     "threads:DW44O4IE59W": 1794199846763,
     "threads:DCx1S08vHS-": 1794199846763,
     "news:CBMiU0FVX3lxTE4zWjI1TDdWSk5mS0xGVzJ4Y2Zfb2FETXhEczVlV2QtckRsYWNGVS1iSkoxVjNSQlZTaEstSV9iUmZySEJqa2ljOWQ4WWJwTWM3M0dR": 1794199846763,
-    "news:CBMirgFBVV95cUxNT25xYkxRcWRNLXk5ZDFRU2Z4Y0NMS2NlVEdvR2taMnBrSVl3S19kVFhfMUVCdVFzYmlybm1UWWVEYTR3NlBaVzFaMEZHWU5IRnhzN1pVQmFOaFJYMm9faEhORkNheEFrWi1aNWpoamJweElkZXVobU5BbHhnTllZTm9NTk9hNmFWc1prajVhUWVLY25PdEQ1eHRvME1IcVpZRXg4V0p1X01BdlpTQVHSAa4BQVVfeXFMTU9ucWJMUXFkTS15OWQxUVNmeGNDTEtjZVRHb0drWjJwa0lZd0tfZFRYXzFFQnVRc2Jpcm5tVFllRGE0dzZQWlcxWjBGR1lOSEZ4czdaVUJhTmhSWDJvX2hITkZDYXhBa1otWjVqaGpicHhJZGV1aG1OQWx4Z05ZWU5vTU5PYTZhVnNaa2o1YVFlS2NuT3RENXh0bzBNSHFaWUV4OFdKdV9NQXZaU0FR": 1794199846763
+    "news:CBMirgFBVV95cUxNT25xYkxRcWRNLXk5ZDFRU2Z4Y0NMS2NlVEdvR2taMnBrSVl3S19kVFhfMUVCdVFzYmlybm1UWWVEYTR3NlBaVzFaMEZHWU5IRnhzN1pVQmFOaFJYMm9faEhORkNheEFrWi1aNWpoamJweElkZXVobU5BbHhnTllZTm9NTk9hNmFWc1prajVhUWVLY25PdEQ1eHRvME1IcVpZRXg4V0p1X01BdlpTQVHSAa4BQVVfeXFMTU9ucWJMUXFkTS15OWQxUVNmeGNDTEtjZVRHb0drWjJwa0lZd0tfZFRYXzFFQnVRc2Jpcm5tVFllRGE0dzZQWlcxWjBGR1lOSEZ4czdaVUJhTmhSWDJvX2hITkZDYXhBa1otWjVqaGpicHhJZGV1aG1OQWx4Z05ZWU5vTU5PYTZhVnNaa2o1YVFlS2NuT3RENXh0bzBNSHFaWUV4OFdKdV9NQXZaU0FR": 1794199846763,
+    "threads:DTHWEenE_Hy": 1794200138015,
+    "threads:DfgUjnxhwqF": 1794200138015,
+    "threads:DdmDCobnWaW": 1794200138015,
+    "threads:Dfghg_9m40-": 1794200138015,
+    "news:CBMinwFBVV95cUxNUzRfc1RuZjhSZy1EcEIwWTRtZEhaSWFpdjA4ancyWEk5Y0pjOE1pUFFUV21HUDA4NTJVdFRUVjZQMEoydER3VlBGblRQdGs3dE94VElrRWhzUTlrSEVaYzhkODFJWW13UHBmRllLaVQ1aDRFVG42Ri00NDFUS0ZKS3BjLWJMUy1NN2RiTDUzM3d0Yk1PODh2TGhTNk5WYWc": 1794200138015
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "RRI.co.id",
-      "x": "Pemilik Ikebana Handicraft Cetak Wirausahawan Baru lewat Pelatihan Kriya - RRI.co.id",
-      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnpNbl9MSEZnZjU3WnhtMklFTWhqOWRLUkhKLUF5TVVKdUlfVWtnZU9EbmowdzRnZEdPZTlhbURPMmQ0QnRjVmJBc1piV3E3NTc3dC1Ga09WQ0JfcGd1N0hMXy1jLWltTmg0NlpMcHI5bDEwbGpjRnN5QTB6T3VaY0xpb2hQUFp3czdpSVFfX1ZKeWFQaXpxRUJUbjQ5akcyN2NESW5rWGhDdElid2l0a0Q1ZnJEeG54VEJxMA?oc=5",
-      "d": 1794187800000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@amihabangadek12_",
-      "x": "📢 PREDIKSI PENCAIRAN BANSOS TAHAP 4 🔹 Gelombang 1: 1–15 November KKS BRI & BNI 🔹 Gelombang 2: 16–30 November KKS Mandiri & BSI 🔹 Gelombang 3: 1–15 Desember Susulan & beras 30 k",
-      "u": "https://www.threads.com/@amihabangadek12_/post/DfgPeK1HUe_",
-      "d": 1794190728000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -29213,10 +29181,30 @@
       "d": 1794196980000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@marshatamiwebsite",
+      "x": "Sertifikat HTTPS gratis sudah cukup untuk banyak website kecil. Pastikan perpanjangannya otomatis dan tidak kedaluwarsa. keamanandigital #belajarwebsite #website #edukasi #https",
+      "u": "https://www.threads.com/@marshatamiwebsite/post/DfgUjnxhwqF",
+      "d": 1794193418000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rapii_wehhh",
+      "x": "🎁 BANSOS AI BARU — xcode Bansos Guild API gratis untuk komunitas: ✅ Kuota total 5.000.000.000 token (5 miliar!) ✅ Tanpa batas RPM & concurrency ✅ OpenAI-compatible ✅ Pemakaian liv",
+      "u": "https://www.threads.com/@rapii_wehhh/post/Dfghg_9m40-",
+      "d": 1794200188000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
