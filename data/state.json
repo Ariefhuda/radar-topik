@@ -27552,7 +27552,13 @@
     "threads:DfhlDlQEohZ": 1794235841414,
     "threads:Dfhk_aHEpPJ": 1794235841414,
     "news:CBMiswFBVV95cUxQeTZCd3FWeEJwXzNWd2kxa28xMk9Sc1ZMSjJPSEZtWFRJNDk0bW5tUUQ2NjNyd3NCa0hJaGZjMDVWU1A0TUJ0VkN1SnBIcE5HTmNkVXRTOWRPZnBHREFxdGg2VTNRZ3RRLW44cDI5YV9mcGJDYVVWdnFzM2h0dWlDYUQ3Q2pjamJUSTRabDZBOXZVVFZKRk0tVy1YWndZMW9wcFdlNEoySWFrM3RRZFN6a3NTNA": 1794235841414,
-    "news:CBMixgFBVV95cUxQYXhtdWJnR1ZaUXpkcmNPbHZRd1l5ZzNFdWJCdl8wUWd1ZUxrZDZZM1paWm1yZ3Nsc25iVVpQZlBFYkdTNFp6QkN0TGZIcDhhUjgxQlhfNHFYRExhbEduZ2hlN01ianc1ckVhV2pFMV9EeW1jbV9kWXVvWkNtZUY5bC1QMWdtcFJjamJPZFhkVG4zY3pScHNyQVk4eEk3SE1jdTMwaURkSk1TalZVdy1NalVJNEl2NURXWUZxN1Z0dEdmZkNkSHc": 1794235841414
+    "news:CBMixgFBVV95cUxQYXhtdWJnR1ZaUXpkcmNPbHZRd1l5ZzNFdWJCdl8wUWd1ZUxrZDZZM1paWm1yZ3Nsc25iVVpQZlBFYkdTNFp6QkN0TGZIcDhhUjgxQlhfNHFYRExhbEduZ2hlN01ianc1ckVhV2pFMV9EeW1jbV9kWXVvWkNtZUY5bC1QMWdtcFJjamJPZFhkVG4zY3pScHNyQVk4eEk3SE1jdTMwaURkSk1TalZVdy1NalVJNEl2NURXWUZxN1Z0dEdmZkNkSHc": 1794235841414,
+    "threads:DfhlubZGyxu": 1794236142360,
+    "threads:Dfhl9a-Exge": 1794236142360,
+    "threads:DfhlDqalECm": 1794236142360,
+    "threads:De8xzjnk1R5": 1794236142360,
+    "news:CBMirwFBVV95cUxNeFR4RjkwaWVMeFRSeWdTYUlZMkxkblBveXlNNzFzVUpGN01tNzJOMUFFNi03SlNSb1pMSWlUdVJjc1VuYW0yZklqZEJqX21KQU5YVUxlUkVGY0lSWGRPQ09CUVlYUkxyN3pabU04dVhPTUV6ODZPa0VSTC1TR2xreUZBOUpIZG5Vejl2cUUzVnJVZWVTTjh1a1B2bUNaUVZ0cGFfd1VrYlUtakxDTGpj": 1794236142360,
+    "news:CBMicEFVX3lxTFBod2VqOVlhTnNNZm1KdmFmeGdXdzJzVUNUMXhQRlBTTEhrM1czb0tLY1JwbUlDcGxoQXAyd3NYWTZBMk5qZnVZSkZyVjRIaU4tb1hpcGkyUnZkcThTRXlIVFJ4c2NzY20yQkZtS2VOdG4": 1794236142360
   },
   "digest": [
     {
@@ -28844,10 +28850,20 @@
       "d": 1794234541000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Sekitar Bandung",
+      "x": "Cara Mengakses Daftar Perlinsos Kemensos Go ID untuk Mengetahui Informasi Bantuan Sosial - Sekitar Bandung",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBod2VqOVlhTnNNZm1KdmFmeGdXdzJzVUNUMXhQRlBTTEhrM1czb0tLY1JwbUlDcGxoQXAyd3NYWTZBMk5qZnVZSkZyVjRIaU4tb1hpcGkyUnZkcThTRXlIVFJ4c2NzY20yQkZtS2VOdG4?oc=5",
+      "d": 1794214253000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
