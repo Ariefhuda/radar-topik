@@ -27546,7 +27546,10 @@
     "threads:DZ-6Z-IE1-Y": 1794231049527,
     "threads:De8LasbEyXc": 1794231049527,
     "threads:De9BI-nCSjk": 1794231049527,
-    "threads:DfhcWf_D7Gb": 1794231049527
+    "threads:DfhcWf_D7Gb": 1794231049527,
+    "news:CBMipwFBVV95cUxPSlJnV1dCWGxnR1o4d2ZtMnNXb0tocmkybDIyb0QtdmMyRUJpdFNWakV0WlJ0RHBydFlod0sxSzZrQ0FoeGtPR2hmbUkxNzZ6OWZiSDJBajlGS1Y4Z3J6RExKdjBNREhLMHd1VXlJb0gtMjM4eTYyYUdlQ2VpRV9CUFNBbjItSHpnVHNlOXFGRVMyOG9KdFpDS3dXUHYyVmw5RXdSSTR0MA": 1794231337318,
+    "news:CBMi3gFBVV95cUxPX0pTZnRBbEZydGNMQVNsQmN6LXNUNDZTdm1TMm50a0gyWWd1eDlIV0RHcGowZzFfVGxBNFpOY2hsYUFNbWVDODA3R1JUX25pMnN2RkdtUTllT1J6REdrTWRPRUlnVGtMOHViYVBsS1RzUFhtRS1JQWYxeFJmVmk0RW42YXVYTC1BeWVUNW91WElKQWZhUUYtbjlURU9NWXJ3ZjRaUHB6Rl80OTlaZ1VLODJUaHExVE5mSjVKaENzSmgtMVlWYnRMa05EdmlpQzZZNU9QSURfLUZmVEpkNkE": 1794231337318,
+    "news:CBMi8AFBVV95cUxQdzh6U0NsMmdUNkY2WmFiWnBqZXVZQk9MdHFRM1NoakJlVmdWNGxCdzF6bWY2RWRCMFh3REt6ekFpdUEtVElaZmtiQkF2dzRhNGxBMlJLVGMyZTZxdVJ0T2JVcEdnNDh1Smt2M1RhaEpPbTBjUG1TVl9zN2dod3dvajNUeWVnRThxc2FGT3V2MFY5WGQ2NmFrdWNsUUtUSDFkYXAyLVZ3TGJMVW9CbDMtbm4zWkRsaVlXMmxQS2ZORnhkLXpnaU1BQlctc0JmWHg5amNVTDFNWkZnd1BOQW83TjJKQkFZRHpCc3FRVUh5XzTSAfABQVVfeXFMUHc4elNDbDJnVDZGNlphYlpwamV1WUJPTHRxUTNTaGpCZVZnVjRsQncxem1mNkVkQjBYd0RLenpBaXVBLVRJWmZrYkJBdnc0YTRsQTJSS1RjMmU2cXVSdE9iVXBHZzQ4dUprdjNUYWhKT20wY1BtU1ZfczdnaHd3b2ozVHllZ0U4cXNhRk91djBWOVhkNjZha3VjbFFLVEgxZGFwMi1Wd0xiTFVvQmwzLW5uM1pEbGlZVzJsUEtmTkZ4ZC16Z2lNQUJXLXNCZlh4OWpjVUwxTVpGZ3dQTkFvN04ySkJBWUR6QnNxUVVIeV80": 1794231337318
   },
   "digest": [
     {
@@ -28298,10 +28301,30 @@
       "d": 1794231035000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Habangkalan Penyang Karuhei Tatau",
+      "x": "Bupati Gumas Serahkan 101 Sertifikat Tanah PTSL di Damang Batu, Salurkan Bantuan Sosial bagi Masyarakat - Habangkalan Penyang Karuhei Tatau",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0pTZnRBbEZydGNMQVNsQmN6LXNUNDZTdm1TMm50a0gyWWd1eDlIV0RHcGowZzFfVGxBNFpOY2hsYUFNbWVDODA3R1JUX25pMnN2RkdtUTllT1J6REdrTWRPRUlnVGtMOHViYVBsS1RzUFhtRS1JQWYxeFJmVmk0RW42YXVYTC1BeWVUNW91WElKQWZhUUYtbjlURU9NWXJ3ZjRaUHB6Rl80OTlaZ1VLODJUaHExVE5mSjVKaENzSmgtMVlWYnRMa05EdmlpQzZZNU9QSURfLUZmVEpkNkE?oc=5",
+      "d": 1794226823000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Beasiswa Fulbright S2 dan S3 ke Amerika 2027 Dibuka Tanpa Batas Usia, Cek Syarat dan Cara Daftar - Bicara Network - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdzh6U0NsMmdUNkY2WmFiWnBqZXVZQk9MdHFRM1NoakJlVmdWNGxCdzF6bWY2RWRCMFh3REt6ekFpdUEtVElaZmtiQkF2dzRhNGxBMlJLVGMyZTZxdVJ0T2JVcEdnNDh1Smt2M1RhaEpPbTBjUG1TVl9zN2dod3dvajNUeWVnRThxc2FGT3V2MFY5WGQ2NmFrdWNsUUtUSDFkYXAyLVZ3TGJMVW9CbDMtbm4zWkRsaVlXMmxQS2ZORnhkLXpnaU1BQlctc0JmWHg5amNVTDFNWkZnd1BOQW83TjJKQkFZRHpCc3FRVUh5XzTSAfABQVVfeXFMUHc4elNDbDJnVDZGNlphYlpwamV1WUJPTHRxUTNTaGpCZVZnVjRsQncxem1mNkVkQjBYd0RLenpBaXVBLVRJWmZrYkJBdnc0YTRsQTJSS1RjMmU2cXVSdE9iVXBHZzQ4dUprdjNUYWhKT20wY1BtU1ZfczdnaHd3b2ozVHllZ0U4cXNhRk91djBWOVhkNjZha3VjbFFLVEgxZGFwMi1Wd0xiTFVvQmwzLW5uM1pEbGlZVzJsUEtmTkZ4ZC16Z2lNQUJXLXNCZlh4OWpjVUwxTVpGZ3dQTkFvN04ySkJBWUR6QnNxUVVIeV80?oc=5",
+      "d": 1794203280000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
