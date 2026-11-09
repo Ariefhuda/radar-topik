@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De9I9ZeE1a3": 1793013640902,
-    "threads:De9JKHBE2i8": 1793013640902,
-    "threads:De9KLRRHSk4": 1793013640902,
-    "threads:De6A_08EYC9": 1793013640902,
-    "threads:DTAqbMNk78n": 1793013640902,
-    "news:CBMixwFBVV95cUxPNEQ1YkdpRlphMTZfVGh0N2dHcmd6TVRXdHVJLTJHX0Vxa2p0NUhncVVZTWVCNTJKMi1VbXBUVTIwdFZKaVc1TWNyTkRZMDN3TWJSSE0xb0xuU3U4UlJfMk5PWWtNVWRYX0V0Q1lkQlloa010aS05eE1xNVMta0FScldkZWo3ZXVvZS1HcWlhME5Tc2JpX25JZ0R2bXJBcVpjcGw5cFJqbDVGSzhVYnZESXpUdE5ybXBRR2VQYmNZV1FYelR4dzVB": 1793013640902,
     "threads:De9KUU0iIN0": 1793013946440,
     "threads:De9KUZqjHd1": 1793013946440,
     "news:CBMi4AFBVV95cUxNNi0xQVVtSmdMTG84dHBKbnJsRkMtbGZrQmxmZHM4Njg2LVhWTzZ2THdfbmRPd2JvQTM3THZYRUlyQ1B0MkFha0pwQ1JLYmFfc3BpcjViQVU4dF9xakgwczI3ZUdpSW84cV85OTZjQ0QxVHY5enhYdUdpU3RkaTlDa0tkYWd6UW5CMEtJb1hEUFA1YXJ6MWRFRTBMV3lYaWF5ZzNDMmhTWm40amhEanF1ZTdrNnBzVnFuaHctck9ERXlnZDYyZDFmTlQ1Z3UwejlqSlg4QjkzMlhLNEl5VjkzRw": 1793013946440,
@@ -27595,59 +27589,11 @@
     "news:CBMikAFBVV95cUxNaFlyUWZzTDVSVE81YUg4bEF0eG1tYnNCMkJQMUFscnplMVdhTFNqNFVNM3lmS3BMUFZ5RmRaY2FhX1lYMEdkYVI0UkNsNjFHYS00dkJDTklCSTdkVzFTSTRlS0FoWU8xbUFXekVfTWwzM25IZ05nNmxmZzlSYjJERWlOWGRsSzl5dDBHZlNJVFQ": 1794223024012,
     "news:CBMivAFBVV95cUxNQnlUSlEyTVRSOTNkR3FRTFJVMTdEVVFHelkxeW16ODFCUjEtLWhpeEhVWGJQMjVxRjgxZFVmNjh4U2tGQUtYeEUwWkpyX0lqU1JNU0ptaHNnNnZwVEZJVl9XSHNFZE1ZcXN4WDZ2bjFvaHM4U0NWTGNKaUZIb1JQdEJZblY2ZnBuZEFOVDh2dWlHaTVRbTFiZlhqVEpWWkZQbC1rejA0UllNWFNCWTZWUURjTWd6VXhhQ2tPSA": 1794223024012,
     "news:CBMiuwFBVV95cUxNcVlXNlgwMnBVSGxNUWdSTk5DSXNJZGFJV0ZVajM3U1BOYXlaTGFpekdMYkZYcjlFZ1Q4NWR3bEVITjNNd0hwRVpKWTEza0hiYjFYN25tSlk2cjZvY0hEb2U4eng0SWptUGljbmNMSlVteXdSWDhFNGFMY3BCZVNXQmVleE90VHFJM0FMUDRHZ3FySWFSUmhPNW5wOThxWkpiT3NpWjhJd1QzTDZDVTNtX3VlcnFIVWpMdFNN0gG7AUFVX3lxTE1xWVc2WDAycFVIbE1RZ1JOTkNJc0lkYUlXRlVqMzdTUE5heVpMYWl6R0xiRlhyOUVnVDg1ZHdsRUhOM013SHBFWkpZMTNrSGJiMVg3bm1KWTZyNm9jSERvZTh6eDRJam1QaWNuY0xKVW15d1JYOEU0YUxjcEJlU1dCZWV4T3RUcUkzQUxQNEdncXJJYVJSaE81bnA5OHFaSmJPc2laOEl3VDNMNkNVM21fdWVycUhVakx0U00": 1794223024012,
-    "news:CBMi0gFBVV95cUxNN1U3UnNwSnlPS2RuT2pRNDVDRkN3cV9mTmZ4T1NqRlZlYlRFM0lwc2RRYzJoX01WX0tGQ2ZFYW5kSFZYMkc0bjB3RFJyNExiaFVodGdTVkhRWE1OUTBoT0d6eERQTkdYVE5lY0lMdEg3bkhNS3lPNUtuX1l6c0NlRzJpVU5zSVdTYUVMR2FXcWJtZnNNeXBIMkZHSWhmeWJJTzl3VWtiWndwekVJQXM0TEpiMFVXVGwxX1gwTm5vT1lpVGZWR1psejFzMTVvR0c5YkE": 1794223024012
+    "news:CBMi0gFBVV95cUxNN1U3UnNwSnlPS2RuT2pRNDVDRkN3cV9mTmZ4T1NqRlZlYlRFM0lwc2RRYzJoX01WX0tGQ2ZFYW5kSFZYMkc0bjB3RFJyNExiaFVodGdTVkhRWE1OUTBoT0d6eERQTkdYVE5lY0lMdEg3bkhNS3lPNUtuX1l6c0NlRzJpVU5zSVdTYUVMR2FXcWJtZnNNeXBIMkZHSWhmeWJJTzl3VWtiWndwekVJQXM0TEpiMFVXVGwxX1gwTm5vT1lpVGZWR1psejFzMTVvR0c5YkE": 1794223024012,
+    "threads:DfhNaCfG9ai": 1794223239703,
+    "news:CBMi0wFBVV95cUxNeURvLW9IeUQtYWh6aHNzeHhaQndJcjM2RmI1Q3dHN1E0M2dxNkRjckZaRFZXaU5ZMkt3TmZoVk9DVHg4RWFkVmNZRnhSZGp4T3lVXzVTVXFhc2t0MFNwQVU0RFl4OUVCak8wWXVuaTkxdHBKaWJMY3YwRVZ5bjJwX1pZdTg5WUVGdEhoYTZ4OG13WmtBaVhWYnBZdTdUbG42ZmdUdUd1eFBjcWM2d1lIa2h6MHQ5TlRzWEt6dERnYXFTU203UnJOTnFOZ05laHBLa0sw0gHTAUFVX3lxTE15RG8tb0h5RC1haHpoc3N4eFpCd0lyMzZGYjVDd0c3UTQzZ3E2RGNyRlpEVldpTlkyS3dOZmhWT0NUeDhFYWRWY1lGeFJkanhPeVVfNVNVcWFza3QwU3BBVTREWXg5RUJqTzBZdW5pOTF0cEppYkxjdjBFVnluMnBfWll1ODlZRUZ0SGhhNng4bXdaa0FpWFZicFl1N1RsbjZmZ1R1R3V4UGNxYzZ3WUhraHowdDlOVHNYS3p0RGdhcVNTbTdSck5OcU5nTmVocEtrSzA": 1794223239703
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sporkymaxi",
-      "x": "CALLING ALL MOMS!!!🚨 Bundaaa, siapa di sini yang lagi butuh waktu untuk reconnect sama diri sendiri di tengah kesibukan menjadi ibu? Sporky Maxi mau ajak Bunda ikut WEBINAR GRATIS",
-      "u": "https://www.threads.com/@sporkymaxi/post/Dfg1f6mkwJM",
-      "d": 1794210665000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dnaacademy.co.id",
-      "x": "Jangan buru-buru mikirin mau bikin bisnis apa, Kak. Bekali diri dulu dengan ilmu bisnisnya. Kebetulan ada webinar gratis nih buat belajar cara membangun bisnis dari nol. Sayang kal",
-      "u": "https://www.threads.com/@dnaacademy.co.id/post/Dfg1I7sGam9",
-      "d": 1794210477000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bahasaarabanak",
-      "x": "Sebelum memutuskan mengikuti suatu kelas, pasti Ayah/Bunda ingin tahu dulu bagaimana suasana belajarnya, kan? Apakah tutornya interaktif? Apakah anak bisa mengikuti materi? Apakah ",
-      "u": "https://www.threads.com/@bahasaarabanak/post/Dfg2g26iYM1",
-      "d": 1794211197000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kpop.yumm",
-      "x": "Hi kak, aku ada kelas gratis speaking kalo mau book bisa cek utasku yg disematkan ya 😄 Dari situ kalo cocok bisa jd murid regulerku, kalo ga jg aman aja~ Siapapun yg baca komenku ",
-      "u": "https://www.threads.com/@kpop.yumm/post/Dfg2LWTmbxF",
-      "d": 1794211021000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@studi.path",
-      "x": "Dear warga, kalau minpath bikin sesi GRATIS buat bahas info beasiswa yang lagi dibuka (yang intake-nya udah deket), kalian bakal join nggak? 👀 Rencananya online aja lewat Zoom, ja",
-      "u": "https://www.threads.com/@studi.path/post/Dfg2hm3D4aA",
-      "d": 1794211203000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -29137,10 +29083,20 @@
       "d": 1794222930000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@malawali.id",
+      "x": "🆕 BANSOS AI: AkashML Inferensi AI di GPU terdesentralisasi. ✅ Akun baru: $100 kredit token AI ✅ OpenAI-compatible, API + Playground ✅ Kimi K3.1, GLM 5.3, Qwen3.8, Llama 70B ✅ Daft",
+      "u": "https://www.threads.com/@malawali.id/post/DfhNaCfG9ai",
+      "d": 1794223200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
