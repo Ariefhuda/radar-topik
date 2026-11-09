@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De9LwlCD3Gn": 1793014852273,
-    "threads:De9GBPyk0db": 1793014852273,
-    "threads:De9Mah9jguD": 1793014852273,
-    "news:CBMiugFBVV95cUxNeEhuV3FpYkhrVkRTOEM0elZiY3N3dm5ScThINGsyNWxVaTJRZ1JwMVliQURwcWhLLTEyU0RVU3VabGU1blk4TEZHQVZIbE5Rd3dhM3NuRm5tNkg2MGF3UXA2NEFlUUtKX3dNd0hsdkszdE1xUlpoZzMzbDZsRG5leG1GRUJxWXoxUXM1QTlHeDJzSGtSR1JfOFZyX0dfZElkZW9VaU15ZWtuSFk1Nk1xZzN3U01qSmZMOGc": 1793014852273,
-    "news:CBMipgFBVV95cUxPM1ljRlM1RmFlVU5aektqSmVwSDNPeGU0SlhUaEU0TmJzSjRtU2RKS0U5UktJUXB5MkZGdmNRWFNxdU9LLU5XR0kyVVZ4bktWVFhibkx6OW5SVF9kdUdnUDlTMTNfSVJ4c1c2QS1oSG9sbkNuSzdtbWNkT1BWQ0F6cnhjekJPdEcySnYxdFBOdmRNQXdPT3dEbFNiUy1yMXZGQjVJV2lR0gGmAUFVX3lxTE8zWWNGUzVGYWVVTlp6S2pKZXBIM094ZTRKWFRoRTROYnNKNG1TZEpLRTlSS0lRcHkyRkZ2Y1FYU3F1T0stTldHSTJVVnhuS1ZUWGJuTHo5blJUX2R1R2dQOVMxM19JUnhzVzZBLWhIb2xuQ25LN21tY2RPUFZDQXpyeGN6Qk90RzJKdjF0UE52ZE1Bd09Pd0RsU2JTLXIxdkZCNUlXaVE": 1793014852273,
-    "news:CBMi8wFBVV95cUxPZjlWT3FDNFl6RUNnWGV4UHNSRk04SUk2RUpvM1pOS0VHdUVEVl92aHZ3bDVkS2lrWFJOM0liVWRUbXJyYnZBSk5WQ2FIRnN0c1RuWTRVTzRxRGFJNVJDYXQyN21abzdtVFBXYkdUazBOQXZoZkQwMDRvWFFORzg0dzVPOWd5MVF0WG0zUnFFT1BvbXhUNk52dWVzWTVWRWpiRnJpeWxHWV9ucldpeU5VeHpzVlpFaW9UVlJVbE9pMm9qc3ZnQVNENzMyYUhST2F1TXlPTThPeGtyaVd1X1AzdkpmUmN5ZWVfUm1tTGl2MndKSXM": 1793014852273,
-    "news:CBMioAFBVV95cUxNWXlkTXdWVWhKdzZyYXBMa1RjNHRhMlI5VklrUFhrYkZJRGRkajhqLVg0M3luQzc3YVFERllWUDB4MkY1ZmlScDcwN3JadS1GU2ZYOVB6VHUzWjlYT0VFSjRoY1d3TnU0a3E2d3o5SmM3VnNfSVF4d0p1czd5YTVodlFTdThqRTZLWUtOZ09SR2lrTnd1bGNVdThUMWZSTXF4": 1793014852273,
-    "news:CBMi0AFBVV95cUxQY1ZrZ2Q1TGJuU2Q5cmM1alpqd2RVZlBpbjNuWmNjY3U2UFVnRUdoRWVYdkVEYWlxMEk0cTE4TVBXWWV0OENCVzZPWXE1WmNkZ2JsRncwZGFxTFhQc04yV1M3R3hJYmJ2cDNGczExUVpENE9sbjZ2ZVgxcTBadVRwbGxoY2NyaldQci1GSDBpY1g1dWE3S1dIZUJHcmVWVk5FM1ZpX1FBU2VDN3dxY3VnWXpBdUV1WUpsVGdpUjB6ajVnc2pvQjVXRzV2YzhvUnJa0gHQAUFVX3lxTFBjVmtnZDVMYm5TZDlyYzVqWmp3ZFVmUGluM25aY2NjdTZQVWdFR2hFZVh2RURhaXEwSTRxMThNUFdZZXQ4Q0JXNk9ZcTVaY2RnYmxGdzBkYXFMWFBzTjJXUzdHeEliYnZwM0ZzMTFRWkQ0T2xuNnZlWDFxMFp1VHBsbGhjY3JqV1ByLUZIMGljWDV1YTdLV0hlQkdyZVZWTkUzVmlfUUFTZUM3d3FjdWdZekF1RXVZSmxUZ2lSMHpqNWdzam9CNVdHNXZjOG9Sclo": 1793014852273,
     "threads:De9Moh6GDO1": 1793015147173,
     "threads:De9MmOsDZWX": 1793015147173,
     "threads:De9MlkanwUv": 1793015147173,
@@ -27589,39 +27581,15 @@
     "threads:DfhO0qsIJBh": 1794224141022,
     "threads:DfhOvKSkqXb": 1794224141022,
     "news:CBMi4gFBVV95cUxPZFd1M2gxb2F0RUd0cFk5SVM4bGhQVUlWLXUzWmdIeGFQM1lkdG9vRU9md0E4Zl9kYzJScDZNcFZGTkUyclRnbFFlb1ZqNmRVTVJKN3pwUGxsa0lCdHhEdDl2SjdHYzdYY2M4SDVUZnoxdzZNb05CU0d5a1RWU3hKalNrM1ZhdFUwN1pSRkRhbThLQlMxZDNzaDVUSHZTWnlSUXVpUmRORHppQXJxZUNMcmFZRENmUHd6NkZ0dnRUTTgzVjBZRHIyR0pxejZqOUZVcWlxQmQ5cW41aUtDeGFaeEJB0gHiAUFVX3lxTE9kV3UzaDFvYXRFR3RwWTlJUzhsaFBVSVYtdTNaZ0h4YVAzWWR0b29FT2Z3QThmX2RjMlJwNk1wVkZORTJyVGdsUWVvVmo2ZFVNUko3enBQbGxrSUJ0eER0OXZKN0djN1hjYzhINVRmejF3Nk1vTkJTR3lrVFZTeEpqU2szVmF0VTA3WlJGRGFtOEtCUzFkM3NoNVRIdlNaeVJRdWlSZE5EemlBcnFlQ0xyYVlEQ2ZQd3o2RnR2dFRNODNWMFlEcjJHSnF6Nmo5RlVxaXFCZDlxbjVpS0N4YVp4QkE": 1794224141022,
-    "news:CBMi1AFBVV95cUxNSVNFSzZSOGlhaGVaWElGLXV6ZWY5aWdqZk04ek8wUEE4dzFkZUo3U3RCRlRHem9YWlVDTE1YZmVZRGxFVXhaeExzZzAzNVkxME1sa29vWnB6NWRHTDZXUVJuTFRjcWRBMllHQkliam9JMUc3QTA2bWRERWlHaXI0cHd1aFhxTGlCbzNCT3l5aGRyVklCTVpWM2gtV2IxWWNyX1BWbTdvdFhzYlhhRHl4cXpiMnBBejhqclhiUjl3aWhSRmVjOGlvd0s0Z1h5R1FLWHRyadIB2gFBVV95cUxObEdZeFNpNkhBOGFLMlpZRUJ1X2JuYVZ4MmpaNnRjTE05MEZ6WnNleGxMdi02bWVURF9rRG1yOEJRTHZxRWh3ZTRuaml2NEt6SG9JVklmZmVKYXN1RFVfNlFJUm9lWGVmWkpHUl9SblJSUndWcGdvYVhoamVoZ2NRZmlFZEVpVDdodHR6TjJOXy1qTWM1X2IxRWR4YTlMd1M4Mm9ZaG5hdldzVUhLc2FnRFZBYnFLVDY5YXZzNlhOb3FaLTNIaG04eGdRRklqdXk3bzlHTVFvSGcyZw": 1794224141022
+    "news:CBMi1AFBVV95cUxNSVNFSzZSOGlhaGVaWElGLXV6ZWY5aWdqZk04ek8wUEE4dzFkZUo3U3RCRlRHem9YWlVDTE1YZmVZRGxFVXhaeExzZzAzNVkxME1sa29vWnB6NWRHTDZXUVJuTFRjcWRBMllHQkliam9JMUc3QTA2bWRERWlHaXI0cHd1aFhxTGlCbzNCT3l5aGRyVklCTVpWM2gtV2IxWWNyX1BWbTdvdFhzYlhhRHl4cXpiMnBBejhqclhiUjl3aWhSRmVjOGlvd0s0Z1h5R1FLWHRyadIB2gFBVV95cUxObEdZeFNpNkhBOGFLMlpZRUJ1X2JuYVZ4MmpaNnRjTE05MEZ6WnNleGxMdi02bWVURF9rRG1yOEJRTHZxRWh3ZTRuaml2NEt6SG9JVklmZmVKYXN1RFVfNlFJUm9lWGVmWkpHUl9SblJSUndWcGdvYVhoamVoZ2NRZmlFZEVpVDdodHR6TjJOXy1qTWM1X2IxRWR4YTlMd1M4Mm9ZaG5hdldzVUhLc2FnRFZBYnFLVDY5YXZzNlhOb3FaLTNIaG04eGdRRklqdXk3bzlHTVFvSGcyZw": 1794224141022,
+    "threads:DfhOsL0mIvg": 1794224466680,
+    "threads:DfhPgLGCLTD": 1794224466680,
+    "threads:DfhPLGhEX0V": 1794224466680,
+    "threads:DfhPxa9gWsL": 1794224466680,
+    "threads:DfhPYbUgY1x": 1794224466680,
+    "news:CBMivgFBVV95cUxQUHdVX2JYLWlucnBuZ1VUNEdwWVVmT2ZzYTZJMkNGQWxZaVRmSzM0MGIyUGdHb09rQnV0cG4zZTNReTVBMFBkaGFMOFk1OF9WZUVUbzJIZ0plYnpiVm1vQnljUnJDS0ZQRFVSYndOckZKdDQ0akkzVjhiUDZQT0tyU1p5WV9lbHJYRVkyQy1kY0lkRVM1Si1ZMWN0ckh6dzFseTg1dy1Nd0VBN2JTNG5tWkdaLXVvWkc3Z2YzeG1B": 1794224466680
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kupas Tuntas",
-      "x": "Pemprov Lampung Perkuat Kompetensi Pelaku Pengadaan Lewat Platform Digital Begawi Pengadaan - Kupas Tuntas",
-      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlBIUWV0Q1ljVWtoWDFENjV3TFYwd29VUkl3OXJ1M1RUZm9mcHRvM2NkWGt1N3VqUGVxUlkxTmY0bFV6YmRRNk91ekx4aU9WTEJZVGM5dV9CSkNUWTRWTm42V2ZUWVdrYnJHdTd1akNnV1NKTXU2Um1FVUNURlNpcE5HRVMwaWlhcmdfRFhSbHRWdURMTVFYMHhfRW1hMGFFVTVaQi1raWQtRTRNQTU3aW9rM2tBdGRtQlRVcWV2d1NSQ0k?oc=5",
-      "d": 1794211560000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@halobeasiswa",
-      "x": "KULIAH S1 FARMASI GRATIS DI CHINA! 🇨🇳 Halo Beasiswa membuka kesempatan kuliah S1 Farmasi di Tongren Polytechnic University, China, dengan berbagai keuntungan menarik. Apa saja ya",
-      "u": "https://www.threads.com/@halobeasiswa/post/Dfg3GiiD_8I",
-      "d": 1794211506000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@kanimjaksel",
-      "x": "Kuliah ke luar negeri memang impian banyak orang. Tapi jangan sampai impian tersebut justru menjadi celah penipuan! Waspadai jika tawaran beasiswa memiliki tanda-tanda berikut: 🚩 ",
-      "u": "https://www.threads.com/@kanimjaksel/post/Dfg24CmApcP",
-      "d": 1794211411000,
-      "urgent": false,
-      "warn": true
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -29091,10 +29059,40 @@
       "d": 1794213600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@pritiy_",
+      "x": "Ini aku mau sharing info beasiswa KFUPM dari awal pendaftaran sampai submission. Kalo kakak2 tertaik silahkan join melalui link berikut ya! Link: bit.ly/WebinarGratisKFUPM01",
+      "u": "https://www.threads.com/@pritiy_/post/DfhPLGhEX0V",
+      "d": 1794224126000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kalau yang dimaksud TK = Tito Karnavian, iya ada kerjasama. Bukan \"belajar ke polisi komunis\" sebagai ideologi, tapi program pelatihan resmi. China memang agresif latih polisi asin",
+      "u": "https://www.threads.com/@meta.ai/post/DfhPxa9gWsL",
+      "d": 1794224440000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tiapermana20157",
+      "x": "Kena PHK atau habis kontrak di tengah situasi ekonomi saat ini pasti berat. Tapi ingat, kehilangan pekerjaan bukan akhir segalanya! Jangan cuma menunggu, saatnya ambil kendali masa",
+      "u": "https://www.threads.com/@tiapermana20157/post/DfhPYbUgY1x",
+      "d": 1794224235000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
