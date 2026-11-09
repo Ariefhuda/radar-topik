@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DSW9MTtE5Sn": 1793006741516,
-    "threads:Dd0RsTdifZL": 1793006741516,
-    "threads:Dd1Bwe8iWgH": 1793006741516,
-    "threads:De88uSEjtdV": 1793006741516,
-    "news:CBMiogFBVV95cUxQdVJUam4tdGZpb0ZfZ2JxSkN1VVljY0Q3RnFlc1d1TXVvdVl5OG1nQk9ORWNUcnJUc1M3VDJTTmJpQTYzTVV0d1RIdTdMWlR0cUhmWmpwZGpQbUs5cG4zeGJWLXlfUGhKNUstbU90VGJLbWRxb2wzeFFQdExHVTIxR2VyOEdyZDk5amVnbGNCaTBUeGNQczBaODZLbGRRdGpHWWc": 1793006741516,
-    "news:CBMi4AFBVV95cUxPWVEyNzBTTDZiQ0lKTzdhb2lfdWJOd1NoQlI4VjRkaXQzTktEMVAtaFdESTVoODc3UlJIVHh3UXl3eklIUFZhVEkwTklxLS1xQ25fMzZUc1c4bXgzQjFDUFlsaG81am9vWnFTUFNJcHZZWVFBVlI5S1M3LV9lQTF4TlJRb3dGbHpkTVJtREpUU0xiWVR1SDhRZWo3NjVrMkdsazRNdGdwYklRTTZtWU9XSzBmV2xCVTFRX2VGUFVNYjVVOGFGYXI3UHVwY3F0SUtLclBXRzRhRFZ4dElUNHN5YQ": 1793006741516,
-    "news:CBMimgFBVV95cUxOVzZDRmhFaUYwUXFOOVBQQ1V2d0Njbk9CMUNQOU8wZDZtYjR4czV5SlZWQ3FTem5vOHYxUkd3dEM0TV94UFJLdGdDR3BHYUFEYlpYTHF4cHlrSC1EaWMtV0QwMHBuZmhsbE5uZmpVVjM4VjBVaUN1blA0WGVmWnRhZjJRdHdBeGFyRFJGdDNPYm9mVWhYZktpNEJR": 1793006741516,
-    "news:CBMi3gFBVV95cUxPM3NyYVdOc2t5RlZiRnE3Nkt2QjA3RUlib255SWtod1JLOEhGYk5ya0dzbllZTUNQNVlMTEVQVF9pdF9kUXE3VVNkaU1QQUNqVUZBM29oRmtDbGl3UUNYUGFsVVBNc25FelgtdXFnNzU1UmV6d2xBa1dEeTBIeFNqN1VuYnBoTjBfU3loNXpQTURuYzl5Q0d6VTNpTVBkZFR1SXNjbkpjMy1mWVBSRVBPN1pYdHAtZU1HSlA5WnIwOUlRZ0lDamFaTk5kWmNudF9vWkI5ZExVTTB4VGU1SFHSAd4BQVVfeXFMTzNzcmFXTnNreUZWYkZxNzZLdkIwN0VJYm9ueUlraHdSSzhIRmJOcmtHc25ZWU1DUDVZTExFUFRfaXRfZFFxN1VTZGlNUEFDalVGQTNvaEZrQ2xpd1FDWFBhbFVQTXNuRXpYLXVxZzc1NVJlendsQWtXRHkwSHhTajdVbmJwaE4wX1N5aDV6UE1EbmM5eUNHelUzaU1QZGRUdUlzY25KYzMtZllQUkVQTzdaWHRwLWVNR0pQOVpyMDlJUWdJQ2phWk5OZFpjbnRfb1pCOWRMVU0weFRlNUhR": 1793006741516,
     "threads:DcNlbevIH1V": 1793007053104,
     "threads:DOpeVsmCQ7b": 1793007053104,
     "threads:De896XTk7RB": 1793007053104,
@@ -27605,59 +27597,26 @@
     "news:CBMijgFBVV95cUxPbHREd3dmSHhRQ2Y5TDFUTjlnaklubEloODRLOTgwdVdUbGFWLS1scENTcTFqRmZrd0xuZmp0azF1OEJ2OVZNTU56bl9wY0JrVFl5WVNra2xjemRrMkZRSzN6YVo1M2JBdWtDbmQ0TEJjWHFfZmx3TmlyUjVqUXg2ZlRCOWFLdi1PcWcyMjFB": 1794216052143,
     "news:CBMicEFVX3lxTFB4UG5hSzBwc2VkSTRITVZnSmlzeFhXSEFOSTF6YzRxLVVNLUZsbEdqSzUzTzhrVzlQN3o4eURLOUtvU2lrdFA0LS1EdVU1WmpOaDdnbE1FeDRtOVNXZXJHWFhQWm40ci05WDlBU1VjdVE": 1794216052143,
     "news:CBMioAFBVV95cUxNY1FWT3Z3eEtHNnhHUmktNHhBdkVmS0ZPZ3pZeGdPTmFFQTNQLXd3eXdGem9SM1diMWF3c0JaMkxGQm5jTFZEMGZqaGE5NVhPZ0wwMHc1SFNNc1hiMUdTQUp1bEY1RFE0NUFxR3A2OUpzM0FUeDhZdnl5TmhjQnNzbzRadWdEczJCTmVvaDdXYXZoUXpBcTVfZDFrX0Y2Yy1t": 1794216052143,
-    "news:CBMi4gFBVV95cUxOZDJxUjFtMXZWMnpjLTdrMUk5M1FmSVVteVZ5TldtQXlhS01IU21lQ2RvSzFrazZoUExIUTc4YUdReW9lLTRUMW80ZFBhbUpZTXZZYUVZUGtiSHVCbkJqaS1BSlpTSEFYbktWZTR5bjU1LVAtT0dpclFJckFiSUhlMXMweG93NHllcXVpcHl4REJZMDU5blNqMzlMbjlMMFZYX1BEOHVJVzY2UEFqWmh3ZUI3bXNKbVlPajd6b3g4cDV3bDA2c0FBTF9td1g5OXlKV1UxdmtlVzZJQTA3SWRGQUl30gHnAUFVX3lxTE5maVVOUUtBaW4xVVA5QUZtUGU4Y0p5ZmlxUzE5RTB6TFdRSWhrcC14Sk9YSkxsNTBHTzhyLUVvOWtYbHJrbDFVeHEwd0NKSUlNeVFEWFZBdFF2eEh0bEFrcE4zSDU2YXpKODNvVDJZYWVPVUtIbmk4MWM1ellndFczX21TbURBWFRPbWduN3FiZUw4NXlGVVI2RXZEakw2OUIyczhQUE1XRmdNQmowaWtOVERNaWpMUEFud1B3MmhXUDZVOW9wYlluVU55SWNpcllqSHNQSloyYmZKbDhOUEsxeDlNMTJ6bw": 1794216052143
+    "news:CBMi4gFBVV95cUxOZDJxUjFtMXZWMnpjLTdrMUk5M1FmSVVteVZ5TldtQXlhS01IU21lQ2RvSzFrazZoUExIUTc4YUdReW9lLTRUMW80ZFBhbUpZTXZZYUVZUGtiSHVCbkJqaS1BSlpTSEFYbktWZTR5bjU1LVAtT0dpclFJckFiSUhlMXMweG93NHllcXVpcHl4REJZMDU5blNqMzlMbjlMMFZYX1BEOHVJVzY2UEFqWmh3ZUI3bXNKbVlPajd6b3g4cDV3bDA2c0FBTF9td1g5OXlKV1UxdmtlVzZJQTA3SWRGQUl30gHnAUFVX3lxTE5maVVOUUtBaW4xVVA5QUZtUGU4Y0p5ZmlxUzE5RTB6TFdRSWhrcC14Sk9YSkxsNTBHTzhyLUVvOWtYbHJrbDFVeHEwd0NKSUlNeVFEWFZBdFF2eEh0bEFrcE4zSDU2YXpKODNvVDJZYWVPVUtIbmk4MWM1ellndFczX21TbURBWFRPbWduN3FiZUw4NXlGVVI2RXZEakw2OUIyczhQUE1XRmdNQmowaWtOVERNaWpMUEFud1B3MmhXUDZVOW9wYlluVU55SWNpcllqSHNQSloyYmZKbDhOUEsxeDlNMTJ6bw": 1794216052143,
+    "threads:Dfg-5hMGvOr": 1794216345594,
+    "threads:DfhAIT2m1ZN": 1794216345594,
+    "threads:Dfg_19eDmdF": 1794216345594,
+    "threads:Dfg_O8bDFwD": 1794216345594,
+    "threads:Dfg-6wCiGzD": 1794216345594,
+    "threads:DfhALlLG_D9": 1794216345594,
+    "threads:Dfg_ztIFHIn": 1794216345594,
+    "threads:Dfg_O_UmLyn": 1794216345594,
+    "threads:DfhAa-sDPZd": 1794216345594,
+    "threads:Dfg24X8DX9N": 1794216345594,
+    "threads:DfhASpwkhGv": 1794216345594,
+    "threads:DfhAFPIEoeV": 1794216345594,
+    "threads:DfhAAJoEu79": 1794216345594,
+    "threads:Db5qKlMj1Sz": 1794216345594,
+    "threads:Dfg_tnjIYMa": 1794216345594,
+    "threads:Dfg_cg1iVtz": 1794216345594,
+    "threads:Dc3tk7gCeYU": 1794216345594
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kompasiana.com",
-      "x": "Satukan Gerak, Satukan Harapan: DKPP Sumsel Bersinergi Halaman 1 - Kompasiana.com",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2lVMmg1SmlCc0gxMGk5aDJaUExCYVdDdXlDSEMtR3BkRXJCUHNMOTNNRmdFdlZyQ2lFRzcxeVVvZmtkSTF3eFdrQmVDdmZHUDU4QjZaRVhrNVZhdl94YUVqM2NqdXVZQTluMUxiTVhBQjBONUdRUFk2elBNWjJYYzBGMUNkM1JkWVk0d0IxMFBmOHhTeGo2XzZOdlM1MkVVTUl1TU9CaTIya2VqSnNzRjYtRUdWQ1JrNHRlNWtEQQ?oc=5",
-      "d": 1794203860000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Warta Ekonomi",
-      "x": "Cek Bansos PKH dan Sembako November 2026 Pakai NIK KTP, Ini Caranya - Warta Ekonomi",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeF82Z2RrX3BNc1l0WXRMVHM3OFdSTVdyQWFwX2NjZHdRWUdZaUhwbkpUaDE1aV9RMDMwOXY1eWZnXzdPU3Y5aUx0YVFaVktEWVpMeVF3REd3UmVoRXg5V2Jwak8ya0ZBYzV4XzJsam1qTjVOQ1hPbkZtaHpXUURVT01pY2ZIRnphejZINEh6WFdWYWhWejZZcUNGcmR0YXEyTm5walZMMNIBrAFBVV95cUxQaEE5QXpkcUxEaG5HS1Blb0M3dGt0eVBVNnJsc3pIOVZCbGYzVjdjcFJ4YThhSXQxajFLRTlmeHFudUE5Qk1ZNEI3MnRwRTNTRlQ3X19EQXRYdllOd2w4X3I1RkFabDhkcHQ3NWVEajE3YmZ5WjVONGxyMmZQVVFTWnE1WHVUdmtzMmNBeklLNFVBLWZySW53ZEFQSnIwOUVFMFN5eFBJOHlmYkFz?oc=5",
-      "d": 1794203760000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "4 Tanda Bansos PKH dan BPNT November 2026 Cair Ke Rekening Anda! - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc21FZVp4RmFaSkhLUkVxc1RjZTFKa2FZcDh3MjBadDQzMkFITHl5VmQ4R3RvdXVtR21zeDhWTmpITUhxM3dpQ1VVRHRkVWJ4U2NkZGxac1JMaVRXc2NPMEVuTzBoMmgyY2JEdE9CblFwbzU3b2xaUDNnU3BibkZqUDNURkljTEpVeFFIUGVjSjk5azNBUzFNcU9nZUV4eUx6dDRDMHB0OTNZLTFhUi13ZXJ30gG3AUFVX3lxTFBDc1I0VkxSZkNjc1dNajdDbEprWm91VVZqVGFKSVEzaWgtTDBXbTBIdUlSMm5vTHA3TEdDejdnUmhWOTJ2R2tta3IxWk9JenQ4ZWtSRGtfTkRiSEdyOWhTRGdWcUxjWTlVTjFBQVBDc0Z1dnhfa21jbnZKQkljRG9WSXpXeF9ZTE8yMEtxNE5tbm5nS1NMWTdqYzBNaVhGTjUyNGdkdWVGT0tWbE1pYWVZS0pYMmdQZw?oc=5",
-      "d": 1794201543000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "BeritaBeta",
-      "x": "Warga Bangka Tengah Akui Dipermudah Urus Sertipikat Lewat Program PTSL - BeritaBeta",
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdy10Qjc3cFd6c0hWYXRZYTBGdlNhUDNPSXNCcVB5Z1pWcEZuYmdCOVppbjJQU2g0YUI2WVlCTUtNbk1yenJqVDB1Uk92TGdodkR2OE1udW5Rak9NSGxHSGFaOEJPMjJlN1R2ekZiN3R3OUJxNmRqTzkzMDF6VGY0T3pQbnk5aFhjc3BkNm5ERzZVNEN2dy00NEc4MA?oc=5",
-      "d": 1794204605000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Bojonegoro",
-      "x": "Pendaftar Terganjal Desil, 107 Kuota Beasiswa Blora Berprestasi Tak Terserap - Radar Bojonegoro",
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWJobmU1YXA1cmpZUzFXdHh6NXFOeU5KOU52TTg1OW9jdHBuSnRSV3hQMlBjckpiSEJUWjJMLUVOSzdKUXRLOXBfSTNrdVNKM2VaSTIxZ052QjZIS3loSmh5dmRFc3NQS2NYWERTNnl2TEpHdlR5WTBQZ3ZxTE5wLU9oYmMxSkhkbHFUczR2d3FQclAxQkFZNkdLN1dtZG85SklvVU9aa19GTEY4MndUUmdjTWd1bjM3elkxMzJTaWpPajJKVzh4UmpUV3dQZ9IB0wFBVV95cUxNaDkwNW9LbGd0STQwVERnRFhiN2daZmRPcGEtdDRRVEp1LXNKSkZwajFjOTN6REtiUmg3ZVI3NG5OVnpiTE1US0FZOGtyOEY2OUxLeUptaHZ3WndjRDB1X3RDZUVvS2s3dGhnOU5aTjhmQnZQVFFkNmxJZm56ZWlxd0ZiYzNyREpYVEluSjlKSzV3dnRjYkg3cFY2M2YwcnVVRWEzTThtSEtXdE5oZzQ2MW0xVEhZOHJ5RzJzdjFITS00V1JaTkluYjNjT1RLOXJkVDQ0?oc=5",
-      "d": 1794183308000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -29107,10 +29066,60 @@
       "d": 1794203297000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Belajar digital dari Nol yuk tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Sapa disini yg mau penghasilan tambahan tapi tetep bisa di ru",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfhASpwkhGv",
+      "d": 1794216324000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Belajar digital dari Nol yuk tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Sapa disini yg mau penghasilan tambahan tapi tetep bisa di ru",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfhAFPIEoeV",
+      "d": 1794216214000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Belajar digital dari Nol yuk tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Sapa disini yg mau penghasilan tambahan tapi tetep bisa di ru",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfhAAJoEu79",
+      "d": 1794216172000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ruddy_ang89",
+      "x": "⛔ *(MALAM INI) JADWAL KELAS DIGITAL MARKETING GRATIS (KOMUNITAS BISMA) :* Setiap senin sd Kamis jam 19.30 wib via Zoom 9 - 1 3 November 2026 ===== *1. Isi Formulir Kelas Gratis (1x",
+      "u": "https://www.threads.com/@ruddy_ang89/post/Dfg_tnjIYMa",
+      "d": 1794216020000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@clc.pangkalanbalai",
+      "x": "Dapatkan Promo di CLC Pangkalan Balai : 🥳 ✔️DISKON BIAYA PENDAFTARAN 20% 40% 60% 80% ✔️Gratis Alat Tulis ✔️Free trial class 1x pertemuan (uji coba kelas) ✔️Gratis 1.000 poin belaj",
+      "u": "https://www.threads.com/@clc.pangkalanbalai/post/Dfg_cg1iVtz",
+      "d": 1794215886000,
+      "urgent": false,
+      "warn": true
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
