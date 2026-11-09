@@ -27688,19 +27688,12 @@
     "threads:DfgvInQk2X6": 1794207340271,
     "threads:Dfgu8MoE5Ja": 1794207340271,
     "threads:DfgtyCYkR6B": 1794207340271,
-    "threads:Dfgtoe6GA1b": 1794207340271
+    "threads:Dfgtoe6GA1b": 1794207340271,
+    "threads:DUz-DbqEUmn": 1794207654264,
+    "news:CBMi3gFBVV95cUxPQVkwOHBSTW1seXdsMFRxZlBLOUdQYnR3ZmxLYi01SEUxQTNLT2xNVmJKeW4tZm5KUU5tcXY0OVFWV0lKRExCNVZjYkdzdnpfWHZvSnFSdGpNRTFqOERMUnhRdnEzNlFNNGtQNUdyenI1VGJDNldIcy10RDRzMzkwQVRQU3VIVG1hREtJYWRLVUVDN05FQW0ta3hCZEhkQWhHS1BLcDVTTERuQ25LS0lEWk9JTlp4TWN0dldyUXFBeFhvblFHQWk0cmRYVzhYTTY1X1RaYWlCNGc5b0VmNVE": 1794207654264,
+    "news:CBMiwwFBVV95cUxOcEdiSTAxa1VpSWd6Z2pYckhxdjludnkxT3A3MVhKc2MwaXpCZ1BfbGM1cDB5Q0tkUW1PR0ZJN0ppRXItQ1NTdk9fbTJIRmpySEkwMjY4dkU4VjRGcW0xTWpmeE1GR2Q4TkpZcGZjdGFfYWxqS28tNHZLTnNMbjhoV1JncG9zSFJyNGhjNk9VUmFVRnlEOUN6R01GTzR1VlUtdnNqUWE3aGlIZV9xa3BCcXJpdGl5blZoUnREWk5CSDVMY0k": 1794207654264
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@coconutmontessori.jtown",
-      "x": "🥥✨ Serunya Belajar di Coconut Montessori! Melalui kegiatan meronce, anak-anak belajar mengenal warna dan bentuk sekaligus melatih koordinasi mata dan tangan, konsentrasi, serta mo",
-      "u": "https://www.threads.com/@coconutmontessori.jtown/post/DfgcWgviem4",
-      "d": 1794197481000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29190,10 +29183,20 @@
       "d": 1794206541000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Tribunpalu.com",
+      "x": "FISIP Universitas Brawijaya Tawarkan Beasiswa Kuliah Gratis untuk Putra-Putri Sigi - Tribunpalu.com",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEdiSTAxa1VpSWd6Z2pYckhxdjludnkxT3A3MVhKc2MwaXpCZ1BfbGM1cDB5Q0tkUW1PR0ZJN0ppRXItQ1NTdk9fbTJIRmpySEkwMjY4dkU4VjRGcW0xTWpmeE1GR2Q4TkpZcGZjdGFfYWxqS28tNHZLTnNMbjhoV1JncG9zSFJyNGhjNk9VUmFVRnlEOUN6R01GTzR1VlUtdnNqUWE3aGlIZV9xa3BCcXJpdGl5blZoUnREWk5CSDVMY0k?oc=5",
+      "d": 1794207487000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
