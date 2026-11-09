@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De9FIgkmeiB": 1793010957176,
-    "threads:De9D_RZCSZO": 1793010957176,
-    "threads:De9C0YSCFH2": 1793010957176,
-    "news:CBMivwFBVV95cUxPNmltcFJQaTA2cUJhQTRWY1pnempVQnBuRm44cUpWZFNsYkFtcGdmeG9JZVQ0azVnN2M2M19BQXJRRlpwMmxjVXVDSkFYR2s4SFo5ZG5YdUl4V1lqRXEwYWNNRFhmd0hjYjZGLUtVam5aYWxBUW1jaHhXTEN4LWxPTEhNMDNzX0lDUmthb3loVS1aa2JKYlR5dUtXSzUwc1ZrdmxRU3FBSG5SVWdmSWs3RWtiZW9WMVN1cW5hQUplUQ": 1793010957176,
-    "news:CBMi4AFBVV95cUxQZGxfZTBMWEVqZTg1NklVXzJRRmNRUWx0eUw2NGxHd2pGSEhsYUtJa0JqTEhNMG42bUJzbjBQdlAwY0FMX2JYT2IyWi1vY0pSd2FhWDB5TmdIUU5TS011aGtjUVVxQllHMm5kRjFTRWxlT0k4VTk2U1VrS3Q3Q18zLTg5ZkJTMVEyaW13SnlITVh3LWV6UDlmNllOMS1DdnpnbkY2cWFjdGtEMHAyYktzakU2c1hkZjFtNlRXOXgzd3ZKekl3c1dpRjNaS1IwQWZGVlhkel8xOVluNDJlSE03UtIB5gFBVV95cUxPTTNkUDhfM0pzaWNpNW9NVkpTVElPbHBxRnJVMGhXc0xuTXFDYi1KUi1sb1M0aldBQjFVUjh5SnEyTUF5RXFqY1Q5LXdTcWxRU1JXb3pYb3VfSE5vR1pQU056V3J5cmluWTRvcUlqeEZhaUJsS0FGcXVWYUNjX29QclpwMHNwLXNhMGhYSjZNQ1lwRDdNTkszXzk1N3JrMlllQjJwWTdYMmMzRy1oMDVJMURCQlQxTmVpZXd0YmpUaWtwNjllNnVGMHk2N0otYzBiMC1ONDYwZDlud3ZFWFlDbW1jSHRCZw": 1793010957176,
-    "news:CBMi2gFBVV95cUxQZ0RGS2Nna2JpcktxdU5QdTRtaFR6OFZpZDdxazN3VndTWlFIbE5RRGxYRmRDVVd5U1VBZTg0R0VjWEItOTkxV1ZuSVJWOTdWcHBCQXVhWFc5RnVvbnQwc0VPNTJRdzJmSjk5RzJwR1U5M245em9jaG1IUTlXcWtTQ3FWZTRPVUVPelA5LXFDNXB3dVRRSTBQa01WSjF6dGtOVmEyQ2RzNUxkUnAta2d4bGdTS25ndW9OZDBBQ19fbkJIMnlodkxfQUttbXZ3QWp2MlFKUXEyX3NTd9IB2gFBVV95cUxQZ0RGS2Nna2JpcktxdU5QdTRtaFR6OFZpZDdxazN3VndTWlFIbE5RRGxYRmRDVVd5U1VBZTg0R0VjWEItOTkxV1ZuSVJWOTdWcHBCQXVhWFc5RnVvbnQwc0VPNTJRdzJmSjk5RzJwR1U5M245em9jaG1IUTlXcWtTQ3FWZTRPVUVPelA5LXFDNXB3dVRRSTBQa01WSjF6dGtOVmEyQ2RzNUxkUnAta2d4bGdTS25ndW9OZDBBQ19fbkJIMnlodkxfQUttbXZ3QWp2MlFKUXEyX3NTdw": 1793010957176,
-    "news:CBMingFBVV95cUxNMXZsSWRJQkQ4QWNXMXM2NVZJb0JyNmpMYUVXdkNrVWtxd2h4REhjQ2Rkd3AzbHY2Mi1qdWxEbzdwQUxiLWdBUElhenpsUTlnNTF4bHlPVy15VEVnRnRYOTRHWWNydG53bjJaLVVKYlhoWms3c0tRTVVFeFl0SXByLXpRYnU0ZlotLXZiV2hTcFRSV2NpZEk3VGtnbVJRZw": 1793010957176,
-    "news:CBMivAFBVV95cUxQSlNQSUNBOWMwNTJMQUZ6OE1MN0taUnFCMXd2UUtLX0kxOVpJRy00Wm0tZnJQTDFQQ1BGZjN4OTNQaDViQmVteU4yMW54UEp1cVY0T1ZaY0ZMTmJUVzY1NFdHUUVPMWYzYWtKQ1UyU0thT092TlhVRDNrdklvZE42Q29DM19BckxnYlZkaWtfSGNzWmlIT01sSGtvSXN1ZjNMeEtucXBYSVhBbjZtZzY4UUR2Uy1COWxlRTlTY9IBwgFBVV95cUxNUWlpOG9xNnJwNUlrZFB6eGREMVVSOXlRd2pINDMwWk1WczhLNjNYa19oazRwZzRFZ2ZEaVRneEIyNFZOMkFYMHRTZU9vSXVvRHp2a3dueGJ4aHp1NkFWMjJMbHJreXhjOGs3TGdPMjZKOF9LcXhEc3hJWG02cUtITW9qMDI3NVFMNGVCRUdaNlZvcnhvUjV4T3ROVk0wOGpMbU1KX3hGcUFVQjgxQThiWDZkMXBPX0xUZFhQeFFBM2N5UQ": 1793010957176,
-    "news:CBMipwFBVV95cUxOOEpWLVJLMXhEa0doUFBUT2VFaWVLdkM1NFdNOW5wSi1qOXp6SmNXUXNwQlFIbm9EVUNWSVV5X05kaWNiQmNveXNRcDF4MkUyVGJiM3BHTkhubTZxM1VYRERIeGdtQ254LUJDMThiVEZ0dzlIV2JKWlRHQ0NzRDZEVXlpdjhybzRFWUxkOUxCQW4xa2RYN0VOZXZpMk54VFg2b0FQMGY2SQ": 1793010957176,
-    "news:CBMiwwFBVV95cUxPcnczU0JLamNxN3pHZTc3RHdEcFc0Qk81c21YS0JSMmZsZm41WWw4UktnbHFlaFZmMDNncjVneXpEeU5vaGNUUnZ2VkJjcDlBVlZUMlFrYkRWa1pmN2VONG4zd3dLMy1qb1ZQS3BkeE1OblVzSGNRdDBrV3FlaXVhX3VTUExBNkJRQ0h5SWNnU2JOeExvYnhQc1N0MFhoWXdRblpXTFlPR3VTeFdxc1IzWnJFX19YR01qNV9sTWdKOXlpY3fSAcgBQVVfeXFMTmVMRzVwUGJ4ZzF5dE1Pc3lzX0RjZEJrOHFoMVNXdjBybzhyNFBRdU5HY2k2UlBHN2pvR0lTdkU3V3RXR1ZYVEoyQXI5X0lmdmFSamE5M3ZCZzRpUFV5Tm41SGh6VXVmVWdibDdGZUdXYWE2Sm9qZVo1emo3YjlJUkFQdWcxSHdrT0pNNkZvQXUyU21fblBkWTd1WWFrNTdrNW5aaVZOWEJrdEl0ZXpNYVpFa3pJMzRQeHg3b0NOajhSakN6MnZRdFU": 1793010957176,
-    "news:CBMiwAFBVV95cUxNLVR5M0JhcG41VTFQRXBCUm9OOE1Ma0I2VS1mMDBMMW95MEZjV0VVaU1Zd3lNX2FVdVdSNWJRRUtaNnpIaGs5NkVidWtNbDBDQ05CeVdteUNzOVZ5RFZrcXpSRXFtZ2JJUGMxWEpUcjM0MUxxejJzRkV5cmIwVFVUU0o5MmtFOHozMU1fQ01kRnFBQllsRFJHZ1N4ZEZJa3p4NzZWdk01eTJ3V21UZnZ5bVp4US1jT2pPbkc5ZmloT1TSAcYBQVVfeXFMUER2ak52UmRPSGx5TnczXzJDSnZTUzMydUVaSkdpM0s2dEZoOVIzZ0NxWHl4TVVQUEVaX1ZUenJzUmlNUmZtcjFvOFZENWF6RTUxQzdRLVRtcmNNeW0wYk1rWHV1dXgyOFpJS2R1dDNYb2ZwS19vdzJkeF84S1ZmRmhPbS01VjFuZHlkWlFzSFcteUpsRHNCQ3B1RHVsRFlMdnlBaG9namhQTzBjTDNnVEM4Qk9KeW9YNHBKNmNTYjAyR2ZOR3hn": 1793010957176,
-    "news:CBMivwFBVV95cUxOQUpTU0tfSWZickxMdTQtMm8xNkluWkpxZENrZGtCb3BMY2d2MkV3bEl6NzF5dkg2QmhLYjJWRkl0MjYwcGVDNWU4NEFFSlFCakg0OVZLUGxSbVZ0MTZXaWpJTUtIbWthU3gzSHFwZl8yWmxKUTZlUlpoU2ZoUWxzSnI5bmhRVVZMZkI4ZUc2bDlLOG5iZGYtQ2Z1V2ZJTTRZUDFsczFqS2YxMjRrTzRQMjRZd19Ed3lsSGdkOVhKa9IBxAFBVV95cUxPUHZUbEtaaXpEckV2Ml9KU1FnaE1tR29DcmJSM29pLW81NkgwWDBRbTN3VmJoRENzcnRVMVp5NkxBamY3UkxzWUU0R0NyZVRuV1RjeWZLdkpNZHJsTFhhUHpYVFo4eDN6U2tPZEhBdXRMZGllU0IyOHZaNk00NzEzanJkMHc4dllnTEFwQ0NqYnhMdUxxSzBoLVptWFpzVm5EdnpvbHh5UXI3ZzZuU1V0V2J4dEdVbFJtcV8zREg3UFVaYlZT": 1793010957176,
     "threads:De9DEeIG1le": 1793011247792,
     "threads:De9C4eKky6m": 1793011247792,
     "threads:De9Fr6AgVsi": 1793011247792,
@@ -27618,59 +27606,16 @@
     "threads:DfhFFS7ghjp": 1794220248666,
     "threads:DfhHaTYndb-": 1794220248666,
     "threads:DfhG-cHkas5": 1794220248666,
-    "news:CBMivwFBVV95cUxOeFNEcG9IWWFKYWZ3ems4YU1nWk1vNmVUZFNNQldteWdkZzJMRDNOeFB2bXQtcTJvbDhJaEpmMEdqaHhfRW1yZy1hd3dWMzVSUkpoOTdGOXh3c1d4d2l4RzFpOXNXYkJSMmRVQS04RmZJQW44NHlMUmpEcFJkT3BfbWVCZ21RX2VFUHpWMEpmWUsxNG52a2Zscll3R0hrTm1pdTJtMThXQjFvZTZGbm85NF9ON20zemdHWFZ1cUFYZw": 1794220248666
+    "news:CBMivwFBVV95cUxOeFNEcG9IWWFKYWZ3ems4YU1nWk1vNmVUZFNNQldteWdkZzJMRDNOeFB2bXQtcTJvbDhJaEpmMEdqaHhfRW1yZy1hd3dWMzVSUkpoOTdGOXh3c1d4d2l4RzFpOXNXYkJSMmRVQS04RmZJQW44NHlMUmpEcFJkT3BfbWVCZ21RX2VFUHpWMEpmWUsxNG52a2Zscll3R0hrTm1pdTJtMThXQjFvZTZGbm85NF9ON20zemdHWFZ1cUFYZw": 1794220248666,
+    "threads:DfhHjLeoLPo": 1794220539971,
+    "threads:DfhGvqRFefR": 1794220539971,
+    "threads:DfhIJIImhEY": 1794220539971,
+    "threads:DfhGJeTEzOB": 1794220539971,
+    "threads:DfhHuDfn1qD": 1794220539971,
+    "threads:DfhHbByn8mI": 1794220539971,
+    "news:CBMivAFBVV95cUxNcmpOTUllX3RaQUhMVkZFQW0zM1NwaF9iSTlFeWJDNmZOci02TVU3UGxmX1BsanBUVFp3SGVnU2owR0NaRWI2MWJEWU9SaG9QcnExZ3NpajFfSHlaYy0zS3JKTEFfOFN6dzgyMVVoeDRDRDJvMnY1WEJMandjX1kwRWZFLWxjWVBCbXJlS3lzQ3lueUJseFRlbU45dTNoczQtNmhLVC1QNEdsTlJtUTlGWHMwWU9pVWFSUmhKWdIBqAFBVV95cUxPNlFSbXhKYnJXMFgwck9qSXoxTEhSRzNvY2VoQmpJMEg5WDBIQU00UllXbnJEWEVQNFFzNXNQU0lYNEQyYk41WUtTODdsWXpiMHZOMVJnbHFRb2JCaXZlNU5jVWhZRlVHSUZGS0dzQm0wcDZtbUZud0EyRXpJS3d4TkQtSGxGajdicExpd051MU0zM044SzdsZFZGbDZWc0JCQ2lZYUpqNjg": 1794220539971
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "DETIK PERISTIWA -",
-      "x": "Cetak Generasi Muda Terampil, Pemko Langsa Gelar Pelatihan Gratis - DETIK PERISTIWA -",
-      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFfQXJwS3g5M0F3bThicnkyRktjT2xNdEdDZ08zeEpwaTkyM0lxOHlZMk1XQVRIN1I5Ti1mQWMwb2xXMWl6Ui1WYkpuVTYxQWdpc25VczFYMDhUOXo1QWc2dzB4VFpNbWZRRERac2hJTnctVHdKYXRXZ2hKOW9ROENjRjlkRHdBYko1UVlBVEhwd3poRUFDa2VB?oc=5",
-      "d": 1794208568000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Bansos November OTW Cair! Cek Desil dan Status Anda Lewat HP - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTVIN1p0NVg0V1ZDLU9feloxSkw1aVVlaWo5WTBxaXNfcWZDWUoxLTBBSTJoMGQ2bHpaVW5CaExGZk9sdU9fT1RMbHA4cURRNDRRcFFmUFRUNzVja295VXMxYmVWVEhkRlJjaVlpdFB6S29KcnpxN0djd0hzUzRvcWlLcXNRNHQzS2gycnhsUnJkZmFmcWVqWGR2WnpjeUNxZHZ5a0VkN0I1aDJJMVU0bHVB0gGyAUFVX3lxTE5pNUg3WnQ1WDRXVkMtT196WjFKTDVpVWVpajlZMHFpc19xZkNZSjEtMEFJMmgwZDZselpVbkJoTEZmT2x1T19PVExscDhxRFE0NFFwUWZQVFQ3NWNrb3lVczFiZVZUSGRGUmNpWWl0UHpLb0pyenE3R2N3SHNTNG9xaUtxc1E0dDNLaDJyeGxScmRmYWZxZWpYZHZaemN5Q3FkdnlrRWQ3QjVoMkkxVTRsdUE?oc=5",
-      "d": 1794201691000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dnaacademy.co.id",
-      "x": "Kak, daripada bingung mikirin 150 juta mau dibuat bisnis apa, gimana kalau kita belajar dulu cara membangun bisnis yang tepat? Sabtu ini free nggak? Ada webinar gratis nih! WKWK Bu",
-      "u": "https://www.threads.com/@dnaacademy.co.id/post/DfgyAPYmbri",
-      "d": 1794208833000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@adrian_alaydroes",
-      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
-      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgxRB5E-gC",
-      "d": 1794208446000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@adrian_alaydroes",
-      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
-      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgxGfuE7oo",
-      "d": 1794208360000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29120,10 +29065,60 @@
       "d": 1794219000000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ahnafudean",
+      "x": "Secara teknis ini bukan model kecil: 750B parameter total (31B aktif), konteks 512K, tool calling, dan code generation. LG mengklaim performa gabungan naik lebih dari 70% dibanding",
+      "u": "https://www.threads.com/@ahnafudean/post/DfhIJIImhEY",
+      "d": 1794220443000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@catatanguru15",
+      "x": "🇮🇩 GRATIS TEMPLATE POP UP PAHLAWAN! Untuk teman-teman guru yang ingin membuat kegiatan Hari Pahlawan lebih menarik di kelas. Silakan ambil dan gunakan secara gratis. Semoga berma",
+      "u": "https://www.threads.com/@catatanguru15/post/DfhGJeTEzOB",
+      "d": 1794219394000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sa_rma05",
+      "x": "Hi, I’m Your Name, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Ex",
+      "u": "https://www.threads.com/@sa_rma05/post/DfhHuDfn1qD",
+      "d": 1794220219000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@nttideas",
+      "x": "🎓 Ingin melanjutkan studi S2 atau S3 di Australia? Ayo ikuti sesi informasi Beasiswa Australia Awards! Sesi ini akan membahas skema beasiswa, persyaratan, dan proses pendaftaran y",
+      "u": "https://www.threads.com/@nttideas/post/DfhHbByn8mI",
+      "d": 1794220062000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Landbank.co.id",
+      "x": "Majalengka Terima 2.025 Unit BSPS pada 2026, Naik dari 250 Rumah Tahun Lalu - landbank.id - Landbank.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmpOTUllX3RaQUhMVkZFQW0zM1NwaF9iSTlFeWJDNmZOci02TVU3UGxmX1BsanBUVFp3SGVnU2owR0NaRWI2MWJEWU9SaG9QcnExZ3NpajFfSHlaYy0zS3JKTEFfOFN6dzgyMVVoeDRDRDJvMnY1WEJMandjX1kwRWZFLWxjWVBCbXJlS3lzQ3lueUJseFRlbU45dTNoczQtNmhLVC1QNEdsTlJtUTlGWHMwWU9pVWFSUmhKWdIBqAFBVV95cUxPNlFSbXhKYnJXMFgwck9qSXoxTEhSRzNvY2VoQmpJMEg5WDBIQU00UllXbnJEWEVQNFFzNXNQU0lYNEQyYk41WUtTODdsWXpiMHZOMVJnbHFRb2JCaXZlNU5jVWhZRlVHSUZGS0dzQm0wcDZtbUZud0EyRXpJS3d4TkQtSGxGajdicExpd051MU0zM044SzdsZFZGbDZWc0JCQ2lZYUpqNjg?oc=5",
+      "d": 1794205560000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
