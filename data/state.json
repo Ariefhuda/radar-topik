@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8LD8ECcDq": 1792981259314,
-    "threads:De8MCDOD9UI": 1792981259314,
-    "threads:DezYgIEEsYx": 1792981259314,
-    "threads:De8MDUmkkBO": 1792981259314,
-    "threads:De8MfeoibG9": 1792981259314,
-    "news:CBMitwFBVV95cUxOOE1zcFczY2RSNk16MWNGa1Bpbjc3V1FYR3FfS3lFSXVkMFR3STZRMWZFWFV2enBJUmhQZm1QYjRpaXJqVWtKQW0zMFozeHhfbjVLalY1ajJ1ZW1zZnh3eHp6a01oWVgtQ21tbDNqWDNnRjdwb2VySVBDYmdhV1lQeTBWb2ctcC13VU92X3hWeVNGYXRWV1ViWXVzUVRfWV9YNTRJUzNSWGk5SzlmMjFZS19iWGtPUVk": 1792981259314,
     "threads:De8IUfUiawg": 1792981549613,
     "threads:De8F0Emmfhy": 1792981549613,
     "threads:De8NHtRIFXY": 1792981549613,
@@ -27650,7 +27644,23 @@
     "threads:DRcH-OeDnC1": 1794190540466,
     "threads:DfgOskSlASj": 1794190540466,
     "news:CBMiyAFBVV95cUxOMFowTWl2c1dZQ2t5aFlZM1luNkhBWkNwbnlxMzRucFBZemppSWNMUXdZVHRQd1pxR20wMmRrczFxTTlwbE43amowb0JoV1M3WnhTMGFTekJ2VnBYWXR2em9kdVhKeklNcUVUZEFqR2ZEbm5YRXA5aWYxRzlyTVVEVnNrMVQ1U2hRdWJHWUhHNXRPejFuZVhoZHBXWmlBdWVJX2p3N243d3RQTTNmdTQ5OWNubUd6N05HU05jaXN0eXU0a3JDWDdWRtIByAFBVV95cUxOMFowTWl2c1dZQ2t5aFlZM1luNkhBWkNwbnlxMzRucFBZemppSWNMUXdZVHRQd1pxR20wMmRrczFxTTlwbE43amowb0JoV1M3WnhTMGFTekJ2VnBYWXR2em9kdVhKeklNcUVUZEFqR2ZEbm5YRXA5aWYxRzlyTVVEVnNrMVQ1U2hRdWJHWUhHNXRPejFuZVhoZHBXWmlBdWVJX2p3N243d3RQTTNmdTQ5OWNubUd6N05HU05jaXN0eXU0a3JDWDdWRg": 1794190540466,
-    "news:CBMirwFBVV95cUxOZGFPZFJwTnl5Qkt1VXRkTU56cWU5WXNJRHpxS3FsX0xfQU8yRTI3bEFnTDlOY0R4dno3MGc3UWt2TExKZ1VKVnNwTlUxanpXWDk1VVg4YlFOd19RR1hDRVM0cHp0VnNXdFZoZVJ4OUF0OGpQQnlXdDN2UkNXc0FYd1pza3BJT3U1dExpdmZCdWxHenIwZTRyYmNneUNVdllwR1hrdUpmT2FqU1lNcFJV0gGuAUFVX3lxTE1rOGFTQ2xHZWpDZGdaUE1TRmVtRXRfQ1VXUlY0dVhSUGFldS1QMnd3REtuM0JVTW1IZnpkMGJEdlNHdmxfdkRxcnJFaWxlUHZSZEduWkh6OFBXOWVXUGlKaHNsNmhlU1VvM1VTSTEzd1ZqLV9YSGUwbUZPQjNpT3NkaldMWEk0YVpJY1FrUkZSRmhva0JINTlFRlpQMVFyVktTX0lmOVd5TjV3QkxsQQ": 1794190540466
+    "news:CBMirwFBVV95cUxOZGFPZFJwTnl5Qkt1VXRkTU56cWU5WXNJRHpxS3FsX0xfQU8yRTI3bEFnTDlOY0R4dno3MGc3UWt2TExKZ1VKVnNwTlUxanpXWDk1VVg4YlFOd19RR1hDRVM0cHp0VnNXdFZoZVJ4OUF0OGpQQnlXdDN2UkNXc0FYd1pza3BJT3U1dExpdmZCdWxHenIwZTRyYmNneUNVdllwR1hrdUpmT2FqU1lNcFJV0gGuAUFVX3lxTE1rOGFTQ2xHZWpDZGdaUE1TRmVtRXRfQ1VXUlY0dVhSUGFldS1QMnd3REtuM0JVTW1IZnpkMGJEdlNHdmxfdkRxcnJFaWxlUHZSZEduWkh6OFBXOWVXUGlKaHNsNmhlU1VvM1VTSTEzd1ZqLV9YSGUwbUZPQjNpT3NkaldMWEk0YVpJY1FrUkZSRmhva0JINTlFRlpQMVFyVktTX0lmOVd5TjV3QkxsQQ": 1794190540466,
+    "threads:DcC0NSACeN7": 1794190836823,
+    "threads:DbCbjx7AZxn": 1794190836823,
+    "threads:DfgOtVFmiUD": 1794190836823,
+    "threads:C-Yr_YKsBSA": 1794190836823,
+    "threads:DfgPewdkbr5": 1794190836823,
+    "threads:DfgPKUak_dX": 1794190836823,
+    "threads:DfgPFykCbFs": 1794190836823,
+    "threads:DfgPDtRmFhc": 1794190836823,
+    "threads:DfgO03uj4B9": 1794190836823,
+    "threads:DfgOsUJF72i": 1794190836823,
+    "threads:DfgOpMVG9zq": 1794190836823,
+    "threads:DfgOoqIkyAM": 1794190836823,
+    "threads:DIYNkIPzEfB": 1794190836823,
+    "threads:Dccvg8zmVTk": 1794190836823,
+    "threads:DeGj8YiFLcf": 1794190836823,
+    "news:CBMivAFBVV95cUxNQnpNbl9MSEZnZjU3WnhtMklFTWhqOWRLUkhKLUF5TVVKdUlfVWtnZU9EbmowdzRnZEdPZTlhbURPMmQ0QnRjVmJBc1piV3E3NTc3dC1Ga09WQ0JfcGd1N0hMXy1jLWltTmg0NlpMcHI5bDEwbGpjRnN5QTB6T3VaY0xpb2hQUFp3czdpSVFfX1ZKeWFQaXpxRUJUbjQ5akcyN2NESW5rWGhDdElid2l0a0Q1ZnJEeG54VEJxMA": 1794190836823
   },
   "digest": [
     {
@@ -28052,10 +28062,30 @@
       "d": 1794148406000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgOoqIkyAM",
+      "d": 1794190290000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Pemilik Ikebana Handicraft Cetak Wirausahawan Baru lewat Pelatihan Kriya - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnpNbl9MSEZnZjU3WnhtMklFTWhqOWRLUkhKLUF5TVVKdUlfVWtnZU9EbmowdzRnZEdPZTlhbURPMmQ0QnRjVmJBc1piV3E3NTc3dC1Ga09WQ0JfcGd1N0hMXy1jLWltTmg0NlpMcHI5bDEwbGpjRnN5QTB6T3VaY0xpb2hQUFp3czdpSVFfX1ZKeWFQaXpxRUJUbjQ5akcyN2NESW5rWGhDdElid2l0a0Q1ZnJEeG54VEJxMA?oc=5",
+      "d": 1794187800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
