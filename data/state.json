@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DZ-an7NGEXc": 1792974044021,
-    "threads:De7-lQ-E2gH": 1792974044021,
-    "threads:De7-ZmDk1eB": 1792974044021,
-    "threads:De7-WarE9Pr": 1792974044021,
-    "threads:De7-SIngTW1": 1792974044021,
-    "threads:De7-RStk_oZ": 1792974044021,
-    "threads:De7-Lkzk3En": 1792974044021,
-    "threads:De7-DZyk9AJ": 1792974044021,
-    "threads:De7-ojCE-Pe": 1792974044021,
-    "news:CBMioAFBVV95cUxQcm5adlMwcVBBVEc1Z0ZwS2xCUVBlUUxsZ2VDbEdaTDBPUHhDTDBvaVU3Q2Y3ME5uQUhOSzRGTDU4S0VzaHJvX1FUTTR6UEpMX1NOMWRsQlo1VEw3X1N2WkFVTEtVaU5LOWQwTGg3MDFjUkxPZDZwY09jbVVKbFNUemdvQUxBWlZCc0ZTZWtXYVp1N3BWSElEMDBmWTNoc0tY": 1792974044021,
-    "news:CBMivwFBVV95cUxPazFGdUZXMUtoUldWQ0ZKbHFnbkpZV0x6VGRMTUY5T1RlUzJMc1cxdmVvOXd5dXlrdkl0SjBRSUZGYVQyX2RIR1E5OFVJTmx2bm1va1BEMThkbG52dFJvMW5MODR6alI1Rldidk11Q0xiUGhCWjBfWm12NGVWUFFPTHAxRE5pR2lLazRXMUdxazF0LUlOU2MteXNxaXFOMllTd1VYV0pNX3FSWnpMTnNIZGFkbXgza0pPN0FZQmppZw": 1792974044021,
-    "news:CBMisAFBVV95cUxQalVVR3lqRkE5dno5SE1MTlg0d2JNWlJ1WUM0MWVfQlpmbGZ2NWxoMzNYM0RYRGc4aEstWWVCUVJCZXJkOG9MNTd1QUhCS0VZZUpCTC14a0hOclViWHRrQjM0dllBUkRJNm1uMXowR281eGQzcHF1Vi13NnQtTEc4eFBieTI0NVlFOUcwdVA5UUxvNHl2eGVDbldVWVBOeFdXcUs5MlZNQVE2eVVGeC0zWA": 1792974044021,
     "news:CBMihwFBVV95cUxPTVg3UXVMc1dPS1BCa1MtcUtRbkpxc2t5bWtJSl83TTdpamJtelotcVVSX1ZoNF9EZWVnM1ZjOWtkZlF3TUJ6RXNsVHl6Vi1QSnVlTjFuSG03aW1YN0kyREpUWTdWbkhnYUhhRHlvT0hpc1J6VFY1dGdjdDlucWpFLV9hN193Skk": 1792974341871,
     "threads:De7_HvWkV2k": 1792974664694,
     "news:CBMifEFVX3lxTE16SjNHbjZNcUh2aG5fZnR5RlhnbkNMcWJkdnJGWjY4alpvb3VwcFY5U1lvV2xuTHpHTFg2R0lUOFB4aGo4SXU3QWNCbjRIaDVBamlidmY5cWRiWE5CVTJZUkR2Y2wyNGFqUWppMVg3by1DS0tzNDd3WkRPX3g": 1792974664694,
@@ -27630,29 +27618,13 @@
     "threads:DfgAb-OGU2s": 1794183344161,
     "threads:DfgAUi0H32B": 1794183344161,
     "news:CBMif0FVX3lxTFBXZlhEODVoZWF1MUFTcUdYOWk0Q0xsa2kyaURfRkZSTE5vRGVXWTFNeFFoUzFpZks2NUMyd1Ezd3lxaDZWb1FfMlV0TWgxcFdiR2RGbndqTFBXZjNaRDZBWk1TUUVyZl9LS05YYVF0dmtnRnVXWk1Mdzk4cURKTTA": 1794183344161,
-    "news:CBMiZ0FVX3lxTE9MRWFjQUlPblltU01tMjZGcXVfUTYyNE1vMFFucjdnWU5yRFJLTVFtbXozNXpRTXRyNDJkWjduaFAtMmc0eV9KWWRLZ1FIeXNCdVRxVkFFNVV5QUNhVnFyZnFhbjNTZjA": 1794183344161
+    "news:CBMiZ0FVX3lxTE9MRWFjQUlPblltU01tMjZGcXVfUTYyNE1vMFFucjdnWU5yRFJLTVFtbXozNXpRTXRyNDJkWjduaFAtMmc0eV9KWWRLZ1FIeXNCdVRxVkFFNVV5QUNhVnFyZnFhbjNTZjA": 1794183344161,
+    "news:CBMiY0FVX3lxTE9OUGhWN2luX0poODg1MVJIXzlCRmNhd0ZLZXgtVkZDcUZZNUFUbVlJNEx3Z2RKSXpVQTIwVUNhcmNBcnFrUFdnMTBmVzBGSmtrQy1QU2RqaWZjSmlOajZ3NFVFOA": 1794183641903,
+    "news:CBMiXkFVX3lxTE1sRng3cWpUY0szRkFSWEdUbEZPYWE1V0J5Q1V2c0l2bGdfdVhoWWRGYnp4ckJqWlh4TG4tMVN5M0lGTnNEaG5jTlM1eEI5ZG9vblpXSUV2TExxeGJJN0E": 1794183641903,
+    "news:CBMi2AFBVV95cUxPcFNVSXJBSXVCMjVENDhLTUxLOGFDcG1kLWVEaVhRUGJiQ2FTMlAxWlRCek9zTU9zMFhsNzk2eElSVlFOYkNKcDVPaTBwNGNMTGRBMHd2YmRaWl9wTC1ld3lHNGFUYWpJUFhsUm82QTNBWlhPUUMzOHF4bEl5WjFjdWRieUpCRkJrZmRoMGRIMGhvZ210TF81VFI2dlo3d0VkVGE5eFE3V1c4ZjRwanNrTV81dldUbjYyTUtLcFFQcTVpVXg4MVdZeFVna0ltQ0FtZHBsekNqUlQ": 1794183641903,
+    "news:CBMivAFBVV95cUxPZU9yT2VwWWpwYVNkYWpTR1dKckJxREhMRWdLUTd0dkRtWThVR0ZHTUVZX2t4SnRlLU5CdXBJcm56bGcwb2phOWgxakVSLUdlYkdKWnAzazlJajBVRV8wTWQ1Wjl5UXFGaFNGTVlmN2o0QWRGOW80MFBiQTVIWVNaUGRDanVrY3NUNzh6emo0RUZNLUlWc2ZFSTkzUmt3YXl1RkxSQm8ybExicFh4QWtVYi1pN1ozMi1ROEphaw": 1794183641903
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, bisa coba bisnis online. Yang bisa dimulai dr modal kecil dulu dan resikonya lebih rendah. Misalnya belajar affiliate, dropship tanpa harus stok barang, atau memasarkan p",
-      "u": "https://www.threads.com/@dinnie_ivone/post/Dfe4tw3jxXu",
-      "d": 1794145243000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@hasbieasidqi",
-      "x": "Kenapa ya banyak yang Spil komisi gede tapi ujung-ujungnya jualan kelas 🤣 Jarang-jarang ada yang mau ngajarin gratisan 🤭",
-      "u": "https://www.threads.com/@hasbieasidqi/post/DfeMK9Kk-xz",
-      "d": 1794121889000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29132,10 +29104,30 @@
       "d": 1794182785000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Berita Cilegon",
+      "x": "GOW Kota Cilegon Gelar Pelatihan Public Speaking untuk Perkuat Kepercayaan Diri Perempuan - Berita Cilegon",
+      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcFNVSXJBSXVCMjVENDhLTUxLOGFDcG1kLWVEaVhRUGJiQ2FTMlAxWlRCek9zTU9zMFhsNzk2eElSVlFOYkNKcDVPaTBwNGNMTGRBMHd2YmRaWl9wTC1ld3lHNGFUYWpJUFhsUm82QTNBWlhPUUMzOHF4bEl5WjFjdWRieUpCRkJrZmRoMGRIMGhvZ210TF81VFI2dlo3d0VkVGE5eFE3V1c4ZjRwanNrTV81dldUbjYyTUtLcFFQcTVpVXg4MVdZeFVna0ltQ0FtZHBsekNqUlQ?oc=5",
+      "d": 1794163312000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "tvOneNews",
+      "x": "Bansos BPNT Rp600 Ribu Sudah Cair? Begini Cara Cek Lewat HP - galeri foto - tvOneNews",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZU9yT2VwWWpwYVNkYWpTR1dKckJxREhMRWdLUTd0dkRtWThVR0ZHTUVZX2t4SnRlLU5CdXBJcm56bGcwb2phOWgxakVSLUdlYkdKWnAzazlJajBVRV8wTWQ1Wjl5UXFGaFNGTVlmN2o0QWRGOW80MFBiQTVIWVNaUGRDanVrY3NUNzh6emo0RUZNLUlWc2ZFSTkzUmt3YXl1RkxSQm8ybExicFh4QWtVYi1pN1ozMi1ROEphaw?oc=5",
+      "d": 1794180776000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-08-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
