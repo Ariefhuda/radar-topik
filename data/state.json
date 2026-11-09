@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8YK13Es1r": 1792987844013,
-    "threads:De8ZPnqmykK": 1792987844013,
-    "threads:De8YcuSGWhi": 1792987844013,
-    "threads:De8YVmDDiHL": 1792987844013,
-    "threads:De8YLFKFjMX": 1792987844013,
-    "news:CBMikwFBVV95cUxObHhoRW1QbHJCTVlUNlk0RHFIbkpjTVU0dkRjUHlUVDZaeTI2MVY2RXlKWS1sWHJEaURqc1gwZS1peGtUSWVJeWV0S244ekRDZ2tJbkkyM0lsLWRBVlA3c1kyNVFnZlJ5S1ZhVEs4SEF5T2UxUzBfVWlXOEkwSGk3QU9yX1BxMXU1anNjTmlBNm5MTFk": 1792987844013,
-    "news:CBMivgFBVV95cUxONGVGUGxVNTBVQ084cG1aaXZ3UUFSN1FIOHJtMVZkeUZrQlhmdDBoRno1bjZXbDR1LVRnUVRpZzFiRkI5dWd3bER6aFJ2Vm82RWlsWTZMU3ZmVkRidVRpOG5RQWZfXzFBNE5lY0p4ZFVlRVltRFF0dzhMR1czMVRSNlVlUThJcjdVUS1WTnBiNnhrQ0t1M1dIcC0wc2FrSzFmeHhRTm03WWoyRTVhX2FOYnpzSVJjSnlSS196QTJ3": 1792987844013,
-    "news:CBMiwwFBVV95cUxQeEJ3OWZrc2MyVUFFV21NQlJ6UklXYjY5aU9td3ZnQW84YnpDcXF6andxcWF5MUJ6d2F4Q3RTUzFyUlNteVBDYlNZOXlUSndZMTZxcnFCYzI5UGpPREg3UzhwUU1PYU1pM0JtN2pCa09KMzYtcXpKZEF3NVNBNzlTUDNLNE01R0NoYkN0MlBhSTJGS2pMVGZUYWN2V1VRNm5IWnZjUEc3ZGUzY3lKQWRfUkxYVEtOQzliZkU3bTdSMjVRbEXSAcgBQVVfeXFMTXJfMGg0Zmp6cHh0a014dG5ydGlRSWRtR1BIdlUycnFPMmRncVdRakJDSzhYNE9NOTllaWdzUkhfRy1vbkhIeEhiT01jcmZXdTVsdVhpaTFmY1Fkblk1dlFuSnl1RlZsMzM0a25Wd2FfaEkxcFNob2stYWpHN0hxMzVad2ZNbHVtQjViYlJQQVVScVNYSUF6WG8zdVVUZmU5NUotMVRlcG9QZE90aWxJRndXelEtal9POVAzZkdaREZjRkoxRF96UjU": 1792987844013,
     "threads:De8ZnCkH1ri": 1792988150982,
     "threads:De8ZXatn_RK": 1792988150982,
     "threads:De8ZnYWn55C": 1792988150982,
@@ -27698,19 +27690,16 @@
     "threads:Dfga-rEoEAg": 1794197137590,
     "threads:DfgbNJIH5KN": 1794197137590,
     "threads:DRvSvfPD9tF": 1794197137590,
-    "news:CBMiYkFVX3lxTFA4VF91dUozdzV4NVB2MHplYXEwTnJ6UlBaelNWVTRPbFdualhlZkVXemdpWTktZFRhVnA3UG9LVEZHYXhQQ0JNRW4xc3RGN3dTV1J1NFpoSXZNMXNPUzFoZGFR": 1794197137590
+    "news:CBMiYkFVX3lxTFA4VF91dUozdzV4NVB2MHplYXEwTnJ6UlBaelNWVTRPbFdualhlZkVXemdpWTktZFRhVnA3UG9LVEZHYXhQQ0JNRW4xc3RGN3dTV1J1NFpoSXZNMXNPUzFoZGFR": 1794197137590,
+    "threads:DfgcGRHmOgE": 1794197439730,
+    "threads:DfgcOyiGomB": 1794197439730,
+    "threads:Dfgbx0xjOj2": 1794197439730,
+    "threads:Dfgbm5GkmJQ": 1794197439730,
+    "threads:DfgbbQJCDe2": 1794197439730,
+    "threads:DfgTeXFG3uB": 1794197439730,
+    "news:CBMiY0FVX3lxTFBhNjlZYzVlV1RYanl0NVJBV3N5d2ZOb21YME14dFJlNVc3T1F1cC10VGhsaUFLNngxdTgzMkRPUjNyWFZGNDlQRTRHTENhbWZOTFE1azZiS0l5MjdqanN3MzBYTQ": 1794197439730
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Iya konsepnya hampir 0円 met, tapi engga bener-bener 0 dari awal. Jalur G to G itu yang paling murah karena visa, tiket pesawat PP, pelatihan bahasa Jepang 6 bulan termasuk asrama +",
-      "u": "https://www.threads.com/@meta.ai/post/DfgKBlBEpHm",
-      "d": 1794187872000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -29200,10 +29189,20 @@
       "d": 1794192412000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Focus Taiwan",
+      "x": "BRI Taipei bekali 130 PMI ilmu wirausaha gratis, dorong kemandirian saat pulang kampung - Focus Taiwan",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhNjlZYzVlV1RYanl0NVJBV3N5d2ZOb21YME14dFJlNVc3T1F1cC10VGhsaUFLNngxdTgzMkRPUjNyWFZGNDlQRTRHTENhbWZOTFE1azZiS0l5MjdqanN3MzBYTQ?oc=5",
+      "d": 1794196920000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
