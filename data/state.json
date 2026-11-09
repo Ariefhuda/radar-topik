@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-UNQ3E0vD": 1793053849467,
-    "threads:De-XIfuoKZn": 1793053849467,
-    "threads:De-Wr8zklbz": 1793053849467,
-    "threads:De-WoPfk3Df": 1793053849467,
-    "threads:De-V_W7iXPf": 1793053849467,
-    "news:CBMirwFBVV95cUxPUEYxN25nNmFUeXBWaEEyenNIWXhWaUtvbExrZlg4UXJwMWM5dnEwakYxNHZFNXM0bDE4dDBJUVNJTFdtdTN0dmNPV3UxdDBqcVBjTFVBNVFUbGpDb2tJSkRHYW5pR0E1MUVyY1lxeG8ydmJkdWhuczFlZzdxSURaYXpCbjFzQkY0QWpsenU0WUItTzNVamh6cXRHYjU3UGxhMEpqdVNoT3lvODc0V3JF": 1793053849467,
-    "news:CBMitgFBVV95cUxOWGdkbE5nVmYzNWJ1SjhXcExuWmtaMUd1bXl0a2sxb2tvdUtIR2c3UGRlT1BHcEZLSGdMamZpcVI4amVOSzJiaEdHYUlTRUZRUlphNXM2SWJaeC1vbXNTZEZzVXk5bVBrM1Naa0RuMWFmU3d2UzlROV9zYXN6VF9UV1NuMnIzZ0kwd1AxUWNHSWRVSmxiUDFvVVBGLUVTWnlRbGtiYjhvZVAtS19BWWJvT0RkVkVoUQ": 1793053849467,
-    "news:CBMixAFBVV95cUxQdW9SVmR6TnZZWnR2SS03MlFWeW92UnltU2MtcW5kN1JCQ2JWME5JS21RbFFUcjNxUUlaY05vWWhYTF9zX3Q1N1RqNTI4Q21QYk9Fand6MlBUTjJlTTVBOVFLMmxPeWU5YXRCdzNyeEMzaTZlRUNJeVJ2eTdTRXplNV9IOTZSYVNZNDY5dUVQTHJfVF8tQkpEUjd6WldMRXBsUk1jRlppUDFuMGpOU01aLUUxQnEycWpIRE0zNEJ2SEpYeEtt": 1793053849467,
-    "news:CBMisAFBVV95cUxQRXpPZWg1ZVEwZll6cmtlY0lqaEw5aUMzM29FbXFEa3NVdlU5UFhNNy00Q0dWQU1mSW0yRU1adEVsN1otNzJ5LWFBMVZ0bUhldlFVSU9XOGx3ejJ4RzBLLXU5WVJzWVlCQktqbmxZNV96SmZzQy1TcmhLNlIyaHdtaS1RVUJiUGk5N20wX2NoeVNrSW5nZUFuTjJYcVZMQUhWREtqYkxHQ3VFRXRhUGRNeQ": 1793053849467,
     "threads:De-XosSkxmf": 1793054955671,
     "threads:De-XCbjgNCL": 1793054955671,
     "threads:De2I63vE9dJ": 1793054955671,
@@ -27462,19 +27453,10 @@
     "threads:DfiYeYmDKf7": 1794263144358,
     "threads:De2XltzE6Fz": 1794263144358,
     "threads:DeypBnxkjwL": 1794263144358,
-    "threads:DcV0T6IDEfb": 1794263144358
+    "threads:DcV0T6IDEfb": 1794263144358,
+    "news:CBMi6wFBVV95cUxQczJTa3NZdGs4THM5cWZkZnZiZHZkMWx5UmZ0WmI3R3Z4LWlSbUd1MC1jRDl4aHhYUF9FcUdCa0N3ZVhVaHRDaGhoUTlMVUhXY28zOFhpWG5LZXdTSWs3SWtoQjhGUWppR0tPOUxnUlNsZzRnUjRGMk5CdVZyd2VXLUhkRXlaby1SRUdJMTNGZ1JtZnZrR3MzbzNOR2NuN3FUVzlZWjJJWU05cExpRFlXZmVTQmVONFlkaGZTclJlTXJHN0djSVBON0t0NWh0SnE2Z3lXRkdWWHFzT0x4SjFVekNRT1JIN0hjamFn": 1794263469937
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "SEVIMA",
-      "x": "Webinar Nasional GRATIS: RKAT 2027 Lebih Tepat Sasaran! - SEVIMA",
-      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdmFrYUs5Uk5xWTA4LWotYUczbHJwNnpmdmFHRnc0T1ZvdUJtLUlVWWhHVlJURWRKTXhSbThBQUxqZm1Yei11dTZRb04waVk3eUc0MmpIRUIyMW0zY1hHX3hUSXNadmtGd1poSUdmNDlxSE9ZUklvMGF4THdGdw?oc=5",
-      "d": 1794227788000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28964,10 +28946,20 @@
       "d": 1794262621000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Jawa Pos",
+      "x": "Dorong Penyerapan SDM Lokal oleh Perusahaan Asing, Disnaker Gresik Gelar Pelatihan Bahasa Mandarin - Jawa Pos",
+      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQczJTa3NZdGs4THM5cWZkZnZiZHZkMWx5UmZ0WmI3R3Z4LWlSbUd1MC1jRDl4aHhYUF9FcUdCa0N3ZVhVaHRDaGhoUTlMVUhXY28zOFhpWG5LZXdTSWs3SWtoQjhGUWppR0tPOUxnUlNsZzRnUjRGMk5CdVZyd2VXLUhkRXlaby1SRUdJMTNGZ1JtZnZrR3MzbzNOR2NuN3FUVzlZWjJJWU05cExpRFlXZmVTQmVONFlkaGZTclJlTXJHN0djSVBON0t0NWh0SnE2Z3lXRkdWWHFzT0x4SjFVekNRT1JIN0hjamFn?oc=5",
+      "d": 1794206093000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
