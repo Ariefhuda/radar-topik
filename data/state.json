@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DXTP1w4CQMH": 1792982746972,
-    "threads:De8PEAGD9Kp": 1792982746972,
-    "threads:De8OqoEj14M": 1792982746972,
-    "news:CBMi4AFBVV95cUxQblF6NmZsVDJjSGxpRlNEanBEMkI5Mk9rYVNNSk04dzlWT1pjdGpJbTVwN3VwVDdnS0YzaVpUSGRXNXE5d3ByclhqdHRtblVpYjUxdm1BYlFid01ScjRSLXEtbm84YUE3azFQY3M1dGhsQ29VVmVFUHYyTDZzTDFTVVRqUkdLVXZfcXpuWTdXNEhoLXpsWTE3eU5aMXA0M1lhTFpsZVlsVkszU3FuRE1ZSHgwT21nRy0yMmE2T1RnNzU2UXNMRTNBdmJEa2JGZ2pqYWZXbWJTVmRhU1o5LWxFbA": 1792982746972,
-    "news:CBMivwFBVV95cUxOMExtajRjZ2wxSEhxZmJlc3hvdWoxNWdXR18tblV4VnUyVl9OZTRnS0xWV3c2OXB4YVE2c2MyUC15RHo4bFNaYVN5OVV4eWFFOE5jTTVaZjFuQmJ4V1pPQVBUcS1lQm1tbnc0NGszRjNTWnNWRlpTdnZtU2VKRkR2YTkySUFJV0R3R3JDWUU2RllHT0Y2eURxSTFXa3JYaWZsMXg1ZThHV0FpaF9qdnFrbXZMbkZVZjlRNE1vV3VRTdIBxAFBVV95cUxQWWJiZUhBazVuY3hjOTNOck1nSXF4ZS1KNkRtVWl6UlJSaWgzQnA1SGttNU1GZm5CQjZHQlBIRnhvTjhxNkJhWFIybWNTVVpUMC1OS0EtMW5ieDU5c3p0WmZ5bkhSX19jSm9ib0pSTldXSXpFN1U4Y3N3TDNxOG9ZMlk0Z2NOWnFfWENDVUxjb0RjRzVtcWZVNXQ0ZFRjV09FR2syMHpydnBka2ZJWjNFX2tIU3JZTGQtbk82S1Q1NWRQSUNQ": 1792982746972,
-    "news:CBMitgFBVV95cUxNelAyQWZMelpzYW1iTmdYTVNpRkdYQXZQZTlQYjItSnFBb0sxZzlFZjIySDRQbWRGVG5nNkwwcnJDaWt6NnBadGc0bHJ5MGJsMndVakxCS0U3a0IzeXhPR293bWQ1R1dEV19aakMtTWM3azVtTWFMNWhtaUlqTVZ6dFJrVThLZmtRMDFPTVphR1lXRE1MOUxPd1F4bldvM0JrZ184T0FhUzk5X05VN0N3ejJuLUZzQdIBuwFBVV95cUxOeXU2NXNZWlRUTENBclJWTmR0NkQ2ZkI0SlZwSHdQTjhQM0thNFNHY1ZfbVBGV1NaMXExN3BHMEhIc09SNjh5c2JwU3Znc21zY01felY5OHVacVVCMVJBa3FNbGZHUU0tNlhXQkJJVGRnSlMwenBWeUVVX2NRYUFaZWphRWlpUmVWYWZ5VnJHNjEzVk5RTGxKZ2dreU16Mi1uZGNnVGJLZHFRSUU0QWZWLWFxUXd0MGpSZ21F": 1792982746972,
     "threads:De8PxwfEyA7": 1792983045256,
     "threads:De8Pz3vlLU1": 1792983045256,
     "threads:De8PmGNFGZ0": 1792983045256,
@@ -27665,7 +27659,36 @@
     "threads:DJEE1TLBHuA": 1794192042978,
     "threads:Dc0BXLxCUQx": 1794192042978,
     "news:CBMiuAFBVV95cUxNMERyelZvcjEyMFhoR1VrUndLMm5VSFZPcENWTmExZFV0bEZTS2ZQVUFGeVdEZTJMTHpmMkFpWVpKVlJLTjlPM05VZEg4bERFeTBzeGE3YTRtYUhwcWs4dWFrczNDNkRldEhOZFZzeWJTVHZUSTZGUjZiMFJoOUo2b0VlTjN1dWYyUjU3bnVsUFo0OXM3OWozbmhwbmlUTVdBazdpdEN5VlY1RzVPVjl5S09LcE45bWJ50gG4AUFVX3lxTE0wRHJ6Vm9yMTIwWGhHVWtSd0syblVIVk9wQ1ZOYTFkVXRsRlNLZlBVQUZ5V0RlMkxMemYyQWlZWkpWUktOOU8zTlVkSDhsREV5MHN4YTdhNG1hSHBxazh1YWtzM0M2RGV0SE5kVnN5YlNUdlRJNkZSNmIwUmg5SjZvRWVOM3V1ZjJSNTdudWxQWjQ5czc5ajNuaHBuaVRNV0FrN2l0Q3lWVjVHNU9WOXlLT0twTjltYnk": 1794192042978,
-    "news:CBMiuAFBVV95cUxQY0FaZkpmZXJISG5mX2k4U3JjRjFubHZOMGV5TGVIck44U3R4am9RX19yWEcycEIwMS05aXFOSllPQU1BQlp0THhTczNDSnVLbXA2d3dicXByOTdaSkRyUWlTUlVTY3UtNmh5X2pudm1nRmJkQXdtbTFxaDJGY1dPNkZYeDVDOEJJWDFmUWlpdmJ4WVN3bmVRaS1ZTzNLNjFCY1RHTXN1MlVJdXFQTGlmRXF4MkgxOUZr0gG4AUFVX3lxTFBjQVpmSmZlckhIbmZfaThTcmNGMW5sdk4wZXlMZUhyTjhTdHhqb1FfX3JYRzJwQjAxLTlpcU5KWU9BTUFCWnRMeFNzM0NKdUttcDZ3d2JxcHI5N1pKRHJRaVNSVVNjdS02aHlfam52bWdGYmRBd21tMXFoMkZjV082Rlh4NUM4QklYMWZRaWl2YnhZU3duZVFpLVlPM0s2MUJjVEdNc3UyVUl1cVBMaWZFcXgySDE5Rms": 1794192042978
+    "news:CBMiuAFBVV95cUxQY0FaZkpmZXJISG5mX2k4U3JjRjFubHZOMGV5TGVIck44U3R4am9RX19yWEcycEIwMS05aXFOSllPQU1BQlp0THhTczNDSnVLbXA2d3dicXByOTdaSkRyUWlTUlVTY3UtNmh5X2pudm1nRmJkQXdtbTFxaDJGY1dPNkZYeDVDOEJJWDFmUWlpdmJ4WVN3bmVRaS1ZTzNLNjFCY1RHTXN1MlVJdXFQTGlmRXF4MkgxOUZr0gG4AUFVX3lxTFBjQVpmSmZlckhIbmZfaThTcmNGMW5sdk4wZXlMZUhyTjhTdHhqb1FfX3JYRzJwQjAxLTlpcU5KWU9BTUFCWnRMeFNzM0NKdUttcDZ3d2JxcHI5N1pKRHJRaVNSVVNjdS02aHlfam52bWdGYmRBd21tMXFoMkZjV082Rlh4NUM4QklYMWZRaWl2YnhZU3duZVFpLVlPM0s2MUJjVEdNc3UyVUl1cVBMaWZFcXgySDE5Rms": 1794192042978,
+    "threads:DfgRTbjDAWN": 1794192340192,
+    "threads:DfgR9LbE9CU": 1794192340192,
+    "threads:DfgR3G_H5fU": 1794192340192,
+    "threads:DfgRr03Fiba": 1794192340192,
+    "threads:DfgRoljlmpW": 1794192340192,
+    "threads:DfgRhb8meKZ": 1794192340192,
+    "threads:DfgReRpG2VD": 1794192340192,
+    "threads:DfgRH5Gjvzu": 1794192340192,
+    "threads:DfgSdDtCXUj": 1794192340192,
+    "threads:DfgR-e7ExIE": 1794192340192,
+    "threads:DfgSomqEwA8": 1794192340192,
+    "threads:DfgSjvqE9Fi": 1794192340192,
+    "threads:DfgSec7k-es": 1794192340192,
+    "threads:DfgScYBk-Oo": 1794192340192,
+    "threads:DfgSYj9E7wo": 1794192340192,
+    "threads:DfgSWO1E0h2": 1794192340192,
+    "threads:DfgSQ2bkwhW": 1794192340192,
+    "threads:DfgSOClEz5x": 1794192340192,
+    "threads:DfgSkV7EQkq": 1794192340192,
+    "threads:DfgSDUFktRA": 1794192340192,
+    "threads:DfTd6Hxmd6c": 1794192340192,
+    "news:CBMihgFBVV95cUxPSGlId1ZsSFN5NEtoMi1PMy12eU9BME1oNnlaTWZLTm5OM2pwczA3N2t2UWxuWTNULTlHUnJqd3o4dUdLVGh1OEFEcGJ3dDRaQThlWHJIcjloVHhiQ2liTWR4SE5vRHdNVXJzakp6Q0dQMWhUWjdPUU5HNmNIRENWYkhmQnViUQ": 1794192340192,
+    "news:CBMiugFBVV95cUxPdy0tSW9rY1g0Y05yOERIUEdNcWh5c19WaHFVWHVJN2tVVWtvRzZJYlNvdkw5MnIxWmRWcUhCOFQzVG9rUDFoTEtQSWItSXZHMmotYjFqamVncGhOOF9CV1NfZjRJdEpCNW5kY2ZhN0NuSWJOUnAzUXY4aDVxdHZxQTBhVV9jeWlYczQ5U3paN0tpZXRqOWstbUV1QUp0RzZOb1ZIdHNPRUotcUZZME5YRDNlaDB0NHBmM0E": 1794192340192,
+    "news:CBMi0wFBVV95cUxOUnJ4MWFkV0pRVkhzakZObXhDcHRteUI3X1Myb2lQNUp5ZmtfSUcyNkQxV1JUMV90d3FLX0s4UXRSU0tyU2ZTT3lRREpIeThZZTNJZGpaS3JmUkJYSFVNZlFPbW1xVGk1Zk9aVHhDSXhhc1hnaGpTMVkzaFZxaHhaVmMyYXBSS09mWTFLUWF5OE4wdEhfbXNydEFTajhGdHljX1Y2d0N3MG56bkp2NGtwbFJCWnJMaEUyV20wVG5WeGFsemdSWTc4Wm9PVHJ5S213OVZv": 1794192340192,
+    "news:CBMinwFBVV95cUxOem0za0E0STZoQlA0bG5XNWo4bnE3em0tcUN2ZUlkaFNPQTNKaEFfaFdfTTMwTTc5b185QnVQR2M1aXB0T3paNEV1TXpneGd3RkdiQ3dEXzFkNFNLdUExZG1DX0dpWGxuemJweHV2bmRpRW15NlpMUk0xUkNKVjJ1S2s1RGRraEZqek1oX0xFZDRzS2VxN1FEY2g2ME9nYVnSAaQBQVVfeXFMUEVqRzFVSXpYODR2dFFMOXlUQWUzRjBKTk5aUnFMa2swdTc0UkVYejRYUFZVTXM0aEllcGcybnM5RUxOMnJoWU1HU3dMR19rdTE0eVFFWER6bFc2MVBqUWg2aU9vb2Y5R0NZemJqVDYzaFRsajNSREdSaFh1Z0VuamFSWUNOeHdtQ3lZR290TG4waGxVdm4td05ydVotSEwyX0hwVGY": 1794192340192,
+    "news:CBMipgFBVV95cUxQaGJzakVmYW9hdXZPUS1XNENDMUlPaUxTZFFGT2w3ZFRxMnVUbmk3bEpTVl9uWjctMjh1b1phWFl4ZVFuZE8wVjdxT3lUZkVGdU40YkxrbzE4MFpmelNtSGxZa3pvazhtZU0ta2ZfWWdMTS1qQ0pIMkQ0dlpOelpQUEw2c3pldE9iRnVhRTZUZ1F0NWVNU0JsUkpjUEVpTVF2cENBSVBn": 1794192340192,
+    "news:CBMi0gFBVV95cUxPSl91Q3dzTVhMNlZLcWdBZjNIYmVfMGNMbnloUnNNdkx6a3FkSXBydTgyWXVCNmI5YUZ4YmVIdzFmWDhaR2FSbVB6REducW5SU250X0p3djRFaGNjZlpwRi00dGo2WUp2MnR2S2JGUDI0UjA0VUs2THFPYnc4N2tmZks1WHhvYUc0dnd6U0hIcmdnX0VtdHJHemFjZzJvRG5PaWtIVUkteUhwc2s1WjhUaEdUcENDaGpRdDVxTkJEcXlZNG91WUhVNVdId3pWcWYxMGfSAdIBQVVfeXFMT0pfdUN3c01YTDZWS3FnQWYzSGJlXzBjTG55aFJzTXZMemtxZElwcnU4Mll1QjZiOWFGeGJlSHcxZlg4WkdhUm1QekRHbnFuUlNudF9Kd3Y0RWhjY2ZacEYtNHRqNllKdjJ0dktiRlAyNFIwNFVLNkxxT2J3ODdrZmZLNVh4b2FHNHZ3elNISHJnZ19FbXRyR3phY2cyb0RuT2lrSFVJLXlIcHNrNVo4VGhHVHBDQ2hqUXQ1cU5CRHF5WTRvdVlIVTVXSHd6VnFmMTBn": 1794192340192,
+    "news:CBMi0AFBVV95cUxNYm5xUUdLX3ZqM003NVl0cDF5WEhwckpWMWRBSEtJMkphNFFIZ0pHeGZVb1BHamVMcHdnZ01PT19IYmc0N0x3ZTVWYkxlTGhYdFpWcjRpa25hdnkyWjNZbFZlMmJoT0NGMlFaMGNnekhrWDVtU29Ici1oOXhmR2JEYmstV1EtRGVvMTNfbHVDXzJQWDlIell2RTMzVm4wVUV5dDAzZGxYbklScmcyS2ZIUjlzaWlhRFgwZEFLZmhDLTNuTnJFTmowM0FUUUc5MHVO0gHWAUFVX3lxTE1UQWEtWnF6a1ZqczJOdHM3ZTRDWE1LUDVUZTJKYV9LY0FnQjdMdnNOSDhWbndpalVTWG1qYVZSdW41YU5IWFZjd210MlhBY0cwTTdhdV9Fb3c1Q251c04zSWVPY1BwVlpJOUNFbjNrb3F2NkNDaC1tb3dkZG1xVUpWS202cUliUEJHX2ZPSEJzZGRsS3pJRml2OERkWko0bUVUMGZfTTB0emZ6d2V3aE9LRDhoTkdsSkpGa25EWW42SW1WTEluV1lLX2s4dnNOVVpTZS1Qa0E": 1794192340192,
+    "news:CBMi3gFBVV95cUxPQUwwQW1pX2k5NXhsanowbC1xNWRvNXhqelJrZUhUZVlNdFVHUFlkTENsYzc4RnpyUU9jRVNEMFRJRGk3bWczRFZtU2dWS1k1QkhXVW9sZVJXZ1VXRkNWMlRlOE1VNmJDTFFMejJKVlFxT2x5aWtaREotTjBmck03RVhRRTdCM0RoYkpsWVhqSUFQZkQyM0l1WHA2QmtKczZudHNtdEx3d2lBUDhWZzBRTTJiOHpEUXhMbTBGaXBMR0VNUEE3Um9Vek13d1ZUUnAwM1VhOGJfR2c2azl0bkHSAd4BQVVfeXFMT0FMMEFtaV9pOTV4bGp6MGwtcTVkbzV4anpSa2VIVGVZTXRVR1BZZExDbGM3OEZ6clFPY0VTRDBUSURpN21nM0RWbVNnVktZNUJIV1VvbGVSV2dVV0ZDVjJUZThNVTZiQ0xRTHoySlZRcU9seWlrWkRKLU4wZnJNN0VYUUU3QjNEaGJKbFlYaklBUGZEMjNJdVhwNkJrSnM2bnRzbXRMd3dpQVA4VmcwUU0yYjh6RFF4TG0wRmlwTEdFTVBBN1JvVXpNd3dWVFJwMDNVYThiX0dnNms5dG5B": 1794192340192
   },
   "digest": [
     {
@@ -28377,10 +28400,170 @@
       "d": 1794186456000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSomqEwA8",
+      "d": 1794192386000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSjvqE9Fi",
+      "d": 1794192347000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSec7k-es",
+      "d": 1794192303000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgScYBk-Oo",
+      "d": 1794192286000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSYj9E7wo",
+      "d": 1794192255000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSWO1E0h2",
+      "d": 1794192236000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSQ2bkwhW",
+      "d": 1794192192000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@adrian_alaydroes",
+      "x": "Halo kak, mau sharing info tgl 13 November jam 19:30 mentor ku akan ngadain webinar gratis belajar digital marketing dari nol dan peluang usaha online, kebetulan aku mendapat kuota",
+      "u": "https://www.threads.com/@adrian_alaydroes/post/DfgSOClEz5x",
+      "d": 1794192169000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mufassir_adhd",
+      "x": "MCU CPNS adalah program sosial yang didirikan oleh Rival Zamzam Elhasbi yang berdiri untuk memberikan layanan akses pelatihan CPNS Gratis untuk semua orang tanpa terkecuali, dibaya",
+      "u": "https://www.threads.com/@mufassir_adhd/post/DfgSkV7EQkq",
+      "d": 1794192351000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@fusiatena",
+      "x": "🚆 LOWONGAN KERJA 2026 🏢 PT PERTAMINA INDONESIA 👨‍💼 Pria & Wanita 🎂 Usia 18–45 Tahun 💼 POSISI TERSEDIA: - Customer Service - Staff Administrasi - Security - Cleaning Service -",
+      "u": "https://www.threads.com/@fusiatena/post/DfgSDUFktRA",
+      "d": 1794192081000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Tribunlampung.co.id",
+      "x": "XLSMART Future Ready Bantu 1.050 Anak Muda Raih Pekerjaan dengan Pelatihan ke Kampus dan SMK - Tribunlampung.co.id",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUnJ4MWFkV0pRVkhzakZObXhDcHRteUI3X1Myb2lQNUp5ZmtfSUcyNkQxV1JUMV90d3FLX0s4UXRSU0tyU2ZTT3lRREpIeThZZTNJZGpaS3JmUkJYSFVNZlFPbW1xVGk1Zk9aVHhDSXhhc1hnaGpTMVkzaFZxaHhaVmMyYXBSS09mWTFLUWF5OE4wdEhfbXNydEFTajhGdHljX1Y2d0N3MG56bkp2NGtwbFJCWnJMaEUyV20wVG5WeGFsemdSWTc4Wm9PVHJ5S213OVZv?oc=5",
+      "d": 1794191791000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Antara News jatim",
+      "x": "BGN mulai penilaian SPPG pastikan keamanan MBG terjaga - Antara News jatim",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOem0za0E0STZoQlA0bG5XNWo4bnE3em0tcUN2ZUlkaFNPQTNKaEFfaFdfTTMwTTc5b185QnVQR2M1aXB0T3paNEV1TXpneGd3RkdiQ3dEXzFkNFNLdUExZG1DX0dpWGxuemJweHV2bmRpRW15NlpMUk0xUkNKVjJ1S2s1RGRraEZqek1oX0xFZDRzS2VxN1FEY2g2ME9nYVnSAaQBQVVfeXFMUEVqRzFVSXpYODR2dFFMOXlUQWUzRjBKTk5aUnFMa2swdTc0UkVYejRYUFZVTXM0aEllcGcybnM5RUxOMnJoWU1HU3dMR19rdTE0eVFFWER6bFc2MVBqUWg2aU9vb2Y5R0NZemJqVDYzaFRsajNSREdSaFh1Z0VuamFSWUNOeHdtQ3lZR290TG4waGxVdm4td05ydVotSEwyX0hwVGY?oc=5",
+      "d": 1794153600000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "JournalArta",
+      "x": "Sertifikasi Halal di Marketplace Perlu Terhubung ke Data Resmi - JournalArta",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGJzakVmYW9hdXZPUS1XNENDMUlPaUxTZFFGT2w3ZFRxMnVUbmk3bEpTVl9uWjctMjh1b1phWFl4ZVFuZE8wVjdxT3lUZkVGdU40YkxrbzE4MFpmelNtSGxZa3pvazhtZU0ta2ZfWWdMTS1qQ0pIMkQ0dlpOelpQUEw2c3pldE9iRnVhRTZUZ1F0NWVNU0JsUkpjUEVpTVF2cENBSVBn?oc=5",
+      "d": 1794184905000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Tulungagung",
+      "x": "Cek Bansos November 2026 Cukup Pakai NIK, Begini Cara Cek PKH dan BPNT via HP - Radar Tulungagung",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSl91Q3dzTVhMNlZLcWdBZjNIYmVfMGNMbnloUnNNdkx6a3FkSXBydTgyWXVCNmI5YUZ4YmVIdzFmWDhaR2FSbVB6REducW5SU250X0p3djRFaGNjZlpwRi00dGo2WUp2MnR2S2JGUDI0UjA0VUs2THFPYnc4N2tmZks1WHhvYUc0dnd6U0hIcmdnX0VtdHJHemFjZzJvRG5PaWtIVUkteUhwc2s1WjhUaEdUcENDaGpRdDVxTkJEcXlZNG91WUhVNVdId3pWcWYxMGfSAdIBQVVfeXFMT0pfdUN3c01YTDZWS3FnQWYzSGJlXzBjTG55aFJzTXZMemtxZElwcnU4Mll1QjZiOWFGeGJlSHcxZlg4WkdhUm1QekRHbnFuUlNudF9Kd3Y0RWhjY2ZacEYtNHRqNllKdjJ0dktiRlAyNFIwNFVLNkxxT2J3ODdrZmZLNVh4b2FHNHZ3elNISHJnZ19FbXRyR3phY2cyb0RuT2lrSFVJLXlIcHNrNVo4VGhHVHBDQ2hqUXQ1cU5CRHF5WTRvdVlIVTVXSHd6VnFmMTBn?oc=5",
+      "d": 1794125573000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Tulungagung",
+      "x": "Cek Bansos Kemensos 2026 Pakai NIK: Cara Lihat Status PKH, Sembako, PBI JK, dan KPD - Radar Tulungagung",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYm5xUUdLX3ZqM003NVl0cDF5WEhwckpWMWRBSEtJMkphNFFIZ0pHeGZVb1BHamVMcHdnZ01PT19IYmc0N0x3ZTVWYkxlTGhYdFpWcjRpa25hdnkyWjNZbFZlMmJoT0NGMlFaMGNnekhrWDVtU29Ici1oOXhmR2JEYmstV1EtRGVvMTNfbHVDXzJQWDlIell2RTMzVm4wVUV5dDAzZGxYbklScmcyS2ZIUjlzaWlhRFgwZEFLZmhDLTNuTnJFTmowM0FUUUc5MHVO0gHWAUFVX3lxTE1UQWEtWnF6a1ZqczJOdHM3ZTRDWE1LUDVUZTJKYV9LY0FnQjdMdnNOSDhWbndpalVTWG1qYVZSdW41YU5IWFZjd210MlhBY0cwTTdhdV9Fb3c1Q251c04zSWVPY1BwVlpJOUNFbjNrb3F2NkNDaC1tb3dkZG1xVUpWS202cUliUEJHX2ZPSEJzZGRsS3pJRml2OERkWko0bUVUMGZfTTB0emZ6d2V3aE9LRDhoTkdsSkpGa25EWW42SW1WTEluV1lLX2s4dnNOVVpTZS1Qa0E?oc=5",
+      "d": 1794124718000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Tulungagung",
+      "x": "Cara Cek Bansos 2026 Lewat Chrome di HP, Cukup NIK dan Captcha di Situs Resmi Kemensos - Radar Tulungagung",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUwwQW1pX2k5NXhsanowbC1xNWRvNXhqelJrZUhUZVlNdFVHUFlkTENsYzc4RnpyUU9jRVNEMFRJRGk3bWczRFZtU2dWS1k1QkhXVW9sZVJXZ1VXRkNWMlRlOE1VNmJDTFFMejJKVlFxT2x5aWtaREotTjBmck03RVhRRTdCM0RoYkpsWVhqSUFQZkQyM0l1WHA2QmtKczZudHNtdEx3d2lBUDhWZzBRTTJiOHpEUXhMbTBGaXBMR0VNUEE3Um9Vek13d1ZUUnAwM1VhOGJfR2c2azl0bkHSAd4BQVVfeXFMT0FMMEFtaV9pOTV4bGp6MGwtcTVkbzV4anpSa2VIVGVZTXRVR1BZZExDbGM3OEZ6clFPY0VTRDBUSURpN21nM0RWbVNnVktZNUJIV1VvbGVSV2dVV0ZDVjJUZThNVTZiQ0xRTHoySlZRcU9seWlrWkRKLU4wZnJNN0VYUUU3QjNEaGJKbFlYaklBUGZEMjNJdVhwNkJrSnM2bnRzbXRMd3dpQVA4VmcwUU0yYjh6RFF4TG0wRmlwTEdFTVBBN1JvVXpNd3dWVFJwMDNVYThiX0dnNms5dG5B?oc=5",
+      "d": 1794125021000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
