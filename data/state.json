@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-CVgSk-P3": 1793043047336,
-    "threads:De-BZQpk6kL": 1793043047336,
-    "threads:De-A2xtE5VH": 1793043047336,
-    "threads:De-Am0TE8YL": 1793043047336,
-    "threads:De-Acm0E-iZ": 1793043047336,
-    "threads:De-AEJ-Ez5x": 1793043047336,
-    "threads:De9_4kWE6Zs": 1793043047336,
-    "threads:De9_18Wk6RQ": 1793043047336,
-    "threads:De9_0-wE057": 1793043047336,
-    "threads:De9_0Oqk1Qh": 1793043047336,
-    "threads:De9_zftk7dv": 1793043047336,
-    "threads:De9_yl3k-GF": 1793043047336,
-    "news:CBMiuAFBVV95cUxPODZQU0NLNndOZlhkZHVSUC0wLWlJeEw0VWo3TDUxZ19NSEZqclhWNENxdEpRTzRpRGE3SWxKR0lFRWdmdE90RFoyNmZ3aGlpeUN6YUxLaExYRDcyeU9ySFVDSm1PMmRwcXROME5WN0NRbFpXSXYwYy1RUnIxRGJVYkZ0SWh3TEVNQm1wbGMtQVJLdnRKUE1qNEpOb1I5RkpHVFRycnpacmtJWXVFQ1pxRXRWaDNTRHJS": 1793043047336,
     "news:CBMiugFBVV95cUxNZVdOOHp2VTd5dXpNVTFXczlOcllIU3FPUVd0aXB0SEhrbTlRODBBeWVKRlZoZld4eDlyb05VOVYwWWd5MTg4ZXNhaDF3ZjNrMUlLeU5mVURFZ285aldHUC04VGZkenRVNjI3SnphSFFYVXNkTkt5c2VLYnU5TjZjT3ZkdVZfOHFxaENPLVo1M2xJTUs5OXdZTlMtQjdWVGlaYWpINF9GWlE0MkdwRHNibi1FMTg5ZU5hbnc": 1793043342861,
     "threads:De9OjLEk5rC": 1793044303068,
     "threads:De9HbsUkz2K": 1793044303068,
@@ -27462,19 +27449,24 @@
     "threads:DfiC8rhG-oy": 1794252043329,
     "threads:DfiCYFVDfzn": 1794252043329,
     "threads:Dfhsse2k_U5": 1794252043329,
-    "threads:DdSzU6lDSfU": 1794252043329
+    "threads:DdSzU6lDSfU": 1794252043329,
+    "threads:DfiEzuggVRg": 1794252646813,
+    "threads:DfiFgjej1X1": 1794252646813,
+    "threads:DfiFeYNj7mf": 1794252646813,
+    "threads:DfiFYDHGTzr": 1794252646813,
+    "threads:DfiFPzVkTIN": 1794252646813,
+    "threads:DfiFDfQD5W-": 1794252646813,
+    "threads:DfiEzeVG5zW": 1794252646813,
+    "threads:DfiEcLGmAlC": 1794252646813,
+    "threads:DfiEcDuD3Hn": 1794252646813,
+    "threads:DfiEUthkbZd": 1794252646813,
+    "threads:DfiFgmfDV7r": 1794252646813,
+    "threads:DfiFQB7mIGg": 1794252646813,
+    "threads:DfiEjfyH4EI": 1794252646813,
+    "threads:DZ22J-CASF2": 1794252646813,
+    "threads:DfiE5fygZTd": 1794252646813
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Radar Pekalongan",
-      "x": "Pendaftaran dan Penjadwalan Beasiswa LPDP 2027, Ini Perkiraan Jadwal dan Tahap Seleksinya! - Radar Pekalongan",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkJnVjBiVTFJZ2pNQ1hYNDdyZGIyc3ZpaDl0UzlrMkxrWDNlYlg4eERKNG9oWUpUUHZnNWxBOGdSM2psWGxWYWZodnpWQWtWbG92OWh0M0Z0UWd3REJ3N1ZkUHpKMzJhb3g1SkYybU5UbnJKNGdUTG5yaWNISTh4dHZQSlFEMS1qc3VYV0phYkhYYS0yV3dFa05yajlpN3JfcXhiTlk1b0VpYWE0VEcxdU1CTVpsSjFGVTJjOEpkNlVfNGN6WkZYcDdsM1V6MUhCYUduRmI3R3doVGVNV1o5WGZn?oc=5",
-      "d": 1794191280000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28964,10 +28956,20 @@
       "d": 1794239604000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@anyosonya",
+      "x": "Aku ga setuju proker rakus maupun alternatif yg kakak tawarkan (bagi2 protein). Hrsnya yg perlu dibenahi itu: 1. Kualitas SDM (pemerataan mutu & kualitas pendidikan, pemberian pela",
+      "u": "https://www.threads.com/@anyosonya/post/DfiE5fygZTd",
+      "d": 1794252294000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
