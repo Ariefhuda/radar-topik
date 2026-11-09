@@ -60,24 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8mfCxkYBU": 1792995045509,
-    "threads:DeGxqPpk856": 1792995045509,
-    "threads:De8lboPDku2": 1792995045509,
-    "threads:De8my3lEwoe": 1792995045509,
-    "threads:De8mt2Un3Tg": 1792995045509,
-    "threads:De8mRusjiz8": 1792995045509,
-    "threads:De8mG51k7XC": 1792995045509,
-    "threads:De8mGePks6a": 1792995045509,
-    "threads:De8mAFgjp_m": 1792995045509,
-    "threads:De8lz0WE643": 1792995045509,
-    "threads:De8loTPozsL": 1792995045509,
-    "threads:De8mBk5GJ2p": 1792995045509,
-    "threads:De8mHbpE4Si": 1792995045509,
-    "threads:De8mlADgfzc": 1792995045509,
-    "threads:De8metKkujg": 1792995045509,
-    "threads:De8l6BbCbF8": 1792995045509,
-    "threads:De8mDDHk8Y6": 1792995045509,
-    "news:CBMitAFBVV95cUxPQzBoMzdvd05XTHVmY1dXcGVScnlWNk0tYnR4X1JhRFc3eVdVMkhhSFAxNXdqSXpkOW1HNXRIWGZjenlWR2lvajkzVjZqVkdaZzNKbDJpWnNtemR5ZWVRWkc2ZjZoQlVZeTVDUDF1S0VxOFJUei1wQzdteFdMRVZLXzg0MmQ4MFp0UG1vTkVueXhyUHNsOTllZFVVbjVFUnhHSW5mclNzbGJUYlBrbHBEY0RvOFnSAboBQVVfeXFMTVJkOHJKb0l3dEtHRlFWX1hkZEFBbFFJdW1ReExpcVlaMHVpV0Q0eWt2NnctVVhwSmZhaWIwV3h0SGk3M2ZfYlplZmZyTGYtX2V2eTVleUdHTzFvOWgzZ0ZHdDF5WGVpMWNYenVaMWRvV0o1eDFtclBtMmVSb0hiblNCSWRuWDVjSkZJQ0JfV3Bvei1WYmlFNGxweDZzOHBFQ1VSajN0VHBiZlpGdnlwYzFvUndWYlRIX05B": 1792995045509,
     "threads:DeVuJWljzgf": 1792995341215,
     "threads:De8nTB7jmHA": 1792995341215,
     "threads:De8nJRtnLm2": 1792995341215,
@@ -27723,39 +27705,13 @@
     "news:CBMivAFBVV95cUxPcDBMZGNfN0lCbW9uYjBHNFo5RkNRNzgwbGdEaFlzLUhkekxnOU5JQU5FODl3RVRBd012c25YSXdCNTdhYUhGWG0wX2NiTTRKeXhqY3d0cDdGdmhPTFFkc3lVVmVmREhMcnBUdnlBaENkTjM4NmlBcjRwc3llQ1lRZ0VlVnNPS3M2ckkydWNMeG9mZmlyZGJVeUxXM3pSM1pwS2syczUxeFVxZWFoRG9yMmt0VkJfenNqOGFXbg": 1794204337864,
     "news:CBMivwFBVV95cUxQT2lVMmg1SmlCc0gxMGk5aDJaUExCYVdDdXlDSEMtR3BkRXJCUHNMOTNNRmdFdlZyQ2lFRzcxeVVvZmtkSTF3eFdrQmVDdmZHUDU4QjZaRVhrNVZhdl94YUVqM2NqdXVZQTluMUxiTVhBQjBONUdRUFk2elBNWjJYYzBGMUNkM1JkWVk0d0IxMFBmOHhTeGo2XzZOdlM1MkVVTUl1TU9CaTIya2VqSnNzRjYtRUdWQ1JrNHRlNWtEQQ": 1794204337864,
     "news:CBMipwFBVV95cUxPeF82Z2RrX3BNc1l0WXRMVHM3OFdSTVdyQWFwX2NjZHdRWUdZaUhwbkpUaDE1aV9RMDMwOXY1eWZnXzdPU3Y5aUx0YVFaVktEWVpMeVF3REd3UmVoRXg5V2Jwak8ya0ZBYzV4XzJsam1qTjVOQ1hPbkZtaHpXUURVT01pY2ZIRnphejZINEh6WFdWYWhWejZZcUNGcmR0YXEyTm5walZMMNIBrAFBVV95cUxQaEE5QXpkcUxEaG5HS1Blb0M3dGt0eVBVNnJsc3pIOVZCbGYzVjdjcFJ4YThhSXQxajFLRTlmeHFudUE5Qk1ZNEI3MnRwRTNTRlQ3X19EQXRYdllOd2w4X3I1RkFabDhkcHQ3NWVEajE3YmZ5WjVONGxyMmZQVVFTWnE1WHVUdmtzMmNBeklLNFVBLWZySW53ZEFQSnIwOUVFMFN5eFBJOHlmYkFz": 1794204337864,
-    "news:CBMisgFBVV95cUxPc21FZVp4RmFaSkhLUkVxc1RjZTFKa2FZcDh3MjBadDQzMkFITHl5VmQ4R3RvdXVtR21zeDhWTmpITUhxM3dpQ1VVRHRkVWJ4U2NkZGxac1JMaVRXc2NPMEVuTzBoMmgyY2JEdE9CblFwbzU3b2xaUDNnU3BibkZqUDNURkljTEpVeFFIUGVjSjk5azNBUzFNcU9nZUV4eUx6dDRDMHB0OTNZLTFhUi13ZXJ30gG3AUFVX3lxTFBDc1I0VkxSZkNjc1dNajdDbEprWm91VVZqVGFKSVEzaWgtTDBXbTBIdUlSMm5vTHA3TEdDejdnUmhWOTJ2R2tta3IxWk9JenQ4ZWtSRGtfTkRiSEdyOWhTRGdWcUxjWTlVTjFBQVBDc0Z1dnhfa21jbnZKQkljRG9WSXpXeF9ZTE8yMEtxNE5tbm5nS1NMWTdqYzBNaVhGTjUyNGdkdWVGT0tWbE1pYWVZS0pYMmdQZw": 1794204337864
+    "news:CBMisgFBVV95cUxPc21FZVp4RmFaSkhLUkVxc1RjZTFKa2FZcDh3MjBadDQzMkFITHl5VmQ4R3RvdXVtR21zeDhWTmpITUhxM3dpQ1VVRHRkVWJ4U2NkZGxac1JMaVRXc2NPMEVuTzBoMmgyY2JEdE9CblFwbzU3b2xaUDNnU3BibkZqUDNURkljTEpVeFFIUGVjSjk5azNBUzFNcU9nZUV4eUx6dDRDMHB0OTNZLTFhUi13ZXJ30gG3AUFVX3lxTFBDc1I0VkxSZkNjc1dNajdDbEprWm91VVZqVGFKSVEzaWgtTDBXbTBIdUlSMm5vTHA3TEdDejdnUmhWOTJ2R2tta3IxWk9JenQ4ZWtSRGtfTkRiSEdyOWhTRGdWcUxjWTlVTjFBQVBDc0Z1dnhfa21jbnZKQkljRG9WSXpXeF9ZTE8yMEtxNE5tbm5nS1NMWTdqYzBNaVhGTjUyNGdkdWVGT0tWbE1pYWVZS0pYMmdQZw": 1794204337864,
+    "news:CBMiqwFBVV95cUxQOG5CNk5Uam1CRHEwVjJ4UXRhR1VOZk9Pa2pjZkdyUTB6cHR2VldIdm9qckxQSVFObEw5blV5VERwUWRPZ1ZIZEFGRmp5eG5URkMwRDBhWjkyRlBZenRFU0dGZVlYVUlrMmV6VzRFSkxIZGNlT1NjR05ueGxXbTNzeTN1bzJ5ZGxud3VpbWZ3WDJwU0xteEdVSjhJbGloNkFKZkVDQ0FkRG9TY2s": 1794204646402,
+    "news:CBMimwFBVV95cUxOdy10Qjc3cFd6c0hWYXRZYTBGdlNhUDNPSXNCcVB5Z1pWcEZuYmdCOVppbjJQU2g0YUI2WVlCTUtNbk1yenJqVDB1Uk92TGdodkR2OE1udW5Rak9NSGxHSGFaOEJPMjJlN1R2ekZiN3R3OUJxNmRqTzkzMDF6VGY0T3pQbnk5aFhjc3BkNm5ERzZVNEN2dy00NEc4MA": 1794204646402,
+    "news:CBMizgFBVV95cUxNLWJobmU1YXA1cmpZUzFXdHh6NXFOeU5KOU52TTg1OW9jdHBuSnRSV3hQMlBjckpiSEJUWjJMLUVOSzdKUXRLOXBfSTNrdVNKM2VaSTIxZ052QjZIS3loSmh5dmRFc3NQS2NYWERTNnl2TEpHdlR5WTBQZ3ZxTE5wLU9oYmMxSkhkbHFUczR2d3FQclAxQkFZNkdLN1dtZG85SklvVU9aa19GTEY4MndUUmdjTWd1bjM3elkxMzJTaWpPajJKVzh4UmpUV3dQZ9IB0wFBVV95cUxNaDkwNW9LbGd0STQwVERnRFhiN2daZmRPcGEtdDRRVEp1LXNKSkZwajFjOTN6REtiUmg3ZVI3NG5OVnpiTE1US0FZOGtyOEY2OUxLeUptaHZ3WndjRDB1X3RDZUVvS2s3dGhnOU5aTjhmQnZQVFFkNmxJZm56ZWlxd0ZiYzNyREpYVEluSjlKSzV3dnRjYkg3cFY2M2YwcnVVRWEzTThtSEtXdE5oZzQ2MW0xVEhZOHJ5RzJzdjFITS00V1JaTkluYjNjT1RLOXJkVDQ0": 1794204646402,
+    "news:CBMinwFBVV95cUxOUVhBVjh4ZlV4WGF2TTBGamtIbGQwVTdnVlkxRjd6RXFVaWVsOTNFblIxc25MUy1BSktkMkx4Y05XNWVraTZrQUhkaUdRTnhsSGpMTXVZLVp2MWlRN1FvZlJodEN3ek5NNHZaUnZTOENfSGdMemJobXcyQnZzZ3FLalVPVWlUM0xrMEEzakJRT2lsTmxQTFIwTUFxQnZjbDQ": 1794204646402
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dausevolusi",
-      "x": "Sy belajar Digital Marketing di platform ini kk👇 https://member.mahirdigital.id/lp?aff=firdaj32&i=1 Klo mau ikut webinar GRATIS nya jg ada kk. Ini linknya. 👇",
-      "u": "https://www.threads.com/@dausevolusi/post/DfgWE3_kzBs",
-      "d": 1794194191000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dausevolusi",
-      "x": "Sy belajar Digital Marketing di platform ini kk👇 https://member.mahirdigital.id/lp?aff=firdaj32&i=1 Klo mau ikut webinar GRATIS nya jg ada kk. Ini linknya. 👇",
-      "u": "https://www.threads.com/@dausevolusi/post/DfgWBvrk0Nk",
-      "d": 1794194165000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak, kalau masih pemula mau bisnis online engga masalah. Kalau terkait followers, mungkin kk mau coba affiliate kali ya? Menurut ku ada banyak jenis affiliate yg ga harus mengg",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfgV8vdj-_n",
-      "d": 1794194124000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29225,16 +29181,46 @@
       "d": 1794201543000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "BeritaBeta",
+      "x": "Warga Bangka Tengah Akui Dipermudah Urus Sertipikat Lewat Program PTSL - BeritaBeta",
+      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdy10Qjc3cFd6c0hWYXRZYTBGdlNhUDNPSXNCcVB5Z1pWcEZuYmdCOVppbjJQU2g0YUI2WVlCTUtNbk1yenJqVDB1Uk92TGdodkR2OE1udW5Rak9NSGxHSGFaOEJPMjJlN1R2ekZiN3R3OUJxNmRqTzkzMDF6VGY0T3pQbnk5aFhjc3BkNm5ERzZVNEN2dy00NEc4MA?oc=5",
+      "d": 1794204605000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Radar Bojonegoro",
+      "x": "Pendaftar Terganjal Desil, 107 Kuota Beasiswa Blora Berprestasi Tak Terserap - Radar Bojonegoro",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWJobmU1YXA1cmpZUzFXdHh6NXFOeU5KOU52TTg1OW9jdHBuSnRSV3hQMlBjckpiSEJUWjJMLUVOSzdKUXRLOXBfSTNrdVNKM2VaSTIxZ052QjZIS3loSmh5dmRFc3NQS2NYWERTNnl2TEpHdlR5WTBQZ3ZxTE5wLU9oYmMxSkhkbHFUczR2d3FQclAxQkFZNkdLN1dtZG85SklvVU9aa19GTEY4MndUUmdjTWd1bjM3elkxMzJTaWpPajJKVzh4UmpUV3dQZ9IB0wFBVV95cUxNaDkwNW9LbGd0STQwVERnRFhiN2daZmRPcGEtdDRRVEp1LXNKSkZwajFjOTN6REtiUmg3ZVI3NG5OVnpiTE1US0FZOGtyOEY2OUxLeUptaHZ3WndjRDB1X3RDZUVvS2s3dGhnOU5aTjhmQnZQVFFkNmxJZm56ZWlxd0ZiYzNyREpYVEluSjlKSzV3dnRjYkg3cFY2M2YwcnVVRWEzTThtSEtXdE5oZzQ2MW0xVEhZOHJ5RzJzdjFITS00V1JaTkluYjNjT1RLOXJkVDQ0?oc=5",
+      "d": 1794183308000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "JournalArta",
+      "x": "Cara Lapor Bansos Salah Sasaran lewat Aplikasi Cek Bansos - JournalArta",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVhBVjh4ZlV4WGF2TTBGamtIbGQwVTdnVlkxRjd6RXFVaWVsOTNFblIxc25MUy1BSktkMkx4Y05XNWVraTZrQUhkaUdRTnhsSGpMTXVZLVp2MWlRN1FvZlJodEN3ek5NNHZaUnZTOENfSGdMemJobXcyQnZzZ3FLalVPVWlUM0xrMEEzakJRT2lsTmxQTFIwTUFxQnZjbDQ?oc=5",
+      "d": 1794201540000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794182742548
+    "reddit": 1794204646402
   }
 }
