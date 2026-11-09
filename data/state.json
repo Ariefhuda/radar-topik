@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-Jeqzka_r": 1793046941285,
-    "threads:De-JenykXDf": 1793046941285,
-    "news:CBMizgFBVV95cUxOR0FYS3lCRmpPSlFqSTRQYzFYOV9ZX2dqaXRTTWZvbW9fakt5VkdYX2g5ZC1ZUXAzdGRaMTlSZDdXMjgxWWpVaUdXSWFrNDlWZjdRUUxPb0p6SHEzWG0wcWdfazhNa1JOVnZSQjUtR21kcDVhSHJYM1VVX0tIdmNoaFgzY3JuaWdndlA2S1RmbTA0R2lBeXBuZkU1VEZfNW1ZZklQNjYxWWZKNDhBc2lzVXU4amZZdW9iQm1OU05ES0dqb1U1V2ZvUmFTYXpTd9IBzgFBVV95cUxOR0FYS3lCRmpPSlFqSTRQYzFYOV9ZX2dqaXRTTWZvbW9fakt5VkdYX2g5ZC1ZUXAzdGRaMTlSZDdXMjgxWWpVaUdXSWFrNDlWZjdRUUxPb0p6SHEzWG0wcWdfazhNa1JOVnZSQjUtR21kcDVhSHJYM1VVX0tIdmNoaFgzY3JuaWdndlA2S1RmbTA0R2lBeXBuZkU1VEZfNW1ZZklQNjYxWWZKNDhBc2lzVXU4amZZdW9iQm1OU05ES0dqb1U1V2ZvUmFTYXpTdw": 1793046941285,
     "threads:DQops8okg3i": 1793048141516,
     "threads:De-NX7-CH83": 1793048775478,
     "threads:De-M9XBGRSz": 1793048775478,
@@ -27443,19 +27440,13 @@
     "threads:DfiKuP2n1eK": 1794255647694,
     "news:CBMid0FVX3lxTE9UTXdLWkNLZmhJd2o5Y19pdWNTc0Q4cUNhTEZtNE1jNXVJSE5RQmxNeVpIRHR4UmgtclhHeWlfbmRVX0llTGJFN2ZERmF0Mm1WYW8wY2RvcFIxTnhsbUxLUTM3YW5taEJiNzJDR2FJeF9ITThOMmgw": 1794255938644,
     "threads:DfiMXNlFPIB": 1794256249781,
-    "news:CBMipgFBVV95cUxONEhmRHNzZGlEeVVUbWxOZF9lb0VOQU5aQUFIM1ZVMlVjVnNBMXVKZGtwTzgyM3hkRnloUFYxb0Yza2psSjhianpfSnllMnRZNGp4aHBxMWZ2dGE1Q1U1VXluUkUzNWtSU3BOVllXeDdhRnVpVkdOcnAzUE91a2dFSXZVWjNJUnd0clNJRnl2ZFlObTNHZlRPbEp1N2c2ci1Jd2hYdjdn": 1794256249781
+    "news:CBMipgFBVV95cUxONEhmRHNzZGlEeVVUbWxOZF9lb0VOQU5aQUFIM1ZVMlVjVnNBMXVKZGtwTzgyM3hkRnloUFYxb0Yza2psSjhianpfSnllMnRZNGp4aHBxMWZ2dGE1Q1U1VXluUkUzNWtSU3BOVllXeDdhRnVpVkdOcnAzUE91a2dFSXZVWjNJUnd0clNJRnl2ZFlObTNHZlRPbEp1N2c2ci1Jd2hYdjdn": 1794256249781,
+    "threads:DfiNHf2gcC0": 1794256705841,
+    "threads:DfiM3bpnOp6": 1794256705841,
+    "threads:DaafH1Yiitu": 1794256705841,
+    "threads:DfiMWfDEsIk": 1794256705841
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, bisa coba bisnis online. Bisa dikerjakan dr rumah, dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online yang nantinya bisa dimanfaatkan unt",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfhbAPrj3zR",
-      "d": 1794230329000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28945,10 +28936,20 @@
       "d": 1794255720000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hatfinadini",
+      "x": "Halo, Kak, saya dari komunitas Temu Tumbuh by ALEPS, kami punya program webinar gratis tentang parenting/anak setiap bulannya. Kami berencana mengadakan webinar kesehatan anak. Sem",
+      "u": "https://www.threads.com/@hatfinadini/post/DfiMWfDEsIk",
+      "d": 1794256201000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
