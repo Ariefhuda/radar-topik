@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De9w3A_jN9n": 1793033746040,
-    "threads:De9wkZFjAUH": 1793033746040,
-    "threads:De9wfR6knBc": 1793033746040,
-    "threads:De9wN7Iiesn": 1793033746040,
     "threads:De9yHVVmkmW": 1793034891933,
     "threads:De9xAUjjS3s": 1793034891933,
     "threads:De9wq_xjwG7": 1793034891933,
@@ -27525,29 +27521,12 @@
     "threads:DfhyIculgJX": 1794243043619,
     "threads:DfhnGVcGIjz": 1794243043619,
     "threads:DfhzZqVH5MO": 1794243043619,
-    "threads:DfhzYurn8gN": 1794243043619
+    "threads:DfhzYurn8gN": 1794243043619,
+    "threads:Dfhz1JCj7rm": 1794243338227,
+    "threads:DeEXtHEk4aM": 1794243338227,
+    "news:CBMivgFBVV95cUxQYTZxaGJITXhzaGFRWXN0S0JRSVVTS0ZUV3U0Zi16eVdqNDBtM3VZdGJ6Q1dnZDZ0U2o3TktzSkl3MjlFWVRHcC0tUXBITzBON1ZjcjU3VVd1MXA5amxraWwzbV9MZHF3Wm15c1c0Nlprb28za0ZpbkNUUk5jTjhjcEU1eXJuTTA4WllGT29QYWI3RUNXMm5kVUtFenpRNFdiaGp6SFNleU9QSGwtRE00UlNPbnJVaFFnZzNSSnd3": 1794243338227
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mohammedrezafahlefi",
-      "x": "Yang di postingan kemaren sudah komen mau ikut kelas online gratis sebanyak 10x pertemuan, nanti saya dm satu-satu. Insyaallah awal Desember kita mulai. Barakallahu fiikum",
-      "u": "https://www.threads.com/@mohammedrezafahlefi/post/DfhWkjlGRMy",
-      "d": 1794228005000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tw.yer",
-      "x": "kelas gratis apa ka",
-      "u": "https://www.threads.com/@tw.yer/post/DfhXbpXEvr7",
-      "d": 1794228456000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -29027,10 +29006,30 @@
       "d": 1794243112000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@bocoranbeasiswa",
+      "x": "📌 Kategori Publikasi Ilmiah (APC): Jurnal Sinta 3: Maksimal Rp1.000.000 Jurnal Sinta 2: Maksimal Rp3.000.000 Jurnal Sinta 1: Maksimal Rp5.000.000 Jurnal Internasional bereputasi: ",
+      "u": "https://www.threads.com/@bocoranbeasiswa/post/Dfhz1JCj7rm",
+      "d": 1794243345000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Link dan Cara Cek Nama Penerima Bansos Kemensos Tahap 4 2026, Ada PKH hingga PIP - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYTZxaGJITXhzaGFRWXN0S0JRSVVTS0ZUV3U0Zi16eVdqNDBtM3VZdGJ6Q1dnZDZ0U2o3TktzSkl3MjlFWVRHcC0tUXBITzBON1ZjcjU3VVd1MXA5amxraWwzbV9MZHF3Wm15c1c0Nlprb28za0ZpbkNUUk5jTjhjcEU1eXJuTTA4WllGT29QYWI3RUNXMm5kVUtFenpRNFdiaGp6SFNleU9QSGwtRE00UlNPbnJVaFFnZzNSSnd3?oc=5",
+      "d": 1794243145000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
