@@ -27486,7 +27486,9 @@
     "news:CBMimAFBVV95cUxOd2JLZHZJVXgyLUZfa21Sdy11d2FvNW1BSlVaSmQ4MXhYNHhKazNPLWhHWHVSakNraHA1QXlDQko2VzE5ZmpfSzVlQlZtZ0lxczVNU240MmxYRjBhMzlydV9iZ0d6UWVCWk5JVWFKYzJ5U3BYWVk3Zy1MYllTNTBtZXZmVFJYTTFhTUZfbWUwQlBmWjYzci0tRQ": 1794237651039,
     "news:CBMiU0FVX3lxTFBqdDM2dlZIUzQySmY0VjJXemFzUXhHR251eS0xeXdEZ29UNkdvV0tULWdFQ09IMm1jSDVxNmlnVFpGSjU2aDk3WUdMcDdXR2ZyNVBz": 1794238244272,
     "news:CBMiswFBVV95cUxNTDhRLWFqZmswMmFpWVQ3NFNoMk1rR0dIS19DVUpMQjBDQ0h2ajM5Vnl2blBJa3g2SlZoZW9CTmZxcldQZzh4RDViOUZSZzJpS2VEVDNxVEtoTlV3RG1Jd0pBMnR3V3BOaDBvLTlac2VaMmxtSGdrMGpkejZ3LXpybnExNjh2SVh5amxNZjMzYTBURXg0TkowaXRIc3R0NnBmYlFxWFZ3MklpWThtMHNpYnJETQ": 1794238244272,
-    "news:CBMitwFBVV95cUxOdVgyeGRwaXREMEVCTWhLTGVmRlVoVTMzTUZ3MEZkQzd3NkJsdng2MDdFRHktNk1pR0N3LTZaRmpidjVGdE9TeVVRTnRxdmplLUUtaGpDaUlSUk96Nno3Y3hUdkNhOFBRMnViLWI0cUhWYVlJUWNlSmd0a1IyekJCSkl1VG9nbUVHUXZBZkM4UV9CcGdnWWlFRGFITnkyd19saFc3LTEzNWtaRjFQdjJjc201R0x0UUk": 1794238556695
+    "news:CBMitwFBVV95cUxOdVgyeGRwaXREMEVCTWhLTGVmRlVoVTMzTUZ3MEZkQzd3NkJsdng2MDdFRHktNk1pR0N3LTZaRmpidjVGdE9TeVVRTnRxdmplLUUtaGpDaUlSUk96Nno3Y3hUdkNhOFBRMnViLWI0cUhWYVlJUWNlSmd0a1IyekJCSkl1VG9nbUVHUXZBZkM4UV9CcGdnWWlFRGFITnkyd19saFc3LTEzNWtaRjFQdjJjc201R0x0UUk": 1794238556695,
+    "news:CBMikAFBVV95cUxQTWh5cHlLLWE1d0tzSDJIWHhoMjZPeGRyTTFna1V3V2Z4ekM3eWxVbkVacFktY3JmOEwzekZCa0Q3Z2R2Q0Y3LXVIa2dtY01Mdy15VW9FRzFpd002TjJnbFdzMHFyWWZjYmxJMjk4TFdCLXpqeHp4MWZXOWF4SUFwQ0pWR09nNGoxTVhWMzM5Zmw": 1794239455375,
+    "news:CBMi_wFBVV95cUxQX2RYblJSbzRDWERRNWZ6U3Yxb2tpWjhhdkxRN3NlN2tfNXA5dmdMY0xTZ0QwVUpPYWhDRldzTVJERXhvcWZQRkRyTEl3bFpNOVJwZUU3cTlNQmJOMzI3elR3MHF2c09OSlZrRG1KZThSWnBwOEV2QUNxTlV5WUhjR2dVM3c2VWVmOXdoYnMzVmt4cnllcExYanVraGVlcF81TzBIM2RLUlVzYVdqc3Ryd2Z2V2dVTU1WY2NmQm0tMi11a2MybmNsajIwSFY4YnJkSHNuM1drbGJqVHNCdlpSV2dkeDI0VWtvT1JqWFo4a3pUWDQ2QmhjbFlRLWdnS1HSAf8BQVVfeXFMUF9kWG5SUm80Q1hEUTVmelN2MW9raVo4YXZMUTdzZTdrXzVwOXZnTGNMU2dEMFVKT2FoQ0ZXc01SREV4b3FmUEZEckxJd2xaTTlScGVFN3E5TUJiTjMyN3pUdzBxdnNPTkpWa0RtSmU4UlpwcDhFdkFDcU5VeVlIY0dnVTN3NlVlZjl3aGJzM1ZreHJ5ZXBMWGp1a2hlZXBfNU8wSDNkS1JVc2FXanN0cndmdldnVU1NVmNjZkJtLTItdWtjMm5jbGoyMEhWOGJyZEhzbjNXa2xialRzQnZaUldnZHgyNFVrb09SalhaOGt6VFg0NkJoY2xZUS1nZ0tR": 1794239455375
   },
   "digest": [
     {
@@ -28828,10 +28830,30 @@
       "d": 1794194966000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Malang Pariwara",
+      "x": "Sri Andayani Rasakan Manfaat Koperasi SBW Malang, dari Modal Usaha hingga Pelatihan Gratis - Malang Pariwara",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWh5cHlLLWE1d0tzSDJIWHhoMjZPeGRyTTFna1V3V2Z4ekM3eWxVbkVacFktY3JmOEwzekZCa0Q3Z2R2Q0Y3LXVIa2dtY01Mdy15VW9FRzFpd002TjJnbFdzMHFyWWZjYmxJMjk4TFdCLXpqeHp4MWZXOWF4SUFwQ0pWR09nNGoxTVhWMzM5Zmw?oc=5",
+      "d": 1794239014000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Suara Merdeka",
+      "x": "Baru 200 Ribu UMKM Jateng Bersertifikat Halal, Pemprov Perkuat Pendampingan dan Dorong Perluasan Sertifikasi Halal - Suara Merdeka Wawasan - Suara Merdeka",
+      "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQX2RYblJSbzRDWERRNWZ6U3Yxb2tpWjhhdkxRN3NlN2tfNXA5dmdMY0xTZ0QwVUpPYWhDRldzTVJERXhvcWZQRkRyTEl3bFpNOVJwZUU3cTlNQmJOMzI3elR3MHF2c09OSlZrRG1KZThSWnBwOEV2QUNxTlV5WUhjR2dVM3c2VWVmOXdoYnMzVmt4cnllcExYanVraGVlcF81TzBIM2RLUlVzYVdqc3Ryd2Z2V2dVTU1WY2NmQm0tMi11a2MybmNsajIwSFY4YnJkSHNuM1drbGJqVHNCdlpSV2dkeDI0VWtvT1JqWFo4a3pUWDQ2QmhjbFlRLWdnS1HSAf8BQVVfeXFMUF9kWG5SUm80Q1hEUTVmelN2MW9raVo4YXZMUTdzZTdrXzVwOXZnTGNMU2dEMFVKT2FoQ0ZXc01SREV4b3FmUEZEckxJd2xaTTlScGVFN3E5TUJiTjMyN3pUdzBxdnNPTkpWa0RtSmU4UlpwcDhFdkFDcU5VeVlIY0dnVTN3NlVlZjl3aGJzM1ZreHJ5ZXBMWGp1a2hlZXBfNU8wSDNkS1JVc2FXanN0cndmdldnVU1NVmNjZkJtLTItdWtjMm5jbGoyMEhWOGJyZEhzbjNXa2xialRzQnZaUldnZHgyNFVrb09SalhaOGt6VFg0NkJoY2xZUS1nZ0tR?oc=5",
+      "d": 1794235200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
