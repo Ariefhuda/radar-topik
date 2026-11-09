@@ -27645,7 +27645,9 @@
     "threads:DZHRyYkFIo8": 1794188740841,
     "threads:DfgLj8CDC0k": 1794188740841,
     "threads:DfgLvAkAYrw": 1794188740841,
-    "news:CBMiXEFVX3lxTE00ZFVSUE04ODNUcWZMQ1RnMVZ6bTRDakQwM3hpZ1dBZFhDTWVNYzg1anU1UWVteDJkMnd1UGl6TzdaS0F3aUlLR2xaZTVZQlhZTzFxNE9lbWEzVW91": 1794188740841
+    "news:CBMiXEFVX3lxTE00ZFVSUE04ODNUcWZMQ1RnMVZ6bTRDakQwM3hpZ1dBZFhDTWVNYzg1anU1UWVteDJkMnd1UGl6TzdaS0F3aUlLR2xaZTVZQlhZTzFxNE9lbWEzVW91": 1794188740841,
+    "threads:DfgLDSDieTr": 1794189043238,
+    "news:CBMiswFBVV95cUxQMExEUkc1THZlNmJORnpLUDBMN3RraEctUmlONUdwajlKbEE2Qmk0ZHVfSndZbVZsbElBcVBRejJGUGM5MXNDT1M4UXNtRUhYRWYtWmg5RUhHMkwxUVdveWVHUW43NlpDdWRBRnhmWkdPZ0R6UzUtQjRBV29vZHZsTTljS0tPUWViUFd1SFRITW95XzVnd01YcC1uN1paNEdaSWNFMk1LQTM0S29vNEZwTmRhc9IBuAFBVV95cUxNMERyelZvcjEyMFhoR1VrUndLMm5VSFZPcENWTmExZFV0bEZTS2ZQVUFGeVdEZTJMTHpmMkFpWVpKVlJLTjlPM05VZEg4bERFeTBzeGE3YTRtYUhwcWs4dWFrczNDNkRldEhOZFZzeWJTVHZUSTZGUjZiMFJoOUo2b0VlTjN1dWYyUjU3bnVsUFo0OXM3OWozbmhwbmlUTVdBazdpdEN5VlY1RzVPVjl5S09LcE45bWJ5": 1794189043238
   },
   "digest": [
     {
@@ -27787,10 +27789,30 @@
       "d": 1794188769000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@garapinajastore",
+      "x": "Bansos Pagi Tes ombak dulu king, bsk_live_1f6df8dbb17a073a8f2af43ad2c72ef38fa6 Base url : https://api.garapinaja.web.id/v1 Cek Kouta : https://router.garapinaja.web.id",
+      "u": "https://www.threads.com/@garapinajastore/post/DfgLDSDieTr",
+      "d": 1794188411000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "detikcom",
+      "x": "Warga Blokade Jalan di Kota Batu gegara Tak Ada Kejelasan Ganti Rugi - detikcom",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMExEUkc1THZlNmJORnpLUDBMN3RraEctUmlONUdwajlKbEE2Qmk0ZHVfSndZbVZsbElBcVBRejJGUGM5MXNDT1M4UXNtRUhYRWYtWmg5RUhHMkwxUVdveWVHUW43NlpDdWRBRnhmWkdPZ0R6UzUtQjRBV29vZHZsTTljS0tPUWViUFd1SFRITW95XzVnd01YcC1uN1paNEdaSWNFMk1LQTM0S29vNEZwTmRhc9IBuAFBVV95cUxNMERyelZvcjEyMFhoR1VrUndLMm5VSFZPcENWTmExZFV0bEZTS2ZQVUFGeVdEZTJMTHpmMkFpWVpKVlJLTjlPM05VZEg4bERFeTBzeGE3YTRtYUhwcWs4dWFrczNDNkRldEhOZFZzeWJTVHZUSTZGUjZiMFJoOUo2b0VlTjN1dWYyUjU3bnVsUFo0OXM3OWozbmhwbmlUTVdBazdpdEN5VlY1RzVPVjl5S09LcE45bWJ5?oc=5",
+      "d": 1794188459000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
