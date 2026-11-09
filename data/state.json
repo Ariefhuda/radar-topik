@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8NWcjkgq_": 1792981849956,
-    "threads:De8NM-EmYJn": 1792981849956,
-    "threads:De8MTGxn8Bq": 1792981849956,
-    "threads:De8Mn0bn7-N": 1792981849956,
-    "threads:De8M6VLI5pp": 1792981849956,
-    "threads:De8IFflE3Kk": 1792981849956,
-    "threads:DezYzbjmVVi": 1792981849956,
     "news:CBMidEFVX3lxTE9UcGhyVGVWbUhHT1MxekdCQ3ZrRUFzWVlpTFg2R0hMNTlPa2NvZG9neGdLbHQyNVRfRXBSMVpMZWJfeVpNb3lQdlRMM1NvQXkwdlpHQ29aZERmb0kzeVBNTFB1MXJtVFI0TzItcXgwelV3RFpw": 1792982139828,
     "news:CBMivgFBVV95cUxOdWQxSkVtVU1NVXp4VE9KbWpHSjVsMWV3QkxuWmp1bGwtQ043U1FBVmxDWmx6NUJGYUg4SF9BcnlBb0dCSjZfeG1YWEI3cUVIbjVTQ3UzMzZ4MVh5THp0X2NpLW92X0NVeXdfZkM2ajJWaUtMQlBIRGlJS3NST0ZDeGhUTjhYRy1XVDV5Vk1HclVkcW5kQnlWUFBHZHk0cWRfV2d4cGpjOXI1U0xObUtjRWZSZXNiUnlfX0RtY29n": 1792982139828,
     "threads:De8Oh75k7z8": 1792982444974,
@@ -27654,7 +27647,20 @@
     "threads:DfgPeK1HUe_": 1794191133461,
     "threads:DUjyqXkka_m": 1794191133461,
     "news:CBMipgFBVV95cUxPTHlGZnZUS1NteTVhd3N0Z09oaWpYS3JQNXhLNjI0S0RMRWJEaDJJQ2VtNkl4ejlwUnYxNTZDbEZlUGNYeW5QS0ZoUmZoWmtRSlJWakU2TDVRSEZ0T2NQWmFWQUdLNGFuWTgwSnZva1MyYjdubTdBaG9YMUdid0ZLclczLWV0cTdoTHg3UXU0VTRqZG1JWDQ4WVBQeFFaTmQtaEJuTWp3": 1794191133461,
-    "news:CBMiuAFBVV95cUxQVXJHWDk0b2NKdlR3SS0wMGpoZVhOaFZDaExBVXZoU1M3TnhLUTlyVHd6eUczX0RLZFdRVkxtb0UybTVURHJvNEpVTnY0enptR2Q5bVdib2pmSFFEUndyMlZVS1U0dDZtWmcxaVdQVXJCTnNtY2JEbURGa25fdWotb045cG9NdUtjaGhreE1FTFRqTmRYRFJKdjRLTzlxZmYtLWpKelp5bUNyeDI5QjgwRlFGOWJ0Szd2": 1794191133461
+    "news:CBMiuAFBVV95cUxQVXJHWDk0b2NKdlR3SS0wMGpoZVhOaFZDaExBVXZoU1M3TnhLUTlyVHd6eUczX0RLZFdRVkxtb0UybTVURHJvNEpVTnY0enptR2Q5bVdib2pmSFFEUndyMlZVS1U0dDZtWmcxaVdQVXJCTnNtY2JEbURGa25fdWotb045cG9NdUtjaGhreE1FTFRqTmRYRFJKdjRLTzlxZmYtLWpKelp5bUNyeDI5QjgwRlFGOWJ0Szd2": 1794191133461,
+    "threads:DdZLn_eCdgv": 1794191449117,
+    "threads:DK6sbkBJRQ5": 1794191449117,
+    "threads:DRgt6UGE_mE": 1794191449117,
+    "threads:DfgQBybkhOd": 1794191449117,
+    "threads:DfgQcLamsvr": 1794191449117,
+    "threads:DfgQnWRjRHL": 1794191449117,
+    "threads:DfgQh3MDrdA": 1794191449117,
+    "threads:DfgQUJyDHr0": 1794191449117,
+    "threads:DfgPtK5FqIS": 1794191449117,
+    "news:CBMimwFBVV95cUxQc2lkZnpoTkxJYTZTQ0Q0SkwybUJsWVlzWmxVMUpaQndNMDFSUGNFanhPc3c5OFlRcmFPeG5NZjJvQkMtaW1FVUlSRmxkRmtFMmZoYlVhdUQwMlNxQm5EUFJ2SlJiTVl3TlhFM0FnMmZUMVN3SVQ1Q3g4QlBTcnZGVzVGZTF0UmFtdmVKR3l6Mm1aaWhNeUpnX2xkTQ": 1794191449117,
+    "news:CBMiY0FVX3lxTE9PakRTcnlhcmRqYlFQVnlnbWtJYk9yczhPZWdpVXVKNVNzcFlOS3dISnVFSjJuVGJpdmdyY2lSVWlYTEFBaEpBNkVEYU5fZ2loYTZ5TTl4cE5taUdMN3A2YkV4VQ": 1794191449117,
+    "news:CBMixwFBVV95cUxQNk4xaDVlVDNJOGdtNTlKZWh0YkJzZkxtLUlLZnBWRTVTeVhJZVRZVjB2SFVhR0E2OE54aHZ4S0ozLTZvVWNmWVpmV3NubjVfcUJNTEFpNnhGbkc3RTQ2T1BhNFhoeE1sLVlEV0JIa09rVkZjOVY2RXVLMDJkUTVPbGV4RjZ2eGZxM2R2T0pNbVBJQldxcEFyMzNuMzd4UzRKWkJZN3I0MWg1LU9oOG1HVV9rVTN4S0JfejN0N19kNW85ZlROeldR": 1794191449117,
+    "news:CBMi3AFBVV95cUxNS2dMNEJYN3dyT2ZhaC1KVXRnaHhpbS1BNkFIaUhHUjVjekFCVDRfVlphZDNNZWxTeWVycV9zMDNjRkNmS09HLWc3X1dJTFIyWk82R1pWNXZibmtRXzY0bHFzN2NsYW0yVEZDN3hCTEs1Vm0wSDR5S1puTTlCV2JIWVkyWkRZMjhUTXRpLVVldHU1NmlCNldiQTU2Qi1VMFY2T0xPcVRXQVQ3WnpScXJxNHNlcWRYVUQyWEdOaEM2Qmx0dWpxNE9qSDRKcE01TlpQamJaaF9jazRMOTVi0gHcAUFVX3lxTE1LZ0w0Qlg3d3JPZmFoLUpVdGdoeGltLUE2QUhpSEdSNWN6QUJUNF9WWmFkM01lbFN5ZXJxX3MwM2NGQ2ZLT0ctZzdfV0lMUjJaTzZHWlY1dmJua1FfNjRscXM3Y2xhbTJURkM3eEJMSzVWbTBINHlLWm5NOUJXYkhZWTJaRFkyOFRNdGktVWV0dTU2aUI2V2JBNTZCLVUwVjZPTE9xVFdBVDdaelJxcnE0c2VxZFhVRDJYR05oQzZCbHR1anE0T2pINEpwTTVOWlBqYlpoX2NrNEw5NWI": 1794191449117
   },
   "digest": [
     {
@@ -28106,10 +28112,40 @@
       "d": 1794190714000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Eropa Tidak Wajibkan Publikasi Scopus untuk Pendaftar PhD - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PakRTcnlhcmRqYlFQVnlnbWtJYk9yczhPZWdpVXVKNVNzcFlOS3dISnVFSjJuVGJpdmdyY2lSVWlYTEFBaEpBNkVEYU5fZ2loYTZ5TTl4cE5taUdMN3A2YkV4VQ?oc=5",
+      "d": 1794135917000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Cara Mudah Cek Penerima Bansos PKH, BPNT dari Handphone, Disalurkan hingga Desember 2026 - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk4xaDVlVDNJOGdtNTlKZWh0YkJzZkxtLUlLZnBWRTVTeVhJZVRZVjB2SFVhR0E2OE54aHZ4S0ozLTZvVWNmWVpmV3NubjVfcUJNTEFpNnhGbkc3RTQ2T1BhNFhoeE1sLVlEV0JIa09rVkZjOVY2RXVLMDJkUTVPbGV4RjZ2eGZxM2R2T0pNbVBJQldxcEFyMzNuMzd4UzRKWkJZN3I0MWg1LU9oOG1HVV9rVTN4S0JfejN0N19kNW85ZlROeldR?oc=5",
+      "d": 1794190903000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Tulungagung",
+      "x": "Cara Cek Penerima Bansos 2026 Pakai KTP di HP, Bisa Lewat Situs dan Aplikasi Kemensos - Radar Tulungagung",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2dMNEJYN3dyT2ZhaC1KVXRnaHhpbS1BNkFIaUhHUjVjekFCVDRfVlphZDNNZWxTeWVycV9zMDNjRkNmS09HLWc3X1dJTFIyWk82R1pWNXZibmtRXzY0bHFzN2NsYW0yVEZDN3hCTEs1Vm0wSDR5S1puTTlCV2JIWVkyWkRZMjhUTXRpLVVldHU1NmlCNldiQTU2Qi1VMFY2T0xPcVRXQVQ3WnpScXJxNHNlcWRYVUQyWEdOaEM2Qmx0dWpxNE9qSDRKcE01TlpQamJaaF9jazRMOTVi0gHcAUFVX3lxTE1LZ0w0Qlg3d3JPZmFoLUpVdGdoeGltLUE2QUhpSEdSNWN6QUJUNF9WWmFkM01lbFN5ZXJxX3MwM2NGQ2ZLT0ctZzdfV0lMUjJaTzZHWlY1dmJua1FfNjRscXM3Y2xhbTJURkM3eEJMSzVWbTBINHlLWm5NOUJXYkhZWTJaRFkyOFRNdGktVWV0dTU2aUI2V2JBNTZCLVUwVjZPTE9xVFdBVDdaelJxcnE0c2VxZFhVRDJYR05oQzZCbHR1anE0T2pINEpwTTVOWlBqYlpoX2NrNEw5NWI?oc=5",
+      "d": 1794124056000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
