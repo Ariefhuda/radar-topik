@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De81ydGGQ-F": 1793003139950,
-    "threads:De81yP0kSJy": 1793003139950,
-    "threads:De81vjlleqG": 1793003139950,
-    "threads:De800E1CJlW": 1793003139950,
-    "threads:De81g8DG3bU": 1793003139950,
-    "news:CBMinwFBVV95cUxPZ3NPcnlVMnlFZGpkMFhGLU5GYU5iUU8zVVM0bFRWejBvTDA2QkU1aXFnVWlpV2lLUWhaZTZjbkZ3ZVN0NXI5bFluREtWNWN6dVFoTG9OUDhHdXQxQXFmZE90OFI1TXhOWFU2NVM4SDUxMVhnWTNLd19VX1Y1VUJDVUVqdUpHZmVzTDd3LVRMWE5uVERtQzVsMl9NODR6cWs": 1793003139950,
-    "news:CBMiwAFBVV95cUxPcWFqeDZfRGpMRlBGUVhKZWgtUWNMOFRrWXZlaGJLVkNyMVFWTTVrcU9fbFN0amtwTGR5UEFUOFJHcnZZZ3FUQW44dUcxUHQ5dFZQUzB1WTFCdWNBeTlWTGZHbVQxSXBnMFpJRmV4OEdNbUtmTnpwN0w2OWNNN2hQaXBuaW5MRmFoNktwUnBsZ280MzRlOGNKTDZKc2E3amxPc3FuYm1BV3lLRmxGSEVteVd6RDR0b3BIeXpVLTJrcVbSAcYBQVVfeXFMTzRZOVptVDVzREYyX2YzXzFHVGE4eW5RUWdyNXd2amJoZkZrLVJZT19aOVhfSHRjSVZ0Y1N0OXJYdHRic3hrZ29RNlhZMjZXbnFaVVJRZ0xpcWotOFJSTmF6ZjNyRXcxVFZ3VkxBNG00TXAwRlIyTDhYcFNTNGh4cG9scXRaeTBHTXpoX1BSZEZzcFNNV29UN2NaZmN1UzhDeFJ2QzlMRVFLQ2doRzV3ZTRoOFlyT1JqZ3EtT3ZVT3oyTXdtLUR3": 1793003139950,
     "threads:De81zEfCUe3": 1793003447589,
     "threads:De82610DSjE": 1793003447589,
     "threads:De82UTkjqOm": 1793003447589,
@@ -27633,149 +27626,25 @@
     "threads:Dfg4W16mTcV": 1794212445187,
     "threads:Dfg4EmfAI4D": 1794212445187,
     "threads:Dfg2UESGc4m": 1794212445187,
-    "news:CBMi0AFBVV95cUxNQjJnTG9qR1JpWkhwNHhrTktScFJtN19QbTFCTUc2OHF5blJ0SFJNQTBZcEpPSUVkOXJmZkNBMUtCY0NBU3pVNjlLS1Z3QXFfTzlqd2NnX0c2LXZsWjNybVdrbEdPM3hLZ1M0SjlMOElTWlczdkVoNUF3eklvM2hweTBVZFJaVzI1WmNFVEEyNWVnZVVLbVBDZUYyYkp4azdubk9GNXdfNFZoWlJQTzRCY0R0alVTd3dlTmNFYXp5TFlKbGwxS0Zrb3ppTmZwZW55": 1794212445187
+    "news:CBMi0AFBVV95cUxNQjJnTG9qR1JpWkhwNHhrTktScFJtN19QbTFCTUc2OHF5blJ0SFJNQTBZcEpPSUVkOXJmZkNBMUtCY0NBU3pVNjlLS1Z3QXFfTzlqd2NnX0c2LXZsWjNybVdrbEdPM3hLZ1M0SjlMOElTWlczdkVoNUF3eklvM2hweTBVZFJaVzI1WmNFVEEyNWVnZVVLbVBDZUYyYkp4azdubk9GNXdfNFZoWlJQTzRCY0R0alVTd3dlTmNFYXp5TFlKbGwxS0Zrb3ppTmZwZW55": 1794212445187,
+    "threads:Dfg5MqIiKXr": 1794212739428,
+    "threads:Dfg4IllFh7z": 1794212739428,
+    "threads:Dfg5c5YD2V9": 1794212739428,
+    "threads:Dfg5X_WD9G1": 1794212739428,
+    "threads:Dfg5VI4D6RG": 1794212739428,
+    "threads:Dfg5OuMjywL": 1794212739428,
+    "threads:Dfg5Kzmjwrv": 1794212739428,
+    "threads:Dfg5IgUD9ok": 1794212739428,
+    "threads:Dfg46DVj3Dc": 1794212739428,
+    "threads:Dfg40ATjwHR": 1794212739428,
+    "threads:Dfg4umYj1SN": 1794212739428,
+    "threads:Dfg4r-4D_ly": 1794212739428,
+    "threads:Dfg4C8JGpep": 1794212739428,
+    "threads:Dfg47wNGk0w": 1794212739428,
+    "news:CBMixAFBVV95cUxPa0JtMzFTX00zUGF1NVpfVUNRNDRGOEROSTlJYVhRZFQ0eHBHcHU5SElNUk9uNGtfOXM1MTVPZkZYal83aF9UamUwMWNhdFdNWlVsYzFLTllXU2twaFhWMWhrUEo1UkVITERhaERYRnJROFdzUnBKcnpBSXFET204S0dxV3dKQXBsWjVPVHZCWEJ1V015OEF6R2hxbmFXeWpOVEdGbVI1cUF5azVFV0lxdWVQTWMzdWliS19YLWdhUXRzcUk30gHKAUFVX3lxTE9kcUM4ZFdnU3ExWG82Y3VhN3JqTE1pV09BTGd2dUhzdGJyTUdIVXM1cF9yZ3JrZHlMMUFUNEx4RXZIN3NlSndyaGV1UUF2c1l2U1JRZkdYSjZTUkZPNTJMZnN2NDNQMGFnZF9qME5WVXJibDlkTjRXX3ZOS2p4Z0ZXMVJrcElnSlpHQ3pZeExDYWUwTnpMSVR2ZUVRUjNmemQ3MXVYMFV4X2k2dEpCUW9qaFU1QnBsZmNSQUwzMzZNSUtjNVhER1RfN3c": 1794212739428,
+    "news:CBMitgFBVV95cUxPOW9FbVJ0UjZLVHR2VDgyT3FkOVEyLTNzbnZyd2YwaXRGSUZXcnlzN0gzMzNpR3hpYTZFSGFHczg4c2NWZTJxajk2NnBMVUpjOXdoRDNvZ2FGZk9fbktkYThydjNuSHdtSVJVTDlielRWU3dyY0JDaHNzX3hid1VFUVh6RDdwYXpNOTU2Nkp1ZmtTUjFBeUhMdnBydFhyTTJISDlwNWJSekFhRHZhS0pJQnQ3emdnUdIBuwFBVV95cUxOV2c2eHc2Ty1WSGFxUkQwbU5Mem96Vjg4OU1sZ1JZVU5LM3lvVXNtVWloZjM5akRTMEIyYlI4QjVFeVNCZFM1eFBZcXA5TkVNSDNIM3ZBbnU4S2NCdDRFWlpPS01kdEljcXFFaHNBN3R0ckNzN28yNUxZVm5fN1diejhza3Rmd3llN2ZwejFTSzZPcmxBbzU5RUNsNlhSYTFWMi1idm1qUnRCdGU2cnI1NzJSRERsTFpQOEF3": 1794212739428
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/Dfgk0byjwKJ",
-      "d": 1794201920000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 Yuk, belajar dan berjuang bersama📚🔥",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfgkxGtj2MR",
-      "d": 1794201893000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@berkahkori",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@berkahkori/post/DfglfhiFDB1",
-      "d": 1794202273000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@admamaharani",
-      "x": "hallo bapak/ibu pelaku UMKM Jogja dan sekitarnya, perkenalkan saya adma maharani, mahasiswa ugm yang ingin mengajak bapak/ibu pelaku umkm untuk mengikuti pelatihan digital marketin",
-      "u": "https://www.threads.com/@admamaharani/post/DfgkBcyEz-d",
-      "d": 1794201503000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@learn.smart.academy",
-      "x": "kalian ada yang mau ikut kelas bahasa inggris dapat kelas gratis secara online? udh dapat speaking, daily converstation sama basic toefl kalau home visit khusus di pekanbaru ya. ap",
-      "u": "https://www.threads.com/@learn.smart.academy/post/DfglB-vmdhb",
-      "d": 1794202031000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Masih berpotensi dapat. Kuncinya itu di Permenaker No.16 Tahun 2026 untuk BSU Rp900rb periode Okt-Des 2026, patokan status BPJS Ketenagakerjaan aktif dilihat di periode Agustus 202",
-      "u": "https://www.threads.com/@meta.ai/post/DfglFcZgkQc",
-      "d": 1794202060000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Status Terbaru 5 Desil Prioritas Penerima 3 Bansos November 2026. Anda Salah Satunya? - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM0FJVmtBQ04zZU1IX21vTjYtdUtjRkFNc3JxNjFyM01zRnBHX2JDQTd0TldqNkJ3VXNFMTE1YnZyV2hvOHdPVnpIODJJODNuNmc3OEhPQnhmRFRNbE5jNGtxeHJRUDhpbU1teUJJdXQtZlFwM0xDZmxiUGhMZGdCRHF5a0dXXzZ5Tl9ZdVlLdkZldjZjUDB0bUo3aEd6QnV5c2lHSFhDdkJ3c25jd0M3cmJ3Mm0yNHdya0paTl9BYnowaUQ3V2M3VXpLdlbSAdIBQVVfeXFMTVNrMUZMelBaamVTei0yMWZUVDhKTjBhemhvbEF1eEZ2V0VXTkVXVl9ibEl4MjF0NDUxX3U2RXpOVVEwYkc0NzZqWkgxcnJlNkdHczZaek55WE83Y3E5T0xZQlNjbDJCejRfSVhSMjlwc3dINTZJLTItM0hEUUpOaWlyemhfVE85SmlubWV4VGJMbmwzbzhHNUJPSHk2TGRMQnpET25lVXNJZXhWV2xmTWJlX20yM3BteEE4MkNXRjRHcVY2MXVuQTFYQWdFaWI5TVRB?oc=5",
-      "d": 1794201886000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@cepek.ae.3",
-      "x": "Niat hati kesini mau cek bansos sama ngonten tomat eh pulang nya di bawain suruh buat sambel katanya,makasih ya mbak berkah selalu aamiin",
-      "u": "https://www.threads.com/@cepek.ae.3/post/DfglsYfnZkl",
-      "d": 1794202379000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@kerjakode_com",
-      "x": "Ada berita ramai soal cek desil bansos pakai NIK. Banyak yang penasaran, langsung serbu situsnya. Yang menarik buat kita perhatikan: ketika pemerintah merilis fitur publik seperti ",
-      "u": "https://www.threads.com/@kerjakode_com/post/DfglF6PCXEK",
-      "d": 1794202077000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "18 Juta Penerima Bansos Telah Terdaftar di Perlinsos Digital, Anda Termasuk? - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHhDNUJ6Yy13VXBpVS1UNWRXZU52VFZRdTNQUmFmVEFSZlB2bFFHWWVpSXVGM1VVM09ZSGdGSDlVclljQkcxSnRNTGRqUk9VNk5lcFZGSDV3dDhSZjF0ZUNwRG54MmgtVlhKOTR4WTJJNnNRdGlJNDVLTk9HbUdTTGgzWnVrbWllVW5mVUVtam90VkZmQl9MSmpfR0wzUEVYbXBaMVhqeE9IN3pNRjdGajdsTks3cEo3eU5IOU5lQkLSAcYBQVVfeXFMUGtJLTJBR2tXWUx3emVQQlZOTURESXNqcE4tQi1mSTN4VlA5Qm9XSkliOUtJZWtCWEhITmdIZ0MwMW5IX1hMb3g4c0ZXUnFYbTROdnY0QURQR1ZreXJNWDU4Y2poamNZRzh0cWZQQTZhdV8yZE1LaHowdllINlZMaUtmdXBOOWxyNDNYV3ZwdGJtYUdPQ2d2WThVaDhpU1Z2WmFNSV9yek9GemNkc3VDRFdZTGVyZDNxZjBkV1lIdGNmaXY5UlFR?oc=5",
-      "d": 1794202130000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Bansos Tahap 4 2026 Cair: Desil 1- 4 Dipastikan Aman, Bagaimana dengan Desil 5? - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmV4T05qbVVpaXNzRkdYUVBodEpXSVh0Smk1RG9IN2RXMzdYRlZxNGw1Nm80X0NPWDh2dUZlWDVmclUxWTF0NHdzMjREd3ltUG9SYXhyNDg2b2VEbkxOWEo0UkxCVTEtVnNRQ0ZNQURhUzRhZkpkXzZDTXNjaXFycVROQmhiSE1RTG5rY3BNUTlqazZfMzNJb1RFek9aN3BfV3Nmc1BLbW9xMF95QkdyM2hzeDFXeEVhTnd6U2ZMMVlWcExQRzVJ0gHMAUFVX3lxTE1KTUNVa0c1UnlQT0h0YTg5Vkt5ZzRnamZfV09zSzR6bDdKYzlHYmJBQzhJbHJjeFk4UWRiT05Zem9KRjJLOV94QnM3X1B2d2hNOFpyU2pCY0dTV0RfSkJsamx5bW93ZHRydXBSR2dXR1lfTEFYT1NoczFpbW5tRERBMV84ZU81MFhMMHEzWFdDZV80eDRnejFaTzZITXFpNWx0dExDSXJkNWo0SlZMd3ZWVTAtMFZKZmNtMEk1R0xRanpnTEwxbmZmYTZHNQ?oc=5",
-      "d": 1794179863000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dausevolusi",
-      "x": "Sy belajar Meta Ads di platform ini kk👇 https://member.mahirdigital.id/lp?aff=firdaj32&i=1 Klo mau ikut webinar GRATIS nya jg ada kk. Ini linknya. 👇",
-      "u": "https://www.threads.com/@dausevolusi/post/DfgmoG1k6ta",
-      "d": 1794202868000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@terbuktilegal",
-      "x": "📢 WEBINAR PERPAJAKAN 2026 – GRATIS! Halo Sobat Pajak 🤗🤗🤗 PT Terbukti Legal Indonesia mengundang sobat sekalian untuk mengikuti webinar perpajakan dengan tema: “Strategi Perenca",
-      "u": "https://www.threads.com/@terbuktilegal/post/DfgmXzIgZ4p",
-      "d": 1794202734000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 https://chat.whatsapp.com/JMbgyimwCy1EGwhWrk3Uhv?",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfgmVGvjxB_",
-      "d": 1794202712000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29135,10 +29004,150 @@
       "d": 1794198900000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg5c5YD2V9",
+      "d": 1794212738000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg5X_WD9G1",
+      "d": 1794212698000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg5VI4D6RG",
+      "d": 1794212674000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg5OuMjywL",
+      "d": 1794212622000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg5Kzmjwrv",
+      "d": 1794212590000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg5IgUD9ok",
+      "d": 1794212571000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg46DVj3Dc",
+      "d": 1794212452000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg40ATjwHR",
+      "d": 1794212403000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg4umYj1SN",
+      "d": 1794212358000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfg4r-4D_ly",
+      "d": 1794212337000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rara80451",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, bank soal dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@rara80451/post/Dfg4C8JGpep",
+      "d": 1794212001000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@riprastya",
+      "x": "Ada gak sih pelatihan fotografi gratis yg kayak PVN nya kemnaker gt? Kok sejauh ini nyari di skillhub gak ada. Ini fotografinya lebih ke foto produk ya",
+      "u": "https://www.threads.com/@riprastya/post/Dfg47wNGk0w",
+      "d": 1794212466000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "KPFM Balikpapan",
+      "x": "ANTISIPASI KARHUTLA, BPBD PPU BEKALI WARGA DESA API-API KETERAMPILAN PEMADAMAN KEBAKARAN - KPFM Balikpapan - KPFM Balikpapan",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0JtMzFTX00zUGF1NVpfVUNRNDRGOEROSTlJYVhRZFQ0eHBHcHU5SElNUk9uNGtfOXM1MTVPZkZYal83aF9UamUwMWNhdFdNWlVsYzFLTllXU2twaFhWMWhrUEo1UkVITERhaERYRnJROFdzUnBKcnpBSXFET204S0dxV3dKQXBsWjVPVHZCWEJ1V015OEF6R2hxbmFXeWpOVEdGbVI1cUF5azVFV0lxdWVQTWMzdWliS19YLWdhUXRzcUk30gHKAUFVX3lxTE9kcUM4ZFdnU3ExWG82Y3VhN3JqTE1pV09BTGd2dUhzdGJyTUdIVXM1cF9yZ3JrZHlMMUFUNEx4RXZIN3NlSndyaGV1UUF2c1l2U1JRZkdYSjZTUkZPNTJMZnN2NDNQMGFnZF9qME5WVXJibDlkTjRXX3ZOS2p4Z0ZXMVJrcElnSlpHQ3pZeExDYWUwTnpMSVR2ZUVRUjNmemQ3MXVYMFV4X2k2dEpCUW9qaFU1QnBsZmNSQUwzMzZNSUtjNVhER1RfN3c?oc=5",
+      "d": 1794198298000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "KPFM Balikpapan",
+      "x": "PPU GELAR PELATIHAN GRATIS MUA HINGGA SATPAM BAGI WARGA LOKAL DI APBD-P 2026 - KPFM Balikpapan - KPFM Balikpapan",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOW9FbVJ0UjZLVHR2VDgyT3FkOVEyLTNzbnZyd2YwaXRGSUZXcnlzN0gzMzNpR3hpYTZFSGFHczg4c2NWZTJxajk2NnBMVUpjOXdoRDNvZ2FGZk9fbktkYThydjNuSHdtSVJVTDlielRWU3dyY0JDaHNzX3hid1VFUVh6RDdwYXpNOTU2Nkp1ZmtTUjFBeUhMdnBydFhyTTJISDlwNWJSekFhRHZhS0pJQnQ3emdnUdIBuwFBVV95cUxOV2c2eHc2Ty1WSGFxUkQwbU5Mem96Vjg4OU1sZ1JZVU5LM3lvVXNtVWloZjM5akRTMEIyYlI4QjVFeVNCZFM1eFBZcXA5TkVNSDNIM3ZBbnU4S2NCdDRFWlpPS01kdEljcXFFaHNBN3R0ckNzN28yNUxZVm5fN1diejhza3Rmd3llN2ZwejFTSzZPcmxBbzU5RUNsNlhSYTFWMi1idm1qUnRCdGU2cnI1NzJSRERsTFpQOEF3?oc=5",
+      "d": 1794196218000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
