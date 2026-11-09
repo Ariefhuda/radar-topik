@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-ZS5KgjDc": 1793055374994,
-    "threads:De-YNwLCRiC": 1793055374994,
-    "threads:De-Xgz2Ccv8": 1793055374994,
-    "threads:Db-x4wbCbyk": 1793055374994,
-    "threads:De-Yya-E6H-": 1793055374994,
-    "news:CBMi1gFBVV95cUxPWlZyTEp5TW93SG0ybXgxQkxGZ1JrVHl5Zi0tQ1JKQ1B5QTNEendiVlFtUENVdnpHTDZuZkloNF9FeFhIejdDU2lqckdrVUlDN0dqd3luY2pEdkRTbE5wN3lFbEtWZFNZbFh0WVFFbnh6cWF0QVhGUUdCc0hSRUxVOUtjeGVqNmQtVEZEUzZZVlNCam9IVW40U1J6TWw4RGlDTEFEVm94YWxWeHNPQlQ1SVdURkJ6UENXakJ4YVFTTW9EQjRhclVCNU54aHdmblFkSjU2SFBR0gG4AUFVX3lxTFBpdWtIUktUazVVX250RzhSVzYtaXhiRTB3RjZzb0RRZEVSVU5fVXZuWjhoYlNWZjJmeGtxOG9jd3JRMzh5RTFpVEdSOEhqV3VfUGRscHVWenZRdkxxWTZYSU80cnF5SGllVlNMOWhULTNlYzU4N3Vhb2FaU3VPNzZDTU9naDZSTVBLc0gzWlpBV01mRGtBN0xjY1pZTlZseFIxV3RsbVRraGZZNzEwMTdiLVQxbjZiUWU": 1793055374994,
     "threads:De-apHhk4iv": 1793055657941,
     "threads:De-aUZCEzhN": 1793055657941,
     "threads:De-azlBksEI": 1793056245420,
@@ -27467,19 +27461,10 @@
     "threads:DficAXGErxW": 1794264657110,
     "threads:Dfibra6kjMC": 1794264657110,
     "threads:DMH2DUjzLr-": 1794264657110,
-    "news:CBMiuwFBVV95cUxQUXlqOVZFN1V6TnBJaGVSNGZPVVhualRZMUZaZnl0c216akV0bDJBcnBhLTktcUgydGtLb0ZfbUFtSFZkZ3JmckZpOGlvdzFKMlpCaTRWLVhUZnNYZ0J0TUNleTRfRmJ2QVA3YzloNHRoUnZPM2staDVqcFN1MFJBRW9PLVVoMy1qZHIyYmdEYnlFYTRibDMxMjdNaVU4WW83cTdQWUtqMUt4VzY1QXRwRFg4cGt4SGRobGRj": 1794264657110
+    "news:CBMiuwFBVV95cUxQUXlqOVZFN1V6TnBJaGVSNGZPVVhualRZMUZaZnl0c216akV0bDJBcnBhLTktcUgydGtLb0ZfbUFtSFZkZ3JmckZpOGlvdzFKMlpCaTRWLVhUZnNYZ0J0TUNleTRfRmJ2QVA3YzloNHRoUnZPM2staDVqcFN1MFJBRW9PLVVoMy1qZHIyYmdEYnlFYTRibDMxMjdNaVU4WW83cTdQWUtqMUt4VzY1QXRwRFg4cGt4SGRobGRj": 1794264657110,
+    "threads:Dfibox8iazG": 1794264935343
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ade.digital.id",
-      "x": "Melalui ADE DIGITAL id, aku membuka kelas bimbingan GRATIS untuk siapa saja yang ingin belajar membangun peluang penghasilan melalui bisnis digital. Kita belajar dari nol: - Mengen",
-      "u": "https://www.threads.com/@ade.digital.id/post/DfhdRALgShM",
-      "d": 1794231515000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28969,10 +28954,20 @@
       "d": 1794264237000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Iya, tetap bisa kejadian walau gaji sama :( Soalnya yang dicek bukan status kontrak/tetap, tapi data yang kebaca di BPJS Ketenagakerjaan sampai April 2025 — misal gaji yang dilapor",
+      "u": "https://www.threads.com/@meta.ai/post/Dfibox8iazG",
+      "d": 1794264215000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
