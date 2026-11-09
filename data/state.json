@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De84_qHG3M8": 1793004643662,
-    "threads:De84te3ApbF": 1793004643662,
-    "threads:De84ykciaFH": 1793004643662,
-    "news:CBMilgFBVV95cUxQNjFJQ1BGUDdlZkZxamFnRmgxeXhLSlJFUGpydDVzRURkaHhxRHZ3NURGR285OFdMdmNEUHlITTZ6UkdoWWw0Y0d5aHg2TDZqVy1LYzdiTWJnTVVFSkozQW5MZXc3dnpxZlQ0eXR4czR6TXJmd0JMOW8zTnpKTEtWX3pWWlRXTXpqNVRaQmE5Q19nWHZmMkE": 1793004643662,
-    "news:CBMiuwFBVV95cUxQOEh4Y0ZKNEZydGhWVlk5bGNMbThYX1Jic2dmc19vS01YaEE5aWphazYzRVJ6QnZ5MXVoUjFJd2x3bWRpcGJHcDl5VkdWSkhnbno5eXNTVTZuNnJJcXZGa1ZjMGtHbDMwQURjYWtlU2VBSWZhVDA3Si02eFljWmJqNmZiaUhzWWQ4MnRQakJwaDhKeUx5X1hlZlA1RWVaRTZYbm1TOXdmVWZFT2ZaOVI0ZmlKcjVEeV9BcHZR": 1793004643662,
-    "news:CBMiuAFBVV95cUxPVGFEV3hxdVp2TXlSTDFDNms0TDR0OER6eV90OENMRFlvTFZsazhGNWpmVWM5eWpXdHowNFJ5Snd6MUwtcTFPR0F0cDlXbEFucDdzaER5NlhmbW5wRUk5a0RjanV5T3plMkpvWmFFVXh0TVpEV2M1Y19kd1Vzb1JuVER1eFZGMDdoN1RObW1ZajVmQ3ZNU2JmUVA4U1JsSi1ZckM0WmxUYzlWZzFIU1JKY2t3VE9HeHFi": 1793004643662,
     "threads:De85CJ8k_Ud": 1793004936239,
     "threads:De85Au5GUSq": 1793004936239,
     "threads:De8yFg1G2wy": 1793004936239,
@@ -27624,29 +27618,15 @@
     "threads:Dfg7Mbuk8r7": 1794213946077,
     "threads:Dfg659cigzn": 1794213946077,
     "threads:Dfg649nDzn8": 1794213946077,
-    "threads:Dfg6uX-Ewpy": 1794213946077
+    "threads:Dfg6uX-Ewpy": 1794213946077,
+    "threads:Dfg7ixgk_en": 1794214246542,
+    "threads:Dfg7XlAjqPw": 1794214246542,
+    "threads:Dfg6JPDAmQV": 1794214246542,
+    "threads:Dfg7XgViaPM": 1794214246542,
+    "threads:Dfg7vyymX5I": 1794214246542,
+    "threads:DXOUsPZExVD": 1794214246542
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@linda.cecilia.9",
-      "x": "Mau bisnis online tapi bingung mulai darimana? takut gaptek? gapunya produk sendiri? gapunya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langkah awa",
-      "u": "https://www.threads.com/@linda.cecilia.9/post/DfglshRkqqX",
-      "d": 1794202383000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rikaeridani",
-      "x": "Aku emosiiiik 😆 secara kita kan tahu banget dengan profil Ibu @fatmahbahalwan Konteks si penanya tentang resep abal-abal mungkin ada kelas-kelas online Bu Fatmah dengan brand atau",
-      "u": "https://www.threads.com/@rikaeridani/post/Dfgl6jEmrW7",
-      "d": 1794202495000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -29126,10 +29106,30 @@
       "d": 1794196427000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zahiramstika",
+      "x": "Ternyata gaada orang yg bener2 anti asuransi, yg ada kita tuh ga suka dideketin cuma buat jualan asuransi. Alhamdulillah makin kesini makin banyak keluarga yg sadar dan mau belajar",
+      "u": "https://www.threads.com/@zahiramstika/post/Dfg7XgViaPM",
+      "d": 1794213742000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@hys37759",
+      "x": "Satset langsung bisa punya bisnis dari ALFAMART Nama aplikasi ALFAMIND Yakin kamu gak mau punya bisnis jualan bareng ALFAMIND??? Keuntungan gabung di ALFAMIND : ✅Gratis Tanpa modal",
+      "u": "https://www.threads.com/@hys37759/post/Dfg7vyymX5I",
+      "d": 1794213941000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
