@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De9YjNTkyqU": 1793021150316,
-    "threads:De9YjPCCvL7": 1793021150316,
-    "threads:De9Yz6oGPuI": 1793021150316,
-    "threads:De9YqvNiY2K": 1793021150316,
-    "threads:De9YKpRjosC": 1793021150316,
-    "threads:De9X50tiQJv": 1793021150316,
-    "threads:De9XqPjnD-Y": 1793021150316,
     "threads:De9aY4ECH2e": 1793022136686,
     "threads:De9ZwG1CBhg": 1793022136686,
     "threads:De9ZvIZDn47": 1793022136686,
@@ -27539,7 +27532,9 @@
     "threads:DfhZ4hlmCsH": 1794230443115,
     "threads:DfhZ4fxGH1Y": 1794230443115,
     "threads:Dch7uHGiTyU": 1794230443115,
-    "news:CBMiXEFVX3lxTFB3c3FadmQtQURsZUVZc0RHaWFBNXVwUXEzTEJhLXg4bjNZU3Q0WlkzOF9OSUljeDN0djZTczVmX180MFJ4S1c0NHpWVjgwNEJlOGNMUzM5WkhpUG5n": 1794230443115
+    "news:CBMiXEFVX3lxTFB3c3FadmQtQURsZUVZc0RHaWFBNXVwUXEzTEJhLXg4bjNZU3Q0WlkzOF9OSUljeDN0djZTczVmX180MFJ4S1c0NHpWVjgwNEJlOGNMUzM5WkhpUG5n": 1794230443115,
+    "news:CBMifkFVX3lxTFBRdmFrYUs5Uk5xWTA4LWotYUczbHJwNnpmdmFHRnc0T1ZvdUJtLUlVWWhHVlJURWRKTXhSbThBQUxqZm1Yei11dTZRb04waVk3eUc0MmpIRUIyMW0zY1hHX3hUSXNadmtGd1poSUdmNDlxSE9ZUklvMGF4THdGdw": 1794230741909,
+    "news:CBMi5wFBVV95cUxPZDJ1dTRPTXhCQ2RuWXpQbW01M0NqOEdRd3phXzhBODRrUkloWktHN1VXZ1pDZjVNSVd6SDRBb3JIZk1lVVZvWkxGemZZSFZlQ3JYX1BrNEZISnRRRkxpYzNpUVlud1B1bjA2eUF0WGw4d3NNVEpWM2ZURVFpZUFENDQ3U1FMS1lfOWhDcWNYQmdfYUs3aHZqemJyU0NVNVFkN0I4QUdGNGZ3LVhxRXRoR1pNY1lQVV9WMVF4T25WdmJsM3A1by1HVU5vMTRkaU1jZ1pWVFVTMzdqVXNXcXdsYWVBS1YzMzjSAecBQVVfeXFMT2QydXU0T014QkNkbll6UG1tNTNDajhHUXd6YV84QTg0a1JJaFpLRzdVV2daQ2Y1TUlXekg0QW9ySGZNZVVWb1pMRnpmWUhWZUNyWF9QazRGSEp0UUZMaWMzaVFZbndQdW4wNnlBdFhsOHdzTVRKVjNmVEVRaWVBRDQ0N1NRTEtZXzloQ3FjWEJnX2FLN2h2anpiclNDVTVRZDdCOEFHRjRmdy1YcUV0aEdaTWNZUFVfVjFReE9uVnZibDNwNW8tR1VObzE0ZGlNY2daVlRVUzM3alVzV3F3bGFlQUtWMzM4": 1794230741909
   },
   "digest": [
     {
@@ -28261,10 +28256,30 @@
       "d": 1794230063000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "SEVIMA",
+      "x": "Webinar Nasional GRATIS: RKAT 2027 Lebih Tepat Sasaran! - SEVIMA",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdmFrYUs5Uk5xWTA4LWotYUczbHJwNnpmdmFHRnc0T1ZvdUJtLUlVWWhHVlJURWRKTXhSbThBQUxqZm1Yei11dTZRb04waVk3eUc0MmpIRUIyMW0zY1hHX3hUSXNadmtGd1poSUdmNDlxSE9ZUklvMGF4THdGdw?oc=5",
+      "d": 1794227788000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Jember",
+      "x": "CAIR LAGI! Cek Daftar 5 Desil Prioritas Penerima Bansos PKH, BPNT, dan BLT Kesra Rp900 Ribu, Kelompo - Radar Jember",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZDJ1dTRPTXhCQ2RuWXpQbW01M0NqOEdRd3phXzhBODRrUkloWktHN1VXZ1pDZjVNSVd6SDRBb3JIZk1lVVZvWkxGemZZSFZlQ3JYX1BrNEZISnRRRkxpYzNpUVlud1B1bjA2eUF0WGw4d3NNVEpWM2ZURVFpZUFENDQ3U1FMS1lfOWhDcWNYQmdfYUs3aHZqemJyU0NVNVFkN0I4QUdGNGZ3LVhxRXRoR1pNY1lQVV9WMVF4T25WdmJsM3A1by1HVU5vMTRkaU1jZ1pWVFVTMzdqVXNXcXdsYWVBS1YzMzjSAecBQVVfeXFMT2QydXU0T014QkNkbll6UG1tNTNDajhHUXd6YV84QTg0a1JJaFpLRzdVV2daQ2Y1TUlXekg0QW9ySGZNZVVWb1pMRnpmWUhWZUNyWF9QazRGSEp0UUZMaWMzaVFZbndQdW4wNnlBdFhsOHdzTVRKVjNmVEVRaWVBRDQ0N1NRTEtZXzloQ3FjWEJnX2FLN2h2anpiclNDVTVRZDdCOEFHRjRmdy1YcUV0aEdaTWNZUFVfVjFReE9uVnZibDNwNW8tR1VObzE0ZGlNY2daVlRVUzM3alVzV3F3bGFlQUtWMzM4?oc=5",
+      "d": 1794216439000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
