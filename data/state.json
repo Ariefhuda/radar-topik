@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_tIt5GHw1": 1793099139503,
-    "threads:De_s2eXCFVQ": 1793099139503,
-    "threads:De_s1U8jfh6": 1793099139503,
     "threads:Dd8ycqKmXbe": 1793099443409,
     "threads:DVAvg8Ekln5": 1793099443409,
     "threads:De_t3zhGvJx": 1793099443409,
@@ -27233,19 +27230,11 @@
     "news:CBMijwFBVV95cUxNSTFHWm9KNkdUUGdhQ3pFRGc4b0VaaFRueU1ETGVXT28tbUpYSzJZVWdpbkZQSFFXNERjMXhpcGVfdEJiLTlVVUhBSGVRemhuZnQtb3JWcU94OF9xbXh5d0ExSWhDQWdlN3k0c01BNjFWMklyd3g5OE5oTnQ3LUdMSG4tVVJIQ29mZUxoUVA2QdIBlAFBVV95cUxPWmkxM1RhQkk1ZGhVU3Z4a2ZmcXQwYWlsc0VWOGJ2UHBDTzNKdkpSbkxFNE9PeEwwSDVJUWMxQm4tY1NKSEFiWTdXRDY2Rjhud0pCSEZhZjZGeGhKSlRhRmUxQl9ZdXdobGpyVTJROWlCSG5fbUtZUjY5ZnliUFJxZmdnVXpIV0dLMko3dmdGdk1wUDh3": 1794308454158,
     "news:CBMi1gFBVV95cUxNd2tkMDF0NjdoX1VFS2s2NHd1NG04Mkt0NmJMMnYzUE9SWFN0aEZIYTVKb2NaX0NtdUlKMWNuQjQ5b0RNeE1Wb0pRZVBZRERXUERpVkV4VVNIZWFRN2tzOFlFLXQtdGZUV3NNU21ZTW9xZFRhTXpsMkhGazkxVlF3aWt0U0pMZmJlMTY1cFQ2Qkhtdm15alpvNjBQRlhybk5zVi04YmJLMnBMcU0teVhyei1vbWhNODA2TzNaRWdkdFB3V2JzX0dOTlgxZm1pb3ZPdWVVZmZ30gHWAUFVX3lxTE13a2QwMXQ2N2hfVUVLazY0d3U0bTgyS3Q2YkwydjNQT1JYU3RoRkhhNUpvY1pfQ211SUoxY25CNDlvRE14TVZvSlFlUFlERFdQRGlWRXhVU0hlYVE3a3M4WUUtdC10ZlRXc01TbVlNb3FkVGFNemwySEZrOTFWUXdpa3RTSkxmYmUxNjVwVDZCSG12bXlqWm82MFBGWHJuTnNWLThiYksycExxTS15WHJ6LW9taE04MDZPM1pFZ2R0UHdXYnNfR05OWDFmbWlvdk91ZVVmZnc": 1794308454158,
     "news:CBMiwwFBVV95cUxPQ3NaaTFlMHR5bEhTc0xQWUdWRzcxUzdheGtJa3pHbDlxdmxHemZRY2JiSzJmY096Vk1lTHUtZW0wYzl3UG16QWxLNmx2M1gxLW5lMnhhdmlNTkJZU2JhR3h2OUZ1QWxVTFB6Y3JuM2ZhYjIwNUg4V282RFlWS0Z2OGp1YnBPdzA2YV9jMWY3bzl3UkdLZDMxUmdSZmY3S0RRSUw2dnA1V1hweFdNSjA5a2xrMGZpUVkwZkdEbzczbXlWdXPSAcgBQVVfeXFMT3Z3SnFTYjhSOHpFRHdmOU4yTlQtVE1UWUE4VVJrWGJRYmlpWldUVmd4N181WXo3Y1MxV3padUxrZlZxcUhCNFFSZVNYbnIyRk1MM3kzanpIVVhwVVJESE1OSkZsRlBwLVNRbk9XUHVpb3JKcXN1X1gtWFdBU1dmbFNkcExKTF9wZHJDMjJxb3pxYTdQSkhfT1pweGVaNGs1Vm1hX0NHN254Umk0MGtVcVBYNVdURVZZekV3YU8xRVBlemZuU0VMYlE": 1794308454158,
-    "news:CBMitAFBVV95cUxPT3RXSkJPZTJqcnRMYlR4U3hoYjVUTTJNTVFqazBTdVZqUGlSZ05HcDRWMVh5VXdmQ1FJUnlGZW5ycmdNdnlWTE5QRUpkNVNycS1uUWZWMXJhczQ2clYzRzNta0xvV3BGVlB2VFJuZlE2LVF2Z1k1X1Y0MTR4QVpyX2R1amE1SXRVQm1TZlV3aDk4ZUhiTEtOLW5WamRtaTQ2SmliOWx3ZDdVZ09mOTBFdXN5c3PSAboBQVVfeXFMT3pvSl8zeDRiWWNLMmxCUnJuWGh3d29rblo5RWhVQlE3NkgwemtNMGFPVVhmSXFSMXJIX0R6S0V3UlItTmZ1NlJ2a3dlNmNFOHZ0MDhJRnB0QXZacDJrNHNscmhUbkdkU2hPZTV1OEx1MDAzX015eWU4X1lNbjA3T2VBdkJfSERtQ0RsczcwMmtxU0dHZU84ME9VMnVtVnJpQVZkYzAwMGRPdVp0NVlwbkxUVjlKWWkyYlRR": 1794308454158
+    "news:CBMitAFBVV95cUxPT3RXSkJPZTJqcnRMYlR4U3hoYjVUTTJNTVFqazBTdVZqUGlSZ05HcDRWMVh5VXdmQ1FJUnlGZW5ycmdNdnlWTE5QRUpkNVNycS1uUWZWMXJhczQ2clYzRzNta0xvV3BGVlB2VFJuZlE2LVF2Z1k1X1Y0MTR4QVpyX2R1amE1SXRVQm1TZlV3aDk4ZUhiTEtOLW5WamRtaTQ2SmliOWx3ZDdVZ09mOTBFdXN5c3PSAboBQVVfeXFMT3pvSl8zeDRiWWNLMmxCUnJuWGh3d29rblo5RWhVQlE3NkgwemtNMGFPVVhmSXFSMXJIX0R6S0V3UlItTmZ1NlJ2a3dlNmNFOHZ0MDhJRnB0QXZacDJrNHNscmhUbkdkU2hPZTV1OEx1MDAzX015eWU4X1lNbjA3T2VBdkJfSERtQ0RsczcwMmtxU0dHZU84ME9VMnVtVnJpQVZkYzAwMGRPdVp0NVlwbkxUVjlKWWkyYlRR": 1794308454158,
+    "threads:DeyLM9aoJLa": 1794308737886,
+    "threads:DfjvK1IDxk1": 1794308737886
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Girls kalian lagi bingung menentukan arah karier, susah cari kerja, atau ingin switch career tapi nggak tahu harus mulai dari mana? Eits tenang aja karena ada kesempatan mendapatka",
-      "u": "https://www.threads.com/@faarida463/post/DfjeGzkn3wX",
-      "d": 1794299064000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28735,10 +28724,20 @@
       "d": 1794226555000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@bloomeducation.id",
+      "x": "🎓 Mau kuliah di Taiwan dengan bantuan beasiswa ICATI dan OCAC? 🇹🇼 Kesempatan buat kamu yang punya impian melanjutkan studi ke Taiwan! Yuk, kenali syarat dan ketentuan Beasiswa I",
+      "u": "https://www.threads.com/@bloomeducation.id/post/DfjvK1IDxk1",
+      "d": 1794308010000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
