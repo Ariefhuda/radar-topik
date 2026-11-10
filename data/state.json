@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfAGIauGUva": 1793112341030,
-    "threads:DfAGGIqgRBA": 1793112341030,
-    "threads:DfAFsQqCdal": 1793112341030,
     "threads:DfAG90MExFG": 1793112644126,
     "threads:DfAG0mzjowI": 1793112644126,
     "threads:DfAGrhoDvaZ": 1793112644126,
@@ -27129,7 +27126,10 @@
     "threads:Dfj_MwfE9Bt": 1794321634614,
     "threads:DfkH05lmuV4": 1794321634614,
     "news:CBMivgFBVV95cUxPWm81Vy01NF94cHV1cG1RVU8tV1hlRXNwcjNKQmU0MTZiRWN4Q1I2N2pha2w5ZHVqeEozV1o0d0tWbWZOTUZiLXFWYmI1VUYtblY0bVFOZFNGZENaajBEMDhMdkk2cHlCMlhRMkg0UG1VMzlqcHhmbVBpQUdUNmlrTWlrTkJSelVHckx3ckVwdHJJM1ZLNDQzdXd6RkVQZnA4RWM1RXJybmd3aTk2WFV0cmdFWnpWVTQxQm5UUmZR": 1794321634614,
-    "news:CBMi9gFBVV95cUxPQmxFZ1lwT015cS1CbXgxeFJGU0ZkT2RDemJ6bEtkZHhNZGQwV0pwUlBnOHFPWllSelZWNm9LT1VjMnNEWnhPU2FyWmMwejFOMmtXcnBpeFVvY3FLTGo2amFsVzY3eXlUcFpQTHFLengzXzRCRkhZWUpaWDBfck1aaDhrUjRpcWhkRHd0WFZpUGY0LXVUSldvTnU3SUhXUkRSSjBKdUViUzZTbXBuZ0JDT2tYUnZGSE9QODF6Mzg3SDRDS3NBQjFxRXRSVG5FTXNaZmRXcHh3SFpCeElNNXU1TTFYcGFCRHIwMFBrWV9aWFB1ZFZpdlE": 1794321634614
+    "news:CBMi9gFBVV95cUxPQmxFZ1lwT015cS1CbXgxeFJGU0ZkT2RDemJ6bEtkZHhNZGQwV0pwUlBnOHFPWllSelZWNm9LT1VjMnNEWnhPU2FyWmMwejFOMmtXcnBpeFVvY3FLTGo2amFsVzY3eXlUcFpQTHFLengzXzRCRkhZWUpaWDBfck1aaDhrUjRpcWhkRHd0WFZpUGY0LXVUSldvTnU3SUhXUkRSSjBKdUViUzZTbXBuZ0JDT2tYUnZGSE9QODF6Mzg3SDRDS3NBQjFxRXRSVG5FTXNaZmRXcHh3SFpCeElNNXU1TTFYcGFCRHIwMFBrWV9aWFB1ZFZpdlE": 1794321634614,
+    "threads:DfkJiC9lCTj": 1794321937460,
+    "news:CBMi3wFBVV95cUxNektxcTdxZk9UMFFtcW5JVnRoZGlMVnlwYmlWakxZaGY2clBMY3E5NUtuVFV1bmk4OGdpOEU1bVdhVDZIRE43dWFQc01NRl9WLUl4eE53b2VYQi1CYVJEbVpPSE9ZZ2FMUVEtZVN0LW9hUS0wQVRCZE9GNEV3RUdlUnB4SnJOVWZQa1BkMmRXaFR0ejNGRmZxMGR0QVcyUjZIMWtGSmNSdUV6NlB0bTVQLWEwYmN3LW51Nkl0MUFmNElxYVBJTEF1MDFpODJicXRYSVFzNGR3V2VoOWlSRmVr0gHkAUFVX3lxTE9seUc2bkJtcjBJY1NJTGpWSlg4cklBclZvYzR4cjVVSVNRYUhmblRsRmhQWm1KTXFRMzJfME5SanhidFhCaWNiZXdmT2JxMnV0MFI4UHFEZmxKMjYxaEhUWlBubVhlSkcxWDZJVGxEMWRScWNpYi1tZTV4VnpaS2Y3VTdJc3F3eUNPX3lTdmZfRlpKWE1EOGIxMXNNejQyaHpjV0FKSEJuWXluNHJYVjJQdE5Gd2N5TF9COEo0WlNYeGg1LVZiUkM2X3QwN2JMWWRlVkFnWmxwZUNRUWNRRS1iRkJJbw": 1794321937460,
+    "news:CBMid0FVX3lxTE5GZldMdnZqTFltYXB5WDBoa2RqWDJqNXY2dEQ3ZzBWelJ2UUE0WUY3c3JPa1Mzdlc2dFgxWTNaTjRuZ3hvNFU3aUU3UFprYnVTX1ljdEIxWlNsM0FRa2RvcElVYnFlOXR5X3JvWG9Eai1XcDdkdlhB": 1794321937460
   },
   "digest": [
     {
@@ -28141,10 +28141,30 @@
       "d": 1794305880000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Jateng Network",
+      "x": "2,5 Juta Produk di Jateng Bersertifikat Halal, Gus Yasin Dorong 35 Daerah Perkuat Pendampingan UMKM - Jateng Network - Jateng Network",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNektxcTdxZk9UMFFtcW5JVnRoZGlMVnlwYmlWakxZaGY2clBMY3E5NUtuVFV1bmk4OGdpOEU1bVdhVDZIRE43dWFQc01NRl9WLUl4eE53b2VYQi1CYVJEbVpPSE9ZZ2FMUVEtZVN0LW9hUS0wQVRCZE9GNEV3RUdlUnB4SnJOVWZQa1BkMmRXaFR0ejNGRmZxMGR0QVcyUjZIMWtGSmNSdUV6NlB0bTVQLWEwYmN3LW51Nkl0MUFmNElxYVBJTEF1MDFpODJicXRYSVFzNGR3V2VoOWlSRmVr0gHkAUFVX3lxTE9seUc2bkJtcjBJY1NJTGpWSlg4cklBclZvYzR4cjVVSVNRYUhmblRsRmhQWm1KTXFRMzJfME5SanhidFhCaWNiZXdmT2JxMnV0MFI4UHFEZmxKMjYxaEhUWlBubVhlSkcxWDZJVGxEMWRScWNpYi1tZTV4VnpaS2Y3VTdJc3F3eUNPX3lTdmZfRlpKWE1EOGIxMXNNejQyaHpjV0FKSEJuWXluNHJYVjJQdE5Gd2N5TF9COEo0WlNYeGg1LVZiUkM2X3QwN2JMWWRlVkFnWmxwZUNRUWNRRS1iRkJJbw?oc=5",
+      "d": 1794272248000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "BPJPH Jawa Tengah Catat 2,5 Juta Produk Halal Saat Pendampingan UMKM Diperluas - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GZldMdnZqTFltYXB5WDBoa2RqWDJqNXY2dEQ3ZzBWelJ2UUE0WUY3c3JPa1Mzdlc2dFgxWTNaTjRuZ3hvNFU3aUU3UFprYnVTX1ljdEIxWlNsM0FRa2RvcElVYnFlOXR5X3JvWG9Eai1XcDdkdlhB?oc=5",
+      "d": 1794321360000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
