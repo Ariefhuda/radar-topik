@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfAJH4qj1MD": 1793113855807,
-    "threads:DfAIuvJHzo2": 1793113855807,
-    "threads:DfAHiRSHwXZ": 1793113855807,
     "threads:DfAIWsGiXz2": 1793115346143,
     "threads:DdKnJZljUwo": 1793115346143,
     "threads:DfAH6_imu73": 1793115346143,
@@ -27134,7 +27131,19 @@
     "news:CBMixAFBVV95cUxOZWtxY2RSb2pyRUx2bEVXSHo1dUdzMEMtb1lpZGJjSWZGZUJaTlJyTzhaRDVBcUpOOUQzUklPczFpYllNNUk5R3JvRGxuS2k4TzNtd3NXOHEwOHRLOUQzWG5rX3dkdVdYdFBWSk9RZHhSaUpMbHdNNUx1SUt5QTExOGhaU2dqRC1Hb3g5VjgwN1U4a253a3BGUjI3elF5MGZTUnRFaThRNXJ0T3RUejNHejJiOHFZaWp1QUgtMU9Qa29OS1dL0gHEAUFVX3lxTE5la3FjZFJvanJFTHZsRVdIejV1R3MwQy1vWWlkYmNJZkZlQlpOUnJPOFpENUFxSk45RDNSSU9zMWliWU01STlHcm9EbG5LaThPM213c1c4cTA4dEs5RDNYbmtfd2R1V1h0UFZKT1FkeFJpSkxsd001THVJS3lBMTE4aFpTZ2pELUdveDlWODA3VThrbndrcEZSMjd6UXkwZlNSdEVpOFE1cnRPdFR6M0d6MmI4cVlpanVBSC0xT1Brb05LV0s": 1794323174678,
     "news:CBMi9gFBVV95cUxNZURDN0lVY1VmeENXVjhLZHE2clBEM3lUV2tMOXZ0RG9CbGpWV1A0SVZPX0lLd1c1ZG5qRExSdm55ajYtdXd3RXZXclY1dDRIN0xRUXVxdFI0Q2JVZkMwTDdsOUdDRmZyT1RjOS1Uc3VNN21WblJ4WHVfLW1DMEFrQjZnbFluTTVSRUZnMjRrN19VNWZWQXBWRW50Nkp0RkljYUp6SE5zanNYU2liczE4eDJKSk9WR01NajBMNGIxbktkaUthUk1GSlI2QmZkUXcwTjZYUlpNUmlCR2ZIMjExOHM1WFVBem10a2YwNU02YkhDaFhoRXfSAfYBQVVfeXFMTWVEQzdJVWNVZnhDV1Y4S2RxNnJQRDN5VFdrTDl2dERvQmxqVldQNElWT19JS3dXNWRuakRMUnZueWo2LXV3d0V2V3JWNXQ0SDdMUVF1cXRSNENiVWZDMEw3bDlHQ0Zmck9UYzktVHN1TTdtVm5SeFh1Xy1tQzBBa0I2Z2xZbk01UkVGZzI0azdfVTVmVkFwVkVudDZKdEZJY2FKekhOc2pzWFNpYnMxOHgySkpPVkdNTWowTDRiMW5LZGlLYVJNRkpSNkJmZFF3ME42WFJaTVJpQkdmSDIxMThzNVhVQXptdGtmMDVNNmJIQ2hYaEV3": 1794323174678,
     "news:CBMitwFBVV95cUxNOFlKeVdYVGhnOGJQSUozN0Q5eFhnZzlHU1RSQWxLUndvNXA5c25Nejdrb0xUZVZCMFJSRDdRU09kUjAwcmZEUGNHUmQ0RmMxa0RleHlXdFBiSHBEQkR2Ty1SUjhjYnRBOTFHRkpjeEc5Y0lVTktUU2FYdjRhWjFOY1hpZ0J1RzV0Rm0zZEw1Z3RyTlBoWmhveGJ2dHd0RDFvQVkxLXNPV2RVNDZtUVljVWZKNnRXVjg": 1794323174678,
-    "news:CBMiigFBVV95cUxOTFZvZ0ppbWNnLTFvVnUyS2ZsaUp2Sk9RVGVFWDA4WUtFdHdwajh1YjVsV2pyRmdFNnFZYThJb09WYzNQNzl0SjBNMFN0VnFEbFV4NEgxYU9zTHVjQ1QwSUtrbUhtRVJ0eTMtdm1oR3V2eGdVZUNFS2QycnhJODBLM2s0N3R4Y1drVXc": 1794323174678
+    "news:CBMiigFBVV95cUxOTFZvZ0ppbWNnLTFvVnUyS2ZsaUp2Sk9RVGVFWDA4WUtFdHdwajh1YjVsV2pyRmdFNnFZYThJb09WYzNQNzl0SjBNMFN0VnFEbFV4NEgxYU9zTHVjQ1QwSUtrbUhtRVJ0eTMtdm1oR3V2eGdVZUNFS2QycnhJODBLM2s0N3R4Y1drVXc": 1794323174678,
+    "threads:DfkMB5cFeVc": 1794323443132,
+    "threads:DfkL5NFitGI": 1794323443132,
+    "threads:DfkLn7PCBwB": 1794323443132,
+    "threads:DfkF2Qwkf-a": 1794323443132,
+    "threads:DfkLbkeEefj": 1794323443132,
+    "threads:DfkKvjQE8A0": 1794323443132,
+    "threads:DfkMlQpD_HX": 1794323443132,
+    "threads:DfkMbUhkia8": 1794323443132,
+    "threads:DfkLOM2j1QB": 1794323443132,
+    "threads:DfkKoWbD3hu": 1794323443132,
+    "threads:DfkK4lcHRqB": 1794323443132,
+    "threads:De_7XBDn0OW": 1794323443132
   },
   "digest": [
     {
@@ -28296,10 +28305,60 @@
       "d": 1794310920000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa coba bisnis online yuk 😊 Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menja",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkMlQpD_HX",
+      "d": 1794323431000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Kalo ada yg ngasih webinar GRATIS mau gak ? Ngebahas cuan dari digital. buat umum, pemula, gaptek, dibimbing sama mentor2 sampe masuk income. bisa di kerjakan dari rumah, bisa pake",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfkMbUhkia8",
+      "d": 1794323350000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa coba bisnis online 😊 Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi a",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkLOM2j1QB",
+      "d": 1794322718000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, coba bisnis online kak Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi affil",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkKoWbD3hu",
+      "d": 1794322408000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ridho.alamanda",
+      "x": "Halo ka. Bisa les dengan saya, lulusan pendidikan bahasa Prancis dengan pelatihan di Belgia dan Prancis juga. Pengalaman 10 tahun mengajar spesialisasinya persiapan kuliah ke Pranc",
+      "u": "https://www.threads.com/@ridho.alamanda/post/DfkK4lcHRqB",
+      "d": 1794322541000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
