@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_7efnmW0j": 1793107643178,
-    "threads:De_9l-XnTlU": 1793107643178,
-    "threads:De_74WyAfeY": 1793107643178,
-    "threads:De_8cKzATjk": 1793107643178,
-    "threads:De_72m2HRgt": 1793107643178,
-    "threads:De_7fdWmBj5": 1793107643178,
-    "news:CBMi6AFBVV95cUxQWlFTd0ZVMXJJSzRBcnlQQnJZQlNZejBNQUtFVUNaekgwNEpkS2tydF80SW5OdWdWb1NKN2pFUDhJU24wMTNnNnJWNlZJVWlVTnpfU1podWZlenM1WEJwWXlfZ0VNOThBZFE0T0Nac1dGVy04VW5keEFyZjVnX1ZKX0xmcjZnUVNGYnVxN0VyMV82TEVNUDREeEtSR1JzdWVVdm1SU3hkNURDQThDejItbWhEZVV2WllpZHY2bkhQcF9BOTVsYjJIdmJjTHpreWVCdUgzOGhYQWdOZzBlMkhJOXMtUXVRdElH": 1793107643178,
-    "news:CBMijgFBVV95cUxPblJLV1RORnh1M01YWXFFQ3NIYTVHV1JVQk9FWXY2YWlGb185MVh0Qk9ZLUMwVmw5U1BzTEZlZTI3X2hRd1FjNHNTVy1ndm0teXgzd0xFZGNPN19nVTR2MXVjQkZ5RzVYcVF1U2hCNDZXMXpUSDBXM3RBbW5UcGpqRzF2cFlLeFI2LTFpWmdB": 1793107643178,
-    "news:CBMi2AFBVV95cUxOZUVwdzg1ajN6Wk1uNDJYS3oyTzNnRTU0c3NjZ0QtblZOT3BUd2ZLUzJpV0FwRjhQX1RXbFcyOXdWUXlmWkk3MElyXzRMaGNTZEotemNZX1FrUzRWZ3haSWxqY2h4S01KVXRELV8tZW5KMFNkWEtQaFJKUk1nMVpjVjBPSXpLV0FuNy1rUmEtNXBaM09ON1dncDVoYmRYcXhfMWdqRlU0ZWdDaXptUi14N0hyNW81Wmd1TmNjbFRBcnA0TXEtTUpfRnVSWHhyOTRMenRRRFFMSWzSAd4BQVVfeXFMUEJGczEwX3BLLUpUQVpSTFlBUV9MQWdGaVhzMTVuMDJURDZFWFdSNVU2Q0dlSzNhdFlSdjM0N0RTaGJkN2RxaHNpbGJ3dEJDYnRLSVNqUWFPY2ZuTmpwS1piYWVTZXFYaUVKMzc4S2NnZ2JRMy1laElHemVaTnh5Y1BMM0hNQ3VlcEVqdU9HXzhVajk2Q216ZnlOQUlrTmlkVVBsNTBOam1xYVY3WlEyOG5PR1JsV2tzWmJERFhEQzQ4QnZBVDRobjZfT0swaUJYVkYyUFhmcklOdXJ6VzJn": 1793107643178,
-    "news:CBMitAFBVV95cUxONEEtVDVzVXRXdU1JdzVBQTFYeURxd2VIWVpOVmpPalJUN1VTTUcyWm5qdlpRQmNudHllYXF0bnpUNEtXbEc2QnpNbXJUUVlMa0F2aGNkU3pYN0hrcnNoNXdQVjFraVd1SXIzWERJVThWY3B0U19vN0thR1VCOEU5Vk53VWJ6MkRJX3FyTndOYndnQVVDTGVzMTRWMjVlaFN3bkdONXNzdFl1dFJmcnk1SDBBTno": 1793107643178,
-    "news:CBMizwFBVV95cUxOdHB6NnVVVndPaXZpRUJnWTZickgwR2ljdEJaVGM4SXZuU1JOMndDU0NXUUtRUHl3WWoydzByU21KbWdETzFfcGt6ekNwM2NaM1lwbjRPbjBCbGhlM0tvTGZIZ3J5NEZjajY1SHEtZzR1MFVhR2ZlTk1UM2xUbkxaVjRsMThhZ2ZfLUNjUzNvVUJHSnFxMnFkY2s0ZHlscmhscjFzY0g3dEt4TFYzcTBMRkY4emhYVENpWlR5TGRMV0x3SU5UaHRqamU4a1BwaVE": 1793107643178,
     "threads:De_990ck7ed": 1793107854509,
     "threads:De_Xv3IAKaH": 1793107854509,
     "threads:De_74S4gStI": 1793107854509,
@@ -27189,7 +27178,9 @@
     "threads:Dfj-B7AGR_Y": 1794316838854,
     "threads:Dfj9_Aqkgu7": 1794316838854,
     "threads:Dfj_O-eGRQU": 1794316838854,
-    "threads:Dfj93UzCbZ3": 1794316838854
+    "threads:Dfj93UzCbZ3": 1794316838854,
+    "threads:Dfj_8JEGJHt": 1794317138573,
+    "threads:Dfj_O2_DwpW": 1794317138573
   },
   "digest": [
     {
@@ -27731,10 +27722,30 @@
       "d": 1794315716000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@snbastudio",
+      "x": "harusnya kalo desil 1 masih dapet bantuan PKH / BPNT, diketerangan cek bansos biasanya ada YA / TIDAK terkait bantuan yg diterima. apaka PKH / BPNT statusnya YA / TIDAK",
+      "u": "https://www.threads.com/@snbastudio/post/Dfj_8JEGJHt",
+      "d": 1794316803000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Betul, PBI JK itu sekarang hanya untuk desil 1-5 di DTSEN Kemensos, jadi kalau pemutakhiran data menunjukkan kamu desil 6-10 otomatis masuk masa tenggang 90 hari lalu dinonaktifkan",
+      "u": "https://www.threads.com/@meta.ai/post/Dfj_O2_DwpW",
+      "d": 1794316432000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
