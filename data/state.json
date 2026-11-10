@@ -27126,19 +27126,11 @@
     "threads:DfhKGLbmVM-": 1794329438985,
     "threads:DfcMV5JFfwV": 1794329438985,
     "news:CBMi-AFBVV95cUxPYUtBV0RtWG1VcFpCQlduaHBVeEJ0UFVZYW00blBwT2xKRG9XMnVXOFBwV2ZkeWMzcVFNT3NCVFRObkctd2dnbUNwZUNpX0hsb01yY21EU3AzNS00bVVFVDBISmRtdEw0bnFmM0UxU3AzSTdBRklmV2pQZEk3b2dsZEp4Z2l3cUJxSGZRc3hrZ0ppczJ1RGwyWnFkZXF3LTE3VHAzMHFFcmtEdk5pUklhZnphYXdLbktpOXhCMkxva1llSGRuekRhUlZVNHZFMDVwVlhEalFWdnVhaFpaY1FHNmVaeDE5ZTN1UnFyZklaQ2xPZ3pnSmM3UQ": 1794329438985,
-    "news:CBMiU0FVX3lxTE5ZdTdqNDRObzJxZ3BKVGRIRVVOOENqb1U0allBa3JoNTRDWl90X0xlT2FYeXlPSDVETEN4TzdJNUNGSnpzdzVpQVpIMmlmRGowTDEw": 1794329438985
+    "news:CBMiU0FVX3lxTE5ZdTdqNDRObzJxZ3BKVGRIRVVOOENqb1U0allBa3JoNTRDWl90X0xlT2FYeXlPSDVETEN4TzdJNUNGSnpzdzVpQVpIMmlmRGowTDEw": 1794329438985,
+    "threads:De_2PZbGdZU": 1794329731907,
+    "news:CBMiwwFBVV95cUxNWllFT3VIR24ybmhlVlRzS3V4NGJNYWxhOGhwMC1KRExoQ0xLRFQ2aU5MZ1Z1aWEweWFsOWg1ejdpRVRJSDZFVFB3UzVURno2c3NoZkZ5cE9vLTlLUVo0MGdTSjlxaEhrUjkydEpGQzBsUDZmRkx1ZkhuR0ZvVXVQQmxkZDAyLXVxVUxaMk1tYXpITVBxSjEwTEZLODZmZ1F4cTJfYzFtR0JuUDI4OVE4TFdLcnRLZ3cwVkxSMVFWcnJCMmM": 1794329731907
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@tehminibrilink",
-      "x": "> Assalamualaikum 🥰 > PKH Tahap 4 masih proses ya, belum cair merata. Yang belum cair sabar dulu ya. > Yang pegang Kartu KKS Merah Putih, cek berkala saldonya. > *JANGAN LUPA CEK ",
-      "u": "https://www.threads.com/@tehminibrilink/post/Dfj4HTknbCi",
-      "d": 1794312700000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28628,10 +28620,20 @@
       "d": 1794287573000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Tribunjatim.com",
+      "x": "2,5 Juta Produk di Jateng Bersertifikat Halal, Pemprov Terus Lakukan Pendampingan UMKM - Tribunjatim.com",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWllFT3VIR24ybmhlVlRzS3V4NGJNYWxhOGhwMC1KRExoQ0xLRFQ2aU5MZ1Z1aWEweWFsOWg1ejdpRVRJSDZFVFB3UzVURno2c3NoZkZ5cE9vLTlLUVo0MGdTSjlxaEhrUjkydEpGQzBsUDZmRkx1ZkhuR0ZvVXVQQmxkZDAyLXVxVUxaMk1tYXpITVBxSjEwTEZLODZmZ1F4cTJfYzFtR0JuUDI4OVE4TFdLcnRLZ3cwVkxSMVFWcnJCMmM?oc=5",
+      "d": 1794321316000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
