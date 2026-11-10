@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De__fayiV-Z": 1793108750376,
-    "threads:De__XYgkxhm": 1793108750376,
-    "threads:De__SCeiLjh": 1793108750376,
-    "threads:De__HHbgtXn": 1793108750376,
-    "threads:De_-oFrGcFv": 1793108750376,
-    "threads:De__eL6oL9j": 1793108750376,
-    "threads:De__ZRRGFD_": 1793108750376,
-    "threads:De__C6ijPvu": 1793108750376,
-    "threads:De_-gKok7oy": 1793108750376,
-    "threads:De_-lipE0bT": 1793108750376,
-    "news:CBMi4gFBVV95cUxPWFZrRmtLWjRrR1BkeFhaM0tNUURNdVdFSXBvRTFsbTdWZGNZZjVhOGwxck8tdHduT0dTWFc0Qno0dTVodFhaVVd1MHBxN2oxU2NvRjJyc3MtZmNuSW5IT0JacE04OC1lZ0lmVmVfTklzV1AtWW5NVTRfZkk3VFdLMEhFQURXR3c3aGNkcUJEQmVaaTlDUWdYaEhWcFJCNFA2ZG9xQkh0NVVjdUVZY1RWU2w4ZW0xbmQwU2w3bE5LYmpVbFFNWU9BakFGWFlOTjVsSTU0TGJ5ZU5wUTI1WVh4cWFB0gHnAUFVX3lxTE5rZHdIcnBTUzlmaExqM3ltbklwUk1GRUNTTnh6Wmd2Y1dfTGQ5dmF3NGhsWjZwenlsNWpla3Y2bzM4RzBkdEdRaVJYSjk5MTlNNkFyTTlIRDM0d1FvY1RxU2JqT1hoRVlZc2FYMV9BOE1YX0FaVk0tYmtsUHZJU1QwZ1Q1bDF2T29BOEVidzdqbWJ5allrRkFSSjFXTklYYm5JNVZRUlhRVVZwTTZwVFlCeC0wRXBXMGF0cjFoTWsxN0E0YktvT2RDTFlQN09zVko3czV5WnladjBhMzRCSElzTk5nS1IwUQ": 1793108750376,
     "threads:De__TCwGTMB": 1793109045807,
     "threads:DfAAXJyk7Qg": 1793109045807,
     "threads:De__-IHk_Q7": 1793109045807,
@@ -27157,7 +27146,12 @@
     "threads:DfkCQJ4Cf_H": 1794318112665,
     "threads:DfkCIvhEqL_": 1794318112665,
     "threads:DfkB3u3EbUr": 1794318112665,
-    "threads:DfkBQLCEs_8": 1794318112665
+    "threads:DfkBQLCEs_8": 1794318112665,
+    "threads:DfkCFenkvq8": 1794318337571,
+    "threads:DfkBulMD3Me": 1794318337571,
+    "threads:DfkC3QDFFFw": 1794318337571,
+    "threads:DfkCflAlD7I": 1794318337571,
+    "threads:DVUoLU1EsHb": 1794318337571
   },
   "digest": [
     {
@@ -27759,10 +27753,40 @@
       "d": 1794317573000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba bisnis online, bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendiri. ",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkBulMD3Me",
+      "d": 1794317740000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bbright.ec",
+      "x": "Hai kak! B-Bright EC menyediakan les privat Matematika untuk anak kelas 7 SMP dengan pembelajaran 1-on-1. Materi bisa difokuskan pada pemahaman konsep, pendalaman materi sekolah, d",
+      "u": "https://www.threads.com/@bbright.ec/post/DfkC3QDFFFw",
+      "d": 1794318335000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bbright.ec",
+      "x": "Hai kak! B-Bright EC menyediakan les privat Matematika untuk jenjang SMA dengan pembelajaran 1-on-1 yang disesuaikan kebutuhan siswa. Bisa fokus pada pemahaman konsep, pendalaman m",
+      "u": "https://www.threads.com/@bbright.ec/post/DfkCflAlD7I",
+      "d": 1794318142000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
