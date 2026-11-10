@@ -60,27 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-zUnNitof": 1793069447517,
-    "threads:DVgR5BDEemO": 1793069447517,
-    "threads:De-02NDAVC_": 1793069447517,
-    "threads:De-0ckmFE2i": 1793069447517,
-    "threads:De-0FztEs-r": 1793069447517,
-    "threads:De-0wSIju0m": 1793069447517,
-    "threads:De-0wYIE6pV": 1793069447517,
-    "threads:De-0uZyExiH": 1793069447517,
-    "threads:De-0lK1k8Py": 1793069447517,
-    "threads:De-0akHDdZv": 1793069447517,
-    "threads:De-0aRrDMTa": 1793069447517,
-    "threads:De-smAsGtUd": 1793069447517,
-    "threads:De-0Jr-jVZC": 1793069447517,
-    "threads:De-z5bJCTHE": 1793069447517,
-    "threads:De-z0MYCSQf": 1793069447517,
-    "threads:De-zwxoEwsy": 1793069447517,
-    "threads:De-zvhAH4y9": 1793069447517,
-    "threads:De-zl7Tkpex": 1793069447517,
-    "threads:De-z7EBGRQz": 1793069447517,
-    "threads:De-0Te7GWVe": 1793069447517,
-    "news:CBMiiAFBVV95cUxPRnVBRzNpYjlFWmoyWko3MFZ3RTBCZVNnck1KelJDMXZKdGJ3Nll1SFV6cWlCbjEwUUlPSkVXTXJGcEJJWndIdVFyWk1MNEU5SHdsQ0FJejlHUlA0Tk9tOThnQUUtaENuR0R1ak5BcURiMzd1YTc4R2Izc1VmQ3c0ZHFEOXRKRjJq": 1793069447517,
     "threads:De8vFzFlKTH": 1793069741901,
     "threads:De-0vZin2o3": 1793069741901,
     "threads:De-0Gs2Eq9r": 1793069741901,
@@ -27414,7 +27393,8 @@
     "threads:Dfi1PU4owiF": 1794278752873,
     "threads:Dfi3FLXGfEO": 1794278752873,
     "threads:Dfi2tmhj_Oj": 1794278752873,
-    "news:CBMitgFBVV95cUxQTDFHdlNRRWVDYkFFSkJiTklvWDh6SzlydnYxTkc5WlRLOXBtVnZuNW1QT1pVREtKa1JUZXQtVC16MnBfVkx4ek1UX1k3LXR3a3MxczFZOE1BQlg4MFBBdmxmZ3dCdkUyWkswOFpNbHR2cWRRbXJ2cVVObXVBaGxwNXN4bkktRkR2Tl85VU1VNUdxY3c2T1pQNVRieGhpRkFycmEzVkZobFFxdFJqQk9OWWJpVHdtUQ": 1794278752873
+    "news:CBMitgFBVV95cUxQTDFHdlNRRWVDYkFFSkJiTklvWDh6SzlydnYxTkc5WlRLOXBtVnZuNW1QT1pVREtKa1JUZXQtVC16MnBfVkx4ek1UX1k3LXR3a3MxczFZOE1BQlg4MFBBdmxmZ3dCdkUyWkswOFpNbHR2cWRRbXJ2cVVObXVBaGxwNXN4bkktRkR2Tl85VU1VNUdxY3c2T1pQNVRieGhpRkFycmEzVkZobFFxdFJqQk9OWWJpVHdtUQ": 1794278752873,
+    "news:CBMisAFBVV95cUxQanFLRVVkc1JRQkRoUE5vSTB3ajA4Yk9xTk5PR0hKSzhLb2JOVzVENjZyNEpxLWYycFg3Yl9kU1B3WXA4TlREbTNHaEN4UzEwVGhTVGIzR1NRN0hJU3RnNjI2RngtMExpQjIwaVp2ZjhyYjFfQ3V3a0dNZjJMZ2YxckZBLW5VTDZTak1zODNfbDg4aGtFNDVvZ0g2SVZENmN3aEN3OE5LMTB6bjN6cWRLdA": 1794279055156
   },
   "digest": [
     {
@@ -28096,10 +28076,20 @@
       "d": 1794278478000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-papua.com",
+      "x": "Jayawijaya Targetkan Penyaluran Bansos Tahap III dan IV Cair November - Tribun-papua.com",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanFLRVVkc1JRQkRoUE5vSTB3ajA4Yk9xTk5PR0hKSzhLb2JOVzVENjZyNEpxLWYycFg3Yl9kU1B3WXA4TlREbTNHaEN4UzEwVGhTVGIzR1NRN0hJU3RnNjI2RngtMExpQjIwaVp2ZjhyYjFfQ3V3a0dNZjJMZ2YxckZBLW5VTDZTak1zODNfbDg4aGtFNDVvZ0g2SVZENmN3aEN3OE5LMTB6bjN6cWRLdA?oc=5",
+      "d": 1794278711000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
