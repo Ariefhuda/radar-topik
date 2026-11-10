@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBCJsNk-Bt": 1793143562931,
-    "threads:DfBCKzxGjkW": 1793143562931,
-    "threads:DfBCFXjjX1C": 1793143562931,
-    "threads:DfBBkLHj_xv": 1793143562931,
-    "threads:DfBBhzPEZpp": 1793143562931,
-    "threads:DfA_a9uEiTu": 1793143562931,
-    "threads:DfA_YOUj6qx": 1793143562931,
-    "threads:DfA_TTJmW-b": 1793143562931,
-    "threads:DfBBgrwjK_S": 1793143562931,
-    "threads:DfBBH67E2Tu": 1793143562931,
-    "threads:DfBBTW3EpaO": 1793143562931,
-    "threads:DfBBP2Fkg-W": 1793143562931,
-    "threads:DfBBOHoEoLL": 1793143562931,
     "threads:Dd-c2eYCR6Y": 1793143847615,
     "threads:DfBCMfVHfGy": 1793143847615,
     "threads:DdsRO0bErUj": 1793143847615,
@@ -27122,29 +27109,11 @@
     "threads:DflD3XWgfmi": 1794352855405,
     "threads:DflEX78ExL_": 1794352855405,
     "threads:DflEIJmkxI7": 1794352855405,
-    "threads:DfMHOCeE4rC": 1794352855405
+    "threads:DfMHOCeE4rC": 1794352855405,
+    "threads:DflETqjEgxx": 1794353137881,
+    "threads:DflEBJOiHgj": 1794353137881
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lin8.ji",
-      "x": "Kalau itu kurang tahu saya kak, coba bisa searching, karena saya juga dadakan waktu itu ada pelatihan dari p4ekraf di jakarta Housekeeping dan dapat sertifikat semuanya gratis, cob",
-      "u": "https://www.threads.com/@lin8.ji/post/DfkANupk3EI",
-      "d": 1794316947000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "news.fin.co.id",
-      "x": "5 Daftar Bansos Cair November 2026: Siapa yang Berhak Menerima? Ini Kriteria dan Cara Cek Datanya! - news.fin.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYU0tQ0MxUjlCU0NRSDlEMTRYUkxEa2lkSWM2bXBDZGgySjZITDAteDg2X1BBWUFKMmlCWUhaYmVUNDRVaG5ER3E5cENwWUxjVEh6eEtURUI1MzhDY0l5S2FJR191dWFqM1BjRkxMb01qMHFWTlBtVmNlMnZKMzF1LVJhQkltRVVyRU1lTGxXRVpncElkR0VqLWtiX21nMVNxUVVNVDlOUk83bXdlLWM0ZlVJTi1oQ1dlNGYwRGxzSS1QSllUNTdaRw?oc=5",
-      "d": 1794299164000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28624,10 +28593,30 @@
       "d": 1794352553000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@caregiverdepok",
+      "x": "cek di bansos kak",
+      "u": "https://www.threads.com/@caregiverdepok/post/DflETqjEgxx",
+      "d": 1794352647000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Iya, ini 100% modus penipuan. Gak ada program bantuan pemerintah 2026 yang bagi rata Rp 35jt buat sekolah, kuliah, modal usaha, bayar hutang, renovasi rumah semua lewat nomor Whats",
+      "u": "https://www.threads.com/@meta.ai/post/DflEBJOiHgj",
+      "d": 1794352495000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
