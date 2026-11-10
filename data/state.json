@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_rPIIkuLR": 1793098241584,
-    "threads:De_q2JZCH7_": 1793098241584,
-    "threads:De_qDtnD9ry": 1793098241584,
-    "threads:De_rFk1j9eW": 1793098241584,
-    "threads:De_rBgVE0ZT": 1793098241584,
     "threads:De_rKZYgZnd": 1793098568408,
     "threads:De_rHrrja5n": 1793098568408,
     "threads:De_q0YLj8SN": 1793098568408,
@@ -27241,29 +27236,13 @@
     "news:CBMiowFBVV95cUxNaDdhbndTY2JxTnoxYWJkQ2dEUmNTUko3UVhQZVNnVjctSWhCbDJyd1Z0TGtNR3FrRDJoekh2LWtRMnkzWmxLQm0zelFZak01UTZKNTZTUzREZHNrZ3R0M2VkLTFCbzllLW1JTHdsdTN3d2N6bm9KOURnNXU1WThoTXlnTnlPLVZpUl9QX2U1OFRVRTlwZ2I5YTk1WHVlSTgzSHJV0gGoAUFVX3lxTFAwVWpaZE1RczZhVUxsckhDQVQ2V1JNMG5MVW5SbW5zNkROSUlUeVJnenk3Q2RWN010NjNPWlJSSXlISURtcWthYjNoQlFnVXNMelhyRVZ3YUNWOENjSUZjTTY3R041a0ROQUhPd3E1bDhQV3NieTlIM1VWZkh3WHA5M0JSVG5YNlV3WmIwYU1CX2hNM056T3Nwd0pJYTd4c3Q1OTlyaWo2SA": 1794307368598,
     "news:CBMi2gFBVV95cUxQenp5ZVhJcEpqQUxieXdnTE9mcXpPcjFSQVU3V1o0a2ZwUm9XNnlnbWJTZFNyZF9GS0FYSEZ2MlJDX1JuQ19taGdNQlNfcEV0SXdacGxySkw1RERVX0w4bUZCLXo0MWx6elVsTkZNN3lka0xTemVaSmFkZEQ5eXBBVWZnOUI3bnF2UWZGZ2dzdEV5QjVqemhvcldqa0w2YW5ydm1Ya0xjcFFSVmwtWGtwMWFnQTVHRTBHdHdHeDktQnNLNFJnOEpLbXlIcV9iZ3g0dkQtRGpfZEJhUdIB2gFBVV95cUxQenp5ZVhJcEpqQUxieXdnTE9mcXpPcjFSQVU3V1o0a2ZwUm9XNnlnbWJTZFNyZF9GS0FYSEZ2MlJDX1JuQ19taGdNQlNfcEV0SXdacGxySkw1RERVX0w4bUZCLXo0MWx6elVsTkZNN3lka0xTemVaSmFkZEQ5eXBBVWZnOUI3bnF2UWZGZ2dzdEV5QjVqemhvcldqa0w2YW5ydm1Ya0xjcFFSVmwtWGtwMWFnQTVHRTBHdHdHeDktQnNLNFJnOEpLbXlIcV9iZ3g0dkQtRGpfZEJhUQ": 1794307368598,
     "news:CBMi1wFBVV95cUxOVWZleWRabTV1TF8xMlNiR0ViMFk3UVFWUGJtSVZ1eTROQjYxMHQzeTFfU2RSS1FLSlVQa3I0UzFLc2RadUVSeTh1WVgtMlRQOGc0X3NVd1plZDUwZVJqakhIenZWRk80WGs3NmFFUllBR2FzV2lnNjVTclRBbHZSWWh1eGduWWpweGlfbHdJLV9fdWlacld6UkhYWjlVOUJoRFV1aEY1WWV4LVdzbUt4dF9hX0tpODIwRWREVHZmT3RNVUVWRFpmN3Rwcy1vbUl1MGJFQ0QzMA": 1794307537235,
-    "news:CBMirwFBVV95cUxNRnowYlpIcHFoaGZHRGM1WUF3dURfdU1lZUN2NnFnUDJULUVoX1FnRnBJN1MyaGdId19pa0VfLWRPR3hYQ0ktLVh1OWhGQ1NhaEZKTkwwX0szLW9za0R0aG1Qekk2THZuSzF1TzZ3U096b0dyN0JEMHU1bVdYOWR2WWpXYUZzaVdnY01KOHFpVmdULXZvdThEdjM4RV9jeVk2Y3NfOVlSZ2tpNi1BNWhN": 1794307537235
+    "news:CBMirwFBVV95cUxNRnowYlpIcHFoaGZHRGM1WUF3dURfdU1lZUN2NnFnUDJULUVoX1FnRnBJN1MyaGdId19pa0VfLWRPR3hYQ0ktLVh1OWhGQ1NhaEZKTkwwX0szLW9za0R0aG1Qekk2THZuSzF1TzZ3U096b0dyN0JEMHU1bVdYOWR2WWpXYUZzaVdnY01KOHFpVmdULXZvdThEdjM4RV9jeVk2Y3NfOVlSZ2tpNi1BNWhN": 1794307537235,
+    "threads:Dfjuu-EE3P1": 1794307839292,
+    "threads:DfjukB_CLXe": 1794307839292,
+    "threads:Dfjt1phj-FR": 1794307839292,
+    "news:CBMioAFBVV95cUxNTWNNVmFra3pqUzNCeHFVQzhsb0hndnV0Ri1fdXVKOEZUYzB1TzUwZy1Ud0xPLXVDXzBMNHgxazFTcE5KNllZRUpRQ3dzcmg5Ynp4WlR5SWhfZzY2WGRCQUxoeHlyeUFkbHIwXzFGVWk0Z2VTYzRZcWw2TmNtNnlibmVrSE5McTNuVWdrT2hpTkFkVlA1dlN4c0s0OElGVWVN0gGgAUFVX3lxTE1NY01WYWtrempTM0J4cVVDOGxvSGd2dXRGLV91dUo4RlRjMHVPNTBnLVR3TE8tdUNfMEw0eDFrMVNwTko2WVlFSlFDd3NyaDlienhaVHlJaF9nNjZYZEJBTGh4eXJ5QWRscjBfMUZVaTRnZVNjNFlxbDZOY202eWJuZWtITkxxM25VZ2tPaGlOQWRWUDV2U3hzSzQ4SUZVZU0": 1794307839292
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Girls kalian lagi bingung menentukan arah karier, susah cari kerja, atau ingin switch career tapi nggak tahu harus mulai dari mana? Eits tenang aja karena ada kesempatan mendapatka",
-      "u": "https://www.threads.com/@faarida463/post/DfjdJn4H0HL",
-      "d": 1794298563000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@faarida463",
-      "x": "Girls kalian lagi bingung menentukan arah karier, susah cari kerja, atau ingin switch career tapi nggak tahu harus mulai dari mana? Eits tenang aja karena ada kesempatan mendapatka",
-      "u": "https://www.threads.com/@faarida463/post/DfjcyUkn36U",
-      "d": 1794298372000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28743,10 +28722,30 @@
       "d": 1794225900000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kreatornaikkelaswithai",
+      "x": "Halo kakak. Yuk join di sini 👉 https://s.id/wagroupwebinargratis untuk ikutan webinar gratis buat belajar animasi pakai AI. Plus dikasih bonus Canva Pro gratis kak.",
+      "u": "https://www.threads.com/@kreatornaikkelaswithai/post/Dfjt1phj-FR",
+      "d": 1794307312000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Ketik",
+      "x": "Beasiswa Pemkot Malang 2026 UIN Malang Dibuka, Cek Syarat dan Link Pendaftaran - Ketik",
+      "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTWNNVmFra3pqUzNCeHFVQzhsb0hndnV0Ri1fdXVKOEZUYzB1TzUwZy1Ud0xPLXVDXzBMNHgxazFTcE5KNllZRUpRQ3dzcmg5Ynp4WlR5SWhfZzY2WGRCQUxoeHlyeUFkbHIwXzFGVWk0Z2VTYzRZcWw2TmNtNnlibmVrSE5McTNuVWdrT2hpTkFkVlA1dlN4c0s0OElGVWVN0gGgAUFVX3lxTE1NY01WYWtrempTM0J4cVVDOGxvSGd2dXRGLV91dUo4RlRjMHVPNTBnLVR3TE8tdUNfMEw0eDFrMVNwTko2WVlFSlFDd3NyaDlienhaVHlJaF9nNjZYZEJBTGh4eXJ5QWRscjBfMUZVaTRnZVNjNFlxbDZOY202eWJuZWtITkxxM25VZ2tPaGlOQWRWUDV2U3hzSzQ4SUZVZU0?oc=5",
+      "d": 1794303060000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
