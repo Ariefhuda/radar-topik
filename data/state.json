@@ -27403,7 +27403,9 @@
     "threads:Dfi4nn5GOer": 1794279338039,
     "threads:Dfi4ZdrOgyM": 1794279338039,
     "news:CBMiyAFBVV95cUxQU1lHc2xvalpQeGNEQURrWHZRWGZsSkFDUFEybWtvV0NFT2cyRk9Pam9aY0RXOTAwMndOa2xYNzJRazlPdWViZ2VQUXM5ZHVOTVpXS0JDWjRXaktMQ0QwU3E0UV9FMXJlWmQ5a19pTVpPbGNDT0hqa2Q5VFlRUHJma1Q4QUREWkRVWmZXM1NNbTZmRG5BeHFuOUQxS0hTdGhQcm1IMmFqTG53cEp4azBRN3hRWDFucU9UQ1NMWEFmb3Jqa0ZybnJmdA": 1794279338039,
-    "news:CBMijAFBVV95cUxQNXpUT3JpdVRDWWd6V2pSMzFodWVZT3dOdlh4QmJBYVgxRXQ0VXUxa3hrU0dIT0VadkkzVko0V2tyYjAzdGFfSGd5ellmU1ZYTEtGWGRoSmxUbXE0QUpwaDFWZ2l6ejl0NFBWX1dlalRvd3JnZjhmUC1TRkNhZEs0TU94aDhGczVyQjE3ZQ": 1794279338039
+    "news:CBMijAFBVV95cUxQNXpUT3JpdVRDWWd6V2pSMzFodWVZT3dOdlh4QmJBYVgxRXQ0VXUxa3hrU0dIT0VadkkzVko0V2tyYjAzdGFfSGd5ellmU1ZYTEtGWGRoSmxUbXE0QUpwaDFWZ2l6ejl0NFBWX1dlalRvd3JnZjhmUC1TRkNhZEs0TU94aDhGczVyQjE3ZQ": 1794279338039,
+    "threads:Dc0lLfkCWKb": 1794279654488,
+    "threads:Dfi4JqcGZs_": 1794279654488
   },
   "digest": [
     {
@@ -28175,10 +28177,20 @@
       "d": 1794278460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@beasiswapasca",
+      "x": "Riset di Jepang, biaya ditanggung? OIST Research Internship 2027 dibuka! - Untuk mahasiswa S1 tingkat akhir, S2, dan lulusan S1/S2 - Durasi 4-6 bulan di Okinawa - Fisika, kimia, ne",
+      "u": "https://www.threads.com/@beasiswapasca/post/Dfi4JqcGZs_",
+      "d": 1794279165000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
