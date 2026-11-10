@@ -27124,19 +27124,11 @@
     "threads:DfkyaoHiQM1": 1794343837127,
     "threads:DfkzXrXupex": 1794343837127,
     "threads:Dfkyes3jHuH": 1794343837127,
-    "news:CBMidkFVX3lxTE1VbF9mUXotYjB2bXlGQkkwREEzRTJLNG8wUlBJQmNZNmVQY3pJMW91bFpjWTFmWXJTZzJpeGpoaUZOcXFTNjR6OUxXaGM4SzdRWW8xZnRoeDhGWFhfTHh0eHVDNlROMGZGOWN1UnFpMEZQWGI0cXc": 1794343837127
+    "news:CBMidkFVX3lxTE1VbF9mUXotYjB2bXlGQkkwREEzRTJLNG8wUlBJQmNZNmVQY3pJMW91bFpjWTFmWXJTZzJpeGpoaUZOcXFTNjR6OUxXaGM4SzdRWW8xZnRoeDhGWFhfTHh0eHVDNlROMGZGOWN1UnFpMEZQWGI0cXc": 1794343837127,
+    "threads:DeRbLMdI5Ut": 1794344137702,
+    "news:CBMizgFBVV95cUxNNFB0Zl91T2VhQW91SlZhbDlCNG8xX2pSUW5nRGh0UnFGZUlqS1dXUDlaeEtiY1ljaTBjTFBtR2l0QW41ZW9WYXR6eWlja3dxNm9SN3FqcDQyeERjSmhFZzZVckMteEZ5b3hLMVFva2s4Z2ZFRFh3bk1pUWJ1VmplNU1BWmNlbkxVaDNjUU9ycC1qNFd5VS04Z20yd2tQaTVKRDNQN2VRa3E5aTYwYzJWZ3JGTlVqZGx1WEF6ZnFMT2RrV3F2dHdYSTREMURGZw": 1794344137702
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "Cek DM Link Pendaftaran Pelatihan SPSS Gratis :",
-      "u": "https://www.threads.com/@erykka_ystr/post/Dfj9NVWme0I",
-      "d": 1794315371000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28626,10 +28618,20 @@
       "d": 1794319320000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Urupedia",
+      "x": "Makan Bergizi Gratis di Persimpangan Jalan, Antara Ambisi Nasional dan Realitas Keamanan Pangan - Urupedia",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFB0Zl91T2VhQW91SlZhbDlCNG8xX2pSUW5nRGh0UnFGZUlqS1dXUDlaeEtiY1ljaTBjTFBtR2l0QW41ZW9WYXR6eWlja3dxNm9SN3FqcDQyeERjSmhFZzZVckMteEZ5b3hLMVFva2s4Z2ZFRFh3bk1pUWJ1VmplNU1BWmNlbkxVaDNjUU9ycC1qNFd5VS04Z20yd2tQaTVKRDNQN2VRa3E5aTYwYzJWZ3JGTlVqZGx1WEF6ZnFMT2RrV3F2dHdYSTREMURGZw?oc=5",
+      "d": 1794329873000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
