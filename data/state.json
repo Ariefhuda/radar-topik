@@ -60,26 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-k-D5j1MF": 1793061335783,
-    "threads:De-kgHjEuDE": 1793061335783,
-    "threads:De-dsTxDzIq": 1793061335783,
-    "threads:De-j-cjDdka": 1793061335783,
-    "threads:De-jI9cCPvl": 1793061335783,
-    "threads:De-i3k5yuib": 1793061335783,
-    "threads:De-iulUFB0e": 1793061335783,
-    "threads:De-iuavox__": 1793061335783,
-    "threads:De-iQoTDukR": 1793061335783,
-    "threads:De-h3G0gi1D": 1793061335783,
-    "threads:De-h0zzj2xj": 1793061335783,
-    "threads:De-heLzis8v": 1793061335783,
-    "threads:De-hgBrHwYD": 1793061335783,
-    "threads:De88UBBjat8": 1793061335783,
-    "threads:Dex8uOOGD4b": 1793061335783,
-    "threads:DYswEyEkxNB": 1793061335783,
-    "threads:De-kb0Vj3HB": 1793061335783,
-    "news:CBMipAFBVV95cUxQaGZUWUlKejVuZF9YSWFsMTZoV3pwX0NLMHluOEJQNGJnaU8xS09ZanY3MGIzSDhDV2daZVh1c3ZXNWs0R2ZlN2xmaFRraGhYOTdUVXBEdXhndG84dnp1Z1d6TXFCRFdSWnRhZ0FkeXJ4cVRiOFZYZGV0R0Z1dnJSNHc1VkM4TjdUcVpMVXoxcjVHbkoxcGtwX0tuSU10QkZELWZxTA": 1793061335783,
-    "news:CBMipwFBVV95cUxQSGNmN0NsMl9Pc2dlaFUza2ZJaFE4NU9CQmNtTkVKQ09WanJxa2daaWxZRFpoUGZIVVF3YnRIQklxb2pzTnI2R3RaUlB6dWdJbmhIbHMzN1VSRjczdl9FcnJqWEVkZ2QzVTloQVBPWmNCZ3hjLXVRNHBweTNRRjE4V2pKcWZJOVQ2V1NlZkt2Tm5qR3QzWkhyVFg0TFpMdHRxUWxRVXBJNNIBrAFBVV95cUxOUVlhbFVJNVZYYm1EUlA5YzVtWDdYR2tuNGY0RG5hOFI5ODRnbFNaRk14VmFDT05ZaGozUjBMcmtPUTNyWm9IZ2dSTEd3LU5GNEFGei1nVHFJa0tWalctWllHYjBTRFlhc1RsNEE1U3FUZmM5MEhMblVMNzR4N0FueFFsTW5Lb2dFSU94aHpyQzNKU21GeW9CUjdZdkV6UFdJVnBITDhvX3dUaE10": 1793061335783,
-    "news:CBMi0gFBVV95cUxPQ2FPd1FTZFdLSVpIMzdOMFg5OGFuX1JNNWVDUWdRcFNqelNxclhwekhQdzJaQXpnZ0RtQWRsNnNVM0RMTGxLbTMwRXJtTS1ZYW13SU1ocVZ5UE5KeU1fMUVheF9nYTJPUzNnei1xdnZ5THgxa1l1Z3pVX1N0cHRKWVExeU1MclhjSEoycUNoc2pmNmUwdlRDUmhxSC1GU0JzRXVqTFdfWEhSYlZWLTlfZ3Ztc3hBLXFKSzlUWGQ1VUdIOG9wV2hackpCTWRqMEZ5bUHSAdIBQVVfeXFMT0NhT3dRU2RXS0laSDM3TjBYOThhbl9STTVlQ1FnUXBTanpTcXJYcHpIUHcyWkF6Z2dEbUFkbDZzVTNETExsS20zMEVybU0tWWFtd0lNaHFWeVBOSnlNXzFFYXhfZ2EyT1MzZ3otcXZ2eUx4MWtZdWd6VV9TdHB0SllRMXlNTHJYY0hKMnFDaHNqZjZlMHZUQ1JocUgtRlNCc0V1akxXX1hIUmJWVi05X2d2bXN4QS1xSks5VFhkNVVHSDhvcFdoWnJKQk1kajBGeW1B": 1793061335783,
     "news:CBMitwFBVV95cUxQeVlVRzJ4ZzlCNzdNVkhDSWM5U3NsTGVzbEw2eDBRVEZ0UzZqVWl0OV95U2RZbXV4NjdiWmwxSjJ4cHRPbDJuMjh2d3VBTzRDSXZ2b0l1cGwwRFgtclRWNnowcWFBbkMzcGRseGpXbWVRdXE0MkMtbHUtM2pvaW80UDY4WGE5bXREQzR6dnotRjM5YmZSSzc2TUlUODU5T3BvSXAyQ0dJaUpwbFpRUmdMN004TkstTzjSAbwBQVVfeXFMTVkxUFBhT2MwcURNOXdqajhtdGk2cVVZRUQ1UzZ6dkkwd0t0dWtuZkpMU29BVXJFcWpkb29oUWswOEJITF9MZ2NrYTVfUFR3T2NwSUp6TUZPQkh4b3NWLUZhQXVFVFpwdUFYZ3U3amhucVhhZldEajZWQW5qZFZPRldsMlp4Smdoa0NuTkh1OHRKalJFa2htVHAyeWhuVjdTN1JvWjhucnV1c2l3RWlVRVh4YnhBaWZzVWM4ZVM": 1793061641046,
     "news:CBMiU0FVX3lxTE1PNjl2MlJSZ2YxZ04tc2xIck0zakNLM1V1THBfcDBNVzUtclVmSnJjeWZTRWdpT0dpeTJVZTMxQ2ZtYzVKTEJnR1FzWW5lb3A1aU53": 1793061641046,
     "news:CBMiYEFVX3lxTE05V0M3dUtsejRYbWFSVFlqV0NXVjlPbGozV0MtTDE4WVlteWxFcjFlN1N1WVJiMEhSdUtDdXl2dVBMLXNBclcwdUM3dm5laURFcS0wRW1HcnNHSmVaaVBGYQ": 1793061641046,
@@ -27489,19 +27469,11 @@
     "threads:Dfin08lEnS7": 1794270646183,
     "threads:Dfim6CAmYVM": 1794270646183,
     "threads:DfimWxmEWkf": 1794270646183,
-    "threads:DfimbAwEqAF": 1794270646183
+    "threads:DfimbAwEqAF": 1794270646183,
+    "threads:Dfinh6kgEjT": 1794270941918,
+    "threads:DfioTwAEh3u": 1794270941918
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@intjemutia",
-      "x": "Assalamualaikum Bapak/Ibu Guru Hebat 🙏 Saya sudah ikut Gemini Academy - Gerakan Guru Madrasah Akrab AI (GEMA AI). Ilmunya bagus sekali, cara buat soal, RPP, dan portofolio pakai A",
-      "u": "https://www.threads.com/@intjemutia/post/Dfhj2VZgWUd",
-      "d": 1794234966000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28991,10 +28963,20 @@
       "d": 1794269870000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Gak bisa list semua mate, tapi yang sudah putusan inkrah dan catatannya publik ini yang paling sering disebut: 1. Juliari Peter Batubara - eks Mensos, korupsi bansos Covid-19 divon",
+      "u": "https://www.threads.com/@meta.ai/post/Dfinh6kgEjT",
+      "d": 1794270451000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
