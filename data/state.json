@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_eIlCEieH": 1793092541710,
-    "threads:De_d4eDCXJM": 1793092541710,
-    "news:CBMiugFBVV95cUxQY21DS19IQmc1bVN0VjRYcDRZQWN0dWFTcWctQkVkNUh0NVVPcHh4WXNVaTltWkVRRVY2Sm5EU3VESXdHcjE2OGtEUWNXY1dianctbVc5WHByWlIxdmZCb2I2dkZGMU9Pakdtc3dJbmdYcnhGVmNPWjNUTkVPMzRtOS1EWDNONzlVT04zRnV0SUtLU0RRMUJHOURJS0NMQ0x4d2g2bUMzTFRod0lqcTMwcHJ4SHF2YXJmdEHSAboBQVVfeXFMUGNtQ0tfSEJnNW1TdFY0WHA0WUFjdHVhU3FnLUJFZDVIdDVVT3B4eFlzVWk5bVpFUUVWNkpuRFN1REl3R3IxNjhrRFFjV2NXYmp3LW1XOVhwclpSMXZmQm9iNnZGRjFPT2pHbXN3SW5nWHJ4RlZjT1ozVE5FTzM0bTktRFgzTjc5VU9OM0Z1dElLS1NEUTFCRzlESUtDTENMeHdoNm1DM0xUaHdJanEzMHByeEhxdmFyZnRB": 1793092541710,
-    "news:CBMie0FVX3lxTFAwTEtxR21vOXJ1VXJmUVZoWWtLVFNYb0tNZ0Z6QTZBRHdzMnFTQ1NUY0dtSy1OSmhFRWZ0WnNwV29kV3V1aFM5U2FGNU52MmxIenRiQ0w5V0liMEtVblJleGw3cUlHajdIWDFQSkdTcDVleGczSGdrd3RlQQ": 1793092541710,
-    "news:CBMikwFBVV95cUxNYXB3aFd1TW5xYm1JMUd2MzhGWkhnTGVyUDRRRWpBNFdDbHVDWkd3S1pVR3c3Nm50dC1tTmRWczRxaU9qSkkxbWp2VkktRnhuc0w2dzR0SHZJaVJ3NGhfNUkwdVYtaERPWjhQNVRnTTliWnhRQk9QZW9FTkdVTWFOaTZ3S1FxZ3lhM00xOWh1UUN3T1U": 1793092541710,
-    "news:CBMiqwFBVV95cUxOSUdFclhIUEQ0LURUcFFCZWRJVzFxczBpN0Z3eUw0MVRQWXZJeE5sc0UzazhWS0dtVGh4dnRQeHBGZ09paHkwOC16VWtWel82UEZnVEtTZndaMlBESmpoU1ltWGxPQ0VNX1B5bGVSa0hnWUlBN1FidWdneWcyNEpiT19UTGgzQWR6YnVMdndFcjVoaEFLNlpZTEpqdlBEbUE5YnJCT3N0Tm9OVEHSAbABQVVfeXFMT0Y2bTlqaW5oYXFTOXBSM2Q4MTY5dVJjaldLY1BXMW53dS1SOU85dkl3a2d5aktNOWk2SmFNYkI0V09hN3lFS1F2MnlzSXZEWjRrcDBoZlB5RGhyRXVyMl83TjhFdmxZemI4ZG02R0xKZnJvZ1EtU0h5aXpfTENxLUlVQzhISzVLU1VkcklmRENXSmFiNmk0ZFhoM1hMaldMS0dGa2dEYy1IdmVLUUFjLUs": 1793092541710,
     "threads:De_g-mgkjhF": 1793092851979,
     "threads:De_hExyEvh1": 1793092851979,
     "threads:De_g6xyGc2m": 1793092851979,
@@ -27305,79 +27299,24 @@
     "news:CBMisgFBVV95cUxPZlBVRUsyQ0t1SE5XRjVTOXA4REhfWjZKT0d1YXcwZTZMWnVGS3ZKMThxZGhsYmRJOVJKeXFPY2xaNXBRWTN3ak9rWjdjbXM0cFRtQXNQajhqVEZ3YVcwaGhZN1k1d2pISXdzUm1rWDcyaGJodHJQd1FiX1lKQ1JsTUNITmFQZzlSbkt3VWtMdzVvSlhxT0VfanlKYVJXeXVsRWpWRmxvWmZBSkdpNGFlT2Jn0gG3AUFVX3lxTE42aHZvVGNwa21uQWxIdWhhbEYteGNiWGhsTWg0QXpJS0M2X2hmNm11RWxKRWhTMTZuX2I0dFg5Ymh5Q2pvbWwxT2hDQXJRVFZxQVU5LWpZdGktZGZxeWJLQml1REhFaUZJbmI2SUp6amRzaGVOcG9XdFJHMVh0cEJGbEJ5bVpPS0gzV3VnRk85bkNISEJoWTZRcGNuYnFSdjlPV0lrVW1oYXRVdXJGSFJMRVBqaWMyTQ": 1794301537551,
     "news:CBMiuwFBVV95cUxPaXc3d2tuX0c5T0k2blZ2TzRfNHNNV215Wk16QnZtY1owdGZ0dmhJTXk3aUdzZU1xQWIySl9ac0VZQUJMY052UTlVOGtyZ2czNnpxb0NKbGVfVVc5eWtWUlRGU0dDSlplakN1SllNSExCY2tzZzhESnd0ZFUxMlItcFM4ZzI1R2gwc2hPYkNVOWdZWkhqSTAwRTFmOHdwdURTYVhsdk5fbmJqck9sMUMwWk94dWEwTDNCMFc4": 1794301537551,
     "threads:DfjipnTlBLZ": 1794301909322,
-    "news:CBMitgFBVV95cUxQZGFzQndtZERFNC1JbTZkTUJnQ3pJQ0dHWk43eFF3R0x4T1d4OHY0MURYdUt2OVFHNmtFdnFFbS1PUWpsekpoMGNvbkdtUkRMaUhIV2Y5NzBNV0dzQThDR0pHZndBcGk4RjJpbXNiSjF3LXlvaG1yTTUzRmIzNE91ZGY4d3VXU3dmVm9UQS1lQVBMelNkVjMydDlqdnlIbW1wOGRGb2FsWW9zejVFcjZVSmJHcFA1QdIBuwFBVV95cUxNMWlvRjF3Q2ZESzRtOWdKZ1JuV1lFZVNjSVg0WDVmT1d3b1MtRUctNm8wanVESkhfb3hlYzdYdTlpbVhmTFQ2dGJNaG42d2lWZGdvemlTeEU2eHlORjdJYUZpdi1KekZ4UGphbGRxcXRET3c2RHItSmI1aDBwN2hteTRuZHFYa1NDaWFnUzM5SkxxSF9PV0pDcmt4SGsyWloxR0VjOGROaVVueFVhbWtwM1lzMF9aNWtkQnNR": 1794301909322
+    "news:CBMitgFBVV95cUxQZGFzQndtZERFNC1JbTZkTUJnQ3pJQ0dHWk43eFF3R0x4T1d4OHY0MURYdUt2OVFHNmtFdnFFbS1PUWpsekpoMGNvbkdtUkRMaUhIV2Y5NzBNV0dzQThDR0pHZndBcGk4RjJpbXNiSjF3LXlvaG1yTTUzRmIzNE91ZGY4d3VXU3dmVm9UQS1lQVBMelNkVjMydDlqdnlIbW1wOGRGb2FsWW9zejVFcjZVSmJHcFA1QdIBuwFBVV95cUxNMWlvRjF3Q2ZESzRtOWdKZ1JuV1lFZVNjSVg0WDVmT1d3b1MtRUctNm8wanVESkhfb3hlYzdYdTlpbVhmTFQ2dGJNaG42d2lWZGdvemlTeEU2eHlORjdJYUZpdi1KekZ4UGphbGRxcXRET3c2RHItSmI1aDBwN2hteTRuZHFYa1NDaWFnUzM5SkxxSF9PV0pDcmt4SGsyWloxR0VjOGROaVVueFVhbWtwM1lzMF9aNWtkQnNR": 1794301909322,
+    "threads:Dfjie05oJrL": 1794302183222,
+    "threads:Dfjj3DQDJmv": 1794302183222,
+    "threads:Dfjjpn7CFUO": 1794302183222,
+    "threads:DfjjDtViQhe": 1794302183222,
+    "threads:Dfjis2LEshQ": 1794302183222,
+    "threads:Dfjigc6JUp-": 1794302183222,
+    "threads:Dfjj6scnNqf": 1794302183222,
+    "threads:DfjjrYUGny_": 1794302183222,
+    "threads:DfjkHmxmlyV": 1794302183222,
+    "threads:Dfjj79ejxmt": 1794302183222,
+    "threads:DfjjqBMDzSI": 1794302183222,
+    "threads:DfjjUdUj5cu": 1794302183222,
+    "threads:DfjizKzDzaH": 1794302183222,
+    "threads:DfjiZBmj8wC": 1794302183222,
+    "threads:Dfji4Ivk8Fm": 1794302183222
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@pemdescipelah",
-      "x": "REKAP BANSOS NOVEMBER 2026 DI DESA CIPELAH: ✅ BSU Rp900.000 - Pekerja, cek via JMO / bsu.kemnaker.go.id ✅ PKH Tahap 4 - Cek via cekbansos.kemensos.go.id ✅ BPNT Rp600.000 - Via KKS ",
-      "u": "https://www.threads.com/@pemdescipelah/post/DfjT8ZlGtrY",
-      "d": 1794293737000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@pemdescipelah",
-      "x": "JADWAL LAYANAN BANSOS BALAI DESA CIPELAH MINGGU INI: Senin-Jumat: 08.00 - 14.00 WIB Layanan: Cek BSU, Cek Bansos Kemensos, Daftar Perlinsos, Pemutakhiran DTSEN, Konsultasi KIS PBI ",
-      "u": "https://www.threads.com/@pemdescipelah/post/DfjT4WVmiPL",
-      "d": 1794293703000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Pluz.id",
-      "x": "Dinas Koperasi dan Dekranasda Sulsel Bekali Pelatihan Digital Marketing bagi UMKM Kerajinan - Pluz.id",
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMEV1YUw3Y2xLeTBJU0w4Tnc3dVJNTmhfcTJRdzRJWWR1bFZMNFN6LU04a0JjaFd2dVNuNWpjQnBhTnJBOENQbkRGS2dxdm9GZHVWRHR2UHMtRFNLY3RId0RxYUx2d2RTNGJXOXVtRU1Jb2QyaXE2cFFCYWk0YnNDUW8zZmlVQjNlYzJhLVB6cGEyT0VOaEtSNTQ1UjJDb0JkZjVsSDN1VWo5cmVremgyR1RyQjNFOUpFQ3R0WUNDR1_SAcABQVVfeXFMTTBFdWFMN2NsS3kwSVNMOE53N3VSTU5oX3EyUXc0SVlkdWxWTDRTei1NOGtCY2hXdnVTbjVqY0JwYU5yQThDUG5ERktncXZvRmR1VkR0dlBzLURTS2N0SHdEcWFMdndkUzRiVzl1bUVNSW9kMmlxNnBRQmFpNGJzQ1FvM2ZpVUIzZWMyYS1QenBhMk9FTmhLUjU0NVIyQ29CZGY1bEgzdVVqOXJla3poMkdUckIzRTlKRUN0dFlDQ0df?oc=5",
-      "d": 1794283213000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Cilacap Update",
-      "x": "200.815 UMKM di Jawa Tengah Kantongi Sertifikat Halal, Jateng Siapkan Wisata Ramah Muslim - Cilacap Update",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPemNBZllmQVJuN095S3NEUU93dldTRVRGdTVIS09NMkJfZ1BJRTh2R2RhUFhULXgxMHd6ZHFSbWZiV0JXVWtRV2VjcTNuZG5Kd2M4OEZMRV9FaFd2a3FkR19feGZVN0ZQVHlVSHUwYVdscEtEQTdRbDVMSDlQRGpfRnpoZGQ0VjRtM2M1Z1BmcXZHZFV0djhiWkNkYTl1b3dQU1djZmRNbF8tcHNReldqV2VYWEM4N0tEVF9OVU9pRHBOSDdtNEowSmNWV25hSHZndFRzcUlpbXpqZi1BY05CRENhVdIB6AFBVV95cUxQMDN0Njlqc0ZVM01QNFhhU2VnR1lBN2VOWFoyMUxNeHA4LU1iT3hrZDd1OEZTVjZwREFDY3lWSEIycFZBeksyQVZyRVVqaldITWxtU1Y4dzJReWtSSjJ1OUtFb3JxTnQyN1M1YkF5WW1GRmhrZGtscEFLZlRqbkRJanpFQVRJQ1ZaTjhmdElXQkMzMmQ5dG5uTnhwUUF2NTFCUUl5dDJLeWtpZmZnWlFUVnpmT0Q4NWxjQjdaeWYtWkJkR1pmZFc2ck84SmR1SGQ0UFhiRmljS0lmTW5SRm1rOHU0bHM4Wm5f?oc=5",
-      "d": 1794261660000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak, bisa coba bisnis online yuk...bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sen",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfjVdRGDyif",
-      "d": 1794294530000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak ayok belajar bisnis online. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi affiliator",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfjVOZDj_yp",
-      "d": 1794294408000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@olehidayat3",
-      "x": "Yg mo gabung webinar gratis bisnis online mari merapat ke grup wa di profil",
-      "u": "https://www.threads.com/@olehidayat3/post/DfjU8msk5Pi",
-      "d": 1794294262000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28807,10 +28746,80 @@
       "d": 1794301221000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@fauziah.izz",
+      "x": "hii kak bisa cek disini yaa, webinar gratis bareng kak ucup founder pestapora bahas financial dan career",
+      "u": "https://www.threads.com/@fauziah.izz/post/DfjkHmxmlyV",
+      "d": 1794302217000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak coba bisnis online kak, modal bisa dimulai dari yang kecil dan resiko lebih minim. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendiri",
+      "u": "https://www.threads.com/@dinnie_ivone/post/Dfjj79ejxmt",
+      "d": 1794302121000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa coba bisnis online yuk untuk menambah penghasilan. Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online untuk ",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfjjqBMDzSI",
+      "d": 1794301974000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak bisa coba bisnis online yuk. Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendir",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfjjUdUj5cu",
+      "d": 1794301798000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba bisnis online yuk.. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi affiliat",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfjizKzDzaH",
+      "d": 1794301525000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba bisnis online aja. Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendi",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfjiZBmj8wC",
+      "d": 1794301311000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@andika.brightonn",
+      "x": "*BAYANGIN KALAU TAHUN INI JADI AWAL PERJALANAN SUKSESMU! * *Seminar Bisnis Properti Masa Kini*! 🤩 📅 Sabtu, 14 November 2026 🕙 10.00 WITA 📍 Brighton Paradise Jl. Teuku Umar No.2",
+      "u": "https://www.threads.com/@andika.brightonn/post/Dfji4Ivk8Fm",
+      "d": 1794301566000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
