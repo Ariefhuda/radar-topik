@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_bo2JmgRa": 1793090446302,
-    "threads:Dbzecm9EtZI": 1793090446302,
-    "threads:De_JhyJHepU": 1793090446302,
-    "threads:De_cq_uH03i": 1793090446302,
-    "threads:De_cFFkmomX": 1793090446302,
-    "threads:De_b8DfGUU5": 1793090446302,
-    "threads:De_aRFbH0Ed": 1793090446302,
-    "threads:De_cdmbE1va": 1793090446302,
-    "threads:De_cDF8E5tF": 1793090446302,
-    "threads:De_bzFKDIoj": 1793090446302,
-    "threads:De_bwlIj7VC": 1793090446302,
-    "threads:De_dCm3n0qq": 1793090446302,
-    "threads:De_cXIgiPK-": 1793090446302,
-    "news:CBMioAFBVV95cUxNYXV4YlJqQWREMDh6RUpSVVJyVC1YM3N2U0NoRUF3UzBnMFp3SkN3YkhjdGFwQmhjaU0zMnNEZng4Nl9CcTl1UExRcktTLTA5LW1UZ1RwdlUtVGV4ZENaRUd6bDNBaU5FMUJYbFA3LWc2VW1rVUpieVVBa1VQMTFmb1VuQ3l6MGI5ZnlfTHlRczdrN3prcnVoUTZJSmtKQjIy": 1793090446302,
-    "news:CBMiswFBVV95cUxNZkV2S0lYdVNMYlJTUzlOR2trVWs0OGRLSWQzUWhmU1NKUjdYNGxsVnFPenFkZUxzRFhVYTA1Nnd1cEFmb1hYcl9ueWZRTzJ2c1VmTS0ySDgwV0FBZUhIbE53a3ZMZkhjR1kxak14eFA0OG53cUkxbjNkNGxxWnU4VUdGWjNtNXlWTXZGTkR4azhUSWlId3MtalJHUXEzQ3pGemo4WGkwa2lpUkZaNnhiY1RmY9IBswFBVV95cUxNZkV2S0lYdVNMYlJTUzlOR2trVWs0OGRLSWQzUWhmU1NKUjdYNGxsVnFPenFkZUxzRFhVYTA1Nnd1cEFmb1hYcl9ueWZRTzJ2c1VmTS0ySDgwV0FBZUhIbE53a3ZMZkhjR1kxak14eFA0OG53cUkxbjNkNGxxWnU4VUdGWjNtNXlWTXZGTkR4azhUSWlId3MtalJHUXEzQ3pGemo4WGkwa2lpUkZaNnhiY1RmYw": 1793090446302,
-    "news:CBMivAFBVV95cUxPZDlDTHBZMjFZRFBrRGdUNncwbTFyVTVlWV81TkpjMEN4VkVnSnE4VXR0YUZqbTlRb1J3XzVCcnZqVTc3SDI5UU41ZTFyWEhTS01wbmF5bFZYRVkzMmszMTI5VXhxQnJCMEZ1U05jTmlWb29DMVhFUG02QUZlUDRUTm9ueVctclRZSGM3a3d5d1dHT05oakVVTWM5X0F2NHNldF93eW9LVUY5MVNPZmhxTnVvMEFLV2N4R3VQXw": 1793090446302,
     "threads:De_da9wE8CE": 1793090743302,
     "threads:De_cxiVDzNH": 1793090743302,
     "news:CBMihgFBVV95cUxPdkdwb2pldlNZUDM3cmR5dDlvT1JUeWRRbTdaX3Eyalk4S0pWaUpHenZPd1dsTnBudmNkSUg4VnlQUlMyeWt4RkhCWm1VS0tNWFZwZVlEd3c4SGV3SUU4bm5GTU1HV3Iyb0RhdEpka2ZKbWtQdFEzZ093OEc0bVVJNWxPWmZXZw": 1793090743302,
@@ -27276,59 +27260,15 @@
     "threads:Dfjc21Sn8YR": 1794299828730,
     "threads:DfjffuQHRf1": 1794299828730,
     "news:CBMixAFBVV95cUxONkRCaEw4aGZpYTR5dFdEVnUyeHI3bmdOc1VnNFRlaldBanN3S0hVRTh5Vk5jRWpmQk9lWmFyZW5UWnIzUkJ4ZjZ0M0YtbUMyMTRZYWhkSDQzYlh6dG9uS1pILVlxcFk3NnoxUDlXeXN2UncyQklZcDJEb3dNQ0k3cUZfbXRaazh5NDFucmRXU0FNTjdvakFEWFVPTWgwU1lhMy1GS3lkRXgxa2VuM29oX3UzNTlDRWdQVXRGckgyZ2IzUEZ3": 1794299828730,
-    "news:CBMinAFBVV95cUxPemVuYnAtMFRaQVVCNE5UazBOaUZHck5NZkNnUk4tMVdQak1ka0tvMm1xSndkMWg2aFpFMVVBdVVmYzNobGNOeTJadXZQN0g1RmkzUHM1S2tiaE5vWkk0NWtONVlUQ3haTjduMU84M0dYS0syM1JOM00zdjRZRERXck0yT1Axc2JfaTV6UC1vSXUyTVBLSTI1eUJNUFXSAaIBQVVfeXFMTjE2UU9QN1NFc0pBYmowZlpNSndBQkpHdFMyNEZCRzROeGM4ZDdwTXRWU0VhNVZub3lybXY3V2phWXRqSmpWVkhwZTZaU3FVMDlPY1FieUxTVFZrOXRhOTlFVENPTVJzZGZoRDcyTlJZeGl5Q2NFV3R0UUZibjE2TlNDZVNUdHh3MmRZVWlZWE1ZRWl6S1d2UG9mVmYyd3V4Zkpn": 1794299828730
+    "news:CBMinAFBVV95cUxPemVuYnAtMFRaQVVCNE5UazBOaUZHck5NZkNnUk4tMVdQak1ka0tvMm1xSndkMWg2aFpFMVVBdVVmYzNobGNOeTJadXZQN0g1RmkzUHM1S2tiaE5vWkk0NWtONVlUQ3haTjduMU84M0dYS0syM1JOM00zdjRZRERXck0yT1Axc2JfaTV6UC1vSXUyTVBLSTI1eUJNUFXSAaIBQVVfeXFMTjE2UU9QN1NFc0pBYmowZlpNSndBQkpHdFMyNEZCRzROeGM4ZDdwTXRWU0VhNVZub3lybXY3V2phWXRqSmpWVkhwZTZaU3FVMDlPY1FieUxTVFZrOXRhOTlFVENPTVJzZGZoRDcyTlJZeGl5Q2NFV3R0UUZibjE2TlNDZVNUdHh3MmRZVWlZWE1ZRWl6S1d2UG9mVmYyd3V4Zkpn": 1794299828730,
+    "threads:DfjeT6Xo_SG": 1794300057036,
+    "threads:Dfjf4VfkxMY": 1794300057036,
+    "threads:DfjevM5glHy": 1794300057036,
+    "threads:DfjegMgDr9f": 1794300057036,
+    "news:CBMilAFBVV95cUxPTFNmOWF6VGMxTEMxWHNMRnpVbFJScFhhQnp0cW5WVkw4VXVwQzc1aHQ0dlFJRGEzVTk1OExRQTlKb0p3NzU3Zm5lR3Z2ZGZ1QUdGOGx3TWQ3dGlUdmpjd2ZMMjF1bGdIUGQ1c3VvS2VQdUFBMlJxQ3hXQnZpMlRDeGlXV2tKekFEOXN3b29keDB2SzVE": 1794300057036,
+    "news:CBMiqgFBVV95cUxOUW4zeHFWM0c4QnotZGlNTlJIUlRwcmFwaFZIdlNCem5xOFk4UWREMGk0Unk5X2puVzhzQ3hZeDdNVU1pMHNKcndBZmNzekttX1VlbXFHc25yRFhKVlZnTXBGdVNTRFpsSm9sTjc2dVJsUTIycl8weUcyMEhYTDJKZEJ4Q2NRclFMOV9mU1E5RTVOSllxcWYyX1J2ZGl2VXNiTzNZem9BZmNZQQ": 1794300057036
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@griya_produktif",
-      "x": "🚀 Bikin Video Keren Cuma Pake AI? BISA BANGET! 🎬✨ Mau belajar bikin konten video aesthetic & profesional tanpa perlu ribet syuting atau punya kamera mahal? 🎨🤖 Yuk, ikutan KELAS",
-      "u": "https://www.threads.com/@griya_produktif/post/DfjOp49kYmh",
-      "d": 1794290963000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@mr_dorrr_",
-      "x": "Duit 14,7 Miliar cuma abis buat diposting di IG Story 24 jam terus hilang? Kelas bangett 👏🏻 Padahal kalau duit segitu dikasih ke orang cerdas, bisa dapet: 7 Jembatan gantung di P",
-      "u": "https://www.threads.com/@mr_dorrr_/post/DfjPwryoAIa",
-      "d": 1794291543000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@ummufiqroh_",
-      "x": "*https://whatsapp.com/channel/0029VaSa3Yn1noz11BI0OL2e* 🎓 INFO BEASISWA S2 & S3 FULL SCHOLARSHIP DI ARAB SAUDI 🇸🇦 Kesempatan melanjutkan pendidikan Magister (S2) dan Doktoral (S",
-      "u": "https://www.threads.com/@ummufiqroh_/post/DfjOngQoZ5i",
-      "d": 1794290944000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@ummufiqroh_",
-      "x": "Ijazah S1/S2 berbahasa Inggris. 4. Sertifikat kemampuan bahasa Inggris (IELTS, TOEFL iBT, atau Duolingo English Test). 5. Curriculum Vitae (CV). 6. Statement of Purpose (esai motiv",
-      "u": "https://www.threads.com/@ummufiqroh_/post/DfjOneeIUBw",
-      "d": 1794290943000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Jepara Go ID",
-      "x": "Peringati Hari Pahlawan dan HKN Ke-62, Pemkab Jepara Dorong Peningkatan Kualitas SDM dan Layanan Kesehatan - Jepara Go ID",
-      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMC02ZXNMTDR5Y1c0VXlZM05uNDFuYWhGTnhVYXowWXhBamQ0TGtWTlNEY1ZWeUJwV051MXZGUkhlbkV1NGZNWVBtNF9ZWkNTTzZqMUNxNDl0TnVpNVhwMUp5QmszUDdHMFJ2SGlaVmpob1BfdmhfQnBTbTN1TVN2R3JjcjJWRmYydHZSR0ZTeVEtNjA5Q29MeGR2R3VJbjh6LWNmN3hHdmtPTzY0OWU4MGV6SDdUTk01Zi01eTV2aXV5cHNBTFd6SkhoRE92VVE?oc=5",
-      "d": 1794291466000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28778,10 +28718,60 @@
       "d": 1794291960000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@lilisajjahwe",
+      "x": "Yang punya windr by BNI ada yang sama kena prank 🤣🤣 #emaknunggubansos #wondrbni #pencairan #pkhbpnt",
+      "u": "https://www.threads.com/@lilisajjahwe/post/DfjeT6Xo_SG",
+      "d": 1794299172000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@aartha.s",
+      "x": "Kaa aku buatkan untuk mamaku dan sdh buat ikd dan verifikasi jga perlinsos soalnya kedua nya ini aku buat didesa. Trs ka cek bansos ini kita milih sanggahan kha? Dan misal dalam 1 ",
+      "u": "https://www.threads.com/@aartha.s/post/Dfjf4VfkxMY",
+      "d": 1794299994000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Yang tercatat putusan pengadilan dan KPK untuk kader PKS itu cuma beberapa, bukan \"semua\". Yang paling sering dirujuk publik: Luthfi Hasan Ishaaq (2013 kasus suap kuota impor dagin",
+      "u": "https://www.threads.com/@meta.ai/post/DfjevM5glHy",
+      "d": 1794299395000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Iya, bisa jadi gugur kalau NIK suami ikut tercatat sebagai penerima PKH di 1 KK. Di Permenaker 16/2026 yang resmi diutamakan itu NIK yang tidak sedang menerima PKH tahun anggaran b",
+      "u": "https://www.threads.com/@meta.ai/post/DfjegMgDr9f",
+      "d": 1794299272000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Jakarta Smart City",
+      "x": "Jadilah Pahlawan Kota, Mulai dari Hal Sederhana di Jakarta - Jakarta Smart City",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW4zeHFWM0c4QnotZGlNTlJIUlRwcmFwaFZIdlNCem5xOFk4UWREMGk0Unk5X2puVzhzQ3hZeDdNVU1pMHNKcndBZmNzekttX1VlbXFHc25yRFhKVlZnTXBGdVNTRFpsSm9sTjc2dVJsUTIycl8weUcyMEhYTDJKZEJ4Q2NRclFMOV9mU1E5RTVOSllxcWYyX1J2ZGl2VXNiTzNZem9BZmNZQQ?oc=5",
+      "d": 1794300019000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
