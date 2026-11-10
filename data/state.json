@@ -60,29 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-rNHBI7Yz": 1793064936648,
-    "threads:De-quElmtJI": 1793064936648,
-    "threads:De-r5mcn5iy": 1793064936648,
-    "threads:De-q0XIEfYT": 1793064936648,
-    "threads:De-qtY6kQ4-": 1793064936648,
-    "threads:De-qpzdkd6y": 1793064936648,
-    "threads:De-qbzQEWoZ": 1793064936648,
-    "threads:De-qMMVkWv3": 1793064936648,
-    "threads:De-qGn0ETJf": 1793064936648,
-    "threads:De-p_CdkbUf": 1793064936648,
-    "threads:De-p1Y6kcIv": 1793064936648,
-    "threads:De-pwj4Ea-h": 1793064936648,
-    "threads:De-prnTkT1Y": 1793064936648,
-    "threads:De-pl-AEaSb": 1793064936648,
-    "threads:De9cHLKmn6m": 1793064936648,
-    "threads:De-qhrdE-IB": 1793064936648,
-    "threads:De-r2v2ievN": 1793064936648,
-    "threads:De-rVQFEiHT": 1793064936648,
-    "threads:De-sNZjmEyU": 1793064936648,
-    "news:CBMiU0FVX3lxTFAwMmRDT2JtdjZhc2RaX0k5S3hBdENDT21JenFUYWlKMmczMVNzUFZVckZSaVZuNDNJeGRBMnBjRWhDcTJpNTgwQVRTa0tKV2lYa25F": 1793064936648,
-    "news:CBMiwAFBVV95cUxOS1FCZXl5VHJkWEJtTDRvaEhqeFFieGtqMjNsVGZmMjltNy1hbUVwMTVLUnFPV1JQelhodENKY3dYUUp4ODNQSTR5NnNueFRoaUgtSGsyZmdxdWc0UnNsQXp2UmZZV3BxTEZzMnpTNGl0NENCa0FvejZ3WWRBWkJhMjdDdkRHT1k4U242ZkJUTU93X2ljbk5kSkdod3hfZjJkNTdpTG5oRVJNSGlkNE1WTzQ2TWJBUC1TQXBGVHV1cm4": 1793064936648,
-    "news:CBMi2gFBVV95cUxNVGk2WTQ5YkQzZEdUTzk4NTZXWGdZVHVUZk5hc0VOU0d1Vk1mX3VBUWJrTF9SZlpJZV8zMFVCRENzeElkb0NxeVBnMnVBUUx1clh1YVBkNURLbUhwRG5KRVV4WVNzTFY2MHRjWW93R0xPZEJfb3JXQy1Pcm1jb0p2TExzVkg3M2NBXzk1OFRXN2xEVDNiY2llQzBQaVMwMzMxQ2htQk1FN2tjR3dNRWFTNlEzVHBnR29CbUxzN1FhMVFucllFanczT0tQVUFnQ1ItNWFyODVvbWltd9IB2gFBVV95cUxNVGk2WTQ5YkQzZEdUTzk4NTZXWGdZVHVUZk5hc0VOU0d1Vk1mX3VBUWJrTF9SZlpJZV8zMFVCRENzeElkb0NxeVBnMnVBUUx1clh1YVBkNURLbUhwRG5KRVV4WVNzTFY2MHRjWW93R0xPZEJfb3JXQy1Pcm1jb0p2TExzVkg3M2NBXzk1OFRXN2xEVDNiY2llQzBQaVMwMzMxQ2htQk1FN2tjR3dNRWFTNlEzVHBnR29CbUxzN1FhMVFucllFanczT0tQVUFnQ1ItNWFyODVvbWltdw": 1793064936648,
-    "news:CBMisAFBVV95cUxObmJBQmFmd0s2cnpVS21MMVdqOHFSWHdnQ2xKcUNTSGMwMkdWR2loeHBQYUFGd3VsczEwd3IxcTlmc0xVazB1eUdteHpVZzVsY1N6Q0lXTEduYUNuNlR2T2RwSE1NbHlOQ3ZXbDk3dVlpSnpRM0xSel9nWVVMdnhuYktPc29QdnJaNmlnaDlvWTFITGNlakRiNW5CM1VGMzBEenRLZG1nVTZJMFM5ODdjdw": 1793064936648,
     "threads:De-seVlE_jO": 1793065245801,
     "threads:De-sclBkpuS": 1793065245801,
     "threads:De-sPS1koea": 1793065245801,
@@ -27470,7 +27447,17 @@
     "news:CBMi0wFBVV95cUxQWVFiclVmVUpRX0gzVC1kNmZwTEdpRzFzZDhRVFBNUUotNVlwd2lQcFdwQXl3aDUtQlFEVzVQS2didTh1VFhFYUc3YThXaVV2U0pXZmNmX0prUzJMZU9xaG5oaTJFaFo1bXBCSXFtSm5JRFYwU28yQjdBbzJGaDJTd1Y4WGNOUThITGl6QS1RZEhsdDZTSlZuODZEemN1LXNsc1dIbVJKUVp3T3l5WUxTMEU5cTMxemVxR3NDbldMRWhjNjUxbmZvZEF3ZkJzZXhBNjJn0gHYAUFVX3lxTFBFc0VzNXk3YlZWYXQ1RnBrUEtSTnJ4VExvbnMxYVRkZlRHeUVTemM4eDB0bS1qbWtnWm93N3ZRbVBaYm9NVjU4SXlLVlVFelNFWXpYNlF0OWZEc3RrbzU1ZGcwOWxVWmh2VmJfaUxIYVhWb3NqN2JQelo0Zlo4RFVBTnRVQlN4U1NsUkpxSHNRaWw3VG1LaWVqQVZMUlAxS2Zsb3pPS0pZajdnVzUyRElEeEtTaFpLV0ZFZ2kzaEVzWHVNT3JVN3NOZDhwV1dlRGdZd1J4UVJmcQ": 1794273937396,
     "threads:DfitbdUjxYQ": 1794274272320,
     "news:CBMiygFBVV95cUxNT0dOOGJxdmhCMjVQUXJoMVl2bXZpTGFOZXpkNDBJS21aMV8tazByZkRjTExLUHZRRllDN1BTazJSaTJXVlAwR1pQeXdBMFQ2STBaT1JTTjNYMXhBV281dkNDMzVOMzRSbHIzek1XVWhPMldvLWtEWVNCUmlVVW5SU1lFTEJNcERGYTh6VkpPbS1DX1dMR2FVUjlzN0h6dWVWSXhHOXpMclRBY2VoaHdRaHBrMnlLVEY1M0ZVTkpzVkQwWmxoWW1PMkFR": 1794274272320,
-    "news:CBMi4wFBVV95cUxPQndLdDVodVRJb1pieTRWMHZvTmxnc1Z6SnloVkRZRGhoUjRTNDhkd0FSV2prZjZseDE1dGprSmZ2b2JGcmdPd01tb0FDSnM1LW5Gc29HLWZjeEhrcTRHdXBVNUwwdjlqeEhLTDdEN3A3ajBOSXFtZHJaRUpyTEZSbnhpc25rWTBIam9fbmh6azdWTFljQVh3Z2FpbkRaODl5THNSckxvT244NHdsb2ZPTlRGeDRiNUVIVDM2cEt1S0hpSnA4a2RmMGVlZ0tUNUZnY2Q4cnFBT1JGa1IzVktxVndCd9IB6AFBVV95cUxOd1ptSzRLRkpWeFIwa2ZzTFl0SGozeEhEbTBGYVNMMVBPZC1sZWZKV0NHc1dCZl9RNmVhSkYyRDdHODh2ODlzR0ZHbkt3RHo4bFE1UUF1ZE9QMjVYbm5jVVFXVU9IMzdIa1hnRVpySUp2dExJU2R0U3lGQnFPdVRndUc2Q0ZvSVR0bmUwekt5bzUzLWttLWY3bmkxVEE1ZWQ4OThEWEJld1RPUGpuN2lSZEJCQjhnODRRZjZxdm1oVVRzdzlySEltOHZndWppS24yM0hjekl5b0dpMXZXaHpzV1hWNG1TQ0gy": 1794274272320
+    "news:CBMi4wFBVV95cUxPQndLdDVodVRJb1pieTRWMHZvTmxnc1Z6SnloVkRZRGhoUjRTNDhkd0FSV2prZjZseDE1dGprSmZ2b2JGcmdPd01tb0FDSnM1LW5Gc29HLWZjeEhrcTRHdXBVNUwwdjlqeEhLTDdEN3A3ajBOSXFtZHJaRUpyTEZSbnhpc25rWTBIam9fbmh6azdWTFljQVh3Z2FpbkRaODl5THNSckxvT244NHdsb2ZPTlRGeDRiNUVIVDM2cEt1S0hpSnA4a2RmMGVlZ0tUNUZnY2Q4cnFBT1JGa1IzVktxVndCd9IB6AFBVV95cUxOd1ptSzRLRkpWeFIwa2ZzTFl0SGozeEhEbTBGYVNMMVBPZC1sZWZKV0NHc1dCZl9RNmVhSkYyRDdHODh2ODlzR0ZHbkt3RHo4bFE1UUF1ZE9QMjVYbm5jVVFXVU9IMzdIa1hnRVpySUp2dExJU2R0U3lGQnFPdVRndUc2Q0ZvSVR0bmUwekt5bzUzLWttLWY3bmkxVEE1ZWQ4OThEWEJld1RPUGpuN2lSZEJCQjhnODRRZjZxdm1oVVRzdzlySEltOHZndWppS24yM0hjekl5b0dpMXZXaHpzV1hWNG1TQ0gy": 1794274272320,
+    "threads:Dfiu_nFgQac": 1794274534399,
+    "threads:Dfiu-S3DaMN": 1794274534399,
+    "threads:Dfiu6dwmyIP": 1794274534399,
+    "threads:DfiuxOpCFkd": 1794274534399,
+    "threads:DfiuRNomr65": 1794274534399,
+    "threads:Dfit_Oekld1": 1794274534399,
+    "threads:DfiudvyEWHg": 1794274534399,
+    "threads:DfivJ7moxfI": 1794274534399,
+    "threads:DfiuRZomGld": 1794274534399,
+    "news:CBMixgFBVV95cUxPbkIzQU83TnROWG9ZNlJyRklpSURlQ0RmSXJ1X3dGVEswMGJUVl96UHhqLXR5OVV5MXozdzlRbkkwRUJlSUFRX254MDAyUE53YlFwdTV1V244NC1XU090ZzBZcUZuVHNZcEd0VlZuRFFDbTVzSndOc0FsRWprOEo3TkIxNnc0NGRJNnRkN2FGZXRZZkFILWFPei1aZml4bEFBMFQ2S0dJTlRmbzRPV2FSMlBxLUJ5bWU1OEwxQXZUTGM0aFJsQ2fSAcsBQVVfeXFMT1M5aHh3NERTd3NMLXN1dU1oeUliTW0yZ3BDRG9MS0FDTF8wb1BlUE5TNjktNXZIcUhVMDBQTEI4NnFray1DblBWTDk4c1R0a1VIaEZZdy1EZmtXWV9wUVRwaWNrRGs2U1lLNExtejhQLVdtbTJRcVVqVjN3LWs1NkdCZkxlSG1MY1dDZ2JQdHBVMDI1YjNyVDlEdnJkVGVWTHBKanM0YkVsd3RoNkFiVkZwTGI5WUxDLWJvU21NYkRSOV91N1ZkaGpGSmc": 1794274534399
   },
   "digest": [
     {
@@ -27772,10 +27759,40 @@
       "d": 1794264821000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ayreenn",
+      "x": "Halo! Aku Airin, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Exc",
+      "u": "https://www.threads.com/@ayreenn/post/DfivJ7moxfI",
+      "d": 1794274448000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@deer.5805696",
+      "x": "Yuk belajar ai dan sambil mendapatkan Hadiah Besar nya 🚀 Beasiswa AI & Cloud Gratis: AWS AI Academy 2026! Mau belajar Generative AI, Python, & Cloud Computing gratis + dapat serti",
+      "u": "https://www.threads.com/@deer.5805696/post/DfiuRZomGld",
+      "d": 1794273985000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.tv",
+      "x": "Cara Cek Status Pendaftaran Perlinsos dan Penentuan Kelayakan Penerima Bansos Kemensos - Kompas.tv",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkIzQU83TnROWG9ZNlJyRklpSURlQ0RmSXJ1X3dGVEswMGJUVl96UHhqLXR5OVV5MXozdzlRbkkwRUJlSUFRX254MDAyUE53YlFwdTV1V244NC1XU090ZzBZcUZuVHNZcEd0VlZuRFFDbTVzSndOc0FsRWprOEo3TkIxNnc0NGRJNnRkN2FGZXRZZkFILWFPei1aZml4bEFBMFQ2S0dJTlRmbzRPV2FSMlBxLUJ5bWU1OEwxQXZUTGM0aFJsQ2fSAcsBQVVfeXFMT1M5aHh3NERTd3NMLXN1dU1oeUliTW0yZ3BDRG9MS0FDTF8wb1BlUE5TNjktNXZIcUhVMDBQTEI4NnFray1DblBWTDk4c1R0a1VIaEZZdy1EZmtXWV9wUVRwaWNrRGs2U1lLNExtejhQLVdtbTJRcVVqVjN3LWs1NkdCZkxlSG1MY1dDZ2JQdHBVMDI1YjNyVDlEdnJkVGVWTHBKanM0YkVsd3RoNkFiVkZwTGI5WUxDLWJvU21NYkRSOV91N1ZkaGpGSmc?oc=5",
+      "d": 1794274200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
