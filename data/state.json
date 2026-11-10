@@ -27111,19 +27111,17 @@
     "threads:Dd0lPSmE_7g": 1794351333662,
     "threads:DBS9tdZTVda": 1794351333662,
     "threads:DflCUImjZva": 1794351657275,
-    "news:CBMipAFBVV95cUxPaS1QQUJSRGZmRWtKeVdwLWVQMHdkSk92UTMtNW1fdlVvd1FaLXBRclI3ZGdjYWJFUHFNaUZvekUyS2F5eXJiSUt2Z21JOUZiU056MFAtb3cyLTBkRnBxbXpYUTl0b1BPaFRjNWYzZExCRWRvRndxcVhwOWdUX2xuZDJORUNjV3ZHNmRBY29lbWg3N1ZpakxSWjBfdVlZcWFLX1dESA": 1794351657275
+    "news:CBMipAFBVV95cUxPaS1QQUJSRGZmRWtKeVdwLWVQMHdkSk92UTMtNW1fdlVvd1FaLXBRclI3ZGdjYWJFUHFNaUZvekUyS2F5eXJiSUt2Z21JOUZiU056MFAtb3cyLTBkRnBxbXpYUTl0b1BPaFRjNWYzZExCRWRvRndxcVhwOWdUX2xuZDJORUNjV3ZHNmRBY29lbWg3N1ZpakxSWjBfdVlZcWFLX1dESA": 1794351657275,
+    "threads:DflCiIHkr67": 1794351941398,
+    "threads:De_rilHmaFe": 1794351941398,
+    "threads:DdZnVE0gTiF": 1794351941398,
+    "threads:DfMNzgRAV6F": 1794351941398,
+    "threads:DflCkKkh-mO": 1794351941398,
+    "threads:DflCRExHS5l": 1794351941398,
+    "threads:DflCPJWoHM0": 1794351941398,
+    "news:CBMisgFBVV95cUxPTERPTnROZzdMUGN1ODVOYWF1SWRocGxZZE4waUs5T09rZE1fYlpfeWFrZWF2VnlRRDVJNFlUS2RUQlNxUjJJMG9weXFlcWpGbHZ5Ym9fMS1sRjR3WGZCaWgxNk9TQjFLVlRDcVVuWTJ5MEw0bEt3NS14c0F4b1hieXlDaV9rS1RNOUEzbUlRd3ZKWFkzRThHNVhXRlNBM2pycXBhUHF0Ql9Jb1d4MWpmbURB": 1794351941398
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mama_huma_dan_meisya",
-      "x": "Rumah tangga yang tadinya adem ayem mendadak porak-poranda cuma gara-gara sepotong kue. Rasa curiga langsung mendominasi saat nama wanita lain disebut dalam kartu misterius. Tapi e",
-      "u": "https://www.threads.com/@mama_huma_dan_meisya/post/Dfj93UzCbZ3",
-      "d": 1794315716000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28613,10 +28611,20 @@
       "d": 1794351611000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribunnews.com",
+      "x": "Tanda Jika Bansos Beras 30 Kg November 2026 Akan Segera Dibagikan - Tribunnews.com",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTERPTnROZzdMUGN1ODVOYWF1SWRocGxZZE4waUs5T09rZE1fYlpfeWFrZWF2VnlRRDVJNFlUS2RUQlNxUjJJMG9weXFlcWpGbHZ5Ym9fMS1sRjR3WGZCaWgxNk9TQjFLVlRDcVVuWTJ5MEw0bEt3NS14c0F4b1hieXlDaV9rS1RNOUEzbUlRd3ZKWFkzRThHNVhXRlNBM2pycXBhUHF0Ql9Jb1d4MWpmbURB?oc=5",
+      "d": 1794351799000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
