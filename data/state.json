@@ -27263,29 +27263,13 @@
     "threads:DfjrXP9DWQ_": 1794306093381,
     "threads:DfjrSTZgVOw": 1794306093381,
     "threads:DfjqxYnkoaH": 1794306093381,
-    "threads:Dfjqi83gQag": 1794306093381
+    "threads:Dfjqi83gQag": 1794306093381,
+    "threads:DfjrYIDiX_2": 1794306348314,
+    "threads:DfjrglqExSa": 1794306348314,
+    "news:CBMizAFBVV95cUxQcjdKOUZIbkRwQ01CTmt1N1Y2VnJhc0g1NGdieHFoWS05Zm1BcXNoeW9hbWlNd1poamc4T0Y1ZjZobXBXa0FsNlloMFFEQlVFUnZtMEE2Z3NXOEM5c19FRHppVGVnR0xmZjA1UF85SUUxTGMtcklfYTQ0QmRSMW5MU2VlTHBqYldGdzFzQ2d2UV9pUGZNUkFYb05MZnpiOXNNMkRqQmxoZW5yb0Q3bU1TeC1BSFJSY3pjZ2txM3B6SEUtOTE2M3RjV2dSa20": 1794306348314,
+    "news:CBMisgFBVV95cUxQZWRtNld2Qm1tZmhBWjBaOE83Wkx3eEFHNkc4RktlNjNFaklrcnY5cGNPVHd3LThnM0stUmZ5bkY1aDcwV0R0bzk1WlVveUFhQkdTc25BX0FmYklFWDAwcHlTUmEyOUhUWkVfZThMa21yRXhOVU9fNGYybHZaOGtEQ01OdXRoeDZWRFdjVW01d2lnX2RFemdKSEp1dVFmdFZmVk1kZmFTMjJWck9MUGUzZUdB": 1794306348314
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Vietnam.vn",
-      "x": "Surat Edaran Nomor 85 dari Kementerian Pendidikan dan Pelatihan: Kebingungan dalam pelaksanaannya. - Vietnam.vn",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTlxWmNLTVJMWU5hMW41WHZ6bmdqM1VscTZCYlk4V2FfV19TVlRJcHExNjQxQjdRQ2lEMFR2WUtEdDZqUEI3Q2ZzMERkNlVaWkIwMUhKV0JhNHZuOUdVOGZLYkl1MHZLTE92M1NmTGRJelFnaWlrTHdHR3hrYUlzVQ?oc=5",
-      "d": 1794273276000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Universitas Djuanda",
-      "x": "UNIDA Buka PMB 2027/2028, Tawarkan Pendidikan Unggul dengan Beragam Pilihan Program Studi dan Beasiswa - Universitas Djuanda",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWtUelRaX1VibkNodlhPQVd4dXp3SVE3eGhDYURNNUhMMWFUZ1AtbGRFZ19MTGQ4VXNaRjJjOFMtY25La2pBT1U3ZDd6RC0tdzR6bEFkcmZQN0NrVnk1Rjc0czFqaFlRcEpMXzNvbGZ6MXRfQUxPN29uUmItVUZtR1B4Y0pINlRlMDlkSXZWVGdkQnV0RnRLNzhjYlFlS2pNXzBORUVMbktLZUNjUV8xWHo0MG40dTZDT0lJRmFWN1ZtNnZ3?oc=5",
-      "d": 1794293060000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28765,10 +28749,30 @@
       "d": 1794305586000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@frieda_trie",
+      "x": "Iy q ngajuin....udh trdftr dan udah d survei.....klo sanggahan pmbaruan data hsil e gk phm ...q pmbaruan data d cek bansos desil q gk mw turun",
+      "u": "https://www.threads.com/@frieda_trie/post/DfjrYIDiX_2",
+      "d": 1794306022000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pojoksatu",
+      "x": "Pemkot Cimahi Terima 23 Sertifikat Aset, Dua Relawan PSM Diberangkatkan Umrah Gratis - Pojoksatu",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWRtNld2Qm1tZmhBWjBaOE83Wkx3eEFHNkc4RktlNjNFaklrcnY5cGNPVHd3LThnM0stUmZ5bkY1aDcwV0R0bzk1WlVveUFhQkdTc25BX0FmYklFWDAwcHlTUmEyOUhUWkVfZThMa21yRXhOVU9fNGYybHZaOGtEQ01OdXRoeDZWRFdjVW01d2lnX2RFemdKSEp1dVFmdFZmVk1kZmFTMjJWck9MUGUzZUdB?oc=5",
+      "d": 1794306120000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
