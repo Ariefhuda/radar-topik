@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfAcmOMD_GX": 1793124413956,
-    "threads:DfAcJAOD7PK": 1793124413956,
-    "threads:DfAb2BOgjK9": 1793124413956,
-    "news:CBMiswFBVV95cUxPQWJiekxnOHJMNHRZd3pDeENscEFIdGpYMzg4WUh6YzNhQlVzRHFMVHFqLW1QWXJxWkIxWUswbDNFOWtPWjZKUGp3TDQzMEZmUF8zb2VMX3c0WERYcUhWZEJaOUZ3YzRtUzNyUWJyemNjM1RqVWVUb1Z3U1hELUs2WTExRnNiSFgtQWFlUlNldEphcXR6U3ZoMS11bGtuMjlsdFA1Q043WDhiMjRodnJ4ZnRZNA": 1793124413956,
-    "news:CBMitAFBVV95cUxOa0hjTE9GVGFhNlJVVlRLX1Y5N2NQcmVFczRnZWwzT0tfRlVCNGNUS3FtRXBiVVBuWXVPQm01WDNfOTVjM0JFcnlTNkhTRFJMbHB2ZmZneWluNGRjTmtIZ1VvajJLY0RVZENackhaNDFMMHN5TWozYVliSzd2UjdSMjJiQzBmenNYT3pLQkl1VUUzSC0tRlVCQzhwT1NTb3B4RXZDQ3QxRVZjejVLT1hQRTVPMk3SAboBQVVfeXFMTkFYZFpTMlRGYWNhUmxNaDFsRk1mX1F6Ykk2NXZVNWx0bF9mbzNZR0xFdXdQRlBpRzZlTmlreGxpRWkyWHMyMHJFeWJkTkRsZGtDamhrcDl2bFZ1YjBvUzNDSXFFQ2JheHBtaFF0QUhZSFdYZk1aS2FxaW4xTS1Zdm11eWsybzQ5Z24tbWVDLXFxeXQ5OWNERVJjSG5xcVdJd0k0UVlvd2d3TkRWWlBNb2FycXBLSUlvM1RB": 1793124413956,
     "threads:DfAd1cmiqrm": 1793124638000,
     "threads:DfAdnd_k1l1": 1793124638000,
     "threads:DfAdXSjEbxx": 1793124638000,
@@ -27139,29 +27134,16 @@
     "threads:DfkfqkCmrnL": 1794333651803,
     "threads:DfkfakPEvlf": 1794333651803,
     "news:CBMilwFBVV95cUxQSVJBVVh1OWNNQmYycTktR190azNkTm8yOXpSTTdJSEN3V3BXZXZFZEotREZnQUVPa0hoRXN3aXk0X0I4ZnF2Zm84dlVrOUVLcUQteEVVUEZRTTFOeDVxRzBiM2kwNThHNmNDeC1PN1Q1WnF4M1g0TDFLUkFzOHl1dDdrM1lrb0liUnlnR1FfTUp6ck00d0s0": 1794333651803,
-    "news:CBMifkFVX3lxTE9ja0VxMHZRNXF3U1c4ZFA4YWRqbGFuaDk2V0VNV1VRUjZYTFpuajUyQUM5TnppVmRaV3NrSnNIMFNTeWp2NkpOa01GOXd1VWVDN3ptMm9CWXVCQ3NJdzF1Z1ZxLUt1RDFEUFdfRW1hXzBGRkpzWTQyTVRFa0daUQ": 1794333651803
+    "news:CBMifkFVX3lxTE9ja0VxMHZRNXF3U1c4ZFA4YWRqbGFuaDk2V0VNV1VRUjZYTFpuajUyQUM5TnppVmRaV3NrSnNIMFNTeWp2NkpOa01GOXd1VWVDN3ptMm9CWXVCQ3NJdzF1Z1ZxLUt1RDFEUFdfRW1hXzBGRkpzWTQyTVRFa0daUQ": 1794333651803,
+    "threads:DfkgVqZmp3T": 1794333933614,
+    "threads:DfkgLzUihWm": 1794333933614,
+    "threads:DfkfwdnlPc3": 1794333933614,
+    "threads:DfkfRF9D84J": 1794333933614,
+    "threads:DfkfGZigQA4": 1794333933614,
+    "news:CBMi3AFBVV95cUxQX1Z6cXpFSUpSV2JJVnVrLUluVnZLUnlPNnZaNS1yaklUdXFMcklGVWdNa3JsczFZVHdqd1M2OE9RWnNzZjl2VU9rY3hsMGRhbm11WHQ1cmNPRERMcDVIdTFSaE52eUdkWHg2ME8wekVxMFVsRDVOWFlRZEN2RHk1V21xWXhld1EyMUYxX05paDlpc016V3BJSkp4QWJCckxDMzBOSFR6ai15SXdNRG9QWExHeUNkSFJqU0trQkRrVkJZNDlzdjYzSVZkU0RsRDRxNjVXaXpneC1JV1NO": 1794333933614,
+    "news:CBMiygFBVV95cUxOaE4yLUJvQTlVQ0J5S1I3c1B2RXBxZFlFWHRaMS1YNTdvNDZiczlpejBQVEVUMl9fcWlYTzRoakFkMlNyZHAwUWlZVHo0d2RGWnJiXzdDRllpRTB0UWhYd1g5aWxSeU9TaW4xM3B3c3c4RUtTcjZGZjV3aENMYXpWc21lcnlma0pBUW5GM3BOb01JaTdTaXV2Zk9CWVg4aktMNHVoeXA2WHpSWnhFZWppNFpNUm9UOHFxbFc2dkF6QWJPdzlpR2dieFFn0gHPAUFVX3lxTE5teDcyUEJzdnNfNkRkZnIwVm1TTTdtVmhvbWZEdHNNWk85aWZlZU5BRFdsUTRNTkY1bC1MNXFDRVZvQlp5a1RSb0E2R2w3MW8tVng3bTVsV2lhdzIxMHNHaDhRUmstek5heXFHdHBvaThubUZvZGJJWlJ3UVZtNkV2TTVyMS1ib1A1Nkh4dzZjcFY3RGIwMWMyRjVWWjVva2lyd29RYjB4YWIxRGY4TDNWdHkwMmo3by1HMnp2cmhiYmpwR1RBaE9pOWZxUUdmRQ": 1794333933614
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "suarakalbar.co.id",
-      "x": "Pontianak 15 Besar Nasional Global Cities Index 2026 - suarakalbar.co.id",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDRzcUNnN2dDUmhwOGZVOUdzVnBuUmlDdXpudkNfOXV3YlA2OXFxcldqVW9SWDZBRHJUT0xDWDVwTkl5Nmt6Q2JBdm9VVFBISkdYc0RIcjBJNFhyUS1mb1lILVV0TUJPbEhQZ1B0cDRsTjlRcy1OcFJjWWFZSmVUMEk3cmpSZDVQaWpLMFB4U256eUo0Mmc?oc=5",
-      "d": 1794277800000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "RRI.co.id",
-      "x": "Cek BPNT November 2026 lewat HP, Ini Cara dan Status Pencairannya - RRI.co.id",
-      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEVUQlYtb1RmRFR4eC1OWnhTaEdhVXhGV2d6S3RxLUptNmFGU1VFSVprd0xmU3JhdjZIN01lLW9QZUEydzd3VDlqZ21ubFltcktKb1FUSWxSTkdESks4M3RDdllSaDJfRTc5OHZfYVlVbE93dnBhNVlhVEVKNkVGek1RSkhkVFBaV2o5Q1RfRG5paHVRaEhmdERSZWFtN0FOdDhhWVIzS1RUTkJNb3dLX3ZaRFk?oc=5",
-      "d": 1794313620000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28641,10 +28623,30 @@
       "d": 1794317340000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompasiana.com",
+      "x": "Konselor Tanpa Sertifikat: Dilema Jadi Tempat Curhat Teman Zona Just Friend Halaman all - Kompasiana.com",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1Z6cXpFSUpSV2JJVnVrLUluVnZLUnlPNnZaNS1yaklUdXFMcklGVWdNa3JsczFZVHdqd1M2OE9RWnNzZjl2VU9rY3hsMGRhbm11WHQ1cmNPRERMcDVIdTFSaE52eUdkWHg2ME8wekVxMFVsRDVOWFlRZEN2RHk1V21xWXhld1EyMUYxX05paDlpc016V3BJSkp4QWJCckxDMzBOSFR6ai15SXdNRG9QWExHeUNkSFJqU0trQkRrVkJZNDlzdjYzSVZkU0RsRDRxNjVXaXpneC1JV1NO?oc=5",
+      "d": 1794300711000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Harian Haluan",
+      "x": "CPNS 2026 akan Dibuka di Bulan November, Apakah Lulusan SMA dan SMK Bisa Daftar? - Harian Haluan - Harian Haluan",
+      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaE4yLUJvQTlVQ0J5S1I3c1B2RXBxZFlFWHRaMS1YNTdvNDZiczlpejBQVEVUMl9fcWlYTzRoakFkMlNyZHAwUWlZVHo0d2RGWnJiXzdDRllpRTB0UWhYd1g5aWxSeU9TaW4xM3B3c3c4RUtTcjZGZjV3aENMYXpWc21lcnlma0pBUW5GM3BOb01JaTdTaXV2Zk9CWVg4aktMNHVoeXA2WHpSWnhFZWppNFpNUm9UOHFxbFc2dkF6QWJPdzlpR2dieFFn0gHPAUFVX3lxTE5teDcyUEJzdnNfNkRkZnIwVm1TTTdtVmhvbWZEdHNNWk85aWZlZU5BRFdsUTRNTkY1bC1MNXFDRVZvQlp5a1RSb0E2R2w3MW8tVng3bTVsV2lhdzIxMHNHaDhRUmstek5heXFHdHBvaThubUZvZGJJWlJ3UVZtNkV2TTVyMS1ib1A1Nkh4dzZjcFY3RGIwMWMyRjVWWjVva2lyd29RYjB4YWIxRGY4TDNWdHkwMmo3by1HMnp2cmhiYmpwR1RBaE9pOWZxUUdmRQ?oc=5",
+      "d": 1794294900000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
