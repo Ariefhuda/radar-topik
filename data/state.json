@@ -27451,7 +27451,9 @@
     "threads:Dfiwt1GDaT9": 1794275444488,
     "threads:DfivxjQCgT9": 1794275444488,
     "threads:DfixCgqmeRd": 1794275444488,
-    "threads:DfiwogIkgr3": 1794275444488
+    "threads:DfiwogIkgr3": 1794275444488,
+    "threads:Dfiw5a6DwGS": 1794275748200,
+    "threads:DfiwWeJmqDS": 1794275748200
   },
   "digest": [
     {
@@ -27823,10 +27825,30 @@
       "d": 1794275223000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ykurniadir",
+      "x": "Cek kak mungkin ada nik di 1 kk yg terdaftar bansos. Terus itu bukan lolos verifikasi, itu baru berhasil pengkinian data. Tp berhasil pengkinian data 99% mungkin dapet.",
+      "u": "https://www.threads.com/@ykurniadir/post/Dfiw5a6DwGS",
+      "d": 1794275362000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kompastv",
+      "x": "Cara Cek Status Pendaftaran Perlinsos dan Penentuan Kelayakan Penerima Bansos Kemensos http://dlvr.it/TWGPMZ",
+      "u": "https://www.threads.com/@kompastv/post/DfiwWeJmqDS",
+      "d": 1794275140000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
