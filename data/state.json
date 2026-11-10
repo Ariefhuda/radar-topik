@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfATvmEDzxU": 1793119251148,
-    "threads:DfAT9T0j26H": 1793119251148,
-    "threads:DfAT80HlL3q": 1793119251148,
-    "threads:DfATySxES9q": 1793119251148,
-    "threads:DfATrxNDzAC": 1793119251148,
-    "threads:DfATrkbkQER": 1793119251148,
-    "threads:DfANTKTG3y_": 1793119251148,
-    "threads:DfATYzpiZmd": 1793119251148,
-    "threads:DfATK-ajFM9": 1793119251148,
-    "threads:DfATIBRm4KQ": 1793119251148,
-    "threads:DfAS62uiI1X": 1793119251148,
-    "news:CBMiZkFVX3lxTE5CaU9PRnd2dlRNSDBhTGQ2Uy0tdXY2YXdBTENaM1BhSy1xdHlybWtLdkN6WHdkVi1fUFF4MkdlRUl6U0VfWGxSMkdudW9Ta092WC11amNicGJyejc3RGhKN3JLOEd2QQ": 1793119251148,
     "threads:DfAVk1cgs5X": 1793120277060,
     "threads:DfAVimuEl3j": 1793120277060,
     "threads:DfAVhgIlcZu": 1793120277060,
@@ -27124,29 +27112,11 @@
     "threads:DfkVGiJjDZF": 1794328544539,
     "threads:DeUB1XgCXp8": 1794328544539,
     "threads:DfkVsFin_Sj": 1794328544539,
-    "threads:DfkVu7EmZHq": 1794328544539
+    "threads:DfkVu7EmZHq": 1794328544539,
+    "news:CBMipgFBVV95cUxOZHo0ME1DZ2VuQ0RhT19aVFVsU2lKQjZJWGZmWERqNHhQbnRkdkVYenY4VERrUkl4dXJTQ0IyNmdvbXhEOUZzdGtDZk9QNndwU3RNdDdaZlpqdlc1N1FDeEU2QmVoZnoteGg4NmNWenNpWEdaOU5oeDRCN2dlZ2lQMzM3WTFtanFING0yTUNzS1hVVlVGWnZUakV0VFJzMjV0WHc0S1JB": 1794328841174,
+    "news:CBMiZEFVX3lxTE9vTDJ2NnM1V3FHUEEzczFmY2Z2LUtKX1BCUXZrYnl3QzJxdWRtN01WNF84eVN6WGVxdEdpTEVveC0yRlgxNVI3Q0VqTG5sd2QzcXpNakZ6eWpoOWdsVk1qcWlpTWg": 1794328841174
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@joeshua98",
-      "x": "Siapa yg mau join WEBINAR GRATIS? Tema \"Tips langkah langkah untuk masuk ke dunia kerja\" ? Dm aja guys",
-      "u": "https://www.threads.com/@joeshua98/post/Dfj2xW7FLxq",
-      "d": 1794311996000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@vinh.ar",
-      "x": "Pernah nanya sama ketua ppni d kantor katanya buat jaga jaga kalo kena masalah hukum biar d bantu lah kaya siap siap mau kena musibah aja kaya ga ada manfaat yang kerasa banget set",
-      "u": "https://www.threads.com/@vinh.ar/post/Dfj2S38GipD",
-      "d": 1794311746000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28626,10 +28596,30 @@
       "d": 1794328229000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Universitas Nusa Mandiri",
+      "x": "Pentingnya Kuliah S2 Informatika Untuk Karier Masa Depan - Universitas Nusa Mandiri",
+      "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHo0ME1DZ2VuQ0RhT19aVFVsU2lKQjZJWGZmWERqNHhQbnRkdkVYenY4VERrUkl4dXJTQ0IyNmdvbXhEOUZzdGtDZk9QNndwU3RNdDdaZlpqdlc1N1FDeEU2QmVoZnoteGg4NmNWenNpWEdaOU5oeDRCN2dlZ2lQMzM3WTFtanFING0yTUNzS1hVVlVGWnZUakV0VFJzMjV0WHc0S1JB?oc=5",
+      "d": 1794297645000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "SuaraGarut.ID",
+      "x": "Daftar Beasiswa EMJM dan DAAD untuk Kuliah di Jerman - SuaraGarut.ID",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTDJ2NnM1V3FHUEEzczFmY2Z2LUtKX1BCUXZrYnl3QzJxdWRtN01WNF84eVN6WGVxdEdpTEVveC0yRlgxNVI3Q0VqTG5sd2QzcXpNakZ6eWpoOWdsVk1qcWlpTWg?oc=5",
+      "d": 1794287181000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
