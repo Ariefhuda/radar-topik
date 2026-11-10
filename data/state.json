@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeLmzRADrAb": 1793142547686,
-    "threads:DQeHp5FiPfm": 1793142547686,
-    "threads:DecIkMTEVcC": 1793142547686,
     "threads:DfBA33CgXh7": 1793142960248,
     "threads:DfBAxnJn2gP": 1793142960248,
     "threads:DfBAgG4DCMk": 1793142960248,
@@ -27119,19 +27116,17 @@
     "threads:DflCkKkh-mO": 1794351941398,
     "threads:DflCRExHS5l": 1794351941398,
     "threads:DflCPJWoHM0": 1794351941398,
-    "news:CBMisgFBVV95cUxPTERPTnROZzdMUGN1ODVOYWF1SWRocGxZZE4waUs5T09rZE1fYlpfeWFrZWF2VnlRRDVJNFlUS2RUQlNxUjJJMG9weXFlcWpGbHZ5Ym9fMS1sRjR3WGZCaWgxNk9TQjFLVlRDcVVuWTJ5MEw0bEt3NS14c0F4b1hieXlDaV9rS1RNOUEzbUlRd3ZKWFkzRThHNVhXRlNBM2pycXBhUHF0Ql9Jb1d4MWpmbURB": 1794351941398
+    "news:CBMisgFBVV95cUxPTERPTnROZzdMUGN1ODVOYWF1SWRocGxZZE4waUs5T09rZE1fYlpfeWFrZWF2VnlRRDVJNFlUS2RUQlNxUjJJMG9weXFlcWpGbHZ5Ym9fMS1sRjR3WGZCaWgxNk9TQjFLVlRDcVVuWTJ5MEw0bEt3NS14c0F4b1hieXlDaV9rS1RNOUEzbUlRd3ZKWFkzRThHNVhXRlNBM2pycXBhUHF0Ql9Jb1d4MWpmbURB": 1794351941398,
+    "threads:DflC_6KDilh": 1794352246694,
+    "threads:DflCycLHz0p": 1794352246694,
+    "threads:DflDB6PDm2C": 1794352246694,
+    "threads:DflCVdIGi6b": 1794352246694,
+    "threads:DflCVqBkvtR": 1794352246694,
+    "threads:DelyikkialO": 1794352246694,
+    "threads:DflDKjCE7XR": 1794352246694,
+    "threads:De8_ETEFFR-": 1794352246694
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@snbastudio",
-      "x": "harusnya kalo desil 1 masih dapet bantuan PKH / BPNT, diketerangan cek bansos biasanya ada YA / TIDAK terkait bantuan yg diterima. apaka PKH / BPNT statusnya YA / TIDAK",
-      "u": "https://www.threads.com/@snbastudio/post/Dfj_8JEGJHt",
-      "d": 1794316803000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28621,10 +28616,20 @@
       "d": 1794351799000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hallo kak, mau coba bisnis online kah? Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun pengha",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DflDKjCE7XR",
+      "d": 1794352048000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
