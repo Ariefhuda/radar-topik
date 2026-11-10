@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfA95liE8XW": 1793141448132,
-    "threads:DfA9j_eEorV": 1793141448132,
-    "threads:DfA87izEreO": 1793141448132,
-    "threads:DfA8sq2E2nT": 1793141448132,
-    "news:CBMia0FVX3lxTE9vb1h0SWxmejhER3ZRTGdIQkhwbnB0b3J4Q00zLUx2bDdSNWI2VWh3OHR0bFNKdmhhZ1dRV05lQ0NIc1dqV2d3clJveURTREg5bDJBZ0p2ZnRWSXd1UEw1eDJQOVE4VDl1Y25J": 1793141448132,
     "threads:DfA-wvwjyNX": 1793141737156,
     "threads:DfAixDZE1jy": 1793141737156,
     "threads:DfA-sBVFmqq": 1793141737156,
@@ -27116,29 +27111,11 @@
     "threads:Dbo5-nGiFg7": 1794350741134,
     "threads:DflAbLwjfDR": 1794350741134,
     "threads:DfkESUVkpf4": 1794350741134,
-    "threads:DfgijQrEtjp": 1794350741134
+    "threads:DfgijQrEtjp": 1794350741134,
+    "threads:DflAqzaIy2N": 1794351044474,
+    "threads:DflAabEn3VU": 1794351044474
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/Dfj--vSmR3-",
-      "d": 1794316300000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
-      "u": "https://www.threads.com/@erykka_ystr/post/Dfj-rNEGRJ_",
-      "d": 1794316140000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28618,10 +28595,30 @@
       "d": 1794319081000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nuril.arafah",
+      "x": "Selamat pagi Cek penerima BSU KETENAGAKERJAAN ini 🔗Linknya yaw #bpnt #pkh #bansos #BSU #bantuan #bansos #kks #pkh #bpnt #blt #bantuansosial #bantuanpemerintah #sembako #sorotan",
+      "u": "https://www.threads.com/@nuril.arafah/post/DflAqzaIy2N",
+      "d": 1794350740000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@aitrinurhayati",
+      "x": "Udah di cek belum???? Apakah km penerima BSU apa enggak?? Yg penerima boleh langsung daftarin https://bsu.bpjsketenagakerjaan.go.id/ #bsu #bansos",
+      "u": "https://www.threads.com/@aitrinurhayati/post/DflAabEn3VU",
+      "d": 1794350606000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
