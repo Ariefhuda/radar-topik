@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd-c2eYCR6Y": 1793143847615,
-    "threads:DfBCMfVHfGy": 1793143847615,
-    "threads:DdsRO0bErUj": 1793143847615,
-    "threads:DfBCrMkk6Ow": 1793143847615,
-    "threads:DfBCl_hkpM4": 1793143847615,
     "threads:De7Grg5kxft": 1793144162280,
     "threads:DbMp8-Hidbr": 1793144162280,
     "threads:DfBC-orjG5M": 1793144162280,
@@ -27111,19 +27106,15 @@
     "threads:DflEIJmkxI7": 1794352855405,
     "threads:DfMHOCeE4rC": 1794352855405,
     "threads:DflETqjEgxx": 1794353137881,
-    "threads:DflEBJOiHgj": 1794353137881
+    "threads:DflEBJOiHgj": 1794353137881,
+    "threads:DflF6-aEoYy": 1794353445768,
+    "threads:DflFha0o_sy": 1794353445768,
+    "threads:DflFfnXE0My": 1794353445768,
+    "threads:DflFOl2iSil": 1794353445768,
+    "threads:Dfk_X_wkT-D": 1794353445768,
+    "news:CBMiuwFBVV95cUxORTBEOGtLbWFlX2hOQkJqVG5CNzJlQktHNy1Sa2hKUzVGOVgtU0F4NjlLZ1dZYUdlQlNzNUpvdXNEMmh1Q3gtTHFuMWRsRHRqRWFobDFEVHVFRkVNczFBWmR3UkcydnVDLTg2cEZaVTJfVXdUX1BnVHowdjVwNEs4LVNtRnQ3UFpYREoxWmp2UW9FcENPck9sdjZwX1FKdnpDTWQzMEFyVFVjNExVUDAwX2ROdVFOSjlaLXk0": 1794353445768
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@agung_etex",
-      "x": "cek bansos sek lorr",
-      "u": "https://www.threads.com/@agung_etex/post/DfkBaEHH5PJ",
-      "d": 1794317573000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28613,10 +28604,20 @@
       "d": 1794352495000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "MetroTVNews.com",
+      "x": "BSI Scholarship Talenta 2026 Gelar Walk-In Interview , Cek Jadwal dan Lokasinya - MetroTVNews.com",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORTBEOGtLbWFlX2hOQkJqVG5CNzJlQktHNy1Sa2hKUzVGOVgtU0F4NjlLZ1dZYUdlQlNzNUpvdXNEMmh1Q3gtTHFuMWRsRHRqRWFobDFEVHVFRkVNczFBWmR3UkcydnVDLTg2cEZaVTJfVXdUX1BnVHowdjVwNEs4LVNtRnQ3UFpYREoxWmp2UW9FcENPck9sdjZwX1FKdnpDTWQzMEFyVFVjNExVUDAwX2ROdVFOSjlaLXk0?oc=5",
+      "d": 1794299413000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
