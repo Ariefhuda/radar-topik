@@ -27102,19 +27102,16 @@
     "threads:DfkieT3Gxpm": 1794335745634,
     "threads:DfkiK1UkrAS": 1794335745634,
     "threads:DfkkfsxHyxv": 1794336040135,
-    "threads:Dfkj-K3j66m": 1794336040135
+    "threads:Dfkj-K3j66m": 1794336040135,
+    "threads:DfklTm7kpnW": 1794336348432,
+    "threads:DfkksCBlHFi": 1794336348432,
+    "threads:DfkkARVH9gB": 1794336348432,
+    "threads:DfkjydgmUN8": 1794336348432,
+    "threads:DfkknDyGEtQ": 1794336348432,
+    "news:CBMilgFBVV95cUxNN2Jlb0NqTlQxbUc2MWJUSmhzeHFwel9uWThEZVZMSUFTTGtkYkRXQ0NLS2F3cndaRnRFLUhIMDZ2WUNZdk9ORDEzT092S3V1dVU2YkFTbXA2Q2pxY0NNUUd2N1pObTkwMGdBSlFOYTZ6WjZZbWRsLWZLTk54OXN0RGJ5NFdLYTR3WWNYNERJNU1fSmJ4YUE": 1794336348432,
+    "news:CBMi1gFBVV95cUxPbTVTenVTTHZHRExvX3lUTXQxRzlBSmRoalZmSE85WkZuTEJwdWVLeG1OM3VUdEZqUEdFUzZRVzNoVlF2MXZIV1hGRmM3eVpHSUhzaEp5ZHVMRUFiQWJwanppZEpKVWtQRC0wQVE3TVRucVI0NXJfcUEzMjVPVFV5Q3B6QXhLYWRuc1hQTUppSTFILVlOZmE4Zkw3QkwxSlhudWVYOVA5d2ZHZGo4aXhHWWRITnJQelZfU3hNNElya3AzcHNKb3ZIR0NvSDNyQnNZa2h5alVR": 1794336348432
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ailsyakids",
-      "x": "*LOWONGAN KERJA (LOKER)* *PETUGAS SERTIFIKASI HALAL* Petugas Pendamping Halal betugas mendampingi Pelaku Usaha dalam mengurus Sertifikasi Halal usahanya. Secara garis besar : 1. Be",
-      "u": "https://www.threads.com/@ailsyakids/post/Dfj8Rydj6N-",
-      "d": 1794314883000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28604,10 +28601,20 @@
       "d": 1794324660000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "papuadalamberita.com",
+      "x": "Menteri Transmigrasi Buka Opsi Beasiswa dan Pendampingan 1–2 Tahun Saat Dialog dengan Patriot Unpad di Fakfak - papuadalamberita.com",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbTVTenVTTHZHRExvX3lUTXQxRzlBSmRoalZmSE85WkZuTEJwdWVLeG1OM3VUdEZqUEdFUzZRVzNoVlF2MXZIV1hGRmM3eVpHSUhzaEp5ZHVMRUFiQWJwanppZEpKVWtQRC0wQVE3TVRucVI0NXJfcUEzMjVPVFV5Q3B6QXhLYWRuc1hQTUppSTFILVlOZmE4Zkw3QkwxSlhudWVYOVA5d2ZHZGo4aXhHWWRITnJQelZfU3hNNElya3AzcHNKb3ZIR0NvSDNyQnNZa2h5alVR?oc=5",
+      "d": 1794315235000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
