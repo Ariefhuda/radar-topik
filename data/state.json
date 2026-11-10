@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_17zkFN01": 1793104253670,
-    "threads:De_1-YTE5JA": 1793104253670,
-    "threads:De8VWx8lFPM": 1793104253670,
-    "threads:De_2jHXH68I": 1793104253670,
-    "threads:De_2hrKH5lr": 1793104253670,
-    "threads:De_2c5ynwHa": 1793104253670,
-    "threads:De_2YzVH7le": 1793104253670,
-    "threads:De_3MDqCQug": 1793104253670,
-    "threads:De_3Flam3TY": 1793104253670,
-    "threads:De_3FfBkob1": 1793104253670,
-    "threads:De_29Sfk6Cl": 1793104253670,
-    "threads:De_2SS2EwZc": 1793104253670,
-    "threads:De_2JajGjez": 1793104253670,
-    "threads:De_NXjlkukv": 1793104253670,
-    "threads:De_LaHSkv70": 1793104253670,
     "threads:De_0kuVj8xT": 1793104539636,
     "threads:De_3ZINDuBi": 1793104539636,
     "threads:De_3Tztm2sk": 1793104539636,
@@ -27179,7 +27164,8 @@
     "threads:Dfj4fkxjycK": 1794313628807,
     "threads:Dfj31dSDzcB": 1794313628807,
     "threads:Dfj4IeZD5-T": 1794313628807,
-    "threads:Dfj50qgCTcU": 1794313628807
+    "threads:Dfj50qgCTcU": 1794313628807,
+    "threads:Dfj4u0yDxnh": 1794313841431
   },
   "digest": [
     {
@@ -27361,10 +27347,20 @@
       "d": 1794313596000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@fauzialiana",
+      "x": "Untuk jenjang S2 dan S3, tersedia dukungan melalui assistantship (TA/RA). Pada 2026, nominal dukungan bulanan yang tercantum adalah KRW 1.850.000 untuk Master dan KRW 2.200.000 unt",
+      "u": "https://www.threads.com/@fauzialiana/post/Dfj4u0yDxnh",
+      "d": 1794313024000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
