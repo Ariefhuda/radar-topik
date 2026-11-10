@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-9CJsDDbw": 1793073954496,
-    "threads:De-8oEuFLMQ": 1793073954496,
     "threads:De-9medDF-9": 1793074241568,
     "threads:De-97gjjgr6": 1793074241568,
     "threads:De-9r0ZlImw": 1793074241568,
@@ -27395,24 +27393,13 @@
     "threads:Dfi8EauGi8n": 1794282938587,
     "news:CBMiuwFBVV95cUxQeGRYVFZJY3JiYnlDYVp3OXI3VjItR3g1TGtvQUtKeEhjN2pNZjl6X09SSVY1akxqZTE0c3I3NnBhT19ZX0FNZEFoRGhOcDkzMXdmMDc0cTlxRnQ0d01BY1FuOVdBTFFUOHR4c1ZrSzZYZk14N1dMYnluNUc3dThobEJWQ2lnWWFvM2REOHFkZjU4cHJsOG5heWlTbV9FX3VxYnhQcnE3UGo1NmFQV0F2eDV4bXdwRzRSZUs0": 1794282938587,
     "news:CBMi4wFBVV95cUxNNXpaYWdweG1xSzJtSlpuYndiTGZxN191c2hVQlh0Q0dWZ0I1LTBPek16eGFISUZmOWZYSlhWa2EwVDdOVXN0TlV4cG5aRDRBNjJxam41QS1XWkxGY1U4Zk9hal8zd2hnTjVTd1c5MVgxNjIwTGtOU1Q5dGV3a01VSlk3Vlp4Nm1XWjdSOExJQjFvS0xVY2U1RVowQ3E5bFgyazNsQU1XcjhGWDNScHl5Y2E4N09wWFBVZElGZDlLR0JvQnNNejd3UDNXNm1YUy11SVRndjd2SjJSRjdIS2cwaE4tUdIB6AFBVV95cUxOc2hhOVRkbGF4MGVDSTV5aXBORDc5T3Q3T1dhNHAxRUloNUhPMkkyZHpmTHdteTE5VWp5bnlGdHRLVDdvV040cHdFdHpzaFpnQTdjWTRNb2oza1JUdnRuTF9HU3pNdXhDcnNwUHhuSzU2N1dsQ1JncGlhUW9MdDRkRkppWHp0UEdERlg0R0Q2aDNzVVhidWpfdDdUWVdsVkFlc3p3VzREREZzUVZ2QXc5cVNCNnhlUkQ5NUlFUFhKTElaRTA0OHBnZDd1TzdBSFpvX0pNb3VBelJqaHV5RHV4WGNtNTFQbmJw": 1794282938587,
-    "threads:Dfi_zHFFLJR": 1794283369313,
-    "threads:Dfi_2TLkcHW": 1794283369313,
-    "news:CBMiiwFBVV95cUxQN2FuVUpaY0o3a3hoS3poX09qX01uN3dVSFdnV21lbklGck4xcHptNjFBYm4zVFpOQnlWbTdKUkFnaGtoeFpvZHc1TC1Da0k4VjkwX1FkcG82ejJjN0tDTFVBTHBPSDNDWmJYeUdmTFdwX2w0amxiTC1INnpZcjJPU2taZmRNUU9iazNr": 1794283369313,
-    "news:CBMizgFBVV95cUxQME1nT3o0Mk5Hd2I1REZFTElOOXV5d2ZONVFyMV81a3JxWkFsd21yTUcxbFJ2ZWtMSkRqLW9PSG9rTnZiT1BQR1o1LVB0UkIxTzlDZW9rdFc4azh5N2VVbXZFRWhNdFhEWjZkU0tiTTZ3X0ktaThLbW1tNVJ6cXEzTlpVbWZ6QUJMYkxUV0YzQmNUdC1hMnkyQjg2YzZteWl6eFZrbzZ1blpIUGJIdUdhRGF6R3VWYXlwSVFLZ2Fid0RrQWl4bnJ0c0hXZklTd9IB0wFBVV95cUxOMWVqak9wUldhX3B2VWc5VWowZk8tSVc0ZDRTZGZaUUJwdDF0Z25pNFV1MU83WjVMZmVLV0piMWwtZmRTSnhyZW1yQ2JRVHpIdFhqSzVfTENKdDhpbjlRRHJHQS1tWF9yUWxseFZ1YllDM2pmaElzZXNLMy13WlRnYzhzUmtaMlZOQ2gxMWFncFZPN3pkakxuc2ZzblI5azgyMmJsOHlmV2xBM2I4d3g0VlRKYUNnV3JWQmdJd0hGWml0VVowOXg2Z2tESURIVEJHOXU4": 1794283369313,
-    "news:CBMickFVX3lxTE56Qm9xSFVnVkRjTDNNNkJaUVlGU2lpbjZoMFh1VUJtdWdERzhFME9zSFp5M0hhc2hjS0JtaEVhb2xnS2JsbkJabHY2SzVuTzNpcDZFR2tzZHA3dUFPSTFFZzdVaWQtYU1vVDM4ZnhJQ242UQ": 1794283369313,
-    "news:CBMi6AFBVV95cUxQMDN0Njlqc0ZVM01QNFhhU2VnR1lBN2VOWFoyMUxNeHA4LU1iT3hrZDd1OEZTVjZwREFDY3lWSEIycFZBeksyQVZyRVVqaldITWxtU1Y4dzJReWtSSjJ1OUtFb3JxTnQyN1M1YkF5WW1GRmhrZGtscEFLZlRqbkRJanpFQVRJQ1ZaTjhmdElXQkMzMmQ5dG5uTnhwUUF2NTFCUUl5dDJLeWtpZmZnWlFUVnpmT0Q4NWxjQjdaeWYtWkJkR1pmZFc2ck84SmR1SGQ0UFhiRmljS0lmTW5SRm1rOHU0bHM4Wm5f0gHoAUFVX3lxTFAwM3Q2OWpzRlUzTVA0WGFTZWdHWUE3ZU5YWjIxTE14cDgtTWJPeGtkN3U4RlNWNnBEQUNjeVZIQjJwVkF6SzJBVnJFVWpqV0hNbG1TVjh3MlF5a1JKMnU5S0VvcnFOdDI3UzViQXlZbUZGaGtka2xwQUtmVGpuRElqekVBVElDVlpOOGZ0SVdCQzMyZDl0bm5OeHBRQXY1MUJRSXl0Mkt5a2lmZmdaUVRWemZPRDg1bGNCN1p5Zi1aQmRHWmZkVzZyTzhKZHVIZDRQWGJGaWNLSWZNblJGbWs4dTRsczhabl8": 1794283369313
+    "threads:DfjATClFKu8": 1794283550344,
+    "threads:DfjAh4ljzET": 1794283550344,
+    "threads:Dfi_zHFFLJR": 1794283550344,
+    "threads:Dfi_2TLkcHW": 1794283550344,
+    "news:CBMizgFBVV95cUxQME1nT3o0Mk5Hd2I1REZFTElOOXV5d2ZONVFyMV81a3JxWkFsd21yTUcxbFJ2ZWtMSkRqLW9PSG9rTnZiT1BQR1o1LVB0UkIxTzlDZW9rdFc4azh5N2VVbXZFRWhNdFhEWjZkU0tiTTZ3X0ktaThLbW1tNVJ6cXEzTlpVbWZ6QUJMYkxUV0YzQmNUdC1hMnkyQjg2YzZteWl6eFZrbzZ1blpIUGJIdUdhRGF6R3VWYXlwSVFLZ2Fid0RrQWl4bnJ0c0hXZklTd9IB0wFBVV95cUxOMWVqak9wUldhX3B2VWc5VWowZk8tSVc0ZDRTZGZaUUJwdDF0Z25pNFV1MU83WjVMZmVLV0piMWwtZmRTSnhyZW1yQ2JRVHpIdFhqSzVfTENKdDhpbjlRRHJHQS1tWF9yUWxseFZ1YllDM2pmaElzZXNLMy13WlRnYzhzUmtaMlZOQ2gxMWFncFZPN3pkakxuc2ZzblI5azgyMmJsOHlmV2xBM2I4d3g0VlRKYUNnV3JWQmdJd0hGWml0VVowOXg2Z2tESURIVEJHOXU4": 1794283550344
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@namithaparamitha",
-      "x": "Belajar & praktek Digital Marketing itu ngga cukup 1 hari, 1 minggu, bahkan 1 bulan. Butuh BIMBINGAN RUTIN sampai dapat hasil alias cuan. Apapun profesi/ bidangnya, PRAKTEK & BIMBI",
-      "u": "https://www.threads.com/@namithaparamitha/post/DfirWc5ks-s",
-      "d": 1794272454000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28874,6 +28861,26 @@
       "warn": false
     },
     {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@smootieshie",
+      "x": "⚡ Upgrade skill di bidang K3 Listrik, yuk! 📅 11 November 2026 ⏰ 18.30 WIB 🎁 Gratis materi & e-sertifikat (syarat dan ketentuan berlaku). Gas daftar sekarang! 👇 bit.ly/daftarhecc",
+      "u": "https://www.threads.com/@smootieshie/post/DfjATClFKu8",
+      "d": 1794283436000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@halotech.academy",
+      "x": "FREE WEBINAR! 🚀 Mau mulai karier sebagai Data Analyst di 2027? Yuk, pelajari learning path yang tepat langsung bersama praktisi dari The World Bank Group! Dapatkan e-sertifikat gr",
+      "u": "https://www.threads.com/@halotech.academy/post/DfjAh4ljzET",
+      "d": 1794283558000,
+      "urgent": false,
+      "warn": false
+    },
+    {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
       "a": "@mujail_",
@@ -28890,16 +28897,6 @@
       "x": "🌐 Pelatihan Gratis Bahasa Asing 🌐 💡 Daftar Pelatihan: 1. English Space - Registrasi s.d 12 Nov 2. 'Arabiyatuna Express #9 (Saudi Dialect) - 13 Nov 3. O-benkyou Express #4 (Bahas",
       "u": "https://www.threads.com/@updatepelatihan/post/Dfi_2TLkcHW",
       "d": 1794283200000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Cilacap Update",
-      "x": "200.815 UMKM di Jawa Tengah Kantongi Sertifikat Halal, Jateng Siapkan Wisata Ramah Muslim - Cilacap Update",
-      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMDN0Njlqc0ZVM01QNFhhU2VnR1lBN2VOWFoyMUxNeHA4LU1iT3hrZDd1OEZTVjZwREFDY3lWSEIycFZBeksyQVZyRVVqaldITWxtU1Y4dzJReWtSSjJ1OUtFb3JxTnQyN1M1YkF5WW1GRmhrZGtscEFLZlRqbkRJanpFQVRJQ1ZaTjhmdElXQkMzMmQ5dG5uTnhwUUF2NTFCUUl5dDJLeWtpZmZnWlFUVnpmT0Q4NWxjQjdaeWYtWkJkR1pmZFc2ck84SmR1SGQ0UFhiRmljS0lmTW5SRm1rOHU0bHM4Wm5f0gHoAUFVX3lxTFAwM3Q2OWpzRlUzTVA0WGFTZWdHWUE3ZU5YWjIxTE14cDgtTWJPeGtkN3U4RlNWNnBEQUNjeVZIQjJwVkF6SzJBVnJFVWpqV0hNbG1TVjh3MlF5a1JKMnU5S0VvcnFOdDI3UzViQXlZbUZGaGtka2xwQUtmVGpuRElqekVBVElDVlpOOGZ0SVdCQzMyZDl0bm5OeHBRQXY1MUJRSXl0Mkt5a2lmZmdaUVRWemZPRDg1bGNCN1p5Zi1aQmRHWmZkVzZyTzhKZHVIZDRQWGJGaWNLSWZNblJGbWs4dTRsczhabl8?oc=5",
-      "d": 1794261660000,
       "urgent": false,
       "warn": false
     }
