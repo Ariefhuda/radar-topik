@@ -27214,79 +27214,20 @@
     "news:CBMic0FVX3lxTE9HVjkyNU55ejVkdVVDQ2c4RnJTaVZHOFNQN3VhZXYwLXpwbXNtTzYzREw2X2tvY0xqZ1d4Zm9LcnJ4cTd6b2VnVzJTRmgyUU0ybFk3R1ZXaDFURGVWWWI5RDRaSDBKVEpabUpZWHpJRFRPV3c": 1794310534742,
     "news:CBMi4AFBVV95cUxNQXEyYkUxWkwtNFhqa2lEdGhVS0UwaVRvUmczTGkzN1BfQ0NXZE0xSDF4S0lXNzJ0Z0pCaVlvQXFScHd5ZkxnRnZCSWhmbGw0Vnd3YXVRektDVXU2TU1PY0pRZnkwVkMtLW4wUTB4X1VmZVZleDlPOVB6eE9rYTdaU3U0S3NLZnAtTWRHREhka3NiVlhMMHk0RGVBd3hJWVc3c3RqR2F6WUxFNmtLX2ZtdnRnWGppZEwzS2xZWk51aUpOOVBvWTRZQmZhVkpONDFoZENMMmh6MTZBYzZWbVI1ZtIB5gFBVV95cUxPOG1lMzZYU0tmWTNwM1lxY2xqR01PTVBvUUZwOTF1XzNrSUhOcktPMVg1SFZsVHRrSjJLOTBSaUpoWjNwanEySjMxYVpvZkdMLS1lQ1FxWTB2OXRxUFhKQ3AyM0lNNFdjZXRhc1NLSkNLLTd4VUcxZzB5dm50MGtJUkhJcGNCZDdHSnoySWNEd2FNUTRzSzdnRGtWd3EzOHdXdFpRMUF4SHhfZ1BXeWVVR0FrNkEtR2NidDhBRnZ3bUR5WjNscWRNeGpTVVlFQ0JQVVBHQU5pbDVNdE1kdk5uWTY3UkRnUQ": 1794310534742,
     "news:CBMiuwFBVV95cUxOTTVnRmFCTHBEc3ZLSXh1WndqN21paEhsdVdHbEN5OUd2RGx3R3ltUHpPTTZ1cU14RmZLQnVWZ0FybXlhSEVXODZuNEZGeEZzT2pwbXhiaUJqSXlkZFNxV0lOUVhSOVA1Y2N6aEhuR3VJZ2UweGxGRFNqV1ctVllyWG9BYURYRmFWSkIxQTJOem5ZTTM4SXoyUno3eXVRdjA1bGpvWkhLSDY5V2hQQXBueHowLXZlUWVLeldR0gHAAUFVX3lxTFBGV2N0TXJYdmpCQnBHQzlxU1VkRG5LeHJPaGxiLVdnaE1nb1VVdFJFWlhFZXNZZW9OdHpVQTNId3BiajNJYmxKLXl3M29PUzh0VzA0bkJxTFNhaFNpeEhnMUUyRGpqRW1aOG5DN1hiUjRMdmR0akRJZjVwMFN1TDNwNEZGc0l2WlNWeUJLTk9SVHRNZ1RZRGEyMkxsMkNiRkl3YmxJekNvWU9LUEI0WU9ZczFjQndBU0VfVjZWOUJNbw": 1794310534742,
-    "news:CBMi4wFBVV95cUxORTVfRnJ5WGhINW5zaXZiZDFLWUNTRGljQUc0VGZpTm1pQjNYOWJLZFpSZ1VqWEVKLXVuNjF2clpIT2c5ODBHUmJCWkpsQW1SbDd0bFBKTlVlNTAxRHFtT0UwVm1ndjlYX1htT0NNWEZhbFVWcUhLenNMODhJVjhVVkpJWFZseG9Fa29scXE3VDRGaVBNUTV4NndYSVB6T0l0cXRYOUw0NFVuMlduREZqODlFVEQ4NDhURk5hUUR2Yi1VazNVYVJxWExUUXUyM0dPcXRLOW5Sb3g2V05CVERVWjE3WdIB6AFBVV95cUxPcW5PLTFGaG5YS1l0Smpob2FIbUlxTkF1SllIN3RtdTRDcXhGUXBuZ3lNX00tc3djUU5icmZUZldKazY3NWpqclJXeV9sRHRXX1k0bDNYVzYzakhzRWFqODN0UW5FVjY5MUxHRE5lR1g4UFlZV01CcExTQnJYRXFXZDQwWE1fQ1dDYVpSYnNiMm5EaEdZY0cwUGxSRl9JcFkwUnZncS1BYUR1ZzdvLTFmRDBGTHdWZ213X3FLVkhZRF9wQlJZNEpDLWc0cEZuX3RScFNYS3BWYlZkT2FlX1lLLWpQYkVwa21H": 1794310534742
+    "news:CBMi4wFBVV95cUxORTVfRnJ5WGhINW5zaXZiZDFLWUNTRGljQUc0VGZpTm1pQjNYOWJLZFpSZ1VqWEVKLXVuNjF2clpIT2c5ODBHUmJCWkpsQW1SbDd0bFBKTlVlNTAxRHFtT0UwVm1ndjlYX1htT0NNWEZhbFVWcUhLenNMODhJVjhVVkpJWFZseG9Fa29scXE3VDRGaVBNUTV4NndYSVB6T0l0cXRYOUw0NFVuMlduREZqODlFVEQ4NDhURk5hUUR2Yi1VazNVYVJxWExUUXUyM0dPcXRLOW5Sb3g2V05CVERVWjE3WdIB6AFBVV95cUxPcW5PLTFGaG5YS1l0Smpob2FIbUlxTkF1SllIN3RtdTRDcXhGUXBuZ3lNX00tc3djUU5icmZUZldKazY3NWpqclJXeV9sRHRXX1k0bDNYVzYzakhzRWFqODN0UW5FVjY5MUxHRE5lR1g4UFlZV01CcExTQnJYRXFXZDQwWE1fQ1dDYVpSYnNiMm5EaEdZY0cwUGxSRl9JcFkwUnZncS1BYUR1ZzdvLTFmRDBGTHdWZ213X3FLVkhZRF9wQlJZNEpDLWc0cEZuX3RScFNYS3BWYlZkT2FlX1lLLWpQYkVwa21H": 1794310534742,
+    "threads:DfjzlBXADh0": 1794310841711,
+    "threads:Dfjzk_fFJ2C": 1794310841711,
+    "threads:Dfjzje5oPvP": 1794310841711,
+    "threads:DfjzGJGHRFh": 1794310841711,
+    "threads:Dfj0Oj3Dz-H": 1794310841711,
+    "threads:DfjzYk7lPrh": 1794310841711,
+    "threads:DfjzPvMFIeU": 1794310841711,
+    "threads:DfjzFxtj94v": 1794310841711,
+    "threads:DfjFtQqDMhG": 1794310841711,
+    "threads:Dfjz6QwFLpq": 1794310841711,
+    "threads:DfjGw0Jkf_W": 1794310841711
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Yang tercatat putusan pengadilan dan KPK untuk kader PKS itu cuma beberapa, bukan \"semua\". Yang paling sering dirujuk publik: Luthfi Hasan Ishaaq (2013 kasus suap kuota impor dagin",
-      "u": "https://www.threads.com/@meta.ai/post/DfjevM5glHy",
-      "d": 1794299395000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Iya, bisa jadi gugur kalau NIK suami ikut tercatat sebagai penerima PKH di 1 KK. Di Permenaker 16/2026 yang resmi diutamakan itu NIK yang tidak sedang menerima PKH tahun anggaran b",
-      "u": "https://www.threads.com/@meta.ai/post/DfjegMgDr9f",
-      "d": 1794299272000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Jakarta Smart City",
-      "x": "Jadilah Pahlawan Kota, Mulai dari Hal Sederhana di Jakarta - Jakarta Smart City",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUW4zeHFWM0c4QnotZGlNTlJIUlRwcmFwaFZIdlNCem5xOFk4UWREMGk0Unk5X2puVzhzQ3hZeDdNVU1pMHNKcndBZmNzekttX1VlbXFHc25yRFhKVlZnTXBGdVNTRFpsSm9sTjc2dVJsUTIycl8weUcyMEhYTDJKZEJ4Q2NRclFMOV9mU1E5RTVOSllxcWYyX1J2ZGl2VXNiTzNZem9BZmNZQQ?oc=5",
-      "d": 1794300019000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪 https://chat.whatsapp.com/JMbgyimwCy1EGwhWrk3Uhv?",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfjhcX_jxEt",
-      "d": 1794300814000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfjhYI5D3WK",
-      "d": 1794300779000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfjhQZUj-l6",
-      "d": 1794300716000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aaisyhimrna",
-      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
-      "u": "https://www.threads.com/@aaisyhimrna/post/DfjhNKsj0bV",
-      "d": 1794300689000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28716,10 +28657,80 @@
       "d": 1794262754000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, reseller itu harus ada modal di awal, menurutku kalau kk belum yakin bisa coba pakai sistem dropship dulu, yg tanpa harus stok barang. Jadi kk juga ga was2 kalau misal bar",
+      "u": "https://www.threads.com/@dinnie_ivone/post/Dfj0Oj3Dz-H",
+      "d": 1794310662000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nawasena.cipta.arunika",
+      "x": "WEBINAR GRATIS 🙌 Tema membahas tips langkah langkah teman dalam memasuki dunia kerja Narasumber langsung dari HR Profesional, Kak Indira Safirawarman, S.Psi., M.M. Register Now (F",
+      "u": "https://www.threads.com/@nawasena.cipta.arunika/post/DfjzYk7lPrh",
+      "d": 1794310220000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@joeshua98",
+      "x": "WEBINAR GRATIS 🙌 Tema membahas tips langkah langkah teman dalam memasuki dunia kerja Narasumber langsung dari HR Profesional, Kak Indira Safirawarman, S.Psi., M.M. Register Now (F",
+      "u": "https://www.threads.com/@joeshua98/post/DfjzPvMFIeU",
+      "d": 1794310147000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa coba bisnis online yuk 😊 Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi affilia",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfjzFxtj94v",
+      "d": 1794310066000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@maya_irwina",
+      "x": "🚀 Mau belajar Digital Marketing dari nol? Yuk gabung Komunitas Mahir Digital 💚 🎁 Webinar GRATIS 📅 13 Nkvember 2026 ⏰ 19.30 WIB malam ini 👉 Gabung di sini: https://bit.ly/3UR60",
+      "u": "https://www.threads.com/@maya_irwina/post/DfjFtQqDMhG",
+      "d": 1794286274000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@berkahkori",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@berkahkori/post/Dfjz6QwFLpq",
+      "d": 1794310496000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@rumahmurahpontianak_kkr",
+      "x": "Waspada hoaks pemutihan sertifikat tanah gratis Ada tawaran urus sertifikat tanah gratis lewat program pemutihan? Hati-hati. Kementerian ATR/BPN sudah mengimbau masyarakat waspada ",
+      "u": "https://www.threads.com/@rumahmurahpontianak_kkr/post/DfjGw0Jkf_W",
+      "d": 1794286832000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
