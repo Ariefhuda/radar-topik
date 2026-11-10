@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_0kuVj8xT": 1793104539636,
-    "threads:De_3ZINDuBi": 1793104539636,
-    "threads:De_3Tztm2sk": 1793104539636,
-    "threads:De_3FgPCe9A": 1793104539636,
-    "threads:De_35uZDzSe": 1793104539636,
-    "news:CBMi3gFBVV95cUxQbElCVDd2Tk82LUswWjZXY1hIQThSVmZNMjhaRE9haWFKTmt3X0JFN3ZIT21RTGdBdE40NXdMN2ZVUERvR3RudXFpQUdIbExfM25Mc1AwWTMzWXJhMFBTb3BRM2JJdmRKMDFsMFZrcDhOZm5INS1PazIwc0VkQnJXeXRac3FCcjdiV0FkQnF6SnBuTFpybjRrOHMtQURyZUdPa093QW03SWhYajRkZDFGZTVRZXhFMkxFa2g3RlNsVDluMGNkSElYS1JpMmlPRndjeGNDRDVhdHVMSURTbUHSAd4BQVVfeXFMUGxJQlQ3dk5PNi1LMFo2V2NYSEE4UlZmTTI4WkRPYWlhSk5rd19CRTd2SE9tUUxnQXRONDV3TDdmVVBEb0d0bnVxaUFHSGxMXzNuTHNQMFkzM1lyYTBQU29wUTNiSXZkSjAxbDBWa3A4TmZuSDUtT2syMHNFZEJyV3l0WnNxQnI3YldBZEJxekpwbkxacm40azhzLUFEcmVHT2tPd0FtN0loWGo0ZGQxRmU1UWV4RTJMRWtoN0ZTbFQ5bjBjZEhJWEtSaTJpT0Z3Y3hjQ0Q1YXR1TElEU21B": 1793104539636,
     "threads:De_33kTFFYG": 1793104846940,
     "threads:De_3s4uDjt0": 1793104846940,
     "threads:De_3aLBk400": 1793104846940,
@@ -27165,7 +27159,20 @@
     "threads:Dfj31dSDzcB": 1794313628807,
     "threads:Dfj4IeZD5-T": 1794313628807,
     "threads:Dfj50qgCTcU": 1794313628807,
-    "threads:Dfj4u0yDxnh": 1794313841431
+    "threads:Dfj4u0yDxnh": 1794313841431,
+    "threads:Dfj6O_wGcDL": 1794314168499,
+    "threads:Dfj6VxqAgf7": 1794314168499,
+    "threads:Dfj5_ohiYbn": 1794314168499,
+    "threads:Dfj6iONI0ts": 1794314168499,
+    "threads:Dfj6Pv-kbNl": 1794314168499,
+    "threads:Dfj6MwNjzve": 1794314168499,
+    "threads:Dfj6Iqjj9wd": 1794314168499,
+    "threads:Dfj6EWJD_6d": 1794314168499,
+    "threads:Dfj6A1-DySg": 1794314168499,
+    "threads:Dfj6DAIGV_r": 1794314168499,
+    "threads:Dfj5-VKG93t": 1794314168499,
+    "news:CBMilgFBVV95cUxQNDRzcUNnN2dDUmhwOGZVOUdzVnBuUmlDdXpudkNfOXV3YlA2OXFxcldqVW9SWDZBRHJUT0xDWDVwTkl5Nmt6Q2JBdm9VVFBISkdYc0RIcjBJNFhyUS1mb1lILVV0TUJPbEhQZ1B0cDRsTjlRcy1OcFJjWWFZSmVUMEk3cmpSZDVQaWpLMFB4U256eUo0Mmc": 1794314168499,
+    "news:CBMitAFBVV95cUxOMEVUQlYtb1RmRFR4eC1OWnhTaEdhVXhGV2d6S3RxLUptNmFGU1VFSVprd0xmU3JhdjZIN01lLW9QZUEydzd3VDlqZ21ubFltcktKb1FUSWxSTkdESks4M3RDdllSaDJfRTc5OHZfYVlVbE93dnBhNVlhVEVKNkVGek1RSkhkVFBaV2o5Q1RfRG5paHVRaEhmdERSZWFtN0FOdDhhWVIzS1RUTkJNb3dLX3ZaRFk": 1794314168499
   },
   "digest": [
     {
@@ -27357,10 +27364,30 @@
       "d": 1794313024000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Pontianak 15 Besar Nasional Global Cities Index 2026 - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDRzcUNnN2dDUmhwOGZVOUdzVnBuUmlDdXpudkNfOXV3YlA2OXFxcldqVW9SWDZBRHJUT0xDWDVwTkl5Nmt6Q2JBdm9VVFBISkdYc0RIcjBJNFhyUS1mb1lILVV0TUJPbEhQZ1B0cDRsTjlRcy1OcFJjWWFZSmVUMEk3cmpSZDVQaWpLMFB4U256eUo0Mmc?oc=5",
+      "d": 1794277800000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "Cek BPNT November 2026 lewat HP, Ini Cara dan Status Pencairannya - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEVUQlYtb1RmRFR4eC1OWnhTaEdhVXhGV2d6S3RxLUptNmFGU1VFSVprd0xmU3JhdjZIN01lLW9QZUEydzd3VDlqZ21ubFltcktKb1FUSWxSTkdESks4M3RDdllSaDJfRTc5OHZfYVlVbE93dnBhNVlhVEVKNkVGek1RSkhkVFBaV2o5Q1RfRG5paHVRaEhmdERSZWFtN0FOdDhhWVIzS1RUTkJNb3dLX3ZaRFk?oc=5",
+      "d": 1794313620000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
