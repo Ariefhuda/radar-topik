@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfAyzM5kvPT": 1793136042247,
-    "news:CBMiZ0FVX3lxTE1ENlNWSWlscE9jdmt0WklQcFd6bVJLaldsSlhobk1Ua2luRXZ1TDBUVGEwb2o3TTlwMlhqdkNNYjF4V3JQaHByb29oTl9FS01fbzRyTV9jSkZYNWFsNHpCQ1FLSmhyU0k": 1793136042247,
     "threads:DfA0jFsj2M9": 1793136338335,
     "threads:DfA0SR9FeWa": 1793136338335,
     "threads:DfA0NcJDAcb": 1793136338335,
@@ -27124,19 +27122,10 @@
     "threads:Dfk14k7CnwK": 1794345338089,
     "threads:Dfk1BLXFVFl": 1794345338089,
     "threads:Dfk2XvOD62j": 1794345338089,
-    "threads:DEoLYISzTMO": 1794345338089
+    "threads:DEoLYISzTMO": 1794345338089,
+    "news:CBMiqgFBVV95cUxPR3B3SWxvaUx2YTMyV1JCbmMwTVc2SXdVNHd6YzhvR0g4M1lsN3lZMkdmMWU1eGg4SGl4NndmeUl0TGhSaUJzc3RsQS15elZIWjE1T0Y4RmJJQlZQdVRIc0FPaE4xWXV6bTk3bE13REotbnlybGFJV25WQVE0Z2hINzVtd1VFaVNNR2xCMDFsa0pqd2tialR6RmJHZ1RwZ1h2RUxIcHhFZ2Rodw": 1794345645872
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ailsyakids",
-      "x": "*LOWONGAN KERJA (LOKER)* *PETUGAS SERTIFIKASI HALAL* Petugas Pendamping Halal betugas mendampingi Pelaku Usaha dalam mengurus Sertifikasi Halal usahanya. Secara garis besar : 1. Be",
-      "u": "https://www.threads.com/@ailsyakids/post/Dfj8Rydj6N-",
-      "d": 1794314883000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28626,10 +28615,20 @@
       "d": 1794329873000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "BISNISNEWS.id",
+      "x": "Pemerintah Indonesia Berikan Beasiswa Bagi Negara-Negara Anggota MOWCA - BISNISNEWS.id",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3B3SWxvaUx2YTMyV1JCbmMwTVc2SXdVNHd6YzhvR0g4M1lsN3lZMkdmMWU1eGg4SGl4NndmeUl0TGhSaUJzc3RsQS15elZIWjE1T0Y4RmJJQlZQdVRIc0FPaE4xWXV6bTk3bE13REotbnlybGFJV25WQVE0Z2hINzVtd1VFaVNNR2xCMDFsa0pqd2tialR6RmJHZ1RwZ1h2RUxIcHhFZ2Rodw?oc=5",
+      "d": 1794289860000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
