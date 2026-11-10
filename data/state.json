@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_4ftJEvyM": 1793111453952,
-    "threads:De_1Vwen447": 1793111453952,
-    "threads:De_0rMkE2Y_": 1793111453952,
-    "threads:DfADzxYGmnR": 1793111453952,
-    "threads:DfADaqrAaqF": 1793111453952,
-    "threads:DfADZUNAXiD": 1793111453952,
-    "threads:DfADYkugXHp": 1793111453952,
-    "threads:DfADX8CgXxN": 1793111453952,
-    "threads:DfADOKyH6Wk": 1793111453952,
-    "threads:De_5ccqEXoQ": 1793111453952,
-    "news:CBMisgFBVV95cUxPYlZRcVBEdVp0WlF2Tk1MLWhMelpDcXZSSmJtMV9teVJxZ2lURXl0ck84Uy0yNElCVmdmTnhmWmJmc2lDdmVINUVBMnduWW5ZbURjVTc1NHN0cEhHY0RPOGJSZHBjZjRBbWtmZVB0UUhmQVE5YlBsazh0UGdpQ1p3Rll0cDBvLUwtVlJvb3VjSFZmVkNGcW1iQTFicU1BcjRKYmFwSFdIYzAxcmdmdC1rb2lB": 1793111453952,
-    "news:CBMi7wFBVV95cUxQdG9aTUZqZXNSM0xyTnhTX1dhNms5RnFEdUM4Q1E4NG80TGFUOThNSUZkU2FDRWJFLVVRV1RqZzA1MXljbkQ4SHlEZzk5cmJoNGxNUUJTZ3RNbS12VUU0Nzd5cVlRcld6QjBZMFI1U25CYlFEN0VkZ2JvSjdYRXNyUTBzT3pqMFR4N0JTRWxrZGpiUTFQb0pvNl9IaEZ1eGhXMTd4Nm9jeDlBZDJWb3YwR2dOY2Q3N1Z2T3JoTzN2M0FtUVdvdWFfMGNsMUtKMGlURWhEemhNdGd2NjlBc1VPb2lOa21qX0laSDBUQ1BlTdIB7wFBVV95cUxQdG9aTUZqZXNSM0xyTnhTX1dhNms5RnFEdUM4Q1E4NG80TGFUOThNSUZkU2FDRWJFLVVRV1RqZzA1MXljbkQ4SHlEZzk5cmJoNGxNUUJTZ3RNbS12VUU0Nzd5cVlRcld6QjBZMFI1U25CYlFEN0VkZ2JvSjdYRXNyUTBzT3pqMFR4N0JTRWxrZGpiUTFQb0pvNl9IaEZ1eGhXMTd4Nm9jeDlBZDJWb3YwR2dOY2Q3N1Z2T3JoTzN2M0FtUVdvdWFfMGNsMUtKMGlURWhEemhNdGd2NjlBc1VPb2lOa21qX0laSDBUQ1BlTQ": 1793111453952,
-    "news:CBMijgFBVV95cUxPRFVqMGlYWXhQNFhRQnZ3RVBEUElsZDFaTkQ3aGJIdFFTVk5pT29oQlNJaDRwS1BNeXlFdjZ4QjBFQ3YxVE9teE1uWjBqR0hfRmMySEZhZ09XYWc4NHg2SUZPc2gwNHdkUGpZMG1VRHA1dzZnRTBlUEFTVExiYkozY25sUG5MU09MSWcweVJR": 1793111453952,
     "threads:DfAFVMKEy-1": 1793111742311,
     "news:CBMijAFBVV95cUxONmVBenZRLUhHcUJFMk1uclRIMUJQN3pBOE9UcGtZekhoQ1F3OWo0Ykt1LU81cE81Q01SejliODgtTVdkazlxeFl6Yk9ELXdOblU5R0Nhb2Rvb0VENVF0Qjl6SDA3MkVnZWtTTHFlcE1CUmpJQ3BVdW1hX1RDbXc5MC1Idm9xb3FoUlZVSg": 1793111742311,
     "news:CBMigwFBVV95cUxQN0VXN1paT21KcjBkSG5faVpwcnpTTjdwRjZZQjJQbDlSYllvNXZHWjdwenlyVHZhQkU2RDB4NWlHb1JYN1FwZk16M240R1NYZEtwTldfaTQzdmRWWUdNbGh2LU9aaVlhdnN0Skg1UkttN1RsNlBUVk9TdTdFeHdObXNNTQ": 1793111742311,
@@ -27138,7 +27125,9 @@
     "threads:DfkGId-nwFu": 1794320736672,
     "threads:DfkG-tqGeir": 1794320736672,
     "threads:DfkGi4Zj9ta": 1794320736672,
-    "news:CBMimgFBVV95cUxPQ2gta0kxWUNEakc4NTNJSldXYVVKTkR5R240LU9hR3ZobTZlNXN6LXk5LVJYaEY2a3lmVldOZjJPbEEyZURmZnljeWV1QU9XMWVJbW9LcWhJdmRsNlFyajZGV1g0YzNVblA5NW1DbmZQR1lCVkdpMm11OUhmSjg4eVFkV0RrSmY2TzdKSXJLclFpV1N6TE15UjZ30gGfAUFVX3lxTE9qcUt2Sm4wSVNWVi1zMTU3STg4RnFOSklrTXhWNlRhUG1BaFFOZUNNYk80TC1tZmI0Q29td25ySUNaY3kwdlc4ZWVtOVhYOGR1Y21uY09WajExVHA5QTE4RWpTVHRza1FrQzFKczlZT0N2RUtxLXR3UWFOU0FITlhsYzRPZEstYlVvYUZYWXpYN2w2OHZQSTJvUzdoZUhQYw": 1794320736672
+    "news:CBMimgFBVV95cUxPQ2gta0kxWUNEakc4NTNJSldXYVVKTkR5R240LU9hR3ZobTZlNXN6LXk5LVJYaEY2a3lmVldOZjJPbEEyZURmZnljeWV1QU9XMWVJbW9LcWhJdmRsNlFyajZGV1g0YzNVblA5NW1DbmZQR1lCVkdpMm11OUhmSjg4eVFkV0RrSmY2TzdKSXJLclFpV1N6TE15UjZ30gGfAUFVX3lxTE9qcUt2Sm4wSVNWVi1zMTU3STg4RnFOSklrTXhWNlRhUG1BaFFOZUNNYk80TC1tZmI0Q29td25ySUNaY3kwdlc4ZWVtOVhYOGR1Y21uY09WajExVHA5QTE4RWpTVHRza1FrQzFKczlZT0N2RUtxLXR3UWFOU0FITlhsYzRPZEstYlVvYUZYWXpYN2w2OHZQSTJvUzdoZUhQYw": 1794320736672,
+    "threads:DfkHwMvCKiN": 1794321042724,
+    "news:CBMiqAFBVV95cUxQMG5CM2I0MUk4bXh0UkxOdmxrUmZhUUFpb2s0elRtM2xnOFEtdEIxWjF0R1VYOC15M09kekpfSWdkRDh2X0diOFppcHFxQzVtNWxRR005aEk0Y1VzaFQzTzFyZGdwX2dBNnRUZVlRVDhGZmdiVjh1SU8wdy1OTkg3b192M3RpVjNtMjNVY2lGNTVnYTNzSElhVTZJbkRPZFhINkZ4VTNrRXk": 1794321042724
   },
   "digest": [
     {
@@ -28040,10 +28029,30 @@
       "d": 1794304680000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Cek nya di jalur Kemensos mas, bukan di BPJS - soalnya yang dimaksud BNPT itu BPNT / Sembako. Paling resmi lewat cekbansos.kemensos.go.id: buka situsnya, pilih wilayah sesuai KTP (",
+      "u": "https://www.threads.com/@meta.ai/post/DfkHwMvCKiN",
+      "d": 1794320899000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Jakarta Smart City",
+      "x": "Jadilah Pahlawan Kota, Mulai dari Hal Sederhana di Jakarta - Jakarta Smart City",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMG5CM2I0MUk4bXh0UkxOdmxrUmZhUUFpb2s0elRtM2xnOFEtdEIxWjF0R1VYOC15M09kekpfSWdkRDh2X0diOFppcHFxQzVtNWxRR005aEk0Y1VzaFQzTzFyZGdwX2dBNnRUZVlRVDhGZmdiVjh1SU8wdy1OTkg3b192M3RpVjNtMjNVY2lGNTVnYTNzSElhVTZJbkRPZFhINkZ4VTNrRXk?oc=5",
+      "d": 1794316725000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
