@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfA6KfEidpw": 1793139662479,
-    "threads:DfA5K8wEXBY": 1793139662479,
-    "threads:DfA5UGzkxuf": 1793139662479,
     "threads:DfA6graE8it": 1793139942239,
     "threads:DfA71UHjuJL": 1793140244783,
     "threads:DfA7LDICNvl": 1793140244783,
@@ -27114,19 +27111,17 @@
     "threads:Dfk8v-jARmT": 1794348935313,
     "threads:Dfk8OSzjxMU": 1794348935313,
     "threads:Dfk8LJogYwd": 1794348935313,
-    "threads:Dfkw6-vEjcl": 1794348935313
+    "threads:Dfkw6-vEjcl": 1794348935313,
+    "threads:DYJeYb3kjN3": 1794349238040,
+    "threads:DebmkhtE_Fb": 1794349238040,
+    "threads:Dfk813Ik8eI": 1794349238040,
+    "threads:Dfk7_ePlVC4": 1794349238040,
+    "threads:Dfk9CaIEvey": 1794349238040,
+    "threads:DcfEixhnc3F": 1794349238040,
+    "threads:DStlh2Tkyf6": 1794349238040,
+    "threads:DCP8zCIM6Ea": 1794349238040
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@lenymrln.97",
-      "x": "Di cek bansos kemensos kak",
-      "u": "https://www.threads.com/@lenymrln.97/post/Dfj-7lRmUS6",
-      "d": 1794316274000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28616,10 +28611,20 @@
       "d": 1794313017000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@d_maul4na",
+      "x": "Kontra nya adalah loker makin dikit dan susah, perusahaan lebih milih buat ikut program MagangHub karena mereka dapet tenaga kerja gratis tanpa perlu bayar gaji peserta karena suda",
+      "u": "https://www.threads.com/@d_maul4na/post/Dfk9CaIEvey",
+      "d": 1794348836000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
