@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdjgEC0k9GN": 1793117443892,
-    "threads:DfAP48QIyLs": 1793117443892,
-    "threads:DfAPxcuk93g": 1793117443892,
     "threads:DfAP2a4FLFL": 1793117744437,
     "threads:DcU14Timafx": 1793117744437,
     "threads:DfAQv7BGwRJ": 1793117744437,
@@ -27126,7 +27123,19 @@
     "threads:DfkRAM3lkE9": 1794326447394,
     "news:CBMirwFBVV95cUxQeDJQTHJTRUluS3FUZGlrQmFBTkRHNVZtQ0Z0cm43ODR5UWd4OFc2V2FHem8ycy1oVG43RnF1bDR4eFhVbE9NYm5LbmNMWUhUaXVZYzljM0pEekNoMU91ZkJDcDQ1Y2ttenBZUmRxQ295R0NCVWxkQkFaR1dFLWxTeDZFWFVEbi1tT3dORVZ3bUJHaXN1OUlTek1fZkd2U0FFVnFnM1N6NzhtWW40bGZj": 1794326447394,
     "threads:DfkRxmiG6bN": 1794326735258,
-    "threads:DMRA_XxBbpt": 1794326735258
+    "threads:DMRA_XxBbpt": 1794326735258,
+    "threads:DfkSgqAgfPn": 1794327058225,
+    "threads:DfkTL3diESK": 1794327058225,
+    "threads:DfkTYHDsIIw": 1794327058225,
+    "threads:DfkTF6hmoYV": 1794327058225,
+    "threads:DfkSz5oP3DL": 1794327058225,
+    "threads:DfkSogkqleV": 1794327058225,
+    "threads:DfkSwOCGjU6": 1794327058225,
+    "threads:DfkSSkTh8JJ": 1794327058225,
+    "threads:DfkST-vjUyP": 1794327058225,
+    "threads:De2I63vE9dJ": 1794327058225,
+    "threads:DfkTayXGPZr": 1794327058225,
+    "threads:Dfj6KIHkzWp": 1794327058225
   },
   "digest": [
     {
@@ -28588,10 +28597,30 @@
       "d": 1794323651000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ummu_hayyin.ts",
+      "x": "Bahasa Arab itu termasuk \"kunci\" dari kemunduran umat Islam. Jauh dari bahasa Arab = jauh dari agama kita sendiri. Yang mana Islam itu yang membentuk jatidiri kita. Sebagai umat te",
+      "u": "https://www.threads.com/@ummu_hayyin.ts/post/DfkTayXGPZr",
+      "d": 1794327015000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@itskhairaa.almaraa",
+      "x": "Bismillah Dear akhawaaty, kalau misalnya ana buka kelas tahsin online GRATIS selama sebulan, apa ada yang berminat yaa ?",
+      "u": "https://www.threads.com/@itskhairaa.almaraa/post/Dfj6KIHkzWp",
+      "d": 1794313772000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
