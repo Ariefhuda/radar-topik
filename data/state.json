@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfA6graE8it": 1793139942239,
     "threads:DfA71UHjuJL": 1793140244783,
     "threads:DfA7LDICNvl": 1793140244783,
     "threads:DfA6uzhgXBR": 1793140244783,
@@ -27119,39 +27118,12 @@
     "threads:Dfk9CaIEvey": 1794349238040,
     "threads:DcfEixhnc3F": 1794349238040,
     "threads:DStlh2Tkyf6": 1794349238040,
-    "threads:DCP8zCIM6Ea": 1794349238040
+    "threads:DCP8zCIM6Ea": 1794349238040,
+    "news:CBMilgFBVV95cUxOR2lDLXVhVUoxMGhXUzFQRmlLY1NwX3EtSUtSeXRBcEs1aUJOOHpEcWI1Z29kX19JYk1EUWlhVUZWWkZFQWlQM3RQNExHQURaUEZjc0tBRFVkdlozTUEyNzFfNzZtbmlxX0dnVVhhR0RZel93Z2pZelBXVUlwOG81Y1JUMEZZWHdXaVhIU3NGLUtVYUt0OXc": 1794349558677,
+    "news:CBMiuAFBVV95cUxNemdsMFdsTlhTWjFjNklGcURzZG1MNDNrMnJXMk5GRTRDZlJDRzhKMUZpZlYxeXRmWVpPalZUVnFMYXhiZklLRVY4aHNISmxTUkFuZ3VUZmp2NThINWpqcFVmRlF2UUszRHE4S0x2WnRnZnVFRUxMUzRya1VOUm1EZ3Rnd0MzcUM4T2oyN1U1RnFNNjk4NjJSOU0tZ1FYdF9BQ2FlRGlvTXpqaHZ3enF3bno0YjZrRllr": 1794349558677,
+    "news:CBMiqAFBVV95cUxQQk8wOXBlT0tkcWhwZWtBTGNkZlU3OUo2bmVyQ1RLSWVBSHdGV09BN3VXVVBMaTFTc3hVQkh2dHVHU0duUG1nRjE4UE9DSnM1Njd6eGhicW1vS3BJbG94enNGem5SZi15Z1NoSUZ4TkNIajJ4dnZLZ21EY2htX2xWNDVZTUtabkVsRHNMakpYU1NpTzZmalY4akFVRThfUTNOZjNPQmxxR2Y": 1794349558677
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Bener, angka itu cuma seakurat surveinya. BPS pakai Susenas, survei sekitar 300rb+ rumah tangga 2x setahun di Maret dan September, dengan garis kemiskinan nasional yang beda dengan",
-      "u": "https://www.threads.com/@meta.ai/post/Dfj-5aKDifv",
-      "d": 1794316256000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@yeni_riani95",
-      "x": "Kaka semua kan udh ada perhitungan toh bantuan ke masyarakat gak ada yg di potong malah di tambah cek aja bansos tahun ini penerima kip, itu di th ini bertambah",
-      "u": "https://www.threads.com/@yeni_riani95/post/Dfj-oVsE7WU",
-      "d": 1794316116000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@vinaaffs",
-      "x": "persis sama yg punya utas. Di cek NIK ga termasuk. Padahal gaji umk, bpjs aktif 17 bulan iuran terakhir 1 okt 2026 kemaren, bukan penerima bansos juga. Gmna ya?",
-      "u": "https://www.threads.com/@vinaaffs/post/Dfj-gJfFEo7",
-      "d": 1794316049000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -28621,10 +28593,40 @@
       "d": 1794348836000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Unite.AI",
+      "x": "Linux Foundation Meluncurkan Agent Name Service untuk Identitas Agen AI - Unite.AI",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2lDLXVhVUoxMGhXUzFQRmlLY1NwX3EtSUtSeXRBcEs1aUJOOHpEcWI1Z29kX19JYk1EUWlhVUZWWkZFQWlQM3RQNExHQURaUEZjc0tBRFVkdlozTUEyNzFfNzZtbmlxX0dnVVhhR0RZel93Z2pZelBXVUlwOG81Y1JUMEZZWHdXaVhIU3NGLUtVYUt0OXc?oc=5",
+      "d": 1794330062000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "ANTARA News Mataram",
+      "x": "BPJPH mendukung sinergi edukasi jaminan halal untuk siswa Sekolah Rakyat - ANTARA News Mataram",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemdsMFdsTlhTWjFjNklGcURzZG1MNDNrMnJXMk5GRTRDZlJDRzhKMUZpZlYxeXRmWVpPalZUVnFMYXhiZklLRVY4aHNISmxTUkFuZ3VUZmp2NThINWpqcFVmRlF2UUszRHE4S0x2WnRnZnVFRUxMUzRya1VOUm1EZ3Rnd0MzcUM4T2oyN1U1RnFNNjk4NjJSOU0tZ1FYdF9BQ2FlRGlvTXpqaHZ3enF3bno0YjZrRllr?oc=5",
+      "d": 1794349260000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "bataviapos.id",
+      "x": "10 Penyebab Bansos PKH 2026 Tidak Cair dan Cara Mengatasinya - bataviapos.id",
+      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk8wOXBlT0tkcWhwZWtBTGNkZlU3OUo2bmVyQ1RLSWVBSHdGV09BN3VXVVBMaTFTc3hVQkh2dHVHU0duUG1nRjE4UE9DSnM1Njd6eGhicW1vS3BJbG94enNGem5SZi15Z1NoSUZ4TkNIajJ4dnZLZ21EY2htX2xWNDVZTUtabkVsRHNMakpYU1NpTzZmalY4akFVRThfUTNOZjNPQmxxR2Y?oc=5",
+      "d": 1794349412000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
