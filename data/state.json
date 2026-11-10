@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfAFxDOGmL5": 1793112043240,
-    "threads:DfAFqS3E4FI": 1793112043240,
-    "threads:DfAGChnFTK-": 1793112043240,
-    "threads:DfAGCV6CRfG": 1793112043240,
-    "threads:DfAGA58m7P1": 1793112043240,
-    "threads:DfAFeb4lrXw": 1793112043240,
-    "threads:DfAFWTdDyFJ": 1793112043240,
-    "threads:DfAFO5-Ex1E": 1793112043240,
-    "threads:DfAFOLUkV-l": 1793112043240,
-    "threads:DfAFCgWk2HH": 1793112043240,
-    "threads:DfAEwTKDV8m": 1793112043240,
-    "threads:DfAE9WQiQvl": 1793112043240,
-    "news:CBMiuAFBVV95cUxQUUdjVFc5cE1VN0VDYm14dXRmY2FvM1ZYRk9nZElhanRhanRWQUQ2NjU5YjQxUHJlWUllMkdsZjlIYmZlMnpVRHBUN3dMXzdfYTdPa2pYZ3NqQkRDMDA1U2YwQTktUVU4dWFkOUtxNFloVGZ1MTd2UEUwbVRIU1RXUm53dFNtTGZfc1BFaDNCbm9KVjJzU0RXX0kwX3hTejRWV2JFN0JaY3FKUTNiU3pvVzZQT3ZtSkhj": 1793112043240,
-    "news:CBMivwFBVV95cUxPVFk4TWNrMlMzVlZ4ZW12dGtKTzZBUlhLWThpX2hIXzV6SWdUbUR5ZmF3clJENjg0bk1tTEt1WXMyNC1ZbjZjMFhDblNrdTZWRXlETnJFWUUzVDNXdVRFckpQVFJkYjNDWGloeFdSeXRLd0RYUHk2STM5ajlpcVhrT25aVGZYcWNDeTctRHRaWkYtRTVCeC1uTzltQ1h3X29lQktndThyREFpRmdhZkczZFhLWDQ0UE9GSE9rQVUwSQ": 1793112043240,
-    "news:CBMirgFBVV95cUxOQUVkYXlJeGFCeTU3Mk04Y0xqLWlJVVZFa2E3Q1lKOVB4dTN3WW5YdkUwbDdpVGVvbzkxaS1FU0lUdEdUamZiNHdFS21oQ2VhNTUwRjVYS1N3R3lfbnJaVXRna0dTOFpWMlVscS1iM1FwZXVFMEE3X0hEWktZcnMyZDdzdVNCVndCaTJMSF9QS25WYjhXb3p2dVVfb19PU0NuTDBiaWRITjdRM3hsZ2fSAawBQVVfeXFMTXVjNVgyWkhya003b2JGZmNmUUxmaENWRzM5c2tRT0lHNk5zZVpSeVYwRFBHM2Z1b2tHVXYyR0N0THpOWWNjYlktdmpHY0VZQWJZMXQ3OWVrZmRQS0k4el80OGVnSFpkTm9QTUJhV01BS09SMnU1Y2JJRVBJdTMxblZ6NDJDdl9vREx4X2RGc0JiNWxESVNsMVZ5NWtKcmM0ajJ2azdxMTNxVmp6WA": 1793112043240,
     "threads:DfAGIauGUva": 1793112341030,
     "threads:DfAGGIqgRBA": 1793112341030,
     "threads:DfAFsQqCdal": 1793112341030,
@@ -27134,7 +27119,17 @@
     "threads:DfkHvaPjz7i": 1794321346602,
     "threads:DfkHk2Am7QT": 1794321346602,
     "threads:DfkAbBWmufi": 1794321346602,
-    "news:CBMi9gFBVV95cUxQRGt3Umd1Y2pFNERlSWxWWWZfUDBJUjNXTjdBTmV6STMzdEhWWWdHZG5LcHhIcHoyX2E0czRZTkozRk5TeDdfQTMzaTh3LXoyM1B6ekRYb1pocjlmR3dWS3RrWHlyNnVZXzJ6Y0ZvR3ZVSFdDQnJXaUk5aGNnM3BucXNHZFIyeHFTMFdiYXlKNzFINXFqZXB3c3MyMXQtTjBWU2pkbU1LT3lRa2JfMWpyQmNhRUsyQlJ1VElwRXowV3J1d21YZ25TRkp2YVJCRGg3Q3JxV0RubkViOS1KVEJHZ1RnYzJTVzFTdlZpNmZ0Q3o3ZTBNc1HSAfYBQVVfeXFMTWVEQzdJVWNVZnhDV1Y4S2RxNnJQRDN5VFdrTDl2dERvQmxqVldQNElWT19JS3dXNWRuakRMUnZueWo2LXV3d0V2V3JWNXQ0SDdMUVF1cXRSNENiVWZDMEw3bDlHQ0Zmck9UYzktVHN1TTdtVm5SeFh1Xy1tQzBBa0I2Z2xZbk01UkVGZzI0azdfVTVmVkFwVkVudDZKdEZJY2FKekhOc2pzWFNpYnMxOHgySkpPVkdNTWowTDRiMW5LZGlLYVJNRkpSNkJmZFF3ME42WFJaTVJpQkdmSDIxMThzNVhVQXptdGtmMDVNNmJIQ2hYaEV3": 1794321346602
+    "news:CBMi9gFBVV95cUxQRGt3Umd1Y2pFNERlSWxWWWZfUDBJUjNXTjdBTmV6STMzdEhWWWdHZG5LcHhIcHoyX2E0czRZTkozRk5TeDdfQTMzaTh3LXoyM1B6ekRYb1pocjlmR3dWS3RrWHlyNnVZXzJ6Y0ZvR3ZVSFdDQnJXaUk5aGNnM3BucXNHZFIyeHFTMFdiYXlKNzFINXFqZXB3c3MyMXQtTjBWU2pkbU1LT3lRa2JfMWpyQmNhRUsyQlJ1VElwRXowV3J1d21YZ25TRkp2YVJCRGg3Q3JxV0RubkViOS1KVEJHZ1RnYzJTVzFTdlZpNmZ0Q3o3ZTBNc1HSAfYBQVVfeXFMTWVEQzdJVWNVZnhDV1Y4S2RxNnJQRDN5VFdrTDl2dERvQmxqVldQNElWT19JS3dXNWRuakRMUnZueWo2LXV3d0V2V3JWNXQ0SDdMUVF1cXRSNENiVWZDMEw3bDlHQ0Zmck9UYzktVHN1TTdtVm5SeFh1Xy1tQzBBa0I2Z2xZbk01UkVGZzI0azdfVTVmVkFwVkVudDZKdEZJY2FKekhOc2pzWFNpYnMxOHgySkpPVkdNTWowTDRiMW5LZGlLYVJNRkpSNkJmZFF3ME42WFJaTVJpQkdmSDIxMThzNVhVQXptdGtmMDVNNmJIQ2hYaEV3": 1794321346602,
+    "threads:DfkIVH4icwg": 1794321634614,
+    "threads:DfkIBf5Ex97": 1794321634614,
+    "threads:DfkI3Emj77J": 1794321634614,
+    "threads:DfkImVhD2hJ": 1794321634614,
+    "threads:DfkITCDj5nb": 1794321634614,
+    "threads:DfkH_lwjx1l": 1794321634614,
+    "threads:Dfj_MwfE9Bt": 1794321634614,
+    "threads:DfkH05lmuV4": 1794321634614,
+    "news:CBMivgFBVV95cUxPWm81Vy01NF94cHV1cG1RVU8tV1hlRXNwcjNKQmU0MTZiRWN4Q1I2N2pha2w5ZHVqeEozV1o0d0tWbWZOTUZiLXFWYmI1VUYtblY0bVFOZFNGZENaajBEMDhMdkk2cHlCMlhRMkg0UG1VMzlqcHhmbVBpQUdUNmlrTWlrTkJSelVHckx3ckVwdHJJM1ZLNDQzdXd6RkVQZnA4RWM1RXJybmd3aTk2WFV0cmdFWnpWVTQxQm5UUmZR": 1794321634614,
+    "news:CBMi9gFBVV95cUxPQmxFZ1lwT015cS1CbXgxeFJGU0ZkT2RDemJ6bEtkZHhNZGQwV0pwUlBnOHFPWllSelZWNm9LT1VjMnNEWnhPU2FyWmMwejFOMmtXcnBpeFVvY3FLTGo2amFsVzY3eXlUcFpQTHFLengzXzRCRkhZWUpaWDBfck1aaDhrUjRpcWhkRHd0WFZpUGY0LXVUSldvTnU3SUhXUkRSSjBKdUViUzZTbXBuZ0JDT2tYUnZGSE9QODF6Mzg3SDRDS3NBQjFxRXRSVG5FTXNaZmRXcHh3SFpCeElNNXU1TTFYcGFCRHIwMFBrWV9aWFB1ZFZpdlE": 1794321634614
   },
   "digest": [
     {
@@ -28066,10 +28061,90 @@
       "d": 1794314100000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba bisnis online. Modalnya bisa dimulai dari yang kecil dan resikonya lebih rendah. Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun ",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkI3Emj77J",
+      "d": 1794321480000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba bisnis online. Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkImVhD2hJ",
+      "d": 1794321343000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak, bisa coba bisnis online yuk 😊 Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menj",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkITCDj5nb",
+      "d": 1794321185000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Halo kak bisa coba bisnis online. Kk bisa mulai belajar skill digital dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi affiliator, r",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkH_lwjx1l",
+      "d": 1794321025000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nexthr_academy",
+      "x": "ada yang mau kelas L&D Gratis? 👀",
+      "u": "https://www.threads.com/@nexthr_academy/post/Dfj_MwfE9Bt",
+      "d": 1794316415000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dikkkaaaa_1",
+      "x": "POSTER STRUKTUR ORGANISASI KELAS - TEMA SAYUR 🥬 Bikin kelas jadi lebih rapi & profesional, tapi tetap lucu! Desain sayur & buah yang segar, cocok banget ditempel di dinding depan ",
+      "u": "https://www.threads.com/@dikkkaaaa_1/post/DfkH05lmuV4",
+      "d": 1794320938000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Mahkamah Agung",
+      "x": "Mahkamah Agung Republik Indonesia - Mahkamah Agung",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWm81Vy01NF94cHV1cG1RVU8tV1hlRXNwcjNKQmU0MTZiRWN4Q1I2N2pha2w5ZHVqeEozV1o0d0tWbWZOTUZiLXFWYmI1VUYtblY0bVFOZFNGZENaajBEMDhMdkk2cHlCMlhRMkg0UG1VMzlqcHhmbVBpQUdUNmlrTWlrTkJSelVHckx3ckVwdHJJM1ZLNDQzdXd6RkVQZnA4RWM1RXJybmd3aTk2WFV0cmdFWnpWVTQxQm5UUmZR?oc=5",
+      "d": 1794311160000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "KOMPAS.com Official App - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQmxFZ1lwT015cS1CbXgxeFJGU0ZkT2RDemJ6bEtkZHhNZGQwV0pwUlBnOHFPWllSelZWNm9LT1VjMnNEWnhPU2FyWmMwejFOMmtXcnBpeFVvY3FLTGo2amFsVzY3eXlUcFpQTHFLengzXzRCRkhZWUpaWDBfck1aaDhrUjRpcWhkRHd0WFZpUGY0LXVUSldvTnU3SUhXUkRSSjBKdUViUzZTbXBuZ0JDT2tYUnZGSE9QODF6Mzg3SDRDS3NBQjFxRXRSVG5FTXNaZmRXcHh3SFpCeElNNXU1TTFYcGFCRHIwMFBrWV9aWFB1ZFZpdlE?oc=5",
+      "d": 1794305880000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
