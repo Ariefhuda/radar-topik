@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_SRobCPOw": 1793085667000,
-    "threads:DbCSE0YAUeg": 1793085667000,
-    "threads:DcnKwGREhUk": 1793085667000,
-    "news:CBMihgFBVV95cUxNendYeGZQWTFjOUp2N21HZVVvaTJTa0ZTUW1KVUJEblBwZmZmd0dqY2poWk9qVWtJUk9tUjU1UVl5OHVQbmFSYTJxN0J1NEp2bERKcEl3WDd3VC11RVVOSUdheEE3anlkeFN2RzhnbWRoWldnbEhHVXRYVk1vZEN6cVB6T3hUZw": 1793085667000,
-    "news:CBMirgFBVV95cUxQbkVjeTZ0ZjNubll1bmtfT0ZFYXkyWDYwQXRSOVpxcld2MDRzdXdfWmVwREl3Mm5Ib2pBRUFsVzRrMmpYY2ZveVBwd1Q0Q2FpYkM0dUNCMkdwRlQzT0g2eWJ1eWZBS0VkT2FsZUJUeWVobTl6NWRMSmVreUpXdjJyZWMyR3F1cVNzTEhMU3VuaDFTbVVGb3YyX05tZU4zX3ladEo1UTFiNVZidmxrUmc": 1793085667000,
-    "news:CBMivgFBVV95cUxNNW5CNU95dHAzU0VGeUhPcHpwVjF1ZS04Unl0cWQwVmhiNnlUT0FnLXFBemJPRWw5MXY4TUZ2TnN1WmRZcU83RWhqUU5RbXdXNGpVQkoxWnUyN2tZQ0RVZ1lsajAzYTFnUlg2Xy15N0djdjhPb3A0N24zd3I2czg1Zlg4ZDg3bE9DS1hoY1hZU3BXU08xdmNBYmNtbWVqVE5YcTZpRjJPQXZmQldhWE5DVzV4OHNtLXJZSXBtNzZB": 1793085667000,
     "threads:Dbt-EeVjXNH": 1793085938250,
     "threads:De_UQVYFtTn": 1793085938250,
     "threads:De_UFbbGmE5": 1793085938250,
@@ -27285,49 +27279,16 @@
     "threads:DfjU0wUn6UJ": 1794294695588,
     "threads:DfjUq6MIJ0C": 1794294695588,
     "threads:DficcWyEqKz": 1794294695588,
-    "news:CBMi6AFBVV95cUxOcTBoUW1jeU1FaHE0TDM0MFN5NDNoVXBCd19YN3lBUlM0dk5fd0tBQ09yRFZFcHBfeVgxUWtKTDBUTy1RZjBKMDZSOHBzSGxraEc0Zmxfek44akNPaDlBcWk3VFBpbnFWclp5QXB0Z0h5amxJN3lVUndVZEdORFYxeU9LTV9FVUdTbkhJNkpTM0llRXVydk9MeER4VEtBTG5WSm1yTGFZMnBBS1Ftd0ZULXhTUjktb19ENllXRXY2N2tKVHhfeGtGR0VvYXlwWUNUNWhCQlpEbl9WMXZTNndpUlhZeGp6MWZ20gHoAUFVX3lxTE5xMGhRbWN5TUVocTRMMzQwU3k0M2hVcEJ3X1g3eUFSUzR2Tl93S0FDT3JEVkVwcF95WDFRa0pMMFRPLVFmMEowNlI4cHNIbGtoRzRmbF96TjhqQ09oOUFxaTdUUGlucVZyWnlBcHRnSHlqbEk3eVVSd1VkR05EVjF5T0tNX0VVR1NuSEk2SlMzSWVFdXJ2T0x4RHhUS0FMblZKbXJMYVkycEFLUW13RlQteFNSOS1vX0Q2WVdFdjY3a0pUeF94a0ZHRW9heXBZQ1Q1aEJCWkRuX1YxdlM2d2lSWFl4anoxZnY": 1794294695588
+    "news:CBMi6AFBVV95cUxOcTBoUW1jeU1FaHE0TDM0MFN5NDNoVXBCd19YN3lBUlM0dk5fd0tBQ09yRFZFcHBfeVgxUWtKTDBUTy1RZjBKMDZSOHBzSGxraEc0Zmxfek44akNPaDlBcWk3VFBpbnFWclp5QXB0Z0h5amxJN3lVUndVZEdORFYxeU9LTV9FVUdTbkhJNkpTM0llRXVydk9MeER4VEtBTG5WSm1yTGFZMnBBS1Ftd0ZULXhTUjktb19ENllXRXY2N2tKVHhfeGtGR0VvYXlwWUNUNWhCQlpEbl9WMXZTNndpUlhZeGp6MWZ20gHoAUFVX3lxTE5xMGhRbWN5TUVocTRMMzQwU3k0M2hVcEJ3X1g3eUFSUzR2Tl93S0FDT3JEVkVwcF95WDFRa0pMMFRPLVFmMEowNlI4cHNIbGtoRzRmbF96TjhqQ09oOUFxaTdUUGlucVZyWnlBcHRnSHlqbEk3eVVSd1VkR05EVjF5T0tNX0VVR1NuSEk2SlMzSWVFdXJ2T0x4RHhUS0FMblZKbXJMYVkycEFLUW13RlQteFNSOS1vX0Q2WVdFdjY3a0pUeF94a0ZHRW9heXBZQ1Q1aEJCWkRuX1YxdlM2d2lSWFl4anoxZnY": 1794294695588,
+    "threads:DfjWqg0jQng": 1794295246031,
+    "threads:DfjVfbiEuQ1": 1794295246031,
+    "threads:DfjW6fEIP9R": 1794295246031,
+    "threads:DfjUwAAmbgC": 1794295246031,
+    "threads:Dfi3p4Ck4B3": 1794295246031,
+    "news:CBMi2wFBVV95cUxPX1dNb25YOVJQaG9nNFZtaGZ6b2ZpUlh1czhBXzhiaEJrQ1ctVXg0MXlGUVpyVDNzWUk4VFF3dURSamRYVFpTNWx5RzlVQWVfZHRuZnRXSXgyQ3FCRlZ3Q1FUcGxZSHZWLXhyR1Q5VWxGbUF6QjZ5bWpuR29pcmVNcjB2WVNvX3RfRDI2TE9BdUNHdi1fUDNSbmQ2MWxQMV9fTjdhUExLdHdKREJPNzBFYTJfeUg5a196dC1jUFNRb3FaRHR6d2tham1OdFhGak9XNnBOalBhSGZJdEk": 1794295246031,
+    "news:CBMiogFBVV95cUxOMTZRT1A3U0VzSkFiajBmWk1Kd0FCSkd0UzI0RkJHNE54YzhkN3BNdFZTRWE1Vm5veXJtdjdXamFZdGpKalZWSHBlNlpTcVUwOU9jUWJ5TFNUVms5dGE5OUVUQ09NUnNkZmhENzJOUll4aXlDY0VXdHRRRmJuMTZOU0NlU1R0eHcyZFlVaVlYTVlFaXpLV3ZQb2ZWZjJ3dXhmSmfSAaIBQVVfeXFMTjE2UU9QN1NFc0pBYmowZlpNSndBQkpHdFMyNEZCRzROeGM4ZDdwTXRWU0VhNVZub3lybXY3V2phWXRqSmpWVkhwZTZaU3FVMDlPY1FieUxTVFZrOXRhOTlFVENPTVJzZGZoRDcyTlJZeGl5Q2NFV3R0UUZibjE2TlNDZVNUdHh3MmRZVWlZWE1ZRWl6S1d2UG9mVmYyd3V4Zkpn": 1794295246031
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kelasgratissmartkids_rpab",
-      "x": "Selamat Hari Pahlawan Mari teruskan semangat perjuangan dengan berkarya, berbuat baik, dan memberikan yang terbaik bagi bangsa. 📍 Kelas Gratis Smart Kids Jl. Simpang Gapura No. 18",
-      "u": "https://www.threads.com/@kelasgratissmartkids_rpab/post/DfjC3C8kq1x",
-      "d": 1794284780000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Kediri",
-      "x": "Daftar 4 Bansos yang Disalurkan untuk KPM Desil 1-4 DTSEN: PKH, BPNT, PBI-JK hingga PIP - Radar Kediri",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTE5MlVWTDlKdUZCLU5rRk54bmRNOTZGcjVnQlZMclhISlVPYzlaUzVLbWV6R3FIcXRQZFpXX0JwQUdMVGtEMTBibjRFUzZtODc4RExRUFM1eFZQVVBKZmFqODRpbTFpLThPb0VrX0syV2RxMHpxcjVIdXV5UWZjN1BJSV9LMFhJVldHWkZhZDV2UVhVeWNWaFZaa0U4ZGZlRXRjMHRvOC1VaFVBaHp6SVREWUNrTk5LMlNpR1hyM2tqU3Z3UGtzRnBUQ1U1Uy1P0gHWAUFVX3lxTFBLbnkwWnhFSHJ5Ukpscmk4TnJGRERpX1k1QmxmZ0V5WmJlZWZzREpXVld5WUJLcjRrZVlJSmliaWo2OGhZLWs3THRlcTcyQ3dScE9rVThHV1hSTmZFeDdnRzREcnRfM1l4aFExWHh3Mjh2M2taVlJoeTd4WTZsLTJHclBUOHVZVGxMVVQzbDZZallYWVFqUENneVBVSks2dGpWX3BUaWhMTWdrSEpudV90TER5d2hIMzl6MW9PVktrOU1lbEdnYUFOZmxWNTBBTENrVXpFWlE?oc=5",
-      "d": 1794206135000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@brian_maxyz",
-      "x": "\"BEASISWA sampai lulus dari FESTIVAL PELAJAR UNGGULAN #Batch3 dibuka untuk umum, kalian juga bisa daftar📌 Dibuka bulan ini, buat yang minat langsung baca info lengkapnya di websit",
-      "u": "https://www.threads.com/@brian_maxyz/post/DfjDUifkjEU",
-      "d": 1794285022000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Udah aku cek mendalam barusan pakai keyword \"Rudy Watak\" di berita kriminal. Hasilnya nihil — yang muncul cuma kasus lain kayak Rudy Aras (sengketa tanah Kuta), Rudy Tanoe bansos, ",
-      "u": "https://www.threads.com/@meta.ai/post/DfjDBobD_vi",
-      "d": 1794284866000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28787,10 +28748,50 @@
       "d": 1794266320000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@apibki",
+      "x": "Yuhuu kakak-kakak yg mau join webinar gratis siapa lagi, bisa dapet e-sertifikat loh😍",
+      "u": "https://www.threads.com/@apibki/post/DfjW6fEIP9R",
+      "d": 1794295293000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@joycare.indonesia",
+      "x": "Daftar webinar gratis lewat link di biooo yazh🫰",
+      "u": "https://www.threads.com/@joycare.indonesia/post/DfjUwAAmbgC",
+      "d": 1794294159000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nuraida_ibs",
+      "x": "🌿 WEBINAR PARENTING NURAIDA ISLAMIC BOARDING SCHOOL 🌿 “Remaja di Tengah Arus Zaman: Identitas, Relasi, Seksualitas, dan Kesehatan Mental” Insyaallah, kita akan belajar bersama be",
+      "u": "https://www.threads.com/@nuraida_ibs/post/Dfi3p4Ck4B3",
+      "d": 1794278904000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Espos.id",
+      "x": "BPJPH Sebut 2,5 Juta Produk di Jateng Telah Bersertifikat Halal - Espos.id",
+      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTZRT1A3U0VzSkFiajBmWk1Kd0FCSkd0UzI0RkJHNE54YzhkN3BNdFZTRWE1Vm5veXJtdjdXamFZdGpKalZWSHBlNlpTcVUwOU9jUWJ5TFNUVms5dGE5OUVUQ09NUnNkZmhENzJOUll4aXlDY0VXdHRRRmJuMTZOU0NlU1R0eHcyZFlVaVlYTVlFaXpLV3ZQb2ZWZjJ3dXhmSmfSAaIBQVVfeXFMTjE2UU9QN1NFc0pBYmowZlpNSndBQkpHdFMyNEZCRzROeGM4ZDdwTXRWU0VhNVZub3lybXY3V2phWXRqSmpWVkhwZTZaU3FVMDlPY1FieUxTVFZrOXRhOTlFVENPTVJzZGZoRDcyTlJZeGl5Q2NFV3R0UUZibjE2TlNDZVNUdHh3MmRZVWlZWE1ZRWl6S1d2UG9mVmYyd3V4Zkpn?oc=5",
+      "d": 1794291960000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
