@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfA8n1dEf9P": 1793141148984,
-    "threads:DfA8d_ADAZT": 1793141148984,
-    "news:CBMiaEFVX3lxTE9qbkNrOXJZRnREcVlMUEhWMmlaRVFwTGFBZjhUQzR0NXU5SjgtblM3NWNSXy1ZU0h1QWtFUjJnejgzV0VDX3BrNXBqdU92eHlUdlZxODgxQ00zZFdkS1JZTV9TNTE1YjRs": 1793141148984,
-    "news:CBMiZkFVX3lxTE1RWWZhOERsRFZubzZ5dGZUQm9JYXFyaTdWOHFRWGphWEtJVHF6V2tHU2pHazRpXzkyb3dhVTVpWmVscXdWSTV5Nm1HUVZpOHltLUVzbnlyQ3B2ZlFhenhIRlE4QkxTUQ": 1793141148984,
     "threads:DfA95liE8XW": 1793141448132,
     "threads:DfA9j_eEorV": 1793141448132,
     "threads:DfA87izEreO": 1793141448132,
@@ -27116,19 +27112,13 @@
     "threads:Dfk97nQEfZF": 1794349844529,
     "news:CBMipAFBVV95cUxQbUJoX1M3TlluYnkzNzNESWVnWkhSeUZtb3F6ZVpaNWdkazZtcFZFbXhHWXVfcGhvUXRSR25fMUVqNWNJLVZFaHhqMk8wbkVDYXFDNDRvZ1g5REpoM0R5ZjBua0xEZ3Jfc1lFWmN4VGNMVXN5b0tLOFFtaFRReDVPTjNnSGI0U2lZNy1MeUxPSUZOb1JNUGVJSjJ3SmZNTHdYaGRreQ": 1794349844529,
     "threads:Dfk-2SLkqTs": 1794350136154,
-    "threads:Dajq5JsEnro": 1794350440914
+    "threads:Dajq5JsEnro": 1794350440914,
+    "threads:Dbo5-nGiFg7": 1794350741134,
+    "threads:DflAbLwjfDR": 1794350741134,
+    "threads:DfkESUVkpf4": 1794350741134,
+    "threads:DfgijQrEtjp": 1794350741134
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lin8.ji",
-      "x": "Kalau untuk pelatihannya tidak ada kak paling adanya sertifikasi untuk dapat sertifikat. Kalau untuk pelatihan coba untuk di LPK², mungkin bisa membantu, atau pelatihan ada yg grat",
-      "u": "https://www.threads.com/@lin8.ji/post/Dfj_5GckzLq",
-      "d": 1794316778000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28618,10 +28608,20 @@
       "d": 1794349785000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bnda2512",
+      "x": "🛍️ KAMU PENGEN PUNYA TOKO ONLINE? Usia sudah 25 tahun ke atas, tapi masih bingung mau mulai usaha dari mana? Yuk, belajar mengenal peluang toko online lewat **FREE WEBINAR!** 🎉 C",
+      "u": "https://www.threads.com/@bnda2512/post/DfkESUVkpf4",
+      "d": 1794319081000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
