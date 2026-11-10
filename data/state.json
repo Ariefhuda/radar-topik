@@ -27457,19 +27457,31 @@
     "threads:DfiigEakmiE": 1794269139861,
     "threads:DfikVNSjHNc": 1794269139861,
     "news:CBMikwFBVV95cUxPcDRJZlJhUEYyLS1SRkp5aGFGQlJKUVRXQlNYTHpWLS1Lck10Z2JWazh5OVlEcHVJX0hFRThXQ01NLWU1NTljZE42Q08zNVcyME4yRXo2WEt2a0hxSFJvM1FyN0VSc1BtTzF1Nmd4NDZqVHMwTzZ0SFNVdlJMbWg1X3JnT1RRRkhnUDV4NzVHQXcwQVk": 1794269139861,
-    "threads:De-g3bOk9WK": 1794269438897
+    "threads:De-g3bOk9WK": 1794269438897,
+    "threads:DfimN1hljZF": 1794269747033,
+    "threads:DfimMyzlp9d": 1794269747033,
+    "threads:DfimLORlhmO": 1794269747033,
+    "threads:DfimJcbIcRd": 1794269747033,
+    "threads:DfillnWDk4D": 1794269747033,
+    "threads:Dfil6rDlq-m": 1794269747033,
+    "threads:Dfil5-dDvLp": 1794269747033,
+    "threads:Dfil5bSlhUr": 1794269747033,
+    "threads:DfimP7elohE": 1794269747033,
+    "threads:DfimO3XlgFJ": 1794269747033,
+    "threads:Dfil4KWlsLM": 1794269747033,
+    "threads:Dfil2svlr-J": 1794269747033,
+    "threads:Dfil1bMlouT": 1794269747033,
+    "threads:Dfilz1SFtsy": 1794269747033,
+    "threads:DfilyS_lo_e": 1794269747033,
+    "threads:Dfilw9Dlmrn": 1794269747033,
+    "threads:DfiloxfEXlL": 1794269747033,
+    "threads:Dfilm55lgqD": 1794269747033,
+    "threads:DfileFgkwEL": 1794269747033,
+    "threads:DfilcaSEYCm": 1794269747033,
+    "threads:DfilG9gDXHs": 1794269747033,
+    "threads:DfimHF0kuQ0": 1794269747033
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Suara Pantura",
-      "x": "Pemprov Jateng Ajak 35 Daerah Anggarkan Pendampingan Sertifikasi Halal untuk UMKM - Suara Pantura",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWGJlVXpEMzFXcnQ1VzAtRGtOU09fUmVkbktaa2V4YXNkZ3dWWThQQXVvMjhSbHA4aXo1dHZiSnk2NnVJV1dIeHBMaThSYWlkd0R5SVpNaG44dGFBVngxV2dFX1JUU2w4bUNZVlZnaDNIaEJkbkJmU3BlQjA0QjR1R3VMaXJ6MkpEcnNSeHlDRW11WllVOWpCbTNPdElCUU8yMWZsSDVFR0Jab3NsLUEtWmtyVE5FMXpEUEVNczlRZXZmQzA5RFF5RGFPYw?oc=5",
-      "d": 1794234541000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28959,16 +28971,26 @@
       "d": 1794225644000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Belajar digital matketing dari 0, diajarin dan ditemenin mentor sampai berhasil, ilmu dan platformnya lengkap seperti kita ambil kuliah Marketing konvensional..semua bidang yang po",
+      "u": "https://www.threads.com/@eneng_apt/post/DfimHF0kuQ0",
+      "d": 1794269706000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794247893951
+    "reddit": 1794269747033
   }
 }
