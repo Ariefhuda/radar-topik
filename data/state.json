@@ -27455,7 +27455,10 @@
     "threads:DfixX7PjfWn": 1794276047731,
     "threads:DfixDuHgZeD": 1794276047731,
     "threads:Dep0DFWAVfS": 1794276047731,
-    "news:CBMirgFBVV95cUxNSHAxSW1aS2ZCTURNdDZXQ3RtM3hvSmJPTFY0R0xnY1VkelNhUVAzQk41TzFhbG16a0hvbDI3dU1CZUtsUTRQcklHME5ySXZWWThTWjdJVEsxRXItNUQzN055YnhyWEltZXdyczdnNHVKZTJJR0ZyNWVJa0ZabnlJY1ZBa0hBYTlCU0pPZzMyVjJRZzVERUI4bk44OXpqTkMwSU5feHFaYmdhX3VUYVE": 1794276047731
+    "news:CBMirgFBVV95cUxNSHAxSW1aS2ZCTURNdDZXQ3RtM3hvSmJPTFY0R0xnY1VkelNhUVAzQk41TzFhbG16a0hvbDI3dU1CZUtsUTRQcklHME5ySXZWWThTWjdJVEsxRXItNUQzN055YnhyWEltZXdyczdnNHVKZTJJR0ZyNWVJa0ZabnlJY1ZBa0hBYTlCU0pPZzMyVjJRZzVERUI4bk44OXpqTkMwSU5feHFaYmdhX3VUYVE": 1794276047731,
+    "threads:DebPQWOCZwL": 1794276340228,
+    "threads:DfiyuBqGQaz": 1794276340228,
+    "threads:DfiywqPkVaq": 1794276340228
   },
   "digest": [
     {
@@ -27857,10 +27860,30 @@
       "d": 1794234287000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@muhamrannurdin",
+      "x": "@meta.ai Terakhir dibayar Oktober tgl 15.dan saya tidak termasuk penerima bansos karena sudah cek link bansos juga. Penyebab lainnya apa",
+      "u": "https://www.threads.com/@muhamrannurdin/post/DfiyuBqGQaz",
+      "d": 1794276317000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Kalau iuran terakhir 15 Oktober dan kamu bukan penerima PKH/bansos, kamu seharusnya masih masuk snapshot aktif sampai Agustus. Penyebab lain yang paling sering bikin tidak lolos ta",
+      "u": "https://www.threads.com/@meta.ai/post/DfiywqPkVaq",
+      "d": 1794276338000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
