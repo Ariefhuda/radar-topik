@@ -27143,7 +27143,9 @@
     "threads:DfkLOM2j1QB": 1794323443132,
     "threads:DfkKoWbD3hu": 1794323443132,
     "threads:DfkK4lcHRqB": 1794323443132,
-    "threads:De_7XBDn0OW": 1794323443132
+    "threads:De_7XBDn0OW": 1794323443132,
+    "threads:DeULN8WG4TA": 1794323743297,
+    "news:CBMijAFBVV95cUxOd0k4VTFNdGJtM1BRZUhIWHpJanN3dUFvZFdjMG5jNnBhbzUzVllDTThPdi02X0szdUp0ZjJGUXVFYkx5WWxONndDaVlGREs5M3BEZ25HbHR4N1hKUVozZnRfdWJWazZfNXlvbERaZENiekNQSFNkWlJTdmpqb3R3bUVpU0tFdDVQSDJQXw": 1794323743297
   },
   "digest": [
     {
@@ -28355,10 +28357,20 @@
       "d": 1794322541000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Liputan Khusus Lahan Makam di Surabaya Kian Menipis - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0k4VTFNdGJtM1BRZUhIWHpJanN3dUFvZFdjMG5jNnBhbzUzVllDTThPdi02X0szdUp0ZjJGUXVFYkx5WWxONndDaVlGREs5M3BEZ25HbHR4N1hKUVozZnRfdWJWazZfNXlvbERaZENiekNQSFNkWlJTdmpqb3R3bUVpU0tFdDVQSDJQXw?oc=5",
+      "d": 1794247465000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
