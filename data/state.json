@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfA2GG0EqQv": 1793137242197,
-    "threads:DfA168HlAcz": 1793137242197,
-    "threads:DfAu243kn8p": 1793137242197,
-    "threads:DfA1anToH58": 1793137242197,
-    "threads:DfA2GDfEanE": 1793137242197,
-    "threads:DfA1cIlE4Pk": 1793137242197,
-    "news:CBMijwFBVV95cUxNcG5JS1k5SnZRZUJnOFpkY09FQnJGZkQ0QmdIRU90MnJ1ZnM4a2h6RkVMRml6TG1SOG50LVBhUzUwb0xST2FtUDB2WER6TzRWWEJnRTBSc1BHN0ZfWmcxZkpnRUNRQzR5c1pJajF5UTdMd3cyVkR4cXpZNkhEQ3Z5RmxUeVpBbWt4SXV3MG5wNA": 1793137242197,
-    "news:CBMi4gFBVV95cUxQaWE5T0IxZTZEU0hfWExYUWI3bkh2Rk0yOEVaTnkwT3FBdkp5dS1xWE5FOUZhNTA0N1NWbkVibVNkVGN5Yi1BSDF0TV9aMUNWS0txMl8yd2xsampfc3N2aTZFcGxHYjl1TTJHNFVxa0x6QXVYTFFHXzZtcjFaR2pZd3VwWlBlYURMZEdxT21CcFN4MGl6a2EzaFdWMG9rWWVWT1JlZ244cUdfQkhTWEFXTmNzRWs4ajhWcEh6dTZzY3JNSW53cy1nY2FjTW54UVVqc3FZNzAySGlJR2FwbHFjLWJR0gHnAUFVX3lxTE5EdE5ETXdzdkFSOElnRGlUZTlHQ3ZwdXozRVdleFBBcmxsZF9oelQ5NzFEeEhYZk5jSlJZTHlRSWdOM2JOQzhtRklTVm5JNnhiazdLaUdDU28zMUNHTmlZd2NkZy1JX2ZuLWc5Y2NkVjZSNEdWYjV1YTA0dU42UGU4WDl3TGpkZU9PQzhWaFFsdGpwdWJOOUNZalBHLUFGQUl0dk5KQmdiTVJSQzY0WW5sNzVoSTczYlFwUVNYOTkzaUw0VGdESE1RaFNnVGZWVUMyTnpNdmRBRk1scTcweWxoNVVlczJkcw": 1793137242197,
     "threads:DfA1lIHk4L-": 1793137541744,
     "threads:DfA3VkHgkd3": 1793137845593,
     "threads:DfA22X2DIVe": 1793137845593,
@@ -27125,19 +27117,17 @@
     "threads:Dfk4CdaE9es": 1794346257941,
     "threads:DfjfiU2CGkj": 1794346257941,
     "threads:DfAA5NfEzC0": 1794346257941,
-    "news:CBMiiwFBVV95cUxOVUw3Z2F1M1NSUEFVd3dCSEZEQWkxcUdvWm5uUVZjbzFIVDhNbFZ6UjhTMkE4bHd0UkhfOXh1Yk42NmczejhBZTlaVHNMV1VtZTZjOTYxTlV5Zmk5WndKWXl1Tm94a0JLTmR0dVFMczdSSjVZak9HS05xNVdjcF9aSUJRN1VLMUtiaDRF": 1794346535052
+    "news:CBMiiwFBVV95cUxOVUw3Z2F1M1NSUEFVd3dCSEZEQWkxcUdvWm5uUVZjbzFIVDhNbFZ6UjhTMkE4bHd0UkhfOXh1Yk42NmczejhBZTlaVHNMV1VtZTZjOTYxTlV5Zmk5WndKWXl1Tm94a0JLTmR0dVFMczdSSjVZak9HS05xNVdjcF9aSUJRN1VLMUtiaDRF": 1794346535052,
+    "threads:Dfk5KlCE-6U": 1794346836389,
+    "threads:Dfk4d45Gzfi": 1794346836389,
+    "threads:Dfk3_j1Gkcn": 1794346836389,
+    "threads:Dfk39YyibNL": 1794346836389,
+    "threads:Dfk34gGig26": 1794346836389,
+    "threads:Dfk30CrjACR": 1794346836389,
+    "threads:Dfk4kTTkWYb": 1794346836389,
+    "threads:Dfj5o_GH-WU": 1794346836389
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Perkembangan Bansos Tahap 4 Per Hari Ini: Status 'Belum SI' Muncul di SIKS-NG - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXZ0VUhvTE5YWGpDVk1DcnpHelNzUUdJMGFJemRXWUp1U0dYaXcyYWx5XzRzQmk3LUFHMEItX1llNGVDYWlpa05CSy1PTTZHT1d2V0pNVVZ4SUpqTy1KbHkxZW1mX3Job0lKc3NfbmFHaVVMRGRRX3Q0Y2doZW1nV1JtNVZfSml6WjdIM3ctZnRwNklxRjNKdmpOWHRxYUd1WVd6M0ZBbDhzSW9OaEJYS1BON2hkTG92Qk5zLURHeVTSAcYBQVVfeXFMTnA1cHVldWJOZzdVRHlOTmRqTENjbkttSW1BeXJjSmZLNHNSWF94YjY1dXJLamZsRmxFX21rRGpIRDBLU2pyb0JqQjdKNFNiS1Zhd01vZUtiMTk2bmVSWUk2SG9zT1l2RERZWk9kOF95elFSOWdlaU0tVjlVZ213bGVLTzZxMkNEVVA0VFFIYlBRRHBrWF9nb1ZydllRNnF3ZVNLRnBfY3NYZ1NQcldIQjQwUmFxSmJ5RTdZcWZCY29HZkFaU253?oc=5",
-      "d": 1794301778000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -28627,10 +28617,20 @@
       "d": 1794299820000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@portospaceid",
+      "x": "🚀MERAPAT! ADA WEBINAR STRATEGI BANGUN IDE RISET🚀 Punya impian bisa bangun riset dengan ide yang unik dan inovatif? Tapi masih bingung mulainya dari mana? Jangan skip webinar satu",
+      "u": "https://www.threads.com/@portospaceid/post/Dfj5o_GH-WU",
+      "d": 1794313500000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
