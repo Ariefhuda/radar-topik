@@ -60,31 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De-o94kAblA": 1793063434001,
-    "threads:De-pSrKCURC": 1793063434001,
-    "threads:De-iCHzmZTR": 1793063434001,
-    "threads:De-ohQ1gYG_": 1793063434001,
-    "threads:De-oSpaDd7P": 1793063434001,
-    "threads:De-oVR3D_yS": 1793063434001,
-    "threads:De-n28BEQ-Z": 1793063434001,
-    "threads:De-nxx2kWZH": 1793063434001,
-    "threads:De-npGsjoez": 1793063434001,
-    "threads:De-ngaso0Gl": 1793063434001,
-    "threads:De-nb4IFRvF": 1793063434001,
-    "threads:De-nF2Um1HN": 1793063434001,
-    "threads:De-m4zQicT1": 1793063434001,
-    "threads:De-nVDOlqrN": 1793063434001,
-    "threads:De-pPKXEViY": 1793063434001,
-    "threads:De-pB-1EaUe": 1793063434001,
-    "threads:De-o92hEeZB": 1793063434001,
-    "threads:De-o38NkYYh": 1793063434001,
-    "threads:De-o05nkRW_": 1793063434001,
-    "threads:De-orQ1kUP7": 1793063434001,
-    "threads:De9NsP8EWXA": 1793063434001,
-    "threads:Dex9EXBE3Y4": 1793063434001,
-    "threads:De-ni4PEx9f": 1793063434001,
-    "threads:DZwfcmVk8xh": 1793063434001,
-    "news:CBMipgFBVV95cUxQTmVNMTNjeGM5N0F0c0JxekpkcEZuQkU4X0Zka1V3aEFVaHNsUER2NUsxemlidU1VWEJEOUtwZDVSTmxiZFVHZ19vWVhCUjJoQ3VwMEFPSERVNkxoSVZfeUhaaXg0LTd1cmtHdDIzeXE1ZHB4U2N6TXdkOUNDa0FER1BBY19mNE1GN3d0dWJEaTFrOXN3cXUyUGxOdl9sbjZSOWZSdGtn": 1793063434001,
     "threads:De-qJOLGm6c": 1793064375906,
     "threads:De-p-7vk9I9": 1793064375906,
     "threads:De-oEZ3j96I": 1793064375906,
@@ -27484,7 +27459,9 @@
     "threads:Dfiq5Aum2R_": 1794272732964,
     "threads:DfiqyFTmq1q": 1794272732964,
     "threads:DfirWc5ks-s": 1794272732964,
-    "news:CBMilwFBVV95cUxQdkZtR0hNZUZtOW40dUNGa0t0OWlvMEFZVjV5eTVIelRLYWtXLWUxYTRkaWhfMS1oa09NcV9tVjhSNWJBMXMwSDJTRlhLY1hIUWVUU09CMk1oSXEwOGVzMEZEbEhyRlE2RHdaMzlkVGFfQkUybklLWjZ6VHA0eDQ3eG1XWWhhdDlBREVlUGU1UGVtRDZ4Tjlz": 1794272732964
+    "news:CBMilwFBVV95cUxQdkZtR0hNZUZtOW40dUNGa0t0OWlvMEFZVjV5eTVIelRLYWtXLWUxYTRkaWhfMS1oa09NcV9tVjhSNWJBMXMwSDJTRlhLY1hIUWVUU09CMk1oSXEwOGVzMEZEbEhyRlE2RHdaMzlkVGFfQkUybklLWjZ6VHA0eDQ3eG1XWWhhdDlBREVlUGU1UGVtRDZ4Tjlz": 1794272732964,
+    "threads:Dfiq_r9o9cX": 1794273349945,
+    "news:CBMiqgFBVV95cUxQaXRQdjRxaFViaDAxNDhWVDFUZE85NHhyb0MzV25NTUlRblN1TWNRZUF4eVo4LTdOVXJLSjRaS3BCb0d3YWpqTjRQVlFndEp0b3p1dUdxaEpYbjdlcGxOeDB1aWFlblc0RnY1WklOd3hPQUQxb0N0MmRPYTBkMHNxTWZ2N2t4bUFJQUVqUVhDdjZmZUd1R0V0SjBxNENTQUl2RUlUZEJScF8zdw": 1794273349945
   },
   "digest": [
     {
@@ -27496,10 +27473,30 @@
       "d": 1794272454000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@febuhamka",
+      "x": "Jadikan ETS sebagai momentum untuk mengukur capaian pembelajaran, mengevaluasi proses belajar, serta meningkatkan semangat meraih prestasi. Ingat, keberhasilan bukan hanya tentang ",
+      "u": "https://www.threads.com/@febuhamka/post/Dfiq_r9o9cX",
+      "d": 1794272267000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "ANTARA News Jateng",
+      "x": "Pemprov Jateng sebut 2,5 juta produk telah tersertifikasi halal - ANTARA News Jateng",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXRQdjRxaFViaDAxNDhWVDFUZE85NHhyb0MzV25NTUlRblN1TWNRZUF4eVo4LTdOVXJLSjRaS3BCb0d3YWpqTjRQVlFndEp0b3p1dUdxaEpYbjdlcGxOeDB1aWFlblc0RnY1WklOd3hPQUQxb0N0MmRPYTBkMHNxTWZ2N2t4bUFJQUVqUVhDdjZmZUd1R0V0SjBxNENTQUl2RUlUZEJScF8zdw?oc=5",
+      "d": 1794272836000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
