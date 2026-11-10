@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De8wURKlLLh": 1793066612116,
-    "threads:DeO1RxvlNh1": 1793066612116,
-    "threads:De-uDODEgYW": 1793066612116,
-    "threads:De-vEn8igGu": 1793066612116,
-    "threads:De-vCpmiupq": 1793066612116,
-    "threads:De-vEHZiT8d": 1793066612116,
-    "threads:De-u7y3k-sf": 1793066612116,
-    "threads:De-tN_bDPq-": 1793066612116,
-    "news:CBMiZEFVX3lxTFBYQ1FUckQ1c3pYUXIya3h0WG1sYXRHdEowanc4eFJfMmFaemY2aWF0TldMQU9hc2VnTjI3UDAwRDlsMlV4NHZib3k3Mm9TaVVocHA3bzlVZHhsV0ZPNTJDS1JlWWo": 1793066612116,
-    "news:CBMiwgFBVV95cUxOZG1IeUJWRFVOLVBsVkZycXlLYlBXMTV0MjR1b1dfUEZGWEhRTVc3VF9JamppdnVFanpmOVdMQnlGbVNmZWF0eHo4TW13OTV5RWZRbFJ2cWFaM2xZaURzSWF6ampWVHNQZ2FZd3JCbzZYVG1pY1lwS2toMFNUOG1CSGJCWVdBdzJiWm5BaURiajRNQ1prSTdKeUpyOUJHNjk4bjhhMm00NmN2SjVYUjVCaVFFWDlKR3pNQzYwUTFwdmF1Zw": 1793066612116,
-    "news:CBMiuAFBVV95cUxNZU1Makp5VUkwbkNNY2dHUFdERTJ6aFVscm1VaV9za3JFSW5RVlUwTXY0Y1JucGFxbWlwWGJvMVZPZnQySHBYbHpwVmpoVlVkVjRPZDhPTUQxcGc0QWx4bE5ZQW5HMWxjY0ZMMldzUHV1VzVNMEwxYzZ2Rk5ZdnFWUjVSZ2NjODB1ZV9SdVotRFBBUFBJbExmaDloMjA5Y1FwNEJzdlBzWnJkWWdSRk1XTExGZnFfMWU1": 1793066612116,
-    "news:CBMirwFBVV95cUxQdXllS05oZ20tT3A4VzVFV2owZnRmbkhzSG94X3RzUnBWSDBzd1JqN21Wa1ZzRHplWHFhTU01QW5KOGNLbEhFaW1IQ2t6bU5CSXR1bm15ZnFFUnZyV2lmYWhKbGhOTjZOREJtdDJ4T1RrVng1MTBlaHpaMlFOMThMdXZhZndDS2IyeFdXNVNTUy1sTzlEWEY0ZUJDemRnb3d3WEJlVHVweHk1bVptYVBz": 1793066612116,
     "threads:De-wCPKjcsP": 1793067078739,
     "threads:De-wNdBmB6j": 1793067078739,
     "threads:De-t9r5k7Xp": 1793067078739,
@@ -27453,7 +27441,21 @@
     "threads:DfixCgqmeRd": 1794275444488,
     "threads:DfiwogIkgr3": 1794275444488,
     "threads:Dfiw5a6DwGS": 1794275748200,
-    "threads:DfiwWeJmqDS": 1794275748200
+    "threads:DfiwWeJmqDS": 1794275748200,
+    "threads:DfiyH_1EtV2": 1794276047731,
+    "threads:DfiyN2PGrLB": 1794276047731,
+    "threads:DfiyJJLjKCJ": 1794276047731,
+    "threads:DfiyHGSDH9q": 1794276047731,
+    "threads:DfiyC8xEZiT": 1794276047731,
+    "threads:DfiyBMrm86B": 1794276047731,
+    "threads:DfixzvFElA1": 1794276047731,
+    "threads:Dfixqurk7Yn": 1794276047731,
+    "threads:DfixhavDELF": 1794276047731,
+    "threads:DfixcYmiPyu": 1794276047731,
+    "threads:DfixX7PjfWn": 1794276047731,
+    "threads:DfixDuHgZeD": 1794276047731,
+    "threads:Dep0DFWAVfS": 1794276047731,
+    "news:CBMirgFBVV95cUxNSHAxSW1aS2ZCTURNdDZXQ3RtM3hvSmJPTFY0R0xnY1VkelNhUVAzQk41TzFhbG16a0hvbDI3dU1CZUtsUTRQcklHME5ySXZWWThTWjdJVEsxRXItNUQzN055YnhyWEltZXdyczdnNHVKZTJJR0ZyNWVJa0ZabnlJY1ZBa0hBYTlCU0pPZzMyVjJRZzVERUI4bk44OXpqTkMwSU5feHFaYmdhX3VUYVE": 1794276047731
   },
   "digest": [
     {
@@ -27845,10 +27847,20 @@
       "d": 1794275140000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Pojoksatu",
+      "x": "Dua Beasiswa Uni Eropa untuk Kuliah di Eropa, Ada Erasmus+ hingga Erasmus Mundus S2 - Pojoksatu",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHAxSW1aS2ZCTURNdDZXQ3RtM3hvSmJPTFY0R0xnY1VkelNhUVAzQk41TzFhbG16a0hvbDI3dU1CZUtsUTRQcklHME5ySXZWWThTWjdJVEsxRXItNUQzN055YnhyWEltZXdyczdnNHVKZTJJR0ZyNWVJa0ZabnlJY1ZBa0hBYTlCU0pPZzMyVjJRZzVERUI4bk44OXpqTkMwSU5feHFaYmdhX3VUYVE?oc=5",
+      "d": 1794234287000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
