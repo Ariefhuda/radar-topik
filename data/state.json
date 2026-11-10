@@ -27136,7 +27136,9 @@
     "threads:DfkJNIjj3-9": 1794322249434,
     "threads:DfI17OFE_r_": 1794322249434,
     "threads:DfkKWt6gbki": 1794322249434,
-    "news:CBMipAFBVV95cUxOVlZ4YUV3UHZDUE14QTg0bkU3dlFjQ0pzRTFDZGpta3ZMajZadVZ5SjAyQldDZXJsMVFSOEI3OHpBb0hfNkNGVHpUeG9yOFhjSmRRMXNDRjVOQ2QwYnpiNGVsS1AwSUJpMXpUSTNYcGEtam1zV3hPUHdvRjI3YWQtRFRYWHJGcU1RWmlaamhqeUZfZ28xa1hUSktRaGUzcUpOUWZPYQ": 1794322249434
+    "news:CBMipAFBVV95cUxOVlZ4YUV3UHZDUE14QTg0bkU3dlFjQ0pzRTFDZGpta3ZMajZadVZ5SjAyQldDZXJsMVFSOEI3OHpBb0hfNkNGVHpUeG9yOFhjSmRRMXNDRjVOQ2QwYnpiNGVsS1AwSUJpMXpUSTNYcGEtam1zV3hPUHdvRjI3YWQtRFRYWHJGcU1RWmlaamhqeUZfZ28xa1hUSktRaGUzcUpOUWZPYQ": 1794322249434,
+    "news:CBMiqgFBVV95cUxNaXhpZk8teXpDbW9ENlJwOWJmTFU3eHlNQzhKU1A2WXRqek1JWE1SQ282dzcwSEJyRTNPUDFZY2VTekxpMXN0dTBJZlE2YjZRVzRlVFJTT0pJOVhYNXRCNExRNS1Rdk8tTElORmhaeEVyX3JUckdiaHZ1WjJmaVhsTVhpUlhoMDRVMENlQlVVV2dGTExyTl9tcW5BcDQwb3UzVDdwclhGelQ5QQ": 1794322533502,
+    "news:CBMixgFBVV95cUxPSV80YlVnX0daYkc5NUhUZmRqZ2VzSkhtc0J1UzVGbGNaSUJDTUxqcVBmYWw2cW90c3ROWFRPY0NQTHhUZHp6UXJFd3VuNTBiaWdTaE1SaWppZkVjdUJVc0JPNjhVa3h3eXQxMHd5Uzd3bDlKUzFYTFRIdUNRd0pUMXBSMzgtcktzQ25MM1Iweks2MExrX2pTbWtyYmpjSjBGcF91YWtZSUQ5LUd4REIyX2Q4OW5EN2lWNkxEcXlRbHNBZUxBUGc": 1794322533502
   },
   "digest": [
     {
@@ -28228,10 +28230,30 @@
       "d": 1794307800000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "rasika 105.6 fm",
+      "x": "2,5 Juta Produk di Jateng Bersertifikat Halal, Pemprov Terus Lakukan Pendampingan UMKM - rasika 105.6 fm",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXhpZk8teXpDbW9ENlJwOWJmTFU3eHlNQzhKU1A2WXRqek1JWE1SQ282dzcwSEJyRTNPUDFZY2VTekxpMXN0dTBJZlE2YjZRVzRlVFJTT0pJOVhYNXRCNExRNS1Rdk8tTElORmhaeEVyX3JUckdiaHZ1WjJmaVhsTVhpUlhoMDRVMENlQlVVV2dGTExyTl9tcW5BcDQwb3UzVDdwclhGelQ5QQ?oc=5",
+      "d": 1794265320000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Afederasi",
+      "x": "Serdik Sespimma Polri dan Polres Gresik Berbagi Bansos dan Cek Kesehatan Gratis di Kampung Nelayan Lumpur - Afederasi",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSV80YlVnX0daYkc5NUhUZmRqZ2VzSkhtc0J1UzVGbGNaSUJDTUxqcVBmYWw2cW90c3ROWFRPY0NQTHhUZHp6UXJFd3VuNTBiaWdTaE1SaWppZkVjdUJVc0JPNjhVa3h3eXQxMHd5Uzd3bDlKUzFYTFRIdUNRd0pUMXBSMzgtcktzQ25MM1Iweks2MExrX2pTbWtyYmpjSjBGcF91YWtZSUQ5LUd4REIyX2Q4OW5EN2lWNkxEcXlRbHNBZUxBUGc?oc=5",
+      "d": 1794319980000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
