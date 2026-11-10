@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfA_MENEsqz": 1793142059178,
-    "threads:DfA_INlklwB": 1793142059178,
-    "threads:DfA-0-ekyZJ": 1793142059178,
-    "threads:DfA-r5bkidq": 1793142059178,
-    "threads:DfA-gTbASmI": 1793142059178,
-    "news:CBMijAFBVV95cUxPbFdHZmVRcWFMQzdkcTFFOUxJenVnRDBYTDFBUWRTUC01Y1JJZFQ5TFZEdHFxTGZpaEp5dExUVjhRdHVwSXhINWNnNU42MzNMQ25rNDFPWEJSNjZyMzRmSWYtLXZXREVHMTdiTWY4aGhZRWlGODlvcTN0NVB0QzdhcERwZ1V0YXM2V3F5Zg": 1793142059178,
     "threads:DeLmzRADrAb": 1793142547686,
     "threads:DQeHp5FiPfm": 1793142547686,
     "threads:DecIkMTEVcC": 1793142547686,
@@ -27115,19 +27109,11 @@
     "threads:DflBUkBk44l": 1794351333662,
     "threads:DbDfBt6EkAb": 1794351333662,
     "threads:Dd0lPSmE_7g": 1794351333662,
-    "threads:DBS9tdZTVda": 1794351333662
+    "threads:DBS9tdZTVda": 1794351333662,
+    "threads:DflCUImjZva": 1794351657275,
+    "news:CBMipAFBVV95cUxPaS1QQUJSRGZmRWtKeVdwLWVQMHdkSk92UTMtNW1fdlVvd1FaLXBRclI3ZGdjYWJFUHFNaUZvekUyS2F5eXJiSUt2Z21JOUZiU056MFAtb3cyLTBkRnBxbXpYUTl0b1BPaFRjNWYzZExCRWRvRndxcVhwOWdUX2xuZDJORUNjV3ZHNmRBY29lbWg3N1ZpakxSWjBfdVlZcWFLX1dESA": 1794351657275
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@defdayb.kr",
-      "x": "Halo! Aku Kalonica, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft ",
-      "u": "https://www.threads.com/@defdayb.kr/post/Dfj_O-eGRQU",
-      "d": 1794316433000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28617,10 +28603,20 @@
       "d": 1794351082000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@vocablueid",
+      "x": "Skor TOEFL kamu berapa? Tunggu, ITP atau iBT? Ada dua tes bernama TOEFL. Keduanya bukan tes yang sama, dan skornya tidak bisa saling dikonversi secara resmi. Aku bahas 2 hal yang p",
+      "u": "https://www.threads.com/@vocablueid/post/DflCUImjZva",
+      "d": 1794351611000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
