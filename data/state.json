@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBCm0IEqFj": 1793144441966,
-    "threads:DfBCmOoHw1p": 1793144441966,
-    "threads:DexbNl1gT-n": 1793144441966,
-    "threads:DfBCr8OE-Y2": 1793144441966,
-    "threads:DeHDbvZEtvP": 1793144441966,
-    "threads:De-yeiRGkK7": 1793144441966,
-    "threads:De-ygoyGhRw": 1793144441966,
-    "threads:DfBD2N3k6sS": 1793144441966,
-    "threads:DfBDuYvE8PU": 1793144441966,
-    "threads:DfBDxT9E8s9": 1793144441966,
-    "threads:DcUlsPVkv1b": 1793144441966,
     "threads:DfBEZ5ziRV6": 1793144739358,
     "threads:DfBDX_Cn_Uj": 1793144739358,
     "threads:DfBETQ-AfEc": 1793144739358,
@@ -27137,19 +27126,10 @@
     "threads:DflDgXpE7CO": 1794353732298,
     "threads:DflDf-fkz5P": 1794353732298,
     "threads:DflDfkiE4e1": 1794353732298,
-    "threads:DfjcjEAEX4e": 1794353732298
+    "threads:DfjcjEAEX4e": 1794353732298,
+    "threads:DflGBwikwpG": 1794354041890
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Radar Jogja",
-      "x": "Peserta BLK Bantul Anjlok, Pelatihan Gratis Ditawarkan lewat Program SHIAP - Radar Jogja",
-      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0pDUy1CMUx5T1dURnNVNE9QanA1LWNLVklXZFFzUVVHQl9NWlNRaDVLZk55UzF4S0I3T25yN01SNVc2SGRxckpoTnpNZi1wTTJpSXh6aDRVaVp5ay1rdVZHQkpHWGxlc3FCd2R4OW1lS21BTkhXOHNkejJ0Y2pJZE5RUmptd2s5MXVxSzh5Ui1qNG5ZRTVRY0hyalM0ajNsOVhVal94NzFqaTNUVXI1cWx2a0l4cngtV3pJQVR3d9IBxAFBVV95cUxOZWtxY2RSb2pyRUx2bEVXSHo1dUdzMEMtb1lpZGJjSWZGZUJaTlJyTzhaRDVBcUpOOUQzUklPczFpYllNNUk5R3JvRGxuS2k4TzNtd3NXOHEwOHRLOUQzWG5rX3dkdVdYdFBWSk9RZHhSaUpMbHdNNUx1SUt5QTExOGhaU2dqRC1Hb3g5VjgwN1U4a253a3BGUjI3elF5MGZTUnRFaThRNXJ0T3RUejNHejJiOHFZaWp1QUgtMU9Qa29OS1dL?oc=5",
-      "d": 1794320102000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28639,10 +28619,20 @@
       "d": 1794298247000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@atikyulia18",
+      "x": "Buat ganri desil pake aplikasi cek bansos kak",
+      "u": "https://www.threads.com/@atikyulia18/post/DflGBwikwpG",
+      "d": 1794353549000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
