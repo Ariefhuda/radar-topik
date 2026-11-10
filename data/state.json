@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBEELIk9UZ": 1793145052381,
-    "threads:DfBEA_eE3ND": 1793145052381,
-    "threads:DfBD9hikxzH": 1793145052381,
-    "threads:DfBD6_Akxs0": 1793145052381,
-    "threads:DfBD6d7D8X4": 1793145052381,
-    "threads:DfA7LJ4AZi7": 1793145052381,
-    "threads:DfBEeM_EXQG": 1793145052381,
-    "threads:DfBEKdAkRPZ": 1793145052381,
-    "threads:DfBD_XIDu5H": 1793145052381,
-    "threads:DfBD4Vmkb0j": 1793145052381,
-    "threads:DfBFI1oGQPA": 1793145052381,
-    "threads:DfBFDNDmQOg": 1793145052381,
-    "threads:DfBE-CkmfsD": 1793145052381,
-    "threads:DfBE1ALmaqn": 1793145052381,
-    "threads:DfBFBfbkwNh": 1793145052381,
-    "news:CBMiuwFBVV95cUxPdDVndkV3b0RlM2tYNFNMU3BpcWNEQnhVZ2hicEMzb2p0LWZSWURmZ2ttal92X2doOTI0Z1B2eHViOVI3bzktTWtOZ3c3WUdxbEhKekxrUVBWVnNpbm44R1E4dkdfN01vWXdNNXJxaXdoYWpxZTFoS09UMVhVZHJmekIyWnZPUWJ3NXFwbmgyZ0tYcnVtS0JwUm9jV3BmM0Q2MUJHU1hydzRPR0Rsb2hQUmJYVTdPSjFfQko00gHAAUFVX3lxTFBjdjU0SkRMQVpqN2NhZXpDQnNQVEJ2OGZmZms3NTVoV3FjVEVaNWhEQkpfb2swWV9BdzlORU8tLWd1Z1o2RWdET3A4bDRQdnl5YlJRY3ZvVlNoZVM1R3FhVUY4QzhieFA3aXZ0TmlocThqWGluNGR1S0ZBLTZCNU54TVR4cFVrbmRnVkhueGxiMExBU0k2bkxiVjZTY1loY19NMWNzTU9EZmlTOW1kTV9OakJONGpIWE5odndpd2hJaQ": 1793145052381,
     "threads:DfBFixNk6lR": 1793145361451,
     "threads:DfBEhfAExEB": 1793145361451,
     "threads:DfBEhKRDS_n": 1793145361451,
@@ -27140,19 +27124,11 @@
     "threads:DflD6J3kxI1": 1794354356355,
     "threads:DflDyp4k9n4": 1794354356355,
     "threads:DflHcdLEjNS": 1794354356355,
-    "news:CBMi5gFBVV95cUxQZEhvS0JZQ01ZQXlaZnowaGp2MWdVTlE1Zl96WUhfUGMzdDhoQmplRTRsZC1GRExKVnpVMkljQTZRcWYyak5pX082TTU0TVV0c29KZzc3Z1ZZOGlyamhZSUZzZXRWdGJ6QlZRYkJXQnl0NjVFUlNSb3RBOXZxaEprbmd2aTNtOTNPQkRPN0pNNlhXeFN2bkhQRzVBQm42Qi1mMXBnTGFWUDYyX1YtMl9TZk1zc3Z0ZzFjZmZESjBNT0JCcGRWZG1meWtnYVlrV0s4alpFZkh0T1dUZGdtZEpFZ0o5UkJ6Z9IB5gFBVV95cUxQZEhvS0JZQ01ZQXlaZnowaGp2MWdVTlE1Zl96WUhfUGMzdDhoQmplRTRsZC1GRExKVnpVMkljQTZRcWYyak5pX082TTU0TVV0c29KZzc3Z1ZZOGlyamhZSUZzZXRWdGJ6QlZRYkJXQnl0NjVFUlNSb3RBOXZxaEprbmd2aTNtOTNPQkRPN0pNNlhXeFN2bkhQRzVBQm42Qi1mMXBnTGFWUDYyX1YtMl9TZk1zc3Z0ZzFjZmZESjBNT0JCcGRWZG1meWtnYVlrV0s4alpFZkh0T1dUZGdtZEpFZ0o5UkJ6Zw": 1794354356355
+    "news:CBMi5gFBVV95cUxQZEhvS0JZQ01ZQXlaZnowaGp2MWdVTlE1Zl96WUhfUGMzdDhoQmplRTRsZC1GRExKVnpVMkljQTZRcWYyak5pX082TTU0TVV0c29KZzc3Z1ZZOGlyamhZSUZzZXRWdGJ6QlZRYkJXQnl0NjVFUlNSb3RBOXZxaEprbmd2aTNtOTNPQkRPN0pNNlhXeFN2bkhQRzVBQm42Qi1mMXBnTGFWUDYyX1YtMl9TZk1zc3Z0ZzFjZmZESjBNT0JCcGRWZG1meWtnYVlrV0s4alpFZkh0T1dUZGdtZEpFZ0o5UkJ6Z9IB5gFBVV95cUxQZEhvS0JZQ01ZQXlaZnowaGp2MWdVTlE1Zl96WUhfUGMzdDhoQmplRTRsZC1GRExKVnpVMkljQTZRcWYyak5pX082TTU0TVV0c29KZzc3Z1ZZOGlyamhZSUZzZXRWdGJ6QlZRYkJXQnl0NjVFUlNSb3RBOXZxaEprbmd2aTNtOTNPQkRPN0pNNlhXeFN2bkhQRzVBQm42Qi1mMXBnTGFWUDYyX1YtMl9TZk1zc3Z0ZzFjZmZESjBNT0JCcGRWZG1meWtnYVlrV0s4alpFZkh0T1dUZGdtZEpFZ0o5UkJ6Zw": 1794354356355,
+    "threads:Dfk_2fakzuN": 1794354637593,
+    "threads:DU7UiL7AXF4": 1794354637593
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Halo kak bisa coba bisnis online. Bisa dikerjakan dr rumah dan waktunya lebih fleksibel. Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfkImVhD2hJ",
-      "d": 1794321343000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28642,10 +28618,20 @@
       "d": 1794354292000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@rahmantho23",
+      "x": "info valid dan resmi ya gaes yaak. #bsu2026 #cekbsu2026 #bansos #bpjsketenagakerjaan #berjalanbersamabpjsketenagakerjaan",
+      "u": "https://www.threads.com/@rahmantho23/post/Dfk_2fakzuN",
+      "d": 1794350311000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
