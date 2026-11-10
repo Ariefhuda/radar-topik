@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMikAFBVV95cUxOWGhqeUR1eGZZd0FpTElKUkFEWjhDdWViUXZQcjQ4dG9KMkZTVlBmUkVwSlRiWGJUZExhbEw1T0FDYVVCb3RkRUlWVTlIUGIyeHBKcGxwUkVaMTFRSG4zQjlfd1BrSV95V01kVEZPS1ozZkJZUUtlREFLbkE2a0tKblVsV1JrMXNkNFZEdWg2M3c": 1793061057591,
-    "news:CBMib0FVX3lxTE1vNklob0treVltV0tUU0RpYlhNX3JldUhjRkNGR0N2NDFRbS1jYzBndERueEdndHZYdVB0UlRMSnVHNWgwYklENnE1Um43bU94dHRHWWdUcHJxazRpZ2xIM2owUk52U1UxWm5PVzRxaw": 1793061057591,
     "threads:De-k-D5j1MF": 1793061335783,
     "threads:De-kgHjEuDE": 1793061335783,
     "threads:De-dsTxDzIq": 1793061335783,
@@ -27487,19 +27485,13 @@
     "threads:DfimaEOFnda": 1794270359272,
     "threads:DfimXjkFpQD": 1794270359272,
     "threads:DfimTRllkJc": 1794270359272,
-    "threads:DfimQ2oltwN": 1794270359272
+    "threads:DfimQ2oltwN": 1794270359272,
+    "threads:Dfin08lEnS7": 1794270646183,
+    "threads:Dfim6CAmYVM": 1794270646183,
+    "threads:DfimWxmEWkf": 1794270646183,
+    "threads:DfimbAwEqAF": 1794270646183
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@simakara.id",
-      "x": "Mending Coba Ikut Kelas Gratis dulu kak👀",
-      "u": "https://www.threads.com/@simakara.id/post/DfhjWJ1Gs6Y",
-      "d": 1794234703000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -28989,10 +28981,20 @@
       "d": 1794269401000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Untuk zaman sekarang side hustle yg paling memungkinkan buat karyawan/IRT adalah cari cuan dari online... sebaiknya cari ilmunya dulu terkait digital marketing supaya tau mindset y",
+      "u": "https://www.threads.com/@eneng_apt/post/DfimbAwEqAF",
+      "d": 1794269870000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-09-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
