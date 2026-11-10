@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:De_Fo8HFvla": 1793078763007,
-    "news:CBMiwwFBVV95cUxOdDl6TDVsX29leGRycldnWGlQZERBX2YyYnlFMllub3lOellaWDlBMmZFblpNY2ZDNXY4ZHB0b29mQ0tWdkJRQnlIbUU5ZmhyVjh0ZVoxYklUU1BwSnNQMkpqYmVhUXh0RzQzMDdBZDNaM0FUTWZieDRHTllYaW9CQzZMd256SUhXMmY4Q0ZxSlozMWhQN3ZtRDQ4MXdmLU5YZnRibWNPbGxfTzJyTnE1enpTZHg1NnRCdkIxLWdPVER3bVE": 1793078763007,
-    "news:CBMiqgFBVV95cUxPOE9DZmdjR0htZ3Q4RnRkOXFXYXdOSDYzdDhfWWQybDVHa0QyYWNRZkY0WjFfWlE5dEpwdFFjenhxOGlzQ2ZJR043b1ZScU81MmtaakZtazdZZ0dualRLbFVXYVQ1TG5zOUdzRVo0eFBxc0RRZVh6RTRFbElfTEJxY3J3WVI4UmhqS3BZM1pINGtjendxWmlLZ0ZTU29sVjBnR3FZUGNRWkpZUQ": 1793078763007,
-    "news:CBMiakFVX3lxTE1ldFBJOTJvd1VBVnRIb2UtcldvODdoX3BWY3Y3RlFNN0F6WWJlaFBHR1J5ekVoUWQ2WVEwd1pIM0NRVWZMRndmU0ZPUlBzYUJ5Z1c0TndNaXdmT2l5MWVUcXdCWXNOb1hfTmc": 1793078763007,
-    "news:CBMiuwFBVV95cUxORVJwQkJucjBsM25HRVVJdEFXSVRtLUIwc04zUE5vYm13LW8xU1UyT0tBRE41cnYxQXBadzFVc3VyTVBwZmNCLVFmZWc5enRTSGNSUHlXZ0ctWFViczVJOXhwNFg5TktsdkZXaGM1VkNHOVBjdFdvQmw1QmF6WjhmWHA1VzB5V0cyZXYyWEU0XzZXbDFZRmpaX25GMEZmZU5jZTdhb2pBbjZ6WHU0MEVGRzcyQ0swM1RMNzJZ0gHAAUFVX3lxTE1HZUdqb0xWdVZMM1pMVlhRQkZGUnhtcDdQYTU4QjJJZHlXV2hTQTZuOVByNGtUSElmQ195VnhPLWRYSlNMMWhlNWJGUVFtTWpQakZNWm5fQU1KQ256a0xEMTR1eUM5cVRlQ0JZcGltTHU3QmFWVExDRkwzQlBmd2YwZ2lGYU5RSXBvaVVyWWpOc3NmSHZiN1RtUXRKajVkUlBiamRsQzRmZFQ2N2F5UUx4U24yRnVUOXNZU1RPc2g5Ug": 1793078763007,
-    "news:CBMi5gFBVV95cUxQOUFyOEQxVXhibE5TLVVEZGJYeGZyV1RMdk4zem0zdHZXVVhoTGh1MGxYWGtwOVRmN0JvdGtUN0V1Tm5KOTZKcW5JYUJGc05YclREVjZyLVRIa2NqVTQwV2hHa1ViQUxudFcyZWgybW04TnVienhucGx0R28yeWlkcm1JRHlYak1yeUkwOXdlNmMtTkNxc2M2MXJ2eEpRQWZldGxjSDFtZ0d3a2dOYUp5bVlsWm1zOUNpYTk3cHhuM29nTjE2T1F3QVotWUlKTG5TODNsZWVZM1ROSWlzMVlVR2ZYYWhPQdIB5gFBVV95cUxQOUFyOEQxVXhibE5TLVVEZGJYeGZyV1RMdk4zem0zdHZXVVhoTGh1MGxYWGtwOVRmN0JvdGtUN0V1Tm5KOTZKcW5JYUJGc05YclREVjZyLVRIa2NqVTQwV2hHa1ViQUxudFcyZWgybW04TnVienhucGx0R28yeWlkcm1JRHlYak1yeUkwOXdlNmMtTkNxc2M2MXJ2eEpRQWZldGxjSDFtZ0d3a2dOYUp5bVlsWm1zOUNpYTk3cHhuM29nTjE2T1F3QVotWUlKTG5TODNsZWVZM1ROSWlzMVlVR2ZYYWhPQQ": 1793078763007,
     "threads:De_Gf4bErdg": 1793079046667,
     "threads:De_GzWzH1yp": 1793079046667,
     "threads:De_GKB4nzJu": 1793079046667,
@@ -27351,39 +27345,16 @@
     "news:CBMi_wFBVV95cUxNaEJzVlRjLVhzczVQMVg5NkxWNXV0bXM2bGhQXzFNdkx0MXkwWTYyS05vOGRRdUJNNUFFR3N2NkZoQnAtNGJ5QVlkNlUtMzBlVEtRMEhpX0JPLTZoR3FMN0hER190cUVVYXhnNnI3NWtoTzVBOXQ4OUtIOERzZkk4bEI0bmZpVHBPNGY5ckhRVGpJRTBtRVRaWmtiaFBiTDJQS1packRNWGpGaUgtMUhGOXhMS3N4MkUtVWxzbDRpM2hsX3RTdzk0aU9IZEU5TjFqd19NQUVuUGh3a2lwTU1HeEN4X3FiTUN2eThGa1ZEN2ZfYzg4dU1heDNsQ1R1YVnSAYQCQVVfeXFMTTlrNFJoaHhiS2tDeG9WZlA5TlJWeG1NcTlYV1VoWno5VVFXZHVoczJ5UmdlX3c4aF9BYnNGc2JLMEEtYjVobkhUYlg2WGZ1QWlhYWNna1pmSmZBUU9saG5BYVBCQlB3dnR3RDI0WS1mSnlLaFBHMlJscmdDY28tUEZDWldrWmVFVEZiT3NqVE00N1EyMDNNWXFXckUwUHQtYnprRUE4SVlTeTN1bG01SGd2Qm9TRzJDOEd3VDdLSld4MzQ2R3dFb1pkb0xLNjRKbHlUMHJER0xXcUtnVGFKbU9TbjlzcW05MGJPaGVfZnFPTkZ6alNsRmxvLTltd2hVcVJZMWI": 1794287739056,
     "threads:DfjJBUjks1o": 1794288038839,
     "threads:DfjIVA5CTAB": 1794288038839,
-    "threads:DfjIAaYEouw": 1794288038839
+    "threads:DfjIAaYEouw": 1794288038839,
+    "threads:DfjJLypifZW": 1794288425061,
+    "threads:DfjIjCCkUg9": 1794288425061,
+    "threads:DfjJa1hkvq_": 1794288425061,
+    "threads:DfjIvXMkgT7": 1794288425061,
+    "threads:DfjI7XjnSpq": 1794288425061,
+    "news:CBMiiwFBVV95cUxQN2FuVUpaY0o3a3hoS3poX09qX01uN3dVSFdnV21lbklGck4xcHptNjFBYm4zVFpOQnlWbTdKUkFnaGtoeFpvZHc1TC1Da0k4VjkwX1FkcG82ejJjN0tDTFVBTHBPSDNDWmJYeUdmTFdwX2w0amxiTC1INnpZcjJPU2taZmRNUU9iazNr": 1794288425061,
+    "news:CBMickFVX3lxTE56Qm9xSFVnVkRjTDNNNkJaUVlGU2lpbjZoMFh1VUJtdWdERzhFME9zSFp5M0hhc2hjS0JtaEVhb2xnS2JsbkJabHY2SzVuTzNpcDZFR2tzZHA3dUFPSTFFZzdVaWQtYU1vVDM4ZnhJQ242UQ": 1794288425061
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Berita Cilegon",
-      "x": "Akses Pendidikan Diperluas, Kuota Beasiswa Cilegon Juare Ditambah - Berita Cilegon",
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0M3SnRibTZJT0tuWGsyaktSQmZ4b1RoR1lRc09RRlhvVGRRdjJreFltMWdtNVVsU0tHeTJyUDF4d19MWXFqYXZ1WXdZZHRld3FUWVBoRjY3aVBZRUdmWWZmSEZ1QnlERjBVY1dETTBYcjYwRWxKb1prN3ZFS2dqMUotT2pPeTB1d2NMeE54aFZ5OEJzb1hTbm8zS3dWZkdSdFNUUnV4VTN3Y3d2X0o3QXUzbzliNDUt?oc=5",
-      "d": 1794246335000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Tribunkaltim.co",
-      "x": "Beasiswa Riset BAZNAS 2026, Cek Syarat Daftar dan Sasaran Penerima - Tribunkaltim.co",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2dvazV0M0JDWGkyUkp6WE9mWjlVMWRvM1VFQkR4VHBTeW1nMFNodWxONU1HU01UeXhOMC0zNkFPV1ZvQTRMM3p3ckxPNE1rM1cxLVFXVGxvN2ItVlJtLTBYb3dxRDE4UlU1ZHZSSURJLUpzbHhkeTlETVZKSzhIYV9ZeVZLNmM1cURkREV0OFBsZENhdXltdWptbmRIWWt0QkFqMkJaclBGV2lM?oc=5",
-      "d": 1794267131000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Pojoksatu",
-      "x": "Beasiswa LPDP Tidak Wajib Linier dengan Jurusan S1, Lulusan Beda Bidang Tetap Bisa Daftar S2 - Pojoksatu",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVYxUmY2QjlRM2lGbzlyQXRpeGxYZVQ5NFhKRFZZUDY2MVd2cnhzbTBZNjhIYUVpdmNLNG5Ka1FQOVZHYklLb1JnUkluTElCdmpVeWhhZFdSYTNvUnprSENjakl0TlRHVTlUQUI5eWVlc09NSnIya3NDWmJEc1VhMU55WDZEREhsb2pxcUpCeEJsT1BvMENTWFdTOWtiOWRUdERKVGY4OS1ZMXVlbzVCSUNjVF9jNTRCNTQw?oc=5",
-      "d": 1794229776000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "threads",
@@ -28853,10 +28824,40 @@
       "d": 1794286290000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@retnopratiw",
+      "x": "Staytuned di IG pilarsdmindonesia kak. 2 minggu lagi ngadain webinar gratis soal communication skills",
+      "u": "https://www.threads.com/@retnopratiw/post/DfjJa1hkvq_",
+      "d": 1794288218000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Hai kaa.. Belajar digital dari Nol yuk tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Cuan dari rumah anak juga terpantau 😍",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfjIvXMkgT7",
+      "d": 1794287862000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandarin_dari_nol",
+      "x": "Yoo warga threads, gw ada info pelatihan mandarin gratis nih, tapi slotnya ga banyak, kalo minat langsung dm aja yaa",
+      "u": "https://www.threads.com/@mandarin_dari_nol/post/DfjI7XjnSpq",
+      "d": 1794287961000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
