@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfAG90MExFG": 1793112644126,
-    "threads:DfAG0mzjowI": 1793112644126,
-    "threads:DfAGrhoDvaZ": 1793112644126,
-    "threads:DfAGg_VFKOr": 1793112644126,
-    "news:CBMi1wFBVV95cUxQTzNwbE1IMkhVY2NDYk9wR201Ykh0blhjOWpLSHNrS0R3cUlfdlBEMDZuNEJGX09WaVFrUVI2a0RZc1QyWlBkUE9nMzVpX2F5TEhENVltbzA4RTRseGlpVm0xYzR3RlRIQklBcTBJcVYxanJIbmgtZ2pxalJtNlBIcUJ3UXdTc21GR2JRcWlnSVVUekNFTFJ3bEZuSC1pamNwYS1oRnM5ZHdsS3hXZHRCQkZYejVPcEVWTkhJUnJWNFpGV1hqbmt0d0FoaTdsVWNfQjUxb3RzRdIB3AFBVV95cUxQNmNCU3VMdFp6Ql9aTE5xaWwyX1pTNjR2YlRNaVBXRWJHUFhSdHY1d1o2eTYzbS1sRGc0bzJ0cGtDUHl6TzVfUkNwcWFHbVVWcnVKTXZoekpzUm03dHVOYUtHNWZwS2REaTl0bWd0TDRJTVBua0NfVVRCQmRGUzBSdXdYZl9Sb0E4TnR6ZWU1a2lQaTBJVlF3dFN5Ql8zWThvTG9YX0dpWmpFNHpXQUtBVXZLY0oydnUzRE42d3diY3ZoSmJQWG01ai05YXVsWllUZVhKUERBQUwzbF9W": 1793112644126,
-    "news:CBMi4gFBVV95cUxQREh1SjkySG1kUU15V0xjdy1hY3RnUkJmVmlvdGE1T1BWTzV1TlVCM0dycHllZ2J2M2FCczk5b1J2ZUhsS1l2Y3dzN0F5Qy1hOXNRR2RmV3BUY19FUFZMNjMzWVZYNGtXa0xqRmdYeHJtUU03ejlUbHhnaS1rUzd3Ulh4TEczMTFqa1lHUjFHZDlvNDNET1RtSEF0bjJMNWV0SHBhYVhRYTBsaUV5cGVGSlNNTThTdGVZVVQxSmdSQm8zNFlSYl94NWc2Tk9icUo5amJMSFBWcHllQjl0N1VQR2l3": 1793112644126,
-    "news:CBMisAFBVV95cUxNU0lmX01QNHBDM3ZCUWs1TmdURndSVnFiY3JUZWVJekQ2T1RJSkRzNEU5alZrS3FvVnJZMnR4WWstNTNab2xPRGFrZEVkazZ6ZldnS0JxaUR1N0xQNkozenBBQWZfc19hSW9YaVJNanJ5LUNmLUV0NUc4WWNJLVNPQ0Rqdkk4N1hhek1fLWhHclEtLVZ2SWJ0NC01T2MtdmM0NHZJbmQ4dTdtLWVrSjhWbA": 1793112644126,
-    "news:CBMi2wFBVV95cUxQQlBwVzBVT0ZMUkw0LWxqYURMWnVhQW4yMzBzZTd2Q2I4QjJfdzBPbjN6NlpTQjhuUl83YkR1dkVIdzVsZG5Od2RRc2E0VlVFYVV6WkRsSzR4a002aUc3a1FSTkFGcm9XTXFyOUE0VHQ3RFh5M0VsT3U3SFdWckR6aXlaTjJQaWUtUzdSd2ZxcUpYSnh4WTI3SF9VTlFlZnN2NFlqbWh4WnV4M3NyR3lYWUh2RTh0eXR3bm5UTWRLUlV4MTA2TFlSWFo1SkRKb2JFOEpYcEk5cWFOa1HSAeABQVVfeXFMTVRkOXRvVGJVVXVDclEzdzFSWFlOSEhoSmxGSEZ4WDRfVU03S0E3R1lDTi1mTHQxSXJLWkhJb3o1MUUzdVdNX1pFUEpmekdoU2VKY2hFS3FaSlJhdVRhYTlhRW4yc1dJZUdrR085S3NZYmpJY0M0c2RKbEU4RzJ2Q2tHdk5oclFVVVhpOEliSWcyQXZKRFluM2hta0pmT0s5R3R4dkNValdPTGg1UnFjOHN3TXRJOU1Wd19tRURKaWdZMkJ0Q3NiWkRRZ0xqemhLMy1ab0xYM0FWbHZOWnBNWVk": 1793112644126,
-    "news:CBMi0gFBVV95cUxNdk1sX3dEQ1I5YXBGUDNyNGJILXk1RGNySXNmQzZQc0szNy1iUm12R0FvbWREOHpwQl9VMU9KZFl6RjlZdjNMY1RjWmEtajR1eTZmS3FqUzlMSVdLeFNxRDlsaVpGU0RWclRoVTc2UFBGZjhkZzF2MDJtajFDa1MwNFFwdXBxRVJmVWpySldMVmdOYXdfM1VmYXNHTDhxUTRMOXBwSFFxWGExNUczRElGN3B3c1llZTJPQnpvdEhSZkRXamZvODhLQU5nTng1bG8wLUHSAdcBQVVfeXFMTWxUd242dWpZT3lPc0YtdWRxLV9YZEJmQU5UNjBzY0FIck1KSzVLaHkxRUZUZ0xNd2ppNGdDeG1vSTRkaU9wWDlyYVJqSzRNZTVUc3kwSWw1UkpHNVd1MHcxN1NIcE9XTjJZUFJkYjEwNmZhY2FJaTVPeEowMG5PVDZLSlJVRzM4bDZCSTlZMlJOQ1RZR0ZaZDdyS2tuWjRONFRIejhDTEVuZkNfaHlfc3VfSUNmS01iTkpWNlN6Y1VHZk43VUxfcWpMOUNuMzVzNDNrRWwwTms": 1793112644126,
-    "news:CBMivwFBVV95cUxNWUZVRjViQWNDRndYM0ZEdWwwN1hFdW5xbjd3dlhWRVVVeUNkMUZRRnJtcndlWW5kWjNSUnBHVWZXdVp0TGxpWHpGWUtyVHk2V215aHkwRzFQa0FFQjVJMktQTHp4OU9nM19ZOXFiVW9iTTA4UV9HanFETHhNZlZ3OGF3LU1NTi1XRUMzT0FZU3QzLTdrNUo2b0RRQkJCblc0TGN1a01mc1RBOTJiZ0dqeXRLeE5BRkl4bnlsTTJ4WQ": 1793112644126,
-    "news:CBMifkFVX3lxTE00blh0T2U4SnVoYzhWVERuZS15Wjl4MlZhV2RNNm5DR3FVVVRhWjloeE1UeUR0MXBQZHFKREl6UnR4X2lvUk9QcERmY0dqYmllN1lZSWhWczZCVWJieE9OWjRqZUk0TGVobzUxeWJTZ0pZOE0yZ1JySkVOSzVWQQ": 1793112644126,
-    "news:CBMijwFBVV95cUxPeDY0N1hqd2pmeGhySDFGVGJnbjBJNWxmM3Rkb0pHUzdWS3lyVG02R3JLQlZGMWstRDYxQVRFNnpJdVB5MnZLYmNaZnFMR1JmSEpRWTJORVNCT2g4Q0NxdEdTaU5ycHpZSzcxV1hpU3BnMGpxN21rYnE4SjY3a2VjdUx6aldya1R5elFzWmhPYw": 1793112644126,
     "threads:DfAIvdeFiBy": 1793113625941,
     "threads:DfAHjKHH7aV": 1793113625941,
     "threads:DfAGmXmEQh9": 1793113625941,
@@ -27129,7 +27117,26 @@
     "news:CBMi9gFBVV95cUxPQmxFZ1lwT015cS1CbXgxeFJGU0ZkT2RDemJ6bEtkZHhNZGQwV0pwUlBnOHFPWllSelZWNm9LT1VjMnNEWnhPU2FyWmMwejFOMmtXcnBpeFVvY3FLTGo2amFsVzY3eXlUcFpQTHFLengzXzRCRkhZWUpaWDBfck1aaDhrUjRpcWhkRHd0WFZpUGY0LXVUSldvTnU3SUhXUkRSSjBKdUViUzZTbXBuZ0JDT2tYUnZGSE9QODF6Mzg3SDRDS3NBQjFxRXRSVG5FTXNaZmRXcHh3SFpCeElNNXU1TTFYcGFCRHIwMFBrWV9aWFB1ZFZpdlE": 1794321634614,
     "threads:DfkJiC9lCTj": 1794321937460,
     "news:CBMi3wFBVV95cUxNektxcTdxZk9UMFFtcW5JVnRoZGlMVnlwYmlWakxZaGY2clBMY3E5NUtuVFV1bmk4OGdpOEU1bVdhVDZIRE43dWFQc01NRl9WLUl4eE53b2VYQi1CYVJEbVpPSE9ZZ2FMUVEtZVN0LW9hUS0wQVRCZE9GNEV3RUdlUnB4SnJOVWZQa1BkMmRXaFR0ejNGRmZxMGR0QVcyUjZIMWtGSmNSdUV6NlB0bTVQLWEwYmN3LW51Nkl0MUFmNElxYVBJTEF1MDFpODJicXRYSVFzNGR3V2VoOWlSRmVr0gHkAUFVX3lxTE9seUc2bkJtcjBJY1NJTGpWSlg4cklBclZvYzR4cjVVSVNRYUhmblRsRmhQWm1KTXFRMzJfME5SanhidFhCaWNiZXdmT2JxMnV0MFI4UHFEZmxKMjYxaEhUWlBubVhlSkcxWDZJVGxEMWRScWNpYi1tZTV4VnpaS2Y3VTdJc3F3eUNPX3lTdmZfRlpKWE1EOGIxMXNNejQyaHpjV0FKSEJuWXluNHJYVjJQdE5Gd2N5TF9COEo0WlNYeGg1LVZiUkM2X3QwN2JMWWRlVkFnWmxwZUNRUWNRRS1iRkJJbw": 1794321937460,
-    "news:CBMid0FVX3lxTE5GZldMdnZqTFltYXB5WDBoa2RqWDJqNXY2dEQ3ZzBWelJ2UUE0WUY3c3JPa1Mzdlc2dFgxWTNaTjRuZ3hvNFU3aUU3UFprYnVTX1ljdEIxWlNsM0FRa2RvcElVYnFlOXR5X3JvWG9Eai1XcDdkdlhB": 1794321937460
+    "news:CBMid0FVX3lxTE5GZldMdnZqTFltYXB5WDBoa2RqWDJqNXY2dEQ3ZzBWelJ2UUE0WUY3c3JPa1Mzdlc2dFgxWTNaTjRuZ3hvNFU3aUU3UFprYnVTX1ljdEIxWlNsM0FRa2RvcElVYnFlOXR5X3JvWG9Eai1XcDdkdlhB": 1794321937460,
+    "threads:DfkJ5hAjz6z": 1794322249434,
+    "threads:DfkKKS1AQK3": 1794322249434,
+    "threads:DfkJSo9E66a": 1794322249434,
+    "threads:DfkJ2W-DZpu": 1794322249434,
+    "threads:DfkJj7gEUNF": 1794322249434,
+    "threads:DfkJDjyiOgv": 1794322249434,
+    "threads:DfkJCXaiGf0": 1794322249434,
+    "threads:DfkI-2_gpZE": 1794322249434,
+    "threads:DfkKOq1EXoJ": 1794322249434,
+    "threads:DfkKM7NEitV": 1794322249434,
+    "threads:DfkJacACUIl": 1794322249434,
+    "threads:DfjWwkqEux_": 1794322249434,
+    "threads:DfkKIM4D7XT": 1794322249434,
+    "threads:DfkJz7rD0iz": 1794322249434,
+    "threads:DfkJiLOD3Bd": 1794322249434,
+    "threads:DfkJNIjj3-9": 1794322249434,
+    "threads:DfI17OFE_r_": 1794322249434,
+    "threads:DfkKWt6gbki": 1794322249434,
+    "news:CBMipAFBVV95cUxOVlZ4YUV3UHZDUE14QTg0bkU3dlFjQ0pzRTFDZGpta3ZMajZadVZ5SjAyQldDZXJsMVFSOEI3OHpBb0hfNkNGVHpUeG9yOFhjSmRRMXNDRjVOQ2QwYnpiNGVsS1AwSUJpMXpUSTNYcGEtam1zV3hPUHdvRjI3YWQtRFRYWHJGcU1RWmlaamhqeUZfZ28xa1hUSktRaGUzcUpOUWZPYQ": 1794322249434
   },
   "digest": [
     {
@@ -28161,10 +28168,70 @@
       "d": 1794321360000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa banget kalau pengen dapat 100k per hari untuk jajan 😊 dari jualan online. Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkKIM4D7XT",
+      "d": 1794322144000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hallo kak, bisa coba bisnis online 😊 Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkJz7rD0iz",
+      "d": 1794321978000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa banget mencoba bisnis online. Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk m",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkJiLOD3Bd",
+      "d": 1794321833000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak, bisa coba bisnis online untuk side job nya Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfkJNIjj3-9",
+      "d": 1794321661000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yudhishnp",
+      "x": "OPEN REGISTRATION! Halo #SobatIndag! Yuk, tingkatkan wawasan dan keterampilan ekspormu melalui Pelatihan “Bagaimana Memulai Ekspor” yang akan diselenggarakan pada: 📅 18–20 Novembe",
+      "u": "https://www.threads.com/@yudhishnp/post/DfkKWt6gbki",
+      "d": 1794322263000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "ANTARA News Makassar",
+      "x": "Berita Terkini Makassar - ANTARA News Makassar",
+      "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlZ4YUV3UHZDUE14QTg0bkU3dlFjQ0pzRTFDZGpta3ZMajZadVZ5SjAyQldDZXJsMVFSOEI3OHpBb0hfNkNGVHpUeG9yOFhjSmRRMXNDRjVOQ2QwYnpiNGVsS1AwSUJpMXpUSTNYcGEtam1zV3hPUHdvRjI3YWQtRFRYWHJGcU1RWmlaamhqeUZfZ28xa1hUSktRaGUzcUpOUWZPYQ?oc=5",
+      "d": 1794307800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
