@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfC70PugU45": 1793226652886,
-    "news:CBMixwFBVV95cUxPVjZTVUFNRGxKZGZXWTJhRmxSRXo1UmNiWlJnQzFIZ1ppcWJmVlItaXJfMnA3TDVMYzdiUzI2TlhxVDRzQ1V5azZVNHR3Y0VxXzQ3N080dmhLekhuNkpkRXQzRlNZalo4WXNKN3hfSlgxVGZJbVYwUG5Hakp1TkRGZURVZmJnWVBCbHhuZWRONlpISngyODhSQkZwYUhnSS1kOElLZ0tsRHJObnlJOENPWmZjSWx4Zmx2TjdrMkRMRmlVeFpnY0Zn": 1793226652886,
     "threads:DfDg459j159": 1793226945003,
     "threads:DfDgjOYEfUw": 1793226945003,
     "threads:DfDf_uhjUgC": 1793226945003,
@@ -25554,19 +25552,11 @@
     "threads:Dfnhp4Cne4F": 1794435937156,
     "threads:Dfmys5GCXg0": 1794435937156,
     "threads:Dfni1GSky7p": 1794435937156,
-    "threads:DfnjLsNk1Bn": 1794435937156
+    "threads:DfnjLsNk1Bn": 1794435937156,
+    "threads:Dfni-8okqM3": 1794436296202,
+    "threads:DfAKEstkktu": 1794436296202
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Journalist Independent",
-      "x": "Bansos PKH dan BPNT Tahap 4 2026: Jutaan KPM Diklaim Sudah Berstatus SI, Apakah Saldo KKS Bisa Dicek? - Journalist Independent",
-      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbms3eUpFcUJqeUNabnRzVlgxNFZVYXpSakM2UXNmQWNIM2xySDM0b3dhd2xVWGlxNEpUNEs2a3BVTTlFa2dfRExacVdHdmZhVnVMRnBkMVlhbGFSUkZIdVNWYkxLZ0J2R3pZcWhmUnpFckRDVzFrakJMTEpYTkVPNkZ3aWFWSjZRQnQ4b01JVDRvSGY3LWNTMjJkNERoQWdFRlZyTEZ5bGpxNGVIUml4RHMwV0Rlc0tWNXdJbXVTNGJ3dDQ4Q3VPNkZLLWx0RmgtWThiTGMzcnQycXFX?oc=5",
-      "d": 1794409919000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27056,10 +27046,20 @@
       "d": 1794435943000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@awsaiacademy",
+      "x": "​🚀 BEASISWA GRATIS AWS AI ACADEMY 2026! 🚀 ​Belajar Machine Learning, Generative AI, Python & Cloud dengan kurikulum resmi AWS. Terbuka untuk semua WNI! ​✅ 100% Gratis, Online & F",
+      "u": "https://www.threads.com/@awsaiacademy/post/Dfni-8okqM3",
+      "d": 1794435839000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
