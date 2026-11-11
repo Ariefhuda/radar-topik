@@ -25525,19 +25525,11 @@
     "threads:DfnRVaUjrmZ": 1794426932824,
     "threads:DfnQm9kkwZT": 1794426932824,
     "threads:DfBuUL8mcOm": 1794426932824,
-    "threads:DbF82gDCTGW": 1794426932824
+    "threads:DbF82gDCTGW": 1794426932824,
+    "threads:DRl98UQkSq7": 1794427251523,
+    "news:CBMidEFVX3lxTE9EUFR4VTB2Ynk1aTRHVU5PS3hhVlRsVVhPeUx2YUNHUElOSnpNZExTREpMZUQtaC03OHRSN1pya081cDdIYzdhRHdxS2RjWGl0aU5YOG9FT3Y0WWNxWW1DNy1aXzZoc3Fsdk5kMTFPenVGUS1E": 1794427251523
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Aspirasiku",
-      "x": "Jalur RPL IPB University Dibuka Hingga 20 November 2026, Yuk Lulusan D3 Daftar - Aspirasiku - Aspirasiku",
-      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUJPUjMwQ29TYXBJazN2LWNqV2cxekZRZF9wcWxuQ0tJb0NNbzdtMEktUmUtV2RRa1RTeGxldUMyNVVHS0Y1ZGVhUVczT1RGVHdjLUNlNDhaRUF4azFTVTVKLTdUTzVMOHZ1TUdDVTlmYW9BV0xVS2Z3UE55Yks5ZndQYTR6R1VNd0VBcVA0bGxpR2xMMVBZNFM4YXZLcW5lS2s2UUF2MjVhamNLU24zN3JYc2NSbWFhbnNwckJVdmtrUDlM0gHKAUFVX3lxTE5CVkoyS1otYWthVkF6QmJlb05WMnRjRU50eU1lUjZZbFlFaW5NT3RkTWNKOGtDMVV3RS1VZE5YWmpFX2c1U2pJNHM2Nm9vLXp3ekJzSUY1WEJuOUVmcTg4Nlg1aWVmNWdtZWxObjJqOXU4NHF0bHNKT09hRHY1MWhjU1dNRWhCWEhvNGI4c1k1eHVNeEpheUpGRllOOFdESWNfcnJrb1VkbFBVYnM4ZnZfMHNkZVdlMngtQ29wa2l1VXdXSXh4Wmp3dXc?oc=5",
-      "d": 1794373200000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27027,10 +27019,20 @@
       "d": 1794376020000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bantenraya.co",
+      "x": "Cara Cek Desil DTSEN 2026 Lewat HP untuk Daftar KIP Kuliah - Bantenraya.co",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EUFR4VTB2Ynk1aTRHVU5PS3hhVlRsVVhPeUx2YUNHUElOSnpNZExTREpMZUQtaC03OHRSN1pya081cDdIYzdhRHdxS2RjWGl0aU5YOG9FT3Y0WWNxWW1DNy1aXzZoc3Fsdk5kMTFPenVGUS1E?oc=5",
+      "d": 1794405360000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
