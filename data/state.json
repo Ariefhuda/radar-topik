@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDBKCYHzaC": 1793210155410,
-    "news:CBMi1AFBVV95cUxNR182Q1lhSzRha3JhNzZPajFLbmlJZUdrVEU1Z29MWVhoNmJiU0J3bXZmNHVKM0x3VVpOQTVGOWFIWGFKbTRJV2VELWFUclFfcG1QU2I2WWVSalFSRXFHNU9HRF9wODFUZWxKWWd1RmJUMW9OOWY1dF9FRXo4azItaUJNOEpJUUxhR0xVcVFjaW81aEZES0lVSi1zWllMNi1rUWlONWMzR0ZOY1FIdWFmMEQ3bVV0Y1AzUFBwTHVLa1o4V3NGc3hzU29LOWdidFQwcTg1Yw": 1793210155410,
     "threads:DfDBIeCkm_I": 1793210458632,
     "threads:DfDBZrOkidm": 1793210458632,
     "threads:DfC0yPxG7s4": 1793210458632,
@@ -25463,19 +25461,26 @@
     "threads:DewC9TXk9ok": 1794419466496,
     "news:CBMigwJBVV95cUxQRjhVWVlaMTdtQ2lVTUg4RnFRQ3ZmcXo2dGpSR19nZFFzbnM2aWZpU2tZbDhMRGZuMVRGT29pU2tOV2xRUUFqYjJ5VFZrbkhENEp2VkVLVE5wRzRUZmhvNmJ3X2VlZ05adW9zck1CTWdjVVk1bFZvNnBDcmZ3NDcxYnZBUlZXXzlXalRucmRLeW45WHc4MkRPWnl5Y2J3MnByNm1BWWlfT19yU05reS03cU9RWXJUOE51THd2WEdDM3JaOXlqZm1EOUNSaGhtU2ZhOWEtSHlPWmlKLW1Ld09yVGZYWkRVeVIxdzVwd3c4MWhXN1hOV0xRN0Rkc0tqaDRvLWtz0gGDAkFVX3lxTFBGOFVZWVoxN21DaVVNSDhGcVFDdmZxejZ0alJHX2dkUXNuczZpZmlTa1lsOExEZm4xVEZPb2lTa05XbFFRQWpiMnlUVmtuSEQ0SnZWRUtUTnBHNFRmaG82YndfZWVnTlp1b3NyTUJNZ2NVWTVsVm82cENyZnc0NzFidkFSVldfOVdqVG5yZEt5bjlYdzgyRE9aeXljYncycHI2bUFZaV9PX3JTTmt5LTdxT1FZclQ4TnVMd3ZYR0Mzclo5eWpmbUQ5Q1JoaG1TZmE5YS1IeU9aaUotbUt3T3JUZlhaRFV5UjF3NXB3dzgxaFc3WE5XTFE3RGRzS2poNG8ta3M": 1794419466496,
     "news:CBMiqwFBVV95cUxObC1vZE9hTmpuSUg1VjBIRnNxRTdLZlZqdjlJQkQ0N21pRDRaRDUyMFhrTWRrejlJNjlUYUF1SkxnRHRXNWFXc0hJQ0J0bmVhQXZpUnc2VGhFYW5JT1dfWG1vYWNBOHhLRWFaVTRFLVozbFlqNkFXejF3a1RCS3E2TmoycjltX0tZSVFxNjBUQmM1TThqUldjZFNHaGF5S190N0I5ZUVmUGVSbUE": 1794419466496,
-    "news:CBMixwFBVV95cUxQMC1jVjE0NXd6YVFpeXlBRmFfdTJoY1RId1Q0WHc0M3BuZzFvNi0ya1paR29UMzNURHV1Umh2Q2doUGFOS1lKZHBoUzlYMENOcXByVW1nRGhYT2R6VVF4RlpGSWI2R0RpNGVobmVIOTVZaVFUWUhZVlRULUVQRndoLWpXUW1pNjFwTHpDdmFHd1EtS2pONjdKVVV2clkweUFzUUdpMEdrUEJLM3JNZExpWkRrY0F4YzBZY081dE5SaVRXWTAxTUpn0gHMAUFVX3lxTFB3R1pmU1Z2NmJLemZ2dmFiejVKdEdsWVNNRmpranpOUmE5QnU5clhhcDN6TzFsNGxDOEpBczdTQjVfZ2xMV2E4WmxRV1d6dTR0SGFRU3d3amdOc0lGYktaNDBMb0dsejZsQ3doR3o0SFF5ZnFnaTFfSDlfNkxpN0xDdVUwWkMtX01ib2trUDg5QjBiQnp6OEU1QXdvcVpTbjM3QVl1VjhVZ01JbmFfU3hOSkpKYjliNUt5X3lRdTIwUFNjZTM1bG9SYkJzUA": 1794419466496
+    "news:CBMixwFBVV95cUxQMC1jVjE0NXd6YVFpeXlBRmFfdTJoY1RId1Q0WHc0M3BuZzFvNi0ya1paR29UMzNURHV1Umh2Q2doUGFOS1lKZHBoUzlYMENOcXByVW1nRGhYT2R6VVF4RlpGSWI2R0RpNGVobmVIOTVZaVFUWUhZVlRULUVQRndoLWpXUW1pNjFwTHpDdmFHd1EtS2pONjdKVVV2clkweUFzUUdpMEdrUEJLM3JNZExpWkRrY0F4YzBZY081dE5SaVRXWTAxTUpn0gHMAUFVX3lxTFB3R1pmU1Z2NmJLemZ2dmFiejVKdEdsWVNNRmpranpOUmE5QnU5clhhcDN6TzFsNGxDOEpBczdTQjVfZ2xMV2E4WmxRV1d6dTR0SGFRU3d3amdOc0lGYktaNDBMb0dsejZsQ3doR3o0SFF5ZnFnaTFfSDlfNkxpN0xDdVUwWkMtX01ib2trUDg5QjBiQnp6OEU1QXdvcVpTbjM3QVl1VjhVZ01JbmFfU3hOSkpKYjliNUt5X3lRdTIwUFNjZTM1bG9SYkJzUA": 1794419466496,
+    "threads:Dfmq7FnmqO4": 1794419745313,
+    "threads:DfmTFnGj_rY": 1794419745313,
+    "threads:DfmFCYwGXlO": 1794419745313,
+    "threads:DfnEQQYFh9m": 1794419745313,
+    "threads:DfnDjE2CZ46": 1794419745313,
+    "threads:DfnDiJcFRaL": 1794419745313,
+    "threads:DfnDh3WiCgc": 1794419745313,
+    "threads:DfnDbSYCOB6": 1794419745313,
+    "threads:DfnDG5_iEGL": 1794419745313,
+    "threads:DfnDE7rEQdL": 1794419745313,
+    "threads:DfnC-KbGd5t": 1794419745313,
+    "threads:DfmeJT3jUE3": 1794419745313,
+    "threads:DY9FBInmdy8": 1794419745313,
+    "threads:DbFPsZyiOTM": 1794419745313,
+    "threads:DfjKbT-kf-5": 1794419745313,
+    "threads:DUUneTtDzZD": 1794419745313,
+    "threads:DfnDlOGmYWP": 1794419745313
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "CentralBatam",
-      "x": "Ombudsman Soroti Ketimpangan Penyerapan Kuota Sertifikasi Halal - CentralBatam",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5USGN1QW1SWWtsTndTUGhTdDgtd3RjNW91T0t4aS1uNER3czN2ZW1XYy12V09iekFOM0VNNmRyWEEzSVUxQnFuQ0pLS1NJc0R2N0RZS1lXZjU4cW9LZDI2N2tKRWFHMnNSakZUOURVVEJLbFNiNHJiVTBLcw?oc=5",
-      "d": 1794398625000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -26965,10 +26970,20 @@
       "d": 1794351681000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mc.gerrypratama",
+      "x": "Ada yang tertarik untuk ikut pelatihan digital marketing offline selama seminggu dan di akhir ada ujikom by BNSP? GRATIS!",
+      "u": "https://www.threads.com/@mc.gerrypratama/post/DfnDlOGmYWP",
+      "d": 1794419375000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
