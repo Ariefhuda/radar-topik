@@ -25508,29 +25508,12 @@
     "threads:Dfl57mclEiK": 1794424538795,
     "threads:DOD9nnYE_eC": 1794424538795,
     "threads:DeoZi8OD2BG": 1794424538795,
-    "threads:De0FArfDcl7": 1794424538795
+    "threads:De0FArfDcl7": 1794424538795,
+    "threads:DfnN4tfk6NB": 1794424863296,
+    "threads:DfnN0PGEzD4": 1794424863296,
+    "news:CBMiigFBVV95cUxQdVRfcThyS3pPYVFJTkpHZlpNbVg4Z0QxMjV5Q2lmb0ZMaTh2bE9OcWFuaUtmSVFtRVdNVlF0a0NpSEhqS09TOHFMUmNmWldfaFBnSzZjZE5McGV0Z2RZZkozOU1ZNWlkd2RLWEZYcjB0dTZrM2JRbmxKUWJ5VVZJbTVSV0dmbm4yUlE": 1794424863296
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Tribunmataraman.com",
-      "x": "Dibuka November 2026, Pemkot Blitar Sediakan 99 Kuota Beasiswa Perguruan Tinggi - Tribunmataraman.com",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDhaSjVwTEhTSHhMdVpjMlk0a0FVTjdHZzVnRzFoU2lNR0NOam9UWXU3eUFCU1NPYTFwVEFiMklaem95N18wLUlteGRqenZsMUlIaGYzSk1DWkZYOVZIX1BmMG5JSXFvdWJHSmZOTE82LV9NcTRBU1pteHVDdVphcmtuYmQ1cnZjbk83TmhnMjN6dGU1UUhZZlJCMXZja2xDQnpOUWdueVRuQ0dmWUJQZFN4d0tVQUEwRW9DcUQ2eTN2UQ?oc=5",
-      "d": 1794395453000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "SuaraGarut.ID",
-      "x": "Kemdiktisaintek Buka Beasiswa Garuda S1 Luar Negeri 2026 - SuaraGarut.ID",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4clZDQkdnX3dzRUdMVGNveGNjdHg1RXZ3VDljZXB0cVRCakRMWERiMEM4b0U3eXVLODg4MElHQzFHa2plZW0yU1FKZ0dIdkNnZUNoWnBfcWxwbE11aUQwaTZKY3NZbU5m?oc=5",
-      "d": 1794389659000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27010,10 +26993,30 @@
       "d": 1794380761000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@ayomediaindonesia",
+      "x": "Beasiswa LPDP Co Funding Luar Negeri NAIST Beasiswa LPDP Co-Funding bekerja sama dengan Nara Institute of Science and Technology (NAIST) di Jepang dibuka untuk jenjang Magister (S2",
+      "u": "https://www.threads.com/@ayomediaindonesia/post/DfnN4tfk6NB",
+      "d": 1794424778000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@ayomediaindonesia",
+      "x": "Beasiswa LPDP Co Funding Luar Negeri NAIST Beasiswa LPDP Co-Funding bekerja sama dengan Nara Institute of Science and Technology (NAIST) di Jepang dibuka untuk jenjang Magister (S2",
+      "u": "https://www.threads.com/@ayomediaindonesia/post/DfnN0PGEzD4",
+      "d": 1794424741000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
