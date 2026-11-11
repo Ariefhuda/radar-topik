@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBJ9rcE9rg": 1793147745795,
-    "threads:DfBJJ4njxU-": 1793147745795,
-    "threads:DfBI8aMDz9z": 1793147745795,
-    "threads:DfBI1JJD9Od": 1793147745795,
-    "threads:DfBJ3w-E2tg": 1793147745795,
-    "threads:DfBJp6YE8ft": 1793147745795,
-    "threads:DfBJgjbE4wg": 1793147745795,
-    "news:CBMiZkFVX3lxTE9KcVp4VFFiWlZlQ2VqQkpKQjhQZHZVcU12Ym9TQUpSamJnZVBNNzVLbzc1VGZUZURIeVQyNnpPSXV2dThEa0xjVlJrVHlXNkNCNFpSN1NMTl9XV3pXSzY1QUpLb3dWZw": 1793147745795,
-    "news:CBMioAFBVV95cUxPLXYtZmd4bzBubEJ1V0JLZWlIZ3pfZjRpLWY1NktQdkVmM0VxWTBmdWQ0dDAxaExfZDhkY25lakgxaHcyMGpiU3c4VnlJMVdNeHdJUk40cUlzTFdlNXN1dlRPRWtSMERHMUE1SFBKSTU3d01qeThVb2c3X1JnOFlnTmxzQXFyZE5XT2otcllvbDdnTk5SQ1B3WHdVNmk0UXVO": 1793147745795,
-    "news:CBMirwFBVV95cUxPYmprbmsxS0tJQkRCZjJfOXFMU24tcjFpd3FfUzhqQU5FWEgxTTFoSG5MQjVRRmFTMllrdjRObEhIYVlHdC1sWkZSWFdaSjRyZDEtM0pVeGJ0YVozbHNpZUJ0ZXo1cjg0UFFjYURxTWZJbEw3T2pidm1iNWlVZmNVd2FCY0RTczg2SXJEWVpWMXdqLThTNVVzbEItRWVad0d0OHR0aERBVGZ3OWdxczVv0gGuAUFVX3lxTE9XNGFjdlEzUlFTWk4wNl9kTEZ2dFUxY25yMFByci0taTEzdDZsR2FDZTlPemxVc1dhVGYyV2pZMmlvNGNzdUtndnNEMXlNS3ZoX3A0MzlkZzBvZlQtVlNuNnZIWDBKdm04MS1oUlpXMDVtelNQS29ldjRUcHN6U0loU0hQWFJCcTRPRDRsUjY2UzlualllNUNjM1gxem1ZUXdNQ3NLSjBzYm1hcElDUQ": 1793147745795,
     "threads:DfBJna2E98y": 1793148059221,
     "threads:DfBKMr7CcN5": 1793148059221,
     "threads:DfBJld9E0AB": 1793148059221,
@@ -27119,19 +27109,19 @@
     "threads:DflK2mTkrZe": 1794356731574,
     "threads:DeyCQFAEn-X": 1794356731574,
     "threads:DfNF8ABmT8V": 1794356731574,
-    "threads:DflLy99jyX1": 1794357048722
+    "threads:DflLy99jyX1": 1794357048722,
+    "threads:DflLw7tHXGO": 1794357336997,
+    "threads:DbMp8-Hidbr": 1794357336997,
+    "threads:DflNIETjgNY": 1794357336997,
+    "threads:DflMQ7sj3ca": 1794357336997,
+    "threads:DerP213nFD4": 1794357336997,
+    "threads:DflL0eUmSXF": 1794357336997,
+    "threads:DeGlo_nlDX5": 1794357336997,
+    "threads:De_CbC6kqI8": 1794357336997,
+    "threads:Dfhgk2so016": 1794357336997,
+    "threads:DflMOtpE1QU": 1794357336997
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@journeybyalesha",
-      "x": "3 hari lagi webinar gratis https://chat.whatsapp.com/GrvRE7NbaB3KsnYirPKqI6?s=cl&p=a&iam=2",
-      "u": "https://www.threads.com/@journeybyalesha/post/DfkN6e2GWvB",
-      "d": 1794324129000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28621,16 +28611,26 @@
       "d": 1794356573000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ruddy_ang89",
+      "x": "⛔ *(MALAM INI) JADWAL KELAS DIGITAL MARKETING GRATIS (KOMUNITAS BISMA) :* Setiap senin sd Kamis jam 19.30 wib via Zoom 9 - 1 3 November 2026 *1. Isi Formulir Kelas Gratis (1x aja) ",
+      "u": "https://www.threads.com/@ruddy_ang89/post/DflMOtpE1QU",
+      "d": 1794356801000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794335464754
+    "reddit": 1794357336997
   }
 }
