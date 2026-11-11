@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDmRMvkzpy": 1793230541553,
-    "threads:DdBlRHKCTsi": 1793230541553,
-    "threads:DfDoJ0Wlinx": 1793230541553,
-    "threads:DfDoEXKlJqH": 1793230541553,
-    "threads:DfDoCI6mU9_": 1793230541553,
-    "threads:DfDntfvn-NL": 1793230541553,
-    "threads:DfDnftuinpe": 1793230541553,
-    "threads:DfDnTXFEdl2": 1793230541553,
-    "news:CBMirwFBVV95cUxNXzVfc2pBQ01rNU9EUzJpbnNSdGxhWlZYcGxNdTNrVFo5Sl83Nl9IaXUxMFBBZEYtM1M5dEVFNjhDdk1ZMWxmTzhpTWFRNEY5Y3VkbTFPVjZOZTBfUmhFWXRHQ25MZkVmS19OTU9kOW1qb05tT0xOTnk0QVltNEU3Q3JaNjdGUDR1ZVBZVzJreTZmVm9ESGtnN1pzei0wQkRINU5RMVc3aE5MVmZJWDJ3": 1793230541553,
     "threads:DfDoAHSk0zQ": 1793230840597,
     "threads:DfDnXeQE0Pm": 1793230840597,
     "threads:DfDnWiFEzla": 1793230840597,
@@ -25596,19 +25587,12 @@
     "threads:DfnpStMkxUX": 1794439849419,
     "threads:DfnpvQZgRCV": 1794439849419,
     "news:CBMiugFBVV95cUxNOVJnbUpuNHBUTFA2WDZWVnBpUjFNX0dxQ2RIYVJnNUdzR0pVWGI5NXJLd3pCQTdjaW1FeUMxb2J4SjUxTTA2SVhtd0xWVzlYdmZGNUdGT2IwMGhud25fSnNhY3Zmdk05ZjBOVGZoNDZOU0xfcnkwUTVTZWZBR29tbkRVa0JxeGRheFlUNXRxWGtqd1hvMEZRa19fSnhDRkY4VnltR3hsYW16b3RPM1RjczVrNG9WREJUSGfSAb8BQVVfeXFMT051NWQ1N0lHSXVuS3c5OG41RHBlaDI1MF9ISmRoanR4S0thdlZMb0w0NHVvUTVNWGY2emd6RzZtLTN1MTdXSVVvaTdvYncwNng3R0xpVU4wMTBwR3JqUTctU1FzVVhyN1BuWTJ5b2U1ZkYwMk16Y0Z3ZE43dndaR25ZYXVOYUxYNUVnWkxIcVV0dkFMYllveHdIZWtsLWlRWDNHcGNITUVqOFUzcWlLSVJLTi02WkZNSFVvM1dNWG8": 1794439849419,
-    "news:CBMi5gFBVV95cUxNSjM2cTJkcEZhTXFadlJNT0QtaDUwTjJkaXJtZVc3SW1JTk1iTThENVJKbEJLa1J5c3diMWdCS2xZNjNza1paUTEwcHpGeU5oX2FBZjEtSUN3Q3o4bnpnTlNLNW9FRWtGaWtma2pXdmx6dkJVTkhUVUZnSHFUX1F2ZXRFVDczM0JIaE1WVDQ3c1V0S09xTjFsNjZrSmMyY2QySXRqenpvNWx6d21DbFA5SUloX0VvSTQyRHJ0MU1raGdDaW8yc1gzSnJoZzN4RXRXd3hOS0Y0bmhaWTU3c1NOVy0xN3NkUdIB5gFBVV95cUxNSjM2cTJkcEZhTXFadlJNT0QtaDUwTjJkaXJtZVc3SW1JTk1iTThENVJKbEJLa1J5c3diMWdCS2xZNjNza1paUTEwcHpGeU5oX2FBZjEtSUN3Q3o4bnpnTlNLNW9FRWtGaWtma2pXdmx6dkJVTkhUVUZnSHFUX1F2ZXRFVDczM0JIaE1WVDQ3c1V0S09xTjFsNjZrSmMyY2QySXRqenpvNWx6d21DbFA5SUloX0VvSTQyRHJ0MU1raGdDaW8yc1gzSnJoZzN4RXRXd3hOS0Y0bmhaWTU3c1NOVy0xN3NkUQ": 1794439849419
+    "news:CBMi5gFBVV95cUxNSjM2cTJkcEZhTXFadlJNT0QtaDUwTjJkaXJtZVc3SW1JTk1iTThENVJKbEJLa1J5c3diMWdCS2xZNjNza1paUTEwcHpGeU5oX2FBZjEtSUN3Q3o4bnpnTlNLNW9FRWtGaWtma2pXdmx6dkJVTkhUVUZnSHFUX1F2ZXRFVDczM0JIaE1WVDQ3c1V0S09xTjFsNjZrSmMyY2QySXRqenpvNWx6d21DbFA5SUloX0VvSTQyRHJ0MU1raGdDaW8yc1gzSnJoZzN4RXRXd3hOS0Y0bmhaWTU3c1NOVy0xN3NkUdIB5gFBVV95cUxNSjM2cTJkcEZhTXFadlJNT0QtaDUwTjJkaXJtZVc3SW1JTk1iTThENVJKbEJLa1J5c3diMWdCS2xZNjNza1paUTEwcHpGeU5oX2FBZjEtSUN3Q3o4bnpnTlNLNW9FRWtGaWtma2pXdmx6dkJVTkhUVUZnSHFUX1F2ZXRFVDczM0JIaE1WVDQ3c1V0S09xTjFsNjZrSmMyY2QySXRqenpvNWx6d21DbFA5SUloX0VvSTQyRHJ0MU1raGdDaW8yc1gzSnJoZzN4RXRXd3hOS0Y0bmhaWTU3c1NOVy0xN3NkUQ": 1794439849419,
+    "threads:Dfnq2FwnSVJ": 1794440134897,
+    "threads:DfnqahpDIC_": 1794440134897,
+    "news:CBMiwwFBVV95cUxNUEUtTjlWd3FQbFJjSnhJamlhMFgxa281Z1dkcXRLbkFrX3g5cU00NVMtRVNTUkZ0WFR2bGs5SjVsZzVMSkJWampWaVZUNUdaM2Y2Z2c4SXlkY3FsZmlseXZnQ0lMaWdwQmFLblpScDNITllDT3hhRjE1ajJWMW4wWWk1QjE0MlVzbVIxR2xvVkMyZW9kczdCaHpHNm1SeEpwZFk3M0lDTTdQODM5RzJRQVBuOEl4LUM0bEFZcDF3eE9YX1k": 1794440134897
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Priangan Insider",
-      "x": "Penyandang Disabilitas Bisa Cek dan Ajukan Bansos Secara Online, Simak Syarat serta Cara Pendaftarannya - Priangan Insider",
-      "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdG1VbXk2SjVjYldROV9IVjdyTTFOejlvSXljbDVJVlVpaDdIeWNqdnNqenFzM3RjYmpmZFYyQVVuLW41Y0diMUNfRUdEZWlTR2ZoZmZaTFlDRDVHSGhfcnFzOFl3eVlwY3hRN2ZDSUpFenlKdENaTGhhcXQ2dUVEZFVRTWVwNjdhRkFtQXhoRjBpV0RQbXJ1c191UWxyMkM3OW16WE1UMGhUcmZjWnpRbXN0eTY4T0hEWHJHYnpiZkt5d3prR1dqaWFXakdfaVRvQ1Q3RVFWUjVqUDhmMXJiMFFPNWxweEZzRTlPWG93bzRqemZPamdWZXBzMlVKeUpZT2fSAYcCQVVfeXFMTUpGQVBZSjNURmtDMFM4M2dOX3gwREMzdG81MUNIOTFnVW03SU82ZjFzYzczdnhhZlA5aHZBVU1rSjJpajZXOGlEWlRmLTlaT2RNa0V3ZU1NZFZCUXFsQnFvOUQ4S2hrdWtveHluSldLMFh2SmJ5MmptOWFLZkwxMFVRa1BXVTBBSzkxSEdzLW5EY21OUlNTNklubE5QTUp2VG5NVGhXbGxCUTlMX0VIN0Z1QnM2ZFEwRXpTenNNRVBQcDVBc3FxTFE4VEJsdzFfSndDSUJIeUI3elFodkJLSE1udUZfYWpTc21UWXZUZlU5RmU2Tl9IWVNyd3IzalZRTHNnTG4wQk0?oc=5",
-      "d": 1794358800000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27098,10 +27082,20 @@
       "d": 1794434977000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nida_nkco",
+      "x": "Coba cek BSU kirain mau di kasih bansos ehh malah di beri nasihat... 🤣👌 #BSU #bansos #SyukurNikmat #kopipagi",
+      "u": "https://www.threads.com/@nida_nkco/post/Dfnq2FwnSVJ",
+      "d": 1794439962000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
