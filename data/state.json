@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfC-VQhmcmD": 1793208648215,
-    "threads:DfC-TKEmRvF": 1793208648215,
-    "threads:DfC-W2cDXqG": 1793208648215,
-    "threads:DfC-OPMCQiq": 1793208648215,
-    "threads:DfC-K9FiSz0": 1793208648215,
-    "threads:DfC9Wo7oKIY": 1793208648215,
-    "threads:DfC9VQ3HUTv": 1793208648215,
-    "threads:DfC9Q3VmruP": 1793208648215,
-    "threads:DfC9MUfiDPM": 1793208648215,
-    "threads:DfBcQL9EVJV": 1793208648215,
     "threads:DfC9y5oD8RW": 1793208939313,
     "threads:DfC-YFTmXtC": 1793209247666,
     "news:CBMipwFBVV95cUxQNy00dk4yLU0ydkpwY3FySU81SVNLR1dzWlVIeXl0ZHpQeUs4VThhc3VLYV9QVjVrSzhDd29ZSDNCbmdmV1VwWDlINGs5bUNOODdWSlhDMVU0ODBPZ3YyVkFDQ09rbFpHUld2NGF6MzhULXVzRzFxNGp1NHI0dENZV1IxSTdvTzBSeU5YN0EwVS1MZWctVldsYWdVUzdsVXVIVEh0dkxsVdIBqgFBVV95cUxOeHM5LVBlM3MyYXZKcVllemF1am9YQ1lwYjNhdDRpVWFON0F4azdnTUFhQ2VreDZ0Q0dPc2dxMlBsUXFpd293NkhtWGhQZzZJb3JEQ29Dd25VVWRZUm1kZ1BuMkppdkRDWWtSZEhld0VlWS1kRGNPZ251Mk1hdWNETzhhSUFDTWY3LVZJbHFGNGJ6NUJjamVDTTZHV2lkV2xLSkhQc0pTNXRxdw": 1793209247666,
@@ -25442,39 +25432,23 @@
     "threads:DfmG_03q7H1": 1794417939343,
     "threads:DcYVIQfiY7G": 1794417939343,
     "news:CBMixgFBVV95cUxPX2VJdTdxLUtzcklfaGpvak1NTGZUOWRDV3dPWUJjb3Q0TjJqS1gyS0xRY195R2Zjd1AwVm9rNzJKV0tfVW8wYUlWTFQ5RmU2UWtoUnRHbUVzN2pDanVwV0pBbmFZNDl3bVlHRUMxSks1LU5oamJMLXZEOTZkQmRfOWFkWTJ5azlNd2xBRGQ2bGpMdXJlb1VfYW1DR0N5cTQ1MHB4dEpTU2ZFa2thcV9aMG1lR05ndTlzWGYxT2pvZGZGTkpWUHfSAcYBQVVfeXFMT19lSXU3cS1Lc3JJX2hqb2pNTUxmVDlkQ1d3T1lCY290NE4yaktYMktMUWNfeUdmY3dQMFZvazcySldLX1VvMGFJVkxUOUZlNlFraFJ0R21FczdqQ2p1cFdKQW5hWTQ5d21ZR0VDMUpLNS1OaGpiTC12RDk2ZEJkXzlhZFkyeWs5TXdsQURkNmxqTHVyZW9VX2FtQ0dDeXE0NTBweHRKU1NmRWtrYXFfWjBtZUdOZ3U5c1hmMU9qb2RmRk5KVlB3": 1794417939343,
-    "news:CBMihAJBVV95cUxONTlEZ21NLTRNNkpWTVdteVlyZnlyZWh0d18tTTJaNjBfanhIQjNCajRaSzJJMDY5Q2Y3SmNKdHpMRUlLSkxtODVNQ29lb0RRWTU4LWVOQXJibTdnNkhuRl9NTk5MWDVBVU1DWFljTllwN0N0RXdCVXNFb3ZoTVFsWUE0NGp5MmxJMWFUYmlmSFZ3ZEdTTnVCdlZVcUNtZzl1bWRSUW4tLXBHS1RCelp5b002eGRxZTNvRGN3cDh1cG1qbjVEbUlEd1dzZ2Eyb2s4M3lxeV96OW9yV1FobmE3TlNQZ2FBNFVrTnp2UjRyZ1RIXzNhcTgwMFFqY0w5dC1aY1VRSdIBhAJBVV95cUxONTlEZ21NLTRNNkpWTVdteVlyZnlyZWh0d18tTTJaNjBfanhIQjNCajRaSzJJMDY5Q2Y3SmNKdHpMRUlLSkxtODVNQ29lb0RRWTU4LWVOQXJibTdnNkhuRl9NTk5MWDVBVU1DWFljTllwN0N0RXdCVXNFb3ZoTVFsWUE0NGp5MmxJMWFUYmlmSFZ3ZEdTTnVCdlZVcUNtZzl1bWRSUW4tLXBHS1RCelp5b002eGRxZTNvRGN3cDh1cG1qbjVEbUlEd1dzZ2Eyb2s4M3lxeV96OW9yV1FobmE3TlNQZ2FBNFVrTnp2UjRyZ1RIXzNhcTgwMFFqY0w5dC1aY1VRSQ": 1794417939343
+    "news:CBMihAJBVV95cUxONTlEZ21NLTRNNkpWTVdteVlyZnlyZWh0d18tTTJaNjBfanhIQjNCajRaSzJJMDY5Q2Y3SmNKdHpMRUlLSkxtODVNQ29lb0RRWTU4LWVOQXJibTdnNkhuRl9NTk5MWDVBVU1DWFljTllwN0N0RXdCVXNFb3ZoTVFsWUE0NGp5MmxJMWFUYmlmSFZ3ZEdTTnVCdlZVcUNtZzl1bWRSUW4tLXBHS1RCelp5b002eGRxZTNvRGN3cDh1cG1qbjVEbUlEd1dzZ2Eyb2s4M3lxeV96OW9yV1FobmE3TlNQZ2FBNFVrTnp2UjRyZ1RIXzNhcTgwMFFqY0w5dC1aY1VRSdIBhAJBVV95cUxONTlEZ21NLTRNNkpWTVdteVlyZnlyZWh0d18tTTJaNjBfanhIQjNCajRaSzJJMDY5Q2Y3SmNKdHpMRUlLSkxtODVNQ29lb0RRWTU4LWVOQXJibTdnNkhuRl9NTk5MWDVBVU1DWFljTllwN0N0RXdCVXNFb3ZoTVFsWUE0NGp5MmxJMWFUYmlmSFZ3ZEdTTnVCdlZVcUNtZzl1bWRSUW4tLXBHS1RCelp5b002eGRxZTNvRGN3cDh1cG1qbjVEbUlEd1dzZ2Eyb2s4M3lxeV96OW9yV1FobmE3TlNQZ2FBNFVrTnp2UjRyZ1RIXzNhcTgwMFFqY0w5dC1aY1VRSQ": 1794417939343,
+    "threads:DflZ8WXE4SA": 1794418245819,
+    "threads:DeYEelKE5TM": 1794418245819,
+    "threads:DfnBWWHJdLB": 1794418245819,
+    "threads:DfnBUlOleEg": 1794418245819,
+    "threads:DfnBR4VCZu_": 1794418245819,
+    "threads:DfnA_USFKg4": 1794418245819,
+    "threads:DfnAkuXE2w2": 1794418245819,
+    "threads:DfnAiT6G6FK": 1794418245819,
+    "threads:Dfm_6S5G0yU": 1794418245819,
+    "threads:Dfm_37zmFLu": 1794418245819,
+    "threads:Dfm_gDulRcU": 1794418245819,
+    "threads:DflX3XTmSQo": 1794418245819,
+    "news:CBMivAFBVV95cUxPSG43Q01hNFVEUXJSWGxyOG5oODNmcEVFRGNQWTdDZ0NKdWgxZk5mUi1fMml0eTJZU1JZUndtX0Jnd1huUHNCdWJCelFGNy1KQkxNd3YySE1yandrSDFoUlcxLWNGeVE5anBNazZlSlN4YW5zTjVvUldKRE9VODhnNHJkbVFRRmtTMU01eS1yM083SWlER1ZVaEpsSGVyN0FsZ1UwMC16VlhFN2JzZVdFeU5QQTlSeFUtUTVoVQ": 1794418245819,
+    "news:CBMi_gFBVV95cUxNTUY3ajlJeVBidUs1TDNDM3RXNjlNWDZsSEZKc1hreXpPUkZEa2RiV2JXdWZqOURraHgtbWZBLXNNRWVuM1ZQYmtMRFVkeXpzSF9YbmpncFdXVnNpcVZqX1JBS0FQU1Y3T2xBTmFuUVlvaXRQS09QUXNacjh0cTlWWXNJRnJtLXN6Yl9iNDJEZmV4RUhDLWUwLVlTNmgza0hHbkNZb29ReFFLTEpPQ3lPMGlEU1ZTWV8yV0lneDVYbUJwMzROSXN4WndXQjJFTnJZR2o4bmkxemZuOHJmcG1XMkVINTBzRlV3SVh1ZHQxOTg3OGxudTA4cmJlbFNTQdIBgwJBVV95cUxQRjhVWVlaMTdtQ2lVTUg4RnFRQ3ZmcXo2dGpSR19nZFFzbnM2aWZpU2tZbDhMRGZuMVRGT29pU2tOV2xRUUFqYjJ5VFZrbkhENEp2VkVLVE5wRzRUZmhvNmJ3X2VlZ05adW9zck1CTWdjVVk1bFZvNnBDcmZ3NDcxYnZBUlZXXzlXalRucmRLeW45WHc4MkRPWnl5Y2J3MnByNm1BWWlfT19yU05reS03cU9RWXJUOE51THd2WEdDM3JaOXlqZm1EOUNSaGhtU2ZhOWEtSHlPWmlKLW1Ld09yVGZYWkRVeVIxdzVwd3c4MWhXN1hOV0xRN0Rkc0tqaDRvLWtz": 1794418245819
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "malang-post.com",
-      "x": "Sengketa Lahan Berlarut-larut, Warga Blokade Jalan Tembus Songgokerto-Sumberejo Kota Batu - malang-post.com",
-      "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0h3QjRpUWljQ3dlNk5XYndOWE14cGR6Q2tURy1HcldQUkE3eFhnWndvYzhySXFOeXd4enM3cV9sbVQwdVF3eGhtNks5SXhETmFZXzFFanZBM1d4SUNEdFhrS09YMkJRYjJfSHRQY05ONDloZEl5ODVHTGhPTXh4bUdqdTJDVEdGZFR0V2U0eV90eWoyU0trVkFDenRfM2RpYTFvZnFGdkxWYWRPazNQUFhFZ2JhVkxyQnJfV2VDU0dkdw?oc=5",
-      "d": 1794389390000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "ORI: Berhasilnya jaminan produk halal tak hanya diukur dari sertifikat - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFRxc0x1SGg1RTViM2xXRlhkLThpbGNsZ3NmbE5WakE0ZGtKLXJGaVNyVUFMak1mQTlGdm9tS3FRRHhqUnVXZTNRLUI0TmV0c09FWXM2ZGtMc1J1N0lfSjRXWUl4dkFYU3RWaVRXU2tCNjBNYkZEQVFpZlY1cGtvTllaM3dIRkY1bHdoSngxV3JkRVdwaGZnLXBwek96ZUtnSzVpOTlUbG1LeGVOdTFJeXFqVdIBswFBVV95cUxOeFRxc0x1SGg1RTViM2xXRlhkLThpbGNsZ3NmbE5WakE0ZGtKLXJGaVNyVUFMak1mQTlGdm9tS3FRRHhqUnVXZTNRLUI0TmV0c09FWXM2ZGtMc1J1N0lfSjRXWUl4dkFYU3RWaVRXU2tCNjBNYkZEQVFpZlY1cGtvTllaM3dIRkY1bHdoSngxV3JkRVdwaGZnLXBwek96ZUtnSzVpOTlUbG1LeGVOdTFJeXFqVQ?oc=5",
-      "d": 1794398628000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "RCTI+",
-      "x": "Perindo Jabar Perkuat UMKM, Fasilitasi Legalitas Gratis hingga Bentuk Jaringan Pembinaan - RCTI+",
-      "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHZ3NHJVVndDQjBUaXJmSmlmcHVmWlVqZ0JGV0VNWElKZmFLQURsSTVZSWxneTRGYUlzREhfM2owSHlrVnVBMUxUblNUTFFhZnEyN2wtT3Q5YnN6enNvdE9CYlB6WVIyQm8xakJNSEdELWdxb3NSQjVhSEVQaURJQnI2YnpiczFFcVVkNVhrOU9xbi1QRFFrc01RaEpMbzlaYmt6alVnMDY1UUtWUzBZY3BCZENvV3EzaTR5MmVQXzlnZTlib2s5MWQ1Yll3UTctOHg0WkRPMlQ?oc=5",
-      "d": 1794375915000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -26944,10 +26918,40 @@
       "d": 1794355200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
+      "u": "https://www.threads.com/@erykka_ystr/post/DflX3XTmSQo",
+      "d": 1794362901000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "sawitsetara.co",
+      "x": "Jangan Tunggu Pendaftaran Dibuka, Persiapkan Dokumen Beasiswa SDM Sawit 2027 dari Sekarang - sawitsetara.co",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSG43Q01hNFVEUXJSWGxyOG5oODNmcEVFRGNQWTdDZ0NKdWgxZk5mUi1fMml0eTJZU1JZUndtX0Jnd1huUHNCdWJCelFGNy1KQkxNd3YySE1yandrSDFoUlcxLWNGeVE5anBNazZlSlN4YW5zTjVvUldKRE9VODhnNHJkbVFRRmtTMU01eS1yM083SWlER1ZVaEpsSGVyN0FsZ1UwMC16VlhFN2JzZVdFeU5QQTlSeFUtUTVoVQ?oc=5",
+      "d": 1794367828000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Info dari Kemendes PDT, Ada Beasiswa Pemuda Bangun Desa Bangun Indonesia ke Jepang, Simak Syarat dan Link Pendaftaran di Sini - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTUY3ajlJeVBidUs1TDNDM3RXNjlNWDZsSEZKc1hreXpPUkZEa2RiV2JXdWZqOURraHgtbWZBLXNNRWVuM1ZQYmtMRFVkeXpzSF9YbmpncFdXVnNpcVZqX1JBS0FQU1Y3T2xBTmFuUVlvaXRQS09QUXNacjh0cTlWWXNJRnJtLXN6Yl9iNDJEZmV4RUhDLWUwLVlTNmgza0hHbkNZb29ReFFLTEpPQ3lPMGlEU1ZTWV8yV0lneDVYbUJwMzROSXN4WndXQjJFTnJZR2o4bmkxemZuOHJmcG1XMkVINTBzRlV3SVh1ZHQxOTg3OGxudTA4cmJlbFNTQdIBgwJBVV95cUxQRjhVWVlaMTdtQ2lVTUg4RnFRQ3ZmcXo2dGpSR19nZFFzbnM2aWZpU2tZbDhMRGZuMVRGT29pU2tOV2xRUUFqYjJ5VFZrbkhENEp2VkVLVE5wRzRUZmhvNmJ3X2VlZ05adW9zck1CTWdjVVk1bFZvNnBDcmZ3NDcxYnZBUlZXXzlXalRucmRLeW45WHc4MkRPWnl5Y2J3MnByNm1BWWlfT19yU05reS03cU9RWXJUOE51THd2WEdDM3JaOXlqZm1EOUNSaGhtU2ZhOWEtSHlPWmlKLW1Ld09yVGZYWkRVeVIxdzVwd3c4MWhXN1hOV0xRN0Rkc0tqaDRvLWtz?oc=5",
+      "d": 1794408137000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
