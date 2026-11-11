@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBJNkOkf3X": 1793147479416,
-    "threads:DfBJJuHDnAx": 1793147479416,
-    "threads:DfBIzYODYEs": 1793147479416,
-    "threads:DfBIky8gXhk": 1793147479416,
-    "threads:DfBISu8EkWq": 1793147479416,
-    "threads:DfBIZhFk81Q": 1793147479416,
-    "threads:DfBIfjfk3iD": 1793147479416,
-    "threads:Dd8vlLLD-Gp": 1793147479416,
     "threads:DfBJ9rcE9rg": 1793147745795,
     "threads:DfBJJ4njxU-": 1793147745795,
     "threads:DfBI8aMDz9z": 1793147745795,
@@ -27126,19 +27118,10 @@
     "threads:DcKsYjcE1xI": 1794356731574,
     "threads:DflK2mTkrZe": 1794356731574,
     "threads:DeyCQFAEn-X": 1794356731574,
-    "threads:DfNF8ABmT8V": 1794356731574
+    "threads:DfNF8ABmT8V": 1794356731574,
+    "threads:DflLy99jyX1": 1794357048722
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Kompas.com",
-      "x": "Liputan Khusus Lahan Makam di Surabaya Kian Menipis - Kompas.com",
-      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0k4VTFNdGJtM1BRZUhIWHpJanN3dUFvZFdjMG5jNnBhbzUzVllDTThPdi02X0szdUp0ZjJGUXVFYkx5WWxONndDaVlGREs5M3BEZ25HbHR4N1hKUVozZnRfdWJWazZfNXlvbERaZENiekNQSFNkWlJTdmpqb3R3bUVpU0tFdDVQSDJQXw?oc=5",
-      "d": 1794247465000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28628,10 +28611,20 @@
       "d": 1794356079000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@nurulandayani5",
+      "x": "Kak tahun lalu suami ku dapet bsu, padahal dapet BPNT juga kok. Tapi tahun sekarang pas cek bsu udah gak termasuk penerima, sedangkan temennya yang ada dapet bansos juga masa pener",
+      "u": "https://www.threads.com/@nurulandayani5/post/DflLy99jyX1",
+      "d": 1794356573000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
