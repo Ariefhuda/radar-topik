@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDZkhsgcFd": 1793223058361,
-    "threads:DfDZ2VAH39Y": 1793223058361,
-    "threads:DfDY1l4FHrq": 1793223058361,
-    "threads:DfClB1bktGU": 1793223058361,
-    "threads:DfClHBSEn1t": 1793223058361,
     "threads:DfDYIm0CQX_": 1793223338493,
     "threads:DfDZy9KEzDY": 1793223338493,
     "threads:De8hVOKkwD9": 1793223338493,
@@ -25538,29 +25533,12 @@
     "threads:DfBHfEhEx_b": 1794432057000,
     "threads:Dfnb-TLj0DG": 1794432057000,
     "threads:DfnbtR6iHvN": 1794432057000,
-    "threads:Dfnbho4k8pl": 1794432345714
+    "threads:Dfnbho4k8pl": 1794432345714,
+    "threads:Dfli0ikFBZi": 1794432658936,
+    "threads:DfncUWoEiTx": 1794432658936,
+    "news:CBMic0FVX3lxTE55dGItVk5pRnFWeUNCdUVkallxa0ZiOHE1TVJBRURydFNYS1RhUV8xbk1xN3dnRU5mTGY5VDBCSUVFc0syaXNpakh6YzR5ekhBZ0JyQ3NIdDlrX093ZjFiMFAxX1NpU3RtSXBwRTlkOWV4akE": 1794432658936
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Palpos",
-      "x": "Bansos PKH 2026 Segera Cair, Buruan Cek Penerima Bantuan Untuk Rezeki Akhir Tahun - palpos.disway.id - Palpos",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3BoWFhDQ2VfNmJYWWh4NkwyNGwtV0dnQWRZUWpuM2pHbEJ5aml4c0ZDcHctdElpQmdHVk1GdHE2bTZmMGR6SDVVVkQySVlmSG1TWVRQcHRHLUNxWnctUkdoLUN1cWU5OElZaVNMWWNWX0IwM2t2cGF6RmZSVlRTdkpqWmdwN3c0OVd5UlRMck5KNkFiS0JQS05pWjU1ZFJremdxUkw2eW5iZ2kwNktIMDJUMmFUdUXSAbcBQVVfeXFMTUtwaFhYQ0NlXzZiWFloeDZMMjRsLVdHZ0FkWVFqbjNqR2xCeWppeHNGQ3B3LXRJaUJnR1ZNRnRxNm02ZjBkekg1VVZEMklZZkhtU1lUUHB0Ry1DcVp3LVJHaC1DdXFlOThJWWlTTFljVl9CMDNrdnBhekZmUlZUU3ZKalpncDd3NDlXeVJUTHJOSjZBYktCUEtOaVo1NWRSa3pncVJMNnluYmdpMDZLSDAyVDJhVHVF?oc=5",
-      "d": 1794388500000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Haliyora.id",
-      "x": "Pemkab Morotai Cairkan Rp 2,7 Miliar untuk ADD dan Bansos Janda-Lansia - Haliyora.id",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORzUyVjdXeUFzcEpsbVZOVHFYcTQ5Q000WFNXMVFYdjRYOUgxRU1CdHZ5SDNUcERVVVcycFBuWFpLR1pxSnpWWHI1T0ZOVDJZVlJZTWZZbXFVcF9hNVltZkdXN25iaTM1UWJ3WE8xTkJqYlRINGxWLWR5ZGozRDRyQ2ZmNDhTOHFFRjctbXpiRVhuQ0tqcVh2UEx4c04wdnZ0TElB?oc=5",
-      "d": 1794400763000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27040,10 +27018,30 @@
       "d": 1794431929000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bukansatusatunya__00",
+      "x": "Udah cape urus per desilan, lwt perlinsos blm ada 1bulan sih msh brhrp bs, ini lwt apk cek bansos udah dr 1th yg lalu, udh di survey orang dinsos juga, pdhl rumah ga kramik, cmn se",
+      "u": "https://www.threads.com/@bukansatusatunya__00/post/Dfli0ikFBZi",
+      "d": 1794368645000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Suara Independent News",
+      "x": "Cara Cek Desil Bansos November 2026 Lewat HP dengan NIK KTP - Suara Independent News",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55dGItVk5pRnFWeUNCdUVkallxa0ZiOHE1TVJBRURydFNYS1RhUV8xbk1xN3dnRU5mTGY5VDBCSUVFc0syaXNpakh6YzR5ekhBZ0JyQ3NIdDlrX093ZjFiMFAxX1NpU3RtSXBwRTlkOWV4akE?oc=5",
+      "d": 1794432420000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
