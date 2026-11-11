@@ -25479,19 +25479,12 @@
     "threads:DbidvkfD64e": 1794420937422,
     "threads:Db5YB33HTGb": 1794420937422,
     "threads:DGkkvghSDit": 1794420937422,
-    "news:CBMi0gFBVV95cUxQczFfa3dXaU5rSy1tVHppWC0zV0k0cVBDTWhraFlpQUVmbXZUQ2lUdml4cGJrWXQ4YWZPWW1vdGgxRk81OXBoYTBrOUZCQ0N5dFg0V3l3YzBuNTNkdDJqYjROSWRPcmpKSWU1Z3UzUzdzWFFmLUNnWUJVejkteG1UTzQ5c0JKeUJfb3Q4MHgxbUNHSG1lbzRtekhrY3EwaGRvVWQ3b3REeGwxb2NHMDl4RGJZeFVRU0tTNF9VMXBxQVhQY21OZE56RElqQ05MSi1pS3c": 1794420937422
+    "news:CBMi0gFBVV95cUxQczFfa3dXaU5rSy1tVHppWC0zV0k0cVBDTWhraFlpQUVmbXZUQ2lUdml4cGJrWXQ4YWZPWW1vdGgxRk81OXBoYTBrOUZCQ0N5dFg0V3l3YzBuNTNkdDJqYjROSWRPcmpKSWU1Z3UzUzdzWFFmLUNnWUJVejkteG1UTzQ5c0JKeUJfb3Q4MHgxbUNHSG1lbzRtekhrY3EwaGRvVWQ3b3REeGwxb2NHMDl4RGJZeFVRU0tTNF9VMXBxQVhQY21OZE56RElqQ05MSi1pS3c": 1794420937422,
+    "threads:DdyPnOBkjno": 1794421237669,
+    "threads:DfnGxigiROi": 1794421237669,
+    "threads:DflY7qcmZd0": 1794421237669
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Suara Independent News",
-      "x": "Pemerintah Siapkan Pembukaan Beasiswa Garuda 2027 - Suara Independent News",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kWWNZVEU4aThseUVZVEl6Q0FWOU9RSEEtQTJZUXhHeHdhVnYxb1VYTF9xVE5ZeThyUTR4eGJBNlJNNWNLb0pGY0NNSFZ5cmcyZFN1RGlDc0dNRGVPR1FMbk1LM041LVhpYU1wUFpKbGhMYXNN?oc=5",
-      "d": 1794411516000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -26981,10 +26974,20 @@
       "d": 1794407700000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Betul, itu jadi polemik besar tahun ini. Sejak Kemensos pakai DTSEN, batas bansos PKH/BPNT diperketat cuma untuk desil 1-4, jadi yang loncat ke desil 5 ke atas auto kecoret — BPS s",
+      "u": "https://www.threads.com/@meta.ai/post/DfnGxigiROi",
+      "d": 1794421049000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
