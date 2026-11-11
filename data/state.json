@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfC9y5oD8RW": 1793208939313,
     "threads:DfC-YFTmXtC": 1793209247666,
     "news:CBMipwFBVV95cUxQNy00dk4yLU0ydkpwY3FySU81SVNLR1dzWlVIeXl0ZHpQeUs4VThhc3VLYV9QVjVrSzhDd29ZSDNCbmdmV1VwWDlINGs5bUNOODdWSlhDMVU0ODBPZ3YyVkFDQ09rbFpHUld2NGF6MzhULXVzRzFxNGp1NHI0dENZV1IxSTdvTzBSeU5YN0EwVS1MZWctVldsYWdVUzdsVXVIVEh0dkxsVdIBqgFBVV95cUxOeHM5LVBlM3MyYXZKcVllemF1am9YQ1lwYjNhdDRpVWFON0F4azdnTUFhQ2VreDZ0Q0dPc2dxMlBsUXFpd293NkhtWGhQZzZJb3JEQ29Dd25VVWRZUm1kZ1BuMkppdkRDWWtSZEhld0VlWS1kRGNPZ251Mk1hdWNETzhhSUFDTWY3LVZJbHFGNGJ6NUJjamVDTTZHV2lkV2xLSkhQc0pTNXRxdw": 1793209247666,
     "threads:DfC-e62jfct": 1793209546975,
@@ -25446,29 +25445,14 @@
     "threads:Dfm_gDulRcU": 1794418245819,
     "threads:DflX3XTmSQo": 1794418245819,
     "news:CBMivAFBVV95cUxPSG43Q01hNFVEUXJSWGxyOG5oODNmcEVFRGNQWTdDZ0NKdWgxZk5mUi1fMml0eTJZU1JZUndtX0Jnd1huUHNCdWJCelFGNy1KQkxNd3YySE1yandrSDFoUlcxLWNGeVE5anBNazZlSlN4YW5zTjVvUldKRE9VODhnNHJkbVFRRmtTMU01eS1yM083SWlER1ZVaEpsSGVyN0FsZ1UwMC16VlhFN2JzZVdFeU5QQTlSeFUtUTVoVQ": 1794418245819,
-    "news:CBMi_gFBVV95cUxNTUY3ajlJeVBidUs1TDNDM3RXNjlNWDZsSEZKc1hreXpPUkZEa2RiV2JXdWZqOURraHgtbWZBLXNNRWVuM1ZQYmtMRFVkeXpzSF9YbmpncFdXVnNpcVZqX1JBS0FQU1Y3T2xBTmFuUVlvaXRQS09QUXNacjh0cTlWWXNJRnJtLXN6Yl9iNDJEZmV4RUhDLWUwLVlTNmgza0hHbkNZb29ReFFLTEpPQ3lPMGlEU1ZTWV8yV0lneDVYbUJwMzROSXN4WndXQjJFTnJZR2o4bmkxemZuOHJmcG1XMkVINTBzRlV3SVh1ZHQxOTg3OGxudTA4cmJlbFNTQdIBgwJBVV95cUxQRjhVWVlaMTdtQ2lVTUg4RnFRQ3ZmcXo2dGpSR19nZFFzbnM2aWZpU2tZbDhMRGZuMVRGT29pU2tOV2xRUUFqYjJ5VFZrbkhENEp2VkVLVE5wRzRUZmhvNmJ3X2VlZ05adW9zck1CTWdjVVk1bFZvNnBDcmZ3NDcxYnZBUlZXXzlXalRucmRLeW45WHc4MkRPWnl5Y2J3MnByNm1BWWlfT19yU05reS03cU9RWXJUOE51THd2WEdDM3JaOXlqZm1EOUNSaGhtU2ZhOWEtSHlPWmlKLW1Ld09yVGZYWkRVeVIxdzVwd3c4MWhXN1hOV0xRN0Rkc0tqaDRvLWtz": 1794418245819
+    "news:CBMi_gFBVV95cUxNTUY3ajlJeVBidUs1TDNDM3RXNjlNWDZsSEZKc1hreXpPUkZEa2RiV2JXdWZqOURraHgtbWZBLXNNRWVuM1ZQYmtMRFVkeXpzSF9YbmpncFdXVnNpcVZqX1JBS0FQU1Y3T2xBTmFuUVlvaXRQS09QUXNacjh0cTlWWXNJRnJtLXN6Yl9iNDJEZmV4RUhDLWUwLVlTNmgza0hHbkNZb29ReFFLTEpPQ3lPMGlEU1ZTWV8yV0lneDVYbUJwMzROSXN4WndXQjJFTnJZR2o4bmkxemZuOHJmcG1XMkVINTBzRlV3SVh1ZHQxOTg3OGxudTA4cmJlbFNTQdIBgwJBVV95cUxQRjhVWVlaMTdtQ2lVTUg4RnFRQ3ZmcXo2dGpSR19nZFFzbnM2aWZpU2tZbDhMRGZuMVRGT29pU2tOV2xRUUFqYjJ5VFZrbkhENEp2VkVLVE5wRzRUZmhvNmJ3X2VlZ05adW9zck1CTWdjVVk1bFZvNnBDcmZ3NDcxYnZBUlZXXzlXalRucmRLeW45WHc4MkRPWnl5Y2J3MnByNm1BWWlfT19yU05reS03cU9RWXJUOE51THd2WEdDM3JaOXlqZm1EOUNSaGhtU2ZhOWEtSHlPWmlKLW1Ld09yVGZYWkRVeVIxdzVwd3c4MWhXN1hOV0xRN0Rkc0tqaDRvLWtz": 1794418245819,
+    "threads:DfnBaUZE3jd": 1794418551169,
+    "threads:DaoqkWLHTqx": 1794418551169,
+    "news:CBMihgJBVV95cUxOb2NfclBZeExYd2s5SXFfajJiX1ljamhzM2xoQkNnT015SXBaTklqWENNOFNfMk9nYm03M01GX1o4a3hSNHFmMVM5bHVOOXVjMTdSXzV1SGFkc1ZuSk5ZekhITE9uQlQxaUpBalUwTnh4c1dkZk5VOURyc0JDMmRaWWVMeVFpbjI4d2djRGxxVnlEUXBKQ0lqb0dHZHNJRWVPMjZCU2VhZ3dFUC1La0kyUmI1MGttcWh2YW4zNlNTc1h5VU9ENTBrYllaUmdLUGMzdWdlNG9qVzJYSEpFSzNQMGNMMHdhNXJlUHJWOTY2RVQyX0VpdGFkeVNuZGVrRFZaeFNlZDJ30gH_AUFVX3lxTE9ObXVWR2l6Ry1waHRHYUx2T2JMT1BCRGJvYkNGbURYVHdHTUhMU29jZ0VYckp0NHc3Q00tbTBuem83ZTZIZENVSE9wU1FDOXFFeThobk9CUkVyRjUxMWJtNmo4ekc2d2x6cjNZMWxRS1NOaDRCc1BBcU54TzlMR1MxQVozS3pKUzBTSV8xUDNucDg5bFR6X1UwSEc0Q29zc2JfdHRGZTFuNlRod19IM01VcUl1Y3VnRGVhdUJlTEI3dDg2SjhjaGJheFRPY1pHdEt6NGliaER0RHdBU3gzSXNLZmNicXJieDJqMjRrQjhMQWh5ZWw4Q0tQU3pLTTJSQQ": 1794418551169,
+    "news:CBMikAFBVV95cUxOXzlLWkJZQWpXWUF6cXFrNHdTRTdiU2E3bDZpbmhwUlRMQ3ZrTnRwWWdnWkRiWlp0U3dlbFdNU0Zwdk44Y2syYWZhVTQtb1NiTEVoV2N1dXZrbFZTSk1pdEtMR2RsSW5xRmdzRFVkclJ3ZTBRUThWQkYySXROZ3lUbF9SZEJvYVQwUEFvUFFGUW8": 1794418551169,
+    "news:CBMinwFBVV95cUxOTVpUZHlwalVWLUpBc0hDQnRrY29Ka204eEdZR2I2d2M4eUR4X2MxRXdKSDVDUUdpMVQzYURNYXM1el9IbC1kWmRGV0lIcXExaFRuaWhJVXdoZzJJUFIxcHlDWEpBVTRqZUZCeWpwakJKOWRPNGIyZ3hIRTBwRGhMZ2didEkwLUpZcjNfMy1hRE5NTUc4V0x1VS05V2NlR3fSAaQBQVVfeXFMTU8yOHg3SzF5V1pfLXJDdjlhYjRoYkswa3hZSDVFS3EzS2w0UFFiNmJtTG9VV2NpRmJDUW5Gby1VeV84SHpybXNtZVdmQ2dUN3Y0T2tZeFI0eGxwR3Bxbl9RbjRrWVlqN2FmVmtrdkZJbkg4MkZnNmJhdGxZcWRUeWpPclluS2M4QjJ2MndJRlhObG9FX2dJYk9GMlBZMmdxSmNsWHU": 1794418551169
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Klik Kaltim",
-      "x": "PT WKP Buka Loker untuk 77 Orang; Disnaker Bontang Jamin Seleksi Transparan dan Gratis - Klik Kaltim",
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnYwbENvaXBub2VhTWxZNUhKZHFCRUY3aGY3NTJCU25TNlIxQkxKWFBuRm44cDBVSmIzX3pCaDBHeDJFQUJkMTh5aVdHN0o2Z1A1enVMV1FHS0NWYkFWcFBUckdxWE5vRmV6VkpFdWk4NVpuNVZud0dxLTFfVzJJMUMxYzFWT1lXWHhTQUFIb2VZUHI0dGJjeTZNNWNJZEFIeWZRc0VtVHJoSkoyZzVOREhCdkNNbmZPRVlCaEYtQ2VtY1luRW8xYmlhaXJEQQ?oc=5",
-      "d": 1794386886000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Radar Banjarmasin",
-      "x": "Ribuan IKM Balangan Belum Punya Hak Merek, Disperindag Kebut Fasilitasi HKI Gratis - Radar Banjarmasin",
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdm1PZzdlMThhY3FkUWh5dkFoeFp4Tl9iZVZLejQ4ejUzUGpNbDlPbVI2Q2o0RG5JLU50a0xGODFRb2E3cDFSTUxOSGRPVHNGZXIyX3lMTGhCTVFMbFVQNUdoVDg4Q2VhU1BZOW5HYVI2Z3AwTDBmV2syakZuU0U0cUt1NGVzS3huUnI3T0NPQWx4T1FwQTRidnlwM0lwZzNxMXVzLXlOd3kwTHhieERHcnJoZTBMdU5TN1hsNlk5WlZ4R3hFUmdWUnB4ak5Mdi1odGfSAdcBQVVfeXFMUEFzM2FFNGl4d0J5RlR0V1BkczMtdF83RXU4d3FZc0s0YXpaODNSWFZOMnJxbzFzTk5SZjJoUHZZblJDcnBNLWFPNE1jZGZPMWx5OGdGaUp3WlQ2VWhYX0d0V3FRUlhhV2ZkWFhVUzU0RmlPQ3A4TzNVYzl0aTdpMXRHNmE3MmlWbkRXemFOc2p6SWZnVzlsV191cTJXRDYwODBERDUwYmRJakgtd2p1Wjk1a1FZMEIxZS1TZXlmRXJ4WTdGanNtcTZ0WWZtNzMxeVhsY0ROdzg?oc=5",
-      "d": 1794382874000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -26948,10 +26932,30 @@
       "d": 1794408137000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bernard_dnv",
+      "x": "Masalahnya kebanyakan masyarakat itu ngga pernah belajar kak.pokok polanya dari dulu sampek sekarang masih sama, serangan fajar lah bansos cair lah dengan embel embel duit pasti me",
+      "u": "https://www.threads.com/@bernard_dnv/post/DfnBaUZE3jd",
+      "d": 1794418238000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Triaspolitika.id",
+      "x": "Pemerintah Muna Barat Buka Beasiswa Prestasi bagi Mahasiswa S1 hingga S3 - Triaspolitika.id",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVpUZHlwalVWLUpBc0hDQnRrY29Ka204eEdZR2I2d2M4eUR4X2MxRXdKSDVDUUdpMVQzYURNYXM1el9IbC1kWmRGV0lIcXExaFRuaWhJVXdoZzJJUFIxcHlDWEpBVTRqZUZCeWpwakJKOWRPNGIyZ3hIRTBwRGhMZ2didEkwLUpZcjNfMy1hRE5NTUc4V0x1VS05V2NlR3fSAaQBQVVfeXFMTU8yOHg3SzF5V1pfLXJDdjlhYjRoYkswa3hZSDVFS3EzS2w0UFFiNmJtTG9VV2NpRmJDUW5Gby1VeV84SHpybXNtZVdmQ2dUN3Y0T2tZeFI0eGxwR3Bxbl9RbjRrWVlqN2FmVmtrdkZJbkg4MkZnNmJhdGxZcWRUeWpPclluS2M4QjJ2MndJRlhObG9FX2dJYk9GMlBZMmdxSmNsWHU?oc=5",
+      "d": 1794398760000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
