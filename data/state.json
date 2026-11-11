@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBHfEhEx_b": 1793147142315,
-    "threads:DfBJBYWn3tc": 1793147142315,
-    "threads:DfBJKgoj6mH": 1793147142315,
-    "threads:DfBI-RrCfaF": 1793147142315,
-    "threads:DfAuzVhiGAQ": 1793147142315,
     "threads:DfBJNkOkf3X": 1793147479416,
     "threads:DfBJJuHDnAx": 1793147479416,
     "threads:DfBIzYODYEs": 1793147479416,
@@ -27125,19 +27120,15 @@
     "threads:DflLibeD6l9": 1794356443716,
     "threads:DflLPOWmNuO": 1794356443716,
     "threads:DflLBPtGSWj": 1794356443716,
-    "news:CBMi8wFBVV95cUxOZTl2bG5kbmRxTjFTbV82MkpMdG9ud3hFLUVra2JNUDFRWjBOelhzMHFqV0sySUJuWHR4ZEF0OWt0S3RNWkhxdEc5UUpidktzMDhjMV9ZN0l5ZDFQQTRJRS05XzE2WTdjZXRLMHlTTy1XaURGc1VUOUZNcXVtQ1FJMFRidTY0Y3F0NTNGRklFVExJMHdiLVRUWEFEQ19DUkFQV0ZNS3BOUTdGalZPUUNrVUt1b1JBQkhxd0JDemZESDdHbkszRkpMcUl4REpvWG1Ra01JN1htenpfbmZSY1B2MVA0N3JubmxxTjlQSXNJR09uSlE": 1794356443716
+    "news:CBMi8wFBVV95cUxOZTl2bG5kbmRxTjFTbV82MkpMdG9ud3hFLUVra2JNUDFRWjBOelhzMHFqV0sySUJuWHR4ZEF0OWt0S3RNWkhxdEc5UUpidktzMDhjMV9ZN0l5ZDFQQTRJRS05XzE2WTdjZXRLMHlTTy1XaURGc1VUOUZNcXVtQ1FJMFRidTY0Y3F0NTNGRklFVExJMHdiLVRUWEFEQ19DUkFQV0ZNS3BOUTdGalZPUUNrVUt1b1JBQkhxd0JDemZESDdHbkszRkpMcUl4REpvWG1Ra01JN1htenpfbmZSY1B2MVA0N3JubmxxTjlQSXNJR09uSlE": 1794356443716,
+    "threads:DflLvzekTM8": 1794356731574,
+    "threads:DflLX7mDqka": 1794356731574,
+    "threads:DcKsYjcE1xI": 1794356731574,
+    "threads:DflK2mTkrZe": 1794356731574,
+    "threads:DeyCQFAEn-X": 1794356731574,
+    "threads:DfNF8ABmT8V": 1794356731574
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ridho.alamanda",
-      "x": "Halo ka. Bisa les dengan saya, lulusan pendidikan bahasa Prancis dengan pelatihan di Belgia dan Prancis juga. Pengalaman 10 tahun mengajar spesialisasinya persiapan kuliah ke Pranc",
-      "u": "https://www.threads.com/@ridho.alamanda/post/DfkK4lcHRqB",
-      "d": 1794322541000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -28627,10 +28618,20 @@
       "d": 1794351600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@shodimis",
+      "x": "https://vismaya.id/pelatihan-bisnis-gratis/?ref=smgtmisbah",
+      "u": "https://www.threads.com/@shodimis/post/DflK2mTkrZe",
+      "d": 1794356079000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
