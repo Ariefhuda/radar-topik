@@ -60,20 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBHcN2H8q-": 1793146581407,
-    "threads:DfBHW2EEzPe": 1793146581407,
-    "threads:DfBHT3Xk4J6": 1793146581407,
-    "threads:DfBHo-OAP9-": 1793146581407,
-    "threads:DfBHnGYEegY": 1793146581407,
-    "threads:DfBHt8rjqEn": 1793146581407,
-    "threads:DfBHdYDFs12": 1793146581407,
-    "threads:DfBHMsJjWEt": 1793146581407,
-    "threads:DfBHJ1GkZD0": 1793146581407,
-    "threads:DfBG3XNkx10": 1793146581407,
-    "threads:DfBG2YulmVJ": 1793146581407,
-    "threads:De9elC_EjP9": 1793146581407,
-    "threads:DfA-j7TkmLl": 1793146581407,
-    "threads:DfBG2a8kwN4": 1793146581407,
     "threads:DeyL_z8iZOf": 1793146857289,
     "threads:DfBErY1k63G": 1793146857289,
     "threads:DdIlRG6EWth": 1793146857289,
@@ -27139,39 +27125,12 @@
     "news:CBMi4AFBVV95cUxQTU16NzBuWXUweXJmcTc5NXNyR3BTWm9PRjRVQ3lGYTg1SDRMaXZtU2hBMFhaOXA1ejRsbnJ3ZkVSMVRyWEV0MjlJdGMyWmNwUnc2dUFLd0hwTzY4OG5SdW1mWklUV2d5eDhiWktsTFRjRkFOOFNveHphX001OW96S0l5Q19yN21NQ1pvTDV5dUhDWE1pVHFFS0dVXzZDNkdBQjBJSGYzZ0ZpaUtNRG1jVlF0T21KalI4RWlMTW9oUnJPVVNDWFlZbEs2SFVhTF9Ya2ptMzA3OVJRaFdKNXBQV9IB5gFBVV95cUxQZEhvS0JZQ01ZQXlaZnowaGp2MWdVTlE1Zl96WUhfUGMzdDhoQmplRTRsZC1GRExKVnpVMkljQTZRcWYyak5pX082TTU0TVV0c29KZzc3Z1ZZOGlyamhZSUZzZXRWdGJ6QlZRYkJXQnl0NjVFUlNSb3RBOXZxaEprbmd2aTNtOTNPQkRPN0pNNlhXeFN2bkhQRzVBQm42Qi1mMXBnTGFWUDYyX1YtMl9TZk1zc3Z0ZzFjZmZESjBNT0JCcGRWZG1meWtnYVlrV0s4alpFZkh0T1dUZGdtZEpFZ0o5UkJ6Zw": 1794355847174,
     "news:CBMiZkFVX3lxTE1IT0dKNTl4dmZFWURHdzJaQlJtWXg2VU5JTThlZVJjSjZ6R0x0VWZPWERwWEdhQ1FxbDlyWHFvY2dqSFNyVjB2bGsyamc5R3hjT29tbUdYa2UtVXdMdHhQQzZRT3B3Zw": 1794355847174,
     "news:CBMi5wFBVV95cUxOM1dtcHdKNGo0bFJUV0ZibUx4VHFUTHVrTDdlUkQxcXVuaDB4WGZZNVNhWkhqV3lWcjFaa29YbnFTRjI3X01ublVOUkRhSm5qbnBiNlJPVnI1VXdiWGg4czNMMUNaOUM5bUJjV3VPN3cxcG1HV3dhakhRcmJvaWh3UGM1MkdpUlRYa3BzcjFPOGJaSTBNWkJ2Q3RHV2luWFZRY0Y2N0dCQ3loOTAtQXBQNVVZUDdJekUxNHkwZlB1Q0VwZEFwbnltSWxZSlNfd004ZWhab2x4Q0pDQUNhaTBpeVZpdzVOLW_SAewBQVVfeXFMT1Ywd212ZXJsS0QxNWQ1UV9kYkoyeTRkOTNsNF9MbnNXMl9TN0F1Y24xZU5FeF9IdG9UUmh0MHhENDZWTzVOT0syMUhaMm43eDg0Q1p5X0tlUFhkOHZYOTR1d1NaSXRLZk5EU0Y3bXlBYzhKY2gtNUItOHdrdjUtNlpoTF84bGdhVEJnYmRGMk1hM1h4eU1aMG1LVDJmTUt4VmY4b2w0MGxITjk3UjE5ajhqY0pvTWY5V2UybFFkV3VrS2RBand2Y1YtMW5PMm40VnFkMVJWVTVvLUpyZ2NvMWl4czdwRlhncXhGM00": 1794355847174,
-    "news:CBMi4wFBVV95cUxNaGZEMUFjYTRJZDFnSXllTlFySzhhUlZQbmJaUUg0ZEhESVlIV1lsSXJka09jdF9QNEJnTGNUTmtVbWdxd3gyX2d6TDk1RXc0X09JR2JrZmc4QmtYU2x4a1gxNHVWQnJpQVpDXzFBVENhU0t5b2N3bjd6S2lId1J0TncxU1VxNnZrc1V1SGo3UWI5UF9WQVN0VjBnSzltX1A2U2JPQ09WU0FIdTVIUnlSSG9CbDBwenZFYl9sSjl5NEJqOUpXRG9zOFFIemRHM1dlbjkta3hFc0hvazJ0WXFsdHZKVdIB3AFBVV95cUxQTGN5TW4tLXpndkhXQ0p5YWlwbkFtWHJiemMwN1J1U0FrZk11OVVFeFkxbEx0OG5PQnVLZUhpSGJ3RkFydnFZakhRdVdsWW53cnhvV3Q1SUdJR1puR2pKS2YzUVBqVm1uejdNaTAxWnlUcW9aWTlwX2cwYTFQSGtIb25WUWlQZW1MYW5LWmllWEp4SV9hX1NQTy1wUXZnNVFJeF93dWthUFBmVHNmSHZPcEk3RHNVLTZEeXdMM2RCNlAzMF9EOEp1ZzBjTzBsRmxYN1lMVFVqLVFyM0tl": 1794355847174
+    "news:CBMi4wFBVV95cUxNaGZEMUFjYTRJZDFnSXllTlFySzhhUlZQbmJaUUg0ZEhESVlIV1lsSXJka09jdF9QNEJnTGNUTmtVbWdxd3gyX2d6TDk1RXc0X09JR2JrZmc4QmtYU2x4a1gxNHVWQnJpQVpDXzFBVENhU0t5b2N3bjd6S2lId1J0TncxU1VxNnZrc1V1SGo3UWI5UF9WQVN0VjBnSzltX1A2U2JPQ09WU0FIdTVIUnlSSG9CbDBwenZFYl9sSjl5NEJqOUpXRG9zOFFIemRHM1dlbjkta3hFc0hvazJ0WXFsdHZKVdIB3AFBVV95cUxQTGN5TW4tLXpndkhXQ0p5YWlwbkFtWHJiemMwN1J1U0FrZk11OVVFeFkxbEx0OG5PQnVLZUhpSGJ3RkFydnFZakhRdVdsWW53cnhvV3Q1SUdJR1puR2pKS2YzUVBqVm1uejdNaTAxWnlUcW9aWTlwX2cwYTFQSGtIb25WUWlQZW1MYW5LWmllWEp4SV9hX1NQTy1wUXZnNVFJeF93dWthUFBmVHNmSHZPcEk3RHNVLTZEeXdMM2RCNlAzMF9EOEp1ZzBjTzBsRmxYN1lMVFVqLVFyM0tl": 1794355847174,
+    "threads:DflKFb6kwZq": 1794356141008,
+    "news:CBMi7AFBVV95cUxPVjB3bXZlcmxLRDE1ZDVRX2RiSjJ5NGQ5M2w0X0xuc1cyX1M3QXVjbjFlTkV4X0h0b1RSaHQweEQ0NlZPNU5PSzIxSFoybjd4ODRDWnlfS2VQWGQ4dlg5NHV3U1pJdEtmTkRTRjdteUFjOEpjaC01Qi04d2t2NS02WmhMXzhsZ2FUQmdiZEYyTWEzWHh5TVowbUtUMmZNS3hWZjhvbDQwbEhOOTdSMTlqOGpjSm9NZjlXZTJsUWRXdWtLZEFqd3ZjVi0xbk8ybjRWcWQxUlZVNW8tSnJnY28xaXhzN3BGWGdxeEYzTdIB7AFBVV95cUxPVjB3bXZlcmxLRDE1ZDVRX2RiSjJ5NGQ5M2w0X0xuc1cyX1M3QXVjbjFlTkV4X0h0b1RSaHQweEQ0NlZPNU5PSzIxSFoybjd4ODRDWnlfS2VQWGQ4dlg5NHV3U1pJdEtmTkRTRjdteUFjOEpjaC01Qi04d2t2NS02WmhMXzhsZ2FUQmdiZEYyTWEzWHh5TVowbUtUMmZNS3hWZjhvbDQwbEhOOTdSMTlqOGpjSm9NZjlXZTJsUWRXdWtLZEFqd3ZjVi0xbk8ybjRWcWQxUlZVNW8tSnJnY28xaXhzN3BGWGdxeEYzTQ": 1794356141008,
+    "news:CBMiiwJBVV95cUxPV0dFblFlQmJ3c1dmY2dxTjZuakVrbXRVUGhPT3pxaFRyNGNGRWNjX2lvdXZyY3RBcUZ1SHlmQWJMb1c0RkxYX1Y4T2lZSHd3WEVJanFmTGN0R0d3NWQ1aTRjTnh3WkZDaElDeUg5Zm9lS3Zuekh5S2p4NGlzN3RUU2UyVFRjeUNNYWZpZVJwRXY5UldkOFB3WEc1aW94SllTdFgtaFJHaFBncXNDWEJxMlZtY1p5M3dzVTRxTzFJQlhxZVJxTWVmTkZDN0EtVEg2bGVLRE5jc19EQUZ4aVFpRFF3X2dTR0s3bTdRemlrTmVGRTVZZmJaU1ZkYkdaMXJPQ1M1MGlDYnJqMzjSAYsCQVVfeXFMT1dHRW5RZUJid3NXZmNncU42bmpFa210VVBoT096cWhUcjRjRkVjY19pb3V2cmN0QXFGdUh5ZkFiTG9XNEZMWF9WOE9pWUh3d1hFSWpxZkxjdEdHdzVkNWk0Y054d1pGQ2hJQ3lIOWZvZUt2bnpIeUtqeDRpczd0VFNlMlRUY3lDTWFmaWVScEV2OVJXZDhQd1hHNWlveEpZU3RYLWhSR2hQZ3FzQ1hCcTJWbWNaeTN3c1U0cU8xSUJYcWVScU1lZk5GQzdBLVRINmxlS0ROY3NfREFGeGlRaURRd19nU0dLN203UXppa05lRkU1WWZiWlNWZGJHWjFyT0NTNTBpQ2JyajM4": 1794356141008
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@namithaparamitha",
-      "x": "Kalo ada yg ngasih webinar GRATIS mau gak ? Ngebahas cuan dari digital. buat umum, pemula, gaptek, dibimbing sama mentor2 sampe masuk income. bisa di kerjakan dari rumah, bisa pake",
-      "u": "https://www.threads.com/@namithaparamitha/post/DfkMbUhkia8",
-      "d": 1794323350000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak, bisa coba bisnis online 😊 Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi a",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfkLOM2j1QB",
-      "d": 1794322718000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Hai kak, coba bisnis online kak Kk bisa mulai belajar skill digital marketing dan bisnis online untuk membangun penghasilan sendiri. Skill ini bisa dimanfaatkan untuk menjadi affil",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfkKoWbD3hu",
-      "d": 1794322408000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28641,10 +28600,40 @@
       "d": 1794272400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@atikyulia18",
+      "x": "Perlinsos untuk daftar bansos aja, nanti lgsg ada hasilnya. Misal desil 1-5 biasanya potensi layak bansos. Klo tdk layak bansos biasanya desilnya tinggi 6-10 atau mgkn memiliki ser",
+      "u": "https://www.threads.com/@atikyulia18/post/DflKFb6kwZq",
+      "d": 1794355676000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bukan Cek Bansos! Ini Perbedaan Portal Perlinsos Digital yang Wajib Diketahui ASN dan Agen Perlinsos - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVjB3bXZlcmxLRDE1ZDVRX2RiSjJ5NGQ5M2w0X0xuc1cyX1M3QXVjbjFlTkV4X0h0b1RSaHQweEQ0NlZPNU5PSzIxSFoybjd4ODRDWnlfS2VQWGQ4dlg5NHV3U1pJdEtmTkRTRjdteUFjOEpjaC01Qi04d2t2NS02WmhMXzhsZ2FUQmdiZEYyTWEzWHh5TVowbUtUMmZNS3hWZjhvbDQwbEhOOTdSMTlqOGpjSm9NZjlXZTJsUWRXdWtLZEFqd3ZjVi0xbk8ybjRWcWQxUlZVNW8tSnJnY28xaXhzN3BGWGdxeEYzTdIB7AFBVV95cUxPVjB3bXZlcmxLRDE1ZDVRX2RiSjJ5NGQ5M2w0X0xuc1cyX1M3QXVjbjFlTkV4X0h0b1RSaHQweEQ0NlZPNU5PSzIxSFoybjd4ODRDWnlfS2VQWGQ4dlg5NHV3U1pJdEtmTkRTRjdteUFjOEpjaC01Qi04d2t2NS02WmhMXzhsZ2FUQmdiZEYyTWEzWHh5TVowbUtUMmZNS3hWZjhvbDQwbEhOOTdSMTlqOGpjSm9NZjlXZTJsUWRXdWtLZEFqd3ZjVi0xbk8ybjRWcWQxUlZVNW8tSnJnY28xaXhzN3BGWGdxeEYzTQ?oc=5",
+      "d": 1794350416000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Priangan Insider",
+      "x": "Bansos PKH 2026 Belum Cair? Jangan Panik! Ini 10 Penyebab yang Bisa Membuat Bantuan Tertahan, Cek Nominalnya - Priangan Insider",
+      "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV0dFblFlQmJ3c1dmY2dxTjZuakVrbXRVUGhPT3pxaFRyNGNGRWNjX2lvdXZyY3RBcUZ1SHlmQWJMb1c0RkxYX1Y4T2lZSHd3WEVJanFmTGN0R0d3NWQ1aTRjTnh3WkZDaElDeUg5Zm9lS3Zuekh5S2p4NGlzN3RUU2UyVFRjeUNNYWZpZVJwRXY5UldkOFB3WEc1aW94SllTdFgtaFJHaFBncXNDWEJxMlZtY1p5M3dzVTRxTzFJQlhxZVJxTWVmTkZDN0EtVEg2bGVLRE5jc19EQUZ4aVFpRFF3X2dTR0s3bTdRemlrTmVGRTVZZmJaU1ZkYkdaMXJPQ1M1MGlDYnJqMzjSAYsCQVVfeXFMT1dHRW5RZUJid3NXZmNncU42bmpFa210VVBoT096cWhUcjRjRkVjY19pb3V2cmN0QXFGdUh5ZkFiTG9XNEZMWF9WOE9pWUh3d1hFSWpxZkxjdEdHdzVkNWk0Y054d1pGQ2hJQ3lIOWZvZUt2bnpIeUtqeDRpczd0VFNlMlRUY3lDTWFmaWVScEV2OVJXZDhQd1hHNWlveEpZU3RYLWhSR2hQZ3FzQ1hCcTJWbWNaeTN3c1U0cU8xSUJYcWVScU1lZk5GQzdBLVRINmxlS0ROY3NfREFGeGlRaURRd19nU0dLN203UXppa05lRkU1WWZiWlNWZGJHWjFyT0NTNTBpQ2JyajM4?oc=5",
+      "d": 1794351600000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
