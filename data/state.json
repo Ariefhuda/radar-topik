@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfBK8TaE7eR": 1793148349395,
-    "news:CBMikAFBVV95cUxQb01DcHBlb1hRNzRMV0ZEdnNReWdydWxyUGh5OHVHSTFKM1pxOVRjaXYzWDNnbzFYZUFtU2VhbFlkMG9MVk45RlV6R0NiT2FieVYwVk1GaWJZTEVYdjdmRE9KZUNDOGxGczJTZjFuNUlXYVhIcDA3UVBfbzJWSF93NVdMaFBpUXVnWVYyMEN3bjU": 1793148349395,
     "threads:DfBLXd1nADG": 1793148650142,
     "threads:DfBLk5PkaZ2": 1793148650142,
     "news:CBMisgFBVV95cUxOanBjRklRWjZseU1wMmc5YzFxbkZRdjdja2tpTEhqalhvMlhxV0ZzWHpzZW9ueGFHVUx0VTBLcWtVLUVTNXFBR19YVGpNUFJxR1hnbDZ3M3BtQU41ZFlnNzVfYjVzeWNoaHpIZVhIcXA5MGRlOVdZZkNWRHJtNHRiM0s4M09CRnNEOFlVVmVLRVJyaDlxVjJpUFhrMWNlVTBjcHdmRV81SGl0b2dMdXhYRE5R": 1793148650142,
@@ -27112,19 +27110,18 @@
     "threads:DUdIIihjE_x": 1794357635981,
     "news:CBMiY0FVX3lxTE1wanVFYjRmSTZFXy1QdmJhbE1uRHdrTkxXTHlzYUswZWxBc0p6RDVGcldWcG5TMVNEUE1pQjZPV3E1YlFfSWFqcEdxZ3U2N2FTRE50dXFMQ0JCYzFHbXFFNUF2Zw": 1794357635981,
     "news:CBMiZkFVX3lxTE5Zck92XzgtZzkxTmVaSjNta0plblpMY3JUUlE5RlEybXJwa1NCUnNUNzhGSlhZa1NndjZjNm5vX0tySHk5WHAyMjROR1lfcTV2M0xWM2F5ZlU3WTNDbk1XM1BoRVBNUQ": 1794357635981,
-    "news:CBMiZ0FVX3lxTE0xY1haM3QtdnBYWi1BaHRGNGlZWmtNSmNmb1RtSDIxRVV2VVl1bjUyaW04Vnp2ZXdFZXJrUjBYSGw4WnREYWpxYzZlUlY4YVdIcTBOa2FDczlNb3JTM0hYMkhxVzJIM1k": 1794357635981
+    "news:CBMiZ0FVX3lxTE0xY1haM3QtdnBYWi1BaHRGNGlZWmtNSmNmb1RtSDIxRVV2VVl1bjUyaW04Vnp2ZXdFZXJrUjBYSGw4WnREYWpxYzZlUlY4YVdIcTBOa2FDczlNb3JTM0hYMkhxVzJIM1k": 1794357635981,
+    "threads:DfAC50zGpwK": 1794357946939,
+    "threads:DflNjppmZsW": 1794357946939,
+    "threads:Dd-7bJOiWwN": 1794357946939,
+    "threads:DSZTk0_D_AN": 1794357946939,
+    "threads:DfWkmEaEneb": 1794357946939,
+    "threads:DbAAchHE9yl": 1794357946939,
+    "threads:DUDFUkgCQs5": 1794357946939,
+    "threads:Dd-51ikGDiy": 1794357946939,
+    "news:CBMiZ0FVX3lxTE9ORUdqYnhsMzlXQzNORGtSV0ZTUjZabDY5MnBzSFl6R1NxSUxIS1FMbkFrUHNpSlowbjhiNnR4YjBxa3p1VnRxRzF3MjEtTXZkOHVwMXp3UGlabDhFX240UnRLcFIzTEU": 1794357946939
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@thegrown.energy",
-      "x": "kebetulan aku juga nyempetin waktu 2-3 jam sepulang kerja buat belajar+praktek affiliate sama dropship kak, masih pemula juga. kalo kakak mau yuk samaan belajar+praktek bareng di w",
-      "u": "https://www.threads.com/@thegrown.energy/post/DfkNq0jGc-b",
-      "d": 1794324001000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28614,10 +28611,20 @@
       "d": 1794357446000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Winona Raih Beasiswa EMJM Setelah Kembali Mengejar Kuliah Eropa - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ORUdqYnhsMzlXQzNORGtSV0ZTUjZabDY5MnBzSFl6R1NxSUxIS1FMbkFrUHNpSlowbjhiNnR4YjBxa3p1VnRxRzF3MjEtTXZkOHVwMXp3UGlabDhFX240UnRLcFIzTEU?oc=5",
+      "d": 1794357482000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
