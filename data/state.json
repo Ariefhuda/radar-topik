@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDDSOADdrH": 1793211340776,
-    "threads:DfDC8yRjffJ": 1793211340776,
-    "threads:DfDBvIdk6m5": 1793211340776,
-    "threads:DfDChI1k1tm": 1793211340776,
-    "threads:DfDCCJ7E3S3": 1793211340776,
-    "news:CBMitwFBVV95cUxORDFSUFgyRGZydENuQmFfTnpTV1ktLVJPRnR6QjIzVFI3WXlzRHBhTlpuXy1oNWJMZXRKZzZ3d3dsdjFnY0dxMW1xN2N1M2JIOGpGV1dxa1ZHdWl5RE1ZelNURFBERTc2Qko2TUlnRDlxdTRPOVlza2xIMFpRcTJsaG8zV2lVd1FyQk9wT3RYNzNmRURLemY0VlFqTW9xV3oyM0JfSWpaR0Q1Uk45Wk1QeGp0QlhoQlE": 1793211340776,
-    "news:CBMikwFBVV95cUxNc3N1eWpod3RSMzdabFliZC1PcWxCZjFkb3ZFMVVCaldKbFpOSlQ4bEgzRC1pN0dTU3Y5SHVOQkNvRXR0TjZzRklQUWZKbXFHb0FfY1ltSlJMdVhkR1dRV2U1dU02M2FDbEdGc3g4S1h5U3B6dHVlbk54TkxsbVVJMksyNVhSMDJLSXZ1NkRSUEFHZDQ": 1793211340776,
-    "news:CBMioAFBVV95cUxQLW51eWNldGwwOWhWMVlhTVIyV3NKRW1OY0dDYmFxY1h4YTNmMG9FWlI1YmJjTndFS0RDYVpJWlFGcGt2NHJuX0IxMTRxWW13bXRVRnIyTnI5RXR3UXM4VzRoNnVlU1Q2MHAxTVdPcEYyMk5mak9GX3RHWVVOaDQ0OGdOUDFrdkdkVndaSHhrbTlJeUE0bjluQTBUcTRtSUxq0gGmAUFVX3lxTE9jLVB6TVpSRmt3WkwxZ1hrUk5XUE5SdDJCS25oZHVCYnN6Mkx5UWYwUGRfdTd0VGpWUkkwcDV2aC1CclhLcnNFbVJlSEQ1LXFNTV8xMk5ibDcwaDFxU0M2VmhrWldpcGdTMVRzMFpXemVyMWxublQzZkVuTjFqd0NvT0ZiamcyS00teF9JXzhGLVFzb1pncEpVWkFrM3FXaVk1cFkyR1E": 1793211340776,
     "threads:DfCuMnMD5d3": 1793211945369,
     "threads:DfDEi4Um1vB": 1793211945369,
     "threads:DfDD8dDElFb": 1793211945369,
@@ -25477,39 +25469,19 @@
     "threads:DfnFerSj8Ja": 1794420639297,
     "threads:DfnFPKNnPLv": 1794420639297,
     "threads:DfnFED8ieOC": 1794420639297,
-    "threads:DfnFJwvDdxM": 1794420639297
+    "threads:DfnFJwvDdxM": 1794420639297,
+    "threads:DfnE0i0DDEi": 1794420937422,
+    "threads:DbZZOjSEyHp": 1794420937422,
+    "threads:DfmKIjzGorW": 1794420937422,
+    "threads:DfnFKtcE0ua": 1794420937422,
+    "threads:DbMxcXjndI3": 1794420937422,
+    "threads:DbEJWrIn4Xc": 1794420937422,
+    "threads:DbidvkfD64e": 1794420937422,
+    "threads:Db5YB33HTGb": 1794420937422,
+    "threads:DGkkvghSDit": 1794420937422,
+    "news:CBMi0gFBVV95cUxQczFfa3dXaU5rSy1tVHppWC0zV0k0cVBDTWhraFlpQUVmbXZUQ2lUdml4cGJrWXQ4YWZPWW1vdGgxRk81OXBoYTBrOUZCQ0N5dFg0V3l3YzBuNTNkdDJqYjROSWRPcmpKSWU1Z3UzUzdzWFFmLUNnWUJVejkteG1UTzQ5c0JKeUJfb3Q4MHgxbUNHSG1lbzRtekhrY3EwaGRvVWQ3b3REeGwxb2NHMDl4RGJZeFVRU0tTNF9VMXBxQVhQY21OZE56RElqQ05MSi1pS3c": 1794420937422
   },
   "digest": [
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "news.okezone.com",
-      "x": "Perindo Jabar Perkuat UMKM, Fasilitasi Legalitas Gratis hingga Bentuk Jaringan Pembinaan - news.okezone.com",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT1YtY3c2b1hSc04zVkRqUHp2bnk2ZGtDc1pJeGJWSGR5Mm1aNVlfVDRYc1J5QmJ0cmpnNHl6QWtPY1pCc3ZodElXdGJBOVNRM254Rnl0UkR5RkxBVmNzRjhXSGsxNnNyR0REQnNfNDNJSHhQZTNHYzMtc29HVExDZ3lSb1BZZ0sxNkZ3NWhqWExfTnpjQ0E5ajVMdzdlVDl0ZnotZ2hDNlpGRWU4MERidmFxVUpxYVFrOHVBQ2pLdFNkNW1fRk5iRkRVempCb3pFUHZqQ2k5SdIB1gFBVV95cUxOYXhvVklTbmFnNERqUVhTSkNjU1BUOUQ3eDZyQ3lWMlFSdUF3aENFbHMxX3ljS3c3U2tZY2dNZnQ3ejhvQ3o1ZjBOTlYzN0UzOXpJQzltMV9LNlJOaVUxWDNXTVNETS0wcWJqNFBqS1REV3I3T003SEVqTW5nTkZWZ3hKTDg3Y2QzTFk3aVloZHp2LTRzSTAxdzlHeDF5YjZrcXIzMlZJRnhDZS1NSFh1R2VpaEpNMzlpbURwWU1JSUk0QzFaRWF0OEVGZmdKeDhhUEJBbEp3?oc=5",
-      "d": 1794375915000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Giwangkara",
-      "x": "Nasdem Bugar Berbagi: HUT ke-15 Nasdem Kabupaten Bandung Dirayakan Dengan Senam Bugar dan Cek Kesehatan Gratis untuk Masyarakat - Giwangkara - Giwangkara",
-      "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPalFHTF82OW5rLUtwWGJWbUk1N0ZvVkMyaVJKRXJWTVFpX2RVOTRTQ3NnRDlncThLTGl2WFJjZWs3NkNyenB6MmhZWEhUWHIxcmt5ckEySmthQzFzYXZDb1NDOEV5RjF0TWVnLU1RczJTdDlfdkN4dnNNbUw3QUU1MEl3bi1ZNFRLTE1CWmZ4NGl0dkhUX0pTcExhZDlJeVNQMVpXQzAxeFZLTENKc3BUbUZvOUdISi1MVnFvX3ZLMFMtWmtfUkxwdWZWMG5Pd2ZQMzBGaTBZdU96ajZ4ZjZIWXE0MDJMUkJzWHFsTUs3TzI0UDF5akhTV205Zm1EbHU2aXMw0gGIAkFVX3lxTE1hTUNyVGRkRVk4N2c4Z3BnWUlLZzh1LVdXd2dmVjlqTHlOVUt3U092TnB5bzdubVdrOUdnYWhpZGN6amlzX0FPYWFncHd4MzdmY0JyWUgweEZ3UHFONTFqdHN6WVJpa1hTWGNObEZLaGdjbjFPdVhxZmNjTTM3RlhRSGZ3QjM2VDh5akN3N0JwMlF4S2tTb3FLRi03Y1Q1TUhxalNQWXJvYnhOdjBtcW40WkpBQkdsT2g1ZHF3dGswZktrQngweGtCb3QtTFNqVFJ5eS1rVFIxWF95SXpOQTF3MDFROUxuRkoyQTNycnFhTDktVm9odEFZdE5ic29rcEhaX0dsY2FXRw?oc=5",
-      "d": 1794374413000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Suara Pantura",
-      "x": "2,5 Juta Produk Jateng Bersertifikat Halal, Pemprov Ajak 35 Daerah Danai UMKM - Suara Pantura",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVpZMU1rSzhyRlkyR1MyaDlEZkpaNTFNTmNfUGlpbWcwR2JXRUVvaEZqYzdsX2xSckNrWGZMeWF2blpKZkViRkRDMi1QMjI4THRiSDM1X1B1am55SjJOWFJsSThDM1ozYnVZNmJoOWFfYmJnQXhqRkVzQkJjOUxrQ0JXLUVlcEcwWkdGM2hKajcxdVpCWkZLV2h3QmxkYkc1aFZOcFBfMWM1ZVVsRkh5Z1BBaHFIcV9HdzJRSVl3?oc=5",
-      "d": 1794374753000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -26979,10 +26951,40 @@
       "d": 1794384658000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sgseducation",
+      "x": "Pengen jadi content creator tapi bingung mulai dari mana? 👀 Yuk, belajar menemukan niche, membangun personal branding, sampai bikin konten menarik di webinar batch 17 GRATIS BEYON",
+      "u": "https://www.threads.com/@sgseducation/post/DfmKIjzGorW",
+      "d": 1794389256000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@goenalabs",
+      "x": "mending website gratis atau pelatihan gratis? 🤔",
+      "u": "https://www.threads.com/@goenalabs/post/DfnFKtcE0ua",
+      "d": 1794420207000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Perkuat Jaringan Distribusi di Kalimantan Barat, Importa Resmi Buka Branch & Distribution Singkawang - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczFfa3dXaU5rSy1tVHppWC0zV0k0cVBDTWhraFlpQUVmbXZUQ2lUdml4cGJrWXQ4YWZPWW1vdGgxRk81OXBoYTBrOUZCQ0N5dFg0V3l3YzBuNTNkdDJqYjROSWRPcmpKSWU1Z3UzUzdzWFFmLUNnWUJVejkteG1UTzQ5c0JKeUJfb3Q4MHgxbUNHSG1lbzRtekhrY3EwaGRvVWQ3b3REeGwxb2NHMDl4RGJZeFVRU0tTNF9VMXBxQVhQY21OZE56RElqQ05MSi1pS3c?oc=5",
+      "d": 1794407700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
