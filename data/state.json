@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDG3aBiYZC": 1793213464858,
-    "threads:DfDGkM_E7gX": 1793213464858,
-    "threads:DfDFwLeEQKH": 1793213464858,
-    "threads:DfDFGfxlcwY": 1793213464858,
-    "threads:DfDHRBlAv63": 1793213464858,
-    "threads:DfDG0i-k8Zh": 1793213464858,
-    "threads:DfDGzxok6TC": 1793213464858,
-    "threads:DfDGdWzE_pd": 1793213464858,
-    "threads:DfDGclmE3hN": 1793213464858,
-    "news:CBMi7AFBVV95cUxNOFZNMFdtZTV3Ui1tVG5yX25XZ2M3RHJNdHBKREozcnNyZTBCWWtlMklXVU5xY25HMkJhUkVJcU1QY3J5MzZzVktlLUFIV3pDa0NwSUN4UDNqSnAxbFY0Umh0R0tmM2ljUThITTRsaFQwcURBeXBTZHp5dTJ4enVlNFBxcjJPd0VtZ1FkRkI1ckxoaVdXYlRqUlAzU3h1YmQ2b0d1Q3puSHZrYUpYQmVhVy12X0tXdGJWUTJJN25yckNEV2c0OTVIVzdnQVFSR1hKU0R2dWZHM2pPVHR0UE1rMUE5SGZ0VmYyVUFXag": 1793213464858,
-    "news:CBMi1AFBVV95cUxOUldrMWJLTExSM1M2T3QyOWVtcFNzbzJPOC1XN0NmdFpnbjRLS2ZfNm5hc1VaV0FKREJDdThOalBjQUotb2dqTDBzcGpjT3NuNnE4Nm55ai1YS1ROUUtaWG9xWHB2Qllja2JyU0U3MjNaUkk0WFR5VWhUQnhSWEd4cnlHMldYcC1JYlVQNkpiZFUyUmF4S3Y5UHJaSVBsbGZ2d2YtazctNVVEUHh6SFJQdERsNjhvdVdXaHJCZUEzSkQ4blBUX2hHVGYyVXhkZ2R5dTl4Mw": 1793213464858,
-    "news:CBMiowFBVV95cUxQeDNYVkNkYWJLQjAxRHIycHZYbTdDdHh5dlhUbDVqQkhPS0UxSHhMU19PREdKSElvZ1B4UFpLdGRMSWhleEJJNmVtaWtaaHJyNnRmZ2Vxb0JrbHBnOG5CSTBuQ2lLQ0N5dXk1Q29Mc0lHcHZRcVdyMUpGWlNjR25Na1VQM21jLWIydG5NM0dQUlJhS1FPX0tPZzBqakhkXzhnNnZj0gGjAUFVX3lxTFB4M1hWQ2RhYktCMDFEcjJwdlhtN0N0eHl2WFRsNWpCSE9LRTFIeExTX09ER0pISW9nUHhQWkt0ZExJaGV4Qkk2ZW1pa1pocnI2dGZnZXFvQmtscGc4bkJJMG5DaUtDQ3l1eTVDb0xzSUdwdlFxV3IxSkZaU2NHbk1rVVAzbWMtYjJ0bk0zR1BSUmFLUU9fS09nMGpqSGRfOGc2dmM": 1793213464858,
     "news:CBMipAFBVV95cUxONXRoM0NYclAzeUxmdFpINzNtQjlISlFJWi15SklXWUN3cHNOZ0pzSS01dFBwdDZDWFpYWXZZVEFiQVdnUkRYSzNfYXNlZ2stTFdXZUxQSEg4YjNQaUxBdFBCVEJDd2x1dktrWEhYd0t2b3Zyc0Z5OUctandXWFU1UUNhYmpOUlhTQzdnZlowalo5Yy1OVWZ5bldlR25lOG5NOXRkNw": 1793213747017,
     "threads:DfDIoIMj0km": 1793214059957,
     "threads:DfDH7k9laIg": 1793214059957,
@@ -25495,19 +25483,20 @@
     "threads:DKfBA_ZJT7S": 1794422449566,
     "news:CBMib0FVX3lxTE9QVk1PNDk4RGstaFRac3Y0M0FnZkVDN1pxSXJZSm1SSUx6UHE4NVRHcE1kenVJWUVrVDItQVdLQm9VMHI4NnVTSWFJRnRVaEpSejZOakdsN3ZiXy13X2Jmdzl4UUYtYnhuczRTMHV2Yw": 1794422449566,
     "news:CBMi0gFBVV95cUxON1BiVlRiZk1CRWEtRWRpVlIyalhGVS16MS12MHNKcTJlZUo0X2dPMmFjelFZUUt6dHl6WklMSkpmUEx5VzYxYk13bVlMWk5hNGRXUjdpbEdYb3RPa05STkRRM0JXYUd5MmlLeXE2cm9VUEZPVHFzdmlxYi00V3llT0VBREE5U3IwenExZFQ4YUpNbUlWUW42Q1dsblN4UG1CbFVtMWxnZmRLMXJ1TjRTaVVsNkNWbTd2ZG81SldwbUdHQmgtQnZOdzBKREs3SUstY0HSAdIBQVVfeXFMTjdQYlZUYmZNQkVhLUVkaVZSMmpYRlUtejEtdjBzSnEyZWVKNF9nTzJhY3pRWVFLenR5elpJTEpKZlBMeVc2MWJNd21ZTFpOYTRkV1I3aWxHWG90T2tOUk5EUTNCV2FHeTJpS3lxNnJvVVBGT1Rxc3ZpcWItNFd5ZU9FQURBOVNyMHpxMWRUOGFKTW1JVlFuNkNXbG5TeFBtQmxVbTFsZ2ZkSzFydU40U2lVbDZDVm03dmRvNUpXcG1HR0JoLUJ2TncwSkRLN0lLLWNB": 1794422449566,
-    "news:CBMiggFBVV95cUxOQ3RzRHFoSVd0SFhCanQ0YlZJVFYtckN4RUlLMDlMVjFSZ3lyN0tiTGdfZDNsX3lNVXpxcWVPdWh6NlFmUGo2NE9oSkJCOGpBQWZueFI3Z3l0STFtXzc4akJNY0tFZFYzSVQ2SnBDeC1PMU56TGZob1JLQmpBaWs5ZUh3": 1794422765094
+    "news:CBMiggFBVV95cUxOQ3RzRHFoSVd0SFhCanQ0YlZJVFYtckN4RUlLMDlMVjFSZ3lyN0tiTGdfZDNsX3lNVXpxcWVPdWh6NlFmUGo2NE9oSkJCOGpBQWZueFI3Z3l0STFtXzc4akJNY0tFZFYzSVQ2SnBDeC1PMU56TGZob1JLQmpBaWs5ZUh3": 1794422765094,
+    "threads:DeNPdl2E7Z3": 1794423037817,
+    "threads:DIoIp3suXIm": 1794423037817,
+    "threads:DfnKhzyD-ed": 1794423037817,
+    "threads:DfnJ-o_Hd6X": 1794423037817,
+    "threads:DfnJZLXoVVG": 1794423037817,
+    "threads:DfnKqp8E1Zs": 1794423037817,
+    "threads:DfnKfiGAYG-": 1794423037817,
+    "threads:DfnJ8RsEqRR": 1794423037817,
+    "threads:DfkFhdDo0GL": 1794423037817,
+    "threads:DflXqB1mV5F": 1794423037817,
+    "threads:DbDAunJgfO2": 1794423037817
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Demokratis.co.id",
-      "x": "Politeknik Astra Buka Beasiswa Kuliah Gratis 2027 - Demokratis.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iVnRTR0I3RDNNQnVyazVQWE9RTFNJUk1XQk1RRjQtSUV0OUxqQjB2elg3aWJIMk1ybjJQM3hJYUVmbl9xUXlzSjFDS0drbjFVOC1fcWc0TnlnaGt6XzhFMi0wazNkUQ?oc=5",
-      "d": 1794370113000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -26997,10 +26986,20 @@
       "d": 1794365460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
+      "u": "https://www.threads.com/@erykka_ystr/post/DflXqB1mV5F",
+      "d": 1794362792000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
