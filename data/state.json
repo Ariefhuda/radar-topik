@@ -25537,19 +25537,10 @@
     "news:CBMirAFBVV95cUxQRGVBSF9LZ1VKZlBYVk41bjJwd0xDejFpWnJHUE4ybmtIekNGZm5Xa21jNlNKUFVTLVMxQVZjQ1hnNnE1TmhHc25UNzF3bnBsYVliWXBhTjVwcFFqZUxod2M0Y1h0REdSMGZRSXpna25EWGw2S1Ixc0syVktXOHRob3NvSzc0Qk9FVEhpdHZtdlJzeFViYWkwQWN3Z1o3aDhrZlVZZzBxTmQ3WVFa": 1794431441063,
     "threads:DfBHfEhEx_b": 1794432057000,
     "threads:Dfnb-TLj0DG": 1794432057000,
-    "threads:DfnbtR6iHvN": 1794432057000
+    "threads:DfnbtR6iHvN": 1794432057000,
+    "threads:Dfnbho4k8pl": 1794432345714
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Aktualita.co",
-      "x": "Cara Cek Bansos November 2026 Lewat Kanal Resmi Kemensos, Ini yang Perlu Disiapkan - Aktualita.co",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02Sk0zUWF6Q3hyZ2Q0TEdwYVZwN2oyUGtYaXhJemQ5VEJsYlE5S1d0Y1A5TWg1a3JJcDBMdVJPcTkyckplUndhLTBwNlRCdkk2UnlXN3FFWHFTLVFLNnpobEw5NlIyMDJmZnZaUDRVb2wwVm5sbm9R?oc=5",
-      "d": 1794389385000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27039,10 +27030,20 @@
       "d": 1794374019000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@gracee.lg",
+      "x": "Dijelasin kokkk, tp implisit. Intinya ada masalah yg sampai merambah ke dosen kaprodinya gitu dan sbnrnya cewenya itu udh dpt beasiswa s2 di jurusan yg sm di s1 cm krn masalah ini,",
+      "u": "https://www.threads.com/@gracee.lg/post/Dfnbho4k8pl",
+      "d": 1794431929000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
