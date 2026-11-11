@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DYARmmKif1j": 1793221546997,
-    "threads:DfDWiDkGrwC": 1793221546997,
-    "threads:DfDWnA_j2HQ": 1793221546997,
     "threads:DfDXL25DEQj": 1793221841013,
     "threads:DfDXH6yDN1u": 1793221841013,
     "threads:DfDWPmzDB4x": 1793221841013,
@@ -25524,19 +25521,11 @@
     "news:CBMiwAFBVV95cUxNUHhSYk4tWlFHRkFhOThnTjZHWFNnZmE0amkxdlQzcTlLOTFidzRseEZNT19rMWhJTkg0aWJiUjdKb240MDMxMWRnZm44aHVBcGg1TF93ZnBqNktXYWdDdW9aWTdEOTJJcHE1eVpna1djSTlhUW5uRDNfSEI4UGw4NzFmWVYzMjRfY2RZdmNKS2lIOGpMS2xMRHBuaXJGeHVhQjk1bXhCaG1od2pTNTBFN3hjM25BUG4ySldGUDFKT1Y": 1794430876364,
     "news:CBMie0FVX3lxTE1yRVN0UTZXOFktUTJSOWc3dWNaN3VIOEt4ZWNobTAxLVh4TVp1OGFjTGhrU1dDMy1ISnd5czUxNFU2UWl0eHNCei1pRUlwMV8zY21ZcjFvcW4zNmhiWUJDa2QzMVA5ZGpkXzZmQWpfNXJGN2hKdTNMalE0NA": 1794430876364,
     "news:CBMi4wFBVV95cUxPYXdRbWlHYmNlZDBFSFpSRnBTbjVURTg5dkpwcnhQUVp3TUtQRGhZS3JfT0M2VTBVNjhzb3I1bGN2MTZKVkplemN3UzV0TnU5VTZfSFE0R2N6b3JkOGNraXczQlFrTXE5VlZiSm9HZWxwbTJmeG9wZG5MbzZxTHF5TWRVWHhxdzkzYzctb25xN2ExeUJDUmpaUHZpQlVPTzF4Nmp3TEpLMGkyaFg5blozaC1tTldZRzZkS3RnOWhadUItTUd1dlo4WXplVGhwa1hqZDBWX1l5bk56U1M4c0dJUEEyUdIB4wFBVV95cUxPYXdRbWlHYmNlZDBFSFpSRnBTbjVURTg5dkpwcnhQUVp3TUtQRGhZS3JfT0M2VTBVNjhzb3I1bGN2MTZKVkplemN3UzV0TnU5VTZfSFE0R2N6b3JkOGNraXczQlFrTXE5VlZiSm9HZWxwbTJmeG9wZG5MbzZxTHF5TWRVWHhxdzkzYzctb25xN2ExeUJDUmpaUHZpQlVPTzF4Nmp3TEpLMGkyaFg5blozaC1tTldZRzZkS3RnOWhadUItTUd1dlo4WXplVGhwa1hqZDBWX1l5bk56U1M4c0dJUEEyUQ": 1794430876364,
-    "news:CBMizwFBVV95cUxNVjJ0TzJGdElSVHBmUkNMVGdHWG90WnBLQXhQRFRobnVmRUVaNXRYUkR5aDVZdHFfczdvVGl6cWhiUTlYSTVIeDVjVDI0bF8yaEhzSjFIcHE0WTRYMDZ3bG14MFRHRGE4N0FDaU1KdmdmbXpxRWNzdjhOQ2JrMmdfaWs5eC0tTy1xNld4LVVrX0FhOHNJTnExU0dkNmhjNi1Ebm9qZnE2WGJjRGo1Ti1zZVJmZzB2UWlPUUlLZFZRcnBkTndrM3ZuWkFSRm5nUDDSAdQBQVVfeXFMTXB1VGR3cUs0TkVRQU9vZDB6NDEwY0xMX0V2Q1BsenM2X19qNkRYbFhEYmpXcU9VdnhoeUpaRmVCY3YyWldGTFU3d08xeldYVVJmdThSU3VaVjVfMFZLUURpYmlFeW56Q3pGQXVzYzNGSE96VVoyNVpyU0ctR1VZOGlzb2swVEJGSWtOTWxGbi1BbFpuaHpJSi04bTI3ZENkS0JZLUEtMWhUdlJ2SEdaNlFBc2VNaTJteXFYOXZXR2p3RENRODNobkg5SExQRFlwZ2kxVlM": 1794430876364
+    "news:CBMizwFBVV95cUxNVjJ0TzJGdElSVHBmUkNMVGdHWG90WnBLQXhQRFRobnVmRUVaNXRYUkR5aDVZdHFfczdvVGl6cWhiUTlYSTVIeDVjVDI0bF8yaEhzSjFIcHE0WTRYMDZ3bG14MFRHRGE4N0FDaU1KdmdmbXpxRWNzdjhOQ2JrMmdfaWs5eC0tTy1xNld4LVVrX0FhOHNJTnExU0dkNmhjNi1Ebm9qZnE2WGJjRGo1Ti1zZVJmZzB2UWlPUUlLZFZRcnBkTndrM3ZuWkFSRm5nUDDSAdQBQVVfeXFMTXB1VGR3cUs0TkVRQU9vZDB6NDEwY0xMX0V2Q1BsenM2X19qNkRYbFhEYmpXcU9VdnhoeUpaRmVCY3YyWldGTFU3d08xeldYVVJmdThSU3VaVjVfMFZLUURpYmlFeW56Q3pGQXVzYzNGSE96VVoyNVpyU0ctR1VZOGlzb2swVEJGSWtOTWxGbi1BbFpuaHpJSi04bTI3ZENkS0JZLUEtMWhUdlJ2SEdaNlFBc2VNaTJteXFYOXZXR2p3RENRODNobkg5SExQRFlwZ2kxVlM": 1794430876364,
+    "threads:DfltEfCmVYO": 1794431157185,
+    "threads:DfnYrr8iuoK": 1794431157185
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Suara.com",
-      "x": "Cara Cek Bansos PKH November 2026 Lewat HP, Cair hingga Rp750 Ribu - Suara.com",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTENJaTlnZFhjQzFrVTd4S1Nyei1DWFYwSGpNSHZtb1Z5WVJfQi0tcS1nNjdJbXBVdS1sS2VlZTdOOC03MkFFQklkOVRsd3JWU3Z6MnJ0SnJJSmtwUnY3T0djeGd4UTZaSjdlcy1UWjJHaGVEMEVhWTVuUkQ4YlpTdk5JWHhoRkM0YV9xMVN1eWZtczNvTkZUdWFEOXBWWjhxY1RwR2EzRWZsVXFqUzNfXzZSbHpoQdIBtgFBVV95cUxOTENJaTlnZFhjQzFrVTd4S1Nyei1DWFYwSGpNSHZtb1Z5WVJfQi0tcS1nNjdJbXBVdS1sS2VlZTdOOC03MkFFQklkOVRsd3JWU3Z6MnJ0SnJJSmtwUnY3T0djeGd4UTZaSjdlcy1UWjJHaGVEMEVhWTVuUkQ4YlpTdk5JWHhoRkM0YV9xMVN1eWZtczNvTkZUdWFEOXBWWjhxY1RwR2EzRWZsVXFqUzNfXzZSbHpoQQ?oc=5",
-      "d": 1794396158000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27026,10 +27015,20 @@
       "d": 1794399916000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@bundadilandzaky",
+      "x": "Alhamdulillah, selamat bagi KPM BPNT/Sembako murni yang lolos dapat PKH Validasi mulai tahap 3. Yang belum lolos tapi mempunyai komponen ibu hamil dan atau balita, anak sekolah, la",
+      "u": "https://www.threads.com/@bundadilandzaky/post/DfltEfCmVYO",
+      "d": 1794374019000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
