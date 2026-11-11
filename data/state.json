@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDiecygQMN": 1793228137406,
-    "threads:DfDjf3QE7ax": 1793228137406,
-    "threads:DfDinYLEyKf": 1793228137406,
     "threads:DfDj-B3DmR0": 1793228459950,
     "threads:DfDjxsBEQk_": 1793228459950,
     "threads:DfDjTlWkRVk": 1793228459950,
@@ -25583,19 +25580,10 @@
     "threads:DfnlQDNkyvZ": 1794437438700,
     "threads:DfnlPoLk7md": 1794437438700,
     "threads:DfnlPKqE-zx": 1794437438700,
-    "threads:DfnlOskk7ve": 1794437438700
+    "threads:DfnlOskk7ve": 1794437438700,
+    "threads:Dfnlr9llFaC": 1794437746779
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@infouwika",
-      "x": "Beasiswa University Social Responsibility dibuka mulai 12 November 2026 Kamu bisa mendapatkan potongan sebesar 75% Uang Pengembangan & 60% Uang Kuliah selama kuliah. Jangan ragu, u",
-      "u": "https://www.threads.com/@infouwika/post/DfmFp8GElwM",
-      "d": 1794386908000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27085,10 +27073,20 @@
       "d": 1794437017000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sah212212",
+      "x": "Alhamdulillah arak wah cair....silak inak inak siapa tau beruntung #bansos",
+      "u": "https://www.threads.com/@sah212212/post/Dfnlr9llFaC",
+      "d": 1794437257000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
