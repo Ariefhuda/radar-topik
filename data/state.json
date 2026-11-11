@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDJs6yD2XP": 1793214943560,
-    "threads:DfDJTlDGDtf": 1793214943560,
-    "threads:DfDI5Utj-xI": 1793214943560,
-    "threads:DfDKXvkn_tc": 1793214943560,
-    "threads:Den5dCZj5en": 1793214943560,
-    "news:CBMiswFBVV95cUxOd1R2VXFWRWp2ejQzTXhMZkxvbHVHMDlaQTZDRXJXZ25TOXo5VkJEdzRsb2pxU3pvb2R2Mi0taUkxTFZjQl9tSXVDOTJXcjVtS1BiTEhPQURjOUc5Um1fQmhoU0Y3aXd5Qi1fb0FWbWpKdEJEN3Z4QkJ1S1poeG1oRVpTLWFKTGxsZlhGbXUwSmFGUVo3bVRZdlhqb3h4ZDFuQ1dKZkNraDVVS2pydVFldTY2RQ": 1793214943560,
     "threads:Ddi7jOuk5z-": 1793215547664,
     "threads:DfDK7biE4A0": 1793215547664,
     "news:CBMi1AFBVV95cUxPZ2k5MVk0dTVrWThyemE2ZmZHWENjWWRiWFo4M0xMekVNcHFlcGNBWVVuSDhXVEJzWnM4bXQzLXBmMGtQZk1hTWlkMUZHTVpxb0xKZnRsbkNtUUN1YWlUaUVjeGF5YktrMFpCbGV6RlFUU1c5X1pHSzZYLVNfM1hyMjlXTmt4WUdWQkZMMzYxeDlSdGZEcWhHRjdaZmVkdGNKaEUxalRGTklBNlpZWDJOb3dnaGxPZnlKZFdOWkdJcmZXS3FMLUpvQjYydk5xR2YtRTV3btIB2gFBVV95cUxQdENEdW9ta3ZfeGJhbDdsajc0bWxrcmF6dncwVDNiT2RhM0Y3LUN5bFpBY09fTTZwUUk1WFBETG9ldDE1LWVndWpoLVVWQjRiR2tURkx0VW5CVDFDOTNnMklzT2VaV3JNQzQ4ck05U002N3hZdW51VzBFUkZZT0d6SmNOcXpFbGFxSFQ5YlhnS1dVa3NvcUl5VkI5OFRIOHJyaEtOOEd1S0pyUUhaSW5hcFZQdGpYWHFsM3piVU5LNEZiNDk3WDl5MkNGMEhXbVd1X1FGZnR2eGhaUQ": 1793215547664,
@@ -25502,29 +25496,21 @@
     "news:CBMipgFBVV95cUxNMzFlN2x5cjJhNVRoeDV5a0N1V0R5aXFpZ2pGTnBFWDducV9VUDBQRjNFSW9XTkQ1dVRTTVBIM2U1bmV1cjAzb2VHbUVKdTNEblBmN012WERYSnFfZTFLcmZXR0k2a3d3Q2hIZWFGNU51d1lHRF9OZF9uVUhqM0V1eHVDYk5Oa1pZNlV3TW1BMk1oMk1SVnpKZzB1RnE3RlBLVUtfUWtn": 1794424237980,
     "news:CBMirAFBVV95cUxObFdydENlYThvQ2o3WUplVFYzN3hTTzdnVV85MmlUVWk1Tk50c09WN1pmY1RGYzJOMHY4QVdvdU1BRWdHR2ZlQ0llYzhsSnM1VDBvQS1uMXVjeFlIY201Y0hwRGVZZnJrWElGSWVoVkU1VzA4WURSLUNVaU5Ha0dwTU5QLWU0WVZDM0dBWk9uNmpuNDdlOHM1bl9WaWRlRW5jODhFb0FiQ1B4cTBH0gGyAUFVX3lxTE0weTBibm5MUGpIbHRteldPRjczRWdwREkxdzJFV0duUDVCLTJtQVhVckxiYmUxMUc4OGM4M0VTMDNFbUhYa2lydEp3OU9lVlBJMi1mV1c0dkdCOEFVcU5uZWlESXlpbzZmdVdKVWtEODJ6RGNHcmFieTkzbWFRMEVtZ3NseWlmRGZpc1BqTVQySnFZd2J2bU5ld3VCc3lhNC1kRW5rZTF6c1I2alBtQ3VhOEE": 1794424237980,
     "news:CBMi4AFBVV95cUxOME56M08yZHNldThtOFB5dWcyaVotSDVYVEMwVEpfRUlWWFdmODJWX2J5ekxRSjRKR2p1NFMtb2RsMEtUS05ObDdpYzR0QW9oUTFoeV9vVV9TOG80M2FacFBVcHdrdndFVjg4U3gtRFNEaUF6RWItWjh3U3oxZHBvVDN5eG9vNF9BM0tmc2pBbGs3YW4xS3Frb2E0S3BXV2pGQXBzS1ZMcm56R1FBdlJmSExHVkpqdGRQbG1KM1E3a3ZqTUZkZ1g1QWgtVzF1c0hXVm4wQUJ0RUlsX1hfQjdSVNIB5gFBVV95cUxNdGxxVHdTTkx1UzhZU0FvTkpqckNDb0g3ejdpeE9UaVlNcmgxenN6VktUR21oT29UT1JjNzJXQTdBUXlrdmg4SGNwOC1idjY5WGlEY0FMUjhtdFBuWW9Cb21OTnJkUjRTTDhiaTN2a0JQM3JaNThTYnRRX2NpRUpGQnlDNWdnXzI5V0hFWnhSR0YxNl9yTVBuSEZkTG1tV0U1Q1k3cG02d1lwUzhLdXdwYmR0cmVCMDJRRHNqdEVxcXdpZ2hDbmFpSGhZOXpTMHJ1N3k2djRWMkh5ZkRnYXN4YVJXSkcyUQ": 1794424237980,
-    "news:CBMilgJBVV95cUxPdzFZUkZEQmxVMm9sbGVpTGFYdGZGN0JmY0ZkOWxVczM3aWxXOUFORWUzUmpKRmMxcDkzb29GdHZYZFc3RFBoUWJRbzYxdkdWZmVkc1hJRERHSXUxOU1GS01nNEdOMmZNZUVVMDhydDdDODhnVElkVWlfaXZqeHBpM2dUUEt6QnFEOFl2Mk90YW15QndsNGl0ZzA1Z3lIcXJmc29nV19OeWIwNTBZMmxCWlZLV2tYN1lTTEFiVUlFaXo3Y1RvaWkzQUp5WnhYSnpKTjExMWJYVE00U0VTNm5uUlRseDF3NFRCbGJaNkdTbTFmWElNZlVjTERFUzJYanRGOFdscnJtSGxTSEhfV2NJUzJVcjdhQdIBmwJBVV95cUxOWjd5YVZEblU5czNTblFjRFV6Y0t4WHB6UlZHR1A1Zy1GcWh1dTVpM0RLUjBaZnU2aW1tSFctdmEtTW5DTEEtSHI3YVZLNDVmTndfSERHOHBiRnBzYVpvWFdFcGw3OUR2UUtXak5uaW5GcjBWLXRKSFpMSGNDSFo1TXV2bEFWX2RLZERzVjI0S1huUmViMDlXUFVoX1lMT1BDX3FHc0d4VjNFRDU5NXVPUXByazBNUkhPSlEtUjlHblVGX0FUZnpyc09zWF9SUU5nbDJUSFVha3dGWXhKa0VwOXJWLXJwR0U3azV2eGRUUU1oWGdMNTgtcGFKTmRqd2wwR0NWQ1NNS24zTks2NUg1SlhLS1c1dHhGZUpJ": 1794424237980
+    "news:CBMilgJBVV95cUxPdzFZUkZEQmxVMm9sbGVpTGFYdGZGN0JmY0ZkOWxVczM3aWxXOUFORWUzUmpKRmMxcDkzb29GdHZYZFc3RFBoUWJRbzYxdkdWZmVkc1hJRERHSXUxOU1GS01nNEdOMmZNZUVVMDhydDdDODhnVElkVWlfaXZqeHBpM2dUUEt6QnFEOFl2Mk90YW15QndsNGl0ZzA1Z3lIcXJmc29nV19OeWIwNTBZMmxCWlZLV2tYN1lTTEFiVUlFaXo3Y1RvaWkzQUp5WnhYSnpKTjExMWJYVE00U0VTNm5uUlRseDF3NFRCbGJaNkdTbTFmWElNZlVjTERFUzJYanRGOFdscnJtSGxTSEhfV2NJUzJVcjdhQdIBmwJBVV95cUxOWjd5YVZEblU5czNTblFjRFV6Y0t4WHB6UlZHR1A1Zy1GcWh1dTVpM0RLUjBaZnU2aW1tSFctdmEtTW5DTEEtSHI3YVZLNDVmTndfSERHOHBiRnBzYVpvWFdFcGw3OUR2UUtXak5uaW5GcjBWLXRKSFpMSGNDSFo1TXV2bEFWX2RLZERzVjI0S1huUmViMDlXUFVoX1lMT1BDX3FHc0d4VjNFRDU5NXVPUXByazBNUkhPSlEtUjlHblVGX0FUZnpyc09zWF9SUU5nbDJUSFVha3dGWXhKa0VwOXJWLXJwR0U3azV2eGRUUU1oWGdMNTgtcGFKTmRqd2wwR0NWQ1NNS24zTks2NUg1SlhLS1c1dHhGZUpJ": 1794424237980,
+    "threads:DfnMUxDEp1-": 1794424538795,
+    "threads:DfnMoYKjEh3": 1794424538795,
+    "threads:DfnMnvbFH0K": 1794424538795,
+    "threads:DfnMRHnRAae": 1794424538795,
+    "threads:DfnMBrGlmRg": 1794424538795,
+    "threads:DfnMBvqmHqT": 1794424538795,
+    "threads:DfnL3sjuwLz": 1794424538795,
+    "threads:DflojSymSQV": 1794424538795,
+    "threads:Dfl57mclEiK": 1794424538795,
+    "threads:DOD9nnYE_eC": 1794424538795,
+    "threads:DeoZi8OD2BG": 1794424538795,
+    "threads:De0FArfDcl7": 1794424538795
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Tribunjatim.com",
-      "x": "Beasiswa Kuliah Pemkot Blitar 2026 Dibuka November, Ada Bantuan UKT dan Biaya Hidup Rp 750 Ribu - Tribunjatim.com",
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmVDYzJWMDA5cDdJRXBJTmFGZlZtRUFFMEJacDhaUTFuNWcxZ2FYSG5XaEo3RTBwc01yTTVLcXRiLTlmUjdNMTU2el9EN3JNRjBqYkhUYVBlLVB0Vy0tRzBQdEwxRjFSd0NUdGE1eHpKd0xPcDRFZ2UwZkRyb1hvUGgzb0xiR2hTdWFRalcyOHNfTzdLdnNIOXBRelFGMjFLMFpIZWJvcnl2enhvNWxDcXlnMEJDUFdtTXpxYkE0RW5uT2NpNkVQM1htSUpKS21DOGdJ?oc=5",
-      "d": 1794374497000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Pojoksatu",
-      "x": "Beasiswa LPDP Jakarta 2027 Buka Peluang Kuliah Agama ke Mesir dan Arab Saudi, Keluarga Tidak Mampu Jadi Prioritas - Pojoksatu",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU2pMZnV4YVNZNlRYcXF2OGhJTFZsSFBzbk9FQXNscjhURmEwSHp6R3IxSldSZ1V0Qzk4TE9VZ0JrVGZzNXNuSkEzZXp0R29GdlM1NzlvZHdfdTNUUlkzazBkUmd3RVJtNjJ5dWlncU9LazctaXltR3MxTERzQmJ6N2pFdkEtUzd2YUtnRnZhYlFyaVNZeXVhb0Z3T0RvREdNUnhYZDFGN1EzVlhnNFAyc0FxZjlVSTFXRlcxT1p3MGI3bVpCYkowLUFaY3JERGdYUERBYVVjdw?oc=5",
-      "d": 1794407584000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27004,10 +26990,30 @@
       "d": 1794401109000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@diannangraeni",
+      "x": "Join yuk kak ke grup CPNS 2027 GRATIS. Isinya ada teman-teman seperjuangan CPNS, saling menyemangati, berbagi info terbaru seputar CPNS dan mendapatkan bank soal gratis ,tryout dan",
+      "u": "https://www.threads.com/@diannangraeni/post/DflojSymSQV",
+      "d": 1794371649000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinamistalenta",
+      "x": "Kalau kamu lagi di fase losing spark.. Yuk kak kita pahami lewat webinar GRATIS😊✨️",
+      "u": "https://www.threads.com/@dinamistalenta/post/Dfl57mclEiK",
+      "d": 1794380761000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
