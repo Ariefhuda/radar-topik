@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDJEnAibb1": 1793214339612,
-    "threads:DfDI4b4ilRI": 1793214339612,
-    "threads:DfDIvClkQei": 1793214339612,
-    "threads:DfDIIDOlh8L": 1793214339612,
     "news:CBMi4wFBVV95cUxOMGRPSzRLb0lkZGs0RXQ3X1Zld0hob3MzOXpFb2FmbWVOb0x3TlFEbmY5azhmcE40QUJUYzlqN1djNGRiTXF6MnhzakpPa2JScWtkSXkxSnBNM0s0MVA5SzhjVGsxdW5vSm91WDBLUVQwdzlRZ0plY3BlU2dzSXlEV0ZxaE1zenB2VVlVYURiV2czU3JFajEtYTRCanJHeWtjV2tvQVNSR0hSeVU3bERIUzRUVGcwaEJHSy1HUk1ES24yU0NmWDJ3WnM4RGo4SjlmTWNMbWRnR1h4Z18xLXNCTUpTQQ": 1793214647014,
     "threads:DfDJs6yD2XP": 1793214943560,
     "threads:DfDJTlDGDtf": 1793214943560,
@@ -25500,19 +25496,12 @@
     "threads:DfnLfhMmPB_": 1794423650697,
     "threads:DfnK-neibQp": 1794423650697,
     "threads:DfnK0gwFMqK": 1794423650697,
-    "threads:DMByCa-Ote8": 1794423650697
+    "threads:DMByCa-Ote8": 1794423650697,
+    "threads:DfB9M0_DUrv": 1794423936917,
+    "threads:DBH6jBJBgcg": 1794423936917,
+    "news:CBMiuAFBVV95cUxOeEhwVW1MWkJXcEt3ZkhYdktVZWctU1BlRlFndm5EVlZYVGp1WlZoY0lQWE1POHI4YVoxR3htck1vQkRNTW9uMDBmNFhfdlRkNUJnQUpYOUpnVFRTbjdRbXVYTVBkZFVFNGdCN1pOajA3emthczRDYV9Cc2FHdUFDVDZsTW1rTzZPR3Z3MDBtbDhhNWE2Tlc5cXFUdUtPRi1rZHRlQ3JFWFlfWU02QnY2ZG9yTklKX3pm": 1794423936917
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Suryamalang.com",
-      "x": "Pemkot Blitar Sediakan Kuota 99 Orang di Program Beasiswa Perguruan Tinggi, Dibuka November 2026 - Suryamalang.com",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVlFGZWlRWlIyd05kdThSdWY0LWtDRmstM3A5aXJvQnlYTi1UajlqRHUyRHppbEZqLURvTHB3aFEwanA1YmVJLVJqTFZVNF9JOEtTZ01YaThEMWd1c1RJYXR3NHh2akpOOWJRa0U1MlFlc3NPVkFqTmotZHFkdl9xa2hsd3ZscXF6U09pMktacmt4SnJMRUMwR21sYkZITWxkWjZGMGFlVjV2WDRBeGFlOW9MS1Jxc2ozWVFKN0FnV1phaGRRcnBkbHpyS24wVy1YQUdHbzN6NGlBNkpoMXNaZk5n?oc=5",
-      "d": 1794385109000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27002,10 +26991,20 @@
       "d": 1794409200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Tujuh Tahun AMPC Mempawah, Konsisten Bergerak dalam Aksi Sosial dan Kemanusiaan - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEhwVW1MWkJXcEt3ZkhYdktVZWctU1BlRlFndm5EVlZYVGp1WlZoY0lQWE1POHI4YVoxR3htck1vQkRNTW9uMDBmNFhfdlRkNUJnQUpYOUpnVFRTbjdRbXVYTVBkZFVFNGdCN1pOajA3emthczRDYV9Cc2FHdUFDVDZsTW1rTzZPR3Z3MDBtbDhhNWE2Tlc5cXFUdUtPRi1rZHRlQ3JFWFlfWU02QnY2ZG9yTklKX3pm?oc=5",
+      "d": 1794402060000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
