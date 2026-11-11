@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDmN-agftp": 1793229662277,
-    "threads:DfDllw7EnZI": 1793229662277,
     "threads:DfDmz-sEb8B": 1793229993298,
     "threads:DfDmzRTDdqJ": 1793229993298,
     "threads:DfDmuQajtB_": 1793229993298,
@@ -25595,29 +25593,11 @@
     "threads:DfnoakQk0qU": 1794438958500,
     "threads:DfnoVeEk0Fg": 1794438958500,
     "threads:DfnnqKkE2CN": 1794438958500,
-    "news:CBMiswFBVV95cUxOVEhqcjI5XzZmbWdZcmhNVW5ZTWlnYTFiVlBhbnlQYkcwZGNyMEJoVWtjV05kb1NpOE05ZEF4cURvN2V3NUkzLXA1ZUdJUlVIWVBSUVJXX1VCdjkyWWhSWk5MbUdJa1p5SkVhWFdPaE11aDl6Q2l6N1U5QjkwZU5ZZ0Y4bjAxWVhuSF85X1QxWmRaYWctb09tQlcwaHk3R0FxVkdmYU1WVWNtOFhOS2d6aFdmTdIBuAFBVV95cUxOMGd5Njh4d0tCaG9QeWdMbnN4MDFMOVF5SzlJaHY4M2pRdmlRYXlIVUdUZ1JKRDQ3LWphRWdJc0dJSkF4WFota0tSNnNDVDJiSTZuWFJOS2N2QkNQSXNmYmpacUk1cVotZlVtNy1HV0pzU2E4bFJGNDY5QUxuWl9nbzc1UEFXYzBMUC1IZEhOTF9RblRnX0RnX29QaDExZG5WNjd6bGJMLXJSSldXX0p4NlFmd1FjcGtz": 1794438958500
+    "news:CBMiswFBVV95cUxOVEhqcjI5XzZmbWdZcmhNVW5ZTWlnYTFiVlBhbnlQYkcwZGNyMEJoVWtjV05kb1NpOE05ZEF4cURvN2V3NUkzLXA1ZUdJUlVIWVBSUVJXX1VCdjkyWWhSWk5MbUdJa1p5SkVhWFdPaE11aDl6Q2l6N1U5QjkwZU5ZZ0Y4bjAxWVhuSF85X1QxWmRaYWctb09tQlcwaHk3R0FxVkdmYU1WVWNtOFhOS2d6aFdmTdIBuAFBVV95cUxOMGd5Njh4d0tCaG9QeWdMbnN4MDFMOVF5SzlJaHY4M2pRdmlRYXlIVUdUZ1JKRDQ3LWphRWdJc0dJSkF4WFota0tSNnNDVDJiSTZuWFJOS2N2QkNQSXNmYmpacUk1cVotZlVtNy1HV0pzU2E4bFJGNDY5QUxuWl9nbzc1UEFXYzBMUC1IZEhOTF9RblRnX0RnX29QaDExZG5WNjd6bGJMLXJSSldXX0p4NlFmd1FjcGtz": 1794438958500,
+    "threads:Dfnox5ckrjf": 1794439257201,
+    "news:CBMiXkFVX3lxTE5RcnBtSUx5aDJpUVNHTGFmZ3ZMZmh3U0prcHpVcWt3N2xPYTI2dDBMQzZfQzQ4UExDaWstSnd5NmJDX0Q5NGFxTnhJeGlTRWFXUDIzQkRnOWZXZVJOSXc": 1794439257201
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Wajar ngerasa gitu, apalagi kalau lihat pos wajib pensiun dan kasus kebocoran kemarin masih jalan terus. Makanya di publik memang gak ada konsensus satu partai yang dianggap paling",
-      "u": "https://www.threads.com/@meta.ai/post/DfmwJPyCXrb",
-      "d": 1794409185000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@asdfghjklnd_",
-      "x": "haii, guiss! aku mau tanya sekaligus minta saran dari teman2 di sini. Barangkali ada yang pernah mengalami hal serupa atau tahu harus mengadu ke mana 🥺 jd, tadi siang mama aku dat",
-      "u": "https://www.threads.com/@asdfghjklnd_/post/DfmvWDhkwGY",
-      "d": 1794408765000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27097,10 +27077,30 @@
       "d": 1794438574000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@einy_keishi",
+      "x": "Bismillahirrahmanirrahim 🤲🏼 Pendaftaran MEXT Teacher Training keberangkatan 2027 InsyaaAllah akan segera dibuka pada bulan Desember 2026. Saya akan membuka program mentoring berb",
+      "u": "https://www.threads.com/@einy_keishi/post/Dfnox5ckrjf",
+      "d": 1794438878000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Demokratis.co.id",
+      "x": "Jakarta Selatan Rampungkan Bedah 11 Rumah di Menteng Atas - Demokratis.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RcnBtSUx5aDJpUVNHTGFmZ3ZMZmh3U0prcHpVcWt3N2xPYTI2dDBMQzZfQzQ4UExDaWstSnd5NmJDX0Q5NGFxTnhJeGlTRWFXUDIzQkRnOWZXZVJOSXc?oc=5",
+      "d": 1794438900000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
