@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMi4wFBVV95cUxOMGRPSzRLb0lkZGs0RXQ3X1Zld0hob3MzOXpFb2FmbWVOb0x3TlFEbmY5azhmcE40QUJUYzlqN1djNGRiTXF6MnhzakpPa2JScWtkSXkxSnBNM0s0MVA5SzhjVGsxdW5vSm91WDBLUVQwdzlRZ0plY3BlU2dzSXlEV0ZxaE1zenB2VVlVYURiV2czU3JFajEtYTRCanJHeWtjV2tvQVNSR0hSeVU3bERIUzRUVGcwaEJHSy1HUk1ES24yU0NmWDJ3WnM4RGo4SjlmTWNMbWRnR1h4Z18xLXNCTUpTQQ": 1793214647014,
     "threads:DfDJs6yD2XP": 1793214943560,
     "threads:DfDJTlDGDtf": 1793214943560,
     "threads:DfDI5Utj-xI": 1793214943560,
@@ -25499,39 +25498,13 @@
     "threads:DMByCa-Ote8": 1794423650697,
     "threads:DfB9M0_DUrv": 1794423936917,
     "threads:DBH6jBJBgcg": 1794423936917,
-    "news:CBMiuAFBVV95cUxOeEhwVW1MWkJXcEt3ZkhYdktVZWctU1BlRlFndm5EVlZYVGp1WlZoY0lQWE1POHI4YVoxR3htck1vQkRNTW9uMDBmNFhfdlRkNUJnQUpYOUpnVFRTbjdRbXVYTVBkZFVFNGdCN1pOajA3emthczRDYV9Cc2FHdUFDVDZsTW1rTzZPR3Z3MDBtbDhhNWE2Tlc5cXFUdUtPRi1rZHRlQ3JFWFlfWU02QnY2ZG9yTklKX3pm": 1794423936917
+    "news:CBMiuAFBVV95cUxOeEhwVW1MWkJXcEt3ZkhYdktVZWctU1BlRlFndm5EVlZYVGp1WlZoY0lQWE1POHI4YVoxR3htck1vQkRNTW9uMDBmNFhfdlRkNUJnQUpYOUpnVFRTbjdRbXVYTVBkZFVFNGdCN1pOajA3emthczRDYV9Cc2FHdUFDVDZsTW1rTzZPR3Z3MDBtbDhhNWE2Tlc5cXFUdUtPRi1rZHRlQ3JFWFlfWU02QnY2ZG9yTklKX3pm": 1794423936917,
+    "news:CBMipgFBVV95cUxNMzFlN2x5cjJhNVRoeDV5a0N1V0R5aXFpZ2pGTnBFWDducV9VUDBQRjNFSW9XTkQ1dVRTTVBIM2U1bmV1cjAzb2VHbUVKdTNEblBmN012WERYSnFfZTFLcmZXR0k2a3d3Q2hIZWFGNU51d1lHRF9OZF9uVUhqM0V1eHVDYk5Oa1pZNlV3TW1BMk1oMk1SVnpKZzB1RnE3RlBLVUtfUWtn": 1794424237980,
+    "news:CBMirAFBVV95cUxObFdydENlYThvQ2o3WUplVFYzN3hTTzdnVV85MmlUVWk1Tk50c09WN1pmY1RGYzJOMHY4QVdvdU1BRWdHR2ZlQ0llYzhsSnM1VDBvQS1uMXVjeFlIY201Y0hwRGVZZnJrWElGSWVoVkU1VzA4WURSLUNVaU5Ha0dwTU5QLWU0WVZDM0dBWk9uNmpuNDdlOHM1bl9WaWRlRW5jODhFb0FiQ1B4cTBH0gGyAUFVX3lxTE0weTBibm5MUGpIbHRteldPRjczRWdwREkxdzJFV0duUDVCLTJtQVhVckxiYmUxMUc4OGM4M0VTMDNFbUhYa2lydEp3OU9lVlBJMi1mV1c0dkdCOEFVcU5uZWlESXlpbzZmdVdKVWtEODJ6RGNHcmFieTkzbWFRMEVtZ3NseWlmRGZpc1BqTVQySnFZd2J2bU5ld3VCc3lhNC1kRW5rZTF6c1I2alBtQ3VhOEE": 1794424237980,
+    "news:CBMi4AFBVV95cUxOME56M08yZHNldThtOFB5dWcyaVotSDVYVEMwVEpfRUlWWFdmODJWX2J5ekxRSjRKR2p1NFMtb2RsMEtUS05ObDdpYzR0QW9oUTFoeV9vVV9TOG80M2FacFBVcHdrdndFVjg4U3gtRFNEaUF6RWItWjh3U3oxZHBvVDN5eG9vNF9BM0tmc2pBbGs3YW4xS3Frb2E0S3BXV2pGQXBzS1ZMcm56R1FBdlJmSExHVkpqdGRQbG1KM1E3a3ZqTUZkZ1g1QWgtVzF1c0hXVm4wQUJ0RUlsX1hfQjdSVNIB5gFBVV95cUxNdGxxVHdTTkx1UzhZU0FvTkpqckNDb0g3ejdpeE9UaVlNcmgxenN6VktUR21oT29UT1JjNzJXQTdBUXlrdmg4SGNwOC1idjY5WGlEY0FMUjhtdFBuWW9Cb21OTnJkUjRTTDhiaTN2a0JQM3JaNThTYnRRX2NpRUpGQnlDNWdnXzI5V0hFWnhSR0YxNl9yTVBuSEZkTG1tV0U1Q1k3cG02d1lwUzhLdXdwYmR0cmVCMDJRRHNqdEVxcXdpZ2hDbmFpSGhZOXpTMHJ1N3k2djRWMkh5ZkRnYXN4YVJXSkcyUQ": 1794424237980,
+    "news:CBMilgJBVV95cUxPdzFZUkZEQmxVMm9sbGVpTGFYdGZGN0JmY0ZkOWxVczM3aWxXOUFORWUzUmpKRmMxcDkzb29GdHZYZFc3RFBoUWJRbzYxdkdWZmVkc1hJRERHSXUxOU1GS01nNEdOMmZNZUVVMDhydDdDODhnVElkVWlfaXZqeHBpM2dUUEt6QnFEOFl2Mk90YW15QndsNGl0ZzA1Z3lIcXJmc29nV19OeWIwNTBZMmxCWlZLV2tYN1lTTEFiVUlFaXo3Y1RvaWkzQUp5WnhYSnpKTjExMWJYVE00U0VTNm5uUlRseDF3NFRCbGJaNkdTbTFmWElNZlVjTERFUzJYanRGOFdscnJtSGxTSEhfV2NJUzJVcjdhQdIBmwJBVV95cUxOWjd5YVZEblU5czNTblFjRFV6Y0t4WHB6UlZHR1A1Zy1GcWh1dTVpM0RLUjBaZnU2aW1tSFctdmEtTW5DTEEtSHI3YVZLNDVmTndfSERHOHBiRnBzYVpvWFdFcGw3OUR2UUtXak5uaW5GcjBWLXRKSFpMSGNDSFo1TXV2bEFWX2RLZERzVjI0S1huUmViMDlXUFVoX1lMT1BDX3FHc0d4VjNFRDU5NXVPUXByazBNUkhPSlEtUjlHblVGX0FUZnpyc09zWF9SUU5nbDJUSFVha3dGWXhKa0VwOXJWLXJwR0U3azV2eGRUUU1oWGdMNTgtcGFKTmRqd2wwR0NWQ1NNS24zTks2NUg1SlhLS1c1dHhGZUpJ": 1794424237980
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Cirebon Times",
-      "x": "Kemdiktisaintek Buka Beasiswa Garuda Sarjana Luar Negeri - Cirebon Times",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NQy1SWEFsRkVHUU9RNm55c0MxZXhOVk40WExibm84QjR0S3Jnc0JrdmI4aURCZm5UWXk4MUowYzEtY1FQZ0thVHZYTDVZb1hIUTlnR1Q0M1M0YWZJcV9sdGlaQnZxUmtDOHp4XzZiMktqQQ?oc=5",
-      "d": 1794389736000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Pojoksatu",
-      "x": "7 Beasiswa LPDP Co-Funding 2026 Dibuka hingga 1 Desember, S2 dan S3 ke Jepang, Irlandia, AS, Australia, dan Jerman - Pojoksatu",
-      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEhkZ1VQamlKOHFKTTUwYzFWX0UwRVNGNU5XTmxxNW9XOTl5NThKLTQyOXpSQkNYU0RMS18tQk5FNGxkb2NUV0xBUER1Unp4T3lWUzVycEEtTnNDSC04SUUwdTZZZEFEbFg0dF9TYXVTbVF0TTBObkt2cV85cUVZRUFhQWViYlp2c2dvRVJ6RU1GS2Z0b2NDZEVRQjRYOFNDd3FBemdJZ2ZfV294bmVsQ2oyV2VxT3FXMEh4MDJnV1FiQndDS1RZbkFaUlVOaUVxNUdN?oc=5",
-      "d": 1794406620000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Surya.co.id",
-      "x": "Beasiswa Perguruan Tinggi Kota Blitar 2026 Dibuka November, Simak Ketentaunnya - Surya.co.id",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXJjQnVKYmhNVGhFUjJKTVZmMzZtamQwOFZTXzF0b3VmTmZVbWxRU3RaQzgzLWJDdG56ZDNsbTRhYjIyZDQ2THdJejl0YnpzR3Z1bzBwcnFqUDg3V2hVOEtoVU1MTVMxXy14OENUaFhnUUVuMWgzQzVNZnJMUUVnYzdfQ2ZGbHNZdHlsYk9zSFg1eUJFeEFJM3luNVdqMTU2UUNCVXVZNmZtVzVJOHBPWmdPa1FscEJSTEZxNktoeVZJbk9raGZn?oc=5",
-      "d": 1794384403000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27001,10 +26974,40 @@
       "d": 1794402060000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Info Mase",
+      "x": "Beasiswa AGS Dibuka untuk Murid SMA-SMK, Tawarkan Kuliah di 5 Negara - Info Mase - Info Mase",
+      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFdydENlYThvQ2o3WUplVFYzN3hTTzdnVV85MmlUVWk1Tk50c09WN1pmY1RGYzJOMHY4QVdvdU1BRWdHR2ZlQ0llYzhsSnM1VDBvQS1uMXVjeFlIY201Y0hwRGVZZnJrWElGSWVoVkU1VzA4WURSLUNVaU5Ha0dwTU5QLWU0WVZDM0dBWk9uNmpuNDdlOHM1bl9WaWRlRW5jODhFb0FiQ1B4cTBH0gGyAUFVX3lxTE0weTBibm5MUGpIbHRteldPRjczRWdwREkxdzJFV0duUDVCLTJtQVhVckxiYmUxMUc4OGM4M0VTMDNFbUhYa2lydEp3OU9lVlBJMi1mV1c0dkdCOEFVcU5uZWlESXlpbzZmdVdKVWtEODJ6RGNHcmFieTkzbWFRMEVtZ3NseWlmRGZpc1BqTVQySnFZd2J2bU5ld3VCc3lhNC1kRW5rZTF6c1I2alBtQ3VhOEE?oc=5",
+      "d": 1794409200000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Tulungagung",
+      "x": "Bansos Kemensos November 2026: Kenali 4 Jenis Bantuan dan Cara Cek Status Penerima Pakai NIK - Radar Tulungagung",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOME56M08yZHNldThtOFB5dWcyaVotSDVYVEMwVEpfRUlWWFdmODJWX2J5ekxRSjRKR2p1NFMtb2RsMEtUS05ObDdpYzR0QW9oUTFoeV9vVV9TOG80M2FacFBVcHdrdndFVjg4U3gtRFNEaUF6RWItWjh3U3oxZHBvVDN5eG9vNF9BM0tmc2pBbGs3YW4xS3Frb2E0S3BXV2pGQXBzS1ZMcm56R1FBdlJmSExHVkpqdGRQbG1KM1E3a3ZqTUZkZ1g1QWgtVzF1c0hXVm4wQUJ0RUlsX1hfQjdSVNIB5gFBVV95cUxNdGxxVHdTTkx1UzhZU0FvTkpqckNDb0g3ejdpeE9UaVlNcmgxenN6VktUR21oT29UT1JjNzJXQTdBUXlrdmg4SGNwOC1idjY5WGlEY0FMUjhtdFBuWW9Cb21OTnJkUjRTTDhiaTN2a0JQM3JaNThTYnRRX2NpRUpGQnlDNWdnXzI5V0hFWnhSR0YxNl9yTVBuSEZkTG1tV0U1Q1k3cG02d1lwUzhLdXdwYmR0cmVCMDJRRHNqdEVxcXdpZ2hDbmFpSGhZOXpTMHJ1N3k2djRWMkh5ZkRnYXN4YVJXSkcyUQ?oc=5",
+      "d": 1794393613000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Ayo Bandung",
+      "x": "BPJS Ketenagakerjaan Sediakan Portal Pengkinian Data BSU 2026, Pekerja Bisa Masukkan NIK dan Identitas untuk Persiapan Pencairan Bantuan Rp900.000 - Ayo Bandung - Ayo Bandung",
+      "u": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdzFZUkZEQmxVMm9sbGVpTGFYdGZGN0JmY0ZkOWxVczM3aWxXOUFORWUzUmpKRmMxcDkzb29GdHZYZFc3RFBoUWJRbzYxdkdWZmVkc1hJRERHSXUxOU1GS01nNEdOMmZNZUVVMDhydDdDODhnVElkVWlfaXZqeHBpM2dUUEt6QnFEOFl2Mk90YW15QndsNGl0ZzA1Z3lIcXJmc29nV19OeWIwNTBZMmxCWlZLV2tYN1lTTEFiVUlFaXo3Y1RvaWkzQUp5WnhYSnpKTjExMWJYVE00U0VTNm5uUlRseDF3NFRCbGJaNkdTbTFmWElNZlVjTERFUzJYanRGOFdscnJtSGxTSEhfV2NJUzJVcjdhQdIBmwJBVV95cUxOWjd5YVZEblU5czNTblFjRFV6Y0t4WHB6UlZHR1A1Zy1GcWh1dTVpM0RLUjBaZnU2aW1tSFctdmEtTW5DTEEtSHI3YVZLNDVmTndfSERHOHBiRnBzYVpvWFdFcGw3OUR2UUtXak5uaW5GcjBWLXRKSFpMSGNDSFo1TXV2bEFWX2RLZERzVjI0S1huUmViMDlXUFVoX1lMT1BDX3FHc0d4VjNFRDU5NXVPUXByazBNUkhPSlEtUjlHblVGX0FUZnpyc09zWF9SUU5nbDJUSFVha3dGWXhKa0VwOXJWLXJwR0U3azV2eGRUUU1oWGdMNTgtcGFKTmRqd2wwR0NWQ1NNS24zTks2NUg1SlhLS1c1dHhGZUpJ?oc=5",
+      "d": 1794401109000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
