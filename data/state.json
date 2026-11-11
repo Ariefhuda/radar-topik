@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "news:CBMivwFBVV95cUxQTi1ybTY3RGpkQU5FclVGRFNoS211Szl2WFJyNmR0Y2dxMVBNVzh4LVlNNG5zZnJ2Y2JCN3NEb0dEbVdrOXo4VV9yUDU1UVFPRjFKU3lLaldCcG94R3ROUzRqczRrLWdPMllDSm9ETmtnSVhtSXZxT0hEdDF2UVFJdTZRYWZKRGxNMERSZWFQR0phRU8zQldzMUJ3eXUyZEZzWWNic29udm5UeU80dkR6c3RocDVqUGlQNV9BT3VPVdIBxAFBVV95cUxOQzI5aWVBMW44ZlJ4ZGpCRk03NDdDdkY0R1RmVWNHa2dkQ2E5ZlBfT1hfdFhwTENCazZKb2M5VkVrSTBkaWxPUF9MNXhLQWQ4bTEtOGVzVVZnbDg2Y1FPS2lGbGc2ak5rSEZ5ZXNBdnREWFpfeWFNcFd2V18yaWRqRXhJcWFncTBJM2xBOElQRVU1UjRZMTdlaG1NVzlqUW1yTmxqN2lFQ2FaMUVMRlJfT1RVclZoXzBVZ2NzWVZkVTdOZjRU": 1793226337492,
     "threads:DfC70PugU45": 1793226652886,
     "news:CBMixwFBVV95cUxPVjZTVUFNRGxKZGZXWTJhRmxSRXo1UmNiWlJnQzFIZ1ppcWJmVlItaXJfMnA3TDVMYzdiUzI2TlhxVDRzQ1V5azZVNHR3Y0VxXzQ3N080dmhLekhuNkpkRXQzRlNZalo4WXNKN3hfSlgxVGZJbVYwUG5Hakp1TkRGZURVZmJnWVBCbHhuZWRONlpISngyODhSQkZwYUhnSS1kOElLZ0tsRHJObnlJOENPWmZjSWx4Zmx2TjdrMkRMRmlVeFpnY0Zn": 1793226652886,
     "threads:DfDg459j159": 1793226945003,
@@ -25544,29 +25543,20 @@
     "news:CBMigAFBVV95cUxNc1duSTdlM3ZNMWZpX0VUeDZNSjQ5MkpjNEJOWG9VUWdoM20zSEM3RTZqMWl3bDBwa21Vdk1UVFdfT2VRN0h5VTl0eUIxeFlQMlg2LWFwZ2dnOEJSOUtLQXFmVkZOV1BSUkEteDNibWtwQ2VoWDF4SFJiTUpXd0R1cw": 1794435644641,
     "news:CBMiZ0FVX3lxTE1MMXl2TGhjRHUxeXA2MUF6anNvdU1WMm9JdlNIUVlNandoaWZuQTE3RnNOZVgwMlJmbHZSZmZ6cm44TTV1U0lMZXQ5YW50RlpCMkpDMV84c2ZWQno5WjlralR6QzlSXzQ": 1794435644641,
     "news:CBMi0wFBVV95cUxPYWdXa0hCSHBDTGViN3BXampxd19fOTFiekNFT1lKTzFZMkxGV29aYjNtVVFqMGlqbWFJT19xeG5XMlIxSV9zanJtTWtGbHRxQTZ0YWV3czBaeU5OTHlTNUlBZkZhUmh6QlFOUm13TmVkci1yQUJFZTExMFM0eE94bEM1b0NhZHlOODROWmlJUkFwSjdOeTZRemM2ajhqZ1N4WjJDaWxJMVctMlFSODgxYURQWXRoUXhBY0JaQnVjNXhKdGViNnJGSGd3LWZWM1NuMkdn0gHTAUFVX3lxTE9hZ1drSEJIcENMZWI3cFdqanF3X185MWJ6Q0VPWUpPMVkyTEZXb1piM21VUWowaWptYUlPX3F4blcyUjFJX3Nqcm1Na0ZsdHFBNnRhZXdzMFp5Tk5MeVM1SUFmRmFSaHpCUU5SbXdOZWRyLXJBQkVlMTEwUzR4T3hsQzVvQ2FkeU44NE5aaUlSQXBKN055NlF6YzZqOGpnU3haMkNpbEkxVy0yUVI4ODFhRFBZdGhReEFjQlpCdWM1eEp0ZWI2ckZIZ3ctZlYzU24yR2c": 1794435644641,
-    "news:CBMi3wFBVV95cUxOSDhvc3duV2VmMmsydXlrVE90NFpNc2pDaWd6clhCQzV5emhKM1I5YU1jRU1LbU9KLVlmYk1ldkc2YS1jaEQ5dkFHYWR1Y3lITzVjX3p2dFhkU2d5UEZKUzdWQlBCSnp5X3FMWmdTLTI1cGpSQ1hlVEpvc2lhWTZXTUU0UEZuY3ZIUnRJajdHOTRWVlRjRUtqTk9mM1NVeW5Ca3dOSElXdU9CSnlqOU4tTHBTNEhaSkJzN0pUQjg5b0lfVHY5STBXeElmU3VxcFdLUU5wQlpPTkc5VThOalY4": 1794435644641
+    "news:CBMi3wFBVV95cUxOSDhvc3duV2VmMmsydXlrVE90NFpNc2pDaWd6clhCQzV5emhKM1I5YU1jRU1LbU9KLVlmYk1ldkc2YS1jaEQ5dkFHYWR1Y3lITzVjX3p2dFhkU2d5UEZKUzdWQlBCSnp5X3FMWmdTLTI1cGpSQ1hlVEpvc2lhWTZXTUU0UEZuY3ZIUnRJajdHOTRWVlRjRUtqTk9mM1NVeW5Ca3dOSElXdU9CSnlqOU4tTHBTNEhaSkJzN0pUQjg5b0lfVHY5STBXeElmU3VxcFdLUU5wQlpPTkc5VThOalY4": 1794435644641,
+    "threads:DfnjJ-mGZvn": 1794435937156,
+    "threads:DfnjJaFmYMP": 1794435937156,
+    "threads:DfnjFpKkrLs": 1794435937156,
+    "threads:DfniinfEuxT": 1794435937156,
+    "threads:DfniZFvGBga": 1794435937156,
+    "threads:DfniV8zn9Ms": 1794435937156,
+    "threads:DfniDJ-k0dI": 1794435937156,
+    "threads:Dfnhp4Cne4F": 1794435937156,
+    "threads:Dfmys5GCXg0": 1794435937156,
+    "threads:Dfni1GSky7p": 1794435937156,
+    "threads:DfnjLsNk1Bn": 1794435937156
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribun-medan.com",
-      "x": "Daftar Bansos Cair November-Desember 2026, Ada BPNT dan BSU, Berikut Link dan Cara Cek Nama Penerima - Tribun-medan.com",
-      "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNME1vc01SQndiTTRSMGlndFJFNzFLRjlsOXlZcUN6c2lNOGFZWGRWUFFwWWRndmxkb2k4dEJ6OHBkTXhrNW9pY3dWTUlyRjl4WnYzNGVFdldXSF82bmcwLTVBc25LeUxFZnhlbmVuSEl3OXczZzE4YVlJczROTC05d0ROemtaQ21FLWlkR1BmTnFLdENkUDJHQ3g5eTM1dnVFZGFzUDJtQmdiUTlUQmdTMzAzVjNmWF9tZ2EzUkJmSW5ZSkw2YWQxMGxUcVhDZ0ZmMUJtS1IzRQ?oc=5",
-      "d": 1794414195000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunsumsel.com",
-      "x": "Cek Bansos PKH dan BPNT November 2026 Sudah Mulai Cair, Akses Secara Online Lewat HP - Tribunsumsel.com",
-      "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTZ1Y1F0SFBsRWtkX0dGcHJjazRtdEt2cmtkcWtTU1RyX0hoc3FudWFoWENyWHI1VFR0aWtIdHptejVfdEkxOHI4dFlFYzM4b1RYdFhlSDl6cDFuU1RldW5VMzNDaE9ZS0hMeDZIdHNtYnQ4blJSem9ZZlhodjVpVEVyc2Vtd0NoNUk1TnVNR0hpNURySlNsbEdyd1FJa1dkb0ExZzdsZXhjYXVSVXdYOHBNTzU0bW53MzU4em9qTjM0d3BLQ1lMR0tB?oc=5",
-      "d": 1794408137000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27046,10 +27036,30 @@
       "d": 1794433831000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak bisa coba bisnis online 😊, Kk bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, a",
+      "u": "https://www.threads.com/@dinnie_ivone/post/Dfni1GSky7p",
+      "d": 1794435758000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@lokerblitarcom",
+      "x": "✨ Mau jago potong rambut atau mahir merias wajah secara GRATIS plus dapat uang saku & sertifikat BNSP? 😍✂️💄 Yuk, jangan lewatkan kesempatan emas mengikuti PELATIHAN GRATIS dari K",
+      "u": "https://www.threads.com/@lokerblitarcom/post/DfnjLsNk1Bn",
+      "d": 1794435943000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
