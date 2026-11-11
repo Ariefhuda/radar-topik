@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDPZlajkWj": 1793217936953,
-    "threads:DfDMMKBlN0U": 1793217936953,
-    "threads:DfDPfx8DsTn": 1793217936953,
-    "threads:DfDO_6SGbHY": 1793217936953,
-    "threads:Dc6PvNAH2EU": 1793217936953,
     "news:CBMisAFBVV95cUxPcmxNN05McFpIdHg4NmZmTzVCalVtMFY4UjFGUmpiVE9ZaG5BSXdWMzlKVEhBcFJzWlJXX25xeVQzM1FOTWZYTXdBNUlSZDYwTm5zYzVXZXp2RXBSMXIzUDAtM1RDUEVHN2FSZDZmWXJEMVpSdlRZY3ozcXlrdlRVSEl6OGxHeXBfVTFKX2Z5UjZOWGJ4QWQwT1U2aE1EMW5iY3MyU1YzSzdvSEZ2MmVkdA": 1793218252513,
     "threads:DfDQ3kvjA9s": 1793218543239,
     "threads:DfDQs9Xm9_Z": 1793218543239,
@@ -25527,19 +25522,31 @@
     "threads:DfBuUL8mcOm": 1794426932824,
     "threads:DbF82gDCTGW": 1794426932824,
     "threads:DRl98UQkSq7": 1794427251523,
-    "news:CBMidEFVX3lxTE9EUFR4VTB2Ynk1aTRHVU5PS3hhVlRsVVhPeUx2YUNHUElOSnpNZExTREpMZUQtaC03OHRSN1pya081cDdIYzdhRHdxS2RjWGl0aU5YOG9FT3Y0WWNxWW1DNy1aXzZoc3Fsdk5kMTFPenVGUS1E": 1794427251523
+    "news:CBMidEFVX3lxTE9EUFR4VTB2Ynk1aTRHVU5PS3hhVlRsVVhPeUx2YUNHUElOSnpNZExTREpMZUQtaC03OHRSN1pya081cDdIYzdhRHdxS2RjWGl0aU5YOG9FT3Y0WWNxWW1DNy1aXzZoc3Fsdk5kMTFPenVGUS1E": 1794427251523,
+    "threads:DetDP-sj76C": 1794427535766,
+    "threads:DfnTLr-khbD": 1794427535766,
+    "threads:DfnTHSemQm_": 1794427535766,
+    "threads:DfnTEWcmTJO": 1794427535766,
+    "threads:DfnS8Z_Ge19": 1794427535766,
+    "threads:DfnSx-gCIPc": 1794427535766,
+    "threads:DfnS0M2GY_K": 1794427535766,
+    "threads:DfnSx8jFTYB": 1794427535766,
+    "threads:DfnSkfRgZ-E": 1794427535766,
+    "threads:DfnEv9yEkG6": 1794427535766,
+    "threads:Dfm0Mf-GtSc": 1794427535766,
+    "threads:DfnSJkcD_c6": 1794427535766,
+    "threads:DflQpcmkzt1": 1794427535766,
+    "threads:Dfl2VZlAUgP": 1794427535766,
+    "threads:Dfmy6XgoZMS": 1794427535766,
+    "threads:DfnShLCATe8": 1794427535766,
+    "threads:DfnSa91gWtw": 1794427535766,
+    "threads:DfnSYHjgSbe": 1794427535766,
+    "threads:DZEobnVGB2C": 1794427535766,
+    "threads:DflmyM2GO7E": 1794427535766,
+    "threads:DflczUxj6MU": 1794427535766,
+    "threads:De4WmWnk_Ue": 1794427535766
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Lensa Hukum",
-      "x": "LPDP Buka Tujuh Beasiswa Co Funding ke Lima Negara - Lensa Hukum",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTejhVckdMVWs2VTBFZVRjelQwX2l1cUJYYUMyd2hKQk55SEhfX2hndERpUDBVMjZRNXV6V2E5VEFSSFhVaG0ydTV1SzlJNWtzQ3NuX3B1Qkx5LUNNa3AwT0FiSWg5LVZxc3k2Q2NR?oc=5",
-      "d": 1794392433000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27029,10 +27036,20 @@
       "d": 1794405360000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sangjuaraschool",
+      "x": "Calon maba FK ada yang mau ikutan webinar gratis gaa dari SJS 👀",
+      "u": "https://www.threads.com/@sangjuaraschool/post/DflczUxj6MU",
+      "d": 1794365489000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
