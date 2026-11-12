@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFQ6pKiuBW": 1793285739883,
-    "threads:DfFQyJ0EwQf": 1793285739883,
-    "news:CBMisAFBVV95cUxNLUQzcTRZNHJFVnppODE3X1FtQkh1ZnEzOVppMllzV3JTWUhvaEhMYS1ueE1LSlN0R3BGQUZ3OWtXdFdIRGlINEZtSmZCQWRnZWYxM0sxS19fc1cyT0tGWFJmb2Rhbkl3bWVZdXMwQ2Z5NC1ydFZvdXp0OFJwTmdybGxwODMyNEMzTEFYMDNIRHl0UmppTl92RXZpa2E4WjEzMGg2ZjJ3c1VMay1vdFdnUtIBtgFBVV95cUxOYVNyaUFfUFZuekRSOXpVUHdkZGFINFdfcGhXWXkwZFJyMnNfclZkU2xfYjVYM2dmU0JEVFMySmdfUWN0Y2pwbF9vMXZUQi1Xd254dHduaFY4Y0dFaExWa1pTUTB4MWhJSWVnbUZzbFUyZDQ2RVIyLTdoYjVIWERtaDZvY3hKekFYdTZxLWkwYUdBR0hlQ2F0OVpVRVJHOVVkTWRZQlA2UGRGTXZKSFE2djVMMFR1QQ": 1793285739883,
     "news:CBMieEFVX3lxTE4wQUs5MTdudlFJQWFDT05mWGdFWUQzOFIzNG1JanBIbGJ5bXR6M0xfaDcwSm1HQ3JWZVlVOVRpdjJrMi1LTUtnemh6UmcwTzVaZnhLa0g4UnI3TmR4TTFjejcyMGdRN3Jycl9xWlNoM083VlRQQmdnetIBeEFVX3lxTE4wQUs5MTdudlFJQWFDT05mWGdFWUQzOFIzNG1JanBIbGJ5bXR6M0xfaDcwSm1HQ3JWZVlVOVRpdjJrMi1LTUtnemh6UmcwTzVaZnhLa0g4UnI3TmR4TTFjejcyMGdRN3Jycl9xWlNoM083VlRQQmdneg": 1793286078099,
     "news:CBMivwFBVV95cUxNWGNaeDVEemw5VUtSYkhfUUI3all0TFl1Z1BVUzRzMWdsYXJOOVBTaWJBQ29SSTdmQlZVU2hIZ1hxR3lCOVRsOE95MzRXRXR6SUtJQWFJZmEwUUE0OFQwUkVxcmtOeHVfaU9iOHNCUFVNT1h4Tk9YcWRVQmdjd1JiTGdYanRFRW54RHZqZnVINktrRy14Z3l1V3I3Z3lYMHFEUG15WGpJR3VmckVNWkMyZHk4cEtDQVJDVjNRWEhSMNIBvwFBVV95cUxOQmQzNXNhamRrNlNGcjNvbW1salotYm0xdTlQVC1meHRiVkhRZEl1VHdyY0VIMlRLZm53d0JXS2RHMmtna1N5Vi1UbnBYUWl4YkxQNjFNcEJ3QUFXeVJuSG5HSERMQ2xTTm4xRE5ZSUFFOGY3SUZDa2xlY1ZDVVBUejNYdkNxOWJ5ZHB5VVRtYm5RZUJYeUxZaktaQ0VXdlEyQ05OU1h4ODIwc0xjSWYxLUJha2YwOHdtNHpwQ1dzaw": 1793286078099,
     "news:CBMiigFBVV95cUxPN3FYR0ZwTHk3U2EtYlZobzN6WWpnYUFpQjZycFRSUk1LdFVKVUV4SmxfQWl0NWJMUWc0eGl3SVhsd2d6VGgwdnpEQ0l0SXNlV0YtV3VNTzBGU0FJenVacDlxdUxHYkdDcUg2UVVPQ2RBVkZ3dWpNSUVSeXRINzNVYlhhUG5kRzRXUlE": 1793286078099,
@@ -25777,69 +25774,23 @@
     "threads:DfpTK6ACQCD": 1794495039006,
     "threads:DfpTF7ak0mC": 1794495039006,
     "threads:DfpRXW4E7xb": 1794495039006,
-    "news:CBMi6AFBVV95cUxNMy03TlBiTWhQYnotUzdUX1N4cFhLVXp5X29HdUpvU2JWT3NERWM4QTVaVFdQQWhEWktfS2xHaEtPU0pxYTZ0TzZZUGFoMGJ3MGIyd0t2TjdmU3lTdU41T2wyRXowVVdLbWpfN2JQc3VZMGh3RjJHREhHWTVtVUpPcjhCdDlrRXBoUXRQcWtGU1V6bFlKbFR4RWhkMEhaa1lQeGVJMW9BZ2NHYUU0Yk9PUWRTR2hHcGdyd01EYmxKYkVqekdYYjc2cUdXUDhYOVhxaGhrYWhVNVBjd0xPeDd6TkNvUm5kOHFO0gHoAUFVX3lxTE0zLTdOUGJNaFBiei1TN1RfU3hwWEtVenlfb0d1Sm9TYlZPc0RFYzhBNVpUV1BBaERaS19LbEdoS09TSnFhNnRPNllQYWgwYncwYjJ3S3ZON2ZTeVN1TjVPbDJFejBVV0ttal83YlBzdVkwaHdGMkdESEdZNW1VSk9yOEJ0OWtFcGhRdFBxa0ZTVXpsWUpsVHhFaGQwSFprWVB4ZUkxb0FnY0dhRTRiT09RZFNHaEdwZ3J3TURibEpiRWp6R1hiNzZxR1dQOFg5WHFoaGthaFU1UGN3TE94N3pOQ29SbmQ4cU4": 1794495039006
+    "news:CBMi6AFBVV95cUxNMy03TlBiTWhQYnotUzdUX1N4cFhLVXp5X29HdUpvU2JWT3NERWM4QTVaVFdQQWhEWktfS2xHaEtPU0pxYTZ0TzZZUGFoMGJ3MGIyd0t2TjdmU3lTdU41T2wyRXowVVdLbWpfN2JQc3VZMGh3RjJHREhHWTVtVUpPcjhCdDlrRXBoUXRQcWtGU1V6bFlKbFR4RWhkMEhaa1lQeGVJMW9BZ2NHYUU0Yk9PUWRTR2hHcGdyd01EYmxKYkVqekdYYjc2cUdXUDhYOVhxaGhrYWhVNVBjd0xPeDd6TkNvUm5kOHFO0gHoAUFVX3lxTE0zLTdOUGJNaFBiei1TN1RfU3hwWEtVenlfb0d1Sm9TYlZPc0RFYzhBNVpUV1BBaERaS19LbEdoS09TSnFhNnRPNllQYWgwYncwYjJ3S3ZON2ZTeVN1TjVPbDJFejBVV0ttal83YlBzdVkwaHdGMkdESEdZNW1VSk9yOEJ0OWtFcGhRdFBxa0ZTVXpsWUpsVHhFaGQwSFprWVB4ZUkxb0FnY0dhRTRiT09RZFNHaEdwZ3J3TURibEpiRWp6R1hiNzZxR1dQOFg5WHFoaGthaFU1UGN3TE94N3pOQ29SbmQ4cU4": 1794495039006,
+    "threads:DfmDTRdj4vz": 1794495336122,
+    "threads:DfpI-1sEr_a": 1794495336122,
+    "threads:DfpUcAvGZh9": 1794495336122,
+    "threads:DfpUVisnWF7": 1794495336122,
+    "threads:DfpURoHko-E": 1794495336122,
+    "threads:DfpTOuCE8yv": 1794495336122,
+    "threads:DdEJnq2El6m": 1794495336122,
+    "threads:DegSfdbmfC0": 1794495336122,
+    "threads:DfpUjCNI5Mi": 1794495336122,
+    "threads:DWDdasflAmi": 1794495336122,
+    "threads:Ddc_s9djHNi": 1794495336122,
+    "threads:DZG3X7jkV8k": 1794495336122,
+    "threads:DflspZxICEq": 1794495336122,
+    "threads:DS8bP77CVYw": 1794495336122
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@xvier024",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@xvier024/post/DfpGbTXk_t0",
-      "d": 1794487976000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@brightenglish.bdg",
-      "x": "Ice Cream Battle: Phrasal Verbs Edition! 🍦 Recap singkat keseruan Free Weekend Event kemarin! Seneng banget ngeliat adik-adik semangat adu strategi, melatih teamwork, sambil belaj",
-      "u": "https://www.threads.com/@brightenglish.bdg/post/Dfmmk4djHHo",
-      "d": 1794404171000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHmRAILGI",
-      "d": 1794488590000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHlxAIJzd",
-      "d": 1794488586000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHlQIoMCg",
-      "d": 1794488582000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHkuhINSg",
-      "d": 1794488577000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27279,10 +27230,70 @@
       "d": 1794490500000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arfaanfirdaus",
+      "x": "Ngapain pusing belajar jualan online sendirian kalau kamu bisa belajar dan diskusi langsung bareng mentor secara GRATIS di webinar minggu ini Mumpung webinarnya gratis dan pesertan",
+      "u": "https://www.threads.com/@arfaanfirdaus/post/DfpI-1sEr_a",
+      "d": 1794489316000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nihao.noelle",
+      "x": "Malam warga, Gw ada pelatihan Bahasa mandarin nih, kalo lu tertarik bisa komen atau dm yaa.. gratis tapi slot terbatas",
+      "u": "https://www.threads.com/@nihao.noelle/post/DfpUcAvGZh9",
+      "d": 1794495322000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@mandarin_dari_nol",
+      "x": "Nihao warga, Gw ada pelatihan Bahasa mandarin nih, kalo lu tertarik bisa komen atau dm yaa.. gratis tapi slot terbatas",
+      "u": "https://www.threads.com/@mandarin_dari_nol/post/DfpUVisnWF7",
+      "d": 1794495269000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@chinese.amru",
+      "x": "Gw ada pelatihan Bahasa mandarin nih, kalo lu tertarik bisa komen atau dm yaa.. gratis tapi slot terbatas",
+      "u": "https://www.threads.com/@chinese.amru/post/DfpURoHko-E",
+      "d": 1794495237000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@masprieku",
+      "x": "🚀ENTREPRENEUR atau PEGIAT LINGKUNGAN, YUK BELAJAR BIKIN KONTEN PROMOSI PRODUK ATAU JASA DENGAN AI! Pelatihan ONLINE GRATIS bersama LiniAI × ERIN. Jangan sampai produk lokal kalah ",
+      "u": "https://www.threads.com/@masprieku/post/DfpTOuCE8yv",
+      "d": 1794494689000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arumpurbasari",
+      "x": "Halo! Aku Purbasari Kusumaningrum, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Market",
+      "u": "https://www.threads.com/@arumpurbasari/post/DfpUjCNI5Mi",
+      "d": 1794495379000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
