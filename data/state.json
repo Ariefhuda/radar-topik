@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEQjmnE5AT": 1793257253583,
-    "threads:DfBcntIkiQV": 1793257253583,
-    "threads:DfEam1viRvd": 1793257253583,
-    "threads:DfEag0JDdxV": 1793257253583,
-    "threads:DfEZuTUm8Zz": 1793257253583,
-    "threads:DfEZuJ7lSpa": 1793257253583,
-    "threads:DfEa4bdEX-N": 1793257253583,
-    "threads:DfEYoMDE2Sv": 1793257253583,
-    "threads:DfEaIeRoP1O": 1793257253583,
-    "threads:DfEaIN3gdbW": 1793257253583,
-    "news:CBMimAFBVV95cUxOQ1l5T3FNdGN4MlBUZF9MbDJaV3VBWUFzT251VWI4Q1hkZmRtN2ppb3d6Y0VqQXRPOGE0WU9JYWxaVjFmb2h3YXZ3Q1pfZFduVUNNdXNaX19kYmk4OGQycGFOVlNmQ2hVbVRQSmc3d21Na195OWRDVEo4M1h4cjlYamFTRDZodXcwRExaMjBDU3V4czRKY1pTaQ": 1793257253583,
-    "news:CBMinAFBVV95cUxNazJJMzdrNXliU0Z5UmVsZjMzd3dYbDBvaWI2aVJ6RElFcm5LWWdBaURLckRvLV9DWFlzXy1yRC1rQjhIaVllQjMzbnhibC1jcmd1dnF5b1pSVXNoWlh2WnRvYUlNV09jYnRiWW1jNXBwMzBXbGs1YlNoWE41ZEc3ajhORGlSVGYxLUpSTVVMaVhlZUZhSU1TT3JkUU4": 1793257253583,
-    "news:CBMid0FVX3lxTE5IMk5mRlFVNm5DWDhwelFmdnljczY0OG5DZmV1QlZrc3lWMUY3cjVfaEtCc202cTQ5Z2xuRTMyenJQZGVGYlJDX1duMW43X3F1S2o2WEJ3dmZFX09yVXZtdmJoakVxZktaT3R4MUxCSWp4T1VnUXdn": 1793257253583,
     "threads:DfEaz0Ej2e1": 1793257536164,
     "news:CBMiUkFVX3lxTE0xYkc4UFVKdGx5alFORmt4YzJOeEI4MEZZNUFPTm9XazZ4dWxoXzlqWFdOdDM4WnMyTzFZUUd3R3MzMmJqLUJHRXlaRk8tYWVobnc": 1793257536164,
     "news:CBMiakFVX3lxTE9jdUdBSk5rdnhVRlJIaExnV1ExOHR4RW1wWWc3bWlYVXJNMDNqeFotNUdWSTFkbUZyWFM4c3h6N0V3Mkp6UFZtZEhNZFNxT2txb3EwZ2hQZmJYaWFURXZDbXVfYVIzRHJkREE": 1793257536164,
@@ -25606,149 +25593,25 @@
     "threads:Dfoc4OuE9U7": 1794466533797,
     "threads:Dfoc2AQoLv0": 1794466533797,
     "threads:DfocsyUAaBW": 1794466533797,
-    "news:CBMinwFBVV95cUxPOWs5S2lMMG4tZ1pGQjQ0Q3dVX0NkVU1RUEM0THlxR05CcWRRLXhYaTdJcGJJZVdGdEFUV19vaDl6UkxpSnZMR2llOU9wZFhMYXZmWGF4a2NLQ0NIb3JiR3l5S1FYamFIN2txQWxtYm1sM0VkRHdkUjhpRjZBaWhCWVF4VVNHZXVtc1NmallkcVh5RjJjbkNtaGdxYTVEdDg": 1794466533797
+    "news:CBMinwFBVV95cUxPOWs5S2lMMG4tZ1pGQjQ0Q3dVX0NkVU1RUEM0THlxR05CcWRRLXhYaTdJcGJJZVdGdEFUV19vaDl6UkxpSnZMR2llOU9wZFhMYXZmWGF4a2NLQ0NIb3JiR3l5S1FYamFIN2txQWxtYm1sM0VkRHdkUjhpRjZBaWhCWVF4VVNHZXVtc1NmallkcVh5RjJjbkNtaGdxYTVEdDg": 1794466533797,
+    "threads:Dfodyw5oPbd": 1794466847159,
+    "threads:DfodqAQGc6X": 1794466847159,
+    "threads:DfodLaqmXY6": 1794466847159,
+    "threads:DfodBr4kc8j": 1794466847159,
+    "threads:Dfoc-RVGRZ6": 1794466847159,
+    "threads:Dfoc52KEcGo": 1794466847159,
+    "threads:Dfoc4W4IFDR": 1794466847159,
+    "threads:Dfoc0cKkWwU": 1794466847159,
+    "threads:DfocsiokQVz": 1794466847159,
+    "threads:Dfod6HEHaiM": 1794466847159,
+    "threads:Dfoc0JeiZsX": 1794466847159,
+    "threads:DfoXvlLoCer": 1794466847159,
+    "threads:DfoXu5rIJng": 1794466847159,
+    "threads:DfoXuPDIH7y": 1794466847159,
+    "news:CBMiiwFBVV95cUxQdVFOTTFHSk5fNGxNbjFDQ3Nqd2xMRnFGUVJBUkFYYmZNSVc1eVZLVVVPZlY1MlRTX3d4SThZNmRFR3lUc09WejVjaDBQNVZscVdmQ0YweDlmXzliRGVYNURqc0lKaFktR0s3VTdxd2pRNnhBcU9nRl80cFNaMWg2U1h1TXB0Q05HdEV3": 1794466847159,
+    "news:CBMiqwFBVV95cUxONktlX3hReEJwYndEalRYV2tmQ2ItTmRLZVRidzZsejdzR0MxenFYREQ5b2pCYjBHNHB3cm1fVWVMVHpxQWloclI1RGR5ak1ieDBpZEhuaWNRcm1NX1ZEX3NidG5vejlPOFRaUzhaaF83RXhURTZYand2QnNucnBaQjFjNlBfWFVRWng1eFl2eU4zdVdCLUQ2VFNGc3QyZlVVN3l4Um1YY09zWEE": 1794466847159
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tentaklikofficial",
-      "x": "Halooo kak! Kebetulan nih, di Tentaklik ada beberapa layanan digital marketing yang mungkin bisa bantu kebutuhan perusahaan kakak, mulai dari pembuatan website sampai kebutuhan per",
-      "u": "https://www.threads.com/@tentaklikofficial/post/DfoLdSJoHg_",
-      "d": 1794457059000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ummusabilstore",
-      "x": "Halo! Aku Isma dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill_id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Marketing, Microsoft Excel",
-      "u": "https://www.threads.com/@ummusabilstore/post/DfoN4HiGerA",
-      "d": 1794458328000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNS4MoKsL",
-      "d": 1794458022000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNShAIPK0",
-      "d": 1794458019000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNSImICSG",
-      "d": 1794458016000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNRueoLys",
-      "d": 1794458013000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNRP3IAmn",
-      "d": 1794458009000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNQSbII7z",
-      "d": 1794458001000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoNP6DIGfa",
-      "d": 1794457998000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "WartaBanten.id",
-      "x": "BLK Kota Tangerang Gelar Pelatihan Kreator Konten Siapkan Talenta Digital - WartaBanten.id",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWIwNWIyaDFMc2RtTjRLbU0yYTNNY3FvQ2ZuU09SZEgzRmFhN2MzWWc0ZDZPS2pmSHR2aEJYamVTU2d2QWlJbUYzUUhnZ3NENjJDUTRVc0tHSFhkdmlRUV9FS3k0VkJTS0lQM1dkSVhzVzJjTl9ZckJDQzVTLXdhd2NLYlZVMXZuMzNoZ3Q2VmppaEQtTms2aUdKTEZEQQ?oc=5",
-      "d": 1794374160000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "threads",
-      "a": "@danendra_alv",
-      "x": "Buat kamu yang pengen ngulik ai tapi gaada basic ngoding Kebetulan baru dapet info klo sekarang ada program Pijak x IBM SkillsBuild yang bisa diikuti secara gratis. Materinya cukup",
-      "u": "https://www.threads.com/@danendra_alv/post/DfnlzF-ks3M",
-      "d": 1794437315000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@eduvoyage.official",
-      "x": "🚨 PENDAFTARAN FULBRIGHT 2027 DIBUKA! 🚨 Mau kuliah S2/S3 di Amerika dengan beasiswa penuh? Ini rinciannya: 💰 Benefit: Biaya kuliah full, uang saku, tiket PP, asuransi, dll (Hibah",
-      "u": "https://www.threads.com/@eduvoyage.official/post/DfoNkoBH3iK",
-      "d": 1794458168000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@nhazzahra",
-      "x": "jadi tuh setau aku dapet atm gitu kak, nah waktu aku udah ga tinggal bareng mama ku itu atm dan pin nya di ambil, aku pikir selama ini udah ga pernah dapet, tp pas aku cek di cek b",
-      "u": "https://www.threads.com/@nhazzahra/post/DfoNiAlIdcN",
-      "d": 1794458146000,
-      "urgent": false,
-      "warn": true
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Coba bisnis online yuk kak 😊, Kk bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, atau m",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfoPXW4D8R1",
-      "d": 1794459108000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27108,10 +26971,150 @@
       "d": 1794380317000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tentaklikofficial",
+      "x": "Halooo kak! Kebetulan di Tentaklik juga ada layanan pembuatan website untuk kebutuhan bisnis nih. Untuk harga bisa disesuaikan sama kebutuhan dan fitur websitenya. Kalau mau diskus",
+      "u": "https://www.threads.com/@tentaklikofficial/post/Dfodyw5oPbd",
+      "d": 1794466672000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@revive.our.souls",
+      "x": "Bumil busuii, ada yg lagi pusing dan butuh konsul tanya-tanya ke ahli gizi? Bisa bangett ikut webinar gratis ini, pematerinya ahli gizi, materinya cucok bgtt diikuti bumil busui",
+      "u": "https://www.threads.com/@revive.our.souls/post/DfodqAQGc6X",
+      "d": 1794466600000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@revive.our.souls",
+      "x": "Belajarr bareng ahli gizi di webinar gratis kantorku yuuk mom 💕",
+      "u": "https://www.threads.com/@revive.our.souls/post/DfodLaqmXY6",
+      "d": 1794466350000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfodBr4kc8j",
+      "d": 1794466270000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@revive.our.souls",
+      "x": "Iyaa webinar gratis",
+      "u": "https://www.threads.com/@revive.our.souls/post/Dfoc-RVGRZ6",
+      "d": 1794466242000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfoc52KEcGo",
+      "d": 1794466206000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tentaklikofficial",
+      "x": "Halooo! Kebetulan di Tentaklik juga bergerak di bidang pengembangan website nih. Menarik banget project-nya, siapa tahu bisa explore peluang kerja sama. Boleh kenalan dan diskusi l",
+      "u": "https://www.threads.com/@tentaklikofficial/post/Dfoc4W4IFDR",
+      "d": 1794466194000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/Dfoc0cKkWwU",
+      "d": 1794466162000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@aaisyhimrna",
+      "x": "Pejuang CPNS 2027. Ada grup belajar GRATIS yang berisi webinar gratis, ebook materi, bank soal, dan try out untuk persiapan CPNS💪",
+      "u": "https://www.threads.com/@aaisyhimrna/post/DfocsiokQVz",
+      "d": 1794466097000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@msyaifulbhr_",
+      "x": "Beasiswa Pijak 2027 kembali dibuka! 🚀 Kolaborasi Dicoding x IBM SkillsBuild ini jadi kesempatan buat kamu yang ingin belajar dan mengembangkan skill di bidang AI secara GRATIS. ✨ ",
+      "u": "https://www.threads.com/@msyaifulbhr_/post/Dfod6HEHaiM",
+      "d": 1794466732000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
+      "u": "https://www.threads.com/@ula_willfitnes/post/Dfoc0JeiZsX",
+      "d": 1794466159000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/DfoXvlLoCer",
+      "d": 1794463500000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/DfoXu5rIJng",
+      "d": 1794463495000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/DfoXuPDIH7y",
+      "d": 1794463489000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
