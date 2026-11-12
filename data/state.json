@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD5hQDiS4E": 1793240149941,
-    "news:CBMiwAFBVV95cUxPMDdVT1I1Tm8wQ3ctNm9odmsxNTBVQ3VJUGRPRno2R3Jhbjllb1dEd3N3dUxlbGlEbG4yMnpuM0psQks3cW5FalRzUGJVbWp2Q3pWT0kyaTZjR2Jwa3FodHdTWFR0Y0RYczNqNkw3Uk5jaWM0MkdNczZUOGMtYUhMbWcyeVFNM050NkxHS0xMUGp4azN6bXE4QzRiWHFTSFA0WjU1R3hKV1czcUVDZmxzYVdfRi1XUnFhOEV1T3JXWHg": 1793240149941,
     "threads:DfD66twCd6D": 1793240451783,
     "threads:DfDx8L3Gsny": 1793240451783,
     "threads:DfD6qdukhuq": 1793240451783,
@@ -25577,7 +25575,11 @@
     "threads:Dfn6wRlEhtK": 1794449453778,
     "threads:Dfn6PO4kuzI": 1794449453778,
     "threads:Dfn9NBrGFG2": 1794449453778,
-    "threads:Dfn9Hfqn5kI": 1794449453778
+    "threads:Dfn9Hfqn5kI": 1794449453778,
+    "threads:Dfn9QY_j_rP": 1794449737975,
+    "news:CBMivwFBVV95cUxPd0ttT1U3dEsxYXlLeGVoUTdqNkh0dzhzQnEyYzVHUHhWa2tucm14NG5YbnM1TzNzZGVEaTMxVkdjRnBVRlQzV2c2UzU4bzQwSEVPUFBCMTBFYkVPeS13ZDJUTlBBTHJUandzMjZra2w2WWFqMzQyY25fejVGZWtRc3owMTdmOUtTcjJ2RGZiODhOZGxPX0pCeVJuWU5fU1ZSOXREWVRmWk5rV2J3eUwwd0luV3RzcG9fWlB2TXp0OA": 1794449737975,
+    "news:CBMixwFBVV95cUxPbmtiNVFLd05XbW96SXVSY2lrNklqM3JfYjJXMmFsZ0FiQmdPUHNXbEhWOHFTLWNUTnBFdTM2VW9UYXlPZnM2SW41MGJ6WndyT1VpWkpPMlN1VVZDYTZtREY2b2EzMXA3blpDREFXeklWbERCMmVYS0phT24xckFXSzlVaHFXYWZKMkV1a29SQ3Fheld5cnhJU1dvblhkTEhScnRSVHgzZC1RTXZDQkNxUEhCallmZEVzTVpITE1aRm50ekdIS1NN": 1794449737975,
+    "news:CBMivwFBVV95cUxPTklmZmJOVXRfMWFkeTR6ckNzanJ3NEdOa1JMYzBxZjQxRUN0Z2lUS2F4S3lSMzZtZm5KXy00REg4bmZzc1N5Y05oMjNRaklwYnNKVFkyUmhCbVcwazdFcEhGNGtOUWFBVC1waGl6cDJSRjNsdFJJNlcyMjBwTlhNbHZxM2t3dlZCWVBCZ1hZMmJ6YjdCVTkwd19zTlh3cHR6aFJIQWxuek5ELXM5VlMzRDJ4SzhRT1dHUHRKVnhsb9IBvwFBVV95cUxPTklmZmJOVXRfMWFkeTR6ckNzanJ3NEdOa1JMYzBxZjQxRUN0Z2lUS2F4S3lSMzZtZm5KXy00REg4bmZzc1N5Y05oMjNRaklwYnNKVFkyUmhCbVcwazdFcEhGNGtOUWFBVC1waGl6cDJSRjNsdFJJNlcyMjBwTlhNbHZxM2t3dlZCWVBCZ1hZMmJ6YjdCVTkwd19zTlh3cHR6aFJIQWxuek5ELXM5VlMzRDJ4SzhRT1dHUHRKVnhsbw": 1794449737975
   },
   "digest": [
     {
@@ -26209,10 +26211,40 @@
       "d": 1794449541000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@aintdeepbro",
+      "x": "at least bansos udah cair lah",
+      "u": "https://www.threads.com/@aintdeepbro/post/Dfn9QY_j_rP",
+      "d": 1794449613000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "InfoPublik",
+      "x": "Menteri P2MI: Pelatihan Bahasa dan Sertifikasi SMK Go Global Gratis - InfoPublik",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmtiNVFLd05XbW96SXVSY2lrNklqM3JfYjJXMmFsZ0FiQmdPUHNXbEhWOHFTLWNUTnBFdTM2VW9UYXlPZnM2SW41MGJ6WndyT1VpWkpPMlN1VVZDYTZtREY2b2EzMXA3blpDREFXeklWbERCMmVYS0phT24xckFXSzlVaHFXYWZKMkV1a29SQ3Fheld5cnhJU1dvblhkTEhScnRSVHgzZC1RTXZDQkNxUEhCallmZEVzTVpITE1aRm50ekdIS1NN?oc=5",
+      "d": 1794390600000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "selarasriau.com",
+      "x": "5 Bansos Cair November 2026, Ada PKH, BPNT Rp600 Ribu hingga BSU Rp900 Ribu, Cek Penerimanya - selarasriau.com",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTklmZmJOVXRfMWFkeTR6ckNzanJ3NEdOa1JMYzBxZjQxRUN0Z2lUS2F4S3lSMzZtZm5KXy00REg4bmZzc1N5Y05oMjNRaklwYnNKVFkyUmhCbVcwazdFcEhGNGtOUWFBVC1waGl6cDJSRjNsdFJJNlcyMjBwTlhNbHZxM2t3dlZCWVBCZ1hZMmJ6YjdCVTkwd19zTlh3cHR6aFJIQWxuek5ELXM5VlMzRDJ4SzhRT1dHUHRKVnhsb9IBvwFBVV95cUxPTklmZmJOVXRfMWFkeTR6ckNzanJ3NEdOa1JMYzBxZjQxRUN0Z2lUS2F4S3lSMzZtZm5KXy00REg4bmZzc1N5Y05oMjNRaklwYnNKVFkyUmhCbVcwazdFcEhGNGtOUWFBVC1waGl6cDJSRjNsdFJJNlcyMjBwTlhNbHZxM2t3dlZCWVBCZ1hZMmJ6YjdCVTkwd19zTlh3cHR6aFJIQWxuek5ELXM5VlMzRDJ4SzhRT1dHUHRKVnhsbw?oc=5",
+      "d": 1794446529000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
