@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD6520GIUz": 1793253941734,
-    "threads:DfEUibxk3W3": 1793253941734,
-    "threads:DfETkbHk9zM": 1793253941734,
-    "threads:DfESngYjWk-": 1793253941734,
-    "threads:DfESmZ8jaGt": 1793253941734,
-    "threads:DfETrvWjxvd": 1793253941734,
-    "threads:DfETp1BEw_0": 1793253941734,
-    "news:CBMiswFBVV95cUxOb09NNmhhTWpfVURmYWJXN0RGbUs5QXdpeEZwaW5JMndXVjQ3TXBFdHZvVGt2bDk0RFhyMXYzUlF3cG9qZWZFekw5UnJjcUR6STRSMnhfdko4eFExV3VTc2l1QzBfc1d3LWdzaVh0VzkxaEJrRV9SSmxIWGp6V2o3RHVGWHZKeVhzcWdSci1kSUt5UkpTVHZSRlZYSDlqQ1dqZVBlMXpZNG1WYTZPS3dDQXVnSQ": 1793253941734,
-    "news:CBMiogFBVV95cUxON2VURFNfa3d5YTgzSVlZMkpZcG0xSUlpNVhVWWVYVDNvc0xHNml6dDVpLTNZd0liWk1vYVNWWGFUYU12OUZaaWM4VjZYOFRKNk1hQWFJbTVrMTJ5bDVKbjBYRWVvVFBrQm80MTMtUXJpQkM0LU12bVA0bFF4RUJpQUY2T09QQ0VpamkxMjJxWmN4c091OE5VNEY2OW0wNWFWZUE": 1793253941734,
     "threads:DfEUI2lDymU": 1793254251734,
     "threads:DfEUUrYGX6r": 1793254251734,
     "threads:DfEVJ49o16P": 1793254251734,
@@ -25602,29 +25593,20 @@
     "news:CBMizwFBVV95cUxOZXc5VUVKbVY2Vk15WHQ3Y1BqSlNfaFlMcEw5b2pYdlVrdVRJYndXbEdtY1REb0FxYVJIMVlTM1FyaVc3R1Jrb01uazVaeEV1eUJnQTNTU0NOb0FZSlVhandmZVFYOGtpMmVYSEtFNVVWRWl4SXJrS2FiYXVYLUc5RTlRV19ZMVB1dElteWtNR0tidXRVMDJvSmFGOFJwZEN0TWNkdW1QTWM1emJOMWc5b3F5T2I1YktLS3c3elJ6eHpZZWZxbEJsNGxLYnlRMDA": 1794462934531,
     "threads:DfoV7oBoGq6": 1794463252368,
     "threads:DfoXDZTmLDI": 1794463252368,
-    "news:CBMipgFBVV95cUxOa2lkUEdHbzM1WFVrWnBsT0lsbHJiM29lSmxGd1MxUy1vM1Q4Z3V6enVlOEY0c2JhZDRhOGZOV0VwNjdTbjM0ZlhPTUlxdXo3ckRqekQyalhaV0h5akQ4QVZRdEkxdF9zWnNrSGxfSXB4VlRJcE1LQ2tPQlBJb1lMWTJaUVY0NUItV09iYkRwbU1MTTJZbXA3MGpKTnlkMTZuNnpURlBB": 1794463252368
+    "news:CBMipgFBVV95cUxOa2lkUEdHbzM1WFVrWnBsT0lsbHJiM29lSmxGd1MxUy1vM1Q4Z3V6enVlOEY0c2JhZDRhOGZOV0VwNjdTbjM0ZlhPTUlxdXo3ckRqekQyalhaV0h5akQ4QVZRdEkxdF9zWnNrSGxfSXB4VlRJcE1LQ2tPQlBJb1lMWTJaUVY0NUItV09iYkRwbU1MTTJZbXA3MGpKTnlkMTZuNnpURlBB": 1794463252368,
+    "threads:DfoXY03D0dO": 1794463539317,
+    "threads:DfoX7kaoJF5": 1794463539317,
+    "threads:DfoXopZjYYI": 1794463539317,
+    "threads:DfoXj2Ku2iu": 1794463539317,
+    "threads:DfoXP43E882": 1794463539317,
+    "threads:DfoXEj0lMHV": 1794463539317,
+    "threads:DfoXA9gEn7e": 1794463539317,
+    "threads:DfoW0YEmZ_k": 1794463539317,
+    "news:CBMikwFBVV95cUxONTdXRnpoYUxiYTBfWlZUNkp3VWpGOEFTTFNod3ZjQjNOWTZVZkFua1E5Wk9ZczBaVFkzcmtybUhLVndJLXA5TnNhcXplaDI2enUzeWFXdUUzRlAtSFZ0bTlaWk5FS1NmWnFfYkFwdEZMdndpVFlsblZqbFF1OEd1blNXZVlBNnNhMW5NZ05kcmU2dzQ": 1794463539317,
+    "news:CBMipwFBVV95cUxOMGxseXZBYTVURmlGRzBWXzAxclZHZVd3MThka2RUS0dWTDZPbmhiZVFVaGdyNTRscGRqU0VnV1lyRHJJZl9Fd25ua3JJY3d1cURzLTQ0QUtnay1wcjBiVFFqMFBxVzM2eDhhb1FnZDVIU21tcHVMMTJVSndSU2ZVMURLQ05yTUthR3B1bWdUNnJ5bWo0aEU3X0NCNkE0dE9oVVd3YnVJaw": 1794463539317,
+    "news:CBMinwFBVV95cUxPdEh1Z3RscDJrNzRQM3YxUVl5bXVMR2w4WGNpYVNkSE9fTUtBNmEtUXZVOTZpZFJ2Qy1QV21GRW81WENaaVU5b3hEREJ0NDFCaEk1Qjh0eVRSSWkyX2dCd05wV1pnNzFnZ2duU25KcFVYU1V3V1Y5QnVMMC1hc0V0RDBXcFBtcjdreEtrRVZKM0trUDZBZjVtbk1seUwyaW8": 1794463539317
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@muh_imamsyaf",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@muh_imamsyaf/post/DfoIRAekpNP",
-      "d": 1794455386000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bankir.academy",
-      "x": "semangat ka , bisa kunjungi website kami ka , banyak info loker terbaru dan pelatihan gratis untuk mempersiapkan masuk ke dunia kerja https://www.bankiracademy.co.id/",
-      "u": "https://www.threads.com/@bankir.academy/post/DfoH62fk8d5",
-      "d": 1794455204000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27104,10 +27086,30 @@
       "d": 1794463138000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RRI.co.id",
+      "x": "CKG Terbaik Bukan Akhir Puskesmas Harus Tingkatkan Pelayanan - RRI.co.id",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGxseXZBYTVURmlGRzBWXzAxclZHZVd3MThka2RUS0dWTDZPbmhiZVFVaGdyNTRscGRqU0VnV1lyRHJJZl9Fd25ua3JJY3d1cURzLTQ0QUtnay1wcjBiVFFqMFBxVzM2eDhhb1FnZDVIU21tcHVMMTJVSndSU2ZVMURLQ05yTUthR3B1bWdUNnJ5bWo0aEU3X0NCNkE0dE9oVVd3YnVJaw?oc=5",
+      "d": 1794462900000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "kurawalmedia.com",
+      "x": "Guru Besar UNPAK Bogor : Pengunduran Diri Gibran Akhiri Proses Impeachment - kurawalmedia.com",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEh1Z3RscDJrNzRQM3YxUVl5bXVMR2w4WGNpYVNkSE9fTUtBNmEtUXZVOTZpZFJ2Qy1QV21GRW81WENaaVU5b3hEREJ0NDFCaEk1Qjh0eVRSSWkyX2dCd05wV1pnNzFnZ2duU25KcFVYU1V3V1Y5QnVMMC1hc0V0RDBXcFBtcjdreEtrRVZKM0trUDZBZjVtbk1seUwyaW8?oc=5",
+      "d": 1794463616000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
