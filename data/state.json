@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDsT3zGMQ2": 1793233000052,
-    "threads:DfDsJ8rmEEa": 1793233000052,
-    "threads:DfDreBMk-4f": 1793233000052,
-    "threads:DfDrY3nmQq3": 1793233000052,
-    "threads:DfDrXxKFEEj": 1793233000052,
-    "threads:DfDrXwSlA9h": 1793233000052,
-    "threads:DfDrP1AkYmR": 1793233000052,
-    "threads:DfDrrAxH00c": 1793233000052,
-    "threads:Dd-zmfdloxZ": 1793233000052,
-    "threads:DfDs3cak1cS": 1793233000052,
-    "threads:Db_OllkGe_E": 1793233000052,
-    "news:CBMixgFBVV95cUxOaUlRSzlLeTNPSGhELUQ4S3A4UjlfU1RKODFFcU9PbzBTQmdwOVFrS0p5bnJzZjEtZHFXWklXMFJ5bEtJTDJ3S25IWV91U1EzQXc3TThXcXJvRTJsLU5ZcmhqdWtHdXE2ZnNXS01QYlJFUUI0R2F0U1dBUHNxV3Q4S291eE14QkpvZ3VTNjRoVThfTXZoWmwwM2pIcm1LMmlkUE9XWmNFQkdkRllRMWViT1cwdEwwelhtTnhvYmZqa0dzbGh4N3c": 1793233000052,
     "threads:Dd34LtKkkCO": 1793233250953,
     "threads:DfDBMplnzX3": 1793233250953,
     "news:CBMivgFBVV95cUxNVjlnNHNvYWZCc1g1TW02T0xWeXZZWHZ4b2pIZXdyZG5USWFrMUhPdVpnWGNxLV9jTkkzYVlNMXBMSWtnNEo4QTlWUl9pV0pzZVJpODdwaklPNHVzUm1KV3k4SGNpYnhTM0REYm1RYkIwWGxIVUg4ZGJ5dWRFQm5XcVFzTFFFeE9Ca1dtMWRQa2Zka1NXY2h3RDlGWFlRbXNVUUlVM2kzZUt6MnFMb1hTQkFHZnV5OS1UWm9GcjBR": 1793233250953,
@@ -25570,19 +25558,27 @@
     "news:CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWs": 1794441647784,
     "news:CBMisgFBVV95cUxQT1JxNnlEckZYZnM2MEtLanRLY2pvR09QV1l4WncyTldhMVFsNnlvRUxQSlE1XzJXSkVLTll3TG90T1pPM1ZBdl9ZaGh4YmdPZFBBWmNyRXh3WmRfV2lUNl9yMW9GekFELW03RlJjSlIzdlZHd0VyaVhlcFlrTXlfeWNpdm9TTE5XNW1acHU3NmltekNxVVBTdld4Z0FfWTlCNG5pZEZzWjhVdTFZWEZRVmN30gGyAUFVX3lxTFBPUnE2eURyRlhmczYwS0tqdEtjam9HT1BXWXhadzJOV2ExUWw2eW9FTFBKUTVfMldKRUtOWXdMb3RPWk8zVkF2X1loaHhiZ09kUEFaY3JFeHdaZF9XaVQ2X3Ixb0Z6QUQtbTdGUmNKUjN2Vkd3RXJpWGVwWWtNeV95Y2l2b1NMTlc1bVpwdTc2aW16Q3FVUFN2V3hnQV9ZOUI0bmlkRnNaOFV1MVlYRlFWY3c": 1794441647784,
     "threads:Dfm5Tv0n4MA": 1794441937614,
-    "threads:DfnukE-Dwo3": 1794441937614
+    "threads:DfnukE-Dwo3": 1794441937614,
+    "threads:DfnuqAOEiWU": 1794442538840,
+    "threads:DfnvLcCk7JS": 1794442538840,
+    "threads:DfnvuVrElKA": 1794442538840,
+    "threads:DfnvVilE-LR": 1794442538840,
+    "threads:DfnvO7Qk6ZM": 1794442538840,
+    "threads:DfnvMH_k6GY": 1794442538840,
+    "threads:DfnvHWLExU0": 1794442538840,
+    "threads:Dfnu06Bn6U3": 1794442538840,
+    "threads:Dfnuuy3E1-Y": 1794442538840,
+    "threads:Dfnve9cgbf4": 1794442538840,
+    "threads:DfnvZosgVdH": 1794442538840,
+    "threads:DfnvQ7cn0Sc": 1794442538840,
+    "threads:DfnuPAth3PN": 1794442538840,
+    "threads:DfnuE6AJQte": 1794442538840,
+    "threads:DfnuChziFGh": 1794442538840,
+    "threads:Dfnt_Bjke48": 1794442538840,
+    "threads:Dfnt70YGLRP": 1794442538840,
+    "news:CBMi6wFBVV95cUxPZE9zV0RvU3NmbFRWOFBObHV1SjNjZmk0emlZU3RiNHBITlI0S3ZOdHZZNjhMb044cUVJQ0dENFRFNEw3V0dXaThRaFZVTHQwX29JSlRCX2hwZXRMUFNvTUlld3oxck4yMUx0bUtNZ29HN3Noa2lpaWZaZVlZWGRLQmpFN3hscDgxS0pNMUd2aHFvbDlrX2I0X0ljbzU2MWdxZlliRjB2cmp1eFpvTzFzWDNZWnJudmlRdkFsQ1M1V2FOWkY2RUJSaTlnTVdKRVhhYlkyOXVaeHRMSk1TVHFyanViZUIwUDE3OGR30gHwAUFVX3lxTFBsdF9RWjdfaGdkbmNXcGZ0aGhrSklQOXZuMDZmMGJQMnNzTWM4aEtrMDZyRms5QzV1dG83aGZuZGxkLVNva0lKaU1DbFJMSUtxSUZraGlwcjRKTWdZYWU5UG9QQWhUb19pQUE1Z1M4QWpSd0p2cnVqdF9qLUdQWHN0WnN4ZHFyc0Z2ekNEdDdkY0lyYm90NnQtaER6dlVxd1NmM2xodmNYVWRPNFFCYjF3ek8tLW5KbFFRODlOYkZqRDRLTk5Na2g3b3FRMVBrMW1vVTFubHVrNjRadnJZYWJEaks4eU4zaWExaHlYNC13LQ": 1794442538840
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Koran Jakarta ®",
-      "x": "Gagal Tembus Job Fair? Pemkot Jaktim Buka Pelatihan Las Bawah Air Hingga Barista Gratis - Koran Jakarta ®",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2VJdTdxLUtzcklfaGpvak1NTGZUOWRDV3dPWUJjb3Q0TjJqS1gyS0xRY195R2Zjd1AwVm9rNzJKV0tfVW8wYUlWTFQ5RmU2UWtoUnRHbUVzN2pDanVwV0pBbmFZNDl3bVlHRUMxSks1LU5oamJMLXZEOTZkQmRfOWFkWTJ5azlNd2xBRGQ2bGpMdXJlb1VfYW1DR0N5cTQ1MHB4dEpTU2ZFa2thcV9aMG1lR05ndTlzWGYxT2pvZGZGTkpWUHfSAcYBQVVfeXFMT19lSXU3cS1Lc3JJX2hqb2pNTUxmVDlkQ1d3T1lCY290NE4yaktYMktMUWNfeUdmY3dQMFZvazcySldLX1VvMGFJVkxUOUZlNlFraFJ0R21FczdqQ2p1cFdKQW5hWTQ5d21ZR0VDMUpLNS1OaGpiTC12RDk2ZEJkXzlhZFkyeWs5TXdsQURkNmxqTHVyZW9VX2FtQ0dDeXE0NTBweHRKU1NmRWtrYXFfWjBtZUdOZ3U5c1hmMU9qb2RmRk5KVlB3?oc=5",
-      "d": 1794392400000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27072,10 +27068,20 @@
       "d": 1794441910000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bicara Network",
+      "x": "Kominfo DIY Buka Lowongan Kerja Back End Programmer, Cek Kualifikasi dan Syarat Berkas yang Harus Disiapkan - Bicara Network - Bicara Network",
+      "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZE9zV0RvU3NmbFRWOFBObHV1SjNjZmk0emlZU3RiNHBITlI0S3ZOdHZZNjhMb044cUVJQ0dENFRFNEw3V0dXaThRaFZVTHQwX29JSlRCX2hwZXRMUFNvTUlld3oxck4yMUx0bUtNZ29HN3Noa2lpaWZaZVlZWGRLQmpFN3hscDgxS0pNMUd2aHFvbDlrX2I0X0ljbzU2MWdxZlliRjB2cmp1eFpvTzFzWDNZWnJudmlRdkFsQ1M1V2FOWkY2RUJSaTlnTVdKRVhhYlkyOXVaeHRMSk1TVHFyanViZUIwUDE3OGR30gHwAUFVX3lxTFBsdF9RWjdfaGdkbmNXcGZ0aGhrSklQOXZuMDZmMGJQMnNzTWM4aEtrMDZyRms5QzV1dG83aGZuZGxkLVNva0lKaU1DbFJMSUtxSUZraGlwcjRKTWdZYWU5UG9QQWhUb19pQUE1Z1M4QWpSd0p2cnVqdF9qLUdQWHN0WnN4ZHFyc0Z2ekNEdDdkY0lyYm90NnQtaER6dlVxd1NmM2xodmNYVWRPNFFCYjF3ek8tLW5KbFFRODlOYkZqRDRLTk5Na2g3b3FRMVBrMW1vVTFubHVrNjRadnJZYWJEaks4eU4zaWExaHlYNC13LQ?oc=5",
+      "d": 1794380700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
