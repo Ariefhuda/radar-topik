@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfE2ZFvEbVF": 1793272245908,
-    "threads:DfE2njFI9o9": 1793272245908,
-    "news:CBMivgFBVV95cUxQLTZqNlp1Z05SRnA0a2dKMDRRclpYektnckFuQ2U0T0tlN0JEYmNDcU1OaW1BVnZ0Ul9rVm9CamlZVWhQeWxSNlI3c2NVd1F4WlpXYTM1WnBNMWdRcXN0N1BEN1JtVEUwQnBKaDlSLTZQT1A2TmxOT0szamg5X1J0U1c0d1FoSkpleFUzMzRfcF9qRVZTc2taUWdtUXlVTlRONXJDdmtDc201YmJqRlZvVlhtSUVFYnBvS3NJcDRn0gG-AUFVX3lxTFAtNmo2WnVnTlJGcDRrZ0owNFFyWlh6S2dyQW5DZTRPS2U3QkRiY0NxTU5pbUFWdnRSX2tWb0JqaVlVaFB5bFI2UjdzY1V3UXhaWldhMzVacE0xZ1Fxc3Q3UEQ3Um1URTBCcEpoOVItNlBPUDZObE5PSzNqaDlfUnRTVzR3UWhKSmV4VTMzNF9wX2pFVlNza1pRZ21ReVVOVE41ckN2a0NzbTViYmpGVm9WWG1JRUVicG9Lc0lwNGc": 1793272245908,
-    "news:CBMi1wFBVV95cUxNTmE4NURmRENTYWtLbF82a2tiWVJqOWZiSzJkalp2V1ctcWwzRjEyd2liNktLdlRTaXNLLUVWeG9NU29ELXBMSlp4MHlEWFBiTEVseklHZXFrcFY1S0dFOENldmw3NXIzaTFSY3RBaUpINUFyNmEwN1dHdm94TlZ6aG1NVnlxeTQta0JadS13VXdRVkRrZ1NMREU3OFBidkVlLWU5QUI5OFd1WDBIa3h4VXBsOS1XaUxzckt0bnRvY2c2VXVZME8wUkdkUHJScWZRZ0Q0bm80bw": 1793272245908,
     "threads:DfE37EUkdNf": 1793272553551,
     "threads:DfE3XqTjwp6": 1793272553551,
     "threads:DfE28pKglwL": 1793272553551,
@@ -25676,39 +25672,17 @@
     "threads:Dfo6RWQlrx6": 1794481538890,
     "threads:Dfo6G9jklXG": 1794481538890,
     "threads:Dfo5mxtFlg2": 1794481538890,
-    "threads:Dfo4MHgE22B": 1794481538890
+    "threads:Dfo4MHgE22B": 1794481538890,
+    "threads:DdGQzGMoAnA": 1794481844677,
+    "threads:Dfo5WbAnCEk": 1794481844677,
+    "threads:Deyw4QDEjZJ": 1794481844677,
+    "threads:Dd-dvitj0kO": 1794481844677,
+    "threads:Dfo6hQnEjlJ": 1794481844677,
+    "threads:DaP6hQzEgc3": 1794481844677,
+    "news:CBMiyAFBVV95cUxPTEMzZEUybkJDLTNzclZfZjRnTFcyaTZkRTRaU3l1bndfSEV5bjJFNHJtQU5CRjF4bUMzLXVZYXZEVGdSVTJ0TEFvdUtiYVBSdElUbUhhaUstU1ZMYmpfWmRhbXVaajhqSjJjXzFIdTYtYWxPSDUtZkVJVnlibERXalppQVljQ2oyNmdJc2QyRnYwRTNhU1B3b0JwaVhXV1lUZy1RdFB3aWQzYndSdHJZVXpNZmhmbGFxVEtESDZqTkJOSzJYM096ddIBzgFBVV95cUxPWGRTenRFLTFSNzRYS3EwanUzSEJMMUVVbFRuR1Fob2t3dVpmMkFzMjlTVFBlaWpLNWhNMWY0QkhRZHIxRjB6M1lYb25Td2F6QktnbV9UTkhQaTllT0hLMjBYU2ZFSndwSEVqdVgzVDhuTUF3aER6ZjBrRVhjTTZNd0FWOUxSaXJfN29LcUVNUXplbXdYcEpRMFBRQmJlcTh0b3BWY3U0TlZKYTlaVFlCMXZ2Yk5mX1ZYeWg4YmFjT3ZLaGtKYzc4VGpwcktfdw": 1794481844677,
+    "news:CBMiogJBVV95cUxOS0JhT1U3NGxpb21hb1laNEdudkxoWjk0QzJRbDBIbGpwZFN6ZnVRdkY3LVVsMHNXYWFCUEs1M1liSEhQY0dJSWRnYm9icW5qUVlIUDVwcVdrc0UwcFFuUHBCQkg2VmY1QnMzQkx1NzJMVDJHZ0RtbmdqYkVfUDBmRFB2V3lfNEVRaEFZTmVCN0MxTl9hNjlWQmZreDcySmlIam9rSTNZZGJYUHhWOUZ2MElPdndyM0RrT2pFOHpTTl9ZdGNLamdaZ2JveVNNeEl0X29HVUwtcVRSYS11bi1VTDdTalR2M1IwNnBubHNXX3dtX2d3YjBORUlReWR3ejMzYzNOODNiVzNSTms4V1RWc0lxcHpYTUdYaHdpR3hrNEVLUQ": 1794481844677
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Surat Perintah Cair Bansos Akhir Tahun 2026 Resmi Turun, Simak Rincian Penerima PKH, BPNT, dan PIP - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTdzMUhPNkZVeHQ4UXlUZ2xlVzhMY1ZVZWZwT21Qc25GNUlDcDZMYnBrY3FGdzhTT0ZWMWM0VVJRZXp6Y0JINWlPUEFYbjNwN1ZfQi10QnV4U1JKd2RsX2QwcWhwQjJnYVV3ZVFDQnF0TzBLSXdUWVlHMW14QlFyRElqbzBINV94eDcyWUV1MGJXTDM5bjNfa3B4VHRZZ0hBbWZqN0JhNjNyR09TTDdTWmRCbm03bnBOMnFySFQ3U1FGYjE0VmRQT25XWFB2SzVIbWh5WmNhMzZrdEZjNW1JbmJn0gHnAUFVX3lxTE16T0pUVl9MNGVRRDJyaVhtZTFQZ0FnX2hqYTFkVTd0ekJ0dVBPMTduNEJoeVFGM3RTN1Y0ajhhcG1iblowa1JHeVZ0X0o0WTl4aVdFZnJSZHNURzJiNllkcU1ZbnFueV9rdGZnc1N6ZXBVSkNKTnVIOEFaVWtJbE4yRUtVYVNldEZQbV9RZmMyZldaekltYnl5VXA4bFRCVjNXRHEtWF9MMU16TVEzblMzYi1zNG0yemRGcnpnWVNMZjZxMGdaVHkxYVZLY1AzdGtUWGNUNzdidVFlbUNuMVdEUVpnUnAzUQ?oc=5",
-      "d": 1794441936000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@aoneindonesia",
-      "x": "Panik musim pendaftaran tapi konten masih kosong? Tenang, kamu gak sendirian~ 🤗 Biar gak makin pusing, mending cobain deh salin & tempel prompt AI yang ada di slide 3. Hasilnya di",
-      "u": "https://www.threads.com/@aoneindonesia/post/Dfopa_vj0yU",
-      "d": 1794472769000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ratnawip__",
-      "x": "Hallo wargi, disini ada yang mau join ke forum WAG Admin, akan ada informasi loker, ebook dan webinar Gratis yang mau boleh drop komen yaa🔥",
-      "u": "https://www.threads.com/@ratnawip__/post/DfooStboOvn",
-      "d": 1794472177000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27178,16 +27152,46 @@
       "d": 1794481202000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@tribunjakarta",
+      "x": "https://jakarta.tribunnews.com/jakarta/446457/pemprov-dki-siapkan-beasiswa-lpdp-jakarta-2027-pelajar-bisa-kuliah-agama-ke-mesir-hingga-arab-saudi Pemprov DKI Jakarta menyiapkan pro",
+      "u": "https://www.threads.com/@tribunjakarta/post/Dfo6hQnEjlJ",
+      "d": 1794481734000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Metro Pekalongan",
+      "x": "64.449 Warga Jateng Jadi Pekerja Migran, 9.000 Orang Daftar SMK Go Global - Metro Pekalongan",
+      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEMzZEUybkJDLTNzclZfZjRnTFcyaTZkRTRaU3l1bndfSEV5bjJFNHJtQU5CRjF4bUMzLXVZYXZEVGdSVTJ0TEFvdUtiYVBSdElUbUhhaUstU1ZMYmpfWmRhbXVaajhqSjJjXzFIdTYtYWxPSDUtZkVJVnlibERXalppQVljQ2oyNmdJc2QyRnYwRTNhU1B3b0JwaVhXV1lUZy1RdFB3aWQzYndSdHJZVXpNZmhmbGFxVEtESDZqTkJOSzJYM096ddIBzgFBVV95cUxPWGRTenRFLTFSNzRYS3EwanUzSEJMMUVVbFRuR1Fob2t3dVpmMkFzMjlTVFBlaWpLNWhNMWY0QkhRZHIxRjB6M1lYb25Td2F6QktnbV9UTkhQaTllT0hLMjBYU2ZFSndwSEVqdVgzVDhuTUF3aER6ZjBrRVhjTTZNd0FWOUxSaXJfN29LcUVNUXplbXdYcEpRMFBRQmJlcTh0b3BWY3U0TlZKYTlaVFlCMXZ2Yk5mX1ZYeWg4YmFjT3ZLaGtKYzc4VGpwcktfdw?oc=5",
+      "d": 1794478326000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Pemerintah Provinsi Lampung",
+      "x": "Pemprov Lampung Perluas Akses Pendidikan Global, Wagub Jihan: Beasiswa Rusia Jadi Peluang Tingkatkan Kualitas SDM dan Daya Saing Generasi Muda Lampung - Pemerintah Provinsi Lampung",
+      "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOS0JhT1U3NGxpb21hb1laNEdudkxoWjk0QzJRbDBIbGpwZFN6ZnVRdkY3LVVsMHNXYWFCUEs1M1liSEhQY0dJSWRnYm9icW5qUVlIUDVwcVdrc0UwcFFuUHBCQkg2VmY1QnMzQkx1NzJMVDJHZ0RtbmdqYkVfUDBmRFB2V3lfNEVRaEFZTmVCN0MxTl9hNjlWQmZreDcySmlIam9rSTNZZGJYUHhWOUZ2MElPdndyM0RrT2pFOHpTTl9ZdGNLamdaZ2JveVNNeEl0X29HVUwtcVRSYS11bi1VTDdTalR2M1IwNnBubHNXX3dtX2d3YjBORUlReWR3ejMzYzNOODNiVzNSTms4V1RWc0lxcHpYTUdYaHdpR3hrNEVLUQ?oc=5",
+      "d": 1794403860000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794459939161
+    "reddit": 1794481844677
   }
 }
