@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEymFvGfWA": 1793270140295,
-    "threads:DfEzweqH1Ft": 1793270140295,
-    "threads:DfEzpNLCfOn": 1793270140295,
-    "threads:DfEzWT_jBR-": 1793270140295,
-    "threads:DfEzNymiVsK": 1793270140295,
-    "threads:DfEzG2Ck9XM": 1793270140295,
-    "threads:DfEyoNHCUJE": 1793270140295,
-    "news:CBMiuwFBVV95cUxQS283YzJLc2p6aDE2ZHNnUmtxUC1OMjJxRVZZSGtkRjl4d29IQkpRb0oybGxDdU5UM0ZYQ2M5dFU4Z3psMGpXcGFYVzFzSFAtYjZmUDZrTGduTDlzT2pKSFZfNExITW1GbWFOZXNzTVhlQk9LdlRNOU8tcjhXaURLUGlPVEJGQmg0eVJSTHpJVWtPeXlGY2UzVzRvTVFWQ3ZMN3hjdHc2cjE1eDA0TjJCT1JMcEl5eTRSd1VN": 1793270140295,
-    "news:CBMiwgFBVV95cUxOZzNfQXJDQVZFLWhvS29ORlRIZ3hMb0YxZWlnR0JZNTRPWkhkUXFUSE5rYVdhLXNZVUQybWZoMFFVWXZfaFhUTjgtR0l1aF9VRXlQZkpxT2tnSGVCUFRzdE16VWpEd0o4QXNIOWd1SF9zMjM5bXcxbFVkZnpueWhXemhqOHQzeG5xZUh3V09ybV93WUw4cnIxYTBDdEZqaHR5TGFzNW5ZNm1yeU1CamZuSHZzLVZ2WHViMkplZHQ2dlg1QQ": 1793270140295,
-    "news:CBMi4AFBVV95cUxNY19ueHhuc3lENnBwSlZzUDk2OXBibFBITkpLRWctQlZ5YklNQ2xjYUd1SHh2cUhrVGFxNlRHdWtJQzNtbzR3SEYwOWo1SDZmN1ktb004ZkktaXNPMzBIRExUUEFIY2FvczhYM0Q5SXB1emdnTEpxZFZtM294bjdkNDFieWFhb2wweFN1ZXJ1M3NXR2hWclZiTmFST09yMWk2NGtTSTFYVGloLUJBQUU3UVBWVWhzSnZsVFN4aE1Pbm9KZUNVY2VPUUhteV9qWjF0NFRfa3JfbUpRRGRYZFdIbNIB5gFBVV95cUxQRDIyc203SXlmWXZDUnBXaXRsLXoxSWM3d2sxdC1MWUJGX1ZTS1hQLVJjM0dfcjU5dVdDUHlxR19ycDRTbUJ5UjFEV1h5UkozT1d3NnBLeld1M3NaOHc5Vm56d0p0Wi1OUHNPU2lJQzVyQmVwNzhNQWREeUEwZVJ3LUNBZnN0VnZ4SkxUQTZwblMybThqc2szVWkxWm9lYW5qdjVTUlZwUkFEOUdXWjNMRlRjMTc4UUtqdkNHTm1YalRoVlVqaVp4ZklhVnkybDNLaU1za1cyNTlOLTN5YWNZNlNBN0tvZw": 1793270140295,
     "threads:DfEz_FBHxjJ": 1793270443051,
     "threads:DfEzg7CGDwC": 1793270443051,
     "threads:DfEywFJDSQZ": 1793270443051,
@@ -25666,29 +25656,12 @@
     "threads:DbvO2Ogk9mz": 1794479446891,
     "threads:DfowsKZoDCU": 1794479446891,
     "news:CBMiqgFBVV95cUxOYnBDZjJWRS1rbmUzVjcxN0dxWFNJb0U3dHZUM0dQVG4xM1oxbUlQQkVzNk1HWHhJZTVNNUlkUmNJVWFnWldlS1hoYXZ4NVJadWhOemppVzhvS0t4Y08zQWJPU0dSemw0aHRlbm5iX0F2d1VkX2xqcWRCVDhWME1pNXBpaU05MjdsaF9TSk1jU3BSSGVBUFhvTUdnNF9HWkZKTlZWcFltZFUtdw": 1794479446891,
-    "news:CBMi6AFBVV95cUxOLWoyYkh2QUV2eHRURTdnY0ZxSDZCX2E0RUpQV0dFdnN2azhiSGNrdGZNSmt5ejBiZnZ6czFnNHVuYTJGdjZsemc1dmlIenVkTW5yNXRkQXcwU1VLb1pjZkFzVEZDa3RHYlJTVEhTLVFWVldZTmp0d2ZaaEVkNVdsSGNYbmhiWVZnckx1YlVURkhPTk9vc2NEdFBvUGdKT1lCYjNMV0lna09yVGwwMVQ4bUlha2ItaTV1TlRhaHV4a1UtSWhXaEp2a0haMWRNQmhLU1BHWHlPRkEwbE41eDlaa19CSWJRVkZD0gHoAUFVX3lxTE4tajJiSHZBRXZ4dFRFN2djRnFINkJfYTRFSlBXR0V2c3ZrOGJIY2t0Zk1Ka3l6MGJmdnpzMWc0dW5hMkZ2Nmx6ZzV2aUh6dWRNbnI1dGRBdzBTVUtvWmNmQXNURkNrdEdiUlNUSFMtUVZWV1lOanR3ZlpoRWQ1V2xIY1huaGJZVmdyTHViVVRGSE9OT29zY0R0UG9QZ0pPWUJiM0xXSWdrT3JUbDAxVDhtSWFrYi1pNXVOVGFodXhrVS1JaFdoSnZrSFoxZE1CaEtTUEdYeU9GQTBsTjV4OVprX0JJYlFWRkM": 1794479446891
+    "news:CBMi6AFBVV95cUxOLWoyYkh2QUV2eHRURTdnY0ZxSDZCX2E0RUpQV0dFdnN2azhiSGNrdGZNSmt5ejBiZnZ6czFnNHVuYTJGdjZsemc1dmlIenVkTW5yNXRkQXcwU1VLb1pjZkFzVEZDa3RHYlJTVEhTLVFWVldZTmp0d2ZaaEVkNVdsSGNYbmhiWVZnckx1YlVURkhPTk9vc2NEdFBvUGdKT1lCYjNMV0lna09yVGwwMVQ4bUlha2ItaTV1TlRhaHV4a1UtSWhXaEp2a0haMWRNQmhLU1BHWHlPRkEwbE41eDlaa19CSWJRVkZD0gHoAUFVX3lxTE4tajJiSHZBRXZ4dFRFN2djRnFINkJfYTRFSlBXR0V2c3ZrOGJIY2t0Zk1Ka3l6MGJmdnpzMWc0dW5hMkZ2Nmx6ZzV2aUh6dWRNbnI1dGRBdzBTVUtvWmNmQXNURkNrdEdiUlNUSFMtUVZWV1lOanR3ZlpoRWQ1V2xIY1huaGJZVmdyTHViVVRGSE9OT29zY0R0UG9QZ0pPWUJiM0xXSWdrT3JUbDAxVDhtSWFrYi1pNXVOVGFodXhrVS1JaFdoSnZrSFoxZE1CaEtTUEdYeU9GQTBsTjV4OVprX0JJYlFWRkM": 1794479446891,
+    "threads:Dejk_mgGoV5": 1794479734909,
+    "news:CBMizAFBVV95cUxPSGFpUzdhdjVJeWhHZTNWYzZaN2JpWXFKa2lzUGlMOXJKQW9jejgtWi1UNDNjZGN2eWNjZ1ZzTEt3cVF3cC1KWk92ZG8tcTdFd1R3VFQ4TnVnZWdScXNGdFRmM3dBUGNyWEZEeGE2T3g3UG1Ia0tKQnFzbTNnbWN1TzNaNVJaa185RUF1cXhxSXVLZXBUaVNvNGJZTXhUSWhGeHJaUUY4bVNIVU9IS3VCWlZDTUFEem1IUWxNRlZ2OGRQZ1NZMEJQSFlZVnc": 1794479734909,
+    "news:CBMixAFBVV95cUxORmx2c3JzVUdPSjF6b3lsX3QtSUZSejN5VWpiaHZnUkN6eTBuRjB5cnA5V1V0Skl2dVVfVVUxSHpJdTNnamt6aUg1Zk9tZG9uSFRUbS1xV2d3cl95ZVBZRlV3VTMtTlR3Qkc3WXlHRGRHOGlfQW5FSkdDVnJJSVZ3NlN6YzhRNFRrTVJDYzRZZEhubWI3NVpVYWc4Ny1COC1EUGgtb1paWS00aGF4VU5RRU9YWnZZUERmT2hTVmktd1UzUEh20gHEAUFVX3lxTE5GbHZzcnNVR09KMXpveWxfdC1JRlJ6M3lVamJodmdSQ3p5MG5GMHlycDlXVXRKSXZ1VV9VVTFIekl1M2dqa3ppSDVmT21kb25IVFRtLXFXZ3dyX3llUFlGVXdVMy1OVHdCRzdZeUdEZEc4aV9BbkVKR0NWcklJVnc2U3pjOFE0VGtNUkNjNFlkSG5tYjc1WlVhZzg3LUI4LURQaC1vWlpZLTRoYXhVTlFFT1hadllQRGZPaFNWaS13VTNQSHY": 1794479734909
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@alfrtnd_",
-      "x": "Pake apk cek bansos ka , bisa diajuin disitu kalo emg desil tinggi",
-      "u": "https://www.threads.com/@alfrtnd_/post/Dfok_2lGroI",
-      "d": 1794470449000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "suarakalbar.co.id",
-      "x": "Prabowo Tegaskan Komitmen Bela Kebenaran dan Keadilan: Yang Benar Akan Terlihat - suarakalbar.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE91ellQQVhlNlhabjVscGxWVW9qWWhvcUhfRFpYbUJWTEE2b296NDJBWFRqYTN6dHhrTkhvdWt1WFZUeE9wbGp2WmdhZ0lHQzdWclAwcjNaZ2pFX0U3UmJDOTJoN2h3YlFDSlJpbWM0QVJXTHJVUlBWMUxZVzBHMXlZQVR6V3pfMTc3WHpLVXo2ckxsT1hyVE9qVnhsSGd1b2xOVE5VdC1SdWVOZ1Q1T2thb0RMOTVY?oc=5",
-      "d": 1794448800000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27168,10 +27141,30 @@
       "d": 1794468300000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Tapanulipost.com",
+      "x": "Nelayan Bersatu Sibolga-Tapteng Keluhkan Aturan Zona Tangkap hingga Denda dan Biaya Sertifikat ANKAPIN - Tapanulipost.com",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGFpUzdhdjVJeWhHZTNWYzZaN2JpWXFKa2lzUGlMOXJKQW9jejgtWi1UNDNjZGN2eWNjZ1ZzTEt3cVF3cC1KWk92ZG8tcTdFd1R3VFQ4TnVnZWdScXNGdFRmM3dBUGNyWEZEeGE2T3g3UG1Ia0tKQnFzbTNnbWN1TzNaNVJaa185RUF1cXhxSXVLZXBUaVNvNGJZTXhUSWhGeHJaUUY4bVNIVU9IS3VCWlZDTUFEem1IUWxNRlZ2OGRQZ1NZMEJQSFlZVnc?oc=5",
+      "d": 1794479340000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Palpos",
+      "x": "Bansos PKH 2026: 17 Penyebab Bantuan Belum Cair Dan Cara Cek Daftar Penerima Bantuan Sosial - palpos.disway.id - Palpos",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmx2c3JzVUdPSjF6b3lsX3QtSUZSejN5VWpiaHZnUkN6eTBuRjB5cnA5V1V0Skl2dVVfVVUxSHpJdTNnamt6aUg1Zk9tZG9uSFRUbS1xV2d3cl95ZVBZRlV3VTMtTlR3Qkc3WXlHRGRHOGlfQW5FSkdDVnJJSVZ3NlN6YzhRNFRrTVJDYzRZZEhubWI3NVpVYWc4Ny1COC1EUGgtb1paWS00aGF4VU5RRU9YWnZZUERmT2hTVmktd1UzUEh20gHEAUFVX3lxTE5GbHZzcnNVR09KMXpveWxfdC1JRlJ6M3lVamJodmdSQ3p5MG5GMHlycDlXVXRKSXZ1VV9VVTFIekl1M2dqa3ppSDVmT21kb25IVFRtLXFXZ3dyX3llUFlGVXdVMy1OVHdCRzdZeUdEZEc4aV9BbkVKR0NWcklJVnc2U3pjOFE0VGtNUkNjNFlkSG5tYjc1WlVhZzg3LUI4LURQaC1vWlpZLTRoYXhVTlFFT1hadllQRGZPaFNWaS13VTNQSHY?oc=5",
+      "d": 1794476700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
