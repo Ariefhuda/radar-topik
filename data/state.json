@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEQ625GtQv": 1793252451531,
-    "threads:DfER7WHk6xr": 1793252451531,
-    "threads:DfERdQzGzT0": 1793252451531,
-    "threads:DfEQ6diDTfa": 1793252451531,
-    "threads:DfERgOnjww_": 1793252451531,
-    "threads:DfEQ0I6G4Hh": 1793252451531,
-    "threads:DfERNNtDgQB": 1793252451531,
-    "threads:DfERF_KgSLs": 1793252451531,
-    "threads:DfEPXJQI4q2": 1793252451531,
-    "threads:DfERHHWD-_L": 1793252451531,
-    "threads:DfERE-3j2-Q": 1793252451531,
-    "threads:DfERDqeDzSc": 1793252451531,
-    "threads:DfERCMqDxU2": 1793252451531,
-    "threads:DfERAiZDy86": 1793252451531,
-    "threads:DeyeCPok5l3": 1793252451531,
-    "news:CBMiqAFBVV95cUxNeXJHTzJTOHN3dGJCTFB5WXRwc3dHVV93WGJUNWZIOU5FYWRXQll4eERubkd4TUk5Q3U4cDl4QjZTd1hTX0NWYTI4ZW43dnpidUlUUU5QMlpvdW9DeEZ4N09VSW8yclhqUkRZaUpuUkExY1E0Rm16NkFtY2REZEVBWGc3dlJCVzNQOWlKNFVqS0dwQUNsOTRFQ1FxMzBnM09QUGJZM0JHbzQ": 1793252451531,
     "threads:DfER_FoE4P3": 1793252749529,
     "threads:DfERZNzgPUY": 1793252749529,
     "threads:DfEScAlkWXZ": 1793252749529,
@@ -25600,19 +25584,18 @@
     "threads:DfoTrXcGTbo": 1794461735531,
     "threads:DfoTiXtGXGA": 1794461735531,
     "threads:DfoTZw8mSWL": 1794461735531,
-    "threads:DfoTHYdiUaO": 1794461735531
+    "threads:DfoTHYdiUaO": 1794461735531,
+    "threads:DfoT2IimR_a": 1794462037409,
+    "threads:DfoUGOoCYg2": 1794462037409,
+    "threads:DfnzfMHnG52": 1794462037409,
+    "threads:DfoVHAoIKrv": 1794462037409,
+    "threads:DfoVDOpo9nI": 1794462037409,
+    "threads:DfoU7hoI5dv": 1794462037409,
+    "threads:DfoUyMvowmc": 1794462037409,
+    "threads:DfoUMzrEpmd": 1794462037409,
+    "news:CBMitgFBVV95cUxNT3lUTW5QTm05TVNtLXZMYlVZSnhBdThtV3VXcVd4SFdLUWxwUk5yQ2VPeXBac1pqN0QxT2V4NzNvdU5Pem42ZjBKaDl2OGRkZlRXTklhNWUtdGFaOEFIYktFZnFMTkV1M1hjdHdNOWVwTGV1b2ZYalVZcF80UkRIY25uS0U4TjJnU3ZwNm5YYmpsQm1tQTM2Z1B6TVdGcTFyeTNrZmZmVU1aaG5MT3pDMXdNVGRmZw": 1794462037409
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Bogor",
-      "x": "Perkembangan Bansos Tahap 4 Mayoritas Masih Belum SI, Cek Status Kepesertaan - Radar Bogor",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2xZRUNscHBrdjVjMTdQYXZXaUI2cDRsZzlxRTZ0LU04ZThVTF9OZVUzNURjRXdwZkZWdHhkYV9HTk5WR0k0LVJOdkRkNjRkNk5FQ3RWTDdZWDROMzVaLTJ2SmRJUGZPQlA3NmhlTnlWcnJSU2xmM3g2RGFkRUdURHpkQjkxM29XNzBULWNnN2hReEg0clJsZXFUeEJmQUFPTDJHbzZ3R1Q4YzVmWGZBM3hqQlJ2Uk9NeFU1MU8xYzZDQ2M3NU4w0gHHAUFVX3lxTE1DbFlFQ2xwcGt2NWMxN1BhdldpQjZwNGxnOXFFNnQtTThlOFVMX05lVTM1RGNFd3BmRlZ0eGRhX0dOTlZHSTQtUk52RGQ2NGQ2TkVDdFZMN1lYNE4zNVotMnZKZElQZk9CUDc2aGVOeVZyclJTbGYzeDZEYWRFR1REemRCOTEzb1c3MFQtY2c3aFF4SDRyUmxlcVR4QmZBQU9MMkdvNndHVDhjNWZYZkEzeGpCUnZST014VTUxTzFjNkNDYzc1TjA?oc=5",
-      "d": 1794389707000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27102,10 +27085,20 @@
       "d": 1794461074000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kompas.com",
+      "x": "Cara Cek PKH BPNT November 2026 Pakai NIK KTP, Kapan Bantuan Cair? - Kompas.com",
+      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3lUTW5QTm05TVNtLXZMYlVZSnhBdThtV3VXcVd4SFdLUWxwUk5yQ2VPeXBac1pqN0QxT2V4NzNvdU5Pem42ZjBKaDl2OGRkZlRXTklhNWUtdGFaOEFIYktFZnFMTkV1M1hjdHdNOWVwTGV1b2ZYalVZcF80UkRIY25uS0U4TjJnU3ZwNm5YYmpsQm1tQTM2Z1B6TVdGcTFyeTNrZmZmVU1aaG5MT3pDMXdNVGRmZw?oc=5",
+      "d": 1794461820000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
