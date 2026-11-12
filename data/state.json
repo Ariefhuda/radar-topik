@@ -60,23 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFLOkcjIVi": 1793282747544,
-    "threads:DfFLJLbDWFg": 1793282747544,
-    "threads:DfFLJaDDPw2": 1793282747544,
-    "threads:DfFKSjOmRr-": 1793282747544,
-    "threads:DfFKLLXGlkt": 1793282747544,
-    "threads:DfFKFXClKvS": 1793282747544,
-    "threads:DfFKS07GgyF": 1793282747544,
-    "threads:DfFK_t4EqOy": 1793282747544,
-    "threads:DfFLaoJkt_w": 1793282747544,
-    "threads:DfFKW5uFN8J": 1793282747544,
-    "threads:DfFLXcakhfs": 1793282747544,
-    "threads:DfFLTrWI7Uv": 1793282747544,
-    "threads:De1ap9jGmT1": 1793282747544,
-    "threads:DfEfWUTjxWu": 1793282747544,
-    "news:CBMi5gFBVV95cUxPSkYwXzhnSks2YWVLaXRrNHo1Zy1BTkJJWnpFZDhPUHNUVmwxWGVUbXhKcGJoZFQ5TFJ6dzExSHhYTG1HSmtPb2c0emswRFl1S19jRzRWNzJYTUpraHNPYmE5Wnh1RTg4am9FOV9VSS0zMFpRSmd6bVBSMWIzbXgyY0JvSzVHTWxDVHhTSDRWT1Z5WTl3RlFILVYtb2t1YXJJVmg3SHd5V0NxWUo4WkhKNHZDY0F3ZWpZUkMybVFId2kxdkZTa3JMLXd0T0pTNEQySWJnNXZDSjRBa0luVWlqcWpIR01nQQ": 1793282747544,
-    "news:CBMivAFBVV95cUxNOU85dTd1ZzBIaEgwWXA1UWlsSTBvNGxROU9EalFQcEt5bXJSM3hib1RIX2NvV3o4d2E0TGpvbndXdTlKRUZiUUFWVlM3ZkJnQWRDbjNwRmJzSmlSMm9HUzYzT1V2TXJuZUFXdjlUb2lqYnJBVzVHdlBvMHlzNl9hbXJTREZxVnFIM3htLXVWVmFEejJWRjVCZW5ZbkZmdks0US1kVXVUd0czaUVfWEFFSVBGU2YtSnVEbmxWSA": 1793282747544,
-    "news:CBMi3AFBVV95cUxOSzd0OEQ4YmRmMGc5WEx1aWxiLVFRUW96NzdXcUIzZHZMRFNnOXBKR2YxU2kzSFVybzhCSXZ3c081SW85S2NTbGRzcS16S1Exa3VlVjJzSWtHY3c5OXFEdXZKSmRYSURjMmtrWTdCbXZCTkNZanhSRmVnWVRSMmRDWm9NaHlZY1NUU1NYcm03Y2lWYzNVMHJuSlhLLU4zSUtVODVjM1VHU0k5aDVWZEZhd0xBNnZZU3dpc2JDNHRNd183UnRlYVVMMXJXOGNScVEzdEZnOUtGRXhPVVNU": 1793282747544,
     "threads:DfFL8-_mw3z": 1793283051425,
     "news:CBMiswFBVV95cUxNZV9zZUtCUUtnWGpDWXBvMVBNMDljbVRpMnkzTl9oYkNLWWt1YkVRdmdyQmp4QkRwX3dmVFh2aERRaUZ5VFNpTGpUaXk5QUZRZlhIY29ham1mUE9Rd2Flcm1YdExTdUV6SWxzWjZFNlBBMzRocDBlaWRrN28wcVI5a0dOOHh3NXpjaWxOd085azBzaXRfSkR0TEx2R3RwTlkzZkctRWxUNzNCbFRZM0pzOVVKMA": 1793283051425,
     "news:CBMiwAFBVV95cUxPa0xaa0RMdW9wMUt0RFBQZUNMUUZ4bGppcEhjd04xTnZ6dU9xRG56Z2pLdllKMTRGbEdCYWRWYXpsMmw5MHRsVGVqLTdPQlRQUGt4a1Q2bW9wQkFMMzg1SlI3QjBNdHd0eDlwTzloTG5RZ2dFc0JCMUkwektVTmVjQ0R1QjF6bXl2TUZ3eDBKY3duTy1tR01IVnpJWGFlVzFNR2FjZmh3QmNsNlNEaGlMQ0Y3VmpLUXhqUkV4YUt4Vm7SAcYBQVVfeXFMTl9RWV91SGdsUnVtNmJiOUc0TGl0ckxHdzFYNE9CNjZJN3RIaDVWMDcwSmJHa2l3Q2JsZzFLWHVpN0hwYXhjYUZlSXhHYlVQVEs5ZUVieG9kTnpETW95VEsyMkwxSW9pVUhhRHFEVVJSVWdEcXdrbkJGSzBEOTRHNlJsQTNsOHp5dXFycmJqRzlNc0hIWDhiaW1qZ3VMTmJhOWI4RTcxWVFwT1prZVVOYkxMNVgtVDg4dVZHRmRTcnRGb3E5ZFJB": 1793283051425,
@@ -25751,7 +25734,22 @@
     "news:CBMirwFBVV95cUxOZGJ2RWM3Sl9Xd0t6SENkVVFuci04LXlyNXBNbUllV2NLb2pWVlpJd21UR2x1VXdQUTNRR3hMd0dRMUZRZzFkQXg1NmRfZ0tOZ21FODF5eFVqUWN0SS1sV2dLamNZbVlFSjg5enZwbWlndEpvbi1HZkhuVjM3Y1ZrTFRLa0NNUjFyNlVNVHhHZmN0ZlVodFlyb1RzUUw5b2ZkYnlILTZIWmxRSmE0MTRB0gG0AUFVX3lxTFBVR3dBYlNFcmF0UzJ0VVZSV3BzOEZZaHhzOVNlbXh3X2k0TEpxLUdsUTdwbjFSeEJ1Y1NWWWE1dVZZMWt0TkVxVjVwVFdIZXhjVkh0clRaa1lhM0xySXB0dXpBMGlnNWIyNjJHNGpTRV9QQWRqWkRROHVqSktsREtUdHNjMV9TaEV3bVBNSHZWcEc2QjBycVdIVkM5ZXF2QmNXQ3BEWDFNZEhBcXBvZFBqR0huUw": 1794492057948,
     "news:CBMitgFBVV95cUxPZWgxSHBaS1pvSjdpenZtcHBXeTBDYmhseU1LOWtkVHJMaWd2NzhrYkNxTDZoMmwxZ284MXlnM1lncVF0NndDZjRERGphM2VfZ1ZveHhfYUdfWXpXQnZOWm9XZERBTzJBSVo4cTZzTVU5eUpHTkRZbHlwUU1zZm5PRDhMa2xOOEYxX0k1cUx4NHRrbjNsR2pOYTN3X3NOUVBlbXh2MTZCbWpaSEZydmx4RzBsSjBUUQ": 1794492057948,
     "news:CBMiywFBVV95cUxNbnlYeVBiWlg1S29KamhfSzgtd24zXzc5Tlk5aFpnMFQwTGJpQkxVUWN3clBCSE5KTTBlVGFnVHBnZWJTTk5jM19DT3NKTmRLNjJuZnNzSUw0UFBseW9JUnZ4RXQ2NkhPamtLQnhzaTVDT3RZZ09nOVNHU005MHZlNWI4WFFkdkxpM1dXV0w4UDktNlphR2F2eFg1YnVRcmZYRG9JQ0FRODJqV29SSnhVeWhOV1NoTG93QlJkVWgxeV9tV1VrazFhR0lPbw": 1794492057948,
-    "news:CBMi8gFBVV95cUxNSm9rZHhqN21MZ3JCSUhfcllraUJKcWIyMy10VkdCREN1NDZiWl9JMlJ6QlVJRWZIWWV3UElvRVBJb1ZqeWJyS0U4X0h4V3dXbkF6Rm14eXdSeDM1dS1UMndCR0lPMUpkWTEzTlduZElGVVJiMWJteXNwUThZR1k3aWZzX0IwTE5yVWpXM0E1UmE2YWU1WGtQS08zNWJmeWNBTWs3MEJucS11TklLWWVfYmh1bENsS00tb01RSUlsRk5oTlNleXRKVG1HRGU4Q0JrZTAzeHJRdjU1a0NBbDdFXzJMdk0zN2d4Q0NSWFo1LUVyd9IB9wFBVV95cUxPd0lGdzFMRDJJOENHS3d2SnBFQ0xfaVNyWGJmaWpEQml4Ukg4WkJoMGxuU1M2YTVuU3Y5MFVjMEZqSDVPaXFWS3c5WFRpamRVYzhKZGlmV3VndTJyRU94Sk9hOExhSW0xUXVXMVJNVFFaTDNTdzBzWmVFZXk2VHhvWGZDMG5HOVkzcEs1QVhaUjctV0tNUEsxUzIyRDljcWp4ckFORWZfV1o2S3Z5VFB5WFMwYU1oeXlMNWdFNF9TNTNPMlhSNDdOajhWWlM3R2hEYmc2STZsZjVzbjU2bXdhZVBLRGNCU0FEaTh5dXhKdVB5UDhHMFJr": 1794492057948
+    "news:CBMi8gFBVV95cUxNSm9rZHhqN21MZ3JCSUhfcllraUJKcWIyMy10VkdCREN1NDZiWl9JMlJ6QlVJRWZIWWV3UElvRVBJb1ZqeWJyS0U4X0h4V3dXbkF6Rm14eXdSeDM1dS1UMndCR0lPMUpkWTEzTlduZElGVVJiMWJteXNwUThZR1k3aWZzX0IwTE5yVWpXM0E1UmE2YWU1WGtQS08zNWJmeWNBTWs3MEJucS11TklLWWVfYmh1bENsS00tb01RSUlsRk5oTlNleXRKVG1HRGU4Q0JrZTAzeHJRdjU1a0NBbDdFXzJMdk0zN2d4Q0NSWFo1LUVyd9IB9wFBVV95cUxPd0lGdzFMRDJJOENHS3d2SnBFQ0xfaVNyWGJmaWpEQml4Ukg4WkJoMGxuU1M2YTVuU3Y5MFVjMEZqSDVPaXFWS3c5WFRpamRVYzhKZGlmV3VndTJyRU94Sk9hOExhSW0xUXVXMVJNVFFaTDNTdzBzWmVFZXk2VHhvWGZDMG5HOVkzcEs1QVhaUjctV0tNUEsxUzIyRDljcWp4ckFORWZfV1o2S3Z5VFB5WFMwYU1oeXlMNWdFNF9TNTNPMlhSNDdOajhWWlM3R2hEYmc2STZsZjVzbjU2bXdhZVBLRGNCU0FEaTh5dXhKdVB5UDhHMFJr": 1794492057948,
+    "threads:DfpONajEZvn": 1794492333403,
+    "threads:DfpNrzrFA5x": 1794492333403,
+    "threads:DfpOFtSD7cW": 1794492333403,
+    "threads:DfpOOZHGfJt": 1794492333403,
+    "threads:DfpOV-vGW1a": 1794492333403,
+    "threads:DfpN5AgoEak": 1794492333403,
+    "threads:DfpOOvTGG9Q": 1794492333403,
+    "threads:DfpOKLWGJ9e": 1794492333403,
+    "threads:DfpN-z-GBrW": 1794492333403,
+    "threads:DfpN9qiGBht": 1794492333403,
+    "threads:DfpN6qYmOfB": 1794492333403,
+    "threads:DfpN0vCmLja": 1794492333403,
+    "threads:DfpO3zGk-mR": 1794492333403,
+    "threads:DfpOYy5CCbV": 1794492333403,
+    "news:CBMikAFBVV95cUxNT2ljZUxWNXB5NzNjYl9CYmcza3JYQ2NwU0JDamVQZEtmdGJQaUJoMVVMbkNJVFBZOGN1bzhFalZVdFU5OGdaX0NadEdNVi1YTnNldkJBamszVUtsRUZwbG40OXJLRHVaZVVBdGI0UjgyLUhPaG5DVlJNc2wxMHJlamJTcWhuLUw4TjdOTVRRT2Q": 1794492333403
   },
   "digest": [
     {
@@ -27103,10 +27101,130 @@
       "d": 1794483926000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Coba bisnis online yuk 😊, Kk bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, atau menju",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfpOFtSD7cW",
+      "d": 1794491993000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "📢 DICARI MAHASISWA & DOSEN! Ada yang sedang belajar SPSS atau membutuhkan skill mengolah data untuk skripsi, penelitian, maupun tugas akademik? Yuk, ikuti PELATIHAN SPSS GRATIS! \ud83c",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfpOOZHGfJt",
+      "d": 1794492064000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "📢 DICARI MAHASISWA & DOSEN! Ada yang sedang belajar SPSS atau membutuhkan skill mengolah data untuk skripsi, penelitian, maupun tugas akademik? Yuk, ikuti PELATIHAN SPSS GRATIS! \ud83c",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfpOV-vGW1a",
+      "d": 1794492127000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@asmaliindaa",
+      "x": "Kakak domisili nya dimana? Kalau masih di jabodetabek, ada KPJ (komunitas pemulia jenazah) asuhan ustdz Rusmono (Masjid Raya Pondok Indah), beliau mengadakan pelatihan untuk memuli",
+      "u": "https://www.threads.com/@asmaliindaa/post/DfpN5AgoEak",
+      "d": 1794491889000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irawendah",
+      "x": "Yuk, yuk, yuk. 🤩 Daftar lewat sini, ya, kak. https://bit.ly/KelasGratisAntiq",
+      "u": "https://www.threads.com/@irawendah/post/DfpOOvTGG9Q",
+      "d": 1794492067000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irawendah",
+      "x": "Yuk, yuk, yuk. 🤩 Daftar lewat sini, ya, kak. https://bit.ly/KelasGratisAntiq",
+      "u": "https://www.threads.com/@irawendah/post/DfpOKLWGJ9e",
+      "d": 1794492030000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irawendah",
+      "x": "Yuk, yuk, yuk. 🤩 Daftar lewat sini, ya, kak. https://bit.ly/KelasGratisAntiq",
+      "u": "https://www.threads.com/@irawendah/post/DfpN-z-GBrW",
+      "d": 1794491937000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irawendah",
+      "x": "Yuk, yuk, yuk. 🤩 Daftar lewat sini, ya, kak. https://bit.ly/KelasGratisAntiq",
+      "u": "https://www.threads.com/@irawendah/post/DfpN9qiGBht",
+      "d": 1794491927000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irawendah",
+      "x": "Yuk, yuk, yuk. 🤩 Daftar lewat sini, ya, kak. https://bit.ly/KelasGratisAntiq",
+      "u": "https://www.threads.com/@irawendah/post/DfpN6qYmOfB",
+      "d": 1794491903000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@irawendah",
+      "x": "Hai, kak. Untuk jadwalnya bisa pilih antara dua waktu ini, kak. - Selasa & Kamis (10.00 WIB) - Senin & Kamis (19.15 WIB) Bisa daftar lewat sini, ya. https://bit.ly/KelasGratisAntiq",
+      "u": "https://www.threads.com/@irawendah/post/DfpN0vCmLja",
+      "d": 1794491854000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@azzahraariyanti_",
+      "x": "siapa disini yang mau ikut pelatihan psikologi gratis di Universitas Malahayati tanggal 14 november Sabtu Besok🙌🏻 kalian bakalan dapet e-sertifikat pelatihan psikologi dan juga s",
+      "u": "https://www.threads.com/@azzahraariyanti_/post/DfpO3zGk-mR",
+      "d": 1794492404000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Bansosnya sendiri sah karena ada di APBN, yang melanggar itu timing dan politisasinya. Aturannya jelas: 1. UU Pilkada 10/2016 Pasal 71 ayat 3 - gubernur/bupati/walikota dilarang pa",
+      "u": "https://www.threads.com/@meta.ai/post/DfpOYy5CCbV",
+      "d": 1794492150000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
