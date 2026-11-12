@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfE5AX1j4Q7": 1793273136507,
-    "threads:DfE3zQGmgTD": 1793273136507,
-    "threads:DfE3hJTGTmG": 1793273136507,
-    "threads:DfE5f2_lBnK": 1793273136507,
-    "threads:DfE4ig1gY5Z": 1793273136507,
-    "threads:DfE5Y7GjiIa": 1793273136507,
-    "threads:DfE5V_aGuZn": 1793273136507,
-    "threads:DfE5UIBDqDh": 1793273136507,
-    "threads:DfE5HswDm7l": 1793273136507,
-    "threads:DfE5C1PjvIj": 1793273136507,
-    "threads:DfE44nVjp5g": 1793273136507,
-    "threads:DfE42U6Eat2": 1793273136507,
-    "threads:DfE4j3MlBA3": 1793273136507,
-    "threads:DfE4Sibjmfn": 1793273136507,
-    "news:CBMicEFVX3lxTE03aHYwTWZNM1hFcktWOGtibTZ4aExYV0QyWUdSUjdKZGYxYWdtVjJVT0E3emJCNDlFTE1KNE11Z3JSYmQ0Qkd0MzcxU09pWkpXWjZ3QWdDN1Z5RG5yU3JaNERxYzgyTEJvY251eURaMnU": 1793273136507,
-    "news:CBMiwwFBVV95cUxQQUdpcHNKNEZfcjM4cWdhSnZTZlg0ejZpMDZ5VGN2RzA5OFprVTJURnA4Q0E4YUF0cGxpRjVaT3FkUlB4WTJZVzF6V05zM0tGdUg2aEt0aVcyQzc0SXhzWWVFcUhHa3VnSVJ2aHQyaHdpc09LTlEwanVJRkRWLTFQOWVhdUlldnBFdU14QTFaZE1yeVZhaF96SXBiQUpNV1BRc2lHUkZyUFFFZG5MM2E5Ny00cFNveEJ1WS0yZHRLNW9HRWM": 1793273136507,
     "threads:DfE5whQmOQj": 1793273452710,
     "threads:DfE5Xu_j2Qw": 1793273452710,
     "threads:DfE5AWymaAv": 1793273452710,
@@ -25656,29 +25640,12 @@
     "threads:Dfo5p9cjrl2": 1794482442329,
     "threads:DZ4NSU4EpID": 1794482442329,
     "news:CBMivwFBVV95cUxQOVRFbG9tR2M5Z0pJTW9BU01tLUFkeHNOTlNNMWc4U254cUlIbzlXX0oyV1UybmxTQ3YxLVpqb2JScW5mM21kdWUwQ25oNXRGcm9CeXpTQ19jMnl1UnphU3RGcm5mVUwwUzFxNDdIbkRhNEFscjVPWEx4NzJVSWtwYjZLaGNXQVIxSFpsSjVIZUxOR0t4eVMwYjV4TDh0VEt1ODhLREplalo4RnpoNTM4c0JmSWlPLVVWOGhFSFFPWQ": 1794482442329,
-    "news:CBMijgFBVV95cUxQQmkyRTBWbWlpTTlDcVM0QVJ0ZTFJVms5YUpWTVEyekl5S0wydTlYSnNBTUZkNXgzU3Z4OTM1RWh0Vzh6dUNuZmdOc3JPYmhBc0I2UVgyUkVtYmk3Mkd0UVdzUDg4aUFIeUJQNi0zNVh5dXpEbHA4OXFzZ2tSLWY1RWRZTmZyZGpjZnVQTWJn": 1794482442329
+    "news:CBMijgFBVV95cUxQQmkyRTBWbWlpTTlDcVM0QVJ0ZTFJVms5YUpWTVEyekl5S0wydTlYSnNBTUZkNXgzU3Z4OTM1RWh0Vzh6dUNuZmdOc3JPYmhBc0I2UVgyUkVtYmk3Mkd0UVdzUDg4aUFIeUJQNi0zNVh5dXpEbHA4OXFzZ2tSLWY1RWRZTmZyZGpjZnVQTWJn": 1794482442329,
+    "news:CBMi9wFBVV95cUxPQ1NXTlhUQTlJWVNDNW03dTRzTVgtZkJPdjQ5ZDVlU2ZXd3p4dWhZSkQ2ajlkQ041ZkJ2UmFUUFlVY1RBd1VYUGxMM0p4THlSRTJZRXMzQ0dRajJIVmlfM0VYV1dKdnhRbFR3ZFcyWGhCWnpJTlFwaUh4LUd2RVg0V3NHRjJzZnpUWTg5cTIxU0p3WnBjUTJFdkRUSlAzT29jYkEwRjY0bEo2QV80bUV5ZWNacHo1Smo4ZHFpbUlBVGE0SXhINXdtcHY4Nk5TLWUwTG1DblNhaWpyUWpwblJyWXNvU0piR3duRkplZ2JnSkZsVjJIWUJR0gH3AUFVX3lxTE9DU1dOWFRBOUlZU0M1bTd1NHNNWC1mQk92NDlkNWVTZld3enh1aFlKRDZqOWRDTjVmQnZSYVRQWVVjVEF3VVhQbEwzSnhMeVJFMllFczNDR1FqMkhWaV8zRVhXV0p2eFFsVHdkVzJYaEJaeklOUXBpSHgtR3ZFWDRXc0dGMnNmelRZODlxMjFTSndacGNRMkV2RFRKUDNPb2NiQTBGNjRsSjZBXzRtRXllY1pwejVKajhkcWltSUFUYTRJeEg1d21wdjg2TlMtZTBMbUNuU2FpanJRanBuUnJZc29TSmJHd25GSmVnYmdKRmxWMkhZQlE": 1794482735688,
+    "news:CBMi4wFBVV95cUxNS2tLM2hmZlQ4RGdFY21jbDR3X0czV2ZaRGoxaUdqT3F1UXQzYVdyUEtoNEFHcTR1eUpPNlRZUVpuYjd0bjlOcjlCZWh0TTNMNjVxZXU5WUNxdnhNekdWYTZRUzd3am50aE9QNWJTVjV1dXEwUTB2ME4wQVN1b3JGWlFKTjMxQzFXZE9oRjJYb1pNWHZNOWJWenVUMFRYRXctNjVUVVY4NkJHQWktRHd2a2JqLXU1R2FTN24zMktaZlptWEYzdEhURmVCYlh3MFJsek1LY2VPZ0JrNjluR0ZWX20xQdIB6AFBVV95cUxPNWZ2SXdEWnBtcFZndmFleFRrd3YtY0ducE9QMjhWdGxhX3UwemItTHFrUU85LUZfN080cjZOdkM2LWpScUVKV291N0VnN045Rl9MMENsRXAxeDFwQVBubGZSVnZwcEx3YzE2eHBzeERkUlNhOWxQZnM3U3lXbTRRX0txMHhHUTZQWmt5LW44dEhuSGl0WFZnYk5oajZaZkxTRnpybklZdk9lUmQyZjgxZGN4SW5pb1BQWXVZb3F5OVJzMk5KX2VFZk5qZzRMVk9ydm4xUTRTZFR5WHdoNUNFNDVJYl94Zzlt": 1794482735688,
+    "news:CBMivAFBVV95cUxOd0cxbmZsM1laZ0RhcHZhd0NsemxMMUZqbWg3bENLdjJhQkRzR3J4bnFHMEJ4Z2FQVFNNeUplYUZUSVRMbmZJdHVRMkktSm42TGhUN2FZdGsyLWZZRDVsaGotUzdXN3dUYnpQcDhZNERqWGJaalNJX2FEMGZaR3ZkSzZ6cEUtVzZOV2kzbERrVXB5WUVmdDlUM1Y4NmV4a3FvQjdqYVBNSmUyMEhQaHRTQ0FZaFZzcG9BMFNFa9IBvAFBVV95cUxOd0cxbmZsM1laZ0RhcHZhd0NsemxMMUZqbWg3bENLdjJhQkRzR3J4bnFHMEJ4Z2FQVFNNeUplYUZUSVRMbmZJdHVRMkktSm42TGhUN2FZdGsyLWZZRDVsaGotUzdXN3dUYnpQcDhZNERqWGJaalNJX2FEMGZaR3ZkSzZ6cEUtVzZOV2kzbERrVXB5WUVmdDlUM1Y4NmV4a3FvQjdqYVBNSmUyMEhQaHRTQ0FZaFZzcG9BMFNFaw": 1794482735688
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@jannahfath",
-      "x": "Sebentar lagi ditutup pendaftaran mentoring LPDP untuk tahun 2027 Mentoring lengkap dari awal sampai akhir, dari mentor Awardee dan Alumni Beasiswa",
-      "u": "https://www.threads.com/@jannahfath/post/DfootwdmW4m",
-      "d": 1794472398000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "InvestorTrust",
-      "x": "Kantongi Lisensi BNSP, MPMRent Perkuat Kualitas Driver demi Tingkatkan Layanan - InvestorTrust",
-      "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHZPZ3FIWGxSNmxyUjNiZHdIVmtKTFRGY1FqbmVUN2tPblgzZlJEYnUzZ1VWeTVjOXkwR19nZXFaa19lTEdQX241MmE1bzFYWlJJdG9reUNUYjhWbVo3Z3NQbXBtVVhBSm9KanYwbjYzMEExQ3I3NUhxT1pjZnhUcUp1MTViTjFwdG9MQmpHVUFCOGdfTmx5SGN5MC11bVFIS1phSFZQMk9GWW5GdW00NUotcy11ZmkxaVE?oc=5",
-      "d": 1794450960000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -27158,10 +27125,30 @@
       "d": 1794481694000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Suara Merdeka Banyumas",
+      "x": "Gratis! Kemenag Cilacap Fasilitasi Pengelola Masjid Cek Arah Kiblat lewat CIBLON, Berikut Caranya - Suara Merdeka Banyumas - Suara Merdeka Banyumas",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS2tLM2hmZlQ4RGdFY21jbDR3X0czV2ZaRGoxaUdqT3F1UXQzYVdyUEtoNEFHcTR1eUpPNlRZUVpuYjd0bjlOcjlCZWh0TTNMNjVxZXU5WUNxdnhNekdWYTZRUzd3am50aE9QNWJTVjV1dXEwUTB2ME4wQVN1b3JGWlFKTjMxQzFXZE9oRjJYb1pNWHZNOWJWenVUMFRYRXctNjVUVVY4NkJHQWktRHd2a2JqLXU1R2FTN24zMktaZlptWEYzdEhURmVCYlh3MFJsek1LY2VPZ0JrNjluR0ZWX20xQdIB6AFBVV95cUxPNWZ2SXdEWnBtcFZndmFleFRrd3YtY0ducE9QMjhWdGxhX3UwemItTHFrUU85LUZfN080cjZOdkM2LWpScUVKV291N0VnN045Rl9MMENsRXAxeDFwQVBubGZSVnZwcEx3YzE2eHBzeERkUlNhOWxQZnM3U3lXbTRRX0txMHhHUTZQWmt5LW44dEhuSGl0WFZnYk5oajZaZkxTRnpybklZdk9lUmQyZjgxZGN4SW5pb1BQWXVZb3F5OVJzMk5KX2VFZk5qZzRMVk9ydm4xUTRTZFR5WHdoNUNFNDVJYl94Zzlt?oc=5",
+      "d": 1794476917000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Pati",
+      "x": "Bansos November 2026 Cair Lewat Bank BNI. Mandiri dan BRI Bagaimana? - Radar Pati",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0cxbmZsM1laZ0RhcHZhd0NsemxMMUZqbWg3bENLdjJhQkRzR3J4bnFHMEJ4Z2FQVFNNeUplYUZUSVRMbmZJdHVRMkktSm42TGhUN2FZdGsyLWZZRDVsaGotUzdXN3dUYnpQcDhZNERqWGJaalNJX2FEMGZaR3ZkSzZ6cEUtVzZOV2kzbERrVXB5WUVmdDlUM1Y4NmV4a3FvQjdqYVBNSmUyMEhQaHRTQ0FZaFZzcG9BMFNFa9IBvAFBVV95cUxOd0cxbmZsM1laZ0RhcHZhd0NsemxMMUZqbWg3bENLdjJhQkRzR3J4bnFHMEJ4Z2FQVFNNeUplYUZUSVRMbmZJdHVRMkktSm42TGhUN2FZdGsyLWZZRDVsaGotUzdXN3dUYnpQcDhZNERqWGJaalNJX2FEMGZaR3ZkSzZ6cEUtVzZOV2kzbERrVXB5WUVmdDlUM1Y4NmV4a3FvQjdqYVBNSmUyMEhQaHRTQ0FZaFZzcG9BMFNFaw?oc=5",
+      "d": 1794478631000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
