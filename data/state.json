@@ -60,23 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEYG2QE4td": 1793255742027,
-    "threads:DfEWym3krNA": 1793255742027,
-    "threads:DfEXqQBD-la": 1793255742027,
-    "threads:DfEXcumE3aG": 1793255742027,
-    "threads:DfEX35-kmy9": 1793255742027,
-    "threads:DfEYA8gCUS5": 1793255742027,
-    "threads:DfEYNjnAI4R": 1793255742027,
-    "threads:DfEX6rHD2b7": 1793255742027,
-    "threads:DfEXEOtEy3g": 1793255742027,
-    "threads:DfESqYID6t1": 1793255742027,
-    "threads:DfEX7RZmZB8": 1793255742027,
-    "threads:DfEYacTGGWT": 1793255742027,
-    "threads:DfEYFg5GWyl": 1793255742027,
-    "news:CBMiugFBVV95cUxNcTVmQ0ZEV2laMzB1ZHJxTVVITzVnWjBIZFRqYjA4ZW9jMnAyWTdnZGh6ZUhnS2FheGMzaHBrOTNCTVRDUHBSXzc5NkxwaFdTWWtlWXNIeTBuWEROWnpCYTJZV1B3YklqRXdYTzlfUEVocWUybDNpR1M4a0llbEhoRG12Z1lKTG0yTUtFaEstX2NaaUs3em81NXlkNXM0SUVPZDJubkRuNDlGbV96eGo3WjVrcFlBcHlTUUE": 1793255742027,
-    "news:CBMiuwFBVV95cUxOTGV4NUpLb2VySGVpd0VNekVLOVBvVFJ6YzMxSEtfNl9xTTVjSUIwOFQ3ZkRvcXk2SkFSMlNIRjJoNnoybmdJLWI1dmFKNlV5UGdXZnprSzA5dDZLVG1SSGJ2SDFrMEZfNnVWeW1jRXl4OUNqVThqVkZFMWxIOTR1eGYzT01TNXJMeTJqSFJPNDVtZUdTNVBfbzRYTlZXTDNGVFJDazNqdi1oaGlTWEF3NDJqSGg5U3JCLUpF0gG6AUFVX3lxTFA2c0NzY1M1TWM5aVdwSlJxZUY4MFc3NG5QWk0xTWF6Tlg4VFZ6ek9nenEzNU1hR3hpMkp4MWpubWtYQXJXeF9JUWRwRkhuRE1lODhUQ2JQYzR1OTh2X2lUMXR4MnVBcjdWc01GQ3g2RXZHeEF6em9xUzJZQ042eWprXzBWNUFXc0dkeFhlQzF4Q3pXTGFUaW9OSUhMRkZfdUhDWmh5VmxUTHJzWmRIOXVyRXVJTnRmNDZ4Zw": 1793255742027,
-    "news:CBMi1AFBVV95cUxQYnlzVk8zUDFwa25FSE5fMndTYTNLNXpMNXZvUmFVejh5eFJzZnpkeXNfeWN4T0JQMTVFUF8wcGh0aTQtRE8xQmFfMmo1aXc5bHVKYUw3ck9sM2hnS2hmSkJKMktpN1FKQlBmNXhNM0tBWHM4ME42WXJVa0RVLVRnbzJ6S3hoZWhnelJkQnRISVkxU2p6YWVVckJfVnJ3RUdodDduUUZuLUFOSUlEVUtJNTF3UFEtbEN5azFzcUhHSHU2S2ZRMjdLLXpkWHo3QmJSTTdQdQ": 1793255742027,
-    "news:CBMi0gFBVV95cUxOMnh3Q1hHZlpzWEpnSENtYWdvNXRhZ24wSWUzZ2owYTMzZC1EOE1BVlZkcS1DcUZkNHhlblFGaUdHcmxBR3ZqbkxpWEZHUGlCZWswWUxMSW1VRkg0ME5uNFpKNnlXbzczNDRsd1BvR3g0eklaXzJLbTJId2NCQ011LWY4Mll4RHBONjRqNDlkaElmVS1wZXpyZW9rVGh5S25lc1hjejJqdU9TZk9SbVpVaFVEd09kQXozMFc1VXFhUThVS3NUc21PMFVZSjZyRVdvN3c": 1793255742027,
     "threads:DfEYrMxASNX": 1793256048426,
     "threads:DfEYYGKj6H1": 1793256048426,
     "threads:DfEX916mB_S": 1793256048426,
@@ -25621,59 +25604,15 @@
     "threads:DfoaTEuk_cb": 1794465040803,
     "threads:DfoZ8yxEdxs": 1794465040803,
     "news:CBMi3gFBVV95cUxNUFdkQ2FhUEJUdVdWU0NFX3hlQ3lQTnhhRjBtVWlQSDk2RDZicEptU0RwTnBkWXJOUkw3dW5Kai1RVFBqT2hJTngwSEFSRkxYeFJMbk9Ha2xJQ3EyZG42c1NWTzgzTjJWZDNZMkMxMGhkRVRYT29qU0VZaGlKMkZ6bUdnMEFHSkZaX08xaEVSVEh6d09lTkFJRG55eHY1TUF6NDhYdG9WRHBWSVRjWEc5ZTIzYkVLRklzMGo5SnpEWF9QeEpwaVZ3WTBXaTNiWHdiVm9tOFJhcGw0SHM3Q3fSAeMBQVVfeXFMUGh2djc5blRRWl9hZ1ZkQWIxbjZoV3NWb2luZDZ0OEVhZ3kwRXJlTzI4R01RMHZmY2E3YUdNeml3Sml5RFduMHI0Nnd3WmxQYThaNjFOYVpKNWszejhYZnplcHNiX2s3eDRNdTg0bWY4b0pBZUlsQmpld05zRmxESDRzWnY0UG5CdXRhMmo4NjRhaWRETkJtMXMyUjlsNzhTRHZzeDh0c2JNMzJULWVyR0VDMHZNX1ExVmstU0dLaUZJU1hWWS1lWVJhNHJsaGV4VDBYdWRmMVZ0RTB5THVBLVZJd2c": 1794465040803,
-    "news:CBMisAFBVV95cUxQMmN0ZWlEc2VDYlJTZE8yczlvaFRqczdJQ3J0NGhHZUhwVlUwb2hqQ1FpRFdYWmg2WW1ENjNRcVpwSWtCaGZIQVk1VUoxYTBXM0Jyckk4bjh3VkxYVEVxS282cmVjMVF3Q1lUSTFpTF84U2lOUUVYeDFHSG04Rnh0Z19BdmxLaGQ4OXNsV1ZSVG9JclJ2dXVOb3dRcFZpaWFHb3lnMUtISjlpWkNNY0Y4bA": 1794465040803
+    "news:CBMisAFBVV95cUxQMmN0ZWlEc2VDYlJTZE8yczlvaFRqczdJQ3J0NGhHZUhwVlUwb2hqQ1FpRFdYWmg2WW1ENjNRcVpwSWtCaGZIQVk1VUoxYTBXM0Jyckk4bjh3VkxYVEVxS282cmVjMVF3Q1lUSTFpTF84U2lOUUVYeDFHSG04Rnh0Z19BdmxLaGQ4OXNsV1ZSVG9JclJ2dXVOb3dRcFZpaWFHb3lnMUtISjlpWkNNY0Y4bA": 1794465040803,
+    "threads:DfoayPrlBHL": 1794465332091,
+    "threads:DfoaV8TG_aN": 1794465332091,
+    "threads:DfoaTuZmSNl": 1794465332091,
+    "threads:Dfoax2BkrEN": 1794465332091,
+    "threads:DfG7Of2EzUY": 1794465332091,
+    "threads:DfoaXw9Ewjl": 1794465332091
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Ayo mas nyoba bisnis online 😊. Bisa dimulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, atau m",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfoMK0iD6zw",
-      "d": 1794457432000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tentaklikofficial",
-      "x": "Waalaikumsalam kak! Kebetulan di Tentaklik juga ada layanan pembuatan website nih. Untuk kebutuhan event management, mungkin bisa kita diskusikan dulu konsep dan fitur yang dibutuh",
-      "u": "https://www.threads.com/@tentaklikofficial/post/DfoMHSdIIHw",
-      "d": 1794457403000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@husnaismii",
-      "x": "Buat kalian yg lagi persiapan PTE untuk WHV atau studi, tapi masih bingung harus mulai belajar dari mana, sini aku bantuin lewat webinar GRATIS 😊 Nanti kita bahas strategi latihan",
-      "u": "https://www.threads.com/@husnaismii/post/DfoL11xEkb_",
-      "d": 1794457260000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tentaklikofficial",
-      "x": "Halooo kak! Wah, semangat buat usaha barunya yaa! Kebetulan di Tentaklik juga ada layanan pembuatan website nih. Untuk kebutuhan web fotografi sampai pengembangan website bisnis, b",
-      "u": "https://www.threads.com/@tentaklikofficial/post/DfoLugmIDV2",
-      "d": 1794457200000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@klinikmindset",
-      "x": "Kenapa ya pelatihan gratis yg dibikin pemerintah cuma berkutat di skill buat jadi buruh kasar? misalnya bersih2 ruangan, bikin kopi, nyabut paku, benerin AC, servis motor, dll. Buk",
-      "u": "https://www.threads.com/@klinikmindset/post/DfoMeufn1sf",
-      "d": 1794457595000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27123,10 +27062,60 @@
       "d": 1794464280000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinamistalenta",
+      "x": "Pasti nggak nyaman banget yaa kak.. Yuk kita pahami bareng kenapa kita losing spark di webinar GRATIS😊✨️",
+      "u": "https://www.threads.com/@dinamistalenta/post/DfoayPrlBHL",
+      "d": 1794465095000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sumselupdateofficial",
+      "x": "Wali Kota Palembang, Ratu Dewa, melakukan inspeksi mendadak ke dua dapur Makan Bergizi Gratis (MBG) di Palembang. Dalam sidak tersebut, ditemukan sebanyak 17 masalah yang perlu seg",
+      "u": "https://www.threads.com/@sumselupdateofficial/post/DfoaV8TG_aN",
+      "d": 1794464865000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yknovie",
+      "x": "Semangat ya kakkk, jangan ngerasa kurang atau menyalahkan diri sendiri. Belum ada kabar bukan berarti kakak nggak punya kemampuan. Sambil nunggu kesempatan, nggak ada salahnya teru",
+      "u": "https://www.threads.com/@yknovie/post/DfoaTuZmSNl",
+      "d": 1794464845000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@istianah_iin",
+      "x": "Cuss DM aku kak, ada kelas gratis untuk pembuatan video AI berserta tutorial nya",
+      "u": "https://www.threads.com/@istianah_iin/post/Dfoax2BkrEN",
+      "d": 1794465092000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@bagindaoloan",
+      "x": "📢 OPEN PARTNERSHIP QUICK TEST SAMPLING! Kantor gue lgi cari partner nih, dari berbagai industri untuk kolaborasi Quick Test Sampling Anti Ribet di area indoor, simple aja kok part",
+      "u": "https://www.threads.com/@bagindaoloan/post/DfoaXw9Ewjl",
+      "d": 1794464878000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
