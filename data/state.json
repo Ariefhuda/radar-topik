@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEMSOgiY1T": 1793250336647,
-    "threads:DfEN50ZkQaf": 1793250336647,
-    "threads:DfENfjOGmc6": 1793250336647,
-    "threads:DfENZtIEcYB": 1793250336647,
-    "threads:DdCwLzRE7UT": 1793250336647,
-    "threads:DfEOAsGkZXN": 1793250336647,
     "threads:DfENNxEEgua": 1793250645163,
     "threads:DfEN7lXASme": 1793250645163,
     "threads:DfEOpzrCUbO": 1793250947476,
@@ -25581,99 +25575,28 @@
     "threads:DfoNJvcIDQK": 1794459338286,
     "news:CBMiqAFBVV95cUxQX09DMGJxSFJwVUVaQ0sweGpXcXVCcWhaSlZVdS1ndDJKcVY5dzY0YmRXZ1BxM3JTcWd4UXd5b0ZhNjVNenplang3aVFYUDdYelFfQnRGSzYxMXAxRmJEMy1LOUs4bmFfbU1QekgzUDJ6OFpSSWVkN09wSWh3TFk4b2JQOXhMenV3R05QNVpYTHZVT0ZoWDZsZmdYWldCTUxGOGtlS19SWWg": 1794459338286,
     "news:CBMi-AFBVV95cUxNWkw2cXRjUnRpMDFPdEdBZVhFREREbC1vbEFIZXlnQ1dZOVE5LXRfbDFLTk5YdEJhdGR0aERPUUFoU0J3OTV1UDdCYzhFOEJTa3JvMTVwRWdia0FfQ01WWDF5SWdrQ2l1NkVMMTdJWkw0aFhMY1o0VGNPYTlOdzBLNEtkc1Y5c1d6MlpFdkJGRExLb2lFS2tZd2h3MndOeDVIc1ZuM1NQdWcxakdhTjVueC0zU2d4LXhTZFI2ZlMzbzJTRi1MRlVMZkxRa2w5alNQdzZiRHo2ZjJnLTNiY0dENktkb05aNTNHT0lWZ0lHaXlpakVNaGNCcdIB_gFBVV95cUxQOUlSWVlJb2w4MHhTOTc0dkplRmtVZGJNaVVGdElLd1NzSFdOTUxBWFdlOEM5ZUR6ME5uWldiZXZGQTZYeElPdGRkZkdmUm1TNXdfZi13NnYweFlERlgxUGVJT2ZIWlJyUXdOUkRaUFB6OEE5eGN4QXFpZF81WTdhWmduSjg0aktuQjVOekxhZl9rbjVCVTdQU3VZazJ2eUs0emxkbVFDLVBScEZaY0VjcndOeVRzRWFmei16UGZaN3lFX3ZxR3dFVkxKZGswd1pPVjB1b0p1Z2xidUZXSDI3TG9rQndWc2lmaWp3Y1dyNDFXUEhockNlUWY4YW9uUQ": 1794459645500,
-    "news:CBMizwFBVV95cUxOR0dTR2hsT0xmRHp3cVpsdkJNaWVGel9UX0lIaTdjd1Z6LTh4d0I3d0NDZ0ZqYjltaTYzaUVMSEd0a2lTQmxZU0pnVU91N3d6OHlDVGRacVdyc093akx0MWdjblBaNEtrem5Yek1CVHZic1pzeWo1QkltOVZ3NGdGZDh4YzZzNWZWZy1ucWdvbzBIQ05wTEd3QjF2bUVya05keElxV3Bib2hSNkg1M0gtT19raGRIaDU5Y1JLUW9yUzFnRXl6a1h6ODdpblFoRVHSAdQBQVVfeXFMTXlhbzdWd1BROXRwUFphN0tYcnp4RHdxSU4zQlJyN1l0dWdhTFVudmhJMjI5c0lRVGx1YjhoeUVEQThTUktvN04wb29ZRm9xd3NueXdNakVwY3FIWWRiNUo5ajRnY3BOVWVTMk9uM3RhVkJJWTJJV05MZGpsQ2xvcEZQd2dvY1FtS1JkVktOeENjRXN6dWFyTUZHVUJUZElkMkZuTGw3enYyX21EVXJ5V1ptRVZObXdHT3NxNm81aUlHUTZ0T1RpOXRXdG9TU05wY3YzOHM": 1794459645500
+    "news:CBMizwFBVV95cUxOR0dTR2hsT0xmRHp3cVpsdkJNaWVGel9UX0lIaTdjd1Z6LTh4d0I3d0NDZ0ZqYjltaTYzaUVMSEd0a2lTQmxZU0pnVU91N3d6OHlDVGRacVdyc093akx0MWdjblBaNEtrem5Yek1CVHZic1pzeWo1QkltOVZ3NGdGZDh4YzZzNWZWZy1ucWdvbzBIQ05wTEd3QjF2bUVya05keElxV3Bib2hSNkg1M0gtT19raGRIaDU5Y1JLUW9yUzFnRXl6a1h6ODdpblFoRVHSAdQBQVVfeXFMTXlhbzdWd1BROXRwUFphN0tYcnp4RHdxSU4zQlJyN1l0dWdhTFVudmhJMjI5c0lRVGx1YjhoeUVEQThTUktvN04wb29ZRm9xd3NueXdNakVwY3FIWWRiNUo5ajRnY3BOVWVTMk9uM3RhVkJJWTJJV05MZGpsQ2xvcEZQd2dvY1FtS1JkVktOeENjRXN6dWFyTUZHVUJUZElkMkZuTGw3enYyX21EVXJ5V1ptRVZObXdHT3NxNm81aUlHUTZ0T1RpOXRXdG9TU05wY3YzOHM": 1794459645500,
+    "threads:DfoPijdkqQU": 1794459939161,
+    "threads:DfoQswoEVJi": 1794459939161,
+    "threads:DfoQrE1iYkK": 1794459939161,
+    "threads:DfoQej7DuIL": 1794459939161,
+    "threads:DfoQUZtDCGE": 1794459939161,
+    "threads:DfoPu_lDxjX": 1794459939161,
+    "threads:DfmrbXDgkWw": 1794459939161,
+    "threads:DfoMJEQOjlZ": 1794459939161,
+    "threads:DfoRDZSIENO": 1794459939161,
+    "threads:DfldM9eDbZZ": 1794459939161,
+    "threads:DfoQiGOIBSF": 1794459939161,
+    "threads:DfoQYLYoCJW": 1794459939161,
+    "threads:DfoRGEXAaFb": 1794459939161,
+    "threads:DfoQuBmGWeW": 1794459939161,
+    "threads:DfoQq7bGcYJ": 1794459939161,
+    "threads:DfoQeFomVb0": 1794459939161,
+    "threads:DfoQWuZmkh7": 1794459939161,
+    "threads:DfoQWrUGU5L": 1794459939161,
+    "news:CBMi1AFBVV95cUxOaUM2QmoxanV6NjR0VWI2VFJwaUJjbXFwNGNYNXlkWGp2UWhDZDhqbkczNzhPbUppVEg2R0VkOW1adGd1MG5hcjhkY0Fwa29vcm5RZG1JT08tblBFLXZPZTRPM29VX3JXTXVwRXhHNFdCS2VaMVRfWTJGeTlKcUY3SU5KakI3Y2RyeFVuWjR1b21JSGtyNUNVZm83anhVS3l1b0VjNEtoWmdRT3BhSm5hMV96VjhfZmt3N3hTUEc1bFhrNE84MWN6bUtRT0VrTFd1SEt6eQ": 1794459939161
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Bansos November 2026 Cair Bertahap, Begini Cara Mengetahui Penerima PKH dan BPNT Lewat KTP - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTJRWHlqLVBBdVFwTllkMzU1VXNKRmNIdFB1aF9OelMzZEplUzB2UkdrSWFibVVLXzIxSjczbGZZam1Bcy04cXdnNXZUZlp6Rzc4cGgyUkxreEF0bmNhanVQeVdyc01TbG5ZX2t4MGFwS21aME9qUE9jWGtvUnVsQzdzdWJNRnlwaFExWVhqMUJxbFFnNUlmcS1tVEFneThNdktPeUFvQy1xekltQmdkbWN2RnZSNk1RMmVXbXNGZHowLWdSV01HcmlyR1oyOElYaVpkLXZJWDZQXzZqeEHSAeMBQVVfeXFMT2F3UW1pR2JjZWQwRUhaUkZwU241VEU4OXZKcHJ4UFFad01LUERoWUtyX09DNlUwVTY4c29yNWxjdjE2SlZKZXpjd1M1dE51OVU2X0hRNEdjem9yZDhja2l3M0JRa01xOVZWYkpvR2VscG0yZnhvcGRuTG82cUxxeU1kVVh4cXc5M2M3LW9ucTdhMXlCQ1JqWlB2aUJVT08xeDZqd0xKSzBpMmhYOW5aM2gtbU5XWUc2ZEt0ZzloWnVCLU1HdXZaOFl6ZVRocGtYamQwVl9ZeW5OelNTOHNHSVBBMlE?oc=5",
-      "d": 1794393312000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@leosiahaan79",
-      "x": "kalau tahun sebelumnya dapat, seharusnya yg saat ini juga ybs dapat kecuali yg dilaporkan ke BPJS berubah dan sudah melebihi UMK setempat. kalau tidak berubah/berubah tetapi belum ",
-      "u": "https://www.threads.com/@leosiahaan79/post/Dfn-YMlGFIi",
-      "d": 1794450202000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_YuDk0qk",
-      "d": 1794450730000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_X8eE7iD",
-      "d": 1794450724000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_XfDE7o_",
-      "d": 1794450720000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_XEoE3VL",
-      "d": 1794450717000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_WptEw6E",
-      "d": 1794450713000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_WNZk48q",
-      "d": 1794450710000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_VvdE4bY",
-      "d": 1794450706000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27083,16 +27006,106 @@
       "d": 1794407285000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@indahftrani",
+      "x": "Guys aku ada webinar gratis buat kmu yg pgn tau lbih banyak tntg accurate online atau ada niat mw pke tp msh maju mundur ? Sini sini join yuk hr ini Webinar by Accurate Kamis, 12 N",
+      "u": "https://www.threads.com/@indahftrani/post/DfoQiGOIBSF",
+      "d": 1794459720000,
+      "urgent": false,
+      "warn": true
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@indahftrani",
+      "x": "Halo aku dr tim accurate online sdg ada webinar gratis nih, mgkin ada yg lg free bisa join bareng kita2 jga, link nya di bawah ya 👇 Webinar by Accurate Kamis, 12 Nov • 15.00–16.00",
+      "u": "https://www.threads.com/@indahftrani/post/DfoQYLYoCJW",
+      "d": 1794459639000,
+      "urgent": false,
+      "warn": true
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@indradwi651",
+      "x": "SIM berlaku seumur hidup, pajak kendaraan bermotor sekali seumur hidup, transum gratis, berobat gratis, semua anak Indonesia wajib sarjana, hapuskan PKWT, Umroh seluruh WNI bagi ya",
+      "u": "https://www.threads.com/@indradwi651/post/DfoRGEXAaFb",
+      "d": 1794460015000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfoQuBmGWeW",
+      "d": 1794459818000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfoQq7bGcYJ",
+      "d": 1794459792000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "DICARI MAHASISWA! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Tertarik ik",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfoQeFomVb0",
+      "d": 1794459687000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@arief_bekasi",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@arief_bekasi/post/DfoQWuZmkh7",
+      "d": 1794459627000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "Link Pendaftaran Pelatihan SPSS Gratis : https://forms.gle/kgdaX9tkgAe75qgB9",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfoQWrUGU5L",
+      "d": 1794459626000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Pojok Bogor",
+      "x": "Bansos BPNT Tahap 4 Tahun 2026 Dikabarkan Disiapkan untuk 10 Juta KPM, Ini Informasi bagi Warga Bogor - Pojok Bogor",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUM2QmoxanV6NjR0VWI2VFJwaUJjbXFwNGNYNXlkWGp2UWhDZDhqbkczNzhPbUppVEg2R0VkOW1adGd1MG5hcjhkY0Fwa29vcm5RZG1JT08tblBFLXZPZTRPM29VX3JXTXVwRXhHNFdCS2VaMVRfWTJGeTlKcUY3SU5KakI3Y2RyeFVuWjR1b21JSGtyNUNVZm83anhVS3l1b0VjNEtoWmdRT3BhSm5hMV96VjhfZmt3N3hTUEc1bFhrNE84MWN6bUtRT0VrTFd1SEt6eQ?oc=5",
+      "d": 1794460020000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794438051333
+    "reddit": 1794459939161
   }
 }
