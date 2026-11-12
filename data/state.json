@@ -60,20 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFZlWcFik7": 1793290243509,
-    "threads:DfFZhztCIvJ": 1793290243509,
-    "threads:DfFY7xHG-7X": 1793290243509,
-    "threads:DfFQbxEFALo": 1793290243509,
-    "threads:DfFE9tFEuHz": 1793290243509,
-    "threads:DfE2Xu7DPvM": 1793290243509,
-    "threads:DfEprxFIETh": 1793290243509,
-    "threads:DZuj-iME9eL": 1793290243509,
-    "threads:DeTTlHPD2rZ": 1793290243509,
-    "news:CBMiaEFVX3lxTFBfNVBFcDBsOWxkSmhabVgxbDhZTFF4ejUzRVBscFJ1WnB5Wm1GRXpxV3BhRmgtZjJLcW5IOEtsanJNN0FyUERoeDY1Yk1mblhLNUllSFU4Y0F5SnlkQ0d4N1FWdDN6UHlf": 1793290243509,
-    "news:CBMilwFBVV95cUxNTU5SdVRPSkgwOUhkejctbU4xenJieWxaNDBGUGpoaklwdWJrekxlX3NOTTlYeXlDZ0RUeDR3c1BoenFJZEl6cTgxaE1JRlFRejh3ZEVpczhUMzhZc3U0eDRST09iT0xWb0xxTDFXNGY2X09mT1FKcUMtN3RZQnNyd0U5MG1FdXBESHlvUWlDeTlNQUt4ZWc40gGTAUFVX3lxTE9HUXVQRDItRUN0ZTRDd3BfbG8wNkVjdk85WEFfanVyalFaV1U1ZUxjbW1NOVZmcEhNREFva2FDdnFGRDdUQUlPOVNSUEhIVVdsTzJEWnl2bFJ2MW1oVGlXSDFXTllZc1BsbUpQTGFQdHJkMHh1QmFLLW1pb01BS2xBVDY2eWZCU3JuVjdGQkhmVmpsVQ": 1793290243509,
-    "news:CBMiqgFBVV95cUxQZVFNUDZsYV9VZ2ktQW5WTzBEaXQ4VXM5REh1QkRBdHFtUE5Lb3pZQW9jbW9ZemdwS0hRTnRSTExNdm93dEtlQlJ5ZWNZTEdLWXlNZVdyeHpfVzFYNGFoc2MtUklGYUE2VVZjRGxiM1NITlZSSTZWc09WeWJUTkVwS2hrcm5hdkdZdWc0aWhRUVdnLU01T3dvbm9tTG0xemhJejRBUXZQY1VIQQ": 1793290243509,
-    "news:CBMi4AFBVV95cUxOc3BibHVxUUdjYVh3ZVZVemVvRjhiamxlaW1CckljY1diQWZKYWQyU193OG5KalZCaVJfang4cGc2WElJT1BmLUxoNk9qa0pyQ0V2dGlqVVUxQXRtekRBWnFPd1diTzd2eVNnclAyLVNkYmRGdXc0QmsyaEhXUzVFTGFBVVNOTnh2dExMR1lPWHhNOXBmTnYzREJ4OWdvakI4bVY5RGJBZFlWZHM5T0xXWXR0ZTY1dV9MREZkV211VHhOdkZkTmFYRUluOXhIVjBVQzZFM0pGbU91QlB1bXVZcg": 1793290243509,
-    "news:CBMitAFBVV95cUxPMl91Y255b0xBb0hwcjcyVVNBbHhoUm83OVZ1YVU2cVBvRk9kX0luQTY2Szlwb2ZOS0xhU3lxRWhoZ2lZVkEzRFhKemZsYk1zQ0JoNWd3OTZjSURwOE01eWQtZ3hkVHkxYzY2bVVJelhkNWx6ZmxMNTN2elVaOTloM2Y2cHpfMEttRG5nWW1KTktLeUs5ZFRkcHB3YWFLNjhCTUJwanp4bjBQS3Vidm1Tbm0wSWM": 1793290243509,
     "threads:DdEFGN-FPTo": 1793290547642,
     "threads:DcdoWPEAeII": 1793290547642,
     "threads:DbI9JIFErS3": 1793290547642,
@@ -25804,49 +25790,15 @@
     "news:CBMitwFBVV95cUxOcXNiVGdTWl9mcnBFa3g4aHRtQ0NPazR4UTZxaDBpZzh2czY3aEMxeWtnSzJadU1LcW9yN3dvcEVnajlRNE5WR1ZsdlFieDNWT1A5WWc5WW5rbU1JTnlFUUdCdThfejdhWHFRc29XeG5GUUFheWZvaFZRRzRlLTJuYkd0RWNXTF94LXpWVTZLM1dLNHRDeU1BWnZva2JkZzhWNHdNWG1BcE1JbFdzQnNXRk8wRmc2cEE": 1794499538661,
     "news:CBMiwwFBVV95cUxNMEY5LUY1WmppWUhINFZ2VE40aXZhdFkzSi1qRHVtNVg0a1IxeGZPN3JwN0dvOHFBZDZfRFdoZWxkQjUydWJkTE5vZUFiREVUUkZ1NTNjWTRkd0V5TzZBVEZkQmN6OGgtV0M1YmM4MndtWEpfMXhNSzc2VTFTbVF1TU5lQUlyNHBNMmk1aF9PeVNBLUF2V2hQb1BGUlVqNjZxQjJZNlV2VGRENWM5SUFwSzdsUms2a05BQS1YZXpURzlxdnfSAcgBQVVfeXFMTTZFX0pINEV5cjhtYVpSaW1OaVpnZ28tNklZeDJVRWZpLVhha0ZySFBjNXlCWThPZnZJUXV1b3dDUDg3SDVkaXItT2NQbjV3VENiM1BQa0ZWdFlnQXFfblR1U0I2NUI5WU1odlVsTWpkTUlnOHlxZkY2MDdPdWhITVFKbzhldmpOYVpSeWVSSVJXV2x4d3M2UHpYczFrX0xScDNxUFJ1Z0w4akQ3bDVaanFHOU0zNXRuczVYT3JrQkFMMGhSSVRNeXA": 1794499538661,
     "news:CBMirgFBVV95cUxNcW5xUEpoclVrd3BLMl8yM0tzMVdJWFhjTkxiaGpoYThFLTE5NF9XYlRoM0VzWTh2REduemo5cEp1TWQxTU1wWHhpV0dUZk1PSEdKeWFKNmpVd1R6VUtwcUJFc0NtMkpiWUM2Q0R6dzVYX04wV0FfcWVxTm5BWFdUcVlGM2JldXlhdU5qQk95OWxYbGVWazhIcHdMLXVfYThjSWZsaHd3TGl6Vy1HeGfSAbMBQVVfeXFMTjlqNzVQSmVsZzhKSk5sYU5aUFRaZVpuc1NRTUs1TExSQkhPSmFnYUtUTXJyWlVOYVZnZDgtMUQyTW5GcnJZdkF1OFJaeUNfWG8zckwwVTFoejcwVzczTkFQa2tPSzM4UlpKdm5mM3hIWXgyQkpzR3UwVEhjS0NyeTAyaWxnU2xHNVdTRmI4VEpQQW1ySDA5Z3VUY1BjOGVyb2hhNTRJUTd2VnlqLVVzdjR3UEE": 1794499538661,
-    "news:CBMi4gFBVV95cUxQZTVOYkdnX2tLUDJoMldfS0dRV1RDQlhNLXQ1OS16LU44Qk1CTHVHVFgxRHphNUc0Wmpsc3BWaFN4Sy1KV1RyNy1JNi1RXzFmUDFMV3pQQ2VabHBiNF9SRTZld1ZzVjVsNE0zQVFXSDZfQUxfNjdYT0g0M2VVaGVCY1drTFRyUHdLM3hjbGJfTlMtLUk5N1daUF9mLU5uaThkU1Y3d1ExQkFqUFRGeTFLMW1DeVBJbzUxOFVrNFhwVGpHZVhyS1RuRE0yNFdRSnp4OWFsS296dXBpQnNkOWc1dEV30gHnAUFVX3lxTE1panZ1YVo3Ml8wbUtCWnZwZE5xdUZTR0Rkek9oVWUzVkFZVGFnT3g4djducWpzZm1RY0JKNkk0VklscDdEdUIxdWJvb1hPQTlGRWkwWnN0ZG4zcC0yeWMzQnhsTE0zeXlrQ1B1amhoZUdfYmNkMUliMFpVamhCMzdXUnFGTUg5aWZERDZpQkVwWDhZSGNFMFN0UzlXU3lmdGJtLTBtTWxvQnRhNVF2cWpWa3M1OHBXVVE1cHhyS281bFNNNEJxX3UzcDBZYlFhZHMtN3dNLUNLX2NmWkwwMUVqQ0ZTazRIUQ": 1794499538661
+    "news:CBMi4gFBVV95cUxQZTVOYkdnX2tLUDJoMldfS0dRV1RDQlhNLXQ1OS16LU44Qk1CTHVHVFgxRHphNUc0Wmpsc3BWaFN4Sy1KV1RyNy1JNi1RXzFmUDFMV3pQQ2VabHBiNF9SRTZld1ZzVjVsNE0zQVFXSDZfQUxfNjdYT0g0M2VVaGVCY1drTFRyUHdLM3hjbGJfTlMtLUk5N1daUF9mLU5uaThkU1Y3d1ExQkFqUFRGeTFLMW1DeVBJbzUxOFVrNFhwVGpHZVhyS1RuRE0yNFdRSnp4OWFsS296dXBpQnNkOWc1dEV30gHnAUFVX3lxTE1panZ1YVo3Ml8wbUtCWnZwZE5xdUZTR0Rkek9oVWUzVkFZVGFnT3g4djducWpzZm1RY0JKNkk0VklscDdEdUIxdWJvb1hPQTlGRWkwWnN0ZG4zcC0yeWMzQnhsTE0zeXlrQ1B1amhoZUdfYmNkMUliMFpVamhCMzdXUnFGTUg5aWZERDZpQkVwWDhZSGNFMFN0UzlXU3lmdGJtLTBtTWxvQnRhNVF2cWpWa3M1OHBXVVE1cHhyS281bFNNNEJxX3UzcDBZYlFhZHMtN3dNLUNLX2NmWkwwMUVqQ0ZTazRIUQ": 1794499538661,
+    "threads:Dfpb6fqEQ2b": 1794499839312,
+    "threads:DegeQusGKTi": 1794499839312,
+    "threads:DfpbqGViUwa": 1794499839312,
+    "threads:DfpboqyCRZR": 1794499839312,
+    "threads:Dfpc6CIEvzM": 1794499839312,
+    "threads:DfpdLlSHwAA": 1794499839312
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHqxGILMk",
-      "d": 1794488627000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHp1UoF2X",
-      "d": 1794488619000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHpU7IJ-m",
-      "d": 1794488615000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHoTKIB6m",
-      "d": 1794488607000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27306,10 +27258,50 @@
       "d": 1794474923000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfpbqGViUwa",
+      "d": 1794499107000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfpboqyCRZR",
+      "d": 1794499095000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@aliusman4215",
+      "x": "Itulah mengapa dihadirkan *InterLink Future Initiative (IFI)*, inisiatif nirlaba yang direncanakan di bawah InterLink Foundation, untuk menciptakan lebih banyak peluang bagi anak-a",
+      "u": "https://www.threads.com/@aliusman4215/post/Dfpc6CIEvzM",
+      "d": 1794499762000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@iqbalrhaan",
+      "x": "guys, penasaran deh ada ga di sini yang berhasil dapet beasiswa S2 fully funded waktu masih semester akhir S1? jadi pas lulus bisa langsung lanjut S2 tanpa gap year penasaran giman",
+      "u": "https://www.threads.com/@iqbalrhaan/post/DfpdLlSHwAA",
+      "d": 1794499906000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
