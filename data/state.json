@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEYrMxASNX": 1793256048426,
-    "threads:DfEYYGKj6H1": 1793256048426,
-    "threads:DfEX916mB_S": 1793256048426,
-    "threads:DfDsgJGDzWT": 1793256048426,
-    "threads:DfEXrjlmCLo": 1793256048426,
-    "news:CBMi5wFBVV95cUxOQVhHVHk5OHpSS1ZvM0U0azQ2M1k3cmFuMi1UZGpiOTlDc2JuUVd3RjBVc21leEhOa1RENkh6MmdGQ210YzlhWS1udWpqLXFxSGtHTm5GS3lpNm5nc2FjMEJBclE3Zk5xbEQ5MmszVjJWc0txbEZWQnVSVllFQkdJZGpITXpCM3VRRHc4anBIQUstUXY2aTF5LU1HWk94X0ZIMC1lNk13LW56NUNBRkFXYTMxWElmN2JTOVJkTkdyR0tVRW9HSU54SWtZc1NpLXpmeEJmUzg1NDNvLThIem9UeE90VFM5OUnSAecBQVVfeXFMTkFYR1R5OTh6UktWbzNFNGs0NjNZN3JhbjItVGRqYjk5Q3NiblFXd0YwVXNtZXhITmtURDZIejJnRkNtdGM5YVktbnVqai1xcUhrR05uRkt5aTZuZ3NhYzBCQXJRN2ZOcWxEOTJrM1YyVnNLcWxGVkJ1UlZZRUJHSWRqSE16QjN1UUR3OGpwSEFLLVF2NmkxeS1NR1pPeF9GSDAtZTZNdy1uejVDQUZBV2EzMVhJZjdiUzlSZE5HckdLVUVvR0lOeElrWXNTaS16ZnhCZlM4NTQzby04SHpvVHhPdFRTOTlJ": 1793256048426,
-    "news:CBMirAFBVV95cUxObzdLc1VQd242em13QS1rV3V1cloxLWxRSjlaTzBYNWcyRXNNR2ZKTzVUX2RQeDYwZnEzR05nSUFzMW5mMkUzZEl5RDRyZkFrR3hZRVhiWTF0UVFkdE9VbXYwd2Q4NUVFa0R2aUZWc1BNMlhfV1B0dEhWeThnWEFuSnE4R0JBeEREWkFXb0NTTFFncXh5dy1jQ1R4dHZsZHpuTl9mdF9KUUxLZmlC": 1793256048426,
-    "news:CBMirAFBVV95cUxNMHJxdUF6T1FxSUMtNmo0TzJMelJyUnFBSlk1dGlZRU8wbngyZ0Zab2x3TFJ5aUdvRnMwNWlrYldfZ05pLXBsZTR1NTNmSFBjYmVFaTlHQ1FqY1RHaXU3Um1BX3hPWld4N0VONE1mUTJwdnprYTBjZUl6VVBFX0lkNjRiSWI5WGZmazBYdzEya3g4MWNNRUtXVjRRNkpqb0NxWW1LWWlMdkxrYmdl": 1793256048426,
-    "news:CBMizAFBVV95cUxQZmhNQVNweWw4UUc0djNsa28xUnJYQW1ya1VZU3ZJeG9lNnRSNkhzLXJfNHZmaWQyRGxvZlVsWnNtSld5YlYzTTROUkhsYXRXX0FlSk9PTEVTaDY1ZlFMUEJJaVVCNUNSQjlqQjdCcEsyeVRIcDgyeTdZcjBFT3pLakxYeWNWQjg1MUY2QVNUZlZhcnM3ZjNKVjdEVzdib3FLM3NYVW9CS21TNS01Z1RkaGo0c0RuSjd1OVg5NXFRSm1mRUthUzFIVnIxRlTSAdIBQVVfeXFMTVlQenBfbTZoWDR0ZkRJOEdOcVkxV3RpemNaaTR5SjRNT1ZkY0ZYdmlnVkswREtYV3VLRDFjV3BOOTM2TnpNRjVIYTdVbGFuZ1BZV0FOUnFUTGJPLTRfZnJqYjhJY016VjZsc3gtMGtXM0RfOHFwOVdZSEx0Z29CbHd3S3hIWFoyRUZKODcycHltdVdaMU9xYzhMaVhQb2ZBY1hfMDQ5dS1XenREc2c0S0VvMFRxWFpsM29pcjh4eGp3NTJKMDNWT2w3NDBRWnI0SWlR": 1793256048426,
-    "news:CBMixAFBVV95cUxPaEtCOG5EaVpvRVFKdEtnRnJvWnN4NnVpSVlrcDF0Q2cwZ3ZURnJnUlJvYXpoWjdqMFd1VGhXbjc0UFNncnF2TUtkS2cwT0plOGxsaG0xa3haaUdMTHdzYVB1SXpJMEJGNmwxS1U2dW5uREhlUVRudzZhYS1rcnU3dlMyQnpwLVBxNHpBdnNXelNWTExUOHNOWkdud0RyVm5xc1ZubXkzYkg4LVViVlk0LVMzT3Itcm1mM2pJbTF0UHlhZ0NV0gHKAUFVX3lxTE1QalQ2OUY1eWMzYWxBR3QtS3hXMnZ1cWwxSVg4TXRlczZ1ODBLeHBsODVwQUs4dUFSREFvVUkzcXR6MTgyS2g1RWFKVHU1LXV1SXhQOElzOVZyajBjYy0tLS1QOGhJRGF1ZXBIbjByQUt0OUpFQ2ZJWUpYZTJ6TG40OUlvTDBOc3ZCeXJPeFpHOTVYcWFuZXRyeGcweUwwT0Job1dndm4zR01tZU1WT3BDVkMwbk1LYUhKR3d0a2YzYVVxUEZmMFlsTVE": 1793256048426,
     "threads:DfEY4TroK0m": 1793256339920,
     "threads:DfEY4EPE-AL": 1793256339920,
     "threads:DfEYZXxHwVg": 1793256339920,
@@ -25610,49 +25600,16 @@
     "threads:DfoaTuZmSNl": 1794465332091,
     "threads:Dfoax2BkrEN": 1794465332091,
     "threads:DfG7Of2EzUY": 1794465332091,
-    "threads:DfoaXw9Ewjl": 1794465332091
+    "threads:DfoaXw9Ewjl": 1794465332091,
+    "threads:DfobiGHH7-K": 1794465637454,
+    "threads:Dfobf4XiMZ1": 1794465637454,
+    "threads:DfobZYLjzcy": 1794465637454,
+    "threads:DfobOR3Ezdu": 1794465637454,
+    "threads:DfobXyjAFEK": 1794465637454,
+    "news:CBMisgFBVV95cUxQWDNtSk54el9ySkh1RU9UN0NUdGlZZERUVmRfQnpJdUpmaWthdjVwcHM0VHZwc0ktVGRGODdxRFJrbUpKbm54YUZJNjFvSk8xZDJwdXI1dUxTbW9rMmJ1Q01ScjZXYmZXSjdEV19wVkxGU21HQzNyWTJlMGpDaEdCSWZtcW5qdmF5Q1c1MzdSUF9UMTRyT3hBRHlfMWJWX181TzNCYm5VOVQ5OWQwZk1GeEJn": 1794465637454,
+    "news:CBMiqwFBVV95cUxQcTFiRlN5SFMzMUNCOUJDNjVhXy1jaGlJWklPbUVQc2V0bXRvZlQzaWtkNHgwWnhjcExWVVlJWmhOTC1OamMycy1tcjVxUTIxVE9LdGJLTTVpb243V3Y0cmZKMjBCQjFPRDVmOE9pNmhONnNXQ0J5Y3lQNEZPbjlYbFp3VURrVVhUMFhCQnJHR0tBY2wxRmZjUWFIR1VTQ05lb2FzRmY5NE9mdFU": 1794465637454
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rizki89455",
-      "x": "Yang mau ikutan kelas gratis... DM yaaaa..... Aku tunggu.......makasih",
-      "u": "https://www.threads.com/@rizki89455/post/DfoMrU3gBzs",
-      "d": 1794457698000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@putridwishsw",
-      "x": "Rajin-rajin baca persyaratan untuk pendaftaran beasiswa dan universitas",
-      "u": "https://www.threads.com/@putridwishsw/post/DfoMT0YH34h",
-      "d": 1794457506000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@yoanaprianda",
-      "x": "Semakin bertambah, UPDATE DATA PESERTA TERBARU 🔥🔥 Kesempatan untuk meningkatkan kompetensi dan mempersiapkan diri menuju profesi Advokat melalui program BEASISWA PKPA & UPA akan ",
-      "u": "https://www.threads.com/@yoanaprianda/post/DfoMSlyDxaW",
-      "d": 1794457496000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@yoanaprianda",
-      "x": "Semakin bertambah, UPDATE DATA PESERTA TERBARU 🔥🔥 Kesempatan untuk meningkatkan kompetensi dan mempersiapkan diri menuju profesi Advokat melalui program BEASISWA PKPA & UPA akan ",
-      "u": "https://www.threads.com/@yoanaprianda/post/DfoMPUXD79j",
-      "d": 1794457469000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27112,10 +27069,50 @@
       "d": 1794464878000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ama_setyawan",
+      "x": "Dari pada urus yg tdak jelas ...lbih baik urus pencairan BSU.... Berhubung terakhir pengkinian data di tgl 13 NOV 2026 ...silakan lakukan pengkinian data di kolom komentar.... #sem",
+      "u": "https://www.threads.com/@ama_setyawan/post/DfobiGHH7-K",
+      "d": 1794465488000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Ini wajar dan banyak yang ngalamin — desil itu nggak bisa diturunkan manual, harus lewat pemutakhiran data sosial-ekonomi yang nanti dihitung ulang lagi sama BPS. Jadi pengajuanmu ",
+      "u": "https://www.threads.com/@meta.ai/post/Dfobf4XiMZ1",
+      "d": 1794465469000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "terus kenapa banyak yg desilnya tiba2 loncat? kata kemensos (via cnbc), pemicunya ±12 juta data baru dr BKKBN yg masuk DTSEN volume 3. gus ipul: \"baru masuk 12 juta data baru dari ",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfobZYLjzcy",
+      "d": 1794465422000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@humaedi.exec",
+      "x": "Bansos nya mah belum ada, adanya discount nih. Harga murah meriah. Ada promo DeepSeek juga dan masih ada code redeem untuk dapat saldo 11k code bisa cek di utas saya. Model termura",
+      "u": "https://www.threads.com/@humaedi.exec/post/DfobOR3Ezdu",
+      "d": 1794465325000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
