@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD7Bsjk8-O": 1793241053456,
-    "threads:DfD8IO-HOLt": 1793241053456,
-    "threads:DfD7-oonP0W": 1793241053456,
-    "threads:DfD72dOlMdx": 1793241053456,
-    "threads:DfD71vkAdqm": 1793241053456,
-    "threads:DfD7uyJHBtc": 1793241053456,
-    "threads:DfD7liVnJbX": 1793241053456,
-    "news:CBMikwFBVV95cUxOVkRBQ0VYRktveGN0UWNYcHF3NFlyb05IRkFWZ21GZ1Jsc1pWTU16UVpQMlFnc2ZMMy1HUEN2NGpBbnE1TTFwdFRWR0p4V2haQWo1RW5wN1VTVlBOTllmdDN1eVJfaGZTSzFKU1dIX2hselNZLXBVNTd1UnA4UFNZUC1DOXoyT2w4RUdMemxhS3AzME0": 1793241053456,
     "threads:DfD8KwCkXfN": 1793241336246,
     "threads:DfD7ueRkUbi": 1793241336246,
     "threads:DfD58wXGXOZ": 1793241336246,
@@ -25578,7 +25570,8 @@
     "threads:Dfn97hVE0qy": 1794450340090,
     "threads:DfD4VItk-KA": 1794450340090,
     "news:CBMitAFBVV95cUxOU1hJeXJLTTBQaFE2V2tSWDAybTNReVVWOHRvT1pUNnpyVi02QW0tcE5Yd1h0UDVvcWV0eVhKcUJsRjRUS0owb0Y0Tk5WeXdZVHB5NnNEc1lkZlhzemVIeUtzaE5RYXJHOUp3a1JFSEc1WEk4ZUp2cUFpeURPVXlZM1p1R296dzE4M0k2RFRfckphTUQybFlyNmdIY05ST19tN3l2QWFrNTJMdmE2YS1GbHQ2bkU": 1794450340090,
-    "news:CBMi3gFBVV95cUxNOTJRWHlqLVBBdVFwTllkMzU1VXNKRmNIdFB1aF9OelMzZEplUzB2UkdrSWFibVVLXzIxSjczbGZZam1Bcy04cXdnNXZUZlp6Rzc4cGgyUkxreEF0bmNhanVQeVdyc01TbG5ZX2t4MGFwS21aME9qUE9jWGtvUnVsQzdzdWJNRnlwaFExWVhqMUJxbFFnNUlmcS1tVEFneThNdktPeUFvQy1xekltQmdkbWN2RnZSNk1RMmVXbXNGZHowLWdSV01HcmlyR1oyOElYaVpkLXZJWDZQXzZqeEHSAeMBQVVfeXFMT2F3UW1pR2JjZWQwRUhaUkZwU241VEU4OXZKcHJ4UFFad01LUERoWUtyX09DNlUwVTY4c29yNWxjdjE2SlZKZXpjd1M1dE51OVU2X0hRNEdjem9yZDhja2l3M0JRa01xOVZWYkpvR2VscG0yZnhvcGRuTG82cUxxeU1kVVh4cXc5M2M3LW9ucTdhMXlCQ1JqWlB2aUJVT08xeDZqd0xKSzBpMmhYOW5aM2gtbU5XWUc2ZEt0ZzloWnVCLU1HdXZaOFl6ZVRocGtYamQwVl9ZeW5OelNTOHNHSVBBMlE": 1794450340090
+    "news:CBMi3gFBVV95cUxNOTJRWHlqLVBBdVFwTllkMzU1VXNKRmNIdFB1aF9OelMzZEplUzB2UkdrSWFibVVLXzIxSjczbGZZam1Bcy04cXdnNXZUZlp6Rzc4cGgyUkxreEF0bmNhanVQeVdyc01TbG5ZX2t4MGFwS21aME9qUE9jWGtvUnVsQzdzdWJNRnlwaFExWVhqMUJxbFFnNUlmcS1tVEFneThNdktPeUFvQy1xekltQmdkbWN2RnZSNk1RMmVXbXNGZHowLWdSV01HcmlyR1oyOElYaVpkLXZJWDZQXzZqeEHSAeMBQVVfeXFMT2F3UW1pR2JjZWQwRUhaUkZwU241VEU4OXZKcHJ4UFFad01LUERoWUtyX09DNlUwVTY4c29yNWxjdjE2SlZKZXpjd1M1dE51OVU2X0hRNEdjem9yZDhja2l3M0JRa01xOVZWYkpvR2VscG0yZnhvcGRuTG82cUxxeU1kVVh4cXc5M2M3LW9ucTdhMXlCQ1JqWlB2aUJVT08xeDZqd0xKSzBpMmhYOW5aM2gtbU5XWUc2ZEt0ZzloWnVCLU1HdXZaOFl6ZVRocGtYamQwVl9ZeW5OelNTOHNHSVBBMlE": 1794450340090,
+    "threads:Dfn-YMlGFIi": 1794450650803
   },
   "digest": [
     {
@@ -26440,10 +26433,20 @@
       "d": 1794393312000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@leosiahaan79",
+      "x": "kalau tahun sebelumnya dapat, seharusnya yg saat ini juga ybs dapat kecuali yg dilaporkan ke BPJS berubah dan sudah melebihi UMK setempat. kalau tidak berubah/berubah tetapi belum ",
+      "u": "https://www.threads.com/@leosiahaan79/post/Dfn-YMlGFIi",
+      "d": 1794450202000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
