@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdEFGN-FPTo": 1793290547642,
-    "threads:DcdoWPEAeII": 1793290547642,
-    "threads:DbI9JIFErS3": 1793290547642,
     "threads:DfFaSG3k03t": 1793290842736,
     "threads:Defla2PCCMv": 1793290842736,
     "threads:DfFaP2dE0tv": 1793290842736,
@@ -25796,19 +25793,10 @@
     "threads:DfpbqGViUwa": 1794499839312,
     "threads:DfpboqyCRZR": 1794499839312,
     "threads:Dfpc6CIEvzM": 1794499839312,
-    "threads:DfpdLlSHwAA": 1794499839312
+    "threads:DfpdLlSHwAA": 1794499839312,
+    "threads:DfpdCDcnzh1": 1794500141710
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHn1pIMYW",
-      "d": 1794488603000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27298,10 +27286,20 @@
       "d": 1794499906000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@flower_landds",
+      "x": "kya gini pke link ap si ssi ka. aku pke cek bansos tampilannya g kya ginj",
+      "u": "https://www.threads.com/@flower_landds/post/DfpdCDcnzh1",
+      "d": 1794499828000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
