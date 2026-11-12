@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDySpZkjhg": 1793236547416,
-    "threads:DGxrOYyvP30": 1793236547416,
-    "threads:DdiRLDXlMqV": 1793236547416,
-    "threads:DfDzra6kdSx": 1793236547416,
-    "threads:DfDzncwlWo4": 1793236547416,
-    "threads:DfDzmHRjfxI": 1793236547416,
-    "threads:DfDzQuDjgso": 1793236547416,
-    "threads:DfDzF9Jj6kN": 1793236547416,
-    "threads:DfDzFCXlKlR": 1793236547416,
-    "threads:DfDy971Dudi": 1793236547416,
-    "news:CBMiuwFBVV95cUxNU205dFRqcjFMRDVIRVd2WGY1WmpOOFU4dTJyMlNwSGJIaUVPdS03QkpuREwwUGVxQ0ZRbjJmbXJlQjJ4UzlyeXVZSDFmemNmeHZpajBxZVBYY1UyOGQwM084cmhORkZMVmlXcmxzVDBsQ3J4V0EyWC1mVk9sTHZiQ2ZZaXdBUmFqQXg4akNHd2s5b2s1NmtaeEtxTWdvMmhyS01GM19sRnV5R0ZKdi1lZmZvMzNIcGcweVBJ": 1793236547416,
-    "news:CBMiU0FVX3lxTFAxV0hrbDB3UGlLbGVqS1JSZ0o1N19vSDU5MDV5TmFpenU1alJoQTc1RWhYdWwyTmsxaFBOMG9fZS1NOThGUGM4c0ZPNkh4ZHJ4dUtz": 1793236547416,
-    "news:CBMieEFVX3lxTE5paEJhTVFEeWxpdTFOSkh2d1FaOVdfRkprTFZBYUFPTHMycUxSZUNLZ3luLTJ6TVhoaEo4TVh2T0tsWHNPckF2SHNpODM3d0lRVEV6NVU4dXlqNnRuZG9rMEpTc1ZQYVF1bXNDekRvSVZSY0VWekVFZA": 1793236547416,
-    "news:CBMirAFBVV95cUxPYVdmanEwcldkZFMxOWtHNzVLOXExVV9HTU1YbGxpMGNWSmFsM0lYMzFZN2xCZ19GeTZqczdwWkJ5LWd2dWtTcUxoc2tCaVhsWmhmQlRoaFFPMUpwMDFaOEdxQWtqem15UmpONUFfUmZsQjRrQ3R2ajlPQUF2QXZXbWdwb2piWmVpTVo1WGtvRFZYSlJUaWJ2cVpSMHlDaDZCeWRVVUtsRHJiaTZD": 1793236547416,
-    "news:CBMiWkFVX3lxTFBSU1NUNjlIdFd6WDVUb1FrYzR2UEFNY1A5S3BKNkxXQVZFenVJVUtTOE9Wd3hWZVdBaGZqbEQ2bHN5YmpSSU5XeTgxLXBKMzByYWpqRUVZcUR0QQ": 1793236547416,
     "threads:DfDzcunEwap": 1793236842875,
     "threads:DfDzadIE88R": 1793236842875,
     "threads:DfDyuCGiqTv": 1793236842875,
@@ -25557,7 +25542,11 @@
     "threads:Dc6QoATl_zt": 1794445948298,
     "threads:Dfn18boEzGQ": 1794445948298,
     "threads:Dfn1GGUmaBY": 1794445948298,
-    "threads:Dfn1xUUj4ih": 1794445948298
+    "threads:Dfn1xUUj4ih": 1794445948298,
+    "threads:DbgZt4PCWVY": 1794446142280,
+    "threads:DfCSCrrkgtu": 1794446142280,
+    "threads:Dfn1TT0E8YN": 1794446142280,
+    "news:CBMitwFBVV95cUxPanVvQXhkZ0R2Ymhxc1d0RWI0WkZIaUd2VjJUeE1aVmQtZXhpazVhMlVZWFZPeUhFVkNnYTZvMFk3eVJLdUV3MlVtMXo4Wl9ySjRqOWVSbXdDRHlKTkFnVGNqcVBOMWZCQzFTaWN5SkRJeFNvYmItLWhnSk1WaEtGQUV2bnlBU2V4b2NITVNuZWl0V3ZTOWwwaXJDY1M4N094UGFrN203SXVaVFJuVGdVMDAtYzF0MVXSAbcBQVVfeXFMT2p1b0F4ZGdEdmJocXNXdEViNFpGSGlHdlYyVHhNWlZkLWV4aWs1YTJVWVhWT3lIRVZDZ2E2bzBZN3lSS3VFdzJVbTF6OFpfcko0ajllUm13Q0R5Sk5BZ1RjanFQTjFmQkMxU2ljeUpESXhTb2JiLS1oZ0pNVmhLRkFFdm55QVNleG9jSE1TbmVpdFd2UzlsMGlyQ2NTODdPeFBhazdtN0l1WlRSblRnVTAwLWMxdDFV": 1794446142280
   },
   "digest": [
     {
@@ -25589,10 +25578,20 @@
       "d": 1794445689000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "IDX Channel",
+      "x": "Ombudsman Temukan 49,1 Persen Produk di Ritel Modern Belum Sesuai Ketentuan Halal - IDX Channel",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanVvQXhkZ0R2Ymhxc1d0RWI0WkZIaUd2VjJUeE1aVmQtZXhpazVhMlVZWFZPeUhFVkNnYTZvMFk3eVJLdUV3MlVtMXo4Wl9ySjRqOWVSbXdDRHlKTkFnVGNqcVBOMWZCQzFTaWN5SkRJeFNvYmItLWhnSk1WaEtGQUV2bnlBU2V4b2NITVNuZWl0V3ZTOWwwaXJDY1M4N094UGFrN203SXVaVFJuVGdVMDAtYzF0MVXSAbcBQVVfeXFMT2p1b0F4ZGdEdmJocXNXdEViNFpGSGlHdlYyVHhNWlZkLWV4aWs1YTJVWVhWT3lIRVZDZ2E2bzBZN3lSS3VFdzJVbTF6OFpfcko0ajllUm13Q0R5Sk5BZ1RjanFQTjFmQkMxU2ljeUpESXhTb2JiLS1oZ0pNVmhLRkFFdm55QVNleG9jSE1TbmVpdFd2UzlsMGlyQ2NTODdPeFBhazdtN0l1WlRSblRnVTAwLWMxdDFV?oc=5",
+      "d": 1794425700000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
