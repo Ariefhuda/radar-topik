@@ -60,26 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DdDGrRdo-YM": 1793298280259,
-    "threads:DdDGiM-oyfS": 1793298280259,
-    "threads:DfFov71IMEX": 1793298280259,
-    "threads:DfFowY4mGm1": 1793298280259,
-    "threads:DfFop47llqT": 1793298280259,
-    "threads:DfFoeVwF9R9": 1793298280259,
-    "threads:DfFoQ4pCZTB": 1793298280259,
-    "threads:DfFlN9vGj59": 1793298280259,
-    "threads:DfFoFj3FgtH": 1793298280259,
-    "threads:DfFn6-4kZCi": 1793298280259,
-    "threads:DfFnndon89N": 1793298280259,
-    "threads:DfFnlsJDp4L": 1793298280259,
-    "threads:DfFm0BzE3Jz": 1793298280259,
-    "threads:DfFmci_Gi1H": 1793298280259,
-    "threads:DfFpBU7FHNE": 1793298280259,
-    "threads:DfFohpNlEVJ": 1793298280259,
-    "threads:DfFocMllFVp": 1793298280259,
-    "threads:DfFoYDVFDuY": 1793298280259,
-    "threads:DfFoTE5FLeu": 1793298280259,
-    "news:CBMijAFBVV95cUxQN0lia2t0V20yaS0zUkEyUk1WX3RnUkN4Q0tHMGJpelBKdzdlUWNNUUM5cGMyTlZ0aUhHMlVxX2JsXzZSTnpPRE5ZUS05SWVxa18xTnEzdXlTSjJPb3NlakdQSGxIaW5NLTI0LThMajNKY1I2MUNZZlJQQi1UajdtT00zY05NeDR1cEM3RtIBkgFBVV95cUxOQVo0OUx1NVBFelc4Y0NsdTRBQ0M0amNLRHpaNEpWR1QtQ2stZmlxX3RmRlpOYS11NjFBMjM5RGF1cW5VVGFJYnQxSHQ2OG5rVVljVmZ3Uk56aU1KUXc2MEVWOHhndUtGUS1hWDZLNjNQa1ZTbjR1RmFpRWxUVGQ0cDZ6cDlkNzk4cnlOMnFyNElydw": 1793298280259,
     "threads:Dc3qRbwnYgo": 1793298749120,
     "threads:De-W6Ltk5H3": 1793298749120,
     "news:CBMizgFBVV95cUxNTm1Ya29Xa0dWR3Nhd1ZWeXBqalZ0VXJlQmhrdEpOdlE2VE9OZVFTZmFZaHFiakNsbzhXOWQxVXpGcFY1X0p2SHY2aGJYc1FqdllESDNIMHF4UW1tR01wNWFxQTJibDJSbXo5clFwMTZBLUhWd1hmcFpReDBYZkRpTS1DX2kycTk4bloyNHdMWUwycUF2bUs0LTBnUEVvbWl5V0Ewc3JaRHZGNGlSME1yTkczQmF2WS0yaV9CWkh4WWRzZnplbGNNYktJU0F5Z9IB0wFBVV95cUxQc0NmdGJXUjlRcVJScGtsR28zcjNIenIxcWZycFliQ2RveGJHdjZaZV9hVUFyakNpeFhSQzNzUWR1LWhaaUJ4ZGxqTkh0ZkRWZkpVZDBwcGNweTRTUlFoWG1aVU9POXg3VWMyZHFHWmtFNV9faFRUX2EtbnphNmF4Zl93MnJNYURDM0RERDFWNVVWVGlMRGp2T19NbnlVUFFNWnBBZlF4WDktcjNrUlo4NFdxNmFHMHBUdlVFLXBneW4ycTlMWW41eGN3TXF1eUZlek9B": 1793298749120,
@@ -25785,39 +25765,23 @@
     "threads:DTzPXK2kxjy": 1794507337790,
     "threads:DfpqhOTk4is": 1794507337790,
     "threads:DcNUZsAgSMG": 1794507639804,
-    "threads:DbzGz6ugeb4": 1794507639804
+    "threads:DbzGz6ugeb4": 1794507639804,
+    "threads:De1qeWemnx4": 1794507940903,
+    "threads:DfpsDe9GRlr": 1794507940903,
+    "threads:Dfpr5eHD2hs": 1794507940903,
+    "threads:Dfpr4oUj3CF": 1794507940903,
+    "threads:DfprnhrEmv6": 1794507940903,
+    "threads:DfprXAaE1_0": 1794507940903,
+    "threads:DfprP0xIHSm": 1794507940903,
+    "threads:Dfpp-euCEZm": 1794507940903,
+    "threads:Dc4vlfDGKUg": 1794507940903,
+    "threads:DdQ-miGgW1E": 1794507940903,
+    "threads:DeBx8DXkZZa": 1794507940903,
+    "news:CBMi4AFBVV95cUxOeC1naTE4RnVPUVBqSGo5X2p5YVIwZXEzNjQ2Ujc2bmpHVGt6SzJXanBVS3ZfeUdtdTYxUXU1a1V6cVFQellCWFl5UHpubHdWV2RYUlUyVE1RelVmUVd4cXUzd1JfU1FnNkUzSEc2UDdqWlZPTW8wSlJEUks5cGdybzFoeGpMZGpuZGJ3QndfbUltNlpvaEVXNHA0My1iRmRFVHVnT1V1SGZnN3ZrYVUwYk1CU2tJVzJibHNlUWNWWWI0SGc0eUdjR1FHZlRJSU5uLVZwdTBDM09oaVVQcWNOWNIB5gFBVV95cUxNSjM2cTJkcEZhTXFadlJNT0QtaDUwTjJkaXJtZVc3SW1JTk1iTThENVJKbEJLa1J5c3diMWdCS2xZNjNza1paUTEwcHpGeU5oX2FBZjEtSUN3Q3o4bnpnTlNLNW9FRWtGaWtma2pXdmx6dkJVTkhUVUZnSHFUX1F2ZXRFVDczM0JIaE1WVDQ3c1V0S09xTjFsNjZrSmMyY2QySXRqenpvNWx6d21DbFA5SUloX0VvSTQyRHJ0MU1raGdDaW8yc1gzSnJoZzN4RXRXd3hOS0Y0bmhaWTU3c1NOVy0xN3NkUQ": 1794507940903,
+    "news:CBMi5AFBVV95cUxQNHVxUGQ0QW5DMFJmZklyanlkN3hncnVFMnYzWkNXOWJmSkRHMnFXNXQ3SE9FZ3BhaUdUNGdBSy1LSmJXa2s5bW43NngycEk4MWhYenNQS09sajJ3M3AzQ1FUaUVLTW84eUNLMW1oSEZMOEZVbUFVcktxX1piNXFVdzNVRDVyNHltWF9CUmI0X0U4V3JOSHpaOS1JOTFOc3VkaTJ1N3FVWC15M01mNzNVU3pXaU02bTB3NkpiZXZiQ1VlWmF0RWNSU0xoS0RONTV0dGVNb3p5dk9NQXBiY2xtcDhRNEbSAeoBQVVfeXFMTnVCcFgxTVo2eTY1RDZldi04WDY3WlVzdFNIX0Q3MXMtNkpNX3ZfR091R3RDUVJZaVpRVHRTcml4eVNVWVN2RktXOTdObzE0QmU1Q0ZoS1F5UWpaMnZjQ1RSNXlESDVxWHF5eHZBTTBNZ0haUFpyeDdVQVZmR2dibDNRcUFCZkZ2ZUlNNjNJWldheFhaX3NWckw4MFI2bmFjN2s4QUJ1cE9mT25vWW4tSjlOb3dCbVJDT1NGY3A2VGNmS2pSanVrQVdIVkJ5ajZwUktnLUJLdzl0RVBSR3N4Znk1cGlOdGZIOVhn": 1794507940903,
+    "news:CBMi4wFBVV95cUxPTjJCV1dXcUpUNmhrbGg3dkQzQk9aNGN4ck05Ukl6S3NsZVExcjJMOEMyLWc0RmJDblloTnM1ZHpDN1hYUnUwbDUtMU1WbEM0WXZqell4MDJyRldxb0p2UlRiUS0xVXNUekgxamlGV0VBdldOZ1BsQ05XblhKSnhON2FOVGRhTnJOTi0wT2ZpZTBqQzZIVmxKMEh6UjRQM3djS3FfUzJyYWUyemZoTEdwNWZKaWZodlNXbVhqQUNaeVR4YWdjank4RDhaMVNWUDZpWDBSWXE5SEMxT0l2WjIzNElwWdIB6AFBVV95cUxONUtLMXpMbGVENGxzQWJTZ0tIMFVqR0F5NzctcGRsVXNzbzdSdy1YNWxqd1Mtem5ZLVB3OWZoWkxWZ25vd1h1RUNJWU11VkxURXlpUnEwWXd2U2xDdkV6Z0FuUjY0S0FHdEJOclVkTmgzV0c2OGtJUWJGRW1Td280dmpmVzFGRTRaV3R3NkEyczlKVzN5cmJibnF3dVU4U3p1bnYzbmF6WDBhRUdpcmw5M3FyUDlSNThOMDZLZjdkdmVzSEc2N3NTTnNXeGN5cmFTV2FFbkw2dlZZMWRPVnFqN19NZlM4VmJ4": 1794507940903
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "SuaraGarut.ID",
-      "x": "Kemdiktisaintek Buka Beasiswa Garuda S1 Luar Negeri 2027 - SuaraGarut.ID",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2M0NDMm10M2V6aWlYR2NJNUJmQVVINFplTlVJV2FGYmg5UlFpRTJtSHBwcmxkZVljUWFldVAtSmNOZi0ybFNNdHhNMGxiZ0hvSlZjSWtzQVNoS2hXQjF4REJ6Zmc?oc=5",
-      "d": 1794490596000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@namithaparamitha",
-      "x": "Hai ka...ijin yaa Belajar digital dari Nol yuk..Jum'at tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing bareng mentor2 sampe cuan. Pake HP tetep bisa b",
-      "u": "https://www.threads.com/@namithaparamitha/post/DfpMXB2kn1l",
-      "d": 1794491087000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "📢 DICARI MAHASISWA & DOSEN! Ada yang sedang belajar SPSS atau membutuhkan skill mengolah data untuk skripsi, penelitian, maupun tugas akademik? Yuk, ikuti PELATIHAN SPSS GRATIS! \ud83c",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfpNYwpmRiJ",
-      "d": 1794491625000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27287,10 +27251,40 @@
       "d": 1794506899000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "12,5 Juta Pemegang KKS Siap Terima PKH dan BPNT Tahap 4, Simak Tahapan Pencairan di Bank Himbara - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeC1naTE4RnVPUVBqSGo5X2p5YVIwZXEzNjQ2Ujc2bmpHVGt6SzJXanBVS3ZfeUdtdTYxUXU1a1V6cVFQellCWFl5UHpubHdWV2RYUlUyVE1RelVmUVd4cXUzd1JfU1FnNkUzSEc2UDdqWlZPTW8wSlJEUks5cGdybzFoeGpMZGpuZGJ3QndfbUltNlpvaEVXNHA0My1iRmRFVHVnT1V1SGZnN3ZrYVUwYk1CU2tJVzJibHNlUWNWWWI0SGc0eUdjR1FHZlRJSU5uLVZwdTBDM09oaVVQcWNOWNIB5gFBVV95cUxNSjM2cTJkcEZhTXFadlJNT0QtaDUwTjJkaXJtZVc3SW1JTk1iTThENVJKbEJLa1J5c3diMWdCS2xZNjNza1paUTEwcHpGeU5oX2FBZjEtSUN3Q3o4bnpnTlNLNW9FRWtGaWtma2pXdmx6dkJVTkhUVUZnSHFUX1F2ZXRFVDczM0JIaE1WVDQ3c1V0S09xTjFsNjZrSmMyY2QySXRqenpvNWx6d21DbFA5SUloX0VvSTQyRHJ0MU1raGdDaW8yc1gzSnJoZzN4RXRXd3hOS0Y0bmhaWTU3c1NOVy0xN3NkUQ?oc=5",
+      "d": 1794434977000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Syarat Cairkan PKH BPNT 2027: Warga Desil 1–4 Wajib Daftar Perlinsos Digital, Ini Cara Aktivasi IKD - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHVxUGQ0QW5DMFJmZklyanlkN3hncnVFMnYzWkNXOWJmSkRHMnFXNXQ3SE9FZ3BhaUdUNGdBSy1LSmJXa2s5bW43NngycEk4MWhYenNQS09sajJ3M3AzQ1FUaUVLTW84eUNLMW1oSEZMOEZVbUFVcktxX1piNXFVdzNVRDVyNHltWF9CUmI0X0U4V3JOSHpaOS1JOTFOc3VkaTJ1N3FVWC15M01mNzNVU3pXaU02bTB3NkpiZXZiQ1VlWmF0RWNSU0xoS0RONTV0dGVNb3p5dk9NQXBiY2xtcDhRNEbSAeoBQVVfeXFMTnVCcFgxTVo2eTY1RDZldi04WDY3WlVzdFNIX0Q3MXMtNkpNX3ZfR091R3RDUVJZaVpRVHRTcml4eVNVWVN2RktXOTdObzE0QmU1Q0ZoS1F5UWpaMnZjQ1RSNXlESDVxWHF5eHZBTTBNZ0haUFpyeDdVQVZmR2dibDNRcUFCZkZ2ZUlNNjNJWldheFhaX3NWckw4MFI2bmFjN2s4QUJ1cE9mT25vWW4tSjlOb3dCbVJDT1NGY3A2VGNmS2pSanVrQVdIVkJ5ajZwUktnLUJLdzl0RVBSR3N4Znk1cGlOdGZIOVhn?oc=5",
+      "d": 1794438011000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Jangan Sampai Bansos Hangus! Ini Panduan Lengkap Daftar Perlinsos Digital dan Syarat Agen Relawan - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTjJCV1dXcUpUNmhrbGg3dkQzQk9aNGN4ck05Ukl6S3NsZVExcjJMOEMyLWc0RmJDblloTnM1ZHpDN1hYUnUwbDUtMU1WbEM0WXZqell4MDJyRldxb0p2UlRiUS0xVXNUekgxamlGV0VBdldOZ1BsQ05XblhKSnhON2FOVGRhTnJOTi0wT2ZpZTBqQzZIVmxKMEh6UjRQM3djS3FfUzJyYWUyemZoTEdwNWZKaWZodlNXbVhqQUNaeVR4YWdjank4RDhaMVNWUDZpWDBSWXE5SEMxT0l2WjIzNElwWdIB6AFBVV95cUxONUtLMXpMbGVENGxzQWJTZ0tIMFVqR0F5NzctcGRsVXNzbzdSdy1YNWxqd1Mtem5ZLVB3OWZoWkxWZ25vd1h1RUNJWU11VkxURXlpUnEwWXd2U2xDdkV6Z0FuUjY0S0FHdEJOclVkTmgzV0c2OGtJUWJGRW1Td280dmpmVzFGRTRaV3R3NkEyczlKVzN5cmJibnF3dVU4U3p1bnYzbmF6WDBhRUdpcmw5M3FyUDlSNThOMDZLZjdkdmVzSEc2N3NTTnNXeGN5cmFTV2FFbkw2dlZZMWRPVnFqN19NZlM4VmJ4?oc=5",
+      "d": 1794435141000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
