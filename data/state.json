@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD_F3hCdz1": 1793242857816,
-    "threads:DfD-NszkXBf": 1793242857816,
-    "threads:DfD-E7GEl3b": 1793242857816,
-    "threads:DfD-bxLgWsR": 1793242857816,
-    "threads:DfD-IDbk4rn": 1793242857816,
-    "threads:DfD_gNuCaj8": 1793242857816,
-    "threads:DfD6LAbATt-": 1793242857816,
-    "news:CBMirgFBVV95cUxPWnpDOWZfVlAtMHpnVVlOOWdjUTdPMUJSN1Z1bkJhOF92aEhCdmtPWkstWkoxOFBGcTgzMU56bEphdWc3NWROQzMxaUxLc0Zzb0xoOHF6V1k1RHVkMjNWNEp0OUMxRm1MXy1zVXJrcDFJMzVZZTJDMGFoV2w5VV9KS0x5Z2QwYVNxa3JUWEFzb2kxVldNd1Z0d2lkQWgwRGZzQ21IREdNdjhHN2hLNEE": 1793242857816,
     "threads:DfD__zgEmas": 1793243158518,
     "threads:DfD_Q-IkjmO": 1793243158518,
     "threads:DfD_NSXklLv": 1793243158518,
@@ -25584,7 +25576,25 @@
     "threads:DfoAf0qmjSR": 1794451835684,
     "threads:DfoACaIAXll": 1794451835684,
     "threads:DfoAoMXkmt8": 1794451835684,
-    "news:CBMi_gFBVV95cUxPM25xMVF1SmMzb3RQNlRCN3hleFhOZEE2UlA3dEloSGRfWTZpa3ozV2YwSlppVFdhNGNZcGJjcjBsSVFvRFJKamhlQ3g2WjRpRlRKSWxBZkkyemYxTGRJdWxmVHRzMlo4T3hQT2pqQmdlU1p6VjhQQ2k4VjB0akFWVlVYWDE2R1BWRjN5Rk5KQ056LV9JbGpKZFpMQzZLX0VmdUFhMUJGdTBTLTFkQ3ZwTGlNOXZUdUlEVXJqcU9BLUwzUDltaG5zWjltb2xEOVpYcEVlVTNuR3NPc3hDcmNuamFNUTdhbHhoc05LVlhUb01rWGRIdEVJVzNIeW9Pdw": 1794451835684
+    "news:CBMi_gFBVV95cUxPM25xMVF1SmMzb3RQNlRCN3hleFhOZEE2UlA3dEloSGRfWTZpa3ozV2YwSlppVFdhNGNZcGJjcjBsSVFvRFJKamhlQ3g2WjRpRlRKSWxBZkkyemYxTGRJdWxmVHRzMlo4T3hQT2pqQmdlU1p6VjhQQ2k4VjB0akFWVlVYWDE2R1BWRjN5Rk5KQ056LV9JbGpKZFpMQzZLX0VmdUFhMUJGdTBTLTFkQ3ZwTGlNOXZUdUlEVXJqcU9BLUwzUDltaG5zWjltb2xEOVpYcEVlVTNuR3NPc3hDcmNuamFNUTdhbHhoc05LVlhUb01rWGRIdEVJVzNIeW9Pdw": 1794451835684,
+    "threads:DfoB2b3k6Z7": 1794452453844,
+    "threads:DfoCluyHY-Y": 1794452453844,
+    "threads:DfoCfU7lgxO": 1794452453844,
+    "threads:DfoCbhFlgAS": 1794452453844,
+    "threads:DfoCTQfFn7Y": 1794452453844,
+    "threads:DfoCRXsk2yc": 1794452453844,
+    "threads:DfoCNyjHQ6-": 1794452453844,
+    "threads:DfoB-nbn_A7": 1794452453844,
+    "threads:DfoB1WuRKte": 1794452453844,
+    "threads:DfoBdJCCf01": 1794452453844,
+    "threads:DfoCsNgjNOO": 1794452453844,
+    "threads:DfoCTHIEr6U": 1794452453844,
+    "threads:DfoCtmVE556": 1794452453844,
+    "threads:DfoCq-ZHy-5": 1794452453844,
+    "threads:DfoCN08EjSh": 1794452453844,
+    "news:CBMiugFBVV95cUxOTGJsTmFHejljNTNxQmZUTGI2SXFLS1BoR1YwanNDRGRKRWs1U3MyRWRjVjRmNmxQT21CbzdMVFFEOU5nbjFjNlhFd25hZHBzYm15VGtZTExkTGdYc3NUMlRzaDRXbG8tNU9FS2U1ZGJQQUZCdTIyWmJ5RVpFVGc1elJaSzNoTU9iRl9OSmdWZEM4M3pCWkdYc3hXRXhtM3VtNGExSF9Wa184LVNxcXhSV0dRR1BqUDExWWc": 1794452453844,
+    "news:CBMi1gFBVV95cUxOdUtBUFl2UGN0Yld4eGw1ZGdUNHd3Zk4yLUo5MmxwQkY3R0tnSXdSMkZrVFQtWm1fVWhucXJodHZjZ1BRRGFQUFd6WXk5Q2xKcmo3T2VTWmo0X0xYQmZzd1RaY1NEWjBJb1prbHgwNnc4WHR0VTZtWFBFaUc3QTVGcmtGTEREMW9ua1A5bVVCY0ZELXlpZ18wT19EZWQwMHlmSFNFbVlNQXpUb1Z2MkFrV2dMSTN6WlEtRFVUdWI3ejBKRVRxYzRrVk1TRElGdW1VOGg2TEZ3": 1794452453844,
+    "news:CBMiowFBVV95cUxNYWdIa0hnSm5oVGtLU1VTRkFSeGpoUS1Gak5sMFRrc1RScjlCdkJ1aWJDeGFXaEpLTmYtb3U4azZkeGJxczJja0RRZXp6VmpCX0wtR01tQng2MUw1RHpyQTRvSkZGN05YM1JPM2liWHhTT0RsbTRXTEMxWVFWQk1HTjN5cU96ekZidzEzUUFBSUdmS0VaVkV1WnpPRnpnajAyRzlZ": 1794452453844
   },
   "digest": [
     {
@@ -26726,10 +26736,60 @@
       "d": 1794451443000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Hai ka anggi..🙏 Belajar digital dari Nol yuk..Jum'at tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Pake HP tetep bisa berPenghasilan 😍",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfoCTHIEr6U",
+      "d": 1794452257000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@peltrasafetyacademy_dian",
+      "x": "🎓 TINGKATKAN KOMPETENSI, SIAPKAN SDM UNGGUL UNTUK PROJECT 2026! Saatnya meningkatkan keterampilan dan profesionalitas melalui program Training, Sertifikasi BNSP & In House Trainin",
+      "u": "https://www.threads.com/@peltrasafetyacademy_dian/post/DfoCtmVE556",
+      "d": 1794452474000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kerjacv__com",
+      "x": "Punya sertifikat pelatihan? Jangan cuma tulis judulnya. Tunjukkan juga skill yang kamu dapat agar relevan dengan posisi yang dilamar 📜 Cantumkan: 1️⃣ Nama sertifikat 2️⃣ Penyeleng",
+      "u": "https://www.threads.com/@kerjacv__com/post/DfoCq-ZHy-5",
+      "d": 1794452453000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zahwaax",
+      "x": "Hi warga Bali! 👋🏻 Aku mau kasih kesempatan ikut PELATIHAN DIGITAL MARKETING GRATIS! ✨ Benefit yang didapat: - Sertifikat pelatihan - Sertifikat kompetensi BNSP (jika kompeten) - ",
+      "u": "https://www.threads.com/@zahwaax/post/DfoCN08EjSh",
+      "d": 1794452214000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "NasionalNews",
+      "x": "Barantum Bagikan Cara Buat Chatbot AI Tanpa Koding lewat Webinar - NasionalNews",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWdIa0hnSm5oVGtLU1VTRkFSeGpoUS1Gak5sMFRrc1RScjlCdkJ1aWJDeGFXaEpLTmYtb3U4azZkeGJxczJja0RRZXp6VmpCX0wtR01tQng2MUw1RHpyQTRvSkZGN05YM1JPM2liWHhTT0RsbTRXTEMxWVFWQk1HTjN5cU96ekZidzEzUUFBSUdmS0VaVkV1WnpPRnpnajAyRzlZ?oc=5",
+      "d": 1794366953000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
