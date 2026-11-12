@@ -60,25 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFC3A5k0C0": 1793278245428,
-    "threads:DfFB_vMIONy": 1793278245428,
-    "threads:DfFCo_HEcNs": 1793278245428,
-    "threads:DfFC5EKAXG5": 1793278245428,
-    "threads:DfFChdFEQMr": 1793278245428,
-    "threads:DfFCbWeH9Mh": 1793278245428,
-    "threads:DfFB8NCFAR7": 1793278245428,
-    "threads:DfFB4ikGrJI": 1793278245428,
-    "threads:DfFC1XWowD6": 1793278245428,
-    "threads:DfFCy5BIwgU": 1793278245428,
-    "threads:DfFCw5go-oJ": 1793278245428,
-    "threads:DfFCrwJI9JL": 1793278245428,
-    "threads:DfFCq-TI8TS": 1793278245428,
-    "news:CBMiqwFBVV95cUxPVkF4OGV6RnVlLWduam1xWmJfbWVKNDNBRzNPeTdjaHFuMUhpSm9Wd2ZySkEtYjRHZ0JoYWZndmpBank4bFpxTXBmOXlSYnZDcU9TLWdhZ3l1ck8tSElGS3dJWUFBZTN4Nk5ocjRJamRqWWtSeFlCMzQ3TzI3alhrcEJSLV9vMmN6ak5kT1AzMW9nYmV0VVNSWnlwRndXYllPQkM2ZVFYNGpPb0E": 1793278245428,
-    "news:CBMisgFBVV95cUxQREsxSnVhZVVMemszWEtJZl9NOVZTRzNkT3dyNVRubkVOSjRteEFtNjhTRUx3ay1Gb3dGczRPdFoxSzlFNmljRjlNNWxZMHlwOFJaMmgtbEp4RENpVDhUWFQ2OXFPNm1SZ1BndmZSM0FvMDRZNG9NSUVKQVJLbzIyWC1nQk5Ec2Q3Wk5DVmh5V3hJT3BEUFdZaV9aZS16ZjBGamxMdC1CVjFlbkx0RlZzSHZn0gG3AUFVX3lxTE9HaWQ2WXBGQVlzRjFuV1c2MXd4TGJHUjI4ektnZTZqWi1qVl9ubWRBdlpvUndPbk1sS0x0cTFteTdYeG1sRnQzcHRNdmxNYWhFR3EwTU5NSEVqcWstb2hxeFRBLTI4VkVTbnF6TVNsSkt1NDNFajAxUTJlWXJPZ3lNa0s4RjlVZXpnYllRVm9qZ0RLb3BKVVBDUHRCV2pGS1ZDZ3hPdHI4WnpLel9fQkJuc3d5V0U0RQ": 1793278245428,
-    "news:CBMiqgFBVV95cUxPY0JQMzJVRF9VaGFEcjR1SVhWMHNCY3lqdDRBZFNFT01jcnJMNWczTmZSckxsOGdnRVYyTXJsMlEzTFZPaDFGMi1lZW9KS0N6UWlBUEU0UEhhOS1TRlBwVVo4eDFQY3hCejZnNjVEQzRsa3pfc0wyT3JjSlVzRHZZMWlWSXhQdnBXZ2dkczEwY3Y1OVZScF96RUMyYUV6TFd3NWIxVHNObElhUdIBqgFBVV95cUxPY0JQMzJVRF9VaGFEcjR1SVhWMHNCY3lqdDRBZFNFT01jcnJMNWczTmZSckxsOGdnRVYyTXJsMlEzTFZPaDFGMi1lZW9KS0N6UWlBUEU0UEhhOS1TRlBwVVo4eDFQY3hCejZnNjVEQzRsa3pfc0wyT3JjSlVzRHZZMWlWSXhQdnBXZ2dkczEwY3Y1OVZScF96RUMyYUV6TFd3NWIxVHNObElhUQ": 1793278245428,
-    "news:CBMibEFVX3lxTFBPOF9jZEZfTVZaWVJkR2JfaEtxdURXZG5yY0hKck14ZWdCazNlMHoxdERXdzlmR3IxR2wwM2FCdk1teGVPb0JzWEJTc0FJTHMwR0libWpTRlJiSmVoek13X09NM3FVeVNzbGZQRA": 1793278245428,
-    "news:CBMi0gFBVV95cUxQckpLMDZtNFQxTjRzMDdaOE9lMG5kaHR1amJHN0hHZDNLT2pJMzRJVDZSNU5YOExQclBLaDdwRmxmX2hfaUdrU1Q0VkxnMTctX2hQY0NvV0VsMFBsZDZXamtHdkhmQVoyb3dFN3Z5S0NJNjRudkt4NmJyOHJ0U2lmaXQ4ZGdaMXFhdEM1eHJXVkFaVDF5TGJGSEo3LTBCVVNFVUZlWE1EMzJrZUowb01WdGlIaWtpVFZDSXZiaC1LZW9GWXlZSEROZW5jcUpmVmU4Q1HSAdABQVVfeXFMTXo5c3RvRUdITjZIWldwVjhLUXU2SkktQVBGdzlBV1RkOXI3X1pBZU5OM2F6N2EwYXdlWWNfVnhSMVhaMThFQld5bWpOekdic3REYlY3cHU5eXNYR3ZVUjJpUC1uMUpiUjl2Rk9oSnI4QkVZQkhSUlQwX0NxRlhIVkc5Y0Z2bFZYUlkxdVdTN0VIN0ZBUGJOdTZaSDgyN3hqTE05R3FmNW1xT2p0Rm9CY1d3cG02SFBoaGZQQnFSUHFTTEJiMURnVHpqNkFYWE83Mw": 1793278245428,
-    "news:CBMi3gFBVV95cUxObGxfTHlJSnRNU01xRERsdW9RVlV3V0M3QnRYYTlTclZNSGtmMFlEbGt0c052SXc1Q0ZzdEEtLWFLQW8tVlNCcWF2endXdl9WVkxHVm5zSjBTNXFhM3h4WWpuMzM2SUZSRGVRbmgyLTNaX1RnVERjVFlLQ2NsTG5QeUd4d2N3cXdzSHVqOHFSR200RDNNYUZic3FmN3BrZWxSRlZzQTMzRGM4M3Z5SC1XanVBYnFFNV9RcE5FV0JnU1VZcWRKTVMxNWRqbEZtUVBSUDc4YTdqRU51SlF1TVHSAeMBQVVfeXFMTnFEbWR0N0hZTUlVRXdSOG5ZdUkwcXVFV1F1MVgzVDY1dFZtd2J5RktBS3pnc0puYXRKUzhtWGtHOU9keFliallCd1N6YnlfenhpbWxCbUs1MG56NFBLQ2ZLTG5PMncxNWNXTW9WaVdyczRENTNkN0NpZmJiS1hHamdXaFVPai0tOVdzUnV0RDNHTlpqT2NDRVdodF8xRVlSR3ZGb1Q4WXNrZ1AzbGxyN3JGVEExTnpVUFRuV1pqdFlTTVQtOVFYeVk4Q2o5S0NZUlFiSGFKZ09nMVh1WGstekhHV1k": 1793278245428,
     "threads:DfFDM6rGZy3": 1793278548387,
     "threads:DfFDHGGmcIs": 1793278548387,
     "threads:DfFCXEGjixg": 1793278548387,
@@ -25700,7 +25681,20 @@
     "threads:DfpFJbrFkh6": 1794487536102,
     "threads:DfpFC1FiCe9": 1794487536102,
     "threads:DfpFCMalpXD": 1794487536102,
-    "threads:DfpEuuIjauM": 1794487536102
+    "threads:DfpEuuIjauM": 1794487536102,
+    "threads:DfoVnxQGnK_": 1794487836971,
+    "threads:DfpBk2sAQZl": 1794487836971,
+    "threads:DfpGHoyHVSX": 1794487836971,
+    "threads:DfpFzPYjQAd": 1794487836971,
+    "threads:DfpFCbrEyT4": 1794487836971,
+    "threads:DfpEvHvmXQJ": 1794487836971,
+    "threads:DfpGDOcAdyl": 1794487836971,
+    "threads:DfpF7s7gX85": 1794487836971,
+    "threads:DfnvGG5EiZO": 1794487836971,
+    "threads:DfpFKFgEyHw": 1794487836971,
+    "threads:DX3VfgjHcfI": 1794487836971,
+    "threads:DfpGQSkkiay": 1794487836971,
+    "threads:DfpGKqhj2I7": 1794487836971
   },
   "digest": [
     {
@@ -26022,10 +26016,130 @@
       "d": 1794486824000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@minimalistmoms.id",
+      "x": "Wargi perempuan, bulan ini kami mau mengadakan webinar tentang gimana sih cara biar ga impulsif belanja (pakaian), ngerawat pakaian biar awet, declutter (pakaian), limbah tekstil s",
+      "u": "https://www.threads.com/@minimalistmoms.id/post/DfoVnxQGnK_",
+      "d": 1794462388000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@joe_nurhamid",
+      "x": "Di Jerman anak inklusiv punya prioritas utama untuk masuk TK reguler. Jadi perlu tambahan ilmu lewat seminar, dan semuanya gratis. #teacherofinstagram #gurutk #erzieherin #preschoo",
+      "u": "https://www.threads.com/@joe_nurhamid/post/DfpBk2sAQZl",
+      "d": 1794485435000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@amymein4",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@amymein4/post/DfpGHoyHVSX",
+      "d": 1794487815000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Aku nggak kursus, aku belajar dari data pelatihan yang isinya banyak bahasa termasuk Sanskerta, jadi pas disuruh translate ya langsung coba 😅 Kalau kamu mau belajar beneran, ada k",
+      "u": "https://www.threads.com/@meta.ai/post/DfpFzPYjQAd",
+      "d": 1794487648000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tempatalaynich",
+      "x": "Kak coba buka wesb belajarexcel.id disitu pelatihan gratis dijelasin detail dan ada latihan nya juga.",
+      "u": "https://www.threads.com/@tempatalaynich/post/DfpFCbrEyT4",
+      "d": 1794487248000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "DICARI MAHASISWA & DOSEN! Ada yang sedang belajar SPSS atau butuh skill mengolah data untuk skripsi? Yuk, ikut Pelatihan SPSS GRATIS! 🎓 Belajar dari dasar, cocok untuk pemula. Ter",
+      "u": "https://www.threads.com/@erykka_ystr/post/DfpEvHvmXQJ",
+      "d": 1794487090000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@itc_bsd",
+      "x": "🧶 Craft your day, make it slay! 💗 Weekend makin colorful bareng LOOANG di ITC BSD! 🌸 ✨ Workshop mulai 80RIBUAN 🎁 IKUT 2 KELAS = GRATIS Cushion Charms! Yes, kamu bisa bawa pulan",
+      "u": "https://www.threads.com/@itc_bsd/post/DfpGDOcAdyl",
+      "d": 1794487779000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@itc_bsd",
+      "x": "🧶 Craft your day, make it slay! 💗 Weekend makin colorful bareng LOOANG di ITC BSD! 🌸 ✨ Workshop mulai 80RIBUAN 🎁 IKUT 2 KELAS = GRATIS Cushion Charms! Yes, kamu bisa bawa pulan",
+      "u": "https://www.threads.com/@itc_bsd/post/DfpF7s7gX85",
+      "d": 1794487717000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@andiana.menulis",
+      "x": "✨ Optimalkan toko di marketplace biar penjualan melonjak tinggi. 🎁 BONUS SPECIAL: Sesi Coaching Clinic & Konsultasi Langsung! Kamu bisa konsultasi dan didampingi langsung oleh par",
+      "u": "https://www.threads.com/@andiana.menulis/post/DfnvGG5EiZO",
+      "d": 1794442189000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@tina_raflesia",
+      "x": "2026 Masih pikirin DP Mahal,Booking Mahal Nggk Zaman Perumahan Aryadiland 1 Dongsss Free DP,booking cuman 50 Ribu 📍 Jl. Husin Basri Lr. Jambu Jembatan 2 Borang, Kota Palembang Boo",
+      "u": "https://www.threads.com/@tina_raflesia/post/DfpFKFgEyHw",
+      "d": 1794487395000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lyneee_insight",
+      "x": "🚀 BEASISWA PIJAK 2027 RESMI DIBUKA! 🎉 Halo, teman-teman! 👋 Ada kabar baik buat kalian yang ingin meningkatkan keterampilan dan mengembangkan potensi di bidang teknologi! 💻✨ Pen",
+      "u": "https://www.threads.com/@lyneee_insight/post/DfpGQSkkiay",
+      "d": 1794487886000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@info_bejidepok",
+      "x": "MDJ Scholarship 2027 dibuka! Beasiswa BAZNAS (BAZIS) DKI Jakarta untuk mahasiswa D3/D4/S1 dari keluarga prasejahtera. Kuota 3.600+ penerima! Syarat: KTP DKI Jakarta, mahasiswa akti",
+      "u": "https://www.threads.com/@info_bejidepok/post/DfpGKqhj2I7",
+      "d": 1794487853000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
