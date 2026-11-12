@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfDp-WbkwaN": 1793232643436,
     "threads:DfDsT3zGMQ2": 1793233000052,
     "threads:DfDsJ8rmEEa": 1793233000052,
     "threads:DfDreBMk-4f": 1793233000052,
@@ -27076,7 +27075,7 @@
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
