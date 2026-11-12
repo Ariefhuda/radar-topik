@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD2E4umqrG": 1793238068441,
-    "threads:DfD1_qjD8Cz": 1793238068441,
-    "threads:DfD1wM6iSaD": 1793238068441,
-    "threads:DfD07h6kS3-": 1793238068441,
-    "threads:DfD0VzDlbw8": 1793238068441,
-    "threads:DfD0LCCkgVa": 1793238068441,
-    "threads:DfD0GOVEe8f": 1793238068441,
     "threads:DfD2EqfGfUl": 1793238342045,
     "threads:DfByTOMDxDC": 1793238342045,
     "threads:DfD1pOjD5Q2": 1793238342045,
@@ -25534,7 +25527,10 @@
     "threads:Dfn4QaEGTH6": 1794447343581,
     "threads:Dfn3vPimVOM": 1794447343581,
     "threads:Dfn4-XvD-Dc": 1794447343581,
-    "threads:Dfn382FH-50": 1794447343581
+    "threads:Dfn382FH-50": 1794447343581,
+    "news:CBMikgFBVV95cUxONmp4WGF3SjZXV1hrcUF2d0tfU0pTVFRZcnkzT2tBeHZscGtmNWF4eURIUmhpN2oxNWFwN0t3Um9HQ2liRmphcEJzSkJoN2tEVHJST21UcVBtLWlScXB1c0Jhc3phWHRvNGJzUGNZdW9KNThnb0YtQlNISndQd2R1S3lVSU9VdU5YNkptc0tsWDZiZw": 1794447641472,
+    "news:CBMihAFBVV95cUxQUjhLZ1k4NlB2cDk1OWdJaDhmcktxMFdabEdQVjNZS1pfZWpQbjRrR3NOczRoUWdscmNEdlFTRF9xSHlaVWJFaWI3S3ZxcWo4T1pRMDg3SnU3U2FJU1BiUUk0Tk9mSlRVM0Z5UW83YlBuWDZpaXpQNTUxcHRMTTA5N3pRck4": 1794447641472,
+    "news:CBMiswFBVV95cUxPM2ZpODhQZDJnWFZidC1leUR1MEhjNjZaeVgxMk5ZbWtjVzJIbkhrSmFCQUxMMmVSTHJTYXRkZ0Qza29zVXJyNFYwRm44RjZMX1o5YVc4MXJORGI1d1M2N2FaWGlJd010cnR0eVFUeEFrVXhRRGJVQjc5QlBNTjFzS0ljb1FDQTI2T1NJNHRhdVBIY1JiVDJ1VXlqVEhFTm5ZbEthYnZwZFNnWlU3V0J2bGRzYw": 1794447641472
   },
   "digest": [
     {
@@ -25716,10 +25712,20 @@
       "d": 1794446832000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bisnis.com - Ekonomi",
+      "x": "Cara Tarik Tunai Bansos BPNT Rp600 Ribu di ATM dan Kantor Pos - Bisnis.com - Ekonomi",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2ZpODhQZDJnWFZidC1leUR1MEhjNjZaeVgxMk5ZbWtjVzJIbkhrSmFCQUxMMmVSTHJTYXRkZ0Qza29zVXJyNFYwRm44RjZMX1o5YVc4MXJORGI1d1M2N2FaWGlJd010cnR0eVFUeEFrVXhRRGJVQjc5QlBNTjFzS0ljb1FDQTI2T1NJNHRhdVBIY1JiVDJ1VXlqVEhFTm5ZbEthYnZwZFNnWlU3V0J2bGRzYw?oc=5",
+      "d": 1794447090000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
