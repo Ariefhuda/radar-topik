@@ -60,7 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfGEcgJga4I": 1793313054021,
     "threads:DfGE4jJk6BL": 1793313340576,
     "threads:DfGEoYnk6pT": 1793313340576,
     "threads:DfGFVXRD9UP": 1793313340576,
@@ -25656,19 +25655,10 @@
     "threads:De9WSy4D8Q_": 1794522350042,
     "threads:DSjYMK0E2u-": 1794522350042,
     "threads:DZyvq8NGfGc": 1794522350042,
-    "news:CBMivwFBVV95cUxQR3pIaHphZ3FZTEV3anhFN2NrbFFzX0JWMThHOVN5dEQ2Y05kTnJsczFVdDdLc25OX1pHMkZVXzQxNE1GNDBXUTdOVTl3MnhTYkctbjFrQjJMeXFxdXFFclZHaGhTUS1MNzdkVTdQS3lSMGxmdFhKR3dZcV9HMEk4cTNIUjZLTzZPamxGUEwxRmY5MWtmTnhydDlXb3UxdFR2VE9tczBPWXJCdzVLM2tRX3I1X21NNFYwUWQxb3FkMA": 1794522350042
+    "news:CBMivwFBVV95cUxQR3pIaHphZ3FZTEV3anhFN2NrbFFzX0JWMThHOVN5dEQ2Y05kTnJsczFVdDdLc25OX1pHMkZVXzQxNE1GNDBXUTdOVTl3MnhTYkctbjFrQjJMeXFxdXFFclZHaGhTUS1MNzdkVTdQS3lSMGxmdFhKR3dZcV9HMEk4cTNIUjZLTzZPamxGUEwxRmY5MWtmTnhydDlXb3UxdFR2VE9tczBPWXJCdzVLM2tRX3I1X21NNFYwUWQxb3FkMA": 1794522350042,
+    "threads:DfqIVN5E5mQ": 1794522655398
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpQn0Gk_bP",
-      "d": 1794493321000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27158,10 +27148,20 @@
       "d": 1794521712000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@antia.putri.10",
+      "x": "Alhamdulillah hari ini ditutup dengan kks bni yang cair sedikit melegakan bahwa tahap 4 masih dicairkan dan semoga kks bank lain menyusul untuk cair kembali Semoga pencairan pkh bp",
+      "u": "https://www.threads.com/@antia.putri.10/post/DfqIVN5E5mQ",
+      "d": 1794522530000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
