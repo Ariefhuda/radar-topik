@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEftnojXGD": 1793259942818,
-    "threads:DfEezaoiK0e": 1793259942818,
-    "threads:DfEgI6BDuzJ": 1793259942818,
-    "threads:DfEfYWAGtVz": 1793259942818,
-    "threads:DfEY6WzE1ih": 1793259942818,
-    "threads:DfEgBAIGdPX": 1793259942818,
-    "threads:DfEf-_Pj-8Q": 1793259942818,
-    "threads:DfEf2RLE_ZW": 1793259942818,
-    "threads:DfEfUJkkz1A": 1793259942818,
-    "threads:DfEf4QvlHvr": 1793259942818,
-    "threads:DfEfEfAE9Lr": 1793259942818,
-    "news:CBMikAFBVV95cUxQX2xkeUJ1b0RITmxxakxwQ3M2enNpQTgtSlFhdjJSWC1BanpqM3F0RWpCRmZlQmtfY0FlSFhSdHlsUTNwRzlhOW5xUHdhbmw1a0VsZWw2eWxCRnhxU1Y2OG5tRXRNRkRkeE1ldXJVOFprRWlEeWlqWHJGX21YMXoyMXE1a1NCTE1ucXFsbDVkRlM": 1793259942818,
     "threads:DfEgKpToD4H": 1793260248375,
     "threads:DfEgKK_EVKw": 1793260248375,
     "threads:DfEfaYaExBh": 1793260248375,
@@ -25622,39 +25610,18 @@
     "threads:Dfoi0bMnzgm": 1794469258205,
     "threads:DfohTSiHAO5": 1794469258205,
     "news:CBMirAFBVV95cUxPSk5UMnlkbjBUSVFaN3FnRGJCbWVrcjU4TDVkVWlpazdIMlVrQ2VucDZQV2lpdjhnRGV1QnB1UU9DenJfR2dvcmlwN182RjN1QW50RTFCYWVNOGxYT2p2Q3h3WC1NbEdDQmdGT3N3M2FscnlYZ3R0eUllZTBySWs1bjBxR0JfV09mdk5HMFJHSWkyOFdOSkZMdE40dGVwWlV5eDVSNC0tQ3ZSZzA50gGrAUFVX3lxTE9vb09tX2RwR2tjTFk2TURxV01PeXhVdUJjM0RVY1pwTWgyWkx2d2NwdjRsNWVTSTdjam5xUmNEd1ZUSjdOdEpUMGt2M3I0MmdXOFVMQlAxd2xqeEZVMW5XWlRiX1VSalhGTEpzOUhjX3dIeTNTWHBMY3BNTTJLa0VTSjBzemxzUlV6XzUyODFPckFxQ0liU3hQSW9mLXdOblNYLVVCbDQ2bTB5WQ": 1794469258205,
-    "news:CBMizAFBVV95cUxORXBUcUJ1Y3VBdHB6Vzg4d3d6VjVJeUJlVTJlMVpLOFdia1dwX25HZ0FwYjVkVWc0UmwwSXQwRmZtaXg3Tzd0RENsQi1RVXgyQ1kxY2dBZ2VFVElkRnloQkNxcWxaU3Z2ZjFKUTlrZm01WlZnRzhtdkI0R1VjNXh6UGRuMmNVa2RhRzc0d3V5OTBuOG1kU1JBcktreTAtcjY1X1dxZXlSWkVoNHZTSGJIWmdZdEFnSDVQc1ZDc2lTellpWllhVjNyX0xQNGTSAdIBQVVfeXFMT3UwaGRlT1hONUJZendSYWVOdElMbWJkcWZFTWdvZnZhcjY3d2Z0VmpDREdXakpxazhTakF2VjlxWDlVRUZfZHVLaWZoUE1VTkFXY0pQUVF1TWFHTWMtOURWaG5pelF2ZXpxdzBsdmptV1hlUURzb3Y3NzEzaHl0UFluSXlvM19tV0U2cXNNUHp5TU02eUlEeGVpV0w1Z0J1bUlJYzJwb2dEV09Bb3JxdUUxNVFfREVjWGhRN1ItVlM2dnhaZUpzYVZILWJCS2poSVBB": 1794469258205
+    "news:CBMizAFBVV95cUxORXBUcUJ1Y3VBdHB6Vzg4d3d6VjVJeUJlVTJlMVpLOFdia1dwX25HZ0FwYjVkVWc0UmwwSXQwRmZtaXg3Tzd0RENsQi1RVXgyQ1kxY2dBZ2VFVElkRnloQkNxcWxaU3Z2ZjFKUTlrZm01WlZnRzhtdkI0R1VjNXh6UGRuMmNVa2RhRzc0d3V5OTBuOG1kU1JBcktreTAtcjY1X1dxZXlSWkVoNHZTSGJIWmdZdEFnSDVQc1ZDc2lTellpWllhVjNyX0xQNGTSAdIBQVVfeXFMT3UwaGRlT1hONUJZendSYWVOdElMbWJkcWZFTWdvZnZhcjY3d2Z0VmpDREdXakpxazhTakF2VjlxWDlVRUZfZHVLaWZoUE1VTkFXY0pQUVF1TWFHTWMtOURWaG5pelF2ZXpxdzBsdmptV1hlUURzb3Y3NzEzaHl0UFluSXlvM19tV0U2cXNNUHp5TU02eUlEeGVpV0w1Z0J1bUlJYzJwb2dEV09Bb3JxdUUxNVFfREVjWGhRN1ItVlM2dnhaZUpzYVZILWJCS2poSVBB": 1794469258205,
+    "threads:Dfoi2c0kaQE": 1794469541744,
+    "threads:DfojfDWjI32": 1794469541744,
+    "threads:Dfoi-1ok0dx": 1794469541744,
+    "threads:Dfoi2xqj1TT": 1794469541744,
+    "threads:DfoiUe2GU1H": 1794469541744,
+    "threads:DfoiSHWiZMj": 1794469541744,
+    "news:CBMikAFBVV95cUxNOVB4RWwwNnBWa2VfRUthVzJKR1lWYWFNZTA5bm5FeF8tTDdMbzhlS1A0MU84MFJrbWJieVAwMFpOd25SQm1tRXJnanVUbHlON1A2V0J2Nm43aHNGdjNLN0pxUkxfRERvaVJVT1BlMVNRWnhtY2YwNHZEcEtXLTV3ZEZvbzFrZEx6MXhTdFFuTWTSAZABQVVfeXFMTTlQeEVsMDZwVmtlX0VLYVcySkdZVmFhTWUwOW5uRXhfLUw3TG84ZUtQNDFPODBSa21iYnlQMDBaTnduUkJtbUVyZ2p1VGx5TjdQNldCdjZuN2hzRnYzSzdKcVJMX0REb2lSVU9QZTFTUVp4bWNmMDR2RHBLVy01d2RGb28xa2RMejF4U3RRbk1k": 1794469541744,
+    "news:CBMiqgFBVV95cUxNaDNmZ1NRWVdjdjU1bmtZUG8wTTRQWDlIVnA2VjROQWdwSXZMTW1MZXphX05ReXhTYUxiSEdQRW9uTEtJOXA1N0xuVi1xYVNGeDRyNFYtcFRXNDN2UmQxelg2TmhvZ0ZBeXlGLVdfMm9JNF9DNnZlQjBQZldVY0VfWV9Gd28td241SjdkQm5FYXdoZW5ZSXVCUXdjMXFaWFRRWVhEN3Iycy02dw": 1794469541744,
+    "news:CBMi5wFBVV95cUxNek9KVFZfTDRlUUQycmlYbWUxUGdBZ19oamExZFU3dHpCdHVQTzE3bjRCaHlRRjN0UzdWNGo4YXBtYm5aMGtSR3lWdF9KNFk5eGlXRWZyUmRzVEcyYjZZZHFNWW5xbnlfa3RmZ3NTemVwVUpDSk51SDhBWlVrSWxOMkVLVWFTZXRGUG1fUWZjMmZXWnpJbWJ5eVVwOGxUQlYzV0RxLVhfTDFNek1RM25TM2ItczRtMnpkRnJ6Z1lTTGY2cTBnWlR5MWFWS2NQM3RrVFhjVDc3YnVRZW1DbjFXRFFaZ1JwM1HSAecBQVVfeXFMTXpPSlRWX0w0ZVFEMnJpWG1lMVBnQWdfaGphMWRVN3R6QnR1UE8xN240Qmh5UUYzdFM3VjRqOGFwbWJuWjBrUkd5VnRfSjRZOXhpV0VmclJkc1RHMmI2WWRxTVlucW55X2t0ZmdzU3plcFVKQ0pOdUg4QVpVa0lsTjJFS1VhU2V0RlBtX1FmYzJmV1p6SW1ieXlVcDhsVEJWM1dEcS1YX0wxTXpNUTNuUzNiLXM0bTJ6ZEZyemdZU0xmNnEwZ1pUeTFhVktjUDN0a1RYY1Q3N2J1UWVtQ24xV0RRWmdScDNR": 1794469541744
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandiri_berkahi_digital",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@mandiri_berkahi_digital/post/DfoSZUCEs7b",
-      "d": 1794460697000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@klinikmindset",
-      "x": "Kenapa ya pelatihan gratis dari pemerintah berkutat di skill buruh kasar aja? Macam bersih-bersih ruangan, bikin kopi, nyabut paku, benerin AC, servis motor, dst. Bukan berarti ker",
-      "u": "https://www.threads.com/@klinikmindset/post/DfoSS1Yn34Z",
-      "d": 1794460644000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@adamprygaa",
-      "x": "cek ig ppkdjp, itu ada pelatihan barista gratis kak dari pemprov dki. goodluck!🙌",
-      "u": "https://www.threads.com/@adamprygaa/post/DfoSRgDEwX0",
-      "d": 1794460633000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27124,10 +27091,40 @@
       "d": 1794442480000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Ibukotakini",
+      "x": "HKN ke-62: Pemkot Balikpapan Komitmen Gratiskan BPJS Kelas 3 - Ibukotakini",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVB4RWwwNnBWa2VfRUthVzJKR1lWYWFNZTA5bm5FeF8tTDdMbzhlS1A0MU84MFJrbWJieVAwMFpOd25SQm1tRXJnanVUbHlON1A2V0J2Nm43aHNGdjNLN0pxUkxfRERvaVJVT1BlMVNRWnhtY2YwNHZEcEtXLTV3ZEZvbzFrZEx6MXhTdFFuTWTSAZABQVVfeXFMTTlQeEVsMDZwVmtlX0VLYVcySkdZVmFhTWUwOW5uRXhfLUw3TG84ZUtQNDFPODBSa21iYnlQMDBaTnduUkJtbUVyZ2p1VGx5TjdQNldCdjZuN2hzRnYzSzdKcVJMX0REb2lSVU9QZTFTUVp4bWNmMDR2RHBLVy01d2RGb28xa2RMejF4U3RRbk1k?oc=5",
+      "d": 1794466038000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "mili.id",
+      "x": "Kuota Halal Gratis Timpang: Jawa-Sumatera Serap 94 Persen, Maluku-Papua 1,5 Persen - mili.id",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDNmZ1NRWVdjdjU1bmtZUG8wTTRQWDlIVnA2VjROQWdwSXZMTW1MZXphX05ReXhTYUxiSEdQRW9uTEtJOXA1N0xuVi1xYVNGeDRyNFYtcFRXNDN2UmQxelg2TmhvZ0ZBeXlGLVdfMm9JNF9DNnZlQjBQZldVY0VfWV9Gd28td241SjdkQm5FYXdoZW5ZSXVCUXdjMXFaWFRRWVhEN3Iycy02dw?oc=5",
+      "d": 1794404820000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Surat Perintah Cair Bansos Akhir Tahun 2026 Resmi Turun, Simak Rincian Penerima PKH, BPNT, dan PIP - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNek9KVFZfTDRlUUQycmlYbWUxUGdBZ19oamExZFU3dHpCdHVQTzE3bjRCaHlRRjN0UzdWNGo4YXBtYm5aMGtSR3lWdF9KNFk5eGlXRWZyUmRzVEcyYjZZZHFNWW5xbnlfa3RmZ3NTemVwVUpDSk51SDhBWlVrSWxOMkVLVWFTZXRGUG1fUWZjMmZXWnpJbWJ5eVVwOGxUQlYzV0RxLVhfTDFNek1RM25TM2ItczRtMnpkRnJ6Z1lTTGY2cTBnWlR5MWFWS2NQM3RrVFhjVDc3YnVRZW1DbjFXRFFaZ1JwM1HSAecBQVVfeXFMTXpPSlRWX0w0ZVFEMnJpWG1lMVBnQWdfaGphMWRVN3R6QnR1UE8xN240Qmh5UUYzdFM3VjRqOGFwbWJuWjBrUkd5VnRfSjRZOXhpV0VmclJkc1RHMmI2WWRxTVlucW55X2t0ZmdzU3plcFVKQ0pOdUg4QVpVa0lsTjJFS1VhU2V0RlBtX1FmYzJmV1p6SW1ieXlVcDhsVEJWM1dEcS1YX0wxTXpNUTNuUzNiLXM0bTJ6ZEZyemdZU0xmNnEwZ1pUeTFhVktjUDN0a1RYY1Q3N2J1UWVtQ24xV0RRWmdScDNR?oc=5",
+      "d": 1794441936000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
