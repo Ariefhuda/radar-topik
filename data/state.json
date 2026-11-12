@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEXcJ1mDlP": 1793255461133,
-    "threads:DfEXY90j9KI": 1793255461133,
-    "threads:Dbz8Zm6mF7f": 1793255461133,
-    "news:CBMickFVX3lxTFByWlNBdGdyc0lfT1FFQllpanVDaDBPZE0xUnFyY3E1RVdtcThaV3FGXzFpN1M5cXNTemtaR1VxNXNqNHpuaGRmSV9LZnMwNlhkdldSU202WURnQ2Rta0YyVmhyVnA0UHl4UkhsSWF1cUlJd9IBckFVX3lxTFByWlNBdGdyc0lfT1FFQllpanVDaDBPZE0xUnFyY3E1RVdtcThaV3FGXzFpN1M5cXNTemtaR1VxNXNqNHpuaGRmSV9LZnMwNlhkdldSU202WURnQ2Rta0YyVmhyVnA0UHl4UkhsSWF1cUlJdw": 1793255461133,
-    "news:CBMizgFBVV95cUxNRi1TaFkxc2dVeTBOMmM0cHJ0eVQ5UEhZc0EwWkNvSlNqckE1TzIzY2ZfNElMWUNHUmR3ek96dFdzY0xKMzJZN0dRTE9CWTBOTkZoazloVHdsZW50cHdPUXNaVG5YRXBvRE1LbVJ0U0p3NzJiM3VCNHFrZExYbjZGN1VKZS1US0o0ODBMNEY3VTRiUDBoY0d1YVpJN3NqMVJZQVhpam4wdDl4ZGNtUlRDNmxyeExNNmdvNE81bnFweUx6WDUweV8wOS1ubzVuQQ": 1793255461133,
-    "news:CBMiywFBVV95cUxNRWdidXZjUUZid2dOekprLVJSRExHeFJQSEFHN0E3OXhBbkk5NHlJQVBJQm1zdXUtaHU0TjVXYnBqV0tqSm9EU2JtOE1zNFptVUt1VmZiV2lLam0tMi1qTll5UVgydVZQNWRvczN4YmNkZHhzUDBtWE9adUdZanpPSUdrVVQ2amdzUmRRVHk3dXdUSTFNQUFVREg3OWRJTElmaGhUeC05SE9lUWs5dmlrTUVLOWxMTkk3Q1B1T3pRRUV1OU54dXRYR3BKONIBywFBVV95cUxNRWdidXZjUUZid2dOekprLVJSRExHeFJQSEFHN0E3OXhBbkk5NHlJQVBJQm1zdXUtaHU0TjVXYnBqV0tqSm9EU2JtOE1zNFptVUt1VmZiV2lLam0tMi1qTll5UVgydVZQNWRvczN4YmNkZHhzUDBtWE9adUdZanpPSUdrVVQ2amdzUmRRVHk3dXdUSTFNQUFVREg3OWRJTElmaGhUeC05SE9lUWs5dmlrTUVLOWxMTkk3Q1B1T3pRRUV1OU54dXRYR3BKOA": 1793255461133,
-    "news:CBMi3gFBVV95cUxOTEtodjFnUmJaZmNORUJ5alhYMkg0UTROZkxqbmdpWVZtNVVhbl9SRldfc0xnMWlzMzlRbTQxWF9KRGdhYTVENUpnSXppdW9hb3c3TEstenNxX1FqWU8yaDl6ajN2ZVBqVmpDeGI4X1dLUHFrZTlyU0lqMnhNMUt4RHVYTV9uTjZxa1dfUHpVSTJrQ1ZvT25VM2E3SXcxbkMxTjdTNHZmaXRPWnZDVEVrOW9NQy1QM3d6ZHJESWhEcFdaNGVMUzZSTUhnZUpmaEVPV1V6UGphcHNWU1BONXfSAeMBQVVfeXFMTTdTZm56RjRadmRhX0c5YlJZQjlNbVFndnBqcmpvSnZIcHhGTGxtVjh5anFtZGJNM3NrYmdPcEYzVmJUakpycGpFNmVjSzF5b1pxbmNQS2tUbUdwZHJPUndaWm5xNndYODlVVXpuM3Bkd0g2c2VMUGRTRzk4QUc3Y250cDROTThRcHpvNmtuek9JcnY3cDRwZ3cxejJVeVdNRjgtTjVBN0o2eV9kaWI4RkJBSDQtS2lVWlFxWTFPV2xmdV9oQWMxM3FpcEx4ZVlRTjhvd3VfeWNVU2pJdVlUVzRXZ2s": 1793255461133,
-    "news:CBMi5wFBVV95cUxNYm1sbExJMDYyRTZpdHJ4OEQ2aVRJYUc4bEFsMkZfWEpDM0ZybUwtWDJKVDNhWHhXcTl6OW1qRGFPVkVjS3JITTg2cnNNOVl4Wl9WQkM1VEZ4TG1PYlFvX2RHMzJ2dWxOeHlEQzRLdF9VcGZVc3dHZWN6YmxnQVZTbnVuSEFRWVBDTFllUWdwVE4wZlpKVmJiWnRCblBMYnN6NWs5Tl9yWnpzSnNHVms2WWd2blRJakVhX2FYbGR2a3plVE5yWFFGUTdjaW9tSWlQX3J0dGxjUHNpLU93eUk4ZWZRempkbFXSAewBQVVfeXFMUEFWeENHbUw2ZWwyNTRGODJPRkc5clhmVVFtdWJnTnFfWTZKR25pa0d3Y1VqeVVPd2ZLVFJPUGpWcTAxYWppY2c2Xy1fbXRYZEE4Ri1URzU5S3F0aHRoQmd2WEdYa0hyYy1OalFIUkxLU0Fsc2xBcGRyeTA3TmcxaWktdm9zM3hVaWt5Q3VyU21Gb2RTOVJOVVUtVVNlSEEwMzRnRURDSUJhTmJ3ZFptWndKUmdRbVZmakJUaGIwbW42TlBmblNtSE9Ybk9fekI0enpWY2E2TzBSUkZQR2lkMFZtQ3FqT3VsMkpRbjQ": 1793255461133,
     "threads:DfEYG2QE4td": 1793255742027,
     "threads:DfEWym3krNA": 1793255742027,
     "threads:DfEXqQBD-la": 1793255742027,
@@ -25612,29 +25604,26 @@
     "threads:DfoY6rUGRV6": 1794464759647,
     "news:CBMiigJBVV95cUxNNU9qZElYZllxcld0TWtmU1RwNWQ1dHNqeGp4Y1UyazQ3QkVnTFBRdlcwWnNFR1Y4RkZiTkZtVlZaMkM2TUZXM1dVR3EtLVpseElWVGtIQThNcHVOT1pUX3FHaGFRQjRqbUt6Ry1ON0hXRFdVLUlmREY4LTVhYnJTdEZTeVFpUUZoaklDX1BtWUxxY2VrVmEwZlVRTGxTQ3FGQlE3WUotLXFHQnVPYzlPb3NxNldMaGVMTmJKWkdFMFVVTnhYU2RMaUJ4dzhfODhWalBHb0pBWmlMdGlKd1FhVC1FcmZIaDU2d3ZRaGhicGtSVHgwTWZVRHdyVkJDbVhtQ2Y4THlELW1fQQ": 1794464759647,
     "news:CBMi1AFBVV95cUxPa3E5OGxDVFM0TzFoZTZtOTJRM19lNDI5WGd0V2U5eVF4OTJYdzRBUm9USHBZb2hDSDNYZEJEdkZFZmVaamx0d2tqWmlNdlRsc3NFRk1tNTRDRUN5Z1pMTTZiSFBSSjVKNC15VTFnajJzMW9KM3VlM0xOUDlha295V1ViOENJY2VoRnNZemR2YzluV0VWc2paX05jMWVkeV9zQ3ozMzJxTnh1LWtwR0d4ZUFscnpkSHpjTTZUbWpuLWNwVDYxd1FVTXRLclU4R0NCbC13RQ": 1794464759647,
-    "news:CBMivgFBVV95cUxQRjlDMG50Y09Mdi1IZG4wa2JaQzhES1BoZS1ubnVvdTJDLWpyRDQ1TWo1WVlILW5tWnZ4T3JES3JSSEFiRkhTVUtXOVBqSXpOeUNiSlVRbTZSdndXaV9PQlpjNHJBRWN0RnBOS0JUTk94VEtjajI2RExCN01Jd01iSjR6WDF6UEJ4NjRKcElsMkNBTm5MM3hWV19GSFZnUWdGWTNnX0J2enZFb1haenhMSnBxVFV5QzZlX0twWmN3": 1794464759647
+    "news:CBMivgFBVV95cUxQRjlDMG50Y09Mdi1IZG4wa2JaQzhES1BoZS1ubnVvdTJDLWpyRDQ1TWo1WVlILW5tWnZ4T3JES3JSSEFiRkhTVUtXOVBqSXpOeUNiSlVRbTZSdndXaV9PQlpjNHJBRWN0RnBOS0JUTk94VEtjajI2RExCN01Jd01iSjR6WDF6UEJ4NjRKcElsMkNBTm5MM3hWV19GSFZnUWdGWTNnX0J2enZFb1haenhMSnBxVFV5QzZlX0twWmN3": 1794464759647,
+    "threads:DfoZ1RYk49X": 1794465040803,
+    "threads:Dfl8lVpExbc": 1794465040803,
+    "threads:DfmxBt-E7s8": 1794465040803,
+    "threads:DfoZTzJoOcK": 1794465040803,
+    "threads:Dfoa39aGqDo": 1794465040803,
+    "threads:DfoauMOmgeV": 1794465040803,
+    "threads:DfoajR1GtKu": 1794465040803,
+    "threads:DfoaAWwml5K": 1794465040803,
+    "threads:Dfoa3emmbFe": 1794465040803,
+    "threads:Dfoax62mqAe": 1794465040803,
+    "threads:DfoavU6lsxM": 1794465040803,
+    "threads:DfoafLCkRzU": 1794465040803,
+    "threads:DfoaNvkmrrd": 1794465040803,
+    "threads:DfoaTEuk_cb": 1794465040803,
+    "threads:DfoZ8yxEdxs": 1794465040803,
+    "news:CBMi3gFBVV95cUxNUFdkQ2FhUEJUdVdWU0NFX3hlQ3lQTnhhRjBtVWlQSDk2RDZicEptU0RwTnBkWXJOUkw3dW5Kai1RVFBqT2hJTngwSEFSRkxYeFJMbk9Ha2xJQ3EyZG42c1NWTzgzTjJWZDNZMkMxMGhkRVRYT29qU0VZaGlKMkZ6bUdnMEFHSkZaX08xaEVSVEh6d09lTkFJRG55eHY1TUF6NDhYdG9WRHBWSVRjWEc5ZTIzYkVLRklzMGo5SnpEWF9QeEpwaVZ3WTBXaTNiWHdiVm9tOFJhcGw0SHM3Q3fSAeMBQVVfeXFMUGh2djc5blRRWl9hZ1ZkQWIxbjZoV3NWb2luZDZ0OEVhZ3kwRXJlTzI4R01RMHZmY2E3YUdNeml3Sml5RFduMHI0Nnd3WmxQYThaNjFOYVpKNWszejhYZnplcHNiX2s3eDRNdTg0bWY4b0pBZUlsQmpld05zRmxESDRzWnY0UG5CdXRhMmo4NjRhaWRETkJtMXMyUjlsNzhTRHZzeDh0c2JNMzJULWVyR0VDMHZNX1ExVmstU0dLaUZJU1hWWS1lWVJhNHJsaGV4VDBYdWRmMVZ0RTB5THVBLVZJd2c": 1794465040803,
+    "news:CBMisAFBVV95cUxQMmN0ZWlEc2VDYlJTZE8yczlvaFRqczdJQ3J0NGhHZUhwVlUwb2hqQ1FpRFdYWmg2WW1ENjNRcVpwSWtCaGZIQVk1VUoxYTBXM0Jyckk4bjh3VkxYVEVxS282cmVjMVF3Q1lUSTFpTF84U2lOUUVYeDFHSG04Rnh0Z19BdmxLaGQ4OXNsV1ZSVG9JclJ2dXVOb3dRcFZpaWFHb3lnMUtISjlpWkNNY0Y4bA": 1794465040803
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tentaklikofficial",
-      "x": "Halooo kak! Kebetulan di Tentaklik juga ada layanan pembuatan website nih. Siapa tahu bisa jadi opsi buat kebutuhan webstore UMKM-nya. Boleh cek dulu layanan kami di sini yaa https",
-      "u": "https://www.threads.com/@tentaklikofficial/post/DfoMn_hIKV3",
-      "d": 1794457671000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@tentaklikofficial",
-      "x": "Halooo! Kalau baru mulai belajar, memang enaknya cari komunitas yang bisa diajak sharing bareng biar nggak bingung mulai dari mana hehe. Btw, kalau tertarik belajar digital marketi",
-      "u": "https://www.threads.com/@tentaklikofficial/post/DfoMYm5oJFH",
-      "d": 1794457545000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27114,10 +27103,30 @@
       "d": 1794464627000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Mediakepri",
+      "x": "Gandeng Dinkes Batam, Lapas Kelas IIA Batam Gelar Cek Kesehatan Gratis dan Skrining TBC bagi 278 WBP - Media Kepri CoId - Mediakepri",
+      "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUFdkQ2FhUEJUdVdWU0NFX3hlQ3lQTnhhRjBtVWlQSDk2RDZicEptU0RwTnBkWXJOUkw3dW5Kai1RVFBqT2hJTngwSEFSRkxYeFJMbk9Ha2xJQ3EyZG42c1NWTzgzTjJWZDNZMkMxMGhkRVRYT29qU0VZaGlKMkZ6bUdnMEFHSkZaX08xaEVSVEh6d09lTkFJRG55eHY1TUF6NDhYdG9WRHBWSVRjWEc5ZTIzYkVLRklzMGo5SnpEWF9QeEpwaVZ3WTBXaTNiWHdiVm9tOFJhcGw0SHM3Q3fSAeMBQVVfeXFMUGh2djc5blRRWl9hZ1ZkQWIxbjZoV3NWb2luZDZ0OEVhZ3kwRXJlTzI4R01RMHZmY2E3YUdNeml3Sml5RFduMHI0Nnd3WmxQYThaNjFOYVpKNWszejhYZnplcHNiX2s3eDRNdTg0bWY4b0pBZUlsQmpld05zRmxESDRzWnY0UG5CdXRhMmo4NjRhaWRETkJtMXMyUjlsNzhTRHZzeDh0c2JNMzJULWVyR0VDMHZNX1ExVmstU0dLaUZJU1hWWS1lWVJhNHJsaGV4VDBYdWRmMVZ0RTB5THVBLVZJd2c?oc=5",
+      "d": 1794452597000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Sanggau Terima Sertifikat Eradikasi Frambusia dari Wamenkes di HKN ke-62 - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmN0ZWlEc2VDYlJTZE8yczlvaFRqczdJQ3J0NGhHZUhwVlUwb2hqQ1FpRFdYWmg2WW1ENjNRcVpwSWtCaGZIQVk1VUoxYTBXM0Jyckk4bjh3VkxYVEVxS282cmVjMVF3Q1lUSTFpTF84U2lOUUVYeDFHSG04Rnh0Z19BdmxLaGQ4OXNsV1ZSVG9JclJ2dXVOb3dRcFZpaWFHb3lnMUtISjlpWkNNY0Y4bA?oc=5",
+      "d": 1794464280000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
