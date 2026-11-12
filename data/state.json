@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfErCklFJH9": 1793265645290,
-    "threads:DfEq-7zknFM": 1793265645290,
-    "threads:DfEqpnRDsFX": 1793265645290,
-    "threads:DfEqMW5CFlH": 1793265645290,
-    "threads:DfEqHj5HDKQ": 1793265645290,
-    "threads:DfEp9WJjJIo": 1793265645290,
-    "news:CBMilgFBVV95cUxQSXMwanJjcUtTTDQ0alFWdi00cFQzbC1jNG95WVdVcHM5NnQ2ZzJFUXhxaDZuTTNVNFRrUW5BenduVmhlVnhHTWZudGpRSHcxT0RUNVpKZ1AwQi1yVkN2dTRaUkNGajlKTFBiS1NqczhDRmIwNko5T1N1Z0F5bk16Tnloc3FjeHpUYi1QVFUzdHlWbS0wSnc": 1793265645290,
-    "news:CBMimgFBVV95cUxOaC1rUkRtQUtoZUxHREhTNy1QZmhhSVVIZjNUTXR3b3U5QzFMdFZKZGltRjFsTzRxNFNDQkNmY1VGR0h0blM1eHo2ZTVweEpZLXFMd1pVb0lRTTMwTDlraUFpLTF1LXBzOFRYYXRBaF9CRTJoZ0FmNzYzeXl6RWQ3aDMxU0FCN3VxUUJ1QXJtQU54NGRUVFNESnVB0gGrAUFVX3lxTE43S0ZfT1Y5N3JGcDliT0I4cmR5cHhuSWx5N0loTEZIVVdEMzI3Qm5qWkoxX2pXMWVyUl8xRktNTTlZdXZEakRobjlIYmpCbW9SVkp1TkVmWEI0aXVIVV9IX2p1Q08zcG1haUEtYVl3RThxZm84bmhVU1N0NklQZzlsQ3Z4VkFmanptTUJNZWp0eV9qZ0lPb1VpUXNDckI5V3lfUEJhcHFESm5XUQ": 1793265645290,
-    "news:CBMivgFBVV95cUxQU1ltX3VCSGZ3MzFxbTBkTjUtZjMyRjBaUDlGQ2R6Zi1ZZzFSMmI4THRsRUVSdGVGNURUeGNxUTBsYlcwc01HU1drdno2dXJ3YnVIQ2FyWkNlZ1BJN2VhT2RsNDhEMnZxSGFZZDA2S19hVXA0NWhzaDQwZEtrcVRETnU1ZF9venh3VDlRX0RPN21YMWJscjlTbUw2eXZSU3JleWw0SjFaY3RUbWN0M0p0VWtzMkt3MXZCQW5Wd1l30gHDAUFVX3lxTFA3OUlHcjVhNGN0V0VnTXRtQmxjNHI5V2dzeWo4Nkt6WTBId19MZTFuaDJzb3lhYWZBM09LSlNNQThBRlRBcXlVQU1ZZk9ueFNNUjlDZ0V6eUFadnBBVE84WWlzUHZNUlhlR25lY1FNaHdJbXh3dENhTVNZT0ZVc25vUC1BcnAwYWQzdE9aYWJfZ0VPVkIzOWNoajFhNDc5YWtSZDhKZDlWb3RMZWs1OHZYdDBqUDI4ZmJ1c2FJSHZaRFNoQQ": 1793265645290,
-    "news:CBMitAFBVV95cUxOZEVqTjN1d3RGa21nZ3V3Tzd0SUFTX1BQUmdaX3BBY3RBWGxvVmo0cXVWUGRGNU9aX2NsUnB5cjUtR2YwVi1rVE5lazRmS3dQdG42UVBjOFlNMmg1WUF4bDl3cWhnNGZNcTVKY01VdWs5ZlZzOXFMcW85TDBiSkxQU3R6Q2lJRGxOcUFreGpXYjB0akk3X3ZVMGxZbnVrT0plWE1WYWZtb1AwcjRIeno1UHpiSFfSAbwBQVVfeXFMTlpsR2FBZXRlRGk1aF9keGQxVERudjloeV9EQnkxeXM0ZXhPVzFldDJacV9oczNIZmx6SXdnNUpJS2NHMWlmRkRJVnJHbTJiZ21SdElqQ1pvUzBqX1lQS0wxTVFVaS1WTlJUaC1KTzZ3T3JrOVhOc0EtUU9xenRYY1RLZEhCdjgxeE4wNjEzcE1SRXVLTElodTlRbVc1NmN1ZS1LQkh2b1FQTndsbHE0TXlBUzVrdFBlXzI2XzQ": 1793265645290,
     "threads:DfErWy2jnYQ": 1793265940982,
     "threads:DfErLCBibVs": 1793265940982,
     "threads:DfEr2OSEwkX": 1793266247779,
@@ -25598,59 +25588,16 @@
     "threads:DfmhdMjlPpw": 1794474937314,
     "threads:DfotfvmkUQY": 1794474937314,
     "news:CBMiuwFBVV95cUxOQUpZSXNfTnNSaWJWTXJMS2ktMEtaalRFVFVxRmpoRlQxSmtGczEtWkVRRDg5WUcyTjlZY0dScFJvT2JHRkI1TlRLNFFSMGtSVk1qeTdSZlBWV2dEc3dtRmFvQmVURHNaYmtmd254ZmlCVHNmM1ZuWkVlSHlHeUEtRTVIXzlBTVNveFM5LUhJRTdfTURtekNYWHgtc2l3MkhUOXR6TXl4WHZCVmdiZEI0YzIyOW5iYlhHSVF3": 1794474937314,
-    "news:CBMi2gFBVV95cUxNZXAwVGNYMlVFcjNHcnAxRmtIUS1pRkNGZTlROTFCTVhRdm1FY0p3T0hsdkpGTWN2eEZWRWp4eFNFRkxLc3RGbHVlUUhvQVVXUnJXVWZ0Q0JmVzdQeUd2Q1ZVS3NONklqOEpLWXQyamdqS2Fid2gtLUFZZEUxdFl6QXhnTi1JOVA5Ny1FVVBYS1gyeEdfTmxQU0pYLVJtOUp1SGNIRXBBUFBPQ054QWZ2ZDdIRlFtTDNiVUlhNVZLN0o4NEJOYjlHMFZaaFFFRHo0UFlTS3FvUGhFd9IB2gFBVV95cUxNZXAwVGNYMlVFcjNHcnAxRmtIUS1pRkNGZTlROTFCTVhRdm1FY0p3T0hsdkpGTWN2eEZWRWp4eFNFRkxLc3RGbHVlUUhvQVVXUnJXVWZ0Q0JmVzdQeUd2Q1ZVS3NONklqOEpLWXQyamdqS2Fid2gtLUFZZEUxdFl6QXhnTi1JOVA5Ny1FVVBYS1gyeEdfTmxQU0pYLVJtOUp1SGNIRXBBUFBPQ054QWZ2ZDdIRlFtTDNiVUlhNVZLN0o4NEJOYjlHMFZaaFFFRHo0UFlTS3FvUGhFdw": 1794474937314
+    "news:CBMi2gFBVV95cUxNZXAwVGNYMlVFcjNHcnAxRmtIUS1pRkNGZTlROTFCTVhRdm1FY0p3T0hsdkpGTWN2eEZWRWp4eFNFRkxLc3RGbHVlUUhvQVVXUnJXVWZ0Q0JmVzdQeUd2Q1ZVS3NONklqOEpLWXQyamdqS2Fid2gtLUFZZEUxdFl6QXhnTi1JOVA5Ny1FVVBYS1gyeEdfTmxQU0pYLVJtOUp1SGNIRXBBUFBPQ054QWZ2ZDdIRlFtTDNiVUlhNVZLN0o4NEJOYjlHMFZaaFFFRHo0UFlTS3FvUGhFd9IB2gFBVV95cUxNZXAwVGNYMlVFcjNHcnAxRmtIUS1pRkNGZTlROTFCTVhRdm1FY0p3T0hsdkpGTWN2eEZWRWp4eFNFRkxLc3RGbHVlUUhvQVVXUnJXVWZ0Q0JmVzdQeUd2Q1ZVS3NONklqOEpLWXQyamdqS2Fid2gtLUFZZEUxdFl6QXhnTi1JOVA5Ny1FVVBYS1gyeEdfTmxQU0pYLVJtOUp1SGNIRXBBUFBPQ054QWZ2ZDdIRlFtTDNiVUlhNVZLN0o4NEJOYjlHMFZaaFFFRHo0UFlTS3FvUGhFdw": 1794474937314,
+    "threads:Dfotdk2GsZJ": 1794475241915,
+    "threads:Dfos5GwGqEL": 1794475241915,
+    "threads:DeEs4ZZjrnC": 1794475241915,
+    "threads:Dfos9nQRKWo": 1794475241915,
+    "threads:Dfot9_Ak9Sd": 1794475241915,
+    "threads:DflZ4HZiVRJ": 1794475241915,
+    "news:CBMiwwFBVV95cUxQcEljdlc5UlVqMDd5ZnVVMmpxZjNRcFk3Z2dnb2pVbm5VU0J2aUhtNXVyVUpRS252aHRta1QwZDNIQW0wNHNoeDBBZERyY0VZWGFFYWNtbHZWVldXckFlSUR0UVl0RkZvNnA1Y2w1dERQM0lPLVNldWZGRDBmQ2l1X0NXWnpZbzU3VGFIOHRIcEt5TEhqLThDY1ZQeUpXV294VHJsell5dTU1SWlhQmFxbGh6dEd2YXBvMy12RTlmenJfSG8": 1794475241915
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@thetriple_el",
-      "x": "GUYSSSE, aku punya kumpulan 100+ daftar beasiswa untuk WNI dari berbagai negara, mulai dari jenjang S1, S2, S3, sampai riset. Nggak cuma nama beasiswanya, ada juga informasi: 📌 Sy",
-      "u": "https://www.threads.com/@thetriple_el/post/DfoZly3lHVq",
-      "d": 1794464469000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@amilliarofiatulmuna",
-      "x": "Kak, mohon maaf untuk pendaftaran sudah ditutup kemarin tgl 12 Oktober. Kalau berminat cari info beasiswa lokal untuk guru kemenag di akun Instagram puspenma ya",
-      "u": "https://www.threads.com/@amilliarofiatulmuna/post/DfoY6rUGRV6",
-      "d": 1794464116000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "Hotel Indigo dan Holiday Inn Resort Bintan Lagoi Beach Siapkan Program \"Management Trainee\" untuk Cetak Pemimpin Industri Perhotelan - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNU9qZElYZllxcld0TWtmU1RwNWQ1dHNqeGp4Y1UyazQ3QkVnTFBRdlcwWnNFR1Y4RkZiTkZtVlZaMkM2TUZXM1dVR3EtLVpseElWVGtIQThNcHVOT1pUX3FHaGFRQjRqbUt6Ry1ON0hXRFdVLUlmREY4LTVhYnJTdEZTeVFpUUZoaklDX1BtWUxxY2VrVmEwZlVRTGxTQ3FGQlE3WUotLXFHQnVPYzlPb3NxNldMaGVMTmJKWkdFMFVVTnhYU2RMaUJ4dzhfODhWalBHb0pBWmlMdGlKd1FhVC1FcmZIaDU2d3ZRaGhicGtSVHgwTWZVRHdyVkJDbVhtQ2Y4THlELW1fQQ?oc=5",
-      "d": 1794391440000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Radar Bone",
-      "x": "IPSI Bone Borong Empat Emas dan Tujuh Perunggu, Amankan Juara II Umum Pencak Silat Porprov Sulsel - Radar Bone",
-      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3E5OGxDVFM0TzFoZTZtOTJRM19lNDI5WGd0V2U5eVF4OTJYdzRBUm9USHBZb2hDSDNYZEJEdkZFZmVaamx0d2tqWmlNdlRsc3NFRk1tNTRDRUN5Z1pMTTZiSFBSSjVKNC15VTFnajJzMW9KM3VlM0xOUDlha295V1ViOENJY2VoRnNZemR2YzluV0VWc2paX05jMWVkeV9zQ3ozMzJxTnh1LWtwR0d4ZUFscnpkSHpjTTZUbWpuLWNwVDYxd1FVTXRLclU4R0NCbC13RQ?oc=5",
-      "d": 1794406175000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "Sekilas Media -",
-      "x": "Di Balik Piring MBG Atap Rendah Dan Sampah Campur Jadi Sorotan Sidak Walikota Palembang - Sekilas Media -",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRjlDMG50Y09Mdi1IZG4wa2JaQzhES1BoZS1ubnVvdTJDLWpyRDQ1TWo1WVlILW5tWnZ4T3JES3JSSEFiRkhTVUtXOVBqSXpOeUNiSlVRbTZSdndXaV9PQlpjNHJBRWN0RnBOS0JUTk94VEtjajI2RExCN01Jd01iSjR6WDF6UEJ4NjRKcElsMkNBTm5MM3hWV19GSFZnUWdGWTNnX0J2enZFb1haenhMSnBxVFV5QzZlX0twWmN3?oc=5",
-      "d": 1794464627000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27100,10 +27047,60 @@
       "d": 1794466200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@petals_prayer",
+      "x": "Beasiswa Garuda Luar Negeri untuk S1 sudah dibuka hari ini gengs! 🥳🥳 Sini siniii yang mau tanya2 soal beasiswa Garuda sekaligus yang mau diassist untuk pendaftaran ke Universitas",
+      "u": "https://www.threads.com/@petals_prayer/post/Dfotdk2GsZJ",
+      "d": 1794474887000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@petals_prayer",
+      "x": "Beasiswa Garuda Luar Negeri sudah dibuka hari ini gengs! 🥳🥳 Sini siniii yang mau tanya2 soal beasiswa Garuda sekaligus yang mau diassist untuk pendaftaran ke Universitas impian k",
+      "u": "https://www.threads.com/@petals_prayer/post/Dfos5GwGqEL",
+      "d": 1794474589000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lazismuumy",
+      "x": "Uang bulanan mulai menipis, kebutuhan sehari-hari makin banyak? Tenang, ada kabar baik buat kamu! 👀 Beasiswa Living Cost Batch V Lazismu UMY hadir untuk membantu mahasiswa aktif y",
+      "u": "https://www.threads.com/@lazismuumy/post/Dfos9nQRKWo",
+      "d": 1794474714000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@priyantooppo302",
+      "x": "😂😂🤣🤪 emangnya Lo dapat keuntungan apa dari kemenangan itu mul Perasaan yang menang sama yg kalah sama aj tu perlakuan nya. Tapi namanya juga Termul plenger mana bisa berpikir T",
+      "u": "https://www.threads.com/@priyantooppo302/post/Dfot9_Ak9Sd",
+      "d": 1794475153000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Razia Gabungan di Lapas Pontianak, 22 Napi Positif Sabu dan 60 Gram Barang Bukti Disita - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEljdlc5UlVqMDd5ZnVVMmpxZjNRcFk3Z2dnb2pVbm5VU0J2aUhtNXVyVUpRS252aHRta1QwZDNIQW0wNHNoeDBBZERyY0VZWGFFYWNtbHZWVldXckFlSUR0UVl0RkZvNnA1Y2w1dERQM0lPLVNldWZGRDBmQ2l1X0NXWnpZbzU3VGFIOHRIcEt5TEhqLThDY1ZQeUpXV294VHJsell5dTU1SWlhQmFxbGh6dEd2YXBvMy12RTlmenJfSG8?oc=5",
+      "d": 1794474900000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
