@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DaxYrfQCeG5": 1793291140816,
-    "threads:DfFENNpjOgN": 1793291140816,
     "threads:Dch_LlgEbMV": 1793291448390,
     "threads:DfFD_idGQa0": 1793291448390,
     "threads:DfEo7NDD-Po": 1793291448390,
@@ -25782,39 +25780,13 @@
     "threads:DfpdjTugb5j": 1794500458837,
     "threads:Dfpc991m5vj": 1794500458837,
     "threads:DfPJ6zqk0Vw": 1794500458837,
-    "threads:DfpeXR5D7hz": 1794500458837
+    "threads:DfpeXR5D7hz": 1794500458837,
+    "threads:Dfle3x6GGmD": 1794500744050,
+    "threads:Dfpd_0xH4Pv": 1794500744050,
+    "threads:DfpeFchnxIU": 1794500744050,
+    "threads:Dfpd-Idn60e": 1794500744050
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@crojobs",
-      "x": "Resmi, Beasiswa Garuda sudah dibuka untuk intake 2027. Yukk persiapan dari sekarang. Kalo ada yang pengen didiskusiin terkait Beasiswa Garuda. Boleh banget komen ya.",
-      "u": "https://www.threads.com/@crojobs/post/DfpIvLjkzGB",
-      "d": 1794489187000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@eu.aree",
-      "x": "ada ka beasiswa garuda, itu program lpdp tapi buat S1, cek aja infonya di google banyak ka, mumpung masi pendaftaran",
-      "u": "https://www.threads.com/@eu.aree/post/DfpJPpzmUsb",
-      "d": 1794489453000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arfaanfirdaus",
-      "x": "Boleh banget tuh kak, aku ada info webinar gratis ngebahas tentang digital marketing dan belajar dari 0 mulai ngebangun fundamental dan pondasinya dulu yg mungkin bisa cocok buat k",
-      "u": "https://www.threads.com/@arfaanfirdaus/post/DfpJqeqEb5K",
-      "d": 1794489673000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27284,10 +27256,40 @@
       "d": 1794499828000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@flower_landds",
+      "x": "diantara satu krtu klirga ad yg dpt bansos g. ktnya skrg klo diantra anggota keluarga dpt bansos. brrti bsu g cair",
+      "u": "https://www.threads.com/@flower_landds/post/Dfpd_0xH4Pv",
+      "d": 1794500334000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yunitaagustiani06",
+      "x": "klo apk cek bansos ngga perlu masukin form ka",
+      "u": "https://www.threads.com/@yunitaagustiani06/post/DfpeFchnxIU",
+      "d": 1794500380000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yunitaagustiani06",
+      "x": "3 minggu di apk cek bansos, sebulan di web dtsen ka",
+      "u": "https://www.threads.com/@yunitaagustiani06/post/Dfpd-Idn60e",
+      "d": 1794500320000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
