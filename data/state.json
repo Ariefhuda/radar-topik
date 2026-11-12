@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEDR8rj8d0": 1793245243597,
-    "threads:DfEDzquEm4y": 1793245243597,
-    "threads:DfEDcVKEgwS": 1793245243597,
-    "news:CBMia0FVX3lxTE12SFJNbG9kelpaOHRmX2tReXJNeWZ4cHBxY1R6LUlDZ3llb01GQnVfT01HQmx6ZkNuQnJ3cnFWc0IzMTRPSGNIMTVvY1hacC10MDdDQ09XZV9IS2hBSlFJeWIwaEsxNFlhaWZJ": 1793245243597,
-    "news:CBMijgFBVV95cUxQUmNrcVBMc3pQcl81ZWliZ1pYUUxFNkQ5aVE1c3lOaG1WbGVSMkJwVU4weVZtWjNJeEt0OFhVSENvME4zclJHTGRIcDZsM0J0Z19rbTBJd2RDVE12V19mRnZ0dFM4dlo1V3RKVF9pSjBEWWY1OXlYaUlNMUxFR2ZPOTVIUkVHdWZVc25OUWJ3": 1793245243597,
-    "news:CBMi1wFBVV95cUxNdEpUajFRX2Z1aHh0VEFVcUE4dUxkcTJnVGdtS0hyQS1fdTlaNDk4OUlBYlJMSjlXYV9reU1uSkhSYk9oY1lsTk1qTjJqRlRXLVFrSjZpTEllZEN2SWpxeWdYNXp1am9fakVLQzZRNTZGMWt6MDhQLUpjNm0ySG51d3VkN0FFdUJIVWtjb1c2cl9sQ1hSaGZoeEhJYlFfdGQwTUxsV1M1SXpzeHNDaEJ0c2R6dTZSX3c3RTM4WHdTdEtpV0VNbjhlc0xuU3lMVFJoOUozTXlpZ9IB3AFBVV95cUxNQ3k0dkhfR2JCLURiWW9sN2RDV1g2ZmRHcnZENGg0OVVDaG9DNVdLX3VPa3E4TVdiWGlyckdLaHJfVlFUYnVfZkdaV0U1UDBieHpIWmF6anE5aGxlOFFHMElXMDRrQi1ydGtKeFN0c3BMMVViVzhMWlJ3YkNQeWZyb2xlN0p3bDk0ZmtfcnhySjRfMVVZOXhZbkhyM2FtNmE1S2tyU0RYU1MyT3RHNXNvNU1meEZkSFZWSHh4aUlRWTZXajB6YXJPeWc1amFMYlZOdHJEX0N0azlVZ1c3": 1793245243597,
     "threads:DfEEpQake5z": 1793245542503,
     "threads:DfEEeESExes": 1793245542503,
     "threads:DfEDITIFSzQ": 1793245542503,
@@ -25590,7 +25584,15 @@
     "threads:DfoGmfdlFTD": 1794454532870,
     "threads:DfoGUCTEcXJ": 1794454532870,
     "threads:DfoF0ZXiUhS": 1794454532870,
-    "threads:DfoFbmcljF5": 1794454532870
+    "threads:DfoFbmcljF5": 1794454532870,
+    "threads:DIx3Wj9RpCN": 1794454836430,
+    "threads:DfoHELXCZlk": 1794454836430,
+    "threads:DfoGycjCWGY": 1794454836430,
+    "threads:DfoG4A9D-Na": 1794454836430,
+    "threads:DfoGdJ1ExSZ": 1794454836430,
+    "news:CBMisgFBVV95cUxPaTMtYWlmWDU3WHFIWmduZktCRWdIVDkxa3dVMEJKeGpqWjNUaG16UnV1RnNMcjhYM3gySm1YaVFUTE0waTJleWFFQ294eEJTNXFtc2VFOFVvSXVNSi10aTNwMmNEMTAwc0dBSnpyY3FtbHl4MUtFa0RxODIteFFVN0hHM2hELV90NkxTYjN6M3dWOF9sMnJLNkE2M1VyRXNoTjFKUHpuekFuZTVjcFZkc3JB": 1794454836430,
+    "news:CBMivwFBVV95cUxOR1BqVGJ3SzBoODVDY09mOFdYVDdfSFFGM3BqQzNfMEFzY3UxN2RsdmdubmIzUHNtN3g1Mk5YQ2dQczhLMTNpY28xZ1dGSTVSTkZibFl0andia3h0T0lvYTFqRERXNVhBbVhuekxiNW1vUVlHMS10a2ZQZEJpd2U3M282VWM2a3JadVF1bzBLeFkwYzBocjRUd3VnWUxwWDV4alEzbEMtTXdDYW1wQlU2QkM5RWhneXdTWGYta3JLbw": 1794454836430,
+    "news:CBMikwFBVV95cUxQWmpNX2RheDRWVkJqYmR1dWdVLTRHaVhYbU5wTzd4dzdsRmVFc3BjRVVINlpVVm9ZUTRBQU1KTFVaWUdQUERwMzNxUGJHVU5GMUFYc216RXNVTHJfSjBqWEpvR1AxdkFJcUpTZkJpWFRZTFBCZUozSWY1TkVheklUeFB3M3Fzd0QxbHJieVl6enNZd1E": 1794454836430
   },
   "digest": [
     {
@@ -27032,10 +27034,70 @@
       "d": 1794397942000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfoHELXCZlk",
+      "d": 1794454756000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfoGycjCWGY",
+      "d": 1794454611000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@tribunpalu_8",
+      "x": "Pemerintah Kota Palu membuka pendaftaran Program Beasiswa Mapande Pelajar mulai 10 November hingga 5 Desember 2026. Program ini menyediakan bantuan pendidikan senilai total Rp1.500",
+      "u": "https://www.threads.com/@tribunpalu_8/post/DfoG4A9D-Na",
+      "d": 1794454657000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@hahappymeal",
+      "x": "Sama kaya sodara kak. Jd ada angsuran bank BRI mandek, ngurus bansos disuruh bikin rek bri, ga kebayang bansos cair lgsg disedot angsuran🙃. Krn angsurannya udh mandek jd asal ada ",
+      "u": "https://www.threads.com/@hahappymeal/post/DfoGdJ1ExSZ",
+      "d": 1794454437000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "KPK-Sigap.com",
+      "x": "Imigrasi Belawan Bagikan Kacamata Baca dan Gelar Cek Kesehatan Gratis Melalui IMIPAS PEDULI 2026 - KPK-Sigap.com",
+      "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1BqVGJ3SzBoODVDY09mOFdYVDdfSFFGM3BqQzNfMEFzY3UxN2RsdmdubmIzUHNtN3g1Mk5YQ2dQczhLMTNpY28xZ1dGSTVSTkZibFl0andia3h0T0lvYTFqRERXNVhBbVhuekxiNW1vUVlHMS10a2ZQZEJpd2U3M282VWM2a3JadVF1bzBLeFkwYzBocjRUd3VnWUxwWDV4alEzbEMtTXdDYW1wQlU2QkM5RWhneXdTWGYta3JLbw?oc=5",
+      "d": 1794391193000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Universitas Muhammadiyah Sumatera Utara",
+      "x": "Panduan Lengkap Cara Cek Bansos PKH Lewat HP Pakai NIK Terbaru – Berita dan Informasi - Universitas Muhammadiyah Sumatera Utara",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmpNX2RheDRWVkJqYmR1dWdVLTRHaVhYbU5wTzd4dzdsRmVFc3BjRVVINlpVVm9ZUTRBQU1KTFVaWUdQUERwMzNxUGJHVU5GMUFYc216RXNVTHJfSjBqWEpvR1AxdkFJcUpTZkJpWFRZTFBCZUozSWY1TkVheklUeFB3M3Fzd0QxbHJieVl6enNZd1E?oc=5",
+      "d": 1794454657000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
