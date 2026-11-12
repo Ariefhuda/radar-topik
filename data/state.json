@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFt45ro5oA": 1793300766241,
-    "threads:DfFt25IlqZ8": 1793300766241,
-    "threads:DfFtrfslIIw": 1793300766241,
-    "threads:DfFtln5FByx": 1793300766241,
-    "threads:DfFs9ZnlHLo": 1793300766241,
-    "threads:DfFsxivFHMn": 1793300766241,
-    "threads:DfFsh3dlBwF": 1793300766241,
-    "threads:DfE7GRLmFr3": 1793300766241,
-    "threads:DfFshnzkiqm": 1793300766241,
-    "threads:DEWZEHHSIuR": 1793300766241,
-    "threads:DfE3ay7E4pa": 1793300766241,
-    "threads:DeOPCB-oC0G": 1793300766241,
-    "threads:DdwPMu6mFr_": 1793300766241,
-    "news:CBMieEFVX3lxTE16UnFpUmNBVTBFTlRWdWRpVHpmNG81YnJieG1TbU9vTnhTOVFpRjdla09YSDhHRTZhMTBwaFk1ZzhpVnQ3VnYxWmNRcVBqMHhkTml0NGdDUV9WMnJfaXczblp2d1FGbnFLY2FaWmstTzl0czc1dzZ3dw": 1793300766241,
-    "news:CBMiZkFVX3lxTE1SbEp6dWpkMDNaVFN0Z2NDOWhyX1ZBUllnaDVfOTlKSFJHR25uZENrTzc3UFhSekdsbXZkUFdRZEc4eWxtdDNtNE4wcVRveUIwYUxjOFh0OUtvUlVkYVFVTnZHSHhMZw": 1793300766241,
     "threads:DUh-7xDgR1c": 1793301042609,
     "threads:DRfKGJTkmWq": 1793301042609,
     "threads:DYLpoP-GrnQ": 1793301370135,
@@ -25778,19 +25763,12 @@
     "threads:DdoSP_5kg-F": 1794509734351,
     "threads:Ddm5DkDkrsU": 1794509734351,
     "threads:Db8YZwGCVrV": 1794510049271,
-    "threads:DfpvlqyGak8": 1794510049271
+    "threads:DfpvlqyGak8": 1794510049271,
+    "threads:DfpwhORGR3Z": 1794510333043,
+    "threads:DfpvsyPmdex": 1794510333043,
+    "threads:Dfn9IOEkwZL": 1794510333043
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribun-medan.com",
-      "x": "Daftar Bansos Cair November-Desember 2026, Ada BPNT dan BSU, Berikut Link dan Cara Cek Nama Penerima - Tribun-medan.com",
-      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTHBfNm9XN2lZUU9Xd3YtdHhLUjVPbXFabFZNSU5NNXdfai0yMmgwamR3TjllajM0R3pkbDNIV0x4c2ZHejVYR2Z4RDhjWWxGdzhVLTNxNnVkTGhzc0NhUGJiNndINk9TRE05YS1ZTVZlTzlUQWQwZ2dHSi1EcjRRSVdpZ1FHSWpTNXhET00tZ1AxN1F6TUtXOXhnUzVESEI5RDhyWk0zS0UwNHpGTkpoTjZCRTBzODFhQjR0Rm9nZmlUd29jb0FqLWtxMUZwcTJueUhGRVl0Yjg0WHV4SmpXMg?oc=5",
-      "d": 1794414195000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27280,10 +27258,20 @@
       "d": 1794509082000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "gausah dm. komen mau aja ya. aku lagi bagi kelas online gratis tentang belajar cara ubah data kerjaan di spreadsheet jadi dashboard interaktif auto update dan versi sederhana dulu ",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn9IOEkwZL",
+      "d": 1794449547000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
