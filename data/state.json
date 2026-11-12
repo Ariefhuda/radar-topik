@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcJHY2_GZNR": 1793294457699,
-    "threads:Dd-fxJZoCFe": 1793294457699,
-    "threads:Dd73VWjkUic": 1793294457699,
-    "threads:DfFhyhDm8jm": 1793294457699,
-    "threads:DfFY-I5m8Mo": 1793294457699,
-    "threads:DfFhiaWHyWv": 1793294457699,
-    "news:CBMi1AFBVV95cUxNR2hCeUpNajVhZ3hxVFNCTzBGTEhpdnBOODJ0dFRvTldXSzZlSXNNWXI5ZHc4R1pVRW82ZDR2ZUJaNWRrdlh5LTluV3BxSm93SXhlVHYyOUllQi1ERFZnVHdyLW9uOEFXWTdGd2Y4NVVIVm1hRVQwSWUwYkd5X19XRWJCZnQyV3BfVGZhcDhsbkJwMG5iZnFlVnBEQVo4RzhWaHd5NW1FbDVRa0JsNmZCTEtoWTB3S0MwQ3RuNGZ6aFZKTnluMERxS3NZUEk2TDZMbktmaQ": 1793294457699,
     "threads:DfFhsaQH3Cq": 1793294742525,
     "threads:DfFhQwsII26": 1793294742525,
     "threads:DfFhCvmiLnp": 1793294742525,
@@ -25779,19 +25772,17 @@
     "threads:DfpjnoTGb2A": 1794503439119,
     "threads:Dfpi0wckTlq": 1794503439119,
     "threads:DZuj-iME9eL": 1794503738151,
-    "threads:DfpjNVjEutY": 1794503738151
+    "threads:DfpjNVjEutY": 1794503738151,
+    "threads:DCD0eKsSmQk": 1794504036935,
+    "threads:DT9EzybkqD7": 1794504036935,
+    "threads:DfpkufrmQ0w": 1794504036935,
+    "threads:DfpknY8GS9n": 1794504036935,
+    "threads:DfpkbyNjXo1": 1794504036935,
+    "threads:DfpkaheGQVK": 1794504036935,
+    "threads:DfpkE6HlCpn": 1794504036935,
+    "news:CBMixAFBVV95cUxQRVJmcFpHMEk0SjR6bEx6V1JhVG5LRUpqbUxXYmtPOUd5TlM4ZlhIRVJUam5mTlNTSVZ6RFdHVnJyZEdmU2wtWVlIdDVzU0UtcGdDakQ4TUotNGVDUGtxYTRYNE5RcnpQYmYzS3NQYXNyVGRENjJYV1d6WHIwR0k3ZEF6dTlKZy04dVBURGlIQkRmNmVPOUJFMkpFRHgyZnNlZVRGUFBnbHc0Uk9oTHoxOXJZR3o1N1BUUW9BUFc1Y21BeWR00gHAAUFVX3lxTE4wNW0ydmRaQ0QtTTFpeDF0eVhnR3dEb2JNWlM2cWhVNmFYNVN0a2tfck94VmF1MHFDRGU2ZWpKNzd2am1hUGJldzI4T0lKN1BoekhLU1FQX2F6cXdEeHJLemh0VkJQNU45SkEzTVd4NVVuQ2hPdnlBV1NEbnVQWXNCY0puakdneW5pNVd5WGZFczdtaE10cVpVMmM2WTE3YUR6SlVXNjJoV0xvQWZsYmFVcjVJNFBnd0xGdUd0a21vSw": 1794504036935
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@namithaparamitha",
-      "x": "Pengen punya penghasilan tambahan dari online, tapi masih mikir: “Mulainya dari mana?” “Harus jago digital marketing dulu nggak?” “Kalau sambil kerja atau ngurus rumah bisa nggak?”",
-      "u": "https://www.threads.com/@namithaparamitha/post/DfpKa1LEtDb",
-      "d": 1794490069000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27281,10 +27272,20 @@
       "d": 1794503066000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Kompas.tv",
+      "x": "Kemendikdasmen Luncurkan Beasiswa AGS, Jalan Murid SMA/SMK Kuliah ke Luar Negeri - Kompas.tv",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRVJmcFpHMEk0SjR6bEx6V1JhVG5LRUpqbUxXYmtPOUd5TlM4ZlhIRVJUam5mTlNTSVZ6RFdHVnJyZEdmU2wtWVlIdDVzU0UtcGdDakQ4TUotNGVDUGtxYTRYNE5RcnpQYmYzS3NQYXNyVGRENjJYV1d6WHIwR0k3ZEF6dTlKZy04dVBURGlIQkRmNmVPOUJFMkpFRHgyZnNlZVRGUFBnbHc0Uk9oTHoxOXJZR3o1N1BUUW9BUFc1Y21BeWR00gHAAUFVX3lxTE4wNW0ydmRaQ0QtTTFpeDF0eVhnR3dEb2JNWlM2cWhVNmFYNVN0a2tfck94VmF1MHFDRGU2ZWpKNzd2am1hUGJldzI4T0lKN1BoekhLU1FQX2F6cXdEeHJLemh0VkJQNU45SkEzTVd4NVVuQ2hPdnlBV1NEbnVQWXNCY0puakdneW5pNVd5WGZFczdtaE10cVpVMmM2WTE3YUR6SlVXNjJoV0xvQWZsYmFVcjVJNFBnd0xGdUd0a21vSw?oc=5",
+      "d": 1794499200000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
