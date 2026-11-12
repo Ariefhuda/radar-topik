@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFEYkuGcDR": 1793279152517,
-    "threads:DfFEVCXIxRs": 1793279152517,
     "threads:DfFFMzVAjRU": 1793279441229,
     "threads:DfFEmz0G_yE": 1793279441229,
     "threads:DfFEfwGo19w": 1793279441229,
@@ -25712,7 +25710,9 @@
     "threads:DfpHYOvoBWJ": 1794488465141,
     "threads:DfoYxrLk4RK": 1794488465141,
     "news:CBMiugFBVV95cUxPWklzb0VHVkI2NnN0a0F0UkNXeWQzbC1RYWN5UWFVUVE1bk5UY3VEcklWSUU2emd0TGhvVmV4Uk50X2Z2YnREM2ViTE1OcVVweGRGZkRPcUFqY19VaTBDN0ptMWYtYVREUmVib3ZwUm1rWk95akdVZ2NweERPZktWQk1vVXlOSXRUOGo4Z3hVNWZHNk5ITmdWQzdUM1NTcjdCN3ZyTUl6eEtpYXctazRLYzFJTlhSemhkS1HSAboBQVVfeXFMT1pJc29FR1ZCNjZzdGtBdFJDV3lkM2wtUWFjeVFhVVFRNW5OVGN1RHJJVklFNnpndExob1ZleFJOdF9mdmJ0RDNlYkxNTnFVcHhkRmZET3FBamNfVWkwQzdKbTFmLWFURFJlYm92cFJta1pPeWpHVWdjcHhET2ZLVkJNb1V5Tkl0VDhqOGd4VTVmRzZOSE5nVkM3VDNTU3I3Qjd2ck1JenhLaWF3LWs0S2MxSU5YUnpoZEtR": 1794488465141,
-    "news:CBMizAFBVV95cUxNelAtcFJSQjJ0WlBzM2h2WjR4SGJVVnh1TTRGcWY1Zlc3OWRIcUhGMGZWM3FmYkFzenlyRHlfYmU5ek9tT0o2UmNfZE53YnpnbTYzZ0ZHQlBuMEhMLWlVcUc1OEstbEJmWjl5cjBMQmg5aWdicmYtYVA5ak1KZl9hdmR6V0Eyejc3N1hzVFR0MlA3eXN0VG53d1pOaWJUaTlRYzNvdVBxN1U2Y0JUYko1emVVTTlSYTNaTW1vM2xVeHlzeHlOQWlFcDZaUDY": 1794488465141
+    "news:CBMizAFBVV95cUxNelAtcFJSQjJ0WlBzM2h2WjR4SGJVVnh1TTRGcWY1Zlc3OWRIcUhGMGZWM3FmYkFzenlyRHlfYmU5ek9tT0o2UmNfZE53YnpnbTYzZ0ZHQlBuMEhMLWlVcUc1OEstbEJmWjl5cjBMQmg5aWdicmYtYVA5ak1KZl9hdmR6V0Eyejc3N1hzVFR0MlA3eXN0VG53d1pOaWJUaTlRYzNvdVBxN1U2Y0JUYko1emVVTTlSYTNaTW1vM2xVeHlzeHlOQWlFcDZaUDY": 1794488465141,
+    "threads:DfpH-wDHR5j": 1794488752168,
+    "threads:DfpHjpGlPXs": 1794488752168
   },
   "digest": [
     {
@@ -26384,10 +26384,20 @@
       "d": 1794488400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@tehminibrilink",
+      "x": "Assalamualaikum selamat malam semuanya bapak ibu jangan lupa besok dicek ya kartu merah putihnya karena udah ada sebagian yang cair mudah-mudahan besok pada cair semuanya amin ya A",
+      "u": "https://www.threads.com/@tehminibrilink/post/DfpH-wDHR5j",
+      "d": 1794488791000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
