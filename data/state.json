@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFGnJygYMS": 1793280657454,
-    "news:CBMiqAFBVV95cUxQQ013dkJrZmJoeXNESHl4aDRnbHdjZUxwdHBMMF9VTmdHTnpFbGxBYzJFWHQwRWN6blRHUUJ0TElBamZ5V3JuUUpBSmIxZFUtMllGaEc3eFpDZFR2d1huSnlSd2I4UE9yaFRwVGVKX1AtOWZpczBIZTd1X0Z5dU1XMklkcEpFR2hIbzZic1ZDZlE4MWo2cU5iVEIxSkRJMEtBTk05b2xmQ3k": 1793280657454,
     "threads:DfFHq3qk_fv": 1793280943366,
     "threads:DfFIRKTlX3K": 1793280943366,
     "threads:DfFIMLxkSoH": 1793280943366,
@@ -25725,7 +25723,11 @@
     "threads:DfpKEC4H61l": 1794489941331,
     "threads:DfpJlzVn4XX": 1794489941331,
     "threads:Dd_xEiGk0Wa": 1794489941331,
-    "news:CBMiwgFBVV95cUxQSmE2eVM1eW81S3pfQUFjZ3dDblFQa0MwX1YxdGRwMHh5Szk0azQzR1JnSHk4YW94NGpjRUt0bm90S0xSSklQbGFTc01XUEMtdkt0SkRzZXlkNE1NaE0wWTBmUDlPMTdXbWJiZjhUb0piS0VmaVoybi1RQmVob2lOQnVRd0R4MWxRR056QXlQUUo2YzBtdVkzUzFya3o0NjFlcTA3cEw5R2gxanpja3lQZUpLaEZ5WU0yQ1NkOWZyeGdRdw": 1794489941331
+    "news:CBMiwgFBVV95cUxQSmE2eVM1eW81S3pfQUFjZ3dDblFQa0MwX1YxdGRwMHh5Szk0azQzR1JnSHk4YW94NGpjRUt0bm90S0xSSklQbGFTc01XUEMtdkt0SkRzZXlkNE1NaE0wWTBmUDlPMTdXbWJiZjhUb0piS0VmaVoybi1RQmVob2lOQnVRd0R4MWxRR056QXlQUUo2YzBtdVkzUzFya3o0NjFlcTA3cEw5R2gxanpja3lQZUpLaEZ5WU0yQ1NkOWZyeGdRdw": 1794489941331,
+    "threads:DfpKrt_CXwZ": 1794490245748,
+    "threads:DfpIPqAk0TH": 1794490245748,
+    "threads:DfpK6DBlJqZ": 1794490245748,
+    "news:CBMi9wFBVV95cUxPd0lGdzFMRDJJOENHS3d2SnBFQ0xfaVNyWGJmaWpEQml4Ukg4WkJoMGxuU1M2YTVuU3Y5MFVjMEZqSDVPaXFWS3c5WFRpamRVYzhKZGlmV3VndTJyRU94Sk9hOExhSW0xUXVXMVJNVFFaTDNTdzBzWmVFZXk2VHhvWGZDMG5HOVkzcEs1QVhaUjctV0tNUEsxUzIyRDljcWp4ckFORWZfV1o2S3Z5VFB5WFMwYU1oeXlMNWdFNF9TNTNPMlhSNDdOajhWWlM3R2hEYmc2STZsZjVzbjU2bXdhZVBLRGNCU0FEaTh5dXhKdVB5UDhHMFJr0gH3AUFVX3lxTE93SUZ3MUxEMkk4Q0dLd3ZKcEVDTF9pU3JYYmZpakRCaXhSSDhaQmgwbG5TUzZhNW5TdjkwVWMwRmpINU9pcVZLdzlYVGlqZFVjOEpkaWZXdWd1MnJFT3hKT2E4TGFJbTFRdVcxUk1UUVpMM1N3MHNaZUVleTZUeG9YZkMwbkc5WTNwSzVBWFpSNy1XS01QSzFTMjJEOWNxanhyQU5FZl9XWjZLdnlUUHlYUzBhTWh5eUw1Z0U0X1M1M08yWFI0N05qOFZaUzdHaERiZzZJNmxmNXNuNTZtd2FlUEtEY0JTQURpOHl1eEp1UHlQOEcwUms": 1794490245748
   },
   "digest": [
     {
@@ -26737,10 +26739,50 @@
       "d": 1794489635000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@bintangbeasiswa",
+      "x": "Aplikasi Hanover untuk Fall 2027 sudah dibuka. Mahasiswa internasional yang diterima, termasuk WNI, memperoleh HAQ Scholarship yang dapat diperpanjang selama empat tahun. Tetap per",
+      "u": "https://www.threads.com/@bintangbeasiswa/post/DfpKrt_CXwZ",
+      "d": 1794490228000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@pu_bpsdm_bapekom5",
+      "x": "Hai #TemanBPSDM Beasiswa LPDP Co-Funding tahun 2026 udah dibuka loh Yuk persiapkan seluruh dokumen persyaratan dan pastikan kamu baca seluruh ketentuan penyelenggaran LPDP Co-Fundi",
+      "u": "https://www.threads.com/@pu_bpsdm_bapekom5/post/DfpIPqAk0TH",
+      "d": 1794488929000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@pro_onpoint",
+      "x": "Namanya juga buzzer, yang lo liat di thread ini terkait gibran cuma admin yang megang ratusan akun, cek aja bio kapan dia post awal berapa jumlah folower, dll lo bakal ketemu patte",
+      "u": "https://www.threads.com/@pro_onpoint/post/DfpK6DBlJqZ",
+      "d": 1794490325000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Gora Juara",
+      "x": "Segera Dibuka, Berikut Syarat dan Link Pendaftaran Beasiswa MDJ Scholarship 2027, Tersedia 3600 Lebih Kuota Penerima - Gora Juara - Gora Juara",
+      "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd0lGdzFMRDJJOENHS3d2SnBFQ0xfaVNyWGJmaWpEQml4Ukg4WkJoMGxuU1M2YTVuU3Y5MFVjMEZqSDVPaXFWS3c5WFRpamRVYzhKZGlmV3VndTJyRU94Sk9hOExhSW0xUXVXMVJNVFFaTDNTdzBzWmVFZXk2VHhvWGZDMG5HOVkzcEs1QVhaUjctV0tNUEsxUzIyRDljcWp4ckFORWZfV1o2S3Z5VFB5WFMwYU1oeXlMNWdFNF9TNTNPMlhSNDdOajhWWlM3R2hEYmc2STZsZjVzbjU2bXdhZVBLRGNCU0FEaTh5dXhKdVB5UDhHMFJr0gH3AUFVX3lxTE93SUZ3MUxEMkk4Q0dLd3ZKcEVDTF9pU3JYYmZpakRCaXhSSDhaQmgwbG5TUzZhNW5TdjkwVWMwRmpINU9pcVZLdzlYVGlqZFVjOEpkaWZXdWd1MnJFT3hKT2E4TGFJbTFRdVcxUk1UUVpMM1N3MHNaZUVleTZUeG9YZkMwbkc5WTNwSzVBWFpSNy1XS01QSzFTMjJEOWNxanhyQU5FZl9XWjZLdnlUUHlYUzBhTWh5eUw1Z0U0X1M1M08yWFI0N05qOFZaUzdHaERiZzZJNmxmNXNuNTZtd2FlUEtEY0JTQURpOHl1eEp1UHlQOEcwUms?oc=5",
+      "d": 1794483900000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
