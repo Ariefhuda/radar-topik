@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFNzUICS3I": 1793283944254,
-    "threads:DfFNxq9mqNd": 1793283944254,
-    "threads:DfFMz53EulT": 1793283944254,
-    "threads:DfFNyLDCntZ": 1793283944254,
-    "threads:DfFNw4tlJ0u": 1793283944254,
-    "threads:DfFNfaWEneQ": 1793283944254,
-    "threads:DfFNLihm4ET": 1793283944254,
-    "threads:DfFNCJNkfpQ": 1793283944254,
-    "threads:DfFM4TsGw10": 1793283944254,
-    "threads:DfFOH5NkaWO": 1793283944254,
     "threads:DfFOMB4Gr5g": 1793284253896,
     "threads:DfFNO_LFpbg": 1793284253896,
     "threads:DfFMQ3TI88d": 1793284253896,
@@ -25754,39 +25744,20 @@
     "threads:DfpQdCxkjW1": 1794493245152,
     "news:CBMiyAFBVV95cUxOZk14RkZ5OUx1SkVscEFCb0lwaC10ajgzWWlaY2JYelhITjVFbUYxLUE0WnYzQm1nUC1WdUZkS3cxVlFyOGtOa0xLSXExbXlLWFdrYUtPWDRWNEdSSE9jRXF0QkhlZVpJVUtWY1pkRm44eEplNjAxdGVndFJZZWlnMl9nSnRUaEhseDhkeEhZYVlwNHBlUVlKeEtqWHJnVVFGelJMMUFnRTFuR2ZYdjJ2NGRsZnR0eUVGMXZETE5rb1hLUEtidHluTQ": 1794493245152,
     "news:CBMiyAFBVV95cUxQWDl0X1h0UGlUeW5rSER2WXNpZDNnY3l4YzdGN0d5c1RVNE9wWTNESVhLX3QxaktuSlkwaEN1ZmhybzlIZklKM3BaZ0luVUROaUpndlFQcEt0aGVXWXV2YkxyWmhXelc1cGdWemVVYV96M3VwU0JKRW9rdjNkb2ZySENLSDBQUk1zeGtVS21TVjBZWnRzTHVzNnlvdEw0MGdaYU9hdUc0Yk9RMVJGM0lpZmRiS2hFOFVxVGdYVDRibTAxYUZyMUlaYw": 1794493245152,
-    "news:CBMiwwFBVV95cUxPaDNoMzZkTzZRaWk4bFl4R0p6ZllKMDBNM1FKRDRzZy1uVFdEZ1RyRHJNZWdWWDV4aUZPbndVU2xUakd3alpva2NGcm8ybUZQRHliNDF0ODYtdFlWU2hMSGNJdU51cU1YZFFEcUJHaG5nQUI2OXlfX2YyWnhnYnJaUldwUjV4Nmp0bUNFcDk1T3h0NVIxeXd0eENDeTY1RHJVeFVhRlhnVzFWV3BYV0lNQ2ZTZURvRzdPcXBBbDdsdHhuMGs": 1794493245152
+    "news:CBMiwwFBVV95cUxPaDNoMzZkTzZRaWk4bFl4R0p6ZllKMDBNM1FKRDRzZy1uVFdEZ1RyRHJNZWdWWDV4aUZPbndVU2xUakd3alpva2NGcm8ybUZQRHliNDF0ODYtdFlWU2hMSGNJdU51cU1YZFFEcUJHaG5nQUI2OXlfX2YyWnhnYnJaUldwUjV4Nmp0bUNFcDk1T3h0NVIxeXd0eENDeTY1RHJVeFVhRlhnVzFWV3BYV0lNQ2ZTZURvRzdPcXBBbDdsdHhuMGs": 1794493245152,
+    "threads:DfpPvIuiWDv": 1794493554799,
+    "threads:Db3QpCYj1hM": 1794493554799,
+    "threads:DfpRR_iGgWX": 1794493554799,
+    "threads:DfpRGPpkYuo": 1794493554799,
+    "threads:DfpQ-HwD4ab": 1794493554799,
+    "threads:DfpQsE5lIE6": 1794493554799,
+    "threads:DfpQKBsFG3R": 1794493554799,
+    "threads:DfpQIhzmH2P": 1794493554799,
+    "news:CBMiqwFBVV95cUxPYWp0QXBqeGs5NnRIQ0lsejQtdzFzQ0syaXYwZ0k4RTlNVzJMRmhmVHNxTXhRMXpPNndmR21yS1Z4LVlvWUN2WU1DX0ZfVUQ5anFnSjZNM3NqdXJ1anFLRTloWFI3SUJWYW9Zb3ZpS2tWcmI3RmltN240UHJ2V0JxR2FaLWFfclh2Y1R3UmJaUElRQnp2QjZPY3N1OTFYZ1ZBZ1hyaGYyemlhVDQ": 1794493554799,
+    "news:CBMi8gFBVV95cUxOaGwyWDJhcUlKSWFBdlhMb1Z5bVVLSlZySGZONGkwc2dLQnZNbDZaNmR5VWw3VnJOTEVLZUhUR3dMRzQxTkZvZHpmX244anQzd3JjbElMOE5tektjTlBFaVJ1NTNJNFFuWkNrUXA4aGpJU1BWMjBKUzllMWxKM1g0YURidjBKZ0xqMVpmYnV5Z3pGUXB5dGNIdWVpODVHWjhpOS1PdTRES3UzaDJrN3lMdTV6RFY3TmRuRVBfTUdabF96QmUyeDc0MUh6UTlweWFuVDJaZkdIcC0zTWNXdjRETXdiUXBiQ1JDVkd4eEdHNlltd9IB8gFBVV95cUxOaGwyWDJhcUlKSWFBdlhMb1Z5bVVLSlZySGZONGkwc2dLQnZNbDZaNmR5VWw3VnJOTEVLZUhUR3dMRzQxTkZvZHpmX244anQzd3JjbElMOE5tektjTlBFaVJ1NTNJNFFuWkNrUXA4aGpJU1BWMjBKUzllMWxKM1g0YURidjBKZ0xqMVpmYnV5Z3pGUXB5dGNIdWVpODVHWjhpOS1PdTRES3UzaDJrN3lMdTV6RFY3TmRuRVBfTUdabF96QmUyeDc0MUh6UTlweWFuVDJaZkdIcC0zTWNXdjRETXdiUXBiQ1JDVkd4eEdHNlltdw": 1794493554799,
+    "news:CBMi4AFBVV95cUxOaTVTdGl2elpkajFfeWIyVXJobkx5SUg4X1lyXzVJeDQxR3BsT0JMS0pkT2dzVkdIZ0UwdHlEY0taUzhnSXN2N1ZTR2RmcFdfRWRBNTFuaFBqdWJXSWpNdnFxZ1dhVzEweUt0V01hblYwdTBoUmVkS2F1UFBTcDBqcl9mSTgxV0JxOTFoSlpZMlRYWGpJc0VSLXRzeGZyczNrR0JUSGhFLU1yNVFjVkhwU0trMllZVHVMVUMyQ0tOb3RwM05ldWllY3hjUV9UaEdIMlhlaHV4dGoxZFNGQTBhaQ": 1794493554799
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@eunciewae",
-      "x": "Warga threads cair bansos dari pak erte @muhammadrezki Kuli pabrik cair BSU warga FB pada update cair BPNT PKH Kepalaku makin jangar melihatnya 🙈🙈 Rame bgtttt kalo udah bansos ca",
-      "u": "https://www.threads.com/@eunciewae/post/DfpCWzSD-31",
-      "d": 1794485842000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "ANTARA News",
-      "x": "BKK gelar cek kesehatan gratis untuk ASN, TNI, Polri dan warga di Aceh Barat - ANTARA News",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmR0azY5d0lRR2tMbFdKTjBfZnozNWc4YVFEMXRGcTlGVVVjUExubGc0Y3VfQ3VYV0ppaDUxRXNzVnVQdTB1YzRUTHZRV295eFVxb3d1NGx1ZWRqOE5LaV81VGllLW1xeFhJamhQc3NFcERyOGxaSWd0dWM1OHB1aEJWYW9qQU14M3NhZ2hzUUlqcVJPazIxZ2xSRlpWejM3Wjlyek43NGVjNUhXWE8xWFBVa0JiWEXSAbwBQVVfeXFMUGM3emJyMVRJdDFnV0pLekxzRlFBYkNZZ3JjQm9uTXVxeUFFemJnWHhVWW5kM2FMXzRaSlBOa2E2eUMwYnFhN29rRkJsa2VLRDY0UnJ3TGdacnVBQXZZUEdEREFUNzNmd1JzUHZMUUZLS3dpckpteC1GWWtSNzRmVDJNRjdZWjNnM05yQ3R2OUtpRHdhMGZaNjNUYU92QTVWTFV4ZnVvdno5N0p3TVRQNUszdUJBMTZuTnZJbUo?oc=5",
-      "d": 1794459007000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "BIDIKKASUSNEWS.COM",
-      "x": "WUJUD NYATA IMIGRASI UNTUK RAKYAT, IMIGRASI BELAWAN BAGIKAN KACAMATA BACA DAN GELAR CEK KESEHATAN GRATIS MELALUI IMIPAS PEDULI 2026 - BIDIKKASUSNEWS.COM",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZzNwVVdBM09NOHpXc2J3MHhQckREemRUSzVuUnVOa0Z2VzdjNEtnUnNSQUF0YVl5dVpaTW1JQTVRSVlkZ0M2SHRITTUzVXhidzRmVE5DYjZSbEJrOWppd0E3Zm4zaV9NM1lxc1JXeWRXQTNLdWp1UjRiYm9CZ0dnMW9CQQ?oc=5",
-      "d": 1794468000000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27256,10 +27227,40 @@
       "d": 1794479821000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "KLIK7TV",
+      "x": "1.400 Terlatih, 809 Sudah Bekerja: PPKD Jaktim Buktikan Pelatihan Gratis Berbuah Nyata - KLIK7TV",
+      "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWp0QXBqeGs5NnRIQ0lsejQtdzFzQ0syaXYwZ0k4RTlNVzJMRmhmVHNxTXhRMXpPNndmR21yS1Z4LVlvWUN2WU1DX0ZfVUQ5anFnSjZNM3NqdXJ1anFLRTloWFI3SUJWYW9Zb3ZpS2tWcmI3RmltN240UHJ2V0JxR2FaLWFfclh2Y1R3UmJaUElRQnp2QjZPY3N1OTFYZ1ZBZ1hyaGYyemlhVDQ?oc=5",
+      "d": 1794493571000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Ayo Semarang",
+      "x": "Beasiswa Kuliah 2027 Politeknik Astra Dibuka, Nilai Rapor Minimal 80 Bisa Dapat Kuliah Gratis dan Uang Saku - Ayo Semarang - Ayo Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaGwyWDJhcUlKSWFBdlhMb1Z5bVVLSlZySGZONGkwc2dLQnZNbDZaNmR5VWw3VnJOTEVLZUhUR3dMRzQxTkZvZHpmX244anQzd3JjbElMOE5tektjTlBFaVJ1NTNJNFFuWkNrUXA4aGpJU1BWMjBKUzllMWxKM1g0YURidjBKZ0xqMVpmYnV5Z3pGUXB5dGNIdWVpODVHWjhpOS1PdTRES3UzaDJrN3lMdTV6RFY3TmRuRVBfTUdabF96QmUyeDc0MUh6UTlweWFuVDJaZkdIcC0zTWNXdjRETXdiUXBiQ1JDVkd4eEdHNlltd9IB8gFBVV95cUxOaGwyWDJhcUlKSWFBdlhMb1Z5bVVLSlZySGZONGkwc2dLQnZNbDZaNmR5VWw3VnJOTEVLZUhUR3dMRzQxTkZvZHpmX244anQzd3JjbElMOE5tektjTlBFaVJ1NTNJNFFuWkNrUXA4aGpJU1BWMjBKUzllMWxKM1g0YURidjBKZ0xqMVpmYnV5Z3pGUXB5dGNIdWVpODVHWjhpOS1PdTRES3UzaDJrN3lMdTV6RFY3TmRuRVBfTUdabF96QmUyeDc0MUh6UTlweWFuVDJaZkdIcC0zTWNXdjRETXdiUXBiQ1JDVkd4eEdHNlltdw?oc=5",
+      "d": 1794480180000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribun-medan.com",
+      "x": "Daftar Bansos Cair November-Desember 2026, Ada BPNT dan BSU, Berikut Link dan Cara Cek Nama Penerima - Tribun-medan.com",
+      "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTVTdGl2elpkajFfeWIyVXJobkx5SUg4X1lyXzVJeDQxR3BsT0JMS0pkT2dzVkdIZ0UwdHlEY0taUzhnSXN2N1ZTR2RmcFdfRWRBNTFuaFBqdWJXSWpNdnFxZ1dhVzEweUt0V01hblYwdTBoUmVkS2F1UFBTcDBqcl9mSTgxV0JxOTFoSlpZMlRYWGpJc0VSLXRzeGZyczNrR0JUSGhFLU1yNVFjVkhwU0trMllZVHVMVUMyQ0tOb3RwM05ldWllY3hjUV9UaEdIMlhlaHV4dGoxZFNGQTBhaQ?oc=5",
+      "d": 1794414195000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
