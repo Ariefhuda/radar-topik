@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DUh-7xDgR1c": 1793301042609,
-    "threads:DRfKGJTkmWq": 1793301042609,
     "threads:DYLpoP-GrnQ": 1793301370135,
     "threads:DfFu_YPD8Cw": 1793301370135,
     "threads:DfFu3kDD1Xs": 1793301370135,
@@ -25766,19 +25764,13 @@
     "threads:DfpvlqyGak8": 1794510049271,
     "threads:DfpwhORGR3Z": 1794510333043,
     "threads:DfpvsyPmdex": 1794510333043,
-    "threads:Dfn9IOEkwZL": 1794510333043
+    "threads:Dfn9IOEkwZL": 1794510333043,
+    "threads:De3A0yWlF-t": 1794510636682,
+    "threads:DfpwZWmkgMK": 1794510636682,
+    "threads:DbDWG62gcf-": 1794510636682,
+    "threads:DfpxpmnoCQt": 1794510636682
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "batamstraits.com",
-      "x": "Amsakar Ungkap Progres 15 Program Prioritas, Air Bersih, Banjir dan Sampah Jadi Perhatian Khusus - batamstraits.com",
-      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnlYeVBiWlg1S29KamhfSzgtd24zXzc5Tlk5aFpnMFQwTGJpQkxVUWN3clBCSE5KTTBlVGFnVHBnZWJTTk5jM19DT3NKTmRLNjJuZnNzSUw0UFBseW9JUnZ4RXQ2NkhPamtLQnhzaTVDT3RZZ09nOVNHU005MHZlNWI4WFFkdkxpM1dXV0w4UDktNlphR2F2eFg1YnVRcmZYRG9JQ0FRODJqV29SSnhVeWhOV1NoTG93QlJkVWgxeV9tV1VrazFhR0lPbw?oc=5",
-      "d": 1794466441000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27268,10 +27260,20 @@
       "d": 1794449547000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yulia.kusuma77",
+      "x": "Coba cek dulu hatimu. Nulis kyk gini karena apa? Iri karena orang itu rumahnya dibangun dari hasil bansos? Bilang aja, Mbak!",
+      "u": "https://www.threads.com/@yulia.kusuma77/post/DfpwZWmkgMK",
+      "d": 1794509980000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
