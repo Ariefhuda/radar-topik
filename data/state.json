@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEeYLSiVq5": 1793259337084,
-    "threads:DfEd5DZGPLB": 1793259337084,
     "threads:DZMYXBigTeP": 1793259684163,
     "threads:DRyl3E7ExRS": 1793259684163,
     "threads:DfEfzN8gDUv": 1793259684163,
@@ -25607,79 +25605,31 @@
     "news:CBMiWEFVX3lxTE90TkxfVFJISjNxTDk4cFkwYmVmdWoydFEwQjZCaU4yc1ZFM0p5OHdnUFRwRjNMNTNqZzBRU0tjVzVjbkIwRzNBMjNJZS1NU1NESnJxTkRLNG8": 1794468656360,
     "news:CBMiZ0FVX3lxTE5PVFJPYzBYMW9sejVteHdFSGtqYVBEZ1hreGMzSVJldm41enR2MFV2NFdadmFqdzZZUzBIVGc5Z1VNOUxjZFUtM1VkS1QtMzNlQ21aZ2k5RWhNRUVoN2p6STYzMXFzQ3c": 1794468656360,
     "news:CBMiwgFBVV95cUxOdWdLYm1VUGlVYk5lbTFEd0laaEdsQzBnV3Q5UldpaG1FbUhFTDdSeTByZ2Ywc0h1MnIweHlCNkplMW1nbjVRT2ZLVW9JNVJSRXRZNkNaUFd0aGVVTjBQNUZwQllkZHBpN3I3WkJGNmpVU0ZEZ3dKSjBrZ1FiaHAzRFhzWXZidFhUcmVOMlE4NWE0eDUzbGxDdWtzTEMyNGV6VWh2VS1fMmxYN2VIVjI0eEpuazRSVmdzS25WSDF6S3BOZw": 1794468656360,
-    "news:CBMi1wFBVV95cUxPaGhQZkx4UC1Nc1pZbXBSUC1HMWlmTU5MM3l1Z2RpZzJ0alY1NGJLWDlQOHdDVkFFVEQxT2VfVkdGaTFSVmgycDREdS1TUEdSY2ZVekI2NC1wSUVRaGdBYUhxWldYN0JoRHNSZE92Nm1uQ0RGVHdmU284VDlVcXVqdHB0X2pMR05EbFZrVUg1bEZpTmQ1UThCYm9XSF8yWVVNeVJ0YTlOcEdtZzBlLWdydmFtRE9QVGUyVDNRc3A1Ymg5ejlRY0N0LVk1U0E0U3UzY0FQMWVlZ9IB1wFBVV95cUxPaGhQZkx4UC1Nc1pZbXBSUC1HMWlmTU5MM3l1Z2RpZzJ0alY1NGJLWDlQOHdDVkFFVEQxT2VfVkdGaTFSVmgycDREdS1TUEdSY2ZVekI2NC1wSUVRaGdBYUhxWldYN0JoRHNSZE92Nm1uQ0RGVHdmU284VDlVcXVqdHB0X2pMR05EbFZrVUg1bEZpTmQ1UThCYm9XSF8yWVVNeVJ0YTlOcEdtZzBlLWdydmFtRE9QVGUyVDNRc3A1Ymg5ejlRY0N0LVk1U0E0U3UzY0FQMWVlZw": 1794468656360
+    "news:CBMi1wFBVV95cUxPaGhQZkx4UC1Nc1pZbXBSUC1HMWlmTU5MM3l1Z2RpZzJ0alY1NGJLWDlQOHdDVkFFVEQxT2VfVkdGaTFSVmgycDREdS1TUEdSY2ZVekI2NC1wSUVRaGdBYUhxWldYN0JoRHNSZE92Nm1uQ0RGVHdmU284VDlVcXVqdHB0X2pMR05EbFZrVUg1bEZpTmQ1UThCYm9XSF8yWVVNeVJ0YTlOcEdtZzBlLWdydmFtRE9QVGUyVDNRc3A1Ymg5ejlRY0N0LVk1U0E0U3UzY0FQMWVlZ9IB1wFBVV95cUxPaGhQZkx4UC1Nc1pZbXBSUC1HMWlmTU5MM3l1Z2RpZzJ0alY1NGJLWDlQOHdDVkFFVEQxT2VfVkdGaTFSVmgycDREdS1TUEdSY2ZVekI2NC1wSUVRaGdBYUhxWldYN0JoRHNSZE92Nm1uQ0RGVHdmU284VDlVcXVqdHB0X2pMR05EbFZrVUg1bEZpTmQ1UThCYm9XSF8yWVVNeVJ0YTlOcEdtZzBlLWdydmFtRE9QVGUyVDNRc3A1Ymg5ejlRY0N0LVk1U0E0U3UzY0FQMWVlZw": 1794468656360,
+    "threads:DfoeJxTj3HP": 1794468946170,
+    "threads:DehimlSEpx2": 1794468946170,
+    "threads:DfoiK10mnya": 1794468946170,
+    "threads:DfoiGZ0mYfE": 1794468946170,
+    "threads:DfoiEGumh-R": 1794468946170,
+    "threads:Dfoh_hVGrFL": 1794468946170,
+    "threads:Dfoh3ihmnIG": 1794468946170,
+    "threads:DfohzElEmbA": 1794468946170,
+    "threads:Dfohw3mGo2H": 1794468946170,
+    "threads:DfohFtsGtEz": 1794468946170,
+    "threads:Dfoh0X2kvPc": 1794468946170,
+    "threads:DfoiDxeoXhi": 1794468946170,
+    "threads:Dfoh-s5lS_5": 1794468946170,
+    "threads:Dfoht8-FS8b": 1794468946170,
+    "threads:Dfohr5iIKxU": 1794468946170,
+    "threads:DfohySQDyz7": 1794468946170,
+    "threads:Dfoha7_j_t3": 1794468946170,
+    "threads:DfohTb_D3Up": 1794468946170,
+    "threads:DfoiSzwGN0S": 1794468946170,
+    "threads:DfoheLfjuih": 1794468946170,
+    "threads:DfohagPk_U7": 1794468946170,
+    "news:CBMitAFBVV95cUxOanl6ZHRjdW1aa2EzZzgySU5hNWVoX0ZLQVV3UVhULUpILUF3cHNMcXl5bjI2em9BZWtEeG15VTYxZTQ2MExQMzM0QUJsOElRVURKcVMzT3U0R1VKanJSSXFtdTBzNmFxVkZyQTdRMjJaYnd4a3RfRGVBNXVFUEttYjhaOGpvVjUxdXIzQ0U5YU9hVlctOEVHWFJTMktENnVzcEdPemtDUDF4YmI0V0I1alpiU18": 1794468946170
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "Link Pendaftaran Pelatihan SPSS Gratis : https://forms.gle/kgdaX9tkgAe75qgB9",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfoQWrUGU5L",
-      "d": 1794459626000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Pojok Bogor",
-      "x": "Bansos BPNT Tahap 4 Tahun 2026 Dikabarkan Disiapkan untuk 10 Juta KPM, Ini Informasi bagi Warga Bogor - Pojok Bogor",
-      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUM2QmoxanV6NjR0VWI2VFJwaUJjbXFwNGNYNXlkWGp2UWhDZDhqbkczNzhPbUppVEg2R0VkOW1adGd1MG5hcjhkY0Fwa29vcm5RZG1JT08tblBFLXZPZTRPM29VX3JXTXVwRXhHNFdCS2VaMVRfWTJGeTlKcUY3SU5KakI3Y2RyeFVuWjR1b21JSGtyNUNVZm83anhVS3l1b0VjNEtoWmdRT3BhSm5hMV96VjhfZmt3N3hTUEc1bFhrNE84MWN6bUtRT0VrTFd1SEt6eQ?oc=5",
-      "d": 1794460020000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@madiun_info",
-      "x": "Beasiswa Pemkab Madiun 2026 Resmi Dibuka bagi Maba dan Mahasiswa Aktif D3–S1 https://www.instagram.com/p/DfoNP0poPcz/?srtk=a2cyYnJ2ZzhiYm9s",
-      "u": "https://www.threads.com/@madiun_info/post/DfoRQ_OgaLO",
-      "d": 1794460104000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@einy_keishi",
-      "x": "Iya kak, tidak bisa ikut ya. Jika tetap ingin mendaftar beasiswa MEXT, bisa ikut yang jalur reguler, dibuka sekitar bulan April-Mei 🙏🏼",
-      "u": "https://www.threads.com/@einy_keishi/post/DfoQeXWo_LA",
-      "d": 1794459689000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@nurjanahidahsiti",
-      "x": "Bansos cair lagi",
-      "u": "https://www.threads.com/@nurjanahidahsiti/post/DfoQ2Gcknu9",
-      "d": 1794459888000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Narasi TV",
-      "x": "Beasiswa Garuda S1 Luar Negeri Dibuka Besok, Ini Persyaratannya - Narasi TV",
-      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXpXR2I4bzRMQlhoa0plUDNWTmpDdW5jTXhqU001UWM3eEtuWEdMQzdYZmJZTWI5U1ludnRiazlGVGFGRzlWV1l1dldsS190cXBpaHNnaHhPVjhqWW1GZWxYT2xwVVIybVU1Sm85bFZONkVqUEZmMFRqRE5HUFcxLWNhdFIwbnFabkRWX1Z1YkM5QXUydnJWQ0I4V2J4eFE?oc=5",
-      "d": 1794413820000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@amourtentiya",
-      "x": "Adakah yang mau ikut webinar gratis untuk HR?",
-      "u": "https://www.threads.com/@amourtentiya/post/DfoSncekRr0",
-      "d": 1794460812000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27109,10 +27059,80 @@
       "d": 1794443810000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@yulianayap54",
+      "x": "Dulu nggak bisa buka laptop, gaptek, bahkan sempat mengalami kerugian saat mulai beriklan. Tapi siapa sangka, seorang ibu lulusan SMP ini mau terus belajar sampai akhirnya bisa men",
+      "u": "https://www.threads.com/@yulianayap54/post/Dfohr5iIKxU",
+      "d": 1794468713000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dialogika.co",
+      "x": "Halo kak, aku ada rekomendasi untuk uprgrade diri salah satunya communication skill seperti public speaking, story telling. Dialogika menyediakan kelas untuk melatih communication ",
+      "u": "https://www.threads.com/@dialogika.co/post/DfohySQDyz7",
+      "d": 1794468765000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dialogika.co",
+      "x": "Halo kak, aku ada rekomendasi untuk melatih communication skill seperti public speaking, story telling. Dialogika menyediakan kelas untuk melatih communication skill, tips untuk me",
+      "u": "https://www.threads.com/@dialogika.co/post/Dfoha7_j_t3",
+      "d": 1794468574000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dialogika.co",
+      "x": "Halo kak, aku ada rekomendasi untuk melatih communication skill seperti public speaking, story telling. Dialogika menyediakan kelas untuk melatih communication skill, tips untuk me",
+      "u": "https://www.threads.com/@dialogika.co/post/DfohTb_D3Up",
+      "d": 1794468513000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kangfahmi93",
+      "x": "Yang mau ikut pelatihan pembuatan Tempe absen dulu yuk, insya Allah gratis kita bikin grup Bismillah, nomor na inboxkeun KA abdi nya hatur nuhun 😁",
+      "u": "https://www.threads.com/@kangfahmi93/post/DfoiSzwGN0S",
+      "d": 1794469032000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ivanfirmansyah1",
+      "x": "5 tempat belajar gratis yang hasilnya bisa kamu taruh di CV. Catatannya: sertifikat itu bahan, bukti sebenarnya ada di proyek yang kamu buat. 1. HubSpot Academy. Kursus marketing, ",
+      "u": "https://www.threads.com/@ivanfirmansyah1/post/DfoheLfjuih",
+      "d": 1794468605000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@wiwiekspa.official",
+      "x": "Monggo kak kami menyediakan pelatihan gratis dan mess gratis (bagi luar kota) wa.me/+6285124572144",
+      "u": "https://www.threads.com/@wiwiekspa.official/post/DfohagPk_U7",
+      "d": 1794468571000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
