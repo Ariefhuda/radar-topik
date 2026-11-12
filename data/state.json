@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd6XPzSlAQT": 1793316043949,
-    "news:CBMipgFBVV95cUxQelUxMndDdGN2dGhraFlqNGlSOWhPSm5OYTMzVU5palN0ODJ3QnVQS3NUWWxMQXJiMnNMTWZSSVVNaFEtOVQwYXhOazhuS3FuMHZxcVRGaldGUnRweU1CRWRRbFNkUF8zbkhWR3dZZWlhNkdldlVHQ01tZU5peG5Oalg5Vmg2ak9kSEJIc1JUdld2VEJEYUk0eDdnbG1QemJRQkxnM3B30gGrAUFVX3lxTE40dEFzTXZCYjhhb2lXR0M3eWlPeUR6Q2hnUVNkODd1UnJ6eUdOSW9TTlBVQy1kUVd4TW1tRXhNWjIzN2ZuaFV1VHAyb1plYkQ5dzg2NlRWQUtydHVLY1BsMWo1Rm1pMGxfaTExUGlSVllpOVV2QmtZTEZmS2xvVkZ1VFM4UXIzVzRETFpJNlZ3YU11bjlDV2RfNDhhbFNQZDlTbjZPb0R5NWVHNA": 1793316043949,
-    "news:CBMirgFBVV95cUxNTjFyLTZySzloT1pDX2x3N3Nxak12QWVOWUgweXROUTlaVmpRbGdQekEtUEhDMUt5NjVVaTBtOEV2Ull3RmJpbEFaOGNNU0JuTWJrMDF2SHRxRGlXRGhpdURlWDNVNzJwdjNlanpQdVhGSXEwOHpYc3A4UEtSS0FlVXRIX09xU3QxWHJYRjlrQS1CcXhJblpSTml0ZUt4Zy1GMkg5bHA5Uko3VTY1VkHSAbMBQVVfeXFMTnlCeGlxb1FRQ0hZQlpMQWRwYlVFTkVESDNJNk12NkllcGlDZENBUHh3UWVETFI5U2g5OU9NMjFvNHRPQ3JYWUVBT1VoWTZXOE1xcURsVGtJVzVUVEU4U0RBaEIzUnpvNVNYWGk5N1NXT25oSlVibHZtUjRQWHdacGdFdkhvTi1jdE4xQXVWM0ZmdmotU2RCcWdBYTRCRE9OdkpNOGFmQ244bmFGNVFsM2lJSUU": 1793316043949,
     "threads:DfGKc03Esv7": 1793316341470,
     "threads:DfGLMlVkTY7": 1793316341470,
     "threads:DfGLIrZkYhV": 1793316341470,
@@ -25632,49 +25629,13 @@
     "threads:DbnOHIgmrxj": 1794525342787,
     "threads:DfqNM7KkYa4": 1794525342787,
     "threads:DfqNevSCcku": 1794525342787,
-    "news:CBMirAFBVV95cUxPQlBOZktKeGRpQS1OWXo3S0h0ZWtCZFpjMjVJLVhLdVRQUE91SWNfbWpMcHRxanJJd3B5cDg2WmREZmhWcTlLZjJTT3lkd2dlSl9LVjQ3Y1BUeWNaQW5EV25vd0cyY3V1THRUVnZydmhRWjBoOU5lUkxSbHpTUXlPcGFkYm12TVBtT0hPVHY5dmNUdDUxMlBDZVBTc2RaMU9NZ1hvRzVuQUhWNWVt0gGmAUFVX3lxTE1BazF3T0EzbVBaT1ZkMElHazZRQU9qY0M5R080QWlIREJaQWdHS1ZTYWt6bFBHT3JyaDB6TlNLajc3OVIxWTZGUzNSVDBMbkJxUW51VXdEWFdXWUZlSHhyUzdOcHE0bThLZEVlT1NtaUF6a2VHdU1RWWpVLU9qRXZMSk94LVRNay00WEtzTjY1TUFXN2ljQ2ltcGJtTXJ3VDZRTXNfT3c": 1794525342787
+    "news:CBMirAFBVV95cUxPQlBOZktKeGRpQS1OWXo3S0h0ZWtCZFpjMjVJLVhLdVRQUE91SWNfbWpMcHRxanJJd3B5cDg2WmREZmhWcTlLZjJTT3lkd2dlSl9LVjQ3Y1BUeWNaQW5EV25vd0cyY3V1THRUVnZydmhRWjBoOU5lUkxSbHpTUXlPcGFkYm12TVBtT0hPVHY5dmNUdDUxMlBDZVBTc2RaMU9NZ1hvRzVuQUhWNWVt0gGmAUFVX3lxTE1BazF3T0EzbVBaT1ZkMElHazZRQU9qY0M5R080QWlIREJaQWdHS1ZTYWt6bFBHT3JyaDB6TlNLajc3OVIxWTZGUzNSVDBMbkJxUW51VXdEWFdXWUZlSHhyUzdOcHE0bThLZEVlT1NtaUF6a2VHdU1RWWpVLU9qRXZMSk94LVRNay00WEtzTjY1TUFXN2ljQ2ltcGJtTXJ3VDZRTXNfT3c": 1794525342787,
+    "threads:DfqODGAji5s": 1794525636950,
+    "threads:DfqNjFWDz36": 1794525636950,
+    "news:CBMi3AFBVV95cUxOa05nT0RhUnFObVZES1R0ODBoWHhBTGFCLXFHR0REdkZTMndPa2JfYktEVW9yV19uYURqejdDYmNyUVVVWDM3ZUMyeDFnczlhNVB2ZnZvRGJTbE5XN2U2T3hQUDdmbUNUNDJNTUNNV29Wd05UclN1TlpNdFF5S3ZxY3RiZFI1WmxDem1fUWlwdS10ZUsxbjl6dEFQeTNoNS12RS1KMHN3WnpvNjh0UXF3VzAtZUluNnJ5SXVXVUYySW1ZbU51SVpMOU9vMkhZdjlyOWlTT0NDYTRSZzVK0gHiAUFVX3lxTE5KRVhBSWJVR0hlWU5QRkZnQVdoS05KNV8tUHRMOE5vd194SHNkckpmMm1rczd2Sl9sVUEtdHo3WF9zTU11cU9wNXU5ZmlCcV82RzBTbmV5dU5GSTJGZ1YxRnJyOFpoMEh4amZBRzVVdWtJQXB1UkVWYVlGUlpwVk93RUs3aHpVblJiYkY1UW5WdW4xcjlpTkhhdkt5cTIxTTZncmNMT01oVlRtOFNSWUoxM05JeEFRUmtCN2I3dDlTOUZ1UnJrVTdkZ19BOVFrMXJGQVc2c1FMSnBpVzR2WlkzaUE": 1794525636950,
+    "news:CBMi0wFBVV95cUxNQW41cVgyMElZNWhnRGVwM1VHSG5wQmdZVC1UWnRxOVk5RERhaFlpcF9QaWxfc3E0ekY3Qjg0eVAxYmdCMTNuTGFtdURzMGp6bnUxYjA5ZG9NNWQ0VWNNTGhTWnBPMXZZeC1zMzNKMVB1UmhqSi05SXlNZXh1eC0xNU5xWmZoT21rN1FnTXZRUUJNUFRweXNmYWpieTBEdm92UEJfN2FHRjRXTERSRkNNTm1tTVZaUEc5clZiSjBHZk51S19mQjM1YkpNdk9BUDNvVlFZ0gHYAUFVX3lxTE1CN0prVGVRVnJXZ3RwMm8zdVl2X3hGZUxzV013Uzd6dDhhVGJUWC1GMUJaZ3VFd0xyNnNGbWtDbU9HbjNTdDFuazZBRHNuSWNkQWMzMkRwc1h4bVladG0xejNJa1hVWl9Uakc1cGZDSFlWWElwY1ZkWkVEdUZOOU5FVTU2MnU0U1pUc2tzWndqYzZpaF9jX0RkMlVZT08zTlZiSGVtVGRpV2JoNng5dGtXWlRMUmtEcUVZMFd6dU5ObU4xTWd4VDQzSmdfbHlPeEozSUdVQUR1Rg": 1794525636950
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nihao.noelle",
-      "x": "Malam warga, Gw ada pelatihan Bahasa mandarin nih, kalo lu tertarik bisa komen atau dm yaa.. gratis tapi slot terbatas",
-      "u": "https://www.threads.com/@nihao.noelle/post/DfpUcAvGZh9",
-      "d": 1794495322000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mandarin_dari_nol",
-      "x": "Nihao warga, Gw ada pelatihan Bahasa mandarin nih, kalo lu tertarik bisa komen atau dm yaa.. gratis tapi slot terbatas",
-      "u": "https://www.threads.com/@mandarin_dari_nol/post/DfpUVisnWF7",
-      "d": 1794495269000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@chinese.amru",
-      "x": "Gw ada pelatihan Bahasa mandarin nih, kalo lu tertarik bisa komen atau dm yaa.. gratis tapi slot terbatas",
-      "u": "https://www.threads.com/@chinese.amru/post/DfpURoHko-E",
-      "d": 1794495237000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@masprieku",
-      "x": "🚀ENTREPRENEUR atau PEGIAT LINGKUNGAN, YUK BELAJAR BIKIN KONTEN PROMOSI PRODUK ATAU JASA DENGAN AI! Pelatihan ONLINE GRATIS bersama LiniAI × ERIN. Jangan sampai produk lokal kalah ",
-      "u": "https://www.threads.com/@masprieku/post/DfpTOuCE8yv",
-      "d": 1794494689000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27134,10 +27095,50 @@
       "d": 1794525229000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@syarifalhanan_",
+      "x": "𝐓𝐚𝐡𝐚𝐩 𝟒 𝐛𝐚𝐤𝐚𝐥 𝐬𝐞𝐠𝐞𝐫𝐚 𝐂𝐀𝐈𝐑 ✍🏻 PERHATIAN ‼️ SURAT TAHAP 4 DARI KEMENSOS SUDAH MUNCUL ❤️‍🔥❤️‍🔥❤️‍🔥 Berarti PKH + BPNT tahap 4 akan segera disalurkan dalam wak",
+      "u": "https://www.threads.com/@syarifalhanan_/post/DfqODGAji5s",
+      "d": 1794525526000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@theitsybitsyspiderrr",
+      "x": "Kaa ini jgaa masalah desil masa ada yg ga kerja makan aja kadang di bantu saudara dan tetangga dan ga pernah dapet bansos pas di cek ternyata desil 7 gila yaa ini datanya gmn dehh ",
+      "u": "https://www.threads.com/@theitsybitsyspiderrr/post/DfqNjFWDz36",
+      "d": 1794525264000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos PKH dan BPNT Tahap 4 2026 Cair November, Cek Jadwal Masuk KKS dan Batas Tarik 30 Hari - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa05nT0RhUnFObVZES1R0ODBoWHhBTGFCLXFHR0REdkZTMndPa2JfYktEVW9yV19uYURqejdDYmNyUVVVWDM3ZUMyeDFnczlhNVB2ZnZvRGJTbE5XN2U2T3hQUDdmbUNUNDJNTUNNV29Wd05UclN1TlpNdFF5S3ZxY3RiZFI1WmxDem1fUWlwdS10ZUsxbjl6dEFQeTNoNS12RS1KMHN3WnpvNjh0UXF3VzAtZUluNnJ5SXVXVUYySW1ZbU51SVpMOU9vMkhZdjlyOWlTT0NDYTRSZzVK0gHiAUFVX3lxTE5KRVhBSWJVR0hlWU5QRkZnQVdoS05KNV8tUHRMOE5vd194SHNkckpmMm1rczd2Sl9sVUEtdHo3WF9zTU11cU9wNXU5ZmlCcV82RzBTbmV5dU5GSTJGZ1YxRnJyOFpoMEh4amZBRzVVdWtJQXB1UkVWYVlGUlpwVk93RUs3aHpVblJiYkY1UW5WdW4xcjlpTkhhdkt5cTIxTTZncmNMT01oVlRtOFNSWUoxM05JeEFRUmtCN2I3dDlTOUZ1UnJrVTdkZ19BOVFrMXJGQVc2c1FMSnBpVzR2WlkzaUE?oc=5",
+      "d": 1794522856000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Update Bansos Tahap 4 Per Hari Ini, Kabupaten Bogor Tercatat jadi Penerima BPNT Terbanyak - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQW41cVgyMElZNWhnRGVwM1VHSG5wQmdZVC1UWnRxOVk5RERhaFlpcF9QaWxfc3E0ekY3Qjg0eVAxYmdCMTNuTGFtdURzMGp6bnUxYjA5ZG9NNWQ0VWNNTGhTWnBPMXZZeC1zMzNKMVB1UmhqSi05SXlNZXh1eC0xNU5xWmZoT21rN1FnTXZRUUJNUFRweXNmYWpieTBEdm92UEJfN2FHRjRXTERSRkNNTm1tTVZaUEc5clZiSjBHZk51S19mQjM1YkpNdk9BUDNvVlFZ0gHYAUFVX3lxTE1CN0prVGVRVnJXZ3RwMm8zdVl2X3hGZUxzV013Uzd6dDhhVGJUWC1GMUJaZ3VFd0xyNnNGbWtDbU9HbjNTdDFuazZBRHNuSWNkQWMzMkRwc1h4bVladG0xejNJa1hVWl9Uakc1cGZDSFlWWElwY1ZkWkVEdUZOOU5FVTU2MnU0U1pUc2tzWndqYzZpaF9jX0RkMlVZT08zTlZiSGVtVGRpV2JoNng5dGtXWlRMUmtEcUVZMFd6dU5ObU4xTWd4VDQzSmdfbHlPeEozSUdVQUR1Rg?oc=5",
+      "d": 1794525293000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
