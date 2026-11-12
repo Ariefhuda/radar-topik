@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEA4v5o3-2": 1793243746840,
-    "news:CBMisgFBVV95cUxNTWtfaG5lYWpGZ0pjc20xTzJqR2FsLTRsQUljZDRpZTRPcjI5TTJGVTNsYlNXRTdnVndGTU1RLWczZzNWS3laeFRJNll1OF9Fdy1SVmJNN2lrYkhGa3JrQ3BTLVZOWjJGNmRPekkxSkM3VFNtV2prVUFObkgzVUdyVHEzWWVoWlhfWkFJRXFqYVFRd2VkOXN1ZUJuSU9KNm5UUTMzY2J4NHFYZW91M1o3czVB": 1793243746840,
-    "news:CBMilAFBVV95cUxOWm9DeFp4b2NuQXVaUUNhNG9FdDdFdUVSOVRFWGNWaDZxdV9aSzNpWElZckxVOFdKQ1ZqRFk4Ulo4ZW9hb3JQNHYwOWx1QVRKZUtVYm9ZeGVWNmRCWFlLaHdIWTJDNk9qcm9UNXZ6OFlDbVZKWmtiMDlzMWJvMnl1OGl4ZUtDTVdJUXZTUEl3WWJ2TjNu": 1793243746840,
-    "news:CBMi3wFBVV95cUxOTVNOdmhNQmtwdDV1Q3VPVFoxUWZiX3RTdjBINU9mV0JlOFg3SXpIalM5cC1oTXhfaHN3Z1FYTWZjdzVLT3hlQVdJV0FJSnZQMzJCVmpfZVN0WW91aFJBZlJHY3NNa1h3c0pTQ0J4ZlZ5OGJ5ejViTnJKYTBtRnhQSV93UGlnVDc3SF82OGFobE9VVk9xOGZZX1M3QkZmbEpLRG54dmRrZXFINHNxWENXdGZrTkg5WlhLNVV2a08ySmhiREZfR1VibVpmRG5hRjl3QmU2REltckp1ejhqMC13": 1793243746840,
     "threads:DfEBKNUiZT-": 1793244048603,
     "news:CBMiqwFBVV95cUxQY0ljV2MySlhpcjYwYUxKVzd3OHlkWXRwVFY4NmR3Y19zV19HcFVWaXcybFVLOW4zeEs5RWxlTlRNYnJ1eEIzeUNHajFSMzl0XzlndExyVWllalhUWGtpWHdkUEdXWUNHekMzWDBEN002Q0lrYVdHZnNlM0xhN3AwUFF1M2lGU3d4U2JxcXEzWTd2R0xFZ3dCMGFTbUUwaFE1dDMyeHJLdHR4RzA": 1793244048603,
     "news:CBMi-gFBVV95cUxOa3EyNEFhdU9rSkpLVFlPdktkaUFESlNtcXRCTjBBSEVwVnNkX1pINXRZOUVaOUZza2N6dmJxcWR4dmx4eGc4S05YV0lTWVk2c1NZU0QxOEYwNUpMbkFXMFc1R3dYOVhDOU03cXIwb1J6bHRUSkxoS2FZaGZrN29GSmNSbmY0cWpNS1ZVYUE4R2Y1ckhqWGpwc19LRXhKTlBNdDhlOEo0T056Y1dZZk9yR3I4d01GeVBTYXBmb1JWSHZ2bTVCR196OGFjMzNFcFNFcDNxb3h6b3QxXzZCZjc1MURybDYxNlllb0kyQzFhYWRiRi1aVENHN1hn": 1793244048603,
@@ -25590,7 +25586,23 @@
     "threads:DfoC2vZjBtk": 1794453046500,
     "threads:DfoC2EoDGAC": 1794453046500,
     "news:CBMiuwFBVV95cUxOV0tsZHFiTU82czZwRXhTTklndWFmOGJpOEdyajBkQVJHSnNPWTUxR1V1bDNJSTBRQXFkV1FSTldGaXBicnF5d0xtd3dzSGdHS1lvX2l0Yi1hQzdJNlByWWlXMF9xVXQ1cC1qa3NrQ0VIMl8xNG1HX1lfZTFTVEJfYnJoVjg5N3lLbVNEUEc2c1U2VFB1cEJXNU42NEo1OG5Odm9MajFvNTlxTE9MUDAzS0NRd3dmVURTT0Rv": 1794453046500,
-    "news:CBMitwFBVV95cUxPNW9rYUdsTlpfbG9iTWxpVlgxa1FCNnBHY09yZmlWWGpHX0VDejNkalA1QXlpQl9NaU9yQmR0WVpydkZhRDVQY2RrYk1wMER6NWItdWI5ekl4WUNTWVN6NEFyRld0OEIyRGhFbm5OWTVhNDB0S3dqUHl5YTkxTGtnWVJIRjlmRmtOa1pxYmE5eDdVdEVka2dmYWwwbjhoU2JuajZGY2VwQmM2UjBpZzhQNzhlbHlPTlk": 1794453046500
+    "news:CBMitwFBVV95cUxPNW9rYUdsTlpfbG9iTWxpVlgxa1FCNnBHY09yZmlWWGpHX0VDejNkalA1QXlpQl9NaU9yQmR0WVpydkZhRDVQY2RrYk1wMER6NWItdWI5ekl4WUNTWVN6NEFyRld0OEIyRGhFbm5OWTVhNDB0S3dqUHl5YTkxTGtnWVJIRjlmRmtOa1pxYmE5eDdVdEVka2dmYWwwbjhoU2JuajZGY2VwQmM2UjBpZzhQNzhlbHlPTlk": 1794453046500,
+    "threads:DfoDg5OEmN8": 1794453359430,
+    "threads:DfoDeK6kiIo": 1794453359430,
+    "threads:DfoDbLjknDS": 1794453359430,
+    "threads:DfoDZEWkhVp": 1794453359430,
+    "threads:DfoDRG_Ep4I": 1794453359430,
+    "threads:DfoDOhPEpjt": 1794453359430,
+    "threads:DfoDMLIkkgg": 1794453359430,
+    "threads:DfoDI49EsZ_": 1794453359430,
+    "threads:DfoDINej4ix": 1794453359430,
+    "threads:DfoCAn4mHg8": 1794453359430,
+    "threads:DfoDOxnmmf6": 1794453359430,
+    "threads:DfoDdxriQV1": 1794453359430,
+    "threads:DfoDd7NCSZM": 1794453359430,
+    "threads:DfoEiU3mAk1": 1794453359430,
+    "threads:Dd3Axigkolr": 1794453359430,
+    "news:CBMiZkFVX3lxTE85S2tObE5aaVBPTlJycE02eUtqbXJXU3RXRk1fMHhKQ3RDdXFpbVAyMmhRS0dRaW9jMXV3RExIUzZqNUN3UTcxMWFtS1Z3M3I3eWhCaTNHSHZxVm9wVHh3cTVEaTNQQQ": 1794453359430
   },
   "digest": [
     {
@@ -26812,10 +26824,150 @@
       "d": 1794389707000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDg5OEmN8",
+      "d": 1794452894000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDeK6kiIo",
+      "d": 1794452872000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDbLjknDS",
+      "d": 1794452848000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDZEWkhVp",
+      "d": 1794452830000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDRG_Ep4I",
+      "d": 1794452765000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDOhPEpjt",
+      "d": 1794452744000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@namithaparamitha",
+      "x": "Belajar digital dari Nol yuk..Jum'at tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Pake HP tetep bisa berPenghasilan 😍Sapa disini yg ma",
+      "u": "https://www.threads.com/@namithaparamitha/post/DfoDMLIkkgg",
+      "d": 1794452725000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@sukses.cpns.27",
+      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
+      "u": "https://www.threads.com/@sukses.cpns.27/post/DfoDI49EsZ_",
+      "d": 1794452698000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hai kak cb bisnis online yuk 😊. Kk bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, atau",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfoDINej4ix",
+      "d": 1794452692000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Belajar digital matketing dari 0, diajarin dan ditemenin mentor sampai berhasil, ilmu dan platformnya lengkap seperti kita ambil kuliah Marketing konvensional..semua bidang yang po",
+      "u": "https://www.threads.com/@eneng_apt/post/DfoCAn4mHg8",
+      "d": 1794452106000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@zuriazahsy",
+      "x": "Makasii kak buat utas ini 🫶 Di beberapa tahun lagi, aku pengen ke sekolah2 ngisi seminar gratis untuk guru, orangtua, dan murid sekalian aamiin 🤲",
+      "u": "https://www.threads.com/@zuriazahsy/post/DfoDOxnmmf6",
+      "d": 1794452746000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@atikazareg",
+      "x": "Better Gratis: Pendidikan dan Kesehatan yang Layak untuk Semua Menurut saya, ada dua hal mendasar yang harus menjadi prioritas pemerintah agar kesejahteraan masyarakat benar-benar ",
+      "u": "https://www.threads.com/@atikazareg/post/DfoDdxriQV1",
+      "d": 1794452869000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@atikazareg",
+      "x": "Layanan Kesehatan Gratis dan Berkualitas Masyarakat juga harus mendapatkan akses layanan kesehatan yang mudah, terjangkau, bahkan gratis, terutama bagi mereka yang kurang mampu. Ca",
+      "u": "https://www.threads.com/@atikazareg/post/DfoDd7NCSZM",
+      "d": 1794452870000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@retnalove",
+      "x": "Selamat bu.. Dgn IELTS segitu bisa coba ke PTLN dan ikut seleksi Beasiswa Garuda. Hr ini jam 15.00 wib mulai dibuka. Jika tidak tertarik full ke LN, BeGa jg bisa double degree PTN-",
+      "u": "https://www.threads.com/@retnalove/post/DfoEiU3mAk1",
+      "d": 1794453430000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
