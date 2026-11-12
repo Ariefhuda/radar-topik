@@ -60,10 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFgUkRAID4": 1793294141083,
-    "threads:DfFf6WLjar6": 1793294141083,
-    "threads:DfFfrG2Apvo": 1793294141083,
-    "news:CBMipwFBVV95cUxPYXFWQkRfbjJhOEhmWkVvYnc4MXZZRUZYUWt2NW9HcFNReFJEYWpodjNHdks0bDdyZkhxOUtjZ1F5UWxwbHRRR250czZyb0QwZFlBbFJaS1dqM0tJWWUwUzRsZWZibjlnVnVaOXE1TVg0a0M4NkMzUWVLajU2eEZKWDJmZUtibFhRbUI5bHhvTndNQTBidVY4NVQyYVNVeXp5d2lmRWdaUQ": 1793294141083,
     "threads:DcJHY2_GZNR": 1793294457699,
     "threads:Dd-fxJZoCFe": 1793294457699,
     "threads:Dd73VWjkUic": 1793294457699,
@@ -25781,19 +25777,11 @@
     "threads:Dfpi9wKlgp5": 1794503439119,
     "threads:Dfpi58snzlp": 1794503439119,
     "threads:DfpjnoTGb2A": 1794503439119,
-    "threads:Dfpi0wckTlq": 1794503439119
+    "threads:Dfpi0wckTlq": 1794503439119,
+    "threads:DZuj-iME9eL": 1794503738151,
+    "threads:DfpjNVjEutY": 1794503738151
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@setyaningrummeity",
-      "x": "Anak Finance, Accounting, Tax, atau Internal Audit? Sini ngumpul! 👋 ​Daripada pusing mikirin closing, aturan pajak, atau temuan audit sendirian, mending gabung di WAG komunitas ki",
-      "u": "https://www.threads.com/@setyaningrummeity/post/DfpLHKMH-th",
-      "d": 1794490432000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27283,16 +27271,26 @@
       "d": 1794502690000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@puttrri08_",
+      "x": "Pak saya yakin bansos bpk cair tp ada oknum yg tidak mau rugi alias ambil hak bapak, semoga allah sehatkn dan angkat derajat bapak aamiin .",
+      "u": "https://www.threads.com/@puttrri08_/post/DfpjNVjEutY",
+      "d": 1794503066000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
   },
   "telegramOffset": 241862417,
   "errors": {
-    "reddit": 1794481844677
+    "reddit": 1794503738151
   }
 }
