@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEz_FBHxjJ": 1793270443051,
-    "threads:DfEzg7CGDwC": 1793270443051,
-    "threads:DfEywFJDSQZ": 1793270443051,
-    "threads:DfEzz95EwFI": 1793270443051,
-    "threads:DfE0JI4k6k-": 1793270443051,
-    "threads:DfEzSg1kz79": 1793270443051,
-    "threads:DfEzNLYkgwl": 1793270443051,
-    "news:CBMiwAFBVV95cUxQRFBNaW1fTUZVSFVGcHN5QXpwS2tmMDdPMV94WjdSS1FQZDZCVmxoNXcyOGV5OXpOcXItXzYxcVNmNzNLeU9vRGsxOGtMeFRrOVFDNDNuMDhqS0Z4bnVVRWhuOTlqdHY4NXhwN2VsdmhiNEhNZlprWmRvR2NtM3JaR2FoVENzVnNVX1FlUTZudWRTZUpjWHRQMFVJUjZnaU9ZZW9iNzhPVmdrQ2U5LTJyQXVkN3gtQUNlNHltV2VHZzQ": 1793270443051,
-    "news:CBMizAFBVV95cUxQb3k3TGpVRUVzUmRjbEFTSjMyN3FkMkJoakdVd0F3ZU5FZ3R5ZFFtamZTdjZKZHBRM3JfOHNxUkF0NEJMaWNja3VEQmFaSDdLNk9rcEptMlV0S19kZFpkSURzXzN3WDNkZU9ZdXZ5eVlBMkk4ajZIb1dwLURpajRITjRfTEg5MTlDdEp6bDRDa3R0UHFMNXppODNHa2JxVkw1cXJQdVYzdWF0ZjRtejBPRloxVWFTMC1GbXdmeHd0bmNST0dTNGREVU9xMVTSAdIBQVVfeXFMTUh1T2VhZWJqdC1sRVhOQlZVYnppUDVhV1d2NG9fdGYzR1pvMzl0OFBFWWhMbk1MV0toY2tPVlFsR3NFdTFIdFlGNGJycVdLbk5pUlctVXd1YlJtZXNfRjBOM3BDWWNjYmRRMm5UWFBKaXlmV182T3MzcXRsbHpmZjNkbWxCLWU1ZmRtQmc4bWw0NTFQRS16azZFRVRWbFI4aTRkYjFpd2h3a0F5ay1KLWRUR2h1cmFmcldMODZLMG9ITTBNTjFYQnFaNnk4bzlYOEJB": 1793270443051,
     "news:CBMingFBVV95cUxNQnMwY2RmenJ4WFIxaktvWWxXeE14VmRxUmY2VjZBd25RMVotSFBWQTRTMzU0WXpsSFZQb2VYSkxhRUdUeWIwUHhzc2t1T3hPTkNjMENCWFEwWnNmYkcxMHhEcEx1UU93Q0pkTVVWa1dEajMxaXBiUGZTZjJtYk54ZW9zNUZMNWk0dDNKQkFMZFFSQ1VpTVVNMVBybDl3UQ": 1793270743509,
     "threads:DfE0u_0ghMx": 1793271038879,
     "threads:DfE0r-KFR8w": 1793271038879,
@@ -25659,39 +25650,19 @@
     "news:CBMi6AFBVV95cUxOLWoyYkh2QUV2eHRURTdnY0ZxSDZCX2E0RUpQV0dFdnN2azhiSGNrdGZNSmt5ejBiZnZ6czFnNHVuYTJGdjZsemc1dmlIenVkTW5yNXRkQXcwU1VLb1pjZkFzVEZDa3RHYlJTVEhTLVFWVldZTmp0d2ZaaEVkNVdsSGNYbmhiWVZnckx1YlVURkhPTk9vc2NEdFBvUGdKT1lCYjNMV0lna09yVGwwMVQ4bUlha2ItaTV1TlRhaHV4a1UtSWhXaEp2a0haMWRNQmhLU1BHWHlPRkEwbE41eDlaa19CSWJRVkZD0gHoAUFVX3lxTE4tajJiSHZBRXZ4dFRFN2djRnFINkJfYTRFSlBXR0V2c3ZrOGJIY2t0Zk1Ka3l6MGJmdnpzMWc0dW5hMkZ2Nmx6ZzV2aUh6dWRNbnI1dGRBdzBTVUtvWmNmQXNURkNrdEdiUlNUSFMtUVZWV1lOanR3ZlpoRWQ1V2xIY1huaGJZVmdyTHViVVRGSE9OT29zY0R0UG9QZ0pPWUJiM0xXSWdrT3JUbDAxVDhtSWFrYi1pNXVOVGFodXhrVS1JaFdoSnZrSFoxZE1CaEtTUEdYeU9GQTBsTjV4OVprX0JJYlFWRkM": 1794479446891,
     "threads:Dejk_mgGoV5": 1794479734909,
     "news:CBMizAFBVV95cUxPSGFpUzdhdjVJeWhHZTNWYzZaN2JpWXFKa2lzUGlMOXJKQW9jejgtWi1UNDNjZGN2eWNjZ1ZzTEt3cVF3cC1KWk92ZG8tcTdFd1R3VFQ4TnVnZWdScXNGdFRmM3dBUGNyWEZEeGE2T3g3UG1Ia0tKQnFzbTNnbWN1TzNaNVJaa185RUF1cXhxSXVLZXBUaVNvNGJZTXhUSWhGeHJaUUY4bVNIVU9IS3VCWlZDTUFEem1IUWxNRlZ2OGRQZ1NZMEJQSFlZVnc": 1794479734909,
-    "news:CBMixAFBVV95cUxORmx2c3JzVUdPSjF6b3lsX3QtSUZSejN5VWpiaHZnUkN6eTBuRjB5cnA5V1V0Skl2dVVfVVUxSHpJdTNnamt6aUg1Zk9tZG9uSFRUbS1xV2d3cl95ZVBZRlV3VTMtTlR3Qkc3WXlHRGRHOGlfQW5FSkdDVnJJSVZ3NlN6YzhRNFRrTVJDYzRZZEhubWI3NVpVYWc4Ny1COC1EUGgtb1paWS00aGF4VU5RRU9YWnZZUERmT2hTVmktd1UzUEh20gHEAUFVX3lxTE5GbHZzcnNVR09KMXpveWxfdC1JRlJ6M3lVamJodmdSQ3p5MG5GMHlycDlXVXRKSXZ1VV9VVTFIekl1M2dqa3ppSDVmT21kb25IVFRtLXFXZ3dyX3llUFlGVXdVMy1OVHdCRzdZeUdEZEc4aV9BbkVKR0NWcklJVnc2U3pjOFE0VGtNUkNjNFlkSG5tYjc1WlVhZzg3LUI4LURQaC1vWlpZLTRoYXhVTlFFT1hadllQRGZPaFNWaS13VTNQSHY": 1794479734909
+    "news:CBMixAFBVV95cUxORmx2c3JzVUdPSjF6b3lsX3QtSUZSejN5VWpiaHZnUkN6eTBuRjB5cnA5V1V0Skl2dVVfVVUxSHpJdTNnamt6aUg1Zk9tZG9uSFRUbS1xV2d3cl95ZVBZRlV3VTMtTlR3Qkc3WXlHRGRHOGlfQW5FSkdDVnJJSVZ3NlN6YzhRNFRrTVJDYzRZZEhubWI3NVpVYWc4Ny1COC1EUGgtb1paWS00aGF4VU5RRU9YWnZZUERmT2hTVmktd1UzUEh20gHEAUFVX3lxTE5GbHZzcnNVR09KMXpveWxfdC1JRlJ6M3lVamJodmdSQ3p5MG5GMHlycDlXVXRKSXZ1VV9VVTFIekl1M2dqa3ppSDVmT21kb25IVFRtLXFXZ3dyX3llUFlGVXdVMy1OVHdCRzdZeUdEZEc4aV9BbkVKR0NWcklJVnc2U3pjOFE0VGtNUkNjNFlkSG5tYjc1WlVhZzg3LUI4LURQaC1vWlpZLTRoYXhVTlFFT1hadllQRGZPaFNWaS13VTNQSHY": 1794479734909,
+    "threads:DLl26wEReef": 1794480039497,
+    "threads:Dfo2xHyoxDZ": 1794480039497,
+    "threads:Dfo2vUHHZw9": 1794480039497,
+    "threads:Dfo2q9yJZO-": 1794480039497,
+    "threads:Dfo2eNSGHtL": 1794480039497,
+    "threads:Dfl8uejiqjC": 1794480039497,
+    "news:CBMi8gFBVV95cUxPMk9tVDljeW52aWpBaUt0YUdEOWtCcktlWFExTm5KTjhOVnJZU204QWRNRzJSVDFTME5pdkJVQnZxRGNNM3UwVk9XdmhOYWEwQjBDTHhZYjBuWTR4THFfenUyN2NIUFBhZWN6WWVCRTFLVUVrM3l2SGtka2JSRWxrdVVmZzAtZ1c2WGN5a3ZJWC1DSGlMRmxYVmtYTFo5aDdzRkJWSXhhR3FYcEctc2lsQm01MmZ4T2N6U1U0RWNMeGM5ZGFOR0p2YXdCemF0cExnd2pSbEZYYWRib0xYSUVIMmtzME9MSVZvTkUtSEdPTkdNd9IB9wFBVV95cUxPQ1NXTlhUQTlJWVNDNW03dTRzTVgtZkJPdjQ5ZDVlU2ZXd3p4dWhZSkQ2ajlkQ041ZkJ2UmFUUFlVY1RBd1VYUGxMM0p4THlSRTJZRXMzQ0dRajJIVmlfM0VYV1dKdnhRbFR3ZFcyWGhCWnpJTlFwaUh4LUd2RVg0V3NHRjJzZnpUWTg5cTIxU0p3WnBjUTJFdkRUSlAzT29jYkEwRjY0bEo2QV80bUV5ZWNacHo1Smo4ZHFpbUlBVGE0SXhINXdtcHY4Nk5TLWUwTG1DblNhaWpyUWpwblJyWXNvU0piR3duRkplZ2JnSkZsVjJIWUJR": 1794480039497,
+    "news:CBMi4wFBVV95cUxPYkJ3bU5kMl9VN3ZyWmszNUhmRXZ1dWd3SmNEcWYycW5ZMzZ6RnBKdEV1YnlWVExvWkdfTXRleWxXeFkwX0ZvZm4tS01LTlJra0Z5ME1MSHlSWUhFOUJoX2l2Tk1rcm5DM2lFdWY1VWNONjU5MXdpVTE4TFBDMHYtb1FJRDhlTUx5SmFYZHZfSUVmbG05bk5vZUl3QjFFem9qOVJUd3RvNzdFSVZBdmpZSi1pN2JROWtaTUw4RlR3X3NXdXZjQ2pmbVY0YTBMRWhSTjd4Q2ZOTUpBQkNYYjlvT250ONIB6AFBVV95cUxOLWoyYkh2QUV2eHRURTdnY0ZxSDZCX2E0RUpQV0dFdnN2azhiSGNrdGZNSmt5ejBiZnZ6czFnNHVuYTJGdjZsemc1dmlIenVkTW5yNXRkQXcwU1VLb1pjZkFzVEZDa3RHYlJTVEhTLVFWVldZTmp0d2ZaaEVkNVdsSGNYbmhiWVZnckx1YlVURkhPTk9vc2NEdFBvUGdKT1lCYjNMV0lna09yVGwwMVQ4bUlha2ItaTV1TlRhaHV4a1UtSWhXaEp2a0haMWRNQmhLU1BHWHlPRkEwbE41eDlaa19CSWJRVkZD": 1794480039497,
+    "news:CBMiZkFVX3lxTE5pSm1nTnZqSXRWbXBEUG5LLVc3VUtMWnVHeFZlN29WVTNUa2R4WTZHVzFOQ3Qwajlybkp5bjVSbWhoNWQwTWluNzk1cXR5ZlVSYWo4TXJocS1vS2NPQUsyTDM4Z01wQQ": 1794480039497,
+    "news:CBMisgFBVV95cUxQaGJnRWZiajNETnZPamV1eDhoc0lUdTF6alVFRUxHTzFKUzByVFVwWEJUWjlQczhRLVVNVVQ5amVJdWZrSkNOZjFGLUNVSGx4ZXJKQTNZVG4xX3NmREZEMzZXbGY0QXBINXBKTGM4eW1ZMEJ5ODRSMWQxcVFUOGhjYzZLQzJLMWdvYUFVR0NqRndTbW5JRFpWSWZrTVc5YVlQRWhBVDZWek9UR05pclB6Q1Zn": 1794480039497
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "mediaponorogo.com",
-      "x": "SMK PGRI 1 Ponorogo Buka Kelas Bahasa Jepang Gratis, Percepat Akses Kerja Siswa ke Negeri Sakura - mediaponorogo.com",
-      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnhCcTROX1RzR1BUOE9xdnVDemlVWjNSYUxwRldBcC1wUTBEbUtDeGNGUXFQOVduMGhHVTFjSlMwTW5IUlJTZWM5VjJBanI2bEFYSjljOTZMNlB0eTB4MmJwRmhEU3Y1U1ZkWjJraHMxNVdVX0FpNlB0ZGdnSUp1VEJlVDdHMll2NzhMQ3YwSFRJODZublRDbGJZakUzbXY4NWRad1hKalBMUUFkM2JkOHVGNlZvZGNZV0RlNGJNVE5DbU1WNjFFeUlkNjdZdw?oc=5",
-      "d": 1794470849000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@bonardo_aritonang",
-      "x": "Seminar Hasil-Sesi Poster: Penentuan Jumlah dan Lokasi Satuan Pelayanan Pemenuhan Gizi Program Makan Bergizi Gratis Menggunakan Capacitated Vertex K-Center. Selasa, 10 November 202",
-      "u": "https://www.threads.com/@bonardo_aritonang/post/DfokSNfDPc7",
-      "d": 1794470077000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Wah kenapa kak mau switched career? Kalau menurutku jangan langsung sih kak. Lihat2 dulu, belajar2 dulu dari youtube, kalau sdh sekiranya yakin baru ikutan kelas. Kalau kk mau bela",
-      "u": "https://www.threads.com/@dinnie_ivone/post/Dfom5GzD9Yu",
-      "d": 1794471443000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27161,10 +27132,40 @@
       "d": 1794476700000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Ayo Semarang",
+      "x": "Mau Kuliah S1 di Luar Negeri Gratis? Beasiswa Garuda 2026 Dibuka Hari Ini, Siapkan 10 Persyaratan Ini - Ayo Semarang - Ayo Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYkJ3bU5kMl9VN3ZyWmszNUhmRXZ1dWd3SmNEcWYycW5ZMzZ6RnBKdEV1YnlWVExvWkdfTXRleWxXeFkwX0ZvZm4tS01LTlJra0Z5ME1MSHlSWUhFOUJoX2l2Tk1rcm5DM2lFdWY1VWNONjU5MXdpVTE4TFBDMHYtb1FJRDhlTUx5SmFYZHZfSUVmbG05bk5vZUl3QjFFem9qOVJUd3RvNzdFSVZBdmpZSi1pN2JROWtaTUw4RlR3X3NXdXZjQ2pmbVY0YTBMRWhSTjd4Q2ZOTUpBQkNYYjlvT250ONIB6AFBVV95cUxOLWoyYkh2QUV2eHRURTdnY0ZxSDZCX2E0RUpQV0dFdnN2azhiSGNrdGZNSmt5ejBiZnZ6czFnNHVuYTJGdjZsemc1dmlIenVkTW5yNXRkQXcwU1VLb1pjZkFzVEZDa3RHYlJTVEhTLVFWVldZTmp0d2ZaaEVkNVdsSGNYbmhiWVZnckx1YlVURkhPTk9vc2NEdFBvUGdKT1lCYjNMV0lna09yVGwwMVQ4bUlha2ItaTV1TlRhaHV4a1UtSWhXaEp2a0haMWRNQmhLU1BHWHlPRkEwbE41eDlaa19CSWJRVkZD?oc=5",
+      "d": 1794468352000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Cirebon Times",
+      "x": "Pemerintah Swedia Buka Beasiswa S2 SISGP 2027 - Cirebon Times",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pSm1nTnZqSXRWbXBEUG5LLVc3VUtMWnVHeFZlN29WVTNUa2R4WTZHVzFOQ3Qwajlybkp5bjVSbWhoNWQwTWluNzk1cXR5ZlVSYWo4TXJocS1vS2NPQUsyTDM4Z01wQQ?oc=5",
+      "d": 1794479664000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Tribratanews",
+      "x": "Waspada Penipuan Aplikasi Pencairan Dana Bantuan Sosial Dari Pemerintah - Tribratanews",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGJnRWZiajNETnZPamV1eDhoc0lUdTF6alVFRUxHTzFKUzByVFVwWEJUWjlQczhRLVVNVVQ5amVJdWZrSkNOZjFGLUNVSGx4ZXJKQTNZVG4xX3NmREZEMzZXbGY0QXBINXBKTGM4eW1ZMEJ5ODRSMWQxcVFUOGhjYzZLQzJLMWdvYUFVR0NqRndTbW5JRFpWSWZrTVc5YVlQRWhBVDZWek9UR05pclB6Q1Zn?oc=5",
+      "d": 1794479948000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
