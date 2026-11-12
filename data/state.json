@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfF7lh_j89O": 1793307951770,
-    "threads:DfF7bRwjxjx": 1793307951770,
-    "threads:DfF7WvZm6dt": 1793307951770,
-    "threads:DfF7UwzAIYq": 1793307951770,
-    "threads:DfF7UohCYiv": 1793307951770,
-    "threads:DfF7E0nEoDk": 1793307951770,
-    "threads:DfF7Epyj2hS": 1793307951770,
-    "threads:DfF69Z7mcRc": 1793307951770,
-    "threads:DfFyuN4D9k0": 1793307951770,
-    "threads:DfF66PAkj39": 1793307951770,
-    "threads:DfF6434kobG": 1793307951770,
-    "threads:DfF62g2Elas": 1793307951770,
-    "threads:DfF6rQyjwuI": 1793307951770,
-    "threads:Dedxf2-Ei0u": 1793307951770,
-    "news:CBMiwAFBVV95cUxOVnJLQV9memdVNm5BNXVZQWdFc2VjWlFQNjlJanJ6eTNNaVNZTXpWcWtkZkZDWF9lMVd4eXhVOVN0bERRUXItc3RraU5vUUNhRW1ldG1GdjBzcVlzTFhPdXBzOXI1Z3hCTUNad1VfQk1kUXJJMXJ1dG5ad1FIMURJSHZTNGo3STRXcXhHNFBuS1pMSUpiUU5xVHRlNmYtZlltQTZMbHB6dFpaaTRZX3V0dFV0UlVMRjdIVGxJa05JdknSAcABQVVfeXFMTlZyS0FfZnpnVTZuQTV1WUFnRXNlY1pRUDY5SWpyenkzTWlTWU16VnFrZGZGQ1hfZTFXeHl4VTlTdGxEUVFyLXN0a2lOb1FDYUVtZXRtRnYwc3FZc0xYT3VwczlyNWd4Qk1DWndVX0JNZFFySTFydXRuWndRSDFESUh2UzRqN0k0V3F4RzRQbktaTElKYlFOcVR0ZTZmLWZZbUE2TGxwenRaWmk0WV91dHRVdFJVTEY3SFRsSWtOSXZJ": 1793307951770,
     "threads:DfF7dc0E8Qw": 1793308242022,
     "threads:DfF65R0kmhg": 1793308242022,
     "threads:DeZ9Eu3Eo1K": 1793308242022,
@@ -25768,7 +25753,13 @@
     "threads:DfmU2eimaXa": 1794516935200,
     "threads:Dfp9D5SFMek": 1794516935200,
     "threads:DeKhxiPkvVZ": 1794516935200,
-    "threads:DdLfTFHD81h": 1794517247728
+    "threads:DdLfTFHD81h": 1794517247728,
+    "threads:Dfp-zMKD3XE": 1794517534031,
+    "threads:Dfp-Tf6iF8X": 1794517534031,
+    "threads:Dfp-KQ-idtU": 1794517534031,
+    "threads:Dfp9yCuGctn": 1794517534031,
+    "threads:DMCOgsssCjj": 1794517534031,
+    "news:CBMijgJBVV95cUxPanpaTW1sYmVMSHJxcVNZZTNLSlcwOHp0V0tEb3A2cVFTTURRc2taSW5oamVlbTJfNlVseE9mZzBwOVFIbjBoUUlEbHkyNEpiSWFTY3YzczhUeU1vb1F0THlJWW9RT19rWlJwdlE4dXRodmR3dDFFRHNtbEw3ZmZSOWhIaWxOZjVEbl9PeDFJQ2g4UHZXdDBQNUVyekR2cGVBNmZET1dHS1lId3FxYTdxclk1Y0dnRjZRdlRfc3NMVllaZ0tYQ3U4M0NxSjNTTXV4R1RsMktKd1NXQnJKYlJLY3Vyd0tiZnJMV0hoVzZ0aU91M2V3dnFtN0Z1Rkt1WUlsY3pqcnZoZDV4UWxqVXc": 1794517534031
   },
   "digest": [
     {
@@ -27273,7 +27264,7 @@
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
