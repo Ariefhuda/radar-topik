@@ -60,13 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD3FKvGQgu": 1793238652313,
-    "threads:DfD3BiHmbCI": 1793238652313,
-    "threads:DfD2TqWnzK5": 1793238652313,
-    "threads:DfD2gkKga_z": 1793238652313,
-    "threads:DfD3YcYH6Z2": 1793238652313,
-    "news:CBMiZEFVX3lxTE5wN2RjcVFkQTNPT2FhVW9kTTZkdW1yQjM2S3lFSS1ySjNwWUFZZzR4aXZmUzVqb0RDVFNVZFB0RU5Na2xlWHo5aENxNkRaVldXNUhZRWxYQVZhdG5aeW9tT1g5UV8": 1793238652313,
-    "news:CBMisgFBVV95cUxPcXFnQTZabUpYVXdrRUs1ekhrR3hmWFdWVGUxRjF6c1BFMlhCaVJWZDBCZXlZaWR6RUVDNm1kMl9KMURkTFZUTmVMYktySDdQYXFieWpYTTV1ckZEX0NNZW1jU1RadnBzdm5GeHJaM1NTWmh6UlU2aGVDeHpkSXppcHRSekN6c1Y2TWtWSGhXcFdNZDYxVXBMRFAxblh5NEtkTGhBM0NKUWtLdVR1TURMVEtB0gG3AUFVX3lxTE4zcWFIbkpqNmphRUdsVjFJRzgycjBNeU53OWVfejd2LVlsYS03N1NhaW9RYlFIQjg1Y25FVlBPWDd0UmhHYjF5REZoUENpUmdHd2lnLTdRRWlDeWpJOEUzUXpXZ2I1Q0U3dVpwbjJpOVc5Um1CTExEYUpZbnpkWTNOODBNZTFMcGl0T0RFVWktS2VYVnNnVmU3RmJOaklJaksxbTI3VDlvZzZxaEIzSkNZUm5RQzY2cw": 1793238652313,
     "threads:DfD3jbfEi1y": 1793238940183,
     "threads:DfD20bCgbQw": 1793238940183,
     "threads:DfD4GGZlvYc": 1793238940183,
@@ -25561,7 +25554,10 @@
     "threads:Dfn5Hcakp6w": 1794447942291,
     "threads:Dfn5EatEm5U": 1794447942291,
     "threads:Dfn5Du1kmXv": 1794447942291,
-    "threads:Dfn5Cydknpq": 1794447942291
+    "threads:Dfn5Cydknpq": 1794447942291,
+    "threads:Dfn6QfGn80V": 1794448241981,
+    "threads:DfAJoE5Hy33": 1794448241981,
+    "news:CBMilwFBVV95cUxNbmlxUmFqZGdCOFE3Z2Y0dzRwVkZtWDlSdlZHT3R2NjQ2dC1GT0lLemIwU1hWTTBMSHlOcnZ2dk53M0o3N09MejItYTRBZkFybTFUN3llbWowV20tcG9JQmVmSEMxTFota1MyVXN5ZVVPRG9OVG1wVktBYUxqN1NlNnhVMnJfWHRsS2czc2x0ZHlfSmFOT0I4": 1794448241981
   },
   "digest": [
     {
@@ -25913,10 +25909,20 @@
       "d": 1794447405000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@s3pemalang",
+      "x": "BANSOS CAIR!!! BANSOS CAIR!! BANSOS CAIR!",
+      "u": "https://www.threads.com/@s3pemalang/post/Dfn6QfGn80V",
+      "d": 1794448041000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
