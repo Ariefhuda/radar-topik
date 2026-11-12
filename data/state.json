@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFfVdUEkl5": 1793293253610,
-    "threads:DfFe7THkfjk": 1793293253610,
-    "threads:Deb9lE0iEkG": 1793293253610,
-    "threads:DW2JB4PEvWk": 1793293253610,
-    "news:CBMilwFBVV95cUxPN2QzTXRfUzVmcjJKSXhQSlRFQlY4ZjNfbC1jSVl2UldFZXVtX3hjc2o1dVIwRzh6eWhZbmU2NU1oMldCTHVQc3NxWjZQWHNOMmNJbDNxbVdSNmFvNmdWMW0xY1pUbms5dTBNMHZzNEUwaUpnWjZreDVSN1cyZk84TDJUWEp0cFFqOG1UV19aWEdHcm1RUmh3": 1793293253610,
-    "news:CBMi2AFBVV95cUxPSFZJdGZCTkl1d09TczZkUVg3NWJoV3VTaDNqVmJFRWVUUl9ieUxKandOT2tzZVJXRDdNaGVGcFJtMGJtYXZnd2hJTEl1QnZyNWotVGk3dXlwUGpVUTJGQlh2X1JvRFN3eDRWNHNIMHpDUlNMemR3UGY0YURkZDdjT2MzdG9yOUI5VVk1UkNha2NiV3RJelF1MzlMWFlwN0hqLUJtVFZ4ZHBaUHItdVlMdk9tRW5pMU1wQzgxVzM1cVdoTTBFc3l5QU9hUzY5SnB5VjYwcHFBQ0PSAdgBQVVfeXFMT0hWSXRmQk5JdXdPU3M2ZFFYNzViaFd1U2gzalZiRUVlVFJfYnlMSmp3Tk9rc2VSV0Q3TWhlRnBSbTBibWF2Z3doSUxJdUJ2cjVqLVRpN3V5cFBqVVEyRkJYdl9Sb0RTd3g0VjRzSDB6Q1JTTHpkd1BmNGFEZGQ3Y09jM3RvcjlCOVVZNVJDYWtjYld0SXpRdTM5TFhZcDdIai1CbVRWeGRwWlByLXVZTHZPbUVuaTFNcEM4MVczNXFXaE0wRXN5eUFPYVM2OUpweVY2MHBxQUND": 1793293253610,
-    "news:CBMirgFBVV95cUxPOUpuRjF2RktOb2dPMjBCWkVCMk55YkJtOERKWG5kZHMwdFdkbE5POTBGdWY2WDB1SFEyM2VSYlV3MWhseGhTNU9oR1BjOWdzam4wNWZiUFdYV3pxTGVxZ09PN0tjc3liVnFjdUtiLWtCRXZjSkJCYjBVZGRPai00WVdYUXJ6NVlnSWt3dVdaOFVsMDcyYThTTVl4RjNKSHZydDVUeVo2cmRpeGN2UWc": 1793293253610,
-    "news:CBMiWkFVX3lxTE9YWDVLQVJ0a25YY3JvcjRlN3FlaFFoZWlPRXZONnY0MGhhMnhXTUtDakpadVlMazdpWEZRcW9DZk1ZdXI0Y3lDSjdRZHkwUW5iczlQRnpaeGpjdw": 1793293253610,
     "threads:DcdsrUzgbMB": 1793293537094,
     "threads:DJ1sy3SySRM": 1793293537094,
     "threads:DeQmehAErvL": 1793293846646,
@@ -25781,49 +25773,15 @@
     "threads:Dfphxk4Gxux": 1794502583132,
     "threads:DfphtsfCJA3": 1794502583132,
     "threads:Dfphe8aFiMo": 1794502583132,
-    "news:CBMiwAFBVV95cUxOMDVtMnZkWkNELU0xaXgxdHlYZ0d3RG9iTVpTNnFoVTZhWDVTdGtrX3JPeFZhdTBxQ0RlNmVqSjc3dmptYVBiZXcyOE9JSjdQaHpIS1NRUF9henF3RHhyS3podFZCUDVOOUpBM01XeDVVbkNoT3Z5QVdTRG51UFlzQmNKbmpHZ3luaTVXeVhmRXM3bWhNdHFaVTJjNlkxN2FEekpVVzYyaFdMb0FmbGJhVXI1STRQZ3dMRnVHdGttb0vSAcABQVVfeXFMTjA1bTJ2ZFpDRC1NMWl4MXR5WGdHd0RvYk1aUzZxaFU2YVg1U3Rra19yT3hWYXUwcUNEZTZlako3N3ZqbWFQYmV3MjhPSUo3UGh6SEtTUVBfYXpxd0R4ckt6aHRWQlA1TjlKQTNNV3g1VW5DaE92eUFXU0RudVBZc0JjSm5qR2d5bmk1V3lYZkVzN21oTXRxWlUyYzZZMTdhRHpKVVc2MmhXTG9BZmxiYVVyNUk0UGd3TEZ1R3RrbW9L": 1794502583132
+    "news:CBMiwAFBVV95cUxOMDVtMnZkWkNELU0xaXgxdHlYZ0d3RG9iTVpTNnFoVTZhWDVTdGtrX3JPeFZhdTBxQ0RlNmVqSjc3dmptYVBiZXcyOE9JSjdQaHpIS1NRUF9henF3RHhyS3podFZCUDVOOUpBM01XeDVVbkNoT3Z5QVdTRG51UFlzQmNKbmpHZ3luaTVXeVhmRXM3bWhNdHFaVTJjNlkxN2FEekpVVzYyaFdMb0FmbGJhVXI1STRQZ3dMRnVHdGttb0vSAcABQVVfeXFMTjA1bTJ2ZFpDRC1NMWl4MXR5WGdHd0RvYk1aUzZxaFU2YVg1U3Rra19yT3hWYXUwcUNEZTZlako3N3ZqbWFQYmV3MjhPSUo3UGh6SEtTUVBfYXpxd0R4ckt6aHRWQlA1TjlKQTNNV3g1VW5DaE92eUFXU0RudVBZc0JjSm5qR2d5bmk1V3lYZkVzN21oTXRxWlUyYzZZMTdhRHpKVVc2MmhXTG9BZmxiYVVyNUk0UGd3TEZ1R3RrbW9L": 1794502583132,
+    "threads:DfpiXHKkhfe": 1794502853999,
+    "threads:Dfph4Bpkpge": 1794502853999,
+    "threads:DfpiuXvEpui": 1794502853999,
+    "threads:DfpiWEpGQte": 1794502853999,
+    "threads:Dfph62JknWW": 1794502853999,
+    "threads:DfphkLwkoUv": 1794502853999
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Radar Jogja",
-      "x": "Bangun SPKLU Gratis di Sejumlah Titik, Pemkab Bantul Targetkan Selesai Akhir Tahun 2026 - Radar Jogja",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRUozdGtLeGxkVHo3V2tIbFE2elZrb1V2MS13cmRHZVdBYzFpQmtfdFZUME55Wkp0VlI5TXp0Uk44T2FRNTBwVnZTS1BFOG50QUdFd2MwczZZY3lnVUhZemw1NUxTbldoQUJsR09BQnNneDR0c1ZqUXoyS3pEeGprUU1PbXVub2dDYVBOY1QzbXkyZG9lZE1Ma1dxLThsdXg1RWNDT0FvU0lIaUNoSGlLYnpXS210SnlKM1hrNWhrUUtSUTJQRGpoVGNIUEl5ODc40gHWAUFVX3lxTFBxMjdlYzZrRV8yc0JUaTd1ZWxubi12T1F3Y1hiZU9ISmsySV9EOTJ5YmFNZWZvZEswX1hxdEM5MHFxcHpxbmNyMnZWaXhvbWtBY3pjXzRNZGNJVDZJdExZSjdERGlFSDgxNkhJLTlnX1U0Q3NkczNObm5ZdWZoUWRUbDRBRWhPaG5CWTZuS25VSXdQbmZibGtjeHJxbmNRbFppd0hoSzJET21ZMG04bEhHN1VnZS1Sa3RhU1R1YkFmM1RlTjBOcjgtNUtOM2JVZ29iM1U0WUE?oc=5",
-      "d": 1794490260000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "detikcom",
-      "x": "Pendaftaran Beasiswa Garuda S1 Luar Negeri 2027 Dibuka, Bisa Daftar Tanpa LoA - detikcom",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjBkbVdkby00OUZQVW9RV19tbHUtd1ZPVkFPckpJU01wNEpFSGpLZjNzY3pKMHMya3N6cG95NjBWa25JSEwwZlNpTVlPWFZudU1mRDJmSS0yREs3OGk4amY1UFJSZmhTUTNyelNiMGpQNG43LTM5ZDNpYVgycmw3Xy1QSUdSclczaHhIVmZkeWNaVzNOM09CazVfdFR0QkNTRHV6OEdOYnpfbDJNQ3ZmLXhreTEtM21lSWxaYW930gHDAUFVX3lxTE5BS1c3cHUxWUJHNTI2QnNUcHRSRWk1ajNpMS1teVEzSVNFcjF6WmEtQzdfTTNCTkRraTA2ZFVDa2RmQlJmWjQ0TndZTEdYSmExNVU0Nk10aS0wc1YxbzF2VE1Tc2ZqeW12QmEzRUVyN1h4eElnclotbEh4b053NUtSNXQzNUtNeEFvQzlJUHVLUTAwZmpkM2sxSmNOQ3V5VU9XYV9DN3RKdGlNZWdoZWZjbW1GaEdNbF92OXNkT1FLVW9pTQ?oc=5",
-      "d": 1794490200000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Cirebon Times",
-      "x": "Kemdiktisaintek Buka Beasiswa Garuda S1 Luar Negeri 2027 - Cirebon Times",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GYndXQWR3cnFTMUtPY19MRllvUjdjZENqTFNJcG9JLWIxVXBoWWpxNU1TcWNjb2hIVGV5Z2xqaW5NRE1YZlZKWXFaSjY4UmZCckpZbkotU0lIdV9CZXlJSFR5S00wZkwzQUFWMWJ5dmpCMEN2MElB?oc=5",
-      "d": 1794490395000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "GRATIS GRATIS GRATIS😭 Gausah DM yuk. Cukup Komen aja yuk. Aku lagi bagi kelas online gratis tentang belajar cara ubah data kerjaan di spreadsheet jadi dashboard interaktif auto up",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfo9F3BIA1x",
-      "d": 1794483082000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27283,10 +27241,50 @@
       "d": 1794499200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@osee.co.id",
+      "x": "INFO WORKING ABROAD AUSTRALIA🥳🥳 Kabar baik buat temen-temen pekerja konstruksi dan pertukangan Indonesia. Saat ini dibuka jalur rekrutmen resmi first-hand langsung untuk proyek h",
+      "u": "https://www.threads.com/@osee.co.id/post/DfpiuXvEpui",
+      "d": 1794502812000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "Emm boleh juga,tapi harus di imbangin olahraga dong Kaka ..jdi selain kurus otot Kaka jdi lebih kuat.. Udah tau belumm?kalau WILLFITNES MERUYA BARU AJA GRAND OPENING 🥳✨ 🔥 GYM MER",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfpiWEpGQte",
+      "d": 1794502613000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "mending mulai dlu gym sendiri trss pas latihan ktmu gym crush...uuuu ngebayangin nya aja indah bngt.. Stop when yah when yah lebih baik go go come on!! Mulai daftarkan diri anda👇\ud83d",
+      "u": "https://www.threads.com/@ula_willfitnes/post/Dfph62JknWW",
+      "d": 1794502390000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "tenang ka kalo nasi bakalan ttp ada di Magicom tapi kalau tempat gym mewah dengan harga terjangkau dimana lagii kalau bukan di WILLFITNES MERUYA 🔥 🔥💪🏋️✨💸👇👇 ✅ Gym Area Lengka",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfphkLwkoUv",
+      "d": 1794502204000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
