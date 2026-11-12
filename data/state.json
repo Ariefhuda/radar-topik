@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEaz0Ej2e1": 1793257536164,
-    "news:CBMiUkFVX3lxTE0xYkc4UFVKdGx5alFORmt4YzJOeEI4MEZZNUFPTm9XazZ4dWxoXzlqWFdOdDM4WnMyTzFZUUd3R3MzMmJqLUJHRXlaRk8tYWVobnc": 1793257536164,
-    "news:CBMiakFVX3lxTE9jdUdBSk5rdnhVRlJIaExnV1ExOHR4RW1wWWc3bWlYVXJNMDNqeFotNUdWSTFkbUZyWFM4c3h6N0V3Mkp6UFZtZEhNZFNxT2txb3EwZ2hQZmJYaWFURXZDbXVfYVIzRHJkREE": 1793257536164,
-    "news:CBMinwFBVV95cUxOa0FxajVrN29wdTB1Q25PeUhQOWdscDdrdk10VDV6R1BTVnE4WTZHSTNjU2dNNVFySzMzdTNJYy11TzJrU3MzMkI4TmcwWTlZcGdyazA4aGtTT1dtU0I2NTY0VlpibXJTQXNqS2p4WFJpU0NzaU1ONzdHbUVCckhtQTlMemQzZnZwb1luRWhnUGZiVExiNWdwd0kzdTJsb0nSAZ8BQVVfeXFMTmtBcWo1azdvcHUwdUNuT3lIUDlnbHA3a3ZNdFQ1ekdQU1ZxOFk2R0kzY1NnTTVRckszM3UzSWMtdU8ya1NzMzJCOE5nMFk5WXBncmswOGhrU09XbVNCNjU2NFZaYm1yU0FzaktqeFhSaVNDc2lNTjc3R21FQnJIbUE5THpkM2Z2cG9ZbkVoZ1BmYlRMYjVncHdJM3UybG9J": 1793257536164,
-    "news:CBMivgFBVV95cUxPZ3VHUmcyWktKQ3l2UHdUckJwb0JnME5IdTJGU1I2cnpxdm1EdkxkckRKaER1MG9Daml4T3ZmNTF5RFBGYjFWNUVUUVdLQ1F1OFBoMGNGVlJHRE9CdDJMZ3ZPSXZDemtJdmFKVHFOSkRIVTUzLXhmaExwM0hyM0ZSOUZpNWZveXpMTmF5WF9xZ1BXbzlfVFd6SFIwQ2N2V2ZNRTRhUFlwbVpyODdVWjMwdHRId05SUHRTbF9ReXRR0gGwAUFVX3lxTE0yVjFpZEdVNU9BN1JDd3VPTkFUckFhNTJmZERmOFVVWlM5VEV2SlRMSXAyTG5zYXMyRkJnWkJJdXQ5QjJVaUx2aWRqTDJobTVMclBiSDR4VHM1bmF0RE5VX2p6U2cteHFKbXoxU1UzVEJCQ3FhVUZZNTVXTjA1ZXZxaVFHWVU3RHdzdDE3S09ybEU1Zi1RZjVFQTU3S2IzdTlhejM2Z3UxZFhZa1huTXZJ": 1793257536164,
-    "news:CBMitgFBVV95cUxNTVAzckVqeDU5dG1mQnJYLVN3VjFqNmhLS2tEUVZsdzN2RHlEVEh1OFdHRVdfNmJzelZzM1U5aWJnMzdXNlFEWlJpNldiZzNhemhndVNIbl8ySm41UVN4WHg4ZHJHNHJ2R1hKTE9QTEJnN2Q2Tmw3OE1NaTFaWVhJV1JiMWtsQ0F0LVliMXV4ZF9MZXIyd0xJRFZqUGVOdlVzczViS2NFTEhPeW5NWWNyY2d2MFJ4Z9IBuwFBVV95cUxNSDRsTkVrNVMzdEplSXpaeUhvS1QxSFlnNnowNkhaUUZsV1ZXZjk2MDV4eVFYSkdhVGtFeXkxdDlBY2dZTlpvT3hTbVlmSlBDUkZWT203V0xNVW50eW5wa3N1Sk16OFY3RWNpQ3o0V3RIQ0lxZURXd0FuUTZGZWFRTVRCb3VYdS1JN1lhN0VPS25ObmRkUWJMZnBUb1ZkNngyNnNsVjBvNlF4d2s5dWVBSkNGSE5HajJ0UXlN": 1793257536164,
-    "news:CBMi2wFBVV95cUxQSjhHWHRrcXo0UXhYRndrUkk1RTBocFJ6V2d4ZnluVVhYWWVJN3U0VGxFQVI5SWU1UWM1b25JZmRQOXM2SHNxQkc4WnZhZWFQR3hWTnFqOFJabHcxNDNEcjRpRkh3dDRFcU5tcUIyXzRFcGZBMmEyTFFpQTNER1FqTk8yeWQ5NVZtVnYxWW9xRlRSNjRJakV6amRESWRiRjNQeEM4Q1l0ODBmWnpZTm1XTUY5TTFTeF9UTHRnVkZldXpsNWtCRnpYQ19rdjJLbHNhM05yZUJUNFhGUk3SAcsBQVVfeXFMTUVnYnV2Y1FGYndnTnpKay1SUkRMR3hSUEhBRzdBNzl4QW5JOTR5SUFQSUJtc3V1LWh1NE41V2JwaldLakpvRFNibThNczRabVVLdVZmYldpS2ptLTItak5ZeVFYMnVWUDVkb3MzeGJjZGR4c1AwbVhPWnVHWWp6T0lHa1VUNmpnc1JkUVR5N3V3VEkxTUFBVURINzlkSUxJZmhoVHgtOUhPZVFrOXZpa01FSzlsTE5JN0NQdU96UUVFdTlOeHV0WEdwSjg": 1793257536164,
-    "news:CBMiywFBVV95cUxQaF9zdW5ld0JhZWdHZVRiSUNlOW0wOFZDTTZaTS1qRzN2WWkyOUtkY1E2S2F1eVZDV2VmSk1SUWppcXZEWmQ4VV84SnlCRjdsNWNxTUFSbnJDdHlpWW15YnIzUy03dndUekJzT3RwdzZaT1h1ekdTWkRDUFFURWFFNmdHR0RucDBzZExrRWRtckc5MS1FTTcyckV1MEtreUtiSmJQSUo1anNWLWhCQmZRTGJtRkFHLURwSzdZOFFDU19UUkRCNUJ3ejJtNA": 1793257536164,
     "threads:DfEcJOIk-Bp": 1793258200376,
     "threads:DfEcRxykx8D": 1793258200376,
     "threads:DfEcBy2EUOX": 1793258200376,
@@ -25609,39 +25601,14 @@
     "threads:DfoXu5rIJng": 1794466847159,
     "threads:DfoXuPDIH7y": 1794466847159,
     "news:CBMiiwFBVV95cUxQdVFOTTFHSk5fNGxNbjFDQ3Nqd2xMRnFGUVJBUkFYYmZNSVc1eVZLVVVPZlY1MlRTX3d4SThZNmRFR3lUc09WejVjaDBQNVZscVdmQ0YweDlmXzliRGVYNURqc0lKaFktR0s3VTdxd2pRNnhBcU9nRl80cFNaMWg2U1h1TXB0Q05HdEV3": 1794466847159,
-    "news:CBMiqwFBVV95cUxONktlX3hReEJwYndEalRYV2tmQ2ItTmRLZVRidzZsejdzR0MxenFYREQ5b2pCYjBHNHB3cm1fVWVMVHpxQWloclI1RGR5ak1ieDBpZEhuaWNRcm1NX1ZEX3NidG5vejlPOFRaUzhaaF83RXhURTZYand2QnNucnBaQjFjNlBfWFVRWng1eFl2eU4zdVdCLUQ2VFNGc3QyZlVVN3l4Um1YY09zWEE": 1794466847159
+    "news:CBMiqwFBVV95cUxONktlX3hReEJwYndEalRYV2tmQ2ItTmRLZVRidzZsejdzR0MxenFYREQ5b2pCYjBHNHB3cm1fVWVMVHpxQWloclI1RGR5ak1ieDBpZEhuaWNRcm1NX1ZEX3NidG5vejlPOFRaUzhaaF83RXhURTZYand2QnNucnBaQjFjNlBfWFVRWng1eFl2eU4zdVdCLUQ2VFNGc3QyZlVVN3l4Um1YY09zWEE": 1794466847159,
+    "threads:DerVh7xFcdP": 1794467133682,
+    "threads:Dd3kdUwlL53": 1794467133682,
+    "news:CBMi2wFBVV95cUxQYWJSUUItUWxJekxTLVJnbmNqMVBvc0dOdmlhZ2V4eVpPZUxSa1Z6YWJIdzJ4NGNpd2EwaEVuYUx4amEzUWwwSERETlYyakd1Y29PS0N2SC1FcWRNMk1pLU54RGkzM241R2FKblpkVm5aa2JZbFU2WVF5OHNjNk1jaDVBMDAtdll0Q2hQSk5sZ2RLQkpDdFpvNldSeXJDWlZzcHU1bXUwSXQxU2laN2E4WW5ES1BEVnBqRGxxOG9NS0JJTWFCelhIMlZBaGFoMEJHT3otRVEtemtyMWvSAeABQVVfeXFMTzR1SGR1bGdWUkxqcERrTE1sNncxem9Db2FQVWktRnRWejlsckNwelhXX2FhTlo2c2lUY09NLUYxUm8yUmo3UGZPZEE3aFIxejZ6eXBlZWxUbjFtV19iZWNFMjdQRzdlV2FadG1IQ1JicDRYeWJTVWNVNW9xYmdyRXoySEplNGxDV01kX3NGLVNQWnhwQkJuOTU0ZXF1RHJfbWJJc3Q3ZkhjYzVJVFExNmVCVVdVOWJkZDdyYU1tX2dhZEh5LUZvaC1GazBhZGtUR0VKUjRQZEQ4QkYwVU1HTmw": 1794467133682,
+    "news:CBMinwFBVV95cUxNNHRUTkRueEt0OV9yckpsSE5DekotTFBUeGZLQ2Z5SGdEVnZNa1NCWF96WG1NbG9pZXBHbU5zWjk5VE81NFY3V1lyNW9EdnFWOGlvdEVnZUFWRk9NcnQ5aEdLc2VJVUR3QTBEZ0d4N2ZNbkFzV1FqamNXQVk1LTFoMXlWNVg2ZXgxa0VpM2J0UGpER2h5cG9iQXVxT1h1LTQ": 1794467133682,
+    "news:CBMiwAFBVV95cUxQc3h0WDdseDhkdV9WQm5IOVN1UEFDRjA1N2tzd1E1LUdJTnZZbGFWMDlrYnlQNHZvQVRSY0RadVVTbklXSHlOR0I2OWdOUklpUHpCd2xPUklhbVQzSHNRbXBQRHhqaWF3dzVqV3hLMnZ1VGgtWUhCbGRJZkV2SkZ3Ukx5cm5keVdkVkNwNm9qWHFPMWF2YWNtMmNUZUJITjl2WU1tenl3WGpObDNEM3YwR0s1c3dZaW9vcWF6b0MxWlI": 1794467133682
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Coba bisnis online kak, mau? 😊. Kk bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, atau",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfoO_-WD5iZ",
-      "d": 1794458916000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kelas.kampus",
-      "x": "📚 **Lagi persiapan UTBK, cari info beasiswa, atau ingin ikut seminar gratis? ** Yuk, gabung di komunitas **Kelas Kampus! ** 🚀 Ada beberapa tempat buat kamu berkembang bareng: 📝 ",
-      "u": "https://www.threads.com/@kelas.kampus/post/DfoOYEIGXXc",
-      "d": 1794458589000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@armitapaka",
-      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
-      "u": "https://www.threads.com/@armitapaka/post/DfoPtMDkpgH",
-      "d": 1794459289000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27111,10 +27078,40 @@
       "d": 1794463489000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Kabar Megapolitan",
+      "x": "Bukan Sekadar Formalitas, Ratu Dewa Awasi Ketat Kualitas Makanan Program MBG - Kabar Megapolitan",
+      "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYWJSUUItUWxJekxTLVJnbmNqMVBvc0dOdmlhZ2V4eVpPZUxSa1Z6YWJIdzJ4NGNpd2EwaEVuYUx4amEzUWwwSERETlYyakd1Y29PS0N2SC1FcWRNMk1pLU54RGkzM241R2FKblpkVm5aa2JZbFU2WVF5OHNjNk1jaDVBMDAtdll0Q2hQSk5sZ2RLQkpDdFpvNldSeXJDWlZzcHU1bXUwSXQxU2laN2E4WW5ES1BEVnBqRGxxOG9NS0JJTWFCelhIMlZBaGFoMEJHT3otRVEtemtyMWvSAeABQVVfeXFMTzR1SGR1bGdWUkxqcERrTE1sNncxem9Db2FQVWktRnRWejlsckNwelhXX2FhTlo2c2lUY09NLUYxUm8yUmo3UGZPZEE3aFIxejZ6eXBlZWxUbjFtV19iZWNFMjdQRzdlV2FadG1IQ1JicDRYeWJTVWNVNW9xYmdyRXoySEplNGxDV01kX3NGLVNQWnhwQkJuOTU0ZXF1RHJfbWJJc3Q3ZkhjYzVJVFExNmVCVVdVOWJkZDdyYU1tX2dhZEh5LUZvaC1GazBhZGtUR0VKUjRQZEQ4QkYwVU1HTmw?oc=5",
+      "d": 1794466426000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "https://janalokajournal.id/",
+      "x": "Kemensos Resmi Cairkan Bansos PKH Sembako Tahap 4 2026 Bagi Jutaan KPM - https://janalokajournal.id/",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHRUTkRueEt0OV9yckpsSE5DekotTFBUeGZLQ2Z5SGdEVnZNa1NCWF96WG1NbG9pZXBHbU5zWjk5VE81NFY3V1lyNW9EdnFWOGlvdEVnZUFWRk9NcnQ5aEdLc2VJVUR3QTBEZ0d4N2ZNbkFzV1FqamNXQVk1LTFoMXlWNVg2ZXgxa0VpM2J0UGpER2h5cG9iQXVxT1h1LTQ?oc=5",
+      "d": 1794462974000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Bisnis.com - Semarang",
+      "x": "Daftar Penerima Bansos Cair November 2026, PKH, BPNT, dan BSU Rp900 Ribu - Bisnis.com - Semarang",
+      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3h0WDdseDhkdV9WQm5IOVN1UEFDRjA1N2tzd1E1LUdJTnZZbGFWMDlrYnlQNHZvQVRSY0RadVVTbklXSHlOR0I2OWdOUklpUHpCd2xPUklhbVQzSHNRbXBQRHhqaWF3dzVqV3hLMnZ1VGgtWUhCbGRJZkV2SkZ3Ukx5cm5keVdkVkNwNm9qWHFPMWF2YWNtMmNUZUJITjl2WU1tenl3WGpObDNEM3YwR0s1c3dZaW9vcWF6b0MxWlI?oc=5",
+      "d": 1794466952000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
