@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD8KwCkXfN": 1793241336246,
-    "threads:DfD7ueRkUbi": 1793241336246,
-    "threads:DfD58wXGXOZ": 1793241336246,
-    "threads:DbDQ2O_oASX": 1793241336246,
-    "news:CBMirAFBVV95cUxQZ2VSRUtPdGhjUHhDczlGR0xhUXZTTWhaOFFBOTdQenhkT1FJX1JidjR6S0MyUW1LbXdXOExlcVZEVTFJX093MWd3NG4yR0lPVTJ6S1lpbGlZY0JFNzU2aVFkZk1ycV96OURIaGVaaTE2NmIwT0ZLeUNiMVZ3TVhQUXdvQUQ5Q19QalN2TDQ2WVFVMmpqRmtPVDRkdE91a1ZvTGJrWkRwaHg5S1Vu": 1793241336246,
     "threads:DfD8qpvkUYE": 1793241655597,
     "threads:DfD8WcsE5pw": 1793241655597,
     "threads:DfD9wpumn12": 1793241939543,
@@ -25571,7 +25566,36 @@
     "threads:DfD4VItk-KA": 1794450340090,
     "news:CBMitAFBVV95cUxOU1hJeXJLTTBQaFE2V2tSWDAybTNReVVWOHRvT1pUNnpyVi02QW0tcE5Yd1h0UDVvcWV0eVhKcUJsRjRUS0owb0Y0Tk5WeXdZVHB5NnNEc1lkZlhzemVIeUtzaE5RYXJHOUp3a1JFSEc1WEk4ZUp2cUFpeURPVXlZM1p1R296dzE4M0k2RFRfckphTUQybFlyNmdIY05ST19tN3l2QWFrNTJMdmE2YS1GbHQ2bkU": 1794450340090,
     "news:CBMi3gFBVV95cUxNOTJRWHlqLVBBdVFwTllkMzU1VXNKRmNIdFB1aF9OelMzZEplUzB2UkdrSWFibVVLXzIxSjczbGZZam1Bcy04cXdnNXZUZlp6Rzc4cGgyUkxreEF0bmNhanVQeVdyc01TbG5ZX2t4MGFwS21aME9qUE9jWGtvUnVsQzdzdWJNRnlwaFExWVhqMUJxbFFnNUlmcS1tVEFneThNdktPeUFvQy1xekltQmdkbWN2RnZSNk1RMmVXbXNGZHowLWdSV01HcmlyR1oyOElYaVpkLXZJWDZQXzZqeEHSAeMBQVVfeXFMT2F3UW1pR2JjZWQwRUhaUkZwU241VEU4OXZKcHJ4UFFad01LUERoWUtyX09DNlUwVTY4c29yNWxjdjE2SlZKZXpjd1M1dE51OVU2X0hRNEdjem9yZDhja2l3M0JRa01xOVZWYkpvR2VscG0yZnhvcGRuTG82cUxxeU1kVVh4cXc5M2M3LW9ucTdhMXlCQ1JqWlB2aUJVT08xeDZqd0xKSzBpMmhYOW5aM2gtbU5XWUc2ZEt0ZzloWnVCLU1HdXZaOFl6ZVRocGtYamQwVl9ZeW5OelNTOHNHSVBBMlE": 1794450340090,
-    "threads:Dfn-YMlGFIi": 1794450650803
+    "threads:Dfn-YMlGFIi": 1794450650803,
+    "threads:Dfn_DDsmiJb": 1794450937937,
+    "threads:DSSNMKtkirr": 1794450937937,
+    "threads:Dfn-1j6myo6": 1794450937937,
+    "threads:Dfn-rreEoLx": 1794450937937,
+    "threads:Dfn-rBnmAEV": 1794450937937,
+    "threads:Dfn-cc7E3hZ": 1794450937937,
+    "threads:Dfn_lZmGwos": 1794450937937,
+    "threads:Dfn_N77G6Wm": 1794450937937,
+    "threads:Dfn-2VPDejf": 1794450937937,
+    "threads:DfDg7ScF2Bl": 1794450937937,
+    "threads:Dfn_YuDk0qk": 1794450937937,
+    "threads:Dfn_X8eE7iD": 1794450937937,
+    "threads:Dfn_XfDE7o_": 1794450937937,
+    "threads:Dfn_XEoE3VL": 1794450937937,
+    "threads:Dfn_WptEw6E": 1794450937937,
+    "threads:Dfn_WNZk48q": 1794450937937,
+    "threads:Dfn_VvdE4bY": 1794450937937,
+    "threads:Dfn_VQAk-eI": 1794450937937,
+    "threads:Dfn_UFtk76Z": 1794450937937,
+    "threads:Dfn_Tpok1mT": 1794450937937,
+    "threads:Dfn_TDJEyBc": 1794450937937,
+    "threads:Dfn_SiFE9hq": 1794450937937,
+    "threads:Dfn_SFNk6iI": 1794450937937,
+    "threads:Dfn_RkgE_e2": 1794450937937,
+    "threads:Dfn_RANk7ZO": 1794450937937,
+    "threads:Dfn_Qlqk-zv": 1794450937937,
+    "threads:Dfn_QJ8E9tk": 1794450937937,
+    "threads:Dfn_Puzk7gO": 1794450937937,
+    "news:CBMiowFBVV95cUxPXzJIRERJdlo1YUlCeERsMUdabGNnVTQ0VFROdnloOFgxNE5fbi10WjA3MW1EQmhMekdQMWJQU3JOaVhFRldRZ1RLcVVsWUhLU1NxZ2d5ZmlYWUNGbG41LW1JSWE1WjNRZjBmUUdfaEEzek5iQW80T0tfWmtUeXFzb1otQTlSc3NRQXFrcHJqa0l0XzJtRlY1QjhIaWJycjcwaXo0": 1794450937937
   },
   "digest": [
     {
@@ -26443,10 +26467,190 @@
       "d": 1794450202000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_YuDk0qk",
+      "d": 1794450730000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_X8eE7iD",
+      "d": 1794450724000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_XfDE7o_",
+      "d": 1794450720000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_XEoE3VL",
+      "d": 1794450717000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_WptEw6E",
+      "d": 1794450713000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_WNZk48q",
+      "d": 1794450710000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_VvdE4bY",
+      "d": 1794450706000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_VQAk-eI",
+      "d": 1794450702000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_UFtk76Z",
+      "d": 1794450692000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_Tpok1mT",
+      "d": 1794450689000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_TDJEyBc",
+      "d": 1794450684000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_SiFE9hq",
+      "d": 1794450680000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_SFNk6iI",
+      "d": 1794450676000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_RkgE_e2",
+      "d": 1794450672000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_RANk7ZO",
+      "d": 1794450667000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_Qlqk-zv",
+      "d": 1794450664000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_QJ8E9tk",
+      "d": 1794450660000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn_Puzk7gO",
+      "d": 1794450657000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
