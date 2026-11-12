@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeVi_34D14f": 1793314491867,
-    "threads:DSm66TZEVC6": 1793314491867,
     "threads:DcNpoemmOyl": 1793314910615,
     "threads:DfGIBUqE-vJ": 1793314910615,
     "threads:DfGHndUALCV": 1793314910615,
@@ -25630,29 +25628,12 @@
     "threads:DfqKcKuE36O": 1794523837824,
     "threads:DfqJzD6j6i2": 1794523837824,
     "threads:DfqK6xxk4ho": 1794523837824,
-    "threads:DfqK6IBEw3a": 1794523837824
+    "threads:DfqK6IBEw3a": 1794523837824,
+    "threads:DfqKmgUE40h": 1794524131530,
+    "threads:DY3ya8Nk1cH": 1794524131530,
+    "news:CBMiywFBVV95cUxNczk1cks4a0ZuOXNaQk5xWmNQT1JfQVhLN3QxWS1zYnluY2tvVUp4VlhVU2dEaktWUnQyMUJPbWcxT210MTY0YjJzWTA5WGlaVlpLdmxKVjBiVk1pczNyc21KaWdNV2JSR1ZWMHVVMVZHWlJUZ05NUFh1emJQRFhxUXNWVXdtR2NzdkRMd1VuTVpmYk5uTHduQWVFdHRNS3IxVTVKUlV0R2RReWlTaEVBeFh2U2ZDWkM5cjRTeUl5V3lCNmZYWUFXbkd5RQ": 1794524131530
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpQk62E5Zh",
-      "d": 1794493298000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpQkaqE96C",
-      "d": 1794493293000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27132,10 +27113,30 @@
       "d": 1794523880000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sasarinop",
+      "x": "Kalau di app cek bansos apa proses pengisian datanya sama kaya di web dtsen kak? Aku baru coba di dtsen soalnya",
+      "u": "https://www.threads.com/@sasarinop/post/DfqKmgUE40h",
+      "d": 1794523719000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Kabar24",
+      "x": "Bansos Cair Lewat Bank atau Kantor Pos? Ini Perbedaan Cara, Syarat, dan Jadwalnya - Kabar24",
+      "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNczk1cks4a0ZuOXNaQk5xWmNQT1JfQVhLN3QxWS1zYnluY2tvVUp4VlhVU2dEaktWUnQyMUJPbWcxT210MTY0YjJzWTA5WGlaVlpLdmxKVjBiVk1pczNyc21KaWdNV2JSR1ZWMHVVMVZHWlJUZ05NUFh1emJQRFhxUXNWVXdtR2NzdkRMd1VuTVpmYk5uTHduQWVFdHRNS3IxVTVKUlV0R2RReWlTaEVBeFh2U2ZDWkM5cjRTeUl5V3lCNmZYWUFXbkd5RQ?oc=5",
+      "d": 1794523557000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
