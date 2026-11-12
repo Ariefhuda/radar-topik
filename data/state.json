@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEMipdk4jN": 1793250060800,
-    "threads:DfENUQhEzce": 1793250060800,
-    "threads:DfENQ-tgRrD": 1793250060800,
-    "threads:DfENPzTk6uL": 1793250060800,
-    "threads:DfENMiHCcrk": 1793250060800,
-    "threads:DfENLZ5E7fS": 1793250060800,
-    "threads:DfDnpAtD6uW": 1793250060800,
-    "news:CBMiYEFVX3lxTE5nSUtFRThWcWRQVjRPVVRZLTQwc19sbVJXT0RvN3NSVnRoNEJrbHVTN3hfZXNoVEY3OHJCcWhUV1J6UlVRQzRRMHZKYUJqVFJYYjNCOENNOHh0djVCX3JUcQ": 1793250060800,
-    "news:CBMiU0FVX3lxTE5IZVVORElIUjU2UEJwUVlIWjg0em9zYmw4d01jWEVQaThZNFlBc2N4dENqUDlLaUJVMFlLSnBzSlZpRk50WVloNUhOaTh6NXFkUUk0": 1793250060800,
-    "news:CBMi1wFBVV95cUxPTzg3Y2xkYU5nMXliSTFxU0hkWmZvOG50Vl82WG9HY3liYXlweEFNREE4U0pCanVmQlJta2hHaENrUlBoUU91RWtGUkdmWG5LS3R5SUJLOEhTQ0JBSkhFVDFuWmR4bUpiOGcyTUQ2RThYVjdQYUVJLVhJN25WM1NBX2FVUWlJUTAyQ2xndTU1QVBkcnN2dWF6UWNHV2lYa2xvb29BbFpQaTA2M20wRDAycVNtWnhaZEtILWJjaHI2MmoxWmVrTl9zRHlFREx6eGNHV0c3aDJLONIBywFBVV95cUxNRWdidXZjUUZid2dOekprLVJSRExHeFJQSEFHN0E3OXhBbkk5NHlJQVBJQm1zdXUtaHU0TjVXYnBqV0tqSm9EU2JtOE1zNFptVUt1VmZiV2lLam0tMi1qTll5UVgydVZQNWRvczN4YmNkZHhzUDBtWE9adUdZanpPSUdrVVQ2amdzUmRRVHk3dXdUSTFNQUFVREg3OWRJTElmaGhUeC05SE9lUWs5dmlrTUVLOWxMTkk3Q1B1T3pRRUV1OU54dXRYR3BKOA": 1793250060800,
-    "news:CBMiyAFBVV95cUxPMjBVLTVfX2RVQVdINlZQZ2V6RVBqSWY1elB0Q1J3SFJfMGdjQXpOR1Q2MzZWOFpjZnVtSG1yZjhXdVphdEhLT1FjRWNLbHlfWGJfVFk3M3BoV25UMnBvelh1M3F0VVlrNG9hOEx3NEpDMEVucWFfWjh4NlRsNjV2aGJ0ZWZUY19yckluVjJudElIdlhjSDU4QVhhMFlEWWJTckhNTHNlaVVPVUY3X0tQQjRvWG12YWJHNUFOZVFSdU9jLS1VTHhaUw": 1793250060800,
     "threads:DfEMSOgiY1T": 1793250336647,
     "threads:DfEN50ZkQaf": 1793250336647,
     "threads:DfENfjOGmc6": 1793250336647,
@@ -25590,29 +25579,11 @@
     "threads:DfoNLaKIBHF": 1794459338286,
     "threads:DfoNKJlIL9Q": 1794459338286,
     "threads:DfoNJvcIDQK": 1794459338286,
-    "news:CBMiqAFBVV95cUxQX09DMGJxSFJwVUVaQ0sweGpXcXVCcWhaSlZVdS1ndDJKcVY5dzY0YmRXZ1BxM3JTcWd4UXd5b0ZhNjVNenplang3aVFYUDdYelFfQnRGSzYxMXAxRmJEMy1LOUs4bmFfbU1QekgzUDJ6OFpSSWVkN09wSWh3TFk4b2JQOXhMenV3R05QNVpYTHZVT0ZoWDZsZmdYWldCTUxGOGtlS19SWWg": 1794459338286
+    "news:CBMiqAFBVV95cUxQX09DMGJxSFJwVUVaQ0sweGpXcXVCcWhaSlZVdS1ndDJKcVY5dzY0YmRXZ1BxM3JTcWd4UXd5b0ZhNjVNenplang3aVFYUDdYelFfQnRGSzYxMXAxRmJEMy1LOUs4bmFfbU1QekgzUDJ6OFpSSWVkN09wSWh3TFk4b2JQOXhMenV3R05QNVpYTHZVT0ZoWDZsZmdYWldCTUxGOGtlS19SWWg": 1794459338286,
+    "news:CBMi-AFBVV95cUxNWkw2cXRjUnRpMDFPdEdBZVhFREREbC1vbEFIZXlnQ1dZOVE5LXRfbDFLTk5YdEJhdGR0aERPUUFoU0J3OTV1UDdCYzhFOEJTa3JvMTVwRWdia0FfQ01WWDF5SWdrQ2l1NkVMMTdJWkw0aFhMY1o0VGNPYTlOdzBLNEtkc1Y5c1d6MlpFdkJGRExLb2lFS2tZd2h3MndOeDVIc1ZuM1NQdWcxakdhTjVueC0zU2d4LXhTZFI2ZlMzbzJTRi1MRlVMZkxRa2w5alNQdzZiRHo2ZjJnLTNiY0dENktkb05aNTNHT0lWZ0lHaXlpakVNaGNCcdIB_gFBVV95cUxQOUlSWVlJb2w4MHhTOTc0dkplRmtVZGJNaVVGdElLd1NzSFdOTUxBWFdlOEM5ZUR6ME5uWldiZXZGQTZYeElPdGRkZkdmUm1TNXdfZi13NnYweFlERlgxUGVJT2ZIWlJyUXdOUkRaUFB6OEE5eGN4QXFpZF81WTdhWmduSjg0aktuQjVOekxhZl9rbjVCVTdQU3VZazJ2eUs0emxkbVFDLVBScEZaY0VjcndOeVRzRWFmei16UGZaN3lFX3ZxR3dFVkxKZGswd1pPVjB1b0p1Z2xidUZXSDI3TG9rQndWc2lmaWp3Y1dyNDFXUEhockNlUWY4YW9uUQ": 1794459645500,
+    "news:CBMizwFBVV95cUxOR0dTR2hsT0xmRHp3cVpsdkJNaWVGel9UX0lIaTdjd1Z6LTh4d0I3d0NDZ0ZqYjltaTYzaUVMSEd0a2lTQmxZU0pnVU91N3d6OHlDVGRacVdyc093akx0MWdjblBaNEtrem5Yek1CVHZic1pzeWo1QkltOVZ3NGdGZDh4YzZzNWZWZy1ucWdvbzBIQ05wTEd3QjF2bUVya05keElxV3Bib2hSNkg1M0gtT19raGRIaDU5Y1JLUW9yUzFnRXl6a1h6ODdpblFoRVHSAdQBQVVfeXFMTXlhbzdWd1BROXRwUFphN0tYcnp4RHdxSU4zQlJyN1l0dWdhTFVudmhJMjI5c0lRVGx1YjhoeUVEQThTUktvN04wb29ZRm9xd3NueXdNakVwY3FIWWRiNUo5ajRnY3BOVWVTMk9uM3RhVkJJWTJJV05MZGpsQ2xvcEZQd2dvY1FtS1JkVktOeENjRXN6dWFyTUZHVUJUZElkMkZuTGw3enYyX21EVXJ5V1ptRVZObXdHT3NxNm81aUlHUTZ0T1RpOXRXdG9TU05wY3YzOHM": 1794459645500
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn97_qk0eZ",
-      "d": 1794449971000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/Dfn97hVE0qy",
-      "d": 1794449967000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27092,10 +27063,30 @@
       "d": 1794457948000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Radar Gresik",
+      "x": "Disnaker Gresik Bersama Komisi IV DPRD Serap Aspirasi Buruh, Dorong Iklim Investasi Tetap Kondusif - Radar Gresik",
+      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWkw2cXRjUnRpMDFPdEdBZVhFREREbC1vbEFIZXlnQ1dZOVE5LXRfbDFLTk5YdEJhdGR0aERPUUFoU0J3OTV1UDdCYzhFOEJTa3JvMTVwRWdia0FfQ01WWDF5SWdrQ2l1NkVMMTdJWkw0aFhMY1o0VGNPYTlOdzBLNEtkc1Y5c1d6MlpFdkJGRExLb2lFS2tZd2h3MndOeDVIc1ZuM1NQdWcxakdhTjVueC0zU2d4LXhTZFI2ZlMzbzJTRi1MRlVMZkxRa2w5alNQdzZiRHo2ZjJnLTNiY0dENktkb05aNTNHT0lWZ0lHaXlpakVNaGNCcdIB_gFBVV95cUxQOUlSWVlJb2w4MHhTOTc0dkplRmtVZGJNaVVGdElLd1NzSFdOTUxBWFdlOEM5ZUR6ME5uWldiZXZGQTZYeElPdGRkZkdmUm1TNXdfZi13NnYweFlERlgxUGVJT2ZIWlJyUXdOUkRaUFB6OEE5eGN4QXFpZF81WTdhWmduSjg0aktuQjVOekxhZl9rbjVCVTdQU3VZazJ2eUs0emxkbVFDLVBScEZaY0VjcndOeVRzRWFmei16UGZaN3lFX3ZxR3dFVkxKZGswd1pPVjB1b0p1Z2xidUZXSDI3TG9rQndWc2lmaWp3Y1dyNDFXUEhockNlUWY4YW9uUQ?oc=5",
+      "d": 1794381825000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Arah Kata",
+      "x": "Sengketa SHM 8035 Jakarta Utara, Kuasa Hukum Janti Minta Blokir Sampai Inkrah - Arah Kata",
+      "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR0dTR2hsT0xmRHp3cVpsdkJNaWVGel9UX0lIaTdjd1Z6LTh4d0I3d0NDZ0ZqYjltaTYzaUVMSEd0a2lTQmxZU0pnVU91N3d6OHlDVGRacVdyc093akx0MWdjblBaNEtrem5Yek1CVHZic1pzeWo1QkltOVZ3NGdGZDh4YzZzNWZWZy1ucWdvbzBIQ05wTEd3QjF2bUVya05keElxV3Bib2hSNkg1M0gtT19raGRIaDU5Y1JLUW9yUzFnRXl6a1h6ODdpblFoRVHSAdQBQVVfeXFMTXlhbzdWd1BROXRwUFphN0tYcnp4RHdxSU4zQlJyN1l0dWdhTFVudmhJMjI5c0lRVGx1YjhoeUVEQThTUktvN04wb29ZRm9xd3NueXdNakVwY3FIWWRiNUo5ajRnY3BOVWVTMk9uM3RhVkJJWTJJV05MZGpsQ2xvcEZQd2dvY1FtS1JkVktOeENjRXN6dWFyTUZHVUJUZElkMkZuTGw3enYyX21EVXJ5V1ptRVZObXdHT3NxNm81aUlHUTZ0T1RpOXRXdG9TU05wY3YzOHM?oc=5",
+      "d": 1794407285000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
