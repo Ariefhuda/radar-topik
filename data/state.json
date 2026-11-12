@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEZLo0GpOY": 1793256944587,
-    "threads:DfEZBi9D9R3": 1793256944587,
-    "news:CBMivAFBVV95cUxPNnZ2cFJreTR0WFF2MG91RkNINEpMSHRuVHFXM2pTMTdhRTdub1JkV1JZNkN0OGoxOFhSZmVhQmJIRGxlMjByZkdyZHRuQ1F1SWhvV0RTUzZFS3hDb1N3UWFGNGE2VFVnOWNmaWQ5NWx2ZTgzUVJpZ1lUamJuR2R2eE5Jeld4dXdHLTMyeURBbFdFbFJmQU5fZ0F2UWV6dUp1YThDQ3B1RGZnbkpvNVF5UjE0b3pBMkZKaGoySQ": 1793256944587,
-    "news:CBMixAFBVV95cUxOQ0F3RzlZdjNGTFlHaXloejRuUzVrcC1UcUVHc0RVMnlLeDhjQ1BPR296OG1kT3NqMHpJbDhwQTZBbzJsWmFvaWd2dmJEdGVJTlI5cC12N0dFSW8wRFYwNkF1czVLczJPM2FMUlRfQnExcFh4cjZLMnhsbUJpanYzVndIeEhHbHdKVm9HQzFEcVdPZjZpV3BNaEVKa1RUZkJqYTMteHlFZjFVaWlQMkxrMVZteUw2ZUR1S21UdHZRZEpDY25o": 1793256944587,
-    "news:CBMijgFBVV95cUxOUzVTUEJrT3JPMjJVRXdPUGtSQTRORGF1UFlZMTZOM1owNkstSzBOenRod2VLZzRTdG11SzNfM0J6Qlp2cTdheDhYM3l6R3NSRG9mVTJuZGVqb0pXS2tWRlpCcTZ4eGVUZGhTWjNUcW40Y0ppbF96LXdQT0dDTGI5Z2s4NzNNcFIybFhzM0t3": 1793256944587,
-    "news:CBMirgFBVV95cUxOdmg1b2FlWl9SMVYwbmZNWVdRMDJEREhBekxzUDA2ODF0UlBaSFJ6RFVBbG1rNDJQSWxmaUlWbVNNeHBHXzJBdkZOVlpHUmJKRnRVQ0c5bWZpZGFFeVBXYkVrel9qWGphMEZqLVQ4WE93UVRqRU1UUzRRR1dCSVZMSHZKMWxGbnZrY0dfR3lzLU1Sa1Jqcm44TEhwQ29ibHRhaGlvTjZ4YWhWcFVyUFE": 1793256944587,
-    "news:CBMi-AFBVV95cUxOWGotaHJITktQX3JncEhXT1ctdFdJZ0dSVEJzRS1wdzJrMFFwYVJ4RHVabUZTc2pIRUNic29CRGx6RGEtRC1jYW5uU0ZDWjdoVkFZVkVwUmE5QzhTUlJuVV9NcnhqSXFiUU9tT0twT2Njc2E0MUlPVXdrTHpXS1RleGRQQzljNzNQS1A5MUZCaUx1LWV3cElsYXhndFlpQkpuaGx5N3llLVQ1SnBiUGxkdmx5a2wtVGlnUXdHZkVXWF9SQUZnYVFjMVozMmF5NVlPYmdzUXFoM3ZsT3BFZl80Wm1QejBBUnlDVGhmV3AtRC1mLTdGUVR3bQ": 1793256944587,
-    "news:CBMiO0FVX3lxTE04TUt4Ukc4UXNUUmI3TjhJSThORGpicVlVMHh4dFF4V25lSmZJMHFudmdJVFdLNjFpSjd3": 1793256944587,
-    "news:CBMiuwFBVV95cUxOdGJQMzlTbHdPb3NyVk9XcG1Dc2tDaVJIeGl6REpabmt5RTZzMU5nRFg4Z3c2bFVTQlpoLTB6TV9kREV3UzlydEVzejRBX1k3Sl81NDdlUEtSOWh6NjEzTDExTWJpM3QyQTRmdklCLWJPMG1VNExkZGdPdXVGRE5nY20waHZQYkxGd0VVVElwY0lhczhEY0lDSF9iMjNEaVF3MVNkbGp3LXhzMWZMN1o4WUpVejJoOFBnRWhJ": 1793256944587,
     "threads:DfEQjmnE5AT": 1793257253583,
     "threads:DfBcntIkiQV": 1793257253583,
     "threads:DfEam1viRvd": 1793257253583,
@@ -25607,19 +25598,17 @@
     "threads:DfocmlIGY98": 1794465939073,
     "threads:Dfocv4jj9lV": 1794466256757,
     "threads:DcSGkt6kh8z": 1794466256757,
-    "news:CBMi6wFBVV95cUxPS0dXR1E1UkpkNUVkWXRDUkxab1lETXFybHViYl9HNktIQlpmU1hpWGRGWGtwMUxmeXNPRHY2a2RqdGFnelB6YmJBckpkbWVISGpCTjg2MF9DNVhDQjZwSlF0b2tiUzNsSUFFaUJmeURBUndNSnFINWx3ZEhIaWJUU0oyU2tsUTZzOS1sTktJZXd3V1NCNTlKSjBXemhrR2pjQVlrcjJDMDZGTGFJdS1UN09qWEMwSzdPaW9lSzJlQkxRdTNqejc2NTdNb0JzTVBld1BVV1EzZEQxbUVZN3FrSnUwb09nUkh1MnpN0gHkAUFVX3lxTE5MY1U3WWhoM015dUtveUtydFBTMlNjdWxBVVgyZzU0WHluZEpIejhLTEpMZFl5a0kxUGlMbWtSNFFZT1cyYWZON3p4VVJkSmM2dS1CbnVCVUp3eFQ2eU9tR1EwUWJ2dkJRanR4aVdkZzROZ0ZnR1dIc0UzeUlKalBLdWJPN0lvNTBsTzdUaDJXdEtGMlJtT1N4U2NhQUdzVWR5d24wOWdIMV9JMEYwa3VfbDFtTURHWjVYMzdtU3NpSFFzZktuSDRvUVllaWFKWEZjUkR4T3NZT2t5Z1FEaGJqaENUVg": 1794466256757
+    "news:CBMi6wFBVV95cUxPS0dXR1E1UkpkNUVkWXRDUkxab1lETXFybHViYl9HNktIQlpmU1hpWGRGWGtwMUxmeXNPRHY2a2RqdGFnelB6YmJBckpkbWVISGpCTjg2MF9DNVhDQjZwSlF0b2tiUzNsSUFFaUJmeURBUndNSnFINWx3ZEhIaWJUU0oyU2tsUTZzOS1sTktJZXd3V1NCNTlKSjBXemhrR2pjQVlrcjJDMDZGTGFJdS1UN09qWEMwSzdPaW9lSzJlQkxRdTNqejc2NTdNb0JzTVBld1BVV1EzZEQxbUVZN3FrSnUwb09nUkh1MnpN0gHkAUFVX3lxTE5MY1U3WWhoM015dUtveUtydFBTMlNjdWxBVVgyZzU0WHluZEpIejhLTEpMZFl5a0kxUGlMbWtSNFFZT1cyYWZON3p4VVJkSmM2dS1CbnVCVUp3eFQ2eU9tR1EwUWJ2dkJRanR4aVdkZzROZ0ZnR1dIc0UzeUlKalBLdWJPN0lvNTBsTzdUaDJXdEtGMlJtT1N4U2NhQUdzVWR5d24wOWdIMV9JMEYwa3VfbDFtTURHWjVYMzdtU3NpSFFzZktuSDRvUVllaWFKWEZjUkR4T3NZT2t5Z1FEaGJqaENUVg": 1794466256757,
+    "threads:Dfoc6wUAl1P": 1794466533797,
+    "threads:Dfmlqqgjx6O": 1794466533797,
+    "threads:DfocyJSCMqm": 1794466533797,
+    "threads:DfodZiaFnwJ": 1794466533797,
+    "threads:Dfoc4OuE9U7": 1794466533797,
+    "threads:Dfoc2AQoLv0": 1794466533797,
+    "threads:DfocsyUAaBW": 1794466533797,
+    "news:CBMinwFBVV95cUxPOWs5S2lMMG4tZ1pGQjQ0Q3dVX0NkVU1RUEM0THlxR05CcWRRLXhYaTdJcGJJZVdGdEFUV19vaDl6UkxpSnZMR2llOU9wZFhMYXZmWGF4a2NLQ0NIb3JiR3l5S1FYamFIN2txQWxtYm1sM0VkRHdkUjhpRjZBaWhCWVF4VVNHZXVtc1NmallkcVh5RjJjbkNtaGdxYTVEdDg": 1794466533797
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinnie_ivone",
-      "x": "Coba bisnis online kak 😊. Kk bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatkan untuk jadi affiliator, reseller, dropshipper, atau menju",
-      "u": "https://www.threads.com/@dinnie_ivone/post/DfoLo4qj9wd",
-      "d": 1794457154000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27109,10 +27098,20 @@
       "d": 1794399970000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Kantor Berita Kemanusiaan",
+      "x": "Pelatihan Mengemudi Institut Kemandirian Antar Bang Jek Menuju Dunia Usaha - Kantor Berita Kemanusiaan",
+      "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWs5S2lMMG4tZ1pGQjQ0Q3dVX0NkVU1RUEM0THlxR05CcWRRLXhYaTdJcGJJZVdGdEFUV19vaDl6UkxpSnZMR2llOU9wZFhMYXZmWGF4a2NLQ0NIb3JiR3l5S1FYamFIN2txQWxtYm1sM0VkRHdkUjhpRjZBaWhCWVF4VVNHZXVtc1NmallkcVh5RjJjbkNtaGdxYTVEdDg?oc=5",
+      "d": 1794380317000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
