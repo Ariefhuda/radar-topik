@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DXWcjVCjz8J": 1793313967774,
-    "threads:Dd8KayVmq_7": 1793313967774,
-    "threads:Ddn4P4ikzyC": 1793313967774,
-    "threads:DfGHU1EH8hV": 1793313967774,
-    "threads:DfGGj4mmnmJ": 1793313967774,
-    "threads:DfGGbNAEigh": 1793313967774,
-    "threads:DfGGT2kDtk5": 1793313967774,
-    "threads:DfGGQ5VE3Lz": 1793313967774,
-    "threads:DfGGQ06ATHj": 1793313967774,
     "threads:DfGHWi7EbM5": 1793314242737,
     "threads:DfGHSl1EZds": 1793314242737,
     "threads:DfGHPEfkWF1": 1793314242737,
@@ -25644,7 +25635,14 @@
     "news:CBMiywFBVV95cUxPeDZJbVRKN2FrT1NXZ19sMjI1NzgteVpYcF9PUC1HTGxSWFlWWUpSZ0lxU1Vud3c3bWFSNWwyaVRKaXBUdFJPM1NDdEF5T3piMjlweFZiSDhVTGkzcWUtTHFHMkM1Vi1BSThsTEpGZGNVdzNfVFhzTTJCVV95ckNxQjBEYkJvQ29aZG0yNG43cmRSVllRV0JtOWpuOHpPUjdQSFBJMkVmdkxCa2txaV9tdWxBTW9fd283a0lUR0tNVU1vTEs1RnpVVVA3SdIB0AFBVV95cUxPSVJxcmVCQWpMeGtzOGdWWExfYzRWTUxzOUF1d0lmb0pEUURaWEd6QmV1czlHX0tNUGxvU0RBNEwxcHJtZE50dGFkYTlhYlhhVm5pN3pQYXZDdG0xSUtkZ09DNlNxYlZFSUl5TEJiTmpNekxRTTBxbXA3YWxFWFRON2lwOWpyc2FfM0tOcWc3bC12cjRNcXlWRVdVREl0amJNbU5xNEFSa1pFcWJQaDJteHMtM3BwVkY5b1BrSHBTQURqM3ZxTnRRekFaTWd1dl9E": 1794522996864,
     "threads:DfqJpR0Es8F": 1794523244801,
     "threads:DcSgj8FoLEU": 1794523244801,
-    "threads:DYuoznFmqmy": 1794523244801
+    "threads:DYuoznFmqmy": 1794523244801,
+    "threads:DcmtlpQGAUk": 1794523535901,
+    "threads:DbkqKZqkYD4": 1794523535901,
+    "threads:DfqI39aDoIh": 1794523535901,
+    "threads:DfqJdwiFDHP": 1794523535901,
+    "threads:DfqJSi8PL1S": 1794523535901,
+    "threads:DfqJUmhktwF": 1794523535901,
+    "news:CBMiyAFBVV95cUxQYXV3SW85bV9iaEhxVGp1empKSHhYNTROWTVZNW9IWmpRMWFsYTRYbVNNeGl5SnJtSndDTjctamxfcFg1aGRWT3g2czdybUc5eVh2RmZwZl9kV1ZUT3luSkpHbDhsYUIwdVdFWGp0OC0xX1NQcTJpaUUwWDZta2t5NGlReGNjZjFJblRUcGFqTHIzR3c0QzlCRzNEdEl3OVlqVFR2clV0M2FMOXR5cmlDY2FJUkZ0XzROR0xPakx0OENpV09uY2p6Tw": 1794523535901
   },
   "digest": [
     {
@@ -27149,7 +27147,7 @@
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
