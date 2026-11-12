@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcdsrUzgbMB": 1793293537094,
-    "threads:DJ1sy3SySRM": 1793293537094,
     "threads:DeQmehAErvL": 1793293846646,
     "threads:DfFgnqWmMv8": 1793293846646,
     "threads:DfFgiO6EQdf": 1793293846646,
@@ -25779,19 +25777,10 @@
     "threads:DfpiuXvEpui": 1794502853999,
     "threads:DfpiWEpGQte": 1794502853999,
     "threads:Dfph62JknWW": 1794502853999,
-    "threads:DfphkLwkoUv": 1794502853999
+    "threads:DfphkLwkoUv": 1794502853999,
+    "threads:DfpifdGk6kC": 1794503143847
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arfaanfirdaus",
-      "x": "Aku ada info webinar gratis ngebahas tentang fundamental dan pondasi digital marketing kak kalo kakak mau, ngebahas bareng digital marketing dari 0 mungkin cocok buat kakak🙏🏻",
-      "u": "https://www.threads.com/@arfaanfirdaus/post/DfpLRENEq3H",
-      "d": 1794490513000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27281,10 +27270,20 @@
       "d": 1794502204000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@mamahe7711",
+      "x": "Coba dftr mandir kak di cek bansos",
+      "u": "https://www.threads.com/@mamahe7711/post/DfpifdGk6kC",
+      "d": 1794502690000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
