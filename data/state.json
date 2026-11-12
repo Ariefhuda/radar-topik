@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DY3CH2ulD5A": 1793318137707,
-    "threads:DR3bavfmNRV": 1793318137707,
-    "threads:DaO7DgPHVvR": 1793318137707,
-    "threads:DbaVm46gY7v": 1793318137707,
-    "threads:DbsZ9CdjgLQ": 1793318137707,
-    "threads:DbEsLSTlIG4": 1793318137707,
-    "threads:Db9-X19k18I": 1793318137707,
-    "threads:DR67YbVCQN1": 1793318137707,
-    "threads:DRoMK1VDTLV": 1793318137707,
-    "threads:DeDaR_wE3GV": 1793318137707,
     "threads:DfGPmIhk5mS": 1793318455758,
     "threads:DOKOzZ1k9RM": 1793318455758,
     "threads:Dcl4iFUEvyd": 1793318455758,
@@ -25607,39 +25597,13 @@
     "threads:DfqRr2yEkuW": 1794527437912,
     "threads:DfqRB4bEiQj": 1794527437912,
     "threads:DfqQsUHkcAv": 1794527437912,
-    "threads:DfqQoqqEd1i": 1794527437912
+    "threads:DfqQoqqEd1i": 1794527437912,
+    "threads:DfqRGX3EWKE": 1794527739752,
+    "threads:DfqRkVWGKUe": 1794527739752,
+    "threads:DJV_f6lz0Dr": 1794527739752,
+    "threads:Dfpq1vKihV8": 1794527739752
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mynameis_stri",
-      "x": "pakk aku kasih saran yaa, satu coba turun dulu ke daerah yg kemarin kena bencana, dari aceh, ntt, sampe karhutla kalimantan papua sulawesi. cek dulu beneran gaa udah membaik belum,",
-      "u": "https://www.threads.com/@mynameis_stri/post/DfpV4Idj-iP",
-      "d": 1794496076000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@kelascerdaskita",
-      "x": "KELAS PAGI EKSKLUSIF SAMARINDA! 🔥 Bimbel cuma Rp 100 Ribu/Bulan! 🎓✨ 👉 Jenjang TK, SD, & SMP 👉 Maksimal 5 anak/kelas 🎁 GRATIS biaya pendaftaran & kelas mengaji! 📍 Alamat : Jl.",
-      "u": "https://www.threads.com/@kelascerdaskita/post/DfpXImlkpzL",
-      "d": 1794496738000,
-      "urgent": false,
-      "warn": true
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@althe.dnd",
-      "x": "Join kelas gratis gue, in this ekonomi pasti kalian butuh mentor yang bener bener bisa dan ga ada syarat pas mau join",
-      "u": "https://www.threads.com/@althe.dnd/post/DfpW48ok2uE",
-      "d": 1794496607000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27109,10 +27073,40 @@
       "d": 1794526883000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Beasiswa AI GRATIS! Pijak 2027 x IBM SkillsBuild membuka kesempatan bagi 60.000 talenta Indonesia untuk belajar Generative AI, Prompt Engineering, Vibe Coding, dan lainnya. ✅ 100% ",
+      "u": "https://www.threads.com/@rohimmm235/post/DfqRGX3EWKE",
+      "d": 1794527126000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ika.zaky22",
+      "x": "Alhamdulillah sekian tahun bru dapt kartu merah putih ini kita tunggu pencairan nya smoga bisa beruntung... ☺️ #bansos #Pkh #balikpan #jangkauanluas #fypp",
+      "u": "https://www.threads.com/@ika.zaky22/post/DfqRkVWGKUe",
+      "d": 1794527372000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Aturannya memang luas, bukan murni untuk operasional kantor saja. Dasar hukumnya PMK 48/2008 tentang Dana Operasional Presiden dan Wapres: dana disediakan untuk menunjang kegiatan ",
+      "u": "https://www.threads.com/@meta.ai/post/Dfpq1vKihV8",
+      "d": 1794507067000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
