@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFjeOOkoWa": 1793299245761,
-    "threads:DfFq-4qCDEW": 1793299245761,
-    "threads:DfFqkTME5At": 1793299245761,
-    "threads:DfFpo5OFIQj": 1793299245761,
-    "threads:DfFplsFlO3Q": 1793299245761,
-    "threads:DWwPNZHkopc": 1793299245761,
-    "threads:DRb0j6OiC_I": 1793299245761,
-    "news:CBMi3wFBVV95cUxPa2VVRTUwdGlmcUZURFE0aUtWNzBwY2pwUnhKLW9kOGZ3QWlyM0dVc3VFZ3ZNUGRpenoyYXZoWkdZVi1oRXBZWGpPQVVxd3lCYnRfdjlESUpsY1Z0ZFZVXzFpQ2NCSmZ1YjYwUUlCODJaUTM0dHpVbHJmMVJja2FnZktxVm5FXzA3YS1VdEltTE1QSFdLeXdaNmdMdllxeV95aHdxakRlbTdNcW5TNlR5a2V5YzJoTFphMXY0U2ZOd08wNURpRDZCMmdxLXFFSmJmRTk4dVpiZHRWUmloMVZv0gHkAUFVX3lxTE1OanZ3YTV2aFFpLWc0dk9UZ2Z2VlZkTjlWbDB2c3ZaY21qQ0FJUHotNDdjY1huZTVQUlFzMnVlZlNLMm1ZS0tnNGpGR01FSHdubllvTlIyTmdVX05Hajg5M0FIYW84dWpmTnBIZ3RCVjQyb3VXY2gyc0Y1RjNuOEwyU2FSX1A0Tl9lS3ZpMnZxY2VZdHhwd1NHXzZ5b0FXb0JlRU5wS1lBMEtjYTd6ZDAxZS1RdWd1alBVWXBJeWV3WXRaeEhHWXZrT08yekVtWnNmd0JvWDh3eVFMVTVwdFJUeUFYSQ": 1793299245761,
-    "news:CBMivwFBVV95cUxPRWx5SHIySzVHSWMwenRzVkt0UExHNGw1XzNjU2pMX01fa21hVDRDUnUyT21DMEF5QVhBUEcxS2RyOXgyX21YTjlBVVkwVWpNVFloTHpDLXJTQU1HYzdDWGUwQ25yRDRPMEREMG85emxMZmJYRkpDOEZkSFlDX2JSVlYwYjlVaU9fRzl5Vjc4dU1TaVhST2U2QkdxaUJOemdiZjh5Q2VuaTVfRE9vTnNhdmozYjZpeXVXS0JUZ05fY9IBvwFBVV95cUxPRWx5SHIySzVHSWMwenRzVkt0UExHNGw1XzNjU2pMX01fa21hVDRDUnUyT21DMEF5QVhBUEcxS2RyOXgyX21YTjlBVVkwVWpNVFloTHpDLXJTQU1HYzdDWGUwQ25yRDRPMEREMG85emxMZmJYRkpDOEZkSFlDX2JSVlYwYjlVaU9fRzl5Vjc4dU1TaVhST2U2QkdxaUJOemdiZjh5Q2VuaTVfRE9vTnNhdmozYjZpeXVXS0JUZ05fYw": 1793299245761,
     "threads:DZ44nRZEpB3": 1793299840772,
     "threads:DfFsGQwGvHu": 1793299840772,
     "threads:DfFsAYmkZrm": 1793299840772,
@@ -25779,19 +25770,15 @@
     "threads:DfptBMJieR0": 1794508532110,
     "threads:Dfpswm6AQrB": 1794508532110,
     "news:CBMi1gFBVV95cUxNRE4zZXhPRGJhOHhnbzhKTjJIS2R3MnZRNHdaVGo5MlBOVVVKcHBtcEhxOU1SaHlOdjlEMGhaN1IwbWxzOWl2ekhxR1h1Y0x0QjBwYTZMRzRiTzBUeDRjUlRwZktmQ2t2Q2ZKTVJrNWpCZVpXUmFweEJMY0ZKTkwydU9WWmZPYU9nQUM2VldpYTRVb1JscGpwd3VVdVppQmtKdmZKbC10MnVnZjBsODFiOGM0Mm9HVmdHYVQyZ3dscGF2eWtwdDkwdHRtMUo5RmxkR0luR1FB": 1794508532110,
-    "news:CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWvSAeoBQVVfeXFMUGxtSExhTUpFV0dHZ1psZGhMVkVHNm5HREtLcXNZNHhxSm9SeHJraE5SVWNZOU1menFnSlFrVnNvM0JqYlZEYXVNa01oWnJUakFEa1BJUDhZaVFnSUtxaWhMYjFpYkFqTnhhRVZ4bXdHRXVUaVZnbDRPdl93UkNhdEQ5dGplaEY0VzJqVW9JcGs2T3VnNjJfbnJCY3VlWlNmVU5KU01NelFSeUl3QzdCX0ZDdTlFTGsyeUpDUHNZUjBsbmpOdzZrdVZQRDk4RFZwWlNQcnlBUTQyMjM2R3VTVFpsbWFYUUtuRU1n": 1794508532110
+    "news:CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWvSAeoBQVVfeXFMUGxtSExhTUpFV0dHZ1psZGhMVkVHNm5HREtLcXNZNHhxSm9SeHJraE5SVWNZOU1menFnSlFrVnNvM0JqYlZEYXVNa01oWnJUakFEa1BJUDhZaVFnSUtxaWhMYjFpYkFqTnhhRVZ4bXdHRXVUaVZnbDRPdl93UkNhdEQ5dGplaEY0VzJqVW9JcGs2T3VnNjJfbnJCY3VlWlNmVU5KU01NelFSeUl3QzdCX0ZDdTlFTGsyeUpDUHNZUjBsbmpOdzZrdVZQRDk4RFZwWlNQcnlBUTQyMjM2R3VTVFpsbWFYUUtuRU1n": 1794508532110,
+    "threads:DcXlC86khrL": 1794508835909,
+    "threads:Ddlp_mPkkQy": 1794508835909,
+    "threads:DfE9ktQCbuK": 1794508835909,
+    "threads:DfpuCCbErHV": 1794508835909,
+    "threads:DdMNDcSEWWY": 1794508835909,
+    "threads:DAXl16Izkaa": 1794508835909
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@barokah6707",
-      "x": "dari kisah kk rengga arbiyan artinya tdk ada yg tdk mungkin. untuk sahabat bansos rajin ** ngecek kks yg sdh tdk cair.karena ada kemungkinan cair lagi...krn di bln oktober kemarin ",
-      "u": "https://www.threads.com/@barokah6707/post/DfpNY2_n77B",
-      "d": 1794491627000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27281,10 +27268,20 @@
       "d": 1794435155000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ridokt",
+      "x": "Nggak telat sama sekali. Tapi sebelum ikut pelatihan apa pun, mending ngobrol dulu sama career coach buat nyusun strategi switch career-nya: mulai dari posisi HR mana, skill apa ya",
+      "u": "https://www.threads.com/@ridokt/post/DfpuCCbErHV",
+      "d": 1794508740000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
