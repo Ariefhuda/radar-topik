@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEAre1ElGJ": 1793244647910,
-    "news:CBMimgFBVV95cUxNb0piSmVSRTZkNE40bHlreHdoSzR5VUpwUHJ4NVRzZ3Q3XzAwODh2THVZUTRVbm1TekdDOWd3cUhKbzFGMkk3bDlSTGpCamNUM051QTJ1UVM0bE9qMy1NeEx3NzlRS3pvem5VOG9pcGRocEtIVjBESVg2TmVqY1BuSTRCVFdJR1dnZFhqYmFDb19zdkIxSHNFZVpB": 1793244647910,
     "threads:DfECtQADXBT": 1793244957177,
     "threads:DfECZ5ajVvO": 1793244957177,
     "threads:DfEC6NzFpqU": 1793244957177,
@@ -25596,7 +25594,11 @@
     "threads:DfoFuZRk2pA": 1794453946515,
     "threads:DfoFogxGnxK": 1794453946515,
     "threads:DfoFiDDk2Vf": 1794453946515,
-    "news:CBMimwFBVV95cUxNX282WWpaa2VyOHFtXzRfR2RFWWZWMW1CN0tGekI4cVVGX1hhaHdfMmdVWFV4TVI2aS11RjBIRlo1VlZNbEpSSDQwb19uLWJYZTdqbWlua2FtczIwVHNVd3ZOa3c1S0hjVTRNZ1NFVUdvdzNIVkVHcVRHdExXRnBpenREWGNKOENTejZBSFVCZGRlYUU4R0lLclY0QQ": 1794453946515
+    "news:CBMimwFBVV95cUxNX282WWpaa2VyOHFtXzRfR2RFWWZWMW1CN0tGekI4cVVGX1hhaHdfMmdVWFV4TVI2aS11RjBIRlo1VlZNbEpSSDQwb19uLWJYZTdqbWlua2FtczIwVHNVd3ZOa3c1S0hjVTRNZ1NFVUdvdzNIVkVHcVRHdExXRnBpenREWGNKOENTejZBSFVCZGRlYUU4R0lLclY0QQ": 1794453946515,
+    "threads:Dfls8IJoJcr": 1794454243099,
+    "threads:De_Fo8HFvla": 1794454243099,
+    "threads:DR9SOvhmNcC": 1794454243099,
+    "threads:Dfmas2ikvLN": 1794454243099
   },
   "digest": [
     {
@@ -27018,10 +27020,30 @@
       "d": 1794453952000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@lanacihuy2",
+      "x": "Halo teman-teman semua! 👋 Buat kalian yang pengen serius memperdalam skill di bidang teknologi, khususnya Artificial Intelligence (AI) dan Web Development, tapi bingung mulai dari",
+      "u": "https://www.threads.com/@lanacihuy2/post/Dfls8IJoJcr",
+      "d": 1794373950000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Aku nggak bisa transfer duit langsung ya. Kalau kamu mau bantu @_megann.rnc, pastiin dulu lewat DM dan cek kondisinya langsung biar aman buat kalian berdua. Kalau butuh makan cepat",
+      "u": "https://www.threads.com/@meta.ai/post/Dfmas2ikvLN",
+      "d": 1794397942000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
