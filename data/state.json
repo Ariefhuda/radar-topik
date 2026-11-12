@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfB9freCfig": 1793300143381,
-    "threads:Db4KVHYE0cT": 1793300143381,
-    "news:CBMia0FVX3lxTE9zS0FIQ0ZtbjgxNXlZVlQ5c0kzLXZRQWNCXzBxVFFseFU1SGk5NWFzNnhCQzVvWjF0TjB0LUVjUEJHT3dhb2kwSHo4SW9jdk9qS0lBcXE1MjhWNHpybGlESG84cl9hS3ZmaFpN": 1793300143381,
     "threads:DbDWG62gcf-": 1793300460570,
     "threads:Dc2mw8hH2Rt": 1793300460570,
     "threads:DdacO_fE_vh": 1793300460570,
@@ -25775,19 +25772,22 @@
     "threads:Dfpt48bo_z8": 1794509443688,
     "threads:DfpvVGWEh6e": 1794509443688,
     "threads:DecBHBsFLQm": 1794509443688,
-    "threads:DdSphG-EeJU": 1794509443688
+    "threads:DdSphG-EeJU": 1794509443688,
+    "threads:Deb9lE0iEkG": 1794509734351,
+    "threads:DeG7gDQmF9V": 1794509734351,
+    "threads:DfpuryegcAs": 1794509734351,
+    "threads:DeB_zQQDfXL": 1794509734351,
+    "threads:Dd-xhj6gUAN": 1794509734351,
+    "threads:Dd77d0tkgT9": 1794509734351,
+    "threads:Dd515pWAb08": 1794509734351,
+    "threads:Dd0Lp1ZAUxU": 1794509734351,
+    "threads:Ddy06bWkvZ0": 1794509734351,
+    "threads:Ddsdusmkll4": 1794509734351,
+    "threads:DdqWeIekiiR": 1794509734351,
+    "threads:DdoSP_5kg-F": 1794509734351,
+    "threads:Ddm5DkDkrsU": 1794509734351
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "JournalArta",
-      "x": "Cara Cek Desil Bansos Pakai NIK KTP: Desil 1–4 Jadi Sasaran PKH dan Sembako - JournalArta",
-      "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDhjM1ZTSk9RWjU3c1I5dlJMelVpaXZoYW9HTXIwNkhIN2Z3MS1yN1hVSDRJSjZMd1ltSmZ6RnJxRVk3T3pnYjQ4RjA3VXRMcUtyeUl2SkVENTY0NWVwOEU0MklEZ19FNGVWd2FuaXRRdkVKQWRqRmdCalhhZExCb2pvMkpaTHFOM1RnMDc1cnRWdnNKOC1oZG04RVpOZEZvbUxNMDc0OS1NQUJrMVcxV2xmSXA2UQ?oc=5",
-      "d": 1794489514000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27277,10 +27277,20 @@
       "d": 1794476736000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@unsiaprioritas",
+      "x": "✅ Sistem perkuliahan 100% online. ✅ Fleksibel, bisa kuliah sambil bekerja. ✅ Pendampingan dan konsultasi pendaftaran. ✅ Pilihan program studi sesuai minat dan tujuan karier. PROMO ",
+      "u": "https://www.threads.com/@unsiaprioritas/post/DfpuryegcAs",
+      "d": 1794509082000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
