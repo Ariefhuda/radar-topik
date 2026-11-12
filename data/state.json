@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEwZ8gE_0r": 1793268643593,
-    "threads:DfEwrnfFB6Z": 1793268643593,
-    "threads:DfEwLsqidUa": 1793268643593,
-    "threads:DfEv52vCBzn": 1793268643593,
-    "news:CBMiugFBVV95cUxQbmZmaVBucHNNclVINjItUUc5N09MVDdTRFNQcjBpSXJ2ZHJOemRETnQ5cThxV2VqanZtTm5NdzlWdkMwQ2xUbDVURktyZ05rV3ExV3EwbjUxeGJhUnByb1VkRGxkTGYyU1pjVGZya09IUS13Zm00VV9YQlotdlpVZkhzMExrbFVmb3dsTElMd2VhaFVPeDRqRnZBZ2Q1bjNCd1FjRTVrMFByUEhQTmlZdkF4N2EySFcyU0HSAboBQVVfeXFMUG5mZmlQbnBzTXJVSDYyLVFHOTdPTFQ3U0RTUHIwaUlydmRyTnpkRE50OXE4cVdlamp2bU5uTXc5VnZDMENsVGw1VEZLcmdOa1dxMVdxMG41MXhiYVJwcm9VZERsZExmMlNaY1RmcmtPSFEtd2ZtNFVfWEJaLXZaVWZIczBMa2xVZm93bExJTHdlYWhVT3g0akZ2QWdkNW4zQndRY0U1azBQclBIUE5pWXZBeDdhMkhXMlNB": 1793268643593,
-    "news:CBMinwFBVV95cUxPTXp1WVR1d0x4SVRZa3owTGwta0xRbnJEWTRFVTlHbVJGamZUaWNVNVBxeW4tdlllcHBWcUdqd3BQSzhPRy16QnR1T0lFNnJxUDI1bUVvSkdybHp5cV9vOW9SUXhPVEY3eVM2NlpwYkhZNmFkTXpZRFdYcjRuaFI2RndpMVJhUDl5ajBlTFVPX3dsZWZZVUgtYWREZWYxR0E": 1793268643593,
     "threads:DfEv87fETbb": 1793268945910,
     "threads:DfEw4DZGbBX": 1793268945910,
     "threads:DfEw1S5GSPL": 1793268945910,
@@ -25684,29 +25678,15 @@
     "threads:Dfn9GhNE2by": 1794477940373,
     "threads:DelG9Ylk3mV": 1794477940373,
     "news:CBMiwAFBVV95cUxNRjltejFreklLZUlJSHFfRUJMZy1wMXp1NnZ4bkNDTEZxRlA0Zk9TNTNKQm9CSjV3SE9QTjJ3NUM4cm5SNk1lX3kyOFlscy1HeWpxVVlQSXUzNHNwZjJxOWdGcWlfdXR3X09IdUVxbDRFMEZtTWxEeHhxajBtbk9qVldhc19KRXNmSUVQRmFYZEotY2d4c0xUcXNUeFBybWtSS2dyYTNqdWNVUW5oM1VNbXRXY3VnUUpNM2xNV2NDWTY": 1794477940373,
-    "news:CBMixgFBVV95cUxNZ1ctVnUtdVJmX2ZsVC1STVJCS2ZPWFMxb21BOGctMEk1aWludFhOOFM5MkRPWDVhZUdqQUpvbHloeFotbGxkTDZSLWxHVTBjbGUtRUo3eVFMQThXSFNVNmdSNW9sOU53RDVBcWxLdkRMZGJfWXdqOFhMWXFnVGo2SVEtcXFEREJlQlh5T3F4OUZ3UlptcU1SQmhUSUNmWGk5YWxzNUxDUWtwQUxvN05YRmZpWHN3S21FMXpxc0dmRTNYRlpZMkE": 1794477940373
+    "news:CBMixgFBVV95cUxNZ1ctVnUtdVJmX2ZsVC1STVJCS2ZPWFMxb21BOGctMEk1aWludFhOOFM5MkRPWDVhZUdqQUpvbHloeFotbGxkTDZSLWxHVTBjbGUtRUo3eVFMQThXSFNVNmdSNW9sOU53RDVBcWxLdkRMZGJfWXdqOFhMWXFnVGo2SVEtcXFEREJlQlh5T3F4OUZ3UlptcU1SQmhUSUNmWGk5YWxzNUxDUWtwQUxvN05YRmZpWHN3S21FMXpxc0dmRTNYRlpZMkE": 1794477940373,
+    "threads:De261LzEolK": 1794478239423,
+    "threads:DTzNDZFk_j3": 1794478239423,
+    "threads:DY7VBX-kpyb": 1794478239423,
+    "threads:Dfoza0JGQw1": 1794478239423,
+    "threads:Dfoz5wQFNzJ": 1794478239423,
+    "news:CBMi1AFBVV95cUxPUFRacXBMZjhTMlo3ZnZ6c0VnZ3pGU2NEbzR2Wm82ajlRUU9STUx1NFUyNURXelM5YzVwVnI2aU81eVpuQlVIVTJtMkVabXdLdEdHZ01MV1o3bGU4TDNydTE3Q1R4RGNGTVlXU0xfeUMxVVphaFJNQVpVdEpOSG44SkpuWkRfVU9jVkVJTmE3LWh6N3A4MFZ4SzJyckVUSXdSb2owUzBSTk9qTlY5TTFaa0pXYVFabXFzeVlPYmttSV8taHVZNmM0Y0g5NEx3QkhfWVRtNQ": 1794478239423
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nihaojourney._",
-      "x": "Nihao kakak tolong follback yah 🫶🏻 anw aku izin promote ya kak 🇨🇳 Di cari 20 orang yang mau belajar Mandarin dari Zero!! Ikuti FREE learning class selama 2 jam (1x session) sec",
-      "u": "https://www.threads.com/@nihaojourney._/post/Dfoi3aZEihj",
-      "d": 1794469332000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@domidohusk",
-      "x": "Kalau ambil paket yg TIU doang tetep dpt kelas gratis ga kak?",
-      "u": "https://www.threads.com/@domidohusk/post/DfoisShEjXY",
-      "d": 1794469241000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27186,10 +27166,30 @@
       "d": 1794477840000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@pangerandaun123",
+      "x": "Lah, logika lo yang kebalik, bro. > > Iya mereka kerja ngurusin kasus. Justru KARENA mereka lagi ngurusin kasus gede, makanya mereka disingkirin pake TWK. Kalo mereka lagi nganggur",
+      "u": "https://www.threads.com/@pangerandaun123/post/Dfoza0JGQw1",
+      "d": 1794478010000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Tribunpekanbaru.com",
+      "x": "Polres Meranti Buka Bimbingan dan Pelatihan Calon Bhayangkara, Gratis untuk Masyarakat - Tribunpekanbaru.com",
+      "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUFRacXBMZjhTMlo3ZnZ6c0VnZ3pGU2NEbzR2Wm82ajlRUU9STUx1NFUyNURXelM5YzVwVnI2aU81eVpuQlVIVTJtMkVabXdLdEdHZ01MV1o3bGU4TDNydTE3Q1R4RGNGTVlXU0xfeUMxVVphaFJNQVpVdEpOSG44SkpuWkRfVU9jVkVJTmE3LWh6N3A4MFZ4SzJyckVUSXdSb2owUzBSTk9qTlY5TTFaa0pXYVFabXFzeVlPYmttSV8taHVZNmM0Y0g5NEx3QkhfWVRtNQ?oc=5",
+      "d": 1794477854000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
