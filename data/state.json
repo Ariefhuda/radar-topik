@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD_lW0GlxH": 1793247642565,
-    "threads:DfEIoJrE7IB": 1793247642565,
-    "news:CBMiygFBVV95cUxOSUoybmtFUXgxaTF1cDBOQnJqcm10ODQtSzV1Vm8xOEhQUmpuTHFQMjZVUVRrbXVJN25zNVZ3R0IyWHIxZlRoM0p3d2tzQjdmTWgyUE1vMy1NZ2hhemY0c1FYcUhwenNUOER6MTlWcHF0NXY1TnpEcUJoRVpSeXc1eHFuZGhwcndIMWd0dzlpcERhNGxYZHFqZFR3SkgwWjZvVW9yVGNOLXdCMnJSUWNkX2p0MnM1MHVndzg2X01reGM4QTJaWDhYbkZn0gHPAUFVX3lxTE1JMEZiN2dsUnlISGJxRTBXRlJkVVpZdnQ5dWFKNUh0d1M4QVFhTFBha3FiVmVJOGxKU0lFZ0NsSGdsNUlkbUltd0gyVkRqMWpjOWlQSFRuZk5iRDgxYk5CblF4WWZpVF8wMFRicmRubTI4ZHJRVGNmZUdOZDh4aGZIY1lVRFR0QjBBc3V2Y25vWm5GRHVCOVBLbnV1OElpRkVWMzd1VlNBLUZMOWI5ZVV6M3laMm1GbXFQSXNYOW1ULUpyTHEzblNkd29lX2tTTQ": 1793247642565,
     "threads:DfEJAGvAr4q": 1793247940593,
     "threads:DfEBZDVmx6X": 1793247940593,
     "threads:DfEIRsgmvkr": 1793247940593,
@@ -25575,39 +25572,12 @@
     "threads:DfoLCYLmfWY": 1794456950753,
     "threads:DfoK75Tmfyo": 1794456950753,
     "news:CBMizwFBVV95cUxQWlVoLVlLcVlMODgxd0xrbmRYZ0RIRThmUUNoR1d0QXVMdFc1NEd5UTR5MVZ0YVJjYlBXQjJZMkV4emdNVzhGU014MkZweEEtd2NsRjZMUE1pdGllX1hVRDBNR3RWVG9MVkhoNm5VOHRDTC11UGgwVERodWxfYzRhblh0ejg2MHp5NkU0bk9uSkRqSTBPOGlhTmhDbTZ0OEtYekNfaHQ2T3lxYTZEc3RyT2NRRm5jUFhVc3doTURtaHRWRlF3ZWMzSXp2dW1HRUk": 1794456950753,
-    "news:CBMitgFBVV95cUxQN09PcFJPU0ozWWhDWFhFcGJfRzVwaWtoM3hNWU1WTlFqejVDeExqUW00RWFkeUhvNHd3NFBqVjE4a25HRXE4U2tRVkFoU0NYTmhYYkx6TTc1UWRKN3VTb2VFcmdBaEFWYTJMdDRmRTVfc3ZUTHcwSEt2Xy16R2lpMGp2cjVwRnEyVzZFQVRkZWpMWjROclpjZXZLTjl0VldKTG1rb3B5R2pVS1VSVGJfMno1UkU1QQ": 1794456950753
+    "news:CBMitgFBVV95cUxQN09PcFJPU0ozWWhDWFhFcGJfRzVwaWtoM3hNWU1WTlFqejVDeExqUW00RWFkeUhvNHd3NFBqVjE4a25HRXE4U2tRVkFoU0NYTmhYYkx6TTc1UWRKN3VTb2VFcmdBaEFWYTJMdDRmRTVfc3ZUTHcwSEt2Xy16R2lpMGp2cjVwRnEyVzZFQVRkZWpMWjROclpjZXZLTjl0VldKTG1rb3B5R2pVS1VSVGJfMno1UkU1QQ": 1794456950753,
+    "threads:DfoK5RAjzHX": 1794457234535,
+    "threads:DfoKxn0D3QG": 1794457234535,
+    "news:CBMi3wFBVV95cUxOMnIxeGhhVUxRamlrc2Jic2N2b2g5Q2trMXoyMUVLV3k1SkRfSUJwVDJic29uaU9fOE1fQjZRQzhFUFBYNHlJR25QaTFTWTl0aDBYQ3k1ZzRLMDNlamxHZ2hqXzJabHFVSXM5TXE4WEd3bjRWRm1QYkFxRjZ2VGJoQ2d5TlJnR2tNN3htTy0xWUFyTkFmcXd4Z2owSUU3Z0JEZVRZeGFpdHdjd3BqRE4teVMyMkxzVGhYYTk0X2txQXZqd2FuaklmaG5FREdGOUdRSWt0Tm5pMUNkMl8zU0tr0gHkAUFVX3lxTE5MY1U3WWhoM015dUtveUtydFBTMlNjdWxBVVgyZzU0WHluZEpIejhLTEpMZFl5a0kxUGlMbWtSNFFZT1cyYWZON3p4VVJkSmM2dS1CbnVCVUp3eFQ2eU9tR1EwUWJ2dkJRanR4aVdkZzROZ0ZnR1dIc0UzeUlKalBLdWJPN0lvNTBsTzdUaDJXdEtGMlJtT1N4U2NhQUdzVWR5d24wOWdIMV9JMEYwa3VfbDFtTURHWjVYMzdtU3NpSFFzZktuSDRvUVllaWFKWEZjUkR4T3NZT2t5Z1FEaGJqaENUVg": 1794457234535
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@namithaparamitha",
-      "x": "Kalo ada yg ngasih webinar GRATIS mau gak ? Ngebahas cuan dari digital. buat umum, pemula, gaptek, IRT, dibimbing sama mentor2 sampe masuk income. bisa di kerjakan dari rumah, bisa",
-      "u": "https://www.threads.com/@namithaparamitha/post/Dfn5Du1kmXv",
-      "d": 1794447413000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@sukses.cpns.27",
-      "x": "GRUP CPNS 2027 part 2!!! ada teman-teman seperjuangan CPNS, berbagi info terbaru seputar CPNS dan mendapatkan webinar gratis🤩 silahkan yang mau join yaa",
-      "u": "https://www.threads.com/@sukses.cpns.27/post/Dfn5Cydknpq",
-      "d": 1794447405000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@s3pemalang",
-      "x": "BANSOS CAIR!!! BANSOS CAIR!! BANSOS CAIR!",
-      "u": "https://www.threads.com/@s3pemalang/post/Dfn6QfGn80V",
-      "d": 1794448041000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27077,10 +27047,40 @@
       "d": 1794387138000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "kalau ngerasa desil 6 ga sesuai, bisa ajuin sanggah lewat aplikasi Cek Bansos atau desa kak",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfoK5RAjzHX",
+      "d": 1794456772000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@ceritainkamufakta",
+      "x": "iya kak, desil ngaruh bgt. kalau ngerasa ga sesuai, ajuin pembaruan data lewat desa/kelurahan atau aplikasi Cek Bansos",
+      "u": "https://www.threads.com/@ceritainkamufakta/post/DfoKxn0D3QG",
+      "d": 1794456708000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Desk Jabar",
+      "x": "IHG Siapkan Calon Manajer Hotel dari Bintan, Lulusan Politeknik Dapat Pelatihan Gratis - Desk Jabar",
+      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnIxeGhhVUxRamlrc2Jic2N2b2g5Q2trMXoyMUVLV3k1SkRfSUJwVDJic29uaU9fOE1fQjZRQzhFUFBYNHlJR25QaTFTWTl0aDBYQ3k1ZzRLMDNlamxHZ2hqXzJabHFVSXM5TXE4WEd3bjRWRm1QYkFxRjZ2VGJoQ2d5TlJnR2tNN3htTy0xWUFyTkFmcXd4Z2owSUU3Z0JEZVRZeGFpdHdjd3BqRE4teVMyMkxzVGhYYTk0X2txQXZqd2FuaklmaG5FREdGOUdRSWt0Tm5pMUNkMl8zU0tr0gHkAUFVX3lxTE5MY1U3WWhoM015dUtveUtydFBTMlNjdWxBVVgyZzU0WHluZEpIejhLTEpMZFl5a0kxUGlMbWtSNFFZT1cyYWZON3p4VVJkSmM2dS1CbnVCVUp3eFQ2eU9tR1EwUWJ2dkJRanR4aVdkZzROZ0ZnR1dIc0UzeUlKalBLdWJPN0lvNTBsTzdUaDJXdEtGMlJtT1N4U2NhQUdzVWR5d24wOWdIMV9JMEYwa3VfbDFtTURHWjVYMzdtU3NpSFFzZktuSDRvUVllaWFKWEZjUkR4T3NZT2t5Z1FEaGJqaENUVg?oc=5",
+      "d": 1794399970000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
