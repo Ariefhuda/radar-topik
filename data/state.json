@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfGKc03Esv7": 1793316341470,
-    "threads:DfGLMlVkTY7": 1793316341470,
-    "threads:DfGLIrZkYhV": 1793316341470,
-    "threads:DfGLP8ck6Cv": 1793316341470,
-    "threads:DfGLPjtkzwA": 1793316341470,
-    "threads:DfGLFHqkxAV": 1793316341470,
-    "threads:DbCJy6ZkzUJ": 1793316341470,
-    "threads:DaokfHPk0-T": 1793316341470,
     "news:CBMilwFBVV95cUxQcjFWcVdseDNfWkdiMkd4Y1NPZXJ0Ukp4a1BJV3psZTlIcWpLdUlCLWMzYklYZ2lGV1l2VDQwdy1UX01ja0MyQUxHWXZlYnFWU0dSeU9RUWxwNmZmUE13Y3Q3ZHFwUzloUGlmWElTVndBRVNfelI3and5RlcwcFdwM25VNFR2TnNOSTNzTFRhczMtdC1LTVpv": 1793316670357,
     "threads:DaJ3ssdjVog": 1793316950063,
     "threads:DfGL-0zkxwc": 1793316950063,
@@ -25633,29 +25625,17 @@
     "threads:DfqODGAji5s": 1794525636950,
     "threads:DfqNjFWDz36": 1794525636950,
     "news:CBMi3AFBVV95cUxOa05nT0RhUnFObVZES1R0ODBoWHhBTGFCLXFHR0REdkZTMndPa2JfYktEVW9yV19uYURqejdDYmNyUVVVWDM3ZUMyeDFnczlhNVB2ZnZvRGJTbE5XN2U2T3hQUDdmbUNUNDJNTUNNV29Wd05UclN1TlpNdFF5S3ZxY3RiZFI1WmxDem1fUWlwdS10ZUsxbjl6dEFQeTNoNS12RS1KMHN3WnpvNjh0UXF3VzAtZUluNnJ5SXVXVUYySW1ZbU51SVpMOU9vMkhZdjlyOWlTT0NDYTRSZzVK0gHiAUFVX3lxTE5KRVhBSWJVR0hlWU5QRkZnQVdoS05KNV8tUHRMOE5vd194SHNkckpmMm1rczd2Sl9sVUEtdHo3WF9zTU11cU9wNXU5ZmlCcV82RzBTbmV5dU5GSTJGZ1YxRnJyOFpoMEh4amZBRzVVdWtJQXB1UkVWYVlGUlpwVk93RUs3aHpVblJiYkY1UW5WdW4xcjlpTkhhdkt5cTIxTTZncmNMT01oVlRtOFNSWUoxM05JeEFRUmtCN2I3dDlTOUZ1UnJrVTdkZ19BOVFrMXJGQVc2c1FMSnBpVzR2WlkzaUE": 1794525636950,
-    "news:CBMi0wFBVV95cUxNQW41cVgyMElZNWhnRGVwM1VHSG5wQmdZVC1UWnRxOVk5RERhaFlpcF9QaWxfc3E0ekY3Qjg0eVAxYmdCMTNuTGFtdURzMGp6bnUxYjA5ZG9NNWQ0VWNNTGhTWnBPMXZZeC1zMzNKMVB1UmhqSi05SXlNZXh1eC0xNU5xWmZoT21rN1FnTXZRUUJNUFRweXNmYWpieTBEdm92UEJfN2FHRjRXTERSRkNNTm1tTVZaUEc5clZiSjBHZk51S19mQjM1YkpNdk9BUDNvVlFZ0gHYAUFVX3lxTE1CN0prVGVRVnJXZ3RwMm8zdVl2X3hGZUxzV013Uzd6dDhhVGJUWC1GMUJaZ3VFd0xyNnNGbWtDbU9HbjNTdDFuazZBRHNuSWNkQWMzMkRwc1h4bVladG0xejNJa1hVWl9Uakc1cGZDSFlWWElwY1ZkWkVEdUZOOU5FVTU2MnU0U1pUc2tzWndqYzZpaF9jX0RkMlVZT08zTlZiSGVtVGRpV2JoNng5dGtXWlRMUmtEcUVZMFd6dU5ObU4xTWd4VDQzSmdfbHlPeEozSUdVQUR1Rg": 1794525636950
+    "news:CBMi0wFBVV95cUxNQW41cVgyMElZNWhnRGVwM1VHSG5wQmdZVC1UWnRxOVk5RERhaFlpcF9QaWxfc3E0ekY3Qjg0eVAxYmdCMTNuTGFtdURzMGp6bnUxYjA5ZG9NNWQ0VWNNTGhTWnBPMXZZeC1zMzNKMVB1UmhqSi05SXlNZXh1eC0xNU5xWmZoT21rN1FnTXZRUUJNUFRweXNmYWpieTBEdm92UEJfN2FHRjRXTERSRkNNTm1tTVZaUEc5clZiSjBHZk51S19mQjM1YkpNdk9BUDNvVlFZ0gHYAUFVX3lxTE1CN0prVGVRVnJXZ3RwMm8zdVl2X3hGZUxzV013Uzd6dDhhVGJUWC1GMUJaZ3VFd0xyNnNGbWtDbU9HbjNTdDFuazZBRHNuSWNkQWMzMkRwc1h4bVladG0xejNJa1hVWl9Uakc1cGZDSFlWWElwY1ZkWkVEdUZOOU5FVTU2MnU0U1pUc2tzWndqYzZpaF9jX0RkMlVZT08zTlZiSGVtVGRpV2JoNng5dGtXWlRMUmtEcUVZMFd6dU5ObU4xTWd4VDQzSmdfbHlPeEozSUdVQUR1Rg": 1794525636950,
+    "threads:DfqObhZOQTp": 1794525940107,
+    "threads:DfqN5Xmjedt": 1794525940107,
+    "threads:DfqN3Q9E8-f": 1794525940107,
+    "threads:DfqO6wCjxah": 1794525940107,
+    "threads:DfqNfWrkwnk": 1794525940107,
+    "threads:DfqO7g_Emzx": 1794525940107,
+    "threads:DdOJPj8k6nj": 1794525940107,
+    "news:CBMizAFBVV95cUxPMHRncDdiV0E5Rnpkd3FtSzVSZVJZY0cyUzZOSy13cDVwaWdXUmFzRG01cDBHZ1dSOExtcXJJVEV2Wk9zXzNlUTNuOFBWc3NrTW9nZkh0cjF1UUNkd2RwLUx5Q3AtMHE0eWc0dXFqMTNqYUJfdHlqbVJwd3p3RVYwV0Y5azMzM2xkQU0xOGgxQ1NWcFk5NEZVa0hLQURGMUlrXzRnNGV2dktxYkJtTEsxZ1pmRUdvLXJwWUZCaWVUa2VkdHFyWW9ncjVnLU0": 1794525940107
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@arumpurbasari",
-      "x": "Halo! Aku Purbasari Kusumaningrum, dan aku ikutan Short Class, sebuah program kelas gratis dari @myskill.id. Kelas ini menyediakan banyak topik-topik pilihan seperti Digital Market",
-      "u": "https://www.threads.com/@arumpurbasari/post/DfpUjCNI5Mi",
-      "d": 1794495379000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "KLIK7TV",
-      "x": "Di Ujung Jaktim Ada Pusat Pelatihan Lengkap, Wali Kota Minta Media Bantu Promosikan - KLIK7TV",
-      "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzNTWG9Xd2c2dVZsN3dITUthR1VFaGR3X2t6bDRUc3p6TjkzeDB2c2xZQkc2Z3ZCVWVyOHhlekxNSFlpZUQzZWw2RTJLbXg3TzdmNU5lckhFWXNsc2hCWHMzbGhVQ3pVbHdxZWVFbVFBckZhUGdRN1djR1hzWnVzeXp4WEo3NHIxR2JldzJHa2l1MEV0Ym1FdThWUkVWR3hpQ1ZRR20yQ2Y?oc=5",
-      "d": 1794495590000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "e-sertifikat|sertifikat gratis",
       "s": "news",
@@ -27135,10 +27115,30 @@
       "d": 1794525293000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@joeshua98",
+      "x": "INFO WEBINAR GRATIS Bagi yg mau join webinar gratis silahkan registrasi di https://bit.ly/NCA-CareerWebinar01 Dan yg mau bergabung di grup seputar K3 silahkan join di https://chat.",
+      "u": "https://www.threads.com/@joeshua98/post/DfqO7g_Emzx",
+      "d": 1794525989000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "TINTAHIJAU.com",
+      "x": "Beasiswa Adiluhung Global Scholar Dibuka, Siswa SMA dan SMK Berpeluang Kuliah Gratis di Lima Negara - TINTAHIJAU.com",
+      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRncDdiV0E5Rnpkd3FtSzVSZVJZY0cyUzZOSy13cDVwaWdXUmFzRG01cDBHZ1dSOExtcXJJVEV2Wk9zXzNlUTNuOFBWc3NrTW9nZkh0cjF1UUNkd2RwLUx5Q3AtMHE0eWc0dXFqMTNqYUJfdHlqbVJwd3p3RVYwV0Y5azMzM2xkQU0xOGgxQ1NWcFk5NEZVa0hLQURGMUlrXzRnNGV2dktxYkJtTEsxZ1pmRUdvLXJwWUZCaWVUa2VkdHFyWW9ncjVnLU0?oc=5",
+      "d": 1794525786000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
