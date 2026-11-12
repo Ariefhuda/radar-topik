@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD9zyMEkrx": 1793242243959,
-    "news:CBMi3gFBVV95cUxPZWNhMHNhU04tSm9uOFhHaVpSdS1iMUhVeUVaX0JaME41T1pzY1Q4QlphRVhISXF2M1lWcUJGZ3ZhUmRBN3NoNTFPY0k1U3dCX3JyMWdweDdpamFQclBlbEtQXy05dmw0Ynd3TjNNNmFvcERvUTNXUVM4VmZnQ2dpZW5naG5fcTVIaFI4djFLaDJWQU5YQ04wOC13SmNfNFpha3JkOWJnTlpVZ1BxdTdSY0pwOHg3dHVKNU1IZ2tzSm5WTk5sSjdHaXFkYnhQcGNzWDhBQmM3TjdMdlU1TFE": 1793242243959,
-    "news:CBMiiwFBVV95cUxQUzhxdGdtWXVhbjUtaVhiY1FNVC10Zkhkb0hYOGJoNThBUEp1MDZiZUhXS0Z3LXlILXZjaTFtTnhoYTRYYUhTV3JQT0dhMVAtcHVzeFQwVnVmWVdTT0UtVmhhU3ZfVDB0N0RvcC1pZjJYTUw4aEpoVjVfQmlXTFRkOGZXRVpDT3YzdFlN": 1793242243959,
-    "news:CBMi0wFBVV95cUxPUDB3THRUbkpZY3RrbG90UzhyWnJNSkFwXzZ4RjRRa1RIYmZ4SlNVSVZQaXFiZXRYUkNCN3lUM0VlMVFDczN1RjBUOGlSRGI2a0xySUFqWE43ZGtqSGhxWTRvbUVWUnVIUWNQTWgxWmFQeEMwb1NHYUZtUFNtdHhHN0l0Sm8tYzQyTDZSeHQxNVM1SW9hNXNLWko5TFFaQjZLeUlyRTFyVDVlUktGYm5GUmV2angzUHFad2FQcFpIN3NpRjByMmVlSERUdGtEdjBXYzdZ0gHYAUFVX3lxTFBjOWoydTJvWTRiQk1vZWh1SFJRV2VkNTVDUmN5dGlFWDh4dFhDS01nMEhkSFhiMS1KQk1DTm5mb0VoVWROVWllVzVwX0VDYmE2ZUpBQklNUllTWnFMUmxRSWpDLWswYXVNMkYtOVVVR2Joa1N4aUhMVjZkTFlSai1DTzliNS12X01RbUtkVGNtVG42M3BEdGREZG5xRWZhcHdnbEZqejJLdmJsbURCRmRyaE1IZXFsR0wwZFlQMXlWVjdHZXgxbnlqWDZ5RFJhYm9mOTY4cjN5OQ": 1793242243959,
-    "news:CBMiugFBVV95cUxPUjhxMnhaVjlQVHZ6NWlGS3NLQVhrWW5LcGdHbTRaNkM1dzlSUkhobVVCZ2hlVEV0WUhBMFFXb29MSXFZSU1FTHQ5clJrc29ob2hnc2Mxd0ZqWDcwY0F2OGxhcDNqNEhRbG81ZDBSMFFVcGRLNHJVcGlIRUllOG5XTW1KUmJuR2xIeHVkMlpOTUdYMVNxWWNBalQzUk9ZOEdmOU91R2tjRW1rTW42YTd4UnNUQzB3anh5U3fSAb8BQVVfeXFMTkJGazE0dEVVUTVwV0piOW1fX05xdTZ1RFBwelZiaHR0RU9FdnQ1bm5TZS1pRGhIdXZIZVBhaXNpRjEzczlLZ2twNXMzbTVLcVhhWHZkNm5LdjFHc3RabTg5Qk45Zl95R3VZaHNmYVBFYnlGVkE0TGJlMldKeWxxTjBPbXB6X29nRnBDOFotay0zX29SaFpSZHUtaGU2T0FZODNPdmc5Vm1sMFUtSnVHVlpYdHllS1d0clpWMy05RGM": 1793242243959,
     "threads:DfD-ry8iGcv": 1793242535538,
     "threads:DfD-oYuk-vU": 1793242535538,
     "threads:DfD922mE1Sd": 1793242535538,
@@ -25589,7 +25584,15 @@
     "threads:DfoAL7nDrAY": 1794451543208,
     "news:CBMi1wFBVV95cUxNWmZyZ051SnU1a1o4UUpRVWhsYWVienY3bktuY1NVcXlJMk0wck5WSEthX205RERlN0RHemxXbTY2SnRfTExHanNVSGVFUUdET3UyNnZ5WU1uZkJ5WnUyeHpTXzhBYmpsZVVqWW5VMXl4ZkZ2WmxTRDloZFVEZGxjcUVoZm50RkxkYVE0eGF1a1h3OFROT0NzY1F6cVhiOWc4VzFENFdKRXBNdkJlN3g0RDVzclhYRU50Znh3eVI1c0g2a0ppd3JONlFOS2VINnVEaVRZakZBOA": 1794451543208,
     "news:CBMiiwFBVV95cUxQQ3lhaDBPdGQxV2dSTmVzZTdaTnQzOEpfd183Z1ZXemdGRjAtdXZZOC14Z2piVVk1aWZYLUdPUkJ3VHJuZ3pyTm1vN1E4UE5nSHRQeHJGTV9FMnZ3M0ZidFlyMlRyTEhZZjdkMWVoVG5pbXlnV0NLdC1BZnBFQjR5aTVxTkV3WE92V3VR": 1794451543208,
-    "news:CBMirAFBVV95cUxOclRJNXZQSnBmUU5mbmluMWduZERGR2JicmM2NnBMdFY1TUREWnlzRU5NT2hkOWM1QWM1V3YyVW9CdVVQTTRTUEY2Tnl2Rzg4ZGhCMXVhUkUxOGNGSWpuUVNjSENxQmFHRUpPeXhlX3hOaVFwcGtKTFJWNVRZUWVrT3U3ZWc2Ti1DMUpFLWdJXzhwTzhjdDNGdlF4UjFEUXN4Vlo0dVNFU3lpQURL": 1794451543208
+    "news:CBMirAFBVV95cUxOclRJNXZQSnBmUU5mbmluMWduZERGR2JicmM2NnBMdFY1TUREWnlzRU5NT2hkOWM1QWM1V3YyVW9CdVVQTTRTUEY2Tnl2Rzg4ZGhCMXVhUkUxOGNGSWpuUVNjSENxQmFHRUpPeXhlX3hOaVFwcGtKTFJWNVRZUWVrT3U3ZWc2Ti1DMUpFLWdJXzhwTzhjdDNGdlF4UjFEUXN4Vlo0dVNFU3lpQURL": 1794451543208,
+    "threads:DfoBYFpDzrk": 1794451835684,
+    "threads:Dfn_kn0mGy5": 1794451835684,
+    "threads:Dfn9gW5CNgg": 1794451835684,
+    "threads:DfoA_GYk5oT": 1794451835684,
+    "threads:DfoAf0qmjSR": 1794451835684,
+    "threads:DfoACaIAXll": 1794451835684,
+    "threads:DfoAoMXkmt8": 1794451835684,
+    "news:CBMi_gFBVV95cUxPM25xMVF1SmMzb3RQNlRCN3hleFhOZEE2UlA3dEloSGRfWTZpa3ozV2YwSlppVFdhNGNZcGJjcjBsSVFvRFJKamhlQ3g2WjRpRlRKSWxBZkkyemYxTGRJdWxmVHRzMlo4T3hQT2pqQmdlU1p6VjhQQ2k4VjB0akFWVlVYWDE2R1BWRjN5Rk5KQ056LV9JbGpKZFpMQzZLX0VmdUFhMUJGdTBTLTFkQ3ZwTGlNOXZUdUlEVXJqcU9BLUwzUDltaG5zWjltb2xEOVpYcEVlVTNuR3NPc3hDcmNuamFNUTdhbHhoc05LVlhUb01rWGRIdEVJVzNIeW9Pdw": 1794451835684
   },
   "digest": [
     {
@@ -26661,10 +26664,80 @@
       "d": 1794450600000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@dinnie_ivone",
+      "x": "Hallo Buk, bisa coba bisnis online 😊, banyak skrg para pensiunan coba belajar ini. Jadi bisa mulai belajar skill digital marketing dan bisnis online dulu. Nantinya bisa dimanfaatk",
+      "u": "https://www.threads.com/@dinnie_ivone/post/DfoBYFpDzrk",
+      "d": 1794451774000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@eneng_apt",
+      "x": "Untuk zaman sekarang side hustle yg paling memungkinkan buat karyawan/IRT adalah cari cuan dari online... sebaiknya cari ilmunya dulu terkait digital marketing supaya tau mindset y",
+      "u": "https://www.threads.com/@eneng_apt/post/Dfn_kn0mGy5",
+      "d": 1794450828000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@msyahrulm",
+      "x": "temen temen IT, ada yang mau diajakin belajar bikin secure CI/CD pipeline GRATIS? webinarnya sabtu tanggal 14 malem.. yang berminat reply \"mau\" ya..",
+      "u": "https://www.threads.com/@msyahrulm/post/Dfn9gW5CNgg",
+      "d": 1794449753000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@peltrasafetyacademy_dian",
+      "x": "🎓 TINGKATKAN KOMPETENSI, SIAPKAN SDM UNGGUL UNTUK PROJECT 2026! Saatnya meningkatkan keterampilan dan profesionalitas melalui program Training, Sertifikasi BNSP & In House Trainin",
+      "u": "https://www.threads.com/@peltrasafetyacademy_dian/post/DfoA_GYk5oT",
+      "d": 1794451569000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muchfahmiarif",
+      "x": "🚀 Buat kamu yang ingin mulai belajar Artificial Intelligence (AI), ada program menarik nih! PIJAK 2027 dari Dicoding x IBM SkillsBuild hadir untuk membantu kita mengembangkan kete",
+      "u": "https://www.threads.com/@muchfahmiarif/post/DfoAf0qmjSR",
+      "d": 1794451313000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rapunslowww",
+      "x": "Ada ga sih pelatihan IELTS yang gratis dari pemerintah?",
+      "u": "https://www.threads.com/@rapunslowww/post/DfoACaIAXll",
+      "d": 1794451072000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@nov.animagic",
+      "x": "Ngga cuma bikin video animasi, di kelas Animasi AI kita bakal praktek buat video affiliate produk kaya gini cuma modal ngetik doang.... Siapa nih yg mau ikut KELAS GRATIS nya ? Fol",
+      "u": "https://www.threads.com/@nov.animagic/post/DfoAoMXkmt8",
+      "d": 1794451443000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
