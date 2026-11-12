@@ -60,18 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFoKvKlPZ1": 1793297748012,
-    "threads:DfFoFVclBWC": 1793297748012,
-    "threads:DfFn_jwFC9q": 1793297748012,
-    "threads:DfFn6j4FDTj": 1793297748012,
-    "threads:DfFn2TPFGNR": 1793297748012,
-    "threads:DfFnx7ZlBre": 1793297748012,
-    "threads:DfFnnTSFJy_": 1793297748012,
-    "threads:DfFndeQlOhg": 1793297748012,
-    "threads:DeVwAjFCAz2": 1793297748012,
-    "threads:Dee2Fs5GVen": 1793297748012,
-    "threads:DTmfelgEh0j": 1793297748012,
-    "threads:DcXllW2keXm": 1793297748012,
     "threads:DeB_zQQDfXL": 1793298064074,
     "threads:Dd-xhj6gUAN": 1793298064074,
     "threads:Dd77d0tkgT9": 1793298064074,
@@ -25803,29 +25791,15 @@
     "threads:DfpqN-7OLD7": 1794507039265,
     "threads:Dfpp56VBWN5": 1794507039265,
     "threads:Dfpp7iwiZic": 1794507039265,
-    "threads:Dfpp1WEk6Gd": 1794507039265
+    "threads:Dfpp1WEk6Gd": 1794507039265,
+    "threads:DfpqkxSD98w": 1794507337790,
+    "threads:Dfpq5EYEzj3": 1794507337790,
+    "threads:Dfo9Ev0IOEa": 1794507337790,
+    "threads:DaSiSZ1kmK4": 1794507337790,
+    "threads:DTzPXK2kxjy": 1794507337790,
+    "threads:DfpqhOTk4is": 1794507337790
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Demokratis.co.id",
-      "x": "Kemdiktisaintek Buka Beasiswa Garuda S1 Luar Negeri 2027 - Demokratis.co.id",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaV2hNWHprVEZfY09JUmhPQXM3X1Uxa1N5aEZ3eDBrY1hwNHEwdXFUWFRFQm1WVmJFTl8wNE5JRGNmcFJfVE91VkVuUXh4aV8xOW45UHFRRkU0YkdxdU5iZGxUX3Bab2ZsSXJzRA?oc=5",
-      "d": 1794490548000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "news",
-      "a": "Lensa Hukum",
-      "x": "Kemdiktisaintek Buka Beasiswa Garuda S1 Luar Negeri 2027 - Lensa Hukum",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zYjhMOW9uN0F5Y1l3Y1ZkMDNVcmlpSHkycDhKa0FjQ25BYXRSaVhHdVByNlVCd0o2Z2ZYUnh4WWVocG9oWHB5WGdZa2pLZHpBeHUtRG82ZXVfVi1lbnJXQ1NFTDNITkxneldGYw?oc=5",
-      "d": 1794490571000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27305,10 +27279,30 @@
       "d": 1794505350000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rafiulwanyy",
+      "x": "Gausah DM yuk. Cukup Komen aja yuk. Aku lagi bagi kelas online gratis tentang belajar cara ubah data kerjaan di spreadsheet jadi dashboard interaktif auto update dan versi sederhan",
+      "u": "https://www.threads.com/@rafiulwanyy/post/Dfo9Ev0IOEa",
+      "d": 1794483073000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@wudin5914",
+      "x": "Tahun kmren pernah dapet apakah sekarang bakalaan cair lagi kayak tahun kemaren, rek mandiri #BSU #BSU2026 #BANSOS",
+      "u": "https://www.threads.com/@wudin5914/post/DfpqhOTk4is",
+      "d": 1794506899000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
