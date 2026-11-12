@@ -60,21 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEpzUiGzMn": 1793265061637,
-    "threads:DfEptegD3ox": 1793265061637,
-    "threads:DfEpikpDM-n": 1793265061637,
-    "threads:DfEpcePnPZM": 1793265061637,
-    "threads:DfEpM2yHC0Z": 1793265061637,
-    "threads:DfEo7fLnLUg": 1793265061637,
-    "threads:DfEot3_gTNW": 1793265061637,
-    "threads:DfEoprRnLfC": 1793265061637,
-    "threads:DfEooBoFd_K": 1793265061637,
-    "threads:DfEgUnxm6SK": 1793265061637,
-    "threads:DfEqBC9k22e": 1793265061637,
-    "threads:DfEpmw3E7jf": 1793265061637,
-    "threads:DfEpLnrEfMD": 1793265061637,
-    "threads:DfEo62VG7VO": 1793265061637,
-    "news:CBMitwFBVV95cUxPaUhDSTdwX2Y2aTZfSlR5VFVnZHdEY3k0N01zUGxrYTh0SGRadVBRS1B1VjlqMHhsVTBmbzU1UG14MC1uWVZleDI3OXVydjYyRW5yTHh3WjR6dDZnWi1tMXpMbG9pcjh2NEtWd19hOVJRWE04dEFIZ3pRUE8xUmlxd2tVVDJwUU5LRUhHR2VuUUJvMS1aY3JScDlZQVEtLTlBQXIzWDhUOEhWRmhMdkFjZHpYZFU2TUU": 1793265061637,
     "threads:DdCoBCuk84h": 1793265345276,
     "threads:DfEqRNJIWQS": 1793265345276,
     "threads:DfEqf7dDOky": 1793265345276,
@@ -25603,19 +25588,11 @@
     "threads:DbdUmBZGYde": 1794474345401,
     "threads:DU1uPY4E7_M": 1794474345401,
     "threads:DT7RyiqFRsy": 1794474345401,
-    "news:CBMiswFBVV95cUxPaWxfTlRrVU5Nam82OXkyQV9Xa0VnX1FoRGN1SVZSMy1EX0oxMWZUYk0teng4MWh6WS1Cbk9xQ0VaMl9XOThqd1RMSjlRSlF5UG4xeGJYcDZNWlRNVXVvbUhqZVRRcXhqQzFxZGROUHhha1FuVlViTzE2Qk15Nmh3UXZrd0NLNXBXM281TGZSczJFWlc3X2VrOXg0ZXFWcXJKZFJDOS1RSnNfLUllbUNzS0swSQ": 1794474345401
+    "news:CBMiswFBVV95cUxPaWxfTlRrVU5Nam82OXkyQV9Xa0VnX1FoRGN1SVZSMy1EX0oxMWZUYk0teng4MWh6WS1Cbk9xQ0VaMl9XOThqd1RMSjlRSlF5UG4xeGJYcDZNWlRNVXVvbUhqZVRRcXhqQzFxZGROUHhha1FuVlViTzE2Qk15Nmh3UXZrd0NLNXBXM281TGZSczJFWlc3X2VrOXg0ZXFWcXJKZFJDOS1RSnNfLUllbUNzS0swSQ": 1794474345401,
+    "threads:Dfos4F5gf3F": 1794474656687,
+    "threads:De_DmhSgZ2P": 1794474656687
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@yknovie",
-      "x": "Kakkk, kalau tertarik masuk dunia pertambangan, boleh mulai upgrade pengetahuan K3 dulu nih! Kebetulan aku ada info pelatihan K3 gratis dan juga pelatiha. Kalau mau info lengkapnya",
-      "u": "https://www.threads.com/@yknovie/post/DfoZFH8mfjg",
-      "d": 1794464201000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27105,10 +27082,20 @@
       "d": 1794452400000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@yuliani.dessy",
+      "x": "tinggal download perlinsos (cek bansos) terus login buat akun baru terus habis itu ngisi data aja kak",
+      "u": "https://www.threads.com/@yuliani.dessy/post/Dfos4F5gf3F",
+      "d": 1794474580000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
