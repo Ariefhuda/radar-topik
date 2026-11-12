@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfCFZabEwbK": 1793232079380,
-    "threads:DfDrFKriUfe": 1793232079380,
-    "threads:DfDrGPwESUY": 1793232079380,
-    "threads:DfDq3dGkfRy": 1793232079380,
-    "threads:DfDqwpGD4_C": 1793232079380,
-    "threads:DfDhbS3GWt7": 1793232079380,
-    "threads:DfDqgjsgXdC": 1793232079380,
-    "threads:DfDqRnrG9OX": 1793232079380,
     "threads:DfBroJnjy2P": 1793232336439,
     "threads:DfDrKj4kiaJ": 1793232336439,
     "threads:DfDqXj5k4xs": 1793232336439,
@@ -25579,29 +25571,14 @@
     "threads:Dfnsye1EwBH": 1794441334912,
     "threads:DfnsnNGn8ym": 1794441334912,
     "news:CBMiZkFVX3lxTFBhdGV0ZF9sS191T25ldE01TXc2MDFYSHNKRDN6bkRGbFVLV0kwOERQaF9vMzZOV2VOR2s4Unh5bGRqR0EzMkk2TmJocXd0alRXcWgzQW5tek12Z0dYWmgtQzA0Q1ZMZw": 1794441334912,
-    "news:CBMiwwFBVV95cUxNVFBfUWpTSHpwa0lNNGVyQkxPempHQXFfSl94UXVSQUxyNjdoY2M3bEZQS1o5LVR5d25CRkw0b3k3WktaSTVWU2ZDZ2xiR1Vsd0JZbjdTb3hNa19IZ0h0VFprcTZja3BZV0h2c1VhRl9VbEJ6ZkZ4c2lCUGdicGs5aGcyNjRIWk54UnZfOVUxTEM2Wjc4RW9yc0FCTjdtNlJlUGxGY0c3MGJjZUl1d3VPMW9tZE4wS19kbHJzLU5ZQWtSbDDSAcsBQVVfeXFMT1VoSTZFaTNWaHoxNU1Zamp5MExjS3gtZGJ4d2ZrT2hfaW9MMEdBS1VFTzNIYkgwRzhzTTZVakZYUW9BdnlKRklwYUE2RVZ6MFBYamJQR2xZVi03WDA4TEd3eDVwdHpRZnBlWkdQd3dGQV8wcmdZODZBQWt0X2ZqVnJraHpGOElHS2ZuNXlSSndkUS1hbml4dzRlLVZVNUVFMmF1eDI4YUZtVnMycU52OHNuV3hoYmp0T1UyNHVWYWx3TmVMMnp5bmpKaEk": 1794441334912
+    "news:CBMiwwFBVV95cUxNVFBfUWpTSHpwa0lNNGVyQkxPempHQXFfSl94UXVSQUxyNjdoY2M3bEZQS1o5LVR5d25CRkw0b3k3WktaSTVWU2ZDZ2xiR1Vsd0JZbjdTb3hNa19IZ0h0VFprcTZja3BZV0h2c1VhRl9VbEJ6ZkZ4c2lCUGdicGs5aGcyNjRIWk54UnZfOVUxTEM2Wjc4RW9yc0FCTjdtNlJlUGxGY0c3MGJjZUl1d3VPMW9tZE4wS19kbHJzLU5ZQWtSbDDSAcsBQVVfeXFMT1VoSTZFaTNWaHoxNU1Zamp5MExjS3gtZGJ4d2ZrT2hfaW9MMEdBS1VFTzNIYkgwRzhzTTZVakZYUW9BdnlKRklwYUE2RVZ6MFBYamJQR2xZVi03WDA4TEd3eDVwdHpRZnBlWkdQd3dGQV8wcmdZODZBQWt0X2ZqVnJraHpGOElHS2ZuNXlSSndkUS1hbml4dzRlLVZVNUVFMmF1eDI4YUZtVnMycU52OHNuV3hoYmp0T1UyNHVWYWx3TmVMMnp5bmpKaEk": 1794441334912,
+    "threads:DfmzPDqmQr1": 1794441647784,
+    "news:CBMifEFVX3lxTE1MNUpwT1MxZ19UbGV4Rm1JVFRYTllwOUZObWR2R1Nmd040R25oSUZtelhVMzhLbGJEUGdoYTNXOHZRT0tGWXY1TnhCQlRqdHlBY0Q3ZVNobDhwSVRqNmxIMUlKblpQX1dndXhLRHgyS2dhUXhhbnF5NGF0eEk": 1794441647784,
+    "news:CBMihgFBVV95cUxPcHBTRnZ1djk2dFJpLVVzbTlXSURYQjAxN1FnMFU0OXF3bG5IVUUyR3BPNzlLVlVWNXdvRk5oRjVWVDRuMzRMM2paOFpqUHFENnVpdEFBZy02Zm5RcGJaMjAtR2RJS1ZhbWZaeVlYbjF5UjNkMmpwWU5nQWtCYjZpRkhoRHpMdw": 1794441647784,
+    "news:CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWs": 1794441647784,
+    "news:CBMisgFBVV95cUxQT1JxNnlEckZYZnM2MEtLanRLY2pvR09QV1l4WncyTldhMVFsNnlvRUxQSlE1XzJXSkVLTll3TG90T1pPM1ZBdl9ZaGh4YmdPZFBBWmNyRXh3WmRfV2lUNl9yMW9GekFELW03RlJjSlIzdlZHd0VyaVhlcFlrTXlfeWNpdm9TTE5XNW1acHU3NmltekNxVVBTdld4Z0FfWTlCNG5pZEZzWjhVdTFZWEZRVmN30gGyAUFVX3lxTFBPUnE2eURyRlhmczYwS0tqdEtjam9HT1BXWXhadzJOV2ExUWw2eW9FTFBKUTVfMldKRUtOWXdMb3RPWk8zVkF2X1loaHhiZ09kUEFaY3JFeHdaZF9XaVQ2X3Ixb0Z6QUQtbTdGUmNKUjN2Vkd3RXJpWGVwWWtNeV95Y2l2b1NMTlc1bVpwdTc2aW16Q3FVUFN2V3hnQV9ZOUI0bmlkRnNaOFV1MVlYRlFWY3c": 1794441647784
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@ar_nich",
-      "x": "Gak ada yg terdaftar PKH kak sebelum dan sesudah pisah KKpun ortu dan suamiku gak terima PKH ataupun BPNT, udah cek web bansos jg",
-      "u": "https://www.threads.com/@ar_nich/post/DfmTJY_GIBz",
-      "d": 1794393982000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@rara.miamiu",
-      "x": "Banyak ortu gak waras kalo dibantu pemerintah, mau liat? Cek coba yg dpt dana bansos KJP PIP, itu sm ortu banyak digadai kartu ATM nya 😏😏😏 Udah bener lgsg dipelihara negara aja ",
-      "u": "https://www.threads.com/@rara.miamiu/post/DfmRBhOmWTM",
-      "d": 1794392869000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27081,10 +27058,30 @@
       "d": 1794405720000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos 2027 Pakai Sistem Baru: Cara Daftar Mandiri Perlinsos Digital dan Syarat Warga Jadi Relawan - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWs?oc=5",
+      "d": 1794435155000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Kabar Gembira, Bansos PKH dan BPNT Tahap 4 Sebagian Sudah SI - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1JxNnlEckZYZnM2MEtLanRLY2pvR09QV1l4WncyTldhMVFsNnlvRUxQSlE1XzJXSkVLTll3TG90T1pPM1ZBdl9ZaGh4YmdPZFBBWmNyRXh3WmRfV2lUNl9yMW9GekFELW03RlJjSlIzdlZHd0VyaVhlcFlrTXlfeWNpdm9TTE5XNW1acHU3NmltekNxVVBTdld4Z0FfWTlCNG5pZEZzWjhVdTFZWEZRVmN30gGyAUFVX3lxTFBPUnE2eURyRlhmczYwS0tqdEtjam9HT1BXWXhadzJOV2ExUWw2eW9FTFBKUTVfMldKRUtOWXdMb3RPWk8zVkF2X1loaHhiZ09kUEFaY3JFeHdaZF9XaVQ2X3Ixb0Z6QUQtbTdGUmNKUjN2Vkd3RXJpWGVwWWtNeV95Y2l2b1NMTlc1bVpwdTc2aW16Q3FVUFN2V3hnQV9ZOUI0bmlkRnNaOFV1MVlYRlFWY3c?oc=5",
+      "d": 1794409643000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-10-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
