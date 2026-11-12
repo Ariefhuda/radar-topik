@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEnEGLFdWB": 1793263847708,
-    "news:CBMipwFBVV95cUxOMDJyNHhpakFfbThTOWFZdWlXTW9pZEdRa2NzZHVqTHFXQ2xmclllRUVnYThjckYxOFBma2tnVktaZ3kzZzdDazVDd1M4cnB1RUV1MVRvbDJVVWR5d2ZTYXdSTFRfQ3U3dVgtZkhIa015M3V4dDUwUU01dk4tYTJRaWZnTFFTTWM3RXM3MTE3ZGY1bmZ0UjJkRzh4Y3hsOGF1a1c3UDVVZ9IBpwFBVV95cUxOMDJyNHhpakFfbThTOWFZdWlXTW9pZEdRa2NzZHVqTHFXQ2xmclllRUVnYThjckYxOFBma2tnVktaZ3kzZzdDazVDd1M4cnB1RUV1MVRvbDJVVWR5d2ZTYXdSTFRfQ3U3dVgtZkhIa015M3V4dDUwUU01dk4tYTJRaWZnTFFTTWM3RXM3MTE3ZGY1bmZ0UjJkRzh4Y3hsOGF1a1c3UDVVZw": 1793263847708,
-    "news:CBMiqAFBVV95cUxQbUtiZlB1MDNJMEd2OWNrVWcxb0xxdjZwRXNpbm11WTQybFRpTkhZWXJIVU4wUVpvTzI0c3pEWWh6RC1PYmZzWWhaVC1GNUd2bXJQQ2VwbmdWZW54a0hMUW1DT2pFYURTZXZaZXFVMVJiT2JMS1RkR1R4NDloWE5OUEhVQk9ETWhIbUZWOGpaR21YbW9MZXl2MDM4S0hxbkpvbTZZN2k5LWnSAa4BQVVfeXFMTmNrcWhzM05GRVF1MVkzYmFrYWR3YnQzNkhBcEZOd3ktQXluOEFjNEdBZ1BxSl9ZZk9CMHI0N2NVeGdoQ3M3akVuazNZTXM2YVJucHhMTVByTVBpaEdDQ1VxelE4a1JFTXY2MFRaUl85MzFTemM4Z243ZVNJZ0hHamVzc09HREtqTVRaSTN3Y3p6dDU1RkZQUmNETXQzQU1BNDJuaUF2b2ZsOXRhMWh3": 1793263847708,
     "threads:DfEm2T4CS4i": 1793264137081,
     "threads:DfEnYvnD1K9": 1793264137081,
     "threads:DfEoHAVklAt": 1793264137081,
@@ -25600,69 +25597,23 @@
     "news:CBMitAFBVV95cUxNQ09yZFF0bUFONVZnVEQyRkl2NTNaTG1sWWowV2hjNkxQNUs4X3d0ZllQcFJITm43UEphZ2poSm5UaTNrZ1RUb2xaNFpzQmtXY01yQUVsQWNjbmJDZF9rSTMtN3lKcUZCQk1FYnRPZjRXZjgwWl9OSzJpM2lKMXU3enI2MTVmODZ6RGpDVUV4bXBuYlk5T2ZtVFB6ZVVkSk55YVNkMEx1UjdONDM3a3AtSVVjQjfSAboBQVVfeXFMTkUtODkzNTRFcmhVcjNVLWZCa2ROQzFQeVFRZy1CNzZYVXhMTlZxMFVaVkhINUMwLTdVUURyZS1nWUtyRlJmWlpjNlRNdkdLM2FiYVczWm82TTVaT1g2aFZNQ2tUX3hNTE85c0dBSGpiY0RrV29iRlRvMk1fdFZDaEJuMmNRcTRDaUtEQ0FyRGJvY1RrWTRYYkwxRG9EUDdxM0Q5U3hGdk81TERMZUx5YW1Wb2NaSGFDWWJ3": 1794472834347,
     "threads:DfopLjpE-rl": 1794473141647,
     "news:CBMiZkFVX3lxTE1PWUN0Nl9aMWp4X2Y0UDI2WTU2SE9xdzVSODV6dm1FU01QSlk5QVd5SEd1eG13MmxWTkcwaW9EdXZkNFVhaXF1R3c5VHlJRTR3dVg3RjBaclNob0ctUm1BZlR0dlF4dw": 1794473141647,
-    "news:CBMi2AFBVV95cUxNcDJtQ3pZMVZ0NnNXTkgzTGtERDhOb0pRd2QtUUpQVEp3SFg0cEw3UjAwYWtVdUlCcmRhN3FnYXlrcXBRaW5BVHRVZTNSbF9aSDZSYkpkNVNLZXRYMzNScEJRV1hsZElzNU13MGYwNWlqdmk1WHdYMk5qNnZnWHRLRzdGb1puX3MzbUFwdS16N09xM1JabmhqNFVEdXdQY2dhb2RreXZ4VU80THVSY1ZxWmdrMUtpQUFEdmhUTUpFY2Joa1RqVWZyUE9BNTljNjdDMUpCb0RFQmbSAdgBQVVfeXFMTXAybUN6WTFWdDZzV05IM0xrREQ4Tm9KUXdkLVFKUFRKd0hYNHBMN1IwMGFrVXVJQnJkYTdxZ2F5a3FwUWluQVR0VWUzUmxfWkg2UmJKZDVTS2V0WDMzUnBCUVdYbGRJczVNdzBmMDVpanZpNVh3WDJOajZ2Z1h0S0c3Rm9abl9zM21BcHUtejdPcTNSWm5oajRVRHV3UGNnYW9ka3l2eFVPNEx1UmNWcVpnazFLaUFBRHZoVE1KRWNiaGtUalVmclBPQTU5YzY3QzFKQm9ERUJm": 1794473141647
+    "news:CBMi2AFBVV95cUxNcDJtQ3pZMVZ0NnNXTkgzTGtERDhOb0pRd2QtUUpQVEp3SFg0cEw3UjAwYWtVdUlCcmRhN3FnYXlrcXBRaW5BVHRVZTNSbF9aSDZSYkpkNVNLZXRYMzNScEJRV1hsZElzNU13MGYwNWlqdmk1WHdYMk5qNnZnWHRLRzdGb1puX3MzbUFwdS16N09xM1JabmhqNFVEdXdQY2dhb2RreXZ4VU80THVSY1ZxWmdrMUtpQUFEdmhUTUpFY2Joa1RqVWZyUE9BNTljNjdDMUpCb0RFQmbSAdgBQVVfeXFMTXAybUN6WTFWdDZzV05IM0xrREQ4Tm9KUXdkLVFKUFRKd0hYNHBMN1IwMGFrVXVJQnJkYTdxZ2F5a3FwUWluQVR0VWUzUmxfWkg2UmJKZDVTS2V0WDMzUnBCUVdYbGRJczVNdzBmMDVpanZpNVh3WDJOajZ2Z1h0S0c3Rm9abl9zM21BcHUtejdPcTNSWm5oajRVRHV3UGNnYW9ka3l2eFVPNEx1UmNWcVpnazFLaUFBRHZoVE1KRWNiaGtUalVmclBPQTU5YzY3QzFKQm9ERUJm": 1794473141647,
+    "threads:DebGWy5kv1I": 1794473437592,
+    "threads:Dfoqhj6Gnu6": 1794473437592,
+    "threads:DfoqfB0mlpB": 1794473437592,
+    "threads:Dfopr4Qn_SQ": 1794473437592,
+    "threads:DbqPEXgk7m5": 1794473437592,
+    "threads:DcRMHoCj8-7": 1794473437592,
+    "threads:DfD-bxLgWsR": 1794473437592,
+    "threads:Dfoq0NmkgU2": 1794473437592,
+    "threads:DfoqshOElAh": 1794473437592,
+    "threads:Dfop40VDJD2": 1794473437592,
+    "threads:Dfopzqlkhgx": 1794473437592,
+    "threads:DfoJDXwHDmT": 1794473437592,
+    "threads:DfoSCDNEujK": 1794473437592,
+    "news:CBMiVkFVX3lxTE1KUDdZM3A5emE0OHhzRTNNRVVhamR5OXlnZUZmWk5XZlRraVFWMDZRZ3ZuTFJrWXdOMTFXN2xyLWtrLXJBeHEwRWZCSXRkdklMMnZBUHJn": 1794473437592
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoX4CpoMhq",
-      "d": 1794463570000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoX3YeoHhx",
-      "d": 1794463564000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoX2sxIMht",
-      "d": 1794463559000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoX2FlIIrE",
-      "d": 1794463554000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoX1ZUoElI",
-      "d": 1794463548000,
-      "urgent": true,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfoX00ToCN-",
-      "d": 1794463543000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27102,10 +27053,70 @@
       "d": 1794441696000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@asri_joglo",
+      "x": "Seru juga ya isengin orang belajar🤣 In frame : Pelatihan Mengemudi Bersama GRATIS | Program bantuan LPKS BBPVP Bekasi. Status : Full Booked✅ #sekolahmengemudiasri #kursusmengemudi",
+      "u": "https://www.threads.com/@asri_joglo/post/Dfoq0NmkgU2",
+      "d": 1794473502000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@asri_jatiwarna",
+      "x": "Seru juga ya isengin orang belajar🤣 In frame : Pelatihan Mengemudi Bersama GRATIS | Program bantuan LPKS BBPVP Bekasi. Status : Full Booked✅ #sekolahmengemudiasri #kursusmengemudi",
+      "u": "https://www.threads.com/@asri_jatiwarna/post/DfoqshOElAh",
+      "d": 1794473439000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kursusmengemudiarrahmanpsrrebo",
+      "x": "Seru juga ya isengin orang belajar🤣 In frame : Pelatihan Mengemudi Bersama GRATIS | Program bantuan LPKS BBPVP Bekasi. Status : Full Booked✅ #sekolahmengemudiasri #kursusmengemudi",
+      "u": "https://www.threads.com/@kursusmengemudiarrahmanpsrrebo/post/Dfop40VDJD2",
+      "d": 1794473015000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@kursusmengemudiasrijagakarsa",
+      "x": "Seru juga ya isengin orang belajar🤣 In frame : Pelatihan Mengemudi Bersama GRATIS | Program bantuan LPKS BBPVP Bekasi. Status : Full Booked✅ #sekolahmengemudiasri #kursusmengemudi",
+      "u": "https://www.threads.com/@kursusmengemudiasrijagakarsa/post/Dfopzqlkhgx",
+      "d": 1794472973000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@anemone_sandiklombok",
+      "x": "Hallo Papa & Mama, tunggu apalagi ayo ajak si kecil untuk mengikuti Kelas Coba Gratis di Anemone Sandik dan rasakan keajaiban Cara Baca Ajaib di Anemone Sandik🪄✨ -----------------",
+      "u": "https://www.threads.com/@anemone_sandiklombok/post/DfoJDXwHDmT",
+      "d": 1794455800000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@cattle.talk",
+      "x": "dibuka kelas bahasa jepang N4 GRATIS tinggal scan aja qrcode kelas yawwww",
+      "u": "https://www.threads.com/@cattle.talk/post/DfoSCDNEujK",
+      "d": 1794460506000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
