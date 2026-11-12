@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DcnMLzMiVhe": 1793297156598,
-    "threads:DckJthWkrDp": 1793297156598,
-    "news:CBMihgFBVV95cUxNbFVJSU96aU5NT1pwbHhNaWo1Y3lJaldnRlNOTEt0bFZ6RzNwNFdvd2lHblpNRTNfOWJubU1QaWE1THZUZV9HYWFHQURBOW9tenZQekpzY0JaVnFfNVgzVWFYOGxmcWRNSWc5YTgyaUNndlZVbmhEbVRqV0V1UkNWdHY0aDdXdw": 1793297156598,
-    "news:CBMi2AFBVV95cUxNTjYwZld0cXRUTk1PTm02OGZBcERGSmRrTDA4LUFvMnhGdUJIa0Q4VzlaVzVCTjNoRUg3eFZJYWpQOENhenMyeU1jY29HOXgxcVF2cWxNYkk1U3NqckVtQVlKZS1fOWs5NURDVTVXY3Myc1hTYUlqaEpITTBFZy1KaURYSVMySnJ0ZkNSVGs0ZGhNYkpaMDJDeldwbE5SbE5SaS1VTGVHTFNQcXd5SFk3SUZhcU1OZjgzOF82Z21fWW9JSUdvVGRxNV9oTzFocXJ1OUwweXpyaEvSAd4BQVVfeXFMT1RUbl9EOVViWVJtTW92OUVvUkpZV0s1Qkd4S3ZXTXI3Z0NWWHFwWGI0SDl6S3pwUV9YRng1dVlDQ0xGNVNBX0JVT1JSTFVpZUpsQ2FiUG9iSDJibVliWXlTajl4dXNvMWVQQmJmOUdiWlk5UFJYSEZjUklOYW1PS0d5dy0xc3pPbVZKbFR1M0d2M1Jwa3UzbUVsYlBLbW9LdmxibzdUeGJ3NjFZTHJpbDNyR2E1aFZuOVROdWt3ZGN5a3B4NEFmYkNxRGtneHVhTnhCTXdFVHBWSlBqOEhR": 1793297156598,
-    "news:CBMizgFBVV95cUxNd2lhMXZidkNXZFJQYUZrNC13Ym5CcEdlc3ZUX2RDMGFjOHZfZ2lEN1E4bmlXMTJyNnh1YmluTlJqbG1TbGJqUXpyT01jY0xnYXBoLThDTVJObDdCMm0wcTJ0ZF95VWlhai1KNThCVk9vcU9sMEg1SHZlSlhiYWxMQ2VjSnJJUjZUY0FHVlI4LWJXUXdpMTFZbnVTdW1JUVV5Qm1oUFhYVzhTN0hFdEJaTW5sM1FQMDJXOHFRWXFoeGlTcGpMQ05FV0p0dFBJUQ": 1793297156598,
     "threads:DbzGz6ugeb4": 1793297443001,
     "threads:DZIRgjOmc8V": 1793297443001,
     "threads:DfFnBfymipK": 1793297443001,
@@ -25798,19 +25793,16 @@
     "threads:DfppntXnUOB": 1794506450608,
     "threads:DdUWy6aFzzG": 1794506450608,
     "threads:DYJz-W3E2Xk": 1794506450608,
-    "threads:Dea4snwlOva": 1794506450608
+    "threads:Dea4snwlOva": 1794506450608,
+    "threads:DfFMP7omcK5": 1794506735013,
+    "threads:DcTcwZonVNa": 1794506735013,
+    "threads:DGDuNkbP2PX": 1794506735013,
+    "threads:DfpnkJzE-10": 1794506735013,
+    "threads:DZQ7sRllMVE": 1794506735013,
+    "threads:DSzA4FVjbUB": 1794506735013,
+    "threads:Da7VzKYmxUh": 1794506735013
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpHmvqoC5x",
-      "d": 1794488594000,
-      "urgent": true,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "news",
@@ -27300,10 +27292,20 @@
       "d": 1794462377000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@suruhfoxtrot",
+      "x": "wahh KKS baru proses burekol aja 3-6 bulan, 95% menurut saya tidak akan cair bansos tahun ini dikarenakan proses masih panjang, daftar PERLINSOS saja kak untuk bansos tahun 2027",
+      "u": "https://www.threads.com/@suruhfoxtrot/post/DfpnkJzE-10",
+      "d": 1794505350000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
