@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEieL2Hd9x": 1793261138065,
-    "threads:DfEh9ERIGgo": 1793261138065,
-    "threads:DfEhxptCqZq": 1793261138065,
-    "threads:DfEhhBYExg9": 1793261138065,
-    "threads:DfEhb0pGq5D": 1793261138065,
-    "reddit:t3_1xidtqc": 1793261138065,
-    "news:CBMipwFBVV95cUxNTGNqRWx1NkJUeEUxUzdaQnVKMkVrOHlmQUlnSk5ZRDczNFpNa2VGRTQ3TVc5OUhkdU5LaWM1bUNKRDJ1N0tmT0V3ZHFUUE1ndXJGc1o5d3VUdkhJNWVqLVNsVmcyRi1nQWpOd1UyY2kzTjhCbENETUt3NTZxQUhRSkJyYXpkNlJydUxDTDUwazlXc1RDSlRYcXluMFFfaVFGVGFQVmhTOA": 1793261138065,
-    "news:CBMiqAFBVV95cUxNMG1sMC1DTll0NE9hVV9ta1hOZVVLaENvYWRIOU1PeHN5V1NxYTctdXptNzgxdTIxYktmbDd4Z0cyXzF3NlozM2Fsc0pha1ZLMnRSMzRxbElORHFtMUF4TTF4SmtscFByR2RQeFZGLU5ubkN1RnZzTXBWSkRQWWZpN183dUFlYlVJUjB1NHlQeEhMSEo2Ym1SSkxmTjUyMG1PT1NzY25XQ1Y": 1793261138065,
     "threads:DfEiE2LCSJj": 1793261456526,
     "threads:DfEhtOxD89T": 1793261456526,
     "threads:DfEhjaDmizc": 1793261456526,
@@ -25630,39 +25622,14 @@
     "news:CBMiwAFBVV95cUxNTi14MDQ2cmxfeHB2TklnSjA3bXhnZTZ5Ui12TkVWVXNDelBhMnlXeW5ReEZaZS1QaHF0VGZHZHBadnpMTjBiUHZGMkJLRENhcHRXZmEzWnVJOHJZYlQ1YWZteklSSGNnMk5TQXVXTzk0YmtHRm5jNGplZkhMNEFnWkZhdlZXNlRzU3F3aXlhclgwQVJFQzJOSnVBZTJFNzJuZ2NSSHBUaWk0OWxZMm01dkY3QWNETTR3YVJPd1EtUlM": 1794470452149,
     "news:CBMijAFBVV95cUxQbnJvRWxaSVpmc3I3OEY2MzJNOVhHcDI4R3hiSld6WU9wSHc1dnp2UUJHczQtai12MXBYc3VhWE53X2g4Sm5UaWFzTVMwdGpTVnQ1WmhJenpPMFZQemU3VTlYV0oxcWNWZFBKYUNYSmpLNV9XSjJ1djNnWE9JQi1zVmFadWIwalBIUkU3aNIBjAFBVV95cUxQbnJvRWxaSVpmc3I3OEY2MzJNOVhHcDI4R3hiSld6WU9wSHc1dnp2UUJHczQtai12MXBYc3VhWE53X2g4Sm5UaWFzTVMwdGpTVnQ1WmhJenpPMFZQemU3VTlYV0oxcWNWZFBKYUNYSmpLNV9XSjJ1djNnWE9JQi1zVmFadWIwalBIUkU3aA": 1794470452149,
     "news:CBMi2gFBVV95cUxQemJxSjhlVnotVWhFalYwODUzUzJmZm5BRkhaZE5EcjVyRG9IZ3JRb21aVFNPZUJVT2FLZ1l1eUxBMTl5Tm9lNm8yb2xDeG1BTWxKZVR5X09zZWFsbWdNdWg0RUg1eXNIM2lSSWxUV1k1X01hTmtyaURjT29sR3VBR2VhMWlLLUlueE5nN2lsaWRUTHlVeFZ6SC1qb2VxeTlkc0piYjZrRFd3QjdzR09jZExWbGRQTV85UEUxUGxrM3hMWkpOYUNZVHpkWWRLOU8yd0xDemRTeUcxd9IB3wFBVV95cUxNUUg1T3lsaUczRWZETUNlNHR4bUV1ZWU2ZkF2a1FxWTFmaXV6aE5EOW5VVVpqUzBNcENDZW1QRkw0Z2huTGpFYnFnZjVFM3NUNC12T2o1LUdkUTdDYkJNQ0ZjWkVxU05YU09YX3EyeUFMSFQ1ZlM3MWNGX01yNXRpOVg4TWM1SXZkYlM1SnJRZng1YjZINkZmZzdNMzZRdnJvdm02Yl8zMlgwUkFQczBlb0Y3c1FzNlVDVUJXMHR1TnVKVkFnSVpSYWRzU1p4NGxDUGUtSG5VaFBXMnA3b3hB": 1794470452149,
-    "news:CBMi1AFBVV95cUxQcWNIZ2pJeHU5ME1oc2hlLThhNENoMUxXU0JwdjF6YTRGWW5wSUdPWVR3RlN2V21EZ29uN3BRTVd6cGthbG1yUjZqQ05VVjA0b3dZR0otbVBrSF9hNXE3U2g4N3owUDlvbllJb01VdEo2Y0RSYjdhZkRsWjAwbjVjaHBFdWd4UzhJSmpma3dHWjNfZ01DdlhGWENLQ1RvaXBucnZNMVczVXhNSTJYcy15OXVNalplQjl4WlkycjU2S3Rfd2lncGdSX2NxdkZaSVBNZnljStIB2gFBVV95cUxQc1NQT3dxLVNtcEhwWEdmNFFCOW5JSXE2aThqbVY0Y3Q0LUVYYnBwVUNmWHNoWC0xWHZhcHJiaUt6U1BnZzJJd3JDMUxBdmJsZzVQNHMxT1ZhRDk3dTZoMmpqYnRnbm5sM3hwNjVlMTNieW9VVkhHY01LWHFRSmp1dkhuTnUtMVVDYTVOUDE4UnlGQy1WOUJjR3pUUUp3NV9XYVRCMUowcFBuY3hOT05PY0lqODFUN0dkcmt2bld0RVQ0SDNaRElOWVBVcV9rbGV1ekdBUjAzNjhfQQ": 1794470452149
+    "news:CBMi1AFBVV95cUxQcWNIZ2pJeHU5ME1oc2hlLThhNENoMUxXU0JwdjF6YTRGWW5wSUdPWVR3RlN2V21EZ29uN3BRTVd6cGthbG1yUjZqQ05VVjA0b3dZR0otbVBrSF9hNXE3U2g4N3owUDlvbllJb01VdEo2Y0RSYjdhZkRsWjAwbjVjaHBFdWd4UzhJSmpma3dHWjNfZ01DdlhGWENLQ1RvaXBucnZNMVczVXhNSTJYcy15OXVNalplQjl4WlkycjU2S3Rfd2lncGdSX2NxdkZaSVBNZnljStIB2gFBVV95cUxQc1NQT3dxLVNtcEhwWEdmNFFCOW5JSXE2aThqbVY0Y3Q0LUVYYnBwVUNmWHNoWC0xWHZhcHJiaUt6U1BnZzJJd3JDMUxBdmJsZzVQNHMxT1ZhRDk3dTZoMmpqYnRnbm5sM3hwNjVlMTNieW9VVkhHY01LWHFRSmp1dkhuTnUtMVVDYTVOUDE4UnlGQy1WOUJjR3pUUUp3NV9XYVRCMUowcFBuY3hOT05PY0lqODFUN0dkcmt2bld0RVQ0SDNaRElOWVBVcV9rbGV1ekdBUjAzNjhfQQ": 1794470452149,
+    "threads:DfokX4uGa5S": 1794470731921,
+    "threads:DcPzRP7j8op": 1794470731921,
+    "threads:Dfok_2lGroI": 1794470731921,
+    "threads:DfEgoeSlHKk": 1794470731921,
+    "news:CBMiuAFBVV95cUxOSE91ellQQVhlNlhabjVscGxWVW9qWWhvcUhfRFpYbUJWTEE2b296NDJBWFRqYTN6dHhrTkhvdWt1WFZUeE9wbGp2WmdhZ0lHQzdWclAwcjNaZ2pFX0U3UmJDOTJoN2h3YlFDSlJpbWM0QVJXTHJVUlBWMUxZVzBHMXlZQVR6V3pfMTc3WHpLVXo2ckxsT1hyVE9qVnhsSGd1b2xOVE5VdC1SdWVOZ1Q1T2thb0RMOTVY": 1794470731921
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Limapagi",
-      "x": "Cara Cek Bansos PKH BPNT November 2026 Pakai NIK KTP - Limapagi",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mRzd2TnZ5QjhHUUtwZnVEeWFSbDlncEVyMGlxZnc5S0ZLNHo2TlFEMG9KVTY3dnIycmpKOXF0cjhWNzJ4c2FrQlJQOWdfTUQwSjFhMm1aLS03bWh4TXBXb2lXaWw0Ui1xenpGRW1kZw?oc=5",
-      "d": 1794462355000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "SuaraGarut.ID",
-      "x": "Cara Cek Bansos PKH BPNT November 2026 Pakai NIK KTP - SuaraGarut.ID",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mbHYtVXJJVXdrRnZVSjBDMmEyWjlrWXBzMloxcXJfbHVkTG5hNUp0U2RJUzBNSGNiZG1HZy1tSG5CZWhNM1N2UW4yUEEtSWsteFFqYzJFWjRsRnk1ellFQTZvdkFCSUJwNUo5aA?oc=5",
-      "d": 1794462052000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Suara Independent News",
-      "x": "Kemensos Sediakan Cara Cek PKH BPNT November 2026 Lewat NIK - Suara Independent News",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SdnVFdkVMSEtwcG1IcFIwMC1ESHJjcUxLSHBWY291a1V2a0Q1dmYwSlk5SjdNU0RXblBQZGhxbHY4ZVdfX3pWOGhQOExFT1h3WDBPV3lETy1odVIxbHlsX0tKemU3MnZjWWJhTDNiR2dxUEF6N1E?oc=5",
-      "d": 1794462027000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "news",
@@ -27132,10 +27099,40 @@
       "d": 1794393008000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@aura_147",
+      "x": "Ayahnya diguncang dgn Ijazah S1, anaknya dgn Ijazah SMA, entah mengapa saya merasa sangat patah hati sekali,krn era kepeminpinan beliau sy melihat sendiri Ibu sy sangat bahagia ada",
+      "u": "https://www.threads.com/@aura_147/post/DfokX4uGa5S",
+      "d": 1794470122000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@alfrtnd_",
+      "x": "Pake apk cek bansos ka , bisa diajuin disitu kalo emg desil tinggi",
+      "u": "https://www.threads.com/@alfrtnd_/post/Dfok_2lGroI",
+      "d": 1794470449000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "suarakalbar.co.id",
+      "x": "Prabowo Tegaskan Komitmen Bela Kebenaran dan Keadilan: Yang Benar Akan Terlihat - suarakalbar.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE91ellQQVhlNlhabjVscGxWVW9qWWhvcUhfRFpYbUJWTEE2b296NDJBWFRqYTN6dHhrTkhvdWt1WFZUeE9wbGp2WmdhZ0lHQzdWclAwcjNaZ2pFX0U3UmJDOTJoN2h3YlFDSlJpbWM0QVJXTHJVUlBWMUxZVzBHMXlZQVR6V3pfMTc3WHpLVXo2ckxsT1hyVE9qVnhsSGd1b2xOVE5VdC1SdWVOZ1Q1T2thb0RMOTVY?oc=5",
+      "d": 1794448800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
