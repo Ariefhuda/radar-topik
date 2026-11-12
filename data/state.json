@@ -60,11 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFL8-_mw3z": 1793283051425,
-    "news:CBMiswFBVV95cUxNZV9zZUtCUUtnWGpDWXBvMVBNMDljbVRpMnkzTl9oYkNLWWt1YkVRdmdyQmp4QkRwX3dmVFh2aERRaUZ5VFNpTGpUaXk5QUZRZlhIY29ham1mUE9Rd2Flcm1YdExTdUV6SWxzWjZFNlBBMzRocDBlaWRrN28wcVI5a0dOOHh3NXpjaWxOd085azBzaXRfSkR0TEx2R3RwTlkzZkctRWxUNzNCbFRZM0pzOVVKMA": 1793283051425,
-    "news:CBMiwAFBVV95cUxPa0xaa0RMdW9wMUt0RFBQZUNMUUZ4bGppcEhjd04xTnZ6dU9xRG56Z2pLdllKMTRGbEdCYWRWYXpsMmw5MHRsVGVqLTdPQlRQUGt4a1Q2bW9wQkFMMzg1SlI3QjBNdHd0eDlwTzloTG5RZ2dFc0JCMUkwektVTmVjQ0R1QjF6bXl2TUZ3eDBKY3duTy1tR01IVnpJWGFlVzFNR2FjZmh3QmNsNlNEaGlMQ0Y3VmpLUXhqUkV4YUt4Vm7SAcYBQVVfeXFMTl9RWV91SGdsUnVtNmJiOUc0TGl0ckxHdzFYNE9CNjZJN3RIaDVWMDcwSmJHa2l3Q2JsZzFLWHVpN0hwYXhjYUZlSXhHYlVQVEs5ZUVieG9kTnpETW95VEsyMkwxSW9pVUhhRHFEVVJSVWdEcXdrbkJGSzBEOTRHNlJsQTNsOHp5dXFycmJqRzlNc0hIWDhiaW1qZ3VMTmJhOWI4RTcxWVFwT1prZVVOYkxMNVgtVDg4dVZHRmRTcnRGb3E5ZFJB": 1793283051425,
-    "news:CBMisAFBVV95cUxQLWxCamFicVdmUm90WTFpM1F3aXB3X0w3SV91RDctVDNuRmhzdVdFSC1rdmdzLVBQdTE2ZUZmTVVFVTRlY3E2eXdIQTBUMXlkcS1OVTBLbUpmeHNFdnJRUjRVQk5fSjJQVEdibFBVSGxIT09faF9mbUNScjdDS0UtWDVBa2ZEOGVxN1JMOVhydElGVjk1RUNOdExaazhIT3l6OUhoa3N5QzRLeGZzVkplRQ": 1793283051425,
-    "news:CBMirAFBVV95cUxOMUxOblBZeHBOa3FpQlFyam52cERtNHNzWnBiNDFxNVE0MUFLSlpLOVhxTWtGTTVoY3N0ZkJPb2xMY0Nqd2UxUlp1NG1NLU8xejV3OEJBbGUxLTlOZkxIVzFUdHFzUFBJdWVvcDA2cFZEOUJKOHQtNGdWY1hpZlZoVXhLcXRjUlVHT0pKMy1nM0o0ZmhYNkp3Y3l2aG4wZERBVXpxMmlrcEJ2aVpT": 1793283051425,
     "threads:DfFMuyoHICk": 1793283342329,
     "threads:DfFMsznGu5C": 1793283342329,
     "threads:DfFMYu5G3wB": 1793283342329,
@@ -25749,7 +25744,9 @@
     "threads:DfpN0vCmLja": 1794492333403,
     "threads:DfpO3zGk-mR": 1794492333403,
     "threads:DfpOYy5CCbV": 1794492333403,
-    "news:CBMikAFBVV95cUxNT2ljZUxWNXB5NzNjYl9CYmcza3JYQ2NwU0JDamVQZEtmdGJQaUJoMVVMbkNJVFBZOGN1bzhFalZVdFU5OGdaX0NadEdNVi1YTnNldkJBamszVUtsRUZwbG40OXJLRHVaZVVBdGI0UjgyLUhPaG5DVlJNc2wxMHJlamJTcWhuLUw4TjdOTVRRT2Q": 1794492333403
+    "news:CBMikAFBVV95cUxNT2ljZUxWNXB5NzNjYl9CYmcza3JYQ2NwU0JDamVQZEtmdGJQaUJoMVVMbkNJVFBZOGN1bzhFalZVdFU5OGdaX0NadEdNVi1YTnNldkJBamszVUtsRUZwbG40OXJLRHVaZVVBdGI0UjgyLUhPaG5DVlJNc2wxMHJlamJTcWhuLUw4TjdOTVRRT2Q": 1794492333403,
+    "threads:DfpO_GjD-wf": 1794492639384,
+    "news:CBMi5gFBVV95cUxNNUhNSE9vRUkyTWgzelhjNDhpbHY3M2UySDRCbm41cWN2WGxuVm5FbXVwd1JLbENXRXZxNEpRR3ZoejE3VFJwVFFSb3d4OGhOS2kwUktUTlVYT3ItaUtDWXE2dUkxRG5RZjduMFBtUlVBdENfd2RuaXNVcXFwU1lZclcwVzhKVDEwRHUxZ3BtT0M3ZnRPUTN6d3lSeElaQkxxYUlNZ3VJV3M5N3o5Tlo2cl9sdFBTd1AzVDNWcV9HVHF3UEI2cGhENVVqdzNiajR4czFSZVNySXZONmNseTJXOXR2NUZyUQ": 1794492639384
   },
   "digest": [
     {
@@ -27221,10 +27218,30 @@
       "d": 1794492150000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@esftrstory",
+      "x": "Nah, kemarin juga ada mantan karyawan kek gini juga kak, dari tahun lalu dia masih kerja di kantorku, tahun ini udah beda pt tetep ga depet. Ga pernah nonaktif, gaji juga di bawah ",
+      "u": "https://www.threads.com/@esftrstory/post/DfpO_GjD-wf",
+      "d": 1794492463000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "media rakata",
+      "x": "Peringati HKN ke-62 Tahun 2026, Pemkab dan Dinkes Pesawaran Gelar Cek Gula Darah untuk 2.000 Warga hingga Seminar TB - media rakata",
+      "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUhNSE9vRUkyTWgzelhjNDhpbHY3M2UySDRCbm41cWN2WGxuVm5FbXVwd1JLbENXRXZxNEpRR3ZoejE3VFJwVFFSb3d4OGhOS2kwUktUTlVYT3ItaUtDWXE2dUkxRG5RZjduMFBtUlVBdENfd2RuaXNVcXFwU1lZclcwVzhKVDEwRHUxZ3BtT0M3ZnRPUTN6d3lSeElaQkxxYUlNZ3VJV3M5N3o5Tlo2cl9sdFBTd1AzVDNWcV9HVHF3UEI2cGhENVVqdzNiajR4czFSZVNySXZONmNseTJXOXR2NUZyUQ?oc=5",
+      "d": 1794460518000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
