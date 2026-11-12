@@ -60,15 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFyFmhkvwD": 1793302881905,
-    "threads:DfFoa5zGa9Y": 1793302881905,
-    "threads:DfFxbS2gbhT": 1793302881905,
-    "threads:DfFw804DEaD": 1793302881905,
-    "threads:DdYC3E5kUd0": 1793302881905,
-    "threads:Ddl11rXGY02": 1793302881905,
-    "threads:DdOJPj8k6nj": 1793302881905,
-    "threads:Da0PyLjk1rE": 1793302881905,
-    "news:CBMivAFBVV95cUxNY1ZKaUh2dXBKMVJTNmhxWHhBdllOSFlIOVB4M3p1Z2JySkEzd2dfMzIzOWljc0hCVFFJZG1kTlI0MUdQYmswLTk4QUZBdlpVY3VlaTRhNVpHV1RZZ0stV0g3SEl4T2gxa2xPdnhxVHpCUEpORUxrSl9aaTNuOFZIZjJOem8xMkJKenNvN0RhYnVpUE4tWHJWenh1UEtoMHNmQlVqOF9od3N4cW1yRzBDRmItUWhDZ0J5OE14adIBwgFBVV95cUxQR29QVDAteU9XZ1FaWE9STXhyaE1yUXFJLW5xRFh6NWZrSTZ2MG03QkJ1TTJGb2ozTlZKelZmR0dyejJEWnBvTS1kaHZqeWRFU3E1ZFZ4TFNDT3JrUU9OUnI2YmRjbnllVEszUFEyeWxxMG9RTVprSXlvaTBPa1ljemVBdE9wOHVSX1hQS2pKbFFjX1hQVllGQ055aVFQdmNRVUkyWk5acnVmVzdJRFFqNWJLX1dQTURkejdTVXRTMFBydw": 1793302881905,
     "threads:De_xUlnn5nz": 1793303143144,
     "threads:DUxvt-mj2Vh": 1793303143144,
     "threads:Dbp1FEVFadB": 1793303143144,
@@ -25761,19 +25752,21 @@
     "threads:DZ1vCsXCiq5": 1794511859334,
     "threads:DUh-7xDgR1c": 1794512147871,
     "threads:DZfznaJE2S7": 1794512147871,
-    "news:CBMixgFBVV95cUxNbTFxc05lelhQMkdtTUFYX2o4cUhSc1BVeW85dTA5d1pRazZURFpUVW9nRTVPSlBKcEtnbTFfeGhCdzN3bU54Mm5uZ1ZuWWp1OFQwQnN0TzFTUTl3bE9oaDFQb0R0emtUcVhPUm1wV1l0NG9tYThQNC0wanZvWkhkV3pVVEdWaEZyR3k2OHBfSFo1bFE3aGttYzBMckp6VXltQnA0eWpLeGplZXd6Um4xQW5vc09tR0JGQ3JBTHNpODNxbEw1bkE": 1794512147871
+    "news:CBMixgFBVV95cUxNbTFxc05lelhQMkdtTUFYX2o4cUhSc1BVeW85dTA5d1pRazZURFpUVW9nRTVPSlBKcEtnbTFfeGhCdzN3bU54Mm5uZ1ZuWWp1OFQwQnN0TzFTUTl3bE9oaDFQb0R0emtUcVhPUm1wV1l0NG9tYThQNC0wanZvWkhkV3pVVEdWaEZyR3k2OHBfSFo1bFE3aGttYzBMckp6VXltQnA0eWpLeGplZXd6Um4xQW5vc09tR0JGQ3JBTHNpODNxbEw1bkE": 1794512147871,
+    "threads:DeLmNOYk4R5": 1794512438706,
+    "threads:DXYjw11kk02": 1794512438706,
+    "threads:Dfp1IgOIPGi": 1794512438706,
+    "threads:Dfp1FXenzfE": 1794512438706,
+    "threads:Dfp0uN0Cff8": 1794512438706,
+    "threads:Dfp0id9CTts": 1794512438706,
+    "threads:Dfp0MkDiZuR": 1794512438706,
+    "threads:Dfp0DMrmY95": 1794512438706,
+    "threads:Dfpz5YCGfXv": 1794512438706,
+    "threads:DfpzFb7kgDy": 1794512438706,
+    "threads:DdX86oEDmN9": 1794512438706,
+    "news:CBMi6AFBVV95cUxOeFFTYS1QZEhmZXpkcWtvdHFzTVV1cXgzZFFmVUg2ODNGM3B4WjhNMkNGZVJpeFQyZllQUHRfbDVaOFMyZTVpMFZwM2lKRjdIZkxVdG90MTdhSXR6Rl9JNjllSC1OME5OZHVYeFhIUlJBa1lLRkRCeUd6Y0dQdFNlb3REbmpxdFhKZ21PZy00d0NqZTktYlJ3MXdXUnBaMGMyRkVMelNBQ2prUDUzOWFtTXVoWV9ET0xhNE0zdU9zQzM2VndZTExUX3BXRzNfYW9nVFpqN1BjVHQtZkN3amZNdjRjUEwyOVFJ0gHoAUFVX3lxTE54UVNhLVBkSGZlemRxa290cXNNVXVxeDNkUWZVSDY4M0YzcHhaOE0yQ0ZlUml4VDJmWVBQdF9sNVo4UzJlNWkwVnAzaUpGN0hmTFV0b3QxN2FJdHpGX0k2OWVILU4wTk5kdVh4WEhSUkFrWUtGREJ5R3pjR1B0U2VvdERuanF0WEpnbU9nLTR3Q2plOS1iUncxd1dScFowYzJGRUx6U0FDamtQNTM5YW1NdWhZX0RPTGE0TTN1T3NDMzZWd1lMTFRfcFdHM19hb2dUWmo3UGNUdC1mQ3dqZk12NGNQTDI5UUk": 1794512438706
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@asmaliindaa",
-      "x": "Kakak domisili nya dimana? Kalau masih di jabodetabek, ada KPJ (komunitas pemulia jenazah) asuhan ustdz Rusmono (Masjid Raya Pondok Indah), beliau mengadakan pelatihan untuk memuli",
-      "u": "https://www.threads.com/@asmaliindaa/post/DfpN5AgoEak",
-      "d": 1794491889000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27263,10 +27256,20 @@
       "d": 1794511161000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Media Pakuan",
+      "x": "Beasiswa Garuda 2026 Tawarkan Kuliah S1 Luar Negeri, Simak Syarat IQ dan SAT - Halaman 3 - Media Pakuan",
+      "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeFFTYS1QZEhmZXpkcWtvdHFzTVV1cXgzZFFmVUg2ODNGM3B4WjhNMkNGZVJpeFQyZllQUHRfbDVaOFMyZTVpMFZwM2lKRjdIZkxVdG90MTdhSXR6Rl9JNjllSC1OME5OZHVYeFhIUlJBa1lLRkRCeUd6Y0dQdFNlb3REbmpxdFhKZ21PZy00d0NqZTktYlJ3MXdXUnBaMGMyRkVMelNBQ2prUDUzOWFtTXVoWV9ET0xhNE0zdU9zQzM2VndZTExUX3BXRzNfYW9nVFpqN1BjVHQtZkN3amZNdjRjUEwyOVFJ0gHoAUFVX3lxTE54UVNhLVBkSGZlemRxa290cXNNVXVxeDNkUWZVSDY4M0YzcHhaOE0yQ0ZlUml4VDJmWVBQdF9sNVo4UzJlNWkwVnAzaUpGN0hmTFV0b3QxN2FJdHpGX0k2OWVILU4wTk5kdVh4WEhSUkFrWUtGREJ5R3pjR1B0U2VvdERuanF0WEpnbU9nLTR3Q2plOS1iUncxd1dScFowYzJGRUx6U0FDamtQNTM5YW1NdWhZX0RPTGE0TTN1T3NDMzZWd1lMTFRfcFdHM19hb2dUWmo3UGNUdC1mQ3dqZk12NGNQTDI5UUk?oc=5",
+      "d": 1794467880000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
