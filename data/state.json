@@ -60,19 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfGB6CBk3DC": 1793311253882,
-    "threads:DfGA30mjgFc": 1793311253882,
-    "threads:DfGBG5XkY0W": 1793311253882,
-    "threads:DUM7WOckdKi": 1793311253882,
-    "threads:Dd0V_tSoJ6R": 1793311253882,
-    "threads:Dd8dmX3CcWy": 1793311253882,
-    "threads:DeUQ73pE2jp": 1793311253882,
-    "threads:DdLihX2j64-": 1793311253882,
-    "threads:Dc8P0Xqk0hX": 1793311253882,
-    "threads:Dea6VK8nTUi": 1793311253882,
-    "threads:DdfUcCgk4Xd": 1793311253882,
-    "news:CBMiZkFVX3lxTE1EYTU1eEVVTzhXemNQSWRNQm15Q2JIOHNMV0hRV2dkaHR0WEs2SmZrVXRKbzZVX1JpQVkteUhscHVHMmtCMUNxallyeFJsREthZG1ISGRJSUlFTFBNMGtwdFNSLU9OQQ": 1793311253882,
-    "news:CBMisAFBVV95cUxPblZVb1BtY0NGeDJpMlhCZkJKRW9fenh2R0JNT3V5MFhvOTc3VGxCV3haWWtmNi1RdlVXVHhpS2NGTXpDTFlaemFya083eWJhZk4xNlFoeUZGWlpqYUh3UjIyUDhidzhkejh0SmNkN0xLeUlmNVlRTjRuNVJtMk9VM2trbHhhbTB5LXc5MkxRZGs1clc3MWJpbVRnSDF3QVJ0ekhwRTdVSTV3b1VGUWg0dA": 1793311253882,
     "threads:DdJS7B6E-HJ": 1793311539995,
     "threads:DcBbcNZkuhp": 1793311539995,
     "threads:DfGBn6eDDqZ": 1793311539995,
@@ -25699,19 +25686,12 @@
     "threads:DbgkjMUE0xp": 1794519939798,
     "threads:Deoz2CKmBpR": 1794520262966,
     "threads:DfqDIEQCRPe": 1794520534426,
-    "threads:DdwIC4flGjc": 1794520534426
+    "threads:DdwIC4flGjc": 1794520534426,
+    "threads:DfqFFM-E2ZV": 1794520854179,
+    "threads:DMHygzXyZ3h": 1794520854179,
+    "news:CBMizgFBVV95cUxPNVYxTnNWZnJpNTZQU1Q3S2NfTlZsc0tCUGJBUUd6YW1tTjhmM0JFMG1vT2xwVmFob09QaUY3YklDQXVSTTNkUjV1dlVtMHNJal9iODJLaEF4dEVob3RpV2lNN0RRNDlJaEJoSUMwVzRJN2JWd3FYWU5sS09DWWNScE12N0dibFN0b0Q1SnROeWNONXUxYXFTVGVhSXVCTXo0SkJBczREQ05EZ3g4RFhtR2VXMEZvV1pjS05JY09uSm56d1VXWVRJdE9lWFBpUQ": 1794520854179
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@rafiulwanyy",
-      "x": "bagi2 kelas gratis lagi buat belajar bikin dashboard sederhana banget & ramah pemula dari data di spreadsheets dengan durasi rekaman video 30 menit. bukan seperti yang di atas ya n",
-      "u": "https://www.threads.com/@rafiulwanyy/post/DfpQpzvE4fS",
-      "d": 1794493338000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27201,10 +27181,20 @@
       "d": 1794517434000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Pojok Bogor",
+      "x": "Bansos PKH dan BPNT Tahap 4 November 2026 Segera Cair? Warga Bogor Diminta Pantau Kartu KKS - Pojok Bogor",
+      "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVYxTnNWZnJpNTZQU1Q3S2NfTlZsc0tCUGJBUUd6YW1tTjhmM0JFMG1vT2xwVmFob09QaUY3YklDQXVSTTNkUjV1dlVtMHNJal9iODJLaEF4dEVob3RpV2lNN0RRNDlJaEJoSUMwVzRJN2JWd3FYWU5sS09DWWNScE12N0dibFN0b0Q1SnROeWNONXUxYXFTVGVhSXVCTXo0SkJBczREQ05EZ3g4RFhtR2VXMEZvV1pjS05JY09uSm56d1VXWVRJdE9lWFBpUQ?oc=5",
+      "d": 1794464096000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
