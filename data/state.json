@@ -60,22 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfEErHVmYE5": 1793245842915,
-    "threads:DfEFGJSEqIt": 1793245842915,
-    "threads:DfEEei-kjdK": 1793245842915,
-    "threads:DfEEQv4kgsi": 1793245842915,
-    "threads:DfEDxSpEuWY": 1793245842915,
-    "threads:DfEFNGBAbkO": 1793245842915,
-    "threads:DfEE0bbExTf": 1793245842915,
-    "threads:DfEEbfCEyvt": 1793245842915,
-    "threads:DfED90Eiqm7": 1793245842915,
-    "threads:DfED8fvn_Ms": 1793245842915,
-    "threads:DZ3Sm1THSUL": 1793245842915,
-    "news:CBMif0FVX3lxTE1ER29PUjBnX1hvZlJFOE9yQkk3VEY1cjd5LW96YXg1S1ZhUEc1T1V3RzdFenBCTkxDbkVibm0zTjVORFY1MGc3dzhfek1hUlpLVnlIdmlOU21HWGZGb09pTWFKZktaSzZOWXQtNnplV3g1XzBNRXkxbEpHMmEwT1nSAYQBQVVfeXFMT004azBreG00bUpWMlJkalhMZmh2aEdsUHRlRVEzajcyQUVuTWotTUFsSm9aeDQtLVl3NERVbUJGSk8telA3ZXJQYUxNOUh2cUx3N2VZUzJCOWJac1M2NUFCSW1BOGE3dGZ4SmxlalFIbEExWXdSbm05Y1YzUHlBRG5YaGJK": 1793245842915,
-    "news:CBMiygFBVV95cUxNeklNbGxwZXphYU5OOUwwbURJNUJRRmlFSUFOSkNudFRQUmU4SktaNzV2d2JHTl9wNFpoMW5Lcm1KaGpmUm0wZ1lLemVtVTZBeloxYmVxRG9EdkNNY3A3SHZSQWN4NUhSZjE3OVNiTGFGTDd2Z3Z3OUtmVkxBbzQwblBfdDlScGhENGZkamZSVUVLVWVveDVmbzVGNm8zWW8ya0FwdnA4aEZjUEMwX2lmNzBaYmV1OENZQloyWmwybGp0dEVRN05veG9R": 1793245842915,
-    "news:CBMitwFBVV95cUxOZjVSc09qU2ZUWkp5X2dwYlZDcERwS3d2X1dmV0tFMVRoUG9yLVVGdzZ3Y3diQ2hvY3lfbWJwN3drdmhHM1ZKdzI0Wi1rcWpMZ0dvaG1YcXl2SkdrM1BvY2lzQlhxcFpUYUg2blRZVFNnVnh5Z3FjeFRxc3NHNDIwbzF2TV93bTZ1MVZSbm1nOGx5dTBVdTNMNnJoYXNIZFdqaUJRT3pSRHdjR1BPcFFWWU9hR1V5dEU": 1793245842915,
-    "news:CBMizgFBVV95cUxQTHk3UWd5M3NWajlqdWNVRXBTcHdUQjh6WEJ5M0N2eXlFZ0c5MEk5RWstZDVBOEhlMEFqdjJtbnF0ZExkYnFrY3lXeFZBYS1iMVR2UVZmYXdXTWh4dFdhUVJ3ekdMUkNLLWFMNm1fdDBnRDB1a0xrNVpHaTdDclB2UlU0TFp3ZjRVVWhXUWhVWFh2QmxONHhDRmIwLUFWTUZ2ZU9JRUItYV9TV01paDM4SXdSeGFTRmVCVFQzSFBYX1ZBODJhNHdONVM3QzJsd9IBwgFBVV95cUxOSDRJQ0djb3oteGJfMGI4c2VaTUlKa0Noa2U1X2VmaUxSQmpOVW85aS1oM2N5YWlBXzFmRzJwSk9uVFJNTUlwNW80MmFzZDZtcHRXaUk1Q0ZFTnp1VmdmOUJTYWl2cXRHRXFzbm9IM1VfdHVvWmpySmFiaVFzNDdfSGZvLXpWRFQyUXJPUTJrQmFOQ2h5VmJBM0wwNFRXdTRpZ2ZZYmprTmNaYmNhQmhyVjhsdGhLdHdrS0lreGhKN3Fwdw": 1793245842915,
-    "news:CBMi2wFBVV95cUxPcGpjYVQ2WFpTMS1vX0Y4bGllbmdpWVpwZUZRd0xVeFJBcFNVSTEtVHJSeWJIZS1BUUc0OERGd3lMOC0yN1NrejBsMmd6b01USHk1Z2stX1pPNjBMSjFGVGJGanhiMmxFZDFKMi1SVHNFaURmZEJyTmx6Yk5vdV8xQ0NUWmowbGtldmR5SHltc3VIbDVjWXF5NE9ndkhMcHYyUGpxeVUtZmxJNElHWEpJMElhQXRfZ1Y5X1lqM3M1V3JsY3RKblBBTDB3ckRCNmgzal9zTmc2VGlnSUnSAeABQVVfeXFMUG1VcVhYUmxRVnJEUlJmdU1vcGpjN0k0WGQ0QXBQb0E3c2RVOEJQWDc0blo4b2lQaGVKSXRZb0VtQzJZX0U4aGZhdVQ2ak1SeDhRWi1BNF8tekRiSzhFTVZGVXdqTUp4bVIwSExOSDFIQjFwSWQ2RE9aM2hNeElLc0xyNnBYa0pXOTNrdTdwQzRxck5HTC1QZUllZm1ROVM2bzhHeTFWZm1qVjV6ZE94TE04cWhDU2NGUjl3M0N4am9LVXQ3MnVNcHpRdUQ5MldxdHJ5aEQ2dGVMZExXQ2dEY04": 1793245842915,
     "threads:DfEEqIWE7vm": 1793246135789,
     "threads:DfEEplkknHS": 1793246135789,
     "threads:DfEGRLmEXqn": 1793246452123,
@@ -25584,69 +25568,25 @@
     "news:CBMikwFBVV95cUxOaTljSEV0S091UUpSS3QycXA3ZVRkQnpFSGpUelFZWFl6Nm8yQkRha0g3eXVGOHlFbktCNWpYTkZBQ0RMek9kUVVIUlVjSE9mRlNoa0d2WUFrU2RLZFE2eEx5OUZBd0xIUTBia3ppRGdfQU9mR2NHcU9ETmVPNnppWUp3MkVqMjNXSHkxUE93THVfWlU": 1794455137698,
     "news:CBMikwFBVV95cUxNb3NBbGxISFA4c2kxejdxckVCR2MyZGZpbXpFa3FwSFI5LXo0cmktMnlUb0E2UHpqTU5MeENhY1ozUFpMQ0lKeFpvMDluYUtHZEFJa2UtTUV5MmFMWXczVkZaQ1BkUm1TeWxCaFBBVUcwZlpBbXZxQW80aTJnaDgtWWt2Y3BjeGRzMEZpX3VBQ2NXOGM": 1794455137698,
     "news:CBMipgFBVV95cUxNUVBDLXZndFJkT0VPcjd4eEs4OFZ4anBObnhDZ1VxNEFuNjJIYnRXVUVGbElZMEJXM3RubWVCcS1yaUd2dHpwWUI2bEliclFia2JGVUlrN0lmN2VBNUt6RGRhVWJERXUyeFVXeG9na05SUVBFWnpYOEp1TFpCTWJkZk5pbC1TMU9xY1dLZ0tuaDhmTzVKdHRCTXk4dXVaaUM4eW54SzJ3": 1794455137698,
-    "news:CBMikwFBVV95cUxPdE1XcFJnSmpFTEYxS0FaakJBZHl4S3h1SDh6bjZDN0Zxd29TWWhNMjl6VHQ4Uy1YVElURzJMMVBGQm82MUVXbll4WEtFNXFJYW9nb1pTME52NTdtWXpyNVlsU0E1WEM2emN5RFZtQ2V4VEJGTFJjRU5XQlk4X2NjQ3g4eVZLMERGUllxT2RKZHlfM28": 1794455137698
+    "news:CBMikwFBVV95cUxPdE1XcFJnSmpFTEYxS0FaakJBZHl4S3h1SDh6bjZDN0Zxd29TWWhNMjl6VHQ4Uy1YVElURzJMMVBGQm82MUVXbll4WEtFNXFJYW9nb1pTME52NTdtWXpyNVlsU0E1WEM2emN5RFZtQ2V4VEJGTFJjRU5XQlk4X2NjQ3g4eVZLMERGUllxT2RKZHlfM28": 1794455137698,
+    "threads:DfoIDQgE8TU": 1794455440770,
+    "threads:DfoIYeFDqw7": 1794455440770,
+    "threads:DfoIZlMD91S": 1794455440770,
+    "threads:DfoII6_j8Fr": 1794455440770,
+    "threads:DfoIBh6Dy-5": 1794455440770,
+    "threads:DfoH28mDqYz": 1794455440770,
+    "threads:DfoH1HrkjuZ": 1794455440770,
+    "threads:DfoHUEDlkQz": 1794455440770,
+    "threads:DfoISihlaBi": 1794455440770,
+    "threads:DfoIKieoOtB": 1794455440770,
+    "threads:DfoIW3_H6Y7": 1794455440770,
+    "threads:DfoIRAekpNP": 1794455440770,
+    "threads:DfoH62fk8d5": 1794455440770,
+    "threads:DfoIIM3Ez68": 1794455440770,
+    "threads:DfoIHsfiZ2y": 1794455440770,
+    "news:CBMixgFBVV95cUxNODQzRnNTWXBwUmdGN0Z3OTlCQVUtakVmVHk5dnEydTE1OTlnOERNQXN5d0k2SV9HR3hLZ0dpSm93Vk5lb1BLd013ZmhNY3FlQk54YmZ2aHZZY0ZnbHdRbDZPM1pvdnVrT2FiREFSeGd3b09EbjBKQ3lQeThhNUJRNnlqdnhIc3ZRVTBUNkVYM092UXdWNTJWd1QwQml5NWdzTWtFQVdHMGc3eFotNzhmM0kwTGtMM2VnQkhidURtc1k5ekdpRnc": 1794455440770
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nfacademy_id",
-      "x": "WEBINAR GRATIS NF ACADEMY! 🤖 AI for Teaching and Academic Productivity 🎙 Narasumber: Dr. Amalia Rahmah, S.T., M.T. 📅 Selasa, 24 November 2026 ⏰ 13.30–15.30 WIB 💻 Online | GRATI",
-      "u": "https://www.threads.com/@nfacademy_id/post/Dfn1GGUmaBY",
-      "d": 1794445335000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@giffani_na",
-      "x": "📢 LOWONGAN KERJA PNM Buat kamu yang sedang mencari pekerjaan, yuk manfaatkan kesempatan ini untuk bergabung bersama PNM sebagai Account Officer. 🎁 Benefit & Fasilitas : - Gaji te",
-      "u": "https://www.threads.com/@giffani_na/post/Dfn1xUUj4ih",
-      "d": 1794445689000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "e-sertifikat|sertifikat gratis",
-      "s": "news",
-      "a": "IDX Channel",
-      "x": "Ombudsman Temukan 49,1 Persen Produk di Ritel Modern Belum Sesuai Ketentuan Halal - IDX Channel",
-      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPanVvQXhkZ0R2Ymhxc1d0RWI0WkZIaUd2VjJUeE1aVmQtZXhpazVhMlVZWFZPeUhFVkNnYTZvMFk3eVJLdUV3MlVtMXo4Wl9ySjRqOWVSbXdDRHlKTkFnVGNqcVBOMWZCQzFTaWN5SkRJeFNvYmItLWhnSk1WaEtGQUV2bnlBU2V4b2NITVNuZWl0V3ZTOWwwaXJDY1M4N094UGFrN203SXVaVFJuVGdVMDAtYzF0MVXSAbcBQVVfeXFMT2p1b0F4ZGdEdmJocXNXdEViNFpGSGlHdlYyVHhNWlZkLWV4aWs1YTJVWVhWT3lIRVZDZ2E2bzBZN3lSS3VFdzJVbTF6OFpfcko0ajllUm13Q0R5Sk5BZ1RjanFQTjFmQkMxU2ljeUpESXhTb2JiLS1oZ0pNVmhLRkFFdm55QVNleG9jSE1TbmVpdFd2UzlsMGlyQ2NTODdPeFBhazdtN0l1WlRSblRnVTAwLWMxdDFV?oc=5",
-      "d": 1794425700000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@qhairuunisyaa",
-      "x": "Mahasiswa S2 Pendidikan Guru Madrasah Ibtidaiyah UIN Suka mengadakan webinar secara gratis bagi mahasiswa s1 atau s2 dan masyarakat umum boleh juga ikut webinar ini ini untuk link ",
-      "u": "https://www.threads.com/@qhairuunisyaa/post/Dfn2EuQk8cQ",
-      "d": 1794445848000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@meta.ai",
-      "x": "Dengan 268T dalam 1 tahun kamu bisa tutup 3 masalah paling brutal di 3T: sekolah tidak layak, guru miskin & kabur dari Papua/perbatasan, dan anak putus sekolah. Rancangan paling ef",
-      "u": "https://www.threads.com/@meta.ai/post/Dfn3GG9EYgr",
-      "d": 1794446383000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "news",
-      "a": "Headline.co.id",
-      "x": "SMK Go Global Targetkan 32.000 Peserta, Pelatihan Gratis pada 2026 - Headline.co.id",
-      "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmR5VjZHRVc5NEltSlNpeU9pblFjS1ZYUjZvOTIzcnhFMHpnSWU1RC01M2JOQzBLTHBGbVRSd2tseWlTSXQ0Z1o4emN2X2VFVllVbmRRTVp0blc1OG55dU5zOTgyLXZiajVWZHRNblE2aWtLaGZYWE1JTDF2dkswd2tfZ2doZUY5V3J1QnZTcVpwb2JCYndELVgxaHB1Z0ZqT3c?oc=5",
-      "d": 1794446221000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27086,10 +27026,70 @@
       "d": 1794454994000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@tentaklikofficial",
+      "x": "Halo! Kebetulan di Tentaklik juga ada beberapa layanan digital marketing yang mungkin bisa membantu kebutuhan bisnis, mulai dari pembuatan website sampai kebutuhan periklanan. Kala",
+      "u": "https://www.threads.com/@tentaklikofficial/post/DfoIKieoOtB",
+      "d": 1794455333000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muh_imamsyaf",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@muh_imamsyaf/post/DfoIW3_H6Y7",
+      "d": 1794455434000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@muh_imamsyaf",
+      "x": "Mau bisnis online tapi bingung mulai dari mana? Takut gaptek? Gak punya produk sendiri? Gak punya banyak modal? Ikuti Pelatihan Bisnis Online Gratis untuk pemula dan temukan langka",
+      "u": "https://www.threads.com/@muh_imamsyaf/post/DfoIRAekpNP",
+      "d": 1794455386000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@bankir.academy",
+      "x": "semangat ka , bisa kunjungi website kami ka , banyak info loker terbaru dan pelatihan gratis untuk mempersiapkan masuk ke dunia kerja https://www.bankiracademy.co.id/",
+      "u": "https://www.threads.com/@bankir.academy/post/DfoH62fk8d5",
+      "d": 1794455204000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@althe.dnd",
+      "x": "In this ekonomi, gue buka kelas gratis dan bener bener full daging, pada minat join?",
+      "u": "https://www.threads.com/@althe.dnd/post/DfoIIM3Ez68",
+      "d": 1794455314000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@ula_willfitnes",
+      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
+      "u": "https://www.threads.com/@ula_willfitnes/post/DfoIHsfiZ2y",
+      "d": 1794455309000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
