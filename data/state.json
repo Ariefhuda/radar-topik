@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dbuyga3ASOs": 1793298942582,
-    "threads:DfFquyMjOiJ": 1793298942582,
-    "threads:DfFp5rOCEWw": 1793298942582,
-    "threads:DfFpwe6ldcW": 1793298942582,
-    "threads:DfFpqizEy3i": 1793298942582,
-    "threads:DfFpe4DkoJR": 1793298942582,
-    "threads:DfFpdsdjjFg": 1793298942582,
-    "news:CBMizgFBVV95cUxPWVlQTVo1VDZ3N20wVW5iMkFuTDA1eUV1UFFJc2o5NUp3MWhoY1ZKZ3hsbm42amVWZl9nRzhtR3luRVptUUVVUE1aTVNycXpCd3VsTkE2M1o1S25keFU1S0U1Y1I3OTVTS2QzaGNyY3FiQTRZOVIzVzdsWlI5OVdjc1hBVl9YcjNJVkhKM2NGUndBVmJMSXZCejNfR2ROX1BKUF9RY0c3Nk9CSHJhTmc0Tm5jajM3ZlVxXzlocWdrSE1uLXdPTThNZFFkcndWdw": 1793298942582,
     "threads:DfFjeOOkoWa": 1793299245761,
     "threads:DfFq-4qCDEW": 1793299245761,
     "threads:DfFqkTME5At": 1793299245761,
@@ -25778,29 +25770,18 @@
     "news:CBMi4wFBVV95cUxPTjJCV1dXcUpUNmhrbGg3dkQzQk9aNGN4ck05Ukl6S3NsZVExcjJMOEMyLWc0RmJDblloTnM1ZHpDN1hYUnUwbDUtMU1WbEM0WXZqell4MDJyRldxb0p2UlRiUS0xVXNUekgxamlGV0VBdldOZ1BsQ05XblhKSnhON2FOVGRhTnJOTi0wT2ZpZTBqQzZIVmxKMEh6UjRQM3djS3FfUzJyYWUyemZoTEdwNWZKaWZodlNXbVhqQUNaeVR4YWdjank4RDhaMVNWUDZpWDBSWXE5SEMxT0l2WjIzNElwWdIB6AFBVV95cUxONUtLMXpMbGVENGxzQWJTZ0tIMFVqR0F5NzctcGRsVXNzbzdSdy1YNWxqd1Mtem5ZLVB3OWZoWkxWZ25vd1h1RUNJWU11VkxURXlpUnEwWXd2U2xDdkV6Z0FuUjY0S0FHdEJOclVkTmgzV0c2OGtJUWJGRW1Td280dmpmVzFGRTRaV3R3NkEyczlKVzN5cmJibnF3dVU4U3p1bnYzbmF6WDBhRUdpcmw5M3FyUDlSNThOMDZLZjdkdmVzSEc2N3NTTnNXeGN5cmFTV2FFbkw2dlZZMWRPVnFqN19NZlM4VmJ4": 1794507940903,
     "threads:DfEgoVuE2xs": 1794508244468,
     "threads:Db94GJJkkFD": 1794508244468,
-    "threads:C7ecR_1PyLK": 1794508244468
+    "threads:C7ecR_1PyLK": 1794508244468,
+    "threads:DfFWGu-AaWm": 1794508532110,
+    "threads:DfptnEhGdXK": 1794508532110,
+    "threads:DfpthQNoFCy": 1794508532110,
+    "threads:DfptT7Eic2N": 1794508532110,
+    "threads:DfptQPmAQG0": 1794508532110,
+    "threads:DfptBMJieR0": 1794508532110,
+    "threads:Dfpswm6AQrB": 1794508532110,
+    "news:CBMi1gFBVV95cUxNRE4zZXhPRGJhOHhnbzhKTjJIS2R3MnZRNHdaVGo5MlBOVVVKcHBtcEhxOU1SaHlOdjlEMGhaN1IwbWxzOWl2ekhxR1h1Y0x0QjBwYTZMRzRiTzBUeDRjUlRwZktmQ2t2Q2ZKTVJrNWpCZVpXUmFweEJMY0ZKTkwydU9WWmZPYU9nQUM2VldpYTRVb1JscGpwd3VVdVppQmtKdmZKbC10MnVnZjBsODFiOGM0Mm9HVmdHYVQyZ3dscGF2eWtwdDkwdHRtMUo5RmxkR0luR1FB": 1794508532110,
+    "news:CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWvSAeoBQVVfeXFMUGxtSExhTUpFV0dHZ1psZGhMVkVHNm5HREtLcXNZNHhxSm9SeHJraE5SVWNZOU1menFnSlFrVnNvM0JqYlZEYXVNa01oWnJUakFEa1BJUDhZaVFnSUtxaWhMYjFpYkFqTnhhRVZ4bXdHRXVUaVZnbDRPdl93UkNhdEQ5dGplaEY0VzJqVW9JcGs2T3VnNjJfbnJCY3VlWlNmVU5KU01NelFSeUl3QzdCX0ZDdTlFTGsyeUpDUHNZUjBsbmpOdzZrdVZQRDk4RFZwWlNQcnlBUTQyMjM2R3VTVFpsbWFYUUtuRU1n": 1794508532110
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@erykka_ystr",
-      "x": "📢 DICARI MAHASISWA & DOSEN! Ada yang sedang belajar SPSS atau membutuhkan skill mengolah data untuk skripsi, penelitian, maupun tugas akademik? Yuk, ikuti PELATIHAN SPSS GRATIS! \ud83c",
-      "u": "https://www.threads.com/@erykka_ystr/post/DfpNREEGWHF",
-      "d": 1794491562000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@irawendah",
-      "x": "Kak ikut kelas gratis yuk",
-      "u": "https://www.threads.com/@irawendah/post/DfpNNF0GBGo",
-      "d": 1794491529000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27280,10 +27261,30 @@
       "d": 1794435141000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Pemerintah Kabupaten Pesisir Selatan",
+      "x": "Pesisir Selatan Raih Sertifikat Bebas Frambusia dari Kemenkes, Hendrajoni: Bukti Nyata Menuju Nagari Sehat - Pemerintah Kabupaten Pesisir Selatan",
+      "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE4zZXhPRGJhOHhnbzhKTjJIS2R3MnZRNHdaVGo5MlBOVVVKcHBtcEhxOU1SaHlOdjlEMGhaN1IwbWxzOWl2ekhxR1h1Y0x0QjBwYTZMRzRiTzBUeDRjUlRwZktmQ2t2Q2ZKTVJrNWpCZVpXUmFweEJMY0ZKTkwydU9WWmZPYU9nQUM2VldpYTRVb1JscGpwd3VVdVppQmtKdmZKbC10MnVnZjBsODFiOGM0Mm9HVmdHYVQyZ3dscGF2eWtwdDkwdHRtMUo5RmxkR0luR1FB?oc=5",
+      "d": 1794456130000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos 2027 Pakai Sistem Baru: Cara Daftar Mandiri Perlinsos Digital dan Syarat Warga Jadi Relawan - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZXNJbFp2eWo5c3dFU29FekVmV09vcHMtdTIyRlAwdkFoQklBejJhZHJublFSMHYtTVdzYzR0VG9UMFlLaF9TVDdLQ0NkVGRBazJfbVM3YVNFWHRjVkduM081ZmZzMGZoY3J1UlJUaDBFNFBzcFdtSW04aEpDa0lGMDB0N2p6QWlUV1NuZ0tZQ18xUzJEc1JpazB2aUlRVnV5bTA1QmtOYmNIMnpvLWJpd1lhXzJUQ0lrVXFfVVVqdzk0MlN3NG9CLWJTaDIyU2FtNktJb3VyLWh2Rmc2bzdlT1kyOWvSAeoBQVVfeXFMUGxtSExhTUpFV0dHZ1psZGhMVkVHNm5HREtLcXNZNHhxSm9SeHJraE5SVWNZOU1menFnSlFrVnNvM0JqYlZEYXVNa01oWnJUakFEa1BJUDhZaVFnSUtxaWhMYjFpYkFqTnhhRVZ4bXdHRXVUaVZnbDRPdl93UkNhdEQ5dGplaEY0VzJqVW9JcGs2T3VnNjJfbnJCY3VlWlNmVU5KU01NelFSeUl3QzdCX0ZDdTlFTGsyeUpDUHNZUjBsbmpOdzZrdVZQRDk4RFZwWlNQcnlBUTQyMjM2R3VTVFpsbWFYUUtuRU1n?oc=5",
+      "d": 1794435155000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
