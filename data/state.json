@@ -60,9 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfFWBrJmBBb": 1793288143344,
-    "news:CBMivAFBVV95cUxOczNqaURpeDZMLXpQOXFvdE13YmktTkJsM2NFOVVYamViLTdvUzlDX1lWbFBtNVZQQzY3UmlMREhZN1IwT2FMRDJ1MENtQWdEanBfVVA4WFZiYlVZLXRxRTU3cUxVOHNuZk1qdUk5elN5Nm9wTjFJaUJYVjB5Nzhpd0d0UnloLUZkQkpPXzVNTFNJTHhQQmt3djAzZ1lHU09fczZsM1hzWHFGUHFrRWhYZlJtcWhCVVNfRHgxZNIBvAFBVV95cUxOczNqaURpeDZMLXpQOXFvdE13YmktTkJsM2NFOVVYamViLTdvUzlDX1lWbFBtNVZQQzY3UmlMREhZN1IwT2FMRDJ1MENtQWdEanBfVVA4WFZiYlVZLXRxRTU3cUxVOHNuZk1qdUk5elN5Nm9wTjFJaUJYVjB5Nzhpd0d0UnloLUZkQkpPXzVNTFNJTHhQQmt3djAzZ1lHU09fczZsM1hzWHFGUHFrRWhYZlJtcWhCVVNfRHgxZA": 1793288143344,
-    "news:CBMitwFBVV95cUxPZTBvZVRXQnpyU2UwMkttQjlEMXByS1lMVk92ZF8xMWNiZ1VSRmhEbjVGajJwaGw4LVVJaDFFWWQ0U1JUR3ZqeERfSlVrU1o3MWFxZ003TjdaWnNrVjZPVDZwbm55Z1VUbmdTemRIb0xsd2IxVVk4dUppd3dZSDJPZUpISkxsczB4b3J0Y2R0d2htYWVaVjJMSE1UeFB2eDZ5cnZQcU14UlFBVExqdlE2Ni1FVWNjcm8": 1793288143344,
     "threads:DbVo3I6D2E3": 1793288441395,
     "threads:CvB0N--pHHH": 1793288441395,
     "threads:DfFWGu-AaWm": 1793288441395,
@@ -25801,19 +25798,15 @@
     "threads:DZtp6CPk4Nz": 1794497450678,
     "threads:DeXGiuomZc8": 1794497450678,
     "news:CBMiygFBVV95cUxORXI1blRzSnU1Sk9tRTVKV2szQW5pOWdBWHZNWFp0ckNGOTlLbTlMS3dEVkdlWHZkcEJ4QjV5X3l0cHBnWkdqcm5wVkdEUm1kUm9hWFlzR0ZPOER3UFh0OHh0N3VpZ1VCT1BuXzNfVmJMRHUtVkhjZXpJOTI0QkZ1T2JieDZqSVJuY0JjVkdUaUUzSTczNG83U214b2o0U2tLX1JCR1g0TGN6dlY5ZTBCUVlBQzhiOElyanZRSUd6VkNSSl9fMmc5VHdR": 1794497450678,
-    "news:CBMi4wFBVV95cUxQUzRsQU9jdFBNU2NYNHFOSDFKcklWUGlYdF82aVMtb1cxTjlHOHVTRC1yRnVJd2VONnprY0l3SEZrSGNMZkVURzdBeW1HRUNPVzJ1b2ZfMUxJb2hEWC1way1DZm44bzA0Z1RtNzRZbU50RGtOZXZtUHFITWlXUHVxUVZmMW16Wlp4MndvdTh5dFE1bjJvUXZ1NXJSaU9vUmYxZjJjTTdfRnBBSVNQYk5tRWNsMm0wSzU2MUFZMmxNaFh2U0xrbTVMOUJ4WDZLTnlhbVp4eXF6RFZoY0JpMFFjYzlOONIB6AFBVV95cUxOa3ZNQlRnRGZva3UxdWpGc0ZoalZPVGdzWWtxME5uMXN1ellyOVN6OHduQ2ZVbEQyb0pYV3BTX3NDWFdVY0VYVTdKbWtMQVZiUjluUWUzRENEOEVIRUo0NU1NVjlKU0RsUWgwOXJpLXhqMzQ0SF82eVAwUXc3YURqVC1aR3g4SDlyanN2cXN1LWQxNy01ZjZBU1RvdXhaM05pc3lfOUlvdmFKZnpkQklsX091ZnFJa3NBNlJoQ0VwOUtiSG1OX0JWVlI2ZTFTUWx2ZEViSzJxRFVPNDhGS0VGLWRBT2Mybmot": 1794497450678
+    "news:CBMi4wFBVV95cUxQUzRsQU9jdFBNU2NYNHFOSDFKcklWUGlYdF82aVMtb1cxTjlHOHVTRC1yRnVJd2VONnprY0l3SEZrSGNMZkVURzdBeW1HRUNPVzJ1b2ZfMUxJb2hEWC1way1DZm44bzA0Z1RtNzRZbU50RGtOZXZtUHFITWlXUHVxUVZmMW16Wlp4MndvdTh5dFE1bjJvUXZ1NXJSaU9vUmYxZjJjTTdfRnBBSVNQYk5tRWNsMm0wSzU2MUFZMmxNaFh2U0xrbTVMOUJ4WDZLTnlhbVp4eXF6RFZoY0JpMFFjYzlOONIB6AFBVV95cUxOa3ZNQlRnRGZva3UxdWpGc0ZoalZPVGdzWWtxME5uMXN1ellyOVN6OHduQ2ZVbEQyb0pYV3BTX3NDWFdVY0VYVTdKbWtMQVZiUjluUWUzRENEOEVIRUo0NU1NVjlKU0RsUWgwOXJpLXhqMzQ0SF82eVAwUXc3YURqVC1aR3g4SDlyanN2cXN1LWQxNy01ZjZBU1RvdXhaM05pc3lfOUlvdmFKZnpkQklsX091ZnFJa3NBNlJoQ0VwOUtiSG1OX0JWVlI2ZTFTUWx2ZEViSzJxRFVPNDhGS0VGLWRBT2Mybmot": 1794497450678,
+    "threads:DWVeyzRE63f": 1794497734458,
+    "threads:DfpYzlgkmI_": 1794497734458,
+    "threads:DScOv7ukpKZ": 1794497734458,
+    "threads:Dd8ooOJGjLY": 1794497734458,
+    "threads:DacaW1_jOle": 1794497734458,
+    "threads:DeYZBF5EvEF": 1794497734458
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@nafkhatul_nova",
-      "x": "https://us06web.zoom.us/j/88645440833?pwd=ICH8fTHaiEqax8L1gLNmtbBCzzNpOW.1 Kalau lagi free yuk gabung webinar gratis warga 😁",
-      "u": "https://www.threads.com/@nafkhatul_nova/post/DfpIA7amgFo",
-      "d": 1794488808000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27303,10 +27296,20 @@
       "d": 1794474319000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@syekharpi",
+      "x": "1. Bisa jadi memang belum diproses, karena proses seleksi beasiswa gak langsung setelah kamu submit, tapi rata2 3-9 bulan setelah penutupan pendaftaran 2. Kamu submit tidak sesuai ",
+      "u": "https://www.threads.com/@syekharpi/post/DfpYzlgkmI_",
+      "d": 1794497612000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
