@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Dd5SNailE0n": 1793317540584,
-    "threads:DaxbitIkzNj": 1793317540584,
     "threads:Ddir-ZEFB_m": 1793317838573,
     "threads:DfGOS5zkYgx": 1793317838573,
     "threads:DfGNWtFkcDV": 1793317838573,
@@ -25610,19 +25608,11 @@
     "threads:DfqQFInmcrt": 1794526533738,
     "threads:DfqQB0RmBtu": 1794526533738,
     "threads:DfqO-SUFXUU": 1794526838560,
-    "threads:DfqPFUrE_c2": 1794526838560
+    "threads:DfqPFUrE_c2": 1794526838560,
+    "threads:DfqRH-OiUhR": 1794527150216,
+    "threads:DfqQdKyE6EV": 1794527150216
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@namithaparamitha",
-      "x": "Haiii kaa..ijin ya.. Belajar digital dari Nol yuk..Jum'at tgl 13 besok ada webinar GRATIS buat umum, yg Gaptek, pemula pasti di bimbing sampe cuan. Pake HP tetep bisa berPenghasila",
-      "u": "https://www.threads.com/@namithaparamitha/post/DfpU5CZEnCQ",
-      "d": 1794495559000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27112,10 +27102,20 @@
       "d": 1794526069000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sah212212",
+      "x": "Bapak ibu yang tanya kenapa PBI-JK masih September padahal DTSEN sudah Ver 4..! Sabar ya, butuh proses update. Data kita sudah diperbarui pusat untuk pencairan tahap akhir tahun in",
+      "u": "https://www.threads.com/@sah212212/post/DfqRH-OiUhR",
+      "d": 1794527140000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
