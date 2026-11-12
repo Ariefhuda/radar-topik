@@ -60,14 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD3jbfEi1y": 1793238940183,
-    "threads:DfD20bCgbQw": 1793238940183,
-    "threads:DfD4GGZlvYc": 1793238940183,
-    "threads:DfD3uz8EXBJ": 1793238940183,
-    "threads:DfD4VItk-KA": 1793238940183,
-    "threads:DfD4TXYk18O": 1793238940183,
-    "threads:DfD32L7Fonf": 1793238940183,
-    "news:CBMiqAFBVV95cUxPMEZJbzZ3N2ZmYnBQbnNqZ05JbTdBQUZrWExYMFFsbkhTbzY5dV81V3U2dmZJMWQ4UHgyeVdMZVpOR3RWRU9DeUxXTGk0RXZUV29od016RktKZ2tNa0YwR2NhMzVlTkJiY3h6NmE3VHJCbkZfaXpvbGF4bFJLNThQSmpGaFBUUVJsczhXSTFBQVRlamhfSG5uRlhiMjBYSWxLNmNTLUpiS2M": 1793238940183,
     "threads:DfD3zsbCX_b": 1793239272750,
     "threads:DfD4GiTEzf_": 1793239272750,
     "threads:DfD4EUvj5Dq": 1793239272750,
@@ -25557,7 +25549,17 @@
     "threads:Dfn5Cydknpq": 1794447942291,
     "threads:Dfn6QfGn80V": 1794448241981,
     "threads:DfAJoE5Hy33": 1794448241981,
-    "news:CBMilwFBVV95cUxNbmlxUmFqZGdCOFE3Z2Y0dzRwVkZtWDlSdlZHT3R2NjQ2dC1GT0lLemIwU1hWTTBMSHlOcnZ2dk53M0o3N09MejItYTRBZkFybTFUN3llbWowV20tcG9JQmVmSEMxTFota1MyVXN5ZVVPRG9OVG1wVktBYUxqN1NlNnhVMnJfWHRsS2czc2x0ZHlfSmFOT0I4": 1794448241981
+    "news:CBMilwFBVV95cUxNbmlxUmFqZGdCOFE3Z2Y0dzRwVkZtWDlSdlZHT3R2NjQ2dC1GT0lLemIwU1hWTTBMSHlOcnZ2dk53M0o3N09MejItYTRBZkFybTFUN3llbWowV20tcG9JQmVmSEMxTFota1MyVXN5ZVVPRG9OVG1wVktBYUxqN1NlNnhVMnJfWHRsS2czc2x0ZHlfSmFOT0I4": 1794448241981,
+    "threads:Dfn7HcEklnK": 1794448533606,
+    "threads:Dfn7UIqDlGK": 1794448533606,
+    "threads:Dfn7T1vFrAc": 1794448533606,
+    "threads:Dfn7OdPFpvD": 1794448533606,
+    "threads:Dfn7Gp-lgpx": 1794448533606,
+    "threads:Dfn6zznFnB0": 1794448533606,
+    "threads:Dfn6sdXllTj": 1794448533606,
+    "threads:Dfn6mBYFhHE": 1794448533606,
+    "threads:Dfn6g22FvDx": 1794448533606,
+    "news:CBMitwFBVV95cUxNaFNBUDBLNnNFQnZBSmhIRF9NcTkzUDYtRUlLQV9iYW9weGVTMTM0YlZYNzg1T3NsQzJ5MnJxRE9yNGFGUk8wRi1VeUFjMFEtVFMwbXpkdjl5UVRWV2tzOVdIWnpJNmxfdHpUQ0ItNnBabjByX2wzNG1SUU5nZ2RPbnZCMDZWZTl4R1MwTVBMYmZyTTltQWhNNHpoQURuN2RCY3h4RVBfQURTaHprclhGQUp3eGNvTFE": 1794448533606
   },
   "digest": [
     {
@@ -25919,10 +25921,20 @@
       "d": 1794448041000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "About Semarang",
+      "x": "Bansos PKH dan BPNT 2027 Bisa Daftar Mandiri, Ini Syarat dan Caranya Lewat Portal Perlinsos - About Semarang",
+      "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFNBUDBLNnNFQnZBSmhIRF9NcTkzUDYtRUlLQV9iYW9weGVTMTM0YlZYNzg1T3NsQzJ5MnJxRE9yNGFGUk8wRi1VeUFjMFEtVFMwbXpkdjl5UVRWV2tzOVdIWnpJNmxfdHpUQ0ItNnBabjByX2wzNG1SUU5nZ2RPbnZCMDZWZTl4R1MwTVBMYmZyTTltQWhNNHpoQURuN2RCY3h4RVBfQURTaHprclhGQUp3eGNvTFE?oc=5",
+      "d": 1794448165000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
