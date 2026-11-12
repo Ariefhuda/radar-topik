@@ -60,8 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfD8qpvkUYE": 1793241655597,
-    "threads:DfD8WcsE5pw": 1793241655597,
     "threads:DfD9wpumn12": 1793241939543,
     "threads:DfD9rdlmWh_": 1793241939543,
     "threads:DfD3FzJmwez": 1793241939543,
@@ -25595,7 +25593,8 @@
     "threads:Dfn_Qlqk-zv": 1794450937937,
     "threads:Dfn_QJ8E9tk": 1794450937937,
     "threads:Dfn_Puzk7gO": 1794450937937,
-    "news:CBMiowFBVV95cUxPXzJIRERJdlo1YUlCeERsMUdabGNnVTQ0VFROdnloOFgxNE5fbi10WjA3MW1EQmhMekdQMWJQU3JOaVhFRldRZ1RLcVVsWUhLU1NxZ2d5ZmlYWUNGbG41LW1JSWE1WjNRZjBmUUdfaEEzek5iQW80T0tfWmtUeXFzb1otQTlSc3NRQXFrcHJqa0l0XzJtRlY1QjhIaWJycjcwaXo0": 1794450937937
+    "news:CBMiowFBVV95cUxPXzJIRERJdlo1YUlCeERsMUdabGNnVTQ0VFROdnloOFgxNE5fbi10WjA3MW1EQmhMekdQMWJQU3JOaVhFRldRZ1RLcVVsWUhLU1NxZ2d5ZmlYWUNGbG41LW1JSWE1WjNRZjBmUUdfaEEzek5iQW80T0tfWmtUeXFzb1otQTlSc3NRQXFrcHJqa0l0XzJtRlY1QjhIaWJycjcwaXo0": 1794450937937,
+    "threads:DfoAd3EE1dG": 1794451237497
   },
   "digest": [
     {
@@ -26647,10 +26646,20 @@
       "d": 1794450657000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@setanbulol",
+      "x": "Di cek bansos dong hhh",
+      "u": "https://www.threads.com/@setanbulol/post/DfoAd3EE1dG",
+      "d": 1794451297000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-8",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
