@@ -26181,7 +26181,8 @@
     "threads:DfsY9QXHSdc": 1794598535977,
     "threads:DfsYxKokiEp": 1794598535977,
     "threads:DfsYMKykpqI": 1794598535977,
-    "threads:DcgDEtWkxfb": 1794598535977
+    "threads:DcgDEtWkxfb": 1794598535977,
+    "threads:DX859gkjnnn": 1794598840724
   },
   "digest": [
     {
@@ -27686,7 +27687,7 @@
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
