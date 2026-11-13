@@ -26350,19 +26350,11 @@
     "news:CBMiggFBVV95cUxPUlJKYlYxQVVWMG05RkpTOVBtdERPUzJUeGdOMFJFazlURi1JbFVIMlBma1RwWDZkMDRoenVYN1ZWeGNadHh1dVdJYWgyU29VRTB6U21GcUFYM3lhdmZvMmNidEhYcU14Ry02NXdtcTk4eU1SSU1EMFl4NUN2a25tMWJB": 1794604543128,
     "threads:DUiQJ-UD486": 1794604843263,
     "threads:Dfq_hCXgQkt": 1794604843263,
-    "threads:DaTxWW7kvNc": 1794604843263
+    "threads:DaTxWW7kvNc": 1794604843263,
+    "threads:DazZ6I2iXmc": 1794605138299,
+    "news:CBMivgFBVV95cUxPNWM5MW12eTNNcWVKaHl6Ynpial9HNEtyRWlFNnp3MjFVOVhrYjJjSGgtd1k5V3lXUzJoeEdQV3RPWUdMYjFqTzJZeHJHYl91ay1aZTQ5YjVCT21WYUliQXpBWnhXRDcwbDI5VUZiZWlISTNwaTFyLXV1MUhxenpjZ2hMX1pWVGFhOVV6NnJCZDFjS09oX0tFSy1EWXVHbUlZVHFEWk5RYmxHWV92NUtmcFlzTFBESFZQejlOSTdR0gHDAUFVX3lxTE9MbG9zNEw4aDhyOWdnX09neXYxVlVHVnFoSkM5akZKSFNDQ041czJwZHh6UFJHT2Z5Q1BJVlF6Yng4RFY5Y1VXTGFxeDloN0psWHJJalppUkdzUEoyc0xVczZzZFRxb1pZUDFzci1TWHpEcGd2NzREMXpaei1VdUVtMENoaDVkcjROa09scVZkak9uYmNjN0dldVVndG85X3ZveHd6c09IUTVkMjNteHFSQ1hvS05BU2FrdlotWFJKZVFKcw": 1794605138299
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@mfauzan.nugraha",
-      "x": "Versi workflow yang dibantu AI: urutannya masih ditulis manusia, tapi satu langkahnya dikerjain LLM. Misalnya ngambil nomor invoice, tanggal, dan total dari PDF yang formatnya beda",
-      "u": "https://www.threads.com/@mfauzan.nugraha/post/DfrseV_ideq",
-      "d": 1794575041000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27852,10 +27844,20 @@
       "d": 1794551462000,
       "urgent": false,
       "warn": true
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "Radar Banjarmasin",
+      "x": "Diskumdagri Tanah Bumbu Dorong UMKM Miliki NIB dan Sertifikat Halal - Radar Banjarmasin",
+      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWM5MW12eTNNcWVKaHl6Ynpial9HNEtyRWlFNnp3MjFVOVhrYjJjSGgtd1k5V3lXUzJoeEdQV3RPWUdMYjFqTzJZeHJHYl91ay1aZTQ5YjVCT21WYUliQXpBWnhXRDcwbDI5VUZiZWlISTNwaTFyLXV1MUhxenpjZ2hMX1pWVGFhOVV6NnJCZDFjS09oX0tFSy1EWXVHbUlZVHFEWk5RYmxHWV92NUtmcFlzTFBESFZQejlOSTdR0gHDAUFVX3lxTE9MbG9zNEw4aDhyOWdnX09neXYxVlVHVnFoSkM5akZKSFNDQ041czJwZHh6UFJHT2Z5Q1BJVlF6Yng4RFY5Y1VXTGFxeDloN0psWHJJalppUkdzUEoyc0xVczZzZFRxb1pZUDFzci1TWHpEcGd2NzREMXpaei1VdUVtMENoaDVkcjROa09scVZkak9uYmNjN0dldVVndG85X3ZveHd6c09IUTVkMjNteHFSQ1hvS05BU2FrdlotWFJKZVFKcw?oc=5",
+      "d": 1794551538000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
