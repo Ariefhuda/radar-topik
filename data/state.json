@@ -26133,19 +26133,11 @@
     "threads:DfsTWVFn0Cy": 1794595548501,
     "threads:DfsS6DxlA4h": 1794595548501,
     "threads:DfsS3a6DgIm": 1794595548501,
-    "threads:DfsSmszDKfl": 1794595548501
+    "threads:DfsSmszDKfl": 1794595548501,
+    "threads:DfFB_3UD8MG": 1794595838354,
+    "threads:Dfrhhy2HQQK": 1794595838354
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "news.fin.co.id",
-      "x": "Cek Bansos BPNT 2026 November 2026, Begini Cara Mengetahui Status Penerima Pakai NIK KTP - news.fin.co.id",
-      "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHFLbDk3ZWljODZVRHZmQ2pJckVyXzZqNHhIZHJrbHFMbTdPM2hURGR5V01FSU80RnhINGE5enFWdUtpdFYwLUhyNmRCZXFUbHNOTG0wVUk1MURxQ091MWdEbGYxLUtENFJUWWVBMkVLTkJEbHpHSXN0aTVsQlRTMlEwbFhrTEpxNUdOV0RTbWlUV3VQSmhSNmF0ODRnR0p1LVo2V2VGZFNDRVdOZlRSMldMYTdwdVZsaFdWMGVB?oc=5",
-      "d": 1794530761000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27635,10 +27627,20 @@
       "d": 1794595204000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@meilanbudiono",
+      "x": "Gimana ini sob udha dr hari senin bolak balik ke bank tetapi nyatanya belum cair, apa kalean sama belom cair bsu? #bsu #bsu2026 #cairbansos #bsucair #fyp #fbpropemula",
+      "u": "https://www.threads.com/@meilanbudiono/post/Dfrhhy2HQQK",
+      "d": 1794569294000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
