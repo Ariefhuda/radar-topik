@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DeJ6qk-FMm0": 1793321150776,
-    "threads:DYuIeBiFM0z": 1793321150776,
-    "threads:DdL9ZKzD7eu": 1793321150776,
-    "threads:DUm2qW-jmBp": 1793321150776,
-    "threads:DZQ2xpdGK9Q": 1793321150776,
-    "threads:DcJX7CbHwg6": 1793321150776,
-    "threads:DfGU4cskypO": 1793321150776,
-    "news:CBMidEFVX3lxTE04U19LS19CbGV5X0w4MWxTS3o1dXk0REEyV2xnLWNIbDZhZDRINFk2VjVMMmptLW9NeC1GTk1Zc091OXhFSGRDOEpYWTBhM3gyTUtBTG9TQTRaUjdMSWNDak5VUnkwZkxuRVFOUVNmdnB1anBE": 1793321150776,
-    "news:CBMiwAFBVV95cUxQTEVROG00cktjTjNTcDV5bEhCZFoza0NIUU44WjRoU0ZJeVJVMlVISUt3cGRIQm1aMjBxME5ONGpfNkh3V1NPS3lJa2VkTFZfcjkwNkIzQmtjNTdGMF9DdDRmXzJ6ZEZjUXVBczc2bFZKYlU3N19BTHc2VXFKY0ktNEtEbTFHSGNaOE5Lc19uSHl5Y1hleDNGU1BvTGZMMnZwQnpSVDFBNmdadklpQzVuRFRNZy1nQVQ1SzBkQVZCRTc": 1793321150776,
-    "news:CBMipAFBVV95cUxNQzQ3d0JnM3NPYnNuVm4wWUJCdTlqMkFuMjJlTDJ5bEdsOW1yY1hGaUlYNGxBRjBvTjFFV0NfODk1RE1TZFBGTUFBa3RzeFJqeGRTMjd6ZHhEd1YzaEFhTzNKVjNpdE05ME5WNmREZEktdTViWDJGek5TazdPR3E2dGdzN3BPV1J6cjBzWjFaVXRwcEJSME16dGhhS050ajJ3ZmJjUg": 1793321150776,
     "threads:Db7Q9eQmHGH": 1793321445772,
     "threads:DfGUtfKkywU": 1793321445772,
     "threads:Dd1cmBukjGc": 1793321445772,
@@ -25534,19 +25524,13 @@
     "threads:DfqRMtfH1U_": 1794530484983,
     "threads:DfqRKxyH-jP": 1794530484983,
     "threads:DfqXVd1GmHr": 1794530484983,
-    "news:CBMiTEFVX3lxTE1uMVBzSWZlMlg4QU5uQms2UG53dHpZV0JNX3lhdm82NktIZWV6WV9acUlhRHJHcjZuNFBpay1xT2JjYWpjbTJJZmUzSWk": 1794530484983
+    "news:CBMiTEFVX3lxTE1uMVBzSWZlMlg4QU5uQms2UG53dHpZV0JNX3lhdm82NktIZWV6WV9acUlhRHJHcjZuNFBpay1xT2JjYWpjbTJJZmUzSWk": 1794530484983,
+    "threads:DfqX00igeTP": 1794530735348,
+    "threads:DZSMfqRiftq": 1794530735348,
+    "threads:DUdIvAcDCuE": 1794530735348,
+    "news:CBMijAFBVV95cUxOY0lUZTVjeUJNaHBXZE04R0lDZE1uTlg5X1NSajhlZ04xYmpoaWpjLXUxSUszdVoyZlpoSWRqV1hhUkxwdzNJVy1Pd1RsaEZNMjY3T09CWTVaSGVRSXI0WTdwZkRnaml2MWtWdEU3TFVZSWZfZ0FfaWgwR3JhZVhESDVQRVowWVdfUkg4Tg": 1794530735348
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ula_willfitnes",
-      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
-      "u": "https://www.threads.com/@ula_willfitnes/post/DfpbqGViUwa",
-      "d": 1794499107000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27036,10 +27020,20 @@
       "d": 1794530509000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@meta.ai",
+      "x": "Advanced Diploma itu bukan SMA - secara ISCED itu level 5 pendidikan tinggi vokasi singkat, di atas SMA level 3, jadi tidak bisa langsung diajukan sebagai ijazah SMA. Yang pernah t",
+      "u": "https://www.threads.com/@meta.ai/post/DfqX00igeTP",
+      "d": 1794530652000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
