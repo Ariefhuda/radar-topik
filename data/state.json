@@ -26055,29 +26055,13 @@
     "threads:DfsLP2zDdl0": 1794591661301,
     "threads:DfsLC4QCYXo": 1794591661301,
     "threads:DfsK8CmpqMD": 1794591661301,
-    "news:CBMibkFVX3lxTFA1ZWwyWU5wZjROTUlLSHE5UXYxd0tEc3JiZ0VCRlk3ZHNYYk5ZdHZCMHloWTNpb29sdzE2S19MLWpab2VBUW8ydEpBd2s3VVFRNXg4eVJkV3E3aENGWnM0RWIxdWZkaS0tYnFTTTRn": 1794591661301
+    "news:CBMibkFVX3lxTFA1ZWwyWU5wZjROTUlLSHE5UXYxd0tEc3JiZ0VCRlk3ZHNYYk5ZdHZCMHloWTNpb29sdzE2S19MLWpab2VBUW8ydEpBd2s3VVFRNXg4eVJkV3E3aENGWnM0RWIxdWZkaS0tYnFTTTRn": 1794591661301,
+    "threads:DfsCtGoEn59": 1794591943170,
+    "threads:DfrZwxgn0E7": 1794591943170,
+    "threads:DbsZ9CdjgLQ": 1794591943170,
+    "threads:DfA_INlklwB": 1794591943170
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribunsumsel.com",
-      "x": "Syarat dan Tata Cara Pengajuan Ulang Penerima Bansos PKH-BPNT 2027 Secara Online Lewat HP - Tribunsumsel.com",
-      "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXU4WEM5a0NadTRGaHdldUI1SHQ1NEVKdy1LZDNLaGdoaVRjcWgyVEVrVFUyVmpMMHRQVC1ZUFZ5aTNJU1RXRHp6TWpmX1A1dFFES2VOaXJ0WVFNMWxNelNZNlc5djdHbkxEelZVRTAxcmM0VFFFZjBzUjFpS055QlVQeG9XODZ2YU5vOU9TX3o1NnlTWVNkbzFPaEVVcVJDdkhOcGZzcENKQVM5bTkxX2s5NzJlVy1ncHhfbWFVSV9sWTJlTnZDdEY4cFEydGdFbGc?oc=5",
-      "d": 1794575652000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "JournalArta",
-      "x": "Bansos PKH dan BPNT Tahap 4 Menyusul, PIP Rp750 Ribu Cair Lebih Dulu - JournalArta",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGNoU2RqZ0MyR2d0YUFjX3lmVFpUQ1NuanBrTUwzUXBkc3dpYkpSVmRLYkFVUmQ1SndDTkFrMktjeVBJOUNDNWt6Y3E3UVJ6WE4yNkFXLXJsTy15STNZckZBUVNzMmhCNHNyOUlTOFFZa180U3dlcmFTV2pVWWFFSEQtVC00VE1UWUJJbGdjbWpVSG1oWFlFak9DSnZ6aUNMQUhHS1R4dE1BU0JQ?oc=5",
-      "d": 1794555517000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27557,10 +27541,30 @@
       "d": 1794573024000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@51230abcd",
+      "x": "Jaman Jokowi saya punya kerjaan dengan gaji cuma 4 juta masuk daftar penerima bansos walaupun saya tidak tau menahu tentang bagaimana cair nya Jaman Prabowo menjabat saya pindah ke",
+      "u": "https://www.threads.com/@51230abcd/post/DfsCtGoEn59",
+      "d": 1794586688000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sitifatimah4037",
+      "x": "BPNT Rp600.000 lagi cair bertahap ya Bun. Rp200.000 x 3 bulan, untuk Okt - Des 2026. Cek nama Bunda di cekbansos.kemensos.go.id Daerah Bunda udah cair belum? Komen ya Bun.",
+      "u": "https://www.threads.com/@sitifatimah4037/post/DfrZwxgn0E7",
+      "d": 1794565223000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
