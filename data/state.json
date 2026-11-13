@@ -60,12 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfGQusKkRm4": 1793319683346,
-    "threads:DcYJbLtj50F": 1793319683346,
-    "threads:DcfUt6sk0JI": 1793319683346,
-    "threads:DfGRYjygWTP": 1793319683346,
-    "news:CBMiakFVX3lxTFB4cVFrQjRHTkozWUI1ekhESEpWcHRhREdYVFNEalVVbW41Tkpkby1JLUNXemx1bHk5c19ia2N4UFJHUENTdGNZSkdmclpsM19INGplTUFPTjZqc2duMkhGckFwcllLcWRFY3c": 1793319683346,
-    "news:CBMickFVX3lxTE01QWpUc3RaWFlHUHM4Q3RzWW5YeUZTNTlWdm0xaXRpd1diMUx0TFFxMEU2RmVIQ1RoRzdvN3lDWnkyb2Z3bzhxV09WRm1qZTNUZ2JGbkE2YnhLRWVlWnZLc2xLQmE4XzRWYVUtNmprWVBCUQ": 1793319683346,
     "threads:DdHRC6XkgLl": 1793319934790,
     "threads:DfGM5ZLEwoN": 1793319934790,
     "threads:DdZLrp9kxKE": 1793319934790,
@@ -25561,29 +25555,14 @@
     "threads:DfqSkFCk4s8": 1794528935721,
     "threads:DFxh8XoSXZj": 1794528935721,
     "threads:DZbnYMCEQt_": 1794528935721,
-    "news:CBMi5wFBVV95cUxQbHVTUzNLckY4ME1VNTRmc28za3Jzajl0N0VPSElUbE82Yi02aVpHLUZlcXFYY2RERklVZ3ZyZHBoQlFKM2ppVFNqM3pEZHVrcG50ZjRFNHVhdzFrdE96cHRXSEtzSExKenV4bGVMSk1jTDlEZVdpNDJFa1dEWXpZcjFrb0xfV3JHdEtwWFhlNHhlU3ZKZ0tZQW84TTNqUllESC1LZXFZNURqeVpkcTluQnVRTUlFVnR6TDJkRk5JRVc4MElzb0ZfZk5PV2xvWmFCN3lmR19adkJhdFJMOHY1QTdJSHpFTVnSAecBQVVfeXFMUGx1U1MzS3JGODBNVTU0ZnNvM2tyc2o5dDdFT0hJVGxPNmItNmlaRy1GZXFxWGNkREZJVWd2cmRwaEJRSjNqaVRTajN6RGR1a3BudGY0RTR1YXcxa3RPenB0V0hLc0hMSnp1eGxlTEpNY0w5RGVXaTQyRWtXRFl6WXIxa29MX1dyR3RLcFhYZTR4ZVN2SmdLWUFvOE0zalJZREgtS2VxWTVEanlaZHE5bkJ1UU1JRVZ0ekwyZEZOSUVXODBJc29GX2ZOT1dsb1phQjd5ZkdfWnZCYXRSTDh2NUE3SUh6RU1Z": 1794528935721
+    "news:CBMi5wFBVV95cUxQbHVTUzNLckY4ME1VNTRmc28za3Jzajl0N0VPSElUbE82Yi02aVpHLUZlcXFYY2RERklVZ3ZyZHBoQlFKM2ppVFNqM3pEZHVrcG50ZjRFNHVhdzFrdE96cHRXSEtzSExKenV4bGVMSk1jTDlEZVdpNDJFa1dEWXpZcjFrb0xfV3JHdEtwWFhlNHhlU3ZKZ0tZQW84TTNqUllESC1LZXFZNURqeVpkcTluQnVRTUlFVnR6TDJkRk5JRVc4MElzb0ZfZk5PV2xvWmFCN3lmR19adkJhdFJMOHY1QTdJSHpFTVnSAecBQVVfeXFMUGx1U1MzS3JGODBNVTU0ZnNvM2tyc2o5dDdFT0hJVGxPNmItNmlaRy1GZXFxWGNkREZJVWd2cmRwaEJRSjNqaVRTajN6RGR1a3BudGY0RTR1YXcxa3RPenB0V0hLc0hMSnp1eGxlTEpNY0w5RGVXaTQyRWtXRFl6WXIxa29MX1dyR3RLcFhYZTR4ZVN2SmdLWUFvOE0zalJZREgtS2VxWTVEanlaZHE5bkJ1UU1JRVZ0ekwyZEZOSUVXODBJc29GX2ZOT1dsb1phQjd5ZkdfWnZCYXRSTDh2NUE3SUh6RU1Z": 1794528935721,
+    "threads:DfqUTabE4eZ": 1794529242629,
+    "threads:DfqUEsDkSFR": 1794529242629,
+    "threads:DaQuXvrk5T4": 1794529242629,
+    "threads:Da2dshGjxaC": 1794529242629,
+    "threads:Dbfi_c0mDZs": 1794529242629
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Tulungagung",
-      "x": "Cara Cek Desil dan Bansos Pakai NIK 16 Digit di Cek Bansos Kemensos, Begini Membaca Hasilnya - Radar Tulungagung",
-      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNGIxM1BFdmtkQ2F4QzBIUkI4WkliT3dXTXN4NG1OVjhfM3FVYWt6U1dpMk5NR0tfZDhOb01mbjhmc1NfMFdkWWZuUy1NR3hjVXZISkV3ck52WDFxYTlSZmJPWTNNMUJHaTdjWDlERDFBcXVaSWE0aFd3RTdZRjcxZUpjMl9ZekNtTGN1UDY0dWw1SGVtYmxUNEFxQ2xjdExkSURFeUFtaEFBdUdTc3RGMVNzR1R6ZmJpdjdMWEZsSGRDczBlRjhoMDdkaEMzX043djhEWk9rRzVOWk1aemhRRHdR0gHnAUFVX3lxTE5IUExZeVRuc01vR3FCOGZiSkRIdXkyQlVnRkFvT1BPejVuMk9xWnB2d2t0NlloVG9xcmVjQ3lnTW1FdnRqVWNVRnU3ZlpRcTdMUnhJVGZCV25lNk13Sk1oQUZILS1nTGg3NVpPejQtaGJENkdHdE16NjVnZkt6cmk0R3B6VGh2X2JHYy1MSlVtNE1WdEpXZmtIbjZqZWxPZER1OG8tZGRsMlJZR09kQTFPN2Q2Z1VGYVBud2l4V1h6emROTTZVWFpRN0Z5ZkVHd2Q1WHRNTzV6Q1l3bEJkNWJzR2xQUms4SQ?oc=5",
-      "d": 1794474016000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "threads",
-      "a": "@nrlndjiha_",
-      "x": "kenapa yaa buka aplikasi cek bansos sekarang stuck di aplikasi nya terus -_-",
-      "u": "https://www.threads.com/@nrlndjiha_/post/DfpaQ_ZEkdj",
-      "d": 1794498377000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "threads",
@@ -27063,10 +27042,30 @@
       "d": 1794523943000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@maulanavlog3_",
+      "x": "Beasiswa AI 100% GRATIS dari Pijak 2027 x IBM SkillsBuild! 🚀 Kuota 60.000 talenta Indonesia untuk belajar Generative AI, Prompt Engineering & Vibe Coding. ✅ Akses materi selamanya",
+      "u": "https://www.threads.com/@maulanavlog3_/post/DfqUTabE4eZ",
+      "d": 1794528806000,
+      "urgent": false,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "threads",
+      "a": "@rohimmm235",
+      "x": "Beasiswa AI 100% GRATIS dari Pijak 2027 x IBM SkillsBuild! 🚀 Kuota 60.000 talenta Indonesia untuk belajar Generative AI, Prompt Engineering & Vibe Coding. ✅ Akses materi selamanya",
+      "u": "https://www.threads.com/@rohimmm235/post/DfqUEsDkSFR",
+      "d": 1794528685000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
