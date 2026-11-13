@@ -60,16 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:Db7Q9eQmHGH": 1793321445772,
-    "threads:DfGUtfKkywU": 1793321445772,
-    "threads:Dd1cmBukjGc": 1793321445772,
-    "threads:DbnB_nnkokr": 1793321445772,
-    "threads:DfGVElFj2e3": 1793321445772,
-    "threads:DfGVrwtGKz8": 1793321445772,
-    "threads:DfGVWz_Doyy": 1793321445772,
-    "threads:DfGVSCADoCu": 1793321445772,
-    "threads:DfGUdzTja_g": 1793321445772,
-    "threads:DfGUdJXD2N6": 1793321445772,
     "threads:DfGU1qzDNa0": 1793321739228,
     "threads:DfGV_LVEQ-_": 1793321739228,
     "threads:DfGVotdEf8D": 1793321739228,
@@ -25528,19 +25518,17 @@
     "threads:DfqX00igeTP": 1794530735348,
     "threads:DZSMfqRiftq": 1794530735348,
     "threads:DUdIvAcDCuE": 1794530735348,
-    "news:CBMijAFBVV95cUxOY0lUZTVjeUJNaHBXZE04R0lDZE1uTlg5X1NSajhlZ04xYmpoaWpjLXUxSUszdVoyZlpoSWRqV1hhUkxwdzNJVy1Pd1RsaEZNMjY3T09CWTVaSGVRSXI0WTdwZkRnaml2MWtWdEU3TFVZSWZfZ0FfaWgwR3JhZVhESDVQRVowWVdfUkg4Tg": 1794530735348
+    "news:CBMijAFBVV95cUxOY0lUZTVjeUJNaHBXZE04R0lDZE1uTlg5X1NSajhlZ04xYmpoaWpjLXUxSUszdVoyZlpoSWRqV1hhUkxwdzNJVy1Pd1RsaEZNMjY3T09CWTVaSGVRSXI0WTdwZkRnaml2MWtWdEU3TFVZSWZfZ0FfaWgwR3JhZVhESDVQRVowWVdfUkg4Tg": 1794530735348,
+    "threads:DfoyxD9Aevs": 1794531043247,
+    "threads:DfqYP8rGeg2": 1794531043247,
+    "threads:DdZLrp9kxKE": 1794531043247,
+    "threads:DfqYLJ0jKDN": 1794531043247,
+    "threads:DfqYIGSiYVn": 1794531043247,
+    "threads:DfqXq_5D1-X": 1794531043247,
+    "threads:DfqXku1j_bT": 1794531043247,
+    "news:CBMixAFBVV95cUxPc0ZSWmVIX3c5SVpsVEdkZDhOaEhNWTBLcmxEZWhfVnQtM3cyOEFneWVlRVVXN29tZzhOdE1VUHJ3Sk5sdkVXQnRPMmVTMDdyTXVMbE1IRkxWQ1RVT3V6T3UzS3JVX01pU1BnSHkxWWNEQlpLemdpeDJBTy1TVFFrTEl0U3VXZlZxcHBMaDVGVjlsM3AzUWt4VGJCTTRpUHVCcnJmLTdrTzZuQThyZzVEM24xbGJKUWdaMXVoRHRuaVhkMi1G": 1794531043247
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@ula_willfitnes",
-      "x": "🔥 GYM MERUYA FASILITAS PALING LENGKAP! WILL FITNESS MERUYA - Meruya Ilir! ✅ Gym Area Lengkap ✅ Kelas GRATIS! ✅ SAUNA! ✅ Locker & Shower! START Rp 230rb/bulan! 🎁 COBA GRATIS 1x! H",
-      "u": "https://www.threads.com/@ula_willfitnes/post/DfpboqyCRZR",
-      "d": 1794499095000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -27030,10 +27018,20 @@
       "d": 1794530652000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "news",
+      "a": "Sorot News",
+      "x": "Wakil Ketua Umum DPN Tani Merdeka Indonesia, Yons Ebit Hadiri Seminar di UNIKA Santu Paulus Ruteng - Sorot News",
+      "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0ZSWmVIX3c5SVpsVEdkZDhOaEhNWTBLcmxEZWhfVnQtM3cyOEFneWVlRVVXN29tZzhOdE1VUHJ3Sk5sdkVXQnRPMmVTMDdyTXVMbE1IRkxWQ1RVT3V6T3UzS3JVX01pU1BnSHkxWWNEQlpLemdpeDJBTy1TVFFrTEl0U3VXZlZxcHBMaDVGVjlsM3AzUWt4VGJCTTRpUHVCcnJmLTdrTzZuQThyZzVEM24xbGJKUWdaMXVoRHRuaVhkMi1G?oc=5",
+      "d": 1794531026000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
