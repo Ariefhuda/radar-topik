@@ -26463,19 +26463,11 @@
     "threads:DfsuwHuEsJZ": 1794609943309,
     "threads:Dfst0EqGG4p": 1794609943309,
     "threads:DfstxrAFLDN": 1794609943309,
-    "threads:Dfsu8R3k_7a": 1794609943309
+    "threads:Dfsu8R3k_7a": 1794609943309,
+    "threads:DfswPh9DOyd": 1794610531756,
+    "news:CBMivAFBVV95cUxNbnZ3VldENG12WmU5SUxBLW1xTk8tbDg2NzFNUkR4WTRfbkJib2hZWlRxNkpRT1o1Rjh6elhqYTlnOXhJNnFXYktCNFZYTzdEWlREYVBKMUIzTXVvYWJBM3BOSDh0R1hIOVNKdHRBbmdfLTkyeG1jYll5aWliQVJtMnBpOHBpLThzOUhuVTVPM3kyRlJmWEo0cF9FNk8xQWhmMGVhVHRvODFsRXVsbjhYa1N6SDh1NFduM1ZpbtIBwgFBVV95cUxPZXlyZWZIdEJEVXcxMUlKV0VWNUJsOW5FS3NQWlRXeW1PTElLdGJfcGxOOFYzR18wX1h2cmF6VnlIQTFwNFRYMGdlSzFxOXhNU21GQUsxWTNFRGs5NnprSWk4WF9SRGlzeF9DZ1hjS1h0U1pmVUEtMUdKLTZSY1RDb0h5T3E2UERzVVJKNzFFUGdab1pVX3hDZGkzZ1EwWUpkT1B1VVg3S1ZsNTc3UlVxT2d1TGR0SmpNYzduMTZkVHByUQ": 1794610531756
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@lokergawean.id",
-      "x": "Ngomong-ngomong, berkas administrasi kalian sudah siap belum kalau pendaftaran dibuka minggu depan? Atau masih ada yang harus diurus dulu? 😁 Buat yang lagi nyiapin diri buat CPNS ",
-      "u": "https://www.threads.com/@lokergawean.id/post/DfrcMjyn985",
-      "d": 1794566498000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27965,10 +27957,20 @@
       "d": 1794609882000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Bogor",
+      "x": "Kabar Bansos 14 November 2026, Ada Pencairan Rp975 Ribu hingga Rp1,2 Juta - Radar Bogor",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnZ3VldENG12WmU5SUxBLW1xTk8tbDg2NzFNUkR4WTRfbkJib2hZWlRxNkpRT1o1Rjh6elhqYTlnOXhJNnFXYktCNFZYTzdEWlREYVBKMUIzTXVvYWJBM3BOSDh0R1hIOVNKdHRBbmdfLTkyeG1jYll5aWliQVJtMnBpOHBpLThzOUhuVTVPM3kyRlJmWEo0cF9FNk8xQWhmMGVhVHRvODFsRXVsbjhYa1N6SDh1NFduM1ZpbtIBwgFBVV95cUxPZXlyZWZIdEJEVXcxMUlKV0VWNUJsOW5FS3NQWlRXeW1PTElLdGJfcGxOOFYzR18wX1h2cmF6VnlIQTFwNFRYMGdlSzFxOXhNU21GQUsxWTNFRGs5NnprSWk4WF9SRGlzeF9DZ1hjS1h0U1pmVUEtMUdKLTZSY1RDb0h5T3E2UERzVVJKNzFFUGdab1pVX3hDZGkzZ1EwWUpkT1B1VVg3S1ZsNTc3UlVxT2d1TGR0SmpNYzduMTZkVHByUQ?oc=5",
+      "d": 1794609566000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
