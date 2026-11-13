@@ -26341,19 +26341,11 @@
     "threads:Dfqi-FhEj6g": 1794603941827,
     "threads:Dfq7iNCGQnA": 1794603941827,
     "threads:DeIepE6j3w-": 1794603941827,
-    "news:CBMinAFBVV95cUxNd0VzSy1jbG5RSkowalg3czQ5N1NqN2JNOU9ybHRMTVlPOHRKVHdPc2ZKcDlybzNIWkhMcGF3WXhEUmlkTGw3SExfOExLeVlJQzg0b2FidnBkc21PSWdrazJIZlJuX19sMG5JMXhrUldoeVlfaWUxcTROSzRZdlNsbk1CRmFPWlJKckZXVWxEdGl2RkVIZ3M5U1ZYeUE": 1794603941827
+    "news:CBMinAFBVV95cUxNd0VzSy1jbG5RSkowalg3czQ5N1NqN2JNOU9ybHRMTVlPOHRKVHdPc2ZKcDlybzNIWkhMcGF3WXhEUmlkTGw3SExfOExLeVlJQzg0b2FidnBkc21PSWdrazJIZlJuX19sMG5JMXhrUldoeVlfaWUxcTROSzRZdlNsbk1CRmFPWlJKckZXVWxEdGl2RkVIZ3M5U1ZYeUE": 1794603941827,
+    "threads:Dfsj0urk-DL": 1794604238240,
+    "news:CBMi1AFBVV95cUxQSkV1ZTlsMi1yMGl4ZlBSX1c5eHB6cU12c3E4RjdaNlIxbGtjaXdaR0FnTzJURnBDQ1lEcWhvd05kazlVclJ2MmZfUUJ1UDdNS2JGSm5WSGpVbGFESkxKR21zdXVPdHBUN3M5QnhTZ05LNkRLNVU4NXh0NllUaXpBODNJZkNEUU9XMHQ5NjA2Y280R0dKUWVFWjB4UTIyRzRiN3k3MzJTU3BMaE05MlNvMFdGeDIyejNSN3RPNEtWdFJTQlFxb0Q1amlaTGhoVkJCRU9NYg": 1794604238240
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Info Terbaru BSU Rp900.000, Cair November Lewat Rekening Bank Apa? - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjhUR3F3N1F3UEkyMDQxX0xIQ3ZyclFBNF9TSFc0MEJIaGotcUZnTjRoR0JjZXR0RWpvZ2ZMUTdOa3hJQXRSVzFmNVpkcURUVzlFcW01ZW1EX3Y2ZDNqc2c1V0tJRnowR2tQMXFGQ1Y4X05zWk8tbUhqeDUwVXR3QWl3S01SU2pLeDRFTXNvWEFweHJaZVI3SFg5d2xnbTVNWUhNRWwwZUVPNUNUVDJwTU9B0gG3AUFVX3lxTE9NSEVZdGFFbDBjbFFoMXlCV1FTOU9ISEJNamVXNk1HZkhhcXZNZnJWUE9YekwyRjVxaFJOYmtpZ2NmWVBpY2dDYkMxTXExb2lEa1JVdEZiUEJtcnRsUko4Q01QWGVGWDlXV0wwZnVzWG1ZNHpha1dTdmVJQ2RNeEcxNGd4RklTdTREYUZRNDBrcXlGWDNIVEhuRHBoVk95eTZJaldrTU8wa0hpd25OSjYyVWppSmVYaw?oc=5",
-      "d": 1794533360000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27843,10 +27835,20 @@
       "d": 1794549374000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@sarnubidona",
+      "x": "O.M.G apakah Threads Apk bansos gk bermanfaat bnyk postingan karangan2 NGEMIS/MINTA ONLINE ya hilang rasa malu & hina drama2 kesedihan, kesusahaan serta cucuran air buaya lengkap d",
+      "u": "https://www.threads.com/@sarnubidona/post/Dfsj0urk-DL",
+      "d": 1794604052000,
+      "urgent": true,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
