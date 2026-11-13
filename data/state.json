@@ -60,17 +60,6 @@
   ],
   "channels": [],
   "seen": {
-    "threads:DfGPmIhk5mS": 1793318455758,
-    "threads:DOKOzZ1k9RM": 1793318455758,
-    "threads:Dcl4iFUEvyd": 1793318455758,
-    "threads:DP7mBnZkj45": 1793318455758,
-    "threads:DPDyWISk0qm": 1793318455758,
-    "threads:DcGQ-2pievo": 1793318455758,
-    "threads:DTzVOXqE6an": 1793318455758,
-    "threads:DfGP0dKjRce": 1793318455758,
-    "threads:DfGPxvsj82f": 1793318455758,
-    "threads:DfGPpQrkoj-": 1793318455758,
-    "threads:DfGO3Agk2rt": 1793318455758,
     "threads:DfGPxMgDNL7": 1793318741467,
     "threads:DfC6KYCltR8": 1793318741467,
     "threads:DfGP_dKkfFY": 1793318741467,
@@ -25601,19 +25590,19 @@
     "threads:DfqRGX3EWKE": 1794527739752,
     "threads:DfqRkVWGKUe": 1794527739752,
     "threads:DJV_f6lz0Dr": 1794527739752,
-    "threads:Dfpq1vKihV8": 1794527739752
+    "threads:Dfpq1vKihV8": 1794527739752,
+    "threads:DXWcjVCjz8J": 1794528049650,
+    "threads:DRTI9APAVX9": 1794528049650,
+    "threads:DfqS701Cd-c": 1794528049650,
+    "threads:DfqS4bckR-3": 1794528049650,
+    "threads:DfqSx8dSE6-": 1794528049650,
+    "threads:DfqSyu8E4TB": 1794528049650,
+    "threads:DfqSev6EfrW": 1794528049650,
+    "threads:DfqSRodCX2N": 1794528049650,
+    "threads:DfqR24rDoBG": 1794528049650,
+    "news:CBMi4gFBVV95cUxOSkVYQUliVUdIZVlOUEZGZ0FXaEtOSjVfLVB0TDhOb3dfeEhzZHJKZjJta3M3dkpfbFVBLXR6N1hfc01NdXFPcDV1OWZpQnFfNkcwU25leXVORkkyRmdWMUZycjhaaDBIeGpmQUc1VXVrSUFwdVJFVmFZRlJacFZPd0VLN2h6VW5SYmJGNVFuVnVuMXI5aU5IYXZLeXEyMU02Z3JjTE9NaFZUbThTUllKMTNOSXhBUVJrQjdiN3Q5UzlGdVJya1U3ZGdfQTlRazFyRkFXNnNRTEpwaVc0dlpZM2lB0gHiAUFVX3lxTE5KRVhBSWJVR0hlWU5QRkZnQVdoS05KNV8tUHRMOE5vd194SHNkckpmMm1rczd2Sl9sVUEtdHo3WF9zTU11cU9wNXU5ZmlCcV82RzBTbmV5dU5GSTJGZ1YxRnJyOFpoMEh4amZBRzVVdWtJQXB1UkVWYVlGUlpwVk93RUs3aHpVblJiYkY1UW5WdW4xcjlpTkhhdkt5cTIxTTZncmNMT01oVlRtOFNSWUoxM05JeEFRUmtCN2I3dDlTOUZ1UnJrVTdkZ19BOVFrMXJGQVc2c1FMSnBpVzR2WlkzaUE": 1794528049650
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@siska_giamomoe",
-      "x": "Alhamdulillah, Beasiswa Garuda 3 resmi dibuka! Kemarin aku udah sempat bahas syarat wajibnya (min IELTS 6,5, SAT 1200, dan IQ 120). Nah, ternyata ada juga syarat dokumen pendukung ",
-      "u": "https://www.threads.com/@siska_giamomoe/post/DfpW9q0k3wA",
-      "d": 1794496646000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27103,10 +27092,20 @@
       "d": 1794507067000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Radar Semarang",
+      "x": "Bansos PKH dan BPNT Tahap 4 2026 Cair November, Cek Jadwal Masuk KKS dan Batas Tarik 30 Hari - Radar Semarang",
+      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkVYQUliVUdIZVlOUEZGZ0FXaEtOSjVfLVB0TDhOb3dfeEhzZHJKZjJta3M3dkpfbFVBLXR6N1hfc01NdXFPcDV1OWZpQnFfNkcwU25leXVORkkyRmdWMUZycjhaaDBIeGpmQUc1VXVrSUFwdVJFVmFZRlJacFZPd0VLN2h6VW5SYmJGNVFuVnVuMXI5aU5IYXZLeXEyMU02Z3JjTE9NaFZUbThTUllKMTNOSXhBUVJrQjdiN3Q5UzlGdVJya1U3ZGdfQTlRazFyRkFXNnNRTEpwaVc0dlpZM2lB0gHiAUFVX3lxTE5KRVhBSWJVR0hlWU5QRkZnQVdoS05KNV8tUHRMOE5vd194SHNkckpmMm1rczd2Sl9sVUEtdHo3WF9zTU11cU9wNXU5ZmlCcV82RzBTbmV5dU5GSTJGZ1YxRnJyOFpoMEh4amZBRzVVdWtJQXB1UkVWYVlGUlpwVk93RUs3aHpVblJiYkY1UW5WdW4xcjlpTkhhdkt5cTIxTTZncmNMT01oVlRtOFNSWUoxM05JeEFRUmtCN2I3dDlTOUZ1UnJrVTdkZ19BOVFrMXJGQVc2c1FMSnBpVzR2WlkzaUE?oc=5",
+      "d": 1794522856000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
