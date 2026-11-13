@@ -26455,19 +26455,11 @@
     "threads:Dfsst7GIANK": 1794609044228,
     "threads:DfstcbdE1_s": 1794609338267,
     "threads:DfstVDuGbnz": 1794609338267,
-    "threads:DYuIeBiFM0z": 1794609338267
+    "threads:DYuIeBiFM0z": 1794609338267,
+    "threads:DSqZHjmEkzj": 1794609648890,
+    "news:CBMibkFVX3lxTFBndks0LWRqdVJtRU5rZnhEUHlBUkJTTEEyUjBYWUpHWWRvS0RiTEFNeW9ZMlkwQVFiYjAzQVcxd1JxMlRrdDlNMnU3YTJ0X0p4bFhSZTgxTWQ1UGlzVmY1U2tmVmtpNVZoTzUweFRR": 1794609648890
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@dinielka15",
-      "x": "Malam ini, 19.30 WIB. Webinar GRATIS Digital Marketing. Belajar bisnis online dari rumah, modal HP aja. Kadang langkah awal tuh sesimpel ikut satu kelas gratis kayak gini. Mau ikut",
-      "u": "https://www.threads.com/@dinielka15/post/DfreeNLD7xE",
-      "d": 1794567691000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27957,10 +27949,20 @@
       "d": 1794607200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Liputan6.com",
+      "x": "Kapan BSU 2026 Cair? Ini Jadwal dan Ketentuan Penerima Bantuan - Liputan6.com",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBndks0LWRqdVJtRU5rZnhEUHlBUkJTTEEyUjBYWUpHWWRvS0RiTEFNeW9ZMlkwQVFiYjAzQVcxd1JxMlRrdDlNMnU3YTJ0X0p4bFhSZTgxTWQ1UGlzVmY1U2tmVmtpNVZoTzUweFRR?oc=5",
+      "d": 1794562519000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
