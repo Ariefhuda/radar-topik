@@ -26411,19 +26411,11 @@
     "threads:Dfsn-sjo2SM": 1794606939524,
     "threads:Dfsn4cpGt-C": 1794606939524,
     "threads:DedBYOqEqsj": 1794606939524,
-    "threads:Dfq8322mji-": 1794606939524
+    "threads:Dfq8322mji-": 1794606939524,
+    "news:CBMiqwFBVV95cUxQM1J0MXJKbTNVV0RQVE5oc09XNVRySFp6WG1KckszRGRINjZJaHhwSEFoYzEtNldVSkt1VElHU0FZM25HQTJERGxibDVUZkpwdEtfd3M3dzl0T2xuTGxQa1VfTkg1bHRCVjJ0eG11bnhlUHdadzFOalg2LTZFTTZFUGFuelF4Mm1WYzl2WnIweko2OE1lZmY5dXpyT090M0VGY2s0SjNjcjFPZFU": 1794607257800,
+    "news:CBMixgFBVV95cUxNd1ZBRllSVDFja0prUWVpZ2VucGFkRDBpT2h3UUxfSW5CaFpFRGk4SHJBNnhtQVVUMlFLM0psSE9OazR2eXpTelFvN2I0d29ZYnl3VUFWeXF2ZzIwa0JGeXlrSTk0ZlBBVEdiQUxFeW5HV1N2ZE4tOGdFaV9ZdGNfZVZ6OVBvbEVHb3Q3SlhuNXUwdTYwT3U5elQ2QlVCTllvNUhNa1ZiQWlnUlVvY3AzdVd1NnlGQU1xUHJ3c3Z0UTZMWGZTRWfSAcQBQVVfeXFMT3FFOE91VXJXU3JmS0dfTkxzWV9zUDRKRnVzWGRGZ29URVg4RnhuX1FzN0hkUTVvVlpVUnFBb1BSYmxvcE1sc3JaUVZXWTZ1U0JRZ2dwMXlCcTlZcVJtSnFFb2xMMEl2UHJNLXR5Y2tpdkdPb0NXOVBWNUZHazJGNTF6cnEyelZ3TnJEYm5fbnNqaUc4WjhxUTNLdUVuNFdzYW02WjFkWHIydXhkOXNEMUNvM1FwWWNKNkNES1dGRFRWc2I3WA": 1794607257800
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@fyfdlh_",
-      "x": "Hi kak, coba ikut webinar GRATIS yang di admin Rumah123 tentang KPR Multiguna deh, siapa tau jadi nambah insight, aku share link registrasi nya yaa https://forms.gle/ugejda7QYk1T8K",
-      "u": "https://www.threads.com/@fyfdlh_/post/DfrgWT9kkTI",
-      "d": 1794568675000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27913,10 +27905,20 @@
       "d": 1794550076000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Disway",
+      "x": "Beasiswa Garuda 2027 Resmi Dibuka, Tak Wajib Punya LoA Kampus Luar Negeri, Ini Syarat dan Jadwalnya - disway.id - Disway",
+      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1ZBRllSVDFja0prUWVpZ2VucGFkRDBpT2h3UUxfSW5CaFpFRGk4SHJBNnhtQVVUMlFLM0psSE9OazR2eXpTelFvN2I0d29ZYnl3VUFWeXF2ZzIwa0JGeXlrSTk0ZlBBVEdiQUxFeW5HV1N2ZE4tOGdFaV9ZdGNfZVZ6OVBvbEVHb3Q3SlhuNXUwdTYwT3U5elQ2QlVCTllvNUhNa1ZiQWlnUlVvY3AzdVd1NnlGQU1xUHJ3c3Z0UTZMWGZTRWfSAcQBQVVfeXFMT3FFOE91VXJXU3JmS0dfTkxzWV9zUDRKRnVzWGRGZ29URVg4RnhuX1FzN0hkUTVvVlpVUnFBb1BSYmxvcE1sc3JaUVZXWTZ1U0JRZ2dwMXlCcTlZcVJtSnFFb2xMMEl2UHJNLXR5Y2tpdkdPb0NXOVBWNUZHazJGNTF6cnEyelZ3TnJEYm5fbnNqaUc4WjhxUTNLdUVuNFdzYW02WjFkWHIydXhkOXNEMUNvM1FwWWNKNkNES1dGRFRWc2I3WA?oc=5",
+      "d": 1794559500000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
