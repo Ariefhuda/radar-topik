@@ -26331,19 +26331,19 @@
     "threads:DR2GlkzgaQi": 1794603353447,
     "threads:DcCrDukE1kq": 1794603353447,
     "threads:DaOoFPfnXWJ": 1794603653180,
-    "threads:Da8G1EcAcoS": 1794603653180
+    "threads:Da8G1EcAcoS": 1794603653180,
+    "threads:DfsiLVmk2a8": 1794603941827,
+    "threads:Dfq7o_Cga9q": 1794603941827,
+    "threads:Dfq5aZmkmqc": 1794603941827,
+    "threads:Dfq41yNEgkj": 1794603941827,
+    "threads:Dfsi3E7kgLu": 1794603941827,
+    "threads:DfsatRbD5OW": 1794603941827,
+    "threads:Dfqi-FhEj6g": 1794603941827,
+    "threads:Dfq7iNCGQnA": 1794603941827,
+    "threads:DeIepE6j3w-": 1794603941827,
+    "news:CBMinAFBVV95cUxNd0VzSy1jbG5RSkowalg3czQ5N1NqN2JNOU9ybHRMTVlPOHRKVHdPc2ZKcDlybzNIWkhMcGF3WXhEUmlkTGw3SExfOExLeVlJQzg0b2FidnBkc21PSWdrazJIZlJuX19sMG5JMXhrUldoeVlfaWUxcTROSzRZdlNsbk1CRmFPWlJKckZXVWxEdGl2RkVIZ3M5U1ZYeUE": 1794603941827
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Kudus",
-      "x": "Bansos 2027, Warga Jepara Diminta Daftar Ulang - Radar Kudus",
-      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEtKV0ZnempKUkJwYVF0TFZiZ3B4WW5Hei1TZjYwcGhsdEFNanhNYzVfNEV6MGxZUno5cnFZemZvN0lpaFhfS1hqRVlNemJfcFUzN3JVeWdQaEpqUXkzSXlCV2F2UUJUSFR1SHNSUVNTSG5IZlpVcnhpbmQ4UWgyei16Q19TOUw0c3lWRDNuaXRSZ1FsNktKRXdVb9IBoAFBVV95cUxPd1hnVjNHNlMxSkRWTzVXUENGQU01a2ptNGswaERpVktadFVJbTM5YlZ4cVBPZ2VpeUNXdnNSandVb3JHM3JRUmgtQWx2Mk9lLUtfaEdRTm9YUFRKOFhfTXJZSXZhZ3EzOHphMFRTb3dPTVlFdERmN1Q2RDk2SW8tTjhicTJBOXhIRHVSQTh6SVFkMnppa21rTW9QcXhLeWw4?oc=5",
-      "d": 1794549463000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27833,10 +27833,20 @@
       "d": 1794558811000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@erykka_ystr",
+      "x": "📢 DICARI MAHASISWA & DOSEN! Ada yang sedang belajar SPSS atau membutuhkan skill mengolah data untuk skripsi, penelitian, maupun tugas akademik? Yuk, ikuti PELATIHAN SPSS GRATIS! \ud83c",
+      "u": "https://www.threads.com/@erykka_ystr/post/Dfq7iNCGQnA",
+      "d": 1794549374000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 30,
+  "threadsCursor": 15,
   "trending": {
     "on": false,
     "last": "2026-10-15"
