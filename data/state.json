@@ -26472,19 +26472,10 @@
     "threads:Dfsw8sxk1PB": 1794610911826,
     "threads:Dfsw7i2E_Lw": 1794610911826,
     "threads:Dfsw698EyMx": 1794610911826,
-    "threads:De3PeWKiAw_": 1794610911826
+    "threads:De3PeWKiAw_": 1794610911826,
+    "news:CBMiwwFBVV95cUxPaE5uOVNOc1JYRndYTFhsZnFybTN1SXBabmdBMGxOVTN4blMxWXF1MllMUDkxdjdTdWdXeHl0ZElmTjJMbi1XMmJtZXpfNFJUd2dnTENtV0h0bWNMdlFCWkNhYVlzNWNla1V0amp0TjlwNkZXeUZ1dHB3M1pMR3RlZE42NHVZZjI3THVTaVltTTF4eFRBWUJLaW9jNDFQaXZzX01ic09TeFZMdXBEdWNHQm4xYy1jRlFUdUsxTzJvM1cwSFU": 1794611132764
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@puteasmara",
-      "x": "WOI ANAK MEDAN! 🚨🔥 Jangan cuma kerja keras cari uang, yuk belajar juga cara mengelolanya! 👀💰 Ada SEMINAR GRATIS EDUKASI EMAS dari Public Gold Indonesia! 🪙 Belajar mengenal ema",
-      "u": "https://www.threads.com/@puteasmara/post/Dfqj-lSoKMC",
-      "d": 1794537024000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27974,10 +27965,20 @@
       "d": 1794610919000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat Sumsel",
+      "x": "Penyaluran Bansos PKH BPNT Tahap 4 2026 Mulai Diproses, Cek NIK dan Saldo KKS November - Akurat Sumsel",
+      "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaE5uOVNOc1JYRndYTFhsZnFybTN1SXBabmdBMGxOVTN4blMxWXF1MllMUDkxdjdTdWdXeHl0ZElmTjJMbi1XMmJtZXpfNFJUd2dnTENtV0h0bWNMdlFCWkNhYVlzNWNla1V0amp0TjlwNkZXeUZ1dHB3M1pMR3RlZE42NHVZZjI3THVTaVltTTF4eFRBWUJLaW9jNDFQaXZzX01ic09TeFZMdXBEdWNHQm4xYy1jRlFUdUsxTzJvM1cwSFU?oc=5",
+      "d": 1794610800000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 20,
+  "threadsCursor": 30,
   "trending": {
     "on": false,
     "last": "2026-10-15"
