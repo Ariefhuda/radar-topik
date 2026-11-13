@@ -26192,19 +26192,13 @@
     "threads:DfsZw-Lk5Mv": 1794599440308,
     "threads:Dfqtkhbkmh6": 1794599440308,
     "threads:Dfsa-lfDysa": 1794599440308,
-    "threads:DaRiLI4jRM1": 1794599440308
+    "threads:DaRiLI4jRM1": 1794599440308,
+    "threads:DfqoFpMGE6L": 1794599740601,
+    "threads:DbaVm46gY7v": 1794599740601,
+    "threads:DSOV07VEo0s": 1794599740601,
+    "news:CBMicEFVX3lxTFBMaWQwRDVJbmItOFMxSVdUVVg3dk1lZlh2VzI4anltRnMya3ktenNzTjloSGJkX3gtU0xTcWU1RmdhZmxZdW9MRkJBMWFJdmo5RFg1ejRLNWJ2RG51VkpMejZLdEh0MkQxQmhXT1Biai0": 1794599740601
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Suara Independent News",
-      "x": "Kemensos Jelaskan Cara Cek BPNT November 2026 Rp 600.000 - Suara Independent News",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wRWUyVUpFMkNFcG0zZ3M3bWxrTHhwVktZTjk2cUZvemd3QUlRZnA2X1psd1hJQXhxb192NDF5YU5wT0poTGRvM0pnTXhXSm9iaHdVREhMSTZnQ3lBTmsxN3lXYTFMMWxuS0gzbFMwRHo?oc=5",
-      "d": 1794532538000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27694,10 +27688,20 @@
       "d": 1794559200000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@kesy.abiku",
+      "x": "Ada yg sama PBI JK nya belum berubah ? masih stuck di sept soalnya sebagian ada yg udah berubah kalo bunda udah berubah blm ? #fyp #cekbansos",
+      "u": "https://www.threads.com/@kesy.abiku/post/DfqoFpMGE6L",
+      "d": 1794539179000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
