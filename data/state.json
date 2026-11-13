@@ -26347,19 +26347,12 @@
     "threads:DJ0SkZwT9bz": 1794604543128,
     "threads:Dfsk6RWEzxr": 1794604543128,
     "threads:DfskzWYEp69": 1794604543128,
-    "news:CBMiggFBVV95cUxPUlJKYlYxQVVWMG05RkpTOVBtdERPUzJUeGdOMFJFazlURi1JbFVIMlBma1RwWDZkMDRoenVYN1ZWeGNadHh1dVdJYWgyU29VRTB6U21GcUFYM3lhdmZvMmNidEhYcU14Ry02NXdtcTk4eU1SSU1EMFl4NUN2a25tMWJB": 1794604543128
+    "news:CBMiggFBVV95cUxPUlJKYlYxQVVWMG05RkpTOVBtdERPUzJUeGdOMFJFazlURi1JbFVIMlBma1RwWDZkMDRoenVYN1ZWeGNadHh1dVdJYWgyU29VRTB6U21GcUFYM3lhdmZvMmNidEhYcU14Ry02NXdtcTk4eU1SSU1EMFl4NUN2a25tMWJB": 1794604543128,
+    "threads:DUiQJ-UD486": 1794604843263,
+    "threads:Dfq_hCXgQkt": 1794604843263,
+    "threads:DaTxWW7kvNc": 1794604843263
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Lensa Hukum",
-      "x": "Cara Cek BPNT November 2026 Rp 600.000 dengan NIK KTP - Lensa Hukum",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjh4UVZNRHllbDhYSVJsU201ZEdPdy1TZ3pJbEh4bWMwc1cxMGxIdHE0MUYtUThCdWNUYXUwSFFJbFFneFpTMkNxcjc2bVd2eEYwWkk4bXU2RzdsX0JyVVFMSENmdGczT2VRLU1SQlBpUmdIQTR3elZWZ3dxOEQ5blVqVQ?oc=5",
-      "d": 1794532618000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -27849,10 +27842,20 @@
       "d": 1794560940000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
+      "s": "threads",
+      "a": "@rinaindriani_95",
+      "x": "Yukk join Oriflame skrg juga mumpung biaya pendaftaran gratis yaw,,? Kenapa harus join/ member daftar skg.wujiudkn impianmu bersama Oriflame., kamu bisa dpt produk berkualitas ( ma",
+      "u": "https://www.threads.com/@rinaindriani_95/post/Dfq_hCXgQkt",
+      "d": 1794551462000,
+      "urgent": false,
+      "warn": true
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 10,
+  "threadsCursor": 20,
   "trending": {
     "on": false,
     "last": "2026-10-15"
