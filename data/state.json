@@ -26059,19 +26059,13 @@
     "threads:DfsCtGoEn59": 1794591943170,
     "threads:DfrZwxgn0E7": 1794591943170,
     "threads:DbsZ9CdjgLQ": 1794591943170,
-    "threads:DfA_INlklwB": 1794591943170
+    "threads:DfA_INlklwB": 1794591943170,
+    "threads:DDxAKSkJANB": 1794592244998,
+    "threads:DfsLqCfnx5f": 1794592244998,
+    "threads:DfsM9XcmG1s": 1794592244998,
+    "news:CBMipwFBVV95cUxQWHAtd3BTbUREVHpKNHh2T1NiVGlxb2daMzlTUllHb0xQZDZYZHlNZlowN3cwV2hPSXlnRFdzb2FoZUxISzFHUWpsaWxsdlFqQml1Zm9HMlUzVWFoR0dHT1dJS1BEMG5lU3AwLWYtUTJVZUJ0OWpPNF9ieDc5OXFpM1NrbWp6UE5DSEFIcVB4aHRfanpUXzV4cU0zTGRpNGhBMUcyeklHWdIBqgFBVV95cUxPRHIyZ2RLV1RlU3RhT2tYM0lQUXFQcFN5aUE1WHFqRnVRTUt0V0ZWRXBFWFJjRzhCakQ1UkhwdjktNkxNTjB5cXJ2UjhpYlR4WU4yWURXYWxTamRDaF9KSXZ4cnZJTUNvTlBxVzRqZ3ZPbFBTRVlnUFFHOU1OOEItdnB4LTZtT3h2ZVhES3pLelY1T3RadWMxT2RPdVVEYjRxaVNseEVhRDBKQQ": 1794592244998
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "BertuahPos",
-      "x": "Mudah! Cara Cek Bansos PKH 2026 Lewat HP Pakai NIK KTP - BertuahPos",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNGdDhMWkN2aXBmX3FvSE8wNzZQVk9USjA2UWJaTWNmVE1la1lMblV0dHRKbHJnZUp5NDdjNERyUjlONERaSHVJTmVTX2ZiQkNTZHR3SzBOY1JxRFdvMTU3SngyVXRhcXVOT1JIOTNBTDdtbUlsak5qU2w5UDNpbGFGYU5xVkdpdGMxSUhLTnpjX0E?oc=5",
-      "d": 1794555046000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27561,10 +27555,20 @@
       "d": 1794565223000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "ANTARA News",
+      "x": "Cara cek penerima bansos beras 30 kg, ini syarat dan dokumennya - ANTARA News",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHAtd3BTbUREVHpKNHh2T1NiVGlxb2daMzlTUllHb0xQZDZYZHlNZlowN3cwV2hPSXlnRFdzb2FoZUxISzFHUWpsaWxsdlFqQml1Zm9HMlUzVWFoR0dHT1dJS1BEMG5lU3AwLWYtUTJVZUJ0OWpPNF9ieDc5OXFpM1NrbWp6UE5DSEFIcVB4aHRfanpUXzV4cU0zTGRpNGhBMUcyeklHWdIBqgFBVV95cUxPRHIyZ2RLV1RlU3RhT2tYM0lQUXFQcFN5aUE1WHFqRnVRTUt0V0ZWRXBFWFJjRzhCakQ1UkhwdjktNkxNTjB5cXJ2UjhpYlR4WU4yWURXYWxTamRDaF9KSXZ4cnZJTUNvTlBxVzRqZ3ZPbFBTRVlnUFFHOU1OOEItdnB4LTZtT3h2ZVhES3pLelY1T3RadWMxT2RPdVVEYjRxaVNseEVhRDBKQQ?oc=5",
+      "d": 1794579382000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
