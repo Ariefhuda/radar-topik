@@ -26306,19 +26306,13 @@
     "threads:DeG-ABOAVZj": 1794602443704,
     "threads:DdWZEcsFGTO": 1794602443704,
     "threads:DfE_Qx5k9oX": 1794602443704,
-    "threads:De6rIeEE2P-": 1794602443704
+    "threads:De6rIeEE2P-": 1794602443704,
+    "threads:DdMNHGxEUvj": 1794602737813,
+    "threads:Dd75MkRoLUu": 1794602737813,
+    "threads:Dfq1X0ciZjz": 1794602737813,
+    "threads:DGmhcVvTT-m": 1794602737813
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Semarang",
-      "x": "Update SIKS-NG Bansos PKH-BPNT Tahap 4 2026: Ini Jadwal Masuk Rekening BRI, BNI, Mandiri, dan BSI - Radar Semarang",
-      "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaHNhQmNCOXV5UVR2YWVHZW9SY0diSjdvckNzd1pqQWdadHpadWtNWHZlcEwxb3l2YlloV3VFaVF3cjY2aWJwVjF3cmh1Z1FEMHhKbjFmNVEyQ3kxRDlYUy1sMzNmbHBBaDdValF3TGRjZkN3S29CUXZKdjhHNmRjemozeXhmc0tsT21rVVM3Q01YNFM1WEJ1R0wwdl82SGx2WG1jY3BLX0hPX1BZUGxTOFp0TW5vR0x3LWVrQlQtNUVMWG5ueVpUdmJRX0RpQk0yV0Z2SU0tQWIzaThEWnlj0gHkAUFVX3lxTE5fZHhFUy1aZm8xNHBOa0JOMjJlTzN3NVZhUmpwSWVpRWtYRmdUUlFHVXJzY3gyS0p0Y2p5SjQybVRadnZZQ1gtWjhmOG94SXZja1VOX1YxckllNzFNRVNRN1llcVNrWWhZOXJvUXZXX1BtV0VlWjJRN3B0alN3bmN5a0F0VXc5ek01QXd1dm9HU3VWOFhQQ014SzJ0ZkVxNXYzMVVBMkJ5QWNiQzNqVHV5dzg5Z08yY2pFXzctNFZ3UDJGMENmLVd3b1J0dE50UDcxa2JyWkNrUmEzX0NCeHNKTFBFaA?oc=5",
-      "d": 1794523763000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27808,10 +27802,20 @@
       "d": 1794549576000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@pmbunusa",
+      "x": "Haii warga Surabaya! 👋💚 UNUSA lagi buka stand di Royal Plaza Surabaya, didukung oleh OPOP ✨ Ada pemeriksaan kesehatan gratis, plus info lengkap seputar program studi, jalur penda",
+      "u": "https://www.threads.com/@pmbunusa/post/Dfq1X0ciZjz",
+      "d": 1794546143000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
