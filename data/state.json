@@ -26310,19 +26310,22 @@
     "threads:DdMNHGxEUvj": 1794602737813,
     "threads:Dd75MkRoLUu": 1794602737813,
     "threads:Dfq1X0ciZjz": 1794602737813,
-    "threads:DGmhcVvTT-m": 1794602737813
+    "threads:DGmhcVvTT-m": 1794602737813,
+    "threads:DOEXaZCk5iJ": 1794603042206,
+    "threads:DdHRC6XkgLl": 1794603042206,
+    "threads:DSm66TZEVC6": 1794603042206,
+    "threads:DeWkj4gD1yK": 1794603042206,
+    "threads:DaMVSuHE-Ss": 1794603042206,
+    "threads:DaKIpacGbRf": 1794603042206,
+    "threads:Dfsh_REE9QD": 1794603042206,
+    "threads:Dfsg5dBk9P1": 1794603042206,
+    "threads:Dfsh5sQJEOW": 1794603042206,
+    "threads:DfshtY_jyxc": 1794603042206,
+    "threads:DfshtBymPOx": 1794603042206,
+    "threads:Dfsg6likpc7": 1794603042206,
+    "news:CBMiZEFVX3lxTE9tMnE2bWZRaXd4NWRCUXlFQkZjQWtYSDAya2UtcXZ2SEU2MDJtVXd5czZmcklFdkpBRXM0MjU1cnZ3OUpnNmdISzNYSFZwMGtYbHB2Uk9xazhfQ25vbUN1dlNXX2Y": 1794603042206
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Radar Pati",
-      "x": "Ini Penyebab Nama Penerima BSU 2026 Rp900 Ribu Belum Muncul, Gagal Dapat Bansos? - Radar Pati",
-      "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmtRUzJBeDJtbjlLVWd2T28yLTdOQVFNR1VZeHVoM1UtcEdfcDV1dEtNLXNDV2tBdjFtZ3QxY2ktZWxXQTBiTjRMWFowUEhVVTRza3cyMDI2TmUzY1BGY3VUdl9uRTFJVEdvbmtHOG5YR1RHMEpmckFuWmM4Q2VlNmpQZmJ4cklGZHFLXzBvb3o3VDUxbUIydjctNHJxMlhKLWFWdDJVWGVqR051QlliRmFveGFNVm4wbnRsWTcxcnJjRnJKZlHSAcsBQVVfeXFMUEs5eG5mWTNGZDhpWm5kUVhqR0wzV0YzdG1vb3oxR2NZUWZaSGd1c3hFZEUtTEw0SlF4ekpRT29kNEp0aDdFb1FoWS05cVpXNS11ZkVCRzl6S0lsaHh3QjNKTl8tVGZIQ2ktakI3R3Z3NFJiWjBGYzNlaVl0akFRSEdsdXN3R0tZbk9ZZXUxc3R3LTBsYVlmLWdQcVFqY3l0MFJGMHZuQlh4UWVaNmdIOUhCaFJNM2pfTDVpMVhCalJRZWtmVVcwNmtIVzA?oc=5",
-      "d": 1794533898000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27812,10 +27815,20 @@
       "d": 1794546143000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "news",
+      "a": "Koridor.co.id",
+      "x": "Beasiswa Garuda 2027 Buka Pendaftaran hingga 4 Januari - Koridor.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tMnE2bWZRaXd4NWRCUXlFQkZjQWtYSDAya2UtcXZ2SEU2MDJtVXd5czZmcklFdkpBRXM0MjU1cnZ3OUpnNmdISzNYSFZwMGtYbHB2Uk9xazhfQ25vbUN1dlNXX2Y?oc=5",
+      "d": 1794558811000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
