@@ -26124,19 +26124,11 @@
     "threads:DdaN6oTD0EU": 1794594939147,
     "threads:DCk33ZcyIqF": 1794594939147,
     "threads:C-ZSXW3z5jk": 1794594939147,
-    "news:CBMiaEFVX3lxTE9tZ0x6UDhFaFdWWFRac1IwaXZfTndSUHoyb2NJeWFqbVB4RHpNblZQd3hzREpoc2NoNkF1X0hlWTBDT1FPdGFEUDg1N2RBYzJVVWd3d2NxYjJxR1Z6VEQtbXoxNmgxaVgw": 1794594939147
+    "news:CBMiaEFVX3lxTE9tZ0x6UDhFaFdWWFRac1IwaXZfTndSUHoyb2NJeWFqbVB4RHpNblZQd3hzREpoc2NoNkF1X0hlWTBDT1FPdGFEUDg1N2RBYzJVVWd3d2NxYjJxR1Z6VEQtbXoxNmgxaVgw": 1794594939147,
+    "threads:DfsS8qPI6Or": 1794595246734,
+    "threads:De_da9wE8CE": 1794595246734
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Akurat Sumsel",
-      "x": "Cek Bansos BPNT November 2026 Pakai NIK KTP, Ini Cara dan Jadwal Pencairan Tahap 4 - Akurat Sumsel",
-      "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQnlSZlRTQjg5ak4xUHhVanZPei1uRHh6VmhKM3JRazROTEpES3FqQ2xtWXBNVk1rSzI3X2pjZHZNOVFsdDg3N3FFbHRkMWFKQ1FKN2FCekRwakFfaG9BcG0yZ3QwY1VlRndNaTRwazg3b1J6dGtJbE5pOWsxelhMbllja0ZORS14LXVCalM0TTlySHEwSE42MzF2NnJvTGJVbnBlOVh1SkdKcGRPdXBkYWpKREkteS1NSmM2YjQ1TVM?oc=5",
-      "d": 1794549600000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27626,10 +27618,20 @@
       "d": 1794584460000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "threads",
+      "a": "@erlinmelatyputri",
+      "x": "Adaaa banyak Bansos cair bru mkn dia😄",
+      "u": "https://www.threads.com/@erlinmelatyputri/post/DfsS8qPI6Or",
+      "d": 1794595204000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
