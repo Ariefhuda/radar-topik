@@ -26343,19 +26343,13 @@
     "threads:DeIepE6j3w-": 1794603941827,
     "news:CBMinAFBVV95cUxNd0VzSy1jbG5RSkowalg3czQ5N1NqN2JNOU9ybHRMTVlPOHRKVHdPc2ZKcDlybzNIWkhMcGF3WXhEUmlkTGw3SExfOExLeVlJQzg0b2FidnBkc21PSWdrazJIZlJuX19sMG5JMXhrUldoeVlfaWUxcTROSzRZdlNsbk1CRmFPWlJKckZXVWxEdGl2RkVIZ3M5U1ZYeUE": 1794603941827,
     "threads:Dfsj0urk-DL": 1794604238240,
-    "news:CBMi1AFBVV95cUxQSkV1ZTlsMi1yMGl4ZlBSX1c5eHB6cU12c3E4RjdaNlIxbGtjaXdaR0FnTzJURnBDQ1lEcWhvd05kazlVclJ2MmZfUUJ1UDdNS2JGSm5WSGpVbGFESkxKR21zdXVPdHBUN3M5QnhTZ05LNkRLNVU4NXh0NllUaXpBODNJZkNEUU9XMHQ5NjA2Y280R0dKUWVFWjB4UTIyRzRiN3k3MzJTU3BMaE05MlNvMFdGeDIyejNSN3RPNEtWdFJTQlFxb0Q1amlaTGhoVkJCRU9NYg": 1794604238240
+    "news:CBMi1AFBVV95cUxQSkV1ZTlsMi1yMGl4ZlBSX1c5eHB6cU12c3E4RjdaNlIxbGtjaXdaR0FnTzJURnBDQ1lEcWhvd05kazlVclJ2MmZfUUJ1UDdNS2JGSm5WSGpVbGFESkxKR21zdXVPdHBUN3M5QnhTZ05LNkRLNVU4NXh0NllUaXpBODNJZkNEUU9XMHQ5NjA2Y280R0dKUWVFWjB4UTIyRzRiN3k3MzJTU3BMaE05MlNvMFdGeDIyejNSN3RPNEtWdFJTQlFxb0Q1amlaTGhoVkJCRU9NYg": 1794604238240,
+    "threads:DJ0SkZwT9bz": 1794604543128,
+    "threads:Dfsk6RWEzxr": 1794604543128,
+    "threads:DfskzWYEp69": 1794604543128,
+    "news:CBMiggFBVV95cUxPUlJKYlYxQVVWMG05RkpTOVBtdERPUzJUeGdOMFJFazlURi1JbFVIMlBma1RwWDZkMDRoenVYN1ZWeGNadHh1dVdJYWgyU29VRTB6U21GcUFYM3lhdmZvMmNidEhYcU14Ry02NXdtcTk4eU1SSU1EMFl4NUN2a25tMWJB": 1794604543128
   },
   "digest": [
-    {
-      "t": "bansos cair|pencairan|cek",
-      "s": "news",
-      "a": "Tribun Gorontalo",
-      "x": "Cara Hitung Komponen Gaji dan Tunjangan Tetap Penerima BSU 2026 - Tribun Gorontalo",
-      "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1pLa1lmZWlUSnlSeFZTajJBRmY0ZExscVlLcGdYeEJnbnk2SE1OdE93QjBpcDdEd3ZicUhEbk10TkFhclVWSXgzTW5WQjY0VmNPc1FNaE5mOGFCNkZjMGxRaXUxaWQ1cFNiYlhIbWJKTFpGLWZhQnotSGg5aW9WVHpQSjUxX0ZLaWdwVXc2b3Y3anV3U253aWlRRzFnRmFUcGl0SXFIVVp2UWdOaEtPMg?oc=5",
-      "d": 1794556320000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "bansos cair|pencairan|cek",
       "s": "news",
@@ -27845,10 +27839,20 @@
       "d": 1794604052000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "gadget.qoo10.co.id",
+      "x": "Power Ranger Merah Ikut Audiensi DPRD Indramayu Kawal Dugaan Penimbunan 1 Ton Beras Bansos - gadget.qoo10.co.id",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUlJKYlYxQVVWMG05RkpTOVBtdERPUzJUeGdOMFJFazlURi1JbFVIMlBma1RwWDZkMDRoenVYN1ZWeGNadHh1dVdJYWgyU29VRTB6U21GcUFYM3lhdmZvMmNidEhYcU14Ry02NXdtcTk4eU1SSU1EMFl4NUN2a25tMWJB?oc=5",
+      "d": 1794560940000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 25,
+  "threadsCursor": 10,
   "trending": {
     "on": false,
     "last": "2026-10-15"
