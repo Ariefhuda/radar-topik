@@ -26601,19 +26601,12 @@
     "threads:DLgHmZHT54E": 1794617440297,
     "threads:Dfs8X95ExUD": 1794617440297,
     "news:CBMiogFBVV95cUxPVHRyX2I3TkExR3VDeDlIbFNiaEd5LThIdzBHODhxenpxT2lSLTk5WWVVSkJqUEkwZTlGZS02VVoxMk9JU1RuTkZGOEwyNFhLLVlrNm1TeVBhbUp0TGcyc0hyUUFsZWR3dTdtUFBtUFdGUkJUZ1lySlA2REktSXE5Y0NscFZmemhpOU1sTUJEajJ3bnp5bE5YS2k5ZlkyV2xFc3fSAacBQVVfeXFMTWFUMU4xM21kR0Z5ci1lMC14UnJlb0tVeFh1MGc0Mzg0MTgyQ1dJdUp6NWstX0FfR2hTRFFSYXAwMFVLdldiQmxNdU54Q1ItREJlamhsbnlwUHBBS2ZxeGRsTkt2RFJyMzlneGdYd1pTOW85WHV1bHJ6dWIwWkhvMHI2OUtNbW5XNjF5cGdoMENpSmNRRU5QTVFhSmZWeHdrTVRKU2E0cFk": 1794617440297,
-    "news:CBMiwgFBVV95cUxOOGgyVnBFOW41OGJQeldWcExaZGxzVXAtLXgxSmxUTmtXZWF1M1lNanlmRkcwTjViaEgwRE41YmZ0WTRDMUxrQjhnUUxaNWFsU280bktsRUVYQThiaFpDbmFUbFJBUzJDOUxkcWczUWo0WWp5UUszT2tUalJVSXdIZDVRc2lQRk4taE1PUzlrQjAyQnFsYm5HYTdncEtjOXdfX2psb2RvSHBIZW5mN25wRnJjaVRlWGxheWdjenFmTnNUZw": 1794617440297
+    "news:CBMiwgFBVV95cUxOOGgyVnBFOW41OGJQeldWcExaZGxzVXAtLXgxSmxUTmtXZWF1M1lNanlmRkcwTjViaEgwRE41YmZ0WTRDMUxrQjhnUUxaNWFsU280bktsRUVYQThiaFpDbmFUbFJBUzJDOUxkcWczUWo0WWp5UUszT2tUalJVSXdIZDVRc2lQRk4taE1PUzlrQjAyQnFsYm5HYTdncEtjOXdfX2psb2RvSHBIZW5mN25wRnJjaVRlWGxheWdjenFmTnNUZw": 1794617440297,
+    "threads:De6ocwUFDLw": 1794617733179,
+    "threads:DfmBem5oJRB": 1794617733179,
+    "news:CBMilgFBVV95cUxQamJRWTNBZFVsUlJIempDZmR2QUZMdzA0VHV1SHJaS3c3dWRmVUJKcDY5YXpnd1FqaExhVzVkV0NpcnhZLTJWUTg4U2h6MGJVVlkxWGkxY3BDQkloZWx2aGFnSnItUmIwN2ROYUp4VVVQd2FfcUxUdnc3N2lrSnU3b1htWVlVNDRfYWtrazgyVDQ1d2FSSGc": 1794617733179
   },
   "digest": [
-    {
-      "t": "beasiswa dibuka|pendaftaran",
-      "s": "threads",
-      "a": "@indopoorpolitical",
-      "x": "Bapak n ibu yg terhormat mungkin saya krg mendapatkan informasi terkait dgn beasiswa program s1 Tpi di kementerian saya (pusat) sudah tidak ada beasiswa s1 semua di fokuskan s2 dan",
-      "u": "https://www.threads.com/@indopoorpolitical/post/DfrfHvrE-_y",
-      "d": 1794568032000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "beasiswa dibuka|pendaftaran",
       "s": "threads",
@@ -28103,10 +28096,20 @@
       "d": 1794617077000,
       "urgent": true,
       "warn": false
+    },
+    {
+      "t": "bansos cair|pencairan|cek",
+      "s": "news",
+      "a": "Akurat.co",
+      "x": "Cara Cek Bansos Kemensos 2026 Lewat HP, Mudah dan Praktis! - Akurat.co",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamJRWTNBZFVsUlJIempDZmR2QUZMdzA0VHV1SHJaS3c3dWRmVUJKcDY5YXpnd1FqaExhVzVkV0NpcnhZLTJWUTg4U2h6MGJVVlkxWGkxY3BDQkloZWx2aGFnSnItUmIwN2ROYUp4VVVQd2FfcUxUdnc3N2lrSnU3b1htWVlVNDRfYWtrazgyVDQ1d2FSSGc?oc=5",
+      "d": 1794613708000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
