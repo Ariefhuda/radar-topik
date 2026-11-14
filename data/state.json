@@ -26544,29 +26544,12 @@
     "threads:DfqdmiQlKXD": 1794614449377,
     "threads:Dfs3NmDGVTF": 1794614449377,
     "threads:DfoMgw5ID9x": 1794614449377,
-    "threads:Dfs3t4PDIPc": 1794614449377
+    "threads:Dfs3t4PDIPc": 1794614449377,
+    "threads:Dfs3VjrE8IZ": 1794614740157,
+    "threads:DZsMmZmASev": 1794614740157,
+    "news:CBMiuAFBVV95cUxOOU54alI2SFFvcHV5M19BYjlQemJudmMxVWlGSUJGeFlVM0c2bHJtaXdIaFM5bjVuendJTlVhQVJyZTZ3bGwwTnVFRUJUVjRESWplTFoybXRoelFpSFZlVm8wVTM1QkxHaXh1cy1INGxoZmJxSmFDTXhpX2JBd3ZXN0FnVXJOQUJXQUZoWDBuTUhoZEpOZHNlTlFLc0lYb1NKcXBoRnZjd2JVN194aERYRThxZ3hhQ29y": 1794614740157
   },
   "digest": [
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@cockatoocourse",
-      "x": "Pernah kepikiran pengen ngerti lirik lagu Korea atau Jepang tanpa buka terjemahan terus? 👀 Bisa jadi ini saatnya kamu belajar bahasanya! Coba dulu kelas gratis dari Cockatoo Cours",
-      "u": "https://www.threads.com/@cockatoocourse/post/Dfr0LdJI2kI",
-      "d": 1794579072000,
-      "urgent": false,
-      "warn": false
-    },
-    {
-      "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
-      "s": "threads",
-      "a": "@vinadigital_creator",
-      "x": "Kata mamah mah, jangan pelihara mental GRATISAN. 😌 Minta ebook gratis, prompt gratis, kelas gratis. Giliran dijual 20 ribu bilang MAHAL. 😭 Lah, emang kreator bikin produk nggak p",
-      "u": "https://www.threads.com/@vinadigital_creator/post/DfrzE6wE1qV",
-      "d": 1794578494000,
-      "urgent": false,
-      "warn": false
-    },
     {
       "t": "webinar|seminar|pelatihan|kelas gratis -berbayar",
       "s": "threads",
@@ -28046,10 +28029,30 @@
       "d": 1794614484000,
       "urgent": false,
       "warn": false
+    },
+    {
+      "t": "beasiswa dibuka|pendaftaran",
+      "s": "threads",
+      "a": "@thetriple_el",
+      "x": "ini list 100 beasiswa buat warga indo, detail informasinya ada nama beasiswa, negara, penyelengara, jenjang, cakupan dana, persyaratan umum, kelayakan pelamar indonesia, persyarata",
+      "u": "https://www.threads.com/@thetriple_el/post/Dfs3VjrE8IZ",
+      "d": 1794614282000,
+      "urgent": true,
+      "warn": false
+    },
+    {
+      "t": "e-sertifikat|sertifikat gratis",
+      "s": "news",
+      "a": "RM.ID",
+      "x": "Bidik Investor Global Ara Ajak Dubes Terlibat Program 3 Juta Rumah - RM.ID",
+      "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOU54alI2SFFvcHV5M19BYjlQemJudmMxVWlGSUJGeFlVM0c2bHJtaXdIaFM5bjVuendJTlVhQVJyZTZ3bGwwTnVFRUJUVjRESWplTFoybXRoelFpSFZlVm8wVTM1QkxHaXh1cy1INGxoZmJxSmFDTXhpX2JBd3ZXN0FnVXJOQUJXQUZoWDBuTUhoZEpOZHNlTlFLc0lYb1NKcXBoRnZjd2JVN194aERYRThxZ3hhQ29y?oc=5",
+      "d": 1794614400000,
+      "urgent": false,
+      "warn": false
     }
   ],
   "lastDigest": "2026-11-12-19",
-  "threadsCursor": 15,
+  "threadsCursor": 25,
   "trending": {
     "on": false,
     "last": "2026-10-15"
